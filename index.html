@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; script-src 'self'; style-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'" />
+    <meta name="referrer" content="no-referrer" />
+    <meta name="description" content="Latest OpenAI and OpenClaw headlines." />
+    <title>OpenAI + OpenClaw News</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header>
+        <p class="kicker">News Feed</p>
+        <h1>OpenAI + OpenClaw</h1>
+        <p class="subtext">Latest stories from Google News (OpenAI and OpenClaw)</p>
+      </header>
+
+      <section class="panel">
+        <div class="section-head">
+          <h2>Latest Updates</h2>
+          <p id="updatedAt">Updating…</p>
+        </div>
+        <div id="lists"></div>
+      </section>
+    </main>
+
+    <template id="topic-template">
+      <section class="topic-section">
+        <h3 class="topic-title"></h3>
+        <ul class="news-list"></ul>
+      </section>
+    </template>
+
+    <template id="item-template">
+      <li class="news-item">
+        <a href="#" target="_blank" rel="noopener noreferrer"></a>
+        <p class="meta"></p>
+      </li>
+    </template>
+
+    <p id="error" class="error hidden"></p>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

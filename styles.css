@@ -1,0 +1,148 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --bg: #f6f7fb;
+  --card: #ffffff;
+  --text: #101828;
+  --muted: #4a5565;
+  --line: #e4e7f1;
+  --accent: #3b82f6;
+}
+
+html,
+body {
+  margin: 0;
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  color: var(--text);
+  background:
+    radial-gradient(circle at 20% 20%, #e9eefc, transparent 40%),
+    radial-gradient(circle at 80% 60%, #eef7ff, transparent 35%),
+    var(--bg);
+}
+
+body {
+  min-height: 100vh;
+  padding: 24px;
+}
+
+.page {
+  width: min(880px, 100%);
+  margin: 0 auto;
+}
+
+header {
+  margin-bottom: 18px;
+}
+
+.kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  font-weight: 700;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+h1 {
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  margin: 0 0 6px;
+}
+
+.subtext {
+  margin: 0;
+  color: var(--muted);
+}
+
+.panel {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 16px;
+}
+
+.section-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: baseline;
+}
+
+h2 {
+  margin: 0;
+}
+
+#updatedAt {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.topic-section {
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.topic-title {
+  margin: 0 0 10px;
+}
+
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.news-item {
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fff;
+}
+
+.news-item a {
+  color: #111827;
+  font-weight: 600;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+}
+
+.news-item a:hover {
+  color: var(--accent);
+}
+
+.news-item a.disabled {
+  color: var(--muted);
+  pointer-events: none;
+  text-decoration: none;
+  cursor: default;
+}
+
+.meta {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.error {
+  color: #9f1239;
+  text-align: center;
+  margin: 12px 0 0;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  body {
+    padding: 14px;
+  }
+
+  .section-head {
+    flex-direction: column;
+  }
+}
