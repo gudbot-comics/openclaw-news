@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self'; script-src 'self'; style-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'" />
+    <meta name="referrer" content="no-referrer" />
+    <meta name="description" content="Contact OpenAI + OpenClaw News by email." />
+    <title>Contact | OpenAI + OpenClaw News</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header>
+        <div class="header-row">
+          <div>
+            <p class="kicker">Contact</p>
+            <h1>Email</h1>
+            <p class="subtext">Your email app should open automatically.</p>
+          </div>
+          <nav class="header-nav" aria-label="Primary">
+            <a href="./index.html">Back to News</a>
+          </nav>
+        </div>
+      </header>
+
+      <section class="panel contact-panel">
+        <p id="contactStatus">Opening email composer...</p>
+        <div class="contact-actions">
+          <a class="button-link primary" data-contact-link href="mailto:gudbot.comics@gmail.com">Email gudbot.comics@gmail.com</a>
+          <a class="button-link" href="./index.html">Back to News</a>
+        </div>
+        <noscript>
+          <p>JavaScript is disabled. Use the email button above.</p>
+        </noscript>
+      </section>
+    </main>
+
+    <script src="./contact.js"></script>
+  </body>
+</html>

@@ -36,6 +36,13 @@ header {
   margin-bottom: 18px;
 }
 
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+}
+
 .kicker {
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -53,6 +60,25 @@ h1 {
 .subtext {
   margin: 0;
   color: var(--muted);
+}
+
+.header-nav a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--text);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.header-nav a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
 }
 
 .panel {
@@ -133,6 +159,51 @@ h2 {
   margin: 12px 0 0;
 }
 
+.contact-panel {
+  display: grid;
+  gap: 12px;
+}
+
+.contact-panel p {
+  margin: 0;
+}
+
+.contact-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.button-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--text);
+  background: var(--card);
+}
+
+.button-link:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.button-link.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.button-link.primary:hover {
+  filter: brightness(0.95);
+  color: #fff;
+}
+
 .hidden {
   display: none;
 }
@@ -140,6 +211,10 @@ h2 {
 @media (max-width: 640px) {
   body {
     padding: 14px;
+  }
+
+  .header-row {
+    flex-direction: column;
   }
 
   .section-head {
