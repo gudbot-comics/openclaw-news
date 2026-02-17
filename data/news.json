@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-02-17T18:08:43.888879+00:00",
+  "generatedAt": "2026-02-17T19:57:24.908616+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Debuts GPT-5.3 Codex Spark for Fast, Focused Coding on Cerebras Chips - extremetech.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWFfU1gzZW95MWVUTUE0NTI0ekRpQVZ5V1dsdC1uNGJYZmozNFc2XzBOR0NNZk9Udmx5dk91YWF6eFlzZVlJeGc3NW0teGc5MFR3N1VrU0JmOFdzMW1SZWtGUWxfUnd6eTR5ZU9uTlRwQVBhSy12bzl3eVZhbUc2OV84UXY3eFBlQUtXMHlETUgwNGdsQV9rQnh4MXVOVl8yb01WSGJMSXdxTVVyeXJwaXRB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-17T19:30:34+00:00",
+      "summary": "OpenAI Debuts GPT-5.3 Codex Spark for Fast, Focused Coding on Cerebras Chips  extremetech.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei admits his company struggles to balance safety with profits - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1B4NW02TWlfTlBMNEdHX1JEVjRBUmhvU1pMY3gtUEFNNUVKbDg5Q1d3ay1NQkpZamxMSFFBeS04d3RMbEljcDRMUWM2aGxySkxRRF9FMmVQNW53bHdxNEduTnphUW44d0tJajZIUU5HbV81YWtyY1ZRT0FodWFjZURxYzQyMnZiOEFsQWxKcnpNdG9XU1MtcUkxWXAtcDhJdkl6OUdwZUhOV2J3VVRN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-17T19:25:00+00:00",
+      "summary": "Anthropic CEO Dario Amodei admits his company struggles to balance safety with profits  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Eternal Announces Strategic Collaboration with OpenAI - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVk9sbGxQdGp1TlVER1RnM0ZIZDN0TDZ3eWhWV0RvUFItTHBxYlU4WHNsM0R5alVrZXBqVUVCU0x5VGNfY194Ty1PZkJNOVdNRHUySUl0Q0FtQnZCdW9MMGlXeDJTVjBsZGdfR3dvcFk1V0c1YXNEYTBiVEJGdVBCZjRMNmpGUzJtOElCdlNrUkZkQkFEdlc0NnQ3cmJ4c0p1S0paajJJOGZPUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-17T18:35:54+00:00",
+      "summary": "Eternal Announces Strategic Collaboration with OpenAI  marketscreener.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw creator Peter Steinberger has joined OpenAI to 'drive the next generation of agents' - Shacknews",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHRkc1Q3TjFBcTFEbTFaMzZPNE5WUzR3VHpwWlNtcmNnZEVlU1NSclVSNnRVYVFtbUZnVWNtR3FncVJqdHVDdjdxUWl4X1dNbHYzRHpFTExEMFlWQ01lWG5RRFRaVzFXTXIzYUtmaXpHdFZKcjAwVTV0bUotb3J3MU03Wk5WNmpyS1Npby1KUUt5MFpuN29GeDh30gGmAUFVX3lxTE8tdXItYlRtNXBfOTVqc1pGQ0ZqNDNxN3VZUWhxUF91c1FFOERNblBDSkh3V0pFd3JJZzRNYVh0eFJETGFENm1VSGRUTlFaa2tfYnVDUk9lWXVuaDZrRWpTZDFXS0dOMk1Uc2Vtdkc3TkM3WERSOExwaW1lcGZPTVhmUkt5aHBBUDVmLV9Yb1hOTFd0Nl9ubE9ocjFfMGZTMmZDclhSSFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-17T18:33:00+00:00",
+      "summary": "OpenClaw creator Peter Steinberger has joined OpenAI to 'drive the next generation of agents'  Shacknews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Introduces New Safeguards in ChatGPT to Prevent AI Prompt Injection - eWeek",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUdPOV9ZZ3lfUkgweDBCUS1pc2V1cE80clBDc2dpZS1rQWVad1hFUVRuNVNsVENsTk9yVzlIRDl4dW9HZmg3Tk1LSFZla0lIczJnc2hoVEJMVXRieVI2b215NG9sZFNmTGVBNmVISkJhdzNtQUloSG9EZXN3Q1ZOb21tbUZpRXRY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-17T18:19:22+00:00",
+      "summary": "OpenAI Introduces New Safeguards in ChatGPT to Prevent AI Prompt Injection  eWeek",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic Ships Claude Sonnet 4.6, Tightens Race With OpenAI - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTZOU2kzOEtENzZvQmhRY1VGb0t0cHhjRy16WXF4MzhqMXR2OGdnSjhNLWVWR01wbGl3aTlybHk3bE1iSE1OT0FWbHIydlp3dmJGckgxa0lMTDFRNDIzdXFMNXU2SVE4SFc4M0ZJVUl6S2xpTFJnNldjQ2l1ZUprUnRmcmpSVW85cm9HUVVyN01fbWhYaFBV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-17T18:12:00+00:00",
+      "summary": "Anthropic Ships Claude Sonnet 4.6, Tightens Race With OpenAI  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "More than 20,000 sign a petition for OpenAI to resurrect GPT-4o - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQjQzY2J4dkJNeDF1Y0RFNktkMTJaeWg3V0M3Ni1IQ0oxekhtU01xRXZMaGRxQk9iRFAyRl8tT0lEV19TdmZRN21la0JVV3JXajVONTBnX1NTVUdIT1c2VXgzY1JBUFg3NFhhSnR3bTVQcG1mSmQyWVJpRzBoSnNWSXlWY0Z2eWtzT08wQlR6ZGRoNlU?oc=5",
@@ -33,11 +87,38 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "OpenAI Academy x NxtWave Buildathon: Maharashtra team wins India’s largest GenAI student challenge at India - ET Edge Insights",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOd0lLQWkyQnZLTjRVaFJ3UTR2ZWNaQTJtS1ZjWVlMbGJlOUJTUW1XTERYUm4wUDUtSmw4bzRsbUFNbXc4QXhoSXBjU2VQUjlRT3dDVk1OZlNDZGJjNFk2Nk4yZU4xMzIyUTNkUVdVRDZEX05UdDFKNS1Ta0JOWXVKUDZpczNMU1VOazRIS2NnSVlBZ09OZFU3clRnR1pDVmFEVTAzbmpNZDJxcXJaYWYxc1ZaUkRvay1IdjRwcFlWNktNV1o3dkRsTGxvRTZfN1JCclEyTmxhWTdEMEJtVjhCUlozOTZsdmNkSTZhSHZ6WWhXeDFuM3hpR0tHUXd0RGZuelpZaNIBigJBVV95cUxQR2dQOXZreXNQVVhnOTBEclFQQi1YcWJuczY0cmd3d191bWhXM01UWUl4ZVFpbkJzdFkwa2t0YnBrN0xHdVlqMG5ZbWYwb3J6WWsxNDVqN0RLcjBVUldUQzZCeEpnX1VIS3hSeXRHRG5ZeWtYazN5eVd0MzdiZjRZeGxyRWsyYUZEMWFwVE53dkhuVUZaUkx0UHo1NkZ2Wl9yOFVzaEdpM2xRMjdEb2tKZFhLTDRCXzY2dlVpczNfTnBTOFltT29oOUdqRGg2TlE2SXYybGc2dUFtaVdNN194N1cwSXVYb0xPRi1WcTRKdHpTa1ppUVg2cTZWU01zMmZYVEZBTEpQeDJVUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-17T17:46:54+00:00",
+      "summary": "OpenAI Academy x NxtWave Buildathon: Maharashtra team wins India’s largest GenAI student challenge at India  ET Edge Insights",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI, SpaceX and other IPOs could break the S&P 500, Jeremy Grantham says - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNNzJ0VmpFYzFQVFZ5elBXQVRmUUpSaGptZHdPa2hnREloZVRkTjBONk5uajFRSjNrVVFLcUt1aldfTHdFXzdpY0ZIcmp0YWoya2hERkVFel9sTTBlMU1rNmZuZ2loVjUyTnViVnlUUzgzc05XVDVka2VFdGEzUTl6QXJ6SXFObjllVXk5dk9LaEtxWm9TR1hNOVVZV2kyRTA4aGZhSHVocUNTWmw4RVU4eXM5eGJwbGYxWFRpbldmVjkyN096eG9DYm1mWXFfeldBNjM2SnFCOXZoMFhKbHcxd0VZRTZoUjBrekRiZk5VSUloUlFxdmtxWGFzQ2h2YmlQQzZqeTdQWkRWcGlVWEl2emU2eTBGSXJtcDVrOFVTM2tJUlFDUkFFbWF0YjNudDI1dlltQnFUQ1lSSUtVZVFGcjVpbU9BVWx0SXRLSE9WZGlrcGY2bHo4TzVXTzIyRU1zNVJlUndKRVl2RVZqcVFjaUtudVJPRGNrWUk4NkZ0WVk3OG5UaFQwc2l3VzRkaVIzcm9MNnFmTE5kb3N6UkxNTmFJd0tmN3FldmRRdUtsT2pwc3Z2aThrdWpLQ3Y?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOb0hTYXdiYWRIZ29xeUlFcm1QS2N6VldBWEtPOHE2U29teFpVZ1JhY2UxZ2RNY091cHNJX19WMHZBS2NrRHNBMWN2a0FDX0puRmpPOWxka1V3TXI5MHlDYXZ0cWg2QTUzUnVaZTFiSEUwZElnc1E3YWpxc3F1Vnc0dzFOcU9fc21GZHI4T0c5TXd6RXpmWXJibkczVXdDT21BVWF2QnQwenJTRGlySUpNQkkzREhyREV6bGdFZUJ3ZVZnek9aU28yYTgzSk9EQTRXNnE3VzZFcmhVRjF1Tks0Zi1hVU9OdEFtR2JvWWdFOG9EVVdCNkR3THlFZzA5eEdFUWwwcXJRQk96VDBQTzB1SnJ6ak9sOG1Na1JXa1lmdlVuMS1uRThwc2o3SnVRN05pRk9uR2JTMEROS2IwcWNZTEhLa2xkZmtUaVFrRGY5SkN6eGJ1bkc3dXF6Z0YyOWo5SHZLSWVRc2tOZkdLNDlKWDhwYTZULWRCeTRXN1BjaVVJWWNCQlptZl9GZUx1TWxJVmh0LVQySko2YTg5djBJQlhPUDZhdXVpeWFxOEg2aF80U0RkeTNialNRVHA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-17T17:46:00+00:00",
       "summary": "OpenAI, SpaceX and other IPOs could break the S&P 500, Jeremy Grantham says  MarketWatch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What OpenAI’s OpenClaw hire says about the future of AI agents - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZHJFOHUzQmk5V05PZjJWVzZKa0RSa2EwVHd3X0NwdjZoQzJtRjNUWktVZEE2VFkyWWRkRWJ3UjgxU2lRdTB2LVJ0c0FVcU9uMXF2ajhRRVJwaVM3RVp2QkVXQmxIMmlaMmY2RFJmX0Y0U3BtZndpVW55YWFwb1cwT0FWb1ppeXdpZXN2UTFrYm9Pck9UX1pyMw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-17T17:40:00+00:00",
+      "summary": "What OpenAI’s OpenClaw hire says about the future of AI agents  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI blocked from using 'Cameo' name amid trademark lawsuit - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUFItNm9kVDhvVkpnanM4SC1qeEdRbk9xV0dmSExiQ29vMklfMVFCNzl5bWpKb1BNTndrYnBZOG10SmVWN1FlUC04UlpUU3pLVWgwQVNLdWp2d0RqbWpKM3pCSzMwNmszcXdtYnczNEl3Y2oyMUxPNFh5Q0RKZUgzaGx2T2dOVno3LXF4U0EtTjY5TFZZdVp6ZDNvNnRzY1lucDRNNGtiNThxbmNFU1hkNlB0cDRJdWZxNzBfczBlMDU2cjhsWlJ1RQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-17T17:35:45+00:00",
+      "summary": "OpenAI blocked from using 'Cameo' name amid trademark lawsuit  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,15 +168,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI blocked from using 'Cameo' name amid trademark lawsuit - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZkxCLXNVSEEtM0prRkdNdkVsVG9WZExOcm5yZnpJNDA0N1dsS3Z2a0tuN0lRWnNXb2t2MGhkQ24xSEMtNzVmdFF1cTNmbkxQeHE4TUNjUjBiYWJLS2thSm5DZFBMT1BhUnVPN1E0NGEzaWtTSTZ6Z0tLNUtzeHJuSS1lbHVHS3pFYU43UnZOWE9qN0M1Q2FCMXQyMERJTlFMbGlXakZhemg4THVWWnRuR2loNzV2UE1oMTBPTTlLLW5kVmRiUXBtcQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-17T16:31:01+00:00",
-      "summary": "OpenAI blocked from using 'Cameo' name amid trademark lawsuit  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenClaw AI agents targeted by infostealer malware for the first time - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0JfNkRyUlpMNzA2d1BxUWcxVUd3THEtTjI2VXFpdnZnWFVrR3l6S01Rd3VWc19rZXgxRXRsS0N5X2hRdmpMY29hUjdJZkRKalVxbG85cEVLakNiakNBOHlLcHFSRXdpX0xmQkV3RTIxcUNNcWQ1anVNZVJwX0tBcy1iSHJIUGxBS2NTOVdVc3Rlb2Rza1ZOQlItNFFvMG1oajU3TVhfQjhnNGxR?oc=5",
       "source": "news.google.com",
@@ -132,11 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI Agent OpenClaw Puts Raspberry Pi Shares on Investor Radars - Bloomberg.com",
+      "title": "AI Agent OpenClaw Puts Raspberry Pi Shares on Investor Radars - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0tiTWxyRFRxYmJFNi1xVmFkbmxNc0pNWWNUTDZKSkZtTnIzcmptYkdzRU1QN3c2OWZzVFlWXzB5N2RQSDBTXzNlWmdDSHJTcEZkZTJITDFJRFI0cWZwT0tRdVk4MnJqN194ZUpvZlFpVDNJbV9uMS1sa1BLTDIteVlVemlwalZuTzUtWjAzSDJZXzJKdXBMQmZXTkJoOXFIb0dyWjJMQXdzSGZCTTh0NXJn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-17T15:43:19+00:00",
-      "summary": "AI Agent OpenClaw Puts Raspberry Pi Shares on Investor Radars  Bloomberg.com",
+      "summary": "AI Agent OpenClaw Puts Raspberry Pi Shares on Investor Radars  Bloomberg",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-17T15:41:22+00:00",
       "summary": "Kelly Rowland Joins QuitGPT Boycott Against OpenAI Over Political Ties  EURweb",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amigos For Kids Selected as OpenAI Ready Award Recipient Through People-First AI Fund - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWUVpblJKU3FzNmJpR3hadWhtM3RyLWQxel9yeXJnNVNWaU4yUzg5YmEyM0t3aG0xR3hoYV82cDU1RHQtTzY1MGdyRUxnZV9GQ00tdWF4bjN1VThEaGV1cTVoMVQtZkxUdEpaUS1HR21BSjRMR2RVelNMci16NXRYTXRNYWhkUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-17T15:27:00+00:00",
-      "summary": "Amigos For Kids Selected as OpenAI Ready Award Recipient Through People-First AI Fund  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amigos For Kids Selected as OpenAI Ready Award Recipient Through People-First AI Fund - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZW9IbXNBbWtGQnJic3lXLTBSOW5xMkd3OEd2bFVJX1JlV0xNVnJkcWxaNUtGTXFhWXlVTkI0LVR3M01oNWNHelRzSkpOMHRpMW1TSnd4S2lKLWpQVDgtcFItQ0ZPc19jbWFYek52dXVsbUlFWW5Bc1c5RWxCNDhFMlJrV1REOFpLdjljdXpuSGkzVUVrcjJvMnF5T1ZuZ3FmczNaWTdSbWFadEdTckxROTlpam9XYkZONkhsVE1HVTVaT3JtQk1EX3NvaUUzQzB1R0FQbFBJTTdoOHpmZzg4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-17T15:27:00+00:00",
-      "summary": "Amigos For Kids Selected as OpenAI Ready Award Recipient Through People-First AI Fund  Morningstar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Authentication Under Fire: Why OpenClaw Needs ZTNA and AI>Secure Protection - Security Boulevard",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX1RrZGQ1bDk3M2RyUHlXMjIxRzZ3Vk9qT2FFMDRfTDdER2dpWUQyZ1N5a1ZQX05aakJtVzQ3RGhjaGp5R0VvQVFKVjlFMHFEM2w3T3doVndXc1YyQVUyeGtsRW8zYkdoYVJWTTBmeDFPMFB6VkRlbTI1RGRpMzAteEVDdWVqQWJzbFhGc3FDemZ1QlV4Y2o1LTlWRjRqRGJBWEpIRDNncjNHdGxFYVRoYWJn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-17T15:11:02+00:00",
-      "summary": "Authentication Under Fire: Why OpenClaw Needs ZTNA and AI>Secure Protection  Security Boulevard",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Introduces New Safeguards in ChatGPT to Prevent AI Prompt Injection - eWeek",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUdPOV9ZZ3lfUkgweDBCUS1pc2V1cE80clBDc2dpZS1rQWVad1hFUVRuNVNsVENsTk9yVzlIRDl4dW9HZmg3Tk1LSFZla0lIczJnc2hoVEJMVXRieVI2b215NG9sZFNmTGVBNmVISkJhdzNtQUloSG9EZXN3Q1ZOb21tbUZpRXRY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-17T15:02:45+00:00",
-      "summary": "OpenAI Introduces New Safeguards in ChatGPT to Prevent AI Prompt Injection  eWeek",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Homes.com launches AI-powered home search with Microsoft Azure OpenAI - HousingWire",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1UDZHZS1nTW9BREt4VkU5QjJGZ185WG1yS0V2SDF1ajdTUjdTTmdRYzVtZXIxaC11YjdfZV9odXZhaDJwVndBWldhOFZNRXlSaHQ3R0x1WmlUY2cwSVdDc2hxejdWYmVyR3ZkQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-17T15:01:16+00:00",
-      "summary": "Homes.com launches AI-powered home search with Microsoft Azure OpenAI  HousingWire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI hires OpenClaw founder to lead personal AI agent push - National Technology News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSGJCdFpjWjg5Rnl0TlUyNUtXbnlNRmVJQ2JoWldWMkJPRm5pN2wzMWR5Q1BWVFdhVlo1Smc2S3ZnWmQ2NUJjYkxZbjJzVTlTaFViSjZqdDNsUzFxcFJIUEp0UUhmOU0xRUhGM2JQR1o3bFlqRXZaTzcwdEFFNnR2Vm9BYzVqelNmaGtpYURvdVRUQ0xwN0M2dDlnVjMwZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-17T14:27:26+00:00",
-      "summary": "OpenAI hires OpenClaw founder to lead personal AI agent push  National Technology News",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "2 Stocks to Sell ASAP as OpenAI Roles Out Ads on ChatGPT - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWZMMXM2c282QVBFV1g3Ujh5dFFXRG9uOXpGMkN5RFF4aDVpNHV5YjYzY184X3dkdHdCa0NiekpCZXBra2dlbVotcHJwdmZqMThaWDRUcC1qYlRJUlFqSldWTzRJNlNRZ0N5d3JSTzBSSXJlaWp0SVNDVHFaSG9qSXpoaHZLeGozd1NhYS1wMktFYkZpZW04MzNORnpZLUdf?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-17T14:00:02+00:00",
-      "summary": "2 Stocks to Sell ASAP as OpenAI Roles Out Ads on ChatGPT  Barchart.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Google CEOs Head to India for High-Stakes AI Summit - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmprcm8zVGNzX1pSQnVIRWJJcWlxeUUwMUtKaFYxWDVnUnpSSEE1YjNETk1hZE1iUERqRV9DeFdjeFhES3hrbmlLaUM3cnVabzZCeUVVeU82NWFTVEQzaEJ2Z01tMU9nbkRfd2V3THBqakNLTWEtUHRPcUpwUEtlYjVyTGNaSHhNNm43SFhpMDU1TF9BMHVIZmtEYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-17T13:42:00+00:00",
-      "summary": "OpenAI and Google CEOs Head to India for High-Stakes AI Summit  The Tech Buzz",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
