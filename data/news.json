@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-02-18T23:04:08.674764+00:00",
+  "generatedAt": "2026-02-18T23:59:05.215377+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFJhdE9kX09Jc2pnMWhxbm40M2FhWG9FdWM0MUVBallZT0ZVTGttTnhxV0V5b01pTkJEY2F6eUFLeTY0VmRxRi1pcWNuVXg2QWQ2V0MxR25oWmNYNTEtbldKc2xCZjRLWkhob3Q5OWFwc2xHS0pCSmdnS0dHaFBpVllCcVFsTWxodEVUTDU4NC1xY0hMS3hJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-18T23:08:27+00:00",
+      "summary": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Smart Contract Security: Revolutionary EVMBench System Transforms Blockchain Safety - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTd0T2NaXzlqeFRZWE9jMmswNHBrckQ5V3ZBSDUzYkt0RW1uUkQ5aVl0QTBtTW15Wi1TYXBmWGF3d1dOeS0tOVBoQ2tIWC1NNWFfak1tSVdneklmU0dPN01fc1ZWNFU1MzBUTnJfZzRDNXpvX002RHhZMUxnVVNVdUlVUUtmZw?oc=5",
@@ -65,15 +74,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-18T21:28:00+00:00",
       "summary": "With Figma stock down 80% post-IPO, investors cheer solid customer growth, ties to Anthropic and OpenAI  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Humble ISD signs deal to pilot OpenAI ChatGPT for teachers - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckEwUy1XX0NRTFdDQUtXaVpaWl9NbnZ1RWlrZF92OTRubHNtaTNpSUlOQWtnOXBnNXNWSXFLU3N6dGFuZVhvdmpUMF9hbzRrSEktbGdwRHNaVVN4cWQ5OWJ6VmJiUDFYTXIyVzJ6S0dwOXRXQWZsTWdzTGlXb3JiT0pneDA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-18T20:54:58+00:00",
-      "summary": "Humble ISD signs deal to pilot OpenAI ChatGPT for teachers  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,6 +150,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Introducing EVMbench - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05X1djTFRXVlRxNXRZNEpDRDNZNXdQTTRLUG5NaDlTZEdrNFZTZElwVk5mbWw4RUZKZzZCaXUydVE4X3Iwd2VKM0UtR2swUXJlRDBzSmhXZkE2dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-18T19:11:44+00:00",
+      "summary": "Introducing EVMbench  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Poaches Instagram’s Celebrity Consigliere to Lead Creative Partnerships - The Hollywood Reporter",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXy1FQ2hZZ1pFdzdPQWozZk9VMEh4N2U0SFZVOEpJYXBvbEQ0NXR4U1B4a3pVV2NsdnRBTFNjTExzclFJNk9ZOC1vT092Zk5BbWpDOHFxdXVUTGxHaXF5aXV1TUJ5Q0J1R0RpU0x6dkFJZkJXTTFTS0hrTnF1anc0UUNaU1JRZUFoazU2STc1bTdOVi1JLUNsNllLREtXSERCUXVXU19sZ0FyTmUwdC1QYmNUbnlfVU1p?oc=5",
       "source": "news.google.com",
@@ -182,15 +191,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-18T18:51:31+00:00",
       "summary": "Microsoft Locks In 20% Of OpenAI's Revenue Until 2032 In High-Stakes Strategy Shift - Microsoft (NASDAQ:MSFT)  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI blocked from using Cameo name for its AI video features - The Daily Gazette",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUlFmbzJabHZGZWk4Y241b3Z1RFdLTjVHME1GcHkzbHVIbHl6QmtUYjdFQ3pNT1Vwb2VtZlZXV1U4dzZnMmxZblZnUWV6ODNTNTRhSEZZb3R5X1ZOUUdkQkNFTHNseUgwdEl0clliN1VpenRtaUZRcE1XOXBTYk9HVU5wYnVxNDRUVzMzc3lFMGhPNHRWY3JqSm5FQjZGcXRCampKUVJXY3JPanU1TFkyWlpZeGgxa1JmaEI0NU1QTGpLUzJYNzlkUnZLVjFhZmRGU2JEMFlJOHFLMFJHbktQM25uZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-18T18:49:00+00:00",
-      "summary": "OpenAI blocked from using Cameo name for its AI video features  The Daily Gazette",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
