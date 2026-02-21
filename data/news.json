@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-21T11:42:41.800163+00:00",
+  "generatedAt": "2026-02-21T11:59:13.125899+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -38,6 +38,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-21T10:00:42+00:00",
       "summary": "New data from OpenAI shows consumer ChatGPT users are shifting away from work tasks  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI staff debated alerting Canadian police about violent ChatGPT logs months before a deadly school shooting - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjE2WVJKTzZkWTF3OFY5RGdYZlNlb3Raa0Y5YUhQdFZQQzRBcnRXVVNaa3RGZ1FjQ1hxaHR4U3lfTGJBY3RHMHh6ZEZCU0RXdnczcFpzZFM5WjdUOWFUTkJmLWRUNDhiM3Rfcm82ZzFYdWJPSnYza1VZWTNKTUcteEdkcHA4YTZ4VXYwM2o0S1hRV2RwdlAxbkZiSDNadVpZOE94bE9oanVEdXV4VVJ5ZHU3eEh1V2pKanlnSnRLZk5YS1BMVkpOUm15azJRa2d1WWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-21T09:07:05+00:00",
+      "summary": "OpenAI staff debated alerting Canadian police about violent ChatGPT logs months before a deadly school shooting  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,6 +141,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "ChatGPT’s parent company, OpenAI, banned Tumbler Ridge, B.C., school shooter’s account, mulled alerting Ca - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPbnVnZ3ZTbGllVEdEcHpXX2NTNF9aYU9tZ01vLWhaT1M2S0Y0WHBhbi1fdXk2LVdSUjlDbXVjcWtMNW5QQm9CdERwWEJFNTFmdEJpd1c5dWRFOF9ON1FDQnE4VXlsSDdzdEhHdDlZSHVTLUlwM3BWTlFxM2xIY3o5QkJZSkJzMk1VbEhNRmxuZEVzVTkwOERDdURTOGRFU0RHdEl3ZjdhamJZQUlsWmdVdWl4eFRkMERLYkNkYng0M2sybUw2ZFFVV0FDaFhiYjhZcjduRFhpV0hvMWUySUM3VnFNemRLYXNqOTBMS25sLThtT2Rid21temtMVHdNeGo1ajMwTlpFdGZpNHlyN0dXRkt1azlNeEtOdk1LWERnWEFvTFdpU0pyTFdEbkZ3R0NTM2tiaThQNk83N0NLaW5lTDVhUl_SAcoCQVVfeXFMUE1KdjRVcUl4STZOaFBqVGpXUEZOUkRSeHd5TkJaSVlpZ01TdHpLNjFlZTBKelcya3NCMFVQckVVTjF6S3FtSmFaZlRjeWthcEJaR1puUFprNkQzWjNoUEs4WmdWZkRvZzh4Wm5yYThTUWRrS28ybEpYTkw4SWxTWjhmZ3pyejVHdklCU3psd2VrUVFTUFU4b0hCYnJfS1JXdk90a2taUUx2a3o1OFdiLXA2X1JUbng3N0k5YnhOc2JGekNkNkdPY3g4OVJ5SzV3V0c3UGwzdzdxNVBXNy1jSVpTOW11aC14ODdmZEI0ZjZnSV9iMU4xU0dPejNkZUVMYmdFWlhYMzNsclFjWFBCT202ZkpBdDhFckIwRS15VzViU2x5QU5ILUlCZWFqSWtQcUhEVTZHb0dBdWxLTnp2d1IxT3NIMDM0QmFR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-21T06:41:59+00:00",
+      "summary": "ChatGPT’s parent company, OpenAI, banned Tumbler Ridge, B.C., school shooter’s account, mulled alerting Ca  The Economic Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI projects US$280B revenue by 2030, plans US$600B in spending - digitimes",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjh2djZHbmg2VHJud1VZLUFlS0VzanhHUFp4OHNNX2I2RUxGTy1INW9qclBxdkNzNzJiQ2xEU0VkaHFnQzFlWDdvSkNUR3dreFVWZ09zY3FpRWxfZjliOWJtTEVmRXlHNzBzMGY3cE1OMXVjbHZ5dGdPMmc3U3Iwal84SGFrc2JqNHl6aVJQOVg?oc=5",
       "source": "news.google.com",
@@ -141,20 +159,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia stock price (NVDA) in focus after $30 billion OpenAI stake report, with earnings next week - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWh3ZnpCUThtckFySEhTRzJtN0dmWVpqOE5ERUs5b1d0SF9fdjBKdzY1eExuS1U4aXVXREYtejdSenhRVmpHTXlLV3NHNGpuS2hTcWU5NEdRWC1mUzByZlVrRkxXZWpsOFVqeEZLdFJjU0dJYUFXNXFmMlRoTl8wSmV1Vjk2ZUF2dzF3NzF5akgwc2dSVnlBZDE5SjlJMTdFUXl0OVBBR1AydmxKWlBhdWY0LVY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-21T06:30:21+00:00",
-      "summary": "Nvidia stock price (NVDA) in focus after $30 billion OpenAI stake report, with earnings next week  TechStock²",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Miami-based nonprofit Amigos for Kids wins OpenAI Ready Award - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWw3WnZScnItZU5wdm1UN3VVLWZJYXZnRElpYU8yN25aMVI5TEVDY0pIR1dBcTJ6ekwxcHZzZW1pY3JodVY5eVBvdzF6OEllSzBzdnQwdVBsY0lqczNXUE5DXzNiTWZPSHdrTjVHRXZrM1p3TXV1WE1ad084UEVlZVN5aw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-21T06:04:13+00:00",
       "summary": "Miami-based nonprofit Amigos for Kids wins OpenAI Ready Award  AOL.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia stock price (NVDA) in focus after $30 billion OpenAI stake report, with earnings next week - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWh3ZnpCUThtckFySEhTRzJtN0dmWVpqOE5ERUs5b1d0SF9fdjBKdzY1eExuS1U4aXVXREYtejdSenhRVmpHTXlLV3NHNGpuS2hTcWU5NEdRWC1mUzByZlVrRkxXZWpsOFVqeEZLdFJjU0dJYUFXNXFmMlRoTl8wSmV1Vjk2ZUF2dzF3NzF5akgwc2dSVnlBZDE5SjlJMTdFUXl0OVBBR1AydmxKWlBhdWY0LVY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-21T05:59:00+00:00",
+      "summary": "Nvidia stock price (NVDA) in focus after $30 billion OpenAI stake report, with earnings next week  TechStock²",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,38 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI had banned account of Tumbler Ridge shooter months before mass shooting - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16bTl3REZvVmFTNnhEdmg3OV9lSDduZG16QmJZeDRkTXlneGFHY1JZYWx1aEdSN2pLT0YyQjNWaXBWS2F5X2JFS3ZjR1JMRDFNLUNGTjFKajZXSW1HeVRMVDRrS2xGTVh2VUZXZkQyT2pudVd1cFp2bzdBVEdPU0U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-21T03:44:00+00:00",
+      "summary": "OpenAI had banned account of Tumbler Ridge shooter months before mass shooting  Yahoo News Canada",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Reveals Ambitious Blueprint, Doubles Down on Hardware Development - NAI500",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT09lY1drZGpHbGcwZHBjSmJINFUyMTJkM2ZuTjgxYW43X2tGTnJaZjllY1puem4xUFpGNnlreDk4V1dpeno2NkZraWd1b3NlbXhPODE4T0J5MkdtV1NxVUpyaS04LTd4QTd0UHlmcW9CMU4wNlRjdUN2Q2RaTjkyRHhvcDFjazR5ZlZNNkplWTZtLXpzeVdoNGRxdjhNM3RwOWxUZktNWQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-21T03:30:28+00:00",
       "summary": "OpenAI Reveals Ambitious Blueprint, Doubles Down on Hardware Development  NAI500",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI considered alerting Canadian police about school shooting suspect months ago - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGhjMTRnZVg0VUJFZjAzYjlrVHlHODhwSXg4a0lTbFJrVnNBYkxJSndlbXNKRng4VTlkUnEtYl9UeExacTJVX1dmT1ZVcG04aldTQTJzYkNiX0hPNkhrekVkNEJaVmxZOVR3eFRMQmNobURPUC1YV2dfeDZBTzFCZUxPLXNvanFYZVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-21T03:18:00+00:00",
-      "summary": "OpenAI considered alerting Canadian police about school shooting suspect months ago  The GuardianExclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago  The Wall Street…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "MSFT Stock Today: February 20 as OpenAI Cuts Spend Target to $600B - Meyka",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXBja25HWUNMQXd5VWs1MU9UakROX0FnUERPZGVpdnd2RlJhd2EzRVdMamtIMTl4dVdRWE5iUnFtSnBqaWNmVXpFSElXUVlMQy1Mc05qdzF2SHJaYUxTLWYyWV94R1MyUFJtWUl3UGF0NXc4b05ycUlHbDVEblp5dmRpdTZNS2hkd2dxN1RyeTRPMWp4UmZZQw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-21T03:15:03+00:00",
-      "summary": "MSFT Stock Today: February 20 as OpenAI Cuts Spend Target to $600B  Meyka",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Playbook For Managing AI - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNby0yajhrSVExY2IwT2c0WDRMR0V5SERMVnlBWE9jNlB5U0lLZVUyMG1aNjg5VE5lWW9KNnVMa2hQakJQR1U3aVcyZ0hBQ3Vjc0gwQjRwVUpyWHp4Y0VibUx0dmp4SWR2aVJacGp3NG5zYnZMSWQwejAzSm4tZ2NqNmxEQ0FBNzlsX0F2c2JR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-21T03:06:02+00:00",
-      "summary": "OpenAI's Playbook For Managing AI  Forbes",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
