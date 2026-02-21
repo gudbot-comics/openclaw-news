@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-02-21T10:55:44.744545+00:00",
+  "generatedAt": "2026-02-21T11:42:41.800163+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "ollama 0.17 Released With Improved OpenClaw Onboarding - Phoronix",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80Q2xURkVJSUdPS1QwbWVBaVdsRVIteXFuOXdDdW9iUUJ0UGdzVTZObUZaY2REZWpnRTNwQjJVUnhNaWNOdVAwcFpyN1RJeUNnRW5z?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-21T11:30:00+00:00",
+      "summary": "ollama 0.17 Released With Improved OpenClaw Onboarding  Phoronix",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "OpenAI Targets $600 Billion Compute Spend by 2030 - Intellectia AI",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWlkweWJDRjA0VDJuN1pCTEZsa1ZWeTlrWk1oQzhGQ2hWMTd3NEU3MEY0MUR5M0hHVVRoeUp0YmhvTHNLNGZMRUZxUnFaODl2d3dHclU2UUhhSmRfSDc1T2d5Sks2WDNrT1NDWE5NaTJjQ3dhQWx2cTZKMlVaQnVRVE13ZHhZNDYtdFE?oc=5",
@@ -29,15 +38,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-21T10:00:42+00:00",
       "summary": "New data from OpenAI shows consumer ChatGPT users are shifting away from work tasks  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI staff debated alerting Canadian police about violent ChatGPT logs months before a deadly school shooting - The Decoder",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjE2WVJKTzZkWTF3OFY5RGdYZlNlb3Raa0Y5YUhQdFZQQzRBcnRXVVNaa3RGZ1FjQ1hxaHR4U3lfTGJBY3RHMHh6ZEZCU0RXdnczcFpzZFM5WjdUOWFUTkJmLWRUNDhiM3Rfcm82ZzFYdWJPSnYza1VZWTNKTUcteEdkcHA4YTZ4VXYwM2o0S1hRV2RwdlAxbkZiSDNadVpZOE94bE9oanVEdXV4VVJ5ZHU3eEh1V2pKanlnSnRLZk5YS1BMVkpOUm15azJRa2d1WWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-21T09:07:05+00:00",
-      "summary": "OpenAI staff debated alerting Canadian police about violent ChatGPT logs months before a deadly school shooting  The Decoder",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
