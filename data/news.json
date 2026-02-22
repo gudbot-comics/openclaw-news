@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-22T07:27:22.072557+00:00",
+  "generatedAt": "2026-02-22T08:00:25.507761+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -42,11 +42,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Mentioning 'bitcoin' or crypto on AI agent OpenClaw's Discord will get you banned - CoinDesk",
+      "title": "BTC news: Mentioning 'bitcoin' on AI agent OpenClaw's Discord will get you banned - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQlZJZnY0bExtd3lMSGpHVkUtS0plYS1PRGlzbnFRWVNwclgwSGJiOHoxUjlHMGdfMTAxSFg3OWdiLUJaR09KWWh5dXdCN19BRUtfcmtmSFBCYjdKMEJISkpZVHpNT3cyZ2psbzRqMEdYZzNwZ1V4b2FuS0RFX1B4bGgtS3NrN1JoQ0pqSGNFeW1ZTlFPUncxdGNaYUkyQmQzbzFUVVRSZmZXTlNva210T0NrbmFjMXc0WkNFUg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-22T05:39:17+00:00",
-      "summary": "Mentioning 'bitcoin' or crypto on AI agent OpenClaw's Discord will get you banned  CoinDesk",
+      "summary": "BTC news: Mentioning 'bitcoin' on AI agent OpenClaw's Discord will get you banned  CoinDesk",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -69,11 +69,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Anthropic's AI assistant Claude vies with rival chatbots from OpenAI, Google and others to be the \"agent\" relied upon by businesses to independently get jobs done - themercury.com",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLXBHN0pfbF9aMmZEeWVENHR5UEhRTzBQV2RDbkpSdFdmeG1NRnRGZEMxYkluUEduZ2hLbGYydlh4d0t3SUdjWW5BVURMeEZicmNaVHNxM3ExSXVBY0NjakxqLTF3cDNsSlp2YjR5NS1CM0gtOXhJRmJodExPMHoyanlzU0VFak1XUFdNSEZUQkdrUWtQaVhhVkJ0STNrZ0dsODRPMmdDMjhqcWFmZVQtWXQzS1d6NlFjTFZZMUpOWHZLejY3WF9VUVdRVDJWRGhrSkNweWJNVWR0ZHA0NEFaYnhvQU5hUjZLRl9uTm1FM3dEaUpRUHBNbGVkWXdXQUFQUGt0TkZuZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-22T05:00:48+00:00",
+      "summary": "Anthropic's AI assistant Claude vies with rival chatbots from OpenAI, Google and others to be the \"agent\" relied upon by businesses to independently get jobs done  themercury.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Persona, Discord, and OpenAI – When \"age verification\" suddenly smells like FinCEN and Big Brother throws a party - igor´sLAB",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTdIbjktYXV4clZOTGI2cjBlNDhCVk13TnIyclVHSmhnZEpGeDNrYnhvak1NT3hIdVdHV3BuRVdfVTlMbHdtV3RSR01iY2daVjZueW5LQXRSbzhaaE1lZG9ISHdVWkZsY1RDWF9ENVpFVkFycTdHdDZpN2ZYaEFncl9jZkFxd2pyNFpBWmF3U2U0dTg4bXhDOWJBV25pRWRRbnZHUTl1cw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-22T04:55:00+00:00",
       "summary": "Persona, Discord, and OpenAI – When \"age verification\" suddenly smells like FinCEN and Big Brother throws a party  igor´sLAB",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Sam Altman Says It Takes More Energy to Train Humans Than AI - Complex",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMQW9Sa29haUxuRlpjT3piQnl1aWdQamptT1ZxR2k0N3lDemxuZTNzYmNBVlM2UW9CUE9LWlc0Wm1hNV9qbHBqd1c0clBVNTl0TlhVX3VMSk5vbDBZYUFxY2NGMU5oM1BTYmlkWnROVEJPaDgzX1FUOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-22T03:06:47+00:00",
+      "summary": "OpenAI’s Sam Altman Says It Takes More Energy to Train Humans Than AI  Complex",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,29 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic's AI assistant Claude vies with rival chatbots from OpenAI, Google and others to be the \"agent\" relied upon by businesses to independently get jobs done - themercury.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLXBHN0pfbF9aMmZEeWVENHR5UEhRTzBQV2RDbkpSdFdmeG1NRnRGZEMxYkluUEduZ2hLbGYydlh4d0t3SUdjWW5BVURMeEZicmNaVHNxM3ExSXVBY0NjakxqLTF3cDNsSlp2YjR5NS1CM0gtOXhJRmJodExPMHoyanlzU0VFak1XUFdNSEZUQkdrUWtQaVhhVkJ0STNrZ0dsODRPMmdDMjhqcWFmZVQtWXQzS1d6NlFjTFZZMUpOWHZLejY3WF9VUVdRVDJWRGhrSkNweWJNVWR0ZHA0NEFaYnhvQU5hUjZLRl9uTm1FM3dEaUpRUHBNbGVkWXdXQUFQUGt0TkZuZw?oc=5",
+      "title": "AI agent invasion has people trying to pick winners - France 24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHJrbTFHV3RjSGo0R1dnQmhDc2F2SzRyMTB4dXRCR0JNX2ozUThpbFJxMWxlYkk1VVpIdDlHbU02NHFlQ0R3M190Z2dJbFV0ZDBxUkdodG1CX1RFZzV5QkFrZWVZaHFuTXhvcXk3Q2dDU2czVGZCaWFLelNicFBQRk9sRUthWlBLODd0czNYTWdUU09WU2ZPY1lISkVUdEU?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-02-22T03:00:39+00:00",
-      "summary": "Anthropic's AI assistant Claude vies with rival chatbots from OpenAI, Google and others to be the \"agent\" relied upon by businesses to independently get jobs done  themercury.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic's AI assistant Claude vies with rival chatbots from OpenAI, Google and others to be the \"agent\" relied upon by businesses to independently get jobs done - IslanderNews.com",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMDBIbXE4bDNLQWpJenlmOHdEYUlQN3I0UEpiQzNQVjdYY2dBMGthNG9VYzRQeHlLd0JlWVlNbU9zQ2c1TmFpc3ZWMFJqNFBNZnlLU0FCTS1ibEpsX2NRX19MaTBvWHhERVpWZHlMRjhzMF9ORlRpeFFVbHcxWG9rRjVCbDZsQUVhNzBGNmdqb002eUpxTlROMUdCWUlDQVlOcVpBT2JaQVU0VFRLMzRLSDY3aWQ4Ym5mNW85Y3hEN0xZdnJabExrTTNQY21ESGpuczhSWnp6OTdmNDR5MjZkQ29hVEpzWWZncEkyM3doSmxJYkt2bnAyQXBYbGhadDFIX1JqRlJ0ckpiSDlpbjh3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-22T03:00:39+00:00",
-      "summary": "Anthropic's AI assistant Claude vies with rival chatbots from OpenAI, Google and others to be the \"agent\" relied upon by businesses to independently get jobs done  IslanderNews.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI agent invasion has people trying to pick winners - Digital Journal",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjJoVUM4X3A0TFNmYlBHX0pwM2c3VlVhRkNmai1EanlYMlFTRUVUTjZET21Na0pTWUljWW5XTVJoZDhxNTVOaXpfRGh1a0lQcGRRM0xwYWpmN3JfT29xUkc3RjlYVHVvbVplVEZNaEkwSVlLQ1V3dFlRdjZXTzhNMm1TdUZfbU9WeWlncHdVY2xTZElMaElDZVRncHp0WE9T?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-22T02:53:13+00:00",
-      "summary": "AI agent invasion has people trying to pick winners  Digital Journal",
+      "publishedAt": "2026-02-22T02:49:19+00:00",
+      "summary": "AI agent invasion has people trying to pick winners  France 24",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -130,15 +130,6 @@
       "summary": "OpenAI cuts 2030 compute target to $600 billion from prior $1.4 trillion goal  CryptoRank",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Multiple Hacking Groups Exploit OpenClaw Instances to Steal API key and Deploy Malware - CybersecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVTXd0cEZFTUhaZDlmUTd6OTYtdkdqektJMXliR0sxYWFEMFBaZ2RRV3JjOS1WcjYzdGJZWEt6MmFDN3BpZVBQQmdRcjRHa1ludEVQVmtvV1NFaFd0ZVdNNm1TOWpwX2ZEN2UyV1VKd9IBdEFVX3lxTE9RZVAyNlE0QmRHbUt6ZkhTMndVNHN4ZHgyMHZaeFJsX09yaG9Xd3JSSk1hWTBLTEN1SDBGY0hjRDNtYkZINVBMZktOUmVoMldwaExzcHpSanozSHJBWDRnbXkwTUt2TXU3Y0ZxTHRVUUd2M19p?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-22T01:18:26+00:00",
-      "summary": "Multiple Hacking Groups Exploit OpenClaw Instances to Steal API key and Deploy Malware  CybersecurityNews",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "Powerlaw Plans Nasdaq Listing to Give Investors Access to Anthropic, OpenAI - National Today",
@@ -164,6 +155,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-21T23:02:31+00:00",
       "summary": "OpenAI and Disney came to an agreement in December to allow the use of the entertainment giant's characters on Sora, the AI-generated video platform  themercury.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman says Elon Musk's idea of putting data centers in space is 'ridiculous' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObVdrcVdUZ25XVTVZTWZhM3ktT3ZYZXhkTndXa0pma3JzcTBrU1pZQzV0ZUlTMjdad0JTT2wtQkN1U2tPLUprS2pSeHJxSHQwd056ZmVxZUFLVGFmMFNIZlNRcldJakpHRjBwWkpGNFd0bjZ6T0xrR2QyZVA0Nm9QR0J0eldGc0tmTk9hb0J6QWY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-21T22:57:00+00:00",
+      "summary": "Sam Altman says Elon Musk's idea of putting data centers in space is 'ridiculous'  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -213,13 +213,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Buying a Mac Mini to run OpenClaw? Save $50 when you shop at Amazon. - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxa3RQUWN0bDZEbkw3U05zMXdrckpILUFPLXJkUzBYZl9DRFZBYnpkSDRDQnRuTjNqZUw1Sng5SWRWMmFtaXU0SnNpalFnTHlBM055aU5sRWdXOExGZWRETWJpazhuVzhW?oc=5",
+      "title": "Key facts: Nvidia nears $30B OpenAI investment; earnings report due Feb 25 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVUxTdjQxMTVKekREc2JmUEpaQ3A2VUs5R0pVVFg4SEFRRTlTTFd0aFlsUmUyS0ZyNDJlNXNKTEhlZGd0aDhqZDA4QVVlSlhMTTI2eWQyaWRUeTFKU2djdU1nVWpiZkhvVkxjendfTGdfeU1xakJlU1Z3N0tGb2RwQmFNOGU5c1lCNDJSVWxKc0NYbWQxRnZqZnAxOGJUQjhZOUo1ZndOaTRyTElFLW4tekZaNldOSFlZNmRnVkNiVEE2WWNwQUNXRUhHUDBVUQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-02-21T20:07:02+00:00",
-      "summary": "Buying a Mac Mini to run OpenClaw? Save $50 when you shop at Amazon.  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
+      "publishedAt": "2026-02-21T20:03:02+00:00",
+      "summary": "Key facts: Nvidia nears $30B OpenAI investment; earnings report due Feb 25  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     }
   ]
 }
