@@ -1,10 +1,208 @@
 {
-  "generatedAt": "2026-02-23T20:05:48.524497+00:00",
+  "generatedAt": "2026-02-23T22:10:26.491243+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Anthropic Accuses 3 Chinese Companies of Harvesting Its Data - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEZMMVhrZmxUR0lvU2VvMWt1dEphcEdPM1NPNWNJWVpyWm5ma2dTY0VKTzRGLUc3VVVyU2dCWWZxSU1qcFlzdWpsVjd2STUwVm9rZHBlMzBKaEhPQy1POGZBTHJWNHBPdFhHSDdDaC1iOVBvNUF2VDVfMkRSbmdpcHlhOHBLejYwUWFxZi1faFFaMzEy?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T21:48:02+00:00",
+      "summary": "Anthropic Accuses 3 Chinese Companies of Harvesting Its Data  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSTNiTDVQVW85UTM0UThMQ2tNSk1KSjkxa2ZvaU1tZGk4UEJ5OGNUT0lKRUpKb192dGJ5VnFDeGVaYVduVFozTFNqd1BZREMxQmg3T1RTaVBzX1FHbW9FaTREMTEzWVRNQ2t2MDlQMm9vSnhwSF85c0pFZjJibFI4ckk5Um1FaHdyU00wdURTMEhKRk50Qkl6Nm95WkdRZExSZURIeGY5QnJmSmJCWnNaM2o0QUFocUd5Mm5tRDdSdjc4NVZ0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T21:46:41+00:00",
+      "summary": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's chairman explains why he prefers to write his board meeting prep without the help of AI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWM1ZTI3cWlFM3o0NmpFMkY5WlJkNnM0REotaHRVdGZKaWN6VWt0QkhIV2stLTIzQ0pOOXdtMHRNMEg2a2R5VzBJQ3IzMC0tWTB0ZEE4ckpmd0NwWldFaEtxdF85TXlIc2tXd0VlY0dqelVEblZxOW82RXVFU0hkTU5YYUJIMFRzYXZ4S1pTWFFocXQ3SHcxWlhNNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T21:39:00+00:00",
+      "summary": "OpenAI's chairman explains why he prefers to write his board meeting prep without the help of AI  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw: What is it and can you use it safely? - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXdNcDlnX1NYQXdrYUtrUmJ3MzZrYUxKUmJ5Um1jb0hCREZ3VXphQXZzd0lRb2JWb3pBYzRldWNGbUFZU3FWZ2NaeHNYa25xUDBTUUdxVzl6OHMtbjRmRzlsOVlGeXp2dFlvaFVkUXpxbURaNE9qZHJLMXZqbWJyVDFGRVc1THBldHVoRA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T21:38:40+00:00",
+      "summary": "OpenClaw: What is it and can you use it safely?  Security Boulevard",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI has changed its mission statement 6 times in 9 years, most recently about AI that 'safely benefits humanity' - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekhwc0pRT1VrMkNMSG9tUVJabTBIdVlhY2c3QXhnTF9VbG1xeW1PSjUxSEUzWGsyaWdNWlp6UHE4bXJVYlpub194RWxwMnhhamlYR1NERmhseVA0SWJVbDBkY2RWajh4eWJ6LVhZZk01dmJwUE5GaWwtaWpoTDhxeDRNYUxKMFN0M0trQlRwUHcyQnB2UWVqdnp4VUpfdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T21:38:00+00:00",
+      "summary": "OpenAI has changed its mission statement 6 times in 9 years, most recently about AI that 'safely benefits humanity'  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches New Frontier Alliances To Expand Enterprise AI - The National CIO Review",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWR2YUVsTlJDV2U1ODhXWUJlbmZPR21BYmNxaDdjQWd5eHlGTFJOUEhXRExYUGdFd1U5RmhMS3A3VGFfNzZ1V3VVbmNGeWlYY01GZ2w0ZmktbWtlOEpQM1hlNkE2SVQ4WUtJaktYNVQ5NHFYM3hOYm5sQnY1c2t4Z284S05lY0xiZU9wbEFJdENYQURaT3Z1S29mZ3YzQl9CUUt5WTlSQkFFV0Izdm9qS1BldnJaYlc0eE9tNDUwclE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T21:13:01+00:00",
+      "summary": "OpenAI Launches New Frontier Alliances To Expand Enterprise AI  The National CIO Review",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Accenture Stock Is Still Sliding Despite New OpenAI Deal - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOaDR1NnFXa2lKRXVFUVczN09JTDhUajdhbzVSYVRuUXNrQmd5UHVHcFozRURyZ3ZhUngyVW5rZVdUbE5HRzhNYXB0c01QSl9tcncwcXJ3YWo0bTNBSmVkUE5XV0dINVNWTXVGeC1LWks0THVPZVkta04zMEhfMkZkVVdheWprN1VQOV82QWVhaVRFWmw5azR1Q3RLNFhSM2xjRlVNaDdDaTJMemp0Q3hQWlF0Rk5YN0U3RFV1dThfM1FMUnNVQ08wc2h4czl2WlFEQ0Z2S2FnZmRhRC13WGF5bzE4bkVidUw4cEN3T0ZmaEI2dk4xeWotUWVTYUJTX1RYNWdZWnpxUGFNTHlPVUU4NW5wQzNWSnRmaFlGZ3I5X1VqemQxcm9ka0d5cC1idnJPZjdtZlZpR1hNRTVnN3lfU0dqaE5RU2Fhck1rSzZmVl9QU2c3aEVhV3hIcGl3Sy1rWTNacDByYUdpcE9DaEh4WWlaRzFIWkg1eWNMZlhvTmJnaUxhdFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T21:11:00+00:00",
+      "summary": "Accenture Stock Is Still Sliding Despite New OpenAI Deal  Barron's",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Jony Ive's Mystery Device May Be a Smart Speaker With a Camera That Watches You - Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2I2UlJxVU5oT1RLckQtLVZVU1RtNlhVZGdPM0Z0WGQ5THVVSmxDMzJzcDBLQkF3WGZ5WVBKc25iQmw2NDFOT1ZVQ3RZXzJYQV9HZlZkOTd6d1FVNEYzX0ZDUlpRa1p6X1U5THh4T2lBeVVSQk1RUFY4Sm5aS0lueGhDQi0yZjhMVWM1S0ROQTRqLURJMldiQnh6ZUtPSnBqVlM4Mko4eDZjdm0zdm9tUm5QdlBUMlRqY25mTExkdm83YW5DcFhaTURNWm5zN05T?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T21:07:15+00:00",
+      "summary": "OpenAI and Jony Ive's Mystery Device May Be a Smart Speaker With a Camera That Watches You  Android Headlines",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT-maker OpenAI safety representatives summoned to Canada after school shooting - Shelton Herald",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0lySjYxSW1QV0U2UW9LNjFTMGF6LUFPczlEVTRORG5sQkdabXU2bmlyRmE4N0J4bWgtYm4zeFd5cGk2c0c5YnZLZWt5NXpJWXRjTFlIdjM2WHVfS19yVFJXSnJGTWlRcndVYkJJbHNZRVBtRFBnX21hRzdYeTNBUExuV0RiT3RWZGw2LUNEU3h4U0hHRmZxZnZVTnJrWmZjVHhIbkVyTHY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T21:06:58+00:00",
+      "summary": "ChatGPT-maker OpenAI safety representatives summoned to Canada after school shooting  Shelton Herald",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What’s behind the OpenClaw ban wave - PCWorld",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcS1Mbm94dFRIWmRCSVVGSlhzeEcyQzEtV0ZqR1hFdkxMcG5sZUxJTDBleEdpZjZlMTg3eEtTLVU0bFlxdjREekIycVpndFg5Qm1GZlJLLWFnMHN5azlIVHAxX0htaDJ0UVhFQUsweVVXT09ncFJXamlWTjhiejhWazROV2hYQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T21:06:00+00:00",
+      "summary": "What’s behind the OpenClaw ban wave  PCWorld",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI reps summoned to Ottawa, says minister - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JLWxLUGdIMHlwaUxlV0pXTzJfaXJtU1hERlB4UVN1UHFRYmVCN1ZjcE50bTNiWkNIZng5a08xTzI0OXd3cUlpcFpNM3FBMFFFSmdWRThvam13NlRMSHBvTGxvai1PSDNFT2ttWGRMQWxEdF8yNDdaSU85ZzhJUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:59:03+00:00",
+      "summary": "OpenAI reps summoned to Ottawa, says minister  Yahoo News Canada",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google Antigravity falls to Earth under OpenClaw-fueled compute load - theregister.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yOGNiVXktYXNZUnp2aGdsNHB0dURtSkxXRHZLRXJEbzFLQUlhM3dyLUs5REl0UDdXTXBmaW1ycnBlWmNySEcydm1VcXliNG9Gb2hiNHZQdng0cDRieVI4X0xPRmxDeER2RnJGZ0ktZ0hXc29DU2FkaGZpMG5JUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:49:00+00:00",
+      "summary": "Google Antigravity falls to Earth under OpenClaw-fueled compute load  theregister.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Noon Business Lunch 2/23/26: Financial wellness, Cameo vs. OpenAI, STEM representation - WGN Radio 720",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTlgyYm8yT0pKaXZEcmVvM0t6c19HZHgxUDA5RUtMN0s2MElJSTc5Y0lmSFJEMk0wX2o4QllUYUhDQlBwQm5zRUV2YWVfZlI0alBtSzlhdVBneDFTdFVYMEFpbHc4OTFmdUJrbmJXMEJFMTlEUkZqY19EN1hTYTdaVTVGSmlwajdxVF9mQWNfcWd6VUZ5dVpnSWI5eDhTUnhZRk5QOTBSRVp4b2lvLU91ZjVYbHZtREZaaEpj0gHAAUFVX3lxTE5HN2xZejNnTEtTOFhaYVpBakg5YjZfTXNLOE9NR3F1SWJVWXNobzlycWZtRlI0UU5NZ1dJZC1xSXA5UkNkN0liMjdURGlBQzNjZVRFcHhSTVpwcTZFNnU3NU9pcDlfaVR6S0dLeW1IUkNNZnFPaUpQLXVJY1g3enRSZlNfTl9jU3BjaHFoMVEtMjdaQi1IX3hCT3hPazJ3Mm9wLTZ2Tk9iZWs3bVZTbGkweTlaWjk1SFBPbUU1cTlaVw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:39:33+00:00",
+      "summary": "Noon Business Lunch 2/23/26: Financial wellness, Cameo vs. OpenAI, STEM representation  WGN Radio 720",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI minister summons OpenAI safety chiefs over Tumbler Ridge shooting - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWVfME4xVWhxTlIwU0hqZzhRV3RQdTZyNWdsMmIxcVZqY2p4ZlhxZGNjNDJHd2xwQnJycTZVMzVwM3hfRVhsaF82a1Jod2QybG0tNUVQUllKdGJkUHlKdXpydXpMVndaRVJaMlRqMUQ0S2lDREE4VC1iME9mVm5UTXc2QmQtRFpjOTlfOGpTTlMydERjdDU4UGZtN0tsZnRMVDE2LU9OVURDVWJ4OGFTYlB3bw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:33:42+00:00",
+      "summary": "AI minister summons OpenAI safety chiefs over Tumbler Ridge shooting  The Globe and Mail",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Canada summons OpenAI over failure to report mass shooter - The Mountaineer",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdEFTVEhZV1ZNSURXV0w3ZGtwYzJhV2VMbkNXeHY5OG9US05GUGljVHlFWVctSUNKX1doMmFnYllsR2oyVHRVWXVrX3ZoTXY2MVZ3WWM3MXNSd3JkM25HaTVFUXJxellKNlluQ1JQZjd0cnRQUTVpdlZ4Vzc1cGJFU1JEZDI2cEdzM2U1ZGIxX3BIVGFhamU5blMzWE9IYXFpaUF3aVQ4UlhXTWtITmhsdjJVdlhzNURXa08tQnZJYWFlOHc3NlJta3dWNUJocWM5aFFfTlUtVmo5ckdybUhUMmg5RHVQNVk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:15:59+00:00",
+      "summary": "Canada summons OpenAI over failure to report mass shooter  The Mountaineer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Canada summons OpenAI over failure to report mass shooter - The Killeen Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRk5yRjVmQTktNWF2OVA1ekYtOGdEXzZ6aE1CUTlhT2pfSy1mcV9TRmJWN2lNWUsyR0tjV1ZNZHZLNWJWblFvZWwwX3NEUTJiTFIzczhKdVlNczZJQ3RuREs2NXdoTmVMcldmemd5YVZMRjBkMDVsWGIzMDFnT1p4SG1naHhqNUVtV1NVVmpqZHZFcG9IcVM2NHJUTDhCamd5S3lCWnkteVhsUXJvbWRsZWxzajZlVHhHSkNSNllBQVFocVJkN0M3VWk0cUUwOEpYWGFuYk1R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:15:59+00:00",
+      "summary": "Canada summons OpenAI over failure to report mass shooter  The Killeen Daily Herald",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Canada summons OpenAI over failure to report mass shooter - communitynewspapergroup.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaTZoX2dmT1dxTHB6Wk5VaERhUllpNUNjMGp4a3ljR3lJVHo0bnpqeFlQUlNtTHRpM3duTjNIcDlOcGQ5YWJsUUlmOFpuX256Zmx3bThnUTNRUjFXTHhtNjlPMXdvcU1wY1JNUDMtY3BjQ243MFBQZ2hpLUloaGZVZ2VXRDBiR1JPWmpsaWRPeVRlZUZnb0wyaHFkS19uOXM3NVNjRXJ4NzlQSWlwZ3ZsaWVKQTI3YU92Wk90Z0cwOWZBQ3dDTWkyaHNsWGVUOU9qeGloam4yMjB1VGZiNmhEM2p3LTNOa3p2blpSSkJwdks?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:15:59+00:00",
+      "summary": "Canada summons OpenAI over failure to report mass shooter  communitynewspapergroup.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Canada summons OpenAI over failure to report mass shooter | National | lebanondemocrat.com - Lebanon Democrat",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNazVxYnd0MTloa2pra0xucGgzbU9fdURCaEpWWHdlZlV6LTZiM3hBbHdEaEpYdlhnR3RhSmVNajdIX2NRRDEzQ09BbUNKXzIyLWw3VHpKR084YXFOYk9naXNCbXhITWJGanlYY3pWbm5iTlRQZjVEYXhIR01QVk1aa0pMMDRveUMwN3MxU3p1RzU0SkZaVXMwRWZMMlVWNU10dWhNNmZSWFFlaFJqOXFEMy1BcWdXNFowbHZHNXc1ZHV3Q1FvQ1B0eTlkcFZZTmJ0MTVTSUhkV05Vc1FiOVI2MXFfRlZrY0gz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:15:59+00:00",
+      "summary": "Canada summons OpenAI over failure to report mass shooter | National | lebanondemocrat.com  Lebanon Democrat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "“STOP OPENCLAW.” - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ096eUlRNHktM1AzdXZ0eWVyTWxpTHhBTXAtNFNQNkVreG9KSDE3SUFndVI1cW9Kby1LV0hfZkNIRF9KeFdkbVFGYTZESHRjOGk5X1hFb0ViaUFJQ3hFR3NBVUNaVjdMSnJZa2tsNmtRcDlCeVBDdEhoVWxCRENUSUVkbUItbXE3VlB5VWFmcDYtUHFhaE16V21GTmJkYjZDemc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:14:27+00:00",
+      "summary": "“STOP OPENCLAW.”  The Verge",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Buying a Mac Mini to run OpenClaw? Save $50 when you shop at Amazon. - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxa3RQUWN0bDZEbkw3U05zMXdrckpILUFPLXJkUzBYZl9DRFZBYnpkSDRDQnRuTjNqZUw1Sng5SWRWMmFtaXU0SnNpalFnTHlBM055aU5sRWdXOExGZWRETWJpazhuVzhW?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:08:02+00:00",
+      "summary": "Buying a Mac Mini to run OpenClaw? Save $50 when you shop at Amazon.  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Altman calls Musk's space data center plans 'ridiculous' for current AI computing needs - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGtpdHRlbmE5M1NWVm1RdWc3LUxUY1NleVlQeEZqRDZzdHFzQmt3VVVaSTJsaTg0djV5c1NOdHJYQUNZQUJ5c1JKRkhQdjdqRzBxTXdXQzVkNEJKMUdBaUVXOWhORl9PcG9zb0szUFhIcHFlcWcyNWVVWkVCYXc1V3VnOEkxek9CazN6SE9lTW4wdFAxaGZTa2JyMm5jV1lucF9ZY1loWFlEN2dMM3Z4RFBNN2NIclIyUWw00gHAAUFVX3lxTE1aNWpPN3k1SFowOEJ1al80RUI0RDRjOEpLV1c3czZuektXWjZUeHQ2eGZVdVk4OVMweng3RVRPaXpZX2dENDFOeFpFMzZTdFNjTGlUTjYycmRPTV9jb1lvbW9fdVpwYXBnTzRsd3c4dFU3cU5BdlU0bG1nWTMzVTlGNWx4RWhuZGgyV0pLSzQ2dUZfYVV3OVJiSVM5VnQ4VFdtTGRWWEFFbXhKYTduRmotdVBldTU2QXQ4UWNxR2Fjcg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:04:00+00:00",
+      "summary": "Altman calls Musk's space data center plans 'ridiculous' for current AI computing needs  Fox Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Ottawa summons OpenAI after school shooting - breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcTZmd01TQ2xoTE0xRllNZzdLQjJFQnhIUEdBdVFOOWp6NHJKbUwyUkVDRUc0OVNjMXVTN3VMNGdCN1QyaklSejNsRmRUZ2UwR2czSm1PV2s3ZG9RZUU4SjZmQkNFQ0tVTmVHVXh6Zi1ISXk5MTlzejV1YVotMnVhT3NSRjFuaUZpeWlUSDRabHd4UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-23T20:03:00+00:00",
+      "summary": "Ottawa summons OpenAI after school shooting  breakingthenews.net",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Meta AI alignment director shares her OpenClaw email-deletion nightmare: 'I had to RUN to my Mac mini' - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObE80SEFYakNKdWtOaUVoLV90aDFBMzlkMjZNS2RTQWI4cmtRVEU5Wi01MHZhTGNobnZaeE54UTd6S3NOalV5QWN5a09TM1pnY0YtZ3NMWFR0bjZTOVV3NC1mcXp0SHhMZlc4Ym5BdHBscWxQVGp0RVdwVlZVTFFtSmR0UkhTX251Z2tPbHl0THdoLUE?oc=5",
@@ -22,204 +220,6 @@
       "summary": "OpenClaw security challenge: Israeli startup Minimus protects viral AI agent  Ynetnews",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI safety reps summoned to Ottawa after B.C. shooting incident, minister says - Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxX1o2T0I3VmF4Vm9ZWGJseE9VVmE4YlRTOUN5OTRpN3M1bUNwMXF4eFFJSkxkX1JFMnQzNWo5dTkzVUhTRERfWUR5LUd1N1FtU191VVJnaFdKbjVZWHhwWUtIZC1EclNIaEFwZnBSSS02OTg5aTFsaHE5NW4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:52:30+00:00",
-      "summary": "OpenAI safety reps summoned to Ottawa after B.C. shooting incident, minister says  Yahoo News Canada",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s New Spending Plan Is Still a Positive for Microsoft and Oracle, Says BNP Paribas - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUU9xaHRZZE1FaFk5SXI5NlRXcGlFR0toQXlVQ2piZmNfUVdCbDV4TjE0cTRQMnlMdGVBa1lkYklKVElRNXl6ZDhQR0RRdU1oTUx4aU5ZUVFIUjZwUUg1eXN1Q1RkRVpFcF9lYkFpWFZuWDZwNzJLU29PUVZiYm5kVG5uajRvczA4OE1TZU5PVWw2WUtadV9hM3ZuS00zRVM5RFNXZ1o2MGozczZ1Q1YxMVBRRzNzVHBD?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:48:29+00:00",
-      "summary": "OpenAI’s New Spending Plan Is Still a Positive for Microsoft and Oracle, Says BNP Paribas  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "'Hardware Is Hard,' Elon Musk Says As OpenAI's $500B Stargate Data Center Project Stalls - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYUp4dmRsWnlNVEZDb2c1NkJuSTBwOGpBWHJIVFVqQnlWZ2w0aE9GY1p6X2NITzc3LXFSaUk3bVFYQ3Y0MWw2T2FKYUFJaURKcTdCNDFEWnI1c2VwU2FPWVIwNjZnc1ZBbmJKTzJlNkdyX0RtNEtTMld2eUdIZ0VjZEJ5S1BJTW9CWWNHYnQ0dVM1RmJ1cER4VW1yZjg4emFKa0ZhREo3ZmQ4dzNmME5sckE3VEtqbkk5czdnenFOMWEyZFJMc3pTMGlIYnlyT2FZUWZOaXJ1TU9nZFo5a0NCVElZUzc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:45:13+00:00",
-      "summary": "'Hardware Is Hard,' Elon Musk Says As OpenAI's $500B Stargate Data Center Project Stalls  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI Daily: OpenAI sees $112B more cash burn through 2030 - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2s0Ty1SSzVhbVNzeE5VbVpmOXg3ZHduMGhHUHdvdERXczNRMlY0Ri1veTJ0NUhSVkQtSGtib0loWlFYMkwtTVRocEtST21KUzlmd0pkY3lFSERZSV92WC1UQUgzdUktbjFNQUR4RWVENjh3dHZ0Ty1yLUR6V1dXTEJaTXFCYlZ5UkpYMHJnNUVqemM0WUVhRTkxZDR3d2oxUFlNN0ln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:38:54+00:00",
-      "summary": "AI Daily: OpenAI sees $112B more cash burn through 2030  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Canada summons OpenAI safety team to Ottawa after school shooting - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3FOUWRRMUFCS3BQVXNLbktCenZkWHhQdnVvaFJSRVRXaGZ2Q3JKVWM3aGlxVDQ1ZllsTHpkck1oLWw4bGpYdDNXM2FWbXBNSWRBSlhiZDRjOFNFY1JIZnE1SkY2dUtVRmQwdTA1c2F1ajVCM1hQMmNuYzdDWXcyNXZHR21zbXA4bjVyOVBkQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:38:15+00:00",
-      "summary": "Canada summons OpenAI safety team to Ottawa after school shooting  Latest news from Azerbaijan",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Google Restricts Gemini AI Ultra Accounts Over OpenClaw OAuth Access - Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2wwVHhnc1d4Yy1PVk9PRDVOZkUxRUh6a2FWSVR0aGVjYXI5SVFCelV3bDFwTnNXSXY0UTdMYWpNd1FkU3dsRldWN1JhMHlQa0F3cDR2ZlAyTUFBazVJYjl2QnlIYkxtb0RFVFFHa1hXWTMtNDBXZ0ltQTBQbmJUSEtIa0twa1JUUXBuRFdEV0Fha05veXd4QXZiUTVCdkR6bDZHSzhKXzl6Z9IBtwFBVV95cUxQVlFIdUxNdkxGQ2xDRUhLQXZTaWUxZncyalNrdERxU1lKeS1WQ0F4Ym1ZcngyZUpKdnNRRmhqVUhiMXhVRGVmd0kyVUhodU9xMnFMM1FVU25zTmFCUzhfaEhQVlpHcmExeV9PMFhFcmJLTkt4dVZEbWxZSXlLUFFnRWROdjVzRFFyU0lQUVJIVXVPeHBXY2IwT19KaDZfalF3X1dWWTBNZ1RWYUxvMGxreXhucjNVeWs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:30:00+00:00",
-      "summary": "Google Restricts Gemini AI Ultra Accounts Over OpenClaw OAuth Access  Analytics Insight",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Canada summons OpenAI safety team to Ottawa after school shooting - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWtJTVBPY3JZR1J5SERXd3JGTVpYMjY1aE90b1BsYU0zRlM3dWFzQlNOaUZBZVc3eVZHdy1oVXE5TzRxR3hrRkZKWmE5S0swSzE5b2R1a3FWTmdyZkxWaF9ZWUdnNm9nU2ZEanFkajJpdWFncGpMc0pFa213UVdIWkZpSTRYRC1CUERhTDE1NUhYcllCYzVnTjdEcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:15:48+00:00",
-      "summary": "Canada summons OpenAI safety team to Ottawa after school shooting  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Canada summons OpenAI safety team to Ottawa for urgent talks - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVkN2N0lKTVhrdTlYUTVhNTJsVGRPWTNCMFVNbzJQajR3RzN4aFE1R1RZM2E5ZFBBUVdlTW03R3R6QWVhb1lyVG5jWlNEZkZxdWpLc3pMUnQ3YVg3MGpRX3Y0Vk5mSDhkelBkYzh3cHlLQy1ZTTlNNXFTd1loVFVFTmpsYXN4MTZfVmJ0Uw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:15:33+00:00",
-      "summary": "Canada summons OpenAI safety team to Ottawa for urgent talks  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Enlists Consulting Giants to Deploy 'Frontier' Platform, Signaling the Era of the Autonomous Enterprise - FinancialContent",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaFFTeUt3N0hIck44UnlwOU1seFVjT3pEM0xiS1ZJc0tBTXV4S0IzdWdEcG9wanp2MzdPMXdjR2w1anIzOGp5R3BPT1FuRlBBdkprdVhDU1BTNk1Hd2diSzBNNTZFSWRZd0ZwVVMtc0ZKWWlydHdxeW82QUptQjRDMXM4SEZKZUI2Ny1ldDRmVlc3QlFaVzkwM1o1YnpUZG5walJGa3JLcVc5Q0RDOEhjUDlxQVVXY1piVHUtci1HOUVFNTdVVFBfejJ3OWFDbjJUbXNpdXBiaFFTSmZ4S0FGQnVQQ2FtMlZnaVRLNFE2YXQ2MC1rdTdaOFU1OGxGNHNlY1diaWNtYWRMOEJ5dklN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:10:00+00:00",
-      "summary": "OpenAI Enlists Consulting Giants to Deploy 'Frontier' Platform, Signaling the Era of the Autonomous Enterprise  FinancialContent",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The 'SaaSpocalypse' of 2026: Why OpenAI’s Enterprise Push is Sending Software Stocks into a Tailspin - FinancialContent",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNY2FFSGh0dVRBeWlQZ1lFMmMyWnN5d2JCZkxFZW9pWUtzSzUyNDNRLU1idFV2V1ExVFlkYXdKQ04wNkZfSHV0VzdmeTNWSWQ5UHBRYUFVRlg4Zl92bDF0bGxKaFNUR3I0RFdfQ3F4VUdCeXV3NWlpNHFxcE1EdFZ0aG9VeTJPU3BWNTZ5SVZIeDIwMkJQUTB1M19MRnppcGZrYW00OTVNUjBWeHViZUlBQkJUNjVSMWFGVFlTYjZXVEphRi14bDJkbGREdGptZXFDMGpvYi1hYm5uNnNzVGEzd0JHOHh2blNfU0hwWElHM09teDZCX1NXeVJOWExGamtS?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:08:00+00:00",
-      "summary": "The 'SaaSpocalypse' of 2026: Why OpenAI’s Enterprise Push is Sending Software Stocks into a Tailspin  FinancialContent",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Creator Bans Bitcoin, Crypto Chatter After Joining OpenAI - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZFczMG5IdHJoS3lDeEw5bURIM2RCaEFhRFNWWlBZbGZkUWpCXzRHRHMtOGh6V3ZUcGdVY3dOMlpwUmNQNmhWRU1UZDZ3a0hTSHJTNlpUQ25aTG1sWlJhSUtyNGQyVjd6S3hMYkRhbEdNOWpCSGYtYnZPalhtM21FbTl1c9IBiwFBVV95cUxOdWlOalVLVklxYnFUVzRqVTFKZXphOG9rUk5DNmdDVW85MWdUcXBfb0o4UnI1aHN3OFNOZlhiY1VFYmJLaHFVYjVsaEpzVHMwTklObTZSQkl3MUoxWWJ1OGZCYUVrOU1NYnZ6ZXpyRFVSUWtfYVJhTldONk9FOG5xTlRlazM1SnYwVVdz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:07:57+00:00",
-      "summary": "OpenClaw Creator Bans Bitcoin, Crypto Chatter After Joining OpenAI  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Frontier Alliance With Consulting Giants - findarticles.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVJDM2lOWVFxN1VrdlBHcGNreUlYcVZSYTZiQUhtQjBQemM2ZlRYVlphbG9sOWNteHFMb2VrcjRTaEpzczJiQk1kWkluOTFkOG1VcmhPbUVGOEtlV0haX1I5aEs0N0h5dlA2eTZQWVVEejJTZ3pieF9MSl8wblFPVGhnN1hzMkxnTThiTW1JWdIBlwFBVV95cUxQOWVkUENuR0wyMFVrNXl0WE91VWxFYkFQMF9WUEhaQXVVMWNLRGVuUEUtYzZaaUY0OXFaOUN2a3M0cDAtb2oybDh2c0ZTVi1uM1JoZFYwNDBpU0NvMjdjWWpwNUpMOWJKM0lMTnQyLVExdVk4VXRucFo1ZmtndzMxOWdjX001bG56VnI3bTB4ZjJFNTNVcjln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:06:09+00:00",
-      "summary": "OpenAI Launches Frontier Alliance With Consulting Giants  findarticles.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "JioHotstar Teams with OpenAI for Conversational Streaming Recommendations - World Screen",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcVoyR2VaODdkRnlLVDgzYUdmU192elBvU1l0RjhadlowNk5xVUpteU4xTngtaEZsbDV5Q0VLN3dCQzllSG91c0dXUWxDZGFNeEJBZ0VYSU5vZWpTeVpPNzBfOVdhc3pBaXJvSkc0LXNzcGxrTkhuS2E2T25DY0lPR21RRHpyTzZIQVVGR3NNVTYtek80dndXV0lmLUZEQjA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T19:03:46+00:00",
-      "summary": "JioHotstar Teams with OpenAI for Conversational Streaming Recommendations  World Screen",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Accenture Stock Is Still Sliding Despite New OpenAI Deal - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQUWRkYzM1SHljWFhPSTBYQWtnR200aFZWSmdrUkIxWXJ1dVViYnhKenZfYmJibnRMMC0wd1hTWEJRakFZbU16MkNJMS16ZF9Takw1VjhSNGpwR3RlU3NJZklPbGhjWVVFaWdwMmNDUmZXSjY2UGh6TVBMSG5DbWhEa1ZFNDRuQ252bEVwd1JhZUdfbXlmODhualFSRWt2TzhpdEFyeEtsVUJpQ1FtNEFDWnZ5bjFfTl9QLU5EeUlKV3p1REx3dG10OUpjdW5fQ2Y3RGNiU2htMWxhLVFHY3NxRWZMbnpfTk91VEhQYURJOUJaRU9QOWZ5NU12OVBKUnBaX08ySjBPYzZ6OHJ0VzduOERWUTZIeGEtN054LWNhTEN6TUlFSHdvN2VPR1hRakMxTmUwVzU5VGRqQmwyclNjU0RMSzJGOUhFejJPUmhDcUY3cHZpbHgyWUJ3MFl5dDN4ejJlUi1DMDBSbUp5ZzYwUHFqZmRKMll3STJVV1Vn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T18:54:00+00:00",
-      "summary": "Accenture Stock Is Still Sliding Despite New OpenAI Deal  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Partners with Consulting Giants for Enterprise AI Growth, Including Accenture (ACN) - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmtpSzNrcm40VFhtUU16X1dNNTdISldna0ZUU1czbVFmVUpoRHdHWlFLRkVQcUwtZ01ua045cVNVb3pZd3h1S0d1VFBPSks1UjFpTzRfTndUcHdWb29UcVVhZWpYTUppbW5LM21mbDItelF0aHhsdjNEMGlBSFVCV0JQdkNhd21YdUNMUU9PMjZFME1YV0lfdzJMUG5JU2hDWFBQaE9uUWNINk9ZQ1Rta0RLNXB5clRHVjhUY3JCTDQ4d3BE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T18:16:35+00:00",
-      "summary": "OpenAI Partners with Consulting Giants for Enterprise AI Growth, Including Accenture (ACN)  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hVUV3T2RydklrSjJicjJXSkhZWG1tV1k5MFNqb1JzNl8wMXNQWThIWkhPRXJMYXRPazU0SXFGeEV2MlYxajFxdjBnMlN6eE1LOWlpLXZVeEFFVXdZTTlKSzk2SGt1Sk9vVzFHRmdXSHpFWVl5RVVSclRn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T18:03:58+00:00",
-      "summary": "Why SWE-bench Verified no longer measures frontier coding capabilities  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Expands Enterprise AI Push - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPMlAtTV81d2Y2ZENGdkd3UFZIT1VnX3BXa3VDeTMzelJjM1NWVlJWYkwtVE1UZ3Q4VlNPMzVRMnp5Vnc3Tk5KUjJnOEZZdk1iNEZFYWJjWmNGT2RCU1hmTVpBTDFaXzdfajlxX0l1MWJEMlA3TXdORko0eXg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T17:48:45+00:00",
-      "summary": "OpenAI Expands Enterprise AI Push  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia close to investing $30 billion in OpenAI’s mega funding round, source says - Arizona Digital Free Press",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3UzcVVGbGppQURuN2ZZQUx4Z016R2EtM3BQY19CVzVialloZGEzUWxsZTJac3E2QlBPM3lTbXQzZWswNm9Id09pSmNCMDRQZDFPemVtaHlrVVNLYnZtMjF1Z1R6bmRCVWphSzNCM0xQS1luWVBIaHU0a3JycFRpRFg4NlpPTE1pYmNXSkJXTUlUZ3draXJoSGRZbExzOVgwaUx5dzVaTEM2RzRZZkhqMU9QQWNyQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T17:30:00+00:00",
-      "summary": "Nvidia close to investing $30 billion in OpenAI’s mega funding round, source says  Arizona Digital Free Press",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "South Korea's broadcasters sue OpenAI for copyright violation - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjVWWjlmaGhWT1FTM2xIM1VYR2lkc0JOTENucnV6SmhPaE5IWWV3U05KTjRhTWtTcmRPM0dhaktBd0xZbE5XYnNkNXREYVF0MTU0bGhWbW1aS0xnZFhiMk4tSmtBUVZxTldjUnZRekJ0YTBXbVdzZ3hUT3JYWjNWYVAwM0Nsd1dxbnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T17:28:37+00:00",
-      "summary": "South Korea's broadcasters sue OpenAI for copyright violation  Latest news from Azerbaijan",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI partners with consulting giants to deploy enterprise AI agents - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRjJ5Z09sU2lFRVJxT3ROTDNBSmhQd0R0Uy1rV2lrQlVBUUVjZGtrb3RBMi1yMnVVa05PSDRDUTN3X1cwaDBOcHBKalpfbVJQeU1sWG1OMThkeFZidXNHSE1TSWJtMVp5b3lMNExjcm5USmNYbHNrS3dDNTBzc3pQZ09nVFRGalVtZ0txdGNBQVoxcFNMcGJseE5pOGFiMS0wenZGUF9uUjRnTEtodzFSR0xtZjhYNTZZZ2lqUA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T17:17:11+00:00",
-      "summary": "OpenAI partners with consulting giants to deploy enterprise AI agents  Computerworld",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk's 'Stargate' Skepticism Vindicated? OpenAI-SoftBank Deadlock Stalls Project, Says Report - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTWFKWEhCc0pfV25SQm5qck8xMDkybmJLcHFmOWhibEZKMDRBU3J0Zm9ZQVF3NE96akVDSjVfZ1A5ZUtxUlR4SllSbEZaQlFGODV1blBoejl5U3l6YU5WRkIxeWRtTW5waFhoYjNvbHlhT3dhZFpuNkZ5NVZlRE5LM3hxSVpXMUdxZWZxTklya0d5ampSQVNnMGxMcnhmamppZGlaNWNVWTVvSXpnQ0lxSFRCYUdITUY2S0dnbE1XX2g3YlUxYW1nUXpwQjR2aXY2TXNzZm5pQdIB3wFBVV95cUxOaFdYaVFvOFVqSWQxN0s0andSMG82MkFPcnBJNWdtcWl1QUJ1RWFIOFRnbWtCOTBhekRWbjBFcVVHODFydlV6aFZlZlhGbjR6S0N0WEhzMWZBZTB3R2UyVHdZVDg4VXdoWkdEUkNCOGc1QWZMaV9HVGF6T2JRTmVzUEVVdWgyeVZtY3NGM3dvUTFuRGtQSnZDUjVTVkh3QnVaRVd6eU81NlJSdzBjNnpQTWJKTFRDeDhOdXFfV2k3TkNScnhDMWFGdDM5bVJSODU3VzRTSlBEWFI3ejhUWWJj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T17:10:35+00:00",
-      "summary": "Musk's 'Stargate' Skepticism Vindicated? OpenAI-SoftBank Deadlock Stalls Project, Says Report  NDTV Profit",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI deepens partnerships with consulting giants, Reuters reports - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWY1aDlDa3U0Zm01WTJJcGVQaWNackNmdlh4RGdnQW9OM0JCNGNjTHo4QUhSTFlJaHRWd294ai1xcVlndUJMeW1oY2NBWEVubHVxYk9HM0VkQ3hzdE5iQzZyQ1VvSXoweGVVRFlJT1ZtTzhDRUdZSmlTRGxTQ01qSi1lT3hJZERyQ3RFU1NMRWpoWVZKUk94T1VXeno2NER4SHJNNGZ5WF9PNGNqS3J0OUtrMGQ2dzQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-23T17:04:24+00:00",
-      "summary": "OpenAI deepens partnerships with consulting giants, Reuters reports  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
