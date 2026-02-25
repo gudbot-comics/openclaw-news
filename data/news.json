@@ -1,25 +1,70 @@
 {
-  "generatedAt": "2026-02-25T21:49:24.056262+00:00",
+  "generatedAt": "2026-02-25T23:04:25.438044+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "What does circular lending mean in the AI sphere? - WBUR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5UERqMzdiN29KQld5aEY0UVRnYlhyRUNwNDhqREhPNENISG1YUG95T3Q3MzdOY0R0ckxwcW9iWE1FZTZWUXNVV1dCNXRxeF9DYWd0OEloc094NVpGdk5wWW1PWVl6TUpPVDgyd1JyUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-25T22:52:30+00:00",
+      "summary": "What does circular lending mean in the AI sphere?  WBUR",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia-OpenAI deal is \"close,\" Jensen Huang says - Axios",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SNGFHc0c0YjdqbjJfaFBIcjlvdEVwbXh2bjNkRmRzUGJRNGV3QkM4UmhpWWNOS2lEQzRIb0FzdElrNTRseTdqWjY3Vm5NMWUwdjd6NnZiNE5vWVV2ZWpwaTVOTm9fMVR0RlVwODZiVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-25T22:41:50+00:00",
+      "summary": "Nvidia-OpenAI deal is \"close,\" Jensen Huang says  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw creator Peter Steinberger says AI agents will reward those who keep building and adapting - WION",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLS1DQ1ZuYm9kZFpadnMydGV2cXNDTERmVE9sNHgxX1RhWFp1RkdTY1AwUTVYOEwzRldSZnRtNnBkZWI1QmJxeTB5ZXAyOEg1SUJxNlN1Q3BvNUxLSG8wNjRCU1dhYTc3SnlWWnlnSk1PU1R3R1RVMzBkRnZ1ckZULVd0bVp5WHg4aUZod3ZkWXhHSDh6b0U2X25ZVEhMbHo4T3hDN0hRVHN4MldULXc0aWpCQTNCTkZvdXg0RG9GSVhQWkVEejVaeTZyLW5QOUE2Zk9rem9BRTd6TVA3U2pvUtIB5gFBVV95cUxORS02cVhURGRRU1hJRWs1eXQyMnRfMFVfWFB4TTZNZzR4VXUtT2VWOTh3ZmNwTUFBT0hkVXBsRGhOQUZMUFpzR1FtM3NnUTgxWlBJaEFRR1B0dnJ0OEM5RWQ0cEExbnhYSzdKSUZPYU5NMXhCd1FRamtYQ1lUVVBrTk9oMkZzQmtNM1FnZ0JEUC11UkJqaFJMYkxVRFdsTlJiQzdlT2hTSFFYNnk4NlpFcmhHZTFrc1NOdko1NVE0NHUtTlBEYTJKWEFVazdRYnB0cjVYRFJPT182d1Q0dnQtUjR3N215Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-25T22:21:00+00:00",
+      "summary": "OpenClaw creator Peter Steinberger says AI agents will reward those who keep building and adapting  WION",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmNDallQajNTMC1FeHl2OWhlMHUxVnhSTDd0WTUtRGpUa1hPR3lqZmFXZnVDdWkyVE5SWGFhRElUY2R3dzRuM2puQkFJeDNybUxpUXpReUpKcHVEVklVbXhYWk10bHV6TU5nRFJscXJYVFFQMjAtQU9vbmJQTEYzRkJ6WVo3T1VQSUU0NFFDQWlvTFg4cVJtUHFyREJjbGZQQUFma01KX0RoN2hPNU80ZXlDczg2YXdrZDdR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-25T22:09:21+00:00",
+      "summary": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit  Ars Technica",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Jensen Huang Says Nvidia Close To Partnership With OpenAI, xAI’s Grok - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTTJlNF9TTWl6VnM2cGNPcHkxOHJkOTZ0WnVQSU9fNEdDYzFWdm5NNFJ6VDZ2QTNfLUpQblppSkRYdHRIcmZCY3lpNjQzMnVHUjZwUmMxWEhreDR1aHFoOU1OTGY4QXJteFAtUVBvalB1c3c0ZUFaakx0bzdVbVE4QVJyT0hiYXYtX1J5M0FtbDQ0aXJFbkNiY2dfVGRvenczZnVkTHN0MXhDQnNkTHJhdXZ1bF8xZTI4bW8zXzBEOUdfZlBiR05DVTNn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-25T21:56:52+00:00",
+      "summary": "Jensen Huang Says Nvidia Close To Partnership With OpenAI, xAI’s Grok  Stocktwits",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "From Vision to Constraints: The Lessons of OpenAI’s Stargate Buildout - The Information",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHpNNWNXTUtYTFYzTFJ1WHY4bmc3dVQzNzNELVlQZFZlVlQ5TFJCbmk5WDNabUM4VTZuX3QzcDlmNjNOR2lGXzJWRHkzT2NOTG5XZVVhZkpGSm93Wl9vYUNUb0ZBejE1YjBfY1p0b0ZudTk3N0RRUGxWTzJTRVRCVnp5X3lfamZvaGliUkdDenU0czFVNDFJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-25T21:49:00+00:00",
+      "summary": "From Vision to Constraints: The Lessons of OpenAI’s Stargate Buildout  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI says ChatGPT helped uncover Chinese influence operation targeting dissidents - WTVQ",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUThXT3h0V01vdGZleFBleW13c2NyV0hKM184UjFFd1FCcjZ5UTNtM05PbzFSZGEwdTNhdTd0UDR5SnI5MTdWSk01SnBLcWNFYWJsV1Z6ZDlDVXB5TVRqR1lsRmVrUUFYekRjX3lPY0Y0eEVHNUVFakZiMHc2RU40MUtsR0w5SFRFdnBKWkdId3dBdjFkOV9mdklXYVBVdDdhWGt6SmVFV3k?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-25T21:29:17+00:00",
       "summary": "OpenAI says ChatGPT helped uncover Chinese influence operation targeting dissidents  WTVQ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Tests High-Priced ChatGPT Ads as It Builds a New Revenue Stream - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOck9YTWFydTJSVkhFcm5KSTZkN0k4bUNzaGVMRmJFcVFxUzFKVjREY0U1U25EaFdxWTRSaUt4MVJnMkhIbnVsazVCdy1EU18wV1FuemZNdEpwTENWWko1OWlnczRVVDVldDJObHlLS0k1c0FEb3ZIVUMzZ3FnTmFqN2lUZmc0SXVqU20xNGpFMkk5R2hIb2Z5TGVjSFByQ0pTdkFzV1AtSzZXYUNTSlZEYjRfZ2hyb3F6SlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-25T21:18:06+00:00",
-      "summary": "OpenAI Tests High-Priced ChatGPT Ads as It Builds a New Revenue Stream  TipRanks",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,20 +78,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Canada tells OpenAI to boost safety measures or be forced to by government - WHTC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVRuZDZ5TzVTMWZOQUtTS21rOHljMUU5N3FPMXhDaWN3MU5FdnFaNlZ4UXBUT3JHUElPcF85WmJxQzNLTXhPY2NCRVV3NW5nVWZKUW9wOEI5N1ZCaThNNVJLVm9VU2dGMFA3dEgyNGxuSmdicjRhb284ejZoUEZxNm8teEpLZUlmdHFjcHhMM0Z1S3ZfMEhsV09fdm9BNXlQUDNNbGxB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-25T21:14:24+00:00",
-      "summary": "Canada tells OpenAI to boost safety measures or be forced to by government  WHTC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI, Google and Anthropic AI Models Deployed Nuclear Weapons in 95% of War Simulations - Decrypt",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHBLNkJtSk5HVzhNT1RQbW1vTDRLcUg1ZW5lVnFjZko5eW1pbWdUbXlodWRaUU1mTHZzTjc0NDc4OE1fNjFiMW53QmtacEZHQncyYjFnekd1MC1KalEyYzBOT1BqTTlyZEpfRHBqRUgzWm9CY3ZlV1NYNUN6c0o2WkJON1h2ekt5OWZFQTRUbmVCQkd2aEHSAZ4BQVVfeXFMUFdQTWZ3dXlfNUpIb2dDaEZKei13VjV6XzhiNWtWTFZwVktZNUk4TmpRQnZBdWh4UldZTmVneEZvNHBIU0ZBTV94V3dwczlyVGdlejRJOVFPd19yVVVjYmtSSk01c0QyNUR0cTA5aGE3dVVQclN5R1k4WUh0NVhfb2xnVXhGY2dyZHBmZnhZeVRDYmdJVUxDeGxDS212alE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-25T21:07:09+00:00",
       "summary": "OpenAI, Google and Anthropic AI Models Deployed Nuclear Weapons in 95% of War Simulations  Decrypt",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Thrive Capital reportedly invests $1b in OpenAI - Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0l4MG9vTUJYUF9DY2R3TC12dmxkZTVKc0MyejFnMlA3a2p3c3ZQN18zdHg2T0JXaU5YNml5R09KUjBOVER5UUhGMTByT1RGenJTUXdFN3p1QjhHLWFDN3JhdFBqUGNJYW95UjNhTFByYTFVcFJhaDFQUTJQTmRKRmViMFc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-25T21:06:00+00:00",
+      "summary": "Thrive Capital reportedly invests $1b in OpenAI  Tech in Asia",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Canada tells OpenAI to boost safety measures or be forced to by government - WKZO",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjYxOE9pQ3d3NzFndE5XdUQtVGxIMEpUbWd4emNYTjFRajhndjFtVEFPZUVEdE5fcGdHR3BsNVlzSFdnc1h5TTdkLVQtWjFLLTFCR3hVb3VDNmhjQ0ZiLVhoWE9reDZhZmFjWlhzV2lBSmxFUnpfOVAzZEFEYkJNNHZveDZuZE10a1ZMbVdCSmhrYUNEdVBZWnNEV0pqcFlETmoxbXpn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-25T21:00:22+00:00",
+      "summary": "Canada tells OpenAI to boost safety measures or be forced to by government  WKZO",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -76,24 +130,6 @@
       "summary": "Why Thrive Capital bet another $1B on OpenAI’s AI dominance  Tech Funding News",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Minister ‘disappointed’ in OpenAI, but why is AI regulation taking years? - Global News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa0RWWE1XSUlTWGs3MUlOZy1ZbEFaNExxLU1uSEdfY0JBWlN2ZnhZMV9XUVBpZnRvZ1lUYUYtZDJnTEI5d1pIWWNqMExoeU1RYV9LZnBHZlktZnVqOVhxWENEa0hGMkFHQ1F2dDloX0NMSFRyc1o4cFlLcTM2a29mYXpCRU9ULVBMQ0Vsc0ZYRlc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-25T20:36:42+00:00",
-      "summary": "Minister ‘disappointed’ in OpenAI, but why is AI regulation taking years?  Global News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw founder Peter Steinberger joins OpenAI - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSUJsTUF1V2FZSVFOb2QzYzJpYlJNX1NpSi1tTFdkUjRWd003NWJFa3NKUDFZZUpYcG14VmRCNzloRVVZRnh4bmR2X0pjNFJXcllHTlVMVENKWTg3OE4xZnJ0STZjVE5reTU0SlZFZGxBcGJCd2xwc19WWHpnMkhLaHVn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-25T20:26:11+00:00",
-      "summary": "OpenClaw founder Peter Steinberger joins OpenAI  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "New Mini PC Deals Cut Up To $30 For OpenClaw - findarticles.com",
@@ -181,43 +217,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGp0eElUallQLXdyeEotV1FhaUp3X3Zxc1lYSGUzdFJOMm9PZkVTUkdXOUNtX20zTHBOTHNIWEg0a1BpTHBoYk9CRDZnRFUyYlh4azMwSGdsa1l1WUpJVHUzT2V4blYxMWxGenhtQ3ZnSExvdlhiQ1ZyelBlTDBvX1BkMS16ekdUR0EyUzhB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-25T19:15:00+00:00",
-      "summary": "Canada’s AI minister blames OpenAI for ‘failure’ after mass shooting  PoliticoOpenAI's ban of Canada school shooting suspect's account raises scrutiny of other online activity  ReutersAI minister '…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHdfeTJQUWVMOGtrQXRsYWRUTnNNVzdycHU1US1KdE9HVXFDbnVnSWFrYnE4OXF5U3RkVGFtRFN3cGNKeFhlM0M5NWtMeTJVQ19WU294TDZmYXpqUk9OOEp6QzhlVXc4U3p5bXJiLTRqcHgya1l3dHpFTU80VDQtUkNNSmVDbWdYZ2s4TDlWS0F0dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-25T19:00:00+00:00",
-      "summary": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems  WIRED",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Feds threaten legislation unless OpenAI makes changes following B.C. killings - The Logic",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93dG5OV05mUHpPc3BhNDMxZm5ZQ3NLTVpwODk1NWxjbF8yQkRVbmhWMGdpdVBjNVRKRktCLVVyb0NWQTdsbjl0SU5jV1M5cklSd2xMYkNJemNQa3BCS1VReGVnQU51RTZIV0ExZHFvTjNLQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-25T18:49:00+00:00",
-      "summary": "Feds threaten legislation unless OpenAI makes changes following B.C. killings  The Logic",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Canada tells OpenAI to boost safety measures - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TZXk5OEV3NGo4eG9BOWNINDZmeVhGSDVBS0poMHNlaThXaFJMVk9ER0dUYUFsLXl2ZU1UTlY0cVZSZHpQazFDTkkzTDUwdGo2c2E2RmdMNlJwdGhwTW9NT2w5RDB6cHhEdEpYTGpRV1ZnMXBO?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-25T18:37:41+00:00",
-      "summary": "Canada tells OpenAI to boost safety measures  Latest news from Azerbaijan",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Thrive Capital invested about $1 billion in OpenAI at a $285 billion valuation, source says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81QUoyR2g4NXV2MDk0N0g3Z3I4QnpzUlo1ZmE3OElvZkhPMmRoajVNWkxPTXBxWmtwLUdwdjlOd0l2Y29PUmJvWXRFTkYzVFJvSVJrQ21qZnpfSTFZOEhZcC1qN2xCaDBNN3dvWEdfWjQ1VG5kd3VVY0ZXTERPd9IBgwFBVV95cUxPWXRkTnJta1NUeUVxLTFlWl9zS3JZX29LSzZ3MnNGTUJvZ2hKZzB5OElRTlFIaXBMNjFLLTdPWF9veFBfLU9YMUFyUTFSRVJJX3ZaLU90WGFUVUpiRGZyNXpNVDFnVW5IVEQ5VUdyb1ZpV3RfajVia1d3RGFwNWpkX3lpYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-25T18:36:09+00:00",
-      "summary": "Thrive Capital invested about $1 billion in OpenAI at a $285 billion valuation, source says  CNBC",
+      "summary": "Canada’s AI minister blames OpenAI for ‘failure’ after mass shooting  PoliticoOpenAI's ban of Canada school shooting suspect's account raises scrutiny of other online activity  ReutersOttawa warns …",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
