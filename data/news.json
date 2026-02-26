@@ -1,10 +1,37 @@
 {
-  "generatedAt": "2026-02-26T21:47:32.186988+00:00",
+  "generatedAt": "2026-02-26T23:03:22.704095+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMGRjV0FFUDV0TXNkQ1V4NWZqM0l5eGxLR2FqdGt3b1NJNlJiQlRRNmVTWlBwYkJwZ1BpcEZrYU1OR28xb19oZmdxSWFNbTdTb0pGRy0xRVptMmlpMWNGVkJtVnlQQU1GSXRvcjBndTc3WnhGTmh4blYwQjBrVW9iMVRRTU5tVUJMa3BvV0tNTDlTU2lPSTZsLU01eHlYcUVpbmpfdWI0eGtfb3Z3clBzeml4UW4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-26T22:53:18+00:00",
+      "summary": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents  Ars Technica",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Ruoming Pang, Meta’s $200M Superintelligence Hire, Jumps to OpenAI After Just 7 Months - observer.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9menctdFhZSXVoRkVNU05WN0Q1bU1qQUt3dFZOQmo2Y2p6a01weVlVbEM0SlVpOGpvZFZ3U3hGYXctYjYzbjJzWDdVRERtYS12dy1WTGRGRlp1bFAzSmx5T2VueWdnQTI5YWwxdzdpZkFtZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-26T22:43:45+00:00",
+      "summary": "Ruoming Pang, Meta’s $200M Superintelligence Hire, Jumps to OpenAI After Just 7 Months  observer.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI outlines steps to boost safety measures in response to Canada school shooting - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNck1jWE1Femo4RS0wY3NUTDN3NG95SE14Q1M2dW9MajhJV1czQngwRVBzZnRNdmp5cGE3eExuZ1AtRGhPRHJjYUN4Zzc0U2dUaWVSaWZUTzB1al9rLW9PM05jS2xxbFdDUGJGQWJWZl9NYmhzbUxGYWZRRmU1eEMxelNFWkF3LWktNXhJNXBNNUFJU0RwTzJickNjTVVjMnI2Tm9kMEt5dUh3cGQ1T2dGbmlFYVVBWlg5U3Y2RmM0Y3VGRmtv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-26T22:37:41+00:00",
+      "summary": "OpenAI outlines steps to boost safety measures in response to Canada school shooting  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Commits to Silicon Valley Presence with 439K-SF Lease - Connect CRE",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVBVNi0xS3N0WWxfdjZUV3BZSGJjbkZPY1R3WHVzVF9ZQ0dvSXhHWGk1cVpaRFQ1cnVfN2ZTTXZSeXVHWWxyek9rX2tJT0t6WDl3OW1Pd20zeVBmYWtWOXJURGVMZlhoWW9Fb0hLR2Q1akFlb19JRlVGU2hPREttLXpRRXV4WURhUEE1MHdQZ2ZHSmNiaEhSSW8tVzc?oc=5",
@@ -132,15 +159,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI blocked ChatGPT accounts linked to Russian propagandists - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmx6QVU2YkJjS2lzSElGbHpHMFlHaG1nS2ZnUEhYMzk4Tk5TRldMLUZZNDgtMHlPOVNiNTE3VnRaREdWTzgzdUxWbGtxMzFERFQ3WFhDbUxybTk4RC1Ea1M4c0RhbnV0eFg2TXJZcDZzc3NJTjRhemNqb2xySTVQOEJiTDlWOXBBZTRTSVByQk90OHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-26T18:16:00+00:00",
-      "summary": "OpenAI blocked ChatGPT accounts linked to Russian propagandists  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Amazon's investment into OpenAI could be tied to IPO, AGI: report (AMZN:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZjNjU3NyajAta1VDLXpLU3hrRWhaQ01SZ051aWFzRjBaYWtiWmVOR0xiY0xOOVRmZFVqenlkMHRaYXdkSkltZUpxNHVCdjZVX3BKT28xcDhFbTRuZml1SzFZX0lBMklocmxLa2lXWjZKZW9ral9nejAxZm1QMl8tdTJ4bG5mMmFITHc5LWM4bFdSSU5jaHZ5YnV4WFZNQnUwa0E?oc=5",
       "source": "news.google.com",
@@ -186,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI blocked Russian propagandists in ChatGPT: they were creating PSYOP plans and content for social media - Mezha",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jOFBrZ0xIMTZpdUhabVVacGN4aWJOMW9IcTJOSE9neERuZDZ6R1RNOUxpYVd1ZExOV01tTUZBN3NHR0wxTTZTNnMtNTB1ak9VUlF3Y0Zlc2VBZUZQQjd1Vi1aWdIBaEFVX3lxTE5mdlIya2liUFZ2YjV4VHRwUy1zemduWDZoYTlSeERPODl5ZU1DM0FMLXgyREh2MWU0WG1FMm94cVk2d0x6WkZSOVZGdDU3c1E1azRBd1ZXOHAyX0NsSlpTdUota3FnZ1cx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-26T17:41:00+00:00",
-      "summary": "OpenAI blocked Russian propagandists in ChatGPT: they were creating PSYOP plans and content for social media  Mezha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenClaw Security Risk: OAuth and SaaS Identity - Security Boulevard",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZENra3NLbU9wYnRCSmZnR0dCMml4MGJGOXVrYWswZGdlU3BReXpmNUx0bFR2TXE4UTl5cDVqc1lwamRLM18yTzFFOG9kQW9iektURjVoU0l5SzQ0Wm9BR09abV9ySXlaYXBRd1JDb0FwLXZzekFaT3JDSHJpa09BRzVWbFRhaEJDOFR5c2RR?oc=5",
       "source": "news.google.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-26T17:31:58+00:00",
       "summary": "OpenClaw vs Claude Code: Remote Control Agents  Unite.AI",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Perplexity’s CEO steps Into the AI agent conversation with Computer - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1R0Tjk5c05YMUN1Y0hIY1RER29wYXlzejJyOGlPcTk2TXZ0V0g0d0pNZlc1a0E5SV9oRllrZEk2UjMxbVFzQmExTV9FS1dwQU4tNXdvSTdmXzNTYmN4OEQwVlU5d0RSNEplZlRvaUZEZXdaNUs1NGFfNkNIYmoxWHNrN0lEcTVoYlY0Qi1Bc0lNdzRO?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-26T17:28:00+00:00",
-      "summary": "Perplexity’s CEO steps Into the AI agent conversation with Computer  Fortune",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
