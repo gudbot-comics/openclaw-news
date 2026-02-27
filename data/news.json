@@ -1,16 +1,79 @@
 {
-  "generatedAt": "2026-02-27T05:07:00.140942+00:00",
+  "generatedAt": "2026-02-27T07:51:49.297006+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI says Tumbler Ridge shooter evaded ban with second ChatGPT account - Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVExkejFDX0hLYjFHQ1k0UnJxejZVOUZNd19kS3d3c21kSjNpRl9ISngyS0VJU1Y5cjhHU0p1emNxa3lQV3JxQVlaV2pPbWFUdk5NTmU0SFVaQ1NEUDl2QS01WlpQMm9KS1BmN2RZNGpqRDhDT1k0cG1JU0hYdw?oc=5",
+      "title": "UK AI Agent Hack Ep4: The world's first OpenClaw-themed university hackathon is about to open. - PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CZ0ZfWlpEQWFSZzFreW5mbklWdjQ0S0FPbngzYnBWNlliRWN1OVFwd2JFZGF1R3pNcDFISlZuMDY1VXlXZ1k0bTA0cjNVX000dXJ4NFRnbW5NdGxzenVSTURSOTFZZWlNT3dUMXhLYlpCV3MwZ0xQQWNmUVFBczA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-02-27T04:17:17+00:00",
-      "summary": "OpenAI says Tumbler Ridge shooter evaded ban with second ChatGPT account  Yahoo News Canada",
+      "publishedAt": "2026-02-27T07:42:27+00:00",
+      "summary": "UK AI Agent Hack Ep4: The world's first OpenClaw-themed university hackathon is about to open.  PANews",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI closes $10B funding round as enterprise AI spending hits all-time high - Silicon Canals",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEZ0UjVCdWpoSVlHLTc2cEhZTEU4VnU4WnZrd3JZWUVIai1DalRJdDRJeU9SN1hzY21xbFVsMHYyaXZ4QzFiQXFKMVhDOXdtcnd3MDZYcE9tTy1qaHMtY3JaNXlsUDY3OFFRYlhVQmt2MmRkdHpZWVEyMm5XRzhHX1pBN3hnbmY3b1p1U3JQSXRHeDZzYnlvZDJpXzBESXNrWG1hdFRNWlpqeEVz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T07:21:09+00:00",
+      "summary": "OpenAI closes $10B funding round as enterprise AI spending hits all-time high  Silicon Canals",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI misuse in online scams involving OpenAI models - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPck9TTkd0d1JGUXVHUVVrZEFFX1hiR1BZN3dxdnVNdXZFdGdNdnJHeFZCaHhPbTNTNE5XYlp3ODFrTmlkM0d2Vzh4cEctUFotcTN4cnBIbmZOSWh0bGtRY1BnYkU5bE9lSG4wdlNITi03OEtWaDY5aU41MVNLU0JxMw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T07:13:00+00:00",
+      "summary": "AI misuse in online scams involving OpenAI models  Digital Watch Observatory",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Creator OpenAI Chooses London for Major International Research Center - Fine Day 102.3",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVhRS3ZKdzA0dUdCZkRhMjZ3Rk16cGhkZ0pUMVM2TG4ybkFOTXpvVFlNTVdrRDVzZk5JQ3dWRC00Z2JDQTlrMXlpZzFrNDlGa21kdzk1SVE4NjhhNXZZUm9PNTVoT0VYQllLM09xOUxycDdlZ250TWtlNkRHSXlmWXdVdnJjTmhlcWtRNjNZWlJ6dTM3bUk4a3pqckp0YUZhQVJ2d3hLQUQ3ZHM5bVVMODRfZEVWazBYd2ppbnRzT1UzZTNSVkpURm9lb3NHd19B?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T07:11:09+00:00",
+      "summary": "ChatGPT Creator OpenAI Chooses London for Major International Research Center  Fine Day 102.3",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to tighten safety checks amid global push for responsible AI guardrails - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVzFESnNNeHI2NFRXdEhoYWcwNlJyeWlyN09uekw2WHJmQlYteklmbEIyNEFQYXlxMVNGcFlERUhHRGRINk9QTWd0VElYQk13OXdLNlZXR3AwYXFQZkJJNzI4cTRJV3dybFVJVlJOaEJjc3kyLXdhYjRkcnlWa05oWkhUNElBazdVNENNTExWTXJUdHpyeVAyWDlULVFJNWtRend2a3RTaXEwVWVYWGRaRFdoc2dJWmo0SGdfOGl1TXMtODJHSGRVOC1n0gHPAUFVX3lxTE0tb0dFV0dTZnE5MnZoYWRnMmJBZm5uQVUwSEJQSS1oOG5HQmZwSGhNNTVTdG1paGswa0tjdWJ6RDdtQkFOc3dONnNscmU3Vzd3d2xZWWJuVjlfN0xIUXhSazdRR3BHd0NZUXUtNExoN3VhOEhLZFBSaEVOdkdqV2pjQUUxXzdHcW5YTm1naXAyS2w1WHVlUmxhS1I4YURVNndxdkZ3M0NKVkxDTkIyY0p0a2E3ejNPdDNCRWNCRlNDQms3WEVpZVZib1dsMEFWSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T07:00:41+00:00",
+      "summary": "OpenAI to tighten safety checks amid global push for responsible AI guardrails  Storyboard18",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw creator Peter Steinberger urges playful approach to AI coding - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrSEZ4cExFNXl1b3kwYlExN0JfQmJyd09uV0pydE44OW91UHE0Y0g1cHF1ZlFkdUZWNlRzR01sazNncWhnbmNpa2huRGNZVTROa20zaDlKdnlZNVFXQ3R1S1BtM2w2c1Bfa2J3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T06:39:00+00:00",
+      "summary": "OpenClaw creator Peter Steinberger urges playful approach to AI coding  Digital Watch Observatory",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI and Google employees have signed a petition opposing the military's AI use - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa3hzcGw4LTZrMkdQMW96MkdVSXJjVGUyZ1l2WnpSZTBCbDNHOVRUT0t3dFMtdE9wN0lYa0ZOX05lZmpwTGdGQTY2VUhoX2hNVHVGS3pITHdmQUFiZDJJWnZucGFUb2VHdExWcktpSTJ1QjNfQnVISUxpSERaaUhBR05QWC1PRmR3QlhvZjZrZWFyb0VGMkF2S2ZPLTYycEUwTTluREE0Y3MwRGF2c25lOHIwdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T06:04:00+00:00",
+      "summary": "OpenAI and Google employees have signed a petition opposing the military's AI use  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google and OpenAI employees join Anthropic's call for limitations of government and military AI use - Shacknews",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZnVZSlMtZjQ5NWhQR3FtSEVTQ01WaUx5bzhMSkh3VVBIaW1wNzgtVXQ5YWNhdEp5NGpsaGhLR2xVaGxVaTBFR1N1MDd0OUFJOTU2UmpUTWVCdTc1cHpfZEYyNUVHQTkxSGFITW1LSUNqNXdCai1BelUzdXlmRGJFbUlIbDZsMkhpb2pWU0NhTDZ1YWPSAZ8BQVVfeXFMT2VsRG0tTkhEbl8yQ3I4bzN2WlhScE0tN2tLVXIzRGUyeEtFV1RuZTNVLWpRbGp6bFhqa0ExZWdpR2Jta1l6RXZ5TGVzSjZNMVJoN3NRa2RMQjFBNnFFQjVrcF82cjZpRERlYmc1RFZsLXlmNU15SzRPRjhEZjFqWjNyRlB2S3dnb0Q1enI4UlkyTG9yX3NSQ1F0bDJadHBJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T05:20:00+00:00",
+      "summary": "Google and OpenAI employees join Anthropic's call for limitations of government and military AI use  Shacknews",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,6 +83,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-27T04:12:00+00:00",
       "summary": "OpenClaw AI assistant surge sparks major security fears  IT Brief UK",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenClaw AI assistant surge sparks major security fears - IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVRURG1GUmZvV2tDUEZzb1Nib0FKVUVkREh6UExnN2c1QVV3MWFjMDNjUnJIeVF5RkRpR2tqcFFLQnlvNzRJZlZkMXdWb2NtRlp6dUtEY2JJWE1fbUtOaU9RMURLWUZ1V0x5OTBzZ0syZS1fa2htV2J2OUxldnF3TC1wZ0N0Z3NqeWVGMg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T04:12:00+00:00",
+      "summary": "OpenClaw AI assistant surge sparks major security fears  IT Brief Australia",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -42,20 +114,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Tightens Protocol for Referring Accounts to Law Enforcement - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQRWQ1V01SX2ZHMG9ud0t6MnhGV2dIXzdoLTFWOVVLQ21BTTVtMzhMMGw1c1VWRllFNHJhcGJlRkpBX2MyMG5IaTc5NXRsUXlMcUNWMzFoWUZuNlNxY2F2U0lNekV3RmhpNkw2WVRSMjIzRkFxejk2bHZRYTRxWmt5ZkJSZUZVSXpjb1NsUDl3eVFBRlp6VWROazhtVGs1YU13cE1MdUdrdExsZEttYmpqRmJZZFkwMUprdTFYWmdVODZxMzlRSlZHcmc4cll3a3pPNGI5ME5TcTV3cW1ESUhpX2dZRDhPdmxrWXo0aTVWUTRnbXB3bW9LUmQwU2NvN3c3SE9lcnRWUE96VTFJcXRIRDFzU0thOE9BUlZMb0FWMGF6dThpdXNoRXMta3NnZVlWaXFaZWhzb3g3MjJaQWdQWEZfeVlwMVB6WkllNngzcHJqX1U3Q3VNelRnX3hKWDZlamxwTENLUkd3YjY4MVBXbDd2bHF4MFVraWJSZ2tZLUNkb2o3NFBlTVRaa0FFdF8yRk5SYjVRLVNlbGRpY294bHJUOFNYMVhHbDdZUnBpS0hXQzJZM1pTS21EMGtXZzZlb21TcVVINHRoRW93?oc=5",
+      "title": "Google, OpenAI employees call for unified front on military use - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX2dIM2JabkoxV0ZkVEpBZ0tBU2xBLU9SeUFTSFZPdE5KaHpXek9IN2JUREd0OF81enBWSVRRbVdoN0xQN2loazhCNHcyZ003SGFyWDhFRGhtdVBxLWJQa19nTUdDV010NTdiTEFkZXAxbGRCc3A0a2R0LS1WYTVydmstYVg4RXBsMnc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-02-27T02:17:00+00:00",
-      "summary": "OpenAI Tightens Protocol for Referring Accounts to Law Enforcement  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Google, OpenAI workers push for military AI limits - Axios - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblJmczdQcFk0MktOVEtUYjJic0ZLd0MyOTJvWGVBV3NvNDlSaGJTNmRFeFpXZVNXY01vd2RhWDZ4R2FsaG4wQ05OOV9GZTN6MHQ0MjVYR3JRakRhNWJ0MkgwMHRFUUFORm1NMWhUaU9PWHd2TnVOdHR6cTgzT3Zjak00dm16TXlEdGs4cXM3ekw3ejBTVGJiUGY1M1NjWEVkQmFsalpkVjVtdXdD?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T02:14:58+00:00",
-      "summary": "Google, OpenAI workers push for military AI limits - Axios  marketscreener.com",
+      "publishedAt": "2026-02-27T02:43:08+00:00",
+      "summary": "Google, OpenAI employees call for unified front on military use  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,15 +128,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-27T02:08:00+00:00",
       "summary": "Amazon’s OpenAI Bet, Antitrust Pressure And AI Turnover Weigh On Valuation  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says Canada mass shooter evaded ban with second ChatGPT account - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT01Gd0xsQkg3aTVDN1Frc0NrOFJVRlRQWFlxalVZTG80NU9DdFVaMGJSYmNnUWhnZ3k0czBtb3dQNDFKSHIwWlZRTm5xYllvaEhjT3JiR29yb2VqZDBtc29jSHk1RWg4WlhIUDNadk5LLU9wVDBYaGtVZzY3YlNac1FsUl9TWUNMTkZWQWZVRmk5QXV0OTJJNGh0enVNWHd3RnZxVWI3WlhNUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T01:57:15+00:00",
-      "summary": "OpenAI says Canada mass shooter evaded ban with second ChatGPT account  WRAL",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,29 +150,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Canada mass shooter evaded a ban with a second ChatGPT account, OpenAI says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWngxekpRTjFGUko1RFJjUXpQMDdKZXVfWmJQdF9lUkhuVlpQbXh5b0JodkkzMDdIN3JQd3RHeVJtN1p2NHdMNmZGeWpRbWl5d3dScFpJYUp1NFNzUTJaUm8weVEzRFJsb3BtTF85dkp1V1lONHJNeHBxemtrSzlMbE9DS25weV9CbW5XRGwxRW9sRGY1bkcyRXJNTWJCRGM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T01:51:00+00:00",
+      "summary": "Canada mass shooter evaded a ban with a second ChatGPT account, OpenAI says  AP News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Is your AI private? OpenAI and the Canadian school shooting - dw.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUpyRG04cUtwb2RUV3dnd01seGRjMHZyN2ZjRUYtckQ4TzlmQ292aHJ5eHNfcExMS2lXbWdlcF9tLUdhT0pjTnZnLWUxc2ZEU3FqNmlaTjY1STBQY3BIdlVNR3MyYVlzZ2NjbkppMDRoWUlKeFhLMEY3bF81TnhRNUNtaWR6Yno0WXYtNUxfRVJMamp1cW1IS3Bfdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T01:50:17+00:00",
+      "summary": "Is your AI private? OpenAI and the Canadian school shooting  dw.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Tumbler Ridge shooter had second ChatGPT account that OpenAI missed - Vancouver Sun",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWUlPRHBuVHZsVHFjMzBDdm1ubFRFVGlycWZiWGtaazVZUTU2Ynd6OGs1NEluV3ltTmJ6WS1LdUdHVWxybzg0Z0loZ3RxQS1teGtmSkZDbDN1SUpDaXBna3J3ZWhGZkVkZkJSbzZ1d1BNNEhEZVJMZjZfT2x2WWxoRzEzNDVJQ3drYnAyX2tGS19KemZVdHpWZndSSWRhdw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-27T01:44:23+00:00",
       "summary": "Tumbler Ridge shooter had second ChatGPT account that OpenAI missed  Vancouver Sun",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Google, OpenAI employees call for unified front on military use - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX2dIM2JabkoxV0ZkVEpBZ0tBU2xBLU9SeUFTSFZPdE5KaHpXek9IN2JUREd0OF81enBWSVRRbVdoN0xQN2loazhCNHcyZ003SGFyWDhFRGhtdVBxLWJQa19nTUdDV010NTdiTEFkZXAxbGRCc3A0a2R0LS1WYTVydmstYVg4RXBsMnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T01:44:02+00:00",
-      "summary": "Google, OpenAI employees call for unified front on military use  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Pentagon negotiating with Google, OpenAI to try to get them to agree to what Anthropic refused - Axios, citing letter from Google, OpenAI employees - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzhudENta2tQVEdCcllCcHlQZ21seUk2TnladDRMai1QYWloMGJRNHVWTWdlN29ybGF2VExFcXc2ZUZiXy15RzlENUZYQkJQV2xRTzJ3V2VOSUlyc0lnZGV5RGVoRWtReXdCQU5PVzJRWU5wX2cwNG43aUxGS21Pdmltal9MV1NWWHhVSWVCZDl3aFBuOXpteXRpdGVBOFpmT0F0VjhIWjNnVnhCZVVRM0RtMEJ6M1dmOUFBTzRRekNRT3hPMG9UT1RCWUozWmg4NmdQX0tUdS1KZjVGLVZuN0IzOXI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T01:43:36+00:00",
-      "summary": "Pentagon negotiating with Google, OpenAI to try to get them to agree to what Anthropic refused - Axios, citing letter from Google, OpenAI employees  marketscreener.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI closes $40B funding round as enterprise AI spending hits record highs - Silicon Canals",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU92YkhUMTFmWkMxcTZ4N0ZObzJZUXg4ODc3N2RGaVk5Yk1FenRrTlhOMGpWZlRuN2I3RDFRb0d4aW1LQ3plVWs4OGRDVlFlS3JxTW9XV3REdkZ0MV90Nm5EUUdiSFRVRU5HSlJvYXAyZXJWeV9uc1FOZG10bnJNRExVRmFWWlh6LVdnVTEtVll1YVdhV01Pam5ydXZ2OFNiM1ZFeWo1MEhjU2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T01:09:15+00:00",
+      "summary": "OpenAI closes $40B funding round as enterprise AI spending hits record highs  Silicon Canals",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Musk, OpenAI Spar Over AG OKs, Altman Firing, AI Safety - Law360",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXg4Zmw4bm5ibmZGbWdrbkNpWjYyeFdYR0l4a0xWUElfWTdnUzJwTk42T2QzNHlYS0NzT1NJMk9rS0pUcHdULXo4Q0pCUk5mSW03aml2VjhpR3Z5WnZ1ejFCOXBSUmwwRUhkRnZNSkw1Z0FvVzI0NmZQMFhQbVhjaWJxVFpGODBTUEFpQThZWVFmUzB3YWFYRElvNNIBWEFVX3lxTE5UcVUzVWRLWkJTVlBpaFpHM1dSRldQNHZ5a2pxQXZMQjlScU1JNkJrNHdLTWNPclJRV0Q4QmJ1TjdpcUdIMS00VzF5S3otT253VllaVXlfUm0?oc=5",
       "source": "news.google.com",
@@ -155,69 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-27T00:34:00+00:00",
       "summary": "OpenAI Builds an M&A War Chest  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI: ChatGPT weaponized in Chinese influence campaign - SC Media",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmJNUkhpc3VKTDNPZ2pDLVk3SkRJOUF4bjY4SFZ1QzY1anBpVm5VRWI5Rl83MHVqWVRxRkJfTW5vNnN4dVpObDFSNmphSy1aYkpCQ1pVNVM5SEJzQ0Vkb3FpLWJleUVCZW1hWEZjUkxPTHh3b29LZnhxYnFvdTBCTnk3TEV3eTRDWkNDYnZ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T00:20:20+00:00",
-      "summary": "OpenAI: ChatGPT weaponized in Chinese influence campaign  SC Media",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Shooter had second ChatGPT account, OpenAI reveals as it overhauls safety protocols - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVU1dUtwSEppX19KR3RUUVR0QUx2Sl9aeXZnc0xodGFJcE1lR1M1Z2Z6THJGZjBwczBvMU13dGt6a1didkpRaHB4UmZFOUFMbEJERW4xSkhQZjMzSE01SEpsTGR2Vl80X1BjanZ2ZTI5VXh6RF8zS0d2eXhqWWRnNGc2bGpUUkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T00:10:14+00:00",
-      "summary": "Shooter had second ChatGPT account, OpenAI reveals as it overhauls safety protocols  Politico",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "News | OpenAI plants Silicon Valley flag with major office campus lease - CoStar",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDBEaU1GVUZ2RXRTc0t3YUppUTZPTjgteDVWemYzSE9RMUxhLVlvVXNNZUg1QW9hMVNqcEtNM3FfekJHVkFPaU5jWXVOTFZUUWtqaHFwVlVYUV9ZMC1hR3Bzc1NQM3p4bUlHX0sxYlhHTlFLQ3VZcWFYWTVERG1sR3dwZ0xvUC1EMmlTR3ZmU1RYYkFueVVod3RHNWd5VEtaeFRKR3RrREx2Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T00:03:31+00:00",
-      "summary": "News | OpenAI plants Silicon Valley flag with major office campus lease  CoStar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI closes $10 billion funding round as AI arms race enters new phase - Silicon Canals",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYms1T1c1RXQ2WVd5d2plOWczZWk0NnEzTGNpdURnRGtNdUNPazlVZ0g2YWtJTnBXM2x1TjlfVHZjSEQyOHh6anh3SGQtVV9kRURFR0ZhYzE5alVIZGNrTlA4bnBkV21QQXZhYWUzdEFxU0hnbmp4d25PMkNSNndQWldnOWhwVzRDUFRFUTZTbDFzWWRWb25FN204T1RySThfQi1WWkRR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-26T23:29:44+00:00",
-      "summary": "OpenAI closes $10 billion funding round as AI arms race enters new phase  Silicon Canals",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says it would've flagged Tumbler Ridge shooter's account to police under new protocol - Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbERjZkktWW9TdkJleGdEX0piSTlJX3N6aVVTN1BlcGdZMXNkREl6c0dYb1ctVGlSR2ZTeE51UmdUUXB4VlNka3dsdTY5VUZIbWg2Vm13amt0bVF2RnpfT3dzT3I3cDdkQk13VTN0eWVCLU5ybWJwb3RQNzhKNG5Edm5R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-26T23:12:59+00:00",
-      "summary": "OpenAI says it would've flagged Tumbler Ridge shooter's account to police under new protocol  Yahoo News Canada",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tumbler Ridge shooter had 2nd ChatGPT account despite being banned, OpenAI says - CBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWDdoM2ZZYlk1ejJSdzBLZzkwS2dkdUc4ZXQ0TWpXWEVndnJxX2ttSDJ5S2JSdHBzT1lZZGVQcDlNQnNSN1dwS1UyUHlSSUVJckhCS0FRbmJpWnE1NFd0MkZOcXp5N0txb1pNV0tiejVjMjZ6ckthY3V2MzdLeTdGT3ZMLXRaYlM5SFRCOFlZY3g?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-26T23:12:00+00:00",
-      "summary": "Tumbler Ridge shooter had 2nd ChatGPT account despite being banned, OpenAI says  CBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says Tumbler Ridge shooter would be flagged to police today - Global News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWhxaGhwMWpmN3VhRkg3azk2RHNlb2ViYzBEYTVtZkNkNjdqY1lOTXdiNUhqdjZaS0ZMWFhwTm5MMy1UZDg1VmdybmdTR0hyR2dWa1FCeV9QMEtmY0RmYVF0V21HQkhxcGdXSTB5eGMtX05wY2gtTXlRc2FYTVV5Vw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-26T22:56:50+00:00",
-      "summary": "OpenAI says Tumbler Ridge shooter would be flagged to police today  Global News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
