@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-02-27T22:53:50.640378+00:00",
+  "generatedAt": "2026-02-27T23:49:01.497872+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Amazon and OpenAI partnership: What it could mean for online shopping - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0RGxYaUh0emdwVVFlTllJRmF2c2l1OEwxSC1UOEZkYzBpM0ZCWlRfUHRUMjFINUxjT3lKTkZYQ0ZPMk4xdTJZY1dNTXpLcWJrVzExZmF0Y0Npd3I3TXU0OEVaZWJmNUpHc3Iyck4zRUo4d1hKelE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T23:39:34+00:00",
+      "summary": "Amazon and OpenAI partnership: What it could mean for online shopping  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's big investment from AWS comes with something else: new 'stateful' architecture for enterprise agents - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEExRG1HZ2ZQajRHel8zWGJGcGF0eVhrclB3azF1bjExQkdvc0d6TUYtRy1uTF9wdnNsbzdBaDlQNnlhTDA2WEUzYnFBWkxEOE9iNFJ6QjVVOE10RjlqR0w1cFU2bTAxMXJDaXlSMzJXbTZVRVoxa2lZekpDUFB0RHEyemNKNThsdnEyS21ubU53d0VITUl4clhTMzJPVU5lcUMtb2lDaXRLX2JX?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T23:17:10+00:00",
+      "summary": "OpenAI's big investment from AWS comes with something else: new 'stateful' architecture for enterprise agents  VentureBeat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI fires employee for using confidential info on prediction markets - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGJhWWhMb0NiQ2xEUklNRzk2X1BTaEt1b09Ya2x3REpUaVl4NUJpMUtTTk9lTzFVbHR1bXVLby1VbGlLS0w5bHBVYXVnV25CelUtSk9HSU16aWFHOHItRm44b2xENWxPZERiX0FPaEtXd1RtOE1TYUZlMV9OeHdqUVRkWVBXb3VDTTJ3VlBEZE1rMlAxSlVJTW5DMDJXb1ZLNENhSDdYNGZWdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T23:00:54+00:00",
+      "summary": "OpenAI fires employee for using confidential info on prediction markets  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "An update on our mental health-related work - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tV3ozN3lKTjJySlFtZUVHWmJleUhHZ2lHZ2ZoTnNHc0lfNTRPYk9CZEVkd0ZEcTVXYU9IT0VyeWJlcmtQenhwX1ZKeUo4ZGlWRTVhNmlVOERXNG8tQlpRQi1ZVDVHYWN0LVpaSUpfaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T23:00:53+00:00",
+      "summary": "An update on our mental health-related work  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia, Amazon, SoftBank invest in OpenAI’s $110 billion funding round - The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNF9PcXR0X2c0OFR0LVo4Tk83eTVFSk1GSGtQcUJHTWZzUTlWZEVsQk4xNUVmSHAzeDRyVVV4VmVrMlFSdFdMelN3UHJ5SXN3NG1UYnlWREY5T0dXN3V3MHA4eW9KbGFKYl9meWxFcUV6b2FDaVNJSUQ1eW1zYV9lWVc2YU5kdWRZbmtYcE13cmN1b1dLOU5FcG5faURFRjBCUVM1OU1tMUdYUEhHZm9sREgtT2s3MW50TEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T22:51:34+00:00",
+      "summary": "Nvidia, Amazon, SoftBank invest in OpenAI’s $110 billion funding round  The American Bazaar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Amazon deal with OpenAI shakes up AI landscape - Axios",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuV1FPcUUyakhnMXoxYWhwSTZtek41bF8wcFlNV25VV01Ca0N0bl80QUg5VXpoYUpnT2RmVFMxSWRITy10M1BEdHdHS0lGdElFZ3hybGNwTmFfMkRmMjQ4aE9ORnhrZw?oc=5",
@@ -33,11 +78,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI says it will change ChatGPT safety protocols in the wake of mass shooting - Mashable SEA",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdm9kbElWT0N4akhHazJ3ajZtSl9EaHVid2ZrakRldWgyeEhvRXJQUHhQSGVhVlUxcUxoblE4aWtlNTFqUkw1ZDJjNy1FV1AzRk4wYkFoX3Zza2tycDhrcjVrXzZRMnZzdzh6YkNTdm53d0FlTk1zdnZnV3h5Q2NZcjlLSGU2ckIxeERLajJOZGp2UlJvMlcxVWlmTW5McTZWOVpFTUlvOUtWZkU5WjcyZnd3eEdUSlE?oc=5",
+      "title": "OpenAI gets $110 billon in funding from a trio of tech powerhouses, led by Amazon - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXNsdEJiSEFYNjZXQmwzMGhxZ2MxNmZQcjFJTjlYU2JQQmpEVDhkU2hUTktBRTZUMURHODVpenF5eG44ZWRqOW0zcDExNXI4U2ZmaUJnbGdydjEwV1RmVkRNb3praGxTU0xmcngtNjA1US1INjMyRkVVVkxKOG1DYllaMUtLN0Y0MnpLSGl5VXE2cXNyQmozZ3dVSndRdTFhMk9HSFBOQTh3Vmt6M2p1NkNuZ2gycTE0OFVNSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T22:23:07+00:00",
+      "summary": "OpenAI gets $110 billon in funding from a trio of tech powerhouses, led by Amazon  The Seattle Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says it will change ChatGPT safety protocols in the wake of mass shooting - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbF9SXzdmU1RUVlF2Zy1sQlpNcGxIbzdsQU50UDB0VWxBTFVwcnh2WWFOdi14UFFKclgxeWxabktQYVdrOER0TGM4UWZVb3lkdDhkVDlncXplV3hFVDYtb21YTWpSTndfSHFSd3VBOG9URmVCQ2kxOXpMVjd6eDRSSndtQjN6VnRrQ0cwOTBvZFVVekQ0SE5pNzRMNk92bnJwSVNhbzNQbw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-27T22:22:09+00:00",
-      "summary": "OpenAI says it will change ChatGPT safety protocols in the wake of mass shooting  Mashable SEA",
+      "summary": "OpenAI says it will change ChatGPT safety protocols in the wake of mass shooting  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -47,6 +101,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-27T22:13:47+00:00",
       "summary": "OpenAI Just Raised a Record $110 Billion. Here’s What Happens Next.  Entrepreneur",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iMUVvUFRUZkNwUkNRMVFvdnJwOFJNZ1ZjRWNTRnM3Zk1SeG5EczRmbjJQaHRWVGVNQThGTkdJUkZVNWhGS0o0cmlHM2s4Nlc0UHQtMXZyWWtkQi01NEtweG1jSl93MjJHdUhUMTMzYi1uVVdJa25DLTR30gF_QVVfeXFMTklPWGFvaE5KcVY5cjFQU2EwbXNsRFlBQVFSODhXNEhXcmdTWEpfRHBYUjFSa0ktcGdrb0kwa3pmbHpmYVY0LXB5VDdhb0x2RXlSMGpEd3A1NE1QZTZNUnoxU2hfdWlFdUs3cURPZmNpUmhFX1B2VU1vcnZTYWJLMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T21:56:52+00:00",
+      "summary": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,15 +141,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Canadian minister to meet with OpenAI's Altman to discuss safety measures after shooting - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ1JWU2VRMldmTFdvSWpZWlg0VHMtVF90YmdsT0Z5cUFuTUJNQ01HamppUnlkUF83S3hYejkxSFotWC04SklCalRIQkxUUHUyXzh3bHQ1Y2EyQUdUZUYwQ0RqeFJRV0NmcXVzajhRZkdhSmZ1MmZjUVluaHozUm44YlZudDhDMWNzNUJhZlE5RQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T21:45:38+00:00",
-      "summary": "Canadian minister to meet with OpenAI's Altman to discuss safety measures after shooting  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QcjVTMkc5LUJ0dkozaHc2eE1xaE84SXoxUG1VYlFKVVVDRHpDc2tJQ2FQYU1NLWFYVTdpQm10MkhDWTZUYzlCeG5yS2lMUU9NcXhZTGs3ODdoQQ?oc=5",
       "source": "news.google.com",
@@ -101,6 +155,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-27T21:24:22+00:00",
       "summary": "Amazon to invest $50 billion in OpenAI under new AI partnership  KIRO 7 News Seattle",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Has Almost 1 Billion Weekly Users, OpenAI Says - CNET",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUxvaWVEY2NMZkRoLWNadW9PbEkzSXNIV3VHTWE3SXNOTENkdW1BWlYwYWtNZEs4SXI4dnQ0TUJld2ZtVWpwNjh1Qm4tU3BINHQ4Z0kxRTZoTkRfT1JQalJoTUQtc3FQcUZCY1AzMWtpMUpnRnBVRElFZGFzYWFJLXNabUg3XzhWNFFVdGFIWWx5dlhE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-27T21:21:00+00:00",
+      "summary": "ChatGPT Has Almost 1 Billion Weekly Users, OpenAI Says  CNET",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,74 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Musk's Grok Safety Claims Unravel in OpenAI Deposition - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2FqVWwyNzY3a2ZfUjRweUdMOW5MZ1FEVVMzYmZjdUpMYnNvblJjTDZnVGx3VF9GRlpjNkRUY2FjOFR0NWlxQVQ4aU4wZFI2cjBBYTRjRVNUSk5XelcyTWYzOVpDQWpyU09iQkFtbmhjbG5qQ2U0RFpPVzQ3M2J5RnlyQnBBd0RFSzRHM3lCYWo?oc=5",
+      "title": "OpenAI says it shares Anthropic's 'red lines' over military AI use - Oregon Public Broadcasting - OPB",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3dqZzYwZ0gxU2NoRE5QZGg2UHZZZlJtbGFNaDVNVjBYbU5tVDFmRE1BdUo2eHEyZzRUSnRWcjV3b2N6ZEV1Nm1RUEVObEpES2lQQXlTcXBlTm5nUzMzeUIzWGVZVGRDYk43YlFyc0g2aGZPQ0Jaa2lYcFFGMlZjVTdGMHl1WjlXei1rYkh6ajdRb2ZmVFp5WE1Hay14djA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-02-27T20:21:00+00:00",
-      "summary": "Musk's Grok Safety Claims Unravel in OpenAI Deposition  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon and OpenAI Build Stateful AI Agents for Bedrock - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX1I0RWlQTVNxMGthM2xMcXpvQkc3ekoySEJJb1FWcHljWUhzQkt1UmQ1TFBhX3RGRHlZYWRNLVdiRmt6eGM1cnBvSmQyMGkySmwzeW5yNWp6a2dZNklveEhCWUdGck9rN3hoajR2cmtQNzgzdl9tVXdzRWFueGt5RGJSQzNFS245bXVoNTc1TzI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T20:21:00+00:00",
-      "summary": "Amazon and OpenAI Build Stateful AI Agents for Bedrock  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Fires Employee Over Prediction Market Insider Trading - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmtUMUJBbTdJeEV4d0hNLTVia0lkUnpiSmkzZmxUYnVHa0d4QzBKM1Y5Zy1GZkdMeURGRlR2bEl6eWNqbURQdzBWQWt3cm5ld2dFR1NMQ2tBQTREX1B1azNUV3NzWmtaVTZjemU5X3JTTzVmbkRIREJqNUhMMkxVbFVQWS14XzFHeWdFU0ZmRE1VRnZsZllzaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T20:21:00+00:00",
-      "summary": "OpenAI Fires Employee Over Prediction Market Insider Trading  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia's AI Chip Monopoly Cracks as Meta, OpenAI Defect - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDZTeHRGTWhTckQ5YlEzOHlRU1pBVmYzYlM4dU9NdnhOc3V6TElfUHNKUVRSMTF2MzJWTTRULVhNYjRUcG9qd3U3ay15Mm9EbWcwTTcyZlV6ZHA0SWwyS1JYX00yRl9KT0plYkM2MWd0UFQtczJBeHpJLWRsR19Fc3JUTUMwUWpsOHQ5d2ZlQlU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T20:21:00+00:00",
-      "summary": "Nvidia's AI Chip Monopoly Cracks as Meta, OpenAI Defect  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon’s $50 billion investment in OpenAI: What to know - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SOXM5SVUyZzVLV3dyemZtSjF1UDZzczFqN25pbUM1V2RGcVJYSWNxNm5GaEF3ZUI1QU9sbkY4M2RTRU9PY1p0R2dYNlNoQnB1TDlNcWdqY2JTdUVHRjFhTWdHcUJiajYyWVB3eEwzaFpuY1Y4ZWw2SlZjUk4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T20:06:44+00:00",
-      "summary": "Amazon’s $50 billion investment in OpenAI: What to know  About Amazon",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says it shares Anthropic's 'red lines' over military AI use - Michigan Public",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaF93THZoRnY2NG1aU1I4QnVvSTBUb3Q1cU5aM3JTZjlTYmJrRGdjMjBXQ3Y0eGpTYzVhVFN3M1NHdlNUOTc1ZHF4ZzBBUXk1LXNsUGwxR0FWOFctSVZWV2tFWlotSU4yektoV2N5SmxNTldoeG0yNFFHNzRHU1JBQV9UMXprMVU0ZDRrVHdfZ2ZrdGFqblJVQUVyYjlDVTlJQTA5MlFVT0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T20:03:00+00:00",
-      "summary": "OpenAI says it shares Anthropic's 'red lines' over military AI use  Michigan Public",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Does OpenAI’s new financing make sense? - Marcus on AI | Substack",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yQ3h1RGh0MXZLc19va09nbHJBUTRNaml1Uk53eDFNYUhvamNfU1B1Zl9famF6NUo0anY1TUk5ekFSTnJkNG41bDdESlIxaU9KbGhzYUtfMnJKTHdiSVJaZHlCZktvZkYtQ2YxR3BYVXdMNFVoREJHcE4wSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T20:00:32+00:00",
-      "summary": "Does OpenAI’s new financing make sense?  Marcus on AI | Substack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon and OpenAI's new Stateful Runtime Environment lets AI developers build without starting over - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdTA4aUNzcDZwZmxkWl9CWTgtN1phY0lMSEdaNjdCSVk2R29USHpvVURDelJGMXhGcHRMSUl3UHZiNEVaZm5ETlNsX2VpNFExY3UxWHJTNnBLQXVjeHV5bzdMc05LN1pHZ3VONm1qTE9qXzZaalVRbGV2aFVDOUdHOFNMZVJpZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-27T19:56:44+00:00",
-      "summary": "Amazon and OpenAI's new Stateful Runtime Environment lets AI developers build without starting over  About Amazon",
+      "publishedAt": "2026-02-27T20:44:02+00:00",
+      "summary": "OpenAI says it shares Anthropic's 'red lines' over military AI use  Oregon Public Broadcasting - OPB",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
