@@ -1,16 +1,52 @@
 {
-  "generatedAt": "2026-02-28T16:52:21.334125+00:00",
+  "generatedAt": "2026-02-28T17:41:29.331637+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’ - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDhHTDJROGNFSm9vWUdqU2JYQzZyZnhFcklYNjdhOGFoX1B5enRuc1M1Rm1PQlptb084NU9hZW5fZkdYRTgtbEotUWEzak13Z2Y0amkzaUVWb1o2N2hMVTJpMjJjcHItSVJ3WW12LS11WGI0RllNSndTOWhERlZzbGV2TzhKRFBta1ZzVnhIcnM?oc=5",
+      "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZF9wRGhqbUI1ekZ0OVRvelN1X3BSVFMxdVZQVzJrVjNfekJRN0lxOHh4bGtWNlphNXIwSzgtQTlETElSU3Jsb2EwNTdwa29BSUNVRk5PMGI2Vkktdi1NWUFFRXNOblZKZFUwbmduNEU1dmQ2S1lOd3pONnNnM1BNYQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-02-28T16:17:36+00:00",
-      "summary": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’  Yahoo",
+      "publishedAt": "2026-02-28T17:21:00+00:00",
+      "summary": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket  The Hacker News",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Strikes Pentagon Deal With AI Safety Guardrails - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVG1QZGdRTGRWSDBDQmFROE5RVEdlWV9MQ3ZQdEtGY1NyYVFhSXlhQlp0dVI1T2JVTlMyUjhCaS1uUHl3ZTlpZF9YTjlfTWZqX1BORnpTdGpOQ2s5S053MWZqcTN6OUtUOHZlWVRETmhBRlFYREZPbXVJVjBoM0p6bnFvNEE0OC1jWllWN0psWEQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T17:14:00+00:00",
+      "summary": "OpenAI Strikes Pentagon Deal With AI Safety Guardrails  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to work with Pentagon after Anthropic dropped by Trump over company’s ethics concerns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3J6Y3Z3N2dHZzY1bE51R2xfWTg2VDgwT2ZuMnRYZDlZcUd5YVBNU3IxTXl3ZEVvaE9iTlBIVzlHN2o3ZHVVTEdRanZIempWdXRCNGQtSzB0WV85d2dUbnFUcWp3R09QNlR1WEpoMFdlb0k3RURHb1Q2dnk4bnpMVlJWcGd2Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T17:08:00+00:00",
+      "summary": "OpenAI to work with Pentagon after Anthropic dropped by Trump over company’s ethics concerns  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Pentagon reaches deal with OpenAI amid Anthropic beef - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWJ1bmw4emVjZVM5NmplaXdDOE5zQ2VfbzBMTldQSWRlblBMQVdBRHdnYlRGZFNHcDRoZHh1R0VTQThrNmt1aF9aMkVyRk9Ld0ZGbUdRM25VNjZpWDNXUGRfSkk2LVIzbmJZSjJ5NS0zOHdQbmE5cVhnazQydnM2SUlXbEdUZkNPZk1NNWZtTGJWQlI2RlHSAZsBQVVfeXFMTVZSM292S0MwTF9yQWd3bURETWRCNXk5RGNkNnUtejhuWjFmSndLNk81bDhKbG5sblBkUmRCODZHbVBxUkxkZFhTd1NyVEVHa1BlcmpzdzZSRi1QczZObDJVMWQ0aHBZMlhtMFFhdGpVR1ZveTh3LXBGTDlTa2oyOUJvOXJJZV9aUEpocEpfVVFkRnRfUlNBQ1p5aDA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T16:51:00+00:00",
+      "summary": "Pentagon reaches deal with OpenAI amid Anthropic beef  The Hill",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump banned Anthropic, OpenAI cut a deal, and nobody is completely wrong here - The Liberty Line",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdzVJaTAyZnZEVGl1dzR2ajFya3gwQXQtX1AyWGFWZE5vLTZlNl9wUHN4ZVZTNV9scnM0SjhaUjNrTy1RejhVUUt4SmVNZTlud2VUdXViNTg5M2w3TGcya0lnUUF2X3VpeVBJWUlWcTlGT1hpZC12LTU0R1pYUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T16:46:21+00:00",
+      "summary": "Trump banned Anthropic, OpenAI cut a deal, and nobody is completely wrong here  The Liberty Line",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,6 +69,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeEV3TV84T2hjSlJLVkV6amt5ejU4MUpQQWUxOUNVVnk0V1NSNmdLNGFlMm1nVzZOdmxxRV9xUlFTSjRKSlhGRmg3OGtqemtiTF83NTd0TFVmQkppdVZ0WUQwYm1wcEN6RTdhTlZjT1VpTkZsNkhRQ3VtdGFOY1RBR0p3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T16:00:20+00:00",
+      "summary": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI sweeps in to snag Pentagon contract after Anthropic labeled 'supply chain risk' in unprecedented move - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDlwZDA3cDlZSXNNUTdTc2VZOW0xNl9RbS1DTFZMcGZVeDRWN3VmNlVoYzRMN0VtbWp0M0g2UFh4TWN5Ykc4N2djRlFRS3ZSNDlvZjFpMGhudzZmY2NTa0FRWHd5Slo3MHZzaEV1YmNFNUltT1VwcWJMbHZLdUstRUNMNkk5bzF5ZWQtUjJYamQyVTVhdDhkaFJvaFFnb2VVUXdEVmRlZ0NEVEdGbUpBRWVjY1RZdFdZNy1kenNSaU1IUmpxWGVwT3JR?oc=5",
       "source": "news.google.com",
@@ -47,6 +92,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T14:34:39+00:00",
       "summary": "13 thoughts on Anthropic, OpenAI and the Department of War  Silver Bulletin",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Hours after rival’s ouster, OpenAI inks classified AI partnership with US military - Scripps News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObExpcFUxSlZZNkhrOS1yaHl3S1gwVGkwcHQ3ZTlXNFRkblVFdVp6Q0dmTWJUcnpUSEQzMkw0dEI0S1I1eTVYMjRCeUp6b1ZiZklPdURnTXVibWFxcGtWb2NMbVRBSTZkN25nTFhUd2hnNF9YVHd0R2paeWZYLUs0ZDc2ZUtmTU5KLWN3YzVLUUVhMWtzSFgxdmdER184WnF4SlQxMDM1bjRHY0ZCZEFUOTAtWHYzMVhFTm81ZHo3bjlOM28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T14:01:33+00:00",
+      "summary": "Hours after rival’s ouster, OpenAI inks classified AI partnership with US military  Scripps News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,20 +141,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI raises $110 billion in largest-ever private tech funding round, Nvidia throws in $30 billion — AI startup now valued at $730 billion - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR19Tc19ZeWR2SzVULXdIQ2V0Vkp1T3FyTWlKeUlWd2dZRE94YTZpUTZBbkw5VThqZ2E5VE1YMGttaE5LMTE5Tmk2czhqcnlKSUNSVFJqWEJpRmJUMk5lQjdDRFJPUk5DWGQ3R00tdUlpRWpWY1VaRGNZSTY2TVNFS2c1ZEdObWZpZEc2bWk1elRwUG9NeGhLWUo4RTR5YlF6blVoSnlYeVlhdUNsNnBNSHZPLWVTcmxlWjNScW9Ydk5IUEJUQ3pZdnZpMEtoLXN1?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T12:20:00+00:00",
-      "summary": "OpenAI raises $110 billion in largest-ever private tech funding round, Nvidia throws in $30 billion — AI startup now valued at $730 billion  Tom's Hardware",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars - ARCweb.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3dXQkxWVXFBZmk4WlNPRTNNWlF2d1FlSk5HS1ZRVTZpTW5xc0FxYTcwZ25TODBKNkJ5MVBqSFJzM2FRRFJVRTc4Tk5kODkzbGNBdUlpVjVQcE5naWhxTXhTWkFqWktpUV9lWXdJaWlZMDF2SWFQT09qbVpOMUMtV1I3V1lSZWp6?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-28T12:00:00+00:00",
       "summary": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars  ARCweb.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Read memo that Sam Altman sent to employees hours before OpenAI signed deal with Pentagon and said that a - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQdHdZSV93bktDVzBIZ2NMekNSSjBhVXkwU2FVcEhUMzRnMnRzaHBhUENzYUpSR0M0REJNclV5MWdCT3lVV09mdDJUXzd6MnZBczRDRGtrTjFfVkNoRFVhbnd2Y2dab2tEZ0hyQnFCaWt2SWl3eDVydFc0MnAwaHVNWjV2cUFjWEJ0Q1kxODB5QXJMd0RxekxNQjl1Y1lIRzl6OHp4Mk5iNm14dW1WSUJzOUp1MlVQSjB6UWJEU0pkdm5nem9fTTI5Y3B5MHBUS1QwQU1wYll0ZWxpVGZ0YkhMVDZGeTNHYUF5d3FWU19PUFczLUJKNTByYnZ6WnNGT2xIc3l6VmFzZ1ZfcWVqRmMwVzd2ZlJPUjdxTFdjb2V2Q3ZGZTNWNEdOUmtFM3RvNXhNZUhhc0xRWEswWEMzXzlWQjRwSzAxSW1qN2dB0gHQAkFVX3lxTE9rS1ZXTl84STlVQ1RyWHRyVEpPaEkyZVV1X1JraGE1MmpHMFNCRXJ6Z1B0dnZwY29IdVVtdzBtV1c5cUJHTlROS19wUnRXU2RMaDQwaEpWZUtSUEsyUUNENkZ3MG8xMHhvLXd2VFMxWVhDUXhwSG02RzFUWHQ5WFFCUmV3RjUwaDFEV0g1R1VTcDNpRVBoajRCUWZkSjE5dVRiYUs5WE03eExUbjZGbjV6d0VWamU4OEh2QWtfdjFFNUh1T1VWeG5STmRiX0tOQ1F0TlVOdk93UElFUlNVVzItMzlVZTlSUEFFemc4QzZmd0tBcHVwYktEa2pFamwxZW9NcTFIWVg2VGwweHdsaDE3dk5QYWdHLTBfM29zM2EzYlN1THhRMEJoWTB3dFBwUkdDZXJPUWhfTGZTTGtnOU5TNElqSVZ1bndIU1BnVG1BVw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T11:41:00+00:00",
+      "summary": "Read memo that Sam Altman sent to employees hours before OpenAI signed deal with Pentagon and said that a  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Amazon and OpenAI partnership: What it could mean for online shopping - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0RGxYaUh0emdwVVFlTllJRmF2c2l1OEwxSC1UOEZkYzBpM0ZCWlRfUHRUMjFINUxjT3lKTkZYQ0ZPMk4xdTJZY1dNTXpLcWJrVzExZmF0Y0Npd3I3TXU0OEVaZWJmNUpHc3Iyck4zRUo4d1hKelE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T11:16:00+00:00",
+      "summary": "Amazon and OpenAI partnership: What it could mean for online shopping  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Meta AI alignment director shares her OpenClaw email-deletion nightmare: 'I had to RUN to my Mac mini' - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTJxbFVKekRQdXBqMzY2Z1dxRGFKSFI1YVBUV3F5cHJ3NVU0VW5NNm5qWGlsc043WFhPQnNjczBMQXhOQXBveWM1S0trWlNaZ2UwU1RrMklwZzZST1BRdkh6ZTVXUGlBajdaeGtQNlBaTjZITUo2amxza01TQWw1dHFYNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T10:14:52+00:00",
-      "summary": "Meta AI alignment director shares her OpenClaw email-deletion nightmare: 'I had to RUN to my Mac mini'  AOL.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "OpenAI Hits 900 Million Weekly Users, Raises $110B in Fresh Funding - Newsweek",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORzNKaGJHd2NUVFVXMlB6UkJ0WS1LQ3JxM1cwbDhEcXV4YWZVY3VlTmRuNFQ2RGhvNGsxanY3dHhGY2FYNXZjVkh5TDV5dEdNN0g2QmhpR0VYMzE3ZXFVN2R3ZmQzajZRSVhxVTB5STdvZkd1QWt6eTFiSDc1TGkycnJVZGVISTNCVTd5UmpSOC1wZWNMcktBNFNZWC1ucVFn?oc=5",
       "source": "news.google.com",
@@ -164,60 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T09:58:30+00:00",
       "summary": "Anthropic–DOD fight ends with deal for OpenAI  Morning Brew",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI for investors - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1dMQnRwanV4aGVGR0VvVEFmUWtVbEdhVEtkbTVMZEtacjJ3YkNPUXZaemw0cDNTUzIxck5scUFBcGxfc3ZQUUFWSkhLMkE1cFdNOUI0UjZJWG1hYTVfUkMyYUNKbjBaSTNINzBzQlEtc3Z0VmxMVUliaWd1MGZDZ3k2TmtYODVkdWtDYW9aczlldWVuWDhkNGVHWHNycHVrWVZQbQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T09:50:18+00:00",
-      "summary": "AI for investors  MLQ.ai",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI signs Pentagon deal for classified AI networks hours after Anthropic gets banned from federal agencies - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2RLWk1wYWc1RkRhQ1daSTZiZHdOWGtMRFB2Um5yaDZTbmlTckpaV2FkbmhNMk52aWRuM3RtRWxCZDRzNzhVNDhGc1ZxczUxQ25WXzZhWG8tcnZPdnpTTWowSWRqaVR0Nk1YOWh0S2pCbC1YRUd6Y0ZLT2xQUEgwamNoYkFjVWJLemo4Y0JLbDRVYjJtazJTcWpvSHVHYTU4LUFfanBHcUJuZ0NibERqWnNzMVBVOXcxRkNoU2d3VUpMbUN1cVR6dWpWUnNSOFU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T09:34:16+00:00",
-      "summary": "OpenAI signs Pentagon deal for classified AI networks hours after Anthropic gets banned from federal agencies  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI strikes deal with Pentagon to use tech in ‘classified network’ - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjBNNThzNnY4WXJwdG5RQnpTeDg4M1hRVEtKbmxzQUtqOXl2MlNsUHM4U3RtOUQ2a0sySDNEbjY3OE5GWU0xamRrNDNpcEN6eVBSMFpTWmZBVWFaNkw4UjktX2xydkpFSWdpTWVXNUFEVDJoNnVjM3NobmFyNGJrTm90N1l6N3FmbGIyazZvN0JsQ0lSSkRzYVdON293VTYwbzlwSUFvNFV0emtE0gGyAUFVX3lxTE5BWmNURXZ5dW12YklYckdoVFBQdUplV3BvTWdzRW5ReEhvekY5UlJKaHpvTmhDaTFIVWFCWURMNDFBM2NxX0tqX3h1YWh1TWlfelVjWWRhVHZBOVNIcFRJQTZwUFF6RVhfWTJQd2VHZnRJQW9VTkFoMW11MG5DSWhnWUdrRlJ4cnJ3b0xxM0hUZGZKRXA1MTd3Nzd3QWUtckE0TklVMkxBWHhEYTZJdjlhOFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T09:20:27+00:00",
-      "summary": "OpenAI strikes deal with Pentagon to use tech in ‘classified network’  Al Jazeera",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI expands London research hub - Digital Watch Observatory",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHOFBmRE1MTnl1dDNTLTl2MDk5NFlxLVJJazVkUUNxaU9kMzlVM01KMUdJOGtTWjh5SDNwZVN3Y0xqU3FzX3F2UEJOSXVEX0pSamhFcXVsUklBd092eFp5dEVxUDdSOW1BN25XUg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T09:14:00+00:00",
-      "summary": "OpenAI expands London research hub  Digital Watch Observatory",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon Commits $50 Billion to OpenAI in Strategic AI Partnership - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGZ6eG5YQWR2aEdRRkNlai1UX1IzblhKeGFEOHZOVktSTGFLelRSU1B0U29hTHJQRnd5bVZnMFpILVpNQnl5dlpFTF9oTEg2QjBqbXpybHBDYXdxS01PdUZBX1ZjX0d0aUlfMDByRmc1WEZ3cmZpSjQwaTcxU2RDVVJ1Z2M5amEy?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T09:05:18+00:00",
-      "summary": "Amazon Commits $50 Billion to OpenAI in Strategic AI Partnership  MLQ.ai",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI lands Pentagon deal after Anthropic standoff (OPENAI:Private) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnEyOFpLLXhYSDVWalllN2dEMGlDQmxwMkJzelAyWGNiSUZ2bklodVhQQm0taTh3UTRUOEhtTkZWSmFVUms4aTdKT1NPMXRueU0yOHMyMFZuX1ZWMTh4T0dVaERGZHFUYXlZNWNHZ3FKNFpCdU9yaFBRR09tNkJUbXlraWxfWjY2dEJWUi03M1kwS28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T08:53:47+00:00",
-      "summary": "OpenAI lands Pentagon deal after Anthropic standoff (OPENAI:Private)  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
