@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-02-28T23:42:24.014036+00:00",
+  "generatedAt": "2026-02-28T23:58:24.290074+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOblM0WVI1Y1YzcGJyazR6Um1Rd1c2Tmd6YTkwQTF1dWREUmFOQW1mVzFXRzNHdjZQaEpuN25nZHJkLVBya0k3Q3pNblRsTkI4Y0tpX21wUVJZYS00cGpOQy14WUJ2ZXZKMEt1VUFRTlBITlVQdlBDc1ZxWHhicFRJX2F1X1pVb011cnAwNWlCWVd4cTFKTUp0UllKZkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T23:54:00+00:00",
+      "summary": "Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI details layered protections in US defense department pact - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEZyaHBmVm54d0JrdnowZkpiM0Q3NHJhU2VGRm5sZ0tQSXE3TnRNRkVjTERjWnhTTlpVZk9iSFpxbG5Rekc5U281cnlDSWFSYkh0ZHFnTjYydVRZS1hFbkVTSXlmbGROc0oxNXl1QVdIS3Z6MWd6Z0ZaakpMVnNsSXhyNmpnNTdIVERFM3hEdVloazVDdTY1VjRrQ2hHTTh0VjhiTWN3bkRYY081OUh4ak9HdEt1eG81N1hsaQ?oc=5",
@@ -56,6 +65,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T22:48:36+00:00",
       "summary": "OpenAI says Anthropic is not a supply chain risk  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY04wV3FJdU1EUnY1dHduekxZcHZRVVgteVp1WlZXZm1EdFF0anFKM3U4WkFWWmlHMGNyc1R0VWxmYXhxS0s0RUVENG9lVTl4VVhseGRUd2pkRVY1UDlEV2ZreW5BQXpBQjExdFJYd0tNODNiSHUybU1OeHFrZnNoOExHNWxlS3JJdy1iNi1qcXNPNUVieWg1U3k2UVFTRmp5WUlBLTVXbEZGQzNvSWd3NXpB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T22:46:23+00:00",
+      "summary": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup  Bloomberg",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,15 +159,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY04wV3FJdU1EUnY1dHduekxZcHZRVVgteVp1WlZXZm1EdFF0anFKM3U4WkFWWmlHMGNyc1R0VWxmYXhxS0s0RUVENG9lVTl4VVhseGRUd2pkRVY1UDlEV2ZreW5BQXpBQjExdFJYd0tNODNiSHUybU1OeHFrZnNoOExHNWxlS3JJdy1iNi1qcXNPNUVieWg1U3k2UVFTRmp5WUlBLTVXbEZGQzNvSWd3NXpB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T17:32:00+00:00",
-      "summary": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket - The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZF9wRGhqbUI1ekZ0OVRvelN1X3BSVFMxdVZQVzJrVjNfekJRN0lxOHh4bGtWNlphNXIwSzgtQTlETElSU3Jsb2EwNTdwa29BSUNVRk5PMGI2Vkktdi1NWUFFRXNOblZKZFUwbmduNEU1dmQ2S1lOd3pONnNnM1BNYQ?oc=5",
       "source": "news.google.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T15:45:00+00:00",
       "summary": "OpenAI sweeps in to snag Pentagon contract after Anthropic labeled 'supply chain risk' in unprecedented move  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Perplexity Computer wows, Karpathy kills vibe coding, and OpenAI replaces Anthropic at the Pentagon - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVVyam5zcHZzS0xRREtTVlVJR084RERXNHhHMFFEbWpFSnQxalVsbFFySXBtMVlrZGNKcTFQaDRaS0RvaDR1bUVEVmZza1hPN1J4YThIcTZEbkJTdXpEU0NaVFFqTmR4OWw1clJXOXVnQXN6a3hkQ0QweW9YS3E2UU5rMkpBOGVl?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T15:18:37+00:00",
-      "summary": "Perplexity Computer wows, Karpathy kills vibe coding, and OpenAI replaces Anthropic at the Pentagon  The New Stack",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
