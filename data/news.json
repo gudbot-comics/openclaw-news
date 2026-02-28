@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T21:56:35.059225+00:00",
+  "generatedAt": "2026-02-28T22:49:12.315073+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -78,11 +78,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "War on Iran, crisis in AI: SF reacts to combat and diverging moves by Anthropic, OpenAI - The San Francisco Standard",
+      "title": "War on Iran, crisis in AI: SF reacts to combat, conflicting moves by Anthropic, OpenAI - The San Francisco Standard",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczUwZVpmaTdXVVBOQ1VubC12UmpWRUJubnBCeHNrLTQ4V2pJbDdxMS02M2hfa2pBdkNxY3F2ZjV1VmZBQ3owOVV5WGZPeTJMeXV1RFZIYlJBVEdiXzg4Z09aY1VNZjg4S2ZzUFZxdXR6Y2NnYWpaRkR3Wll3NnZNR2x1T2psZDhaUU5tTHlWSU90N0c2bXBpVHMwZWlYMkp6NXc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-28T17:58:07+00:00",
-      "summary": "War on Iran, crisis in AI: SF reacts to combat and diverging moves by Anthropic, OpenAI  The San Francisco Standard",
+      "summary": "War on Iran, crisis in AI: SF reacts to combat, conflicting moves by Anthropic, OpenAI  The San Francisco Standard",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -103,6 +103,15 @@
       "summary": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket  The Hacker News",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Amazon and OpenAI partnership: What it could mean for online shopping - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0RGxYaUh0emdwVVFlTllJRmF2c2l1OEwxSC1UOEZkYzBpM0ZCWlRfUHRUMjFINUxjT3lKTkZYQ0ZPMk4xdTJZY1dNTXpLcWJrVzExZmF0Y0Npd3I3TXU0OEVaZWJmNUpHc3Iyck4zRUo4d1hKelE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T17:16:00+00:00",
+      "summary": "Amazon and OpenAI partnership: What it could mean for online shopping  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI Strikes Pentagon Deal With AI Safety Guardrails - The Tech Buzz",
@@ -139,15 +148,6 @@
       "summary": "What are 'claws'? The next AI term you’ll need to know.  Mashable",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkJpRnh4c3VNR1dXaW9DSTFSVHpYQXVneS1IN1pGcTI2OUVkZm9zLXN2cy04bGFuT19QRnNkQnkwOVNmUWxKUm9MbVdYQTBUMGI0U2t0RUxoT3lGUERLclY0cTdoRUVXNEtZY3pIRnVkcU90ZU1xb3pfVG5aZTJ4Slh5ZGszQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T15:53:00+00:00",
-      "summary": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI sweeps in to snag Pentagon contract after Anthropic labeled 'supply chain risk' in unprecedented move - Fortune",
@@ -195,15 +195,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Amazon strikes $50B OpenAI deal to launch stateful AI services - Axios",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50VFA0a25NbVlhWFM4OEx1NFBESEh2ZU9GZ3RrVkZkdWtwQlI0bGpKMi0ySGpjOG1NZHpDUGdRclpsN1JtQmdWUy1wQ1RCQk5Kc25PZW9pR2h4LVFKQTM4VkVKS0QxN2NPNTBiTWlNUFo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T13:23:50+00:00",
-      "summary": "Amazon strikes $50B OpenAI deal to launch stateful AI services  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI calls Stuart Russell a \"doomer\" in court after its CEO co-signed his AI extinction warning - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlZWQlpqbXlFdmRlV2tDUm40Rl8wNFpsa0FXdk45dE9SZUhRTTVadXRsYzNIM2tPMXZtcWdnbHlIX0V4cnM5clludTNUb0t3SFRJNEUtTzZMT3pOMHJtVUJmNHpYYWExR1o5TE1rVU80UW92QU84aDEwWUdLbElDWk9OUExkUm9Senp1a0dhUG5NTG5nVjVYdXpzOGhBWEowQW1URDR5QVBmUC10ZTZMaWt6WWl3RTlMSDlfeA?oc=5",
       "source": "news.google.com",
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T12:52:51+00:00",
       "summary": "OpenAI Finalizes $110 Billion Funding at $730 Billion Value  Advisor Perspectives",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman says OpenAI shares Anthropic's red lines in Pentagon fight - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EZGZCUTdrTDFETnZTTVlpSjlSNkhFUDlHQ1R0aUhDTDZYZzh4NGtyMGV0RDNQeHdSUFM5U0dRcUtNNkZWUlFyN3N1WFV0QjBoSkM2OEYtVktTYlhGZDNueXV0dUs1MXVyMEk4R18wOTNwOTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T12:00:17+00:00",
+      "summary": "Sam Altman says OpenAI shares Anthropic's red lines in Pentagon fight  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
