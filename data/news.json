@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-02-28T18:59:15.384090+00:00",
+  "generatedAt": "2026-02-28T19:38:14.740384+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI just raised $110 billion and it still may not be enough - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkZzMm1qVkMzYkRqV0R0Ti0xOHk0ei1xcU9yZ2VuLTl4VFlXQV9LY180VngtV3Z2MzY5TnA2WU1PMWVyMlFXNjNaSnNReER5VFdVOTZhUjJyMTVaU1FIQzlISnFlSUhhZjR6ZjNQNkRkVXJ2eU1iUTRqZTg5ZnY5YlhrMWxTMC1qdUtZYi1GVFZfMXR6RndScjNHVWw3Njg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T19:33:00+00:00",
+      "summary": "OpenAI just raised $110 billion and it still may not be enough  thestreet.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI gives Pentagon AI model access after Anthropic dustup - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeEV3TV84T2hjSlJLVkV6amt5ejU4MUpQQWUxOUNVVnk0V1NSNmdLNGFlMm1nVzZOdmxxRV9xUlFTSjRKSlhGRmg3OGtqemtiTF83NTd0TFVmQkppdVZ0WUQwYm1wcEN6RTdhTlZjT1VpTkZsNkhRQ3VtdGFOY1RBR0p3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T19:07:02+00:00",
+      "summary": "OpenAI gives Pentagon AI model access after Anthropic dustup  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI to work with Pentagon after Anthropic dropped by Trump over company’s ethics concerns - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3J6Y3Z3N2dHZzY1bE51R2xfWTg2VDgwT2ZuMnRYZDlZcUd5YVBNU3IxTXl3ZEVvaE9iTlBIVzlHN2o3ZHVVTEdRanZIempWdXRCNGQtSzB0WV85d2dUbnFUcWp3R09QNlR1WEpoMFdlb0k3RURHb1Q2dnk4bnpMVlJWcGd2Zw?oc=5",
@@ -15,11 +33,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "War on Iran, crisis in AI: SF reacts to war and diverging moves by Anthropic, OpenAI - The San Francisco Standard",
+      "title": "War on Iran, crisis in AI: SF reacts to combat and diverging moves by Anthropic, OpenAI - The San Francisco Standard",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczUwZVpmaTdXVVBOQ1VubC12UmpWRUJubnBCeHNrLTQ4V2pJbDdxMS02M2hfa2pBdkNxY3F2ZjV1VmZBQ3owOVV5WGZPeTJMeXV1RFZIYlJBVEdiXzg4Z09aY1VNZjg4S2ZzUFZxdXR6Y2NnYWpaRkR3Wll3NnZNR2x1T2psZDhaUU5tTHlWSU90N0c2bXBpVHMwZWlYMkp6NXc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-28T17:58:07+00:00",
-      "summary": "War on Iran, crisis in AI: SF reacts to war and diverging moves by Anthropic, OpenAI  The San Francisco Standard",
+      "summary": "War on Iran, crisis in AI: SF reacts to combat and diverging moves by Anthropic, OpenAI  The San Francisco Standard",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,15 +96,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeEV3TV84T2hjSlJLVkV6amt5ejU4MUpQQWUxOUNVVnk0V1NSNmdLNGFlMm1nVzZOdmxxRV9xUlFTSjRKSlhGRmg3OGtqemtiTF83NTd0TFVmQkppdVZ0WUQwYm1wcEN6RTdhTlZjT1VpTkZsNkhRQ3VtdGFOY1RBR0p3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T16:00:20+00:00",
-      "summary": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkJpRnh4c3VNR1dXaW9DSTFSVHpYQXVneS1IN1pGcTI2OUVkZm9zLXN2cy04bGFuT19QRnNkQnkwOVNmUWxKUm9MbVdYQTBUMGI0U2t0RUxoT3lGUERLclY0cTdoRUVXNEtZY3pIRnVkcU90ZU1xb3pfVG5aZTJ4Slh5ZGszQQ?oc=5",
       "source": "news.google.com",
@@ -132,6 +141,24 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "St. Bonaventure partners with OpenAI to provide ChatGPT to students, faculty - the wellsville sun",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQWZsZGdQcGdQUFR1UXJBN3J0VlNvV1gwS004RHdKQzhRbnhrSndZdmRONGV3MHlVeFNzTWp0N3RSc0VDbUJnUXY3LU5lVVNBaU9ONmxDaHJuSjUzOWlRazl4M0ZTZnBYaUtfbkVxaXNSVjVTTjd1RHRSOHByZ3FPSkJxcElkQXFIdTVIV2JwRkUtR1UwdkQ0eHp3enQyTndzeWs3TjhhUGg3b3BVQWViQ1I0c3ZZb1M4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T13:31:30+00:00",
+      "summary": "St. Bonaventure partners with OpenAI to provide ChatGPT to students, faculty  the wellsville sun",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Amazon strikes $50B OpenAI deal to launch stateful AI services - Axios",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50VFA0a25NbVlhWFM4OEx1NFBESEh2ZU9GZ3RrVkZkdWtwQlI0bGpKMi0ySGpjOG1NZHpDUGdRclpsN1JtQmdWUy1wQ1RCQk5Kc25PZW9pR2h4LVFKQTM4VkVKS0QxN2NPNTBiTWlNUFo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T13:23:50+00:00",
+      "summary": "Amazon strikes $50B OpenAI deal to launch stateful AI services  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI calls Stuart Russell a \"doomer\" in court after its CEO co-signed his AI extinction warning - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlZWQlpqbXlFdmRlV2tDUm40Rl8wNFpsa0FXdk45dE9SZUhRTTVadXRsYzNIM2tPMXZtcWdnbHlIX0V4cnM5clludTNUb0t3SFRJNEUtTzZMT3pOMHJtVUJmNHpYYWExR1o5TE1rVU80UW92QU84aDEwWUdLbElDWk9OUExkUm9Senp1a0dhUG5NTG5nVjVYdXpzOGhBWEowQW1URDR5QVBmUC10ZTZMaWt6WWl3RTlMSDlfeA?oc=5",
       "source": "news.google.com",
@@ -155,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T12:00:00+00:00",
       "summary": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars  ARCweb.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon strikes $50B OpenAI deal to launch stateful AI services - Axios",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50VFA0a25NbVlhWFM4OEx1NFBESEh2ZU9GZ3RrVkZkdWtwQlI0bGpKMi0ySGpjOG1NZHpDUGdRclpsN1JtQmdWUy1wQ1RCQk5Kc25PZW9pR2h4LVFKQTM4VkVKS0QxN2NPNTBiTWlNUFo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T11:59:46+00:00",
-      "summary": "Amazon strikes $50B OpenAI deal to launch stateful AI services  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -202,24 +220,6 @@
       "summary": "OpenAI reaches Pentagon agreement as Trump orders Anthropic off federal systems  Fox Business",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "\"Cancel ChatGPT\" movement goes big after OpenAI's latest move - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNemZLM1VKUkxiLVNLMkFJRDJxa3VqV3pEUEFEQ3JOYmJ6QWdQNndYVDNmT2RnRURlUmNndnRuQkxwYTRwcTZjNVJWdmQxQTFsRnhYam81cEVmeTNpcl9FQ202bnV2NS1XSGM5OTBTWnhuM0U4TUE3Wk1qbzRrenpSS0Rqa3JFdkpMLUppUXNzOFcyYVlmQzVJY2FRZUtFVWRtZ29oYVpGR1RGS2pSRTMtVVM2UnVtdUx4endoSjl3TTJ0WXJ6bEJIZU14Y2J3ano1Q3lyVVR2M3U0OUJERjV2M2UyYzZsWVF4ZWNISzV3TnhjSVBRVjl2Z1ZKaGFDXzJUX0xmV3ZOWTA4dzdHMEI3QjRBRFpQSktNOTQtY1NmXzRlUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T10:21:44+00:00",
-      "summary": "\"Cancel ChatGPT\" movement goes big after OpenAI's latest move  Windows Central",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta AI alignment director shares her OpenClaw email-deletion nightmare: 'I had to RUN to my Mac mini' - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbTJxbFVKekRQdXBqMzY2Z1dxRGFKSFI1YVBUV3F5cHJ3NVU0VW5NNm5qWGlsc043WFhPQnNjczBMQXhOQXBveWM1S0trWlNaZ2UwU1RrMklwZzZST1BRdkh6ZTVXUGlBajdaeGtQNlBaTjZITUo2amxza01TQWw1dHFYNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T10:14:52+00:00",
-      "summary": "Meta AI alignment director shares her OpenClaw email-deletion nightmare: 'I had to RUN to my Mac mini'  AOL.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
