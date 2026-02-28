@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T19:38:14.740384+00:00",
+  "generatedAt": "2026-02-28T19:52:14.345096+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -20,6 +20,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T19:07:02+00:00",
       "summary": "OpenAI gives Pentagon AI model access after Anthropic dustup  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman Is Marketing OpenAI as America's Wartime AI Company Whether He Intends to or Not - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckVER0VkMUN2U3V1bjFuYktBemxiT3otV05tWk13YlNyTDlUQXJfZXRpa2FEdEF0OS01MWM5N0Fhd0d4Z0dHVkJfdkZObDd2UTY5UVVVQlRlb3hHQXptc0YyU3FGNTdxQnk0UWM3NExWU0FIRTJyd0t1S1g3eEZqODN4dzdzdUp4aTZ1Q3hwTUw5U3RnaUdFRVo2S1dDVnlCVXZZcUpYZzI3RU16eDluSV8tb2U5MGxuWjFrTlVn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T18:54:45+00:00",
+      "summary": "Sam Altman Is Marketing OpenAI as America's Wartime AI Company Whether He Intends to or Not  Gizmodo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T11:11:26+00:00",
       "summary": "Amazon And OpenAI Forge US$50b AI Deal Centered On AWS Growth  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI reaches Pentagon agreement as Trump orders Anthropic off federal systems - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHhUZnBySS1iWDJFUVlmbWllMkV4dkxTODBHNzJYWGhUZUVSS1dTVXpzVFBreWV1Y1NraHZVY2lGLUVKS2RVY3hRZ2puUnotb0ZXY1Y4bnRlZElLNWhkWmQxeXA3N2pKd2xaNXVfbWdWMmpxazFOTjhGWjNPYzBzSGd6Y1NKNWRyb2FJTVoxMmtLbDFEazgwRHJWcm9Cd1VXQ1ZiYVdfZFY3WlJNNEhWTWthSdIBuAFBVV95cUxPOXJjZnpUUWwteURmLVlBNEdmSnFpcjhIUmxZSXJXc2tucHREUUJkZzR1YzF1TzdrUnBxbjVaUnM5eXpWclpfS1NIbUVKTm9ORUdzSXBPcG9BTUR1UFhTOFdsYnpVUkpId2pmeGZFS0w1S1pyTjlIU1RjRnRaemZCaGFZX2dOTE5vOVZDQktuVXlFMmxRWTdpS2VCYnNpX1dGMVdQd05NS3BRV0FDanNmNHViSW1NUFZM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T10:49:00+00:00",
-      "summary": "OpenAI reaches Pentagon agreement as Trump orders Anthropic off federal systems  Fox Business",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
