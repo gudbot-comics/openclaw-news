@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-02-28T07:48:50.124863+00:00",
+  "generatedAt": "2026-02-28T07:59:44.677721+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars - ARCweb.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3dXQkxWVXFBZmk4WlNPRTNNWlF2d1FlSk5HS1ZRVTZpTW5xc0FxYTcwZ25TODBKNkJ5MVBqSFJzM2FRRFJVRTc4Tk5kODkzbGNBdUlpVjVQcE5naWhxTXhTWkFqWktpUV9lWXdJaWlZMDF2SWFQT09qbVpOMUMtV1I3V1lSZWp6?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T07:52:56+00:00",
+      "summary": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars  ARCweb.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "US Pentagon turns to OpenAI after blacklisting Anthropic - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjVrYkZHQk81dXNqTWlmZkJCb0MwekNmUjBadWlRVm5DNHNGRzdaYW1yNnJVVXZHQWJXTFEySC1ZVHUxY2JQMlU2c3h1dnFvckYxb3lFeVJLWFJlWXo0MEJmTVBzN01OaElXTExBalpJUS1OY1dEdjRmUkJhdkd5UDBVRXQ0RVM2Nm9WWXA3cXA3UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T07:43:00+00:00",
+      "summary": "US Pentagon turns to OpenAI after blacklisting Anthropic  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI strikes Pentagon deal with 'safeguards' as Trump dumps Anthropic - hpenews.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSHdGdkVwRUpNaktCYlZVcXFROW9XcWJPZFlVdFU1eFhrRkZmblNXN2ozYkx0U0VxYmpEbm9RODBtRVlObHZIdVY0UG5CMUF2N3A4MlU4UFNiUDVURkVZOFVQRkg3OVJXeE96bXFaaXhON3h2MUNEdWZBQklKZ2NySS1hazRGYkJQa1VyZU1PZHl0MUJpVkU5d1Q2SFFXRjBDMkpWNTRpOFBGeGlaQ3o3TFc2cnpVYXFGaEo3ZDV6SXVlclF4aUxKYm5wX042aGlMYUQtLXZjdUF4c3FYUVJqZW9OVWdnSnYwWHdWU0tR?oc=5",
@@ -78,15 +96,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI reaches deal to deploy AI models on U.S. Department of War classified network - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQclVfbUxDNTg0R0dENk9hZGd2M0Q3MW1CQXVTNHJVTGZrbmJYeC1VYVhTX1JRVjRMcTdBN0tzMGl1WmNiblFfdUFpNExyQW1DbU1hR0lnY01PYXpxWEN3dFN3U193NWJKc1VhV2dZQ2tIVG9tU3owZ2pJeXpjUFFJU1F5bTdEN3ZTREhaYVpfdVdoc1ZYWnVHVVp4R09LTEN5R2NFQnlxWHk0WnNiUnJORzNUal9SdTBfSUhPSDI4NGVSUk5ObURNanMtZ1FnNVF0S3pKbXY2MnkwUVNHSEQw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T05:39:00+00:00",
-      "summary": "OpenAI reaches deal to deploy AI models on U.S. Department of War classified network  The Detroit News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Pentagon approves OpenAI safety red lines after dumping Anthropic - Axios",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVlWNS1YcUVNLXk3UUdTcVVUbm1uZzZYNDNwVkhnZ01nWDhCNVRwQ0hScl9iUkh5b0hfdXhPbklCM2o5NGpubFVqd3JxUDBiNVJwN3J0Z05nakZzdG1EWW51dFJWcWlLYm9wRnRhUVhUZkx1blpieFRVZTNOLXlNYw?oc=5",
       "source": "news.google.com",
@@ -124,7 +133,7 @@
     },
     {
       "title": "Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQaEExZkNGOVFKMDBjT0pNZHFSbUdHNFo4WkJiTWNhV0RUeWFtOUstY0hpZzV0VGZXLWVPeE1UMUQtOGhocHFyUGJxcUlncDU2NTVUYTNrSXhzY18xZlJjbjQ3eVRVb09lelhwMFNBMUN3UkJKZ01pdkN3MmJNSjhVbjBoYkU4YVBvckNRazJqVzdXU3V0eWhmeFMtaWphX2tIYzBJa2JjWVB1V1lVSzlsZV8tX0sxM2FqQjhMVkY0aHlGTmw1QkRjZENWMVEyRUV1dWh2TWp6VW94dEY5MUdabEJwZWNfZXg2Sy1SMURkM3ZGdFdBcGpyRjVIRnNqeVZjTFJreVFIMldmYU9HekNoamozUUgzWUJOQzI3bDhHaE9LU3piSXM2TGZUSnNvdVNyZktqZHR5emRYSl9ybFk2ZGxLZDB0ZEpta2tRYnY1cHlKNS1IdEhCV3Bzbkt3YnhyYzNiWktjN0V4ek9VUUVpZVpxREZRRXFiUEUyODI0MWxYYlhPSzk0aU13Wmh2NnY2M28zTmh6OUVYUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOaVBXLTJ3WjlHWEFhUmZ2aERYVDZPM2hXdE52aGZwaHNfUGt0VjNSNVBrOTlIOW9MZUNKT3FxeTFnVUJfSXktZnM0Q0Y2X0dkZy03Y2o5UWg0blFrMnVYSjktRXN0amZsdVBkNVFkekU5dTFxQzBGZlg0NzdfcmEyUm1UUnktYWlOdmszYklJRG9mS2xXQkl1MHZXV3hjU3dmRF9MV3FQLV9oejlabVAyc2lZc3NYS1hwcmw0WWExUlVPLUJFUEhPN2l3ODBCSEJZN0d0T3JLSXE2TXR4dTU0QVlWd3hBa0FIUmNPOHFpM3dnbVhhOS1CcTVCUHFJQ0dqZG9wSEFaQXUxeXRxUDB4WDZPdGt5TERNd3V3YzN0R0lqNDY5cEUyMnBuTWRzS3h2U1IxUmpVaHV3Wi1nTE9TZUNVbjNGQUNLZER5UzVmYUZvczVsY1U3dS1mcFduTC1JZFBQdGJGOEtrdFhzVC1lX25say00RWR6VWdfUWZaYUp1ZlBnc3hFWHh3LUJrTzdYMjZhVnRYMWFLZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-28T04:53:00+00:00",
       "summary": "Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails  WSJ",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T04:21:00+00:00",
       "summary": "OpenAI strikes Pentagon deal with 'safeguards' as Trump dumps Anthropic  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to get $110 billion investment from SoftBank and others - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3lTWkFXbTVKSUswTkR1d09zeDN4MkJsU1pMajdqX1VPZHVwd1FMc2NLM1ZmNkRjbGFHMWdmTUx2ZWw3OWhlU3RWYlpoS0JTMkpDcFdPZFJMTFA1TktPSmFmQmlwcWdZUmFOUXRFenVHV25MZDVNaWZmektnS0dhMmFkaGlpbVFy?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T04:16:00+00:00",
-      "summary": "OpenAI to get $110 billion investment from SoftBank and others  The Japan Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
