@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-02-28T14:44:45.877545+00:00",
+  "generatedAt": "2026-02-28T14:58:21.181187+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "13 thoughts on Anthropic, OpenAI and the Department of War - Silver Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTMk1wcGJ2cnNGRkQ2OXhkNUpubDB3SmVQYzlUSjI2SGNtODBUdmMxTHhCd3Y5b1JUMnRudmJGaDI5ZGIyU1draU1zdm9hY09meGE2eE5tcWVVaVdYVHBpMkZyeFBPTDNDbERVRkVISVc3T2M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T14:34:39+00:00",
+      "summary": "13 thoughts on Anthropic, OpenAI and the Department of War  Silver Bulletin",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "St. Bonaventure partners with OpenAI to provide ChatGPT to students, faculty - the wellsville sun",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQWZsZGdQcGdQUFR1UXJBN3J0VlNvV1gwS004RHdKQzhRbnhrSndZdmRONGV3MHlVeFNzTWp0N3RSc0VDbUJnUXY3LU5lVVNBaU9ONmxDaHJuSjUzOWlRazl4M0ZTZnBYaUtfbkVxaXNSVjVTTjd1RHRSOHByZ3FPSkJxcElkQXFIdTVIV2JwRkUtR1UwdkQ0eHp3enQyTndzeWs3TjhhUGg3b3BVQWViQ1I0c3ZZb1M4?oc=5",
@@ -69,11 +78,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars - ARC Advisory Group",
+      "title": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars - ARCweb.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3dXQkxWVXFBZmk4WlNPRTNNWlF2d1FlSk5HS1ZRVTZpTW5xc0FxYTcwZ25TODBKNkJ5MVBqSFJzM2FRRFJVRTc4Tk5kODkzbGNBdUlpVjVQcE5naWhxTXhTWkFqWktpUV9lWXdJaWlZMDF2SWFQT09qbVpOMUMtV1I3V1lSZWp6?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-28T12:00:00+00:00",
-      "summary": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars  ARC Advisory Group",
+      "summary": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars  ARCweb.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -83,6 +92,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T11:16:00+00:00",
       "summary": "Amazon and OpenAI partnership: What it could mean for online shopping  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI strikes Pentagon deal with 'safeguards' as Trump dumps Anthropic - The Mountaineer",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSThrXzB4RE1EMk11aFQ0Wm5XUklZVFpoV0h6c2VwejRqOWZMWHpUZ1dfS0pHdFhwZzdGc0RLQmpUZGZHc2IzZV9YdUNVNWtCVUFub0xYQzRFX2tFdnliTWg4aWdiR1JtRUxJalRTMHNIczFlYWtiQ19ydnVINEV1WTU0bDI4akdPWkhHTm9NUUEwNFhTcmJzb3o0VzRvanhmcW1YUTRqelZTZTNMVnVTVkVVTXprMU5FQ20tcUdXdENvRGU5Wm5tZDVhRkhmb0ZyeHBHejNrS1ZlRHNsbldCcjdtN1hZc09uRG0xTnVJN0dxTGJNRnRB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T11:15:45+00:00",
+      "summary": "OpenAI strikes Pentagon deal with 'safeguards' as Trump dumps Anthropic  The Mountaineer",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -202,24 +220,6 @@
       "summary": "Clawbot AI Launches Online SaaS Version of OpenClaw with Built-In AI Model Selection for Cloud-Based Agent Deployment  24-7 Press Release Newswire",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI strikes deal with Pentagon for use of AI models - CNN",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQnNsTmlfdHIycUZUSzg4RXBEU2VmU0RtN0FPdnRnaFhkTmd0RGEtRGtqWk9nNVBBN1JQdXhsbk9scV9BdEZNd0EwQVE2bngtY1p4NlFEek92SmlvQzk4a2NkbHQwY0FMZHlNZk5OczhJQU9zLWp5cXc5b0VxY29jSkRaSy1TRWVnN242UUpVN1ZXa3o5Tm1R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T05:55:24+00:00",
-      "summary": "OpenAI strikes deal with Pentagon for use of AI models  CNN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Former Air Force Secretary reacts to OpenAI announcing it made a deal with the Pentagon amid Anthropic fued - CNN",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaHcyNTB2Q29hTVpvVnRZX2FTSWVXdVpPYkdiLTY3Xy1udzFZVkNsVU82VG83MXktcFM4anRSOG9yTUt2OWxPVXRMUVVyTkJtdFFzYlVFNjBiV014TG5Sd2xhMk9wbTUwUmJFdnBRUEd2cmVtYkxZYlZxUExyaVhIOS11dFpCemE3LW1aR0NxWC1SMXRkUTlrMXhwMndZMGhOS1ZsY0JhUFh0bU5pYUxWNHJJdHlOUFdMWHFDTDdTQWlxR1Y5UG14SGhsQ2pBYkgzVGIxaDZfdlBHa3RfbFVMMWNleHhKWG1P?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T05:50:48+00:00",
-      "summary": "Former Air Force Secretary reacts to OpenAI announcing it made a deal with the Pentagon amid Anthropic fued  CNN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
