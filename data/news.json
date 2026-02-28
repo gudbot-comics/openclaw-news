@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-02-28T15:42:02.185176+00:00",
+  "generatedAt": "2026-02-28T15:58:08.844097+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI sweeps in to snag Pentagon contract after Anthropic labeled 'supply chain risk' in unprecedented move - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZDlwZDA3cDlZSXNNUTdTc2VZOW0xNl9RbS1DTFZMcGZVeDRWN3VmNlVoYzRMN0VtbWp0M0g2UFh4TWN5Ykc4N2djRlFRS3ZSNDlvZjFpMGhudzZmY2NTa0FRWHd5Slo3MHZzaEV1YmNFNUltT1VwcWJMbHZLdUstRUNMNkk5bzF5ZWQtUjJYamQyVTVhdDhkaFJvaFFnb2VVUXdEVmRlZ0NEVEdGbUpBRWVjY1RZdFdZNy1kenNSaU1IUmpxWGVwT3JR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T15:45:00+00:00",
+      "summary": "OpenAI sweeps in to snag Pentagon contract after Anthropic labeled 'supply chain risk' in unprecedented move  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Perplexity Computer wows, Karpathy kills vibe coding, and OpenAI replaces Anthropic at the Pentagon - The New Stack",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVVyam5zcHZzS0xRREtTVlVJR084RERXNHhHMFFEbWpFSnQxalVsbFFySXBtMVlrZGNKcTFQaDRaS0RvaDR1bUVEVmZza1hPN1J4YThIcTZEbkJTdXpEU0NaVFFqTmR4OWw1clJXOXVnQXN6a3hkQ0QweW9YS3E2UU5rMkpBOGVl?oc=5",
@@ -78,11 +87,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars - ARC Advisory Group",
+      "title": "OpenAI Secures Defense Department Deal for AI Deployment with Built-in Ethical Limits - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDdjNFZsMHZvYjEwWmxyQ1dWNENFSGVONGt3RVd1SVlnd1c2OXI0ME5uNmU2djFmSHQybU5oNVlKVjg0dTJad3NscGpJWVh1azhoU0lGMWFWcXhTa1FSNDdXeDcyZ09zT3JhTVdoMktEblRfR05BakNPMWpseVNnU2N0NVNwdVV6NWoxYUhhVjJ6QWZ4aUUzc0pmbHk0NS0yZXZjNVJDSFNMdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T12:11:15+00:00",
+      "summary": "OpenAI Secures Defense Department Deal for AI Deployment with Built-in Ethical Limits  MLQ.ai",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars - ARCweb.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3dXQkxWVXFBZmk4WlNPRTNNWlF2d1FlSk5HS1ZRVTZpTW5xc0FxYTcwZ25TODBKNkJ5MVBqSFJzM2FRRFJVRTc4Tk5kODkzbGNBdUlpVjVQcE5naWhxTXhTWkFqWktpUV9lWXdJaWlZMDF2SWFQT09qbVpOMUMtV1I3V1lSZWp6?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-02-28T12:00:00+00:00",
-      "summary": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars  ARC Advisory Group",
+      "summary": "AWS and OpenAI's $50B Pact Redraws the Lines of the Industrial AI Wars  ARCweb.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T08:22:00+00:00",
       "summary": "OpenAI strikes a Defense Department deal, hours after the Pentagon cuts Anthropic  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Clawbot AI Launches Online SaaS Version of OpenClaw with Built-In AI Model Selection for Cloud-Based Agent Deployment - 24-7 Press Release Newswire",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQjcyUFVESjV1S2loQllzMnNGeE1Ubm82NnVqaHFUNUItazFYYjRWN0xRblZsRThILUkyR3ZmcEl0c2FfQjNfN0U5T204LUNjZGZZa09ucnlWRDJxVDNsMGZaRXZ4b3lGQnZsTFFLSlR5RkZEWURBUnV0TjQtcG9ONnRzYzhKS2p0UkxRR0V0OEpjZzV6cHBPNnM1UzFzLU9kblhDS09wa3ZoZVlQRkFEYTRfZzdld09CanRIanc1WmJUREVjR1NZQTIxREl4eUlELVc1eU9tMUk3WmZoYTg0OE80OUFEZklrYkE3RlB5bDV4eU1kQV9sNHI1al9ybUw2?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T08:03:24+00:00",
-      "summary": "Clawbot AI Launches Online SaaS Version of OpenClaw with Built-In AI Model Selection for Cloud-Based Agent Deployment  24-7 Press Release Newswire",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI's Altman: 'We reached a deal with the Pentagon' - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HSHd2MUMtTDEyQ0w2QXNOMGVtSWl1V3FLWDlBYzZsRzdDMlhhN2tRcHVHSktLZVpRWDlQelQ1VUFMUkRkNkNxblA1SzdqUkMtTEx3TDlOTnY5TDRMZDVKWU81aU43VVpRMHdrZm5PYVNiSXdrSHVSeQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T06:07:57+00:00",
-      "summary": "OpenAI's Altman: 'We reached a deal with the Pentagon'  The Jerusalem Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
