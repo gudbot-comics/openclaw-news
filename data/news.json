@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-03-01T21:58:02.035416+00:00",
+  "generatedAt": "2026-03-01T22:53:21.632349+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Chalk Wars: It’s OpenAI vs. Anthropic on San Francisco’s sidewalks - Mission Local",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPekU0Si03VVlPNXZtYlpUNTdxb3J5WVZlQnZuRlh6bTR2U3VYVEplWXlkZnpoNVhzVVN2Z29QdXViMG4wZlFSX3VBZGpubS1UR1FZdDl2ai1uaDdOX0NCOW9sM1NUZ3RfakNtWkZpMTJJVHNPU05ZQTI3dlNGRENLaXJMd0ZXZnBEQmtrb29BSlJPdE03WkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T22:38:06+00:00",
+      "summary": "Chalk Wars: It’s OpenAI vs. Anthropic on San Francisco’s sidewalks  Mission Local",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What are 'claws'? The next AI term you’ll need to know. - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9id3VOY2pycTJxazVPMmF4UzJFa2tlc3RxaWRoY1E2YWljY0xNU1BqQkdVbzk3QjZLLTNwU2Z6ellTQjZVb0ZyUjhjQVVjNnFlMTYwSG1YZEZzNEVNZTNHb3liRURYLVZYb3AtczBBZHhwdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T22:08:42+00:00",
+      "summary": "What are 'claws'? The next AI term you’ll need to know.  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data - BleepingComputer",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3U5V3ladW4zSU1GWm44Wm15cXBRcnRJOWFDTlBINDVEZEo4X0VpS1hhWl9HbGVySDlkbGZHVU9GZXBHUk85eVoyNUF0cHNTc0xMUEFnT1AxQ05TQnRDbklTWGpSbzRvNWtPR2RzZzRHbjkxcWFPbHBKc0Q2cFBVQ3dLeEZRV2FURHVVc2d0MWFEbXI2TTBLWFotR0hyZjVBQTRVS3VHcFJWdi04STlwR18tQld4d3lmamfSAb8BQVVfeXFMUFdKSEkxdlphWXc0cHdDMHRsNUY1MGFnaDhROXFkRFhWS2lEcGZfRTNaTFRyOVJuOXBuUHB1ZzZ1a3ZkY0RjNXpXMDdhWTJlRk9aRi1IYm5jTUxCM1FCTXo3T1RNREVDa0ZIcEFXNW5rYlNVV0tycnpxVkFuUE94Z3B0cnJzb3JEWTZ6UklNMlU3R2h5Sk1SbDRlOVB3NW80bTVxb3E2d1djMFhHUnE3TTZhOVB4eG1mT2djaFktOUE?oc=5",
@@ -33,6 +51,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "How AI may have helped US support Israel against Iran - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ndWVoU2M2WnN0cTdBT3QwWklSYVVIamVlNTdlZjNPYlMyWHNJQmo1VWVkdGJ3eHdXTVZrY0p0ZUplX01QLUdfNXZZV1g4ZkFkcU96djdtRmc2ZUZwdnJFd203TXNsc2lpMnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T20:02:03+00:00",
+      "summary": "How AI may have helped US support Israel against Iran  The Jerusalem Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWJ2QmVudEFJN1dOLVpBdXYwSEZtYzBzSmJwUERObVRENWlyOUhfTkNndHE5YjFBY0FCd0MxZWp4NXA2YlhOSGs2c2J6VHFSem9tT2p5Z2hNeFZNT1IxLUJwenZSMTJObmdhd3EzSWJPZWtyOVd0ZXBzdWdKMFNrVnRSblQ5MGdab2I3azRxYw?oc=5",
       "source": "news.google.com",
@@ -51,15 +78,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "After investing $30 billion, Nvidia is reportedly planning new chip for OpenAI: How it will be different than its GPUs - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPQVRaN2pwNXBOZElaRUZMN0I4WUMtZENnSUdXNWJWZXEzYkdKNERweUtlRUttdHRJOUZTS3hYOHBMc1N5dml3aFVNWVVjTy01elZaRG5HbFVSOGNVQVFjMlEybW1BQnRrWThMQVhlem1CelgzVXdfamxHTzBhaU90YWVrbUNKc2lPd0hSajJxeWFkVk9yZDNXV0p5ajhTbXNQOGs5aGFNbFN1RGJiamlzRFVsU01YcmpvQ1VhZFY2azNYS2E4aW94VjVUeVhBQXdBaTd5cTF5M1VQZWN0XzBpVzVXanZBeWgwdTQ5enBhcjZUdUxGelZFTHlLSV9XUU5Wczd2bVJjU3RfbWtLdXJTM21PLS00Sk42cGJoWW1LTTZhQ0Et?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-01T17:42:00+00:00",
-      "summary": "After investing $30 billion, Nvidia is reportedly planning new chip for OpenAI: How it will be different than its GPUs  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Filings: How Amazon’s $50B OpenAI deal actually works, and what they’re keeping secret - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFRlM1dEcUNHSWRSaXkyeWxMUDZCTjlXRE1XWGxBcW41d0ZRdnJta2FyazNncVZmRFQ2Y05PQnMtalNyVnhHdDVUd0djOE5aaTV0U3RxX1o4YzViM1ZIcE4wWGNfT3RzVjFYZHhIVGo0WGFlWjRNUmdLdUQyTXlUaWNlQ0RkZExTRzJpN25ReU1SRDlZMDdRYVV1UnRiOE95SEJZbE96M216SF95YUNhZjdR?oc=5",
       "source": "news.google.com",
@@ -74,15 +92,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-01T17:09:21+00:00",
       "summary": "Amazon’s US$50b OpenAI Deal Recasts AWS And Valuation Story  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Details Pentagon AI Agreement, Limits and Safeguards - findarticles.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRE5OWDU1WUpsWDBLTGZKSGRfZnhRcWVGZjBCeWd0Q0Z2VVVZSmJydFZWcFlUNG1EbEdsRGJwR2xUcC1pRDRKbEFBRmViQjMwYlo1OW5CWm1iSDF0bEw5NWg4WnJUNFEwLTNSekNMSFlLeks2MFVwMGRETHA1ZElvdmdMeEpDWVpLa0ZKd2JiUXhGQdIBmgFBVV95cUxPNC1iRHI1MWVuS2JXWGQwT3dmekFQRGdVMDEtRHVfeE1TVEtyVGdCY3NRVmp2UmxxT1MyTmdvZENzRnZmWmVZRkU5TVp4TS1OcENMXzRSd2VBRjFBaDROSXRxMDRWVE44bkZabVM3dUQyN0JiVDJ1ekgwbkZaVXlYUGJHY2JaNEtEcTIwSTNHOWxIWVQtcl91YldB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-01T17:03:38+00:00",
-      "summary": "OpenAI Details Pentagon AI Agreement, Limits and Safeguards  findarticles.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,15 +132,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store. - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9YZE1aQ1kycFRkamVpeGRJTG55NGh2Q3E5cmpVUGt3ZFB3T3NMMm4zY2RsRjlOMzB5TFM2Vl96V0JRclhQU3FmcEJRdnFldXVrNC1EM3g4aDF6aXFIeTUtVDRwRFFLOW9RMi1oQXlPME9sc2hYT1I0ZndfR2ltNFQ1SXo1aDg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-01T15:34:00+00:00",
-      "summary": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store.  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "\"Cancel ChatGPT\" movement goes big after OpenAI's latest move - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNemZLM1VKUkxiLVNLMkFJRDJxa3VqV3pEUEFEQ3JOYmJ6QWdQNndYVDNmT2RnRURlUmNndnRuQkxwYTRwcTZjNVJWdmQxQTFsRnhYam81cEVmeTNpcl9FQ202bnV2NS1XSGM5OTBTWnhuM0U4TUE3Wk1qbzRrenpSS0Rqa3JFdkpMLUppUXNzOFcyYVlmQzVJY2FRZUtFVWRtZ29oYVpGR1RGS2pSRTMtVVM2UnVtdUx4endoSjl3TTJ0WXJ6bEJIZU14Y2J3ano1Q3lyVVR2M3U0OUJERjV2M2UyYzZsWVF4ZWNISzV3TnhjSVBRVjl2Z1ZKaGFDXzJUX0xmV3ZOWTA4dzdHMEI3QjRBRFpQSktNOTQtY1NmXzRlUQ?oc=5",
       "source": "news.google.com",
@@ -146,6 +146,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-01T15:18:23+00:00",
       "summary": "OpenAI Wins Pentagon, Claude Tops App Store  La Voce di New York",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store. - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9YZE1aQ1kycFRkamVpeGRJTG55NGh2Q3E5cmpVUGt3ZFB3T3NMMm4zY2RsRjlOMzB5TFM2Vl96V0JRclhQU3FmcEJRdnFldXVrNC1EM3g4aDF6aXFIeTUtVDRwRFFLOW9RMi1oQXlPME9sc2hYT1I0ZndfR2ltNFQ1SXo1aDg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T15:12:43+00:00",
+      "summary": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store.  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -202,15 +211,6 @@
       "summary": "OpenAI-Pentagon deal faces same safety concerns that plagued Anthropic talks  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "What are 'claws'? The next AI term you’ll need to know. - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9id3VOY2pycTJxazVPMmF4UzJFa2tlc3RxaWRoY1E2YWljY0xNU1BqQkdVbzk3QjZLLTNwU2Z6ellTQjZVb0ZyUjhjQVVjNnFlMTYwSG1YZEZzNEVNZTNHb3liRURYLVZYb3AtczBBZHhwdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-01T10:07:54+00:00",
-      "summary": "What are 'claws'? The next AI term you’ll need to know.  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI gives Pentagon AI model access after Anthropic dustup - West Hawaii Today",
