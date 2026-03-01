@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-01T21:42:50.553162+00:00",
+  "generatedAt": "2026-03-01T21:58:02.035416+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3U5V3ladW4zSU1GWm44Wm15cXBRcnRJOWFDTlBINDVEZEo4X0VpS1hhWl9HbGVySDlkbGZHVU9GZXBHUk85eVoyNUF0cHNTc0xMUEFnT1AxQ05TQnRDbklTWGpSbzRvNWtPR2RzZzRHbjkxcWFPbHBKc0Q2cFBVQ3dLeEZRV2FURHVVc2d0MWFEbXI2TTBLWFotR0hyZjVBQTRVS3VHcFJWdi04STlwR18tQld4d3lmamfSAb8BQVVfeXFMUFdKSEkxdlphWXc0cHdDMHRsNUY1MGFnaDhROXFkRFhWS2lEcGZfRTNaTFRyOVJuOXBuUHB1ZzZ1a3ZkY0RjNXpXMDdhWTJlRk9aRi1IYm5jTUxCM1FCTXo3T1RNREVDa0ZIcEFXNW5rYlNVV0tycnpxVkFuUE94Z3B0cnJzb3JEWTZ6UklNMlU3R2h5Sk1SbDRlOVB3NW80bTVxb3E2d1djMFhHUnE3TTZhOVB4eG1mT2djaFktOUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T21:44:55+00:00",
+      "summary": "ClawJacked attack let malicious websites hijack OpenClaw to steal data  BleepingComputer",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Opinion: OpenAI has shown it cannot be trusted. Canada needs nationalized, public AI - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzlmX1BXYVE2MDVTRDZPbVFlNEVBMzVMNml2c3NGUGM3STVTVUQzSDRlcXAtcE95c3BQV0k2LUhuR1ZUWFh4dnptcUdBbjhldmgtQmVKbGZVUjlORmxWT2hhYVJESlNEcEE4UG9TLVgzc3RYQ1ljVTd1MkZZMkNyQW1GWnRGNlY2dzlBVmJXLVBJS0U?oc=5",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-01T10:05:00+00:00",
       "summary": "OpenAI gives Pentagon AI model access after Anthropic dustup  West Hawaii Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Pentagon-OpenAI-Anthropic fallout comes down to three words: \"all lawful use\" - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTFEaUF6UFpranR4NWxCUHlUWVRiVldrRW5EOUZJN3Q5Y2tiM0JmVmZTUGV4bndnem9CMGNJbFRKZ1JXbFZTZFFVR0MxUjZiY0F5M2tJLTJyREVkZ2d3UjBocGJ4M0xadjAzY19CY3BQMjQ2endZUFdRZkRqMk4zaVV4X3hld2hkLUxFTGFHN1BJcllLUG9IUmlKU05qelo2T1BDVkFn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-01T09:48:20+00:00",
-      "summary": "The Pentagon-OpenAI-Anthropic fallout comes down to three words: \"all lawful use\"  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
