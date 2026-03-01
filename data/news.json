@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-03-01T20:52:40.302589+00:00",
+  "generatedAt": "2026-03-01T21:42:50.553162+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Opinion: OpenAI has shown it cannot be trusted. Canada needs nationalized, public AI - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzlmX1BXYVE2MDVTRDZPbVFlNEVBMzVMNml2c3NGUGM3STVTVUQzSDRlcXAtcE95c3BQV0k2LUhuR1ZUWFh4dnptcUdBbjhldmgtQmVKbGZVUjlORmxWT2hhYVJESlNEcEE4UG9TLVgzc3RYQ1ljVTd1MkZZMkNyQW1GWnRGNlY2dzlBVmJXLVBJS0U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T21:00:00+00:00",
+      "summary": "Opinion: OpenAI has shown it cannot be trusted. Canada needs nationalized, public AI  The Globe and Mail",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nextech3D.ai Launches Eventdex AI Voice Concierge, Powered by OpenClaw, Twilio, AWS EC2 & Pinecone - Expanding Its AI Events Operating System - ACCESS Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXhxLWZFZjVEWEZqcHpJTHg3UXBWN09KVWk5WlhxTm9uaU1Xejk4UDJWbFRsS3NwU1I4RzhoODZDNDZIS2xNanBjWWxQQUVTaVdrQk1nT0pUeXBoZzdxMWRJODVxb21hb0Jra1R6Q05obGZ5SWk1Ry02eER5UGw2NEJ6R3BYR05hS1RWZ3dWbG5VMWJKeGk4S1lpNnlVaXRXb3V3SC04aF9kZnBTbVFHU1JONW5WU0JnNC1id3lJSjl5VmRtamZTT2dRQWNhMUhlRGRDV29PYmJLUEplTThYeUJuVFo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T20:53:47+00:00",
+      "summary": "Nextech3D.ai Launches Eventdex AI Voice Concierge, Powered by OpenClaw, Twilio, AWS EC2 & Pinecone - Expanding Its AI Events Operating System  ACCESS Newswire",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWJ2QmVudEFJN1dOLVpBdXYwSEZtYzBzSmJwUERObVRENWlyOUhfTkNndHE5YjFBY0FCd0MxZWp4NXA2YlhOSGs2c2J6VHFSem9tT2p5Z2hNeFZNT1IxLUJwenZSMTJObmdhd3EzSWJPZWtyOVd0ZXBzdWdKMFNrVnRSblQ5MGdab2I3azRxYw?oc=5",
@@ -202,24 +220,6 @@
       "summary": "The Pentagon-OpenAI-Anthropic fallout comes down to three words: \"all lawful use\"  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "‘Cancel ChatGPT’ trends as users protest OpenAI’s Pentagon deal - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZG05bm9TTnNzTjhDM21zRVBnVC1tdzdudE9UaXUzY1dRWXl5V3VHNXkyMDIyVEdxZUk2NTVfcjJMOXoxT3UzTHdxbFUyS2gyUzhmV1YxY0pfUlN2bExrRXZHN000VGxpNXpyZHZONUN1QnVobWIyM3ZZTTNpX09yVjZERmFKVks0WHJHZ1pTYzBHbnJjaUFPblpkLTc0bi00QXRURGxrcVI0SjhDeTZhYXQ3d05kODJEQW56M20zMGNVM3JQdWZJRnpTc19tMFhEcjB4SENIa0hmZHfSAeABQVVfeXFMTzA1SGVXZDZuOHZvVVpKTmE0R1JzSXdkQVZENk9IN3FWOGF4bWhXVl9SRVJGX2M1U1N6MDhaS2xfNVlHNTl1VTJvcmU0VlNIN3NnZkZlTlBIMGxvbDU5cjJrV3ZQVThmZUF2aWVzSGhjd1hSWjl1Rk84N3FndmdHOVNwTGxxX000Y1NkNWdBVFV3cEpCcEtpb29FX21PNDU4V21HODZya0Vvb1QzMFI3cXZHOG1SV01rZVY0bEFmOUd2TzBtSWdsazZsSW9nYzRPVjJsdVZ4LXBNeE5TY1RBMy0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-01T08:25:00+00:00",
-      "summary": "‘Cancel ChatGPT’ trends as users protest OpenAI’s Pentagon deal  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Dutch authority flags open-source AI agents as a Trojan Horse for hackers - PPC Land",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM212OVM5R2FWeWo0ZFpWNUVaNHotNU9XbmQxbG8yUF9tZ180QzZTaHdZSUwwbldqZnVCR3VVZjBFQWJjV3p6M19CdXBsR1Itc1JZSF85Tl91blZadVZnYlQ5c3pOQ0ZLNGt2QkdLWlRpWVRzaDFwNFBjWnNaR1ZFWmxaM3Q5YUtxZWcwYnhjV1VXNXZ0SWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-01T06:22:35+00:00",
-      "summary": "Dutch authority flags open-source AI agents as a Trojan Horse for hackers  PPC Land",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
