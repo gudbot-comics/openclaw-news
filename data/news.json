@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-01T07:22:42.003279+00:00",
+  "generatedAt": "2026-03-01T07:57:12.538830+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -65,15 +65,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-01T01:36:00+00:00",
       "summary": "5 big takeaways from Sam Altman's Saturday night AMA on OpenAI's Pentagon deal  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI shares its contract language and 'red lines' in agreement with the Department of Defense - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjc0MlpXLW5vY2ZHbzBjVEFtVl9yTzR5cFdzM29Bd1V5Mm1TOVR5azdocDFOdjVGczFmNUt6UzZMc0JuemJvRTY3R0hpMXRtb2NDRHpBM1NYU3FjTEhyZnlUdnFZRnY0U3ZMbDdsNUxybHJKRGcyRlVja1hDMkZvZW8xSWo2SDhlNmFnNXRQSVcxaVFrQUhGUmJYdTVONlFPeWl4SG9aUzdsWkVEM0IzZ3lQdDM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-01T01:16:00+00:00",
-      "summary": "OpenAI shares its contract language and 'red lines' in agreement with the Department of Defense  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T20:36:09+00:00",
       "summary": "Our agreement with the Department of War  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The 'QuitGPT' movement gains steam as OpenAI's Department of War deal has users saying 'Cancel ChatGPT' - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUQ2SFQ2bGdGOG5ULTdBMTdTQmZLVGNYUDA1bDM1Y0Raclo5bzU2d0I0SkNwcXR4dFhhRVhfdHR6eUZDWTU4aFVCRHN1MkRmQV9jZ3pMNS1MWVpsN09SYWExaHdGbmdydm55NTF5RDk0cTQ4T3dOWG0yUlVUYW10QmVFMFNzdElMdFVXX0FTZV80ZDZmbXdVYUNpWU05bEhJX1c4WHVJUlFiRkRuUFFHUXBLaHJ4cHdGSFc0dUFxZ0hoX1lwbU9sOFBZVUltOVNx?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-02-28T19:44:51+00:00",
+      "summary": "The 'QuitGPT' movement gains steam as OpenAI's Department of War deal has users saying 'Cancel ChatGPT'  Tom's Guide",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
