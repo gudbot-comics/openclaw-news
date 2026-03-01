@@ -1,16 +1,25 @@
 {
-  "generatedAt": "2026-03-01T08:59:00.885148+00:00",
+  "generatedAt": "2026-03-01T09:53:43.094632+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "‘Cancel ChatGPT’ trends as users protest OpenAI’s Pentagon deal - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZG05bm9TTnNzTjhDM21zRVBnVC1tdzdudE9UaXUzY1dRWXl5V3VHNXkyMDIyVEdxZUk2NTVfcjJMOXoxT3UzTHdxbFUyS2gyUzhmV1YxY0pfUlN2bExrRXZHN000VGxpNXpyZHZONUN1QnVobWIyM3ZZTTNpX09yVjZERmFKVks0WHJHZ1pTYzBHbnJjaUFPblpkLTc0bi00QXRURGxrcVI0SjhDeTZhYXQ3d05kODJEQW56M20zMGNVM3JQdWZJRnpTc19tMFhEcjB4SENIa0hmZHfSAeABQVVfeXFMTzA1SGVXZDZuOHZvVVpKTmE0R1JzSXdkQVZENk9IN3FWOGF4bWhXVl9SRVJGX2M1U1N6MDhaS2xfNVlHNTl1VTJvcmU0VlNIN3NnZkZlTlBIMGxvbDU5cjJrV3ZQVThmZUF2aWVzSGhjd1hSWjl1Rk84N3FndmdHOVNwTGxxX000Y1NkNWdBVFV3cEpCcEtpb29FX21PNDU4V21HODZya0Vvb1QzMFI3cXZHOG1SV01rZVY0bEFmOUd2TzBtSWdsazZsSW9nYzRPVjJsdVZ4LXBNeE5TY1RBMy0?oc=5",
+      "title": "The Pentagon-OpenAI-Anthropic fallout comes down to three words: \"all lawful use\" - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTFEaUF6UFpranR4NWxCUHlUWVRiVldrRW5EOUZJN3Q5Y2tiM0JmVmZTUGV4bndnem9CMGNJbFRKZ1JXbFZTZFFVR0MxUjZiY0F5M2tJLTJyREVkZ2d3UjBocGJ4M0xadjAzY19CY3BQMjQ2endZUFdRZkRqMk4zaVV4X3hld2hkLUxFTGFHN1BJcllLUG9IUmlKU05qelo2T1BDVkFn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-01T08:25:00+00:00",
-      "summary": "‘Cancel ChatGPT’ trends as users protest OpenAI’s Pentagon deal  The Times of India",
+      "publishedAt": "2026-03-01T09:48:20+00:00",
+      "summary": "The Pentagon-OpenAI-Anthropic fallout comes down to three words: \"all lawful use\"  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The government's AI standoff could decide who really controls America's military tech - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFV0QnRENFN2ZmxJZDQxVktoMVlyQWpLUmxLZ3ZSZFg1cnFhTENKam1qbU9JdTRHSnpjTHp0ZU1FaUNFdWJwNU5DNFByczY5c21TYUdhR05YbDRlQVhoa0p5RmZFSllhd2ZwRFBDVmVDem1sNXB1X1AtS1cyck9EcEowRGRTeGtqZ0ZveXNVVUdxUXcxZHlGeGZIOGg5R0twM2Rvd1RveGUxX0RTYXVuRUZR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T09:44:00+00:00",
+      "summary": "The government's AI standoff could decide who really controls America's military tech  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -22,6 +31,15 @@
       "summary": "Dutch authority flags open-source AI agents as a Trojan Horse for hackers  PPC Land",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI strikes Pentagon deal with 'safeguards' - Hürriyet Daily News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV3c4VGZycHBrampkSU9GLURLX3Q4NkRReHotbmRJbTVhVEJjVzVsSmlSOUhZTWNadHhhaXNSMGpyMlJJTHZNblBVZTZmMktwbWc4c2Q3RHhYaTBPc3RPOWNsc2xPeDBCNGxwUG1pRHRMdGx2N0hZQWRzYVEyZlEyM05qdlVqUjJkUzE3MGRn0gGTAUFVX3lxTE5jWndHWnFOSkFDejlLUEVZZUtETWc4NkVhWkl4YmtXSy1aRFVVWkRSYkVJSVozSzBlNDl6NkUwSEl1Q0tPRjR0REdMOExPaVRUNWVnQ3lhQTIyWDFPbW52V2FDYUFGaGVObHpITXVLNENISTc4RzZqaWNEUVFRNUE4d2Yyb1h2S0E2ckFIZmVHWktfVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T06:07:00+00:00",
+      "summary": "OpenAI strikes Pentagon deal with 'safeguards'  Hürriyet Daily News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "Apps Are Disappearing: Entering an Era of \"Software Unavailability\" - 36 Kr",
@@ -45,7 +63,7 @@
       "title": "What a chocolate company can tell us about OpenAI’s risk - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95Y2MzN2pxR2FLbUpiR0ljVlZqdW9IQUo1R21pcDhFbE54TWNTRWxHYXFjaE9fQTRvOGMta05ibFctNkJmem8wRFlfUlQ1N04yTkhDR1hMTFp5czFaTGxPMHE2V1YwaTc0T20tSGZCN1k?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-01T05:00:08+00:00",
+      "publishedAt": "2026-03-01T05:02:06+00:00",
       "summary": "What a chocolate company can tell us about OpenAI’s risk  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -105,11 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "San Francisco-based OpenAI strikes deal with Pentagon hours after President Donald Trump's administration bans Anthropic - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOE9IdXZPQU45ejdyREZvQmNoemx0WnJfQWgwV2pPWkxUZHA0UzhNZ3VHTktKUmhhTklnZjF1TUN1YmVmRFQ4WnlvaER4VDNBdEd0cFJObmRVaFk0M2VFanZqOFRGb3p4eTItUThpeS1tZ3k0OTJxcy1xNWZVNEFxVWc5LVhVdjVwcnAxR3U4OW42U0w4eUF3cXA1UTdXZllPWWRrSTN2ejVDQWJrQ0hsVkE1VWw5M2N3cmJQZFNqOG5lcXVET2RKUjBFTmVtMERrUVM4WjB30gHbAUFVX3lxTE9XTTlzdUFzQ0RHTEpsTldWTnY0ZW9SM29WbG5XVEI0TVB4dU0xRkxBRlIwalNBU0F6VzNWU2tBN0xXejZTejgxNnZwNnZoOHA2NXRBOHl3N09GejMwYmpkdFZ0WnhPWll3SjBmY1Z6NDhBNkV3M2Y0MU14STVILU05ZFU3Si1PTzlVZnVLOFBsRjFscG9TdlBaZ1BKNE1Wa2xXeGNjVUwtYXNTTnVRbm9Bc0NmNHhhQVR6V1owVXhpN01mMUxta0h6b01vOW5UTDU0aURXZjMtLWwzaw?oc=5",
+      "title": "San Francisco-based OpenAI strikes deal with Pentagon hours after President Donald Trump's administration bans Anthropic - ABC7 Chicago",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY01mZEpybkxIRUVxRko0UWRPYVRtSEx3TVBERjZJcy1PTzUzeDFhLTh6YTdKaWtlSDgtWGlwVzdzN3FXTGV2U3pZWE5SdjExcXEtTXdmQmZlXzBkX2Z5NjVQaTg1T2JDTGkyU1VCNTJtOFg4b1VzSlhqMXJkXzJYcXY3a2JyZWszbWNobDV1dXJSNWhmU0Y5cGhEY1V5bjZqOUZxTnhZeXg2WHJuWnhNSzNoZzlCc25CaU9sYm5LVElDV3R2ZUhlY2wyblVqODF2d29sU0xwMmZDTlV2czJR0gHkAUFVX3lxTE8xdVpFZFp6NkFvQXZpNGswd1lwcWMzZzlMU1BQbm5FaUpFdWQzVHdXb29hY2FxMnlnRkMzbTZya1V6Vm94N2M1QW5Sc3NWc1YzMWdxN0RBZWFETkVaT1lQTC1fNFBNOEhfREp6TDlHa1l0Um5RSnBOTG5sYk1qWC1Mek9POXpIcGF1NFpVN2lobERhdnJJT2hhUVZpdHgxQmdra1h4ZGRMNHZNdW5WbXBObzRocExGY3VNLUZBUndjdE0yamJjTzNhQ0hlSVFlMnBYb055TV83T241b3U1cVp1WXpqaQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-01T00:15:48+00:00",
-      "summary": "San Francisco-based OpenAI strikes deal with Pentagon hours after President Donald Trump's administration bans Anthropic  6abc Philadelphia",
+      "publishedAt": "2026-03-01T00:17:10+00:00",
+      "summary": "San Francisco-based OpenAI strikes deal with Pentagon hours after President Donald Trump's administration bans Anthropic  ABC7 Chicago",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -202,24 +220,6 @@
       "summary": "OpenClaw creator says 'vibe coding' has become a slur  AOL.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "What are 'claws'? The next AI term you’ll need to know. - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9id3VOY2pycTJxazVPMmF4UzJFa2tlc3RxaWRoY1E2YWljY0xNU1BqQkdVbzk3QjZLLTNwU2Z6ellTQjZVb0ZyUjhjQVVjNnFlMTYwSG1YZEZzNEVNZTNHb3liRURYLVZYb3AtczBBZHhwdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T22:08:33+00:00",
-      "summary": "What are 'claws'? The next AI term you’ll need to know.  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI reaches deal with Pentagon after Trump drops Anthropic - upi.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iUW1nQUs5YWtZQ1VuZm1MQkIyR0tjbERVUjMxWHM1TDZlV0Uxckh0RzhMalJ1bDh2bnBhRXpWVjFHdWJIREFmRHprMlQ5VUF4YUxaOHBvbHBMQmVlTXNEUzE3RWk3bEc4dkpoZjNMZk5zUzZQbmxtM0dnS1PSAYIBQVVfeXFMT25QeTFRM3pMSDVMZ2o0TlZ5VXJDMFE3M01LelhyN3NmNmphNFlJcFQ1UGlraWF6cHFtUEVvVUs2VC1hcTNBSTQ5ai03M0ZreDR3aHJEeWFhUzdmc3dsTjNXdERGY1k2ZmQwVWZyaXVLVl83ZkM5MUlWNEc0S05WWkdfdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T20:58:52+00:00",
-      "summary": "OpenAI reaches deal with Pentagon after Trump drops Anthropic  upi.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
