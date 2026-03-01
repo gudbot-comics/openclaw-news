@@ -1,16 +1,34 @@
 {
-  "generatedAt": "2026-03-01T07:57:12.538830+00:00",
+  "generatedAt": "2026-03-01T08:59:00.885148+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "‘Cancel ChatGPT’ trends as users protest OpenAI’s Pentagon deal - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZG05bm9TTnNzTjhDM21zRVBnVC1tdzdudE9UaXUzY1dRWXl5V3VHNXkyMDIyVEdxZUk2NTVfcjJMOXoxT3UzTHdxbFUyS2gyUzhmV1YxY0pfUlN2bExrRXZHN000VGxpNXpyZHZONUN1QnVobWIyM3ZZTTNpX09yVjZERmFKVks0WHJHZ1pTYzBHbnJjaUFPblpkLTc0bi00QXRURGxrcVI0SjhDeTZhYXQ3d05kODJEQW56M20zMGNVM3JQdWZJRnpTc19tMFhEcjB4SENIa0hmZHfSAeABQVVfeXFMTzA1SGVXZDZuOHZvVVpKTmE0R1JzSXdkQVZENk9IN3FWOGF4bWhXVl9SRVJGX2M1U1N6MDhaS2xfNVlHNTl1VTJvcmU0VlNIN3NnZkZlTlBIMGxvbDU5cjJrV3ZQVThmZUF2aWVzSGhjd1hSWjl1Rk84N3FndmdHOVNwTGxxX000Y1NkNWdBVFV3cEpCcEtpb29FX21PNDU4V21HODZya0Vvb1QzMFI3cXZHOG1SV01rZVY0bEFmOUd2TzBtSWdsazZsSW9nYzRPVjJsdVZ4LXBNeE5TY1RBMy0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T08:25:00+00:00",
+      "summary": "‘Cancel ChatGPT’ trends as users protest OpenAI’s Pentagon deal  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Dutch authority flags open-source AI agents as a Trojan Horse for hackers - PPC Land",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM212OVM5R2FWeWo0ZFpWNUVaNHotNU9XbmQxbG8yUF9tZ180QzZTaHdZSUwwbldqZnVCR3VVZjBFQWJjV3p6M19CdXBsR1Itc1JZSF85Tl91blZadVZnYlQ5c3pOQ0ZLNGt2QkdLWlRpWVRzaDFwNFBjWnNaR1ZFWmxaM3Q5YUtxZWcwYnhjV1VXNXZ0SWc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-01T06:22:35+00:00",
       "summary": "Dutch authority flags open-source AI agents as a Trojan Horse for hackers  PPC Land",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Apps Are Disappearing: Entering an Era of \"Software Unavailability\" - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MSzI2dC1HRUlMVzRJdmJDVlFnQjlxd1hkb2N2UVlnNTJtek0wTzVVRmF3cUgwNU9iVGh0dEphMElnb0d4YmpRN1VTcGNXaFQwQnlN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T06:00:53+00:00",
+      "summary": "Apps Are Disappearing: Entering an Era of \"Software Unavailability\"  36 Kr",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -27,7 +45,7 @@
       "title": "What a chocolate company can tell us about OpenAI’s risk - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95Y2MzN2pxR2FLbUpiR0ljVlZqdW9IQUo1R21pcDhFbE54TWNTRWxHYXFjaE9fQTRvOGMta05ibFctNkJmem8wRFlfUlQ1N04yTkhDR1hMTFp5czFaTGxPMHE2V1YwaTc0T20tSGZCN1k?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-01T05:02:06+00:00",
+      "publishedAt": "2026-03-01T05:00:08+00:00",
       "summary": "What a chocolate company can tell us about OpenAI’s risk  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -65,6 +83,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-01T01:36:00+00:00",
       "summary": "5 big takeaways from Sam Altman's Saturday night AMA on OpenAI's Pentagon deal  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI shares its contract language and 'red lines' in agreement with the Department of Defense - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSjc0MlpXLW5vY2ZHbzBjVEFtVl9yTzR5cFdzM29Bd1V5Mm1TOVR5azdocDFOdjVGczFmNUt6UzZMc0JuemJvRTY3R0hpMXRtb2NDRHpBM1NYU3FjTEhyZnlUdnFZRnY0U3ZMbDdsNUxybHJKRGcyRlVja1hDMkZvZW8xSWo2SDhlNmFnNXRQSVcxaVFrQUhGUmJYdTVONlFPeWl4SG9aUzdsWkVEM0IzZ3lQdDM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T01:16:26+00:00",
+      "summary": "OpenAI shares its contract language and 'red lines' in agreement with the Department of Defense  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-02-28T20:58:52+00:00",
       "summary": "OpenAI reaches deal with Pentagon after Trump drops Anthropic  upi.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The billion-dollar infrastructure deals powering the AI boom - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdFp1bGR2MHpJVXpwOUo3LUFWbTNYQnhtNC1CN2RreG4tM2J4VUlDa0ozdjk2Zk1mVmlRWUlTQnhKUmFKdWtlNUdUUGF4LWdGUTJEUGF1ZjlxcmZuTENIc1RnZnBkcUZmdk9wMTVaTnJKMU5VRVVwXzhHendWRVZIeVJpaFQweHcxYkpFWHA0SHd4c2NUOWxkUF9wYnNha2wxUzcycjkzTVYxM1haTHN3UjZEb09OM3VPOXJ4cWJnVFVGdnY5azRaczlPSzhUSEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T20:41:55+00:00",
-      "summary": "The billion-dollar infrastructure deals powering the AI boom  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Our agreement with the Department of War - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KVGk3d3RxZjEtQlVVUl9FTUVjQThEQWdIMFJwOTFZNDNORHo5b24yRVJXZloxN2VfMnNPODAtVEJDUkhEWW5YQUZwdzlfZ2kza05UMjlQWm5TOEVXX2xST1JzaXVTOTQ1c051UDFWVDg4ZFlZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T20:36:09+00:00",
-      "summary": "Our agreement with the Department of War  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The 'QuitGPT' movement gains steam as OpenAI's Department of War deal has users saying 'Cancel ChatGPT' - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUQ2SFQ2bGdGOG5ULTdBMTdTQmZLVGNYUDA1bDM1Y0Raclo5bzU2d0I0SkNwcXR4dFhhRVhfdHR6eUZDWTU4aFVCRHN1MkRmQV9jZ3pMNS1MWVpsN09SYWExaHdGbmdydm55NTF5RDk0cTQ4T3dOWG0yUlVUYW10QmVFMFNzdElMdFVXX0FTZV80ZDZmbXdVYUNpWU05bEhJX1c4WHVJUlFiRkRuUFFHUXBLaHJ4cHdGSFc0dUFxZ0hoX1lwbU9sOFBZVUltOVNx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-02-28T19:44:51+00:00",
-      "summary": "The 'QuitGPT' movement gains steam as OpenAI's Department of War deal has users saying 'Cancel ChatGPT'  Tom's Guide",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
