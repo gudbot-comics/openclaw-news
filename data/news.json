@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-01T19:57:07.590051+00:00",
+  "generatedAt": "2026-03-01T20:52:40.302589+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -78,11 +78,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Makes Deal With Pentagon, Including Safeguards Anthropic Requested Before Ban - SFist",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGNiSXRHTGFDMXJfejFSR0xVdEU1WmIyQmY4T2tlbUUzMGtqTG4yUnR0S0E2Mm1Yd2Q2TEVKU2gzRk04TEY2X05wN1d1YkRMTXJYQzNnUEQ0d2pyUGlEV2NBQmVEMUJ6Vm5jQjlCRmN2Y2RqNkZzRkhFS1NIOGlOM3BoWFNGVVYyaW9ZUlpvbThxQ2l3MjBXV0ZwQkMyU1N4RDhBY3dOclFQN1M2UEV3b3g2TQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T16:13:45+00:00",
+      "summary": "OpenAI Makes Deal With Pentagon, Including Safeguards Anthropic Requested Before Ban  SFist",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI, creator of ChatGPT, makes its technology available to the Pentagon - KGW",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTJ0N0Z5Z2xMVnl4b2dmRHVHRlpPa0VhdTBvM3c2NDFfV1o3LUxqV0sxSldtZlg1YXQ4eHBZSTJBYlFnSGlmWHlJN0puTVJQam9Gb2ZFRTlpd2tLd05na2pNQ2RNazJiQjFydWNOd01KaVZ1OVlBMHcxbklQYVUyYWlJUHR1bWF6OHBVU21heVY1Xzlxa0YybzI0X3FYM3dHTldieE9VNkdPamVw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-01T15:41:00+00:00",
       "summary": "OpenAI, creator of ChatGPT, makes its technology available to the Pentagon  KGW",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store. - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9YZE1aQ1kycFRkamVpeGRJTG55NGh2Q3E5cmpVUGt3ZFB3T3NMMm4zY2RsRjlOMzB5TFM2Vl96V0JRclhQU3FmcEJRdnFldXVrNC1EM3g4aDF6aXFIeTUtVDRwRFFLOW9RMi1oQXlPME9sc2hYT1I0ZndfR2ltNFQ1SXo1aDg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-01T15:34:00+00:00",
+      "summary": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store.  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -101,15 +119,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-01T15:18:23+00:00",
       "summary": "OpenAI Wins Pentagon, Claude Tops App Store  La Voce di New York",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store. - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZV9YZE1aQ1kycFRkamVpeGRJTG55NGh2Q3E5cmpVUGt3ZFB3T3NMMm4zY2RsRjlOMzB5TFM2Vl96V0JRclhQU3FmcEJRdnFldXVrNC1EM3g4aDF6aXFIeTUtVDRwRFFLOW9RMi1oQXlPME9sc2hYT1I0ZndfR2ltNFQ1SXo1aDg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-01T15:10:02+00:00",
-      "summary": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store.  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-01T06:22:35+00:00",
       "summary": "Dutch authority flags open-source AI agents as a Trojan Horse for hackers  PPC Land",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Apps Are Disappearing: Entering an Era of \"Software Unavailability\" - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MSzI2dC1HRUlMVzRJdmJDVlFnQjlxd1hkb2N2UVlnNTJtek0wTzVVRmF3cUgwNU9iVGh0dEphMElnb0d4YmpRN1VTcGNXaFQwQnlN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-01T06:00:53+00:00",
-      "summary": "Apps Are Disappearing: Entering an Era of \"Software Unavailability\"  36 Kr",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
