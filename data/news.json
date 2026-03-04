@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-03-04T21:02:07.045283+00:00",
+  "generatedAt": "2026-03-04T22:01:52.232929+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI’s Pentagon AI Deal: What the Contract Allows and How It Differs From Anthropic - Built In",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHSktsaFJWb1Q0RHFIU3JmMjJ6cGJKZWl4YmNzdFpsbHBDVFhyQUJVRUhaVnRfZzFfQ0I4aWU4UUMzOXF2MHpvQ1o4MFZ3Y25DVTljV2FOMERvaDBZTnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T21:58:52+00:00",
+      "summary": "OpenAI’s Pentagon AI Deal: What the Contract Allows and How It Differs From Anthropic  Built In",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia Signals Final Investments in OpenAI and Anthropic - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUh3c0JYY3FTNmpJUEdfWFVSRno2cnpzYW5qZTlaSWQyNUg1QnEyVXVqT0JrTVdqZzdKM1psVEtUTnBEOGRIY2NlelREajU2eTFiS2pQdkNzWlNzUXN5YnJ3UVFES2FfTFROQXF0Sl94Nmx1RThRbVFEQzRMTDJhY3d3ekZ1d2ZEZGlsN3ZNV0UwYWFYbUV0MTNPUmcwbk5OR0pHNmdiR3Y4T0VtT1ZGaA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T21:46:20+00:00",
+      "summary": "Nvidia Signals Final Investments in OpenAI and Anthropic  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI weighs NATO contract for unclassified networks after Pentagon deal - The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3dfY25aS3hmcF9tcEt5ajlRanpVTDBiQU1NVFZmR0VWVmNYR0JXanRXa1M2WTFfVk92VkV1ZHg3dFRxd1hlaldvUTNVS2xCQ2hVaTJrVEZrZzZ2U1ZMVHp1S1VwYlh1aFN4YmtOSm9VeDZ2X1hneXVCVVlmOFAyUlVZZVlWNFJPMnZNQjJFQUdoSWJmdFoxc1NMRG1saEZETm90TkxYY2RSN0NzdGs0LTBzc1E5YmJERU5OcUFsdnpSRG8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T21:40:53+00:00",
+      "summary": "OpenAI weighs NATO contract for unclassified networks after Pentagon deal  The American Bazaar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI May Be Doubling Down on Defense With a Reported NATO Deal - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSG96VC14cGpmaXhSUlk0YWg1bGthOVh0ZVlWdlZtdkM2dEg2eWRkQlh0RmNiMVpUQXhYU3BEVXFISTl5T2lTNU1tLU01bHZIcEdIZFNUXzFiaHp6aUVHcG4yekVQMFctZnVfRVcyeGctT0pKLUxEOTJXLUFpdXBGZ0lScEx2NGZRZjBubS1jNDBmajFJUXdKa0RyWEZoblA5TTB2dTVSTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T21:37:08+00:00",
+      "summary": "OpenAI May Be Doubling Down on Defense With a Reported NATO Deal  inc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The Operator Vault Publishes Free OpenClaw API Database for AI Agent Builders - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUQ3VENYRjNLTHJfUGFnVDRUUkRKYzNYSEZtdWtwb0cyVHkzWWdvZk5IWFY2X29rOXh2VmdWa2Q4WUNUT29sVmEyQ3pNVTlxLVZ6T1pvUy04ZHBtUk1lbGNRZ2NFY2xsamkySUxkQWFrLXBRaEpoQzJiaEZ0Sl9oWkM0NDdwbXVDeVN4dGhhODktX2ozTnAyblNBQlZvMnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T21:16:03+00:00",
+      "summary": "The Operator Vault Publishes Free OpenClaw API Database for AI Agent Builders  openPR.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Nvidia CEO Jensen Huang says $30 billion OpenAI investment 'might be the last' - CNBC",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelBOcW9YSkxEN0gtNVFvSndrVzNycmhUNEx1X2pTckFzalU2djNKWmgybUEwaE5zeF9rNnFkRldlcTZMU09iOWE2UjI5Q3kzbDBCeEhtelBZdUl1Z3d6VEJQZHV2WjJ5b2MtSXp0cldVcmJ5SGM0T2hQOXZSaFFGdHdhUEFibEMzT2dmeC13enYyVGZ6bVFQaTBlcElhbUxjWWk5UG14OEhJWGg2OW9mSQ?oc=5",
@@ -24,15 +69,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "‘QuitGPT’ is more of a meme than a movement - The San Francisco Standard",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lYUhURmV5UDRhZTBtSUJYTDJ4VnFBYTdtdFlMWFhZbmRvZXlSdmNOSVFWenNHTVpFbVcxZ1VacmZEbTBLVTJYYno3UFoxRmlnd3RwMlV6TmtBSDd0MTNXTFNLbXlZT1k?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T20:37:31+00:00",
-      "summary": "‘QuitGPT’ is more of a meme than a movement  The San Francisco Standard",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Releases Codex App for Windows - Thurrott.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWlYamZlcllhQzZ0aUpnaDZpWnM0WlJuSkRDSjhiRFVocWlTSmRfNC1TcEJKWV9SNUVnbGxPYi1vZU10VTN1ckpEaUZnVU9TTG5hTFRBcGhlRG05WmdDTVRNVmcwMTdZbmphcEpXeXFSZjZpVlgyaWNlQlMtWjFtMVE5WWh5RDZITEpfMg?oc=5",
       "source": "news.google.com",
@@ -42,13 +78,22 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "ChatGPT Uninstalls Surge 295% After OpenAI Accepts Pentagon Contract - eWeek",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdENJSEtOZVZiNF9QNnctbm91UmxOMFZVeUZSMHV6WmpFMmtrT3hBR0h0NHJQUXNjZTBlV1F0TmhJWXFIM25UZkl6c1NhV0pWaE4tRWEwZ0VWbEpRWlhWLW93RnNuMkJIVmZpODhVX1cyQ2FBRWV1c1RYVWhkMUtLcmxn?oc=5",
+      "title": "Tech stocks today: Nvidia CEO Jensen Huang suggests end of OpenAI investments, Apple unveils MacBook Neo - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRmREUkM1Z3RWWGszQ2hVbTJPakk4NkM0NnoycS1WSUhGX1ZMakVCSWlrT0Z4eWhvLTVBdThKTE9kMDF4eTd4bktaNXZUU1NrVjRmNHhOdXZpOXA1SjdKeUpwZ0hwcHhhdWV1QkN5NjJLRWlRdENsM1FuZ0wxOWJxNF9PYmRGWS16WnRSdW5ONEFfZDZhV29pLVJqUlJOcVhwMTRmb2syWGFHS3pzMFdsRmZla3p2Wmxfcl9JcGQ0RFZISVd3Z2xPN1lPRWEtWl93dFBGSU1DbGVFcEgtODlYUjV6aGY5Z2tv?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-04T20:16:08+00:00",
-      "summary": "ChatGPT Uninstalls Surge 295% After OpenAI Accepts Pentagon Contract  eWeek",
+      "publishedAt": "2026-03-04T20:18:26+00:00",
+      "summary": "Tech stocks today: Nvidia CEO Jensen Huang suggests end of OpenAI investments, Apple unveils MacBook Neo  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVNUYmNmekpuOTNwNVVxLXpOaGVBeklNUEVkNzh6Y3JZT3hIdVQtUXBYY3dzZUxPWWw1Ymo4WW5BMGNWU1phQzZ3dC1jUEx1eVJfYVFHZDFDR3labG1pRXlENEdoM2M4SUFlb084MnRVbm9oNnJBMU9WTG04YlowMERFM3F4aGRFaS1ZVS0xYUxjT3dUQ05IMi13QjI3Qjc3c000NThrUGFnTy1WUWlWNFNrMm1udw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T20:04:16+00:00",
+      "summary": "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents | Amazon Web Services  Amazon Web Services (AWS)",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "Nvidia CEO Huang Rules Out $100 Billion OpenAI Investment - Bloomberg.com",
@@ -87,20 +132,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Nvidia will not be able to invest $100 billion in OpenAI due to IPO, CEO Huang says By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcmxkTDZJak1tVUZxc3NzTlo0ZllkcXJMeEVqNzNVS09acTFPdlpVMEYtRnR4SExSczRYWTA2U3ZlNXNFTzBWcmp2LWhzOElVa0xub1cxdG5sZ2FiN0wxU3VrNzFZRjVCNXhTQ3djbVY3MjA0ZmtaLVgxdk1ZX3RicUE5bDBQZmJHbmoyQ09NRy1iVmFSREJCemNISEZ5M3hNNVlSVFdKYVJiWGRmM05QY3MxZWloZXpIUGZodjFSbHFvTm9yMGcwX1ZNOVZ4azA2QmJCVkdR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T19:28:39+00:00",
+      "summary": "Nvidia will not be able to invest $100 billion in OpenAI due to IPO, CEO Huang says By Reuters  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic CEO Memo: Trump Disliked Company For Not Giving ‘Dictator-Style Praise’ - The Information",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1B2WXlGS2UzMXRKVS1sMlRyWmFYMExrekRtODJibmNaT2lVaGVZX09BVHJDdERhY0ZWZlFnSnNMNjhEMjdaSF9CNjJmUHZIU3M3VE1TWFViNmtlYm5jaVU3bjdNN1I0RmVIQnlrX2EyOWxzdzU3X1JROFZscm5EeFo3MzFpbXN2OS1uNmxLeGZIcnQtemF2bEJ2WnJ6bUNPUldwLVhkVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T19:21:00+00:00",
+      "summary": "Anthropic CEO Memo: Trump Disliked Company For Not Giving ‘Dictator-Style Praise’  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Nvidia's Huang: OpenAI's $30B Round May Mark Peak AI Funding - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeGlvbXZFSFlua3E2OE5RZjJsQVdneGdONDUtUXlUU2NTdlppLUZoZmJoOGJRSGlHNW9ZREZrRjN1eU9KS2NBYWxrZ0p6ZW9UTW5SLTNqZU9QbHlPZFB6ZXFqM0tjWDhpY21VRElkV3J3UUlfaEUwSTRQYzdPZlUxYXRPTXU3a0pvN0lhc2ZEZ2Zfellra0E?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-04T19:19:00+00:00",
       "summary": "Nvidia's Huang: OpenAI's $30B Round May Mark Peak AI Funding  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia will not be able to invest $100 billion in OpenAI due to IPO, CEO Huang says By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcmxkTDZJak1tVUZxc3NzTlo0ZllkcXJMeEVqNzNVS09acTFPdlpVMEYtRnR4SExSczRYWTA2U3ZlNXNFTzBWcmp2LWhzOElVa0xub1cxdG5sZ2FiN0wxU3VrNzFZRjVCNXhTQ3djbVY3MjA0ZmtaLVgxdk1ZX3RicUE5bDBQZmJHbmoyQ09NRy1iVmFSREJCemNISEZ5M3hNNVlSVFdKYVJiWGRmM05QY3MxZWloZXpIUGZodjFSbHFvTm9yMGcwX1ZNOVZ4azA2QmJCVkdR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T19:18:45+00:00",
-      "summary": "Nvidia will not be able to invest $100 billion in OpenAI due to IPO, CEO Huang says By Reuters  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,65 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia will not be able to invest $100 billion in OpenAI due to IPO, CEO Huang says - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TeW1vRy0yR1VQRjJPLXZaZ18wM3piSEE2b1JyaHAyWFRHR1RndHI3OUxKTFFpR3dXM2dHNE9mUURIUm8wcVdSWU1OeGxkYWtIQ3hyNHE2UC11YV9jZnhOa2JnY1ZxZVFJcnpydXVRUXVKQXpBV0UxTWtEdlY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T18:55:13+00:00",
-      "summary": "Nvidia will not be able to invest $100 billion in OpenAI due to IPO, CEO Huang says  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Quit ChatGPT: right now! Your subscription is bankrolling authoritarianism | Rutger Bregman - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWxBOHVMZHgzeUQ2cUsxcmVKREFtNndqdm1GTFVSOHF3SFAxVW1jbnhLbXlGR1JhQ0MwMVJGRlBCVU9ha2thdG1VMEliR1RXVHdiSDktd2F3NEhSSUJOdk5Pd2tTZThrTk11ZXkxdEM4TnpQTmgxd0t5ZU5GNVFvWUFEaEoxWDBCTFVYQzFhaGpfNVlGaVVsdmh2V3JLaVd0VHNBNA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-04T18:51:00+00:00",
       "summary": "Quit ChatGPT: right now! Your subscription is bankrolling authoritarianism | Rutger Bregman  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UUXBIbFZPTHMzOE5yQkRoNWJjdWVfX0xWNUxNVnFzaGdGdjVJVXZsa0d6dmpkdTU2X2Z6bEhndTVMLUh6NklJMVJId0pfMzdaSVhOZWlFa1BkWWR6cUtnX3VzZXZxWG8ydXlxdUYwSlBZZkozakHSAXtBVV95cUxObXZmZ2I5Y1ZlTXFGTWVZVUIwRmNobm40enRhdHR2Mm5kQmVVZVZnRHBKSTdBY0lWRU1tOVBlcjB6Y3FPZl9nZUYwb3RMakpCVjJDU0lVOXNDZFpfYkxlSWt4blNTS0ZVWVROOU9UZzFwU1VNal9NazhyaTg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T18:42:35+00:00",
-      "summary": "Nvidia CEO Huang says $30 billion OpenAI investment 'might be the last'  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Plans to Bring GitHub Alternative to Market - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0pJUmxJenhLbUh3S0EwMl9NUklzSWh3a1FGY2xwYmlkVENLS0FvN1FWcTBHY1Y0UHJRZUQ1MEtaOHZIZFR6dkZWNGt6em1HT0lqYUpxN1U0UkR3NGVxREF0Vko3Vm5NUmQwY3Y0bUY4TXJXMlR3OHV6UnRIRDAxM1NMNDVMRDNZb3NnemwyVk1zaF9RbVEtTTNnR3Y?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T18:27:09+00:00",
-      "summary": "OpenAI Plans to Bring GitHub Alternative to Market  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Seeks NYT’s Prompts, Consultant Deposition in AI Lawsuit - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzktRlZSTHp6U2tTS1Fmc3R2cUIzOG04eWdFMDY4U0RaQW5oZ3BQMHZLNjBsYVVrWWdvaGFYY2RkbnlPXzFDd1p2OVRLdHVUV1B0bS0xYlBpUVR3ZTVXcHBiX2w1M0pTVHpKWDVJMS12bzZGRGQzVnNFLVlRWkhVTkNTMGpKZGIzYXZWU0owNGNLWTNBejFpWkFBeHAzTERidXZQTkZ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T18:21:00+00:00",
-      "summary": "OpenAI Seeks NYT’s Prompts, Consultant Deposition in AI Lawsuit  Bloomberg Law News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Department of Defense’s Conflict with Anthropic and Deal with OpenAI Are a Call for Congress to Act - Center for American Progress",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUGZRODN2Q1lHY1hsWUt5d3RwM1pNb0d3c202Q2RXWTliMi1YZmh3OU1ySGtiRmsxbHdaSUY5ZzZSYV9kVFJxOGIwUGtLclV5QzhLRmVSWUN3am03OWJPaG9vM3B2OHpLMF9ZcGRMT2thTFJ0QVd4eW96RVdHNTJBS1VlZ19lcGlCSXhjMVIwZEJTRkJQMkx1dmc0cHBXclROOS1vVkRtQWhMWXc2RzF5LUhqenFaWmtWcWZDT2VhZVlrTzJhSjQxMzR5Z2xDbFZVaUxmTVItcllYcjBG?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T18:20:13+00:00",
-      "summary": "The Department of Defense’s Conflict with Anthropic and Deal with OpenAI Are a Call for Congress to Act  Center for American Progress",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why Codex is at the heart of OpenAI's plans to sell AI agents to enterprises - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ubjZmQlRVWFduMTRuVHR5NTU1NGY1TUlCUURwUVZVRVAtWjBMMlk3Z01od0pOTkZ1MXAtNE9ZZk1xNDk0b1FkajFHX1l3b0N3ZTFUTlN4eFZrUGtEeHg1eWZaTFdwN1l2YmhHcFVfRklNM1ozSlp4bzcza0M?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T17:33:00+00:00",
-      "summary": "Why Codex is at the heart of OpenAI's plans to sell AI agents to enterprises  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
