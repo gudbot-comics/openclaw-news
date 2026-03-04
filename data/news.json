@@ -1,10 +1,118 @@
 {
-  "generatedAt": "2026-03-04T16:06:20.193398+00:00",
+  "generatedAt": "2026-03-04T18:03:48.606119+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "How Threat Actors Turned OpenClaw Into a Scraping Botnet - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUlhvd19kZHlxZ0puMjU1Q2pIRGFyNzR6ZnVfck04MXQwd3psd3hyR0drTUxjSlYyNHN6LUV1dlBlRDdqV0J5ZW96c2c5Nm5tTkFJUTFLaXFFaERWemtqT01aTThpVUR0OGFNSWY5M2xHNWY0Tk1JaW4tU3BiNi0xMkRaZzNNQmF2NWpxY1ViTktWRThPN2xLeEU1Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T17:44:42+00:00",
+      "summary": "How Threat Actors Turned OpenClaw Into a Scraping Botnet  Security Boulevard",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Why Codex is at the heart of OpenAI's plans to sell AI agents to enterprises - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ubjZmQlRVWFduMTRuVHR5NTU1NGY1TUlCUURwUVZVRVAtWjBMMlk3Z01od0pOTkZ1MXAtNE9ZZk1xNDk0b1FkajFHX1l3b0N3ZTFUTlN4eFZrUGtEeHg1eWZaTFdwN1l2YmhHcFVfRklNM1ozSlp4bzcza0M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T17:33:00+00:00",
+      "summary": "Why Codex is at the heart of OpenAI's plans to sell AI agents to enterprises  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "NanoClaw Emerges as Safer OpenClaw Alternative - findarticles.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFNQVHlTUnpCY0xtWjR1ODRyU202VnBQRnUyamk2M1M3U21nLWZYUGhuMEoyUFBUbUdvR2xpcjlfYnNMSDgwWGRkNEJtblFrV0N3bV9zMnh3MUFqN093bFc3SFhUWDVyM2hEQTBNMjc3UFFUazlTRmtkRzV1QzZDQmdn0gGKAUFVX3lxTFA0S2NpUmd2cUw0UGFELWtqMVljajFHVDlyZmdpRUFPempEOEtuLXFGUUozOGdKYjBsRThEWW93V3FZNE5vQ3kxRk1jbGEzXzdpN3VPNnAxMDBKaC1qYWpsRU1CbVR5YmpGaklJUzBOTW5XNmF5WXcybmI4c241dnU1NE15SmxhVkRPQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T17:17:47+00:00",
+      "summary": "NanoClaw Emerges as Safer OpenClaw Alternative  findarticles.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI CEO says company adding safeguards after criticism over Pentagon AI deal - Scripps News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRE8xSksxYmFsYlNsd3RCSWpyTHlYaDZwOXRIWGluUnd1MGlzaFVsRmFmYUVhdndyQW9pQUVRT1I3STFraG5RRFZXcUFBdnlVNVllVXBWRFVQTlI5ZXdRc09CV1V4WmNuYmtOOTFndGpuaExtUTNhY3hfQ2tDZEdKQUVQdXp3aHBOUDVYRzI5WHlCRGJicWxIcDVWbTlnTlVfY2RWWnlwdUhIZVJvalA0cVdvQkZxRi1mSkhhcy1Kc3BLZXgwSkJpTV9xREZsS3A2ZkNwTnZTMjJDT0d1c2YxbjNB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T17:12:54+00:00",
+      "summary": "OpenAI CEO says company adding safeguards after criticism over Pentagon AI deal  Scripps News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Pre-trial fight in OpenAI case focuses on Elon Musk's dual role as Microsoft partner and plaintiff - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzE3eElIUzlPSE9ENUNkYXRlQThCVHo4dU15YjQxZjhjRENUcE9WaHcxQWFDbnJLUUVxZWpRQ3ZrS3JsS3dRWURMdHJ4TkpnemNHV3hsc3FRMEtSSERLbGNKOHpDUTN6Z1FBOXZ2OGk0RmZBNUEtUXgyeGtOdW1qOWh0cEtBTUxyWmkzSHVvZTloTUFCcmk1R2YzMU45bk84cy1lalRIdTQ0eEd1T041T1U0djc0MHA1LURlUXh2M3RteDVsZzJ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T17:03:53+00:00",
+      "summary": "Pre-trial fight in OpenAI case focuses on Elon Musk's dual role as Microsoft partner and plaintiff  GeekWire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive: OpenAI unveils framework to track AI's impact on student learning - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY2J1bmdOcEI5YUplVjBnUFVRNHYxV05lSFFocVVSRXdRczZWRUxQd2FFUkxXNnNwUERSSVRwQS1nQk1iTnc0YVhId2ZJMWd6QzY0Q3pkTWpxUkNCYnpFbDRWcGphbS14SVltTEgycDNibm4yVGlZazIxNV9jc2F1Yw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T17:00:11+00:00",
+      "summary": "Exclusive: OpenAI unveils framework to track AI's impact on student learning  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Ex-OpenAI research chief seeks $70M for AI factory automation startup: WSJ (OPENAI:Private) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2F3MWFINWNCWjd3OFhhVDQxNTR0Wm1Ca1hJLXZkdnBxaTVYdlY0NlA2X3Rxb0xYTFc4dkphdEt1ZGNFLS1wVklSb1hxcU1LdFZYZkpkMGtsdHp4NmxvVTZhMGROcmstcng2Ry1nR1lkWTh0UU9fLTlfdzhTNjExMkNlWWFMR1VEZndpRkVXNHBVSWsxWTgxVnNNUUFEXzRFUnJqQ0xMOEx6SE96WlJj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T16:36:06+00:00",
+      "summary": "Ex-OpenAI research chief seeks $70M for AI factory automation startup: WSJ (OPENAI:Private)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "pycoClaw is a fully featured MicroPython implementation of OpenClaw - Adafruit",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG11a0JvaHRlalBZNUlRaTFfTDZhLVZGZ3hvTlNlVVJDUTVBUlpnbV9BRW9UMEgyMVA5Sk1LSEp4cThLVnRjd1E1Uk56MXN3ak04Tl9HbkRGVG91dDM1UE5qa1NZU01mczAzTTJvNDJKMFJnYmlpVFJHZWl2RUNOcXJjRlFlV3dSZ0NqOVl5TnZXQlRMOVRDX1otZlA0VmRQRzJqMklLZHQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T16:32:04+00:00",
+      "summary": "pycoClaw is a fully featured MicroPython implementation of OpenClaw  Adafruit",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "'Fire Sam Altman': Pressure on OpenAI CEO grows following Pentagon deal - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOHFucGoyVXJEZUt4ZGZ2cl9WaHJ6eV9pMUFFR29zaGdTVDltLWY3d0NLZmNyTFpUZHZFb01hT09ObjdNRHdvbDkzbHVfdXI1aVpxeEYyY1VhNWQwZjJCRUhEM0lXOEkxZXdtWFd4LWIwRVJqWnZCZ0Zxa0U0RVhxd0hn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T16:30:01+00:00",
+      "summary": "'Fire Sam Altman': Pressure on OpenAI CEO grows following Pentagon deal  SFGATE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman pledges OpenAI deference to government amid Anthropic rift - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHBDZ1paZnFPT0R5UGVPTkFGU3hsTzVHeURFUkVpQU9zX05jNzFyOWgzWC1Zdm5fQi1ldWhxaGdYX0FHMzNIVDZ3TGxUZmVpeTB4QVR2LWNtcXhJWk1kM2JQQlNJenhWNkV0Tkw3VHZha3Y5UE5HLUd3Qk9Yem5aX3ZMYnc4OUhTejFDR1JnYXhldlU5LXpFVVBlTlVSNkNpRmlpdHYzS2JCUUplYlZsbHFn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T16:22:00+00:00",
+      "summary": "Sam Altman pledges OpenAI deference to government amid Anthropic rift  Semafor",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive | OpenAI’s Former Research Chief Aims to Automate Manufacturing With AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQQV9HOGwwYlo2RE5MZ3F4OWx5SGhEMWJDUTI0aEk2R1pTUGxHZzk4d1F4bmlFckhkVW9EX0lYVlZid0UwRkpEX0tzNmZqeVJkZFFmWEtQdmJUSXFrN0toaS1OWjRzdVl2WFJ6WXVzTTJzT3kxYWM5ZmlSTWhJYTlxNDNPQXd3UUtkYU9LZnlwUWNSd01CS2tCQzdIUkVGT3ozUzY4bnZoUE1OVk5UVFJfRGFVbGh4eWVWMmpCOGtqMHZDQUZZZlViZ1pjdm0zdm9vdlAwOWRZbnNuS2xZLVMyN09mNFpEcEhNZ0ZPbXJ0SzFwTjhrLUR6amsyZ0RldXlFVzc0Tlc1QWdmUVF3MGdCOTBDc05qazdpVnFFRWhQX0VhQ2lrYVB4cXljWm05TEczSWc2UVEwdDhhTzc0LTFOeHBiVVAzbUpXWXRrUDNIbEd3aFBxbWVzYnZlMmJCVmk3Qm5hc245aHNuX0VIVDJaOWRYWXBjVnlBemZoOGZIMUxvY3YwQjBsNDFvZVhjeTUyUHB5YlJxZkpJa0hNSzJRMzR5elh3UTl5aFdWUlBR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T16:07:00+00:00",
+      "summary": "Exclusive | OpenAI’s Former Research Chief Aims to Automate Manufacturing With AI  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Want to try OpenClaw? NanoClaw is a simpler, potentially safer AI agent - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBySnZtMW9VdFVHZlJvT01zWTRRWWIyVjZ5em52X2tZSjBENzlvX25lNUExTmE4YV9sbzRFSXN2NlJpM1pXcVVrWVF5WTIwc1c4X1VsYmpSYS1UU2c5R1NHN0JINHY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T16:06:00+00:00",
+      "summary": "Want to try OpenClaw? NanoClaw is a simpler, potentially safer AI agent  ZDNET",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Security Research Finds OpenClaw AI Agent \"Trivially Vulnerable\" to Hijacking - CPO Magazine",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON3JadUF2YllHdTNVcDduTUNBNTRnYW9RaC1EYS1xT0V5Tm50cW5XT1JQVzJicXNtTXExd2l5dHEyRmg5bWp6TGRNYnpONG9qa0h3R3VTLWc4X0I3Q28yOWxiVmRkZm02ZE81RlFCUmYwNl93bk9nVXlEYVdjWDd2M0dlM094ci1ncGtHUHVkX3o0c05MSHFxTEt5UUJMVkY4dGVtQW1UbDNGaVdUOW1xUWNNTW5nQ0w5UGVn?oc=5",
@@ -51,13 +159,13 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Quantum decryption, OpenAI’s deal, South Korea leaks crypto keys - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZkptRTNGN2MzNzRYMi1wR2dXeVYyamQ0ME44Z3dSelFKY2YyTWNadWpTNkplbUhyMW96Sm5wQk5uWFBRTnVfUVRBVmZoZnUxSkY3a3BTM3ZPZkFoSWNtcnQyUDE4U3pzSkpKWGhPeGwwZE9vNnZ2ZV9PUHI3ejNJSVZCd01wNE4xUk9SdFZnZ3VKdk5EVkI0N3o3b04tWFk?oc=5",
+      "title": "LLM researcher explains why he won’t install OpenClaw on his computer - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UN1k1ejJOUUVJOFNDWWVrcndLYWNWSlZSMGc5cTRZQWMycXBVRUduVEJmZWwtZlh5WFNrdVNNTGEyb2RBM0NSMFBsSEU1MXFkTlZJZ09NQ0xjYUM2MGFQejIwUWhmY201aGc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-04T15:00:15+00:00",
-      "summary": "Quantum decryption, OpenAI’s deal, South Korea leaks crypto keys  LinkedIn",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
+      "publishedAt": "2026-03-04T15:03:59+00:00",
+      "summary": "LLM researcher explains why he won’t install OpenClaw on his computer  Cybernews",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI’s Next AI Model Will Have ‘Extreme’ Reasoning - The Information",
@@ -69,22 +177,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "LLM researcher explains why he won’t install OpenClaw on his computer - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UN1k1ejJOUUVJOFNDWWVrcndLYWNWSlZSMGc5cTRZQWMycXBVRUduVEJmZWwtZlh5WFNrdVNNTGEyb2RBM0NSMFBsSEU1MXFkTlZJZ09NQ0xjYUM2MGFQejIwUWhmY201aGc?oc=5",
+      "title": "OpenClawd Releases Major Platform Update as OpenClaw Surpasses React With 250,000 GitHub Stars - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcm5zb2NJOHZjcEk5bVBXc3JTZTRGdUxZOGF3UTZyNTBTSHI2bkI3ZFUxMEQ4TUphXzdyaWJoZW5Ba0ZITWp0V1NfLWtRNTNtcFlaN1RmUlFJeHJ3WkFFczhYS0FwbU1ZZ1dCTF9HeU81Wk5Oc1RTbDYyMGJWQ1IxVHJkeTB4RHVMTzU0UTdsNkFqZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-04T15:00:00+00:00",
-      "summary": "LLM researcher explains why he won’t install OpenClaw on his computer  Cybernews",
+      "summary": "OpenClawd Releases Major Platform Update as OpenClaw Surpasses React With 250,000 GitHub Stars  Yahoo Finance",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "GPT-5.3 Instant lands: OpenAI cuts refusals, boosts web reasoning 26% - Tech Funding News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xdFRzaWY0Uk1VM0k2d3hBLWZpZWpLWHpKZ3F0M3pHbFBWQkk2RzIwTEF3em91LVV6cFdRUHpscmdDTTFQMFBxNk91MFRIVmM3MVdJREpXMy1lb08tQnlvM2VtM0JldVdzVVBVVkVncC1GMWhk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T14:42:22+00:00",
-      "summary": "GPT-5.3 Instant lands: OpenAI cuts refusals, boosts web reasoning 26%  Tech Funding News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "Sam Altman admits OpenAI’s Pentagon deal was rushed and ‘sloppy’ - Los Angeles Times",
@@ -119,105 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-04T14:16:00+00:00",
       "summary": "Quit ChatGPT: right now! Your subscription is bankrolling authoritarianism | Rutger Bregman  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hoth Therapeutics Deploys OpenAI API to Support Development of HT-KIT - Contract Pharma",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0dDcEVJWmN3eUNCajloZWw3YTYtZHNMRHpJa0lRdkM2XzJfMHFtdjRtTVF0Sms2M3gtSkN4eXVUNUhIOVVPQU8yZl9ZYnJaM1dqdnRVeDRCaFVZRzVHYzI2bW5Xa3o1MXRqN0g2ZHJ1MzgzVGtRSXlqVWZsaUVTNU5rQ3ZMOEF2d3NycG1mRnNELUZSSko3SGVmX1BvenhjNlFWMzYxeGhaUHpINDYwTzVWWUx0UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T14:15:13+00:00",
-      "summary": "Hoth Therapeutics Deploys OpenAI API to Support Development of HT-KIT  Contract Pharma",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Rips Through China’s Tech and Startup Landscape - The Information",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjBXdWt0bVBGNV9hZ2p0QnJROXBrN21ybHQ1WE5MNEtpaFpMRWRWMGpCSWVRcUlFNnVwbklMQWcwendGZ2xyRkszWkVJYnA3dzhCSnl1dkYzSmkwQTVuQzJMdVMtNjRUYzVNUGY0V3B2aS16NW9LZTZfZmxpWlRxTGtxOWVDb1VfZENj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T14:00:00+00:00",
-      "summary": "OpenClaw Rips Through China’s Tech and Startup Landscape  The Information",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Eyes NATO Deal despite Backlash over ‘Sloppy’ Pentagon Contract - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONWVMOE12Z2N0MGs3TUZYSVdFd3ozUFdxLXJ3aXRwc0lid0p0b3JGcUdVQy0tVjB5c2s4MUFsRmVPdlJNSWt5OFpsR21DNm9TZFY2cFAxTmJtVjE1Qk1JYXJ2dXMyd2EwNlhLLURZNDg4QkNEN1EwVm9iMmluX3ByRmdrSzFZekVMOUk1UEF6MTgtdHFxdmtBdFhlVkFtZ1U?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T13:56:06+00:00",
-      "summary": "OpenAI Eyes NATO Deal despite Backlash over ‘Sloppy’ Pentagon Contract  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hoth Therapeutics Deploys OpenAI API to Advance Development of Orphan HT-KIT Oncology Program - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONUpzRldHUUFwbFBZNkpDdHZXMEdwcDE5Z1ZRMU11TXQzZW0xQ1NoMENiSGdVLWNrVHN2Y1BoYWRkYXR0enl6VU02VTRjZEZyUWVLZkdfblZISWtqQ2VkNDUxalBWVHlPWGdIWXFZNWQ3VFgzemVjd3B0dy1oTWI3b2FnYmZLWTlBSG5KN083LTFNYUg0d21HaHpOdks1NkRjdVlIUkhJa3owR3VfVUdLWVM3ZGVBdGpxODU5blQ3T0pib1BKTHJhN01ncTB3QVRjVzJtelQ0ZFh3M2tsanRMQmw0NA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T13:31:00+00:00",
-      "summary": "Hoth Therapeutics Deploys OpenAI API to Advance Development of Orphan HT-KIT Oncology Program  PR Newswire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI joins fight against rare cancers in Hoth’s HT-KIT program - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlhWQXN6U2xZMjJfdFFLSmZ1d19vZnRaeEh4YmhDTjFxaGhTWGt0Y1Y0bnVsX3QtOFd3NFdiOXdFcUQteWp5T0hSdV9CUWJPZGtPVTY0aTZkZTFVQTdBblhzb21GYVFmUHpac3I1X1dJQ0g3SWJ1aW9aU3RSbTJsaXRfVUVsSkFRZUozaTFkdWpTUkswMXBWZGVPbEZmQW5pZTNUZE5maENERVBaZU1rRDk5RUZOdi1CcWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T13:31:00+00:00",
-      "summary": "AI joins fight against rare cancers in Hoth’s HT-KIT program  Stock Titan",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Forbes Daily: The Backlash Over ChatGPT Maker OpenAI’s Pentagon Deal - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekloSm5qMFFjN1cyRFc5WDJ2Qk5oVnl3QmNSd0ZObk1ySWNoQVJsbWFZU3p4aDUxWEVzYVNwZWxmZDFMSk1vcXlVNmpIcm1CNmI1VmM3aHl1SExITTdSOEVDNERzanBneHNSZzhmYTJxY09RNmdvaVVPYWRUdk53RFp3eUJjX2dZVnhJb1phb25ZME9hcjVfdjdpVDFwMVBQWjhXZTFXNzh6Z051dzQxOV9IcUcxejRXaXh3Yy1pOHo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T13:01:27+00:00",
-      "summary": "Forbes Daily: The Backlash Over ChatGPT Maker OpenAI’s Pentagon Deal  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "An OpenAI ad hoax mystery just got a new twist - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDB0bzV6M3dJOW1xcWh0LV9Samp4eFd3cGk5eGVBaG1UYi1zMVdLZkZHTURqXzc2NkxHUnpiWTdsejZYTFFYcC1vLVpESWNEc1J6MXBoLVh2ejdIMGdCbHZiRVlkem5HVWp1ZjRhT3RaNHpvNmpfT0VFT1VVTzFXVUZxNUNqQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T12:59:00+00:00",
-      "summary": "An OpenAI ad hoax mystery just got a new twist  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Goes On Defense As Anthropic Surges After Pentagon Fallout - TV News Check",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdENOdjlEd3k4NzFQLThqX1hKQ3NzX2VGQnAyU0dfaHIzUkJzbnZvRDVrdmNNTUVVY0V0RGZnd2NOZ2ZCM0FCRUxsb0ZiY3Jld2g4WTFqNFVBc25keUxTQXVISWtBVWY5bkhRekZGRGxrV0R5bVlmQzVJV0FJMHFXUHdJcG10NjE0SDlXeDFUeDNMV0QxWS1manZBZUhHTXlDY2cw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T12:43:43+00:00",
-      "summary": "OpenAI Goes On Defense As Anthropic Surges After Pentagon Fallout  TV News Check",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "GOOGL, META, OPENAI: President Trump Will Reportedly Meet Big Tech Leaders To Launch Ratepayer Protection Pledge - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORVdkSWZaV1Z6OUpheTRZNUxkWXFpUVRJVklIdk5pWnZZRTlVSU0zMC13MzJLZ2dUbUNtMXgybnpvWlNfazNmQnNfTnY3NUFTbEYtUV9DbFRNckgxWGJoX1BMVHZRNFBoU3d0SFk1SG4zejc0NVFEQi0zd0tYVjlxTkcyM2xtdWxBcm9hcEx0N1NudUtoVUJaWDVpUlg1RkdLNUcyM25QZ05wdkhtWWI2QzZiMGlkTGFndjV1SVFRbWM0V2tvS1BJYUg4RlBjdWtDUUcySi0ydjhSMlRybHgzY0JPX1oxTS1qenc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T12:29:00+00:00",
-      "summary": "GOOGL, META, OPENAI: President Trump Will Reportedly Meet Big Tech Leaders To Launch Ratepayer Protection Pledge  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman tells employees military's 'operational decisions' are up to the government - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU0V3Smhlc2hQM2x2blZMVVFodUdtRUJMQUU3MjdMdDE0NHg2QUt2RWFQN3JlQ1JSVDJfTGhlVkxoS3pDbmNrbTFraFd3SFRxR2w0RmI5d0J1NmpuYnNac3VCZUpfZGxlUmtJNUR0NUhFM21kZjhoV2dUR3AwcnRQRnhmSWVycFZtTkdRRWtrclRjWWZ0dlZVRnpCbFZRcndtVWF2cTlQMjQ2QXFOTE1OV0JucEh2c0Vad0VjZVpmUlNzVllEQnhQSlRiNmxvNDE2MGNZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T12:03:43+00:00",
-      "summary": "OpenAI CEO Sam Altman tells employees military's 'operational decisions' are up to the government  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The AI industry’s civil war - vox.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vN1loQXJoQTZXU0RxRjdfQVpENW1wUUVVUWxJZlg3aE9zcEgwVnZiRWZaQjJfWVhOOXV6aVA2WXh3YzYzZjhwWkYtQ2dvT3lMUTFVRmx4V1p6MExBSFRZTlk4Y2tvUDhCUkw5QWNsTkIwTFFpZHVEMXJXYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T12:00:00+00:00",
-      "summary": "The AI industry’s civil war  vox.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
