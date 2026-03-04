@@ -1,16 +1,52 @@
 {
-  "generatedAt": "2026-03-04T11:02:55.956424+00:00",
+  "generatedAt": "2026-03-04T11:56:48.232680+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Famed investor Vinod Khosla predicts free AI labor will lead to an era of few jobs and great abundance - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGN4UWF2ZUh2bGJjTGktMkJvTHZFQUxFVmdiS0MxbFJMZlg0TERzR0Y0eGdJOVZ2OWQyNFM0OEtveDgwVDN5bjdDekZta21YVTdjMGwzYjdZZUg4TmVPUGRNelZYb2NtNjBUZGFRSnFicnBBR01lckFSenB1RFVxNnJpU1pLb294c01aVEZCcGFkN2dtb2pJQmc4UW1NM1czU2hz?oc=5",
+      "title": "When the Pentagon gave Anthropic the boot, OpenAI swooped in. Some staff are frustrated with how it unfolded - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanhiSE82eVRMUG40SkdZSC13YXNHdGZyRUIwRFJGMDRlcWlYbDV6ZGY4YXVLOXJCM2o4Ql9rN2NLZUJFeFE0eDBBeVlhUW9ycTQ0UHdMUkFqcEt0NzhqSnlBS3ZLTXNsWHhyY2hyUjd5b0dLeUgxM3dFMXhfcm4tTTFDQk04dw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-04T10:47:00+00:00",
-      "summary": "Famed investor Vinod Khosla predicts free AI labor will lead to an era of few jobs and great abundance  Fortune",
+      "publishedAt": "2026-03-04T11:18:12+00:00",
+      "summary": "When the Pentagon gave Anthropic the boot, OpenAI swooped in. Some staff are frustrated with how it unfolded  AOL.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Sam Altman makes 'horrifying' admission following ChatGPT's military deal - UNILAD Tech",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGgzRkc5NWRxdFl0RUlCY0l6cV8taGFzU1hSTjlsTTB6MXdMSzRzcGpEblVWZDBrU3plOE96dm9hNk9LUlBBX2dVLWxmLVlNOWRtN2lUR21DdVBKb2cwSHBXNU12d2pGSDF3TFo5dnlZWU1QOVo3R2hINWhiZFNsUHZqTVpIYTg1cU95TUNRSE1DOGFFWjQ1TjB1dFZKeFdCWEg1Y3hZdzJxYlBWNlZQcw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T11:12:50+00:00",
+      "summary": "OpenAI's Sam Altman makes 'horrifying' admission following ChatGPT's military deal  UNILAD Tech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "This OpenClaw agent wanted a paycheck - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Oc0dhNnEwd1ZBdWc2ejlPSHhBN0FXOTdzU2RiNGVyMkZ4aDVNYjZRRWNsQm5ra21LZUFqaG9YZUZkbnFEZlNiOTNRLXZmbFcxLW1FaDJMRG96SS02cF9wLUFMdGI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T11:08:56+00:00",
+      "summary": "This OpenClaw agent wanted a paycheck  Axios",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "‘We heard your feedback loud and clear’ — OpenAI introduces new ChatGPT 5.3 Instant to ‘reduce the cringe’ for all users - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONGI3VzJqLUlodUp3czdYV19wX3FMQTVLTEVfT1pjaXVSZkdicTgxVnBuMTlOVHhZRHdpQ0lYdWtYQXZYa1VkTGMtT0FzUmVqcU1OMGtNN05aV1dmZlFmS1NBbkl2Rk5iUTJza2x0dS1Sd1c1dVd5WWxZc083dWZ1VjJmVDExQ1NRZk9ucWp2bXlXOUdHQ0N4WDRQRlA2YkJLbkpXUDNGR0pDcThlN0h5LWcyTjgwVlZMNVExMFNMOWxSRnpwRVk2eXNKTnczbGo2cHpVMGZDbVdRWmlhZkJ5RjF4andTU2NKY0hhOFkzZTZpSDJkTGlfOGZQOHhwd2tPN1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T11:06:00+00:00",
+      "summary": "‘We heard your feedback loud and clear’ — OpenAI introduces new ChatGPT 5.3 Instant to ‘reduce the cringe’ for all users  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cybersecurity News: Quantum decryption, OpenAI’s deal, South Korea leaks crypto keys - CISO Series",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS28xWVlUeVRhVXB0X2xUc0puN2VvQ0xwUHRlZ1NNbVBtM0J1eDZLYjZQYkZvcDlOaEJlX0JXRUlNSHpOcFFRdjNCbGJqMDRXY0VxZ2dGWWFobzFjeEJDTDJST1ZsSHlCZmNxNEF4eHlIck1vVnBwVmFjRnIzVHJvMUpFN1doQnREV0JIWFZEUHl1S2xRYnk3aExPSHlqNWtyM094S0lOMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-04T11:00:00+00:00",
+      "summary": "Cybersecurity News: Quantum decryption, OpenAI’s deal, South Korea leaks crypto keys  CISO Series",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,11 +69,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI investor Vinod Khosla predicts today’s five year olds won’t ever need to get jobs thanks to AI - Fortune",
+      "title": "OpenAI investor Vinod Khosla predicts today’s 5-year-olds won’t ever need to get jobs thanks to AI - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHZnUVpGd2RvdjZtdEkxY3FiSmpCRzIxeThJNm9WYXFGcFJqeE44YVhIV0p1YjB6Wldzc1FZQnM5SHNjV1ZTTEROM3N2bmIwb1R5NTBfUFJ4QldSRlUwZEJHbWdHOGQybTRlOWRXVXpod0pTS2pJMlBNQzhRb2VadHd3aTMzaDdyckJ0LTVSbnRUcWd6bEJRcFJPaTF3WUE2c1Q0?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-04T09:42:00+00:00",
-      "summary": "OpenAI investor Vinod Khosla predicts today’s five year olds won’t ever need to get jobs thanks to AI  Fortune",
+      "summary": "OpenAI investor Vinod Khosla predicts today’s 5-year-olds won’t ever need to get jobs thanks to AI  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,15 +177,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence - Big Rapids Pioneer",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTNUR01yVVVpUHllSjA4dXVaaWNoSm5CU2hGUHRNVEQ5TnNfMlpDWVpTUWRxSExFWXZicEx2TG9sMm02SEhJaEdPTG42NU9MWHlDbG8yejZ0b1FQX3hFd1pZWm9zaFV6cjdNNWF1UkJWNk40SzlQUVl4bkcyMERkaXhncHdwckluRUM1MU84UUluTlpHU0FNYVhBN3dhMDh6YkVxem1yWnpBY0dmcUhTcVh6cw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T06:11:30+00:00",
-      "summary": "Dueling documentaries illuminate the promise and perils of artificial intelligence  Big Rapids Pioneer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI considering new contract with NATO after Pentagon deal- reports - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0JsejVhcWRHaUtxamthd1ZxTjg3d1MtRGgxR0dNUnJHTnZWeE5sSGprNXp3NUlWckxDS1hFdUtyelZZMl8xLVpXQkRtMFpQaDNRMTBLLW91Zy1SOVgySWhCQlJuT2tQTVVGQmU0dE1xZk1Ibnp0LVJraUtGSC1xVkl1aktWWktTbTV0VDMwZGNrWjlFWFd5LW9IM2RaTjZyc3hvMjdfalhFaWNxRE0tMm91eVQxcGVteTR5d2h6WFE4WEk5?oc=5",
       "source": "news.google.com",
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-04T05:56:00+00:00",
       "summary": "I was at a QuitGPT protest, and the discontent extends far beyond OpenAI's Pentagon deal  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI looking at contract with NATO, source says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQUcxcERTb2tMT2F1a0x2M2s4anpBMGp5YTlDWmtBRlRDbm5za0NTaUFRU2JUSmtJSjRJd1lVbjMwN2Q5UlB5UVFIYmZrSnpzYnJySm1sdzVoZWNPV2hEUjRhS0JFUks1Um1zY2hwV0w0TEVJZUxCdjlSRlY1SFltRHN2UXdieHUzNFpCbF9NazBQSFBhWXJz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T05:45:00+00:00",
-      "summary": "OpenAI looking at contract with NATO, source says  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is reportedly making its own GitHub because it kept going down - XDA",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW5UenZvb2VOazVyNHF3N1o2amI4VEFZUFkzODdFd0t2Q2xSS3NRSWtrZ0VNMXJUWFZKbnlhRGUzLU9lbVlfRG1KUVNhdVVpbVNyNmxXMEpqcUNlU1R0MUVuazduV2ppWVdLUVZmLVhJc2NRY1FpRFRMekNzRkRjc0NrVE83YnVqbkV5WEprTmJvZExBdjNWQ0JwZDd5TmdZUmw5U1g0cjhpVG1XOXJn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T05:41:27+00:00",
-      "summary": "OpenAI is reportedly making its own GitHub because it kept going down  XDA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Developing Internal Alternative to Microsoft’s GitHub - The Information",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnFRTXMxa1ZpUmRGcEVzc2dDbEpCTm5fV3RNVUtKRmdtcnlNbDNhemFnRFZWUHh6Y0tZQmZFME96dlRKWGVqNlpIa09YNTg5Z1hhRE1YVnB1ZFhGS25WUkhnREVBVVVOUGRtT2JCWkIzUy1qZ3JxTnFiTzJXbmpqOXpSeTR3YkgyQTRVTVNlRmR3SUxzTlhCQTN5R2RSUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-04T05:15:00+00:00",
-      "summary": "OpenAI Developing Internal Alternative to Microsoft’s GitHub  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
