@@ -1,16 +1,142 @@
 {
-  "generatedAt": "2026-03-05T19:02:00.115279+00:00",
+  "generatedAt": "2026-03-05T20:56:26.930483+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI introduces GPT-5.4 with more knowledge work capability - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFloNHg2MUhSVm94Zy1OLXAzLVhFNDF0eEJWQXdKamFpSzZMcjFqTm5pZEtkNzh6ZjROZVAtR0RLZVAzSnQ3UmtyU2ZmaHltdzk4TnF4eEVkcloxWXJ0a1I0UkJVTXJzSDJxTjhuaEZ2bEZmdTJ1dGF2eDc4ZERqNEFRX3pTSUFiOF90Z3VJYzhqSE9rQVI3ZFRUdWZjQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T20:55:25+00:00",
+      "summary": "OpenAI introduces GPT-5.4 with more knowledge work capability  Ars Technica",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Introducing GPT-5.4 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T20:40:54+00:00",
+      "summary": "Introducing GPT-5.4  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google is making Gmail, Docs, and other apps work better with OpenClaw - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VN0RxdVRKckZMd1owVEpmdWV2VFdEOUVTdUV4RHdsWndoQVRpLTNLM0E3bzhfTGtXU0NoOUd0a2NTVGhyM1VINkJ2NGJQZlV5WjhkbUlMNXEtd2JYem04OFZkU1QxWE54cm5NV2JVNGZXSXNSYVpUaHozQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T20:35:23+00:00",
+      "summary": "Google is making Gmail, Docs, and other apps work better with OpenClaw  Android Authority",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI's 'stunning admission': Maybe people don't want to book stuff inside ChatGPT - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeDV5NUtsVXJBbFczVTNVTmxUQm9VeUJEb25ORFM2bVc5QmRSd2duZjktdjlBby1wdjRScG91S2dNRDB2ZnFxd29GWjltSndKN2llRy1pazM4OUU3eDZoMGpVWWt1MHl1Xy1vSlZOOUdmVmxHbEtrX2lnS3ZnRGpCY2NGVW0yMndPNWViYldlTWxXVlVfMFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T20:29:00+00:00",
+      "summary": "OpenAI's 'stunning admission': Maybe people don't want to book stuff inside ChatGPT  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Just Launched a Thoughtful New AI Model—and You Can Interrupt It When It Goes Off Track - inc.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMkxRbFkwY3o4bWNDUTl0ZU16OVRfbDBiRmNjdWgzTVprZTFCek9Yc2RYVUZkM2tMVjlMMW05MlJoNTNBOVdQNmN2RkVsemNGYU5yMThCT3FFZV9nVGM3U2VfVXFYa082VDZMd2VkTDNPNElRanNFSzcyMzI4QlBlNWcwblhrVnVzRTBhZHViNmo3b2RESnU5Rjh1R3M2Y0lJallDbjZNVnlvcU54M3VKeHctV0RTb0hQRlZvcXBTakJhSWpJcmJTMGt1bWZvczQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:56:15+00:00",
+      "publishedAt": "2026-03-05T20:19:10+00:00",
       "summary": "OpenAI Just Launched a Thoughtful New AI Model—and You Can Interrupt It When It Goes Off Track  inc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Accused in Chicago Lawsuit of Acting as Unlicensed Legal Advisor - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3JiUUlsVHhFSlFiOVVveTNvckFiaTE1R3RKS21xVGk1WFJyUUEwdU9OVFJmZnkxcm5uQ3ZpbGczel9RWU9DU0FwMklMczJ3OENNQ210YWptWUhaNUp0OWVHa05EcXFRWlM4TUJjVlNudnpCNDRaVHN5MmpYYXZGQzJwM1VadmZpTDNiZ2l3UnJFNjJQUm1KNmMyVHh2Ujc2cWpoVW81a1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T20:00:43+00:00",
+      "summary": "OpenAI Accused in Chicago Lawsuit of Acting as Unlicensed Legal Advisor  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, in Desperate Need of a Win, Launches GPT-5.4 - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeU1ZbG82UjBZX09qOU9zQnFKbmgxRlp1eGJmaUNRWTBoZ0pLQm1TSXVYV1MzM1hMOWNReGJ1dW1SSXY1Z0tET1dXMnA2RllSaGxKcGFVTnlwZTQ0MzJaNVJRT0RKMlAtUVZWRHdOMU0wQkwxOHVsUHlBZjRwdlN5anRHMmlENGpR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T19:45:39+00:00",
+      "summary": "OpenAI, in Desperate Need of a Win, Launches GPT-5.4  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Latest OpenClaw Security Risk: Fake GitHub Repositories Used to Deploy Infostealers - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlBkelRoV3M1RUZSaWU0akRtTlBuMmFRTjdNNEQ4QnRleG9EdmlQbHVwdm5URUZNalNRRUV0SVljaVIxRFVLMXFCdEwySjJvTl9UU2JJdU1RdERhVWlYWVFGR243V291TzlkcWZjaEhLY3AtaGhnQ21JQlhZZVlMT3BvVmFWOENkbHJqSXJlclc5aEV6dWxySWVjLWhseS1yQS1GWTdpVXFmSU1ia2toaHNHbFlUTEU1YVpZSlZ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T19:41:15+00:00",
+      "summary": "Latest OpenClaw Security Risk: Fake GitHub Repositories Used to Deploy Infostealers  Security Boulevard",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.4 Days Just After Last Version as 'QuitGPT' Exodus Gains Steam - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclNNanRtbmtLVHZNaENBMHc1Y3lpVGxSdHJWd3h5UnNVNTZkRmlQMmlELXl4WElOZDZRUHFLc1lBanFUeG93ajlsRE82RjBmWFhRaE9vSU8wb2ZzcTJ4eXI0Zk5ESWxTZVdKSFNKUXdYd09kLUVtalYxaU1wZDQ3bUN30gGKAUFVX3lxTE1vRXBxaFZpeW9WQ3Vjak13Z2NfN1dHM0xpMHRJY2ctRW5VNFNCR1NManRhby00Mm50OVI3RWVLOUtzS3dqcmZOVllseDJMSEk2NUc3dGtWejVKWWxJUExFNmtINkhNcnhPNlFUcm4wVXlLVGcwOVRYVzdWZ2VDZ1B2RGtuZ3JMNDZvZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T19:38:49+00:00",
+      "summary": "OpenAI Launches GPT-5.4 Days Just After Last Version as 'QuitGPT' Exodus Gains Steam  Decrypt",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR0RORXNlZkotYjJnM29aTVl5Vks3eG9mVXRsaE1QWFFZeHk0Y2p6MTJ3MUFWNm9Ya2doMHpIVG1wY05hcWt4UFIyMXZQdGROcjVxekRHSHBPaUMyZ3R0aXJFZEQ0N3EweElVYml4bWdxMTJERTNMbXJsbDZBd1NzVkN6U0otWjRIaWQyN3NEdnJUQVMyUWdVRGFHSDFmMTZaaFlKOGh5WDVlQUZzMHVuTnZESUtYNXdPMEVUMlpNcw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T19:21:59+00:00",
+      "summary": "OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI rolls out GPT-5.4, offering Pro and Thinking versions - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVm56UnBOYnRaV0t0Q2VwbldEZHUtaWgxVmY3WlZmNjhieVV4X1NDM3RZZHRMRXRfU19jRzFfZ0J4Z1VVN0tkZmNjYnIyWWlTZUFycUp5VjNmOV82dEQ1eC1PakJ5aU5uSXhUZnV4ZWlVaEpoSTdJQ2FEVVdNVUZtOUVTMko0Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T19:18:45+00:00",
+      "summary": "OpenAI rolls out GPT-5.4, offering Pro and Thinking versions  Latest news from Azerbaijan",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI hit with lawsuit claiming ChatGPT acted as an unlicensed lawyer - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV1owYjJYd0tkbFNybkNMNEQ0QlFJR2hqLXVxTG9CUFhrRFRPSjBObjVWR2J3ZUFkLWxhODZxVXVtY192OWRaWjR3aVNfYmVBN216WG9GaU1mcUl4YmR5YjRlYy11THN4bG9tTTdaazJEajZEQnk5c1pFekVkYlo5alg0Y3JFV1dpb0kwaXQ2ZlBlekF6cy1FdHZTcU82TnR5NDUzWWVvTmoxdHNDbnV0UHNWYkwtSXNIUWJuajhHVEc1aVdncV8xbEdvWkdpRGFpYmVsdzRITQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T19:17:51+00:00",
+      "summary": "OpenAI hit with lawsuit claiming ChatGPT acted as an unlicensed lawyer  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO says government should be more powerful than companies - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFJuUzRENVpndzhQLTZnTW5XQnhnaE9kWldZdmJ4TnVyUVQ5UHlHQzdHYVUyRXpRTkhWRU84UmpIUnJfQVVENEtnbnJlX3JfdXVtU29lSVJhSzB5OUF5VU9wQlZ6bkN6cDBlWkNNbTc3WTZQQnB0MkRLUWtrbExCeEk1X0hfSkhFRE1icV9DRXF3MzJ4dnd0Mk14T05LX0RHVUM2M09R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T19:14:50+00:00",
+      "summary": "OpenAI CEO says government should be more powerful than companies  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Releases New GPT-5.4 Flagship Model - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUZPeFhzSVJ2Zy1LWE5VbTIzSDIxRW1JakcwSGVCUlFXdlhhdmh3d21pNWt0ZmNuN0hFN1VxelJrcjdBRlRzSUQ2dEdJT1RucWdRRUZuZFpFbjFHVWtYZUkwdVlGVnZkMzMtdnJLZzh5OElVN0ZlT2NkbGEzNDlLX3dLUW4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T19:10:30+00:00",
+      "summary": "OpenAI Releases New GPT-5.4 Flagship Model  Thurrott.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The Rage at OpenAI Has Grown So Immense That There Are Entire Protests Against It - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vNDMyX1VBbl9aTF9wVGdxREVXY0xaVXprVV9aY0J1dk5kVV84Y3hBbUlPM0UxNm1KWHU5UnNSMGxmdTd2aTBCN0N1UjdhWG9PWExkXzUtbkk3TDkzY2NmLThUcjB1azdXSWJxcjFWaWIwdjg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-05T19:01:30+00:00",
+      "summary": "The Rage at OpenAI Has Grown So Immense That There Are Entire Protests Against It  Futurism",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,22 +150,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia Signals Final Major Bet on OpenAI Before IPO - cheddar.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUzhweWhUajhkcVRybjlQMTJhZmxGVk1Ea3FCUm1qQkpPNm8ybng5cTF0dDItOHZfTVBvLTNqdTU4bnR4YnBlRzBMaVBfbXo1ajExTG1JZXYzQlljQmRaR2VFbkJUTGF5aHk0Ql9aU3dRQkZCcmR0cWU2Z0dIYVJ3MUI0TVRCNmk5V3c?oc=5",
+      "title": "Sam Altman Wants Elected Officials, Not OpenAI, to Decide How Military Uses AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPeEZfTzVPeWRpWmdWVU1hYm9FWTJUdEFjR3NaLVRNd2t6SlBQMzR6bEotZ3hQOTlWbDdIckQxbFV3TUhaQWkzZk1YcWN5V0ItYmJZYWN6SFpZYUZZVnl0a1VTaDZ6SXMwaU5OUnBDeXVLY3RBSzN4SHh3X2w2Mm50WVZfb2JZQ1BPVmdkcTZsN0s4TVFIZXJ6ZHFFa3hDZXBnWG0yUFA5UVBCMHpFcmpMVnBYRzEtY2JwSnplVDNKeS1BSkp3UFpoMm5VZWExWGFJUVNqN29adzVJT2FLOGMyZEJnd0JqZDNQUmRkcjUtQmZqMmgtc0xIR2UxVDVaVlk4eGZvcTV2emwzMVpzcHV5anpsNGFzLVpJV1EyR0ZxVFhfRE0wVmdyWGtNaHhsNDJVNFV1Ry1yNUZJLXpnZEplWVBvalJ1UkJQdlR5VHhoNWVKVERXMGxLQml3T3R3eWZkZldNclVZd19KUTcyWmdWWXhEUEFEQXpqQ1JZUG5KMUE2Z0dwLUF6b0dGWVhlVjlYU1J2X1NKb3ZjSGtZQXV5WDVLYmRrNXRQdWkzRGZvZ0dHT202VGlXNA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:51:37+00:00",
-      "summary": "Nvidia Signals Final Major Bet on OpenAI Before IPO  cheddar.com",
+      "publishedAt": "2026-03-05T18:47:00+00:00",
+      "summary": "Sam Altman Wants Elected Officials, Not OpenAI, to Decide How Military Uses AI  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Latest OpenClaw Security Risk are Fake GitHub Repositories Used to Deploy Infostealers - Security Boulevard",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTGx1eFhaZ3hrQ0dVeGFjeXBNV0xiVkxwc2JoU2p4bER2THl5a0xNWkxoTzFERmMwWndpZ0tIMXRtOGxpZWpjX1ljVzNaQVdBWUhWb2ZJSGRjX2dUelRELWM2aXdqeldOWEpvZTAwdU5ZNmI5X3FnZDRaX0RyVXRYTGdqME4tZk15UnRLWGhxYmxseXR5aWVpN05WX2ZScFdGQWI4bW5OTGRnc1RZbVp1MUhEX21NNlV4UDBBR1FYU0Y1Z3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:45:00+00:00",
-      "summary": "Latest OpenClaw Security Risk are Fake GitHub Repositories Used to Deploy Infostealers  Security Boulevard",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "Hackers exploit OpenClaw to spread malware via GitHub - and a little help from Bing - TechRadar",
@@ -78,20 +195,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Better Announces First Conversational Credit Decision Engine in ChatGPT with OpenAI - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUlSb1NzQmV3aXgxNXZIT3JjeElZT2N5cmdjWjExQVBDOG5pcWZzVmhJb1V4ZlVWdWVkOGdod3RsSzFuNTlhTWVJcHE3OFpuOWRrQkJ3dGhaZC1aQWwwdFZ4bmN0clgyUERUbXFfblQwcEpQWWNUbngtaG5VOXJJelIwVFVZT0U2UkN6amg4dkJoTXJxbFZzYg?oc=5",
+      "title": "Better Announces First Conversational Credit Decision Engine in ChatGPT with OpenAI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHFEQVRZVlY2NE5KOWVrWmNHU1RKMlF1NGN3eGJHVEQxMWI4VTBVZ0JtOVAtSjI1WUhwV3ZSUnJPd2Nya0xpYmZnUDFabm53MlM2S2QxZUIwbVNRZGM4Zm4zUjN4ZWs2OXFXNFkweDBDSnpTXzhZRTJBR25Ud1czNW0wQTN5UjNtTUFEWW4xTHk1MXVK?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-05T18:30:00+00:00",
-      "summary": "Better Announces First Conversational Credit Decision Engine in ChatGPT with OpenAI  Yahoo Finance UK",
+      "summary": "Better Announces First Conversational Credit Decision Engine in ChatGPT with OpenAI  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI rolls out GPT-5.4, offering Pro and Thinking versions - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVm56UnBOYnRaV0t0Q2VwbldEZHUtaWgxVmY3WlZmNjhieVV4X1NDM3RZZHRMRXRfU19jRzFfZ0J4Z1VVN0tkZmNjYnIyWWlTZUFycUp5VjNmOV82dEQ1eC1PakJ5aU5uSXhUZnV4ZWlVaEpoSTdJQ2FEVVdNVUZtOUVTMko0Zw?oc=5",
+      "title": "Better Announces First Conversational Credit Decision Engine in ChatGPT with OpenAI - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWZNVl8tenMwLTU3X2ZISjRHQ0psZ2EyZHhqWGxxVXhUUWNaWTI4NjJwTGVmV2Faa2JqVWdINFpILXZUVkJmVnAyZE15d2ZWLWhoNHRHamUwNzRNWlptOGFNN19vdkJTXzR1WFBMUnV0SnRVTGszRDA4UzlHUTZqSnRWaF9YUjVvY21iMGN6R0xOWS14N0IyblRUNDRjdHZOZ3N0WnpfSGg3WWs2dUJuMklRZzExTmZ5dG1KSmNkZTlyRUdUSENnZFE2MmVhNUt2WUFrSHRoYw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:27:37+00:00",
-      "summary": "OpenAI rolls out GPT-5.4, offering Pro and Thinking versions  Latest news from Azerbaijan",
+      "publishedAt": "2026-03-05T18:30:00+00:00",
+      "summary": "Better Announces First Conversational Credit Decision Engine in ChatGPT with OpenAI  Business Wire",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -101,123 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-05T18:15:00+00:00",
       "summary": "OpenAI Launches GPT-5.4 with Pro and Thinking Versions  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches GPT-5.4 With Native Computer Control - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVEhnWk04N29ROGh4S0cyaGptVGp0eC0yZlNVRlctMnBVMGEtVWk2Q3ZzdmNXNk5DZGIxU29pOGtlWFJ0c3p3V0M0WWJBTVMxbUNtVXNzem8tWThHVEpLY3IzTDhiUXNQeVVSdFNaek5WQmxPRzZMbl9IZE9uTzZOWG1JMktENWhES3Bod1pn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:15:00+00:00",
-      "summary": "OpenAI Launches GPT-5.4 With Native Computer Control  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Better.com partners with OpenAI to approve mortgages for much less — and in just seconds - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlpuWlA0Tk1ycHdQenZNZHFCSVM4djBDNXB6YkpOU0ZoUWtjT3lUSGRvTjA4VG9Ga3pYNVlOZDZsUmFRNTd4bm9HTWVXN0FwaXl4cmoyc1ZBUDU4VjFGWGtWbWgwQ0IxY2lsdVNDQU1tMUlraE1GVmNwRU1ZR1liMWp1MnVQWHVJaXA5d0Q4LTM2d0hPVWZYbDh5WVI0ak1CaFhr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:15:00+00:00",
-      "summary": "Better.com partners with OpenAI to approve mortgages for much less — and in just seconds  New York Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Introducing GPT-5.4 - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWUJGVXR5TEZOR3lxZDlVVzMzVHJ6TEZZdTNmOGRQLVJjcmhXazMxdjhSbXRLVzZoUmk5VGtyUWs4djN6UTdTUzJ3bFFibi04bFdDSktjalU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:11:15+00:00",
-      "summary": "Introducing GPT-5.4  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman says company doesn't 'get to make operational decisions' on military's use of its tech: Source - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc280d1NHZloxSXp5cEd4VHFWSDZfc0UzMjYtclBFYzNOUDVrb1k4TGhxVUlNam5VbHk5TVJDNEFINGFqSG5mSkxJY1hwS1dza0djeU8yS19aTkEtUVRROHdiWFZ6WTZOa0hINTd2Ymo5a2xUNEtiVUlkNVFVaGprSl9fQTFpUG1mSzJQTFlyMTlrOXFvekEzREtQeGRsUGNGZjhXanFSMNIBrAFBVV95cUxORWpHNzViakhRUFBCcW1RNGVHVUo3RmF5RG9mcm12c0RaSHNOR29USUk2Tm9qMlVkbzd3ekJSaFRPNlN1VTdpTnQyTGlmX0pNbXU0eTZVaW9Va1BSRjZONjJGYXc2QkRkVWtCc0NXNzBUSUNCYzZ2aDdEd1dNWlNNRHZKdE50SlNlM1EzSXBwSTBhWTdJZWNoUmlMRHRqTDNid1YzWVN6SEpqZWhN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:05:55+00:00",
-      "summary": "OpenAI CEO Sam Altman says company doesn't 'get to make operational decisions' on military's use of its tech: Source  ABC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-5.4 - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FOEhQWWZubWR5Uk14ZUVkWVJRbU1qOHBLdllJTzBDamJWWldKV0h6eWZvVldDMjVOTGpNa0VveTJmV1BPN2tFMGNZZDVMWkxuazZQUm1EeGhpUzQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:03:43+00:00",
-      "summary": "OpenAI launches GPT-5.4  The New Stack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI releases new ChatGPT model for working in Excel and Google Sheets - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HQWphS2lodmVnRTkzdW56UkxSVDdGcEpHMVZBcVc1eVpnQkJDSjEwY0xDdlRyM3lEejBscWVEZGphUHlscjdFQXNxZGI0Z21WVy1qWGhiUHktUE1vTzZEOFhRaktQemoxQlZTVi13?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:01:20+00:00",
-      "summary": "OpenAI releases new ChatGPT model for working in Excel and Google Sheets  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-5.4 with native computer use mode, financial plugins for Microsoft Excel, Google Sheets - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVA3TVF4VHB5MDBzeXg0TTVIOWlsSk1JN2tlSk5pYl95d1dJdUpxUXZoOXlZRG9HN0FyS3kwSEZRRm1HRUxBSmVwVTdjZHBxUlk4VVMwRG5hMVB1M3NXZS1UWEtncHNjSmFNYkNERUJnb3dta1J4UmR3eUJjWTZkQ1JnZjhJRVFldElwVHVBcTRJVlhkcWNYbElWVFVUUGhkUlc4LURpQ3JEOFFoc2Fr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:00:17+00:00",
-      "summary": "OpenAI launches GPT-5.4 with native computer use mode, financial plugins for Microsoft Excel, Google Sheets  VentureBeat",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ2NSYlNseWx6VEc4NWpaMXdZaElQaWRGZVVXNzBmTm1UWGVWUS0ySXNOUXI3d2JNcnFsRXIxYTA4YkhhUUJOem5yWUZrRWY5ZEN6VGgtSXBfTmpLLXMtaWFZQXQtbjJCc2dFR2JKQUtmMTNjaXk3RVpJVlFQaFNQTzRGQzlndU5Wc1pVNHM3RkxNTjg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:00:15+00:00",
-      "summary": "OpenAI launches GPT-5.4 with Pro and Thinking versions  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Releases New Financial-Services Tools, Rivaling Anthropic - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2theW10VlhmVzhYVnZFOVphMTZQOE5vVk82bUh6bG1FZkVUeFdMZEh3LU5oR2l6NEJRcFRmbDZiZXhUT3Rpc0t0NmJ4VzZ6THVBZkgtNTkweTNvaTBRcDlmM25PaGJoLXI1ck9nVUhvMUx4a29ubUJ4OU5FYzdDemVaM0wzOFBSM1hXN2hBWWhEdjQxWlVVVWEyQS1haUZpemhsZTVZYi1HUkoxU2w4ZDFXVzU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:00:05+00:00",
-      "summary": "OpenAI Releases New Financial-Services Tools, Rivaling Anthropic  Bloomberg",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSHRORmpfQkhXOHpmMkVrei1pVEU5SjR3R3NQTDZfaG5fY0xiNE91RVdEM2FPQWkxSXJyQnRkY1ByWS1ISGhIejBvZVRRUGxicGZha19pSjVEMU9PZXVkcnRmR1B5X0JmcmphZ3pyWXB4cWdna0MzMGpKT0RNWVE3RjRKTkhvR2ltSXl1X3FoLTh0X0h2Rm5PS1QwQjZBdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:00:00+00:00",
-      "summary": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "GPT-5.4 is here — and OpenAI just made every other AI model look slow - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZE85cVhsTGc4UVR2YVV6cG80ZDMwMk5BaFZibnRTV09NZEs5ZjJ5em51YWt4aGZJdS03QWVBb3M5YXBwSzNZOTVNZVpsUk5hYlV0Q2xlS08zRVB2cG80emtZWUVtMzlMTnYzeFcxY2RkQVJ1bGgzWUI1UTI2M3h6djNXX0dRZWJMRHNWeWVFU3YtYXZpV21XZXhLQWU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T18:00:00+00:00",
-      "summary": "GPT-5.4 is here — and OpenAI just made every other AI model look slow  Tom's Guide",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Trade Desk’s stock soars, as a potential OpenAI partnership gave investors reason to cheer - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNbElPM1dIMUJjVHNYS0Jqa3dqcWk1cUg2ZmtSUkNJaklfMlNJblRCaUFmYTV1T0xxd3FXVmlGajJHcnhURndwTms0dXR1RS13b3NJWnhKMk9QVjNjOTdIX3pTRm1oN0VjM1h5cE9CTWF4U3pRVVNUSkptdUF0RHJOWlBrVVlha1pXRG5TQWVyUVlDellVOU9mdWthVzVBOC01b1QzMFJlREJfNDBTTmxONmRub0k5Q0pzNXdRM05TMVpPT1VjZU8zZGhwSjQyZmdSdlh4bzlucmFjN2ZvZDBMcWNqZTVBcnVLaS1sNU5TSUtSbTJGNGRrQXdDZDFPbTYwcW1mQ0s2NmRjV1V2Ny1qYWJnZnRBbmNVT2NabW84UXUtM0daOEtYRGZYV0lySkU1dTd3MVRzM1JRZW1VeWF4MDNVQUJrZ09qYjdHREhGdkVaWGV5VGlwT1ZPVFFBcTBHVE9hbDV1ekk5aUNvaXVUYnR5aGN4Q1VHWHZuaExmaDQ3NllQSVFCUm9HX0VubnJ0cDIwUmV6aS0tbl9oVV8xcFlPcnRVQTJ3UWUyYjlkaTFpbF9ndHdVLV9rMHdKWkdxeHdYZVpPMFV4NGljX1FPdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T17:41:00+00:00",
-      "summary": "Trade Desk’s stock soars, as a potential OpenAI partnership gave investors reason to cheer  MarketWatch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon and Nvidia Just Poured $110 Billion Into OpenAI — Here Are the 5 Stocks That Benefit Most - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3QzOUkwM0Fsb3lxc0JITlNZSko0aVp5anJaWVpUSDJGVHVFbXFxOEhxQ3Q0YXowcy1sN0NPUi1DMTRIbmFGdlVwX1dMSmFqR1RlZkhMMXl3eUIyVS14b01SRGRzYnZnenJDY0hVTUtSY0lmaXFBR2Zib2lsSmY4d0RaUHJIdmxEUzZHRTJKNnNBX1cwSnA5STZxakZWSkxTa0w2QlU2VEh3eTRKcU9NcjEwQklCckNaZDJuX25VR2pkR1FwaDNmcm9sbnh5bUFYSnRB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T17:39:22+00:00",
-      "summary": "Amazon and Nvidia Just Poured $110 Billion Into OpenAI — Here Are the 5 Stocks That Benefit Most  24/7 Wall St.",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
