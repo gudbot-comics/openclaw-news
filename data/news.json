@@ -1,34 +1,79 @@
 {
-  "generatedAt": "2026-03-06T05:01:47.370639+00:00",
+  "generatedAt": "2026-03-06T07:28:15.673648+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "SoftBank seeks up to $40 billion loan to finance OpenAI investment, Bloomberg News reports - Reuters",
+      "title": "Nippon Life Sues OpenAI over Legal Advice to Ex-Beneficiary - nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0xYdFRsY3FBcUZsVkxnN240aDlPOWEwU0s1SVA1b0ltdktDZUlZWWxCWW9VM0toUm9DVi1TbFBWWk5pQzJjR19aQnpOLURhWGxNY3NXUHBtRnVaS0puekw4X0tZN3JQcUZCVXBTTG5TZlBKTWYtR2paTU42SzV3b1UyVkNua2dLeTN0a3gydW5lQWJKM05HWThFU0FDdXhIMnZ1c21kUkZLcDNIZnlhQjlB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-06T06:56:03+00:00",
+      "summary": "Nippon Life Sues OpenAI over Legal Advice to Ex-Beneficiary  nippon.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "B.C. premier says OpenAI CEO will apologize to Tumbler Ridge - ca.news.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUUlRrR2U1VlNMYVpIS1c1SXN6dVhJc25qbXFMLTRIcU9Qc1BpZm1BQ2pNUG1IYmloRERCM2s2ek1XYW5obVZ1d0lvSE1YeFZtZGhkWm5yUkc3SHdFR1A2bHB3WGdUS3hRT1JIUlp6ajBDQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-06T06:16:00+00:00",
+      "summary": "B.C. premier says OpenAI CEO will apologize to Tumbler Ridge  ca.news.yahoo.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Xiaomi begins limited closed beta of OpenClaw-like mobile AI agent Xiaomi miclaw - TechNode",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1N0cjRDMGhiWTFnNG13SGZvMlFDaFdNUjZoQ0JqR3F2clpMd1pzbmtiOU02ekRyQk5PbkFaNkdlQlBPVXBUSXkxZmYxM1ZxMWVxSzRPNFpmbU13UEVneFBPZGllS2lSN0dIMG85WUw2WTZfRXRPSlNoekVyMGpNazhYSkpzTTJoQ3dZTkcyUFJ2dW1lRFlwZDc1QW1ncVVwLXVyZUtoSEpQNnhwZHI2VnRHbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-06T06:14:15+00:00",
+      "summary": "Xiaomi begins limited closed beta of OpenClaw-like mobile AI agent Xiaomi miclaw  TechNode",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Trade Desk OpenAI Talks And Record Insider Buy Highlight Valuation Debate - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmRNU3g5dmdMLTNPT1RILUNPS21VbTJ1eXBwNThhaTFWaHU4clU1SHdGSzZGYjhEa2ZKdEVhVjFrQVVUb2llYkFhc21hdXdRbVJUdlJiVzJKQlQtMDFiZTd5azJuTGVwZzZtNEw3Wjg0R1I5bXRzR01WZGRFTTFsTkNqS21BUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-06T06:11:00+00:00",
+      "summary": "Trade Desk OpenAI Talks And Record Insider Buy Highlight Valuation Debate  Yahoo Finance UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank Races to Borrow $40B to Fund Massive OpenAI Stake amid Mounting Debt Pressure - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQlJvUEhldnNyaVhfSThQUHdPdVZHS2ZLQ19KbUFtMTI3X19BeDJMVU8takNMTU9lSEEzdUs4dnBCbWdtbHJnWjR4VmFrOFpaOFE2TVkxTnh4ZUpqYk9XdEZQQm5RamdaX0F1Qkx6OW5FM1d4VU5ERW8tRklSblRDOE11MTluWnYxNnNtbGNzdW9jYWhfanVRSW1zOGxQZVpMcWFJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-06T05:13:55+00:00",
+      "summary": "SoftBank Races to Borrow $40B to Fund Massive OpenAI Stake amid Mounting Debt Pressure  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank seeks up to $40 bln loan to fund OpenAI investment, Bloomberg reports By Investing.com - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNanljbENBbVdnaXVZaXgxRHIySmRnNWp2UzVhT1RrZzd0eTQ2NWhtLWhKd3FJWTZ0Tzk1cXlia0ljLXBKY01rdUhLbmo1YXNOSU1rYkRqdUtDN0pTbi1aZE95bjNKSEQxSy1jUjhqZ0VNSVh1MEszNVhCaFRZd2FlbDNScjFhbUFDLUhDa1JPVmphSmxIbWQwZFl3VUFRYUNocEtXaUxDVmdzLVlnOHBJT19BVFJORFVFVnB4YWpkT1l2bDBBSXptMWhJQ3BaUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-06T04:51:14+00:00",
+      "summary": "SoftBank seeks up to $40 bln loan to fund OpenAI investment, Bloomberg reports By Investing.com  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank seeks up to $40B loan to fund OpenAI investment, Bloomberg News reports (SFTBY:OTCMKTS) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSnQ5a3V2ZVYzc2REQ2IzU2d0Q3lBTVFVQkpwdTVMaHl4c2N2VE56V1VMenlZa1VBZWN5VHhjZlVjVGkzbDNKVU9fOWt0Nk1yNEdMVkF5WERhUTNhYmNTODdyaHFkNTlrNXlPTVRxOHdHTnprRDBXN1RwT2ZOSXg1ZDRDYjU4VmdTektELXZXUnZEUkJtMjhsSFE5UmtHanlCSWZ2OFBwV3E3cDEw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-06T04:43:47+00:00",
+      "summary": "SoftBank seeks up to $40B loan to fund OpenAI investment, Bloomberg News reports (SFTBY:OTCMKTS)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank eyes up to $40 billion loan to fund OpenAI investment, Bloomberg News reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUFh1a212VUVqNkNaNWxrTlMyUGdiUXVWa2xPZWxLSndHWjllWmY1VFFMdGZNTTlFdlZnTVdlT0pwYjZFd00zZzRKaWhOemF0dFZYRlpuMTh4TDJvVDZabmlsV3dFMkZVeGlBbGM4VEF6SUlwQXRUT2lLY0hSbldDTExlVGpvQ0pfUWwtQk9MVFNBbjNOSS1aQ3ZqdDU0bzV4dFJlVmhFUi1VQ2tOYl9ZS1h4MEc0blgzUC1GSkZ0OG9BZHIzTmxTeC1RVnFMUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-06T04:27:00+00:00",
-      "summary": "SoftBank seeks up to $40 billion loan to finance OpenAI investment, Bloomberg News reports  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank seeks up to $40 billion loan to finance OpenAI investment, Bloomberg News reports - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPczBPUjhYTk1DamRRVWp6Nkk1amFBemNHR09ZTm1LaGllNnhra0NWaGZ4OXMwMFp1bjgyMW5NWGxVZDBtZUFKZHhDSDBPcDdnZEpmSEhhNGFGaVo3LTdsOTNDa1U0WURHbEwzcnZ3Q3l1RDBaR3B6OVYwOTNjYXFyWW5B?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-06T04:27:00+00:00",
-      "summary": "SoftBank seeks up to $40 billion loan to finance OpenAI investment, Bloomberg News reports  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank Seeks up to $40 Billion Loan to Finance OpenAI Investment, Bloomberg News Reports - Money/ US News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOWZqZ18tY3g4LXZ1UDBrOUFQMHdtZEdlZ0pjaG4tZlhNd3R2T3VKYTJuSUFHQ29DQm1PQWpBSk85cllKcWN0X005eTlzT1czZGpqdUU1ZFlCZm9QcTFPSDluLVJIY0xRRXVKbFp4TExVUFZ5T0JCc28yUjYyUExiZVNMdlZiV09DU2gyUHpPaGhKdDBvNHVMeFhvV3E2ME1KRzBzWGhreUU4Q3lxRFhYSXJweVllUkgtb3RqV0pEcWVTdHNUZVJETUZ2dFB3VV9VbWFvSG9HeVhTUzdoSU5ja3VR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-06T04:27:00+00:00",
-      "summary": "SoftBank Seeks up to $40 Billion Loan to Finance OpenAI Investment, Bloomberg News Reports  Money/ US News",
+      "summary": "SoftBank eyes up to $40 billion loan to fund OpenAI investment, Bloomberg News reports  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -38,6 +83,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-06T04:06:00+00:00",
       "summary": "SoftBank Seeks Record Loan of Up to $40 Billion for OpenAI Stake  Bloomberg",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft's GitHub Copilot adds OpenAI's top language model hours after launch - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVU9wWlc1TUM2RTBBbEdWVWhhaENScDFacVJjTDBDNVZhb29aYU0wc3EzNnZwOG1TVENEYTdkS1ZvSXFGRmtEbE1id1B0WHQ2VnUtd3lZODZjMTNkQU5IQ2FFN05qZ19ocU80UjlkdVVMYVFSYXRqVWNqcU14ZENDMUhIWko1OFpRd0U1VGM0LXVzTGd6Nk1sS0RDY1JwUXQ2THR5b2o3LXQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-06T03:52:00+00:00",
+      "summary": "Microsoft's GitHub Copilot adds OpenAI's top language model hours after launch  Neowin",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia says its investments in OpenAI and Anthropic are likely its last - TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONDFoWmlRY1NZNUR4aks1SGI4djJRNnExUGloYk9sXzk0dUp2WkU5bWhUUzFqN2FHdXlKUy1zMVBsWVhvZFVLZmZzWTJhMjR5RjBzVWtyS1JVWmV1UFI2SFhHbXRUN25rdGhtdlB3N2p3eEZPeDFpUFUyUk5vVzQyMHFkdm9IS3pTVThVdkNYOURuaGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-06T03:37:00+00:00",
+      "summary": "Nvidia says its investments in OpenAI and Anthropic are likely its last  TechSpot",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,8 +123,17 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Nippon Life Insurance Company of America sues OpenAI for practising law without a license - Canadian Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOXJneklsOG9NM1Y1eWg5QjBmb0RraHVNRFNQYWI3bXVudXlQZXdyNm13ZWx1YUo3ZlFsU0oxcDNlQXNwMGROVFQwcDFVUHhPUzAwNW9jVE5zeHlxS3pTdG1nbG1tVWtKUGFHYkpiYkplSklzZV8wLTVfbGUwaFJHbG9pQ3EtSHUtMzhXanhtNjFsWGRUSkZrRDM5TllZdVRMeE1mdFZOdTBKaWQtbV9odHZkcHBDUlpOeG1KMHFLRWNSWVIzRkprQXNTd3gwM0NVcEFTQWRyX2RmUUZQYTJjbEtnaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-06T02:41:48+00:00",
+      "summary": "Nippon Life Insurance Company of America sues OpenAI for practising law without a license  Canadian Lawyer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Canada Says OpenAI CEO Pledged Apology, Tougher Safety Protocols in Shooting Response - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOeTU5b2pyYnJqSmlibmdsLTVTS3JTNmRvdWM3NTJZMEVBVDZra01DTWNqNDJvSEJmOElFVzBsWW5MRHlrWWFrRS15NHNLLVpOSnExSTBYQmxYN2RrTjg5RkhNbGVEck01XzRiRGllaG04MVRWbGZzR0syZkdjb0FJdGhCSTYtRk5rWGQzbndIZ2I1TFNZX1F5NkhjZHM4VXJUS1JYUTlIMEhlVkJuVG5pSGk3ZTBjYmI2V3FGUmRYWUpDUFpMd21NYUxfLVJLOEVfSXZHcDAyLXF3MS1DLU54SnJ0TlluTm5UQVY1RERYNzV1SVItSDB0bTVfZURTbGM0ei05bWRTdGxVaEM2Yktrc2l1OUlsMDNMX2R4RzNIN2FyRGlLaHR6QnkxU0hiZkstcjZwdEhIZ2FRWWNVUzFFRWVRaXp3THBNck94eXRYeHdxa0dSOXhRZkdCcFdGaW1hZnJhSktCb3FtUWVOSWtLT2V1ZXVLUk9sMkhsaldWbnFaX0xlYkhnWHFYOE9nc09pN3FERXNLZU9IeTNVVl9MY2FPT1RzZU1Zc0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQUjNLeVBLdF95cmlUN0hoNVAzOG1KTlpsTDZlOUFlUVdYbnJNclZDSThsSVViNGtybnNHa3JzWkhGMm9MWnBKRk5NT19UbFN1dV9HNU1lOFJKUXJHNEUzTi1yRTAyejJialFFRDYzVkJsMlUxa0F2Q0xaeVg0VE1ESVgtX1lVckN2Wlp0RG5fTWg1Mmx5azRWVTdQWEItZEx4U055QzZwZGFXZHBiV1dxa1JmTXhaMDNyMS1UY29oZkdBeGdTeE5MZEhCektIUEdYdnFHMWNQLXRaRTRCcU1Ud1BNaW9YeS1GWEYyZHVxeTM5VnVMcDNyeUVDYU9GbG9zQlk5QnFJY092OVNiUGNkc1hPRHdKZ3hETzcyZ0w1dUNEMGFaNzd6bzg1elZMN2VqZlVnYVVDdENnWnRsdGhmV1lfQXhpVXJ0TzA4VXhjbGswYWctbjhhanhVemxpSWZ3S2lRcWRnSzc0Q2k4Yi1PTG9NcHF3ZFZENXRpaFlZS0xST2pObjZ4bXJNNTdpOGV3WnlKcXJFekZyazIwTUVyQk03Y1NidW0wRXc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-06T02:40:00+00:00",
       "summary": "Canada Says OpenAI CEO Pledged Apology, Tougher Safety Protocols in Shooting Response  WSJ",
@@ -72,7 +144,7 @@
       "title": "Inside OpenAI's new Bellevue office: A swanky statement about AI’s impact on the Seattle region - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSnlQQXFRemtkanRINDNUaGxaMkhOR0szLU9UQWwzeTdlUEdiS19IenJsSFlnR3l1eVdaYXY3UURGYUNBUC1Eb1lXWUdGZzh5Z0lFck5nUnUxa205Y1FiNG0tUDNiYlM3am43dUswYWVzc3JfeU1pMVM0cE1RUGtWY1VTUVNLVEZfOUhuRXFXT0J0MU9PczRxNi00UHFNbEVEaGtKYzhIZk1zcEQyekpuTlRCRTFpUEEyUHFEdVAtODE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-06T02:22:28+00:00",
+      "publishedAt": "2026-03-06T02:22:36+00:00",
       "summary": "Inside OpenAI's new Bellevue office: A swanky statement about AI’s impact on the Seattle region  GeekWire",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -87,13 +159,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Inside the backlash to the AI war machine - Platformer",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNYnAtM3Nqd09jcTRFVG11TXlNZmoxalViSFg5dDFfVzNnbGl2QVVBc3AyY1Q4ZkZSVldFczduOTRscVlzWlVqM2FqV3p2RkRpYlA4Ql9xc2Q3ZUhLSUphVzNadjlvNHNHTDFVOG9xQmxPUQ?oc=5",
+      "title": "Two Months Later: It's Time to Define OpenClaw - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Db0d3RVZkdldKeWdiNHUwXzVXaVhPQTJmWVMyb1VtdkxuY211eWR0Sm9kVmYtV3dWMEJFMHdtbjdXT2owdHRDUTdZZUxMNG16Y1lr?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-06T01:14:42+00:00",
-      "summary": "Inside the backlash to the AI war machine  Platformer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
+      "publishedAt": "2026-03-06T01:01:24+00:00",
+      "summary": "Two Months Later: It's Time to Define OpenClaw  36Kr",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI’s Shopping Glitch - The Information",
@@ -123,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenClaw Robot Detonates Skynet, Gains World Memory First; Skynet \"Open - Sourced\" on GitHub - 36 Kr",
+      "title": "OpenClaw Robot Detonates Skynet, Gains World Memory First; Skynet \"Open - Sourced\" on GitHub - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qdEFDUUdXNkJjVlBQUUV4X21fWEVaUWtyLVRIZkRkU1dmVXZiRWN2VzR4MWpLS1g3MlRsaG85b1N3X3ZMWmxMcFJIbFdfT1czcGx3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-06T00:41:20+00:00",
-      "summary": "OpenClaw Robot Detonates Skynet, Gains World Memory First; Skynet \"Open - Sourced\" on GitHub  36 Kr",
+      "summary": "OpenClaw Robot Detonates Skynet, Gains World Memory First; Skynet \"Open - Sourced\" on GitHub  36Kr",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -141,85 +213,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI CEO agreed to apologize to Tumbler Ridge community, says B.C. premier - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWdteU5FTWVpcnE1RkdDbHItUnFjcWJMM3NyUGV1blNSLTVZc3U4cDJ5M0YwQTVWVlpjWmxqMmluSGVVT2xyWXpWMFBybTE3NEtOZXM5QmhWT1VodkVkNEhXZlVMdUNzYVRjTm1ydkUycmFBZUVlTUpYQmp6eHNfLUVndExxRUczTWpqeGVqa0dqcjRiVHFOWl9EeFFQTEhqMVhleFZpcmI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T23:58:29+00:00",
-      "summary": "OpenAI CEO agreed to apologize to Tumbler Ridge community, says B.C. premier  CTV News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Bing-boosted fake OpenClaw installers deliver infostealers, GhostSocks malware - SC Media",
+      "title": "Bing-boosted fake OpenClaw installers deliver infostealers, GhostSocks malware | brief | SC Media - SC Media",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHhJUmlKVklSSHU3YzNvSHlZRzlVQVhXRDREQXNhM18ySzBadGhDek8tekljdzV6T1h4ODdWUnBMRzJmbGJsYVQzM0hPUzBmRE1ta1Y1b3kzQXczUmRTYjRDVDJTc1YyV1lfZG5RemJWOXowSFBXNTdJR3BGenJsSUFRS3c5UHQ1cFBFNUEweFNZeUc4cjQwN05qZUNEU09TTHFUcQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-05T23:53:18+00:00",
-      "summary": "Bing-boosted fake OpenClaw installers deliver infostealers, GhostSocks malware  SC Media",
+      "summary": "Bing-boosted fake OpenClaw installers deliver infostealers, GhostSocks malware | brief | SC Media  SC Media",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI launches GPT-5.4 with computer vision, tool use enhancements - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN3BSQzJHMThNZVdEZjNaYXVHb01Ma01FdHp4N2p5TkFnVGVidlkzMTdha2lHY0Y1OEdnUG03Vk54RzdrVEZvcHAtdFUtNWtaRmRSUTRhM2gxam9SX0ZGOGJlRGlqejQ5RU4xUEdvLUZfR1h3YmwyQmt3Tm9jZnlENC1veUZlWWV0MjhUQlRuUnBoTlpyZk43akZvTTBxLVk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T23:46:11+00:00",
-      "summary": "OpenAI launches GPT-5.4 with computer vision, tool use enhancements  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI releases new ChatGPT model for working in Excel and Google Sheets - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HQWphS2lodmVnRTkzdW56UkxSVDdGcEpHMVZBcVc1eVpnQkJDSjEwY0xDdlRyM3lEejBscWVEZGphUHlscjdFQXNxZGI0Z21WVy1qWGhiUHktUE1vTzZEOFhRaktQemoxQlZTVi13?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T22:48:35+00:00",
-      "summary": "OpenAI releases new ChatGPT model for working in Excel and Google Sheets  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-5.4 Thinking and Pro - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FOEhQWWZubWR5Uk14ZUVkWVJRbU1qOHBLdllJTzBDamJWWldKV0h6eWZvVldDMjVOTGpNa0VveTJmV1BPN2tFMGNZZDVMWkxuazZQUm1EeGhpUzQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T22:46:56+00:00",
-      "summary": "OpenAI launches GPT-5.4 Thinking and Pro  The New Stack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Video OpenAI can't 'make operational decisions' on military's use of tech, CEO says - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wX0VtRHA2MWpLZ0VFM005MThSck5WeWZLeUFqV19rYlZFWkNFamtjR1JuRDc1a3BmUXVPbTYxdmJlN0FNOVVyTkplTUk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T22:46:30+00:00",
-      "summary": "Video OpenAI can't 'make operational decisions' on military's use of tech, CEO says  ABC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia Is Probably Done Investing in OpenAI and Anthropic, Says CEO—Why? - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmpQY19xNkVtYzM0SlVZVkQ5R0tKYWxuc2xaaW9KNWhyYkU1ZWVtRlprSFdOQmRSOWljd0cyZXZOci1ITDVFUE5LLVFwaU83WVAzSG9taDFUU2p4Ty1LOHlMWE9uLUFMRGZVRzF1VFdqVlliYVpWczFzNHdOT293YlRhOFl3d2Nw0gGQAUFVX3lxTE9rZU5fTW4tVXp0TVdWbDA4aXlWNUdLTkFQcFc2UXk3ZVBQbjlJVm14UENZRGJtd1JkU3VhNW9ibVd0cjRkWWRUckc0MVNlUzBOMkVONk1NZ1JYT1RVdDExSi0wRkFNb0JNcmVzMVJHYXp6YTh0VHg0TTZhVVJ3MkFZbTNoTFhIVTh3NkQ0SVUzRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T22:46:02+00:00",
-      "summary": "Nvidia Is Probably Done Investing in OpenAI and Anthropic, Says CEO—Why?  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI opens new Bellevue, WA offices - FOX 13 Seattle",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMQTlpMUNwQVY1VmpzQUVkLWp6ZW9WYzdndl9EZ2dVYUlWRmlJUkstVmU2ZVFQaXlHV1o5T244QmlaTkhuMzVlMHVQUlltOWUtQ1Rad0lySEdUUUJzbW14Q04zWkVYbkVCcEg0VTk0U2LSAXZBVV95cUxPdWh4ZUZOTzFWWUdYM01MUVkyb0IyR1RxUnVTR1h3LVNKdE9RdlFSUTdNY1dnMjR2b1BHdnoyaTdzcm1tMkFPaVR3dG9YWEJLaEdmU1BlTDBuTE1ZQ1hWOGszQkw2aVdOLXdYcGJkanpYRllLS1RR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T22:45:06+00:00",
-      "summary": "OpenAI opens new Bellevue, WA offices  FOX 13 Seattle",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Pentagon Tested OpenAI Models via Microsoft Despite Military Ban - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWdyb0hQdjVPZlIySWJzUktXVXpxdnZ0RTR3ckVrUUoybGU3dnlMUVluMHF0bk4zenMzNkxRRjNsWkxoZWs4dHFmNEQ0NXllVDQ3elVCeW15X1pwRm5saGw2NldUd2ZXTVdmb190eF9rOVEyejNYYU9LcUhpWVVHNG9zZWh3eHZlWjVBaUI0emNZdUF0cHRPUnRRa3pxQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-05T22:45:00+00:00",
-      "summary": "Pentagon Tested OpenAI Models via Microsoft Despite Military Ban  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
