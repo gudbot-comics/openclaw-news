@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-07T11:38:12.863647+00:00",
+  "generatedAt": "2026-03-07T11:54:17.158539+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Rolls Out Codex Security in Research Preview for Context‑Aware Vulnerability Detection - cyberpress.org",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IZmVXTTlGQ1ZEN2NhMG1LS1pMZ0pDWXhQbVF2NE0wX1RfUW5leWtjYWVJUTh0QWZtQTNYTmw3SE5TTlhyTWwzMWpMWVZjNTdkZ3ZYVE01TEVlZ2U0M1Q2YjVodVFkdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-07T11:47:19+00:00",
+      "summary": "OpenAI Rolls Out Codex Security in Research Preview for Context‑Aware Vulnerability Detection  cyberpress.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "It Took Me Just 2 Hours to Vibe Code a Mass Surveillance Site With OpenAI's Codex - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0dYTUN6aTQ0RjVwdE9mVjhCWXRzeHlRN0NmU0JLQnV3aUNJbEdkcElVTndIMGpSSjNzdGFsRkhBYVhqR3g1QnlvYUNyQXEtRVJobWN5TzYyUWl3VUlMdUtUMVRuaWhhNXhobEF6SlNfY3BYNkFvam1jQ1cxb1ptbFd2bm9FY0wxbWc?oc=5",
@@ -25,7 +34,7 @@
     },
     {
       "title": "How the OpenAI-Anthropic Feud Could Warp the Future of AI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNRUhxYVV6T0VVb0tjeVhlSnpzVVJSalRiZ2ZWaDhiMG5wU2s3MXczRG10bjZKNU9nZlNyd0FacE8xdTJ3c0FaVmRtNVlfeFBKMW82MHBmbTNLa3MyQlVLQWtvbjFkX3pfc2ktVm5jbE5wR0R4QzBvWkt0X2RHZGNIOXFDZWdjcmM5ZGJpNmZyUG5Wb04ta3RjdDNXOEFQZTF3TWN5VFBTY2JSODVKMDdNcjFTR2FtYW1BcnljRGdQcF8yQmh2YklvaGI0RlBJY1RMZmc2SW9FVTRhaG9qMnY0STdKYnNvclVVR0doZ3VuVVpMd0ZMWHFNZHNVRnBXakVEeUt5NnkyajFuZ2NMRm52THo1aGQta0pvV29YLWdwZlVpYWFDeWhuX0JOTFVOeFl1aHpOLWFCQ2tWM1U5UXo3b25ueXl0LXFlVmt2b0FEZ2duVzdOb3U4MmZLcGxvenpoUHN6WGp6eXhVa1Zha0hlV0x4aXprRU9ZOXluWG5SVkhMVUhkOFEyUzU1U2JsUXBLdEFrLXVCalE4dlIxTDQ0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQTzdEOUJ5XzFiaG54V0M2OXFBZm8xYWxMeEIwaUhoYjZnVXV6SVNLOFRJeGRZRFVNejVNUkpkbmtMNmRaMlR2WkRDMzFGU2w2SEhrRU5tNFRTQzNWaDJXYzZqWDZUdVNTVEJONkxaRkxOMVgwLWczZC1RZEdqUWRXSXVPTWRicG9memJRVk5pY1hyeDJyNE9CX29SR0lYcFlHeU5qREI3dmdMcjFBa196RHNtUUV2TndadmY4WjdYYnJrTGI2YUdWR2dIWS00cXhhLXc4TndXM3dncm1CT1YzWnVoX2hVeE5ZcUdacTZkaVVIbV82R3l3N2VEWmZ0T3drQnE3QUhRdk4xNzJtZXpUMjFQOUpxQUdiMzJhS0VmMmRiS193WHlhZWVRZ1oySUFsc2t2cEFLWDNyRzMwMWdhRWtKVlowc2F6RVA1enFUQzJnTEFzY2V4WVFWNkxCMVZvel83SmthYXhxcHBXVXdwbnkxLVZEOTJyMHpSRjUwU210UDdpVEt4SGt5NlRVbmtGYnNDdUFKWEtMMXVFUzV3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-07T10:30:00+00:00",
       "summary": "How the OpenAI-Anthropic Feud Could Warp the Future of AI  WSJ",
@@ -51,11 +60,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "A Guide to the Pentagon’s Dance With Anthropic and OpenAI - The New York Times",
+      "title": "Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUTloM3hYYy02dUxFbTNvUkFjSy1yemtQLXZPbVhXZl9tSzRGUVVGem9FbGhkTE5NbzZaMW0wY0J4TGRiRmJUajNVNGY3bXc3RlF0UHE3alVmdzBxbW1GZW1DbUdaWUZGaWN3d2stMzRPX1NPVWZyNExVT2NBRHR3VTgySGNFbTFxSjRxMjBYRlV6bE9qRjNqSmQwbmdZOTI5eWc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-07T10:01:21+00:00",
-      "summary": "A Guide to the Pentagon’s Dance With Anthropic and OpenAI  The New York Times",
+      "summary": "Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -103,6 +112,15 @@
       "summary": "After denying delay in data centre project with OpenAI for months, Oracle goes ahead and scraps it as two  The Times of India",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw's Peter Steinberger on why he rejected Mark Zuckerberg's job offer and took Sam Altman's with relatively less money; says … - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNM0EwZVdZRm9nMUc1SlZxYzNfR2Q0ckRPbTcyWV8wTjRQR3Y1TEhiUHNIY0VpbWx5bnFuak1UVTc2WnRPaWIyQzFPa21EMnVfQVFCcDJCOWJ6SFdCLVVCQkxNUll1MktjQmo0SlRRVFE4VmJna281XzVRYTRVdHZ6cXkweEtEbHFJTHZhMXA4bzJkWlBsUlFBcldoNG1WdjNBZlVzRmY3RmFkbzdOYVl1dUFMcjNMb20wbjlqQndYZGdGaGpZVWhxNlBzRzN4OWNXcFZQc2dKYkd4d2E2MWcxVUd4QVJHQ00yLXh6QjNFQUdONFhobnBIT1FfQV9fMENpQlBaMElNSGdVMjFqd0lqNjVvUFZoc0xpX3BuNHZsb25yTHA2TDU2dUZ5Yl9rRGNwQTN3elQ4bUxsSWRuQ3h0VEdHMUI5SF9uaEE2ZTBoLTZwTW5fT1ozTnVGLXBLbmU2MWtraGxReExVRTN1TkNwQVNyN3NNM28wMDhHRUtXcFZmRUZKejNMQXJ5Ymk4Zjl3a18wZHVVM0VxWVhDT0JlWW5SX3EzdVZadndwdXo0WTJ0Y3I3QTJ4VlhuN0lkUWlqcTBZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-07T05:33:23+00:00",
+      "summary": "OpenClaw's Peter Steinberger on why he rejected Mark Zuckerberg's job offer and took Sam Altman's with relatively less money; says …  MSN",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "Amazon secures landmark $138B AWS deal as OpenAI bets on Trainium - Investing.com",
@@ -168,6 +186,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "When OpenClaw Meets Binance: A Step-by-Step Guide to Unlocking Your First Crypto Skills Kit - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBnNnlpYWtWNTRIMC1qb251WDVpd3g2WHgwU0g4cWlncjUxMFJOdkR2by1EVnJWNTNUdmF2NnJrMDlKb2dYMFN3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-07T01:52:50+00:00",
+      "summary": "When OpenClaw Meets Binance: A Step-by-Step Guide to Unlocking Your First Crypto Skills Kit  MEXC",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "OpenAI Is Opening the Door to Government Spying - The Atlantic",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNczJmUUU2QUhBYTdUMm80ZWdXbm12YXJMeGRJcVlNRjF1YjlaTEhTTGg5Y2Y5Y2p2OUdpeElSTUlpblU5WlhhbUVvbHpPT0dvUklGR2hxSHVINjdjNlRWQjBfdjBmUFRCOEdXbEpwSWNLUUx3Wk00ZEFuSzJiSk12bnM4ampfUTJBWWhQR2Jhaw?oc=5",
       "source": "news.google.com",
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-07T00:51:00+00:00",
       "summary": "Oracle and OpenAI's Texas Stargate datacenter expansion reportedly on the skids  theregister.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "When OpenClaw Meets Binance: A Step-by-Step Guide to Unlocking Your First Crypto Skills Kit - PANews",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zekc2SkUzY1hzWmROUDJhSUY5N1RJaG5CREVRcjdvT01jR3IzQy11NnVoN2k2VGtBLXc1QUhZNnJVUWRFVmtMc3J0SWMycGticlNSYzNhd0N2bDFVUm1UUHZqSERvMlFUZTRhVGJ4dnRDVFBUTm55X3dPZk0xOGM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-07T00:12:59+00:00",
-      "summary": "When OpenClaw Meets Binance: A Step-by-Step Guide to Unlocking Your First Crypto Skills Kit  PANews",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Oracle and OpenAI End Plans to Expand Flagship Data Center - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ0tPQ0x4cENLa2NxTlRaNnJOVWxZQlIwZmVSY0tpV0hNeENESHFUaXZCMWlwUXl3S2JTWDZBNkhYV0c4bkVINVRlX2NUREktVjA3d0VZbW5YSER3blUyck9QSGtsN2tVWC01dXZDQXVnMTJ5ZlI5SXFDQ2toM3paTmlwbVBRY2xKZHZwMWFYaDd3MWhDVHhBM3lrY1R4dmtTOGh5SXZ6UmR6cHpva3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-07T00:11:00+00:00",
-      "summary": "Oracle and OpenAI End Plans to Expand Flagship Data Center  BloombergOracle and OpenAI drop Texas data center expansion plan, Bloomberg News reports  ReutersOpenAI Will Not Expand Abilene Data Cent…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI introduces Codex Security to help developers fix software vulnerabilities - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlkzQWQtX2NIc1FPWEdLWTRxaE0wRTVCZGdqX0R0c0JWQnc1ZHpjVlVFY0tySUNxUFlwTXFaRFFxMG1xS3dudUtuMV9MaHNHbVJLN0MyMTRMTkhoTW5acnpfUWJBMWFRVWs2THdrODNRb09wRnRGX3dfZEx4bi0xa1RKVHBHVUlZeVNPdFEzOGZrOFpYM1N1ZWxKeUd1MldtNG4yZ0RSS2xWT1gtbTQ4S2VrQ08?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-06T23:42:04+00:00",
-      "summary": "OpenAI introduces Codex Security to help developers fix software vulnerabilities  SiliconANGLE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
