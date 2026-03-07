@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T23:41:58.288565+00:00",
+  "generatedAt": "2026-03-07T23:59:02.144069+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,15 +11,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-07T22:19:00+00:00",
       "summary": "OpenAI’s robotics chief quits over the Pentagon deal  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Hits Pause on “Buy in ChatGPT” Just Months After Instant Checkout Launch - Value Added Resource",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xbWROSDdVYkNGUDlTblk4Mmd1dy1qTXJPNkpWQXBmNmlYQkZTYWx0RmlpOWF0c0s4b1pkSy16eFR4UG5JMW55blZXR0lOVUFyMmJ0SEVsajMzMFhWY0JpZTUwUEZOOVdmS2dmWUdnbW91QXR1MTJBWkY1T3dwdnM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-07T22:11:43+00:00",
-      "summary": "OpenAI Hits Pause on “Buy in ChatGPT” Just Months After Instant Checkout Launch  Value Added Resource",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -144,7 +135,7 @@
       "title": "OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle' - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3hZM0M1ZmRoT0ZHM1hmZFdaM3JfWWs0NXd0ZlZRRU5hQVRCZVFKdmxxMXB1cnc5aHd3a1MyUWlubWRfVERteThuY0ZyNnItaVJZaEtWMzc5VXV2bFFwQlF4aG9udlIyRUlsNjhCWS1KVnZGeXZ4czIwN1JHcE5TaGFhcFh4b1JxUFpWZGJvWGN5VjdNQnhkM1ZLdHhJM2txRWhuYTZNdW5sUVJQSFE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-07T17:43:08+00:00",
+      "publishedAt": "2026-03-07T17:43:00+00:00",
       "summary": "OpenAI's robotics head quits after company's Pentagon deal: 'This was about principle'  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -220,6 +211,15 @@
       "summary": "Billionaire OpenAI investor Vinod Khosla predicts how awesome life could be in 2040—even if AI wipes out colleges and jobs  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The OpenClaw superfan meetup serves optimism and lobster - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNwTEcydE9oeXNWaTVGR1NlcC1oR0lDM2RpeFVDdFY5VnhmcnZUd3BxcU9kaVNFMWFJT2RZTVFGajFLNWVNS0FzXzJPeEpoZVBWNmFXVVRTZldnZjh4bU5NQkZKelNTRzZoM2xMUGhlRXhaTERjUngxSUp3TTJhZ0ZGMVd2UFVHWXVrY2UxRlliZTRnbm1pOVRSOURHZkljbHBB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-07T14:00:00+00:00",
+      "summary": "The OpenClaw superfan meetup serves optimism and lobster  The Verge",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     }
   ]
 }
