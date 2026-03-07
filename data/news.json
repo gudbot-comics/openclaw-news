@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T19:41:49.445303+00:00",
+  "generatedAt": "2026-03-07T19:56:44.670700+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -56,6 +56,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-07T17:39:00+00:00",
       "summary": "OpenAI pushes back ChatGPT adult mode launch again  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT 5.4 arrives on ChatGPT: 5 improvements to know - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jYzBBX0IzYWVJRUd5UUkwOXg1S2VxZ1JUMVh4LTBYNUxvb0ZRRlNPZFpiV1ZYeC1YX1g3a1RjN3lNcUMwOEZXMDY1WEktS1Nfbl9kam4wbndKWWVyRFExT0VMNXQ3RC1POXM2TkFlSzNGVlU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-07T17:38:15+00:00",
+      "summary": "GPT 5.4 arrives on ChatGPT: 5 improvements to know  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -187,7 +196,7 @@
     },
     {
       "title": "How the OpenAI-Anthropic Feud Could Warp the Future of AI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNV0ktVnNNdjVNNW5pUkk1TmU1dC10OVY5VDdubFUyMEZ1S0FQelZIcVFfYl9aa3ZnbXlxT1g1Mk91QUN6UEJfMHlCYS10dnFlczFZaC1kRFdoNk11M01faWQ4MndtTHVQMHd1R2s4OXlRVk52NTh4Uno2NVVqaGZCLXZGS0MwNzNoMEotOURKVmE1VnZEWUVPTWRYTUMtc3N2NEtYdnMza0hKcW5iVVM2OHNIZXZBM2NDeUlZYnE3S0N1TUdnVl94NjlfV1hlcF9qYUoyWjU3TFY3WDNrbWMxS2Fic2E5SnFhbjg2dnFwc1dGNVA2WjgtaHhpYkRySXptUVpzTlJVYTJRZDlGYmVaZUhTUzVuZ1FuVVV3dmZyYV9CenpZclROd3NjNlEyTHdOR1ptdkZKVHhlUVVMMWRaNEtiQXBTWHpPMTlBcW5qTzVOZkhLalZjdUsxZGZ5NlRDczUtZE1iN08xU2xfWVNzRWZTMEhjVEhFMkhWV19ESkIwSGdyTk9CS1o2NDZHQUUwSlhMZy14bEVGYkRPTFU4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNYzJyajZaQUpvMDR0R1g4YjcyZU1NcEhnTmd1ZHRncENQeWFnQS1ZVUIwYk9EeFd5Z0l4bVBPSDRpWXBnc1EtU0ZvNVRaekUxai1EVU9ZbEdya3JqOWh6SmdxZlhWbExKZjdhaWFSSmFySzRjYmI1M0QzX05vLWtaQ3libW03bVV6UmI4aHpVLXNNXzhTeFZNYk1QVzZubHpXcHIwelZoWjFzMzhuYWZKc1lBTUVPZVV5NlVNQjlKZ01BSExUcDIwcHlOdFdxSS1tN1dyczlKR2VKWTRXVUhhclN3RzhIQXZPVVhZNm94UTNmWkpsQnF3eFpwRXVRbExaNnFwaFdyQjc0ZXJzUmFTTlJ6ZWxpUTEtdjdYTmpZeHJXVzBXdFNqcnp0RTZNckVrcDk4VDVwS2U3LWxlSjNzaXBfMi1xaVFwX2JpS0xKVG1WbHdVMmJ4YUxMRHdRN2R1UXpPelI3SVFrWi1sS0tXbk83cTAxbFNCM3JqbzRsWUlpaUNJS2N2Z2VVSjJwZW9FV0Y1MHFySlZZWlFEaVlz?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-07T10:30:00+00:00",
       "summary": "How the OpenAI-Anthropic Feud Could Warp the Future of AI  WSJ",
@@ -211,15 +220,6 @@
       "summary": "Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Google opened the doors for the viral AI OpenClaw in the new Workspace release - Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjVQYU1ZVk93U0RkY1dBVVF4R0hxNjh3bWdxeUswMEpDUHlmb2g4M1JQaENMOTZVSURTalA0VmtXOTBGSzFKTy1JY3JuVjFHTGFSNDU1bHh5T3Y5NUNsTmhSZFpRSklXOFBmUXFPZmRsdUd2N1k2YmZKMml3NzN1N0VCM211TGlsQUlyQmNlZGNCRFhkc01lLTh5cGt1Y0VNNHk0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-07T09:22:01+00:00",
-      "summary": "Google opened the doors for the viral AI OpenClaw in the new Workspace release  Українські Національні Новини (УНН)",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
