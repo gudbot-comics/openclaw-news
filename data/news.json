@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-08T19:57:51.546922+00:00",
+  "generatedAt": "2026-03-08T20:53:22.276341+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI robotics leader resigns over concerns about Pentagon AI deal - WWNO",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGIzS1F3QktWUmhQd0FpYnNDS3RRVHpwb0Q0aHVLd3pKX1hIZnFEV0k0VFRWRzNVU2hqNnZ5NWVmMjF0aUJ5N2F3OUZ5VWNQeWhjZW40YWpwMGFlaG1tVWJYa2FEazNlWm83YnVIM2tYWmYwVEJNdzlZMjVyc05DLV9zUmZQbmxIQlYtMXVEMUlCQThpVF9VaEhsaElQM2tzbklCU2lnaEJIeU5h?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-08T20:44:00+00:00",
+      "summary": "OpenAI robotics leader resigns over concerns about Pentagon AI deal  WWNO",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "CRWV, BE: CoreWeave, Bloom Energy Stocks Drop on Oracle–OpenAI Project Update - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3BJU2Y4cGxqeEdJOVhTem5GSlBmUXVSVlpyUHpwdzNMeloyaVc0TnZsTnhkdEhEa3Q3UkVHNENjRTJ4dUJxV05EbjdzSDlhcFZEaDVUX2ItVXpBcEcwR0lQSGF6OXNXcjRIdWItXy1kOTlMR3RvLTFxVTdVVUdVd1k4eGhlNUpDSWVNbFlzZw?oc=5",
@@ -31,6 +40,24 @@
       "summary": "AI’s Wild Weekend: OpenAI Shakeup, Pentagon Clash, and Robots That Refuse to Die  Bitcoin.com News",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Users start deleting ChatGPT after OpenAI’s Pentagon deal: uninstalls jump 295% - ucstrategies.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWTA2VzI4RnNvcGFrMzhFNGpFYTBmbEpmenpZRm9LOW9tZUdpcm1VVTFxLWMyTjRBSmlTZDBNVE43aGFUR0cwQXlNMWhwUmZzR183d2NiYmJyWUxyTm1SZkdLbURmVm43c1Q3RFRoRTFHSEoyb2IyUG4wdnlQZlJVZDF1YjE2aGh4b0xlWS1TYUtqZnJOZGtqV2pWVlRSVGJwN1ZfU2U5X2Ytd3M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-08T18:21:40+00:00",
+      "summary": "Users start deleting ChatGPT after OpenAI’s Pentagon deal: uninstalls jump 295%  ucstrategies.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Migrating OpenClaw Agent compaction to DAG structure accelerates memory, Brad Mills says - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHVTcGRVTFRUMnJ5Mk1GSmRiLTYxeTJva2ZoYUVhVWlLd2RnWlIyaHF2ZFliRlpoTmVwSGpfVWcyY3BXVzFvYkllQTgtSU1Xbkd2eUY3OGd3V1E4Mm93cmR1aWozS0d1WXA1ZkdVbjJTN0QzSG5jNmhGaW5pME03aUlYWWJpN1VI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-08T18:00:22+00:00",
+      "summary": "Migrating OpenClaw Agent compaction to DAG structure accelerates memory, Brad Mills says  Traders Union",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "Who’s Excited to Be Replaced By AI? These Guys! - The Free Press",
@@ -69,11 +96,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI hardware chief resigns as AI models deployed on Pentagon networks - Interesting Engineering",
+      "title": "OpenAI hardware chief resigns after AI models deployed on Pentagon’s classified networks - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXN3ZnV3MVV2NzNLenRBNThZUjBEQlptdklyS3gyMWdnZ2F2TEZfcmhFNzdVNWsxZDd5YnlmeE92SFJFYk1nR3FKVVJhcUM5emd3RTV3OGlXQ3lFa0RUQ05hek8xb2RUUU1GUnpRQzFjUWxmUzBVWVJ5aWREbE1zLVl3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-08T16:15:00+00:00",
-      "summary": "OpenAI hardware chief resigns as AI models deployed on Pentagon networks  Interesting Engineering",
+      "summary": "OpenAI hardware chief resigns after AI models deployed on Pentagon’s classified networks  Interesting Engineering",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -177,47 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI's hardware and robotics chief quits over military deal she says lacked enough deliberation - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUw5c3pPTm9OTkZLdUI3RFRWR1M3QWU5UGdxZEpJZllGbVFUU1ROdjFSLXR6d0g4cV85eTFYMDE4aEs0MGhFVU83Rk5mVXc1aFRyWVRXQ2JCX29PVDRtWkVIZmNycnNmczNXTW1ZREpGRE10aUZUR3dmdExheWtWY1lhRkV0TVFuNDlqTmV4ZmFtYUlKY3c1dW9haVVGZ1JNMi12RHp1bGNtWDBTc3B3OXg0bjlibmZYMzlRNWhn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-08T08:15:52+00:00",
+      "summary": "OpenAI's hardware and robotics chief quits over military deal she says lacked enough deliberation  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Claude Distillation Abuse, OpenAI Alliances, OpenClaw Agent Flaw | Ep. 54 - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHFUTDNnNDFLUmtjZmFlN3ZpanBoQ1MyNEdPOVNyeW9JOGtQZDdiQ2lZYmtVeWVTTkJOU2lOcW5MeGQ4MWRZaFd6YW9FWWpFeTROcmthSFoyQ184T2swYXEwenBmVGYyR0hhdGx0RlBDVkhhdmdUN29CZmhBc01ybDAzUWgzeDAtNmZTSFBKVUROTmVBUkxuT0xtdktWTGRqbFR3Z0dsamZlTjM2TU9xcklaTkdYeXlaRDBR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-08T06:35:52+00:00",
       "summary": "Claude Distillation Abuse, OpenAI Alliances, OpenClaw Agent Flaw | Ep. 54  Computerworld",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI robotics chief quits over AI’s potential use for war and surveillance - France 24",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaXZPY0JDNnZNLUI5YzdfeWpKbVM4WHZ5Szd6b1ZjamZKSXZBREU0VGtob3VxekR0djhYRWxSeklOcmJwU2llX2I3Z2l4ZEZ3bVpNcUtDcnN3b3liX3REV255VDVZQ3JoYlctcnpfd3IyR0lXZHhXd0hZMURBSGYwTFZkb3JQd0NfRlZNUnU0UDh3Y1NBdGxLMHhxcHBNSjdVdXppckpmdTV2Qk5SYzdxZGIxSUpQcGhHbTA2RTlBd2RLS3k5UXAtWjd5S2tIYVZVMHJUbDZjaldkZUx5TjUtdGxJeE1ETDdl?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-08T05:26:37+00:00",
-      "summary": "OpenAI robotics chief quits over AI’s potential use for war and surveillance  France 24",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Speech Transcript: OpenClaw Digital Employee/Digital Companion/AI Information Flow Practice - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrVDVFVVdyNmdYR090LVdiZzhGc3FHc3NoYWt1OEo0U0pHeERUUkNGd3ZMRzNJVlRSMDRoa3p5VFpyNVlRRWY4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-08T04:52:23+00:00",
-      "summary": "Speech Transcript: OpenClaw Digital Employee/Digital Companion/AI Information Flow Practice  MEXC",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Speech Transcript: OpenClaw Digital Employee/Digital Companion/AI Information Flow Practice - PANews",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRN3JlM2U5RDhOSWV0Ukx4ZGRLVHZzUHNfaTNvXzZjNS1GNmg5MmlqV1JNakVReGdDQVlzbUZ4LTlyUHRMczdIX2xsS3R0b1QyYy13cWl0aGxuMGJmeTRSQ3dUZjcwaEg3TVE0bUdzWERiOG54TndieDJHWXZUZ00?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-08T04:51:24+00:00",
-      "summary": "Speech Transcript: OpenClaw Digital Employee/Digital Companion/AI Information Flow Practice  PANews",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw Triggers Lobster Craze: The Singularity Moment of Action ASI and Global Transformation for Workers - 36Kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NNFluX2hQWm5tbHB1dVJvS1YxVFB5RXN5MndxdVZ3eTM1aVlVUzBtNFBKTmpmS3d5cVR6THZMWHNGMnVpeFlGYVpIN2hrUllmTFln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-08T02:31:39+00:00",
-      "summary": "OpenClaw Triggers Lobster Craze: The Singularity Moment of Action ASI and Global Transformation for Workers  36Kr.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
