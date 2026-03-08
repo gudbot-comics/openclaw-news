@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-08T14:53:09.073952+00:00",
+  "generatedAt": "2026-03-08T15:46:26.714345+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI hardware chief quits after Pentagon deal - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEpnUnJ1QlNxQ3dIRE1CUFZOdEZ4SVNxUE5uU3lraWUxY3pZLUVwU1RWTnBxVndDbHpZbjE2ZmItWUFQTzhDVlBHbGlUTFAzb0NYbGo4a2VrMUJNTE5KXzVYb3ZiLWJSOXZFR0tXOFN6S2l4VXUzNGYyMW1JZTlFaWFfOG9GUXp1dFRubDFn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-08T15:00:40+00:00",
+      "summary": "OpenAI hardware chief quits after Pentagon deal  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI's robotics hardware lead resigns following deal with the Department of Defense - Engadget",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUUpFUlZJcWNBeWV0al95S3Yydm9BLUNNQ0FkeTJtcWltZm5tVEFNMWRwQjVMNzQ1T0VuN3lfNmZWVnlXbnRxclJHQ09zMUFBbnJwZVh0cnc2NE54V0tzemlyMTQwQXlQbWF2emc4eEtCYVBMdDZXUThSdmpTVE9OZ0dYUXRtZWZuT21IeGduVHgzZHp6NFM5TEpvajl1bzFoQm5yZm9CQzRmYUZzc00tamlkeVpaU0N2QjNvdnNXaG1uWWxvS1E?oc=5",
@@ -87,15 +96,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "If you’re into AI coding, OpenAI just puts its Codex on Windows - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV29paFREcDgwMlZQdTRTTk1KdWhkbWtLbDViWFkzOHNXM3JZcTF0U2hYTVRBSjZfc1hPQkNZcGRFVlUyUGlXbGx2MlEtUk9mYWdTR0JxWHBWZjNRN0ZDZmxGWnJJRk1HNmlrX2VpYmdlR0ZLY0RRa0h3LWtGbF9xUnlsanFmbkVyNVdUQw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-08T10:06:38+00:00",
-      "summary": "If you’re into AI coding, OpenAI just puts its Codex on Windows  Yahoo Tech",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Why Has OpenAI Replaced Anthropic as US federal AI Supplier? - Business Chief",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnlQOW5iZ0Q2Z09vR0xMcFozcjN3U3RpeU5TUkhzVEhxYjFfY2lZRWdkVWtnU2hjcXNwaXVvOUNZTXNGblhraTZQTUVmWEV0RHdENHA0TXU4WDJTV1Q0N2ZrTGpmQ2NfbHp3Z3p3Qy1rWjdqSmNKU1Nac0pIWElPUHBDbWpLcktNYXc?oc=5",
       "source": "news.google.com",
@@ -130,6 +130,15 @@
       "summary": "OpenAI's hardware and robotics chief quits over military deal she says lacked enough deliberation  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Claude Distillation Abuse, OpenAI Alliances, OpenClaw Agent Flaw | Ep. 54 - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHFUTDNnNDFLUmtjZmFlN3ZpanBoQ1MyNEdPOVNyeW9JOGtQZDdiQ2lZYmtVeWVTTkJOU2lOcW5MeGQ4MWRZaFd6YW9FWWpFeTROcmthSFoyQ184T2swYXEwenBmVGYyR0hhdGx0RlBDVkhhdmdUN29CZmhBc01ybDAzUWgzeDAtNmZTSFBKVUROTmVBUkxuT0xtdktWTGRqbFR3Z0dsamZlTjM2TU9xcklaTkdYeXlaRDBR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-08T06:35:52+00:00",
+      "summary": "Claude Distillation Abuse, OpenAI Alliances, OpenClaw Agent Flaw | Ep. 54  Computerworld",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI robotics head quits over Pentagon AI deal - madhyamamonline.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-07T23:17:35+00:00",
       "summary": "OpenAI Robotics head resigns after deal with Pentagon By Reuters  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Top researcher leaves OpenAI due to Pentagon deal - Politico",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWml5NEpZWG92VlJRUmZ3NGkwdFljTGc5aTk1Z0NTeGlsSmc0STc5a1JTd2VNckNTdkd4cUFocFlnaDNwTUJ0YmdDRExaR0duYzVYT184ZVdEck9ZYWZxS1pjbWZTc0V1MDZTLXNHU1FBaE9TLWdVUEdxeklqM2kydnN2eGdKNXFWQXZ4VThKbzlNbmNGOWNsdQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-07T22:25:57+00:00",
-      "summary": "Top researcher leaves OpenAI due to Pentagon deal  Politico",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
