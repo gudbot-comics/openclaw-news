@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-08T18:00:49.799560+00:00",
+  "generatedAt": "2026-03-08T19:03:35.039120+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "AI’s Wild Weekend: OpenAI Shakeup, Pentagon Clash, and Robots That Refuse to Die - Bitcoin.com News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjl4NW8tSllKeWV4S0I3RHNLN1ZBVmJVdWxCSVN3TUVwSzRvc3ZUdW9Fc2pZbW1DQVIza3pERHJKOVk4dHJDRDd5N21oOU5vSDNia0hKTEx4NzUxNWxFV2hnS2VqMzJTSmFmd2xGSnM4ZjZyWlFlUTNic01UdWlYamp2OXZaMW1NdVRfRV9OYkdyNi14akdFUEl4dVdEb203bW9uUw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-08T18:38:04+00:00",
+      "summary": "AI’s Wild Weekend: OpenAI Shakeup, Pentagon Clash, and Robots That Refuse to Die  Bitcoin.com News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "CRWV, BE: CoreWeave, Bloom Energy Stocks Drop on Oracle–OpenAI Project Update - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3BJU2Y4cGxqeEdJOVhTem5GSlBmUXVSVlpyUHpwdzNMeloyaVc0TnZsTnhkdEhEa3Q3UkVHNENjRTJ4dUJxV05EbjdzSDlhcFZEaDVUX2ItVXpBcEcwR0lQSGF6OXNXcjRIdWItXy1kOTlMR3RvLTFxVTdVVUdVd1k4eGhlNUpDSWVNbFlzZw?oc=5",
@@ -56,6 +65,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-08T16:15:00+00:00",
       "summary": "OpenAI hardware chief resigns as AI models deployed on Pentagon networks  Interesting Engineering",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI senior executive resigns over Pentagon deal - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQzNJRXJoNjNua3Z1WDZCb0tacUpqNGtpdERyaDV4T0ljZFd0c0tfRGJ4WGZfd280M0J3VXZCOWRvTHhRWEZ3Z2V5alNySHNYYkhIanIzVTQ0bnZZaGpoY3VISV9COURvckc5MDZTdTBINTBQam1ZZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-08T16:00:00+00:00",
+      "summary": "OpenAI senior executive resigns over Pentagon deal  Taipei Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,20 +150,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Creator of OpenClaw is joining maker of ChatGPT, here is what he will do now - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkh0azc0LWROcmZzQ09Ydk5wel8yc2xXZWlVT2psdUF3Q2J0dHVSaG1YaFlkMGhmM25ka21UdUhOMEtneU50ZWhNVy0wRTc5VlktaGh2SWJUUHc0TTBYdC00UmVVaHFOOGlZOElpSG9yZDJfemxNalAyNjlfQ3IyVXpmX0JiYzBSX1lReGZZc1ptZWJvNmh2WXNRUUZKd1ZiS1NaX05XdDBXZU9SeG8xUFNueWc3ZTZUWWZCU0dUejh5Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-08T10:45:22+00:00",
+      "summary": "Creator of OpenClaw is joining maker of ChatGPT, here is what he will do now  MSN",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "I finally left ChatGPT: Here are the 5 steps I took first - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XZWRCWTZVQjloeTFCYW5WNlpETEdNcERBRklTOGZQWmhHeTZ2MGFPQjl2WjQxT3NrWVVJZHhndU9jY0VwZTNYT2hCbThUTE9YYm51ckFHdHRfczc4NC1ILWRwOWFNaThJLVd1NVBGMkVtWDliYTJaRV9n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-08T09:16:40+00:00",
+      "summary": "I finally left ChatGPT: Here are the 5 steps I took first  Android Authority",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Why Has OpenAI Replaced Anthropic as US federal AI Supplier? - Business Chief",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnlQOW5iZ0Q2Z09vR0xMcFozcjN3U3RpeU5TUkhzVEhxYjFfY2lZRWdkVWtnU2hjcXNwaXVvOUNZTXNGblhraTZQTUVmWEV0RHdENHA0TXU4WDJTV1Q0N2ZrTGpmQ2NfbHp3Z3p3Qy1rWjdqSmNKU1Nac0pIWElPUHBDbWpLcktNYXc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-08T09:05:42+00:00",
       "summary": "Why Has OpenAI Replaced Anthropic as US federal AI Supplier?  Business Chief",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "In first place in the world: Eisenkot’s son beat Google and OpenAI - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01eGNRdHhzWEd6MDdUSEJUdGZWVTRTLUNnTkxub0V1VnNYMmpuUElLLVU1V1lCa0tQWmhSZ2xYSHZtaTJFNng4MW9yOHhsTnhxbXNxZlRLQ2dVUWhD?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-08T08:25:00+00:00",
-      "summary": "In first place in the world: Eisenkot’s son beat Google and OpenAI  The Jerusalem Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -193,33 +220,6 @@
       "summary": "The Fallout Over OpenAI's Pentagon Deal Is Growing  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Speech Transcript: OpenClaw Digital Employee/Digital Companion/AI Information Flow Practice - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrVDVFVVdyNmdYR090LVdiZzhGc3FHc3NoYWt1OEo0U0pHeERUUkNGd3ZMRzNJVlRSMDRoa3p5VFpyNVlRRWY4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-08T04:52:23+00:00",
-      "summary": "Speech Transcript: OpenClaw Digital Employee/Digital Companion/AI Information Flow Practice  MEXC",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Speech Transcript: OpenClaw Digital Employee/Digital Companion/AI Information Flow Practice - PANews",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRN3JlM2U5RDhOSWV0Ukx4ZGRLVHZzUHNfaTNvXzZjNS1GNmg5MmlqV1JNakVReGdDQVlzbUZ4LTlyUHRMczdIX2xsS3R0b1QyYy13cWl0aGxuMGJmeTRSQ3dUZjcwaEg3TVE0bUdzWERiOG54TndieDJHWXZUZ00?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-08T04:51:24+00:00",
-      "summary": "Speech Transcript: OpenClaw Digital Employee/Digital Companion/AI Information Flow Practice  PANews",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw Triggers Lobster Craze: The Singularity Moment of Action ASI and Global Transformation for Workers - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NNFluX2hQWm5tbHB1dVJvS1YxVFB5RXN5MndxdVZ3eTM1aVlVUzBtNFBKTmpmS3d5cVR6THZMWHNGMnVpeFlGYVpIN2hrUllmTFln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-08T02:31:39+00:00",
-      "summary": "OpenClaw Triggers Lobster Craze: The Singularity Moment of Action ASI and Global Transformation for Workers  36 Kr",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
