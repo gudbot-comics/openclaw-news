@@ -1,10 +1,163 @@
 {
-  "generatedAt": "2026-03-09T10:30:30.302662+00:00",
+  "generatedAt": "2026-03-09T11:58:27.724312+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI says Codex Security found 11,000 high-impact bugs in a month - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjVoa2R3Y2ZwcXpWNmp3TV9KMW9uT0hMbFMyaWx3akVFV1dfZXN3bTRrblFURkR2cURoYzVnd1BWR2JNajctVWFnc3p3VVRKRExVTnpEYzJNWmxoYzZJb0JTam90QXRkdjA0VTFGVGRNRmZtNmNYYzlBaHh2YlZrUVFCYXNxOXNKQWNwNGZBUlhTWUVHZVZIamE2YVU4bmNDbExSM3lCM1MtcW1OUTl4dXpGWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T11:55:19+00:00",
+      "summary": "OpenAI says Codex Security found 11,000 high-impact bugs in a month  csoonline.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Can a Monthly Salary of 20,000 Support a \"Lobster\"? Five Key Misinterpretations to Note - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KZUhoSk12d0pnSEtmUjF6YVIxbXJISmxqbUpwYUJoaHFmUTJDazAxVjROWmd0RmRaNVdMVXNMOGJ5eW1lVndCT1FFVVJiUmNPazBn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T11:45:05+00:00",
+      "summary": "Can a Monthly Salary of 20,000 Support a \"Lobster\"? Five Key Misinterpretations to Note  36 Kr",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Five Unresolved Issues in OpenAI’s Deal With the Department of Defense - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkd4UjRGTEs4LUNMOWdfQWdYbkcyZTE3Yjc2OWtKYlRpT1I0aGJnVS1qNHBMbEZkMy0zWGhNdUFzYm1YQzE1eTh5aVl4QmFwejh0VkpWMWdTbHhhaUEzYjRyU2F3MTJUSHdlTzZpLURtdkljRGFCR2FGX1FHazlZTFJmNl9sVExBQm5zd3VfblhqSVczLUJSRkRPUUstd1d4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T11:21:38+00:00",
+      "summary": "Five Unresolved Issues in OpenAI’s Deal With the Department of Defense  Tech Policy Press",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "BE, CRWV Slide as Oracle and OpenAI Rethink AI Data Center - Eudaimonia and Co",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93OGdRUi16M0NhTGgwekpxRVVKaGViWWZVdGNneU1CYXFBOWJkOXhkU3ozbEZhQ2RiMlEzaHZOU0xld2tqNHNNajVOaGdsT2FwN3Z3LVlVQll5Qk5pSFc1T2c4M1pzcUhJNWhhQVhkV0hiMXQ0MG94MmxhTnhGQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T11:19:15+00:00",
+      "summary": "BE, CRWV Slide as Oracle and OpenAI Rethink AI Data Center  Eudaimonia and Co",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Bitget upgrades Agent Hub with new tools, enabling OpenClaw trading in minutes - Invezz",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVVHNGFsSjh1TnEwd0hkOE5RU2JkQ09MZFpzMkpWSlltdnVnLWZsOHJ4T2MybmlPVkd5OUdTd0hkcVhBSkl5NnBXdFp0SWttbGtRZG9sdjV4LVNURWU3VGxYZ2RkQnhTclZUWWVHTXNEV0lNd0llbjJWRDl5QzdSanpBZkhNTGJraDlraEFpekVFRmxrb3RiaWZnQTFZWTUyZXNwcnJLOWxPVXlfSDM5V1pPWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T11:15:00+00:00",
+      "summary": "Bitget upgrades Agent Hub with new tools, enabling OpenClaw trading in minutes  Invezz",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Chinese Tech Giants Offer Free OpenClaw Installations to Boost Cloud Services - Caixin Global",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUZjdUNZR1BWMkpmWkk4Ty1JVHRIbkhGc210T0xSQnhITHdGaklVTFFVY3NETG5oS0xPUHNBUXAzOExTNHVEb1FjS0R6QkJPOHpkSXZRTnlrUHFzSHJwZzlJLTZwRDJobkZTVnR3Y2FaTXJCTTNkLXA2clg1Q3NMd3ZLWmVXZC1wX0tvRHh1QlVMem9vOVg1Zlk2UUFnUHJjSGg4MmlyUUliWVMxaWFGT3lZbEpHWkdkMk9IblFLYW1ET2IzeUZEWjVCNVo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T11:14:00+00:00",
+      "summary": "Chinese Tech Giants Offer Free OpenClaw Installations to Boost Cloud Services  Caixin Global",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "The New Garage: OpenClaw And India’s DIY AI Agent Boom - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MdFBMbngwcXQzRTJGd3ZSUTdLcXRpQ1FVZXpfck1MWXFxQlFhekVhQWx3dHB1YnJsV3dkN1FIZ3R2aE9fR3ktYVJQN3duQUV0U2RkUDVIQnZfTi1vRmE1c1VDMllMZVFhZ3hVU2VR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T11:12:28+00:00",
+      "summary": "The New Garage: OpenClaw And India’s DIY AI Agent Boom  Inc42",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Delays ChatGPT \"Adult Mode\" to Focus on User Customisation Enhancements - ITP.net",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmo5OEZWanAxNzd3eHhlY3BTdHNWUXBzUFJOYzZRaTJoMXpmeS1WeTMwT1FkYXhMRGpwdzlBeWNDZE5BNlZqcnFqN1F4QngtT1dJa0RsWS1TZHNwRUhrY0I1eTlhajRjQU5YUG14ajNVbEFQS0M2QnBacUw5SFpmTWg5RXZLb0JRR19yNnpJX0Zvdk5rX0tZSHpzQVR1bFRkcnFqRTQtdU1wMTloYVhR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T11:11:39+00:00",
+      "summary": "OpenAI Delays ChatGPT \"Adult Mode\" to Focus on User Customisation Enhancements  ITP.net",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "CRWV, BE: CoreWeave, Bloom Energy Stocks Drop on Oracle–OpenAI Project Update - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3BJU2Y4cGxqeEdJOVhTem5GSlBmUXVSVlpyUHpwdzNMeloyaVc0TnZsTnhkdEhEa3Q3UkVHNENjRTJ4dUJxV05EbjdzSDlhcFZEaDVUX2ItVXpBcEcwR0lQSGF6OXNXcjRIdWItXy1kOTlMR3RvLTFxVTdVVUdVd1k4eGhlNUpDSWVNbFlzZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T11:11:14+00:00",
+      "summary": "CRWV, BE: CoreWeave, Bloom Energy Stocks Drop on Oracle–OpenAI Project Update  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Brings Codex AI Coding App to Windows - extremetech.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVlFuZ2t4QTAtWnJQTjQ0R0xIR1JOQ1k4VFdneE5HbE93bk1UZUdmTjBsTVg5akI4QmdCbjlNWGZlQ2xQRElYM3l3MXJJSURaSkFENzIzbWFQUmZZeGZUSk9VTFFsV2twbC1ITEJRU2NCNjQzcmQySnQwXzkyVUVPSnNlMFBwdTd2SHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T11:00:23+00:00",
+      "summary": "OpenAI Brings Codex AI Coding App to Windows  extremetech.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI robotics leader resigns after Department of War deal - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUtMbkhKWUFJUG9LWE5KVWdUZkFZNEpJTlB4RzlyV0x2eGNzRXlWaWtfRUVrR3FBRmtVTm5lT1gybmZZbTdaVG1VZl93VUlQa0hOX3YzQXh0ajFoUWtZWVVoc3IyYXY3Z1NKTzh3cGloR2pRaGVFb1RuVE9maWxTcktJdk9famt6UnlkTGI1Mlc4dVE3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T10:56:08+00:00",
+      "summary": "OpenAI robotics leader resigns after Department of War deal  Yahoo Finance UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Fortune Tech: OpenAI's robotics boss exits, Big Tech's bonds, AI jobs impact - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbktKV2hoWTA0TUd3dWtHbVRUb25SZy1kLWNHbU91ZXJPa0dTZk83ZDNrR2JieFdSdkJudU5KZm42NDl2QjJsa0dKMF9xX0pqOVRVNWpsaEN5d25mTGdZZWRZRkh6emZNWGRkSC1jX2xJbGRCTVJFOEU0Y3I4SzBnd0ZvS3FMWDFYS1Y0Vi1lMlE3SzRpT1A4Umo5NHFtWExEZVE3QTdMU09JWGJyYmE2RA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T10:48:13+00:00",
+      "summary": "Fortune Tech: OpenAI's robotics boss exits, Big Tech's bonds, AI jobs impact  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Oracle and OpenAI drop plans for mega Stargate AI US data center - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXZ0S2VzTW4wRzY0X0RWSm5ydFVLSjhaQmRheXg0U05jckdkaE91YWJQc3d1Y1ZNX3ZkVEFvVWNmUkdtX3dQQ3dKZXBJaHk4V1MyeWY0V3hlY0dFUGRNM2NCenVGeWxGVEZqSDFEZDZkX0hvZHpobjF5eVVKZlR1VWw0OFA1QTV2bGtGcHZnaHdMT3NTbjM2UjZR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T10:43:31+00:00",
+      "summary": "Oracle and OpenAI drop plans for mega Stargate AI US data center  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Chinese cloud stocks surge as OpenClaw goes viral - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVUyaHpLekVGZDk0SHVBdk5YbzVNY0ZBU0xPWXZxeVoxakhTbDNkYUVlNUJmNWluZXFOQmZ4M0F6TnpLUXdOVVJvYl9jR2pVUWx5WjlZV2xEMmhMTXhjbU0xb1h1TGlwaGxYeV9XdkpvZmJ2N05DU1J2ZVAzVnhxWmZ3dkRCeDJaNmhONUU4UnJUVmlreE1uLWlOWlV3RmRERjRWbUdWbUxNdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T10:35:14+00:00",
+      "summary": "Chinese cloud stocks surge as OpenClaw goes viral  The Standard (HK)",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Lobster home installation with free clothes folding service? \"AI anxiety\" has been hyped up to the sky. - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EUGhYZFJuYk91aXI4LUJtTDRWR0d2TTA3R3FyTFhXcWp2eEx6ZF9xbVprRC10XzcwVG1POWdkTHJTRnBhcnF3b3NkV3VzYXNQMUU4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T10:35:00+00:00",
+      "summary": "Lobster home installation with free clothes folding service? \"AI anxiety\" has been hyped up to the sky.  36 Kr",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Anthropic vs The Pentagon, and the Fallout for OpenAI - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWhFdm1peGszOFFFdW5mUDB6YlFybFljcFZMZXcxa2E5S2QwT2pmWG1MQjlvQjEycWI4eXhwYzlReURVczNJd2x2U0tJLTRTSmFlc2FlNU1FNFVVdHcyc2FUZVFMemJCVWtzZzBjMWxISE5oVFd5dmFSS1hjUDVPT1JJUGxMNnNoUE5ockpLTTIwQTRVanB6RjdsNlFoaGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T10:26:14+00:00",
+      "summary": "Anthropic vs The Pentagon, and the Fallout for OpenAI  LinkedIn",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Who wins as Oracle, OpenAI's $500B Stargate project stalls? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2tvelVjLVE0RjdmaEZqeV9Zci1FZTM5cTZYay1xZjc5ZW55aVU5U0pIT0ZOZ0p3dnVybHJMMXBrb1pXV0xEbzliRUNwd3gwS3lnNWtzTTFySW5rWGVfQ3djV01PYXE1N04tVDJ0MTNabTZrNHZydmtuUXFsa0ZERWF3dVVLS1dqek9VUGF0dUtCTW5LOTBpaDRQa2tFZXU1QkJTNmVxN19tbXNQSy1qMVBXRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T10:23:20+00:00",
+      "summary": "Who wins as Oracle, OpenAI's $500B Stargate project stalls?  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "ChatGPT ‘adult mode’ launch delayed as OpenAI focuses on core improvements - Digital Watch Observatory",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjhqbmdsQ1otR3NhRXRpODZ5VkpyM2ZKQzFWUVp5d1Nld2VGR1NOdE9vbEZOWEJDSnpqTEtIU3NvRGYwR3V5R0h1N0tBUzd5dGpBWUQ5QU1LZ00wRm5TbHlRRGltTXJOOU9GclVTUnMxYXZDYm5sZGp5WE5NRWxYcWpwbzhXbmlNblk1RTF4ZGk1SGtlWlc5NlZyUEoxWUk?oc=5",
@@ -13,15 +166,6 @@
       "summary": "ChatGPT ‘adult mode’ launch delayed as OpenAI focuses on core improvements  Digital Watch Observatory",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Bitget upgrades Agent Hub with new tools, enabling OpenClaw trading in minutes - Invezz",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVVHNGFsSjh1TnEwd0hkOE5RU2JkQ09MZFpzMkpWSlltdnVnLWZsOHJ4T2MybmlPVkd5OUdTd0hkcVhBSkl5NnBXdFp0SWttbGtRZG9sdjV4LVNURWU3VGxYZ2RkQnhTclZUWWVHTXNEV0lNd0llbjJWRDl5QzdSanpBZkhNTGJraDlraEFpekVFRmxrb3RiaWZnQTFZWTUyZXNwcnJLOWxPVXlfSDM5V1pPWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T10:17:26+00:00",
-      "summary": "Bitget upgrades Agent Hub with new tools, enabling OpenClaw trading in minutes  Invezz",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "Oracle and OpenAI abandon Texas AI data centre expansion - capacityglobal.com",
@@ -76,150 +220,6 @@
       "summary": "OpenAI joins the race in AI-assisted code security  Help Net Security",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Chinese software shares surge as OpenClaw AI gains support - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbGZUa2wtVmw4b1U1TkZ3QUw2NExYaEl5MHJDQ20zM3pDRHdZSVVFSkIwTlZzQXp6UDh2bDlpVHl4UW84c0JGYjVJWHJqMVZ0N2ExNFA4aFdWcnJrVlNZM3JjMjFWVWxtWjRNbGlQbGJxbXE1TmtBRlRpbTQzdnc5LW92cVlJQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T09:22:50+00:00",
-      "summary": "Chinese software shares surge as OpenClaw AI gains support  Latest news from Azerbaijan",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Robotics lead quits citing ethics concerns - Silicon Republic",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUVp6aGxOTUplcFhpM3NYZmlrSzE5X19VOUY3WTNXOHp2dm5OYWh5amp5SnJBcE9OYlMyWUlUTHQwcG9ieVMzUzNwalUwcGZQbTc3OU9uWlh1UE1JbFRGSFVvWWRuMWR1bmYzaXFaaEQwTFNrQ0NTcVZvLXRYQ2JhX2p2VjNLN3ktc3dvckUtTlNnczkzc2lJZ0lLb1NBeVpweVFyU19fVUQtR0NjaWxPcjJR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T09:09:09+00:00",
-      "summary": "OpenAI Robotics lead quits citing ethics concerns  Silicon Republic",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI unveils Codex Security to detect vulnerabilities in AI code - Techzine Global",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWVRbl9Yd0tXWk9BOGpfRU9BTVdpRmZUa3AyMDFxUWJrWE9ubV9Gd0FUNkd0VXZBMWlONnVzSkx6VjZOU2RwcE1iMkVka21BSFBBVEg0aWpvbEs4VDZQc3hLRkVZVkh6NHBlbjJuWElEU29VeXF3LWFWLUYxT2k0WnFzemM5ZndYdTlvMklocU9oNDZxMzMzdkVZa3NzTGswcG10RTdBQWY0WFo2dllz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T09:03:05+00:00",
-      "summary": "OpenAI unveils Codex Security to detect vulnerabilities in AI code  Techzine Global",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Raises Questions on AI Agents Acting as Trustees - National Today",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORTZmdkJFVVhTSDM2bGJXbmV4YVU3UXZEUC03dURVU3owUTBHZkFYdlB1NG84ZmdNNFFDNG1hRFNXbGlWNlV1by05TlNta2txQk9DdVFOMk9FWDBFcmctWUd5OFFFaWVncy11bGhrd1BXSkJxQ2VOUzZkaGcyM3FoMW9WUTZaZzBuOF9VTzBkbG9hRU53ZnlVUmdvZDNKZG5hUmdRYTl3bGg2REV3SGlSWmFfNm1mdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T09:00:49+00:00",
-      "summary": "OpenClaw Raises Questions on AI Agents Acting as Trustees  National Today",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "TENCENT Allows Creation of QQ Robot Integrated with OpenClaw - AASTOCKS.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRTzByRUUtaG5VelhFNGQ0LUV6bGhySGNLRXZyRFNmMW9qYU80VU56LVpFaW04b1FpamRXRjR3NlhOeHZCQTBwRmFoSDFSMVhEWDc5UjZoS1k5VGJ6TG16Tk9LMkc0dExLWmw0TEE4ekY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T09:00:00+00:00",
-      "summary": "TENCENT Allows Creation of QQ Robot Integrated with OpenClaw  AASTOCKS.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "NVIDIA CEO Highlights OpenClaw's Impact on AI Development - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXVkNEh3NWY4Y25EenJUVGp1Z0RsSVpubFV1WFVNWDZkVG9WcXNnSVNfVUVIdi03QUFFV2N2UTQ3b3ZfUkw5NEJYNUFGeWZwUGlSVFJ3VHZQMWhXT1NzQ3VCY2IyWkREeG94a0tZXzY5Q1R3RzRZVUpYMkNvUmdicDdUdGtHbTkzNVJqbEk4UGdkMjF6a0NQVXM0aw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:54:48+00:00",
-      "summary": "NVIDIA CEO Highlights OpenClaw's Impact on AI Development  GuruFocus",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "\"Agents of Chaos\" Study Reveals 11 Critical Failure Patterns in OpenClaw Agents - trendingtopics.eu",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORURVdzNkaUR4TktmRUFZMmd3WHF6Z2hvVDdUWG01dEtnNmhqUVRCWnZrVDBJNTB1Z2c5aHdMa2N4RWwxYWRSckJYSVprdU5rRldfWkNCZ2hIX0VhaHhFdWtqNloxVm13RkF4RDFtMy1EZVBESEVnWDRoMWxjUExuWVhkS2hyaUEzZ3BFbHJZQ253d0cwNGs3aUxqMlZNOFBiYnp5VF92cVdmbU93?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:53:52+00:00",
-      "summary": "\"Agents of Chaos\" Study Reveals 11 Critical Failure Patterns in OpenClaw Agents  trendingtopics.eu",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw craze: China’s ‘raise a lobster’ AI trend pushes cloud stock up - The News International",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY0JMUDVfWUhETkZLck5nR01fb25fMkIxN3dnVmVManNVZVMxM1VpSklCMVBhTFRBamQwS0c0QXN0SDNsY1lMTVRqM1ZxMTVfWW1GSlhOUnNYYUhSOEdfa2l4cURnQ2VINTVIU2hkTEl3eGxBZDA0RXpqNkROTmhVNlFOalBfQmNzRnJRaV9waDdTTkpOMnozbjgtei01cmIta1dwZDRUWW1JTjZvNFBv0gGrAUFVX3lxTE1fckVFOTg1WkJEUkhwZ3Q0MHlpcWpEUjFqQjdqVFl3NWM4OG1NZ2FDSmo3WnVyNmtoZkZuQVMxbTczc2dwQmRzb2J6aHN0M2FvZnRFMVEzYUtsXzhpeWZOR04yby1rNUVfNDlSM0xLNHFmVE91RFNLanV3R2ZORnN3MkVYcElmUXg4MzhpMGdLLWxTam5CVVdPSG9WLTJfLVRSN0l3MldiaTVjRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:48:00+00:00",
-      "summary": "OpenClaw craze: China’s ‘raise a lobster’ AI trend pushes cloud stock up  The News International",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "The Hang Seng Index closed down 348 points. The OpenClaw concept was a hot topic, while MiniMax surged 24% against the market trend. - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tnbUlFbTRaMkNkUkRJOUNpZGlfNWl0NExlTk5rQnktR2xvTDh0ZkpXUHVMUXhlT2ZzYnFqeFJVZnBaM3hOVUpwWm1VeVNsWXRUN3UySXF1WXhzQXcyZ0hZdDktRTctbEdXbnJjNHlUNHVCYm0zSnpHYWFpMjlyYWJobnZyeVdqMXVaUVJxOTNHcEQyejloRTB6bGo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:47:11+00:00",
-      "summary": "The Hang Seng Index closed down 348 points. The OpenClaw concept was a hot topic, while MiniMax surged 24% against the market trend.  富途牛牛",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Lenovo Baiying, MEITUAN-W Launch OpenClaw Remote Deployment Service - AASTOCKS.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pTUJNcFc5eHl1bkxJRllGRGs5bjhlWTcxZlItN3lMeVFQVkoyUkRXSmtOLUpsWXZyUW9FZVhrMHF2TW8zTG84YW4zcC01M010ZHhPcmlhcElocklHTEhXdmpGM0dIWmRCeE9VTlBYMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:44:00+00:00",
-      "summary": "Lenovo Baiying, MEITUAN-W Launch OpenClaw Remote Deployment Service  AASTOCKS.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw Raises Questions on AI Agents Acting as Trustees - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFudlloMHhUOU42YmI3bllYbUdsSnhqM3BoLVpKOWJiTFpsX3U5SlFUdXNoV1dwVWRyMVY0TDdFLXVYZWRHOUZnM0hxaFNYVkw4T3NEeXZyRmdNQUNlOGtaVHQwUkdseUZ4UVNkRDl6aUxTMWFJbzhfWDhqNTlFcTZBajRwbTJ1dFFBZ28tcC1NOGxRQVR5YkhvTmxGTGE2UnctdG82MDUzdmZwRERhd2l1djVvREZHMnh2ZkhjaXBOUUFt?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:30:00+00:00",
-      "summary": "OpenClaw Raises Questions on AI Agents Acting as Trustees  Bloomberg Law News",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Why China is racing to install OpenClaw, the AI that works for you - Mathrubhumi English",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFlFRlpwX2NpZzVPdDRYT3VzLU0ya0RpcFZUR19lS1pYMi15RS1OZm1pLTYwZExaZm51d1BwLVI0ZVlUT0lIQ2c1cFNoZk9iZXNuNkVQbkJvTjk3Mkh2eTZiY1pJWDlrbldGUmg1ZTB3R0VHRkd0Z3ZoYnBKamZoS3UyazVCaGNLbXRjSDAwd3lhZTg0QWhKZFhWWlFWQVh1UWlYYtIBqgFBVV95cUxPR1pFTWpEbDVJcU9pXzB4bnBncmRXc3ppUGl5cF9tcUM5WDZCZGY0X183ZVNQQV9WSmZyMmFmQm1oRVVxQTVkdFNkU3BIMzNJVHdpQUJ3TlBlSThJbUNnZ0l4WVJMUDUzdlYtR2pFOHd5aF9CUVRzRDA4dXBYMkJMc3JJbklCR0UtVmFEaENEclJ0dlJNaERhaHI5V2l2WGt1Z3lpTnlMelBjZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:23:52+00:00",
-      "summary": "Why China is racing to install OpenClaw, the AI that works for you  Mathrubhumi English",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Tencent launches OpenClaw-like workplace AI agent WorkBuddy - TechNode",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0h0ZXhmMGJBX2lIMjBmNU13M0tGYVhlV3dYTTJlYVVKcm1PQlo0N0NmYVU3dXo4dWQ1aUNZZDRvNFRQMTRVWUVRRWZWSFhJTURXa0tPdXJUS09yakk0VG9NRnBDZE1IYWxzQWhsenVaVkFGNVNNdmg5a0VuTW1FMmFaZkU3YkZhU1BQNzA3UFFvc2w3SEdJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:17:39+00:00",
-      "summary": "Tencent launches OpenClaw-like workplace AI agent WorkBuddy  TechNode",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Shopify Stock To Rally 15% More? Analyst Sees Boost From OpenAI’s ChatGPT Checkout Rollback - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSHNlX1ZPLXJHREw5aTdfX3BLbEd1VzhUOHpZZFQ4NDM4WFN3amctckRWdXpTbzl2cWY2ZjJ4bkVLQi1MQng5cExUN25EZXdfMTAtelJxaFZlV0NFRjFoWC1CblJ4THd5bXRpT1hNOU0yRXN3ZzIzUF81bVFBMzRySEF1REVNTVZaZnJCdG42d3BXMDBXRlFvN0k0WWNicmdYWGwyNWZsM0oyZF8ycU9lWEpSV3ktZ2J2U0tlZ0xnazkwQURpMkI2bHFqZHZZZFVKTlJkNThUcTl2Wk96c3lzQzhwWGhIajVaM2tV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:16:00+00:00",
-      "summary": "Shopify Stock To Rally 15% More? Analyst Sees Boost From OpenAI’s ChatGPT Checkout Rollback  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Did OpenClaw Empty Your Wallet Overnight? Finally, Someone Takes Control! - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTWIxRHJKT3ppRzNrc1A1Q3o5UWxaUFhpX09DN3BLR3VZTWlOdlVQZFJRVkN2Q1BfZTIxVzdhX3RpVk9vNEZHT3VaZzR2U09ZWUZj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:14:48+00:00",
-      "summary": "Did OpenClaw Empty Your Wallet Overnight? Finally, Someone Takes Control!  36 Kr",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "The Ascent of a New King on GitHub: The Development Journey of OpenClaw - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LcUFEdkZUMUx3ektwVUx6WmFzV25HaVpHZEtwV1cwM01tNlJuTTVvYlpoU3RtRHRzal9Tb0ZQajBJenVrb1d1aWw5WEw2alZxNHA0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T08:14:48+00:00",
-      "summary": "The Ascent of a New King on GitHub: The Development Journey of OpenClaw  36 Kr",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
