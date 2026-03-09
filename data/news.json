@@ -1,16 +1,79 @@
 {
-  "generatedAt": "2026-03-09T21:03:14.717156+00:00",
+  "generatedAt": "2026-03-09T21:59:25.643553+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Tencent Launches OpenClaw-Compatible Workplace AI Agent \"WorkBuddy\" - WinBuzzer",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN01nNGhqUk1VaXdoSlo3TUdPM0twc2VXV0IyOW9uUXBmRllZOG5FVTl5eWtkWWpsOENlcDUyTW9pdjZIQVd0ZFJfUmJpSG1DVjdRMDhkQUpvSEZxMElSbnlUb2FnMGJHM3plVUpWUE9XUHBkT2s4QWhaVk9xdlh5aXRKX0FoRXoyQWtSdWV4V3NTQVNVeTNvUWlLc19SaDRodlRVcmtEZlRRQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T21:47:06+00:00",
+      "summary": "Tencent Launches OpenClaw-Compatible Workplace AI Agent \"WorkBuddy\"  WinBuzzer",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Acquires Promptfoo to Secure AI Agent Ecosystem - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRXlPYUxFazN1QjhrOXdkN0JtdDk3UXpuam5MaFNwOEc2RzZIV3FDMXdXMnZ2UGhYNDJvc0wzT21OWjZHRmZFcmYzS2pkZ1lVVlV4U1RhRTAwLU9qV1VnMmFHaXo4bkNseElsZEFjV2xwenNXMXdLenl5bzdNUmQ4VzFiYXNDTWlnd2lMcmNaSFo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T21:47:00+00:00",
+      "summary": "OpenAI Acquires Promptfoo to Secure AI Agent Ecosystem  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Google Employees Rally Behind Anthropic Pentagon Suit - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFM5VHhNSjgtN25mTjM1cDIycWtHVDRGdFVxNTBSQS1LWFMyQ0ExOE1CRWY1SElNelBhekxKZTBLbkhyMWJNZUprN3p4bkd4b0VrNFF5OUJFRmxOSHgtbTBTOGNZUXVmSTZqZFRKMFpYVmVjcmVRNDgwemRTSkUtWm93TVFRYUFNcTJjLTIyTENkYnRSY0tqSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T21:19:00+00:00",
+      "summary": "OpenAI, Google Employees Rally Behind Anthropic Pentagon Suit  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI Rivals Unite: OpenAI, Google Back Anthropic vs. DOD - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2J6SVczZlZxLU1mZUlCa3luTkxzMndDWGNWU2tOd0c1dUFOalhOTHJlbDFwaDQ1Rm9nQU5rQ2lCTHJmTTBXOExWdGxHMmVLbi1tc2lfbTBOVndwTlhzZGRWNFJWWXZQWHBWRzdOSW5WVUpVSVVQMnhGX0hJbFRxZWc4cVRFa0Jncm4wRw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T21:19:00+00:00",
+      "summary": "AI Rivals Unite: OpenAI, Google Back Anthropic vs. DOD  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Plans to Acquire Promptfoo to Secure Agentic AI - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenBEMXRzMGVwdEhnSzhzOHdPU29FTXdKQ0xzY2hST1hkX3FoSWQ1SFNPMWZPV0FXV3dDZFRBSEhLeUVzYWlkdFFZeWhNWWNRQW1GRjZHT056OGtzeE1DODEyOFJoRHJyMlpaN2JBUldmWnRuaFd1UWdxbHVVdnRuUmR0SU5XdTExalVoZmdWWk5nOFRXWmlmVWNvdzlSVTBwVXJuSmJCM3ZrVTRiS1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T21:18:04+00:00",
+      "summary": "OpenAI Plans to Acquire Promptfoo to Secure Agentic AI  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXk3MGI4SkVvZmg0VkxWeXQtWHlCaFNmRzUtUHpSbXBjTnh5dXp0SFNzQ0JROXljc0hnU0pPdHRYSEgyNUZUZm1YWGdFZS1pdnk4cTlGVUJFLUhWWXN0dU10dUZqUW9pV1VVMlRlXzVHY1dKNlJLdmFMdTk3NE1sMU9VX2lfMV9TazZIcFFUVUdRNVl3WDVBSnpJcTg3Sk91NmpMaE1Ubw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T21:15:17+00:00",
+      "summary": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Google AI Leader Jeff Dean, OpenAI Employees Defend Anthropic in Court - The Information",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXFtMmVUS1ZqMXIwTUM1Nkl3UUc0NUZ0TDdldmU0OUY2RWNaSS0yZWFfVEVheUJVWDJ1TjZXajBZbG1PdENYX1RfeTBYeHRhcXV5SGJrcG1yUjBPQ2ZwNlJKWGhMcU9TNlNwd1A3OGQ1X21nb2RURmstcHBVZjFhRTl5Nm5wSGZHVzk0eGtUUnVkaXByOTAyemg1UTJKZC1KRGV1NnJmM3ExOGc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-09T20:48:00+00:00",
       "summary": "Google AI Leader Jeff Dean, OpenAI Employees Defend Anthropic in Court  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOengta3dBeThFdzhkdXdWQW9TbEdId3NuTVJpNk1Sczc3RHBRbHhpV0RUb3cyWWw1endJLWFkUGM2OHlMQTl6ckhuSFBYcW1CWjdfUDFpdk1IZ0tRTVp6R2xiRUZ3azBicC1pTmZ0eXY0V1hkdWJxWWRWWUEwVUlJMEVHSkpqOUZ3ZEZmU2F2MG5FSVBpSmYwUmpUekl3c3ctUnNxMTFoNklrRFRvamdfTVp3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T20:45:24+00:00",
+      "summary": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon  The Verge",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,6 +141,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Bitget Upgrades Agent Hub With Skills and CLI, Allowing OpenClaw to Start Trading in Three Minutes - Bitcoin.com News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUd1VGNkUEU3WXBnM1hyeHFPcUZvU3h0VFRJQXhPY1RldFhWUDlhNDZwM3ZNX0sxdXE5aE5udU5xSFZVaW5uOENCRE9BNGlacGYtd2dfUWNuSksxcDA2OXNKbGp5blRIUUt3aFVyYlhjcjY5SDZmbDRJbjBhdGU4Ykc0UVRWbWwxYnh0Ti0ybVRfaUpRdzhOSlNQdjM4bThwQ3k0LUI3X1MxT3dsSG53WHl0Y2hrdFNhUElvaTRhUXQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T19:00:26+00:00",
+      "summary": "Bitget Upgrades Agent Hub With Skills and CLI, Allowing OpenClaw to Start Trading in Three Minutes  Bitcoin.com News",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "OpenAI Acquires AI Security Firm Promptfoo | Enterprise AI Agent Security - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFJaek44aFJLZkRYdFA1anNEOFZlZVRFejRPWVVNVVFMdnk4TFdyWFAwWDA5a2hRekg0c3BYUUl2bVhBTzVZdzN6aEJOVTQ4ZHJHMnNIUWUybTR4QWlaQnB2dDVVQVpEblB4ejhMczlaemI5OFo0eGh6Z3AyWWRFbXZ3R2o1SGlKVE4yRjZnTTFnalJuWFBTZ0JRSmFNYW5FUGNR?oc=5",
       "source": "news.google.com",
@@ -90,7 +162,7 @@
       "title": "OpenAI Faces Backlash Over Pentagon AI Deal - Investing News Network",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91VHljNmFlMjNzXzE0WEU2Y0p1Um5EU0psVGliY0RXSVNyOXF1SVJ4VmtUd3NqSWlFTlBxOW95OVdjTzE1UTJ2aHk4SGswdkRSZHZ2Y1V4RkhiMXBaVzdzZHlMcUt1STR0TmlSV2JzWQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-09T18:58:06+00:00",
+      "publishedAt": "2026-03-09T18:54:45+00:00",
       "summary": "OpenAI Faces Backlash Over Pentagon AI Deal  Investing News Network",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-09T18:26:00+00:00",
       "summary": "OpenAI delays ‘adult mode’ for ChatGPT to focus on work of higher priority  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI plans to acquire Promptfoo to bolster security in AI systems - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVh0bnE3eHVVQU1YMndNZUJvNWlPdlBXTXcyelMyaEc5Um0tUkhmM1hadGQzVUJGc01JVHpEYTRyQ21MVHFFU21zQ3NtXzNuaEc2WEZHdEREN0lYZjVVZHFSMnpEckxTY250RW1TTTVDVjJPY2hzdWdJdXk0YXBrYjZnMVRjQVVzYTUtZTdoazBtejNWYXNmdHNKMFZTWFdkYUtsVzRLZEc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T18:08:01+00:00",
-      "summary": "OpenAI plans to acquire Promptfoo to bolster security in AI systems  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Google is Opening Gmail & Drive to the OpenClaw 'AI Agent' Revolution - Android Headlines",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbW1reVQtMzFfc183Mk04eHlHQU1TejJjTlgydlZpVnhIckFtLWJPaDQxblVBUVN4MVVITm5iYVpQY3RoM0dRWGVVOFpfN0NWbG9oZ1hFNk5ZazFHM2JKQmVDbDlCaVgzZ0NKdjhqYlRYaThOY3FuckFoSF9mUWlwbS1RVzZ4TU5kOWNwUmM5SFJHUzVDUmhaNFBtWkw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T18:00:24+00:00",
-      "summary": "Google is Opening Gmail & Drive to the OpenClaw 'AI Agent' Revolution  Android Headlines",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI acquires Promptfoo to secure its AI agents - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYV83R1kzSDRKdE1LMXVsdHhfbThLc2d1RVg5VEhkY0pwME1JaENmUExqQUhudmNiaF9POVZuUFRXNXN5cGctQ1RZcVl5Q1E3dVpyUTJwOXFGY1k0dV9CMjlQMW4tOHRERjYxRDJ1YmRRY1daNGptQ3hNX1pCR296bEtsRmI2R0NNWTd6QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T17:49:04+00:00",
-      "summary": "OpenAI acquires Promptfoo to secure its AI agents  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to purchase Promptfoo for better enterprise AI safety - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWlLMUlXSjJhRVdiajRub0loNzBVWmI2V2VXVTIwcEdQUDVmaU9GQmllZ2ZXM2xyMjZCYTlfSnF5R0dhYl9tWHhQWW43MDRUcHRTVEJFcFdWMzBIM1dOVC1SQ1hvUDdoUnhCdmJRazh4Z29iRC1MV2tOZzFtZ3Y1dk82WmlueFdK?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T17:48:45+00:00",
-      "summary": "OpenAI to purchase Promptfoo for better enterprise AI safety  Latest news from Azerbaijan",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "‘QuitGPT’: OpenAI faces increasing backlash for Pentagon deal - The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS1U5VlRLMEJ2aG1yd2JGTTVUU1ZzVVRtcVlTNHMtRWpKeUgyZ3JhaTl2TFphVHhYVFR4NEpLOXdkOE1iYm10d3hZcEVpS0V6ZE1FT0ttdXRnUE9zMXZfdklySWtLbHVKUk5oaGlQZm9vSFd4ajV3TS1NVlA1SmFSTFhJbHRCX1htNWlFYWpKbl84Mkhaa3k4SUY0WjNuZHpkS2NpeTF5VFdhVlhzNEc0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T17:46:25+00:00",
-      "summary": "‘QuitGPT’: OpenAI faces increasing backlash for Pentagon deal  The American Bazaar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI robotics head resigns over Pentagon deal - The Robot Report",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUduNzRYSjVxUzhtdXBWNjI5bl9EUGo2WVBXalp5ZkNrZ1B0MnBlbngtSnAtbkk3OVRwWEhrRGMxMzdLSXZwaDlZYXh1UmZ4bW9FY0owQUhHVnE0X0Q4RUFORVVCeWdSbFpEZ2x6UlNiTFZ0dFB0WjN3ekVvOTFMVldTUnItUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T17:44:41+00:00",
-      "summary": "OpenAI robotics head resigns over Pentagon deal  The Robot Report",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Bloomberg Tech: Oracle, OpenAI End Plans to Expand Flagship Data Center - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTFuaDhhOWpTV2ZwdWYzSS0zMHljYVlKd1dTdUFRX19iZUVHZlF3UTlRd19OQ1g2bTIzenc1aHk5Y2NsUDB6WnpkUjNWd2laY01LQlp3WkJXVG9FMU04RFNYNGNhZlNrTk1JUkhxN0xhZml0YzA4TTE2WmFrd2NmVTcxY3VkNzVkVHN6UGJBVlFiSURGQ3hIWE1OZmMwX2FNUXNTam5WSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T17:35:10+00:00",
-      "summary": "Bloomberg Tech: Oracle, OpenAI End Plans to Expand Flagship Data Center  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI defers its ambition to turn ChatGPT into a shopping platform - FashionNetwork USA",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVZrRld2aUZZZXdiQW03QzhjNFJoRTBpajJnU2FnUjMyazlZc3lIb2RNNEZWOEk2N0JvUHlVaTQxb2hZS3JMX0dVRkROX2hNZEwzY05kN3lyXzBCSWxkMUprcEVuQW5xSzhkUHBJMS1ZUFM1QlJKem52VExUSkpFV0VReVVxLWtuSkxSMC1YT3NZNm5qVWVCTVotUXI4WFBRMnl0ZnVhQTljeGpGeXJicEs2U2tqZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T17:32:20+00:00",
-      "summary": "OpenAI defers its ambition to turn ChatGPT into a shopping platform  FashionNetwork USA",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
