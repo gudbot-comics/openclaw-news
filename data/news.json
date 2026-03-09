@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-03-09T19:54:34.908019+00:00",
+  "generatedAt": "2026-03-09T21:03:14.717156+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Google AI Leader Jeff Dean, OpenAI Employees Defend Anthropic in Court - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXFtMmVUS1ZqMXIwTUM1Nkl3UUc0NUZ0TDdldmU0OUY2RWNaSS0yZWFfVEVheUJVWDJ1TjZXajBZbG1PdENYX1RfeTBYeHRhcXV5SGJrcG1yUjBPQ2ZwNlJKWGhMcU9TNlNwd1A3OGQ1X21nb2RURmstcHBVZjFhRTl5Nm5wSGZHVzk0eGtUUnVkaXByOTAyemg1UTJKZC1KRGV1NnJmM3ExOGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T20:48:00+00:00",
+      "summary": "Google AI Leader Jeff Dean, OpenAI Employees Defend Anthropic in Court  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Oracle's Debt-Fueled Data Center Bet Stumbles as OpenAI Deal Unravels - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUDViRnVIamJxcjJHc3RMbzduc1NGT1RpVFIzdUNVUl85b3NUa0Qza3U3ZXhvWnpVLVIzVlhETDJVOEM2c3UzMUtnaXZEVmlZNWRwelZvVVdheGRhWGFFdTJ0Y1BXX3pMVDFRaWloejZoejRmbU8xOE8tZ3RlUEJEY3ZLOEdhS1prOHF5ZGJKM2lYZUhyaExPRklzQ2RCN2ZCSHlWOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T20:43:00+00:00",
+      "summary": "Oracle's Debt-Fueled Data Center Bet Stumbles as OpenAI Deal Unravels  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘This was about principle, not people’—OpenAI’s robotics hardware lead resigns - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWW9UMlhYTS1kRVBfOWRkUnhLYlNWWGs4NkxydVJjZ3ZFRDBGX3VwNk1Rci14OU54NU1tQ3J6bFZ6M0FURlVtZndwTGZrUVo2dGR3QVdERGxOZHZJWDQwS1BwYWRKSDlNWVlSNUJDaHJqbHM2MjhXbVVyRWhpajRpRnhmVTlaMUlNa1U1Ni1yb0tEeXRsQm1XdHlrdVNUWmlJSTIyYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T20:06:30+00:00",
+      "summary": "‘This was about principle, not people’—OpenAI’s robotics hardware lead resigns  Fast Company",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Chinese local governments offer subsidies to use OpenClaw - Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnRUR2tnbWVPOXVqZVc1aUx4czloczNScVk4YjZ2Z0FZMU5FdkNTZW9aVzFKN1UzZVhwX0dmOTI0RzY1SC1BdFI3aHRIS0R0cmRocHdYSWNRc1NkVHBiZjVLU1lob3liSjd6TF9DZmJHenNYbkdyVGNjODIzcEpJbHZxZl81b3NrR0R4VlA3b1NaU28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T20:02:00+00:00",
+      "summary": "Chinese local governments offer subsidies to use OpenClaw  Tech in Asia",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Acquires AI Security Startup Promptfoo - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFRmZQSTZGZ1VQVm1MVGdJUWE2TFNDUVZuT0VSekdiN3lrekNUWTVXM3FNVmlNN2FoZC1tMm9OczQtOWtrNXFLSzVfcUxQUm9jb3lEUXdoN2hNTU10dzhKeW91aEltNjFibWRoakRhZVJlRkFn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-09T19:57:43+00:00",
+      "summary": "OpenAI Acquires AI Security Startup Promptfoo  MLQ.ai",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Daily Digest: OpenAI robotics head heads for exit, S.F. telehealth Hims and Hers rockets 40% - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUtoYlM3ZWtYYUdjZ1YyTFpVNk9iUFdueFQ5X2RyaHkwclpDdGItOEZqSHRZZWZWd3lpRk9vblR2dmx5aGpRSFBsUzFiMmRmZm0zeHlta2kwSmg3QVFqQTBfcXhQSWkxaG5nZDZXS3lwLU12Q1F5SXpnaXRzZXpsMG1xeGswemJ6VFY1QnJES3VTNG9oZmtybWhud0puN3FlZHdGNHlGMGx2QkQzYkFj?oc=5",
@@ -24,20 +69,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "‘This was about principle, not people’—OpenAI’s robotics hardware lead resigns - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWW9UMlhYTS1kRVBfOWRkUnhLYlNWWGs4NkxydVJjZ3ZFRDBGX3VwNk1Rci14OU54NU1tQ3J6bFZ6M0FURlVtZndwTGZrUVo2dGR3QVdERGxOZHZJWDQwS1BwYWRKSDlNWVlSNUJDaHJqbHM2MjhXbVVyRWhpajRpRnhmVTlaMUlNa1U1Ni1yb0tEeXRsQm1XdHlrdVNUWmlJSTIyYw?oc=5",
+      "title": "Video: The Consumer Backlash to OpenAI - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGMwaEE3V01iazF1ZmJ4MXpGa3RoQ3VLcVZtX3p4TkhZc0pIRFdSOFZBSVhSTXR3V1RCVGZZVm55S0hqeE5sOWJuYmlPU0llcVR3V3JtczMzdnMyTlV2UF9VZnk1em9fQnhXRnJ5NE9LWUpHMkZkSWJSRU9FTXFDX1hENFF0TUIyWUhUZWZvVGQ0UmNVY3c?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-09T19:12:11+00:00",
-      "summary": "‘This was about principle, not people’—OpenAI’s robotics hardware lead resigns  Fast Company",
+      "publishedAt": "2026-03-09T19:09:38+00:00",
+      "summary": "Video: The Consumer Backlash to OpenAI  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic sues Trump admin for blacklisting after clash on using AI for surveillance, weaponry - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU0lmUjJWMWlabnlUTnVxRkhickRZV1FPaWtGdjJLYWVnSGphWGhPakpCdTd6UkFpaUt4LUFYcWJRZkpWeWF1UG9ZMndDTHk3UEpSckpIUFRZbGJld0tsdnItRXQ2c0NNQ3dKZzUzM0I4V0RDNE1SNmVYNUZmSkFWdF9jN2tCRWxTMkktT2FjRkpheUdiOEFVb1ZBdXIxUWpoamxrZHpzX2Z4M3VvTktpM1FUQzYwV3NFYjJJc2RaOHBmZUd3eFlEQ0Rncng?oc=5",
+      "title": "OpenAI Acquires AI Security Firm Promptfoo | Enterprise AI Agent Security - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFJaek44aFJLZkRYdFA1anNEOFZlZVRFejRPWVVNVVFMdnk4TFdyWFAwWDA5a2hRekg0c3BYUUl2bVhBTzVZdzN6aEJOVTQ4ZHJHMnNIUWUybTR4QWlaQnB2dDVVQVpEblB4ejhMczlaemI5OFo0eGh6Z3AyWWRFbXZ3R2o1SGlKVE4yRjZnTTFnalJuWFBTZ0JRSmFNYW5FUGNR?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-09T19:12:00+00:00",
-      "summary": "Anthropic sues Trump admin for blacklisting after clash on using AI for surveillance, weaponry  New York Post",
+      "publishedAt": "2026-03-09T18:59:00+00:00",
+      "summary": "OpenAI Acquires AI Security Firm Promptfoo | Enterprise AI Agent Security - News and Statistics  IndexBox",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -47,15 +92,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-09T18:58:06+00:00",
       "summary": "OpenAI Faces Backlash Over Pentagon AI Deal  Investing News Network",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "For OpenAI & Anthropic, Competition Is Very Personal - RealClearMarkets",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRVl1eEo1QUszSl8tRHpOUmJkQUoyYmI4cFhSUXZMaDVkMW1ybDJ4ekp4THBvQmlsRFZBQWJZaXZxY29RLVpSSUVEb3daSGprVUQyaWxXY3EtdlY3bHBuai1TdzY3dzRpbTBvcFFjd3huSFhKT0tNMlczeHo2X1dUU2RncEQzaEJ2YTI5RUxEaGJQNTJCTi1VeW5HZHkzX0t5R2Q5VndESVV2b05oWWlB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T18:37:03+00:00",
-      "summary": "For OpenAI & Anthropic, Competition Is Very Personal  RealClearMarkets",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-09T17:32:20+00:00",
       "summary": "OpenAI defers its ambition to turn ChatGPT into a shopping platform  FashionNetwork USA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Real Reason OpenAI Walked Away From an Oracle Stargate Expansion in Abilene - The Information",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGZoWlp2NTFKRXN6Q041SC1XS1A4VG5CU2l0VGpBaUNXMmgzU1ZKX0wxb05SaWprbGVGRjlDLXJzWXFLbS04dGpjT2JJWFNfOHZsbWV0OTNUMXdpTDhLZ1l4UURybmpuM3dyU0VhLUFLNFJpQlJfZ0tXZUtaNkZuV2haY0dHZkU1R1F5NjNfOGNDTUpabklHeUF4bXpSMmV0Mno2eDFzUkJpOC12TF9xbWNlUGs5elE4dGVaNmtSMzVGREE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T17:30:00+00:00",
-      "summary": "The Real Reason OpenAI Walked Away From an Oracle Stargate Expansion in Abilene  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Oracle hits back at Stargate data center cancellation reports — claims 4.5GW Oracle-OpenAI agreement still on track - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQV9CdXZ6MVpUV25NUG1WR2drdzZWdk8wM0h2Vl9lQjNzeEhBS3FPN0tsMm9ibGR3TmJ4VzhVS2NTYjlucEZHZy1mMGFvRk5Bb3ZjcmZfNE9kSVBxYlZrN3BqMG15bnZERjVVU3hMUUF0VWd4akV6TlE1MldHQ25wLUE4dW1JS0FTaEZXWkU1cWtwQVk2UG5JSUZUc3NIaTA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T17:28:02+00:00",
-      "summary": "Oracle hits back at Stargate data center cancellation reports — claims 4.5GW Oracle-OpenAI agreement still on track  Tom's Hardware",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to acquire Promptfoo - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBocmlqOVFocktaTGpPcVpOQmY1NTlTaWZzVkFNRGp6LXlxWmJrSmlpTzl0Wl9fSV9PX2xYRUloZlJnRDNsNUdsUzBCQWJFYVRyMWlHN2d4cThiT0lvWTBndVlZZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T17:09:27+00:00",
-      "summary": "OpenAI to acquire Promptfoo  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Says To Acquire Promptfoo - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdG9IdUxUTHBrUzI1Q0czcmxRcWg3bDN4SjRqUkN6VkFvQVU0NUpKbGZlQ2xwMTEtNVpycHBUbUh1dDRmdEdBdEtqVUVsbmRaUmZ3R1l0cmx1angxZ2doX3E5N3NQblJnRU5mdGJkb1ctWXFpa19WUmV2WUxtRi1qTFcyTjNPdk55Q0cyODBSdmg2WW5aSE1TYVcwZXFmbEpsdktITw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-09T17:05:15+00:00",
-      "summary": "OpenAI Says To Acquire Promptfoo  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
