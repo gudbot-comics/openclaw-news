@@ -1,10 +1,82 @@
 {
-  "generatedAt": "2026-03-10T10:02:18.819665+00:00",
+  "generatedAt": "2026-03-10T11:49:06.655587+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI’s head of robotics resigns over Pentagon deal, warning about surveillance and lethal autonomy - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZkxxYkhUUDJIcmNHLXFKSGxyVXlQemFKYzlZc2x1QzVPUndXeTVJN0NCRTlTNjVSZ0hiU1hpZXJCS09qRm9KcVFXUDAteFFoY1l5YjFfYURHUU5MMVFCQ0x0aXVBZEZvUWx0N0hqbmRTYUhEZHZJbm5Kay1KMk5ram5MaW5lS19jRzluYm5tUWppOXRHc3VqcE1RRnpQSTBMVjhLWG4zNGc5d3M5Rlh2U3Y2VzkyZHZlMjMyM0d1RkpkZU8yUzBTd1Fyem4zNjYtUHF4bXlCeThlMzRrOXAzR0tNWlBGVGlZY2hr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-10T11:05:38+00:00",
+      "summary": "OpenAI’s head of robotics resigns over Pentagon deal, warning about surveillance and lethal autonomy  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Devs looking for OpenClaw get served a GhostClaw RAT - csoonline.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVjZiLUowWU1tYzdRYVFRNVZlZmJ4aFZYTkI2MEhnZ042bEtjTDVWdG03MEl1dFNHNHF5emdFMllHMEJ0Y3l3WHlUWnJjU3BUcERMajZSZmYyMUhXbG1NdmhvRUEyQ1BfNWZxbWdUU3p2SE1scDVqdU1rMUltUzBrQjZieGxjeDFTSnc4REE0Q2lqQWlqNWM5RlRqelkwN1FD?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-10T11:03:29+00:00",
+      "summary": "Devs looking for OpenClaw get served a GhostClaw RAT  csoonline.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "The wall that blocked Doubao was pushed down by the \"lobster\". - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wbXRxbUNWWVo5eHBkeE9KVlZwN214QkFWYTE3aUkxNldzZE82eWhhZHl3UmFLMVh6bWdCS004dldrYU4xWi1fSXJmUHQ3Qi1MWWNr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-10T11:01:58+00:00",
+      "summary": "The wall that blocked Doubao was pushed down by the \"lobster\".  36 Kr",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI’s New GPT‑5.4 Surpasses Human Benchmark in Desktop Navigation and Reasoning Tests - extremetech.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjhTX2JwbnE5UVJOWWFieTRucjdPbHpVUUhYdmxmVjA5RE4yWUkzTlB5QlIzeTg3TVRGb3hvdGNaMzRqZy1BSzBOUGt0cEV1eUppOTV1TXRnODFMOEtvVHFOeWxHWk1fazdLSGpFMGlMTEFib1Nxazh2WUpRcmlySjlzc2JqdHM4NEl5bVZFMGZOVUQ0R3pPVEx1dF9uVGlQRUtiZzh4QTNyZEl4V0FLSlNXY1NJTG5X?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-10T11:00:00+00:00",
+      "summary": "OpenAI’s New GPT‑5.4 Surpasses Human Benchmark in Desktop Navigation and Reasoning Tests  extremetech.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Stop messing around with OpenClaw; you're just wasting your weekend trying to soothe your AI anxiety. - PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nUC1DdEhhNWM4bUx5SUh1T29jNm1ueERFbnIyRVZRd1AxanlqMUNQRE5YeVBGUU1kUklGVGk4Qk9TQTBFLS1HMUROYnNOSkEzMUFaSzM1MFlWdUZmODNnYXhlMldUd3RXYnJRRGFFbl9Ea056ak1STzJGV0RrcTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-10T10:37:11+00:00",
+      "summary": "Stop messing around with OpenClaw; you're just wasting your weekend trying to soothe your AI anxiety.  PANews",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI to acquire Promptfoo to strengthen AI security - Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFkwaG45YWFIcFIxbFVjZVhMR3BzR0x4V2ZMMG1reHlVY094WDZOYzZMY2FKSzJWVkRpYlJaWk5Cak1wbVlOSDVRcnZLQ3dKa1VBWDlCTV9Dd0NocmhjUkQ2ZUdRcEgxVzNpazlLdndjN1JBOWlQdEFEczNjSU8zM3JYOHZqVU91Z3FuSzZ0c1PSAZABQVVfeXFMT2llQTloemQxN2dSc1dBM1hYM3A3ZE1KTWczRGVIenFFYXlHWWNLR2VGS2p4UHM2eFRWMlJQMklNbXBobTRnUFZCbGQ5Y1libGx2UVVqTVFjZHg3WFNWOUpWMTlLdk9ieXlvS1ZUZFBPMnBPOHNrT21yaFhyYVNjQndBQW5xZHVudEEzdThIODFU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-10T10:23:10+00:00",
+      "summary": "OpenAI to acquire Promptfoo to strengthen AI security  Qazinform",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Zhipu, ByteDance, Other Chinese Internet Giants Launch OpenClaw Versions - Yicai Global",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEdJRlo5SnpnaVlIb3FjZ0xJRUtvOXhFQzdocnE4TjVjVmFHQkNhQThOdkp1djFYcEFUeXdMbWI0ZDhmTEI5Nmk5NV9JREx4S2t1a3ZqNTRSY3FzRE82RzY3cVZkdnctQVVtRVVTVHg4Rjd4WFVxYUhsYVFpX1dJVy1YejhRUElIQVZsMGdRWDBqV2cxbVp0MXkyV2docmlPeTRNN1BiZW5zaC1VOU91MXF2eWc2RGk1?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-10T10:08:52+00:00",
+      "summary": "Zhipu, ByteDance, Other Chinese Internet Giants Launch OpenClaw Versions  Yicai Global",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Handmade by human hands using machines - Digg",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QeGg0cl9WY1MtRmNhcjI2Sm9JRF9QOTE2T1c5T2NubDlreC1ZaEFtOFhXd2J4XzFOam9VdFZEd25IZmdHSTFpQXg2bVg2dXczUzlINGVuTVI4N0N2NkxmNGxqU0NjR1hBc0hmeU5CeXJwQU91SWFDXzFnVWJCNjQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-10T09:56:20+00:00",
+      "summary": "Handmade by human hands using machines  Digg",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Top 10 China AI and Power Plays Riding OpenClaw - NAI500",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFRNMkp3ZFdMZGZNelVpekNJZ2V2bkxQc2g0SmQtMi10S2hUeXhyRlVleFotNmJwS1J2dzhqT3JNOE1jWG51R0FoX1RhcmhHYlZNbm1RNnlib2o1NXJ5YUdWYkN6ZTBWMVB3N21CWmVRb2hhdFROdjk4anMxa1JjUHB3aDRmZE0?oc=5",
@@ -24,6 +96,24 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenClaw Advisory Surge Exposes Gap Between GitHub and CVE Vulnerability Tracking - CybersecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jWUFiYTlTNTlQNllpUlNRa1FUY3F1Z1Z5YXBtblZNMHo0dUpjTnBwTkswMDhVUjdiejM1bmhQSDRhcDBoZlNRbWpZa1VQVG5ZcXl3YlVhQ19mYlR5OFl0YS1zVVhsODZsVzFEZm1NcjRHc2JH0gF6QVVfeXFMT3gwcmZyMUtOYTVDZUk1UjBGT2dYdTVUMGs0c3l1WG5LVWgzdHVid3dmcW1INHdDblI4NzY3d2gxVllCQVVlWlJhbnh0NjhuT0xQUEVMeGNjZy1taTdUa2ttQ01hN2J3X0MyRWxDMXBBU0dGcTVqcnBRR1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-10T09:47:07+00:00",
+      "summary": "OpenClaw Advisory Surge Exposes Gap Between GitHub and CVE Vulnerability Tracking  CybersecurityNews",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Deconstructing the OpenClaw wealth-generating mystery: Everyone's \"raising lobsters,\" but how are others making money? - PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xREIxR3hReDdZMHpMeWVvdVd5SFh5QTNHanFtMlVGbXlETkVWV09wOUVKWE9QenllRWZDeFpmZXoweTlnYzlyTGh3c1FsemtHTUlVZktCZ3dxanBGMUdwcDJZSkJ4eTRWVGEtTDh5dTZqY0g3Z1ZJaVdXVzhFSmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-10T09:33:00+00:00",
+      "summary": "Deconstructing the OpenClaw wealth-generating mystery: Everyone's \"raising lobsters,\" but how are others making money?  PANews",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "OpenClaw's Soaring Popularity: A Civilizational Leap from Superintelligence to AI Organizations - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kVF8wUHVmMXBGMUlDWTl2S3VTMXIyZFVENGViX3EzUWN1bGF5X1FlaVhrempHX2xMYVF6M1JaRmZ1MnNKS2g2X1VwcHc4aXpyT1hJ?oc=5",
       "source": "news.google.com",
@@ -33,17 +123,17 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "China’s OpenClaw Craze Buoys Tech Stocks, Fuels AI Pivot - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPamRBQjg4Yzc0WlFQaWQ1N1haLTUwUWVqU1Z1MVU5aFJMMzRXUENJclV5Z3FLSW9jcUQtWXVYTG1zUHk0eWlTcGlPVjlhYjJkd2FjLVNua1ZwUjlHVHdZS3FNVU54V2syaDZKWXlVVjZaOXJmSUJfd2x5R0I0WUJUaXZubkc4ZlViUFp6aFFyWlpBaHlSRlB6WGxrYlVoZXdYUld0UkFJRGlrUEZ3MWVrT2FCeHN2TC1UckMyMTZqMWN0cmF2Q3puVEt4bXZKQS0wZzRYSW95NWpkQktZenUwblp1c281blMwdkJCSzFzVTJ1TXMtR1hrVGxvaElMVVljTU1YaDR3eGFFZEJTd21jWjVQdjNTNnVSSlFjMnRqVFJsdzltcmlobUp6OF9hVi1CckVuYlFiYjI4YmNDLVp3blBKdXI1WEVPSS0yczhQX2xEQUs3QkZfTml2SG1udGdoSUdqdzZlemowT25jNnhzaWt6ZVNSSVlOb1BfZUJra2ZTLW9ndFhJVy1xZHR3T1pVTjMzYnZSVG5HX1k?oc=5",
+      "title": "Chinese Customers Flock To Open-Source AI Agent - Silicon UK",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN01mVnlneTBCOU9uWlN2eDlPZ09LMUFHYlJvcW5WT1NJQVR2LUYtWDJkYUNWTHltWkJScXNPRnFrbC12ZVlLekllSVFKWk9RVzJIVlVmZlhXQ3R0MW9xOUJncGpTU3ZwMTlORkNZUE9POHgzRDlUQmFxRXRtQmIwY0VoWmVFckgxYUdfYtIBkgFBVV95cUxQb05nSVpUNXh5ZWhHaUZzb01WcXVOTk5kN0hhUy1LTnZ2c0tjNWdFMXNveldEUlZydlItMDNXZWw0Z0luS1Vua1hIOUMxM1p0T0tVN2hoZWh6RmpnWjRJZEdvN05FZlhMeTJQaWtpYnY1bTBIa2xObHVGRkx0NHZ6M050RDc4NEN3d3BqcmtfOVFZUQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-10T09:25:00+00:00",
-      "summary": "China’s OpenClaw Craze Buoys Tech Stocks, Fuels AI Pivot  WSJ",
+      "publishedAt": "2026-03-10T09:30:57+00:00",
+      "summary": "Chinese Customers Flock To Open-Source AI Agent  Silicon UK",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
     {
       "title": "JD.com Launches OpenClaw Remote Deployment Service for Windows Users - AASTOCKS.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXdGaElOSEdoN0k1Z3RFdE5mQldnVkhhejlUeHBjeW9za1JYSUR4UEo4Z3FSNWFwV2UyWGY2SzBtUFFIWEdPMFRiY2JEUTNnUWE4alVXNno5M1A5UTNJZ055Vk9RN01mMEF3d2N3YmFzWFlpTHNXczBBdlRMWDdZcjlWTGJqQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0RSNjBZZEJ4aDdMTVpLVUJmMi1JZG1HYmRWUDlCUDVxeHNFcFVtRDlvOVlZUk9NUjJTN3d0c3VxQUJHcFk3ZWxtNEQwQ2tFWURmMU9CanRJMlhleXFfN0pFeVh1YktzcXFNNGlHc1JBb0xSNU1nbko2aTBMTFpkV1ZPXzJDRGtjcGc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-10T09:07:00+00:00",
       "summary": "JD.com Launches OpenClaw Remote Deployment Service for Windows Users  AASTOCKS.com",
@@ -106,7 +196,7 @@
     },
     {
       "title": "Chinese tech giants offer cheap, easy access to OpenClaw amid ‘lobster fever’ - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS21IX1ZveWxpWm8zSmxtdXBoUE1PWGk5cFotQTdKbmJ6dEI1bVF4NmlPa3VrRzNfNml2Z21TRUd2dEpHd19aMTZNWERxajItcjRIOHg3UE80YzdoZzduUXJpZFdreDBLU1hrS2FYb1ZWUC1Cb0dmeER0YXNNOG1CUm9FUmhPRjJlVm1pUUFnMjVQVlhXOVZYeXVWQW5iNThxZ2h4aGRidDhoSFR3c3NpR3ZXYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS21IX1ZveWxpWm8zSmxtdXBoUE1PWGk5cFotQTdKbmJ6dEI1bVF4NmlPa3VrRzNfNml2Z21TRUd2dEpHd19aMTZNWERxajItcjRIOHg3UE80YzdoZzduUXJpZFdreDBLU1hrS2FYb1ZWUC1Cb0dmeER0YXNNOG1CUm9FUmhPRjJlVm1pUUFnMjVQVlhXOVZYeXVWQW5iNThxZ2h4aGRidDhoSFR3c3NpR3ZXY9IBswFBVV95cUxOX1hvVElCMlV3VWYxRkpLbHQ3bnZ6R2FfaTFZdjFXbllpb0ZBSVdNMnhzR1R4c1ZnbGpNTUZqVmNqNzM4c0dvU2hacklkMmUya3VaNU9MY0pYSzlpVFlDOWp3UFZEb05GUkN5MHJrVFp0bUpWRGJFYVVMNUFOSGNucWpob2tsMk9lOFhTUDNXUVRrVFdQS0ZxNW9tSUM2X1N1TWpjaVdySWlwVjQwNy0xTVJPaw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-10T09:00:07+00:00",
       "summary": "Chinese tech giants offer cheap, easy access to OpenClaw amid ‘lobster fever’  South China Morning Post",
@@ -126,98 +216,8 @@
       "title": "He worked at Google, Meta, and OpenAI. He recommends 3 steps to find success in Big Tech. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkhJNFBmMjNtaGQwRmI5R1pkQko0c0NUNkFGUTJsQTJnSFhxYXpSOXpZMjE4bTRkQ2lCSTBuZnlhR2gycUxTZm4tNVJqTXVTQVp6XzdJWS0tRDM0aW9xd1ZsMDJSVGNRWXBaSHZ2QjZrY2NSeXNvcHhpTEc3UXk0dE5UY0xhdGhkVnppbDVCUFlwNWt3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-10T08:34:05+00:00",
+      "publishedAt": "2026-03-10T08:32:17+00:00",
       "summary": "He worked at Google, Meta, and OpenAI. He recommends 3 steps to find success in Big Tech.  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "He worked at Google, Meta, and OpenAI. He recommends 3 steps to find success in Big Tech. - Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2FLWGdROTF0eGkta0pHRE5zZGpVMHhueTE1QXZrcExLa2Z5X0VVU1NYYnh3WExubE1hSDJOMHJHUG02aGlVNld2b3cyajNlTVFYTWNrVTdRdUhjR2w1STFFVWJtZFdDaGt6WnREX1ExaE9PVnVnSVFPZU1qUk8xb3dGRUdCWGF5VnpMaVNZVkQzNkJXd3pSbzVIMWxWMnpEWUdJcWN0T3NIUXF4UDFJelQ4LVRLazN4NlVoY2ZSN0VPM3VHVlBtckp5Z0RyNkQ4amc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-10T08:32:01+00:00",
-      "summary": "He worked at Google, Meta, and OpenAI. He recommends 3 steps to find success in Big Tech.  Business Insider Africa",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Beelink Launches OpenClaw Pre-installed Series: Exclusive Lobster Red Editions and SSD Upgrade Kits for a Seamless AI Experience - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWmIyd0RDMWZ2RHZPekIwZFlEc1RGbUxINHVkRlBEcWl2M2hLYU5PQXR5NjJRSGNuUTlqb01VOEJTVENKVlZ4ZVF4b0JFMnlPN0RLLXlsVmtHZTRtb0FaU2hQMjFDRGNNcXI3NExTbjk1MDR2ZDZQdnFrTmwtOHpqd1F6b29aUy1XLUpWSWlLdUVSQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-10T08:30:00+00:00",
-      "summary": "Beelink Launches OpenClaw Pre-installed Series: Exclusive Lobster Red Editions and SSD Upgrade Kits for a Seamless AI Experience  Yahoo Finance Singapore",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Nvidia to launch open-source AI agent ‘NemoClaw’ amid OpenClaw hype - The News International",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLW9HWVd6M1pMSGpxc0dSZ29wSVRobXpsOEhodm9wend5YTljbDY2N05NX2JuVHBSemFwY2x5ei1IRXY4WEEtLUZHS2lqWlEzc0haRE9CS1B5YWVRVHNJdzFDRGxUWXVYX0k4RV8tODNaSUNlVmJTWHpKNG51RnViR0ZRQk5LYi1JMjhmU1A2N25sUEFBSGpzNENYOFlkSElxQmpaYnVPQTNtUkHSAacBQVVfeXFMT0hFWHhwNk5IY3NqM0NzVm0waUo1Vk9rMVVHM1NsRExiNVctUUFVZmNQSzlzb19tODBGZkNCUmEyNnhySFJ2LU56bmJGWnROMHZnTEJrcjU3dmNBdDVpWDZIYi0yaDNDTEdvYU9WMzRKZ181dm1pSTF0RFNiWFp0SzVzQzRDazlKUnAzU25qMTJRZVg1MGc3NE9KR1BTNGcwM3MtNlBOSXM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-10T08:28:00+00:00",
-      "summary": "Nvidia to launch open-source AI agent ‘NemoClaw’ amid OpenClaw hype  The News International",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Tencent Begins Testing QClaw, Enabling One-Click Deployment of OpenClaw With WeChat and QQ Integration - Pandaily",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2Q1eW16MVByR1hJLTlwbU1JeW9icUY2Mk15QTBZUnI3ei1UMDB3SWpiZ3dnQklFam5qNHRiaEhORjBDM0hmbHJ6aG9oUEZpdlBSZFFrbTZpbUxocTJ5VUhCbVZTRWljWHlVc2hiTVNZcGtYaDY2T0oydjRZRk9GejRDd21rYnJBOXdvMllyRHRuUmhHU192MXZtaTQ2Mm03ME9yMHBhRUZSalBJSXY4MWVzbldoVnlPbTJRSjRiMkgyeXM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-10T08:09:45+00:00",
-      "summary": "Tencent Begins Testing QClaw, Enabling One-Click Deployment of OpenClaw With WeChat and QQ Integration  Pandaily",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Acquires Promptfoo to Strengthen AI Security and Fix System Vulnerabilities - cyberpress.org",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhaFZLLVZkTTlaakY2RUFfRlcxdE1Gb2lHSVl2YnFsMURwcHNidFdrQlAtVF82XzRTSGhXcjA4X1NzdlpvZks2Y2hJQ2s3ZXdMZ3kzUXBQNG1JNE5WSEx1ay01ajgzUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-10T08:03:18+00:00",
-      "summary": "OpenAI Acquires Promptfoo to Strengthen AI Security and Fix System Vulnerabilities  cyberpress.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "GhostClaw Masquerades as OpenClaw in Bid to Plunder Developer Data - gbhackers.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82YkhrRkVZUDQ3Y0lxT1cyd1ZTNjdLeDhRdnJUV2tESVNFUnhxbEJ6cW9PYnl0UHZCNG1GeU9Ed3lvVmRWQ00wRE45aWtiY1NIc0Y0WHJtNWVWVFMxdDJCLWVTVnNJdlk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-10T07:50:48+00:00",
-      "summary": "GhostClaw Masquerades as OpenClaw in Bid to Plunder Developer Data  gbhackers.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Openclaw Impersonation Attack Steals Passwords and Crypto Wallet Data - Bitcoin.com News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1ByTjUzUTctQjczR2phVGlyZEJLTWpTZmw3aWtPYVl5T3NBRElFeC12VzNUV3Jkc2NRVElwcWxrVjZFZkpSaXlzNHdPajJXSVpnS1lzVDhCSnNCMTFIR3lZejV2VlZXWW52QjF4MXVkbldsczhvUE1MM1lOb3NIM3lwWThMY3hCWHNONnZhdzYyVlZBYXRTM28zMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-10T07:31:49+00:00",
-      "summary": "Openclaw Impersonation Attack Steals Passwords and Crypto Wallet Data  Bitcoin.com News",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Deconstructing the OpenClaw wealth-generating mystery: Everyone's \"raising lobsters,\" but how are others making money? - PANews",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xREIxR3hReDdZMHpMeWVvdVd5SFh5QTNHanFtMlVGbXlETkVWV09wOUVKWE9QenllRWZDeFpmZXoweTlnYzlyTGh3c1FsemtHTUlVZktCZ3dxanBGMUdwcDJZSkJ4eTRWVGEtTDh5dTZqY0g3Z1ZJaVdXVzhFSmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-10T07:26:59+00:00",
-      "summary": "Deconstructing the OpenClaw wealth-generating mystery: Everyone's \"raising lobsters,\" but how are others making money?  PANews",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Family sues ChatGPT-maker OpenAI over school shooting in Canada - seMissourian",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTgtWjZBVTdNeENYS3RodEROVTdwNDV6U3k1N2hEaGhNM1puYm1tYTB3S2Q5cTA1d0EwZDJ5eTR4TmtILUF1elVWNkNtV2FCcmhXSGVuaDJZRFE1NHYzeGRUY0M0Ukd5UWx1S20yYnpZR2J5RFVvUHlidWJlNXNrNVItbTdiOXY5a3VjOW1vaHo4TkdhM3RCVl9jMEdSekpPZkpOVnplUVF0Szg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-10T07:22:54+00:00",
-      "summary": "Family sues ChatGPT-maker OpenAI over school shooting in Canada  seMissourian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Wall Street “Takes the Temperature” for OpenAI’s IPO—Are Investment Firms Unenthusiastic? - 深潮TechFlow",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHemVxbHd0Y0VQSW5yY0VwbXNmMjQ4akJOX2U1Y2dzN1N1S1JVdDNyYlI1S1VQTHBERDRWaUpRaUppaVJYdTJobVVLWnp3RC01aGtWSU5WU2tFUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-10T07:02:05+00:00",
-      "summary": "Wall Street “Takes the Temperature” for OpenAI’s IPO—Are Investment Firms Unenthusiastic?  深潮TechFlow",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
