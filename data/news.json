@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-12T21:59:16.293106+00:00",
+  "generatedAt": "2026-03-12T22:58:25.212921+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Altman Grilled on Capitol Hill Over OpenAI Defense Deals - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFpGUFJGOFN5LVZpb19XaDByNkRtY0hJT0liYWtXc1lMc3RvNk1MdDBRZjVLV1N1MjBPY2NGNTZTWkxEcENzRTQ3NG5mTFBKcXYzZ0FUc3RvNmdYcFduekR6bzJRcTZUdHl1UTc5SnI5Qmo5YTlnc3JYa3dsX0JoWnN1MkNIY0pUSGVSYkFwRGZDWTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-12T22:13:00+00:00",
+      "summary": "Altman Grilled on Capitol Hill Over OpenAI Defense Deals  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "SGA to censure Board of Regents for contract with OpenAI - UCCS student newspaper.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0dnMFlfaVFWaDFnTkNMeGpkS2dnd0NmZHNkSFJmVGcyNXlpdExpM1F4cE14SGswdlRjUFZHLWdpUkRwLUVoUURiUURaSFRHM2p4UDFmaGZnWGVuZEFrNWowdDJpWUJzM1ZrSDNZRzN4NG5NNHlGMGthVWdJT1U4cGtrb01IcnZ0?oc=5",
@@ -47,15 +56,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-12T21:13:45+00:00",
       "summary": "Media Company Gracenote Takes OpenAI to Court Over AI Training Data  Fine Day 102.3",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman Says Intelligence Will Be a Utility, and He’s Just the Man to Collect the Bills - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOVA3UnlxNFNQbGRvMHFGWnZTVnBFZTJCcGJwaDJkb05pSmtyV180V0dBUnRRN0tsYmdwellpcTFTSjFaalpPZGE2TzlRV0c1b1EyM291MFk0WFB2TjV2d0ZXZnpZWGRkajRldVpjS0RYZjh5Yy0xa1dFMWhPenRvSURfSmZrSTlIUUZhQ25meVVFYllYU25nMGozMnZYT1lIeUZGMWtfR2hDRFZ1dU9DR1lrdV9fVWVMQm1v?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-12T20:55:04+00:00",
-      "summary": "Sam Altman Says Intelligence Will Be a Utility, and He’s Just the Man to Collect the Bills  Gizmodo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,15 +159,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI to Fold Sora Video Into ChatGPT as Rivalry with Google’s Gemini Heats Up Ahead of IPO - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVkFjYWNvQ190V1JCeUN1VW53eG96ekVkZ0xXTTU4MFBJN0RuREJUd3pVR2w5bi0xVXdReUtrTVVmTkx0bUVCZUZLUGJ4amd2VndraXZYN0tYMUN2b3I3SG1TTEFMUEFVejRVdGdIOEZPaVBya0U1NExVWTFKdEdzbXRYd3NzbHMxaUowOWx1RzNWaHRBb1JvV1RMalgyVWZ3cXUwQ2t3Y3lLZmlsOHVqbkNNRDBIQndjajg2X1NrcWF3bnN0SDdlSkpmTU5zX2hyTjdweWN3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-12T16:31:03+00:00",
-      "summary": "OpenAI to Fold Sora Video Into ChatGPT as Rivalry with Google’s Gemini Heats Up Ahead of IPO  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Perplexity rolls out enterprise AI agent tools - Axios",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmRjAtbmJVeWQ3RHp5QlVUZHFsRXFJS09HSlk3azZoUll2NGc4V3BKQnpLMkVFaUVFMDZQRlZGZXIzWkZoc1pZUE1pOVNLdVVWd2JGaDFCTlFubUZsaGw4ME44NUphRXRIWF9oMU5aYTFNSWs?oc=5",
       "source": "news.google.com",
@@ -220,6 +211,15 @@
       "summary": "Perplexity pitches a more secure OpenClaw  oodaloop.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "The CUDA Power Play: Nvidia Is Investing $26 Billion In OpenAI Models - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeXJ6Y0dmaXJiekluUXcyMDN1MzhDVGVVejZzbWRjYUFqbS16NmJkU1FjV2ktbDVWM2tCRTlzQ0cwMHZlYl9KRFREX2FWRFEwcmRxc3pUMlh3VWFlQkEzdUV1QUVhUjFlWEg2WkF2WTFfWmNvOHR6bWxYd0JJdGY5R3liTFBDT0RCRDJhZ2ZkMHh0ei1QaHFPVFB2MWRUTmJnNGJVaUpzN09DUEVXUTkzVWM1eWZLb19jTGU4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-12T15:48:42+00:00",
+      "summary": "The CUDA Power Play: Nvidia Is Investing $26 Billion In OpenAI Models  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     }
   ]
 }
