@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-03-13T16:04:56.190159+00:00",
+  "generatedAt": "2026-03-13T17:53:49.135740+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Sam Altman is under fire from critics again for ‘disgusting’ AI remarks - Indy100",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCV0dMNHpuTUxTemxGNDh0LVNFY2taNFVWa0p1UEprRlg5ZDhWX2ZnaC1VVV84T2ZVaVZvaTZQdTRLUVdITlVBbklqZmRzUWdjZE1QUlhyY19IUXZLYjhVMEl2dWVyeU4zcDdfZ0l0bWZKLUdMV3JZMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-13T17:28:45+00:00",
+      "summary": "Sam Altman is under fire from critics again for ‘disgusting’ AI remarks  Indy100",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "NanoClaw AI agents find a home in Docker Sandboxes - TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkk3SzhVamx0R05oX0dmZWFhaVlPRTNnT3dLcTEtSFVzVlNzZVd5dTNhOEZVTHZOZmp3bFpkcnZmcVBvRmFZRDZUVHpxVWZUWmVFZnFua1dHYzdKdmh4bnd4YVVOT0Nib3l3blR4YlJoVlJuZzl5OTBDMVp2OWd0eEF5eDRBX3VPdnVBeTlHRGtxMDJwd3hNNmVfckVtSEI4YmdIS2dQSGJYeDJYelBDbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-13T16:59:17+00:00",
+      "summary": "NanoClaw AI agents find a home in Docker Sandboxes  TechTarget",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Businesses Are Choosing Anthropic’s Claude AI Over OpenAI's ChatGPT in 2026 - Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTlYNjVNczB1R3hQMUtld2xZLV9XTGlOd3ZQSzZCRjVkMVZHNHlucnNrZ0pMcGE1OEVPWjRWME42R1c5THJXTzh5bXgtbG9vYnpYVG5ZZ0lPLVkxZnJjVlhraXFidTBPZGNSV2NmMDRsclpPQk1yalBJTlB3MWVZUXk3VVJzNTN2Vi10eEFDOU9WTXdXX1dJNWw5a3JwRVVBTHdQbkx3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-13T16:57:37+00:00",
+      "summary": "Businesses Are Choosing Anthropic’s Claude AI Over OpenAI's ChatGPT in 2026  Android Headlines",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's first artist-in-residence is launching a new company to turn your ideas into products - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnNHMVBHTElYamtXQlhXM1lSdE9VOUZkUWtNWWRtSE1ITE9PX3ptb19EVXhyV3JBdkhVenY1NUxDcEdLc0l3S1lJZG5TVmRNYlRqa2g2N1M2YjJhaDlkOERaV1F6NEJhVllYd0dJaVgzZThxeUxpWW9KSkdMMDVPUnBlV2k4cE1EVDVDb3RmZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-13T16:05:19+00:00",
+      "summary": "OpenAI's first artist-in-residence is launching a new company to turn your ideas into products  Fast Company",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Nippon Life challenges OpenAI over role in settled claim - Insurance Business",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDFXbjNQenVtVWxjcDBvNHJXNnlQZ0dKMTJ6UkxaZHZDSG5ic2tFV1QtUUNuX0xJNEs2ajRMVGFpNnRoU1lvM2hkTkNSRDlseUtvSHA3U1NYVkwwRTQ5Ujg0MDc5Y1BmNDFxLWNDMkVFTWx0amowdURNRDlJRGZ5d1gzVHNYTGZ0U0hGQU9UMHZMU2NUcWR6ekZxZnFTVGhsRzRGTGdOYk0tVHQ0TDJISlFxaUJoYVpxM1Atd253YkJ6SzRi?oc=5",
@@ -15,20 +51,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Why some former CEOs are skipping the corner office - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblRLRVI2TVFyenptVzBOZEtXc19FNEFVOGVaZlB6TnhVdkZEZVZMY2lsRnhkYW5iWEVIUWQ3eTlRNkpJbUw4NlRPYzZtd1MxQzJ6MUg4Zl82RXpBOHN3cE5DbzBnNEFGaVBuRkp6OWxGMzRsUFd0QkxDcVZtaFZpMzZKMmRsTXZQY2NrVVk3UFk4c1cxUWRrVnZja1M3T1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-13T15:43:00+00:00",
+      "summary": "Why some former CEOs are skipping the corner office  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Avocado on Ice: Can Meta Afford to Pause While Google and OpenAI Sprint Ahead? - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ec2wzN0JQLXl1WlFqaW9VQnZZX2ZITUdsak9JSTN3bzFOaktVOWgzLUxUTUUtT1B5cU5KalFHMzAtWnZsMVlhU0ZpVXJsRWN6c19mMWxpNUxKUEd0dUtLbk5PWFdjXzRUaXF1T1hJcGhOa0g4bDdVNVlfM3I1UQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-13T15:39:44+00:00",
       "summary": "Avocado on Ice: Can Meta Afford to Pause While Google and OpenAI Sprint Ahead?  AOL.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Avocado on Ice: Can Meta Afford to Pause While Google and OpenAI Sprint Ahead? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1p2emJVeW1oQ0lDN25SWVkxNlI4aEhYZE9GS3BJcTJxaVRtOTJwamxNSGctOHFsRWROWDZ1cVJhSXVsQTFEYVNGeXJKLUhzMHVQUm9BT040VGxpUW5XUmZGY2ZfMVNBaHV3d3d5SEFuSjRiUzBQMnpBNWpfZUNVXw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-13T15:30:52+00:00",
-      "summary": "Avocado on Ice: Can Meta Afford to Pause While Google and OpenAI Sprint Ahead?  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -47,15 +83,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-13T15:22:13+00:00",
       "summary": "Sam Altman says AI will eventually be sold like electricity and water — by companies like OpenAI  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why some former CEOs are skipping the corner office - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblRLRVI2TVFyenptVzBOZEtXc19FNEFVOGVaZlB6TnhVdkZEZVZMY2lsRnhkYW5iWEVIUWQ3eTlRNkpJbUw4NlRPYzZtd1MxQzJ6MUg4Zl82RXpBOHN3cE5DbzBnNEFGaVBuRkp6OWxGMzRsUFd0QkxDcVZtaFZpMzZKMmRsTXZQY2NrVVk3UFk4c1cxUWRrVnZja1M3T1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-13T15:01:46+00:00",
-      "summary": "Why some former CEOs are skipping the corner office  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,6 +114,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "China's telcos join the OpenClaw craze - Light Reading",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRW1wN1RMNHNlWUpxSm1GbXZaSjdLYUpRbnNpMmpkRjlZbUF6bzZpaVlzQlpDbzlPNkJhaGo1U01PMzRtSFpLUnhxdUlJendLc0FaY3BDQmJOdjlJb0NFNnh4ZXlUcGNMc0FiaHktM2tHb25POUZ6a2tyWG84TTA0SU9ZX3QteUJSUDhfSUppRno?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-13T14:38:31+00:00",
+      "summary": "China's telcos join the OpenClaw craze  Light Reading",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "OpenAI, Oracle data center would be fined for construction truck traffic violations south of Ann Arbor - MLive.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdHc1YWdZNmczNThMRU0xdDZWaWd4OWpMekRpWWFIU1VkbzYzR2FRY0JGS2NwQlJlM2FoWnpmc1R1ek5HUk92Y1VMRHlmVVpFMzM5Y0JNZlFvb2dPUlRYdHU0SXAzSTVIdjNBZEgyZFlNNkV5WGJWN3JUczd6QkNwZlVmQzlvOFN0YnJndWhraGw0SmxGVU8zdzl5dEFFeXc2NHNoOFpYNGRWTExyUFRvdVd2cV9ReWpJX0NFQXZUcTVEb0JMTHhweFRrWk50ZHpSc3hic2loWDlWM1RpYXRlcmVQV3VsUdIB-gFBVV95cUxOVjltaTI3T1Z3R181a3Qtei0wSElXOVRNMEhKY1M0Y1ZBcDBiOFZkcVFORExXSlZENWZDcEJuWUpLWW5VSGpDRHVGLVV0MkZOYWNHaDhVZlczME8zUGU2UXBMNWpTZENhWEdNUUNEOXFwc0tndG91Zi1jQW1aaFZHWlc1NW1QQ1VkWXFXVktkQ1JJakQ0YmRxZFZGaXJLY21aQnN2cWIyeEZsazFBbVVJVHRFSWNyLXdYaGhPUjJEYmRLRFp5THY0dVgzV1ZSQ0tBY1liTGRTWGVRcFlrUGgzaEdmQnpFMlN6T2lXVjFQckI0T05LOVlMSEdR?oc=5",
       "source": "news.google.com",
@@ -110,6 +146,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-13T14:08:59+00:00",
       "summary": "Alibaba Launches OpenClaw AI App in China  TradingView",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Why Is Alibaba Stock ($BABA) Rising Today, 3/13/26? - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRktVa2dfdHl1NW5LSUV6ZXRDQkgxNVNRdzhVZU9BS0VNSC1ZNW1TRDFBYU5JMzhwNWZsMzNzQ1N3YnN1Y3JXYXJobFF2aUIxMV9YbjhZNzZjV1dfcHFuQVJlZVdsNU5jSlBaYkpheTMtRmgzdkRVQjFiZnJqcnpzb1Y1eGJ1NFkzZHFKNmNvTmFHdHhYaFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-13T14:02:35+00:00",
+      "summary": "Why Is Alibaba Stock ($BABA) Rising Today, 3/13/26?  TipRanks",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -141,15 +186,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The relatively low cost for cloud deployment of OpenClaw in China, subsidised by big tech firms, is one factor behind OpenClaw's popularity - IslanderNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVHNVYTRqQW1pSU5tNFFFVnA2OGZaREJnS2V5c1VVbUMzbU9Oa2c5dk1SOFVvcGJfeXJKSk8teHpwQmRkZ3diM2RfbUE2ZFNKTEhRbXExNFdNTGY2NzZRcjBvX2hYdEFaRUswMHBQNzRvZ2dSRXZ3Ul9nZEJSTG94X05tam80X0prTDd3M2N3SmdpZzVWUGVkR1FWdWt3a09Da2hqMkZiQU5JRWRiYWFfMnRDbks0S2N4RXE0RGtOTWtVTXlJZlVkLTRiU1VkQnlOdzFkTHhyQlRnaGRzR0cwdlJHeDZ4SFhucXFGM0lzOU1kOEVSelE4cUtYejVZcG1DcEFmRXFrX3M3UEk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-13T13:04:58+00:00",
-      "summary": "The relatively low cost for cloud deployment of OpenClaw in China, subsidised by big tech firms, is one factor behind OpenClaw's popularity  IslanderNews.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "Paving the way for a new and improved ‘Dirt Alley’ - The San Francisco Standard",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kQXlaSktwdTRnNEdVdWtQNkJnWkdqVlJLMW5KVjZPay04QkVFTE05V09ocmdyejNGZm5zSmhzR2ozOG5FU1FJSkxaSnR3QTltSDkwZ1NWbXB1dmsxYU5DU2wwTThDcXc?oc=5",
       "source": "news.google.com",
@@ -168,56 +204,20 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "OpenAI’s original VC bet: How Vinod Khosla stepped in after Elon Musk balked - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2JUVmFyb1hremJhMTU5WjM5QkZpM2NMSWZhcjVTdzk4SGxQRWRpZTRMeDZwN193bVRJWGc1Z21JOC1uRXdUQjdrMmk5NlhFVnJ5N0FGMHAyYjZmeFJnQU80RS1MTC1Vd2l1NnpqUmEyRkpZTzEyd2w4OFZ5c1NMalg3TWdmSGh5X1gySWgwb3VwQVZxcWxqWWh2ZzF3a2JvUkI3a3EtQlQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-13T12:55:00+00:00",
+      "summary": "OpenAI’s original VC bet: How Vinod Khosla stepped in after Elon Musk balked  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Big Tech Moves Into Moltbook And OpenClaw Sparks Alarms - findarticles.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdjlqOF9vSnJnbFJhRjl1YzNSNG5IbEItN0hWMEVIb3lpSFFKWGc0UkJUTzZsTU5hd1BnT2tSVFdTcTdHbjk1V0IxRl85eVBZZUtIRlpKVHJnUTd6VmRSdmdIRTVJcS1RUU5IczhBYjZIcFViV0hyRE0wMHl1djUtbVJkMWlLYl9PWDJ1UW1n0gGWAUFVX3lxTE5SUDdPX2xudE4yaldJYWp1Z3JVc240Qy1kd0JyTE4tTkhoYnZpMDNuWlJvc2pXei03QmVfeVdNM1dYdF9oa2dHYlpSbEFlc1Z4NUZTV3MtTEdIWEhsUVBlM1RUNWsyZEZsOW50UENCQzFTVTRpWWtpbGJGYUEzYnBfdkRKN0ZlbWhqNzJoaWpYQ2k5RnBYdw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-13T12:01:51+00:00",
       "summary": "Big Tech Moves Into Moltbook And OpenClaw Sparks Alarms  findarticles.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Why buying into Moltbook and OpenClaw may be Big Tech's most dangerous bet yet - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRmJfQUljY0J6S2VnU1NJQ2g5Q3NVcHNhZk5wOTc4ckxSV2pHbnBPWXlIT2VPZ3hxV2tjS3g0NTlWYmlVLTFwVHJzTjltZ1c3dlk1MFlFazdnS083ZXVOM0pHZlVtZWlmZ1ZRS0ZYU2RNRzRLYUxzQkM0ckgzNUZGY3hKYXEtdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-13T12:00:00+00:00",
-      "summary": "Why buying into Moltbook and OpenClaw may be Big Tech's most dangerous bet yet  ZDNET",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Experian, OpenAI Launch UK’S First Credit Score App Inside ChatGPT - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMDBucUlVbWNSb3FGVk10OTIxZlRRa3ZfTnc5dlg1Q2VnTV9UT3JybFlVTTVVR0VlRkszOVVTS01udnFiR3Y4bzh0UVR3blFNOWpsdzdEVTk5RzExdHFwTFp0d0RxX0FSY1R0TTZ5a1Zja1hFQUgyeTBqZ01wU0pZUUZCZm1HWU94M1c0V0tYajRuSkJ2aDVYRkd2YlJ6bEY0cTV4dnVqZ0JXMi1TWGxXRUFYVWZtMGJ0MWlpVno1SFNpYzBJeVAwQloyaXhnUjg0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-13T11:36:35+00:00",
-      "summary": "Experian, OpenAI Launch UK’S First Credit Score App Inside ChatGPT  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Ginkgo Bioworks show how AI can accelerate scientific discovery - Scientific American",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR28zMW1zOUpkZVRuNXQ2TDFFaWlSVVhMYWhab3E1czQ3akxyOGV4YkxGMW1vVXVJV252N0x2MzR5Ty1TZ3ZuS0Y1cjNPU195d2gwVEFqbEZjSG8weU5lX2ZjZXhxZ1V3SGpSTUF5VkFJX2hNdkVGRkJMVTdGcWRTU2N1SXJCVjZEcEdYLTJTd0dBWGRmMUwyeDh2NEFGMlp6UjRaY0lnMEs3Q0hqSjI1ZGRlSjNuY0daWnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-13T11:30:00+00:00",
-      "summary": "OpenAI and Ginkgo Bioworks show how AI can accelerate scientific discovery  Scientific American",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Jefferies Raises PT on Shopify (SHOP) Following OpenAI Decision - Insider Monkey",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjFrMV8tZk9FYnRqeUp4VmIwUzItemZfQnlfS0RUZTVFQ2NObnBCNlZJd1JRM190VXZGSjFzQkpVbG1nRUNoUnhtWkRYcG5VcWlPZC1FUlZ6ZGsteUdhMnFzb3QzNGdKVGc2eFBkekQ0N0hCS3Y4RjB6cEhyNlJqTE1PRk9mWTJRZlFvZzIyMHJyLUJGTzRzaldoZkhrODNHREhxNHhaVjXSAbABQVVfeXFMUE9EYl9tUkJFWlAzSTE3Y3NXbTMtSkwzMGdyNWo4UXl1djJKV2pDZEdMMGFpaXZ5a2hFRnNFbUF3ekZ0TVhWSDBfck8zQ29Lb2lILVdkRkdSb0l5LWZ3ZW1QWXp3YzFFTGVBdzRVYnlreHpvdGNfVXFyZzJtSXZJVmlYdHJTQllRQlBwYS1sWk02ODNQc2RkMjBfTnhnSUF4bkwzTzl1QURiQTU5djVkNUs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-13T11:21:39+00:00",
-      "summary": "Jefferies Raises PT on Shopify (SHOP) Following OpenAI Decision  Insider Monkey",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "China bans OpenClaw from government computers and issues security guidelines amid adoption frenzy — nation scrambles to rein in popular AI agent - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUjd3Q2N4SHFuYjAxdmZaU2FqcUJEVl9BNWJoYVc0cWFLbVlXOWlhSUVZdE9pVGRMcVRVaUVVa3BOSDd1eXEybXJJanNCQU5FZlZUMmdpVFpKU2ZnOW9zUlFDQlAtekN0Y0FWMXZDYUVhbktBWW9uRUhsblV4aFdVbmwySTlSd1k4amVwcjFRSU1MSVdsVUotM3RmMzBvV190b0EwYWtaTzlwNDQ3WWd4MUUxQW8xbGtnTXBFZjhrWm1EaUltNEltRklzUlRHRkQ2RmMxcEVMNmgybFJUS1p4WUhfeGhERGZZU281aVduT1Z6ejNNOTR3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-13T11:20:00+00:00",
-      "summary": "China bans OpenClaw from government computers and issues security guidelines amid adoption frenzy — nation scrambles to rein in popular AI agent  Tom's Hardware",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
