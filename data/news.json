@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T22:56:31.112442+00:00",
+  "generatedAt": "2026-03-14T23:53:42.244347+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -65,6 +65,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-14T16:17:00+00:00",
       "summary": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration  The Hacker News",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "AI agents blowing up in China, but security risks yet abound - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54R1VNcVI5OXVJMXpQZGdHM1VKcHdXazZhWThiUk9DN3Z3UkRYZjVzRkpfUDUzbzZkcGY5RzJJZFFVeWRCMV9MVm1ZZmNKMDNMTXlVemJHY0xPX2NMM0VuazFIZGJTOFF3SWFLU3VnUWZqRzJRNVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-14T16:00:00+00:00",
+      "summary": "AI agents blowing up in China, but security risks yet abound  Taipei Times",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -137,15 +146,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-14T07:00:00+00:00",
       "summary": "AMD Ryzen AI MAX APUs & Radeon AI PRO GPUs Offer Stunning Capabilities In OpenClaw AI Agent  Wccftech",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "China’s OpenClaw AI sparks security warnings, startup hype - Tech in Asia",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNGxtdGplZDF6VDl0Tm1STVJtNzdRbTZlekVIVUJLdHpaeFQzWk9LbnBEcTNCOGFucWZlaVFBcXdjemZxaV9qZjczUjg5aGZhT0VpY2N4ZVM4U01oMmx5NTVQZjFfcmRuZDJPaDQyM01WRllxODA1ZGJDOUJuc3p1VEtJM0hQZUlEc2ZOc2NsWkU0Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-14T06:13:00+00:00",
-      "summary": "China’s OpenClaw AI sparks security warnings, startup hype  Tech in Asia",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
