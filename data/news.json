@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-14T13:59:16.486023+00:00",
+  "generatedAt": "2026-03-14T14:58:45.670767+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Sora video generation is reportedly coming to ChatGPT - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83TUEyWmY0OThTZy1UTDJEYTlvaERRWkZ1TXVoU1BMdHpvSlNCRE1EME1kNzdFalZEaExtWTZZRE51UHIxaDBPVXczUWdlZTY3Ry1hM2RWcWRWMTk4aENlZURJb180LUVSNVh5bWkyODhvN0R2?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-14T14:53:42+00:00",
+      "summary": "Sora video generation is reportedly coming to ChatGPT  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Perplexity just made OpenClaw without the security vulnerabilities - How-To Geek",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV25BVW5PclJhdG1oTVk5VWEtUkw5b2VEenNxczk2dEJmenZEMGE4NGRjUERvTUxfbDUxQjNiUTNfaHhucEI5bHRyS2ZNbUlVcjJxUVJfQ3lZSnF3ZHctUzlGX0ZkbHVJbmx1LV9hZm1TaGRWZDU3Szk1TVhzeEZWT3V5WUFDeEZnaEJ0SnhoX2llbTMzVmxtZg?oc=5",
@@ -85,6 +94,15 @@
       "summary": "The Five AI Value Models Driving Business Reinvention: Insights from OpenAI  QUASA Connect",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw Creator Joins OpenAI: Meet Future Of Ads - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzdwUjhQbjhRNjY5V2ZnWVpTcnJiNHVRZTc5YVpDS0VjU2FhdXRzM0dDTGdBOU9ZVGhkTlVhUXVKdWhIZy1GbzBtLUlFY1R4NFkxNVA4djB5c1N5Z3F5aHNCMVpUQy1qOXZhakpzSkxrNE5sMEI3cklSV0drbEp6c1FvVTF4Q0hHUUQ3VWhfQ2VJaUpsa1dmalQ2N1NuZFQzU2JTWnV5YmVqUm54eHEtMVYzZWFXYlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-14T08:31:33+00:00",
+      "summary": "OpenClaw Creator Joins OpenAI: Meet Future Of Ads  MediaPost",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "Elon Musk’s Ketamine Use Blocked from OpenAI Trial as Judge Sets High Bar for Evidence - TipRanks",
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-13T21:42:25+00:00",
       "summary": "News | OpenAI's latest deal pushes San Francisco footprint past 1 million square feet  CoStar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Run OpenClaw Locally On AMD Ryzen™ AI Max+ Processors and Radeon™ GPUs - AMD",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRk9MbUtZbTUtbGpVR0tfWUNqZl8tREhPLVlMMXotWDhtb0VGMnhEZmVoTEdaVHVsR0V3RGlBVFlZd0VId1M2aUxxZDg4bUZGcVNfN1IyYnJPUkEzblJyLXZWODhwaHZ4dWcyVHI1SWRlRTFuLU1Ka0VwZEVndldLVnBJVHpHWVZrOXN4WnR6SkVIajJIYWp4RVJRLWZCa09MMFBkeERn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-13T21:15:20+00:00",
-      "summary": "Run OpenClaw Locally On AMD Ryzen™ AI Max+ Processors and Radeon™ GPUs  AMD",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "The OpenAI-Anthropic Pentagon Divide and Its Impact on Agency AI Strategy - DesignRush",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGVjRGIteGd2TzR4YlVUanBlVzJDQXRRb0FySVlWN1JEXzAtX1UxVjlGbXB2aktiUjBrQ1NRSEV6ZGlLMjZVaExySDlNN3E0ZmRDOU5mNlR0ajI4aDBUdzFuWF84VXRoVEZOMXJYQVo3VHpWckJnMXFfaEJEN21NbS05LWUzZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-13T20:44:32+00:00",
-      "summary": "The OpenAI-Anthropic Pentagon Divide and Its Impact on Agency AI Strategy  DesignRush",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
