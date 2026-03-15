@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T20:01:33.419305+00:00",
+  "generatedAt": "2026-03-15T20:59:47.661150+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -9,7 +9,7 @@
       "title": "An OpenAI cofounder 'vibe coded' an analysis of the U.S. labor market's exposure to AI - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmFkc1NXMlBYZEdMUTNCS0R1a1lPQmJzdW40YnJNUUhJaXVqY0xwXzc2WmZydE9TUGlXc0w5RGxVaVFqR2pON0xJV0ZKU1RsbHdkNjl1Ui02cDlvY25jTjJBMDJCbUFBMS1DV290WkVfZ2xJaGttektLdThlQzJSZGhYSUtOXzMtRTM5RzlVQnR2YThlMUx4dGx3V0U1T3BpcWJzYWhXVkpEQ1A5TXd4RXVVb0l5THhRLWpBUUNhLW0wZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-15T19:25:36+00:00",
+      "publishedAt": "2026-03-15T20:22:00+00:00",
       "summary": "An OpenAI cofounder 'vibe coded' an analysis of the U.S. labor market's exposure to AI  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -159,15 +159,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "IM Dominator Launches OpenClaw Quickstart, a $7 AI Agent Setup Course, on WarriorPlus - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVHVFY1lxTVp4d3k1SlNoaG13ZlVlb2daUTltbEdTbXZVMDM2d0wyTTdybEN6MFpOYWRXcjdWTUgtNzR6YW9va0JFTnZrTWJORERweTlYUUI2RGV3cW5ZS1E1YlZrcjdhQi1VdWVwTE55WFYybWpfSFd4RGVPQjdZLXV0czNsT2pDQnNJWkdtWXVDX3BkbFF1VjJyV0hCeUItV1MzdU1VVmEwR2RXUVhjT3BuYlFCYXNuTmdrMmJjOW5GbC1KcmFVMDlwUFQ4WDg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-15T08:40:29+00:00",
-      "summary": "IM Dominator Launches OpenClaw Quickstart, a $7 AI Agent Setup Course, on WarriorPlus  USA Today",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "OpenAI plans to launch AI video ‌generator Sora in ChatGPT - Cybernews",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQellmd2JfTmNKemdvbG5HVWVQWV96SGxIMW51Uks0V3VSbjdDLXpGb0p3eUtaZlFJR29YYzQ1TkZWeG1aNHN4X3FQTS04dkh3Y3NaUkZ4SlNWQWdObGNpeFFudDNmZGkxcTFYVV9JcG5nVkFha3puTmFYSTVDNXJROFJxSnJqYVFpRmZTbGVB?oc=5",
       "source": "news.google.com",
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-14T16:17:00+00:00",
       "summary": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration  The Hacker News",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Perplexity just made OpenClaw without the security vulnerabilities - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV25BVW5PclJhdG1oTVk5VWEtUkw5b2VEenNxczk2dEJmenZEMGE4NGRjUERvTUxfbDUxQjNiUTNfaHhucEI5bHRyS2ZNbUlVcjJxUVJfQ3lZSnF3ZHctUzlGX0ZkbHVJbmx1LV9hZm1TaGRWZDU3Szk1TVhzeEZWT3V5WUFDeEZnaEJ0SnhoX2llbTMzVmxtZg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-14T13:15:15+00:00",
+      "summary": "Perplexity just made OpenClaw without the security vulnerabilities  How-To Geek",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
