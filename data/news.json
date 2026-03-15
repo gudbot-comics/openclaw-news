@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T17:01:17.554193+00:00",
+  "generatedAt": "2026-03-15T17:58:15.429438+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -47,15 +47,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-15T14:40:14+00:00",
       "summary": "AMD unveils OpenClaw to run AI agents locally on Ryzen and Radeon hardware  TechSpot",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Amateur training on OpenClaw surges in popularity in China - 巴士的報",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGhhSFRqM3drV1Zya214RzdwVURMSU5TTUE0SWtQaHRVUjFSTG1COXJRMnpuZHZKTnczQWN2dndYbUNyS21oVEgtV011WEJIN1BvTEh2VW9FUldRQldNWUZCMnc1S3NTVGtJX09NYW82VHdtcG9BUXdfWVU2ZkhBd2c1Ym5hYzBmM0t0aEVoNEx6dE9YVTQ1OVIteWZ4R3lfZUR1LWk1eW1nSXJSWWJN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-15T14:17:10+00:00",
-      "summary": "Amateur training on OpenClaw surges in popularity in China  巴士的報",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -220,6 +211,15 @@
       "summary": "Tencent unveils five OpenClaw agents in race to control AI interfaces  Jiemian.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Key facts: Microsoft OpenAI Stake, $304.8B Rev; Abilene Azure Campus - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHhxaXRsZWJ2ZW5tQ3E0Qm04V1lOV05LcnJoa0Vic0dUSmZBOHN4S2sxSTY1MnZ1WHA2ZFVkbU5PYk9VY2hSaU1XQ1BNclEtUWdqa0lENUNJQWNGVTRtbGJ3UHcyZXNKdEtMMXE4QnN0Q3pBb0lSUmQzNklQa0hSMVVlbXg5Smo4WUkwazJySVFfS0pwakF2ZUdBMjFmTkhTX005dkk3V0dOeWZPRDB5dmUzNzc2ZEtuRlZVR2trSHppLU9K?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-14T20:03:18+00:00",
+      "summary": "Key facts: Microsoft OpenAI Stake, $304.8B Rev; Abilene Azure Campus  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     }
   ]
 }
