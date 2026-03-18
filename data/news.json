@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T22:50:39.717754+00:00",
+  "generatedAt": "2026-03-18T23:27:22.672690+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -9,10 +9,19 @@
       "title": "OpenClaw Is Giving AI Stock Frenzy a Fresh Push in China - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNzBsanFzLVB1Qk12ajB1eHNtMFJMLVZjNkROR25ZajhHZXFhRVd0a1BwWG4zN2pLbGFSMUNOOGh5Zk5KX0x2ckR1LVBYdHdvRXJlUlVFSUNMbGF0UGllUG5RRjNfUTVpX2ZPX3RYdjRYSlREQjROWUw0aVV3QWR3QjJHX2tObjlnSkhoc1lzZVF2RGxQSkVranpwYmRVb3FndEp6TG5nSG95UXdLS2JN?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-18T21:56:37+00:00",
+      "publishedAt": "2026-03-18T23:26:37+00:00",
       "summary": "OpenClaw Is Giving AI Stock Frenzy a Fresh Push in China  Bloomberg.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Acclaimed Broadway Playwright Compared OpenAI CEO Sam Altman to Nazi at Oscars Party - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGw4X25mYWp3bDJNWXFFLV9ZMzFBYVp3RUdIQS1zVllCajdvSnZBZkdhbjV3SldpV1c0V0JKSllyaGtzbEhtSjRrYVBVQ3pZYmNDcFhyQWxpdjBGdERwVGh5WUM0YWZQVGFpdzhWdlBlMkplUGhodXhZRm44X1M4Ulk4cGsxMUVCTFNoZ0ZSVmN4X2gyUThpc2Z1SjVZYzNlZEN2eXNTTHc1aHYtel9mbkNOaGJKUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-18T22:55:55+00:00",
+      "summary": "Acclaimed Broadway Playwright Compared OpenAI CEO Sam Altman to Nazi at Oscars Party  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI Trims 'Teasing' from ChatGPT AI Personality Amid User Complaints - Android Headlines",
@@ -47,6 +56,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-18T20:07:20+00:00",
       "summary": "Key facts: Microsoft flags $50B Amazon-OpenAI deal; trades at lower PEG  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is shipping everything. Anthropic is perfecting one thing. - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYURTTDU0MUh2aHU3bFFVQVVmVnV2S0gxWlNGa2Q4cmZNZURaai1mX0Y4cXk3cUMyTXNoajZLMHNJNy1PV1hRUGpEaWRramQtM0xPZW1pbHRfWHlLdkNFV3VCWkxPRU9VNldhdmJWOHl5X2RfVEU2MGl3Q213YW9pOXExbjR1eTFYZVN5SjhKZjRLRnRMN0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-18T19:48:19+00:00",
+      "summary": "OpenAI is shipping everything. Anthropic is perfecting one thing.  Sherwood News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-18T17:56:36+00:00",
       "summary": "Jensen Huang: OpenClaw Is ‘the Next ChatGPT’ and a Historic Open-Source Breakthrough  eWeek",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Nvidia's Jensen Huang Calls OpenClaw the Next ChatGPT - cheddar.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNV9IQzNmZENJc0NIVFpZZzRrYXBIT0lzcXJNSkVNeWxiRmZPVnZ6VFFFYzVQMFpxbmhsbnUtbGthS3JtcnhLLUY5NmNwdFhCSERGZGxTZ2tnWDFjSVB1VHdVUWF2VENEd1pyOTZhOVJpZGdfNjMzOFBxZEYxejdTUnpfdmNFNXhOU2ow?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-18T17:45:59+00:00",
-      "summary": "Nvidia's Jensen Huang Calls OpenClaw the Next ChatGPT  cheddar.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Is OpenClaw Really the Next ChatGPT? Why Nvidia's CEO Called This Hot New AI Assistant the Future - CNET",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnF3TkY0RWpEcnZtbGVXU0daS0ExcHNMR3VrWEE1ZU1PckpwOERuSUhPcU1yajlkTEJKcTRQaHJwQ2pOeXU5bWFyd29RTUhRRXZLRllDazlWU3lpd2U2dm9BdXc3d0hBZjNPd0VvM0I5Y0theDlhajlGZ2xGSU5iVnhTMV9YZlFrVGdybWhB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-18T17:37:00+00:00",
-      "summary": "Is OpenClaw Really the Next ChatGPT? Why Nvidia's CEO Called This Hot New AI Assistant the Future  CNET",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
