@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-03-18T23:52:27.828847+00:00",
+  "generatedAt": "2026-03-19T01:54:13.441438+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "openai-frontier - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjUycU0yTUtPSEt4TDEyRnVIWW9aV1JBdkNNZGlycGZ1Q0hiS1ZadHo0TGlGdnpCekJHUXN3eEpSQ0RsXzExdDNwN3o2Sl8zZWZSbmN0SnZkeEsyV1ZmcC1qZ3RUUk0yaHd4amtvd21DRnhKZ1BBQ211M0VYWVpRZWJqdThLLW1UeVJsejZaNEVNUl9LWjkydFo4T2VpWF9PSHc5QUtKYkMwakZJSi1BYVhBR1dSY0k4M21XZXdPTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T01:38:22+00:00",
+      "summary": "openai-frontier  Thurrott.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Are Liberal Arts Students Getting a Once - in - a - Generation Break as Big AI Companies Scramble for Talent? - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Zb3lfMjVIMWNBd2RCd0NWNHNoT2Mxb0NrV3VvaEZkMzNvOGg0Z0Q5WGRIcnFEX1B3bHI0c2NiVjFtaDRsMVBPTWI3RnZGdm9WNHdJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T01:02:24+00:00",
+      "summary": "Are Liberal Arts Students Getting a Once - in - a - Generation Break as Big AI Companies Scramble for Talent?  36 Kr",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI’s $50B AWS deal puts its Microsoft alliance to the test - Network World",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRWZWSm1aWXBBMTdaXzN5Z2tzOHN4ODdwc2NqZF9tNm02dWxzWDg0cWN4b0hILXBrWFlFZmo3R0xnSFJPSVVXa1Q1eTlBZXBOZjRUYnZST3RlM2NBU0FpbnEwZUVsV1hGTlVZZlYwS01ZeC1HbUVST0JiR2JFV3FnM01ndTc1eGZoaGpmNzVvREVoMTluZEp6THVKVnp2TGdvRF9qX24zeElQekF5RmhZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T00:59:07+00:00",
+      "summary": "OpenAI’s $50B AWS deal puts its Microsoft alliance to the test  Network World",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw Is Giving AI Stock Frenzy a Fresh Push in China - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNzBsanFzLVB1Qk12ajB1eHNtMFJMLVZjNkROR25ZajhHZXFhRVd0a1BwWG4zN2pLbGFSMUNOOGh5Zk5KX0x2ckR1LVBYdHdvRXJlUlVFSUNMbGF0UGllUG5RRjNfUTVpX2ZPX3RYdjRYSlREQjROWUw0aVV3QWR3QjJHX2tObjlnSkhoc1lzZVF2RGxQSkVranpwYmRVb3FndEp6TG5nSG95UXdLS2JN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T00:56:37+00:00",
+      "summary": "OpenClaw Is Giving AI Stock Frenzy a Fresh Push in China  Bloomberg.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Is OpenClaw the 'perfect storm' of AI innovation? - news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3FZd3h5UkUtTWs2WVhLWjFfRGNfZE5KUEFfWFdrWXZ0aGhPTmcweHJkRElLWGE1YkZNcTd5Z3ZrTW4zNlNfVFQzQWFWdEdEdnE3cVo3SU5JNGZXZEs1bklaT3BBRl9QOVNZSjJMTWdHa1FYRU1HVVRKZzU3ZGptTGpUYWlBU1ZWUEJINXA3QmVseUM3X2ZiUFRUcVZuSkFZTkhJSFlETQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T00:28:18+00:00",
+      "summary": "Is OpenClaw the 'perfect storm' of AI innovation?  news.cgtn.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI releases GPT-5.4 mini and nano to target high-volume AI workloads - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDN5LU5tQmU0OG04YmRodUwxQWU2OEF2cVNQXzBtNEdHbG9uZmxaRDRmZjRubzJhOXpKVmdHYjB5OHdYQlpJYnhXa3JPeEM2WHJUejY0X0pqTkg0RmlweWZwT3gzYkt2NEZyREJ1WEpTOVdpbHdMNmExY2ZuX3RyNGtQdnFudEMza0NzRHU3bC1VemJ3NnU2SVlVSVJBeGFtV0stSzAxNXo3WDNNOUx5clhR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T00:06:14+00:00",
+      "summary": "OpenAI releases GPT-5.4 mini and nano to target high-volume AI workloads  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Analysis: China's on-device AI chipmakers rush to supply OpenClaw, race for edge AI silicon leadership - digitimes",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejRFbHRQU3IyS0xhZFVmeGItamdiT3lSVkNsaF9nb052WFZsU2tmaTRlZ05DVzdfZm5aV05IRjlYQy1mcGM5NGF5Z1hTajlkMDBTbE5VSjVWWmJsWDczcC1vYlFFRUQ4THVucC16c09maGV5LWNCaDFrRHljUWVjWkV1cWoweDJfT2tUYlZzaE9nd00yQXpmaDU3V04zZw?oc=5",
@@ -15,20 +69,20 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenClaw Is Giving AI Stock Frenzy a Fresh Push in China - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNzBsanFzLVB1Qk12ajB1eHNtMFJMLVZjNkROR25ZajhHZXFhRVd0a1BwWG4zN2pLbGFSMUNOOGh5Zk5KX0x2ckR1LVBYdHdvRXJlUlVFSUNMbGF0UGllUG5RRjNfUTVpX2ZPX3RYdjRYSlREQjROWUw0aVV3QWR3QjJHX2tObjlnSkhoc1lzZVF2RGxQSkVranpwYmRVb3FndEp6TG5nSG95UXdLS2JN?oc=5",
+      "title": "Coalition Urges OpenAI to Scrap AI Ballot Measure Over Child Safety Concerns - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNellZcTZNTXQtNlRIX0c0WmhoSlMyRGpNczBjdVd3dmNJTEdUNi1sVXE3QXR1TmhCdW1QT0N1Rmptakxva3VMb0FQdW1CX0Y1X3dKdlVYeFh3UVNzQ05zaXF5cGlGZzI1WXZSQXIwNU81cWF0SXJnMEdRTGtoUzZhSGtidmpYQdIBjgFBVV95cUxPNXgtQWpvWmNfZF9UOFFxaVJvekxXN3U4QlM1WkltU3pDYzI5S2Q5b2djNHJfYlBqMjJtQU1WdndEb3FFb1VoeUMwdDZhd2ptcmlDWHlsdHUtOEhTMElsZENnY1VfeTdSSmo0MGZKZnJSdWxzZW1CS20walNNYWI0bVRwS0lXZmk3akJjZklB?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-18T23:26:37+00:00",
-      "summary": "OpenClaw Is Giving AI Stock Frenzy a Fresh Push in China  Bloomberg.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
+      "publishedAt": "2026-03-18T23:32:31+00:00",
+      "summary": "Coalition Urges OpenAI to Scrap AI Ballot Measure Over Child Safety Concerns  Decrypt",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Trims 'Teasing' from ChatGPT AI Personality Amid User Complaints - Android Headlines",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaHducjJlZVpzbUY2WTJnMnJWQlRRNFhkdmN1blJBNFJuNU1JOFBzeGo1NE83RkZnajAwSlBHWVBQTWZDVTNfM19BQUR6R093UGphSjNKSTVHQWV4eFZFc0lHTnZrMER5WVB1VzJPUlM2Y0JaTVNVZTBlUEp3U21tRXZGUWNHbGxlU0sweHppMF9sZkpXVU1sNlJCc3pTZWRWUE11bkZNLW1qSVI1M2p3YVFfRzlsUQ?oc=5",
+      "title": "Coalition Urges OpenAI to Scrap AI Ballot Measure Over Child Safety Concerns - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcEZONzY2dV9xUTlPb1FuWEVlN0Rxb1BVZU5UNGlod01QOHVod29OMTgxcm50cVFJY2p6UElxV0c3dzNTSlBqbk9DQk1jcV92YWJHWk1WSlBDbDVTU05STkJUNHpVcVpueTVKTHlhNEJrLWl1OWZmbm00OFBmVWkwaFBpSGVYTEl5WlE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-18T21:56:32+00:00",
-      "summary": "OpenAI Trims 'Teasing' from ChatGPT AI Personality Amid User Complaints  Android Headlines",
+      "publishedAt": "2026-03-18T23:32:31+00:00",
+      "summary": "Coalition Urges OpenAI to Scrap AI Ballot Measure Over Child Safety Concerns  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,11 +105,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "How China is getting everyone on OpenClaw, from gearheads to grandmas - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HYlEzNjc2MjlZMENMR2xMU29yY0tlZ0ZScU9LTXpDQlFPT0k5cUxJNGV5RHFNRWx1aHljNGRoczFiRmtxekNlUzlNbDFSbkJFWVhxZzdYcExVRFFyalFaR1JiS09SazJPME5vbW80NE1ITmg4elJN0gF8QVVfeXFMTVc0SnU1MUlIYTFXR2dQUmUtYWc2b0dfMVNBZnpQTWhhMnJndFQ5SjhZZV9fdVd6VEhkZHRjQmstZUxxV2NURDFYOU5Dd0pVN1MzVFVyYUEzcDlvYkdNZS0xbzV6a3dEQ2lJRFVtdzlRRy1pMkVUR3NSaExLeg?oc=5",
+      "title": "Here’s What OpenClaw Agents Are Doing Today - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNdTNBN3h1TTZsb1RzR0Jkd1h6d3ZDUGdqWmFXbUNzc0twRGFxWk9ReTRJckEwa21pWk9WYndCY0lNNU1ZRXN1MkhuQkhhaXFENDhZQ1pwdm1xRnVxbVQ5OTlrQ05tZnJHQ2xXQmlGZFp6R09MQU4zOFJCMW1sQXpxMHJPWnlqR1ZaTmZNN3hwWHoxVmlzbFNxdm54eE95dnZuMW1KVDdBekpIRmN2YXcySndwNkwtNmxPcjRwRVAwWlpmMmN5X2FBOVJTWC1DLWw5UWkzLXpIM0JSU05IV19RVGxrUG1OeDhUYk5TOGd3SGhwU0M4U1I1TDIxZ0JYbEhaSVVvQWxCUFJyalBGbzBna0paM3VHT0ZyTVN2OU5ITjNCdzNPMEduMk9Id1gwZVE3N01pdjBnQk84TDJOalFLZk56dzVYV3UzZzVkSG0tWkdtN3JGelNKeDBOM2ljNGFhQWhmdzByX0l5LTcxTmY2aGhGSkpEM0xTa29CaXhXNERUMFVlYlZzNnM1VGZxb0xL?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-18T20:22:24+00:00",
-      "summary": "How China is getting everyone on OpenClaw, from gearheads to grandmas  CNBC",
+      "publishedAt": "2026-03-18T20:54:00+00:00",
+      "summary": "Here’s What OpenClaw Agents Are Doing Today  WSJ",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -65,15 +119,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-18T20:07:20+00:00",
       "summary": "Key facts: Microsoft flags $50B Amazon-OpenAI deal; trades at lower PEG  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is shipping everything. Anthropic is perfecting one thing. - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYURTTDU0MUh2aHU3bFFVQVVmVnV2S0gxWlNGa2Q4cmZNZURaai1mX0Y4cXk3cUMyTXNoajZLMHNJNy1PV1hRUGpEaWRramQtM0xPZW1pbHRfWHlLdkNFV3VCWkxPRU9VNldhdmJWOHl5X2RfVEU2MGl3Q213YW9pOXExbjR1eTFYZVN5SjhKZjRLRnRMN0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-18T19:48:19+00:00",
-      "summary": "OpenAI is shipping everything. Anthropic is perfecting one thing.  Sherwood News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -90,7 +135,7 @@
       "title": "Anthropic Just Shipped Its Own “OpenClaw” Faster Than OpenAI — Meet Dispatch for Claude Cowork - QUASA Connect",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXM4YmhCSWNUbnRGOTRMQXNBMWhKNnlJYmFpUjh1cXNhc2FCdjl1MTB5ekRoQmdOdUZSLVFnSzB3djBzX2hzeUtVdDNldEhjTmZ4d1ItaF9kNG1TNUNJUGh5MlU4MzA5bk5sTldlNkdxS3NwSDVjbFZOSlFTdnZSWFVMZEstQzJHMTdnSlE4NGpJeWVrelZQeDV5VUlHaVd3MGxlZHVpVVRFdGdkaUNFQnQ5NA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-18T19:11:55+00:00",
+      "publishedAt": "2026-03-18T19:11:34+00:00",
       "summary": "Anthropic Just Shipped Its Own “OpenClaw” Faster Than OpenAI — Meet Dispatch for Claude Cowork  QUASA Connect",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
@@ -110,15 +155,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-18T18:55:27+00:00",
       "summary": "Want a Job at OpenAI? Take This Online Challenge Today  inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI Daily: Microsoft weighs legal action against Amazon, OpenAI - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFVxMmh1VVlDRzl3Nk5SVk9VUFZBUFN0NnFmSFVSenh0UzRFMmpOTVFJRDE0WW9vOVFwcXpvQ21Pd3A5c1Y3LWdwMTRlSGx3U1k3TUtoRWItTXM0dmViaVRlejFXVVJZZWRfclZ1TzBxOC0yb3hvaUszbmUzWFhHLWZnVDBzZkRWSXJKeFJRcFdhWnpjaXFrUjFybW90eDVNa2RiVktnSE9QamRKaTdN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-18T18:53:51+00:00",
-      "summary": "AI Daily: Microsoft weighs legal action against Amazon, OpenAI  TipRanks",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -148,15 +184,6 @@
       "summary": "How OpenClaw is driving a surge in Chinese AI stocks  Latest news from Azerbaijan",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Debuts GPT-5.4 mini and nano for Coding, Automation, and Multimodal Tasks - eWeek",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4M2dLUmNUXzFKcXl3SW13R096clVpNUEtajFwNkR0THdpUnJFT01pajVzYW01dF80UHlxb01xbjdrVDVoc2tMZWxVUHNlNUpVSk9KZzV3UmpJTi0xUDZYci1WOGc0MWNHWnlr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-18T18:33:46+00:00",
-      "summary": "OpenAI Debuts GPT-5.4 mini and nano for Coding, Automation, and Multimodal Tasks  eWeek",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI Goes Before Another Appeals Court to Fight Copyright Info Removal Allegations - Law.com",
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-18T18:15:53+00:00",
       "summary": "Microsoft Weighs Legal Action Over Amazon-OpenAI Deal  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI turns model compression into a talent hunt with its 16 MB \"Parameter Golf\" challenge - The Decoder",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc2dOdXljVjBRbkItVGNtRV9uSHM5alVkelU2TWNuNHlGczljUk16S3ZJLUV1c0ZHdVBGOHFsWTZ1NmF0VWJTQ0p1TGJJLU9vT0xpVl9wOVlVOU9lbmdpT29qTGVyb2hTdzUxSHlYWUtXeHlVRzBpQ0VJRk5ia2FFN0VFUnVYSlFrME5QSElUbUI3WUx5LTFOZl91Q0EyVjZ6MmdPYzhpcVh5TU9hNXRndHZnQ3o?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-18T18:14:48+00:00",
-      "summary": "OpenAI turns model compression into a talent hunt with its 16 MB \"Parameter Golf\" challenge  The Decoder",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia’s CEO thinks he’s spotted the next ChatGPT – and it’s AI agent platform OpenClaw - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXpWNWh0MlY4Tk5RcmlwRktDOGRvS25icFlKeVpIX1NZXzdCeWlmaTZSRTVTQlpENmhWY29VZkRDWnpCYkhrUXprQm54TVVGbEM5VlFDOHdlX3g0SG5nc3VFWUNKQjdsNWQtS0VVMTdNTUhNMTFHcVFoQjdCeVNieTgzVGpGc1QwQnFTemVMRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-18T18:02:49+00:00",
-      "summary": "Nvidia’s CEO thinks he’s spotted the next ChatGPT – and it’s AI agent platform OpenClaw  Finimize",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMC05MExiVXJDMEtRcUVpeUhYRHVHLXBpOWpmUzV5MmlIV3FxbUNZMlZRYVloWm5yMHI5Z1c5QzdWdG1qelkzMl9PM1VVdWVrc0lyUVZwVElseFdTd1F1dVB6TEFOLVZVcFJlYktDaHk3Z3FJSHBZX0NrLWtfMjgwY2w2bWpRQlNmWDhF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-18T18:01:00+00:00",
-      "summary": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal  WIRED",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
