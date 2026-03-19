@@ -1,10 +1,82 @@
 {
-  "generatedAt": "2026-03-19T15:07:38.341494+00:00",
+  "generatedAt": "2026-03-19T16:05:45.256162+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Andrej Karpathy is using his Jensen Huang hand-signed Nvidia chip system to power his Clawbot 'Dobby' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGZ3OW1WbUFZWU9KMTFWWkJpQWlPNUlXT0JaMS15ZnEtLUZlSVQ4V1hoSzFlTFBjRG1EcU5raTJuMUhNQ1JIb1RvNFlzeVVacHNPLU1QTHNGSmNtcE5sNkxXOUphS0F1SHo3cW01aHNCdjUtR0RwOURaT3F6ZXlldUEwWXZ6dUF0WG85eEdQMlA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T15:55:50+00:00",
+      "summary": "Andrej Karpathy is using his Jensen Huang hand-signed Nvidia chip system to power his Clawbot 'Dobby'  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Acquires Astral to Expand Coding Stack - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDNuOXBseGxScGQxM1lhZEdsdHdQd1RjQmp1UmMzUUJWRWl0MmVjMUMyQlJzQ1Z6TEpiSktuSTBWeGxWRi1KMXRDUzJUNjJzMmd5aG1lQTQwbld4QTNsN1diYnlZWVctSFAxTXdHY2I5VjJDc05ORU9SSjhRTlhaZ2FXanRpQ01sRkZJYQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T15:50:45+00:00",
+      "summary": "OpenAI Acquires Astral to Expand Coding Stack  GuruFocus",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "MSFT Stock Extends Slide Below $400 After Microsoft Turns on OpenAI and Amazon (AMZN) - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlhlcUFDQzBhZkdXMlNvM05lR3RHY1B1cGpIbkZid25mSDMyVVc3RVd2djhtdlZoNmZyZEkwamFhVlduZ0NqQVB3XzNWWEZ6eWpZY2VUbVdReW4wWEVERXlHalFZVS1jQWF4SVNSYkZqZllIaC1QNmRqQWJCOXNyaW1kZzJENlROeGZfbGVyenlIaU5HYnpaTGExeVM0UFpyRll1RG1nNnJEajdCT1M0QTdB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T15:50:44+00:00",
+      "summary": "MSFT Stock Extends Slide Below $400 After Microsoft Turns on OpenAI and Amazon (AMZN)  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to Acquire Startup Astral, Expanding Push Into Coding - oodaloop.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdW9WeHJPdW1vLXBOVVlhVE1NNUdueG9RUzYtMGl3WllpcEVMcTBpZGt2Vkw5Ulhvc0JSYklERURESldmQU0xMy11SjM1aklkaHdtVkRBOTMyTUpNNUJFZnNnZHljQjNsZk5aU1BDcm9CTlZyUU8wd056dFhqRFgtS1E5ZEIyQURoa2VEa1NNamp5QlBpc0ZCNkhfLTVVMDlM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T15:49:48+00:00",
+      "summary": "OpenAI to Acquire Startup Astral, Expanding Push Into Coding  oodaloop.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw GitHub phishing scam uses fake $5,000 token airdrops gain wallet access - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFBuaUhvajF2V05JbkFibmlERUJWaHRJVjhQa29DcVlIWkJGQjMtSEJKSTN5QnQtVjE5Skppa01zVzhjclBGNTRxc2VZcmw5MDNadGdEV3B1dzlORWVBYnRDMTBIOXgtdng2VG9uZEM3eFFiYmdrSW0xMDJBWDB4Zmp6Tm55aTVkYUd2M3VXaUM5NkFFOEpKY2NZUnBzc3hETjNPNnNTOERjZ2N4bUFEb29RQnYtWjB3TzBjeGZyVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T15:47:17+00:00",
+      "summary": "OpenClaw GitHub phishing scam uses fake $5,000 token airdrops gain wallet access  CoinDesk",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI acquires Astral, adding talent to Codex team - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaF8tUGE5eVI3d1ZaMVJOcmI3eE96ZXB5WlJyLW5yTkdqMk9vQ2k4UXk5Q2FPUTVyMV9xbzNpaG5OMF81emxIMGFTV0pwMW5GTXZMLUkzM09md1F6d2lOc3lkeEVUWWN6TURpelNISE5FVmt1ckwtd08xamR2RG5KdVFGLUk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T15:43:31+00:00",
+      "summary": "OpenAI acquires Astral, adding talent to Codex team  Sherwood News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "PE Behemoths Eye $10B Open AI JV, Plus More Rumors - Law360",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3F6d091eHhzNDRFLXo1OHFEQTVrZHl2REd6Sy04bEtPUktkeHBMck83TEZVX0lyZEFJYW03MEZLbk1kVUt5QVl1OG40TDdMS3p0dFY5UEd6WWVVcFVDSmJFOV9DRXlHYTROWGJnVFdqM0NYay1zS3BDbzhHbjZfOEg1LXdWV0NxMF9YYXJGSVU1Z9IBVkFVX3lxTE1IN0hQVDE4ZUtJZUdOY2pGUDdXWVhuNHhDLTZVUnNCQ1RTeUI2Nk80SEV2RXY2ZWFsd0FRZENqX3VMMnNrWERYQUozX3ZQSkYtRmJfejln?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T15:14:00+00:00",
+      "summary": "PE Behemoths Eye $10B Open AI JV, Plus More Rumors  Law360",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Visium Technologies Launches TruContext™ AI Governance Layer to Contain 'OpenClaw' Style Autonomous Agent Risks - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzAtdUlqTXkxbF9qQUFMZ3p4akpMNktpVy0tcXJQdzI4N1FwTF82NVZVdHZyQnpOcmhtMUpJb2x6OW9ZZUlER1cxUF9MWU1VSVRLSGtyd2E1VGdUbGN3YlpzVWF6cXN1MVVfQ1VjTjhBLTV0bXEyTjE3UnhCNjQ2OFY2NUtLZ01BS2hGUG1OZ3hIVW1oMk0xSktqaE9sMlEtOEZ6RHkyS1hTYTJSS2pmYTNnQUl3X1g4NDd5d05VRHY5dnN6aGlUQ1pNOXpMc21iU0UtUVdad0hMR1pSWVg5TjB3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T15:04:25+00:00",
+      "summary": "Visium Technologies Launches TruContext™ AI Governance Layer to Contain 'OpenClaw' Style Autonomous Agent Risks  AiThority",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "AI Coding Startup Cursor Plans New Model to Rival Anthropic, OpenAI - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUjkxS3BGMC1NSVRFaS1mdzhtMTI5cF9DQjhucDMtd3QwTC1UY3ZrRVpLLVZWaHRtRHlMUzNTNzFXWGtoWEdLbmRMb3BFN3RIczQ2MlowT0VhYXdKbWVkNDRVc3B5ZXpGNXpteV93OHRiWGlqODBDcDh0VEVNT1p4UUFvMUV5X0V4dzZhVHcxZzRPbGY3RWJ5a2xyZm9EUjYxNDZIRk0wRjhvamNtd3NPU2N5YTJnWHgt?oc=5",
@@ -96,6 +168,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "'Stay Tuned': Former AG's Platkin Law Sues OpenAI, Hinting at More Big Tech Litigation to Come - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZmhlcnRINFJoS2NLMmZLcEF1OXVneGhJTWpOUDVXaU1mVEdaSUtuVFVmWmhUSVdsTnRMcnRITlBfU1JUZFJnb3RBeGtEZm82Y3JXMWVkMDdmSmRXRUowQzdwTTBlX1FCVl8waUF0VUxJaGRqYTJYYmpRa3hjNmJxbEY1TjluRVJGeVBxMlJVeUx0MGExSWhJZ0VDMVAyZkl5V0E3R2dMbndWSURvTnU3eFgxd05IZFFuSk96TGdIbWdwR2ZtUFlveDNfbHJCN1A2?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T14:12:00+00:00",
+      "summary": "'Stay Tuned': Former AG's Platkin Law Sues OpenAI, Hinting at More Big Tech Litigation to Come  Law.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Nvidia GTC: OpenClaw is the new Linux, says Jensen Huang - fiercewireless.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUVvbW5tLTVEeHg4LWw3QmhUTzdRVUlQR0w2TW9FaEZudktrWUh6ZlBONDR6UmUwSlliV183OXctRlhlczk1VDNSMkVQYWpES2U3MG95TXIzeDB1TDJMdkJCdTF6VVlNZ3FfWWNPMlFsWEoyVDZEM3l6MXdNWlNZemwtU0F3S0pKT0wtWEJvdDN5eU9ZQWZiY053UDV0d3p1SHdFTTVMT3JWSzJDc1k2bVM3UGZUR0w4V3dtOThR?oc=5",
       "source": "news.google.com",
@@ -139,87 +220,6 @@
       "summary": "OpenAI to acquire Astral, software engineering firm  breakingthenews.net",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia packages OpenClaw for enterprise control - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UVmxDd2Q0NEpzVmNKVlBXcXF1NFdZMmFkWGlkaktRLWhqeGdHM3htbWxrQXFWLVRLMWFnNlJfUndLeWtWTTVydi00YmctVXJreDZzTFJITTR2WHZYZF9kZFFBS0R1R28zTi1LcFNLNUEtTnJrcnhfWDJyTm9qUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T13:30:21+00:00",
-      "summary": "Nvidia packages OpenClaw for enterprise control  TechInformed",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI’s Pivot To Enterprise Is Likely A Race Against Anthropic, And The IPO Clock - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3Awc0xhU2xTM2NVQzJqc2VlaGFZeS1BeDh6b3pWaUNPd3k3Mlg2MnFtVXR1V2ZDa2pKVFhsb2lVT2lYR2NyTzMxUUEtN3dja0pjSjYzWVJOQldSMEtHVzU5ekFnYXEydDhKQldSeEhqaml3RWszcWRScGRSdk45eTRSN0Vjakw1eDE4WTdNVWR3elBmbVQ4ZnFua3U4eWphak9WTWR6VQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T13:28:53+00:00",
-      "summary": "OpenAI’s Pivot To Enterprise Is Likely A Race Against Anthropic, And The IPO Clock  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI joins Anthropic and Google in the race for cheaper AI work - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQajNhdWhvazR1RFlJTDVGWlVHUEZIZWxRN2tRMnNmNmpfY2ZOdUVwU1dwUGd3V0dYcUp0dUNGWE0yT0JRVHY5bS1qRERnYWd4UGpPQ1FKMVpCbXY0S0xnYTdvSmgzN0QwV29SREpFZ2FUNWVkai1RWi1PTVNXRTI2MVVnUDd3b0NuMTlpQjFJZEVMbDVyZkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T13:25:50+00:00",
-      "summary": "OpenAI joins Anthropic and Google in the race for cheaper AI work  TechInformed",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Openai To Acquire Astral⁠ - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcXI4ZmdKQ0x3MkU5ZWlfd21kUWN2UUlwZERhcmVWMGFPY2NqdFNPdzNvd3lZWnBVRDFMdnlSd1l4NFRXejBNQkUtT1RhUTdyOVU0Q2tzSEFOVHNiTGRXMnYtNXl1VDRRemV1UzF3eDhTcldYZ0M1cTlvM09VOEUwSUlOZ3FpTTRyRmtrYWxZbWFkUjFILUdxX3pR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T13:06:16+00:00",
-      "summary": "Openai To Acquire Astral⁠  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Acquire Startup Astral, Expanding Push Into Coding - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1RieHpQSGlGclVWWGRHYjBaUlhiNlAtcFFLRWtjUWFONm84bnZYWmM4THhoWExhRENLSzNObXI0aTA0M3JXQUZHOE03dThSSmR2bXVIZVFvXzNsVWdJTndjVHNOQUctM3NzZ0JWZ3dDbWU0M0dVVjVpUExXLVZrODQ2a0VnY1I1OVNrNlV3bHoyVnRhb2FhMWJwX3ZJVGJ4eUFqVEdjcjEzX2RRWXA0SDF0YnlxelBr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T13:00:04+00:00",
-      "summary": "OpenAI to Acquire Startup Astral, Expanding Push Into Coding  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Devs Targeted in OpenClaw GitHub Phishing Campaign - DailyCoin",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mNUwxUHRnRTFfbGJESmFWRFUxR19tV2RESjQ5MXhFMDdTTmhvYzRLQXRySDhBRUZDMl91V1UtWk1NZHl3dGQ3RXJtU0tHYl9UVjI5MEJoOFliZVlPbWhCMjBza2Ffd1ZseXd3bmFjZ0Vra21OVmxn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T13:00:00+00:00",
-      "summary": "Devs Targeted in OpenClaw GitHub Phishing Campaign  DailyCoin",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Italian court scraps 15-million-euro privacy watchdog fine on ChatGPT-maker OpenAI - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTEU1LW1jS0d0MzlPSmMxS1g2Z1dtWmhqRXZKS29LWERydm92OEFXVk1WdzBBcGo0dVo4Vkk1bUVhWm52bXR0bDZQUzhMcVE1RUp1QTJKTm16dnVaQ1h6SFM0NXpwVVc1MDNvaEM0czhJcXZqcTE3TDhwNXl0YnVIU2htRmpMZEtpNm9ZdVhxMEZfRm9XOGwzQ2dIdXRBZ0JfYVE3RkJVVWkzeFZaX093b1IyOUhYODRLUko0c2FCMWVuZHBM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T12:59:38+00:00",
-      "summary": "Italian court scraps 15-million-euro privacy watchdog fine on ChatGPT-maker OpenAI  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Zuckerberg’s $2 Billion Bet: How Manus Is Chasing OpenClaw’s Shadow - trendingtopics.eu",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwWGRHd3lmd1E0M2wtd05Md0F1Sl9NbTRBeHZtSjlMb01qZkZ3eFpES0NhelNSMGx5cE9DVDlPZU9FSnpTcVFUWlc0Y0FLd2ZjbnZkTnpTR0Q2S0ZQVUJ0YU9VOEFPTkZibDlzSEtNMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T12:45:09+00:00",
-      "summary": "Zuckerberg’s $2 Billion Bet: How Manus Is Chasing OpenClaw’s Shadow  trendingtopics.eu",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw AI tool gains rapid popularity in China - Kursiv Media",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHJzMnllTDdXUzZHcEVNTS1LNmpDMVhSV1JlMkNjX3k0bHFCOFRrRnlhTW5wSHppU2VRelRQUlZ0NEpMeFBjbEJQejRsbXI2TVVoa1gtZTljSUNBRzNvSEROM2M3MGlsWE5TMl9ydkxrSEJCZnhIYXQwaGV2SUJkNkdEQWh1NDkwdWZYWnlaSVdjMEY3cHlMN3hqbUJLQdIBowFBVV95cUxPTlBDblR4azVkUUNwNmFuSWFnV1puZnZCWW9icjJMV29NSXFXWXhjVU9FWjl3aEJORS1RcUU0aUR4bDNzLWpwQ0xpRWZTVVk0T005Z1NjZVg5SVg2VnYxdXhyWWhrczlwQTBFbDZMYTRldTRfRmFFMmYxVWUxUXN6aENram5Nam5mdEJ0UExjQXRFNGY0YmJxQk1nbG1qdDQxeGVr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T12:44:07+00:00",
-      "summary": "OpenClaw AI tool gains rapid popularity in China  Kursiv Media",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
