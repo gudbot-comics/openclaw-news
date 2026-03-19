@@ -1,10 +1,37 @@
 {
-  "generatedAt": "2026-03-19T22:45:59.014153+00:00",
+  "generatedAt": "2026-03-19T23:14:49.637612+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI buys Python tools builder Astral - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOamVwZUFaZ0tiUmJrdFRRTjZZeThyVUpPLU9ld1g1M0MzRk9GbDhvVTBmR2haQThoU1Bwd2NMTmpXQko4cGtLY1hYUDV3OFl3b0dCVm9Vc0FKUXZzZENycWJZZ1p3eHVJRFB4QTM0aHRVZHM1TEZyMTRRLWNkLXp1X3hOLVZqSEVXSy1uWUFaZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T23:06:26+00:00",
+      "summary": "OpenAI buys Python tools builder Astral  InfoWorld",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI buys non-AI coding startup to help its AI to program - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFBiQ2ZxUloyR2xnYkc4YVNHY29MVVV1VU93UmIyWVBkWnpQWGNMUWQ5LVd2X0h1WVFOa001dkN5ckFGaWQwd3BZV1Rvd1hiZDB4T2pRcWhQckNFeWVQNEhqY3J1YTdXd1kxSVNvSzYzcnpVVGVSdVhNWk01OHUtWEhMWFJDWnFIRWxLVEdvdS1Ybm9LQ1ZWUUs2MmhyVDBQMDh2aUg3ZVVxdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T22:51:30+00:00",
+      "summary": "OpenAI buys non-AI coding startup to help its AI to program  InfoWorld",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI plans desktop 'superapp' to simplify user experience, WSJ reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkM3RVhJUllwRGlRbFJaU042VG81UVl1b0o1MW9jWmRTN3Fla25aUUZSY3RSZENzWkhnMjh4NDFwX2h3RE9qQ1lpLThpYjkyWGRXLWxLdEZadTV6Q2RER1Zma05pd1ppT21FTGc4X3dIenRsTXNVLU50OEhpdUZCQ0Y2Q1gtcFcyRTljSl9xUzYyd1V3Uk9mLUFDd2lCdnBtRHdDRTNsbDRESGNvb3VYNm5LSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T22:51:27+00:00",
+      "summary": "OpenAI plans desktop 'superapp' to simplify user experience, WSJ reports  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI will combine ChatGPT, Codex app and browser in an effort to focus and streamline its resources-WSJ (corrects spelling of 'OpenAI') - marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONmlocnNvcFEzSHZubWRFakRnYVFob1RoNUJzbjRnWWR5dkNsdFhlTEluNVhhRXpjUUtCUXYtZ0hiSjdPZUt1dlhYcHZ5WWFuallmTmRkeVFORHItN1d4ZmhiMXFBall3UmdjMmZIc2E1U1pTenF2QmdKRzhaT1hqVGlrR1ppZzNOdE5qcG5jRkw4RXMwVjBVdS1OT3hXYW5XWnRWWkFpYWRQZTluOUp2NVFfdEFLWXJHUVJWQUlSOVNSdTJiUVBkZGQwWFp0em5nZ2xhbTlnUFNaTmVmeGN0eXhSYzBrNDQ?oc=5",
@@ -58,15 +85,6 @@
       "summary": "OpenAI acquires open-source Python tooling startup Astral  SiliconANGLE",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Video: Baidu debuts AI 'Lobsters' as Nvidia CEO hails OpenClaw - LiveTube",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWctTUpXbFJ4R3dpQU1KQ3BFTWo5aDU4MzdJeGh4TUNTU0JZekhBLTN5d0hBOTFidGZPNXk2Q0hlMF9rWmxUNkthU2laLTVoNUpWQ08xS3BmTGt0V09ZRFNYMXNVR2RvZE9LZWhkMS16eDFkbTVJWm9xOUVhZnotOXgwQUR5cUFMMncyQk9LTmJPQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T21:11:50+00:00",
-      "summary": "Video: Baidu debuts AI 'Lobsters' as Nvidia CEO hails OpenClaw  LiveTube",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "Cursor Launches Composer 2 To Rival OpenAI, Anthropic - Benzinga",
@@ -150,6 +168,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Cursor takes on OpenAI and Anthropic with Composer 2, a code-only model built to match rivals at a fraction of the cost - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbElIdmFVdjJMSmZGb2pnb1hPSUhlTDdHZWFpeHF3b0dISHpjSnB2RTJXTnJsM0QzTklQTUpVVVBPR2xkeEZCa2tGbE4ycFVjSmVmUElTUjA1M3UtcnRlM29lUWZqUWdyeVc4WWJGRjRWcnJtTHZSN2YxempjVjNtdmdYTGE1NmdZaklxUWlfYjlPRV82RzUzUnJpTEZ4a3VaYVZsMm1MRlpRcGZSTUNjZlFlcm1LTXd4Ull3UGFMaF84VXNYeWRndHJuR1RyS1dfbGFTT19LTU5xTm8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-19T19:56:52+00:00",
+      "summary": "Cursor takes on OpenAI and Anthropic with Composer 2, a code-only model built to match rivals at a fraction of the cost  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "The CEO of Patreon blasts AI companies for the ‘bogus excuse’ they’re using to not pay artists - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbm4yek5qZkJwdXMzNkxENzNNU2xwVVFoT3NmLWttMTQwZTFieUV3YmZtQk9wUmxFSFVkdGdHNzVuQklfV1ladVRIU0lXbDBDNW90MXlyUmhHOGxnXzB0dFByNGRJa2R6bXZFaDllS2lBb3UwS2RhcnpWMjVfT3B3VVRmbWNxcDY3WFFONXJzTTcyOGtaZkdaTzg5RmlOd2p0dm5YX1FFYzM1M2EzZlJMSVZLNHl3MkhsX1pDRjRrY2twV2EtWGN0NTloZw?oc=5",
       "source": "news.google.com",
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-19T18:35:00+00:00",
       "summary": "Minisforum M2 Pro arrives with massive RAM, CPU, and OpenClaw support  TechRadar",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Acquires Developer Tooling Startup Astral for Codex - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcmwzZ0dnX2ticDZxMTN3eFBYVjdCaDFXNF80TThjV0t6YmV5clo2X0JpYVd3aUNydUc1MzFtcEhLTmFaUnVNbG1OZExnVWFla3N4R2ptbXNidnVWRGtDeTQwaGVveTBwZXFpZGltZEJTdEUydFVyWjl4aGd4aWdsRTBuNFI1cTlfNklfTWpZN3NoYi1qbEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T18:15:00+00:00",
-      "summary": "OpenAI Acquires Developer Tooling Startup Astral for Codex  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Encyclopedia Britannica Hits OpenAI With Scary Lawsuit - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnJOMlNSaFpseXVrQ2FsdVp5NmdyN3hhaTJnSHltVUoxZ1RlNHFQeV9ubUdkMDBqd01jVUE0bExVUnhlT2FSc05DVmhseUZQUFNSTU80RHFmMEU1bGJaNVlTeGxwcUNkNWRWN2l0MnhuWFp6ZjkwM0phc0E0Z0Q4UmdiZ3J0UUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T18:06:04+00:00",
-      "summary": "Encyclopedia Britannica Hits OpenAI With Scary Lawsuit  Futurism",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlFjQ0xTNHN4ZU5VNWh3ZTFqM1VFWWlnWC0yb1ZZa0FFcWVITXJGa0NPTmdfQmoyVkw1Y3hLTHlMYlgxakhwR1hIN0lRLTFDQ1QwWWxnNVZqMldiZUNuQmVQa2dYYkZ0Mm5jQWRsbi1Oc3U3QzZRSGU4NU44aDUxLUhQOTQ1b1ZwVkpDNVRPOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-19T18:00:00+00:00",
-      "summary": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze  WIRED",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
