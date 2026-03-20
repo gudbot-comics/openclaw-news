@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T20:48:28.880778+00:00",
+  "generatedAt": "2026-03-20T21:16:04.391061+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -38,6 +38,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T19:43:18+00:00",
       "summary": "Judge for now dismisses lawsuit by Sam Altman's sister accusing OpenAI CEO of sexual abuse  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Samsung’s HBM4 to Power OpenAI Titan AI Chip - SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ODU0T1NaeG9IVHF0TENPOXJXZ3VoZXhvZk50cmZiTlA2MTFaZ3M1NzJMWXU1RldSV2VjM0hvY1RUSkVkbUlEUEJXVnF1YTlCMWRkdk5LZnUxZmlEcDF5b1pMWjN0VDVEcVNCVHBzQlA3bWl0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T19:14:22+00:00",
+      "summary": "Samsung’s HBM4 to Power OpenAI Titan AI Chip  SammyGuru",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -211,15 +220,6 @@
       "summary": "OpenAI is designing a desktop super-app, with hopes of muscling out Anthropic  Finimize",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Airia Adds Enterprise-Grade Security and Governance for OpenClaw AI Agents - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNkZVaVZPZTNhUVcxQXpvMlFRd3d2aXhCbERjb05wMFJpWXFCTXdpbjVqaFRlUlNqbzU3S3B6dG1WRUdwR2Q4RUlidE5FNXlxSzU5UGMzX2F3SzcyUUZWalZpOWt1ZEJQVV9GazY1WUVpYmRMZ1RFYTFQN2dZQ1c3emVheVFRUEptSFNIYXh6Y3cxdmxUM2pBeUF6X0dQSGo0VzZTSEdMaG9aUm41RXVNTWJvLWtkV0JuWkdkNVpzUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T16:42:19+00:00",
-      "summary": "Airia Adds Enterprise-Grade Security and Governance for OpenClaw AI Agents  TipRanks",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
