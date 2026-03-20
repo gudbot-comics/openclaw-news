@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T21:46:57.807618+00:00",
+  "generatedAt": "2026-03-20T22:01:36.243329+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -65,6 +65,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T19:43:18+00:00",
       "summary": "Judge for now dismisses lawsuit by Sam Altman's sister accusing OpenAI CEO of sexual abuse  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Samsung’s HBM4 to Power OpenAI Titan AI Chip - SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50ODU0T1NaeG9IVHF0TENPOXJXZ3VoZXhvZk50cmZiTlA2MTFaZ3M1NzJMWXU1RldSV2VjM0hvY1RUSkVkbUlEUEJXVnF1YTlCMWRkdk5LZnUxZmlEcDF5b1pMWjN0VDVEcVNCVHBzQlA3bWl0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T19:14:22+00:00",
+      "summary": "Samsung’s HBM4 to Power OpenAI Titan AI Chip  SammyGuru",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,15 +155,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T18:10:51+00:00",
       "summary": "OpenAI Develops Unified AI Desktop App Combining ChatGPT, Codex, Browser  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T18:06:03+00:00",
-      "summary": "More! More! More! Tech Workers Max Out Their A.I. Use.  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
