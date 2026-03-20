@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-03-20T08:04:46.770943+00:00",
+  "generatedAt": "2026-03-20T08:56:52.405098+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI’s ChatGPT, Codex, and Atlas are becoming one app: Here's what that means - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRUJRM3I4SFFyUGpDdnZmRWdBQ3Y5d2F6cDl2YUFZMTJSUjMzTmE1NUViZ25vamkyaTdCbUNlcnB4clN4SEJZb3N5TjlfeFAwNWQwSjR5NTZmMGV2X0Y4V0U3Zm1oZ3ZlSm9rTUpfRkUwSWNHUWlYTS1QckttREkxYWRQQzItZkRjZjV0ODJlRXNuakgzN0VESmVoTWJoR0lNdHlVT2xJSVVqaHFETHZMUlRTUDR4Uk9ibjFKTE5JTmtSZ2ptQkhmaVFqOG44YnIzb2x2SkNFZVF1RHJkemswVU12eEZVdWdud19TbWNn0gHzAUFVX3lxTE1UajBPX2x0Qm50eXRoV1FrUlY3c0RsbDdGRHBoSXpEZTdpVF9mZDY4U2tsSlBXOWFON0w0ckYtRGw5cnV0ZGFsRXpfX3ZLWkptbTdpbURuR25adTRCNlZxUHl2SUVPdlI0UExNakczVjdWdUstREFrNEQzdjBxRk9lWi1pYU9obXRyR2lzVVIzbDdybUpCRGtjd2dGNExFODRsSWQ0MndHTXczS1FZV1I3Mlc1N0U4dFhSQ1JfR1k3YndJZkVGX0tQd0tQTXYzSnV0cnh3SDdaM29oUkxYV0puSFV5cXlOYzVjOTdiNV9FZ2Jhbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T08:35:00+00:00",
+      "summary": "OpenAI’s ChatGPT, Codex, and Atlas are becoming one app: Here's what that means  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic Builds OpenClaw Rival: Claude Code Channels - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONERFbGJDOG1QRG96ZzFNcXYtRVNmMFNtRmRrMzh6ZVNHc2I1U2w3VW1IN0NhNmVaQlpJaTNpN2dCc0o5RGZQWXp2bGp2M3NVUW9KdEVkVTg4NHM5Si1IdjlGdWZGeXdVTnc4b1RfU1dTcC1lM2tCM1NCSm5WNFcyZHN4bDdQWUZURWZXUVJNTS00SDNLdmxBRmdVbGE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T08:14:53+00:00",
+      "summary": "Anthropic Builds OpenClaw Rival: Claude Code Channels  Techzine Global",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "ByteDance's Feishu Updates OpenClaw-Style AI Agent - Yicai Global",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX01LOHo3WWRscDNvb2ljVUM0aHJ5U1o1NVNjMl9FR3BFZkcxZWRvRWlrMWZXZDBvMTd3SDlzZ3NmZDdWU0tvb3k3X0tRWDZCM3Y5R2RyVFlJb2FhQzczSk1SYzlpU1A5Q08wNFY2ZTFadWN0OFN2OHVfSlVBeDcyMWdIZTFLUElnWGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T08:03:01+00:00",
+      "summary": "ByteDance's Feishu Updates OpenClaw-Style AI Agent  Yicai Global",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Wants to Merge ChatGPT, Codex, and Its Browser Into One Desktop Superapp - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFFPRUpSQmRWdlRXUWxSN0FoUUNfTDBSREVVZVRldGRLaWVfNUpUcEtMUXNvY0p4VEdRZW1EMlJ3bnUtcHVxRkZvdkY5b3pUSkl6c2ZROXFVWXVMR1kta3B3c29RblRnb1VFOGJIRk5oQ2tGbngtNTVXZG1iM0tLN0Q2RHkwOWRvUTdSZE5nRHlxd2R6Y01nUWJBMDNON2xfU2k0MQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T08:01:07+00:00",
+      "summary": "OpenAI Wants to Merge ChatGPT, Codex, and Its Browser Into One Desktop Superapp  Technology Org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI plans a desktop \"super app\" with ChatGPT - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhZWZKRG9EdmhKRExXRTNBWU9jUW5xSmZfWkRmTVhvWXppd3Q0RDhERDFSbnhWVktHUmhUeHBxT2NTeDNCbFVZZHRtWFd6a2tZRXpid1Fqd3JtakdyQzMxdXI2VUlxSGdmcWkwVldmdHJFSllSWkxz0gF2QVVfeXFMT01aYzFjMHBXUXFIVVl5MVg5OU9OeGRWVlBLV2ZRMG1SeTZudWNOaDBLZU5YbFlPVGtwUC1xRmtIaUhhdU14eW84S2ptYzRpWWZobDVIR3p5S29TSExnWG8wNWRac1VlRGJwVDRRMHVXbUMxQU1Edw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T08:01:04+00:00",
+      "summary": "OpenAI plans a desktop \"super app\" with ChatGPT  Українські Національні Новини (УНН)",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI plans to merge ChatGPT, Codex, and Atlas browser into a single desktop superapp - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQU1zNTRkSGhBZ2VEdFFrWW1QVTNoS0pydkk3bzlkc05nQWZtOWpITV9MNFNUODlvQ0tHQlZkbW1hR2NCQUdFNlVmUWpfRWNKbnJ2YmpoTlFzZEMtbjhKSWk1U0FZTUpyVkNXZk5pTDdpMURVTGZGSHZOaWRiUmtSS3dxTjFQcFplSE9LVGpWVTJ2VW5lUEo2QVNmNS10eWVzeGlFeTQxRHpCaDF5bWc?oc=5",
@@ -29,6 +74,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T07:33:03+00:00",
       "summary": "OpenAI is building a new 'super app' designed to unify ChatGPT, its browser, and Codex  TweakTown",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Adjusts ChatGPT So That It Isn’t As Preachy And Won’t Refuse To Answer Reasonable Questions But Worries Abound - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcjFrdUJIVmVtRFh5MFIxakRuZG9FcXJrWFJSTFhxUkhGUzh6S2xZTHdCUW55MkMtZWliTHNubkVEQVV0QVNzRGx4N25aX3hzWDRqMERNOENnZTJhMzRiUGhlNkdCdzZFandINDNPall6VHZrT05QNlNvdjB5N1cwNXhjM1Z4Wk5fWHI3aXhaOUZrY3ZWTWdzaGN3bzhmRDJZTGIzbmg5MUxWWDY4Nmh4d3FzdTBvcjYzYTNMckhkNmlCLU45cFJaakY1MGNfYlBna29ETFNWNGxmT2ZBU3FILUlSSnBObWo2TVp0ZFk3MEpWd3NVOTVBQUJnaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T07:15:00+00:00",
+      "summary": "OpenAI Adjusts ChatGPT So That It Isn’t As Preachy And Won’t Refuse To Answer Reasonable Questions But Worries Abound  Forbes",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,15 +141,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "What does OpenAI’s super app plan mean for ChatGPT users? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckNJdnpKZjF4TmpzY1NxTnI1enNOV0tEN28wb25DX2o1dGRZUDhjTWJ0UVRoUmxiMjMtb3JNNXE0ZDlTUmFqTEViUXNYSWY2bm1iRkxmWHh1RHpvcHNNdngtRThoTGhlWFZLY1pJekVucWY3a3ppb1drdTNSUjVfMTFrUm53NHd4QzZzSWRvY2JZY3JjMGlVUjdEVGRzZkl3OUFCWjRqTG5ZbmttWWRJdm9sYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T06:07:00+00:00",
-      "summary": "What does OpenAI’s super app plan mean for ChatGPT users?  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Huawei using OpenClaw’s craze to elevate demand for its AI chips - Huawei Central",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM3Nha0pnVGktSzIxeUdETzFzemt4YzJ0Y2t4TVhQb01iTHlPQXpSRVBEY2RIQ2dRVEZhekxZb0dSNjZiWjN2akJ2a2dsQkk2aXpOYjdOYmJ3ZXlLRmdPTlZjQzV0U2Vld3dLSXh1OTIyNmxPLV9XaThSd2ItdFZBdWR1RmRUTDhybWF3cTVJYVAzR1VmZjJXeWJB0gGfAUFVX3lxTE5US2ZUb1laUmhYTjJJQWJzN1dYUkVZU01mQlgwYU5fdlhJOVFzdWxGdkYzMEtuNXFicURCVDJjSjJKbExtajJuZmpMRThWa21MYWhBcDRPaGRxNjJyOUFpMC04SzNpNFpDLVdvR205c0x3cEU0WHY2RU9qa2p4QkZXRE1rTVhBdnpDeVZlR25nMDBkU2tFUXRXVWQ0ZjFLcw?oc=5",
       "source": "news.google.com",
@@ -123,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Plans Desktop App Combining Chat, Coding and Web Browsing - Bloomberg.com",
+      "title": "OpenAI Plans Desktop App Fusing Chat, Coding and Web Browser - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOclJCVE9wMWxhTVlFbzhFaEhDbkhGdlA0WGI0d1Z5X0p1aTJJdmx6Q0Jad04zT290aEtQNWxiQnByeVhfZnE1TDMzQWtqZmNfSzh6aUJHR2wtVGtFTHBvQ3ZFMDdlcmZGWXpCcXpXd0JGYjRHRlI2WmtDMWV0c3l3YVJ0WGdjM29pOWFDdFVCUDA1UnlXUHp1TzZLRmI1WktGUDJnSlRRdlJOeWllUmNVM0tBTzg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-20T04:53:00+00:00",
-      "summary": "OpenAI Plans Desktop App Combining Chat, Coding and Web Browsing  Bloomberg.com",
+      "summary": "OpenAI Plans Desktop App Fusing Chat, Coding and Web Browser  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,15 +191,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T04:28:15+00:00",
       "summary": "OpenAI plans new 'super app' merging ChatGPT, Codex, and Atlas as competition with Anthropic for enterprise customers heats up  digitimes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to merge ChatGPT, browser, Codex into one app - Tech in Asia",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NNjQ3cF9JLTAxZFFqaGp0VXNFeHFFNWV4M25RSlpkOVU3OWZ0WmRlb0lfOXZzR0FFR0xaRk8yUG8yYklzbmNKcnExbEpNVWx0OWdWcjNKMXo0amVZZ0xqb3hRVDhqVVhYblF6MDB4djBwYjhvWWdicnpn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T04:25:00+00:00",
-      "summary": "OpenAI to merge ChatGPT, browser, Codex into one app  Tech in Asia",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T03:58:00+00:00",
       "summary": "OpenAI to merge Atlas browser, ChatGPT, and Codex into a single desktop super app  Neowin",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Beijing researchers release safety detection tool for OpenClaw - chinadailyasia.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wQl85eXFQcFBiLTBGUnk3Yjhkc0xPVUk1RFNVY3pBMlVyZWwyM3Zmb042N0ZxX1RjSWlIUU8tYU9USFUtRHo3VHppT3M0TjBNd2M5VGZIbnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T03:38:14+00:00",
-      "summary": "Beijing researchers release safety detection tool for OpenClaw  chinadailyasia.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI is putting ChatGPT, its browser and code generator into one desktop app - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2Y3RG10RFk1R1ZhbFZmY0FzdFNpM3pUQ3FiM0dXODgtT3o5VE92M1ZReEdzYm0zYW1Tb09OaVl0TTRybFNvQkJHR1VFc3pDTmk5OG1SaUF3ay1SM0J0aWg2ZDI2NC1GZHRycUFMcC1pNzBsYU9xUk5fb3NBM09TX0RLNFhKSS1CR29MUWZoQzZuemE2RkpwSVFDSFU1bUpvYkxENmQyZVpWUW9FeDk1UWJ4TFZ3RThzU0JDbw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T02:57:09+00:00",
-      "summary": "OpenAI is putting ChatGPT, its browser and code generator into one desktop app  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CPaaS Platform uSpeedo Enables Global SMS and Email for AI Agents via OpenClaw Skills - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSUV2T3d1ZkdNb3hWLWZOc25vRUtxb09EWUlXemp5MU9GbDd1X2pEQXE3THRLbGtVNGYyZGR2RkZVb1lYN3RZeDVpN0NPSDl6UEhzckRReFFIc09fUVdOQnI0QURoaXBiQUw1QVc1Q1BWYlExcWpWUVZTeTlHVlNrWVFwRldQWnlEQzM4TDRrYVNNemxNeVByVzVfLUFXWnktTVFIN2RBeUxWRHYtM2J0SVo5dUxuUkMwUURtblc1YUdOMEZqMGFXd0NYeEE4cGwxenpHbGdzcldESDllMGxHZl9pRXJUdGJDZk94ejVB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T02:56:26+00:00",
-      "summary": "CPaaS Platform uSpeedo Enables Global SMS and Email for AI Agents via OpenClaw Skills  GlobeNewswire",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Strengthens Python Ecosystem With Astral Acquisition - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSy1nTjgycUZ6bjFPdFJvWllEOF8zNE51aE9qa2Y3QllyTzVsNUVDWGJod0hvd2FsZDFHaDlWa0MtQmtndV9zd3Z2NG1oT21ON2tidWtCTTM5QkRvWlZET3dHMENubkpfNUNBRHpxaE05Y2xZckZ6Z0dxUVI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T02:47:16+00:00",
-      "summary": "OpenAI Strengthens Python Ecosystem With Astral Acquisition  Quantum Zeitgeist",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
