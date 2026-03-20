@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T23:39:37.731373+00:00",
+  "generatedAt": "2026-03-20T23:57:43.975617+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -38,6 +38,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T22:11:26+00:00",
       "summary": "Britannica sues OpenAI for scraping nearly 100,000 articles  Boing Boing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI acquires Astral to bring Python's most popular dev tools into its Codex AI coding platform - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMWs5Si1VcFk1bVJpdHpuelJUNnAzVzdJYm16bVNMbjVlSm9TNHJPUUN4VnhMZ0xBNUJ5UTg5X0szRXJOeGduN1l6VHNzNENMUmFsdWRfclZ5NDdpUDJxeVZhOGhYdnhFblNtWktBMG9BandlSmlHU1JfZFBvRmtYdy1Sdl9MbXYzeEotU3NWbDhQdkdwOG8wUnp6NnpYcVVvNU5IeWlDQXcwSC1FaVk2UEhCMkxyNEt0QXlhOHR3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T21:34:20+00:00",
+      "summary": "OpenAI acquires Astral to bring Python's most popular dev tools into its Codex AI coding platform  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -173,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T18:20:34+00:00",
       "summary": "Untitled  SitePoint",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Nvidia’s ‘Claw Bar’ was a pricey wakeup call - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1MzOEk0WFdhQXVVN3hWV3VyWENPQVVfa2JQemM0cm5LRERCaGdNQ2p6M3Z4YzVyaVlhNDZNSkhpRnN2VGZiZm84WldFM3NnOFdYaVV1dzZyMTBFM3Q2NWw0ck52bVFQQ3dxazhEN2QxWlRlbUVucGR2Njktd2ppeGFRcUgxak92YnQ4MA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T18:19:00+00:00",
-      "summary": "Nvidia’s ‘Claw Bar’ was a pricey wakeup call  Semafor",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
