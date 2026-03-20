@@ -1,10 +1,91 @@
 {
-  "generatedAt": "2026-03-20T12:02:17.683945+00:00",
+  "generatedAt": "2026-03-20T13:22:18.273999+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Rain launches an OpenClaw and AI agent-ready SDK for building independent prediction market platforms and a $5M grant program - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcU9qRHI1UXN6Zzc0TmExTFRvWUxyX19UcDBjSS1DcEQtaFhHcXVNSDhrUWNOUk5fckVodFoxNjlUanJSZE85bmFuTDFHV0M4c0RGT0VMNy1pX1FPMFBmbEtlNkZuZjJOMlZWT3BMTzU3MkFST3NhTUlYMGhFcEZJQ0dJVmZsbmtKVEZnalhPMk9yZUJZRjRoWWJkRWI4bzhqWVl6QTZZU2xXNEdMbkhBZVVXYkUzaXpoOTJ0WHpJMkh2VnFRcXRKbGhjOVVaWlJncm5zU0w2NXIwSlgxb0RfUGtoZlpBNHdfMHhvRW1BeFhVM2x4cEVjVnlFVnBKaUVZeGNXeWdFc1E1ejN4ZkxJcFFhWmVfZUtfajVodXIxbFZKT0N60gGqAkFVX3lxTFBlaE1lamxPcl95Z1dhUmpBcmw3WUdOd3AtYlpHT0d6c2xXOFdJMzI0a3BITGV6Qi02NkFsOU1rWkstcDU5NVlTVHZYSkFXbFhFbTJIalpJNUZPbmlJbnpjQkNhTWIzUFQ2YUYyVE9KdXc4bDdwNTRFWktrdHVLWV8zN214WTdZQmNQcGFWcS11VlBia1ZGV29OeDkyN1pHZGNXbk56T1I5RmVZTUpxejhQUmxsU2x0OFVLcDdGXzZqZHE5aXZ6MEhCakFSM0dLNFpmaHlxTkZjMGNkUEE3ODU1bzMySHZfd25fMVRnWGJTYkJYcVl1Q1hYYUNadWNfZm9LeGFLUDZZUlpiclJrbjU0QjJEdXNJdFpSQVk4TExTakV2clVHY0NPWUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T13:15:04+00:00",
+      "summary": "Rain launches an OpenClaw and AI agent-ready SDK for building independent prediction market platforms and a $5M grant program  The Manila Times",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "xAI Sends Engineers to Client Sites to Win Business from OpenAI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdjBKUU9iRzZPdnJmYlQydGYtdUJMN01GWERRZFlNTkQ4Xy1KOXFzdDhVZW9WU2NIOUVEQnFHUlRmZGUydmxoNWZSeUU3MklnLWtjb2NQMWZ5RGNsclN6YjU2TkNyS1pEV2EydVU3VW5kaVlGSl9iWkpIWUdyeWtnWjFmYnNsZnE1cjVTbncxY1hOS1l3LXJmU1hMdXdWVGJiZEtCMkVNMkl0S01kSWUzTlNnZ0s?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T13:00:00+00:00",
+      "summary": "xAI Sends Engineers to Client Sites to Win Business from OpenAI  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Airia Enables Enterprise-Grade Security for OpenClaw AI Agent Deployments - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWXhTc0E5TmU0ZnduQndZZjIxT05PVWdmUkZMSElKbC1VS3JEc0hZenRidDZqWFBsSFBZUm9ldzgwUHVIUFBjNDhjcDlKUzE1SnVTTjBuZ09JV2dwNDc0a2lZYW9PTDFhVGtjZWhFY3RwemJQRXN6M2ZIb1lHSTR1TXpUUXZUc280Yk5UYk1BMVVuVWVWTEZhUUFHNkxPdldZOGhkZXJKNEtDRmRxaW1OTlZrVURVdDFrMW8wREUzWDJYOWdnV0VMWFNFSGY3SWVjLThIV3hDR0l4SVdCYV80YzlTNTNBeXg1UlNXVFpJNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T12:58:41+00:00",
+      "summary": "Airia Enables Enterprise-Grade Security for OpenClaw AI Agent Deployments  The Globe and Mail",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Eightco boosts OpenAI investment by $40M to $90M - MSN",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFB6eHdLN3pLS296Z1hpNDlYYkFJS1NpMDctcTE0X2pDdXBUTm1wTWJqakJZaEt2cktWRTNVOGZGbTNZbUVUWnBrSHVvNEx5dkxLREtBbUZ4b29SS3pKdXdvNFBPeld1d2p5OXdkREh3MkxKZmhUbGp2RUR1cFQwbkUxVHlhbTFoLU9hU0pXbTZmYm9VT25RZUVTdjlkWkJMZkllOE1mQU1QemZsRGd2STlGTVJZS0M0LUx4dGZOVWFEM2JR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T12:57:39+00:00",
+      "summary": "Eightco boosts OpenAI investment by $40M to $90M  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI acquires Astral to expand Codex developer tools - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SX051UDNhQ3ZXbkpOcVZKN2hkNmZRdU5WVS11UU1XZ2F0SkJlSzVHR1VLcG9qSDlEZ1o2YUVLUDh0MTMtM0hYc2tVZ2dmSGRHZEJFZE1FcURjV1pYTUpDTnZKNnNrVEdN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T12:40:35+00:00",
+      "summary": "OpenAI acquires Astral to expand Codex developer tools  Digital Watch Observatory",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SpaceX, OpenAI and Anthropic could be 3 of the biggest venture-backed IPOs of all time - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHpFU2pCM2RVMGxhaW5hUFpZSC1vQXlGcWVkdEVJLXpoMGN3cXdVZTRISjN1MTYyV2hhblIxNHBYMjRUN3RjakdXWEJ6YTl4YlhQU21VbTIyNnJOMmRBdDZLRFoyZXFtMTk5V1VDNDRibFNXYWJLdlpMdlBPZUt1N0tNSS1PN2E0T1FlNERhTWJYSzV2N2ZzYlZQaF9Edi1iYy13US1SSXh4SkpkTm1mT2RxSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T12:31:00+00:00",
+      "summary": "SpaceX, OpenAI and Anthropic could be 3 of the biggest venture-backed IPOs of all time  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI Daily: OpenAI Targets Developer Tooling Startup Astral in Battle Against Anthropic - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzE5S2g5R2VrcG5NbW5tN3RWVjZsbWFFdmNkbEJFY1RLTXpfNmVkQkZOYktWY04zVmdjYTNzbEdNVkpfYXU2ajlHdDRwYmFfTHY5eDRzd1Bxa0xwclFYVF95a1RhMHhSR0RJWG9SSHRPRTllNlBDcmdoNkZfSi1SQ2dlanpHREMtbGZzZnhMN2plLUd0ZjZrMnhRdjhTTl9DYUZHVFNZbHB6ekFiNUR6dnZvZS0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T12:24:39+00:00",
+      "summary": "AI Daily: OpenAI Targets Developer Tooling Startup Astral in Battle Against Anthropic  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Plans Desktop Superapp With ChatGPT Codex Atlas - findarticles.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR09LbF93NWxkZEJTYTNkUHBKekVneW9jVk80cU1IWEZxYzZHSnVtb1l5VWpaSGlOY3dycGROR21NN0dsODJmWlFneUFKQlJMVk5aMjZwOEhha29aU3lFMGZzTkpzRjIwMWdrYWpaZ3dmZTFrRVh0Y1BlaGpjNk84SW15bVpKYVpUSEVfcNIBlAFBVV95cUxOb3NiaWJCVmtoWnJ6WENHRzJRVXFnN3FvZ2VsVkcwVy15RV8tQTUxRW9FU0hCeFlhdjByVUVXdVp6aUM0cVNEbFk1cUtJclZucVFSdnRoMHlkdWdURGVjM0R5eFE5TmVGTW5WY0hBeHhRYXdQRjhEZnVtbU9SaFd6Rnlib094bmVSMzJGQmhBRF9HYy1M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T12:05:47+00:00",
+      "summary": "OpenAI Plans Desktop Superapp With ChatGPT Codex Atlas  findarticles.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is throwing everything into building a fully automated researcher - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaktiMXBZbHU1WWV0YUw1c3A1RlloQTJXVGd0eEdQTzA4ZUF2YmZzODFtLWhMU0dKXzkxUXFPOXgwalF1bTlmM3Z6d3JhRzdpeDlZZVRRdWFBeHhTd0dfSUhCUWgwcHVDZkctSVlLZEVjLXdzLW02THh2Mi1DM25SbmFTSlNJOFhTOE9XSERHcFRFbUJfSGFSUDhDSFdrZm43S3FIUnRxVjAtaVpQUVZ6dHVaaWpzMDhFS1haakZ6T1BrU3PSAcgBQVVfeXFMUHl0ZFNoeFlESVdmZHJzTmkzWHQxYmxKbV9KazY3NHpZdGtvMFk5c0VVUExCMU82MmpTX1p3RHJjTDR2VlRBZ01tS0R3TWFBYXV3RDdXLXh4N3FWX1hXWnQ4OEpmcW13NWhybktWdXRFRUxfUldNSGlROEVKTHpwUlhMZHFMTEhJT0dTT1NITEFtV2c5QmR5a3VMaDFMY2Z0LXlCclFWS21DWGxmNjBxaWNsYWZVeGxyRm9Zd1NFUm1hVmxPVTdCVVg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T11:57:16+00:00",
+      "summary": "OpenAI is throwing everything into building a fully automated researcher  MIT Technology Review",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "China’s ‘AI lobster’ trend shows how quickly OpenClaw is catching on - The European Business Review",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVVKbXBLZHpQZ3BCTEgzaVpyN01Da1JOcklVeXRJeWtSSVVHR2IzVDdFZFpVZjNqOUs0cTJTWk1PeGI5VUdsS3ZQckIxeExvWjAwY2JWbnZteGI4YWpac3RzczVjOXlOMnVZcnJCZmRvWlU5VXZFVThUWEF0cnV5RVJzUlQ2Z3NSSHJhcmdGV2ZoYl92cWsyUzAtZHdaZ2pMM1k1aDlzcjg?oc=5",
@@ -31,15 +112,6 @@
       "summary": "Nvidia CEO Jensen Huang hails OpenClaw as the next ChatGPT  varindia.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "SpaceX, OpenAI and Anthropic could be 3 of the biggest venture-backed IPOs of all time - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHpFU2pCM2RVMGxhaW5hUFpZSC1vQXlGcWVkdEVJLXpoMGN3cXdVZTRISjN1MTYyV2hhblIxNHBYMjRUN3RjakdXWEJ6YTl4YlhQU21VbTIyNnJOMmRBdDZLRFoyZXFtMTk5V1VDNDRibFNXYWJLdlpMdlBPZUt1N0tNSS1PN2E0T1FlNERhTWJYSzV2N2ZzYlZQaF9Edi1iYy13US1SSXh4SkpkTm1mT2RxSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T11:33:06+00:00",
-      "summary": "SpaceX, OpenAI and Anthropic could be 3 of the biggest venture-backed IPOs of all time  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI is building a desktop superapp that combines ChatGPT, Atlas, and Codex - TechSpot",
@@ -123,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "ClawRunway Launches One-Click OpenClaw Deployment Platform - - openPR.com",
+      "title": "ClawRunway Launches One-Click OpenClaw Deployment Platform - No VPS or Coding Required - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVYwdHhmYzFwUDNBMGxNelFFcm44czZtNldDdGppS1Y5Y2dVTDQ0bHFqQ2xoUUhPVWwwSkxYUWM0N0ZPZGtZY2dVRnJYcGpmbjZLWmJWYWZvQUdwVnZ4WlY5RDZubGk4SUxyRHJfcWhYYjhFMHpOay1ieF8zZEJTMnRZQXI5ME9LWEVMS3FFNEZPT2VLaTVmemlR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-20T10:22:58+00:00",
-      "summary": "ClawRunway Launches One-Click OpenClaw Deployment Platform -  openPR.com",
+      "summary": "ClawRunway Launches One-Click OpenClaw Deployment Platform - No VPS or Coding Required  openPR.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T09:07:07+00:00",
       "summary": "OpenAI Wants One Desktop App For ChatGPT, Codex, And Browser  Finimize",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "😸 Google vs OpenAI: Battle of the Super-Apps - The Neuron",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hME5OMThWUTFjOU9WUmRqN1VFU1R1ZGREMFFOX09jRHgxczJGdmVKSmhzMkJiQ1k3T0pKcWZOQ3otSWU4ZG9lVjcyOElGcHlvSDBPOVJldXFUZWp1YlJ4NjBNZTBnZ3FRcm83ZDdCc2tBX1JTaV80M0hUVjdOVTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T09:01:17+00:00",
-      "summary": "😸 Google vs OpenAI: Battle of the Super-Apps  The Neuron",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "China Internet Finance Body Raises Alarm Over OpenClaw AI - Caixin Global",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmRaeENQZ00zbjVVZkZ5azdXZEl3RHB1OFh0X1RhdG5KSWpBdk1fQV9aSjV3c3ViVDBUai01eDI4RFVNN2ZqR05BV2oxYnpHSF95Y2pPRUFrb0xhREVOdlhaWXdhdzcwN2lmR09oZXBRV3pvR0gzX3NSczdrTFdVUW02TUUwYkhvVGNNYVNVVzhVdkZoWGxWMkdoRmd0ZjhJTkQ1M2xMLU9SNzlELVJ1YVpB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T08:58:00+00:00",
-      "summary": "China Internet Finance Body Raises Alarm Over OpenClaw AI  Caixin Global",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "China is putting OpenClaw into robots while the US debates the dangers of rogue AI - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2NZNnNIRTFSN1ZWWk8tclhoNFEzb3dGMDhsUmRwY21fX2xWQU1vQkVpdzJ0UEJRMXl1MVU2eU5QanB2a3RnQjF6c1FlSGp0WF8wcDVuLVdwTjcwOUhGZ1Q2V3NiZDhqSHJnTGwxbEtpdDdLWlhKbEt2RHFYQ3VBTm1GUzh3Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T08:33:00+00:00",
-      "summary": "China is putting OpenClaw into robots while the US debates the dangers of rogue AI  Business Insider",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Anthropic builds OpenClaw rival: Claude Code Channels - Techzine Global",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONERFbGJDOG1QRG96ZzFNcXYtRVNmMFNtRmRrMzh6ZVNHc2I1U2w3VW1IN0NhNmVaQlpJaTNpN2dCc0o5RGZQWXp2bGp2M3NVUW9KdEVkVTg4NHM5Si1IdjlGdWZGeXdVTnc4b1RfU1dTcC1lM2tCM1NCSm5WNFcyZHN4bDdQWUZURWZXUVJNTS00SDNLdmxBRmdVbGE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T08:14:53+00:00",
-      "summary": "Anthropic builds OpenClaw rival: Claude Code Channels  Techzine Global",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "ByteDance's Feishu Updates OpenClaw-Style AI Agent - Yicai Global",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX01LOHo3WWRscDNvb2ljVUM0aHJ5U1o1NVNjMl9FR3BFZkcxZWRvRWlrMWZXZDBvMTd3SDlzZ3NmZDdWU0tvb3k3X0tRWDZCM3Y5R2RyVFlJb2FhQzczSk1SYzlpU1A5Q08wNFY2ZTFadWN0OFN2OHVfSlVBeDcyMWdIZTFLUElnWGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T08:03:01+00:00",
-      "summary": "ByteDance's Feishu Updates OpenClaw-Style AI Agent  Yicai Global",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Wants to Merge ChatGPT, Codex, and Its Browser Into One Desktop Superapp - Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFFPRUpSQmRWdlRXUWxSN0FoUUNfTDBSREVVZVRldGRLaWVfNUpUcEtMUXNvY0p4VEdRZW1EMlJ3bnUtcHVxRkZvdkY5b3pUSkl6c2ZROXFVWXVMR1kta3B3c29RblRnb1VFOGJIRk5oQ2tGbngtNTVXZG1iM0tLN0Q2RHkwOWRvUTdSZE5nRHlxd2R6Y01nUWJBMDNON2xfU2k0MQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T08:01:07+00:00",
-      "summary": "OpenAI Wants to Merge ChatGPT, Codex, and Its Browser Into One Desktop Superapp  Technology Org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI plans a desktop \"super app\" with ChatGPT - Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhZWZKRG9EdmhKRExXRTNBWU9jUW5xSmZfWkRmTVhvWXppd3Q0RDhERDFSbnhWVktHUmhUeHBxT2NTeDNCbFVZZHRtWFd6a2tZRXpid1Fqd3JtakdyQzMxdXI2VUlxSGdmcWkwVldmdHJFSllSWkxz0gF2QVVfeXFMT01aYzFjMHBXUXFIVVl5MVg5OU9OeGRWVlBLV2ZRMG1SeTZudWNOaDBLZU5YbFlPVGtwUC1xRmtIaUhhdU14eW84S2ptYzRpWWZobDVIR3p5S29TSExnWG8wNWRac1VlRGJwVDRRMHVXbUMxQU1Edw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T08:01:04+00:00",
-      "summary": "OpenAI plans a desktop \"super app\" with ChatGPT  Українські Національні Новини (УНН)",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI plans to merge ChatGPT, Codex, and Atlas browser into a single desktop superapp - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQU1zNTRkSGhBZ2VEdFFrWW1QVTNoS0pydkk3bzlkc05nQWZtOWpITV9MNFNUODlvQ0tHQlZkbW1hR2NCQUdFNlVmUWpfRWNKbnJ2YmpoTlFzZEMtbjhKSWk1U0FZTUpyVkNXZk5pTDdpMURVTGZGSHZOaWRiUmtSS3dxTjFQcFplSE9LVGpWVTJ2VW5lUEo2QVNmNS10eWVzeGlFeTQxRHpCaDF5bWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T07:37:27+00:00",
-      "summary": "OpenAI plans to merge ChatGPT, Codex, and Atlas browser into a single desktop superapp  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
