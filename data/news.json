@@ -1,16 +1,43 @@
 {
-  "generatedAt": "2026-03-20T07:32:37.486005+00:00",
+  "generatedAt": "2026-03-20T08:04:46.770943+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI Adjusts ChatGPT So That It Isn’t As Preachy And Won’t Refuse To Answer Reasonable Questions But Worries Abound - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcjFrdUJIVmVtRFh5MFIxakRuZG9FcXJrWFJSTFhxUkhGUzh6S2xZTHdCUW55MkMtZWliTHNubkVEQVV0QVNzRGx4N25aX3hzWDRqMERNOENnZTJhMzRiUGhlNkdCdzZFandINDNPall6VHZrT05QNlNvdjB5N1cwNXhjM1Z4Wk5fWHI3aXhaOUZrY3ZWTWdzaGN3bzhmRDJZTGIzbmg5MUxWWDY4Nmh4d3FzdTBvcjYzYTNMckhkNmlCLU45cFJaakY1MGNfYlBna29ETFNWNGxmT2ZBU3FILUlSSnBObWo2TVp0ZFk3MEpWd3NVOTVBQUJnaw?oc=5",
+      "title": "OpenAI plans to merge ChatGPT, Codex, and Atlas browser into a single desktop superapp - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQU1zNTRkSGhBZ2VEdFFrWW1QVTNoS0pydkk3bzlkc05nQWZtOWpITV9MNFNUODlvQ0tHQlZkbW1hR2NCQUdFNlVmUWpfRWNKbnJ2YmpoTlFzZEMtbjhKSWk1U0FZTUpyVkNXZk5pTDdpMURVTGZGSHZOaWRiUmtSS3dxTjFQcFplSE9LVGpWVTJ2VW5lUEo2QVNmNS10eWVzeGlFeTQxRHpCaDF5bWc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-20T07:15:00+00:00",
-      "summary": "OpenAI Adjusts ChatGPT So That It Isn’t As Preachy And Won’t Refuse To Answer Reasonable Questions But Worries Abound  Forbes",
+      "publishedAt": "2026-03-20T07:37:27+00:00",
+      "summary": "OpenAI plans to merge ChatGPT, Codex, and Atlas browser into a single desktop superapp  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "China is putting OpenClaw into robots while the US debates the dangers of rogue AI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2NZNnNIRTFSN1ZWWk8tclhoNFEzb3dGMDhsUmRwY21fX2xWQU1vQkVpdzJ0UEJRMXl1MVU2eU5QanB2a3RnQjF6c1FlSGp0WF8wcDVuLVdwTjcwOUhGZ1Q2V3NiZDhqSHJnTGwxbEtpdDdLWlhKbEt2RHFYQ3VBTm1GUzh3Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T07:36:22+00:00",
+      "summary": "China is putting OpenClaw into robots while the US debates the dangers of rogue AI  Business Insider",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI is building a new 'super app' designed to unify ChatGPT, its browser, and Codex - TweakTown",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd1RqQjVFSjdNMzk2RjJGZTdRVHZOOEFIVXpQQ1RVckwtcndSWVVYVk9aSXpaQlNjZGtmdktpTVJEczA5VWFSZXdzOFFvMzFpa2Zwem1lMF9oUzhwVzJXc0ZUTmE0ZENZSmNNVXpSVnNOY3RLT09MbGJTN1ctZTFfZV9ac19oeDhTR3liUGZQcHgwYWFJcExRMjc3d2JQZFFEYXN1VmszZVl2MXZhS1RJZHpzYUZMUVZZSVkzWkxoT25EeTdGcHZLZDM2MA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T07:33:03+00:00",
+      "summary": "OpenAI is building a new 'super app' designed to unify ChatGPT, its browser, and Codex  TweakTown",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI safety push sees Anthropic and OpenAI recruit explosives specialists - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0dThibzVBMkc1Z3lCcVlwdDFvTFBzWjJmWFJXRkw0RmRsZEdxZWw2d3NMd19Pb2ZLeS1RTTYyYnFiRXVEeG1iTUNQTS1TajFyRUotdVZUVEVuazFldm01cjhaOGl4TXplOGZjVXdFZVdTYXVsR1Bv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T07:00:00+00:00",
+      "summary": "AI safety push sees Anthropic and OpenAI recruit explosives specialists  Digital Watch Observatory",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -193,33 +220,6 @@
       "summary": "OpenAI Strengthens Python Ecosystem With Astral Acquisition  Quantum Zeitgeist",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Baidu debuts AI 'Lobsters' as Nvidia CEO hails OpenClaw - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pZ1BUSkRiT25WbTBvSjI3aThOWS1mYzZ5R0pNSmZMY2VQZEVFQzJMekZFMUlsbmJMWVVUTjQ5Sk5YUU1MY0w4V29namdqem1rZTB0YVRsVjFweWhFRWdCd2tONEoxaUU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T02:34:18+00:00",
-      "summary": "Baidu debuts AI 'Lobsters' as Nvidia CEO hails OpenClaw  Reuters",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw's Future Running Location Matters More Than Its Current Importance - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCdjBia19wXzhFZ3UyTHdoa1VsTjRrazh4bE9FbEhVSTRLbUZMV0NqUnkxU00zZkIwc2JIQmp0ei1zOXhkcE9tMVgycG9Ya1NpU1Ew?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T02:32:03+00:00",
-      "summary": "OpenClaw's Future Running Location Matters More Than Its Current Importance  36 Kr",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3Z0YndXdVNRMUdkMmpmMlZvbTFVQ0dWUkNMZDZway1FMWhtRzhSNEdnc3ZERER3RnBUM1NSUTRjQ3JwVzEzVl9iVUpXY3hHQk5oNDYyVDAwdFpaQTBMU2NBSk1XbnZzWW1FRmY3bFpxSjl6UVNIR0pQcnR2NGJaZ3hEVl9uNkdJUUF2blp6TG5scmM2enlxMERkWkNNT2t3aG1ELTk3TjE5TGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T01:53:08+00:00",
-      "summary": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord  VentureBeat",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
