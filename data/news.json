@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T17:49:11.220098+00:00",
+  "generatedAt": "2026-03-21T18:01:15.826867+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-21T17:42:53+00:00",
       "summary": "OpenAI to Introduce Ads to All ChatGPT Free and Go Users in US  Asharq Al-Awsat | Explore World News Today",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI eyes 8,000 workforce amid rising AI competition: Report - NewsGram",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONjdrT0o4bmE5M0p4clFmV2kwMmZfd1AwSFUtUUZkRE5kSzF3clpoMVpJcmtYRm0wbXJMekxPbTE4aFlYVmFRVmVOSW9lTTQ1ZWp0czB2Z2l1YnNJTWZ6ZWZ0dXV2OGlMVkRHTGdxc3kwQ3cwblBENkd4ODVaSmI3aU5jc2dnVHVzM1NqTzJoejJVd1VHLWdVLU9zUWtUTVFfVnFWbdIBtgFBVV95cUxQR25GU1g0S2pjNk1pMV8yM3AyZTlXUUlmbldDWmRUekNGQXpEcDA3bVQ5YlMwMWF3cy15Y3M0WVVJRlN4RTRVUFFHVzJQRTUyZHNYT1JRX3RmUnJHbmYxQnJVZ05RLXFYRGVZVFBSbHF5Wm85RVJqMGdrOVJSLTdJTGNUUy1RM0w5VXBoNk11MC1WREJhcXJXdDk2cURlcmY3ajV2TjFJZEFVLVN3Tlh4OHgySmlKQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-21T17:42:28+00:00",
+      "summary": "OpenAI eyes 8,000 workforce amid rising AI competition: Report  NewsGram",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,11 +132,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says - Bloomberg",
+      "title": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUtLMHdidXJBQ054TWpaY2thSTNFb0kyaFc5eDRwQW1FX3lkSWkyZndaLXB0UXVOaFE5NkpBdGhqY01Ob2dnZDMxUURrS1RoUW1ab2g2VjZ6TzRCdTVROV9DOUU0TXNBQy1vM3RvZGpreWVmUV9wUlZfaEhaQjdwRjlyelZoMzdWNFpCcG5zOEVBWVF0b0R2RVVncUZtc2czOVN2b0hETlN1em9fa2U1SmV3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-21T13:20:14+00:00",
-      "summary": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says  Bloomberg",
+      "summary": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -211,15 +220,6 @@
       "summary": "UK government yet to trial OpenAI tech months after signing partnership  The Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0N2a3ZOQmZrT2k3d25lRk5HQ2YyS3FSRUdQbXNrdmFtV09HS0s3bEFsSUY5XzRpOGhOM1N5a1dmTEZYYmM0N0tMZlh4NHVEdmhMV1ZidThGSTNRcGFidlBxUkFET2dQVUFybzRBNUFEbUE2MEtJdnBtM0xqUEhMOHJCUTFzZFRWQUZIMzVDX2RzZjQtbV9INjJObHhNSTJzSkNCRVNQeHVOQdIBrwFBVV95cUxPVmVxeFd5UVIwUXJfQTg3ZjByTjVzZnEweEp5QjdidzhPcUF3VkJZa1dteHlfSmRPMno2MFNQLW1oQlkwanUzOHdwemF2dDRXTlBCbjVWcHhjNXFYZ1hENnVaVC1QUnA2N0lGRVlBckZKOVFEblZlV0E3Y29OMFJsMWlRVUxicEtHaUtfdUd2TERkNGxNaXFMOGdnUmxrdFF5YUt4NlV5VFlpblY2T0tB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-21T12:00:01+00:00",
-      "summary": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities  CNBCHere’s What OpenClaw Agents Are Doing Today  WSJJensen Huang touts Nvidia's dominance at AI conference  Reuters",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
