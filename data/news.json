@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T10:28:31.560832+00:00",
+  "generatedAt": "2026-03-21T10:53:51.184075+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -9,7 +9,7 @@
       "title": "OpenAI needs to make money. Meet Fidji Simo, the 'founder-mode' executive charged with making it happen. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGU3bEhna3ZoLWJQNV9wWGdEWkIwaFltRlBaclZZT0I3aHVHNjR6X2tCYnAtcElCazJTRHVSdVpCVHdrZGtSb2JsUldXX2laSXd0Qjl1TDdySVN2ZjU0RlFrd3M0d292VV9iemJxTW8tV3d2U0dFc3BfMEJtdldyZi12XzM2a2lCWEdWaTN1M3AxUm15ZDQ0VWd6bw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-21T10:10:12+00:00",
+      "publishedAt": "2026-03-21T10:16:35+00:00",
       "summary": "OpenAI needs to make money. Meet Fidji Simo, the 'founder-mode' executive charged with making it happen.  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -31,6 +31,15 @@
       "summary": "OpenAI Is Toning Down The Cringe Factor Of ChatGPT But Those Smarmy AI Responses Will Still Make You Shudder  Forbes",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "China Accelerates OpenClaw Integration into Physical Robots as U.S. Experts Warn of Rogue Agent Risks - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUTVZcXpJUDNrenpZSVNSUzliMjM4STBWMk0wS2YxVk01MEI2QlMteGdna3BLNkcxMDRQWmJGQlVQQ3RrTGlqYUM2RGNpbHJndTYyd0NkRGd6Zkt0SElPbEk0SFJkSGxya0dqZnBGR1NBcm9QdnBFMXh2Ukl2dzVvTlJyY2djRzdUTVc4c2R3NWREVzVsdGlqaFVhdHZPNlg3RXZnUndoSUhZcnZwdWNMMURKOUtXSzk3MXZvbFNTX3FWTlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-21T06:39:40+00:00",
+      "summary": "China Accelerates OpenClaw Integration into Physical Robots as U.S. Experts Warn of Rogue Agent Risks  Tekedia",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenClaw sparks hot debate over promise and peril at GTC - China Daily - Global Edition",
@@ -74,6 +83,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-21T00:05:25+00:00",
       "summary": "This is how Atlassian (TEAM) prepares itself for OpenAI framework integration  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s desktop superapp: The end of ChatGPT as we know it? - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORzNrSVRJNWtxVWUtcXE1SWRBMzB6NTc3NHJNT09zUkJhVGVxX0pSRXNFNWFzQ0VNbkI3TVdJRGRjdUZJZkJKNkVaV09aSEZXQVJkbmh4ZV9scWxLMzg1NkRhaThaR1hoeU11RjZkY0FSREZHcDgxZTZzTmxvMzJVUXRyNjNRRVNGSWRWdE5KMGwwQ2tBTmZyOU9ZbnUwNVBsd1l5LXpzQ3NQZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T23:58:05+00:00",
+      "summary": "OpenAI’s desktop superapp: The end of ChatGPT as we know it?  InfoWorld",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T19:07:46+00:00",
       "summary": "OpenAI Plans to Merge ChatGPT, Codex and Atlas Into One 'Superapp': WSJ  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Rain Launches an OpenClaw and AI Agent-Ready SDK for Building Independent Prediction Market Platforms and a $5M Grant Program - Bitcoin.com News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbkVTYVlSVHNkZ2JwelhRMDBPVHhZdXByOXpXZDV0R2xWakcwQmFnVE5iSlpIZUs5bXh1QlJvRVNBc3gtRkFSaFF2RDJHaHl5RW1CdkFVc04wQjNBOERNOGdKQm1NQ0Y2cUEtNndaV2dzZGJLOTM2MVQteDJYVmY2ZFozR2NGZzIxcjA0aXh6djl1bjJWMlhhNDI0ZkE3Z0Uwb1RUd1ZWRFFZNXZETlFYOVJLM1V0NmdQai0zVDRkSFN2T2tTdUlOSjJndVNMMmtSaXBEUmdYN1ZNUTNUN05YWVc3WW0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T19:00:27+00:00",
-      "summary": "Rain Launches an OpenClaw and AI Agent-Ready SDK for Building Independent Prediction Market Platforms and a $5M Grant Program  Bitcoin.com News",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Plans to Combine Its AI Tools in a Desktop 'Superapp' - CNET",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVBUTVBxVFRTM054RExxS0RkckhmZFJlWnNsR0FHZnJtOGQxM3lXYnZaNWl1UHJpVTRFT3dmbHZ4TGhiVlVWN2djUWE2bDZ6RmZncFJDMlJ3QWpZcTl5a0VoRm91YngxNUE2TWI3ZjItMFM0alR2YjlLT2hXc0hxal9VYXY5bTlTblpWbHFaVk1Rb2RocHI2dW96bFJhN0VORGVNcEJRMTk3ajVVYTBSM1dxSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T19:00:00+00:00",
-      "summary": "OpenAI Plans to Combine Its AI Tools in a Desktop 'Superapp'  CNET",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
