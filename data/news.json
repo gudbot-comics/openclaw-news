@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T07:50:47.467488+00:00",
+  "generatedAt": "2026-03-21T08:27:40.312606+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -24,15 +24,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI - NVIDIA Blog",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96Z211SnRyd196S3dfLWM3R1hyVy01a0RSYmNpMzgxNzVRM093ejhiTWZZN29yUnhOOFk1NmEyVERrVE43TThrNTBCMzlxMFBrSEJaa0prYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-21T05:28:13+00:00",
-      "summary": "NVIDIA GTC 2026: Live Updates on What’s Next in AI  NVIDIA Blog",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "OpenAI claims ChatGPT flagged GOP websites as potentially unsafe because of a technical glitch - New York Post",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdEU3SVUzNHBtcXV4Q2piRU9GZXpwYXlhcVNHYzVpMmZKZnR3Y3hPaXRoMTZwdk5iUkM3UEN3bk45RFdvRzF1d3lIMWtJWW5BNXFBNmNxa1M5SjdOTFQwQVRVbzNqV1lNM2tOYWdHZVhBWV9jcGhDbmtwM19qV281R3NTTGVCaldjbDdKd2E2enR3VXh5TTVVZDR5T0xfRVRGOE1KNnliZUxxU1RKaFp0Tm5ySkV5dEFSd1djOU56YzlWMVo1TktSQzNRSmM3Zw?oc=5",
       "source": "news.google.com",
@@ -51,13 +42,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Judge for now dismisses lawsuit by Sam Altman's sister accusing OpenAI CEO of sexual abuse - Westlaw Today",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOV9wYmpaZ2plUjlyYWJwYUpXM2V4Z25fSjNUMy1uMi1GUHNSdUlxcmhOSE9BaG5ycVNoUzByQ2k2QmVkeVRGODhGMU9DeEQ3S2pTSVJCQUUtVVZmVGgzUF84V0RmUk1Sdm9vcWlwTnktb3U3WXhIN3Jxa19XVGI5TERxUDI1Y1BoWjZ1amxWVDJhWndaWFhXbzJWZVhYNTAxVjB0bWtzeFluN0Q0LUNvYW8wT0RlcURQeDJZVkRqWkpsUGc3RFZxV3pQaHFVOVBWSF8wQ2JHaFA2azl0?oc=5",
+      "title": "Airia Enables Enterprise-Grade Security for OpenClaw AI Agent Deployments - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WaDBlN0JZekNIc2hkeUhsdUhxcU5qcGdjY0tiQ05HQWJheTlqMm43Ti0xWEM4aXowQk9WcGxjSXFUMGJCYlEzd3hGYmxsZHNKWjZWNGpSbw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-21T02:13:34+00:00",
-      "summary": "Judge for now dismisses lawsuit by Sam Altman's sister accusing OpenAI CEO of sexual abuse  Westlaw Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
+      "publishedAt": "2026-03-21T01:43:52+00:00",
+      "summary": "Airia Enables Enterprise-Grade Security for OpenClaw AI Agent Deployments  AI Magazine",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI and Google Refine Early AI Commerce Strategies - PYMNTS.com",
@@ -220,6 +211,15 @@
       "summary": "OpenAI Plans to Combine Its AI Tools in a Desktop 'Superapp'  CNET",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-5.4 Computer Use API with OpenClaw: Responses API Tutorial - SitePoint",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTndnYUFhS0t6TmRqckVoMEM3Nk5TeHFZYzhqS3ZWSE5KTVJNV1d1VnJRU1dxQU5raDNFcDBHV0lhZDM0TDlvQVJEN1dxb25qSVRlMXJLeTBEUVVmQXlWcXo0OG90aWZzSXI1YXpFVDlvUnRacERtdVZCVTBHbF85R1UzclNxOTNOdjdVQzVjSFVLQ0k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T18:52:21+00:00",
+      "summary": "GPT-5.4 Computer Use API with OpenClaw: Responses API Tutorial  SitePoint",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     }
   ]
 }
