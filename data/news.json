@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T08:27:40.312606+00:00",
+  "generatedAt": "2026-03-21T08:57:43.888129+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-21T07:42:00+00:00",
       "summary": "An upset Microsoft may have a message for OpenAI and Amazon: If you want to take a bet on your lawyers, w  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is Toning Down The Cringe Factor Of ChatGPT But Those Smarmy AI Responses Will Still Make You Shudder - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcHdxaWxsSE9wYTJTOTJCU19TUFVpaktkaDl0RlRNRGw5UXZCUjFxbXhydDBMX2hXMjRmem4tS1RQOTlCTWhQVkd5Y25zcWJyNEZFeFFIY1otT3o1YTduOHVvUVRJRWM1RTJrM2ltdzBOZzJ4LWV6c0hLVm0tQXp6cERXZVlnaVFndXI5aXB3NkV1N1F1cjlQVjU4bTVCZE9Hd0pPUl9KYzBwWXRCWjZnWGxVZ2VKOWZSRWRVR19KeFUtUXJPR3pwRm96QlQ0MjhtMHlrYXEwWXJMX1k1Ul80SzZCWkxpNzdfcGtBRnQyMUoxUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-21T07:15:00+00:00",
+      "summary": "OpenAI Is Toning Down The Cringe Factor Of ChatGPT But Those Smarmy AI Responses Will Still Make You Shudder  Forbes",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -211,15 +220,6 @@
       "summary": "OpenAI Plans to Combine Its AI Tools in a Desktop 'Superapp'  CNET",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "GPT-5.4 Computer Use API with OpenClaw: Responses API Tutorial - SitePoint",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTndnYUFhS0t6TmRqckVoMEM3Nk5TeHFZYzhqS3ZWSE5KTVJNV1d1VnJRU1dxQU5raDNFcDBHV0lhZDM0TDlvQVJEN1dxb25qSVRlMXJLeTBEUVVmQXlWcXo0OG90aWZzSXI1YXpFVDlvUnRacERtdVZCVTBHbF85R1UzclNxOTNOdjdVQzVjSFVLQ0k?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T18:52:21+00:00",
-      "summary": "GPT-5.4 Computer Use API with OpenClaw: Responses API Tutorial  SitePoint",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
