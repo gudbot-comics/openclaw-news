@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T19:57:08.513237+00:00",
+  "generatedAt": "2026-03-21T20:28:51.591835+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -96,15 +96,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic’s response to the AI tool that caused lines around the block in Shenzhen - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ScW04eDFJQTJnZjdKQ3J6NE50SmlqOWZ6Mkg2QkhFenJCTmw4aG4ybkdfd0dVcXVFY3VVTHRJa3dDQzF0RjNUR3lkb1BWd0VNQnYybENVUThLZnV3UFBkd2VRd0RnZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-21T17:03:09+00:00",
-      "summary": "Anthropic’s response to the AI tool that caused lines around the block in Shenzhen  The New Stack",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "OpenAI to expand ads on ChatGPT to all free and low-cost users, The Information reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0Z6RmVXNUliSUVTSTBsaVAxMWtJY2NnTTNvdVVGdl9XM1NYN2xzTHo4cG9XcGZxM1lzQkpMNHpsZUJUZkszZmVkN2J4ck5ZLWhJZS1XN3lPMkh0TmcxRldIZ1lCTmlzZkNXVHM5RmY2cDJrZ0JUM2hUZF9fMUFqalIxWWtiaVNMRkx3U1FJYkZ1cjM1TTdoSjZNOEJpUVN1U1BDY1J0VmRPdGhLUm1XblVKWnZLODZJaFJQbkI4UmFiSE54RzNF?oc=5",
       "source": "news.google.com",
@@ -177,6 +168,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI plans major hiring by end-2026 to close gap with AI competitors - Jang",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFZ2RlBLZ1VieGJMRDYyQkU4UXVNNThEWnV3TnA1YlZFZjRoeFJIUDZMY3NHSk5uTjJDenZZU1FDOFBQT2xYSU41cTBLZ3JFUGdvaXFBSzljNm1Qby1DSFRkYi1Vc3ZEVHZtM3BTSkFoZWg1MGx5YXhPYi1NSHBQMjNDTzFMVmF0NjI2cmZqNTNUYnlkcmZKYVpRMURqV3RTdVhBZDl2RQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-21T14:03:08+00:00",
+      "summary": "OpenAI plans major hiring by end-2026 to close gap with AI competitors  Jang",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "AI boom? OpenAI set to double its team by end of 2026; new hires to be deployed across these fields - Report - Mint",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQ0hvTkRGc0VETmlPYlJCZlNNemJwMk1fZDAzeU1QdER4ODZ6M01zZ3EzWHdtSHo0ajQtejhGMTEzX2JNTUprWGRkM3FBNVJ4YmFmX3MyR2dxNVJyMWtVdERVV2x5cUFzU2FvaUo5SG8yVzZnaTJxWnl2bmxfcGtPVjluWjAtNF82X2ZpSXBoSTZzdW8wVUJLTzNOb1hCTTU4TlFSbE9HdEtHalowaVNGTUZDaWxaZEVlVVdJYktSd0ZpX1RVNFBUNnJHWDFXRlVFVHRYWkxXdDNjcEZOSS1EU0hvU0dQOU9DcFpEOVF4M1hhdmFSUnVv0gH8AUFVX3lxTE1zTFJEcFF3YlU4al85ZkVwQ1FRUjgwZU5FdjkwV0twVTZCTldpcEFZcDBka01LUi1NRGdwXzNNdE05T04tMWJuNjBGR0NUb2J6NkpQS0RheU0tNFhfektWeUF2SkNJY1FzSFBLeWNNa1J4SFBMeWVab1RBaWpYU0xfRDVBc3JNZVVHZVByd01SQWRuRk4yNnFtMzRVd2p6RXNtVmctNC13SXlrNUVFOVpLSThNUXp1cXZncGs5SC1DZ3hIRnYyZmN3Q09LTVdKNjNHLS02dDNZdWhoZXgxdWN0U1lDOUNJRWVWUFVHTU1PeTdId181R01BbVVQSA?oc=5",
       "source": "news.google.com",
@@ -195,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says - Bloomberg",
+      "title": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUtLMHdidXJBQ054TWpaY2thSTNFb0kyaFc5eDRwQW1FX3lkSWkyZndaLXB0UXVOaFE5NkpBdGhqY01Ob2dnZDMxUURrS1RoUW1ab2g2VjZ6TzRCdTVROV9DOUU0TXNBQy1vM3RvZGpreWVmUV9wUlZfaEhaQjdwRjlyelZoMzdWNFpCcG5zOEVBWVF0b0R2RVVncUZtc2czOVN2b0hETlN1em9fa2U1SmV3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-21T13:20:14+00:00",
-      "summary": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says  Bloomberg",
+      "summary": "OpenAI Plans to Almost Double Its Headcount This Year, FT Says  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
