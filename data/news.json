@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T05:13:12.851612+00:00",
+  "generatedAt": "2026-03-21T05:55:58.715118+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -92,6 +92,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-20T22:11:26+00:00",
       "summary": "Britannica sues OpenAI for scraping nearly 100,000 articles  Boing Boing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is designing a desktop super-app, with hopes of muscling out Anthropic - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oSTBlN2M0RWM1ZXVrSzBMSGNfTVNOOHM4Z25HNkhuSUtuZFd3eDBjRzExVVFuZ2EzMXNOWXRZQzJnak5oYVNtZ0JsU0ZSTW11NHdsMXBKWTNFbU9pVzhQR2YtRllZZ3lUZjhNWmEweUhILVFnQ29wMg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-20T21:58:40+00:00",
+      "summary": "OpenAI is designing a desktop super-app, with hopes of muscling out Anthropic  Finimize",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -211,15 +220,6 @@
       "summary": "OpenClaw devs targeted in GitHub phishing scam  CoinDesk",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Plans Desktop 'Superapp' Merging ChatGPT, Codex and Browser - DesignRush",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53RHBuRVJ6MG11dkxoU19HODFpUlRmZGN1SmlaV0JtOXNxeWhCb1pqZlA2MFlqbXUzazhVS2NHQktnXzJKa0oyazNRWWFZam9BdUJfZTFOb3NpLUtZRElxalIxYVRrNUVWUUt2QWVDR2NhcEtvb2Ezak9TRXFkdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-20T18:29:12+00:00",
-      "summary": "OpenAI Plans Desktop 'Superapp' Merging ChatGPT, Codex and Browser  DesignRush",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
