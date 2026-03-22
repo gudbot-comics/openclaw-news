@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T21:48:27.347407+00:00",
+  "generatedAt": "2026-03-22T22:01:06.970662+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-22T21:40:28+00:00",
       "summary": "OpenAI Is Now Hiring $500,000 Jobs. No Resume Required  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is Now Hiring $500,000 Jobs. No Resume Required - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc29CelpJWGM3VTR1S3ozTGY4TU1sTnRvaVEtTFRyRWFjYjZkNDJLRDNvVVRQdTFfaHZKODJoMl9XNGNmRUZieHYybmZSNHlKakN2X0FXRW9CQThGcDFJcUpDVjFOTTlqMzRJYjRYRWFNVDdiNzBpWldLTGxwd2hMbkpzVEpUTUVpMzhV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-22T21:40:28+00:00",
+      "summary": "OpenAI Is Now Hiring $500,000 Jobs. No Resume Required  Yahoo Tech",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -196,7 +205,7 @@
     },
     {
       "title": "Chatbot Makers Try Sex Appeal - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNNUFlN1NXa0xHWEZPeGtvd0MyaUtVelozLVdKcmhYanZtZEI2STU0dWp5TUtGcTVwSkhMZ1VWTE9zamVxcGN1ZU55ak9lTm0zTjdkejI4WHRNVEZGR1FQTzlIRG9VR0tGTXFQQ3dndklJRDV4OTZhTnk4eUE2MTE1OU9FeGVmM0p1TFFaMnRUc3d6cVMxcGdiczFuVjc0M2dTMnltc1NReW1WN3NOWGt6Y1U4bGZyXzZYWnBqVnhSV2RaQnI0WG1sOEsyUHBwZG9BOXpiRk9qWGpPZUFfQkgwZ21TMGdzV19fSGdHWGZ4TG8zS2dIa0VvSGJQRmFLSG5LSGFMb3VXNXJyS19FS3RuLTVvbnVQeUMtUE9RYjFNQnpwbnlUSC00a1M4QXRaWVpIZ0MyUlpJN29FOTB3dURCTzhoMW5qY05nbUxTbEIzNTRJa1hWM2FtbXVwREU3S0dmMDNZZ0htUzdia3daZlBVaF9EMlEwTjB2WFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQaHpOSGZpQlY0RHZ3N3IxUVQtZkVwSS1lYVJxYmxsUlhZTHk2SXpYNGxHdk1wTHRJakN1V0lucWdBck0yLXJhRXFFc3dXOU5HczJrUjdnd21wczlxTFZFcGVBbVdMbHQyZ1ZvT3oyWGRGWkE2aEhsNmJ2a2ZfcGJNOHRsTUdnSnFzMnVTRHM5TkE3TmJwMmxJSlRmblFWS0dyWWRNOXkyLUxZZzVyd19hQ1Uwb0p0aVRWU2ZLRXFWa1pSMDBfS2ZPTkc0LVRXV2JaS1Jsck1SLXI1REt2U0gyUEpLYzFzSmEtc3c0SUJYV04tZEZGTV84Smp1ZVViZkc3U0VYVEV5MkwyNDNfZllTQTBfbGVLdXBNQkNqajk3RlBqeUtFNXdSQ1dVOElYUUY5aGhfazU4bWJpYkgyMlUxaVA3enFJWGV4SjY0UWQ4WjZrZU9LV015ZTFHQVZHVVFUeWNLYUUtX2JvWG85R2NuNmR5dkExZHlyakE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-22T12:25:00+00:00",
       "summary": "Chatbot Makers Try Sex Appeal  WSJ",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-22T12:18:00+00:00",
       "summary": "An upset Microsoft may have a message for OpenAI and Amazon: If you want to take a bet on your lawyers, w  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWhtZ3pqejEzYXNjU19wMFVWaTY1anYxSV9VVGxsZHlUSmdXNjZqS3lXVzJVSDZKYm9lWDIyMVpha0JqSU90cjdYeWgyczBWUFJiOWpwRmJyODljWUVJeVlGOGJqYW55REhDLVc3WEZVeDZWamFDY3JjX0pLSDBTVkloY3M2NUNZbDZ5OGRiUFpBX1FwaDFVNkZ3QmFlYmPSAaQBQVVfeXFMTm1mVjBHYUliSmdXUzJONUxtbGdUeWYtbFVKcG5vamJ4d2RRdWFWTnNkVXdvdm5VbWR5U2o4cmF3clRqU1BoZC1jUVBOdnNkUDM1SGRIS3BfLXUxQTlydnlpbFgyQjJTMjFOY2p1STFFWndsTW1mSTRrOTdXQzNvUWhQN2x3WUhtUjI0RDZsaElwUy05Nng0MThiR3RHWkUtdkxCZjU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-22T12:00:01+00:00",
-      "summary": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
