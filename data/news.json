@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-22T14:23:35.810649+00:00",
+  "generatedAt": "2026-03-22T14:52:24.619863+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI To Introduce ADs on ChatGPT as New Revenue Stream - WION",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeG9EVUwtMnJ4UmpnVkVqRTJBbE9QZGFSZlFqcnI0N0Y4anBIMHRXNkxkaGs5QWNXWkliNEY0MHJCZjQ4d21qN1h5X2tERTFOZEJERmg0X3hFNjg5MDkxV1IxMlFrN3JiUHhmVU9MczQ3bUNLQjR4ZVhjeXVqLU9ZeHZfaXI3OXVBV0pCTzZoZlB6ZVF6dGd0T2U0bEw3NzZQZDlR0gGoAUFVX3lxTE1UUnpyM01JQzdKNUIxZWQ0U0JwakMtZ3NZaC12dnB0SjQ5RHhIaGpwb204VXZqZzY5TldEZ0h0b2FrdVVJclE4SHRta2ktV21fb0pkWEZ4aDBhNzA1VmpXM2dWbm5Vc0JaTzJud0pQOUEzLU9vSFQ4NEVxTEZ1S1lOa1BBY3hPZ1FLT2xVbWZFYkZsQW9manZ6Z0lfc3Q1X2FWamxqSExRVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-22T14:30:00+00:00",
+      "summary": "OpenAI To Introduce ADs on ChatGPT as New Revenue Stream  WION",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Publicis vs Trade Desk, OpenAI's ads manager, and Google's health AI push - PPC Land",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdktuSGRpTThfVklZVUV6QmZNamhrdVpEajZ5dlRVNmpVTFh6N212NERvV2MwWEJiRjZEVnVGMGNiQ1NFRVVhbEZoRXZBbFdWTmpSZndsQVo4OEd4cllSZ0NVTUs1V0t1cDY4SjEtVGY5VldCcTNLeDZNSGJ1WnF0cWlIU2ZfTkRxUFJTdUZjN0U?oc=5",
@@ -51,15 +60,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "AWS unveils Trainium lab after $50B OpenAI deal - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWSWw5S29fLWtPMFJGLUdTYmVnby02Z3pLNW96cm5hMVJvQnBxUEpYa1o1NDhGSVpONjVyZkt1R0ZEN01MRXctUkQweGNCVHdENDdMZUFLaTZaa2JnOWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-22T12:45:15+00:00",
-      "summary": "AWS unveils Trainium lab after $50B OpenAI deal  mezha.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenClaw Threat: Where Encryption Goes to Die - flyingpenguin.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFluMEd3S3E5dVNJdHNRUm9hSXoxekgtSnRNNmhjZ1draXc4QlhDSEFkWDg0NndaMm1oamRKbVVNeS13RTcwYVQtOGl0YnRmb0FMLTg3SkpscjJwN1FfQWxObUdlLVFmSTJGU0R6VnQ3eVVUdDh6R1pSVllTYTlXeA?oc=5",
       "source": "news.google.com",
@@ -88,10 +88,19 @@
     },
     {
       "title": "Chatbot Makers Try Sex Appeal - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNdzZvQWZTTHh4Qkp4c0M3Xzg3bEJ5UGd1b244RHZYdVFsczJmUENxaW5wWExfYkJGb2U4c2dINzV6eDVxY1ZPVS11Z281U3V6cmpMVnBfSU1ERUpkNE50OFVPczVBb0tWOC1oMmVvWElQLU9sREdtbWRfYkJCYkVsZUhSLV9UM2ozRUptNlNDeG5LekNjS0NpZ0U5MGRwMVlNWTdtTVVhQVZ5cHJNZlNJV3dWcHg2cER5enRKMFR6ZkJBS2o3UlZvRVp0YW1EeUlNUUtpWlBtTE5JQUJOMzhORUNJLVM2OVBIU1ZfMXEwUWthVmNIVVRuQlhGSDlQTWs5RHNrSnhiNWV0M3I3b1p4dHU3Y0ZvWl9PTldORTJQU2pob3hFUUhnVFhHUDBKVUJkNThQa1NJSDFGVU93eF9PTnJQTVZUQU1KNVdLbzU1WmhFTVFPWjNMRlNEeDVDMl9rOGVqNHZSMnRiMkFUUXVVSHdjX3ZaMUJGV1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxONXd0Sm8tbzhtbWlsUHltQzhkWXAyV3VBSnVpS1dsS3pyY3JJRnlwQ0pRa2N5U3NBQkQxWlRzMGI4T3N2SVBQYl93eXhqUDJqNUtTQlRBeldvQk5zT3FUTkRaQzZSVlZsQWVKRkhhXzQtUzJid1FvR0g4VkVucGtfUjFodThCeU1JSk9zdndWUjRRV1B1N2JNMFc2dW4zcjh6TF9YOGhrM0hyekcxTFJqREJoZ0VMMnpObXdjNm0yZDVsQjJOZ3FjYXlGZUcyUWZJaVNtc3FIWVBxYTdWQ3ZmUzB3VjZOa19hTE9kaDBXeWZqWXNldXRfeFBpS2ZjYUxqYWZ1aFZSZGdib3N4dE0zekxsRVFvcUo3Y0gyaTI5djNhdXdZc2R0SEFheXpBSXRUZU1USzdlTXBsS3o4eWdkenVRdTNsb09xWnJVZnc0NURYV0Z0RmMyU01zaDBXT2tKZ09fdjNUS09QTXZQU051M0ZoMlA2RHVDSWc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-22T12:25:00+00:00",
       "summary": "Chatbot Makers Try Sex Appeal  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "An upset Microsoft may have a message for OpenAI and Amazon: If you want to take a bet on your lawyers, w - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcWdabkdHaWY5eHRKaHgtZElCdmdVM3ZPc3FMdFFiaVNycDFXMzQzOFVkeWZOZmQ5NVZBV0hBajhxNGtFZGNjWjcyeklwd3ZqZ1p2dkI0MWRVanFVbDFJYTRzV0cyeDY5SkVCc01uUG1wY1JWbnQ5M212eVJXaGRLcC1XT0taNEMwdG9BdkN3MThPUlhKSXdvd2p6TTRtTVluRzlKWTh5SU82X3l0MXQ2a1BfTGwwVDNOUy0zalR6OER4amZGZ2VfS3ZIR0RSQVBrV3RITFE0T21oalZwWEVid1dRWDBodEZNbmxXSHhkZmEweDF4bXNrUXVqNEtzVFBPMmx6TzJjd0E4YVdDOUNBbG1oQ1AwOEM3b3FEX9IBogJBVV95cUxPRzZjQ1VyTk5FNXpsM0dmbGZKTFpzaVVHTkRMT2toeTNzZjJ3c3JsVmZjZFFQdFl3U3dFWGpIOWFjR1l2S3FjQXRXMkJVRmFPbUtsdUZkUHpwSWVnTW0zQ1Bsd0lCdllRa1NWTDhMRXVMb1AxX0ZvYWVWV1A3V0ZJOVZjZXdWXzZlWVdPdGc4eWozR1BjLXBrUE9oUWJQZnhEVk1mYmNqVUlyVkJxR09PTzdQYlFBZEhHVGhYbXAzQmRRRC1hekcwOFlQVEltOHV3V044V0R3QXM2RTFxbXUzbGU2R25xU2t1dnY4c2FoUFFkd3EtWHFwN21MVGVMLVVnUlZNRTN6Ui10N2xWZGYwN1hfdEdmZXh0MUJCNDFLdjI4UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-22T12:18:00+00:00",
+      "summary": "An upset Microsoft may have a message for OpenAI and Amazon: If you want to take a bet on your lawyers, w  The Times of India",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,15 +200,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-22T09:22:00+00:00",
       "summary": "OpenAI Plans To Nearly Double Workforce Amid AI Race With Anthropic, Google  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI To Introduce ADs on ChatGPT as New Revenue Stream - WION",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQzE2Mk1kcl9fNUQ0QnRFYkw2MXhxLW1uTUlCVmFJNEE5UHR0eE1fQWhlckRudUV3a011ajBVSlpTM1dfOEZRVUtCMUtTWkR1WHhveDZBVTJQNHBwY2hHUDJkZS16STZMY3MxS29qUDE2MGhXMW1zSDA1MVhNeUs0X2JZeHczX2xaOVNvXzFyZ3JTUVlGbWN4MlhURTllY0ZIVDdn0gGoAUFVX3lxTE1Xd0U3NXpFTDRFWXdPdFpiT3AtRnJFNnZzN0loeFhiSEIzSXBaVy1FRjZ2U1EwakwzV3hWVHRmTE1zRTVVWm5vNEU0UXhrUWlsa3prRTAyMnlQRWc3dFNVekVhbW1RZDFuOENjTHVHblVKcHUtaHlWQzFtOWxTLVJzNEh4NXZHOGJxeGEySUVwWnFWLWJpNFUwb0FvV2Q2eXA5YjFoY013ag?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-22T09:00:00+00:00",
-      "summary": "OpenAI To Introduce ADs on ChatGPT as New Revenue Stream  WION",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
