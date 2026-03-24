@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-03-24T11:23:49.128992+00:00",
+  "generatedAt": "2026-03-24T12:01:43.329054+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Warns Investors Of 'Microsoft Dependency' Hazard - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1ZXZjRiME5FWDNxZUxIbXplbUoyeDhSNlUtWWpETXNxYWZtb3I2emtuZ0RtT0IyVUstdWFuT21tNWhEdnlGZl9OeVVpUklWRFhDbFpLRGVxaFcxMjM0dUppZ0szWkVYeUszUG5xTVZpZVZkLXJOa2k0bFhUd2RjSlJEb1dHSHUwTUhDUkh0RmdXUEN0ZkRXRVhFOWUtcWpMRTJQS0VoVUp0Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-24T11:49:00+00:00",
+      "summary": "OpenAI Warns Investors Of 'Microsoft Dependency' Hazard  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang: The idea that AI will destroy software is \"ridiculous\" - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWR0dkJaU0p3M2YwZVg0Y3UweDRvX0szTXZSRmQ4My0zbzhOQXpWeGhndGV4VXBONHI5NG04YWt0TnIxaUtoalBpNlhXSXZIU1ExZjg5U21ZRFpxTk1QUmdMUWFwYUxMVm5WVVdxRXBYRk9Ra2hNbjdjWUl3RGRxS3d4cFBmcGJxby1VSDJicXBGeUhYY3lZd05wTWtKZS0xWWFB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-24T11:42:03+00:00",
+      "summary": "Nvidia CEO Jensen Huang: The idea that AI will destroy software is \"ridiculous\"  the-decoder.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Integrating WeChat with OpenClaw: A step-by-step installation guide, pitfalls to avoid, and integration suggestions - PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hR1BNdWo3WmtTeVE4a3hoWFBXQlZPVlJ3WGg5MW1rR0FWUmZFZ3RpSHp4dGNWcW11UWdfdUZNYTN6WDc2ZVZVTkZndWVJaERTUng4LVRwd0xnbTJFd1NGRmVOZ2htWVpWd1k5Tk0wZmUtdDFoSFZqYVI5VFFJVmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-24T11:35:00+00:00",
+      "summary": "Integrating WeChat with OpenClaw: A step-by-step installation guide, pitfalls to avoid, and integration suggestions  PANews",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Scammers using AI meet their match as OpenAI, tech industry fight back - FOX 8 TV",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGpTNjBJdXBBbFNaNXpUUW9ZaWFEMDB0MU93WjVzOFN2clNlLUcxU1RBaG9SaUFYQlQxMFFsaURJM29YWUNUTllyVXdxZGF5TXRDLVV0ZFZyUTEyNUppcTRGTWpXM19rdzBaUGpwVUNFaGE1NnR1M3UtQUEya2hXYkRGNERjd0gtc0Q3dnBNYUpGVXB4eU9wYg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-24T11:22:36+00:00",
+      "summary": "Scammers using AI meet their match as OpenAI, tech industry fight back  FOX 8 TV",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Merges ChatGPT, Codex, and Atlas Into One Superapp - thekeyword.co",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43cHY0ODZmZ3RnRjFqTGNmaUs0ekxqNnFGUkZ0SjNSUlNFa2VhUlViMkFmb2JhMzZKbU1VQS10SDBIU0dyWG5nbHRFTVpFZWYzdGNnRU10TDhHMGhSRllONzg0d0Y1QjAwaFdSMEtrYjFja0Rn?oc=5",
@@ -33,6 +69,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "Scammers using AI meet their match as OpenAI, tech industry fight back - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkJRVXhGSWtMZGl0NjI0NUhDS0VBUEtTUXM0VFdjUlliajBLbEtkWTZMS1JzU2VaUXlQSHJ0bmpqbmY2SElwLWpVQTNyRXp0STVXRGRSLUk1azRsWDU5R1lHc1RNeGl5N2VmMTZqd0R2WFUxTzRHWFl6VUlxMFhwWThxaDk4Zlg4UklyX1JHME95aGlj0gGaAUFVX3lxTE5Nbjk2QzZndU9hQnJ3NUJMYnhBOUlqMUdNa3hRU21NMjZUeWtxRi0wQTVKdVU4eFNmZTdtbjVVWlNqVTVXLS1NaG9uR2tsRHJKdkJ4QkZzRGUyaG0xRlRpNWcxSW9fOXVFQTl2WUNWeDVYdjFKNGFJM2U5VEFaRGhYZ19yZFBzWG40ZDgzR2U0YlNJbzdJcjIybHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-24T11:00:38+00:00",
+      "summary": "Scammers using AI meet their match as OpenAI, tech industry fight back  Fox News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Tencent integrates WeChat with OpenClaw AI agent - varindia.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUM5TllTcHRYeXRYbE5jeG9vN3prTDExbi1WaXJxNzV4cDRoakEyQXdvQ0JoeksyZXhvTEZkODltRmhIZjljMURfa2x0MG94d1laMDNWbDhfclFMNEFTMVNYd3oyWHpJc2xkNFpKaXVQQ2ItSi1lb2FoTG9kMjl5bTVSbkg?oc=5",
       "source": "news.google.com",
@@ -51,15 +96,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The message Mark Zuckerberg is sending with his AI sidekick - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01Wm5BSFpHamZRaUU0MFdUUkFyT0NUc0JWOERkaktTb0ZORkRlWE13ZVBHRkgzM0xHTHVLS0JUMm5Qa21vdUtxbGFNRzV2dFZWVUIwenlrbl9ZQVl1SWQwSXlUN2J6ZFFwNC1vb2hKYUFscFpqV29TS0FR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-24T10:31:10+00:00",
-      "summary": "The message Mark Zuckerberg is sending with his AI sidekick  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Targets 8,000 Staff in Enterprise AI Push - digit.fyi",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNRzBmZWdoZFdhVVc1endFdXVnU29UN1NCQ2I5eVNaRzBIUTJocGhvZ2R0UzB6eVB2aFNTYVp2V3lpMmJzd2JpWDloZmhVdWxOcFNxcWk2M05FWlFpMHVSRUNIbDJwZ3VzU09yWXgtalBOaktkb1pfMzdn?oc=5",
       "source": "news.google.com",
@@ -74,15 +110,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-24T10:20:01+00:00",
       "summary": "WeChat Integration with OpenClaw: A Comprehensive Installation Guide, Pitfall Avoidance, and Access Recommendations  富途牛牛",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Integrating WeChat with OpenClaw: A step-by-step installation guide, pitfalls to avoid, and integration suggestions - PANews",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hR1BNdWo3WmtTeVE4a3hoWFBXQlZPVlJ3WGg5MW1rR0FWUmZFZ3RpSHp4dGNWcW11UWdfdUZNYTN6WDc2ZVZVTkZndWVJaERTUng4LVRwd0xnbTJFd1NGRmVOZ2htWVpWd1k5Tk0wZmUtdDFoSFZqYVI5VFFJVmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-24T10:18:00+00:00",
-      "summary": "Integrating WeChat with OpenClaw: A step-by-step installation guide, pitfalls to avoid, and integration suggestions  PANews",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -123,6 +150,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Despite billions in funding and long-term backing, OpenAI cites Microsoft as key risk factor - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMTh4amNIUjlEaURKYlpSTVhBTUNmVGpkNUpzMG1meW9nUDhBM0FwMmoxRldLQmV0LS05Yk9VdjhKOWl3bUJRTzhvZ01idmF5elFhdGlZWS1RNVFWTXBhcW1ONVVsekFfZ2g0bFNxbmU0a2RHOUFjSUt6SnJZNEE0LU8wOHdlNkM0RC1mb0g1NHl1emctaG9vVmVyaUNwRkJaOVQzejVHYUw5WmNVYXQzZVIycGREU3R6dG5UTHdPNWMtUHktQUliM0VmX1RwWDhKUTA5aNIB2gFBVV95cUxOR0lpTzN5U0kwSDJBMlZQbGh4dE5vS1EtdlJ5QnNqTGo3RlM2aVFwX3FfdWlUTHVIUHZoN0xBSUJwdUE4NFBZTU1rOVcyc2RsazFjVERrV25fUFFkYnJsOTY0MVJEc2VHeFNMNGFWdFlnTHA0aFZyQjh3OVRmMVVHOUZVSUgzdVk3SDA1dnBNT2FNLWsyVUVPZWFzVzg3ZmpZX1lmNnJwYWgxUDU2a3hSOGNMb3dLUUhJQXU4YzVNLXVqekEyYS1EMDJvUF9kQ3k0aDV2eklkMW9nUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-24T09:31:01+00:00",
+      "summary": "Despite billions in funding and long-term backing, OpenAI cites Microsoft as key risk factor  Storyboard18",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Why OpenAI’s 17.5% Guaranteed Return Sparks “Terra Luna” Comparisons - BeInCrypto",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwd0dBNU1WV2gzMGZDcWdka1hxR1hQOEsyVklZNEJIbzRHZWpnUm1vRGdROHRYbmVENnJKUXV1QzNyYnJ6aEdjdDduVUVhbGVDSW1mZHpoWE5YZjBzOVRSTVNIZmJTZEdSRnV5UGdxSE5rd2M?oc=5",
       "source": "news.google.com",
@@ -150,6 +186,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "UK yet to trial OpenAI technology months after landmark agreement - Computing UK",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkxXdnpTMlpWYjNyOUJNNFZxdldCcnlpcnlCQXhTcElYa1VTY2otYlRncHZ0S1owQzk2YnV3QmthNHB2M1ZDamIzMlMyazhCNlNEYlJrSTMta21JOU5EYmRsbmNxczV3ZkRDeFNkUEhLcTdiUFJHLVRJNVNLZXYwVF9hdm5UTHB1bVlsT2U5MWEyY3p2blFud3c5SkV6RFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-24T09:20:13+00:00",
+      "summary": "UK yet to trial OpenAI technology months after landmark agreement  Computing UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "AI Agent Economic Infrastructure Research Report (Part 2) - PANews",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OU29RblU3ekxBVmpJVUNXRjVYTExTd2JVbml4NndiWHRKMXpMQ1VSSUhDMnFCU1NOOHhzNVJPV1NZMFFXWVlaVWpDdU5pRzV1elJQdjlFNmxXU2wtcFc1UHhQM3pxelhsUnhabW1ydEs2ZmtJN3NVZnJJRVRvMXM?oc=5",
       "source": "news.google.com",
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-24T09:00:14+00:00",
       "summary": "What is OpenClaw? 8 things to know as the AI agent draws hype, confusion, and caution  KrASIA",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Sam Altman's yes to the deal that Anthropic rejected continues to haunt OpenAI as mass exodus from ChatGPT continues; what new numbers say - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQaWQyNVZXOGJUUkVUWjQ5VkNSNERSWWdIMTlKQ0dyeldXaHZFTk42b3NNS1V6bXRRYzNxS0h4bE9JNDBOR3dDNUNMYThDYzdtZEFIVXJoWlpqc1QtanJFRUp5SFNpMnlJZGFmT014SWtVOHVYbWN3UGhfN0Q0U0pWd3dKbWhmRFRDaGM3dWJIblpkdXh2dnQ5WEFKOWxnbE5PU0xva0pab0ZkRVNEVGx2UDZaem1LQ2pteVZDN1c4dFFVRkRNVU1GcVNhWUNhQnVkQ2RWdnhiREtPbTZVdzhCaEUtenhkVTMySUdZZHFXZnI1WDkyaHZVajJNRFRXTEFnaHFlN1VGb1AtdnhkN1ZiZUlqbDBpRDdmOVhGWXN2RlBUSTRCMTlxZjE1eFNmeDB5UHRyajVGbHN0OUNBZnJXUA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-24T08:43:00+00:00",
-      "summary": "Sam Altman's yes to the deal that Anthropic rejected continues to haunt OpenAI as mass exodus from ChatGPT continues; what new numbers say  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How the openclaw assistant and HTX’s AINFT are redefining AI from chat interface to execution layer - The Cryptonomist",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0aHc0Q0gzXzFiZlAyZGJiNDZuaUlSZzhOZnZmQjZLeE0tQWVVaGRnXzljM3ExazgtY2U4UEptZjJaN0pTbVlwNmpDVlRKNFNCWnZsX0FLak4wZXZhRFdRVElJRnItdVBRaEpUcmlCZ0ZpZF9Td1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-24T08:23:25+00:00",
-      "summary": "How the openclaw assistant and HTX’s AINFT are redefining AI from chat interface to execution layer  The Cryptonomist",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Claude Kills OpenClaw: The Shocking Incident - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoenBKaldhNmVJc29ENzhMa18wVmc5MWh2V0VzZ2dkenl5bS1zd19FdkhFbjhOYmk2MC1maHBhZTkwSTZ0dUR5cXBrQ0hZWHRQdGRv?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-24T08:22:31+00:00",
-      "summary": "Claude Kills OpenClaw: The Shocking Incident  36Kr",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "China's OpenClaw 'lobster craze' shows its AI adoption outpaces the West - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUs4Ylhtek1SRVF1OVVTdkFrQXlkaS1meXVvbW8wRVgyd0dOVE1EZ0pxQXBxSTkzRmRsbzRvSU1JMnEtdE5wbXZHU2RmZ1A4UjRfS2EzdVdZeGZNbGFRSHU0RHRtd2lmY3hLY0g1TkNjQVF6QThRckRPSDNZbXZSZ0JOU0lkRHNhVXNmam9sVWpaeWNOb0FRQ0JXM3k1eTFFX09iYg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-24T08:05:00+00:00",
-      "summary": "China's OpenClaw 'lobster craze' shows its AI adoption outpaces the West  Nikkei Asia",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "The unprecedented consolidation capabilities of OpenClaw hold risks - Cybersecurity Insiders",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm56M0tBZ2RvM0pFZ0M0MHhsSF9rYXlueDBIVk5PNWRxcDBuc0k5bnV4eWtBWEx2SHp5VldQdFNlWndtQ1R6Q0NBMjl1ZzU0cUFuNjU2SzF3YktJZm1ZLTAtOXQ3X1BZZFpMWHByc1ZIR0Q1T25RWTRIYjNPaWFtSU9OSjRSamsyRTJLTWFCa0UzdG81TXNMSkVrdGpObzNQRjdIYXJybXVwc2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-24T07:31:10+00:00",
-      "summary": "The unprecedented consolidation capabilities of OpenClaw hold risks  Cybersecurity Insiders",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
