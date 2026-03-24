@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-03-23T23:49:29.138976+00:00",
+  "generatedAt": "2026-03-24T00:52:50.431780+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Hitem3D Becomes Callable via OpenClaw Skills, Enabling Structured Image-to-3D Generation - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ3p4V2FobzkxZ1VpcUhOaHpQclNRclF6REZrSS1iUDZ4WFVLdTlERk0tcVgxT2paR1FHc3BvU1VNS3RoOW1IekRJSTktNUd6OTFRYkRqMGpfZXNGQllYMTh1V2t4clJ6TFladV8xTGd6WVlZVDJ2RVZjWmxidmZnTEk1XzRRa20zZGg4b2MyLWo3MWk1cXNsQUstSzFwZDZKSERNcXpaRUVyYjlZUVI4X29SdVhmQzR6OWNfZmdyQ2tqdlQtdk55UzFSZkxYVVcyRG13S2kwbGxNazFkVnMtYlhQTzctQlhZaGtPeS1TaS3SAfYBQVVfeXFMTUJzU1QweU5vOTNhNmNualcxYXE4SWNUbTVXUU9fSThSbkN1ZlRsQVhMM0E4azVSZ2dRYUduelRIM0kyQktZZ1RfWXFlLUtXZHU2eVhqWUpTZ214MDR4ZEowU0ZZaFpfWVNrMk9ubVlWQkxway1YQy1LNUFNMC1lQnBwREROM2VtTFpHbnltbmlPRjF3bU5nLUc5TWcySF9ZdV9YNWRweURBNFZTRm5TUk1vZ3U3UVN6OTV4aUFGakE4TVllRldiclk4cVF2MUk3NUJhY0hDTE1IMjV5SThnd19XZXRJX29QN3F5TnFaVmc3U3BybUdn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-24T00:16:57+00:00",
+      "summary": "Hitem3D Becomes Callable via OpenClaw Skills, Enabling Structured Image-to-3D Generation  The Manila Times",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI hosts AI workforce forum in Washington, DC | ETIH EdTech News - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHllQzh5UUxuVXAwM1c0ODhYQXE2T3FXVkRDTFdqeWFoRk1oVTBrc2hrNDlBTnlQNk1XZm5JRHV0RDdyZDdFS01LR1FYT0J4d2JHUVpFNFhnSUZsbjQ5S25udG04MXdHZjNlUjZBWWVZZ2MtR3hORzhQVm5YczIzME05Q3lwbDZ6bzJhai1CaklwYVJSZURpUWZnOUMtektMTU1vLWgtd19XN0xUVktR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-24T00:02:09+00:00",
+      "summary": "OpenAI hosts AI workforce forum in Washington, DC | ETIH EdTech News  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Tecno taps OpenClaw to supercharge its Ella AI assistant with new automation features - Android Central",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXZUbjQ1N095QV80TU9ULU1xWV9nVGExQkQ2Rmw3aGFaYmw5c3pvUnZraVdXR3BUZklhOUg2WTFUMS1Rdm5kT09pMWZPblNId1lhYi1nb0VlX1FCOG0wMGtnbi1lVnZibE1UTjhYSXluWHIyWlU5d1FCQ1BCelltU0trQk8zMURBLXFybVJ0LW4tZjNKTHE0Q2RvYV9JeGd2cTY1Wkh3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-24T00:00:00+00:00",
+      "summary": "Tecno taps OpenClaw to supercharge its Ella AI assistant with new automation features  Android Central",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI warns Microsoft ties pose risk ahead of potential IPO, CNBC reports - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMkRQcUloMU9JaF8xQ2QwZWR4bzNCVjdjUFZlOVdDUEZCUXFmakg4aDNyRzFSdWpFNU16OUZCQWpDRWcxVVBtcURBS1hFVWU3eDhTeW5JTTh3RjFJRXlXYWR6aDVVSWlwdjlMbDlnSlpzM0lwbGRNampfYzlpVFpTYTN0Zm9Ccnk5ZDJTZm10NjFQcTN6YTJnOUxvZFVCc2p2bmpVNEoyOXdLY0tGRkd1Q2xVMlRHcXkzZGFBNG1qTmFzMzhlZHBXck9ib2Q0MHlOU2RSYzBDSG1IRVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-23T23:51:56+00:00",
+      "summary": "OpenAI warns Microsoft ties pose risk ahead of potential IPO, CNBC reports  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI rolls out ChatGPT Library to store your personal files - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb2ZJQldKN3Q3LUVWT1VqN2t1WktpUlhYbHF5XzFrQjc2TnJ4aHc1NVNjNlFQcmlvLXcxcGI1N0d3VFcxMjNKSmNSOG1QcXNsdm1hLWJDa2JGWS0tbVpTMDBUcE41b092dDlzSHpOV0tmRUZEeWFhcmFEaVprbk9Ub2hwYTk2R1F5c2lxTmtWN041WUNpN3psOW9UZFVfaVVERVV2emNpV3pBM2lPUTZhYTdoMzlSVjFfR2R1R3BqRFhlQdIBxwFBVV95cUxQVUs4Q00zMXpPTUlXcGRQS0FsbVhpdnBrV05QdTR3RHB2QjY4WHdCeWFzUkd1QXJ6cm9tVXlXREJqR1pGemw3Wi1zLVZiTW03QVZ6NmxxRDFVcFVOZUJTWV8xbXMtSUxzQ0pVNUFzaFRHbG1KODkwckxoN1lBcmt5Z2xqSlU4RWMwbVFWWk1hQ3AxS0pxLXFzWjVMZm02U2QxVG41akdkNHMzZ1ZCMmhfemszdEpacnF6NFRISFl6S1ZZYXFGaEY4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-23T23:47:14+00:00",
+      "summary": "OpenAI rolls out ChatGPT Library to store your personal files  BleepingComputer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Flags Microsoft Reliance in Pre-IPO Filing - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOam51WWprOHFWRzFtNmFsUUVVUUUxRWlKaFdtMVdnUlhIdmhZRUlFajIxZ1hWcS00djA0d2F6N19BbFVKZFNOSGxydHlvN0pTYVBXaTYtclFrSloxejJVQ1VpWEhUZDVDUXpZd1Y1Uk5FUjJVSWNTVE9NNnpmem9pMnFyVVhHMDdCQlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-23T23:47:00+00:00",
+      "summary": "OpenAI Flags Microsoft Reliance in Pre-IPO Filing  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Protesters Rally Outside OpenAI, Anthropic, and xAI Offices Over Industry Concerns - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTndKOUwwTlptZHBvMHM0aWJ5VjdGaHhjZ2FEd0owR1ROMjNySzY3NXo3S0tWbWp1R05rRXJXNkp0TlRxVHVzcmlHWTk2cTBMdWJudjFwelpfMmNpN2NMcm9iYnB6Q3ZCV0hIdlllaDloNVRBRHJvX2x5TVNCXzJ1SGNSclhsMlV2VWlvXzA4eWxBTVpxZlcw?oc=5",
@@ -20,15 +74,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-23T23:28:30+00:00",
       "summary": "Protesters Rally Outside OpenAI, Anthropic, and xAI Offices Over Industry Concerns  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Calls Out Microsoft Reliance As Risk In Investor Document Ahead Of Expected IPO- CNBC - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUE5wOXUxTW54UUF4WnpPWmZ5a2dubmFQY2puV2FKbzRONXZTMWFnU3JyUTl4dGNTbkZDLWJWQ0lMSWIwNkRlRFhlX2ZnQjdLUGJKS1NZcGZpRG5hOUJkb3dnNy1pLUtveHdWOGNPRnBEZWQ5alc3SVpNd1VtWlpoRFlOOHc4R0Y4dlQ2bWE4QThPQUpzcDg0UHJjbEphcnRuLThFdGh1bVBfTnBIazA0UVh5aDZFMnJJMWpfZ0trUHhHU0ZiUHRHYUpRME9VdTFjbjJfN0NhWFJ6NlUwX2pyRjNMUDNBckYxSnMxTnJQdV9JOWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-23T23:08:51+00:00",
-      "summary": "OpenAI Calls Out Microsoft Reliance As Risk In Investor Document Ahead Of Expected IPO- CNBC  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,6 +119,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-23T22:16:00+00:00",
       "summary": "Walmart media partner adopts OpenAI just as Walmart drops OpenAI  The Arkansas Democrat-Gazette",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI offers PE firms 17.5% returns in AI venture: sources - Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3JqMGdkS3NlMUZKQmVRcTQ5TC1YUnVoSFJ0Ml9ySjRTQTNqYkR6UUtaeU9iOTJRNEkzdUZqUHRCc0ZRSFpLQXlIcW9lUHNZN252S2ZQOWlveFp2NnVYak1xZ0lhclVsWE1lbzRYWVROQ1FIM3BPYjZHLXlxNXJlWjBGSmlvMzRESTZISjFoOHZaNEU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-23T22:07:00+00:00",
+      "summary": "OpenAI offers PE firms 17.5% returns in AI venture: sources  Tech in Asia",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -164,60 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-23T20:20:54+00:00",
       "summary": "OpenAI Plans to Double Its Workforce After Losing Big to Anthropic  Entrepreneur",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Ranjan Roy: OpenAI shifts focus to core business, generative AI set for mainstream by 2025, and data privacy concerns hinder enterprise entry | Big Technology - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOWW1yWjUzYmd4Wno5Uk93Zndsc0x4SjdGeGJMSS14eVJsbVE4di1iMnNmZktQRlhONTd6dlpZY2YxRXJ0ME52T2JUMVFULUl0OHFabzZWV2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-23T20:17:34+00:00",
-      "summary": "Ranjan Roy: OpenAI shifts focus to core business, generative AI set for mainstream by 2025, and data privacy concerns hinder enterprise entry | Big Technology  Cryptonews.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI in Talks With Helion to Secure Fusion Energy - POWER Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzRqQ2RfOUw1ZzJTMUVlVC1QaHBSYXprQkdyaHhoXzdlc0J4aUpHNWUzR0kwRzFWdW9LVFJvZ3lrT1ZBSGYyUWx0Z09OaDdGMUhYdUFtVzhDcDQ1dndXUGNHT2I1Y20wdjBXUjZvT1JZUnJIU0ZJTWkzWGNXcHE2b3NoZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-23T20:17:17+00:00",
-      "summary": "OpenAI in Talks With Helion to Secure Fusion Energy  POWER Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Altman Leaves Helion’s Board As OpenAI Weighs A Power Deal - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeE1zSlp6eXBMU1loUkhXT0RhU0R4UFNQSFVqNmdMNE5lYTFRSXVOR1I5TEw3Wi1tZFB4TkFtck1MbVUxSkhkQ25mTFdOX2N4c3pMeko3R2pXSWJaUEdmOUZobmtNcUdRWVdOOGRRT3hZOVBDVk0zVnc1RnkxYjF3QVVkTkxBNlNGNnRqdFlFQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-23T19:30:03+00:00",
-      "summary": "Altman Leaves Helion’s Board As OpenAI Weighs A Power Deal  Finimize",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI rolls out ads for US ChatGPT users - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOck5iU1lvdUxZc0lSWWFDMV9UdGhDcVBwMDdnN3lPdzdqMFZWZlBQcDg0WHYwUUhvQ3lPMktCM0o1bXlTRzBNVVJXMlVKckhnMWNxZkdyaVZmQVJ5R1pqNVJTWDJTT0tjUG9RZ1FFNG5qM2Z3QlZ0ZDZkUHVRMUZiMGRPQVRrRm9QcG5PZS1NQy1yTVh2Y2o3cnhROVVIUHhOcVB3S2p2TkNMQTQ5dDZoTnpaNkFXVFBrUkF2OGQybzRfZ9IBxwFBVV95cUxPV3VKWHBpQTBnSlgtM0dGZElCa0dFX2VCV29yd2g3YXM3Wm5XZElHYzdRRlpELThtWmZrUGxlS1hZMS15WjFZT3VwX1lOODdFYmZHdHE4WElETUEtckg1UWlQYTlqZUx0OG1qUTJfbG9tTWtNTF9RZFo4cThVcUNJVU5ORE5MMFA0S0ZOd0puUE4tSkc4cUoyYWpwaWdSanpfaG1SYTZLNU1wSmhWR0R2bVlBTTktdXROZnI0Yzh5M2VaY0RDMG00?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-23T19:20:03+00:00",
-      "summary": "OpenAI rolls out ads for US ChatGPT users  The Economic Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman exits Helion Energy's board as firms explore partnership - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNFp4YTBGUzBMbzNpT0VmdzI1TllFRUcydjlYLUM2eU1IcXYtZ1pSZVByOXFmNFNWdDFCSDRhLVNvQkxxbGVtMTVTUFJBSmdKOXZDMUptT2VUbDRqcFlWS0JuOGF4MFR1VXVJTUtQcTRsZ3psSkVWa3RNdXA5aEQtOVRCVlM4RGZUelBUVkdyaXJyWWtvYjcxeXdpZFJmUElfVlRuOW9QZGZYSFZMZ2NXZkhRRDVhcy1Fdzdnc2J4d3VwajlscnotSVBVUTFsQ25Lc3VlR3p3X0RKQk1fVmREUTRSeGU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-23T19:14:22+00:00",
-      "summary": "OpenAI CEO Sam Altman exits Helion Energy's board as firms explore partnership  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI In Talks With Helion Energy To Secure Fusion Power Supply - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0hpWnRqQkdNX0kzNFplWkNMZ21fdWQxY2RGaWNxdmZCd1pTSHAzMVFYa1BhbEhtc3lKNG9ueEtXTVVLTjdGR2ZpX3NkY3R6S1hQNTVoTENmLUV4MldPekRBazJqcGxHT2JJMkl1QkhjbmotX2diNDliMHBWUy1TR1FSRjlGN1ZHS0c1TlpYZnhCM2trR1hQLVJVaWZnZENmSl9wRzFZRDhLX1Y4eDh1bzBpT25icFdmLU9JRXkwclo0QWtqV3o4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-23T18:33:00+00:00",
-      "summary": "OpenAI In Talks With Helion Energy To Secure Fusion Power Supply  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
