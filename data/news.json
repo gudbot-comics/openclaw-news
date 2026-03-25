@@ -1,16 +1,106 @@
 {
-  "generatedAt": "2026-03-25T09:33:21.039789+00:00",
+  "generatedAt": "2026-03-25T10:30:01.540810+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Why OpenClaw agents are the next big enterprise challenge - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVmktek9JdDc4eHVUbjBVZnNXTVp3eldyN0Z4SlRGYmRnRUFUVERtOTBDOWxTQjl0ZG9wZ3FxZGxSUFRJREIxY3dRWGVLdmdtRUZNV1dCZkZkaWNYUWFDb0NuNnM5aXdVMlNZOGctR05hc3otQUJ2LWd6MHA5ZHlRMk43ZVZpejhnNU5zQmtzN0p3eTRha3EwSDBhZGdDWmVzelBic0FR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T10:26:42+00:00",
+      "summary": "Why OpenClaw agents are the next big enterprise challenge  Computer Weekly",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Microsoft Reorganization Highlights OpenAI Reliance Copilot Challenges And AI CapEx Risks - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUo1N20yTW12ZnhVT2tqOVNQUGFZcHhsaGNyZV9CaC1GVGZfZW54N0kxRWo4cENpU1ZSaW1YNkZRZ2tQWTlObXkxR1FpQlp3anREWm5feEhOVUdjS3VjaDZTWVdXTGlreWVrcUtRaWU1bFhvTi1ZLTNKU0xnY0hSRWtpUUdOVlZ5aGRwQWY2clVkX0FsalBJZ1E0LW5NeVNQb01teWtBU1Y1ZGpuS0pCODZEMnhkcGNuY3dLeE5fclBSVzNFSkHSAcsBQVVfeXFMTmtwck9rODdVaWdXb3JETk50OVpNYU9hZHd4MmpSYjg3WmhFUUU0Y0t1ZmpPTVh0TEpMNHMyREFCQ2FmZlhFeE5OLWJ5LUZSVDVCUXVReWFYT0hlUEhfdW1Hb2lUZDhjRVpHMzkwZGFpMVlwZzUxakRCQnRTbThLaTdCNjNQT2liMU5pSDJPMVVkM1RlU0pPUklqYXN6bWFkWnlfV1FFYjlkZVgzVGh3cUFkeXJCRXlLUlBrcjVibUxrSEZJSEZEVjRQeGM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T10:13:09+00:00",
+      "summary": "Microsoft Reorganization Highlights OpenAI Reliance Copilot Challenges And AI CapEx Risks  simplywall.st",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI drops Sora app as focus shifts to enterprise and compute efficiency - capacityglobal.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44Z0oxb09JNS1yZi0yV0trTUtBbmFITWVSbkN6eDQzaXM5OTJ1SURjcF9NSlZLX3hmUHV5Y0R4eU45U2FjSWRNUjU2X0ZUVEd3U2NLSWxBUjIyZ3Vna0haanAtUGY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T10:06:10+00:00",
+      "summary": "OpenAI drops Sora app as focus shifts to enterprise and compute efficiency  capacityglobal.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to close Sora app over backlash over deepfakes and AI slop - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMnpWZFQ0b3pZaElMSVJzb1ZBVVNyYXhKdml2Z212d2VxVmVPeE9nMkpXa0hyaEtnaElxUHlHQjZyUFlIUTdGQ2dIM2tFNjVLS0hBMzVtU09BWjhXWU9XbTNDZlpJMkUxcUk4ZnhYT25kQkhxc2tuMXBhSktyOWs1d3N3SVVTWG1jVmpYUV8xRHRacnM2SkZ6aFlHZU5NRFo0ODJTdWxmTTNSMC0zNS1iSEZvVUdFLWUyNm5CRFRndDVPSkc1?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T10:04:28+00:00",
+      "summary": "OpenAI to close Sora app over backlash over deepfakes and AI slop  Euronews.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI kills Sora - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjQ5ZDBrR1VsMXQ0cGZYaW9VUVJvMkdoc2Mxa3NKbm80TlhKUHU0RnJMUmVQbXc4ZDV6ZVU5YkRaRzJxemg4c1NiUVUza3BlbjFNNVp5bVNjV3RHUC1yQm9nWm5Ubk5VV1lEa09HamQxVnpZOVZ1WTd2S0dONTBRQXJseEN5QnlsTFJjZENR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T09:52:12+00:00",
+      "summary": "OpenAI kills Sora  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sora's app and API are dead but OpenAI hints the video model lives on inside ChatGPT - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2ltN3k2MzEwcEM4bzQyLUtFeXdubWZDTEc3a3ZVc244cldFS0ltQjRuYnNjam9Wa08zU1BrT2NnVFRUNFJYSkNobFVSbDNDSEpMcGd5YWpHYkpTcEdITTZqWEtkU2tKLWJGNXIxbUttMmhZOUhaTF9HNXpsdzdNZnVTVUg4MFdaNWJmQmpia1FRU0x2M3pRNTNvOGRLeEpMV2kwS2RSY2ZhcEFx?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T09:50:12+00:00",
+      "summary": "Sora's app and API are dead but OpenAI hints the video model lives on inside ChatGPT  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is Killing its Sora Video Generator - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbnFhamk0SVdQQlNOVFE5dWUwalZwOU5RUGNfc3pJX2tOTHc1VW1CR2JhMHNrNGdTMXB2eE01ZjFQd0FUaUI0N2hBalE1UjAxdjduYjJWeDF2SzhYbFJfU19xZzdaM3hpMTNDSWg4NmpoR1NYVkZPbExEaENWYVZ0WnZDcTU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T09:47:21+00:00",
+      "summary": "OpenAI is Killing its Sora Video Generator  Thurrott.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches tools to help develop safer apps - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHU3SkZZNUR3ejZLWWNXV0owb3dPNHdlM0tHNTlZelEzQVF3eG5TLXNuWXdCc2NodW5qQ0FiSW5pVnRZUHRPRDJSWnJlUjhXeUJNaFlISW9hLWhWZ090cTV3MjZaT21GTGFNMHNhY1RTaHlLUGZENExsM1p3VGFKYU55YlRELUMybWhNSjVYelZVU29TMWxn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T09:36:37+00:00",
+      "summary": "OpenAI launches tools to help develop safer apps  Techzine Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI shuts down video creation tool Sora, Disney pulls $1 billion deal - Gamereactor UK",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcU5McFZ6cTRWSlg5QWMwbFhaNndiLVJHUXUxdlJWTXJhR0pCcFZIbzdLVEVTTWtZMWRmZEhudEMyb2xsTnBDRVVMMjhhdFpjWDYtM2h1SldYQ0psQnRoY3p3MUVDb1VUc3ROYmg0NXdfMUVzQkYtbEwyM2dIWmdxcS02SEZxWlFwcWh5aXV4NUp4YjYtSkRaXzNYTlJYdmx2bXoxei00QW91dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T09:21:34+00:00",
+      "summary": "OpenAI shuts down video creation tool Sora, Disney pulls $1 billion deal  Gamereactor UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI's Sora gets the axe - The Rundown AI",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04VEpNN2Uxd3RPR2s3QlBqY1M5VGJZaXhjbjRzcDR4MU0zMnFhdWtxTllpd0loXzh6TDNkbG55ZVhpdHV2UFlzdUJMMzV0ZldkT0ZHcDJjRDh6V1BEZzFrNjh3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-25T09:01:22+00:00",
       "summary": "OpenAI's Sora gets the axe  The Rundown AI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI shutters controversial AI video generator Sora - Silicon Republic",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXJzeWtoNTlsaWdYTERaTW82cGFWa1pFdXJaN3pkYXp3STB6RVRhNmtObHpvd0E1bWdDb0lpMG41cHNzS1pQZXRrZGpoM2xIVXhtWnZZWTUwZGgydkJheTFLRGk4RlhDWjBrNFh3MTlwY3dEZW93aWlpb1hQdGp5M1p2ZEZEVWxYS1ppQXRFMEpybkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T08:58:16+00:00",
+      "summary": "OpenAI shutters controversial AI video generator Sora  Silicon Republic",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,29 +123,20 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "AI-Driven 'OpenClaw Trap' Campaign Targets Developers and Gamers via Trojanized GitHub Repos - gbhackers.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zcDdnWTNPMmptT2t2emdKR1lzR3E0WkZNdnVwYlZDU0dXQjZqVHJxMkRIbXdBdjBzRHRrMnB1MkFEczA3VklhU0JHT0t1dDZDWkdN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T08:34:58+00:00",
+      "summary": "AI-Driven 'OpenClaw Trap' Campaign Targets Developers and Gamers via Trojanized GitHub Repos  gbhackers.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "The OpenAI Foundation plans to spend at least $1 billion this year - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhYTRGZXRIMDZfdWNBWV9hTkpmb2dFQTA1bnlqNm1kellDUzdwYzZOeS1JRWhwbnhObWZsNXlPWFZjTE5oMjB3OWRtU0VKZ0hTTTNVdUQtZEFfV01PekprZzAyYzgzR3p0OC1LdzVJSQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-25T08:01:00+00:00",
       "summary": "The OpenAI Foundation plans to spend at least $1 billion this year  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI shuts down video generating Sora app - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHlNanVFcHNJSFVTRnc1OHF3Nk9YM1JjUW9jRlNZamN1LXlmWE1iUUNJUVNhUDh1cUlkWEZwUGN4emx3b21xOFNlbkc1a042YkhZRFdpaklWUlhiblEyTkY5QllXNXJxUWMwcTdGcFhSNzJPbi1GdE5GUWY5TnFyWmlZY24wVUhmVkhqV2VyM1FPeC1kLXVaRHJuMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T07:58:18+00:00",
-      "summary": "OpenAI shuts down video generating Sora app  Anadolu Ajansı",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI pulls plug on Sora video app, ending Disney partnership - Türkiye Today",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYzdRbnZnVWVKT2xWcnc1ZThhY3RjU1d1TkQtbTFRdnpmcnAzb256R28tZkFCSXFyWGdyRi1GZTloSmJWSFI5TVROUFVYa0VyQ21ZLVZjZk1scWdyRjNuSUhsbHowY2hzbEFwekJzaWRCRFd1eXZCMzFPY1pmRzlLVGtfVkFZTTF6Y3RWYUFCNHZtYURZenBMZnJxTDRacElNeUV2NDJ5TGo5X19aeU9jNQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T07:00:42+00:00",
-      "summary": "OpenAI pulls plug on Sora video app, ending Disney partnership  Türkiye Today",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -67,6 +148,15 @@
       "summary": "OpenClaw is designed to execute everyday tasks so you don’t have to, but what are the pitfalls?  South China Morning Post",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI is shutting down Sora video platform, less than a year after launch that CEO Sam Altman said will - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxORTlzbDczM0gzOVVZZXdSX3dybUFJV29UUzlhZjlqQTR6V1RaMDZUSnJ0YjdIXzlVS3JSM1dPemJPOEViVFBxOHB1MUNvdHVtU2hzOFZoU21qYU43VVJndk5CcHBfUWg5NEpBTzZUNDBlYUVmSUNvOGt4N1k3dDNGT0JDQmd0dlFrX2JqMkJUaHo0dTRTNFVBVWtZcUtVTDhobkVGd1JOV0U3RkdhcEFmYjBRV2tUVTVtclRWTGRlb3IxY3RsVjl0VGJXZ2h3Y0VKcU9CY2RIbUxkWWM4aG00MU5RTEdQMmxtaEM3dHI4NnZuSUh2Ul9CQkdXVUFtOUZnaEhpQi1FMDgyYk8xa1dQVWVORVB3MFY0Y0pzQ3JUME5EYlBCclpScS1senVEdkpreHptWUtSdUhxQ1M3UncxQ0RwX1FMQm0tNDczTDVmODdTckt0dGJCSEV2LVFKdmdLMFEwYXRvTdIB7AJBVV95cUxQaUd5Ykt0MHJUckR5ejU2OVpmWjhrYndES0U0T1VkeFp4MnJSZzBpMk12NVhPT3lRdjIwVXVZYUYtMWhjcUw5Uk9sTzBBanBBWUlkOUo2dS1Ed3JfT0lyTHV6YTZRTkt6YzB0MHdBeEViWTNRN0lORkxKblJiSVZlWXJXdlRxNXFuNmhlRTZWamZIOFIyZ0dxcUMtOElrUlg1ckJRdXlMVlZaR0lWSDFuVHM2bnhSNVNlS1h2cWVlVmcwVzVpSEVtU2tpVWp3WlJWajljOGpmSDJGbDFQSFo1eGN6Yml2dkY2QUp0Nkd3dUp6Ym1kNFNTNDJHM2FyOXAwcWZXRlB6RTExc2dlVDZMemN4d3g2VkV5N251Q19GcE9FTHlsUUlaS21BOXozUnc2elVWSDdzejVfejFXbGhCZldkWmJNZ2F4a2MzWDdhemRPTmZqSnl2TDBrQnhUc3R6US1LaVJJUFdDSHJC?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-25T06:48:00+00:00",
+      "summary": "OpenAI is shutting down Sora video platform, less than a year after launch that CEO Sam Altman said will  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "Why is OpenAI shutting down Sora just months after launch? - TradingView",
@@ -130,96 +220,6 @@
       "summary": "OpenAI ends Disney partnership as it closes Sora video-making app  BBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to shut down Sora app and APIs as it shifts focus to coding AI - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUJUTk84RU1zV213dmJDc1hNUGRod0Rxd3ZqZE1pWXk2T05zTXhadVA4TFJ1MWRhNlNfMkpnWU9ybmVLYWJDeTd3a0N1eWU5NTVXMHJNWnZqNVZCRUJYQzNLNmxVRlhmMmdZYkFRLVUyUzl2N3N4eUJETEdIYXRmNHdVRnNZbTFMTmRvcUFVdFhxME53ZXM0WXo5dkpJdDTSAZ4BQVVfeXFMTy1FSWQycWU5MzY3NlVleFFGTXJyVmtQNG16QkFzaUVHOG5TUHR3TlprQXlSbm85S0NaOWkzeUlJdm9xYnAyamJReXRBUEYtQmw4V2FjY3d3VDNyejBhdUFfWXplRzJ0cS05djFtUFBNZ3NJa0dFYW11VFU0MEZuVkIyRjVCVGtJdjQzMzkxVXg4VWd6bzZnWGVhX0IxZnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T04:18:45+00:00",
-      "summary": "OpenAI to shut down Sora app and APIs as it shifts focus to coding AI  Neowin",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is shutting down its Sora video creation app - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnlnakp2aXhFc2RvY0QxalNQUjlkYnFUekpZamFiN09ha1dkcWozOURZN1hoUENfTEQ0QVo0RDZMTUpiT1gxUDFPaUEwN253eFNqX045dWlzR1JFemUteDk2Z1NTbTROUXF1OTJFalBuTXJtbFUwWV9WVTRTSE5DcE5BdUtnZzd5WVZCR01kWGFlcHcxVTV1dkFPcE1HemlMeGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T04:08:23+00:00",
-      "summary": "OpenAI is shutting down its Sora video creation app  NBC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Disney's much heralded $1 billion investment in OpenAI is over as the Sam Altman-led tech giant shuttered its stand-alone Sora text-to-video app. Read more below. - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkwyLVJ4ZWRzeXNjY0NfVWlHenFULWprUlMyNWk2YWJjWURSemFoYnhSNkJtMFdSQUZJRnFFTVUzX3RTWXByekV5bElJTnVaT3NieDJlaFM0WURjeVFtYlJjTFJYN2s2WV9hLUVaVW5ya3NVMFpzcnRZeW5vTHpISHIyb0RnSzVxTTFUNVhfMzFrT2dWX1lHMmhCUHptbDQ4YzJrQ0ZwMUYtaGpNYkQ5dVF4V01jZDVwLUpHdHBIRzZ3TDhQUXllamkxUEROUmZfU3FOTw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T03:00:18+00:00",
-      "summary": "Disney's much heralded $1 billion investment in OpenAI is over as the Sam Altman-led tech giant shuttered its stand-alone Sora text-to-video app. Read more below.  facebook.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Pulls the Plug on Sora Just Months After Launch - Rolling Stone",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0FRTFhwU3hSeHRQS0FwTG45aUhKOGc3Qk5qOWpfQ3hPTUNlbXBHc1ZZM1Bqc3BZVEQ2dXpEZlJ0UHMxcjhhUl9BZXQ2MFl4RU5DZmY2R3gxcTIwZnZKZEEweTVISXZhTmlWd2Fob1ItRm1jUW9vcXdsdzZ5eGJCQjRyLUNhVWEwREtGcWhDYXQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T02:55:26+00:00",
-      "summary": "OpenAI Pulls the Plug on Sora Just Months After Launch  Rolling Stone",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI shutting down Sora video generation app, but without explaining why - 9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUxYdXI1aUtSTUZXS0hlQUwxN1BEU21ZU25rOC1iVk9UVG1OUGw5YjFBblBvMWc5YjFER3lzLXBfbkg0cTZYWUtJUXd5bnVWOUU4MDRralFIeklwd09tWjJqMVA5VXJ3TkF4ZW9URFdBOWhGZ2RMbzJfTVFQVGNPc0RlMjlkamJEYnB1WEFrMnZIWmlsR01tMWJpNWY1UjZNcG5rVHBjNHJrc3Ra?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T02:55:00+00:00",
-      "summary": "OpenAI shutting down Sora video generation app, but without explaining why  9to5Google",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI pulls plug on viral AI video app that sparked deepfake concerns - Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUZRaHpWUS11LXBpU2F0UEZYRlRsbUxLMmxxT2ZIYlR5ZVh4bGYtbHlRVmhnTzA3RmNZWU10enp0UGY0b0tTdW42TGRaaGhrOWhpck45LVFrd1VQSzR4R29UeEU5RFBma1prLVFVTXdJTkJhNV9wdVRNRS1NMTdCLXVCQkw2dms0R0V3OTFTNU9iTEM0cWlfUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T02:27:46+00:00",
-      "summary": "OpenAI pulls plug on viral AI video app that sparked deepfake concerns  Australian Broadcasting Corporation",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Disney CEO’s First Week Marred by ‘Fortnite,’ OpenAI Woes - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNTZaNThOY0JvOXVmZ3hqZjNDLVpmUTA4STNyZFVlci1BRGZVbmxuSnlIdTBrQndIeDBpazdSeGF4SVhtR0RDZENPSkYyUlFBejJKMWNQdk81TWcxZHhFOXlmOTVJejBaS3JMbEJXSU4xVXNSYTFwTWwwS3RJWGxVa09KeVhsTXF6WTdSX0VTZGJTZE9jeXZOX1hYTUdDQ1pkQ2daVFVHQlY0MTFw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T02:07:00+00:00",
-      "summary": "Disney CEO’s First Week Marred by ‘Fortnite,’ OpenAI Woes  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hitem3D Integrates with OpenClaw Agent Workflows Through Skill-Based API Orchestration - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMXFVQUxyZW04ZjhtRGV1WGx6WkwwUVR2am5XcmU5Uk5hN0dEMXBpYjJUaWxHdGNQaWNuaGVoNVQ1RlhBVG9fTGdGdzZmNEllbWlaTHhraWl3ZTduNnRQN040dVFkZEtOb1J2QjY1MmVfdllUNm5jSTNBc0ktUk5hbENjMFl6OUstRmpnNkdlVnNxZDc0Zkt5dk0yRFdSVF9VVW11Ty1wZGhiZFdERDFKa1FkbGpmWDF1cXZBeGgwUVVIdExQZ2hGbHF3cUNlUW03X0l6S3M5V2dSUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T02:00:00+00:00",
-      "summary": "Hitem3D Integrates with OpenClaw Agent Workflows Through Skill-Based API Orchestration  PR Newswire",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Discontinues AI Video Gen App Sora - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFpPeGZDeTl3TWp4clYtR0Z6MlpXaFFJSzlUbFBJRXJ3SUotWDdkTHpqaTBWeXprTFYtR3NSZF9HV0NTNXZ6cm9JU0l1bjgwSF9wX1FfNlo0Sy12OTdaQnJsaVN6cDBYVUN2MXd1d1hUdXpEQVV1VTZvR1c4Qmc5dXFyemIyV1dUbXFNUG9QUVZsM0lkWTJPeklQcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T01:55:15+00:00",
-      "summary": "OpenAI Discontinues AI Video Gen App Sora  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack - OX Security",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVdpN1FCRDQtcmxGZzFvZHk4UGhiMlk0WEhnbnRJX0o1SkZnV3liSTZJNDNnUkt6OVI5RlBZb0pCd0padWdsSnY2T2ZTc3ZuS19kVEtoQ0tkQ0dPSnhUbThKbHQ1QjlyejBoZFVXaU9ESDBwWUlIU1J5M2hVM2ZNcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T01:51:21+00:00",
-      "summary": "OpenClaw Developers Targeted in Crypto-Wallet Phishing Attack  OX Security",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
