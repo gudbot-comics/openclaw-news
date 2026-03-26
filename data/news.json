@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-03-26T22:57:54.334433+00:00",
+  "generatedAt": "2026-03-26T23:35:57.239439+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash - Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JekdQUHhMd2RSb3NaVk1QVWNHQXVvUDJGTUdmc24zRlhCMndqOGY1QVA2ajU3N3RTUF96SU5VODJBa0NiQXI0OWNTRXFtZ081ajZiMFJ0c00zZDQ0T1hjRlN6bzRGbEYxVlQ3U09aVm9xclhQYlFFdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T23:22:29+00:00",
+      "summary": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Ad Pilot Hits $100M ARR in Under 60 Days - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjllOXFvbl9rdFN5UThlV3lUa2RSMEtwOTFWeDNBczVQZG5iTDVnSVVqVjJfQUo3Zlp6UVM5QThnaXFieE1oQTFYdzFaMmhxU3JqeVhsWTl2TkRUdEFFU1NMNjJLeW9YZE9LSmVpeFlLWU1QQUY4cThwX2gyd0VlU2JJNHBaa0t0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T23:13:00+00:00",
+      "summary": "OpenAI's Ad Pilot Hits $100M ARR in Under 60 Days  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Ketamine, WilmerHale Probe Off Limits In Musk-OpenAI Trial - Law360",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2VsWjZwMk9iLXFldzZ6dFRkbnBkd0M2ZUQ4M3NGcl9pQUF3UkN2MUtwSDltN05ITHZhQ3VHTEZuMGVReDlFMXplQ0VBT253anJyVTlHTzZfaHR3Z1RXdFJpeURIWkFSVzhkeVNVWU8yUllnRHhRcE4zU0dhSG1TbmI2b1U5UF82Q2pMNzZRWFFtbmppV01qY19NTnNrZ9IBVkFVX3lxTFBHYWdsODNuOTBaSHhtOTdxZXg3VkhRQUVhQzRqM000WXBTS3lMRHMxMUl4TmZ6dlNvMEZBdENCSlJRNTlNSlY3WW82NEkyWlJvRlc1dHZB?oc=5",
@@ -49,6 +67,24 @@
       "summary": "OpenClaw Is Taking Over Agentic AI And NVIDIA Built The Guardrails  Forbes",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2NCTDhVVXlXZXYxNmRHbF9uQklwZmlVa1RuX3hrdEhlY3lkSzlUSlNrMWdBMjVjSFpWTVpuQ2k3T1c0WThWOXo4aTlCZVFUTUNMLTZiNXM2Tk5YQXo5NFhfYjd1RlE2OVh6QU5fSE11S0t0M1BuWk5tVFU1X0pTRUln?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T22:15:13+00:00",
+      "summary": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter - The Information",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T22:10:00+00:00",
+      "summary": "Anthropic Discusses Going Public as Soon as the Fourth Quarter  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI Is Shelving Its Planned ChatGPT 'Adult Mode' Days After Dropping Sora - CNET",
@@ -184,42 +220,6 @@
       "summary": "Claude Code vs. OpenClaw: Which AI Agent Actually Wins in 2026?  Programming Insider",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Apple Gives iPhone Designers Rare Bonuses to Fight OpenAI Poaching - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2tLa1AxUmlub3B5eWp1OHRiVndYbE1DclNBTW9QaUdjVWVuSGF2SE1LcEt3cmFqR2s2ai1mb0J0bWZIWmxONUw4RnlTVUUwYXlwY3Y3NW5Ka20tOUpTblpiZ3VocUdhSXlKT2tadWNyMjNLMzVvd0NwWElVNTZQNVZ4anRZNnd3cnV2ekdWZFVLOGtZbzduNDQ0Ty1jY3AwUENVWkZuVDhHRnk2NkNrX19IUXhxMUpB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T20:36:23+00:00",
-      "summary": "Apple Gives iPhone Designers Rare Bonuses to Fight OpenAI Poaching  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Disney-OpenAI Split Raises Doubts About Hollywood AI Deals - lamag.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlRKa3JQajdKSTZZZnFwckFwaWFEVTI4MWxwUDBaV1o3WkF3UjFrdUt3dFJKbUlLeHctVHFyRkFUam9TdkVGNEJYTnlNOG9nRHZHRHFFY214enVET3oyLXowalhKRDJSaEFIRkZlaTVjOTFoSm5pQzY4b2hfZXVKc2VHWmplM0E5RXBJeGE5WQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T20:23:54+00:00",
-      "summary": "Disney-OpenAI Split Raises Doubts About Hollywood AI Deals  lamag.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI shelves erotic chatbot ‘adult mode’ indefinitely after uproar over user safety: report - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZVR4VGxHbUtuMHd2ZDN3ZWlJN0dLdjBFRnlEbVVSR3R2VzhzakNIc1M2YkoyZ0RCNjZCLTduMHJSU0I1dVpFVmhlOE1MSlRidldWRDNGTG5ScmxEaW0yWDlMQ1U1aC1zVVBwbDlMbE1tLVg4dmo3TzJTOFVBUmpfZjdESDRwcDRZbXMtU2Q5U1M5amVNYXdJTGRCSWNfSGY2WC1lQWFB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T20:20:00+00:00",
-      "summary": "OpenAI shelves erotic chatbot ‘adult mode’ indefinitely after uproar over user safety: report  New York Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI shelves erotic ChatGPT after staff, investors, & advisors revolt - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BVEpCMExHWU1JdFVjXzJ1VnZkT1NBaHJORnk1RFk5RGJldFlRbDMxVDJkSkZ2c3dwbTlOVmxKQlg3RlhEaGZwVUlzMHdNYkNSLVlPXzh1cHhGZUdBMGhDVnRIc1F1bVowZ2p3WW5tN3VRcjBIc1FnVC1iZ1BKdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T20:14:00+00:00",
-      "summary": "OpenAI shelves erotic ChatGPT after staff, investors, & advisors revolt  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
