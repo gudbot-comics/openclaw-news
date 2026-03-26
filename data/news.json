@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-26T06:50:12.586245+00:00",
+  "generatedAt": "2026-03-26T08:00:20.180175+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "ClawSecure Launches NIST AI RMF Alignment for OpenClaw Agents - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSHoyMllydzlmTS04bU04LURubVFhbTU2V3VxSlVLTTNUVUR2S0tGX2RWd3JET1ZCV1NUTldMNDlZVzh1N09qRV9ZeXA5Wk13ZVVhcTlMeVpVZGFwYUJnODJ5N2s4M1p4S05wb2tTbEIxRk9zM0tyUVl2WDgyaW5QTXJ3WjZhenlDV0ozOTZxTEZ1ZlRZYzZTeUliVl9QUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T07:46:25+00:00",
+      "summary": "ClawSecure Launches NIST AI RMF Alignment for OpenClaw Agents  The National Law Review",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "AI-Powered ‘OpenClaw Trap’ Lures Developers With Trojanized GitHub Repos - cyberpress.org",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NbHNyM0J3XzJyTl8ydXRyejdyLUZwbHdnSDNud2JuR0NzWldTSFpvbDh6WVpuRDVKZHJMVXEwQlZ4N05NR3VpYUVSZFByTzJILUowZHJxWm53MU5ldGJ6UEE2VGRhUE1IV2dB?oc=5",
@@ -60,11 +69,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Why is OpenAI like this? - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjZDd1V1h4NlBYSUFmbU1ZdkhKVUhSUGNCbDBQbWpfXzJIZW05V0w1UTJnV1RBRDNUSUlvcGQxQy05UVhTamdIWXQwZUwtcmkxWTFidGduV2VtTG1mRkViQXVXbnBVVkg1?oc=5",
+      "title": "AI: OpenAI trims AI Applications down to 'AGI' basics. RTZ #1037 - AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZ3ZoSEpVMnpBSklHM0tQWGdDUlJySC1aMVJ2SFZ6c3Z0cm5fSlJ6bHptZXp0aE4xRXlsSmJ1Mko5eE5zMlVRRmtGNHA3Z0NJT29jWExUVW9TcG10T0tWNmdydTFnQ1lwNWRxNTEzUXE2eV94YWZSbDdKRUd6dw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-26T03:34:00+00:00",
-      "summary": "Why is OpenAI like this?  Mashable",
+      "publishedAt": "2026-03-26T05:02:38+00:00",
+      "summary": "AI: OpenAI trims AI Applications down to 'AGI' basics. RTZ #1037  AI: Reset to Zero",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -72,8 +81,17 @@
       "title": "OpenAI Just Became Broadcom's Newest Chip Customer. Here's Why That's a Massive Deal for 2026. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWc5NXlaaXhPQkJ6V2psY2owVi1uMDdVdE1ZcDROVmVVd0d0V1EtMmMwTmtZeTVQSHhacVlpME52Z2NMaVM5SEczQjF4bEhpbWhHYy1LMTQ3VkNRUktMdHZDelZoeWJFS04yUnR1ZE1sdmJ2elJzWERRdzBkNGFTX3RVTmpGR0RQVm5rOXp5M21ia1FMdVlz?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-26T03:29:36+00:00",
+      "publishedAt": "2026-03-26T04:05:00+00:00",
       "summary": "OpenAI Just Became Broadcom's Newest Chip Customer. Here's Why That's a Massive Deal for 2026.  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why is OpenAI like this? - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjZDd1V1h4NlBYSUFmbU1ZdkhKVUhSUGNCbDBQbWpfXzJIZW05V0w1UTJnV1RBRDNUSUlvcGQxQy05UVhTamdIWXQwZUwtcmkxWTFidGduV2VtTG1mRkViQXVXbnBVVkg1?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T03:34:00+00:00",
+      "summary": "Why is OpenAI like this?  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -85,15 +103,6 @@
       "summary": "Here’s what OpenClaw agents are doing today  MSN",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI is shutting down Sora, three months after its Disney deal - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWZVBCd3BvdlZuN1dUY3paSWFGU3B0Ny03RDBNTjl0OEh6NzZqdVQ2WTNFTzRtOVUzX2hIaWVNWjNMRlY3RXJWazV6N0UyTHJvYW9BVnhvaVVOdmJt?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T03:04:06+00:00",
-      "summary": "OpenAI is shutting down Sora, three months after its Disney deal  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "Walmart brings Sparky to ChatGPT as OpenAI rethinks Instant Checkout - Retail Dive",
@@ -123,8 +132,17 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "OpenAI releases teen AI safety tools for developers as scrutiny on youth protection grows - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTLTRsanEzTVc4SzJWSTBfcVYyTHNBbWoxMjZYX3prUHJIczBTeWtEUk5fMUZnZDNQREF0b3NDWmtPVk9VWERVRUxVY0xHaVFPX2txaHFHbTB0NGNVZ2l2dDhJWVIwQWFwM1NaVmhuV1J1SUJPSjZubWw5OA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T01:33:35+00:00",
+      "summary": "OpenAI releases teen AI safety tools for developers as scrutiny on youth protection grows  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQY2F5V0g0NFVkaGZvWmxiVW1jc05IbEFtR3Q2Vk1EanA2ZkdGQU5Ma1dFZThta0xoWF9tTGhrc1ZNbHhJRGgtWVBkMUNUUVVvUzJvOEtnaE01YTNMRkFoYVB0YV9HdFpzSm5Tc3YxLVhVVHV6SkNkTVQ3UUplR0dSZEVPWFpnUk16c0tSMzBKdHBRZzZKU09DVThnbzRhMDFhZFBZVDJWR1RqWnhSOVJ5bVdFczBEVEhxLWk5bHpUOEJwWVM0OVItVXJYeUR3TUZ0Nlpjc01DVC1aWi13Vjk0NXA2XzJUVXUwQ0dUTXhkbFlydncxQTZlUUxBRnFLcWR5Ymg1WENPVHJmM2pYTUNYLWN3SGJvM1dLdEYtUS1wX21Lbm9vdHRLTnFZN2E3RklvQ3VxNVp6NlR1cTVQM0RzRlBvOTdOYlVuV3RvMlhCQlJUYVVRY0NnUHYxYlpEUmFtbTZmMDUzazdWTy1ZeW5IQWpuMzNVaTFDdDRodVVpOVF6RWgwY3BReWRFWlRzeC1XYmJqWUxrNWlhTTNDcFEwQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQMkNDVXk1OVBhSjJWajQ4VnFJRGlVS1ppb2xpZVV1cTJEMUh1M0owNEh4djhBU295cWY2Qk0zTEhKM3gxU2szVVIxZTVqaTliVl9MdlFnQkxzNmhkeEtCdEtHOTY4Tjh0VW16ZllQQzY1RW81ZGdaSWktN3BvV2ZxTDRQTGlxemZCMVE1WC14WXNHMXB2TzRTNDNaUUhFRUg4MFZXMkZUT1BuOVNxRGtXdDkwOXcxVUJPVzBCczV2X2pQMWVFWF9OQlFGckVoYi0xejlxT3BiUEtyYmF0RlBPa1JweU9zdTZ6YTJHaXdlZnp0UUx3YUxKV0docUR1anlNMlBKeTFXSDk2Z2hXMmcyQzVvSk1URGh1MTBHRHcyRURKTU9vYWdoYkcwSUFTeXFselkxNGt1YkE4aUF5MHZWSmlyZkZOX2FrTEMwejgyUEUzLTZnVTFGNGMtX0dLM3NvWjA0U0VOTTFYV0VacUx1RkNYdmxPY25ST2NHSENPT0xxU01DWTVGX09KUE1HSFA1VE1tWUZTUW9xTGRjaEVNVg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-26T01:23:00+00:00",
       "summary": "Exclusive | OpenAI Backs New AI Startup Seeking Bot Army Breakthroughs  WSJ",
@@ -202,24 +220,6 @@
       "summary": "NucBox K13 mini PC runs Windows-Ubuntu out of the box and OpenClaw  TechRadar",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Ending OpenAI's Sora unlikely to slow influx of AI-generated video online, experts say - WBFF",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPSVR3OW5kWEpUVmlhX0ExNm1BNVYxcHZRS3dwa2NXNDVKRF9ZbWpnT2NhRHB0SEZRSjhqaXpsVXgwdm15b3AtWVd0NzV4SnJ3LWs4ZlNUQmpIbUVvaEc4TE8wV1RuUmtvYnZRQncwc3A2Z3Y3MkVMbkpvWElONUFYMXBVdVRqcHQwVVV1LXRQM3I2ZXZNZHF5Z1lNNzhLN21GUE1RMTdSRlA2WXNEUGpWMENwNE55VEFFM3ZsV3VTbC1NdV9wbVFDYTE1UW5USmdpekdxYnhySEFxNU91VmFYREV4ZTV1RFljcUUzdC1zbXpjVTkwTGNrM1RCb2dZWG1uVTdCSHF0ZGJyN2tKRnpmNHJ6WHRYbmhOa2d2NHNJX0Y3d0NiT21SWHJwbmNtRER4SjhBREhFdUJ6UTd6b2tlME5HSG9fRjhWbExsU2ctUm5DTjQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T21:40:05+00:00",
-      "summary": "Ending OpenAI's Sora unlikely to slow influx of AI-generated video online, experts say  WBFF",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Sora app may be going away, but its legacy will be the spread AI video slop - KUOW",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVNMVV93S2dhak1ocVBRaG9IUWRoTWJSZmZfRGQ4YkVyS3puMTdjd3pOMWtQOWJ1Y2JzWGJMOUQ4TnBtdEFxYXk3cGk0NFFZcGRfNzZnSE1RNE5vNmh1dzB1YTZ4bk9TdzlPM1JsYlU4UXhEYlN3WE9yR2xsU2hHSTIxanpjVzgwQlVPRDM0NVY1ZUNTTnpGN21aZUhOM3g3TEp4NWFOdzZVb2NLZkE5N1VB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-25T21:36:33+00:00",
-      "summary": "OpenAI's Sora app may be going away, but its legacy will be the spread AI video slop  KUOW",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
