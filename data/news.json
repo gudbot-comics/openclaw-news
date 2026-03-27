@@ -1,16 +1,43 @@
 {
-  "generatedAt": "2026-03-27T20:33:51.366452+00:00",
+  "generatedAt": "2026-03-27T21:06:22.469388+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Anthropic and OpenAI Just Gave Us a Glimpse Into the Future of Model Pricing - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXQ0dm90eC1JMFpydWhoRTk0d0NqeUEzM1JfcDVNMkhHRWcxeDBHLTZlZ25KZk5zcEhDUC1OY3NLdHNpVjRUeExRbVBBXzExZ0xaNVhBZy1OQkFqZFhQM2wtVlVNQW9FUm9jQUxBbUhGeEloS29DeFdqbHpjdzYtQzFNVEp0WU1taldQcnFtdlBpeGlQem1wcGhxMk5PYzVTN1dWanpaLUFUYU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T20:55:29+00:00",
+      "summary": "Anthropic and OpenAI Just Gave Us a Glimpse Into the Future of Model Pricing  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Sam Altman Resets OpenAI and Personal Priorities Ahead of High-Stakes IPO - observer.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tU3ptd2VKNXB3c2lDUXFOMG1UbjMxLTB4SjExN3JWR2ZXWFVwSk9JYW5GVkJjeHFwMTIzUXkzd0dQbEFucEhmSHZXb2FpVlZKQVNfV2ttb0ZoQWc1TkQ2eFdHZjVacjVVX0lVd0ppUDJybnV1Q1lWZTgyUzdhZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T20:25:22+00:00",
       "summary": "Sam Altman Resets OpenAI and Personal Priorities Ahead of High-Stakes IPO  observer.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Altman Reshapes OpenAI Structure Ahead of IPO - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmExX2pmTFVJaUZ4TGxueFVheFdXWFdxbk5IT0NpVTF6RWNKakp2NEI2bk5xb0VqeUxjR1pmcWxhLVl0N3o0X19KZzZoVUVCWlIxQnJhVGFud2tTSTM2cDFDMnE1RW9naDBlLWNhYW5EaHJ3SXFmR1NaT3JvNzdObDNNVnAzVXFzSTdIek9WOUU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T20:25:19+00:00",
+      "summary": "Altman Reshapes OpenAI Structure Ahead of IPO  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank Secures $40 Billion Loan to Fund $30 Billion OpenAI Investment - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjlFbkl0Z3l4eWFkNHlnUnpqUmpielpHbS0xM2tEV2ZPWjhfd0ZRRzdic0VyUFY1elI2bGNfcmtEWEdjRHJreVI4UlI4cWtEZGZOY21LamR1aGpGTW8xeUxWMXN6aGVTVC14OGd1X0xRcFZ0cV81MTBNWWxCTWstVUVIV1k5ekg3YzR1aEhFc0k5WVB5ZHV0Q2k0bG5aQ09FOWlWNGlGeEtwUFJ6Y1JLSjMzMF8yM3luY3dnYWtQVWN2Y29sVkRBXw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T20:16:19+00:00",
+      "summary": "SoftBank Secures $40 Billion Loan to Fund $30 Billion OpenAI Investment  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -58,6 +85,15 @@
       "summary": "ClawPhone: Redefining the Smartphone as a Living AI Agent——the first native Android app for OpenClaw  Pandaily",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Launches Bug Bounty Program To Cripple AI Weaponization - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdG16MXVPM0JVbk1OUDUteXZEeENMS1ZSdHNqdG5uREVJekV5ZEVWaVdvczViRTNJTjRpbFNxZU9raU1oOGxQWTd4NFZJSlRGeFFBU2FDeHE3VmZxaG5IcXppUm5BZVBoUm5hdWV2RVEzaWFkWmkxNU44b1FBZ2pPTHpHRUt3blRNNV9lNUQ5aFQxSlNBUUQw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T18:49:06+00:00",
+      "summary": "OpenAI Launches Bug Bounty Program To Cripple AI Weaponization  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "Microsoft Steps In After OpenAI Abandons Texas AI Data Center Expansion - Fine Day 102.3",
@@ -123,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Exclusive / How I jailbroke an OpenClaw PR agent - Semafor",
+      "title": "Exclusive / How I jailbroke an OpenClaw PR agent - semafor.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WMHI4RmdneEdsb29kZjFEbVBMSWhJQXJhbnlKbzAtb0JmQlQzLTROWHFCU1FYMzdZa09ndVE0ODlidExCTnFrQ2h1c01pOVkxU0FWbUZLeDZOcC1fc21MejhUb2hiZV8xc1VnRGVqZ0dsaGQxUFBOZ3dB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T18:00:00+00:00",
-      "summary": "Exclusive / How I jailbroke an OpenClaw PR agent  Semafor",
+      "summary": "Exclusive / How I jailbroke an OpenClaw PR agent  semafor.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -141,29 +177,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Why OpenAI is Putting ChatGPT Adult Mode on Ice - AI Magazine",
+      "title": "Why OpenAI is Putting ChatGPT Adult Mode on Ice - aimagazine.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1hoVGNMQ1ZfN25fbjhzU1V3MC1YNk04V1ZFZ3FmRzRScjY0MVB2T296RUZMV1FDUVFKTnN2MnNCY1UwLXlmb0JQLXBORk5EcnJUMzlPODhXbDB6dUFhbzhCaW9UUnJzYm9QNGFMS1RpU245THNSYXVXN29vYTI0Yg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T17:26:15+00:00",
-      "summary": "Why OpenAI is Putting ChatGPT Adult Mode on Ice  AI Magazine",
+      "summary": "Why OpenAI is Putting ChatGPT Adult Mode on Ice  aimagazine.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Launches Bug Bounty Program To Cripple AI Weaponization - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdG16MXVPM0JVbk1OUDUteXZEeENMS1ZSdHNqdG5uREVJekV5ZEVWaVdvczViRTNJTjRpbFNxZU9raU1oOGxQWTd4NFZJSlRGeFFBU2FDeHE3VmZxaG5IcXppUm5BZVBoUm5hdWV2RVEzaWFkWmkxNU44b1FBZ2pPTHpHRUt3blRNNV9lNUQ5aFQxSlNBUUQw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T17:15:14+00:00",
-      "summary": "OpenAI Launches Bug Bounty Program To Cripple AI Weaponization  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw is coming for businesses - Semafor",
+      "title": "OpenClaw is coming for businesses - semafor.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWndRbTRZVGFzTFo5NC13c1FGZ3BLWlVzcVp4cG1Fei1kcFBwMGhXUG9Pa3M4Q2V5MUl0S1RNMFVEekgwS1dtY2Zya1dhZVNDVUJkSXJZM0QzUnJVOXBuNVNlLWRmNktrazgxd1NkOGEtbTdlM3RqbFB0MVBINFZLMk53?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T17:04:00+00:00",
-      "summary": "OpenClaw is coming for businesses  Semafor",
+      "summary": "OpenClaw is coming for businesses  semafor.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T16:05:23+00:00",
       "summary": "The two fronts in the OpenAI and Anthropic battle  Transformer | Substack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "$40 Billion: SoftBank Reloads To Chase OpenAI Gold Rush - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTF9wRTNUM3hZWDJSRzUycVpfS2N0ZlFHSWpudkxicWxMTkJhTW1KcTBSREhlaEpZZW9yTjlpWjlzbW1IMzhxTDRzUTZtdG9xRC1ORHN3ZDduMWctY3Q2WHh6UlZacmdGelFTbUtBT0lqY2hfUy1ud2w0alktaU9hMm1hS0lBQXdEamZ1S3VDTk5zSml6U2wweC1jYWoxMVNranVzbndJVlhpZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T15:48:12+00:00",
-      "summary": "$40 Billion: SoftBank Reloads To Chase OpenAI Gold Rush  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Hype? Emergency power supply for Mac Mini launches on Kickstarter - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzBKcm9xZS1mdUdiMmNjYkR3SlJsamZ5Q3ZadmFQVXBFYkVQN18xc01YLTFsMmE4UngzeXhLVGVfenhEVHZ1Y29KLUhxTTNnVWU3Sl95NnRnemxKLXZDenF1T3ppOUdWbUhZbGZBTzhkcTFBdlNwQm5YSkplQTc4clNNZWJVV0N0eWFEMFdMQjFfQnNrMnJvcWZ2V3N3VGZxdHoxYUVCc3RmOXE1Rjg2NTJEV2RHdS0zT3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T15:17:00+00:00",
-      "summary": "OpenClaw Hype? Emergency power supply for Mac Mini launches on Kickstarter  Notebookcheck",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI pauses erotic ChatGPT plans to focus on enterprise - Silicon Republic",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXN1Zi1rWFZMM3R6Vkhkbi00WlAyQlhlOVQwZHh1ekpJUFdxWkwyWGlad2s1NFlHNkxOWVoyRDJkc3FRUXVELWE0T1pKblJ5ZU9NYVpETmFqd0NMOFZBT29YZzdscXkzcEFSb3ZBajFPRC0tMHRoVEJ1d0hVaGp6ME9EVzJSQkl6Z1c2eTZtV0tMS3V2YmVQd2FubVFPQ2Rr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T14:59:45+00:00",
-      "summary": "OpenAI pauses erotic ChatGPT plans to focus on enterprise  Silicon Republic",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
