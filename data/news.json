@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-03-27T11:23:40.211463+00:00",
+  "generatedAt": "2026-03-27T12:01:16.830642+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Former OpenAI & Google AI Experts Launch HyperDev - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYWZ4NlJoVWtKakVvblh2bmgybGx4bnR1V2J6czF4dWJqVjJHcU5EaVY1M3VwNHZrNUxRTVJLQkp0dmV2ZllURk5mSWRWcUZfc05QTk9qOGFkMmNVNlNrcmgzeU1veGNXdVdyWVgtczFuQS1LT2VwbndpeEw3OW9pUzFpdjdscm5lUTJMWk56S0o?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T11:49:00+00:00",
+      "summary": "Former OpenAI & Google AI Experts Launch HyperDev  The National Law Review",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank Secures Record $40 Billion Bridge Loan for OpenAI Stake - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGNTSE9iSXNCZWU4VWVBV0htUWMwZ2J0Y0xCdFlRMXVYUnNyTzJxS1ctZS02MjI4UDRQaFFxdUNRc2pRNmZ3SXdNUVdFVUthOFBaNVhyd0xWUVltQlROTVhpQlJCMVhyakpKUU1JeVNxOGxLUjA3S0pLMTc1RVJBYjlkS2I3S1c1bm5VaUpUa0Zxbl9QT3pWejZmYzd5RlVIMHZxNEJ0UlpERllHd1FDSF93WHM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T11:48:32+00:00",
+      "summary": "SoftBank Secures Record $40 Billion Bridge Loan for OpenAI Stake  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "With Sora’s death, AI’s age of frivolity may be ending - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BQ1lEd1FpTFhjYWJWOGZ2Z25VTDRwNVA2cnFJa1N2S2Uwb1FLOEgzOHlXSVl1ZHIwVkd6REtja3dpd1lzampTSlpPOW4xMlpWTE5FQVhyUm5pWU11ZXVpUUJZT0N2NzJySzNiU19R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T11:37:32+00:00",
+      "summary": "With Sora’s death, AI’s age of frivolity may be ending  Fast Company",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank secures $40B loan for OpenAI investment, other purposes - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlpyTlhGQ2ZoVlBtNjVuenB6VjF1M1p5Tk1iRXpQSF9Kd0xTeWNwZEV1eFc3a3BsXzQ5U1ctN0twU2pxWHUzZFJBZXN3Z3RhN0JVeGhTQUNXSGxsLUVPNXRoM1BIM25ORUNlLTlzdjVfelhJQVQ1bm5DR3BBRkhHZDNJMFloTy1PQ20tV3RpVGFkWDN1dC1uRGlKc2ktRDlsLXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T11:36:58+00:00",
+      "summary": "SoftBank secures $40B loan for OpenAI investment, other purposes  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic data leak reveals powerful, secret Mythos AI model - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNEpYOWpycHpGeEowY0pXVjg4dVRVWWZCb3FMU3hqTW9DMXN1bjZDVDRWa0d5b0RYQkFCRUpUVmtJaHBORTVDamtiQm5JcXJRT185dGpyQVE5dWlQLW5VMTZSY2NvdkNGYWwyX1U5QVFGQWYtRkd0NmdoZGswWDhlT2ZwcFFlVTZ1bVYtNnpfd1NSd1E4cWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T11:23:00+00:00",
+      "summary": "Anthropic data leak reveals powerful, secret Mythos AI model  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Claude Outages Surge as Anthropic Chases 2026 Revenue Lead Over OpenAI - trendingtopics.eu",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ1JsMGkweVozd3lmbVFfSGpEVnN5OFlka1V0OFNDLXpTSWlSUGpPUkluVk1Nd2RKdUoycm5hYlF5QUJJTjJlWnBDVWRyYXJMdWVtak9wNjhqU0RTR1lpWjF5REZJbVVxRU9ETkJLODZ0Ym9BS2N0VTZZc3VFalc5VmRfNnBTVFY4SXEyNjBuY2pvN1V4NW5qTzF2T0EzV0hZVXBZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T11:22:08+00:00",
+      "summary": "Claude Outages Surge as Anthropic Chases 2026 Revenue Lead Over OpenAI  trendingtopics.eu",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "ChatGPT's Ad Roll-Out: 500 Queries Reveal OpenAI's Strategy - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEZoTzVEZzhnckczUUdZN1F1RndacDdWQ1lCNFZRQ293MHlmLW5JZXQ4emh4eDVjSGw4UUkwN0ViUkFpX0hMUU5MbEZ6TTZOS1NjQlZuZjR3anJQal9BTHFlYmtDaGNISjNvalU5ZFM5OVhjTkpfMUVGc3o3YnhvcERyMVlyN0wtcGpuZmpwdUFpRHdpbFE?oc=5",
@@ -24,20 +78,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "API Key Leak Exposes AWS, Stripe, OpenAI Credentials Across Thousands of Sites - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQemZSaTY2TFJPNklQcDJiUkFBQ2NzbllSdktaM3NiYmxPVTNiMzhzX0pYSzhFbjg4ZXAwQXk2RkdZbE14OUVxdnZXU0dDSHNmWDRHV0stT1RrWEtXbjhfWUhON1hlSXBLVDJPLWVLU1Z0MkpJWkVnVHlwejhFbC1oRmhLc3ZWenNYOG03MnpqYm9HZGY5MUhuZUFOYmIzQ0hWMmpBNlMxckw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T11:10:40+00:00",
+      "summary": "API Key Leak Exposes AWS, Stripe, OpenAI Credentials Across Thousands of Sites  International Business Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Is OpenAI's decision to shut down Sora a bad sign for the AI industry and proposed data centers? - WZZM13.com",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzg1eFl1T3hUT2hLUzZTcENaM2lwOVZzakF1LXpqbkZTdEFFdXBPT0xHMGFfMFhzNHI1ZTloR2d2WXJOUGNIUVRFcG01b0pEdkZraThRQ3hCSnBHMEVqbXpsV0huQUx2VS1jY2tpcmJuLW1TS3dBeDRkQ1c1WjJIQXdPek1pUXNtaTdEQVdjTWQ1YlBxQ21aVWh6RFNlRzY1UEYzdVU1RUZkS0M5YXAyV1ItMXc4Z0FFXzVDQ2huWkp2R3NMQXdQZ3lEUU5Tbjh2ZW5ObEtvWGlQRmFzQmZtbWNpWDE0MWtCNGc5c0FEN2Q0Zw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T10:40:00+00:00",
       "summary": "Is OpenAI's decision to shut down Sora a bad sign for the AI industry and proposed data centers?  WZZM13.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple is giving iPhone designers rare bonuses, and OpenAI may be the reason why - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNWFhMWxBV1lPd3BTS0ViOEVna0R6LXZybkY4akUyNndFQ0hBT1hkc2JuLV9KdGJfS2JaSW5saHZsWWdKRTJzeUZUTnQ4SVpDamZfeFFFWDhhRVlSMW9VU0VCR1RpcDlYVWtrUFBDZW8zaWFDc1NxamJ5X0htYjhfVkppWDV5cms2LU1OYlI4YXpza1UtcURLNW00VkNvTGJ4MERreG83VlhxbDRfTXN3XzJTeEhWTzkxeDNMQlJtaS1lZ3hGWlhfcnJXQmktZk1vbXdKUWZxck5rV0pZblRtaFRnREp6MVFQbmtuaVptSTV3WUXSAfgBQVVfeXFMTXo4S2lqeEIwV0laVUNWOEd3OGxNTldiWU1wY1hObEdyQzctYzE0czFGcG02Q1F6X3pTU2xNYkZKdjFHR1d1c2pqZWhJb3k5eWhsRzZaaDdqeXFNeTBYeWZKZlhjN0FSNm1wUzdfSVVGZXpjamdpREthRzZZcWtoZXRXVWZMNEZuWXlFNW9iaVpzdzRMRFNxTGtBUXhsVnBJcTRRa0ZNRlAtZEthVXQwMG5Jb20wUVN4WWtQLVlGZkFybW9rNlllX0hWMDg5a21xYmlNTGZiaXctN3FCLVBvWWJFOU01eVM2eUNBejF3X0p5TWQ2WHRqQmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T10:31:00+00:00",
-      "summary": "Apple is giving iPhone designers rare bonuses, and OpenAI may be the reason why  The Times of India",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,15 +146,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T10:16:57+00:00",
       "summary": "SoftBank secures $40 billion loan to fund further OpenAI investment  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank Secures $40 Billion Loan to Fund Further OpenAI Investment - U.S. News Money",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzlMOHBPemZqbHEwNHk5eXpsbFZaVGhCSHJzSk1ZQkpYV0ZGUXVqRDBiRUcwTUZWU1htbklGRGEzTFBrQWM2UEljY1JkdGhFNEhoS05zQUEzNUUxN05JdjRWZkFib0tkNWo2OVZUMXBVMjRubkJBWGJha2dCLW9Wd2d5RXZmdHljQnRDeUFNejJUNDhsb0Q1YXk0cllTQmw2UlNnMHA4aTh1RW5iSjVISnM0Sko5OHBlUzVILVg0WE8zdE5v?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T10:14:00+00:00",
-      "summary": "SoftBank Secures $40 Billion Loan to Fund Further OpenAI Investment  U.S. News Money",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T09:02:27+00:00",
       "summary": "OpenAI pauses erotic ChatGPT plans after internal pushback  Silicon Republic",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Shuts Down Sora, NewFronts Take Performance Literally - TVREV",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sdzktY1R4SmtUQUJEcjl4ZUlKWXQ5eDhsVFRTcUU0Vi1VTGtnVlBuY2h4dzRPcW5abVBZc2RhdW93VjBUTkozZjFGeW9BX0U?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T08:57:08+00:00",
-      "summary": "OpenAI Shuts Down Sora, NewFronts Take Performance Literally  TVREV",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Next Big Revenue Driver Is Here — ChatGPT Ads Hit $100M in Just Six Weeks - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGxpbmo4RnZEcjA5M0F6TE5qOXZGS05CUzlxdmhLYnJROWZYMzdlVVYzZW5VazlaU1lQZEVPV2NocW9jX0VkQk93NkRuRDZXRFZLN1BIaWRkSTV3NXhJTXNvUzZDRjBvRTNybVZfbVdhNjA3UVEzQ21XcUk0R1ZxTkxFbTVIZG1VWlUzWWtTWlNzRnBiVFd0QkxFRkRxeElmNGFuc3VsckVNS0Rz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T08:40:39+00:00",
-      "summary": "OpenAI’s Next Big Revenue Driver Is Here — ChatGPT Ads Hit $100M in Just Six Weeks  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Yang Zhilin, Zhang Peng, Xia Lixue, Luo Fuli, Huang Chao Discuss Lobsters and \"Token Economics\" - 36氪",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LdE9OcTBGWjQ1RG45ZFZuUEJ3SHdCM1JheXo2V0VkTzlfWk9henRwanRCY0NiSjVpQjZWdnVEWk51eHV1VV9kTVptQS0xcEo5el9n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T08:24:52+00:00",
-      "summary": "Yang Zhilin, Zhang Peng, Xia Lixue, Luo Fuli, Huang Chao Discuss Lobsters and \"Token Economics\"  36氪",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Apple may end its 2-year-old exclusive deal with OpenAI that made Elon Musk so angry he threatened to ban - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQNThxVjJxS0dVVHBEc0xsSkhuZGpQMU05NldyeFpuc3FzTDMzSzZUSnRyRkR2RnlyYkVNUVIxeGdIU2FnemdLczI3a1FLN1ZPZzIxc1FEOUYzTnZGOElHWUZERS1PRERuNEJEUG95NVBCMmxLZnpNNEx2OXpIblhYY1luazREbmFUZk1lU1Z5YldKT00tYlNxVF9VQm81X0w5ZUlBOGw1R3daTHhCUjJmMG5XcHdpamwxMTZWbWxhNXdOUnRtSU9oX0NnZFktcnY3UTJrOE5wWFJib3FRRHZkUG5jOWdCT3hsYk14YUlwMzNaRm92NnRvcGZMbk1kX1A3QnBhb0RtRnhfSXdqNmtaTW5GdGp4cmpjN05RSGhyX0lCMEhVbzNJVzRkaFV5eUhzU0N1MkNBZUVDX05k0gHCAkFVX3lxTE50T3I1ZlZqSXg0SHkyclVFVFVIcWhZM0kwU1BCWlFRekNOYUg0MjM2SWRnZ3JNZFo5Y1YtOEdhdGQ3TmJLcFlCN3VfNDFqYUltQzZOaWd5WWp0dkV3R2taQkoyQWZRYXZFY0lHbm5pQXdRWk44TVpNeFd3cGI4TnlndXJlWWZjT2oyNVZnRXZJcmpYX0l6cE9DNjFFeXVSM3VKUlNtZXdUYnJnb25jd1p4VkRkeDdnTDRnN3JZZWhaYUI4c3RBUzBINVFqNlJUbktQYU5pOU9ueWdjTllMNVJsNlNlSDFNWDctcU51dG5CcTVYSmpCZ3B3QmdBRHpndXFWY2RPV3dsU2hXUmZnVEhuMFlFRURhR0VveTNGSW5ObkJHRVpydjZZQlJQZldRMjh3TzNNdG9QdnYxRnZQYXAtakE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T08:15:00+00:00",
-      "summary": "Apple may end its 2-year-old exclusive deal with OpenAI that made Elon Musk so angry he threatened to ban  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI ad pilot crosses $100M annualized revenue mark in six weeks (OPENAI:Private) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1FGYzV1ZHg4Mm9RSk5QM2ZONkl3STRTMFpDbTBnVXhLZ2VUT3RUSGo2Mm82bDBYN3JPejBENFZfWTRIZU1yOGxyQmRvOG9RZ1hPTkRLTGlyTE1lSWZhWjJUZW44aGFPZ2podXVpOC11Z25td2RaWUtsck1JV1hWVVVuQW0ya0tyRllfNEJtU2tIQjFEaG0tYVBPYmZ5bkNraUhKU1dR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T08:09:55+00:00",
-      "summary": "OpenAI ad pilot crosses $100M annualized revenue mark in six weeks (OPENAI:Private)  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
