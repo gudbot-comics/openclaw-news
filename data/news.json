@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-03-27T16:27:39.520960+00:00",
+  "generatedAt": "2026-03-27T17:26:46.660230+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Launches Bug Bounty Program To Cripple AI Weaponization - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdG16MXVPM0JVbk1OUDUteXZEeENMS1ZSdHNqdG5uREVJekV5ZEVWaVdvczViRTNJTjRpbFNxZU9raU1oOGxQWTd4NFZJSlRGeFFBU2FDeHE3VmZxaG5IcXppUm5BZVBoUm5hdWV2RVEzaWFkWmkxNU44b1FBZ2pPTHpHRUt3blRNNV9lNUQ5aFQxSlNBUUQw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T17:15:14+00:00",
+      "summary": "OpenAI Launches Bug Bounty Program To Cripple AI Weaponization  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw is coming for businesses - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWndRbTRZVGFzTFo5NC13c1FGZ3BLWlVzcVp4cG1Fei1kcFBwMGhXUG9Pa3M4Q2V5MUl0S1RNMFVEekgwS1dtY2Zya1dhZVNDVUJkSXJZM0QzUnJVOXBuNVNlLWRmNktrazgxd1NkOGEtbTdlM3RqbFB0MVBINFZLMk53?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T17:04:00+00:00",
+      "summary": "OpenClaw is coming for businesses  Semafor",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Microsoft Leases Texas Data Center Site After Oracle and OpenAI Walked Away - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUdVNFc2TXpuUHpRWi1nVzZGbUNCS3VMaUtQdUhCQWgwQmJIRXNsVzRiSDNOSHpxcUFESkRRSHNXaVhsTXBTczRuZ1RVSGtnZUFWeTRBbENWOVJHZVcyWGU0MXRpLUJwNnp5QTcwd3MxUXd5UFRwem1PWFdpY3FDVVY0X01ZRnI5MDhibFByVWlmQ3ZGeHlpWmtGZnM4MDV1VldFUVlxQnpZZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T16:57:00+00:00",
+      "summary": "Microsoft Leases Texas Data Center Site After Oracle and OpenAI Walked Away  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank secures a $40 billion loan to boost investments in OpenAI - The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3UyUXJMRThoODJ0bFdFYm55eVU2Qi1XRlJEM3o5VmJELUdrTHRmTVE4cVdZTW5qSDJZQVZGaG9vVFJ0SWliaEFiTnh2X2lwWm9KdDBMdjJFaGJkRzQwUFh6N08tSlQ0dEFoT3BJMGI3NVZSZjgxRHI5X3lKNlFRX0ZUbk5FQjRZUmZreldHRVN5VTNqS3JZWDdSQ1ozWXVydjRCMFY5dl9xZDFzNUwyZktFRENzcHFD?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T16:55:05+00:00",
+      "summary": "SoftBank secures a $40 billion loan to boost investments in OpenAI  The American Bazaar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "The two fronts in the OpenAI and Anthropic battle - Transformer | Substack",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWJERkc5YmlaVU9EYktmcFh6REdLV0hhR2tsSms4Q3VWMFdqMzRkU3Z1Qk53OURCelNGRGt3V2Jiak1BdVJkVkR5dWFMMk5hZlRxT1E0MU4yWF9zTnI5WTJXYkluc3VHY1hva21RVGpIcDBIMDV0cVdsRUIxZ0YwYjhZVjVHanhBeWc2RGhiWjV1YVFIWVdVc3kzVXBLVkVJNk9rZEJIS1F3S0ZMRDRBeXFwOWFxX1JLeWQ4RTRvRFl3UEdlZ3ZwcDlOUDBCNU1WNFRsdGVkbw?oc=5",
@@ -33,15 +69,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s Codex gets plugins - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uS0dGZ0dZTkJNa0p3c3pFSlc1a1hZb3VoaWJ6Z1VVNlRfc0xCWWJfd3NHRzZHazFCLUphNWtweG9EQVY1STR0VVRobUpUT1M4VWdjNW05LURDZjZJM21j?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T15:22:10+00:00",
-      "summary": "OpenAI’s Codex gets plugins  The New Stack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenClaw Hype? Emergency power supply for Mac Mini launches on Kickstarter - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzBKcm9xZS1mdUdiMmNjYkR3SlJsamZ5Q3ZadmFQVXBFYkVQN18xc01YLTFsMmE4UngzeXhLVGVfenhEVHZ1Y29KLUhxTTNnVWU3Sl95NnRnemxKLXZDenF1T3ppOUdWbUhZbGZBTzhkcTFBdlNwQm5YSkplQTc4clNNZWJVV0N0eWFEMFdMQjFfQnNrMnJvcWZ2V3N3VGZxdHoxYUVCc3RmOXE1Rjg2NTJEV2RHdS0zT3c?oc=5",
       "source": "news.google.com",
@@ -51,11 +78,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives - Mashable",
+      "title": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives - mashable.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2NCTDhVVXlXZXYxNmRHbF9uQklwZmlVa1RuX3hrdEhlY3lkSzlUSlNrMWdBMjVjSFpWTVpuQ2k3T1c0WThWOXo4aTlCZVFUTUNMLTZiNXM2Tk5YQXo5NFhfYjd1RlE2OVh6QU5fSE11S0t0M1BuWk5tVFU1X0pTRUln?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T15:07:19+00:00",
-      "summary": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives  Mashable",
+      "summary": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives  mashable.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,11 +177,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Why is OpenAI like this? - Mashable",
+      "title": "Why is OpenAI like this? - mashable.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjZDd1V1h4NlBYSUFmbU1ZdkhKVUhSUGNCbDBQbWpfXzJIZW05V0w1UTJnV1RBRDNUSUlvcGQxQy05UVhTamdIWXQwZUwtcmkxWTFidGduV2VtTG1mRkViQXVXbnBVVkg1?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T13:49:30+00:00",
-      "summary": "Why is OpenAI like this?  Mashable",
+      "summary": "Why is OpenAI like this?  mashable.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T13:30:00+00:00",
       "summary": "OpenAI shuts down Sora while Meta gets shut out in court  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank Group to Get 40 B. Dlrs for Investment in OpenAI - nippon.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XTURnR2d4cFRYV0VoY0RhYVdld1Q2dXU0UXNaN0V4VEd2Wjc5eEpsU1I5aHphX0htcDV1VGk4VmlUS0ZyQ2EzQ24wMmt1M0JqaVNrOWVlMWMxU2Nq?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T13:29:29+00:00",
-      "summary": "SoftBank Group to Get 40 B. Dlrs for Investment in OpenAI  nippon.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Who Asked for This? Faculty Are Fighting Back Against Big-Money OpenAI Deals on Campus - University Herald",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDN0eWNlNDZzWVJycWt1Vl9XV1lFdWlKV3pwVjEzTE95QXc1Vm9VWXNqdlBEUjRweHRBeHI4UE5QcEs3bHZvR3ZqemVfTVZqbENvZnpzQzFhMGZJdnpaLUxTQkxrWm9NUC00Q0ZvYzZOdk5CemJiSEt4UnZETzFVTFBMTTFuY1BZWHlUOXlSY19XUWZyVTY3a1gwWmlKTEdUT0lLT0U3dDZOcGlETS1iOEx0dXpVdGFrbF9MN0RRMzhnVmhmSVJORlBueDFkUlh0QkoxeQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T13:22:58+00:00",
-      "summary": "Who Asked for This? Faculty Are Fighting Back Against Big-Money OpenAI Deals on Campus  University Herald",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Eightco Holdings Stock: Worldcoin, OpenAI, POH Assets Overshadowed Dilution (NASDAQ:ORBS) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUxaZ292bUpuUDBCVW02UXNKVlBFaHF1dEw1S015RmVCeVRsYTZBRmtKQ3M5Zi1DTUVHT29pdHhHSjRiank1QkpJbFdnM0Rzdlo4NlRUZnRxYjNhYW9RXzdjMC1rb3FtUkhyc3lsd1JlVFFLOU14ME9NUkFuMWlfYV9ENHRtT0ZGMVNjeS1UUnBYVDlkUmxjd1RFTC1hVHhqR3AzWUd1aUhMMEpZV0xSYQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T13:00:00+00:00",
-      "summary": "Eightco Holdings Stock: Worldcoin, OpenAI, POH Assets Overshadowed Dilution (NASDAQ:ORBS)  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
