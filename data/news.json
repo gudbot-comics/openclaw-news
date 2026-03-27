@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-03-27T00:00:32.090618+00:00",
+  "generatedAt": "2026-03-27T03:27:30.329352+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JekdQUHhMd2RSb3NaVk1QVWNHQXVvUDJGTUdmc24zRlhCMndqOGY1QVA2ajU3N3RTUF96SU5VODJBa0NiQXI0OWNTRXFtZ081ajZiMFJ0c00zZDQ0T1hjRlN6bzRGbEYxVlQ3U09aVm9xclhQYlFFdw?oc=5",
+      "title": "iyO alleges trade secret theft in OpenAI/io case - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjV1cWRSVDE4cW5Lb0gxYlJjNW1VNlFnc0NCS0hyNG4tNmNSN2Z4dG1kTGJjSU01aEEyVUtWU0pzd1c5X09GZEp5cHU2U1ByM0o3eDJMUGZRdVRzeTVvNTlEY0ZaQkl1bmFPMkJFOUo3TlFoTHY4THF0TEZObUxqeS0wR2RwWlJ6R3hjdWpwN3FveWVoMUNUMTFnNTNQTGxZS0E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-26T23:22:29+00:00",
-      "summary": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash  Axios",
+      "publishedAt": "2026-03-27T02:48:49+00:00",
+      "summary": "iyO alleges trade secret theft in OpenAI/io case  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbDJxTTJFbGlGVzdIcUpsR2wtV19tRFhYZkhWaFBhMGppYjgyYnJOTGwxdFNIQ1RSWDRQelJDSFRpSDBTYUpOY3lJeTk3ZlJfTTFfcm4tZkRHWkc2Z0hpUTZaSTltVWNKNWdVNk9MOUE2N2J6V2NnOGtiUG5CUjFseWppcE5EanFXYmVTOG0yaUVTTi1mYzUzQkFHT0VabnNDWDB1ckxB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T02:48:40+00:00",
+      "summary": "Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI  digitimes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI shutsdown AI video generation app Sora - WANDTV.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRU94SGJRWkVMM29aaFItcEdZdG9GMExaRFJrRTIwckFKVkVwLWg5NGxqMmFwUkRtZmxicWxkNEZoSVVPbm1meWxYakp2RHM2bFk3RTl4cEpZTkdIM29tRkVLNzRGQ3AzZUREY285QmJxZFBqUDd6cjl1UzhrM3owaEpxQWhHcUFCV2s4cmtuZm5IUEllUi1UZzdHOFV6QkpYa0tMNzByRk9CR1pndm8wMlREZkhDaC05MHlGZjlRVXdlSDBFMnlZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T02:38:11+00:00",
+      "summary": "OpenAI shutsdown AI video generation app Sora  WANDTV.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI $1B foundation plan targets AI safety, jobs, and health | ETIH EdTech News - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWFlua1ZLOXVCbUtwTVZreVlRTGl5c0xrN0cwM1UzMExCaUZaV3F5amtsV2FXTXUxNlNkUFlFdEtxelg2Sm5SLVJrT3lpQzE2LUZjZ3RVeDZCQkxwbDhPdWpETlEtNFluLXJmN19fRHNMcE44bjBIOGpRVXRTNGlGdFlzUjlFVVowUzBjdzdTU1VoX1V1YzNCX2VzVU5JTjJnWnRBYUJUenRQYlRiNXhQWjdmdU03eGNjMGQ2eGxqdXRyclJmZnp5S1ln?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T01:03:49+00:00",
+      "summary": "OpenAI $1B foundation plan targets AI safety, jobs, and health | ETIH EdTech News  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Shutters Sora, Shifts Business Strategy Ahead of IPO - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3hVRmlpZm51c0YxSVE2RWJ0TEdLV3lKbmVuQ2JnTENXckUyU0d6cjhwaDg2YW5Mbl9SU2ZsTmR2LXlOX3RiamdMOUVDSXl0c055UnFDZ0V4LWZiWE1fdkhHaTVadmRTNlNiUHpBMFlrVjBzdmM2MTdId2dxOG42NzFwQklhUjdHNmNpLTZQZkVDRzBPc2d0YVJJeC1DMkNoOVk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T01:01:36+00:00",
+      "summary": "OpenAI Shutters Sora, Shifts Business Strategy Ahead of IPO  HPCwire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Make OpenAI’s models misbehave and earn a reward - Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaE14WXl5aEY3SXJpRndIbXJPeldpSjJpMEI4dDdlZW1BeFNxQmhtblZLQm5xSzFmek02TEdtREhFSGNVMXNaWDlMdV90elFJZmpRMk5tWHBOcW9DZ0VUMWZHTjdCc0x6a1VXQXJsX3U1UjV4bGNTWW9ZWEVhczl5RHdR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T00:00:57+00:00",
+      "summary": "Make OpenAI’s models misbehave and earn a reward  Help Net Security",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple Gives iPhone Designers Bonuses Up to $400K to Counter OpenAI Poaching - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zcUZ5d0R6YlRNV2xjU3JGZEtpNjRaUDhqbXc2WjI4dElKa0V2QWNMRmRiVVNqby1sVnV0UG5DRmVVQjdXMnBOMm8wTDk3LVpFeG1BTFNENUdrVGxWMENnbFRiM1I4X2RrcjJlNHZ2N1RUNk9Yc2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T23:28:00+00:00",
+      "summary": "Apple Gives iPhone Designers Bonuses Up to $400K to Counter OpenAI Poaching  MacRumors",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,6 +74,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-26T23:13:00+00:00",
       "summary": "OpenAI's Ad Pilot Hits $100M ARR in Under 60 Days  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash - Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JekdQUHhMd2RSb3NaVk1QVWNHQXVvUDJGTUdmc24zRlhCMndqOGY1QVA2ajU3N3RTUF96SU5VODJBa0NiQXI0OWNTRXFtZ081ajZiMFJ0c00zZDQ0T1hjRlN6bzRGbEYxVlQ3U09aVm9xclhQYlFFdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T23:01:00+00:00",
+      "summary": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,6 +105,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "VCX: Do Not Overpay For Anthropic And OpenAI (NYSE:VCX) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQempOWktHYWFoQ0ZFYWtWMUM2NnZxTHB1WHRQTlU5WTJIN05XaWVSa3p5bUN5aWlGMW5VS2lIUXEtNmVidkVud0VOSjlrVFl6OFBCc0ZMRGJYYnF6QTJ6TlRDOXlEX0M1cHFuQzhzLU1FMnlJQnhlV1BhMHc2VjJzMVVoR1JVVDBPOUNpLQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T22:26:26+00:00",
+      "summary": "VCX: Do Not Overpay For Anthropic And OpenAI (NYSE:VCX)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months - CNBC",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDRtZVFRY2ZIQVFRdmFDZzIzODUtMG5XZ2oxT3IxRjVBakxtVldRek84b2x2V0prdVd3dloxVThvZ1hYOXo0aFJXR3d6SVVCWmw0Ukh6aVpfM3VxdGM1ZnFHd0g1ZjdrekxIYlVERGg2S3hsRUJVTG1EejhvWHZTM2YybnZOTUllVFlkTE11RWt6MlJhbVRfcENsb9IBoAFBVV95cUxOUU01SlRyNXd2R2Ztc0dJbGRrMS1kVm9UVUc2cmlDUmdMM3Z1M3QxRXI3N1BYd3g2dVBqTy1jUmxtX2dBTmthOE1UTEZxSG5TRTBsdWZyU0RNSzU3VHV0SDZYMGZ5dTNRWGNYNXdTVFlVYXlDVkxqcmFxVkRyLXg0LVgtUzZYckRTWHpCNFhsX01meGJtVkhMSVJRVHBzU0kz?oc=5",
       "source": "news.google.com",
@@ -56,15 +128,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-26T22:21:24+00:00",
       "summary": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2NCTDhVVXlXZXYxNmRHbF9uQklwZmlVa1RuX3hrdEhlY3lkSzlUSlNrMWdBMjVjSFpWTVpuQ2k3T1c0WThWOXo4aTlCZVFUTUNMLTZiNXM2Tk5YQXo5NFhfYjd1RlE2OVh6QU5fSE11S0t0M1BuWk5tVFU1X0pTRUln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T22:15:13+00:00",
-      "summary": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -155,69 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-26T21:15:20+00:00",
       "summary": "First Sora, Now Sexy Chat? OpenAI Cancels Erotic ChatGPT Mode  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI surpasses $100 million in annualized ChatGPT ad revenue - Information - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb2E2WEtWWlI0clJndkt0YUh1VDNhYUQ5WGwxMDBwREJjeW1RUnNybVMwUEdxLWVhZWZBckx0OXp6UkFtbnFObV9BbWZIbzNsWnJ4UE5xUlZxaHlDSl9nbElkd3lMeGFSeHA0ejR6SzBEckRMTm1wdUJ5Z3J4SHZDZ3ppYktva3c4RzA3ZURKZVY1ak9naUNHSWdpbzlkSlRuZ0x2Yk5wVnFsVlFmUUg5UzBKUFJRQVZ2Yk5SenN4bWFCeW1rbWpxSWR3UVNMZ0d3S0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T21:00:00+00:00",
-      "summary": "OpenAI surpasses $100 million in annualized ChatGPT ad revenue - Information  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "20VC x SaaStr This Week: Anthropic Is Eating OpenAI’s Enterprise Lunch, Figma’s Real Problem Isn’t Stitch, and the Unicorn Math Nobody Wants to Talk About - SaaStr",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcFZFenh0VXh5MWRtUHU2OHFqem5QaGFwMUthTU5hLUhhdzRDZDd0ZjJVOEZkaGxmN2dGOVBFV1h2V2lRRDY0ck1oLWZMS1VoY2lIWFRrRWhQaWtCeS1teG5kbDZKekhEeFFiOGh5enhqYlJGUi1xVUVTYXh4U09QZmh6OVhhcW5RLUhwUlZXVlJYQUQ4XzV3eUJES1dSdnJGbmZ1ZUdmR3FKZVc2S3pFTG44WF9KajBoSVJoRDdTSDF5STl0b0M0dUxqNkZ6NXNLeXotUFE3cEMtZTF4Sy1aMEpScWFKUHF2ak90V1hBZVVIbF82cVBfbWgyT0hkWUZrSFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T20:51:39+00:00",
-      "summary": "20VC x SaaStr This Week: Anthropic Is Eating OpenAI’s Enterprise Lunch, Figma’s Real Problem Isn’t Stitch, and the Unicorn Math Nobody Wants to Talk About  SaaStr",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot - The Information",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUlTaGtIYVMyc3NHV2xGWUEtVVd6VllFbFNSSVh4a2Y5UWlDV3dKSEVPcmFSRVlCa3JUMHVNczJXZmhrZFhBX3AwRENVeXlpTUNYUWRoVWtTMVpuZkJhU1FUT3RndUJUV3BmdU5CeEo0OUkyUWtMcDVaSGo0bUJKejlSVHZwcV9NNkNpbmpScDlEaXdOTWMxWFBDV3BZeEtFdUEtWGxMNjZtUUVN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T20:48:00+00:00",
-      "summary": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s ‘Art Washing’ Sora App is Dead; Deal With Disney Scrapped - Artforum",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5YdnVyUXNFdFplLW1kWjdOYnlrUVRjQktEQmpJUzdCR2JkX0hzcThzMS1vbWgwRjgtRFpGZnV3b1BDR19XVjkwWFduVC05aHJxOFlUMXNFNHY1UV9pWTVteTE5cG9EeEFscHBld1F6bHJQU0xnQklwMHUyRGY4NFhBMFY0OHkyUG1hQXhqN0lmc1pDV3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T20:46:42+00:00",
-      "summary": "OpenAI’s ‘Art Washing’ Sora App is Dead; Deal With Disney Scrapped  Artforum",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hostinger launches one-click OpenClaw AI agent deployment - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUTBuOUZUcGNJOVlPRklieTY0VERWNEwxWUlSWEFRMndXYWpOZW12enVXTFhsYzl0WVZDb0luSXBTbldlUkxCN2h6ZUpaeFM4M3FIbkMzUXVQdXFaekIwd2FXM0NFOHBwSGtsdlY3RGlQUy1hZkc1Qks0QlVUV3ROOWFuNF9lYmR4ZVFxZm1YYkd3ekZCQjllMXB3OEV6cmhoVEkyOF9mb0lEbU9mMzBSMThFZkJ3VGFVekNuZ0Q3dVVJcW9fSDl4bm5obkdLU2VKbGxiYVp1enlOWWtuaVR3aW9aX1RaZWd0Z0R1bDZNYzlFSW9QZzNhV285WUJxTy1PcG80TA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T20:45:00+00:00",
-      "summary": "Hostinger launches one-click OpenClaw AI agent deployment  TechRadar",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Claude Code vs. OpenClaw: Which AI Agent Actually Wins in 2026? - Programming Insider",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2JoTE1yQTM4M192M3JXZm9jS0loMjd4Uk5ybHEzeGR4a2c1X2pQX1ZZb3ZJaEVXN283N2NTNWlLZy1FOFgzb203YWFFakJRVnVndjZENmpoUlNZTEcteEhlcUFuRUJvWGkwejJJaWlHV29KZ3MtUHhKa29yblhfT1gyWEZDV09aWDJtNEh2LTVCZHliRl9z?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T20:43:21+00:00",
-      "summary": "Claude Code vs. OpenClaw: Which AI Agent Actually Wins in 2026?  Programming Insider",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Apple Gives iPhone Designers Rare Bonuses to Fight AI Firm Poaching - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2tLa1AxUmlub3B5eWp1OHRiVndYbE1DclNBTW9QaUdjVWVuSGF2SE1LcEt3cmFqR2s2ai1mb0J0bWZIWmxONUw4RnlTVUUwYXlwY3Y3NW5Ka20tOUpTblpiZ3VocUdhSXlKT2tadWNyMjNLMzVvd0NwWElVNTZQNVZ4anRZNnd3cnV2ekdWZFVLOGtZbzduNDQ0Ty1jY3AwUENVWkZuVDhHRnk2NkNrX19IUXhxMUpB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T20:36:23+00:00",
-      "summary": "Apple Gives iPhone Designers Rare Bonuses to Fight AI Firm Poaching  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
