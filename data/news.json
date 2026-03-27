@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-03-27T07:46:54.416768+00:00",
+  "generatedAt": "2026-03-27T08:34:04.382902+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Yang Zhilin, Zhang Peng, Xia Lixue, Luo Fuli, Huang Chao Discuss Lobsters and \"Token Economics\" - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LdE9OcTBGWjQ1RG45ZFZuUEJ3SHdCM1JheXo2V0VkTzlfWk9henRwanRCY0NiSjVpQjZWdnVEWk51eHV1VV9kTVptQS0xcEo5el9n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T08:24:52+00:00",
+      "summary": "Yang Zhilin, Zhang Peng, Xia Lixue, Luo Fuli, Huang Chao Discuss Lobsters and \"Token Economics\"  36氪",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI ad pilot crosses $100M annualized revenue mark in six weeks (OPENAI:Private) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1FGYzV1ZHg4Mm9RSk5QM2ZONkl3STRTMFpDbTBnVXhLZ2VUT3RUSGo2Mm82bDBYN3JPejBENFZfWTRIZU1yOGxyQmRvOG9RZ1hPTkRLTGlyTE1lSWZhWjJUZW44aGFPZ2podXVpOC11Z25td2RaWUtsck1JV1hWVVVuQW0ya0tyRllfNEJtU2tIQjFEaG0tYVBPYmZ5bkNraUhKU1dR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T08:09:55+00:00",
+      "summary": "OpenAI ad pilot crosses $100M annualized revenue mark in six weeks (OPENAI:Private)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI announced this week it was scrapping Sora, its generative video app. The move reveals that the company, once the disruptor-in-chief of the AI world, is now facing something of an identity crisis as it struggles to pick a lane on the busy road to profitabilit - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOFR1bTVMa0xrclg4bTRDY0xsMW5LZVgxdi1Ed2tLVFJRWEZ5NzdqVlJlQzNmQkZZenEwSEtyVTAxYUt4RFNyeXVCZ200QnhwWF8yaGYtQXdDMV9KNV9NY3Q4TVVvaVZOQTcwVTZlQ196OEhTZ0pSUno1REZlbU5IZlMzRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T08:00:00+00:00",
+      "summary": "OpenAI announced this week it was scrapping Sora, its generative video app. The move reveals that the company, once the disruptor-in-chief of the AI world, is now facing something of an identity cr…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sora, OpenAI's generative video app, is history. Here's what that means for the firm's future - CBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GbVZQclhrcjlFNmNfZkwzcUJ6em1YbS00aWNtQi1odmxTdThzZklHQldCRlRqczh1anRaSEJxdHJZR0VQUEVlS2Y1WkZyajZoenlzTmZqLWdaOFo2TGFNTTFvaDJ5NU8ybUVmQVF1dUdfWEpuVjAxSUFWTFRVdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T08:00:00+00:00",
+      "summary": "Sora, OpenAI's generative video app, is history. Here's what that means for the firm's future  CBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw Advanced Tutorial: From Intermediate to Expert in One Guide - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOFljNnBUbzJzNlR5dmdpR25kaFA2UkVycEVUSllBVWF0YkZ6QXVYMFhDRWpteHBlTUNVbmNrZEc3X2l0aU55QmxiNVEyVUhzT1VlbEktRXR3MTg2SGI2NzhLWWxmT3ZWQzU5LUVJV3FMME9vR2xPZnB5b21nbXpEWEY5MzZHVk94V2J1OWY3VXlBT2Z0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T07:51:48+00:00",
+      "summary": "OpenClaw Advanced Tutorial: From Intermediate to Expert in One Guide  HackerNoon",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Faculty Push Back Against OpenAI Deals - Inside Higher Ed",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTUZrNmZsVVVlYXZjeXQxaXFtaTlxN18xQ3AzMHFpYWlibThMYUFlcklFeGI3UlJPZXNtWWFabTRnSndsOUNZdG9nd0U4UlF3d2tnbDEzekVRdnM1T19NYU1LWTc5c0lnWlJob2dXREh2ckJrcGV2TnFEa3dHeXNTeG5IaGI3b1BrU19KSWp6RnE1a0dxLVBvUHV6Yml5ZmVZckRlaHBULTlUclRfRmNnZEQ2UkFyajZVbW82eUc3ZGgtVEk?oc=5",
@@ -42,6 +87,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "SpaceX or OpenAI IPO: Which Private Company is the Better Bet? - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVkI3S2VSSmJfbEg2LWNkQXZWM0VxXzZSZnctMTMyZ3JlUjJQTEphN2QteDhJWk1KU2hYemx6RjZNdWx5LXA1MDdNVE9MdFIzQVB4TlpNeWxycTBPWVRCS2k3QUNSSmNCa183aVRPcTNjMXpMTzQzVjNSc0tpdHR6VE5OVm5vdlRRYUYtUWZaNXNNM3E5?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T05:10:46+00:00",
+      "summary": "SpaceX or OpenAI IPO: Which Private Company is the Better Bet?  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "AI: Diving into OpenAI vs Anthropic financial growth metrics. RTZ #1038 - AI: Reset to Zero",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjOTA5cHB0eC1qTkpvT1cxM3Q0b242ZFBFUDA1d2JkVExtWTNBcVRRRHBxUDU3YTRpRlhQWG5tMlBXS2RiLVZKTng2MU84eTRlRzFzRjRyT3FhMGM4VmJiUDhhMHJyRTRYU05GaXA1UFRNNzE4TjVMSVhObw?oc=5",
       "source": "news.google.com",
@@ -72,17 +126,17 @@
       "title": "iyO amends lawsuit against OpenAI’s io, now alleges trade secret theft - 9to5Mac",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjV1cWRSVDE4cW5Lb0gxYlJjNW1VNlFnc0NCS0hyNG4tNmNSN2Z4dG1kTGJjSU01aEEyVUtWU0pzd1c5X09GZEp5cHU2U1ByM0o3eDJMUGZRdVRzeTVvNTlEY0ZaQkl1bmFPMkJFOUo3TlFoTHY4THF0TEZObUxqeS0wR2RwWlJ6R3hjdWpwN3FveWVoMUNUMTFnNTNQTGxZS0E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-27T02:52:08+00:00",
+      "publishedAt": "2026-03-27T03:47:00+00:00",
       "summary": "iyO amends lawsuit against OpenAI’s io, now alleges trade secret theft  9to5Mac",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbDJxTTJFbGlGVzdIcUpsR2wtV19tRFhYZkhWaFBhMGppYjgyYnJOTGwxdFNIQ1RSWDRQelJDSFRpSDBTYUpOY3lJeTk3ZlJfTTFfcm4tZkRHWkc2Z0hpUTZaSTltVWNKNWdVNk9MOUE2N2J6V2NnOGtiUG5CUjFseWppcE5EanFXYmVTOG0yaUVTTi1mYzUzQkFHT0VabnNDWDB1ckxB?oc=5",
+      "title": "Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI - DIGITIMES Asia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVnRwZVNSWC1mZjdfa0tRMXFZcUJMUl85MjMxeU5JVHFwal9rM2h1cFJvUUZjQVQyaXJsd0oyV0YwRUFob255cFJCajEtR1d4b1VmNUpkZlNwcDRnZ1h3RC1HZDBzeTVzY3J2SEdadlFvSmR1dU92Z3F4eVpiamhHUC1Jb3I0UUEwQlFiQnpxMDJfLTNKSzAxUFVZQQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T02:48:40+00:00",
-      "summary": "Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI  digitimes",
+      "summary": "Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI  DIGITIMES Asia",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,65 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Ketamine, WilmerHale Probe Off Limits In Musk-OpenAI Trial - Law360",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2VsWjZwMk9iLXFldzZ6dFRkbnBkd0M2ZUQ4M3NGcl9pQUF3UkN2MUtwSDltN05ITHZhQ3VHTEZuMGVReDlFMXplQ0VBT253anJyVTlHTzZfaHR3Z1RXdFJpeURIWkFSVzhkeVNVWU8yUllnRHhRcE4zU0dhSG1TbmI2b1U5UF82Q2pMNzZRWFFtbmppV01qY19NTnNrZ9IBVkFVX3lxTFBHYWdsODNuOTBaSHhtOTdxZXg3VkhRQUVhQzRqM000WXBTS3lMRHMxMUl4TmZ6dlNvMEZBdENCSlJRNTlNSlY3WW82NEkyWlJvRlc1dHZB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T22:27:00+00:00",
-      "summary": "Ketamine, WilmerHale Probe Off Limits In Musk-OpenAI Trial  Law360",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1lDZjdiQ0xHR2Z2cWdZdzJNQWlCc1ptWE1kckJaZHNXcjN6TzBTWV82RjZjZy1HTVZ6NjNIRmhzN1pTNTd5VWxQQWhGWVNRVzVJZU9RR050WldhMTE1TDF4NVlNSEdGbHNuczc0Z2oxdWxVdklnMjJMamlVb2xBR2FISnRsZjJocWpPWm5HOVNoU01wOGRGSlNORXJranZmSlF0aWhxYkRWYkVzRVhRYWRxQ3gySnNjUzZ5My1EZ1BWeVBRTXc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-26T22:26:34+00:00",
       "summary": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "VCX: Do Not Overpay For Anthropic And OpenAI (NYSE:VCX) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQempOWktHYWFoQ0ZFYWtWMUM2NnZxTHB1WHRQTlU5WTJIN05XaWVSa3p5bUN5aWlGMW5VS2lIUXEtNmVidkVud0VOSjlrVFl6OFBCc0ZMRGJYYnF6QTJ6TlRDOXlEX0M1cHFuQzhzLU1FMnlJQnhlV1BhMHc2VjJzMVVoR1JVVDBPOUNpLQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T22:26:26+00:00",
-      "summary": "VCX: Do Not Overpay For Anthropic And OpenAI (NYSE:VCX)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDRtZVFRY2ZIQVFRdmFDZzIzODUtMG5XZ2oxT3IxRjVBakxtVldRek84b2x2V0prdVd3dloxVThvZ1hYOXo0aFJXR3d6SVVCWmw0Ukh6aVpfM3VxdGM1ZnFHd0g1ZjdrekxIYlVERGg2S3hsRUJVTG1EejhvWHZTM2YybnZOTUllVFlkTE11RWt6MlJhbVRfcENsb9IBoAFBVV95cUxOUU01SlRyNXd2R2Ztc0dJbGRrMS1kVm9UVUc2cmlDUmdMM3Z1M3QxRXI3N1BYd3g2dVBqTy1jUmxtX2dBTmthOE1UTEZxSG5TRTBsdWZyU0RNSzU3VHV0SDZYMGZ5dTNRWGNYNXdTVFlVYXlDVkxqcmFxVkRyLXg0LVgtUzZYckRTWHpCNFhsX01meGJtVkhMSVJRVHBzU0kz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T22:25:31+00:00",
-      "summary": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ1BYLWR4S25kUzc2UUpLMW9QdjRqSE9Lb0d5TVNhWFpNaW5XbXRNUE1zWXN2RThaX096VUY0al9IQVBPejYwTVVmVzVJQ01TRFFnc0V4NGU3ekZsYkFmV1d6bVdvN2pmTUtaLVhPQzd1YlhrVjhRcHVGdy1mT0VNSS1zMFk4NzFXS204WDZGZEhkZWhMeEVqTk1QRXFocEtMVS1rcURIY1pmM0FuUlZzTG5oTDFQTlp6eElhREljaXN0a2h5MS04Y0dxV1I1RFlMcmxyRFVTU2I2M0hyNUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T22:21:24+00:00",
-      "summary": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Is Shelving Its Planned ChatGPT 'Adult Mode' Days After Dropping Sora - CNET",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKUkVXWXZzcXRMTGJJVDhFaGRsQktabllmaFhkUjlVOVlqNmFjMEFIWW5kbWJJV3hOZnhVUmNWWkpfd2VPY1NGeDFoLWFQbHZaTUZSaGRRbFZaa3h1Q2gzY3A2X21jczRBaGJ5UUFpVXNSRldmbDJfZmtuRUhIYkU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T22:05:00+00:00",
-      "summary": "OpenAI Is Shelving Its Planned ChatGPT 'Adult Mode' Days After Dropping Sora  CNET",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI shelves plans for erotic chatbot - The Killeen Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFk5V2E1ZXNoSnpsS05XaVV1cDJ4TGR4ZHYwS1QzTTZJNndraU5BVUZDVFRHbUtHaHpPQzRLd2ttdEdaTGpYdzVQNU9YbUwtTnJQX29OcVRUM21MZEJIeUpWbWJjTmR0QWtWRE1fcHlFRHp6TktaYlV5amU3Y1M0anJZc3E2cE9FNmtleFBuTC10ZUpTSzY3S3diZ0ZOU0doZWdFbGx1LWptbjJ2Nl9SX2dPLW1RV2lfc04yTkt3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T21:44:23+00:00",
-      "summary": "OpenAI shelves plans for erotic chatbot  The Killeen Daily Herald",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
