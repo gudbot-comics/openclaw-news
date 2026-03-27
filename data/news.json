@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T23:35:57.239439+00:00",
+  "generatedAt": "2026-03-27T00:00:32.090618+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -58,15 +58,6 @@
       "summary": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Is Taking Over Agentic AI And NVIDIA Built The Guardrails - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWVkSHJtZkRweXNJQUVLdHdHcUIzMTVOSEhDbmFwdEtqTlNlazdCS1RvZDY1VUV3SzV6NzdVQjdiY0xMUTBhV0swNnR4MUN6a3R0MUd4cHlLYVFTcFRQM3p6WWFHR1ZmTHJzVVY4X0RUeUJQMlVXM0J2Q3d3MG5MckpNdURocjk2NWtXelZ3aXhfVmJobGtXNDVnbWc5QmgtZ25MTi0xSXJDY0ttT3Fob0pjSFVlbEVFYlBN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T22:16:30+00:00",
-      "summary": "OpenClaw Is Taking Over Agentic AI And NVIDIA Built The Guardrails  Forbes",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives - Mashable",
@@ -220,6 +211,15 @@
       "summary": "Claude Code vs. OpenClaw: Which AI Agent Actually Wins in 2026?  Programming Insider",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Apple Gives iPhone Designers Rare Bonuses to Fight AI Firm Poaching - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2tLa1AxUmlub3B5eWp1OHRiVndYbE1DclNBTW9QaUdjVWVuSGF2SE1LcEt3cmFqR2s2ai1mb0J0bWZIWmxONUw4RnlTVUUwYXlwY3Y3NW5Ka20tOUpTblpiZ3VocUdhSXlKT2tadWNyMjNLMzVvd0NwWElVNTZQNVZ4anRZNnd3cnV2ekdWZFVLOGtZbzduNDQ0Ty1jY3AwUENVWkZuVDhHRnk2NkNrX19IUXhxMUpB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T20:36:23+00:00",
+      "summary": "Apple Gives iPhone Designers Rare Bonuses to Fight AI Firm Poaching  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     }
   ]
 }
