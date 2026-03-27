@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-03-27T05:22:32.133741+00:00",
+  "generatedAt": "2026-03-27T06:44:09.858373+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Disney Walks Away as OpenAI Shuts Sora, Ending $1 Billion AI Bet - sify.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQmtLRjVuVWRqSFE1UGVwb0RtZXZYWEhkNlhwT1FWbl80S1JrRWs1RG5jS1Z3c3hoLV9NVzQ4LWljN01SNDNsM2RqeVVodG9LUE0tUk9WbGdKdmNMOTNrME9KUk5vcG81QlB4YlY3cXY5S0xxX0NsZ3FMamRvVG40ZUJfU0U4UzYzbVk3Tldtb0tuUmQ4OTdpTFI2TElWQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T06:24:55+00:00",
+      "summary": "Disney Walks Away as OpenAI Shuts Sora, Ending $1 Billion AI Bet  sify.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Reaches $100M Annualized ChatGPT Ads - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXkxTzdkVEFWM29tLUtFQ0YtRml1RzdfNkl1WlFFRG9CYkhoZFl5MGdialhuU2RSejU0UmxTd1FvRFFXLXd3OXZiQ1c3MlZjM3dZTUxuTjJLLVVoNU44TUxZMU1UaGQtQ2VvRzRTMlRxT0owREQtcVJtTjFsNHBKbnlJNUxQVUhFUm9vVw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T05:49:05+00:00",
+      "summary": "OpenAI Reaches $100M Annualized ChatGPT Ads  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic weighs IPO as soon as October amid race with OpenAI, report says - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTEIzaGl3UnEtVXV1NDFRRXJ0X1NLUl9CSEwyaG43c29WWUxvV0pXcDFGeGFXU0ZndmtxVm5MTGo0VEQ4SFRfT1phbUpFdXVIN1hBSmFsNnhaeTlhWjg4R1dUUndmcjNFSExRS0ZJQ1hLVkhGZ09fN3ZiSG56dTR4Z2RmQWlzb0syV2VmX2hoS2xSNi1NM3NOVDZDVEVySVRZdW16YmF2UjdrZUZuOEdwa2xaenRuN1pYa3B2bjVLLU5rV3dZVXNwWFUyWTVRTjZlRkF3TjJ6OTFvOTZ5QVRGYVFLM2dhdGtL?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T05:39:56+00:00",
+      "summary": "Anthropic weighs IPO as soon as October amid race with OpenAI, report says  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Abandons ChatGPT's Adult Mode, Days After Shutting Down Sora - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDVtT1FIbkFSWjhlMGlSWU5mcEJseEFpSmxBYS16OE1sNkplRmh6ZGJHcW5acENPd0xha0xYRmR4cy1sOURESTJhSGRFWkgwenNLLUhwMmZjdURaV29LOFlDcmRxZTRmQ2ZNRnNxRG9DbkM0MEgzWEVsMDN5bFFiU3lKbjJwbHlTQ0F2dkRuUEt5Z1hmVXZ5OFI1ZXRhS25JdTFGYk1n0gGuAUFVX3lxTFBDaTIxcEZsak9LZG9GQ3NZRHNhQjA2QjVKR3FjNndlMXJuMF9JaWE1OHZSZWNOdmtRNzdSVm9EWkZ5T25UWUF4TVpYT3ZTSWpsODBVNkRkUnoyY1o3UUg2X2tacm1pTXVsZ2NFajJnZGxneXZqajdmWkJrM19TeGxBWUpTNlVlc2lmTWVlSk5YNG1obGxpQ2RUbFF4WHRONmZETG9BUzlNbjZYc0ZaQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T05:37:53+00:00",
+      "summary": "OpenAI Abandons ChatGPT's Adult Mode, Days After Shutting Down Sora  NDTV",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SpaceX or OpenAI IPO: Which Private Company is the Better Bet? - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVkI3S2VSSmJfbEg2LWNkQXZWM0VxXzZSZnctMTMyZ3JlUjJQTEphN2QteDhJWk1KU2hYemx6RjZNdWx5LXA1MDdNVE9MdFIzQVB4TlpNeWxycTBPWVRCS2k3QUNSSmNCa183aVRPcTNjMXpMTzQzVjNSc0tpdHR6VE5OVm5vdlRRYUYtUWZaNXNNM3E5?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T05:10:46+00:00",
+      "summary": "SpaceX or OpenAI IPO: Which Private Company is the Better Bet?  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "AI: Diving into OpenAI vs Anthropic financial growth metrics. RTZ #1038 - AI: Reset to Zero",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjOTA5cHB0eC1qTkpvT1cxM3Q0b242ZFBFUDA1d2JkVExtWTNBcVRRRHBxUDU3YTRpRlhQWG5tMlBXS2RiLVZKTng2MU84eTRlRzFzRjRyT3FhMGM4VmJiUDhhMHJyRTRYU05GaXA1UFRNNzE4TjVMSVhObw?oc=5",
@@ -20,6 +65,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T04:21:00+00:00",
       "summary": "Arm AGI CPU: New AI Chip for Data Centers Targets Meta, OpenAI as Customers - News and Statistics  IndexBox",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Shuts Down Sora, Disney’s $1 Billion Investment Goes Down the Drain, and the AI Video Market Is Reshuffled - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tZ0FZM05jcDMyd0RkWWdTMFhqVlYxWGFscWVMelUtUUVHQVFOY2NUd3Bkc3U2VGNNdG0wSjJvZFBpRDFWVFBvVHI5RG1uMzVxUkx3WjRNSWFzQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T04:19:25+00:00",
+      "summary": "OpenAI Shuts Down Sora, Disney’s $1 Billion Investment Goes Down the Drain, and the AI Video Market Is Reshuffled  深潮TechFlow",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,17 +96,17 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "iyO alleges trade secret theft in OpenAI/io case - 9to5Mac",
+      "title": "iyO amends lawsuit against OpenAI’s io, now alleges trade secret theft - 9to5Mac",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjV1cWRSVDE4cW5Lb0gxYlJjNW1VNlFnc0NCS0hyNG4tNmNSN2Z4dG1kTGJjSU01aEEyVUtWU0pzd1c5X09GZEp5cHU2U1ByM0o3eDJMUGZRdVRzeTVvNTlEY0ZaQkl1bmFPMkJFOUo3TlFoTHY4THF0TEZObUxqeS0wR2RwWlJ6R3hjdWpwN3FveWVoMUNUMTFnNTNQTGxZS0E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-27T02:48:49+00:00",
-      "summary": "iyO alleges trade secret theft in OpenAI/io case  9to5Mac",
+      "publishedAt": "2026-03-27T02:52:08+00:00",
+      "summary": "iyO amends lawsuit against OpenAI’s io, now alleges trade secret theft  9to5Mac",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
       "title": "Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVnRwZVNSWC1mZjdfa0tRMXFZcUJMUl85MjMxeU5JVHFwal9rM2h1cFJvUUZjQVQyaXJsd0oyV0YwRUFob255cFJCajEtR1d4b1VmNUpkZlNwcDRnZ1h3RC1HZDBzeTVzY3J2SEdadlFvSmR1dU92Z3F4eVpiamhHUC1Jb3I0UUEwQlFiQnpxMDJfLTNKSzAxUFVZQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbDJxTTJFbGlGVzdIcUpsR2wtV19tRFhYZkhWaFBhMGppYjgyYnJOTGwxdFNIQ1RSWDRQelJDSFRpSDBTYUpOY3lJeTk3ZlJfTTFfcm4tZkRHWkc2Z0hpUTZaSTltVWNKNWdVNk9MOUE2N2J6V2NnOGtiUG5CUjFseWppcE5EanFXYmVTOG0yaUVTTi1mYzUzQkFHT0VabnNDWDB1ckxB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T02:48:40+00:00",
       "summary": "Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI  digitimes",
@@ -105,15 +159,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenClaw creator says he got a token refund request for errors the AI agent made with 'sensitive financial documents' - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWVsZlFCQlcyWEFBTTNvLWEyR0NOYVJwQmdZbTgyX205ZkFPNGtLTmg4Y3NZY0psT28teVdubXN3a0lKbGl5aEpBWXZQWjFLU254RDQtN0lxZ1ViZmNHdlJZRzlkSHNiaUliczhIQzUyVkQ1SWRkMUk5bmFDb0h6NQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T23:55:27+00:00",
-      "summary": "OpenClaw creator says he got a token refund request for errors the AI agent made with 'sensitive financial documents'  AOL.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "Apple Gives iPhone Designers Bonuses Up to $400K to Counter OpenAI Poaching - MacRumors",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zcUZ5d0R6YlRNV2xjU3JGZEtpNjRaUDhqbXc2WjI4dElKa0V2QWNMRmRiVVNqby1sVnV0UG5DRmVVQjdXMnBOMm8wTDk3LVpFeG1BTFNENUdrVGxWMENnbFRiM1I4X2RrcjJlNHZ2N1RUNk9Yc2c?oc=5",
       "source": "news.google.com",
@@ -123,20 +168,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JekdQUHhMd2RSb3NaVk1QVWNHQXVvUDJGTUdmc24zRlhCMndqOGY1QVA2ajU3N3RTUF96SU5VODJBa0NiQXI0OWNTRXFtZ081ajZiMFJ0c00zZDQ0T1hjRlN6bzRGbEYxVlQ3U09aVm9xclhQYlFFdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T23:17:47+00:00",
-      "summary": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI's Ad Pilot Hits $100M ARR in Under 60 Days - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjllOXFvbl9rdFN5UThlV3lUa2RSMEtwOTFWeDNBczVQZG5iTDVnSVVqVjJfQUo3Zlp6UVM5QThnaXFieE1oQTFYdzFaMmhxU3JqeVhsWTl2TkRUdEFFU1NMNjJLeW9YZE9LSmVpeFlLWU1QQUY4cThwX2gyd0VlU2JJNHBaa0t0?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-26T23:13:00+00:00",
       "summary": "OpenAI's Ad Pilot Hits $100M ARR in Under 60 Days  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash - Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JekdQUHhMd2RSb3NaVk1QVWNHQXVvUDJGTUdmc24zRlhCMndqOGY1QVA2ajU3N3RTUF96SU5VODJBa0NiQXI0OWNTRXFtZ081ajZiMFJ0c00zZDQ0T1hjRlN6bzRGbEYxVlQ3U09aVm9xclhQYlFFdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-26T23:01:35+00:00",
+      "summary": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-26T22:25:31+00:00",
       "summary": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ1BYLWR4S25kUzc2UUpLMW9QdjRqSE9Lb0d5TVNhWFpNaW5XbXRNUE1zWXN2RThaX096VUY0al9IQVBPejYwTVVmVzVJQ01TRFFnc0V4NGU3ekZsYkFmV1d6bVdvN2pmTUtaLVhPQzd1YlhrVjhRcHVGdy1mT0VNSS1zMFk4NzFXS204WDZGZEhkZWhMeEVqTk1QRXFocEtMVS1rcURIY1pmM0FuUlZzTG5oTDFQTlp6eElhREljaXN0a2h5MS04Y0dxV1I1RFlMcmxyRFVTU2I2M0hyNUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T22:21:24+00:00",
-      "summary": "OpenAI's US ad pilot exceeds $100 million in annualized revenue in six weeks  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Is Shelving Its Planned ChatGPT 'Adult Mode' Days After Dropping Sora - CNET",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKUkVXWXZzcXRMTGJJVDhFaGRsQktabllmaFhkUjlVOVlqNmFjMEFIWW5kbWJJV3hOZnhVUmNWWkpfd2VPY1NGeDFoLWFQbHZaTUZSaGRRbFZaa3h1Q2gzY3A2X21jczRBaGJ5UUFpVXNSRldmbDJfZmtuRUhIYkU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T22:05:00+00:00",
-      "summary": "OpenAI Is Shelving Its Planned ChatGPT 'Adult Mode' Days After Dropping Sora  CNET",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI shelves plans for erotic chatbot - The Killeen Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFk5V2E1ZXNoSnpsS05XaVV1cDJ4TGR4ZHYwS1QzTTZJNndraU5BVUZDVFRHbUtHaHpPQzRLd2ttdEdaTGpYdzVQNU9YbUwtTnJQX29OcVRUM21MZEJIeUpWbWJjTmR0QWtWRE1fcHlFRHp6TktaYlV5amU3Y1M0anJZc3E2cE9FNmtleFBuTC10ZUpTSzY3S3diZ0ZOU0doZWdFbGx1LWptbjJ2Nl9SX2dPLW1RV2lfc04yTkt3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T21:44:23+00:00",
-      "summary": "OpenAI shelves plans for erotic chatbot  The Killeen Daily Herald",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI shelves plans for erotic chatbot - Northeast Mississippi Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaWtRRUdwaGdZLWcxN0gzZl83WTgwUkx5NXlpT29iUTRiQ21VLTVoMXRBb2VBYVVMSGo1d0Y0SnYyUFRTcjc2YXNBOGg5QUlJUjhtZnhPTC14V003STZNcTBheGNEMFZDUWVNNGMwTXVZLTh4TUNvQWhzM3J1UlR0WVozYVJWQUlPc0FWdmZGN3k5T2JGbTZHV1VJWjdBdmNmQzF5V2hmNDRMM0NqQ3pTZVM0RUdWcFhLVkRMeUlicWxZUVhRX3RZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T21:44:23+00:00",
-      "summary": "OpenAI shelves plans for erotic chatbot  Northeast Mississippi Daily Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI shelves plans for erotic chatbot - Iosco County News Herald",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXNQNzVLMnBfSXNwYk1ZR3pGMEt0QXhOV1RueGIxVDlmd1UxaTB2MFhQcGpyZnk3VkEtMnZQSUJnYUpidkZxOW9NOHNYaW1DQTJEMlNhQXJYUUlnc1pRMm5VTEotNGZSQi10Tkg2QmU2UlRVRXdaZE5xelp6Q0NHRnMyR0stZnVodkk3NkRUalc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-26T21:44:23+00:00",
-      "summary": "OpenAI shelves plans for erotic chatbot  Iosco County News Herald",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
