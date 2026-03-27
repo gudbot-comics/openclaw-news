@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-03-27T14:35:27.581187+00:00",
+  "generatedAt": "2026-03-27T15:28:25.135110+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI’s Codex gets plugins - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uS0dGZ0dZTkJNa0p3c3pFSlc1a1hZb3VoaWJ6Z1VVNlRfc0xCWWJfd3NHRzZHazFCLUphNWtweG9EQVY1STR0VVRobUpUT1M4VWdjNW05LURDZjZJM21j?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T15:22:10+00:00",
+      "summary": "OpenAI’s Codex gets plugins  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI pauses erotic ChatGPT plans to focus on enterprise - Silicon Republic",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXN1Zi1rWFZMM3R6Vkhkbi00WlAyQlhlOVQwZHh1ekpJUFdxWkwyWGlad2s1NFlHNkxOWVoyRDJkc3FRUXVELWE0T1pKblJ5ZU9NYVpETmFqd0NMOFZBT29YZzdscXkzcEFSb3ZBajFPRC0tMHRoVEJ1d0hVaGp6ME9EVzJSQkl6Z1c2eTZtV0tMS3V2YmVQd2FubVFPQ2Rr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T14:59:45+00:00",
+      "summary": "OpenAI pauses erotic ChatGPT plans to focus on enterprise  Silicon Republic",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Walmart brings Sparky to ChatGPT as OpenAI rethinks Instant Checkout - Grocery Dive",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1JKaUJqTmloYTZHUzAtdTNubHUzSGJfcTJ3c3lrYUZNTF9yaXp1bkRtWDlZZUl6Sl94aHYwQmVmbmswRmxjOTRyLXFCZTRBbjVUWkt5VmZnLWpSem5ZSFhzSG85UklTNFc5aE42VkVIOEtpQTU3djhtbWg2QWFRajJVbldIRE0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T14:59:21+00:00",
+      "summary": "Walmart brings Sparky to ChatGPT as OpenAI rethinks Instant Checkout  Grocery Dive",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank secures $40B bridge loan to fund its OpenAI bet - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YdXhFdk9HNTJHZjhvSWZFWlRaeUk3dnppaG9yaUc0RGJXUnlTaHNaR2hCUGI3WG50aWFoUVVPSFFQT3FwUS1aQ0FuRHpoeWx6ZUpDZGJlRU95S1EtNVdFSm1kLVFSVlpEbkQyb3g2Yml1emRy?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T14:51:00+00:00",
+      "summary": "SoftBank secures $40B bridge loan to fund its OpenAI bet  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClawd Ships Verified Skill Screening After Security Researchers Find 12% of OpenClaw Marketplace Skills Are Malware - The Malone Telegram",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPcUdUQ1NzeExGbERCR1FES2xhZUVoVWo3QjRnT2FseVlpV2dkeFZEZlpzVzU3blNQNnFlNDhQdnJsTmFuREh4YnNibXZhd0NIYXlZc2RieEZnYjhxZUVHTDNTcGFqVnA3Q05yNENEb24xYU5FekRnMEpINmRlTWhJa0JvU3cza3g1cHIzQVc0M2dtLUo5UndGV3BvRmtqNTltNGdVVkYyTjNmSndhM0RtMGNvUi1WTmZ0SDdxTjlhNnYzU3hiSkpWcHU4Vk1SeXNGQmwweVpNOWVwd1JURDZaa3BkZFNzVXo3MTZSc2pQVUJqb3VBb29fTFczNFRmSTJDQ0o5QTRGT2R3VXFpOEJzS3NPVjFqeFYxdnE0U004S2gzSlBPRVJiWS1GZWpmLTlVS3ZrZ2dmS2FzQmZQaWlFQUwwd2VOMmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T14:29:16+00:00",
+      "summary": "OpenClawd Ships Verified Skill Screening After Security Researchers Find 12% of OpenClaw Marketplace Skills Are Malware  The Malone Telegram",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Anthropic Eyes October IPO in Race With OpenAI - GuruFocus",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQdlVsa05ZNzQ0V3Y5WUNUZjg1clVoQUVlNHJ4V2plano0ZW9MT1N5NW1SZ19DV00yWGJPVWRDYUgzOHNsNllFWHN3US1lZm8tdDNhR3hpcTN4OThubk9kNnVuaHdYeEJ1X1hLdHpFWTgtYkZoS2lVSjVSY08zeXRDcFVkRlp0VmNyWTM3eno5X0FwUEtMODJiemtDV2M0M0YwZWdnSG00b3lLeU1ZaExzMmJkamQyazFldlUtbEE1ZFV1NXdiRWZpZFhsYUgxd00zUXRNRG1keW4yNmVUeFFPTDNzU1BIakRwUGEzQmk2eHJyR24xSnRfYnF4VjhURng5M2FtVkJtUkRDTzdEQmY0ZHBSNTYtdXQ5WHhr?oc=5",
@@ -29,6 +74,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T14:15:53+00:00",
       "summary": "Experts: Ending OpenAI’s Sora unlikely to slow influx of AI-generated video online  Baltimore Sun",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic Eyes October IPO in Race With OpenAI - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYm83YWhpTlRLYm9QcEFEYTFMLVpEU25aMFkzZkVTYTBTbzdqZEwwemswQ0U3NXJRcUhXck9qOGlFbEdnTm8xNk1pbjNRdVNQOThPblcxUTlJWkVsZExTSURybW9qRW1vcmU1MXhsaTVfQmFqdF9iS0NZbjJHOEJFQ0FqN0dxRGhTT3lwcVdyWWVBT1ZxX2tpZzNjS1JsVVFJdG1ISWV1dEVYdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T14:14:01+00:00",
+      "summary": "Anthropic Eyes October IPO in Race With OpenAI  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,6 +128,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T13:41:00+00:00",
       "summary": "OpenAI upgrades Codex to automate your workflows - and compete better with Claude Code  ZDNET",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank Group to Get 40 B. Dlrs for Investment in OpenAI - nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XTURnR2d4cFRYV0VoY0RhYVdld1Q2dXU0UXNaN0V4VEd2Wjc5eEpsU1I5aHphX0htcDV1VGk4VmlUS0ZyQ2EzQ24wMmt1M0JqaVNrOWVlMWMxU2Nq?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T13:29:29+00:00",
+      "summary": "SoftBank Group to Get 40 B. Dlrs for Investment in OpenAI  nippon.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,74 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Former OpenAI & Google AI Experts Launch HyperDev - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYWZ4NlJoVWtKakVvblh2bmgybGx4bnR1V2J6czF4dWJqVjJHcU5EaVY1M3VwNHZrNUxRTVJLQkp0dmV2ZllURk5mSWRWcUZfc05QTk9qOGFkMmNVNlNrcmgzeU1veGNXdVdyWVgtczFuQS1LT2VwbndpeEw3OW9pUzFpdjdscm5lUTJMWk56S0o?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T11:49:00+00:00",
-      "summary": "Former OpenAI & Google AI Experts Launch HyperDev  The National Law Review",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "SoftBank Secures Record $40 Billion Bridge Loan for OpenAI Stake - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGNTSE9iSXNCZWU4VWVBV0htUWMwZ2J0Y0xCdFlRMXVYUnNyTzJxS1ctZS02MjI4UDRQaFFxdUNRc2pRNmZ3SXdNUVdFVUthOFBaNVhyd0xWUVltQlROTVhpQlJCMVhyakpKUU1JeVNxOGxLUjA3S0pLMTc1RVJBYjlkS2I3S1c1bm5VaUpUa0Zxbl9QT3pWejZmYzd5RlVIMHZxNEJ0UlpERllHd1FDSF93WHM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T11:48:32+00:00",
       "summary": "SoftBank Secures Record $40 Billion Bridge Loan for OpenAI Stake  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "With Sora’s death, AI’s age of frivolity may be ending - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BQ1lEd1FpTFhjYWJWOGZ2Z25VTDRwNVA2cnFJa1N2S2Uwb1FLOEgzOHlXSVl1ZHIwVkd6REtja3dpd1lzampTSlpPOW4xMlpWTE5FQVhyUm5pWU11ZXVpUUJZT0N2NzJySzNiU19R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T11:37:32+00:00",
-      "summary": "With Sora’s death, AI’s age of frivolity may be ending  Fast Company",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank secures $40B loan for OpenAI investment, other purposes - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlpyTlhGQ2ZoVlBtNjVuenB6VjF1M1p5Tk1iRXpQSF9Kd0xTeWNwZEV1eFc3a3BsXzQ5U1ctN0twU2pxWHUzZFJBZXN3Z3RhN0JVeGhTQUNXSGxsLUVPNXRoM1BIM25ORUNlLTlzdjVfelhJQVQ1bm5DR3BBRkhHZDNJMFloTy1PQ20tV3RpVGFkWDN1dC1uRGlKc2ktRDlsLXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T11:36:58+00:00",
-      "summary": "SoftBank secures $40B loan for OpenAI investment, other purposes  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JekdQUHhMd2RSb3NaVk1QVWNHQXVvUDJGTUdmc24zRlhCMndqOGY1QVA2ajU3N3RTUF96SU5VODJBa0NiQXI0OWNTRXFtZ081ajZiMFJ0c00zZDQ0T1hjRlN6bzRGbEYxVlQ3U09aVm9xclhQYlFFdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T11:26:36+00:00",
-      "summary": "Scoop: Altman told staff he tried to \"save\" Anthropic in Pentagon clash  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic data leak reveals powerful, secret Mythos AI model - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNEpYOWpycHpGeEowY0pXVjg4dVRVWWZCb3FMU3hqTW9DMXN1bjZDVDRWa0d5b0RYQkFCRUpUVmtJaHBORTVDamtiQm5JcXJRT185dGpyQVE5dWlQLW5VMTZSY2NvdkNGYWwyX1U5QVFGQWYtRkd0NmdoZGswWDhlT2ZwcFFlVTZ1bVYtNnpfd1NSd1E4cWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T11:23:00+00:00",
-      "summary": "Anthropic data leak reveals powerful, secret Mythos AI model  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT's Ad Roll-Out: 500 Queries Reveal OpenAI's Strategy - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEZoTzVEZzhnckczUUdZN1F1RndacDdWQ1lCNFZRQ293MHlmLW5JZXQ4emh4eDVjSGw4UUkwN0ViUkFpX0hMUU5MbEZ6TTZOS1NjQlZuZjR3anJQal9BTHFlYmtDaGNISjNvalU5ZFM5OVhjTkpfMUVGc3o3YnhvcERyMVlyN0wtcGpuZmpwdUFpRHdpbFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T11:17:00+00:00",
-      "summary": "ChatGPT's Ad Roll-Out: 500 Queries Reveal OpenAI's Strategy  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnFnR2F6dnJmMEphLTZjMWVCcC1zeFYtRDQzZWNVeXFVdXhWUURoN1NENEdGR3d2YnpHNWI2aWxiV1ZjNVN6cDNvM2duUVRNNkNpWl9rczNUQTVyRnpHRHczNkRjZVZQRmRvdnRWTThQc01pWEJuYUx4eVlmZ0MzdWRDZ1JMUWxpT1BmY0lGR1otSEVocFdoYXl1TFA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T11:12:02+00:00",
-      "summary": "OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
