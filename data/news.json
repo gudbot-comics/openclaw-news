@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T22:16:42.739592+00:00",
+  "generatedAt": "2026-03-27T22:54:28.565411+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -38,6 +38,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T21:44:45+00:00",
       "summary": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI kills the Sora AI video app, and it likely won’t ever return - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkotWWlfU29kd0Vvd0RERWp2UTJGZGloaG5UVm5uNGJSb3FuWnUwS05LT3pHRklFNGdfWTZuVERvVnc2Mi1UTFZVRkVDbl9SMUJOZXFzWjl4ZDBkRGRZdXhXQTJvZFpoUl9URDlUVDYzdU5GcnhmVy03SXowN2ZUenJR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T21:26:45+00:00",
+      "summary": "OpenAI kills the Sora AI video app, and it likely won’t ever return  Yahoo Tech",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,15 +101,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T20:16:19+00:00",
       "summary": "SoftBank Secures $40 Billion Loan to Fund $30 Billion OpenAI Investment  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Invest in SpaceX, OpenAI, Anduril, & Anthropic!?! - Nanalyze",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01Q3c0R3BFVGJnNWdXelhBRDZveC1fc3dxOXZZTnhOZjhxSG50TDhFTHNHM1NrUTVmMkJDeGhNY1NON0szSk5leVBjcWh3QzFSMjBnMjVhSTZybTlRdjZtYm83VlFaUEZ4eVlNN0N1emcyMEYtU1pHdG5peUZkNVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T20:01:06+00:00",
-      "summary": "Invest in SpaceX, OpenAI, Anduril, & Anthropic!?!  Nanalyze",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -177,29 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Microsoft takes over a Texas AI data center expansion after OpenAI backs away - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0M0Qjd5NU11MHFZVmw1SmJnMl9tWEVHRWNsclRoOTZXUTRGVVo5NVNfY29mMHRKTVNNTjYtaU5hVkMwZkRqTWlLdVF4dWhhRmQwWUhmUXBJNVJxaTVQTXFFOXBKQVZGNUdrYjc1UU95UW9LQWFKRXZRRk9GTGtHUWpxazJuX19tYzFJYS1hR2JUYWVJSDZyRXNIRVZlcmJhQW5VaVljRzMxY1UxenA1SnE4MA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T18:22:02+00:00",
-      "summary": "Microsoft takes over a Texas AI data center expansion after OpenAI backs away  WRAL",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Microsoft takes over a Texas AI data center expansion after OpenAI backs away - kdhnews.com",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWngxMWVRUmhHM2swSmpOUEJEMUNud2M5YV9vYmk4T25Scm9sVHB2dFEtWDFOajdZVmVNM2plNmVfcnFNTmVtREY2Nkg4bG43Vzk2RmU1X2Q0Tko4OWVycmVsQTZNV0YwWHZTR19UUjdLOUkzbmVvMWp5U3BiRzNtNzBaNlNQSjQ3ZHJueFlXZHVBRER2WnZKSWxpeVFlY3NRRzNMalE1V3lBNXQ5aDRXbFBlS2xiLWMzOUJuRFEweFNXOElFam12WHBkdmh5VXpqWXhka2lSb21fZzQ5cXYxZjE1VFZxUWxCYkNiejlWeUhsbnpSWjBCTWJ1RQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T18:16:41+00:00",
       "summary": "Microsoft takes over a Texas AI data center expansion after OpenAI backs away  kdhnews.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Can ChatGPT practice law? OpenAI faces first-of-its-kind lawsuit in Illinois. - The Indiana Lawyer",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ19sNG5MUkdzbERKYlVyY3dpQkFpMXpvckRTV2ZsWk1jXzFoYzNyX19fX01FR3k3UUVIQTg4OFNhaFJXcXVFaVFuQUNWcHJ2RFBMTVJBTTFhbHVkVGJlWkdXVksxTXpNeTZidi1WY081SkZpQXkxMTU1WjVyZGhJQ05aSUcxbjRHZG1qQ3ljSWFYd2hLOXo4a0N5Wi03dmNIcDRtNTUtaExXREpQb0RPY1JwUmQ5TnNR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T18:00:09+00:00",
-      "summary": "Can ChatGPT practice law? OpenAI faces first-of-its-kind lawsuit in Illinois.  The Indiana Lawyer",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +200,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T17:26:15+00:00",
       "summary": "Why OpenAI is Putting ChatGPT Adult Mode on Ice  AI Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw is coming for businesses - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWndRbTRZVGFzTFo5NC13c1FGZ3BLWlVzcVp4cG1Fei1kcFBwMGhXUG9Pa3M4Q2V5MUl0S1RNMFVEekgwS1dtY2Zya1dhZVNDVUJkSXJZM0QzUnJVOXBuNVNlLWRmNktrazgxd1NkOGEtbTdlM3RqbFB0MVBINFZLMk53?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T17:04:00+00:00",
+      "summary": "OpenClaw is coming for businesses  Semafor",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "SoftBank secures a $40 billion loan to boost investments in OpenAI - The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3UyUXJMRThoODJ0bFdFYm55eVU2Qi1XRlJEM3o5VmJELUdrTHRmTVE4cVdZTW5qSDJZQVZGaG9vVFJ0SWliaEFiTnh2X2lwWm9KdDBMdjJFaGJkRzQwUFh6N08tSlQ0dEFoT3BJMGI3NVZSZjgxRHI5X3lKNlFRX0ZUbk5FQjRZUmZreldHRVN5VTNqS3JZWDdSQ1ozWXVydjRCMFY5dl9xZDFzNUwyZktFRENzcHFD?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T16:55:05+00:00",
+      "summary": "SoftBank secures a $40 billion loan to boost investments in OpenAI  The American Bazaar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
