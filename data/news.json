@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T18:19:28.387083+00:00",
+  "generatedAt": "2026-03-28T19:02:40.137826+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -24,13 +24,22 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "SpaceX or OpenAI IPO: Which Private Company Is the Better Bet? - tipranks.com",
+      "title": "SpaceX or OpenAI IPO: Which Private Company Is the Better Bet? - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVkI3S2VSSmJfbEg2LWNkQXZWM0VxXzZSZnctMTMyZ3JlUjJQTEphN2QteDhJWk1KU2hYemx6RjZNdWx5LXA1MDdNVE9MdFIzQVB4TlpNeWxycTBPWVRCS2k3QUNSSmNCa183aVRPcTNjMXpMTzQzVjNSc0tpdHR6VE5OVm5vdlRRYUYtUWZaNXNNM3E5?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-28T16:55:52+00:00",
-      "summary": "SpaceX or OpenAI IPO: Which Private Company Is the Better Bet?  tipranks.com",
+      "summary": "SpaceX or OpenAI IPO: Which Private Company Is the Better Bet?  TipRanks",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents - Towards Data Science",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE5qak5MMUpYR3djSklLd0VkcnZNUDJTVDhrOU1lNkk1NkQ0U042cTA1RmlZa3pETGdvQTkxSEhTSWdVMnE1UXlnVmZBQzhDdXdoNlNnYlFTeUFKY1RqMFNWVzd3RDd3Z3B4cWtGRWxUa3h4T0Z0QnVMM1dKY2FJd1NZbjNtQUEtcHFHdFFOQ05VX1BxYnF0R29zcHlTUUFhMWhxRlhfWFBqZWk1TDBnZnR2ajZVbTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-28T16:30:00+00:00",
+      "summary": "Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents  Towards Data Science",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI’s First Artist-in-Residence Is Launching a Startup to Turn Your Thoughts Into Physical Products - inc.com",
@@ -60,15 +69,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "LIVE: I Built An Army Of OpenClaw Agents. I Have Lost Control. [57bcaa] - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WaEVtcTJBNXNFN3RhRjNSMkFvbkxZd2xyR2lMUVNRX3pCcWRoMFFQWjU4NFI1eGVxemdrSjdFUi01Um5rdWV0MzBQeVlzQzBUMUR0OFFNWFVNOF9Ybjg5WkhRTlVjNFRSdFFsV2MxV3U?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-28T12:50:52+00:00",
-      "summary": "LIVE: I Built An Army Of OpenClaw Agents. I Have Lost Control. [57bcaa]  Fathom Journal",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "VIDEO: What the Disney Collapse Means for OpenAI's Sora - TheStreet Pro",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSHRORzVjOHVTd0gteDdDNFJTZ0Jud2dDQ2FVVE13OTByYUh6akE0TnZEbmltWGcwZVp1c2FKbFVrdTN1YTlySDY2MENtTUN2d1VUcUVrQUJSMTg1SGRYQUstQjlDNEZ3U01oa09zRHlPMmliRHF1QWJsUFppMVZJR0JBYmttbERjMTdTVGdSR200X2c?oc=5",
       "source": "news.google.com",
@@ -82,7 +82,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR3ZtbktZbmtSM2lGTEdmc0hLeURkQlFUdWVKdmttN0RyOWxNQ3M2c0Zhc1dQLW9XN1NyQTM4cG83dmo5UHlzSEIzVl9iTEdTMExLNW9hUDJPWm1wTEFSX3k3TzZPV2x5UXQ0cDNudEtMMVBiRTdROHoyNVhwNTRyVEx0VlBZVTE2VGZRUzhyalZhTGlQaWt5dGJjTTRGRzNNbVliaTJoY2diaDA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-28T12:00:00+00:00",
-      "summary": "Why OpenAI killed Sora  The VergeSam Altman Is Finally Admitting Something No One Else Wants To  SlateWhat Sora’s End Says About OpenAI’s Strategy  nytimes.com",
+      "summary": "Why OpenAI killed Sora  The VergeSam Altman Is Finally Admitting Something No One Else Wants To  SlateExclusive | OpenAI Scraps Sora Video Platform Months After Launch  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,20 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Interview with the founder of OpenClaw: The US should learn from China how to use AI - PANews",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNaFZNVnVMazNtaTF6OXlNaXY5a3JqVFVuOV81dUpiVm1PUzlVVXExdmc4ZHRIUHU2MnhSeHRmNzVBRDc3c1Y0N01ZbVNCTzFsdGdIV3VKaDJBVXVoeDNvRTl3YndXQXZ0RkxsSE9MWE1OQU11WTZNTjBmVzNQY2c?oc=5",
+      "title": "The Decadelong Feud Shaping the Future of AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQU1ZscjNCcUJiYUlXN0I4aVhBbEplUkFDNklJZElDSkNPUkVJUkx5LVVPdDZOZUI3Z2Qwd0pscVExNUt1T3ZmWGhWV1p1OVU2WHhfUGdHTUt1MTZVTjJKeUlNb1hlNWdNRjFQNnBHZnAxbkFFMER2cGRwdG40NGpaNWRQWmNzZS1LNFNpWXlIM1VKX0pLd3AtVVdnN0ZZeU5lcEhmSjJXVHFnMUVqcUdTNlZOSENKZGNlRVpPeHMxUmJjNjZuTkhIb2toRVA4d3F5UFNBM1hTeElhY1NzM1NtdGZJODFudXhEQmRHT1B1Z2VUQ292UnYwQTA0ME11WlVENU5WWkdGT08zNndad2hNazlvZ2YtaGxxc2dXTmlrb0ZlLUhkUkRmLWR4RXFrNFRoZVNXR0lrRjl2bzJXOG5USVlVVmExR2prUjk2SlZqM2EtOFNjakhzTVJGYnJxTE1Md0RDNnZ0eVFWN2ZZM1U0U0pJbko5ZHg2anNNLW5tcEo4dkUwR1g3UkR5dUxqZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-28T00:47:00+00:00",
-      "summary": "Interview with the founder of OpenClaw: The US should learn from China how to use AI  PANews",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI chairman warns firms to evolve with the 'death of SaaS' or wither - Nikkei Asia",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3hHLUkyei10alRHY0ExcDl0U3R0QWxTV21kSHI4ZTlkRGhlUlg5Y3Z0MEV2UjJ4M0s5VzQ2S1VyNDhBcVpYbTVzT05zZmVVWmZjYXpEWnVvTDBWS3g3RVhyYkhwbGdlSTdGMUpxdGREeHNGRm9NRmRVRmhlU2RRdWtkdUhEMDhUVnRYdkkwaFBxQ3piLU9taUhoakM4OHBwRlhFNzBfcFVuQnhwWGJlcWhnbHhEZW5XcXRsVXd0cnNZdkVMVjRYYjVJcXMxblVzSVI2RA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-28T00:27:00+00:00",
-      "summary": "OpenAI chairman warns firms to evolve with the 'death of SaaS' or wither  Nikkei Asia",
+      "publishedAt": "2026-03-28T02:00:00+00:00",
+      "summary": "The Decadelong Feud Shaping the Future of AI  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T23:47:14+00:00",
       "summary": "OpenAI introduces plugins for its Codex programming assistant  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "News | OpenAI inks deal for potential robotics hub in California’s Bay Area - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWVRM1E4TXlxTXZwaERRYmJtSXByZjEwLTE0ams2SkM5NFVPcnI3czVaOUp5al9uY3dRUTMyRHFuVVlXMlB3QmxJaDNfdV9jaU80a0VaZEtzZ3plNWx4TlhBQ0djeEk4Qm9FZkI0NW9DYUVBUmh6bGhfT2hYVGNLR0Frb1ladTNKQ05saG5NN2ZKZ3Bvd3VWMmlaWnJYc1dzeW9nZ2JoNzhyQTNuVXZqeDM3WEgyckV1UldoaXVFSFY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-27T23:37:26+00:00",
+      "summary": "News | OpenAI inks deal for potential robotics hub in California’s Bay Area  CoStar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
