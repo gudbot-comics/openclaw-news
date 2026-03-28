@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-28T04:17:07.445280+00:00",
+  "generatedAt": "2026-03-28T05:36:30.365118+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "MSFT Stock Today, March 27: Oversold as OpenAI Risk Tests AI Narrative - Meyka",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWFN4elZjQ2NMYlkyQTlvWVBNTlNSMWh3azZOV3ZWN1FJMndyckxXVUMtcWZVYUVGRkhzdk10MEJoblMxQmxWRjFhVVZFTk5yX3B2NXd3RkpWR2swYVJVcFdIQk5BN3ZpOWZFMTQxbjBlQkhfLU83c2dTbV9Da2NrVkpFWmdIUTJfcm9INXV4UU1zRDFBZ1cwS29ZVEtpdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-28T03:35:21+00:00",
+      "summary": "MSFT Stock Today, March 27: Oversold as OpenAI Risk Tests AI Narrative  Meyka",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Elon Musk Seeks Zuckerberg Support For OpenAI Bid - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWlmUFZMNmhDallmTnlJZGJxb3lWeWhOQ19FTkxkQWNFczBibW9aeXhNNnZCQXNYYjVSQjBXZmpqWkdBdjdoYnpUOEZWRWNKZlJrQy1YX1Z1Y2g5TGVONkVIQ2k4dmxXWFNEWnZSbVhlOEdBOTlHN24zS1dndUt4YU9fSU1nclZKWEVzaDBDdVJNLXVLbUE?oc=5",
@@ -60,6 +69,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Why is OpenAI shutting down Sora? - Inquirer Technology",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtNUQ4WF9ZZS0zdGhDZnd0TVQ2Z2JsdkdrbHpWRFZ6b0djQWJMRUxOX28zV3RHWjNwaHNHVjhBcjNaWVlxajhIc1hCTFFMT3g5V3pkcmY3UjVfUkpQeno3ZG1MVzJIYUd1RzRuRl8zSHpqQ1l5ZjBDdGZIZ9IBgAFBVV95cUxNcFpMeEVNTkRZbVB3dTlPR0pNNzRrNGtWMzFxMWo2MkVFNFptRllmbjB3cFE0NVFNWDloMTg4eHc2dkhJNmduanZfYnF6bm5lOWhoSFRQaFZ6NU1WOTZhTUVOek9IaXAtTU5qZmdEZDFTajlpUHAwOGJYS1RwNGhEdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-28T00:09:00+00:00",
+      "summary": "Why is OpenAI shutting down Sora?  Inquirer Technology",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Adds Plugins To Codex Assistant - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVEtVT2VUanRBMnBhM0tYd2ZHZzQ5MlVybzZzYnpSNnVpemFEb3pfNGFwZVJyajRjUGxnUHVOVXUyOF9VbjgzbnVFLVd5bGtveG53TEpDcTJUR0ZfaU5RclhWNXY4TUJVc19OUi1VbmVfODZQMGxzc2Q3dDJOcDJ2UUdFWWZEa2c?oc=5",
       "source": "news.google.com",
@@ -105,11 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI is sunsetting Sora, but it’s not the end for AI video generation - pitchbook.com",
+      "title": "OpenAI is sunsetting Sora, but it’s not the end for AI video generation - PitchBook",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblU1ZWk0N1VJaUFhbFhmUXVTZGNGeWZyTE42T0JrdGZYcDRzQnlKS0Frb2ZXNGZ3ZjJCNVVoeG9aMzJyTEwxb3FQbENJSzZDcUVoTVlCVXN6UldQMGN2LUEydW8yZllycXdtdmEzV3NCY3BFQzFGVTdGTjhneVlyMjFRNFVtTXc0OFBiVWFwOXRIaFpDWDR2WnZ4bGVaYXhPZE1fdmFKaFk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-27T22:07:32+00:00",
-      "summary": "OpenAI is sunsetting Sora, but it’s not the end for AI video generation  pitchbook.com",
+      "summary": "OpenAI is sunsetting Sora, but it’s not the end for AI video generation  PitchBook",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,15 +146,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T21:44:45+00:00",
       "summary": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "With Sora’s death, AI’s age of frivolity may be ending - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BQ1lEd1FpTFhjYWJWOGZ2Z25VTDRwNVA2cnFJa1N2S2Uwb1FLOEgzOHlXSVl1ZHIwVkd6REtja3dpd1lzampTSlpPOW4xMlpWTE5FQVhyUm5pWU11ZXVpUUJZT0N2NzJySzNiU19R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T21:09:14+00:00",
-      "summary": "With Sora’s death, AI’s age of frivolity may be ending  Fast Company",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -195,13 +204,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "ClawPhone: Redefining the Smartphone as a Living AI Agent——the first native Android app for OpenClaw - Pandaily",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkFtM0M5WW5TUTFyaHEyS0Z5M01Cd0diT3RRc2pvZWhVU19ZZ2pENVBKZkNnUUEzSGlFTnJ2dXpFai1Md3Y1MHcwWFdOb25ZQ0hwVzhxMXJIZE1URmhuWFgtekZBVWROaGJlaS1qN0xCUDZWcXdxd1JrWkFZb0NZTzVuN2l6RklGNm9GMWp2WVJnRldNdnhxejF3LXZ3bmVwV3RJTDJkRk5JbVVnSmoyazhybkRfYjJuVWlHWGJDNno?oc=5",
+      "title": "ChatGPT, But Make It PG: OpenAI Rethinks Adult Content, Erotica Push - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajNDVjdUTmo2VFY2ZUtlMU5xVTY1RE9ta1MxbmhKa0hhTENRaHVpZXYybDQta0x0ME1XZFRTYW5lN0FEQjRMeVcyb3g1QkdVNm5xbWk0ajNYOVQzcHdobzFlUHE2Vm54TElRXzVweEZFZE5FV0w0d0NZb3pqY1J6d3Etd1JTNmc4YUpkZXdfMzNYcS1WcXJMN1JnU3YtajJTY3hxWS02R2xjd1hwMThaNEtQdEpfbG00S2d6VldZM2N5RUFLTUVsZg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-27T19:03:07+00:00",
-      "summary": "ClawPhone: Redefining the Smartphone as a Living AI Agent——the first native Android app for OpenClaw  Pandaily",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
+      "publishedAt": "2026-03-27T19:14:00+00:00",
+      "summary": "ChatGPT, But Make It PG: OpenAI Rethinks Adult Content, Erotica Push  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "Microsoft Steps In After OpenAI Abandons Texas AI Data Center Expansion - Fine Day 102.3",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-27T18:51:49+00:00",
       "summary": "Microsoft Steps In After OpenAI Abandons Texas AI Data Center Expansion  Fine Day 102.3",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Bug Bounty Program To Cripple AI Weaponization - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdG16MXVPM0JVbk1OUDUteXZEeENMS1ZSdHNqdG5uREVJekV5ZEVWaVdvczViRTNJTjRpbFNxZU9raU1oOGxQWTd4NFZJSlRGeFFBU2FDeHE3VmZxaG5IcXppUm5BZVBoUm5hdWV2RVEzaWFkWmkxNU44b1FBZ2pPTHpHRUt3blRNNV9lNUQ5aFQxSlNBUUQw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-27T18:49:06+00:00",
-      "summary": "OpenAI Launches Bug Bounty Program To Cripple AI Weaponization  TipRanks",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
