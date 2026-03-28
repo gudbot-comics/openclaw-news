@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T13:59:40.106711+00:00",
+  "generatedAt": "2026-03-28T14:40:02.349341+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -24,6 +24,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Why OpenAI killed Sora - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR3ZtbktZbmtSM2lGTEdmc0hLeURkQlFUdWVKdmttN0RyOWxNQ3M2c0Zhc1dQLW9XN1NyQTM4cG83dmo5UHlzSEIzVl9iTEdTMExLNW9hUDJPWm1wTEFSX3k3TzZPV2x5UXQ0cDNudEtMMVBiRTdROHoyNVhwNTRyVEx0VlBZVTE2VGZRUzhyalZhTGlQaWt5dGJjTTRGRzNNbVliaTJoY2diaDA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-28T12:00:00+00:00",
+      "summary": "Why OpenAI killed Sora  The VergeSam Altman Is Finally Admitting Something No One Else Wants To  SlateWhy Is OpenAI Dropping Video? To Focus On What Really Matters.  The Free Press",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Introduces Plugin Feature for Codex for Enterprise AI Coding Governance - MLQ.ai",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTExIbmhMN2lKNTQ5ZnJ1dkh2SmFxbVNnV2lwWFNVeE5Pc0o0LW5VSDBPODJ5T0ZZc01vQ1FfWGc2aVV3OUpxRklpbGFBUDRqTXhhcWlRNkx0SUpYSTZmTVFGdzRDdnVPVzBad25WbWhIOXZkM2JVZU5GOXJSUUFuT1VGeDhCaFJzalI1eTVXQU15M0lhTkFNRl83NlAzQ0Ju?oc=5",
       "source": "news.google.com",
@@ -33,11 +42,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s billion-dollar Disney deal is one of the first major casualties of its breakneck spending - finance.yahoo.com",
+      "title": "OpenAI’s billion-dollar Disney deal is one of the first major casualties of its breakneck spending - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmJmcmRUR0s0U2ZpandjVkZ6anRldEpXQWJvQ1k1dHhoOUZnOFktT3k4OVdsZkZ0YkI1MmRVaTJub0VKUW9vY1ZfQUxxc2VXQW9wODBRem1IaXp1UXVvNGNqMmpTa0U0eS1vbk9rZi1oc2ZEZkRiSzM1cjNvb1d0aEZ0X3MzWU0yUllxOTlDbG9PMnhETGtNNUZ1Rm5zM3dhUzlFag?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-28T11:15:00+00:00",
-      "summary": "OpenAI’s billion-dollar Disney deal is one of the first major casualties of its breakneck spending  finance.yahoo.com",
+      "summary": "OpenAI’s billion-dollar Disney deal is one of the first major casualties of its breakneck spending  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,22 +150,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Interview with the founder of OpenClaw: The US should learn from China how to use AI - mexc.co",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45ZWJiRm5mZEZPY05RNzVLWlB3Nk9WQS1mSWkxOXdHNGh1c3N6NXg5TmhvZXVKYTU5TG5jaWktbndpN0lBb3lnM18ta245QQ?oc=5",
+      "title": "The Decadelong Feud Shaping the Future of AI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNaEQtMEVaVFFSWU9aTXZnb09IZ1FiSmpvWlJzc0FDMFNZdUpxMjZpV1ZibzZXZ2JFYmdzVExyaUhUTFpfNFhacDd5RVEtZ3F3VkhCNG5hdFpzd1hjU3lfSUtQUFJ4OEczVjZ5bHgwcHB0Vlh1UTJhUE5ZM1YySnFLeDJTbGRTd3c0cGZ4cEd1X0JtQWNEaTFlNWpUaFoyNlNzS2piMjFqQ2NpWFM4UlNsQ3BmZFktMDBXbV9UTDdNWUVMMDZjQkNBZG93dmVyZ2ZoRUIzamlXNmt2cmh1M1AwX3NzU1ZWVUZwSFlTQU9jZHZ2Qm96MnpsWVVOaTNwSjNLa29iWXhMZkdjaWFzd3B0ck5ZOUYtNkxOR2hKbkZJdXYySWhyUWtybVlTbUV4djJ6ZW52OGlzVjU4bTk5UnJFaWtTZU9LdFJJU2doMmJXVnEwR1laRGQxd3loVVB0T1ZFT2JsVXVYYTgyTUp0QjRWSTlBMVM0MlRPcURLZFJob29xYnJ6ODFZT3JCZ3BMZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-28T02:04:37+00:00",
-      "summary": "Interview with the founder of OpenClaw: The US should learn from China how to use AI  mexc.co",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Interview with the founder of OpenClaw: The US should learn from China how to use AI - PANews",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNaFZNVnVMazNtaTF6OXlNaXY5a3JqVFVuOV81dUpiVm1PUzlVVXExdmc4ZHRIUHU2MnhSeHRmNzVBRDc3c1Y0N01ZbVNCTzFsdGdIV3VKaDJBVXVoeDNvRTl3YndXQXZ0RkxsSE9MWE1OQU11WTZNTjBmVzNQY2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-28T00:47:00+00:00",
-      "summary": "Interview with the founder of OpenClaw: The US should learn from China how to use AI  PANews",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
+      "publishedAt": "2026-03-28T01:30:51+00:00",
+      "summary": "The Decadelong Feud Shaping the Future of AI  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI chairman warns firms to evolve with the 'death of SaaS' or wither - Nikkei Asia",
