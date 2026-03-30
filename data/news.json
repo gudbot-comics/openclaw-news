@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-03-30T21:06:57.876802+00:00",
+  "generatedAt": "2026-03-30T21:54:49.162938+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI's Video AI Platform Sora Was Costing It $1 Million A Day - Kotaku",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0p2M3BvRXpRQ09LVzRRUkZzQVZ1Qkk5bzJUbE9yVHJtMTE5TFBjYVBqVEpvUE4wZW54T2U0ZGYxOFFvcUF0Q0pUZ3VMdGpmY1pCYlJhRjVwc3pRTmVNTTRDVUtfNHNlazc2NVZVWjY0dUYtd3JlSS1qUElZcDlaS0plS2xMWFNkbTFyRmtmbFF3d2xza1lHcmFCZFVncncxR3lz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T21:46:04+00:00",
+      "summary": "OpenAI's Video AI Platform Sora Was Costing It $1 Million A Day  Kotaku",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Agentic AI OpenClaw holds Japan event amid expectations as 'next ChatGPT' - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbC1xaXpISDN2b2hSZXJKaDRvNEZoWU1pc1l4VzlYcDEyWmZtbGxlWGdCWU1iX2VIOUVVV202SmN6em5CenNKUnVpdElReWZGMmN3c3dLYzVJTHNYNEw0cXhxZ18xczlkQ1lZd1ZvYk5PTmtxek0xeXBoM0p0NW5YeVVrcXdvOEdIVmdPRjJWTjlQM0lYajJ5UmNPczg5dDhxNGVodVJsTjNUWGp2STB4bUZIa1ZNanFoVEQxT3V0X1pmWWZGNWNieTZFUDFKTHIzdTJJdS1B?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T21:35:00+00:00",
+      "summary": "Agentic AI OpenClaw holds Japan event amid expectations as 'next ChatGPT'  Nikkei Asia",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "AI agent future is coming, OpenClaw creator says at Tokyo event - Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXZDQ2c3Z283bjNfUWcyOWxKMVVOZ0tWQzZJenk2Z2FuSWIwSl9LVXFTTkp2ZFpiTWowLTh1bVEyb2ZZNmxaQUpfZmI2bnBUUzhia1d1QzZrUkh4UXFTclFrTmdnRzZFVFAycmE3T0kxOGlySnEwWUpoc3lscDJfR0lsZHZSd2diMGVLbVZhaUp1NXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T21:29:00+00:00",
+      "summary": "AI agent future is coming, OpenClaw creator says at Tokyo event  Japan Today",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Where the Collapse of Sora Leaves This Crazy AI Moment - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFdwLWdIanVxclgxZWVOUVJMcV9GOERwS0tSQTFDTklEQlVkSmN2YVkzN1Z4Slh3N1E4ek5uX1E4Yk11aGV1NEMtOFhzaVoxd0JEVjdERUlCQTg1ZzlBQ3dPamlnR3JMZVRBc3plQ3p6MUY1U29NWEF5YjVEcEliLThLQXdWa2JpU21jLWNVLTRZM09hOVlkaktqX05jVDNSZ2tIYVdDNVVlZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T21:11:50+00:00",
+      "summary": "Where the Collapse of Sora Leaves This Crazy AI Moment  The Hollywood Reporter",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft Debuts New Copilot Upgrades Combining Anthropic, OpenAI Models - The Information",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkJORmoyTzNCZDJpMDFCQ0pGeGVZT21fWGpEekpCaXMxczJlRU92RWlNS0JyZlRjeWdJMWg3cGJNNzY4YVRUWXA2RWFTU1hJTExPZkZtQkZwQmplanREVGJ2aDk2VmMxYTEzaEN6YkdfNTVJX3ZYUEI4M1BxYm5VLVRXaEdIVS1hR2cxTDBTNEtTc0o2NEFJVVNwU0FOSmp2eHIzZERJemdmYnlGZGxveEt3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T21:10:00+00:00",
+      "summary": "Microsoft Debuts New Copilot Upgrades Combining Anthropic, OpenAI Models  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Codex Vulnerability Allowed Attackers to Steal GitHub Tokens - Hackread",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oRHNvNmdZcVpoblVIZDRnX2l5ZW9vbmItbUJNSms5TzVMUklWd2c5WWZjanpQWHNlN1IyX3UtcGlocnhRX2o3UE9rZzNyWlUxc1FnajkyS1dYNGowQ3J1ZTVWNUgtdmxrXy1SbE1LcmFLUUk0MVBz?oc=5",
@@ -15,11 +60,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "TCAI Guide: Understanding the rise of OpenClaw and open-source AI agents - transparencycoalition.ai",
+      "title": "TCAI Guide: Understanding the rise of OpenClaw and open-source AI agents - Transparency Coalition",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGZrLW8weklja29QWUU2eTh3ZGRRbHkxbVNsZ2d1ZkZ5NmdvWld2WVVlQWhHenN6ZnktVWpWUUktUHg1cDZaVjdhQW5tNmQ5MWF3Z0hXYXplQ3RCOFRUOGphM0dYME9wMTIxSXRQa0lSdUdUNlh0ejRwM1VGRWRLdnN6REZQeDc1NW1WaVNSWlFmazktUXMxUFJQY29hTmFDUF9IVVM3RFIxLTBx?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-30T20:39:39+00:00",
-      "summary": "TCAI Guide: Understanding the rise of OpenClaw and open-source AI agents  transparencycoalition.ai",
+      "summary": "TCAI Guide: Understanding the rise of OpenClaw and open-source AI agents  Transparency Coalition",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -60,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI ChatGPT fixes DNS data smuggling flaw - theregister.com",
+      "title": "OpenAI patches ChatGPT flaw that smuggled data over DNS - theregister.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVEtLRGc4Z2tSLXU5UUtDU3VMODRMd3h0YXpha1JKb2NVRk5MRVpIdTRnWFJTQXdwV3JpbHg2YjZmcTBCcDZiR2Z1YTluWXVtdHh6aEthYjJwYzZFazZrSWVNR0JzeVhOamdlQi1PanJOZE1EWU5mSV9JZ25WMWdrN2V0S2k?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-30T19:36:00+00:00",
-      "summary": "OpenAI ChatGPT fixes DNS data smuggling flaw  theregister.com",
+      "summary": "OpenAI patches ChatGPT flaw that smuggled data over DNS  theregister.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -76,15 +121,6 @@
       "summary": "OpenAI Announces Safety-First AI Pact with US Department of War  CDO Magazine",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw's creator says 2026 could be the year of general AI agents - Tech Xplore",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83Qk5QU0FHTkN1ZkV2LU14WjNVQTY0eGt6ZWdCQ1BIR1FYVWtpZlJnS3Z2UUIzZ2VLMnRySENIV29HWnBRSnU4cjl0eEkxQkZNZUVQTXBoSDh3d212QjN4M1NKczNmZmhVdlhreTdXTlFCZ0pGVFp2RlpoZUpDdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T19:00:06+00:00",
-      "summary": "OpenClaw's creator says 2026 could be the year of general AI agents  Tech Xplore",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "Apple awards rare $200K–$400K bonuses to iPhone designers to stem exodus to OpenAI - MacDailyNews",
@@ -105,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Coupler.io Launches Secure OpenClaw Integration for Business Data Insights - markets.financialcontent.com",
+      "title": "Coupler.io Launches Secure OpenClaw Integration for Business Data Insights - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX3E5YldSeWIxSHdmZGhpak9ST3p1MHlvTHBwMktXUVVSTWFzWF9tUU1kaWtFTHBRVV9mcmVHTWZwY3lvMHJZNDZEelc3LVNYSmZlVVlOOXA0WjRRVXBLSFF5eHAxMTNCTE5ZRDg1Z1VGeG9BeDNBRUFuUHdFNEZrTHFvbzhUWk56alFMa1EtbnlQMW9xcDU0Ymd6d2tEbDNuMzNrQmhPSlFFcEE3SzdCdnZ5Vnh0bG1pWDAyaElyQmxEaWQ0eGtBVGhXWENJNnVnTWxqS0h4NEc0M0k?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-30T18:04:00+00:00",
-      "summary": "Coupler.io Launches Secure OpenClaw Integration for Business Data Insights  markets.financialcontent.com",
+      "summary": "Coupler.io Launches Secure OpenClaw Integration for Business Data Insights  FinancialContent",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -128,15 +164,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-30T17:01:15+00:00",
       "summary": "OpenAI’s ChatGPT Ads trial surpasses $100m in six weeks  Medical Marketing and Media",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Disney (DIS) Faces Setbacks in Epic Games and OpenAI Partnerships - Insider Monkey",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUZEMDJUelQyRldQcEVWN2hlWkcyUlZ1NXM1RDJpNjEwc0dXU1lTeFYxTHdwdjZWLXpuSDkyU1pUSHdvcGgzcE56dGJRbmZvNlRMRjQ2V0ROUDlBTGNKMFd0c29SWkFGSThaTzU0YkxYODFJUW9Xd2tYZGt2WGhtZDloQklfVDlEamhUXzVidzVCT05QTmt0aXp4aDEyeEgwYmtUYVFZMnlaYlXSAbMBQVVfeXFMUFBfaFlFckdVOUxLNUxueHZKNXlDdkNHWGFZeDRtSFdHRDczejlBWlJpZXN2TkQ1NkFEWUdBdnBYemxQNTRTbU9wS1ktd0VQREltME5GWDRHczVrWVROUnctcUNKRW1YN3h1d0p1dmRCU0MzT2FrZG9hV3RPQlhRdE1PTndNS3RkQ3hFakRpTkNrcmNleXZsdFU4OTVFTGJ2d1dEeF9OVHFtcWNmcng1UTZDTlk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T16:59:13+00:00",
-      "summary": "Disney (DIS) Faces Setbacks in Epic Games and OpenAI Partnerships  Insider Monkey",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -187,37 +214,10 @@
     },
     {
       "title": "Nasdaq paves the way for SpaceX and OpenAI to quickly join a premier index after IPOs - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQdFJ4SU5YWm5Ed0dYRFQybmhqaEZDeWU3Z2NaU0kzbDhLeFNpdUhoQ2Q2ekE5OXdXNlZXa0RBREUwQ2IxdUxoWG90dzhmM0FvSThxVU9JZlFCVkxWdTc2UmxYbl9nVERkOW5lNUk3SzMxSnFQdVNtaTY2UlU3Vmx5U25kQUN0VTd1LXNsR3pTVDJXeVdmTjFvd1JqbDBUYmxkYTRjajRYN0lTTFpCeGVyajZsSC1qSUx6elZ4elZ4VEJzaVlmU0xaMG4yYWRSTW5icm4zSTl2Z1I3ZVhHbGR0dnZFSzJWbG1lMTNDbnhyeUVIQl8zc1NjazZxeV83Tkt4a2dwTFZ3ZGZCWEI2T0dNdlFFUDdFc3libjVFMXZQeXNBR3AtdVpIcTNXalFTYUl2WExXdzlKXzcxazVkeVQ2ZFJtWHpWTDlaajFDb3FIcUFvVV9RM0h4eHpLOUhlSVI1RXY0bmdfMW9qaDVkRTFKY25oMVlrUVFRMTRsY3Y4eXdEdHRNajJfWFRSMkhJd3hsV2lhd01tMkxwS1JzVHdYdWhrZE1RWHNnVlpud3ljMFBpOVB4R1Utb0JwOXVlZWFEOTFiSHZwZGhQODc1?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOaE9MRFN0TlFnYkJTUHpOaHA0UUdvM1Bmc2xKRm52MVU2a2hDOGJvNTQxMlZ3TFdBSFlYUFZTYUtWa2QtNnl4bTZuTnFkeGVUV0hJTVZwdjV6endla1M2c1d3WVhNY0dIVUVzYURicVU2ZV9QZkE0alR3ZFdPeWFvdThISEdMZ0xSU0tNQ0p3ZEN4YUhEbGloZENMSXNnYVNYWkVkd0pSajB6MktjU2Z1d0NOeUp3STg4Y295NUVSVlBYcXl2OUhpLWgycjZaUm9IZ0FZdmY5VWlTcW9KRzV1TzMzREE3ZDRBdmZBUmRwMHpzdGpoU21DZk1ZM3oyeVFpMTBTcHZrQ2lJWWVKeGVkOEIyY2tXWmg4WUxfbkNsV09sNUd0TklNcmoyQk5rZDBjcFdtT3RWSkV2RjRwSHg4TTdwOFJBYWhrMHVkRDJGOUR0VGVCeUJTVWxjWXJMdDkwdThrUUc4QlJnMXhHX3BCdy1OYlZtOW1SR2x6S3dsS0RodXlzbVhfazBlY0YxZGk4d240WkVIZ0F4czBqQ0J0N0F2M3NOQWF6cTJSbFpwZUE2T3prQVpBSE1leFVUc0k5VEJJYXExQlhFOVJu?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-30T16:12:00+00:00",
       "summary": "Nasdaq paves the way for SpaceX and OpenAI to quickly join a premier index after IPOs  MarketWatch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI refocuses ChatGPT shopping on discovery - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YeEpTS3Y0d01LSjJzdXphMTZPUU9KVl9XdG9RNi05SF9ValppN3pZNjNpbTlVVEQzSm41QjlmNVowdkR0My0xRkFkR2l1UTl5NWk4N0xldGtnM01JRGYwZkVoQWFTTk5nQ2Y0VTBtVklrU3VqN2dsbXl2S0Q?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T15:59:14+00:00",
-      "summary": "OpenAI refocuses ChatGPT shopping on discovery  TechInformed",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ROSpider Integrates TOF LiDAR And OpenClaw - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlU5VzhOM2czWGRHWWxCWEp1QWh2T2pWODNMektZUlQzVUVKVzhYNVBPdnNPR3dISlFuRmxNbW5hM3NreHVzVF9hdTVPUVZ5YlJWMFAzOWxBMHEwbmFNY01mcE9WRXMzTTM4RzV6RGVmbXBHdDNOaGRBaFZHN2U4ejl5ekVSdW4yWDVLSA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T15:56:36+00:00",
-      "summary": "ROSpider Integrates TOF LiDAR And OpenClaw  Let's Data Science",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns - WGBH",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ1JqYnpmdjdFcEg4OFVrbTh1LVh5ajNkdjVYR3ZTWEJpcHhLSDRGOWtBVVhEWjFtN2tCMnFzUnpkaFJFVUNEWVZ6endMV3FTQVdYY1NoZFNQakZ0akRFRlVvYThsajhjUTFDVWxRak1teFRsZVcxNjNNWXIyNzlVdWw2eWdCLVl3cmJvc0ZVTDE2SzZ1WFE4VUxsUk1KNGo1Vlp6NjNtSTRLUG1lOUJwUWg0Z2JJTlFrX0RWZWh4Y3laVnZGR1FCdA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T14:51:44+00:00",
-      "summary": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns  WGBH",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
