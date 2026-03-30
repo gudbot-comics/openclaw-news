@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-03-30T20:24:42.157410+00:00",
+  "generatedAt": "2026-03-30T21:06:57.876802+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI Codex Vulnerability Allowed Attackers to Steal GitHub Tokens - Hackread",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oRHNvNmdZcVpoblVIZDRnX2l5ZW9vbmItbUJNSms5TzVMUklWd2c5WWZjanpQWHNlN1IyX3UtcGlocnhRX2o3UE9rZzNyWlUxc1FnajkyS1dYNGowQ3J1ZTVWNUgtdmxrXy1SbE1LcmFLUUk0MVBz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T20:53:56+00:00",
+      "summary": "OpenAI Codex Vulnerability Allowed Attackers to Steal GitHub Tokens  Hackread",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "TCAI Guide: Understanding the rise of OpenClaw and open-source AI agents - transparencycoalition.ai",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGZrLW8weklja29QWUU2eTh3ZGRRbHkxbVNsZ2d1ZkZ5NmdvWld2WVVlQWhHenN6ZnktVWpWUUktUHg1cDZaVjdhQW5tNmQ5MWF3Z0hXYXplQ3RCOFRUOGphM0dYME9wMTIxSXRQa0lSdUdUNlh0ejRwM1VGRWRLdnN6REZQeDc1NW1WaVNSWlFmazktUXMxUFJQY29hTmFDUF9IVVM3RFIxLTBx?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T20:39:39+00:00",
+      "summary": "TCAI Guide: Understanding the rise of OpenClaw and open-source AI agents  transparencycoalition.ai",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "AI agent future is coming, OpenClaw creator tells AFP - The Elkhart Truth",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOFpGbFlxRG5YbWNfTzdRc2FSeGM2ZkxOYW1FSUc3V2g1b3g0TXJWNzlISXlodEdZZUlheTFObmNlNVJhZTc5SHZGY3VQOWxtbGtZSDJKblBUQWN3NTFTU0ozTDNiQ2ZPQjVjRG5ad1FBZW56U2VrZ0cxNDJ2d21Td2dFbXlmNDlOc3hPWWszVE9lTHphN3JTM0ItN3J4TXJGQVVGNWdySU5PTUx4RUw2N2x2c1Jzbk9RMURyRzk1VXIwSDR6OXNMUkttT1ZGd1RKRXlRNHdOMm5qZzVIQlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T20:16:28+00:00",
+      "summary": "AI agent future is coming, OpenClaw creator tells AFP  The Elkhart Truth",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "Counsel for Anthropic, OpenAI flag privacy tradeoffs in AI safety - MLex",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMHNiRlZESVhzbG40Qlh5bU56QnJVR1pVXzFka0pMamtMTm5YSThueV9lZ0YwU3IwSW5RUlRmR1NqVEtBR3k1X0tqcElFcmwzTmpaWEY4YWdSMXFVd0xGMWw3OEh4MDFfUkxKX3NMaHFteFRKRUlKcVc1VmpUTzZEMGU0aDl0eGJDUDg2cERibjJZVF9Md3h2T0VTOGtLWUMxWDlLaDlnREhtUXRjOEphM2dVdFRjTWxlM2xLdFlJS2xHcmIyQTR4dFdib9IBWkFVX3lxTE9yUzZHR1h3bEZ6OFk1RDdRU2FhTzQ3bFgySV81WFBBcFZGNHVwYVJyc0lDaXJqejNCcEE4bzBNdWVEU2xTbXhDWHNIMmVDMUZTbXFla1otbkNjUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3hsOEhpMWdoUUNLeU54cnd2SmJiOEEtZWZHbzkwRC1QZkF5T2Zkb1FtQ1lJV3dOX3B4ZVRiTzBwZVJqRDdQS0FBZUttejZjTkd2ZVAyNHBtX0ZxVTNvdTZqV1o5RDQ4NW5FbF82OVRKelVqdGpyVS1rc3hBZ1NxUVhtTllZU2g3U0RFSVIyTUplLTVnTUVWQk9GNmZwQlBITEhMMDkwV1NHaDTSAVpBVV95cUxPclM2R0dYd2xGejhZNUQ3UVNhYU80N2xYMklfNVhQQXBWRjR1cGFScnNJQ2lyanozQnBBOG8wTXVlRFNsU214Q1hzSDJlQzFGU21xZWtaLW5DY1E?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-30T20:04:00+00:00",
       "summary": "Counsel for Anthropic, OpenAI flag privacy tradeoffs in AI safety  MLex",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How much you worry about AI may depend on your generation, Quinnipiac Poll finds - CT Insider",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnRuZlN4NHk1a2hDeWpLZEZwTzFFcmNuQURObkpkM24yWjc5UDVRVEZsNmhsaEJ3aXEtNHQyNE0tLThsR0c5dWZYd2ZoMW1DUnUwZ0lqV0tCcHhZQmNqXy1JT25QRG15enFlQ3FaV3hpXzE5aEhRZUNVRFVvMzVFNzMzNFRXTlN0R0JRQzFRNXQ1QWJ1VVFpZ2FSTVJFVElWVk1wMjU4eWVocXdoblE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T20:03:56+00:00",
+      "summary": "How much you worry about AI may depend on your generation, Quinnipiac Poll finds  CT Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "IAPP GS Day One: OpenAI, Anthropic Attorneys Delve Into the Privacy-Safety Tradeoff in AI - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRS1DYThodzBYVHpzRHY4SFkzNVVqalRiNHlySFZFc1JfcFhDN3VvbFlfSHhTSVlORFVqMkxjbF9yb2NnREEtazFKaFlJbDcxWUpvMFpUaGZVZDRoODlvU0stY3F4Y1FpTlNkby15Ty1QTmhNRTE1X0dUSUpwMks0dWJwM0pNZjZUc0NGVzZXSDkyNnZ1N3FxbGNUbk9CX21va01PNG00RkxWbF8wSHJ0NGFMejg1UmJqdHRxODg5V3M2bmFiWDR6cmN1Q0FodHM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T19:43:00+00:00",
+      "summary": "IAPP GS Day One: OpenAI, Anthropic Attorneys Delve Into the Privacy-Safety Tradeoff in AI  Law.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,11 +96,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Coupler.io Launches Secure OpenClaw Integration for Business Data Insights - FinancialContent",
+      "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HNE5MOGhYXzRPNTRnenZKeEczUkMydERQWkZCUy0yZnhDRmVMZzVBamsxV24xdGI2RTZ4ZWRNS1JwNUlucWVxc3FjU1QxX09jbHo0RUFVRUYwQlA0N3ZjOS1NR1VLbHRGWmFNSEpTdkRVUmgy?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-30T18:05:00+00:00",
+      "summary": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability  The Hacker News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Coupler.io Launches Secure OpenClaw Integration for Business Data Insights - markets.financialcontent.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX3E5YldSeWIxSHdmZGhpak9ST3p1MHlvTHBwMktXUVVSTWFzWF9tUU1kaWtFTHBRVV9mcmVHTWZwY3lvMHJZNDZEelc3LVNYSmZlVVlOOXA0WjRRVXBLSFF5eHAxMTNCTE5ZRDg1Z1VGeG9BeDNBRUFuUHdFNEZrTHFvbzhUWk56alFMa1EtbnlQMW9xcDU0Ymd6d2tEbDNuMzNrQmhPSlFFcEE3SzdCdnZ5Vnh0bG1pWDAyaElyQmxEaWQ0eGtBVGhXWENJNnVnTWxqS0h4NEc0M0k?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-30T18:04:00+00:00",
-      "summary": "Coupler.io Launches Secure OpenClaw Integration for Business Data Insights  FinancialContent",
+      "summary": "Coupler.io Launches Secure OpenClaw Integration for Business Data Insights  markets.financialcontent.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -105,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's ChatGPT app store initiative sees sluggish start: report - seekingalpha.com",
+      "title": "OpenAI's ChatGPT app store initiative sees sluggish start: report - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc1Z6R3laRjBFazY1ZWxPa0pQZ2hNY19HZy1Ya3p2ZTRXTnBhNzMxNGRhckZ1VF9sbzhWb1RFSVVPWXlucHRrX05Lc2R0QWtnQ202LWNhd0NNZXpzTzhBenh1ZHpHdjhOOHZ1Q3BIVEZhUC11WHNwRTdxTzNkaXZJVWJIV0labTUzb0VmX2dNaHhHQ1Jra1V6d0RR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-30T16:50:00+00:00",
-      "summary": "OpenAI's ChatGPT app store initiative sees sluggish start: report  seekingalpha.com",
+      "summary": "OpenAI's ChatGPT app store initiative sees sluggish start: report  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,17 +186,8 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI IPO 2026: Revenue, Valuation, Timeline & How to Invest - techi.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByQ3E0OWItVV9HdldVSS1xX2pqLXZ1VkZ3ZjdBZHdPS19WVjB0UDNrcUExTklTNFRYejlHNnFfai15bWh3azlkRg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T16:24:46+00:00",
-      "summary": "OpenAI IPO 2026: Revenue, Valuation, Timeline & How to Invest  techi.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Nasdaq paves the way for SpaceX and OpenAI to quickly join a premier index after IPOs - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQbUgwWDBBMEViTTRuaXd4a0JJYW84WV83eWVGUERtX25USkVhNkRlNWR4anJIMHp2a1MzZjFCTkxrY19iVjJ3aGNXa3BvaXNQM1NnVjYtSWlERGwzVmJyQ21fV3pKR3QyMGtsMWphRzdOcWpGNDk2ZFRSMXpvR0VSajJkLUJRR0pOY2hkeE50MXBacm1VT0dWYVZrTGs4eWN0YmpoOWdXM2d5cTd6S3Jkc2QwVFlORUxQUV9HdW1Qd1JOODAzdnQySVRTVzlkOEg4M0QxbXN6Z29CV1lpeEFRR1p4bUtkRnVYTnlTMUVkcEhCUEUzS2U5Wll5Sy1HeE9ySGlDYllJMDB4VVg5eTE0b2JYRXcwSTRFZHZNNDhSbVNHSzllODk2bnB0NGpFUE92YXJRRVAzWGo5N0F4TjFEa2JDTS14ZE9nZm02eUxsOU1TWVJqRFpxSl9ycjdmdGlJSU1QWVh3UW80UGFwdHZfY2ZGbDloV0Jpb3M0c3RrdDhrbDlBQnF3ckhtNU9aS3JTLTZRRTFHb1JsSnIxVzBHaC1ENDJ2ek8wV3VYVmU2R09xRS11ZXR5QTBOSVdCck96S3RjTV9SX0xpT3o0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQdFJ4SU5YWm5Ed0dYRFQybmhqaEZDeWU3Z2NaU0kzbDhLeFNpdUhoQ2Q2ekE5OXdXNlZXa0RBREUwQ2IxdUxoWG90dzhmM0FvSThxVU9JZlFCVkxWdTc2UmxYbl9nVERkOW5lNUk3SzMxSnFQdVNtaTY2UlU3Vmx5U25kQUN0VTd1LXNsR3pTVDJXeVdmTjFvd1JqbDBUYmxkYTRjajRYN0lTTFpCeGVyajZsSC1qSUx6elZ4elZ4VEJzaVlmU0xaMG4yYWRSTW5icm4zSTl2Z1I3ZVhHbGR0dnZFSzJWbG1lMTNDbnhyeUVIQl8zc1NjazZxeV83Tkt4a2dwTFZ3ZGZCWEI2T0dNdlFFUDdFc3libjVFMXZQeXNBR3AtdVpIcTNXalFTYUl2WExXdzlKXzcxazVkeVQ2ZFJtWHpWTDlaajFDb3FIcUFvVV9RM0h4eHpLOUhlSVI1RXY0bmdfMW9qaDVkRTFKY25oMVlrUVFRMTRsY3Y4eXdEdHRNajJfWFRSMkhJd3hsV2lhd01tMkxwS1JzVHdYdWhrZE1RWHNnVlpud3ljMFBpOVB4R1Utb0JwOXVlZWFEOTFiSHZwZGhQODc1?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-30T16:12:00+00:00",
       "summary": "Nasdaq paves the way for SpaceX and OpenAI to quickly join a premier index after IPOs  MarketWatch",
@@ -168,15 +213,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI Sora closure financial reality and the withdrawal of one billion dollar Disney investment - Technetbook",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3BrNDZsVHhhc1FZN0V0amtYWEg4TDFZbDAzUmlWMHNPZWFDdVhwT1NsejQwRDRqcFk1Sl9xTTUyalYzUFVUNUV3NWZFRGNDcVNaM2VKVHI0My1ScTJoS0lDMmUwakNBbm5UNlRXcFdGaDBBTThaX0pwdXVZOGZuZXV6RlRWUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T15:08:00+00:00",
-      "summary": "OpenAI Sora closure financial reality and the withdrawal of one billion dollar Disney investment  Technetbook",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns - WGBH",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ1JqYnpmdjdFcEg4OFVrbTh1LVh5ajNkdjVYR3ZTWEJpcHhLSDRGOWtBVVhEWjFtN2tCMnFzUnpkaFJFVUNEWVZ6endMV3FTQVdYY1NoZFNQakZ0akRFRlVvYThsajhjUTFDVWxRak1teFRsZVcxNjNNWXIyNzlVdWw2eWdCLVl3cmJvc0ZVTDE2SzZ1WFE4VUxsUk1KNGo1Vlp6NjNtSTRLUG1lOUJwUWg0Z2JJTlFrX0RWZWh4Y3laVnZGR1FCdA?oc=5",
       "source": "news.google.com",
@@ -184,42 +220,6 @@
       "summary": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns  WGBH",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sora Video Generator Reportedly Costs OpenAI $1 Million a Day - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbVpoU2NvLVBOcW5mMTVvWmtRXzlUOFI0MzZEaW03b0hSSTVONXlsZkZqZ1dvUks2UGxFLTN2ZmthSW9qMkFOTXdiVkhtWXhydG1JVHF2QVlKV2R1VllzdEp6STl1Ymd4aXJtWHVzeGNHZk16R01abjJpRFkzYVd2UWpTZm1uTVB3T3AwZDd2MnI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T14:48:10+00:00",
-      "summary": "Sora Video Generator Reportedly Costs OpenAI $1 Million a Day  PCMag",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Strategic Shift Accelerates as SoftBank Financing Signals IPO Expectations and Sora Shutdown Frees AI Resources - AI Insider",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQazlfdE5xRi1MNkFkaWJvSVB4X2FpUDFZbkF5Y3c5OGxXZ0tiNHdEUmV2WW5SQkRhckZaSXVEbFpKVFk2MnI1d0FzT3lFSmN0WTFRRjFaLXU5SXkyMnVMMFlTYlg4TjAyaVN4bHdLZ1FfbDZtcU5Ud3VPelVsZWswTVBMdDRldkUxYjdnX3hVb3NyTlJCaWs4WVVpdFRWdXhVNk13ajRKd2U2SHRaQ2dwdXJySDN3dWZ0c0Zac0ZUZnRUekllQWlEc04tNUgwR2d3bVNfLTZsY2lBSUxJZUxCVXFmRnVTcUpGd29ydg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T14:46:41+00:00",
-      "summary": "OpenAI Strategic Shift Accelerates as SoftBank Financing Signals IPO Expectations and Sora Shutdown Frees AI Resources  AI Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Shutters AI Video Generator Sora, Here's Why - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmVTMGtOS2J0S3o2c00xR2hrdTVxQk1relROVDlFOG9ObVpWZ0hmT3VLaDFvcG9NNWt0Sl9saWt0cy1hUmNxN25Hb3BJT2p2YmxNQnRhMU5FVnV1eGk5UlBIYzU3dDRmMDF3NnZrekVRUkcwWUpGYnNOSngtb3R1UFdtVlNPc3dEWlRCSXVJVnNwa29vV29nV1gzZDlEOU9rQjRneW56Y0ZxNDVBcjRiSVptQkh3V1FvcTJCNDNoc9IBxwFBVV95cUxPVjhYaGN0Mm45RWRIWUd5TmRxajJ4c1Nyczc5UFlseGFkaTNnQVJPZEpIRWh2RGhOVkM2SFFTSTlUWVZFOGdqT3UyU19hS0I4U2gzNXZQSG5vcFN0SExEUldTYmZhU3paRGwtdy1IYm5VMUs2bFpwVEs1NWdfX2lBXzgtUFZUY0lQN2hqZDhHMDBkZnIyQ2hyMGExbkhXaXFtYnI2OExaR1V2RnhyVjNMcXU3LTFrSU53VlhYTnJVQmR2cGF5STNR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T14:44:15+00:00",
-      "summary": "OpenAI Shutters AI Video Generator Sora, Here's Why  NDTV Profit",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Qodo Raises $70M to Accelerate Fight Against Software Slop From OpenClaw and Claude Code - National Today",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUTRiMmVTT2tteHZhZzdxU0gwMjRTTGFMZktTMWdOdFJYSlVNSm5lQXdFbzNkc0F3b2dBczFVd01KNXZFbkc4bmQwVmRCNnRzbnZIOHNJMnRBSmF0TElod2t4VEl3UlN6eG5ZdGplQUNlMzI5Szh2MDRzUXQtQV9iV3hHbUZsdmpibWk4SmlpWGh4c3hEemNJUjd0SjRua3R4YnlsWlFia2hZelNoZ1BiZTBSX2hFaHpzcEd2UlNUbDF2cXdpTVBKd0h0X2I0Wngzb2xtRTVHNUVkdGxTYlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T14:40:50+00:00",
-      "summary": "Qodo Raises $70M to Accelerate Fight Against Software Slop From OpenClaw and Claude Code  National Today",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
