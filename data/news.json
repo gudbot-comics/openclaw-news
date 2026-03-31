@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-03-31T05:50:37.968984+00:00",
+  "generatedAt": "2026-03-31T07:07:03.484746+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1NOVWo0cDZ2UkdFenk5YTFiN09NTjNLNndxNzRra2ttYXVmUEJlbjNMSjdDU21TcURoOWtZVUZndEV2bkhxSFNKaWlsY2VlMm1oUS02Ql9XdXFkbDhYSktBcVR5R1VqOTg2MGdhWE5UQnJ2Wjl4dmkzMUdDbHp5MXhPX1V6UmI1VVVNV1doaDl0YXIyenpMZ25GX0ZqOUhaVmfSAacBQVVfeXFMUEVGUzIxbFA2VVh1dy1xM0x5VzhQNXZJV19VZVJ6N1NBT2VJa2x6LTRqUU0wdEJ6VUNscm5QQ1N0b2s2YjJHUGRzenVIMWVYaUk2bFNYRnpjU3E4VndKZGQ5TkFnVzl1WTdZOENuSWZQWVRSV3VuVEZtbnNfX19QN3F0eV81dDl1QkNuZDZITWFKUmNWMjkwamxBNW5rTnJrZG9fb3Z4bXM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T06:35:48+00:00",
+      "summary": "Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise  SecurityWeek",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "DefenseClaw is Live! - Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54Ymh6aTBUSmR4VEhORERrYklEbjJtWHVST3pURVJ4NGlaYVptN0VESzBxdFNzWWFFMUtmeW9Xbm5uSEhJRFNJRngtSVUySGVsTVpDUTY2Y0lCdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T06:06:57+00:00",
+      "summary": "DefenseClaw is Live!  Cisco Blogs",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Disney cancels $1B deal with OpenAI after video platform Sora is shut down: 'The future is human' - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2pWUVBKeGI5YWtIMzQ5TFJPLW9odWhleGxVV09nT0tuYTVBVjlsYzgwcFlCWUJTUTFEdjVCeDc4RFRFanlUc3lDWFBkbldXY3VqbWEydHF2M2tGRTk4c1hxUGYtT0IwV2hyaThlNGZOaXF5TTZYeTdtT2hxWlNIOWZKbjk?oc=5",
@@ -114,11 +132,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Watch 01.AI's Kai-Fu Lee on OpenClaw, China's AI Advances - Bloomberg",
+      "title": "Watch 01.AI's Kai-Fu Lee on OpenClaw, China's AI Advances - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWtudUZqWFZ5bEtuc0pkb0ZoZkJFTjNIcF9HamxnZ0xxc2Z2NmJCTHFyZXZRUzFBX002MmJaZlVNS0xQZzgwTTg1a2tvaUN2VG1Lc0RRUlJpczk4RXAtUTZyaWhHYWxZUFJ0RS0yOGlvQlR6blVHU2liUWVyT2dHSHQxcDBCT3ZhbklNWm90WkVCVEotQjJpUmhDZUhFRjhQZzQ5LVZXYWM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-31T00:00:00+00:00",
-      "summary": "Watch 01.AI's Kai-Fu Lee on OpenClaw, China's AI Advances  Bloomberg",
+      "summary": "Watch 01.AI's Kai-Fu Lee on OpenClaw, China's AI Advances  Bloomberg.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -186,11 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Where the Collapse of Sora Leaves This Crazy AI Moment - hollywoodreporter.com",
+      "title": "Where the Collapse of Sora Leaves This Crazy AI Moment - The Hollywood Reporter",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFdwLWdIanVxclgxZWVOUVJMcV9GOERwS0tSQTFDTklEQlVkSmN2YVkzN1Z4Slh3N1E4ek5uX1E4Yk11aGV1NEMtOFhzaVoxd0JEVjdERUlCQTg1ZzlBQ3dPamlnR3JMZVRBc3plQ3p6MUY1U29NWEF5YjVEcEliLThLQXdWa2JpU21jLWNVLTRZM09hOVlkaktqX05jVDNSZ2tIYVdDNVVlZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-30T21:11:50+00:00",
-      "summary": "Where the Collapse of Sora Leaves This Crazy AI Moment  hollywoodreporter.com",
+      "summary": "Where the Collapse of Sora Leaves This Crazy AI Moment  The Hollywood Reporter",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -202,24 +220,6 @@
       "summary": "Microsoft Debuts New Copilot Upgrades Combining Anthropic, OpenAI Models  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Codex Vulnerability Allowed Attackers to Steal GitHub Tokens - Hackread",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oRHNvNmdZcVpoblVIZDRnX2l5ZW9vbmItbUJNSms5TzVMUklWd2c5WWZjanpQWHNlN1IyX3UtcGlocnhRX2o3UE9rZzNyWlUxc1FnajkyS1dYNGowQ3J1ZTVWNUgtdmxrXy1SbE1LcmFLUUk0MVBz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T20:53:56+00:00",
-      "summary": "OpenAI Codex Vulnerability Allowed Attackers to Steal GitHub Tokens  Hackread",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "TCAI Guide: Understanding the rise of OpenClaw and open-source AI agents - Transparency Coalition",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGZrLW8weklja29QWUU2eTh3ZGRRbHkxbVNsZ2d1ZkZ5NmdvWld2WVVlQWhHenN6ZnktVWpWUUktUHg1cDZaVjdhQW5tNmQ5MWF3Z0hXYXplQ3RCOFRUOGphM0dYME9wMTIxSXRQa0lSdUdUNlh0ejRwM1VGRWRLdnN6REZQeDc1NW1WaVNSWlFmazktUXMxUFJQY29hTmFDUF9IVVM3RFIxLTBx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-30T20:39:39+00:00",
-      "summary": "TCAI Guide: Understanding the rise of OpenClaw and open-source AI agents  Transparency Coalition",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
