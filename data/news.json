@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-03-31T17:34:49.102067+00:00",
+  "generatedAt": "2026-03-31T18:33:30.427514+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenClaw Exposes Users To Crypto Theft - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXFWWjFNcHhtNnV3dG5hNXFKc2FHcTlmb3dqZHJPaWp1U2MtOE5Xd28wVy1XOUNjWFlWMTRrcjhTNDJsR3RVSEJYd1JoaXF3b3g5Y2ZxWkpETkN2eXY4cnJBdEVBWWxoaGdCRWFxODBYa3o2QjloZW94OTdsVURQc19ZakZYYzA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T17:47:32+00:00",
+      "summary": "OpenClaw Exposes Users To Crypto Theft  Let's Data Science",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "OpenClaw has 500,000 instances and no enterprise kill switch - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEw1RHVhQjhvZEdEYVVpWDBoQ0NSODNkTUpsUzItR1RYVS12YTdDcVNyM0wxVTNkcUlYX1FTb2w4SFBhYldGZlp1TnM3UWxBWlpXdDdqX180bGRTcmdaNzRneHZKZnlSNDV5U2FvdENGTVF5U2xzeEFpNXVMS0FlN09YNW9nV0tRdkU0Ug?oc=5",
@@ -13,6 +22,15 @@
       "summary": "OpenClaw has 500,000 instances and no enterprise kill switch  VentureBeat",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI patches flaw allowing silent data leakage from ChatGPT conversations - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNeWVEWXJPWGlxcTk5V0FjenAycDl0dENFQ1ZESGN1cl9jZEZST0xXUzZLTV9xYjRFM0xXM2hDSGJ1WTlRLUxuYUdySVhJZWtRN25DcEZiazNMNWN2N1VBVjEyeGEyNXFFRVNnazl0d1ZadGRDNFBncDBTd21mQTJ1X1JldzBzMFJNSTVvWUp4am5IbFpKVUwxc0RWcGVwNTc3eXVtbHgyUHNRMGlaOFE4dE8wbjBPVXpQbG1WZEhXT3ktbm1VYXFUbzJvb3daTFpXcW95T3ltRk9jZFNmQlJ1cmpSbHhqaXMtYWVsYmJWNWFYY1RfZkc3aF9GWDhDQVdSWEw5RlBGcWJQSm8tSEdBWUxieEFzT3hLeVJISkxjQS1TZ3p1NS1jZzRJTHhSYVhFYWkyak9wWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T17:25:00+00:00",
+      "summary": "OpenAI patches flaw allowing silent data leakage from ChatGPT conversations  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "CertiK Warns of Cryptocurrency Theft Risks via OpenClaw - ForkLog",
@@ -29,6 +47,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-31T17:09:11+00:00",
       "summary": "Figure Ends Partnership With OpenAI, Builds In House AI  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Penguin to sue OpenAI over ChatGPT version of German children’s book - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0E5WTBnV2ZmYWlRRlB0bEp3THp3dThvZXdLN3JFbHFKSGVMNUVxR25FNlBZdlpfdVlOMVI2RExlbVplNGdWZkVPbU5yTUI0N0o3RDlBNl9ueVh0NU9rNWlkcFNfS0ZDd0VoOG1mMnU3bE5pMnJfY1JBYk1Hd01xcE9JY3JlNmZmZlpsTWh0MUxwVkJRek9Pb3lVOEtPbEJ3QzJ1SlNXanVEUktKSFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T16:55:00+00:00",
+      "summary": "Penguin to sue OpenAI over ChatGPT version of German children’s book  The Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,20 +78,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Figure CEO speaks out on OpenAI split: 'We're going to be competitors' - businessinsider.com",
+      "title": "Figure CEO speaks out on OpenAI split: 'We're going to be competitors' - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByRmt3MDhXR2tadGpuLUpydnBYNnYzRmFzemdqRmxJXzNuOC1FY29ITktXX3hWcml4dnp5UGJGTVNZUDlUV2p2MGc5NXZpalVxcDYtTDhsSU5FS1VUS1RYVDhtSm03TkYyMXd6S2x4ZkNPVlpXMGFGWVNKZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-31T16:35:00+00:00",
-      "summary": "Figure CEO speaks out on OpenAI split: 'We're going to be competitors'  businessinsider.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Penguin to sue OpenAI over ChatGPT version of German children’s book - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0E5WTBnV2ZmYWlRRlB0bEp3THp3dThvZXdLN3JFbHFKSGVMNUVxR25FNlBZdlpfdVlOMVI2RExlbVplNGdWZkVPbU5yTUI0N0o3RDlBNl9ueVh0NU9rNWlkcFNfS0ZDd0VoOG1mMnU3bE5pMnJfY1JBYk1Hd01xcE9JY3JlNmZmZlpsTWh0MUxwVkJRek9Pb3lVOEtPbEJ3QzJ1SlNXanVEUktKSFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-31T16:34:00+00:00",
-      "summary": "Penguin to sue OpenAI over ChatGPT version of German children’s book  The Guardian",
+      "summary": "Figure CEO speaks out on OpenAI split: 'We're going to be competitors'  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -198,26 +216,8 @@
       "title": "OpenAI patches twin leaks as Codex slips and ChatGPT spills - csoonline.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUm1WalBoZXhqTWg0MDdKSnZNcnhSZ0xhNDhibk12UXZwZ2JXcnAxT2kySnhwTEJ2SHFSVXdjNEFBYU5DMFl6cFh5bW1lcmlKQ19rcXhRLTkybi1WVUwyd2NXc09nNlZCLXpSbkZQNmUwVWZ0TEl3cUt6UXVxMGRPVG5yQWYxaFJkbFQxeHEtU25DTlEzZnJPNkczUTJ4dUlsR05uN0xCMlVxdw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-03-31T12:13:25+00:00",
+      "publishedAt": "2026-03-31T12:13:50+00:00",
       "summary": "OpenAI patches twin leaks as Codex slips and ChatGPT spills  csoonline.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI fixes Codex flaw that could lead to GitHub token theft | news | SC Media - scworld.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFJwR0ZrZVlVdnZESVdWRlRURzBWYW0xQzNsdUYxdzQyTWdLMjBUVU5aSkFZdXRONHdZdi1oaElTMUhqOVE3WXhJRTNHX1UzWF9QSndJMjNudXJ5YlVoQlRuUGJFUzdsT2xMMzczV09pclN6U0pnbllzU3c5ejlhT0lQV2h1QkN1cFlLRGJnMDNFMk5t?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-31T12:00:00+00:00",
-      "summary": "OpenAI fixes Codex flaw that could lead to GitHub token theft | news | SC Media  scworld.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Fixes Major ChatGPT Data Leak and Codex Security Flaws - SQ Magazine",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBib0hPVEpael91cTA0VnFfcW1wcGJYUjJYSDFWR3BWeXNiMEJybGZpMW03LWdrdUNqRmd5OExBVmNKbkp5V1RBWWZGbmwySXdaTnZpd0NRSjBKV0NGUHdtd1liQlFRUUxUVUxnLUJ3aHBRVnVicHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-31T11:45:55+00:00",
-      "summary": "OpenAI Fixes Major ChatGPT Data Leak and Codex Security Flaws  SQ Magazine",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
