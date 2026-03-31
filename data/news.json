@@ -1,16 +1,79 @@
 {
-  "generatedAt": "2026-03-31T21:51:43.654226+00:00",
+  "generatedAt": "2026-03-31T22:30:34.229550+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Don’t deploy OpenClaw without securing it – Try this opensource solution and hands-on lab - Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VczE0YS0ya0ZHZk5uT1l2bENybnRvcTVIanJScU1iVnZWd0EwenlqU01SZm9iY09iSjBnWnRDMzNCNnFTc1E3SWRpRGh2YVdmVEhGX3FIY0pvVWw1WnBOQmZPNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T22:18:10+00:00",
+      "summary": "Don’t deploy OpenClaw without securing it – Try this opensource solution and hands-on lab  Cisco Blogs",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI is now bringing in $2 billion a month — and 3 more highlights from its latest update - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQZ2wwRVVhMF9jYU5KQTJsTnVNbVR2Zkp5ZGZlWVUyRjBidEZRR292dVB6c19saXMzMUNvZXBZalkzYlRPWTY1S1d2MjJvcm5UNW00SHBRaVVVZmNNbzJZSTFGam9TN292enRydW1RZ2pMUmRNTVlUVk16MkY4WlJ6TXR1bHZYckloS1NXemt4a1IxZjhLRFIxWnFEU2FhLVVzQW5Ncm5xa1N3Nlp2SFVwYUtiXzNzclBWQjNFbkNPMklEVE5TRFYzbnNObUtaR0dkYUxRdkxfZ3NheW5SWE15bmF4azE5YndpTFg5THVuLUhMbzlxSzN1eUxjN3d4ZkR4eEVkTlZOOHdHcTI0Tm8wSkZYNWFaR1VKUHdCSnh0d1A5VWVVNklqTl81RzJuemlseVdVSklCWURPMjkta0RKT3BHcFR5QUtwQ1BDM2NIY3RrZFNWU214Y2ZlaHdaaEVNZ0NINTBYSUdnaFFzXzI1Tm1acWFzT2VxVEVmYkxuMzJGV1BEZDJRYk5hNDVJclNQbHdvSkxURnJHR0Ffc3BGTnB5Y1NUZkdoT2hBcWQwLURWMGlzZ0p0N2dwUjExVFcxNTBEU3hTLTdsdFRKSHMzbg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T22:15:00+00:00",
+      "summary": "OpenAI is now bringing in $2 billion a month — and 3 more highlights from its latest update  MarketWatch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI secures $122 billion in record funding ahead of IPO - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1BMS2V5b3VGVWpyRC0tcU9pd1pZTF9Hc3dZZ3JENUt5dmlRQkJ0eHZ2ZWJaaF90UFZ5OGtSdjZnbmpkZmZFb0xCamsyR2ptRGllVGJFbG00NWl3VTBNVkdZc0JUOGFZRlZpU0daREZuWHdxQnNlSl9pMEdlLXFrRmJFNk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T22:01:53+00:00",
+      "summary": "OpenAI secures $122 billion in record funding ahead of IPO  Latest news from Azerbaijan",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Valuation Reaches $852 Billion After Massive Funding Round - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXJwaUpjNWJpc0E1WHN6aXlGYkRFSWp5M0JyZHUyeGpPMWlGZ1Vob1ZjMFJrdmlDRUh1TmVrbVJ4LU95enZndlNvS1lraGdhQmxMU3lfMjV5ZkkwVFpidlhzSnFsdEw2WGdYa0luNVNTNkpsZ0pTMmZlSm1WS2FzSG5SazdKbEZlNlhCdWc4dnJjc0pReXBEWnJoeVNaNWNWTlNIbzFTZjhROUZ4WEhxU3N0SmFKWUJ0WjcyWGpVUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T21:57:05+00:00",
+      "summary": "OpenAI Valuation Reaches $852 Billion After Massive Funding Round  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s big numbers: $122 billion funding round, 900 million weekly ChatGPT users. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1AwTXpFREo3QU02ZExiRXJ5Q0hNUHZobzlZUTdMaWlKdmNxUW1pcFVCZUF4eXFwNjRuM3M2UDdhTDZlSTFPTHRDMm43eXBPMzRSR0Nybzh6Nm1jOHVlQTJsbDZ4Z1drMkdEdVl4YnpXMWxZcXhlUmdEenhVc2NrVGxLbUJxSlJaUzhkbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T21:54:15+00:00",
+      "summary": "OpenAI’s big numbers: $122 billion funding round, 900 million weekly ChatGPT users.  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Opens $3B Retail Window in $122B Round at $852B Valuation - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdi1tX3duTzdjR09YaWNuNmF6dGtTb1RRUC0xUzdZQ2RNcVZvenJ5cFRVRFlLTURmRG1GT0JfeXlVNnNPbWNndFhaWWRPZmNzSzhia2loZkMzck95dHZYT2k4U1Y3LWNfVjFiT1dwSmRRcDVPN3pGZWJxQk1KNnk5WmFEcVlsbDFqZEFFakQyWHVkNHROS2dJS3dB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T21:48:00+00:00",
+      "summary": "OpenAI Opens $3B Retail Window in $122B Round at $852B Valuation  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI raises $3B from individual investors, closes $123B funding round: report - MSN",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc292Yy1pRzAyYXVSVHlnQV9BWFpPT2RyTVRkb3FSWGxoSnFlVlZGY3FfT09veTJLM0EySE1lakdiWC1rVFBybnlRMU1Nd3kxeUhwZlZIRUtzY2xyZ21KQTZDcWJsdEpFc3ZSbXlWNzluNHJqLUxVMXlMbjhQY2JldFdPRWhJeTk4aTZSRURUUnp1Q3M5alRWdWpMaUxKcVF6RWh2aDF2c2ZjZGViVGw0b0NWMVJnMTNMUmVORTJTTlZQc2VvZ21HN1c3VV8yV1pJdWQya3lIaFpKSEVYXzZmR2VwNEpTYVFsZjFj?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-31T21:31:03+00:00",
       "summary": "OpenAI raises $3B from individual investors, closes $123B funding round: report  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Adds Another $12 Billion to Latest Funding Round - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRGpQQW9sSnNncDRhcXdrX2x6eUx5Xy0tdi1lbWtwZ1FsMkE2VVNveXBTOUk2cEJuTUJlZ3l0WVNORFhpRmVrNUNmd3JQNm1PV0Q4U2YzZ251Wmg1WDZ3N183SFBCU0hjN1ZYSkJON3JmY2NtVElKcGlieDJXUlZTalRwb0RHQ1ZsYzA4TUlmbjhKU00?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-03-31T21:30:08+00:00",
+      "summary": "OpenAI Adds Another $12 Billion to Latest Funding Round  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,11 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNl9JaTZkb0V5YTBPYnAzcXdoZW9PT042SWJqZDFaelVYS0JpalRXT0otTFhnTUZ1OUxXOFkwOVItQXp6Z0FqMGJ4dHpEUXlPTjFhUE5vMGJNRVpjcVVEUVhjWkQ1andxVzVyUTNSbnloQXVSaGJ3OEJvMEpSR3ZFdWxYT1g4Q010MnJKWXBjNlhRUnc3WHFRckIwOUFQcFQxOUxmWTR0RzNIQlJtZ0JqNzZQQXF4dw?oc=5",
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVnBTOWo5QjYyVExzVzk0NEZPVFdKb3AzdUpZWG1VemJycEVkblM2eFZ3QVVmMUN1NkF3WnZSZlhVb1J2NG9mV1l6bFB2NXNjQlRQUHlfaUhpZ016aUhMU0gyQVJ6REttbFl5Sndpc05oSWtDczJlM0RBSWxlTE11QnV4a1A2ZVhVeUdkVmtNOEhLVGxzUXdBSg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-31T21:25:04+00:00",
-      "summary": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise  TechCrunch",
+      "summary": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Valuation Reaches $852 Billion After Massive Funding Round - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXJwaUpjNWJpc0E1WHN6aXlGYkRFSWp5M0JyZHUyeGpPMWlGZ1Vob1ZjMFJrdmlDRUh1TmVrbVJ4LU95enZndlNvS1lraGdhQmxMU3lfMjV5ZkkwVFpidlhzSnFsdEw2WGdYa0luNVNTNkpsZ0pTMmZlSm1WS2FzSG5SazdKbEZlNlhCdWc4dnJjc0pReXBEWnJoeVNaNWNWTlNIbzFTZjhROUZ4WEhxU3N0SmFKWUJ0WjcyWGpVUQ?oc=5",
+      "title": "OpenAI Valuation Reaches $852 Billion After Massive Funding Round - Yahoo News Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHZWQS1GYmc2OGRjS1hoeDZkNkpXaG1heWxiOG5PcndzTE92b3RhVG1iWWpkbXZEM1hJTldNWDAxLXFCdlUweFlZOFIyWDFQbmNjbkEyTnZJcjgyekRnMm52ZGJyNjZFR1dBRkFsZmFHRkNkTU1PM2dIQUVlVDBEdk0yTXdwdk5faUZv?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-03-31T20:51:40+00:00",
-      "summary": "OpenAI Valuation Reaches $852 Billion After Massive Funding Round  Forbes",
+      "summary": "OpenAI Valuation Reaches $852 Billion After Massive Funding Round  Yahoo News Malaysia",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -101,15 +164,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-31T20:48:27+00:00",
       "summary": "Ark ETFs to Add OpenAI Stake as Retail Investors Chase Tech Boom  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, parent firm of ChatGPT, raises $122bn in new funding amid AI boom - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWlxbEhEWUw1S1VvZXBWQWtxSVJEVFk4dUNaS2xGbWtVTkJkaFFxMVR0a0RBVnJHc3RXeEd4Z25uMW9xelUwR0xXdlNZZ2dyUVM4aHVBOU5NOGgyLTJmRnk5ZDZ6YkxLYV9OZDIySkdjUHRCRHVwTUdmVDV0amZ6SjVJOVRIN1lvYUdMcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-31T20:47:00+00:00",
-      "summary": "OpenAI, parent firm of ChatGPT, raises $122bn in new funding amid AI boom  theguardian.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -164,60 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-03-31T20:36:35+00:00",
       "summary": "OpenAI's Coding Agent Flaw Exposed GitHub Passwords  Bank Info Security",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Adds CarPlay Support To ChatGPT - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZjlVYUZ3VlJjZXFxWlY3MERRMU1VUTBoTGgxMnZBSWtXTWdmY2RUdXg3NncyYTI2MDJlTDBVZDlwNU9aUWZ0OW8ydlhKSUlidVNPOTQwTkN2Nk5hY09QNlZZZ0JlS0lZaHh4Yk9kV2U0SDJTeE00R1Z5MHhzSFU1YzF4OEQ5ZzA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-31T20:34:20+00:00",
-      "summary": "OpenAI Adds CarPlay Support To ChatGPT  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI: Powerhouse in the AI Sector Achieves New Financial Heights - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTFRzQmplU3VCZVhEcTVNMGRnN1c0MVhiQjJvSlc3eXpERFlPTm1RdFY2emozTUE0aVBQd3JzQmpFWE9oaGx2MjU0blN1TFRwMzdCZWstWi1yR1V5YVJNdzRYamlQYVNDVUkyYms1aHJLdkxSc25WUkxoemktMFR4NFIyaXpVZ1FaRWhiWkF4WkdsUkVWSzItczBUZDJwUzAwZzJibkpEVzZ4UkV1OS1KSmM0TDdoUUo4MjBRMjh30gHDAUFVX3lxTE10djYtMFlvOW1WTnhXX0MxZVhqMFV1dkVobFJENFdtbkwzMEFwUS04TkR0R2pPM0FCVWN6eDMtU0kwazZOMU1WbDdEZHR4TXJVSkZpeDN6R3J6Z1BoNVBZMlhwV19Ed19rWlY1R0RTZ3dMc0JULUJJaThTdFhBd0lCVFhSd0V6Q2JJc1VfX2kxb1VzbkpuU0k2blc2X0E2T29QRGVLVEVNYjZYd0RlczFmWVdOYmdhSFB6UWlwQ1l1WkoxUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-31T20:24:02+00:00",
-      "summary": "OpenAI: Powerhouse in the AI Sector Achieves New Financial Heights  Devdiscourse",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Turns to Wachtell for Latest Fundraising Round - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkVETkJxYnE1MFhaU1U0ajFMVl9qbzJncXVndWZXcGdPcWJBN3pOSHpZQXQ3NFFKYVl5eHdYMmE3MWRVQnJPbm9scTg1UXBrZTZfcmFzYlU4NDFDdjFhQUNzT216OWVScFhDSmRpNThFb2tSV2N6TG1qdm1YbnBPeXhsZjhNWEhQYXJkMFZCZDRTNFNQOVNQN3d1b2loakpqY3IxbUptYlM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-31T20:16:00+00:00",
-      "summary": "OpenAI Turns to Wachtell for Latest Fundraising Round  Bloomberg Law News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI: Closed latest funding round with $122 billion in committed capital at a post money valuation of $852 billion - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOWpYdGhDNHM0cDFBUjUwTHdydEtldV96dnRRQmxJbFFkcFpEWkRTeXlHMVl5Z3B3dFQybmZyNk93LWRsMEJqUFhrd2ZTeXY0UGktTVZTRTYwUTJIREFwVjFtdkRUVHFRXzNBZjNoNnRYanJyVk5kNmR1OHl2NC0tcjhHTmFiUHJGOVhGaG1CTDJLMTBYTk82X0k0SWtaclVzX0VJQWJSVUtxLU8wbUZlREhXZl9jNE0wUFUzRjRzUGctamFsTEJ2Ujkwbm02R0p3cTdtNkdaSWdWUjI1VndOODc4RnJVQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-31T20:10:13+00:00",
-      "summary": "OpenAI: Closed latest funding round with $122 billion in committed capital at a post money valuation of $852 billion  marketscreener.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI valued at $852B after $122B funding round - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTklwdWdYc0U1WUwxWGwyQ0xnbnd1YXVlTE5MYUk2VFJjVmE3eC0zRFhvNy1xNmxVVWVueXhqY1RYcmRDOXJSWGJXMGtqZ3NrSUZBSGRfRm00MjA2ZVNKc2xzbzl0SlVIYjNfajJCNEFFZzhnRVRWUlNPNi1aMkxncHZUUzNpUm1JUTJraFhkQmNJaGpVbnBRTzR4NjV6OGdCRjg5X0tn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-31T20:10:00+00:00",
-      "summary": "OpenAI valued at $852B after $122B funding round  Breakingthenews.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Says Latest Funding Round Raised $122 Billion at $830 Billion Valuation - The Information",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ3BaNlNGQl9wNVJ5U3JWdVpVc1JsLV9oTU9QUVRRYjFOSDZuV3RESmw3cm0yVjJjbUdCVTVNend1UldaVzZTdEtZVzFuVldYeW5EdkcyOFVZUjA1aVV2Uzl5Rm5FUGpYZlJlVnR0aUdjMFFjU2hKNkRwRzJ2NXc3LVdqVjdxczdYcGhDanBtbzlGRXdGbU5vb2dxUjdlMEpMQVhZeFdlT1ctclVBOW1pZEpKUE8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-03-31T20:09:00+00:00",
-      "summary": "OpenAI Says Latest Funding Round Raised $122 Billion at $830 Billion Valuation  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
