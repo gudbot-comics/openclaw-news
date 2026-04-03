@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-04-03T01:58:14.236860+00:00",
+  "generatedAt": "2026-04-03T04:32:52.935872+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "PitchBook: US venture funding surges to record $267B as OpenAI, Anthropic and xAI dominate AI deals - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUTBvV0FjY1JfeEhVblpPbDRtbjd1YlBtOGdNVDBIMzFiVTZ1U3JsTm1wOThjZkhLeGdiLUlXUE1UdHR4eWtmTWJxdlhBcDB5WVJMNDZsZC1IMG9LWUlmZ3BRWG5GcjM5Rk92aGlqY3IzWUVGbk55eW1lT3ZmMlhueHZxV0xWY25mbGw2MVo0OWVzVzk4QkY1eFNmYTkxdzhRODVnMnRYYkNaWUxNTzdNUzhJNnNsb2lFeFNJXzJzZ0I?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T04:01:28+00:00",
+      "summary": "PitchBook: US venture funding surges to record $267B as OpenAI, Anthropic and xAI dominate AI deals  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google is pushing AI video into ordinary life — just as OpenAI pulls Sora back - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3hVbDUtV2Y4Uzdubmo2WUVFSjhWQzNHbEtpZjJDeFNqY2t3aWc5TVoyeUdsN0FlMGh0WEoxbzVsQUNjYXNzUW8wYjk3eXdoOV9ybkFJTE5zQjFuOUNrRGU4NFM5VkV1NFdYeVQyb0hzUFB3QU8tYmJsM1lWS3pGNC1RSk5EMDNnX2dEVkpOeGpXWHY0NllOZnRzc0xfcDZCc3VtMjV0RVNVbzdvdERmclNRZ0F1ZU5VMmlaNXh1MnlqdlRW?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T04:00:00+00:00",
+      "summary": "Google is pushing AI video into ordinary life — just as OpenAI pulls Sora back  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Acquires Silicon Valley’s Hottest Tech Talk Show TBPN—Seizing the Narrative Gateway on the Eve of Its IPO? - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jQ1dwVUNQd1JOZTVtQndBNDA3UTVVT091djk5ci1aNmhHYkN6OEJfNE1BcjFvMU9HdFJfSmFTM29yZnBIUGhzMXJNc2l5aFo2cmE1QzU5clFXZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T03:09:35+00:00",
+      "summary": "OpenAI Acquires Silicon Valley’s Hottest Tech Talk Show TBPN—Seizing the Narrative Gateway on the Eve of Its IPO?  深潮TechFlow",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "CertiK Announces the “OpenClaw Security Report”… Warning of Security Architecture Flaws in AI Agent Systems - kspost.biz",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zTktFYUw2cl8zNDJfbWl4WGxkSjIyMG5NdGlxQjNWc3FSSE5tbm9pd2NfdTAtcDJpRzJGcXhMYWsySWFyODhpM01oYUphcHVRZE9Zdg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T02:31:00+00:00",
+      "summary": "CertiK Announces the “OpenClaw Security Report”… Warning of Security Architecture Flaws in AI Agent Systems  kspost.biz",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Acquires Streaming Business TBPN 04/03/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUZhTUlqb1RXUkhKVWNPeEVWOGV6STNUVlIwNmJoM0I2ODZSUjZFWUY0VEZLNkFFRlRxR1BZVU9saE52OVZKcEJMWWU4YXFGNXRfa0ZMRUxCVjg4Q2IxNWpDVU1CU2E5WFcxeVpiQzZvaS02QUsxYmNCQkxqeERzSmFpTVdjbG9BbkdnTmVlUzB1YTBLc3Y1NFN0RjlMTFk4eFY5VjJPc3B4bTdhQmcwdF9YQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T02:18:38+00:00",
+      "summary": "OpenAI Acquires Streaming Business TBPN 04/03/2026  MediaPost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Microsoft builds its own AI stack to help wean it from its reliance on OpenAI - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZFhpdVRPMXphVkJMbklqOHE3QUdyWjg0OUZ0ZHdrY1NmTUhIQ1RvZ2xYbFdzMmtWLVowejlYWmQ5elRVOVFuZFBVQkU4VDdlZHA1cjZ2WWlURTNfbFJKQVN2dGtxYTdOWllTRDlqNXFmYTRZQ1J6dkZRdXZEYmpMSUc5RHNiVTFFank4dmhBcU1MSHVkaXc5TUhJcFNCSEFOT3AtXzZQQlZKelQ1UlpGT1dkQkNCTzNnVjNfd01FWmtWWUF5VXdJ?oc=5",
@@ -25,28 +70,10 @@
     },
     {
       "title": "Why OpenAI Decided to Buy ‘TBPN,’ Tech’s Hottest News Show - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQOXdQV2JUTWZ4dG1UZy1vNEUxdVoyaGlGbE0yVmp4cHY3Q01ENV93b2EyR1lTVkpTaURrZ0tYbzJZd2tTaTN3dkx6Q0QzRzVZc3N1a3VIWm1ncVluTHk1enRwVnNSWVZUQ0EwVFE1TXlaZHFPZW9Ka3JaUWszdHpndE5HaXc5czE5aktuc1AyQW9selZmaTc1eDhHRV9LOHRnRTMxZ2VFOUt6UkRZLUswaF9HdTR2OV8zdjVPeEdjMXNCRFlVbUVLQWo1Y3RLYkdKb2c5a1J0ekNmeDI5dllySG9kZ3BONjVzWS01TWs0R1ZxRU5lVldUMFBZWEpFdlh3OUpMVHlpZDlJbk4weFI0aXB3M21hcmxpQ1dXWlNfcUpJa3J3Ml9yVG8zS0dMam5vUFNTZTBVdHNHQTBCQk5LUElKdm0xeDlUUnoxOWNFbGY0VEpvTFFrX09QMEFEby1wVy1DZ3Q1ZDhlcUhxeG1hMU1mVi0wRzlSdlhhaHNGbTFXV0kzOUVCaGZZWFg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNdEU4ampjRG5KTVdRSHJDRFoxXzZ4X2NmOG5Rd1RFZGZNUVl0Y01RSEoyX1lOMTRseHgxd0JucHNka0ZINWx6WDZod2RXbjZIYkFqRHdILXNHUWRKalVPc2diNGUyZHVkcGtiLVZqUXFGcTkyUVF2RE1qWV9NVjFRU2JNTGF0b2dTUTFLVWJUVnNVcDg1cUloZVZZZlVrV0hyazVtN2FRTDNpcklxY1E3Y252Rm5UbHMzcWo1cUJlZkhvNFQtVmhLMEQ2aklraGRLSjBuTWdqdDRGeHpSdUFqQV9ZY05Rc19QZS1waXpsNlROeGRNaUJjRGNFUHpQS1dTMWxZNmF0cE84cU1Ic1RybjRyRUE2elFkM1VYZktJLVFhdG1BZ1dHNGlwRDJzSlF4Y2d2Zlp5d2JMbXdXblNLdjZ0eUhzWlZBYUxXTkFSdVBQeS1DdHhSZzdZbTVaaGprUi15alNhem03ZDlMM0MzU2R0VUswNzN0cUJmblA1WldnbXI2VWtmb0pnYW8?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-03T00:45:00+00:00",
       "summary": "Why OpenAI Decided to Buy ‘TBPN,’ Tech’s Hottest News Show  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI acquires tech podcast ‘TBPN’ - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRk1FY3JEYW1qS3o1dGxvVGVuNm0wUk94a2YyVXhUUDU2V1hHeTYyOENlV2F5ejlhbnRRYUNVNUVFOVN2QXBzaHNmVUxTVHRaak1QSzRNSFhjMXNXekFfdHBJSVNYQTBMLUFYeWdnMDdHYklaUVY4dUFQVG5sVThDR3JMNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-03T00:21:06+00:00",
-      "summary": "OpenAI acquires tech podcast ‘TBPN’  AOL.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why OpenAI's TBPN Deal is No Joke - The Information",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkFqc205Wnp5Rl9aWGpkRjd0dENpNEVPbWhTRW9OdFdaT3lrQ3hUcW90Ynk2SWI2czJWS2Q0LU5zcFd6cDE2RFNDRTIzQkQzelYyV0tGcDJiQ3BrNnhJVmtLZFdqYmVrajdmcGtLYVgtbG9SeGpkSmJVT3NLeWVHelhiSU4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-03T00:00:00+00:00",
-      "summary": "Why OpenAI's TBPN Deal is No Joke  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,6 +114,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI acquires tech talk show TBPN - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFMDF6dEt5d0hQNzRIS1NGQ29aWlFWSkFLLW1lYzJoLWJsODJoSGdvQmYyYnRnWXVBa05jMU5fcVM3em94c0pLYW1OelRhMjMzR29LNkEzbWVZYU1TZi1WbFJqOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-02T22:45:00+00:00",
+      "summary": "OpenAI acquires tech talk show TBPN  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI acquires tech industry podcast company TBPN - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWg1X041V19hNjNUQ0VGSW5XUU9Nd1ZnNVMxWlFObW1fcGRHLTFrVTZBa3RNVEt1b2lrTkZaSDBVRk5QLWJHZzU4QmtQNWxEdTVPZjZtQXdUTDczZkVnbmI1TG1jTGZTSlVKaU5GVXp2MGxWS1djVGE1REdGYjdpZW5SVk42QQ?oc=5",
       "source": "news.google.com",
@@ -105,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Why The OpenAI TBPN Deal Today Is Bigger Than Anyone Is Saying - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnVFZ1FGVWtZendFbFAyLWNtVlV3YUJRZDVtYkJnd3hFZTBXODNFMmVrdlpYMF82dUktNGRQSjlPUHVhZklaNk5kRnlsOXNGYjB1T3Y2THBRZXNpWWRhNmNzMmNwZkw5a0huNm81MFNTQUdPRVhUXzAzRWo5eDdlYw?oc=5",
+      "title": "Why The OpenAI TBPN Deal Today Is Bigger Than Anyone Is Saying - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSDVodV9DcE1qalNIeVNuRXh3ejA5cGxzQ3dULWlXb21ZT1dzOWhObGIwNWpkdnhMd0I1QlRNMGlPUXMtY3dOTHg3LWFRS0JDWUVxOVVXS1RhVTRJR2lORE9pUjF1YU9xbHBOZ1FscFdoMXBxT0hHeEtnSjdoQW9yRHE4d3U3U2txdkt0UEdtbjZabUhDRWduYWJxNUo3VFFfYTdvakNReXhMUjhGNlBHdDJBRDhYUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-02T22:18:26+00:00",
-      "summary": "Why The OpenAI TBPN Deal Today Is Bigger Than Anyone Is Saying  Yahoo Finance UK",
+      "summary": "Why The OpenAI TBPN Deal Today Is Bigger Than Anyone Is Saying  Forbes",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -177,47 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's new Penn Quarter office will house mostly engineers and customer teams - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUp3cEJfb3VsQlRPUGJEMDFCcWpKV2xhNV9sMXV2dm90aFBtb0hwMk5vMVJaa3MwUzVPSUkyVDBxcUlNZm5Sd1BTWXhIODJXclFwanc1eU00cmd0UXNfdHpibzEyc0RyNnFqOHJjRXd6VVprUlBlbTBWak0yWjFzTlhWUUFkNHhFc1RkZ3BDdGU5ckwwSmZR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T21:03:00+00:00",
-      "summary": "OpenAI's new Penn Quarter office will house mostly engineers and customer teams  The Business Journals",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Raises $122 Billion: Is a 2026 IPO Next? - MarketWise",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxZWNjZG5nLTFWbnlBb2V4X0dRM2tWQ0c3endDdHFmSWtpeDBxR3I3NzFtSm5tS1hiYi1SbkY2dVhyVGZOTjhKMDItT1B0VTl5WE9EWnMySkV0SDFxYjRuU0F4SHJreElaOWx2WWN6dUxvUVhPaWowLUJ0S2s?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-02T20:52:49+00:00",
+      "publishedAt": "2026-04-02T21:05:04+00:00",
       "summary": "OpenAI Raises $122 Billion: Is a 2026 IPO Next?  MarketWise",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why OpenAI bought a talk show - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTeGc5OXBpOVlZdHpEUnlud1NTb2Z1X3YtYVhwUkdvWHhGazBiZXpVaG1KY3VVSVFQU3lNXzN5RzhmaWhyZTZSTk1GUFljUThxQ0FQaGRiemFuY3k5bzRpRnItU1ZpUzItR1o5NUNB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T20:40:00+00:00",
-      "summary": "Why OpenAI bought a talk show  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Here's what smart people are saying about OpenAI's head-turning TBPN acquisition - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1BCYzRLYUJoOG1Rc0ZibUI4Umpxa21fcUZrS0JqeXBYRjViVnZaU1I5TXB2bkd3RVZsYzhWVm1LdVVBckJuSnNqbUJpUzRLUWpjSUlIZDJNc3QyX25iNVRpRWx6MFR1eFo5aThTVG9USVhyM1RvM1dXdjdUTGhQRHRiWUg1b253SkRMM0kxanFaYVV4aUJKY0lYUkExa25POXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T20:39:00+00:00",
-      "summary": "Here's what smart people are saying about OpenAI's head-turning TBPN acquisition  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Is OpenAI's $1 trillion IPO valuation realistic? - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0tHTDA2QndPSG1FLVYzcHkxZW9rc0VkU2VXenhjM080ZjdsNi1LaUhsNXBFVE9BSzl4a1BmWTZUVzZpcUdUZjVEc2IwaVpzbkdYSW81YkFGcUhZV3JBTHNpUU8xaDFQZFgtT2JoNFNPLTd6TmR5dVVvdVlScGdCX0xObTZQQkVBVWRzeURJSGlCdlNmQ1B3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T20:38:01+00:00",
-      "summary": "Is OpenAI's $1 trillion IPO valuation realistic?  finance.yahoo.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
