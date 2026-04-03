@@ -1,16 +1,88 @@
 {
-  "generatedAt": "2026-04-03T08:10:48.150287+00:00",
+  "generatedAt": "2026-04-03T09:11:10.110566+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Understanding the risks of OpenClaw - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGQ2WG9jVWUwVzgyLW5EZEZJekFiTzNNRmttYjJTTmlDMjROalp5VFo2clVmU3lqU21xaWxBU2FsQVlTWXZ4aHdIY1NnQUM1UVlJRHNsQXRCN1g1eGVlc3BSVENhSEREX1gyOXZFQ2YxbTlFYThmTkw1YXRHX3pPSkhNaWdNaWFSelE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T09:04:43+00:00",
+      "summary": "Understanding the risks of OpenClaw  InfoWorld",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Sam Altman’s brother Jack Altman has a question on OpenAI acquiring TBPN: ‘Sam did the offer…’ - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORXQ4b25Da0Z1MmhjWFVuMjFvYjBRVTlPRUJaUnpKdDI3eXYwZmdxRXVwUUxwVE9CeTRlMUhTX1dqZ2VCS1Y4TDV1Mnhlb01XUWJGUm9WV3lyVXBBb0RibUpJT3ZpVkRlSUdSM1BueVFhdkhwbHdXSVlJdmxVU1QtdXBMb0J6dEY4V1lwOWpOWWZweHpvVEkzYkhHcUJ4NTl1RWxQTlRGVTdvanc0VnVlS092dlZ1ZlJ2b2VRMWhTSXNQX2RTUDdNaGxpanlvbHlJcEg4cmFsZW5nbXQ2ZjRHc2tfOGRWOXBYR1ZjWFRNNU1vcVdiREJydDdjTHZ5d0JpelHSAYcCQVVfeXFMTVFSc2cyTEl3UlVEa0NZY1NleHpsQWdCdjl4OFEwcVROcUtENW11X1VubXlGb2xWRTNtZDFGYkFMRURMd3BVYjVoeWxoeFlJR0V3UUNoaHlRRkZsT0lBYnBsT2dXQUtScjh2ektJd2RpanZnRnZEYW9sVTJuZDFrMEt3LXlVZU9pSktZVGp1RHdXOERqeTh5VGFtcGJHWEwzYmlZbmpLaHRMTFd1ZExfa25VeFJlUjZIaGRLaDRfdXVBMVpxMTlqY0dBSHRYWVVHWm9nMWlHYWRxLXdES1dZQUppdVpFVnZTSmphYWlzVEUyZEQ1MEhwRlA4ZGlUXzlFMzdGZ05yM00?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T08:35:00+00:00",
+      "summary": "Sam Altman’s brother Jack Altman has a question on OpenAI acquiring TBPN: ‘Sam did the offer…’  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to ‘drive AI conversation’ with purchase of tech talk show TBPN - Silicon Republic",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGkzTXJuOEJnVURwUllmSU1Fb20zR2FjaDJ5aFo3WGNhYWcyTFJ0N0dCR3RQWVBISG9KcFBMUWJEekVHV0d0djVCM3NBeFR3V0xRV1Y1S3JONGo5a1M0RzNCZWVxR2xxZmRxQzhQTi1mdURpZlpkUGZmQ2JLQVlNYmE2UWJfZU82VldfYmxfd0lVY3VyaGZnYUFLZzdSMjg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T08:32:10+00:00",
+      "summary": "OpenAI to ‘drive AI conversation’ with purchase of tech talk show TBPN  Silicon Republic",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "China’s OpenClaw Gold Rush Turns Into Security Panic - Open Source For You",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaDFjYVJ1aUhrSVlONXE3dzVQazREdDNuN3Ntc0FXTHRsYUhiTVlZQzEyRUVzX1g5bkdNNzVWZTZsSGdWRVRLRU5IcUNsTGxBVzg1czBOSl92TjgyTC0wT21iN0FLcFBxaDYwdWU3UlozYkpqR3BhZGhwM2NSSkM3cXdVMDJuMjVsNUFVNjJ0djZ0MVZwNkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T08:30:02+00:00",
+      "summary": "China’s OpenClaw Gold Rush Turns Into Security Panic  Open Source For You",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI has acquired the Silicon Valley talk show TBPN - thenextweb.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JT09VdXJZbXpFZEFYbG1fQTctZlNxcFpXZ0NBd3RHdEdVSFl1U2MxYlpwOU9zNTNnUXh0T1ZldmMwUFZnLWVIOFB1S2p0Tkl4M1BKRFRFd3dsUDMxX19qTVhnVUZVb0dPNWZmSzd1TDdnUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T08:29:00+00:00",
+      "summary": "OpenAI has acquired the Silicon Valley talk show TBPN  thenextweb.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI lowers ChatGP Business price, adds Codex pay-as-you-go option - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG96Q3NZa1pMenlIU1JkejkwUnVXSGk2a3NzdG9SSFlGSVR1ZGk0MUtPbmdXNmIyRFlMcnZnaVF4aDYxeW84Sy1WanNHSHZ3WXBWb0NKYUNFb1ZqdFVHWVdQSV9NR05zZkZfUVYzeTNsdE9qWWhTaENUbW5aUlNHRlZ6bTZwdTRqalI4NGJ2cGdhNjVuLTdpa0RRdnJaWkpWajZ5Q01Lc0JrUm84aEU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T08:13:21+00:00",
+      "summary": "OpenAI lowers ChatGP Business price, adds Codex pay-as-you-go option  Telecompaper",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s new ChatGPT base model ‘Spud’: All you need to know - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUkdla1lsaG55T2E5TUU4aWlBQ2FhNW54R0JTX0E0ZmhWM1A0SzRjYlhBdWVpZEVPQ0psYmpvWll6WGdoTjgyb3JlUmN0WmpIcURlcExQTkJBU2xmMWlwWTFtYTlhZTU0SFdKd1NjT1dHOXY5MjBwVUx6YmVVWGpxM1FBbFJJc3lYc0R2SUc4MXBQQjdra1FlMlE2eE4yMjViRU42eFVTTVRQM1ZsWWp1aNIBtgFBVV95cUxPbXJ3WkZxZ0lpLVBCRHFqVjN4N3ZnNDZmYkl3bnVFQkRMazNQd1NDYjN4Y01vLUNjcTlzdVpNbE0tcE5aUDJscnhTRHVWMzBOYjl3U1c5Y3pJVnZPRTFORkJ3LW1pVTlxOG1CWW9oSG1WQWI4V0VHM09GVmxmZHhXeGhscUpQRExLc2JiR1J5VUZuNkVTUkhEdXVneVJvOEZiMnJUandPMlhDWTcxUEhmUmRRc3pUQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T08:01:01+00:00",
+      "summary": "OpenAI’s new ChatGPT base model ‘Spud’: All you need to know  Storyboard18",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Acquires Tech Talk Show TBPN for Several Hundred Million Dollars - trendingtopics.eu",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONW1aRnoyRWpqZGgtSXVxY3pOaXp1NDExbWtrekw5Q1NQSVpmMjFuT0lyX0hzTm1tTzhCWEFBQWd0dkQ3dWFKM2VUbHptSXJ5Ukdpd1hOYW9kbEFGbGRVZkhTVnAwWUJnN2JsTWV6OVQyZ3o4UG9WT1kzOXBnMnhWc3VRUG1VRW12bVV6UzdVbW1fNy0yUEhFQVh1RURaOC04NERIaQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-03T06:49:53+00:00",
       "summary": "OpenAI Acquires Tech Talk Show TBPN for Several Hundred Million Dollars  trendingtopics.eu",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Acquires TBPN To Support AI Story - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2hCX0NOOW9ySUhWY2JYYmhXTVp5SEVKUU8tbjBVSHNJVnpJN1czR3VZZnlya3ByUlFaMVpldmhBRGJQcG1kelBOVWhpMFJvclJfTGxuSnFKcTBORWxGdV9GZ2dNTnhoUk9BWXhJSVh3RVpyaElvWUNTeEJuZVZrbDhfeV83RFh4WFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T06:35:41+00:00",
+      "summary": "OpenAI Acquires TBPN To Support AI Story  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,20 +96,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenClaw Expands Capabilities with Tencent QQ Integration to Power AI Agents - CXO Digitalpulse",
+      "title": "OpenClaw Expands Capabilities with Tencent QQ Integration to Power AI Agents - cxodigitalpulse.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3MwR3VWY1RNQkNwaFEzMDMzRHluMkttdUJFb1BIRDc5b2FrdWxhdU54WkZVRUhZcFBXem9RaGVxVmtSbHRxSEZCdHVYWWhHbEc3M2o5NnV0ZG1sRXhZT29xdUhpYWRRYW9zMVNzcmY0YXFkS05rQ2pQZGNBTEVmZXFRUkhQOEZhZms5N3BxZ1g5ZnZ6NUk0czVWSnBLUlNHUVZCekJMMTROeFVGTnc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-03T05:58:24+00:00",
-      "summary": "OpenClaw Expands Capabilities with Tencent QQ Integration to Power AI Agents  CXO Digitalpulse",
+      "summary": "OpenClaw Expands Capabilities with Tencent QQ Integration to Power AI Agents  cxodigitalpulse.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenClaw builds ClawHub to expand action-focused AI agent - 디지털투데이",
+      "title": "OpenAI buys tech talk show TBPN as it builds out communication strategy - crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmFIanR5VFJSc1dkNVMtS2FWdTVxWkRvUnBGeUxWa3dCYmJTRGN1MDh5b1NJNXBkRmVmSjNFb01tOVhoakRLTWlPalJvNFV5Vm5rUWNZQVE1MkZGMnhiaTZNWGFXQlowbjR3dFhIUklTQUJ1WGs3TmZDVlI1T0VYTDhvZEZ4N1Exa3Z2T2plVmttak1HanZz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-03T05:27:00+00:00",
+      "summary": "OpenAI buys tech talk show TBPN as it builds out communication strategy  crypto.news",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw builds ClawHub to expand action-focused AI agent - digitaltoday.co.kr",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGtIQXNta0hrZ0tMNWtpdjBMQ25vdi1INV9ZWDVTSjU5b3lmdXBoRkcwbVBPMmwtYnFzcHJmeno1alBXZ0sxY2kzVUp0M1JJekRzOTdONVgwNVBZQ1N2ZlppZ1FMQmE2UGpRV2pPTXpKeHpsaFpFSWltVWdMM1R1UmkyeHlFOEhlc0pvS1draTJnd2hZaGJrMnZ1QkUyUUJFMnBjZQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-03T05:26:06+00:00",
-      "summary": "OpenClaw builds ClawHub to expand action-focused AI agent  디지털투데이",
+      "summary": "OpenClaw builds ClawHub to expand action-focused AI agent  digitaltoday.co.kr",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -63,7 +144,7 @@
       "title": "Google is pushing AI video into ordinary life — just as OpenAI pulls Sora back - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3hVbDUtV2Y4Uzdubmo2WUVFSjhWQzNHbEtpZjJDeFNqY2t3aWc5TVoyeUdsN0FlMGh0WEoxbzVsQUNjYXNzUW8wYjk3eXdoOV9ybkFJTE5zQjFuOUNrRGU4NFM5VkV1NFdYeVQyb0hzUFB3QU8tYmJsM1lWS3pGNC1RSk5EMDNnX2dEVkpOeGpXWHY0NllOZnRzc0xfcDZCc3VtMjV0RVNVbzdvdERmclNRZ0F1ZU5VMmlaNXh1MnlqdlRW?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-03T04:00:52+00:00",
+      "publishedAt": "2026-04-03T04:00:00+00:00",
       "summary": "Google is pushing AI video into ordinary life — just as OpenAI pulls Sora back  TechRadar",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -106,7 +187,7 @@
     },
     {
       "title": "Why OpenAI Decided to Buy ‘TBPN,’ Tech’s Hottest News Show - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQS0tsMEt0RnFTRk5PbTlFbWUtZVlucWs5R0dxcXZLUjFxNnNacS1HYVppSFhMSUVrcjZfOHJPQk15eGplM2VYNWVoMWNpMVE1VC1BOXJKc0VXLWxfMms3SVNTTnV5ZWJBU3laMXRMbDZiQ2FqWHV4NmYxc2tfOVZwWVl1VlFnSlZkbV9kWVhvUU1qVjd2VmxORGluZURRZ0RqMHFOeC1CZWJ2cnc2a28wR2tPYTBvQkhydHUxY2FXNDBzRTNHOHRNckEtOExXelVneHliSTNNTW1pM3RfU2prQ2xDMVNXS2x5U29zNTJDYnZoeFg3X3oxY3MycEE4cTRBUUhycVYtbS0wZHRGUG95MGYyT0ZwVUY0RWNNVzA4Q1ZXMDNNV29yM25NaU1aRWtpb0c0ZzlZSmpZMXVmTzJDOThVSnRUckxvLUM4SWFHekJwVUFLVFROQmNlaXVvUm93dWI4aEZxMlBFVDQ4c3pRRzVmVV90Rms1aHU4VWh3Ykc3M2RSMUt1bDRUZ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNZ0JUX1FYTWlYWjZZNTN2STdGNnItZzNIUUpId1MyTW1qY1RMSWZRVFlCdVNzQ3EtTklIa084cG9TWGY5YXJYOGxaS3VUV0dOQVpZdW05ZUZYTHJRQ01wS2diU2JQbTV6b3Y4SlYwbGN6cnEyaEpaMXpZNHBrRjN3bmVtNUNaWVpHRmdoZkhOb3dMQWR6MXJIY1c2Rl94OC1GMFVJcE9Gb193UkppWlV1bUItcHpvbF8wdlpPc05NbG02eEU4MTl4c0tzU0YyOHpmNENVelZWdGtMejg2WDc0d2QzQTJjYWwzNVd1Q0w3c1NBb2IyQ1pTS1UwX3dKRkc4Y2Z6NGNRX3VqUGN6MlVBTk55YW5qNk5lSWw4ZHFDa2QzRWRheHp1ZFVnMFE1bDB2MVAwb1QtUDhuSzdZdExaZGVtLWVYSmFETTZQZ2xXVEE4b1JpYU9rXzJOREJsd3BSdE01YmRRaERtamxJMXRRQTJJVTd2UHdZSGJaOWEzeTI1aU5zOVc2S0VRR0M?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-03T00:45:00+00:00",
       "summary": "Why OpenAI Decided to Buy ‘TBPN,’ Tech’s Hottest News Show  WSJ",
@@ -137,87 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-02T23:10:34+00:00",
       "summary": "TBPN makes millions by covering Silicon Valley like ‘SportsCenter’. OpenAI just scooped it up.  Tubefilter",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI buys TBPN as Silicon Valley increasingly ‘goes direct’ - PitchBook",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdm12TGdCMEtpVVFmdEdjM1I5ZzZSZG9aQ1NHWHRQa3RkbnA4WHlKbzVaWjBaa1hIcVFYUzNzQUNZTTV6eVVybnZ1dzZMQldZX29YUDVQR0EzXzlSSlJjZVNWQkNjdnloVjdadkRudmtMWUdTeFFHakc1eTEwYjhfVTIxeGlwQWZkeGlHTWlCa0JCNVNqalBlb2s1QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T23:06:40+00:00",
-      "summary": "OpenAI buys TBPN as Silicon Valley increasingly ‘goes direct’  PitchBook",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI acquires tech industry podcast company TBPN - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWg1X041V19hNjNUQ0VGSW5XUU9Nd1ZnNVMxWlFObW1fcGRHLTFrVTZBa3RNVEt1b2lrTkZaSDBVRk5QLWJHZzU4QmtQNWxEdTVPZjZtQXdUTDczZkVnbmI1TG1jTGZTSlVKaU5GVXp2MGxWS1djVGE1REdGYjdpZW5SVk42QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T22:38:45+00:00",
-      "summary": "OpenAI acquires tech industry podcast company TBPN  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why The OpenAI TBPN Deal Today Is Bigger Than Anyone Is Saying - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSDVodV9DcE1qalNIeVNuRXh3ejA5cGxzQ3dULWlXb21ZT1dzOWhObGIwNWpkdnhMd0I1QlRNMGlPUXMtY3dOTHg3LWFRS0JDWUVxOVVXS1RhVTRJR2lORE9pUjF1YU9xbHBOZ1FscFdoMXBxT0hHeEtnSjdoQW9yRHE4d3U3U2txdkt0UEdtbjZabUhDRWduYWJxNUo3VFFfYTdvakNReXhMUjhGNlBHdDJBRDhYUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T22:18:26+00:00",
-      "summary": "Why The OpenAI TBPN Deal Today Is Bigger Than Anyone Is Saying  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Get ready for a wave of TBPN clones after its blockbuster OpenAI deal - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2Q2R1JjamVGc2U4NE9uQ1hYYzhzdGVlS051Tm1rdVBaR3YxOXd5WWJWZTJHWWs4SWI4RUxVX1dKRGhGWlZNdEJMNWxCaUlodG5ZWUhvWFBWc1B2dU53TUd6VlA0TEFObk0tRnQ5T2pFeHU2WkxCUlNmNkVPbEExSHhzZFppUzdqTkNqRzVWNGpmUm8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T22:01:00+00:00",
-      "summary": "Get ready for a wave of TBPN clones after its blockbuster OpenAI deal  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Unlocks China’s AI Token Export Business - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUo2dXRtcl85eUZ5UDBxRWFFWjdYbURyM2ZSRG5ZeHItOWc1eWlZMXh0NzVvUDR0Sll1OFZqZEk3eXdPZlgxWU1lT3B1eGVQS2dTdTBnZlFMd1VZVHhHODIwQlFzeVBfNnoxMVFPY3NSdGxhRzdNaEc4SzFieDk5WjRlLWd1NDhuN3dBMTY2QXVWLWhFdVdWNmhSQldOMFdwa2d6U2c4c0xhbjBBaW93?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T21:36:10+00:00",
-      "summary": "OpenClaw Unlocks China’s AI Token Export Business  Bloomberg.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI acquires tech podcast ‘TBPN’ - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObERVTElXd0xsbXl6akwxUElxOHRpaDVnczdRcEVNcG14c0VBaXBhYi1pdzhGZzlydFNfWnNENjZsQ2paZmY0T3pleGRoVVhzbU9qcTkxRm95MWNRYTZ6NTByLXBTSzh1bXpCalpBTjNpbGFYbXNOOGt3SjVaLWQ3VzFpMNIBiAFBVV95cUxOaDd1ZjlVdUtja0lNd3VQUDZrMzNtQjR1b0lhUHVFYWFoQkhIZXBNX0NMd1l2aWtPeE05aFRLTjBFaW1vUjEzbmN4Tk1lNktrX0VkU19zLVYzSXBtRzd5dFVkd0xneXlrSFFOblN3eXVTTF9vRUJtTzNMS1Z1SWkyZnpsTW44S3B0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T21:35:00+00:00",
-      "summary": "OpenAI acquires tech podcast ‘TBPN’  The Hill",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Acquires TBPN, the Irreverent Tech Podcast With a Cult Following - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdm9KVjVHMWNJWWFFQTljVF9Ed0JjanQ1SWRsYWlSRWVDZUFuZHNSTW9fZ2FuU09zZTVNbHM4M19zVUpqTm1OcW1Ka3ZJSFJTZEh1c0p1Q29GOVhVdkVtR3FpejZZTjhncklGT0FKaXBoR1FVc3V1blRFczE4TTJ3QUJnR2FaOWQ1eFRCaThuMkZyUkpwZkV4WV9IYmdXSldtQXUxc0otUWl0ZDFaLTRn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T21:29:25+00:00",
-      "summary": "OpenAI Acquires TBPN, the Irreverent Tech Podcast With a Cult Following  inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why OpenAI’s Fidji Simo Bought the TBPN Podcast Amid Crusade Against ‘Side Quests’ - The Information",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2ZoRGpUTGI5a21oaGFWX1ZLUnlZNVZrWmNuRy0zQVdEZmRYVi11R0JhVktTMVBxQ2xISVNmTXBackRWaXB6ZXJQdG5QZGg3MWRnS0R1N0t5QzBNTkcxcnNtZU5OVUZVbk9WOUdnMTFJaS1oT2ZzWG5mc19RUF82MHpQWld5Mk92MWlveFhIWG4zamlGOGxiSWd1dngwc3ZWb3Bid0tn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T21:27:00+00:00",
-      "summary": "Why OpenAI’s Fidji Simo Bought the TBPN Podcast Amid Crusade Against ‘Side Quests’  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Disney, OpenAI Eye Future Deal After Sora Shutdown - LAmag",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ2JnaE80TlJXR3NIekpZcjdzUnF6eFRnRG9SY05wZXBfbFM2TnpTQ3hPWG9FU1pyX2pXMHQ5XzY2Q1pfajRfZlBBSkJDZDhIMXc4bmNaZHk5Z3FzRFRGRWltOTcwYXNKckhHaDQ3eU9BdWlBUUp6Vk9wR3pvdGpQNDltbkFMOHpPUVdV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-02T21:12:39+00:00",
-      "summary": "Disney, OpenAI Eye Future Deal After Sora Shutdown  LAmag",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
