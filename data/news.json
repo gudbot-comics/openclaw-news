@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-04-04T10:04:08.811875+00:00",
+  "generatedAt": "2026-04-04T10:49:38.021315+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Claude subscribers just lost access to OpenClaw and other third-party tools—unless they pay more - XDA",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObE1HM2RjRnFjUnA3TXloaFRWT3p1cE10VG11TUIzTXM1Mko3emdEdGZKMV9RYmpVd3NNWUJSMDBfbENCY2FmRWtvb1JZeGtFM2pRX1BwR3dtRUh4QjByYjZTbjI4dktxWGxwSWlBOU9ObmlUMVJDZ2cwazY2SFFJNWNkLWZrckY3eVRSeW1idFZOQldFeEZUamh3cnJGbGI5clkwZ25aU2JKd01paUZvanVKSHcxNnBDRW44SkxKX21wTkZLYVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T10:41:22+00:00",
+      "summary": "Claude subscribers just lost access to OpenClaw and other third-party tools—unless they pay more  XDA",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Anthropic drops OpenClaw support amid Claude overload - News.az",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JUV9yeC1jOENoQnkxNXBiZHFObjYwckFrOV81bXA1eVJVNkZnSzJ3QVpJdGhCbG5vTUZNSFFKemMxajlIR1pjbEFNSHJIVEZ3OGJrSkxEaUFYUnVaNHl2YUlXMi1Kd1ZITmk1UW1GSVJseVZOQlp2YUg0TDFfa0k?oc=5",
@@ -24,11 +33,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "As reports of trouble at Sam Altman's OpenAI trickle, head of AGI deployment, Fidji Simo goes on medical - timesofindia.indiatimes.com",
+      "title": "As reports of trouble at Sam Altman's OpenAI trickle, head of AGI deployment, Fidji Simo goes on medical - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPRUJhT1VuVzh4a2J4Qm03U21tRGk0RXdOMkNKc0xYZ3RTV21GSC1pZ3hMZFJwMWt3N3dNa0dzeTB5aEVTdTRPWlRvbUhrZ01tcDU2R1VDQWJYMFdGYXdrS2Ewdm1oOFZ5V1FXdDFFZVMtaTMxREV0WTlMcFFxSlBmRnp4T3Q1UDRyNnAyR2lvS2pSczJGdHZxMGNUUkNpczA4ZHVmYkxhM1hSWG14TWE4SW54ZkRFcGR1c1hsY0QtREd2RkQ3YUJhRHA2eFo5ZE1aM2xLVVdWSVNLRkUtTUVON0hMMGNwdEZ5VkdwRDF6aXRSWmxQTGRTbTB6VG4xVUNSZi1RVThxVUhkVTBKV1lFMGRTeGNVeVVuQzZRQjNfZzVtQnlsQWhoTEVOT0dVY1o1aDJFRDluS3h2SUVfbXdWN2tYamJZZ9IBywJBVV95cUxOTFVFRi01bGh5VFlpV19jN0ljY3JrT3hWdzNhUl9hVHhsRGRaWG1LWW15VU9RVFVFWDBOUy14RnpWMVhndlhFVjZHd2ZGNUxrdWt2RGVrS0lHLXFCaU5tVkdhdmpYdVEzVGxrMzh0QVRXWWVqQWFsS21mVk1HRlRYNVo0RHdHY2xsbGk0Q0gxMUJLb3NfYXFlaTEwNDY5RktYTXFxNWx6RlJ4WkhGLUNBRkZmZ2hObDV0S1JzS3VWUVdMSUduMWQwZm1mZURuOF9XQjNfMXRJdl9YTHhmZUMwdXBnampDZWJfdDdFdkhqa3F5UDREdFh3aUpjVWFXWGtHSWlRT3pCdHlUcE9GOHktc1hfcUJhcFgxYXJTUXlHYUpBYkhld3dodEd6NnlOaF9uRkp2R3N5cFdtSl9hM1BiQ3BjUm15cDNKcmVz?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T08:35:00+00:00",
-      "summary": "As reports of trouble at Sam Altman's OpenAI trickle, head of AGI deployment, Fidji Simo goes on medical  timesofindia.indiatimes.com",
+      "summary": "As reports of trouble at Sam Altman's OpenAI trickle, head of AGI deployment, Fidji Simo goes on medical  The Times of India",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,15 +69,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s flagship UK data project delayed in setback for Starmer - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObTBLQk83ZHl6MGM4T3pDU3lybnpUMGFrN3lrS1prSDJMamJKMUhlM0lVbTFyRzR3eUVjNlhLaEVBSVhEM1c0azZmNkxfX3F3V3ZRMk11QjlrYzVJNVRRVWFDMDVFUEItelpoT3J1aVZBTExaWkJKYnRNU0VodTF2OUhfQ1Byb2RZaUVaQUxPd1UyN1Y1dTROZ1l2X3lmenFIeXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T08:00:00+00:00",
-      "summary": "OpenAI’s flagship UK data project delayed in setback for Starmer  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI reshuffles leadership amid IPO buzz, health-related exits - MediaNews4U",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlhySU54NE5rMjZIeTd0cVdwdlgwQlZ3bTM0U3d5NE5OaElETGtLNlE2OUVxZDg0blhLbVhxc0pUYi1YT24yZzhCdDNQSW1XYUFRUWhSUFFJOEMtaXRMNVlleVpmbkx5STZSMWc4QjFXTW9xZXNmU0gtc29xMmxscTBvMHZUalQ2LTNySVlDNVRadDR2Qkx3?oc=5",
       "source": "news.google.com",
@@ -96,20 +96,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI reshuffles leadership as COO shifts role, AGI CEO takes medical leave - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX29hel9Mb1NtekF2UWQwdTVaVjZhLXFIcDIwY0g4NXhkUDFfTjRzZ0xuT1VKTThxRFZNZnBhZERNemtXN2Zqd1pWYmp2MW96ZzdzRjQtY0RWQkZXdGRkdmxmbmVtWDByOTVNWHdGTXFXWEItbWp2ZUdjeldaX3NRU1M3OEZobXJmOWJUWjJQU1V2ZlVxeUFURTZDeW9DZnJwcFNsUGdUMTNsajU4djNodk1YQnZyUTd1VnBTNXBqaE9USjk4MFlvSXlhWFHSAdIBQVVfeXFMTnhEMklaVlhwaTBHS3Q0a1JFa3liV0V6Ylo3UlFjZTk5Z2dPVWVfZlR0RE1QS21OTDBoY1VQTUxqVW8tM0k0UEZZbGJ6czhYZTVLQkdLMFBST21EZWVzWm9KdUFBZlEzWXVWakp2Q3BJdjVfS3hfS2lmUjdEUTJSbTNnWkl2MWpSVGJNdl9uRVA4bGMyZmluREdYX1lVME10ZlNjV3NwTG5WZlkwYjRKZVZQWmt2WE9KRkhNanh0ak5IT0NOaE9JMkhIYldkWVd6NnJn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T06:29:47+00:00",
+      "summary": "OpenAI reshuffles leadership as COO shifts role, AGI CEO takes medical leave  Storyboard18",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Starting from 3 PM on April 4th, Claude subscription account quotas can no longer be used for OpenClaw. - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTNXcjlqY1hJTnRyTkJhdm5LNXdMSEtMRGhCU3pkbXEyTl9GMDdzdEJrdTBNcV85cFFBM2hwMWxQYU1xZFZDbnhMQ3pDSHlQemV5UzM5LWJ2NlRWQ0JsNUZLLWJxNlFNeFJmeksxNVo4U1Z2MzNXdTZIX1d2NndrQ2lzektVQmp4VUpNNmtvQ283NklobGdERDlFQ1QxcUU?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T06:28:15+00:00",
       "summary": "Starting from 3 PM on April 4th, Claude subscription account quotas can no longer be used for OpenClaw.  富途牛牛",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Anthropic OpenClaw decision sparks major backlash and shock - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tcFNBaC1JWXZwOW9aVHlyQWQxMXR0NWFObjAyanlLRHE5bXVfVEFYTzI4S2JrQU9pcGowNlRrNWgwbFQ3dkJ0ODFLV0RJYkp5UW5rcVhsZlhVSHpSeG9oTGI3Wk5vM0tvY2FkTF8ySHI3SkJDMXJmNTBrQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T06:23:10+00:00",
-      "summary": "Anthropic OpenClaw decision sparks major backlash and shock  Pune Mirror",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -123,8 +123,17 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Kate Rouch Steps Down As OpenAI CMO Amid Breast Cancer Recovery - BW Marketing World",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHZZbW5QQXphWTlwY2ROVlU4Mm9RUVlUaGZYdXZxbjRPcmFaLXhKTmpPMktqYXRyUHBkdHRSLWVVNUZHYjNUNlBYMWx0ZllLTlVybjJoeXZORkJlUDduNEJEZERxdWthUGxzYl8taUxFSXhJOHFURktKZjVkT0tFVDU1MmxZeUVmakg0R1R1NXQwQWNjSkM3b1VlNUhGTHA5bmtrS2s1TkZYNndmX3p4Qw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T05:07:31+00:00",
+      "summary": "Kate Rouch Steps Down As OpenAI CMO Amid Breast Cancer Recovery  BW Marketing World",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Using OpenClaw on Claude? Anthropic is about to start charging you extra - Mint",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGNOSFFVOXRibGpNblQwRTJYdDRSTjVBVDZLb3ZrUEpYZmo3UndHTDMwUUJ5RVJzUjE2UkY3dl93SjMxa0lLZnNGbmZITjZtMWdER09kVFRndjhYNlhMcnFCMENNTWxkbkx0T1NrNDV5RjBaRTZ5SDlrSnhnalFsUm1rQWhoY2JEblRtb3A0Y0NMazdOR3hlanpGTzlieGR4emZfWDhXTFQzd3hFTEV3YkxRdFBhLUthLXRUSzF5Q0kwU0dkd0t2Y3RzT0Q5SGdkNThR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGNOSFFVOXRibGpNblQwRTJYdDRSTjVBVDZLb3ZrUEpYZmo3UndHTDMwUUJ5RVJzUjE2UkY3dl93SjMxa0lLZnNGbmZITjZtMWdER09kVFRndjhYNlhMcnFCMENNTWxkbkx0T1NrNDV5RjBaRTZ5SDlrSnhnalFsUm1rQWhoY2JEblRtb3A0Y0NMazdOR3hlanpGTzlieGR4emZfWDhXTFQzd3hFTEV3YkxRdFBhLUthLXRUSzF5Q0kwU0dkd0t2Y3RzT0Q5SGdkNThR0gHYAUFVX3lxTE1UeEJaTU8wNi1FSTQyMGllOXhtdEpCelRpUEZyc0pERzd1OUtzbkFtVldKN182S0N2V1c1Y2VqamFjXy1WRFc5aGd2UGFoRWd3anRRMFgzN2xpT05TY25DNHhra2d6UGEyOUFtTThVX25kT0ZURTZMWUkyOEllUE9QWFpCaFpMVWsxNGd1dHJPMzc3cnFSREtIczBvQWN2S0x5YTJBVVQ0Q0xnU2RWbEJTVnNBT0tfWExBWDktbFRaRUZXR2Nkb1hJVTJBZUNZSzd5a0NzSW5lYg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T05:00:54+00:00",
       "summary": "Using OpenClaw on Claude? Anthropic is about to start charging you extra  Mint",
@@ -141,11 +150,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Claude subscriptions no longer cover OpenClaw; users may pay extra to continue use - The Economic Times",
+      "title": "Claude subscriptions no longer cover OpenClaw; users may pay extra to continue use - economictimes.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRXhqZlZmMHFtM3NGSFhZVksyczRVeVhweFMyNjJMc05fbllzODVXVHBUNzVGc0lkZ1gzSFJLWC1PbGJmMFptV2RwQTlTcno5ajY4emZTMVllbG1hTHlJRHVnTXl2VGNEekVSb1FmMGg0T1BWczJxcFBPSDRNZW5ZNTM2TUxfYzVlNGRRTlE2V1Y2aEJNeUNLN2NYaUNTS0YzMzFRU0NraDl4VHZaYkdmbkhEVkpKbHZRbVlCMng1RjR0RFB2RjBHOFYyLTRZVlBwZXhCcmV3TEF5d2twMWwxc3l1NlZHUdIB6wFBVV95cUxOTjRBWXl4bWpzTGJjZHhrQVVTaTdqNXlCcllIM19lMmdVNTZFMVVMdlMxTWJXMm9ONHpaNkxoN19lVnVoOF9ZdjI5R2txUmVZRUEyaG5SV2dCeVhFRXNKMVFjb09BQ3FuTGh0TDhRZWpRa0hRNVVUc2FaeEVISDdlQlJnSkRRNUp3WG5nY0RUekt0WkU1WkRKVFVuTDliZTh4Q1pKZVVZT1UzZzltU2lGLUtWUzdTcFlybVh6MEhCSk9HLVNUZXNzMjNCbDNQR0ZaZEM5VkVHUDdQcmF5RDlwaXVlVkJGeVNuVFNr?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T04:48:46+00:00",
-      "summary": "Claude subscriptions no longer cover OpenClaw; users may pay extra to continue use  The Economic Times",
+      "summary": "Claude subscriptions no longer cover OpenClaw; users may pay extra to continue use  economictimes.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Claude just slammed the door on OpenClaw - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUVdBZjBlWjFKUElzUC1xWDNHa2VER2hZWkZiZ1V5TzJBX0RlaFpYMktUODNNN3FuMG9XV2doZDJOLTJDN1BjUklsRUlvNTlMUFVPMEJJTVQ3Qm5ha0pqWkQ5VkYyY1VPYVh1dm4yYzFuWkFIY1M0NllicE50ZGRMS0UtYUpldGNmLXpIQ2lRdHlHUkdhZ09UWTlnRmtuUGRPUzNZWTlsZ2dqRkd6cks2TGlR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T04:45:48+00:00",
+      "summary": "Claude just slammed the door on OpenClaw  NewsBytes",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-04T03:27:20+00:00",
       "summary": "OpenAI Reshuffles Executive Team Amid IPO  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw: all the news about the trending AI agent - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU21qZE10LUlJT1lXNS1MbENLcGVzMWlhTjJMbkRwTVRlWWZyQzkxTWlhZUMwelM2NU5PX1h2MG12Zkxxc281LWFrcDZzRFFQbkh6dENseGZHYXdGUjloVmxSY1ZiYWg3djhnZVRCWEVkWS1kNHZ5VUhHT0pFejBuLURn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T03:13:21+00:00",
-      "summary": "OpenClaw: all the news about the trending AI agent  The Verge",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Reshuffles Leadership As Product Chief Simo Takes Medical Leave - Maplebear (NASDAQ:CART), Meta Pl - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnpyRTFBNE9pcklxemw5aVJRZmQ5clpVZUJXMGdRNWtoLWR0YXcxandwSlduNkpMRWZ1eGFzNWpib0pHNzAxNGdkelZ6RXNFNy1palhuQXdMR2Z6amFleWMzWmJ2c3JVUmU1d3BXdE5DN0JyR0dFZXJqOVk5Q2RzaWYxbk5KRmtGZXozTlB6NE5ZLUlnN3VITjkyUlFFQ0FScTRnRlhYU3FUOUwwOHdCek1xTVR1dHlKS2JHUDYtTEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T03:10:38+00:00",
-      "summary": "OpenAI Reshuffles Leadership As Product Chief Simo Takes Medical Leave - Maplebear (NASDAQ:CART), Meta Pl  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
