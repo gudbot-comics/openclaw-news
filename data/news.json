@@ -1,25 +1,61 @@
 {
-  "generatedAt": "2026-04-04T18:40:58.493354+00:00",
+  "generatedAt": "2026-04-04T19:21:13.068144+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race - Silicon Canals",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEtjTjV0U0MzVVNtcE0tMmVJMFhpdnVkLUJRbDNrRXBXZmtWNjZoVU9lUDVEOGcxZVZrTFVkZHlnNndmYnVsd0VOTm5vdUpacmlweC1fTk90RW1SZk1SejliOC1XcnBYTy1OQmd1YXE3VmlmOUdESTZfRFRxaDJ4a1IwZEtKdnIyNW50U0ZzR3E4YVp2UnU2am5vb2UxNm5uVFdJTTF4UFN2emo5VVc2Vk15cEZpbXdQR2hSV0Fadw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T19:05:38+00:00",
+      "summary": "$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race  Silicon Canals",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic blocks OpenClaw from Claude subscriptions in cost crackdown - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2JOb2tJMFhWT0hBTVd6enozS0xxUVlXU1pWZndUd2swcVJBLWFwVEp1Q3p2U2hYQXNjQ0pYaXFNVHRoM3BnSk1jbGEzR0wtZ3hEWUh1ZGxtbHlOd1hTSkU0RGxlT0dQY0hGaDdUa05iUFg2UEphYmRvM3U1NHF0ag?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T18:53:00+00:00",
+      "summary": "Anthropic blocks OpenClaw from Claude subscriptions in cost crackdown  The Next Web",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Called The One Person AI Startup And Three Founders Proved It - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2M4OGh6dWE5elYyMk9TaFFHMWFKeEwwYjlPRGpqQ3pzQ0xURndpMGUycDFNVFlpT0tUN2poRkdxZjFyOUlHMzBjdnJrYXUzLTVIVnF2cVAzSEU2cGw0cjhxNkxSRUR0OXlhVVhqeWNpeW5IRGVxRkJJTTlMaVhDTVFPNlJZNlEwUzROdlU4OFd4LWJ4V2VLUFlXWEZyRkVVQWtvUzY1WXc5Y3k2Rkx4Sjc2UXJodGlQTVI2b2U5TQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T18:46:22+00:00",
+      "summary": "OpenAI Called The One Person AI Startup And Three Founders Proved It  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Buys TBPN Talk Show: AI Giant's Move into Media Ownership - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdG5pT182UFFpRWNaVmZBUE52QmVTUlNYY3JXRzBHVHpvTU5WcHEzNFJXa2ZWMGJ3UVVmcXJqaEpwMFhNTmhGMjFwOUVwT3ZDQ3VNalh0MFlMN2FUTEZzWkNhNFRGNWd4X1MwUS1kNERtYmljSWRaa1FoQjNJNEJPVTNLc25KRHdTX0JXUk9xWTluZlM5Y1hrMGUxOUFwYUtS?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T18:41:00+00:00",
+      "summary": "OpenAI Buys TBPN Talk Show: AI Giant's Move into Media Ownership - News and Statistics  IndexBox",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakxlX1lJUklzd3JYNkp4Q2NGZlFPZ3NhcmVKYUJYcGprR3dxWWtYMUFrV0VXc1Yta1BNSUR5ZVEtZjdWY2hGeFRQZVNWeVhCX2RHeGtIY2k0ZVVRM1VmMlh2bFZjOWgwTTY2OXlSNTRGOHVNMGhiUkhoUnVHdGx3SHRlQ0Z1aWoyOUNDLXl2VXdMTXdldTVrZzFKSFhnMXJHTXZGXzItU1NnMnZ0aVl3UWp4eWxWRmdL?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T16:32:22+00:00",
+      "summary": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage  TechCrunch",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "Claude Stops Free Access on Third-Party Apps Like OpenClaw, Requires API or Paid Usage - The Mac Observer",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUowR3AyeE1rakoxWURqX0hVNnZWa3ZKLXMtR25aZVphWHpoSnU5bFdqMUFlOHpFakhYaFM1MUxXMkdnbVBkQ3ZNbGpvcUREZWZXTHYyRTZpX1Zlbkxja2RVNmN4SVIyU2k3S0h3ajZuNzVDZF9YRGN0c25NSjlEMFBOd1Z5cURTUDh4bl9lRWV6RUZ1TEFkODhhLWxheUllY1RpeTdpNWhtN1BPamMxTHhxWENLSFVaWngw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T16:27:04+00:00",
       "summary": "Claude Stops Free Access on Third-Party Apps Like OpenClaw, Requires API or Paid Usage  The Mac Observer",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "It's no longer free to use Claude through third-party tools like OpenClaw - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzFqY2FoRkRPMHRheTJyUEViSnpaOEY0enZSN3ZaOGI2cnZoVE95UVlDMWRjNlFMVkNwVmJPcGlndmZQV3VkRDJ2YjA2U2lhUkhLOFZZSGRkQUV0SVBGWXlhUzNCeUdyNm9NTHpaM3dMbUpXV2UwQXBsSEpFWXJJOUxrYXFhbU5DQUc0d0hNWDlMZ3dzZU1ueFFGY25ueE42NnNyNGhtMVpBQVVpOE50el9SS0FrUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T16:09:12+00:00",
-      "summary": "It's no longer free to use Claude through third-party tools like OpenClaw  Engadget",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -42,6 +78,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "OpenAI reshuffles leadership as Fidji Simo takes medical leave - Axios",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWWFNPU2hUZHVyR2ZmZmtrVDNSSE9ibFh1RkE0NHZ0ekxmT2VZd3pmYUtBU2xQMzJCdUVVZXVoUzBGYnBEcDZaNUN0NVEwUDZweUE0WGRtaUVFeEhfMmM0WlhDYTFRekdDU0hKdi1SNmozcEFHZU1WYjZDdVFJYmM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T15:35:00+00:00",
+      "summary": "OpenAI reshuffles leadership as Fidji Simo takes medical leave  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Microsoft takes over Texas AI data center expansion as OpenAI backs away - The North State Journal",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0RJYnhLdDU3R1VRSTdkdk02YXRmdXVoczFPb3hRdGZ2STRBM1VZRlpmel9BVy1UNnBqRlpUQWMzMndNMmhrbmltNVA2VDN5SUJLUVhUdlB4aFRESUdacXJlY2RoN1RFRmxDbGpqLXZKeXM3VUJVTk5Qa0lKbXd0UGdqYmhzS0xONk9tY3NaWlk4MDB3M2JpUVNRWFp6VXd0UEtMdmpIdDEzZldQUENrTQ?oc=5",
       "source": "news.google.com",
@@ -60,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic Limits Claude Tool Access - The Hans India",
+      "title": "Anthropic Limits Claude Tool Access - thehansindia.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3Y1ZmYxczdWcDZJQnl5VG9OVUU3aXFBNWpNb0FpQ2NlejJTRi1reXVON2dvbDVjU3hyaTl0M29tbVhLSlZGWWszdFBjWnFhNXpUalJBbGltXzd2MVI0S055OWRLYzJhaFc3QkYzZ0RUaUZmZFpJTXZSUVZxYk13UzlIeXp5ZzFmaW5Pd2pKSXhLZGlObS1UNQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T14:28:24+00:00",
-      "summary": "Anthropic Limits Claude Tool Access  The Hans India",
+      "summary": "Anthropic Limits Claude Tool Access  thehansindia.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -74,15 +119,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-04T14:15:00+00:00",
       "summary": "3 reasons OpenAI buying daily tech show TBPN for hundreds of millions isn’t totally crazy  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Called The One Person AI Startup And Three Founders Proved It - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2M4OGh6dWE5elYyMk9TaFFHMWFKeEwwYjlPRGpqQ3pzQ0xURndpMGUycDFNVFlpT0tUN2poRkdxZjFyOUlHMzBjdnJrYXUzLTVIVnF2cVAzSEU2cGw0cjhxNkxSRUR0OXlhVVhqeWNpeW5IRGVxRkJJTTlMaVhDTVFPNlJZNlEwUzROdlU4OFd4LWJ4V2VLUFlXWEZyRkVVQWtvUzY1WXc5Y3k2Rkx4Sjc2UXJodGlQTVI2b2U5TQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T14:15:00+00:00",
-      "summary": "OpenAI Called The One Person AI Startup And Three Founders Proved It  Forbes",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -121,6 +157,15 @@
       "summary": "In war game simulations, AIs from OpenAI, Anthropic and Google chose nuclear weapons in 95% of cases  Futura, le média qui explore le monde",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic to Stop Covering OpenClaw, Other Third-Party Tools Under Claude Subscriptions - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONTJoaGJJNTBNT3VRdEgySklYYzVPNGlmZGJxMnZ1NzZLb0VQQ1hmNjF6LTg0RG45eGhIVkNabTNhRGtzcVZKTFYwVEhKbE81eVAtZkNWdDMtOFRVVjM5aXpUZHA1UHc1VmR4VVpyLVJpdG5wZUtlZVRYUVlkX0NnQTVNSllxSkUtY1NyWlJzNC1IYnc4SkZjX0xOc04yM21lLVRRWUVHZUMtSzZLeUY4Vlp0cG1oeWRhMDJrSWNES3pfQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T12:57:14+00:00",
+      "summary": "Anthropic to Stop Covering OpenClaw, Other Third-Party Tools Under Claude Subscriptions  Analytics India Magazine",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI buys TBPN: the tech show that never asked hard questions - PPC Land",
@@ -175,51 +220,6 @@
       "summary": "Anthropic drops OpenClaw support amid Claude overload  News.az",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw creator, who Sam Altman hired for millions, reacts to Anthropic banning his AI Agent; says: Trie - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxONlBsLUZaeXpSQjViQ0lFMU1mOTRjaXdSel9kWlBCT3Z2d3pYTWNvanpGLXhBUE1hakRmYlVsdkVqMmRXaDAtZ2dqdjhuZVdoZHdUUjZlVDJwNUc0WG4ycEdfMFA0RFBYSzQ5VnFVSkNzckROTjZXSFpLYl9NRjNwTXYxOGFDSWlyb0JKRkthNDdOTGtHekRFLWt0VDR4ZUJWLTFvSEU5NzExeFQtT08zWHhmTnFFT01PSEZkRlRNVk94Z3pYbXZLWWJEQ2piQ1lkQkJtai1lODFsM0o0SnV0SHV2VjNJcHhvczNBd2pHLTR2ZVNXdnU3M21MUy1ES1dFRGU3UUFDanFpbkI2U21oS3pDenZWWG1tSjltLVdoQVBBa3VWRF9GZEdGVXd1UmtQNGYyemt6cmdabktwMlFJTdIBxgJBVV95cUxNaVF5dTB6cWdBYTlXR1hMUG54c1NLZ1o2X2EtcGhqS29UTFdya01tQ2JHNDJmYUtQbWtmQmk2c3pPbjN3dHY1YVd5X3hoLTl0SUJQa0N5Sm5qaW1KMjBEb1dhQzF0eWtUZDVtNmlUY0ZoNW91R1pUcVBGbXc2cVRQd0JTNUs3TC1Bd29CanVmNE4yR1F4UG9BTHNJSzNCQjJQQ09haDNOYklZN2pRSE84cktoR2xSTzdiN201MlNZVDNuLXFGV29BWTMtOTVSYThyM0dNRHZ1SXZqSWZtbWZwRzctRVZ1TGZVNnR3NHRyekdKM1lCS1ktenZ6UUk4YVk3SGl6N2pWbGhLcXptLW9pSlhvX3VHN3pnSUlra2JEbTViWXU2TGFvVmdHcFk0WVIwZkVQcHpxX2ExSldRQTIyZVVqQmk1QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T08:52:00+00:00",
-      "summary": "OpenClaw creator, who Sam Altman hired for millions, reacts to Anthropic banning his AI Agent; says: Trie  The Times of India",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Anthropic Ends Paid Access for Claude in Third-Party Tools Like OpenClaw - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ1RLNTVyX2FnYmxNd3dteW4zbm12a2VmUmplbEpzVUtuN0hjT09HSndkXzhKRzdVV1pzZGFGOTF6NlQ0MklfMFVoeGZldEdBTkpyeGo2d08xZm1kZW9ITUt6UnNFTlR3Y2FYUkEwQUZmUFlEaG1DeEM5aGdaQ3JVQkxfVEx2djh1cXJDcjU3aHpzZDRYQlFUdg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T08:48:59+00:00",
-      "summary": "Anthropic Ends Paid Access for Claude in Third-Party Tools Like OpenClaw  MLQ.ai",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZVJmLWR5OHo4QWhNbnVEVGJWeTJ5QUdIcjBld1VMSmxWa0lGUVRleTFSS3dIMFF5aHZuY0N6OTRFMVczbFlxVWhRODgxYURSNXFtd2ZVeXo5bFNjQjVMNXg2WHFkeDl5cUZuYmN0UEdRVUJZQWdnSUVQOGlWUGF4aU4xSlhzRUdsY2piNS02eUlaNzl2ZDJuUmFoNVFTSXJsX0ZocC1IRktPNmpVajlRYURtQ3pKd01mOU9hbTAwY05xRlFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T08:04:39+00:00",
-      "summary": "Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand  the-decoder.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "AI for investors - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkdIRjJ2bmx3ckZ6akFlTTU1TV9nY1JwUTBrNVBoWEpVM182UUljY0V0b1BYNW53ajMwLURZakVpd21lcFRscjFPVTVWNzlPTDlxMGhObW5qVGVxSkNfMVhZakM2b3hEeWtRdk5LZm9nd25EZngtTlpFenFEZzNzRGtnZ0VVTzFMaDZfRFBEM1NzQllwTXgteVozQTRzd2lKWGZGNkxR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T08:03:58+00:00",
-      "summary": "AI for investors  MLQ.ai",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI reshuffles leadership amid IPO buzz, health-related exits - MediaNews4U",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlhySU54NE5rMjZIeTd0cVdwdlgwQlZ3bTM0U3d5NE5OaElETGtLNlE2OUVxZDg0blhLbVhxc0pUYi1YT24yZzhCdDNQSW1XYUFRUWhSUFFJOEMtaXRMNVlleVpmbkx5STZSMWc4QjFXTW9xZXNmU0gtc29xMmxscTBvMHZUalQ2LTNySVlDNVRadDR2Qkx3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T07:58:00+00:00",
-      "summary": "OpenAI reshuffles leadership amid IPO buzz, health-related exits  MediaNews4U",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
