@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-04-05T20:03:03.217246+00:00",
+  "generatedAt": "2026-04-05T20:48:40.796089+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI Is Making Microsoft and Ashton Kutcher Incredibly Rich - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXREbW5GS3RxWGF3VFlWMFRNZUtHR0dES2FtU3VnVVdZUGFvR3ZxcjhCbHFvWWNFRHlva2dyZ1dadkRtbllWdExNd1ZIeVlwMndvT2tDNE5FaFpDUDIwMXEyUVZjeDlvc3BJWEJVMHJnQ0NOaFI4cldHLVV6N3VIS1JnZHFTMExfZUJ6SGlyNU1GYTllZEtJN0FqY3I5cXpUU05GYm1R?oc=5",
+      "title": "OpenAI CEO and CFO Diverge on IPO Timing - The Information",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBweFhzdFl4ZmNRalZ2cjdJeTFpT1FtRlhtTUNqZXFuZ0M0ckFoVzNYMlpicnlHOXZpTjdZNjRiNGJ5WFM5X2xnYVVycFhyYU5hdnJNalFxdFZzVEthOEpGYWtWM1NnLW5HOFRxNjU3emxsTmFnZnNIa1pBVmM0dw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-05T20:01:31+00:00",
-      "summary": "OpenAI Is Making Microsoft and Ashton Kutcher Incredibly Rich  inc.com",
+      "publishedAt": "2026-04-05T20:32:00+00:00",
+      "summary": "OpenAI CEO and CFO Diverge on IPO Timing  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -18,8 +18,17 @@
       "title": "5 Things to Know About OpenAI Before Its IPO - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjlZanRfaW9pc0tQT2l1M2NDWWVXajBFa01KaHp6cXh3T2NrSkxOSVNwb1lVNmExM1pCaWtwNFpfdmhjT2FNeWotbnQ2aVlYZDAwUXJidkxPdWVNeGpKSkxCX2hpZHJqcmQ2cWxHUmlhTzBTMzhpNU1tb0ZBdE1yOElzZWNHZmthcjc4S1F3RE8?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-05T19:48:31+00:00",
+      "publishedAt": "2026-04-05T20:15:16+00:00",
       "summary": "5 Things to Know About OpenAI Before Its IPO  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is Making Microsoft and Ashton Kutcher Incredibly Rich - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXREbW5GS3RxWGF3VFlWMFRNZUtHR0dES2FtU3VnVVdZUGFvR3ZxcjhCbHFvWWNFRHlva2dyZ1dadkRtbllWdExNd1ZIeVlwMndvT2tDNE5FaFpDUDIwMXEyUVZjeDlvc3BJWEJVMHJnQ0NOaFI4cldHLVV6N3VIS1JnZHFTMExfZUJ6SGlyNU1GYTllZEtJN0FqY3I5cXpUU05GYm1R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T20:13:01+00:00",
+      "summary": "OpenAI Is Making Microsoft and Ashton Kutcher Incredibly Rich  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,15 +60,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Claude subscribers will now have to pay extra to use OpenClaw - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVUzVjFlUEVJU284bDI3V0dHUTlYRDF5YlV3OGh5RTdUNmltUFpqVmc5cEpMb29Ccjh2bF9rVzNqZmpoY240ek1BS1RtMXgzS19YTWNxMzNkbzItcE8wcXN0WFZFUTliY1JtMXRHT0piVUZyZ0lWNzNtTkRKNkszcUZhX0Zmc28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T18:03:15+00:00",
-      "summary": "Claude subscribers will now have to pay extra to use OpenClaw  MashableAnthropic says Claude Code subscribers will need to pay extra for OpenClaw usage  TechCrunchAnthropic: You Can’t Use OpenClaw …",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Major Lawsuits Click The Following Internet Page (UeomqPSdJb) - Mshale",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45UEZYZTBHUTFfZVltUnd5SWxjVE1aN3FtOVBNQUhETVVKZGpwd3oxcWhoWGYzREN2XzVVc2hrbVNxTW9uTHlTWFptOWV5VVViczYzQmhhYzlNb0Zfczg3cW11TQ?oc=5",
       "source": "news.google.com",
@@ -85,6 +85,15 @@
       "summary": "OpenAI Codex Moves to API Usage-Based Pricing for All Users  Startup Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic: You Can’t Use OpenClaw With Claude Without Paying Extra - pcmag.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXJQdTRScmxheE9aMVlqZXRrN2dMUktjZ3FrcWRWX2Y2RXV5NWxKa3pLdkJ2RXdnYkFTT3R2Y2FXUVl3cDBxM3MzNjNta2lmSWxOMzRNVWNOVVMtejM4WjVLaGljcGs5VzlaYUpUUjRVbE80YmtQeEJrMm11N2V4d0VUdkxWVVV4enB3dFV3VnpsdHdqZGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T16:44:16+00:00",
+      "summary": "Anthropic: You Can’t Use OpenClaw With Claude Without Paying Extra  pcmag.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenClaw Creator Criticises Anthropic Policy on Third-Party Charges - Analytics Insight",
@@ -132,11 +141,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "AI Superstream: OpenClaw and Friends - O'Reilly Media",
+      "title": "AI Superstream: OpenClaw and Friends - O'Reilly books",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTJHbU1EU0lkcWcwMy0wbENqX2RFWXNNdFdNbVEyb2VCdklRNTNkTE5jT2Q4RzEwZS1WN3B1bWpGWDNmWWNJbjl3TTNaQmNSX2ZCTUdhYlVVc190bFdvb0RseDN5VzdhRldPLTBkM0NfX2c4dDZ0ck5lT01UbF9wTTZNN0NfQVR4YXZlS2I5NA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-05T14:17:44+00:00",
-      "summary": "AI Superstream: OpenClaw and Friends  O'Reilly Media",
+      "summary": "AI Superstream: OpenClaw and Friends  O'Reilly books",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -159,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Just Released Their Best Model Ever (GPT 5.2) [47632d] - fathomjournal.org",
+      "title": "OpenAI Just Released Their Best Model Ever (GPT 5.2) [47632d] - Fathom Journal",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Nd0dVZWtGRWg0cTk3UlZKXzA3X0l6YTE1YTRWYmhMQjlHeXVXZWhlWU5NeS1RNlpnWFJpdFhycmdLdWF5T0J6cENIMWhvRmxfVzBlQTZZRWxfYmlxRzZ0cW12MUtlcUE0d3R4T2hpNy0?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-05T12:51:03+00:00",
-      "summary": "OpenAI Just Released Their Best Model Ever (GPT 5.2) [47632d]  fathomjournal.org",
+      "summary": "OpenAI Just Released Their Best Model Ever (GPT 5.2) [47632d]  Fathom Journal",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-05T05:32:52+00:00",
       "summary": "\"They operate like slot machines\": AI agents are scrambling power users' brains  Axios",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "‘First they copy…’ OpenClaw creator hits back at Anthropic policy charging extra for third-party use - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUIxQ0lmR216NHdibkpQR2ZNS0k0R2pBcDAwam51aWZfQ251N0k2SkJlYk5aOV8yZVBLUDJsMFFWMzR1aWt4M1FQYVJHZUJHYXBUR2pLSVgwSy1HVzd6QlJQVnBJb2p3U2w5djdjRnJwUjdIaEUtRUNDVVoxUUVnR0NYV3ByZktSMnQ5a3hxNUpFcXFzYURoYXZZUHNoMzNfeW5NMEY3a0lpWGJiMi1zNmpSOWpuc0d0SUhYbWJ3elVRVkN2TDh5Y2tVUzU2SHpXQ2lLNnd1NNIB3gFBVV95cUxQNzcxSFBrNW5ZQkdiQzQtQkFZVTExSnFidU1HbWJCcUF2RFp0ajhScXVuRXItc25jdW50Y3NiMTF1YjRjVGZxbDBPYW5PdWVqakJZd3JrVmFrazFiY1g0emd4YlA3VUpHTlVIdHpXXzBrNHJtTkdYQ043Z2NvX1hjTHowOUM2bmQtMGI3dzgxTkF5UEd1Qzl0SUJNbndwaUppLVRraGx1aVBFZFY3cDJIckNrb3E1WDR3RVJoZHZXVEFJdU9BWkQzVnFNcUlydmVaUW9rSk9XWTNiY21oUkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T04:40:35+00:00",
-      "summary": "‘First they copy…’ OpenClaw creator hits back at Anthropic policy charging extra for third-party use  The Indian Express",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
