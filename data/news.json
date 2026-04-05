@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-04-05T13:19:05.990744+00:00",
+  "generatedAt": "2026-04-05T14:02:30.212422+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Is Bleeding Cash. Its Solution? Military Contracts. - Jacobin",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SSkVHUnRYV2ZBcUc5VW5EMXNqR2x6ZDhjbUtIWFRoTHR4blpxODVBSEV3ODZmRm80Vmx6MXg2ckMwUkdnSUJPbkkwNThiU1BKUkFETnNWb1Yxd2Q0ak1fckV1TWcxYTBRdjkzVVJKRHpGRVhiOWRNZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T13:51:03+00:00",
+      "summary": "OpenAI Is Bleeding Cash. Its Solution? Military Contracts.  Jacobin",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Just Released Their Best Model Ever (GPT 5.2) [47632d] - Fathom Journal",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Nd0dVZWtGRWg0cTk3UlZKXzA3X0l6YTE1YTRWYmhMQjlHeXVXZWhlWU5NeS1RNlpnWFJpdFhycmdLdWF5T0J6cENIMWhvRmxfVzBlQTZZRWxfYmlxRzZ0cW12MUtlcUE0d3R4T2hpNy0?oc=5",
@@ -15,11 +24,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Fidji Simo Takes Medical Leave as Brockman Steps In - techbuzz.ai",
+      "title": "OpenAI's Fidji Simo Takes Medical Leave as Brockman Steps In - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUl9uSEEtb0lmR1NWRXY1WC1tUEpSRG93VHRKa2M3TnlwSHBRNWRrWWtzMUFTRHFrY04ydXV6LVFoSEVCcVU2V3hXVVdCd2p4VFo5Y1BiSlI5dUxTV2JjaHFxZVpzZ1pSaHRRRUgtR0VSRjhQQXV1cmlRWE9JMy1pcDlSV1hVLXlrdXVmcjVTX2JKc2FRc2hlSA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-05T11:08:00+00:00",
-      "summary": "OpenAI's Fidji Simo Takes Medical Leave as Brockman Steps In  techbuzz.ai",
+      "summary": "OpenAI's Fidji Simo Takes Medical Leave as Brockman Steps In  The Tech Buzz",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -31,6 +40,15 @@
       "summary": "China’s rigid corporate culture slows AI adoption, ex-OpenAI executive says  South China Morning Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw Just Got Banned by Anthropic Heres Why - Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jREFNX1ZTc0VhUzFxMU9DOXlFTDZVcEI5NWwzTW13Zzc1eDlFQUNfRTFyN1BWSm56Q2JvN1ZGeVR0Q3h1R0RYVmdHSUk0ZlcwVG5QS0R0MDFVcDAyVnQw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T10:02:18+00:00",
+      "summary": "OpenClaw Just Got Banned by Anthropic Heres Why  Geeky Gadgets",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "Claude Subscriptions Will No Longer Cover Usage On 'Third-Party Tools'—Anthropic Cuts OpenClaw Access Ami - Benzinga",
@@ -60,15 +78,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Quote of the day by OpenAI CEO Sam Altman: “Outcomes are what count; don’t let good process excuse bad re - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPYnQ5UnVyQ2lDQUV2LWI0RGp5R0FoaFUtdkNMem1WS1FzUVpnN0hmYTI2MDlLVHFyRWFYN0laTEJkb0RSa2VmSi1CYnI2MGFwdWhmNmlFckhlLXdFMGhQQkdVYU1JZksyXzJIRVY4R2Iwam52R2JIVmVrTXBLTTNyQmhmZDAxOGRJVHR2OWtnN1lKMm9Wd3hpbG5iclEwLXoyX2ZYa2t4ejZhbGZrTllPLTg0cEJ2NHBlSzRiVURJR2hWTmE4eFFqZVI1WVVwdml5NDRNUHNCSFhMb0o2TldLZWhvOGllMVhxTnpiemhnc3ltTVhib0VsbzUyYXZHY1EzSUkxYWtHNTZIeW9vT1VwYlptekFONnYz0gGeAkFVX3lxTE8zS1JHYXpaMHFiUDBwSFdyUjJLbFVTQ2VvMExRSDY0NHJscG5GYW5LUVFEWWlsOEtsb2pHMFBIR0Q3MmtOQzhCYzBDbnI1ekk4bnh3a2ZNZGJfUlJjS1lZTEFVUXBydXRnMTF5S0dzUXF5YUVrNmsxVVRJRFItSVNDcEhDWmtaemw2QUpiRnNEQ09zQkNxalJsSGt6amx1d2dGR3h0MkY0NXN3bXJsa0tURjhEQ1RWbi1DUDVtYndfSFVJMzRmMFFvLU5ZZUxwZE9uSjNzUlQ5OTN6aFpaZDRKRWVpcmw1NGtWMnhmLXFNR2ZuUHN1TWdreHRYY2NlVnlHQXc3STg0OHcyLWZZMDU2NmpvY05raGVCYWlqTnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T02:08:00+00:00",
-      "summary": "Quote of the day by OpenAI CEO Sam Altman: “Outcomes are what count; don’t let good process excuse bad re  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Tech Expansion in Bellevue: Snap, Zoom and OpenAI Fuel Office Market Growth - Downtown Bellevue Network",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHp3eVpZXzVaV1pSclNsSWRiRTFOR1dWSE1JMkI5Y1hSaDllTTZQZ3NnUXVNNlhCX3Zxbl9VNEhXOUdlUVdnOFpzYkNIaG9US3lrNk5LdldxclFSLVVWR3V5Ul9Kckt4VXJfUmsxLTZLckdMMUdGcWc1Zlk4RjBzeEhRWEkwbzNid3R6WjRHbXJCTDdGWFpwVWpHZ1NYWWh2d3gxZF9NSkt4T00?oc=5",
       "source": "news.google.com",
@@ -76,6 +85,15 @@
       "summary": "Tech Expansion in Bellevue: Snap, Zoom and OpenAI Fuel Office Market Growth  Downtown Bellevue Network",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "\"They operate like slot machines\": AI agents are scrambling power users' brains - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckR1RW50OFowUG9zQTNBeXU4R19MM0xzU08tTEdCLWVnbHFST0dqSUVuZGdIZWctOUprMW5DeXdoNVZhUkx5dkNLOHFuRnBBVzJXdzdsT1dqWEdHTWxSblo0bDNWUzRVRG9LZEFXNW5ZbEo2a09UV2pfc1IyQzR2ZWd6VzN1bUhK?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-04T23:32:14+00:00",
+      "summary": "\"They operate like slot machines\": AI agents are scrambling power users' brains  Axios",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "Anthropic says Claude subscriptions will no longer support OpenClaw because it puts an 'outsized strain' on systems - MSN",
@@ -96,17 +114,8 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "\"They operate like slot machines\": AI agents are scrambling power users' brains - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckR1RW50OFowUG9zQTNBeXU4R19MM0xzU08tTEdCLWVnbHFST0dqSUVuZGdIZWctOUprMW5DeXdoNVZhUkx5dkNLOHFuRnBBVzJXdzdsT1dqWEdHTWxSblo0bDNWUzRVRG9LZEFXNW5ZbEo2a09UV2pfc1IyQzR2ZWd6VzN1bUhK?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T20:33:20+00:00",
-      "summary": "\"They operate like slot machines\": AI agents are scrambling power users' brains  Axios",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNb29DMEFvTy03Wmw0Y0ZudmlvZ1E2MldydXdmcE91Ui1ad1NtZGlXR1pYeUwwY2NScTRpdEZOdXJmWjJCXzlNY1BSMl9JY1dYZEttV1JQUFFVbzUtZXFkcG10QmRfQmoxZl85VTJMTWVmcm1zRFV1c3kzMnA1M1RMNHlkWjR0WUlYNDVBU19TSWhRSURsWTNxRG1YV1RGY1NSTUNlVjA2VTZKVHZuc05vLUNVdDZzNm5RbzhlWU1Ha2J1SVVsNXZvTzdmbW4yRUd4R1k1YmRvX3l3dlI2NThKSHJyN0J6RHZCT2llRGNXVXlrd3liLXUzaEw4Y1RDUGdFZFRiT2VrNWg2Sjdtb3JnaHdxOVVhUWxkNFdyYXdCSDl3V180emM2SXdJOGtleVlLdFhRc3VXM29tSmNyaW9QSmhuV2JBUWR3bXVPM3NGemhHZnkxajNpVTU0Q2t2Z3hLYlN5b083c3Q4djZ1WmZFanZxMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPaUNBNTY0bnUzdE1JbEVRV1JhMTJUYmFDcEk0ZVZqZnhWZ1RWSFFTZzA5VUM0VzlBN040UTFlb1JGU0VBOWlLLXRnS1hJTGNVaHUzWnNTYXU2cERHRHNSLVdNakF0N0NrUi13VWF3dGF1MFBQRW0wTlVtdU9UY3VYREpQdlJXT29MUFhydmh2bnFEdWJ1dVRKcnhrMEtRdjgySGZ2TkpIb3JjakhjV3p1NlNCUXZSTXhFTy03YXVXRkJGNWFxb1NuV2NSR1RqcnBBT2FQLWN0SWtVRDZDUzNITy1vbTBoM1Z5RGllSTNGaGRGdFRheU50cWwtTHd5SVdWUkk3VVpXZmczZWpfMFp2YlRDczY2YUljNlFaWVpCQk9OY2Q3NUM5ZURPekRkMWZaYTAycGQ4cmkxSmZxSFMyZnBhWTk0TjJTZmpTTU1FbDdSVFMxRy1BN3VCa01CbkFRWjJxUGVVdDdzUkNsczBHSFlpOA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T20:07:00+00:00",
       "summary": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal  Barron's",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-04T15:04:44+00:00",
       "summary": "OpenAI Reshuffles Leadership Roles to Support AI Growth and Strategic Execution  AI Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "3 reasons OpenAI buying daily tech show TBPN for hundreds of millions isn’t totally crazy - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEhwdEpkTmFSM283WHVzRUpvVkRPSUpCVTdHTWVVWVIwbmh6S0VTSFRxZVlBVXM5U1p1d1ZFV2drRmJOeUM2b0J2a1g3T2JVSXMzYVZDdG96cnYtRU5MUU5OdkVsaFVpOXZWSjJvZFg4YmpUbXRtZkFhNzJDd25DZVlPYUVqZER3N1VhWm1MX3p2N0VvbXlNOS02bG93ZGVjMDh3MHhJNW0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T14:15:00+00:00",
-      "summary": "3 reasons OpenAI buying daily tech show TBPN for hundreds of millions isn’t totally crazy  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
