@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T09:53:44.243884+00:00",
+  "generatedAt": "2026-04-05T10:29:12.825470+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-05T08:20:38+00:00",
       "summary": "Anthropic blocks OpenClaw: costs rise 50x for users | tbreak  Tbreak Media",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenClaw Just Got Banned by Anthropic Heres Why - Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jREFNX1ZTc0VhUzFxMU9DOXlFTDZVcEI5NWwzTW13Zzc1eDlFQUNfRTFyN1BWSm56Q2JvN1ZGeVR0Q3h1R0RYVmdHSUk0ZlcwVG5QS0R0MDFVcDAyVnQw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T08:01:58+00:00",
+      "summary": "OpenClaw Just Got Banned by Anthropic Heres Why  Geeky Gadgets",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -79,7 +88,7 @@
     },
     {
       "title": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPWEhqenFPTFU0NXhUc1Uzc0hnMVJzcGRCdTQwRHNRZFJpT1JqOTJhd19LWUN3RDQ4RDR1WS1CdUVONmpJQlhWSHViaExBT2FzM2xYQTlXT09hbWNlaEJVQnFORkx0d3RETkFjR1U2X1VfUnFjYXpVYXB1cEZNU3J1UDN1SERCbllzNjZKUG5zMlhvbmlONnRNY2ZmYzROcnNBVUE4czIxYW1jLURpNUpKOFVNdG9PUjN1LUNhUTBHaG5jdVFTR0VLRjkxdFA3X1lkOFpLbS0xbmIxZXREY0J4T0haeWkybjN5UkVhb0g3bUplVkhHVGVha3g3RDk1Xzhkdk9yN0VobEdnZUFRVnhpX3RERG1RNXQtYmJyTXY3ZHNQamFsS1REcmNSUEp6aHpYcTBpZm1maG9SNjl3bk9KY0V3bXhoeVIzTTFrcEp6UW81S2ozN2NEMHZBNW5EUUxPUE5aTGRQYlk2RzF0TFhJc0dIdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNZGlrT2NXNnBNbjM4MkNqUFhtUDU5M0IyQ2FyRWhxZ3l2RXlSZ3ctVlNnSF9vbkpGVXB0YVNBSWlma1UtcVFuM05KY0xkNm0weGZiMFBKUm9YMlVYSDN0b20wOXJibnNMQXg4Q2tMcVlFeE9uaUxUb01CUmVaXzJCMDhZV3piNFF4WmxnYWhwVmQybDV4QVgxaEd6ZlNnaWdQeDNGNEVxNmtiT2t1bzg5aS1fa1JxcjNUcEo3aW5yNndTS2dhM241a3BXVnVXaGJ2UXhoSV9pV3Z2Tk81UTlxZVZZUlBhaml2dlBwdTVUV2ZiWWNfeTB1cFhpa0w2bUxkNG9oZ0s3Z0F6NXJoX2FhU2VleWhRS2FGdlh0OGZId2N2RnhtaTFlYXQ1M0pITGhkMkZlYTVlZDg5a1hNUEtYRjY4YUMwWC1VX1BDa2Y2eVF5eHR2UHlsc05RWEdsa2JQLXJxZF9QajlTR3RKRkhFVW5kNA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T20:07:00+00:00",
       "summary": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal  Barron's",
@@ -96,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race - siliconcanals.com",
+      "title": "$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race - Silicon Canals",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEtjTjV0U0MzVVNtcE0tMmVJMFhpdnVkLUJRbDNrRXBXZmtWNjZoVU9lUDVEOGcxZVZrTFVkZHlnNndmYnVsd0VOTm5vdUpacmlweC1fTk90RW1SZk1SejliOC1XcnBYTy1OQmd1YXE3VmlmOUdESTZfRFRxaDJ4a1IwZEtKdnIyNW50U0ZzR3E4YVp2UnU2am5vb2UxNm5uVFdJTTF4UFN2emo5VVc2Vk15cEZpbXdQR2hSV0Fadw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T19:05:38+00:00",
-      "summary": "$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race  siliconcanals.com",
+      "summary": "$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race  Silicon Canals",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -136,7 +145,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakxlX1lJUklzd3JYNkp4Q2NGZlFPZ3NhcmVKYUJYcGprR3dxWWtYMUFrV0VXc1Yta1BNSUR5ZVEtZjdWY2hGeFRQZVNWeVhCX2RHeGtIY2k0ZVVRM1VmMlh2bFZjOWgwTTY2OXlSNTRGOHVNMGhiUkhoUnVHdGx3SHRlQ0Z1aWoyOUNDLXl2VXdMTXdldTVrZzFKSFhnMXJHTXZGXzItU1NnMnZ0aVl3UWp4eWxWRmdL?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T16:32:22+00:00",
-      "summary": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage  TechCrunchAnthropic essentially bans OpenClaw from Claude by making subscribers pay extra  The VergeIt's no longer …",
+      "summary": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage  TechCrunchAnthropic essentially bans OpenClaw from Claude by making subscribers pay extra  theverge.comIt's no long…",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-04T14:00:00+00:00",
       "summary": "Walmart revamps a checkout option for shoppers  AL.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Real Reason OpenAI Shut Sora Down Is a Warning to Every AI Startup - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHdYODFyM2g2eWl3bDc0VUVJTTNEaWtvZmlzMjg0RUhvcWp6c1liaGpzc1VuNXh6TU9JMHdGMW14aDl4bm5yM3ljcWZvNFRYRG1UR0ZSYnlaZVRtMWRwMTcwekxTV09md3I4MmQ5ME8wY0tLN1NjNlVLSEx0YjlFVFJNVGM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T13:45:00+00:00",
-      "summary": "The Real Reason OpenAI Shut Sora Down Is a Warning to Every AI Startup  Futurism",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
