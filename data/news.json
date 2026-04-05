@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-04-05T18:21:27.771126+00:00",
+  "generatedAt": "2026-04-05T19:08:52.974908+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Nonprofit Research Groups Disturbed to Learn That OpenAI Has Secretly Been Funding Their Work - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRmNYc0wydjB6d0hDWUM1UHVCbFlwX1VCMm9ScGJhZ1JqcGFRQmdibGlZbU5Fc2U1d0N6elRDeWl5Q2JfTjZHQkRFZ3Uxb2lUX3BmN1dqdkpJdVV1MlBpLWowSWZfZm1DdGl4NmRnVjE2TlZnQzYzeWJuQ3JuU1k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T18:45:00+00:00",
+      "summary": "Nonprofit Research Groups Disturbed to Learn That OpenAI Has Secretly Been Funding Their Work  Futurism",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Secures $122 Billion Funding Round - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRWxtdk9qRjlUcUd0QXFYSTdFNHV3UnMxajFWRVRwMDl4Qnk0aWUyZ1VMY0ctX0tMX2ZSYmlyM19BVmlJanZLc2J6bzg3X2p2dGs5MnltNi1qTm85c2h5d2FqbDd1ODIwc0dQX3JmR1VLQ2pWeG9oV1lvQ1pmT0c4WXMwcGdZWkRnM0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T18:12:51+00:00",
+      "summary": "OpenAI Secures $122 Billion Funding Round  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmowaTBXMjF3d3Fzd1dXTDhVbXVJeDJ1SUNpSWp4TWVWU19xdFBRR0V1YW9jMDNKa043WVl2WE5jbWxFSzVOU2xwVGcwZkFJbkd4ZnZOb3BNUlJpckhCNzREUDd5LTZrd1R5cVF3TWw3dzB5bDFMWmxZc3JVM0d5bzM1NWxqbFlBeUgtMm5sbEtpUmdiUVZlTE8zX3RPZmx4ZmVlbko5X1VnU0NhaEE?oc=5",
@@ -69,11 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "This Week’s Top Five Stories in Technology - technologymagazine.com",
+      "title": "This Week’s Top Five Stories in Technology - Technology Magazine",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLTQ0Vl9iN013YVhYanZfeHVrNXZMaUlrRHdiVmV4dlpPenVrQ2lvVHFTY2JJTzZqZHJSdmU4elU3LTVrQ3hETm5ZVmhoaGk4WTJ1VW1SUzZmemZNbmwySU1Wa0hIcm4tNjh0alViR3VYZHlaU3JWREZ5cjA4ZHFOckhRcVRPQjM4WWo4a2NZQzdiVFd6?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-05T14:41:24+00:00",
-      "summary": "This Week’s Top Five Stories in Technology  technologymagazine.com",
+      "summary": "This Week’s Top Five Stories in Technology  Technology Magazine",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-05T14:21:00+00:00",
       "summary": "Anthropic Adjusts Claude Code Policy for External Tools | 2026 Update - News and Statistics  indexbox.io",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "AI Superstream: OpenClaw and Friends - O'Reilly Media",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTJHbU1EU0lkcWcwMy0wbENqX2RFWXNNdFdNbVEyb2VCdklRNTNkTE5jT2Q4RzEwZS1WN3B1bWpGWDNmWWNJbjl3TTNaQmNSX2ZCTUdhYlVVc190bFdvb0RseDN5VzdhRldPLTBkM0NfX2c4dDZ0ck5lT01UbF9wTTZNN0NfQVR4YXZlS2I5NA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T14:17:44+00:00",
+      "summary": "AI Superstream: OpenClaw and Friends  O'Reilly Media",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -159,15 +186,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Microsoft is on a new AI journey after reworked OpenAI deal - Mint",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWUyb0hmNHVPMUdpdnNJbU5OMmsyQmdCa0lUYkxrc1ZFV003ZTNkWXpfeEk4VFhBVEVxOG1EWUJhN1NlU3BCNnJacFhOTl9Dd3Riay1Ld3VJSEN4N29BVE1MM01vUG9jMXRTbnZsdWZ5R1BFUlB0Y1Y3NnNhcHFieHB4X3d0NTdXdjJuTVhsbGo5WklfRnpiZlpvOWZBRDJiS3lBMmFwVVVGTDZKR29yQklINHrSAboBQVVfeXFMUEdVUHdfYmZ3Y0ZkMVp1Tk9nc2FoNjBhMjBBOEFXSXZsODY2MXRQaTdGZ1JKMGJ6eXUxMGV3VjNBOWNsUWlqQlVRdDVsZ19BeW84LWlUNm9sa1Fza0pmTVFBekhPcHhqZWhSNnZvdy1TMHdlQW9YQVQ1aGhaX3k5b3BWcGRNd0JTem9RNGo4Uk5FSFU0c1I5RGZ2T1VBcnE2NVA0RG1iQkhYQlJXc05TM0gxMkFiQVBfVEtB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T05:00:57+00:00",
-      "summary": "Microsoft is on a new AI journey after reworked OpenAI deal  Mint",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "‘First they copy…’ OpenClaw creator hits back at Anthropic policy charging extra for third-party use - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUIxQ0lmR216NHdibkpQR2ZNS0k0R2pBcDAwam51aWZfQ251N0k2SkJlYk5aOV8yZVBLUDJsMFFWMzR1aWt4M1FQYVJHZUJHYXBUR2pLSVgwSy1HVzd6QlJQVnBJb2p3U2w5djdjRnJwUjdIaEUtRUNDVVoxUUVnR0NYV3ByZktSMnQ5a3hxNUpFcXFzYURoYXZZUHNoMzNfeW5NMEY3a0lpWGJiMi1zNmpSOWpuc0d0SUhYbWJ3elVRVkN2TDh5Y2tVUzU2SHpXQ2lLNnd1NNIB3gFBVV95cUxQNzcxSFBrNW5ZQkdiQzQtQkFZVTExSnFidU1HbWJCcUF2RFp0ajhScXVuRXItc25jdW50Y3NiMTF1YjRjVGZxbDBPYW5PdWVqakJZd3JrVmFrazFiY1g0emd4YlA3VUpHTlVIdHpXXzBrNHJtTkdYQ043Z2NvX1hjTHowOUM2bmQtMGI3dzgxTkF5UEd1Qzl0SUJNbndwaUppLVRraGx1aVBFZFY3cDJIckNrb3E1WDR3RVJoZHZXVEFJdU9BWkQzVnFNcUlydmVaUW9rSk9XWTNiY21oUkE?oc=5",
       "source": "news.google.com",
@@ -186,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Tech Expansion in Bellevue: Snap, Zoom and OpenAI Fuel Office Market Growth - Downtown Bellevue Network",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHp3eVpZXzVaV1pSclNsSWRiRTFOR1dWSE1JMkI5Y1hSaDllTTZQZ3NnUXVNNlhCX3Zxbl9VNEhXOUdlUVdnOFpzYkNIaG9US3lrNk5LdldxclFSLVVWR3V5Ul9Kckt4VXJfUmsxLTZLckdMMUdGcWc1Zlk4RjBzeEhRWEkwbzNid3R6WjRHbXJCTDdGWFpwVWpHZ1NYWWh2d3gxZF9NSkt4T00?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T01:26:45+00:00",
-      "summary": "Tech Expansion in Bellevue: Snap, Zoom and OpenAI Fuel Office Market Growth  Downtown Bellevue Network",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Killed Sora: Is The Bubble Bursting? - Medium",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnJNZ3FZRjJuVnd1MjM2VjJ4WC1QQk5SZi04QjhqM3Z1N3VLU0xhbE5DU2ZkNUpOWW1SUU5ackpybl92bExEM3FyZ2lJRkhEM3BMeUZaZ2xQdHJFWHZsTGl0ZmhpMGp2Q2xQT1NwRy1jck5OQk5WUkI1ZXYxZmpOckNuQXhfWTVSaHc?oc=5",
       "source": "news.google.com",
@@ -205,19 +214,10 @@
     },
     {
       "title": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNZHJ0R241U0d5Ri00UnE2MUJiNFlpMWtCaklPNzNVTzU2SjZmdVJvM3JjbzR1OVY4NldIZjY5cTk1TlVnSWlyUmdtZXEzdm9JMjM2aUg0aEtwX3hhbmVXMEdfY19JZy1BSWNYbFJyMzl2Q21uRnB6LXVNQTBmY3JYSmJKcnlwemc0c1pGLTZOQndWaE55RGtaSjdmSzY0RG5xNXAwMVlEOE5LbXlocWxqamlxWFFPeWJNUTJnQ1BJTlZRWEdwSDBiN3dnOXRIY2d1R0RySzNyNW1uTmQxZmktVUVJaWttNFBKXzJnT2hGZFppa0ZrSk5OOVhLYkg3bkZKQkR6VGV6Q1FpQVc1aGljeXB0Mzd6ZHVYZWlLYTlvZy1HQ3ZRR1JwZmZveGVydVB5RjNWZUExMGhNWkE3b2N3bzIyMVNFOUVrTzBtU2ZuWWtoS3YzUHRwYTUwVlpFZF84dlU2eVRTeTlYcVhvNldzNlpmNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQMFo5dEpvZmN1bHR0VFRVVXVZcUpxMTJLcTZ5Q0ViTEJDT3JvdlQwdk5yb05EbDFTYklJLTlpV0FVVnlESzA4NWFYSm1aZVpoa3JQajBYMEVua1hmX3RVZ3I4T1lYV09sbFFSbGQyS0h5STNuV0VNUmNCZUU0dUkzNzhlWDhtcFpOdWxhYjZYUHhubmZpMXF5enQtNlcxM1FLWmE5VmNCc0laRXJVSVZ2LWI3UFhnZDZPc0lRWWZoNmJ6LWhucG9CZ25oaEEwRHg1NjJJaEZXNE5pbFB4UzZpaTJLUzhjQVFncWZqWlBHVi1mOEpWcHNIS1lsQXloVG1Rdl90VjBkOEFMVXh0YjREWm9wM3paM1NhYVlpeDVhWmVTLUZaSGJQQm1ndFJ3NnhMaE01VWR0aFdnX1IxNnNVbkhJUFo1TTd5SEtuT3VBUWVROFA3bTlJUGNhb09uNjZ5TzlYajFvbTd1MVJTdkJQZV9rdw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T20:07:00+00:00",
       "summary": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "POTS explained: The disorder that led OpenAI exec Fidji Simo to take medical leave - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQklzZVhvZ1pDVVg4dldMaXFWbXpkLUY5M3RXNEFBaktjRFRiN3BJMjVJSTZiV2Q0MExJVTg3QzFIMkQ1Q2Y3N2dGT2hPRjhsaTNVLWNlQjN6Ymc5QkdySDFQN3JmVEE0dVZjM3Z1M0VmbnJJNnJYLW5oRnRCRm44X3U4SGxQTnkzTG1rX2d6NlBaSHZpM0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T19:05:00+00:00",
-      "summary": "POTS explained: The disorder that led OpenAI exec Fidji Simo to take medical leave  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
