@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-04-05T16:20:08.683907+00:00",
+  "generatedAt": "2026-04-05T17:01:20.723715+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Codex Moves to API Usage-Based Pricing for All Users - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOHdoVHUwQnprb3FlSExzTHVLTGlidVMxV1lvb1p4SEo5djl5RUU1dnItQmhhdU1PWS03NGlpZ1Jua0tRSGRscTJ6S3JRUGFjM0p6TlNtSXlMTGNqTVlydGQ4c05PcnFJb2RmVnZmRFlIcWVvdF9wNV8tUmVqUmpmcUE0Ry14eEpZcUd4Q0txZ1Q?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T16:50:16+00:00",
+      "summary": "OpenAI Codex Moves to API Usage-Based Pricing for All Users  Startup Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic: You Can’t Use OpenClaw With Claude Without Paying Extra - me.pcmag.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkRsVEFnenBXY29yYjI4WHRKZElwakdZakVlalQ3dUl2ZG03M2syNU41b292cGxNMmNLMW1oLWZYT3BDSmllaHNaV3YwVDhIQlpsdWlCVGdYT1Y1NVJDdlh6QTYwUkJzOUJTalpwQWtKWFczUE94TnB1X0xRenp6M2oweWlydFVzZkQtWDJhQzl6YXRLYVZjNk44R0trdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T16:43:52+00:00",
+      "summary": "Anthropic: You Can’t Use OpenClaw With Claude Without Paying Extra  me.pcmag.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Anthropic Restricts Claude Agent Access Amid AI Automation Boom in Crypto - Bitcoin.com News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkN0TnRFcWViSHJ4YXplbGpybW5vVlhyZlFwSUZsS0Jab3hGWWptaGV5RmgzTEZINHVHZl9wb1N2ZC05YTRCRElGM1Z3ZzhEZF9hbmtSaWNiOGRlbWVFYXp2Wi1NaE42SzhJRk5OUnd6R2V1YU9PT1V0aUhWOTlYQ0hnazcyQmU2U2VOUE04cE92TjZXbjhLMUtnTEE0Uy13?oc=5",
@@ -150,15 +168,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "\"They operate like slot machines\": AI agents are scrambling power users' brains - axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckR1RW50OFowUG9zQTNBeXU4R19MM0xzU08tTEdCLWVnbHFST0dqSUVuZGdIZWctOUprMW5DeXdoNVZhUkx5dkNLOHFuRnBBVzJXdzdsT1dqWEdHTWxSblo0bDNWUzRVRG9LZEFXNW5ZbEo2a09UV2pfc1IyQzR2ZWd6VzN1bUhK?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T23:32:14+00:00",
-      "summary": "\"They operate like slot machines\": AI agents are scrambling power users' brains  axios.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "Anthropic says Claude subscriptions will no longer support OpenClaw because it puts an 'outsized strain' on systems - MSN",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcHJibi0xMHROcnF6YUJ4NWtiRDR6dkJJX2YxNWRfc3VaQWhrSU5TczZvX0JYSDhtYUVVSEswTmtTcjZHVzVvdHVlajJtYVJzNGZITWN1ZUJmTUtCM2VhUF9zT3d5ZlZBZ0p2S09NUDExVW5vaGN2TjI0dGI1SVRDN29IRDJjNE5aNEt1ekdzOUM3N3VzX2huWDdqUUtqMzBDU1NZWFVOenBmYnVmUmk3dmdEOC16S0J3NWt3RWNUT2lna0ctbzFmX25CTDZqb0ZXbEgzZ2YwVXI0cnJUV19iRW41RTkya0NBQlJXYjZsYWFoM0RwLUNJYVFjY0JCMHdpYURnWXlTYUhQaGwtdjRkV1JqZEhKNWxr?oc=5",
       "source": "news.google.com",
@@ -178,7 +187,7 @@
     },
     {
       "title": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOLTlsTUJ1dXNnbFFCWXh2eG8yUDBKa0VtWC1NRl8wT2F0Q1NGb2RtelV3THFCLWhUUnRNYXlpeW01RFU2dW95cW5uVHVFUlY2WEVmVGlGM2FibWNJeHZqdGNRLXdQd0JKOFBhZzdlN011dDhPSWxGbUdFQnNzN0lTeHFOaVNldlA5MVdEbHNlYTlEdHJlSUdjOERtNG9pTEFadFhOVXV0WVlia1Y0OHg4R2xSVkk2NVNRUnYwSURrdDlfQVVMNFFESGJPWVo0LUp3Q21HdTdSSzJwYi1sTG93aHlZWU9Xd3BtT3Y3RHlNTm9IWWM5TGMydTk3bzZjZmdBbjJqVGZhTHJ6U0h2LXZzSV9CU2lJcDI1ODB0VUh6cHdRRHNGT2xGU04tVHc3WjZGdW01VDJDcGdFNmVISGlhMC1Pai1XeHd6U0lWUWlTOHgtNnZ4akJuUllvWmwtOGl1LU5PTTR4RTZIbnRoVFBKdkFJbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNS1QwZzNrd0xJTXpTeVdBYzlQNi1yYTB5Z0VEUmY4Z3pEZHkyeFo5aGZLU1lZZURYdjBVbXlRRXNmMHZZM0o3M09iQTdTVl9RdWgxd2JxZFE4OGM1aVBIdDdrUVJ2enc4SGtXOXNiYk5rSmJaV1NHblhJbW9zSUZvbExvNmdPOGVRUm5HM0RnTVk4WHUzajU2NEJIb2xkM09wWkp5czR5emc2b2g4QlRKZnprRzdYanM0OTlhQ0pFUkdTbkZvMlpoUXB3OG9EbGtfQ2pQVjkwTFNrRGdOX0xlcXFnUEg2bV9sT05CT1hGb2NZaUdnWEk2b1dRRjFnZXc0WGxjeld1XzdLaGhsWkNSVFFTandPNm5MeEtKQ3hqQ1RBRWx1RVl0UE42OW9XeHpQMVhLRDdnSXBYZ242XzZBcTMzOHFucW9RWWpMQlA2aXgtY2doeDAxVDZhcXc3SjJFMm5CazlOOG5kalVPNDUwRVRuVQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T20:07:00+00:00",
       "summary": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal  Barron's",
@@ -211,15 +220,6 @@
       "summary": "OpenAI Buys TBPN Talk Show: AI Giant's Move into Media Ownership - News and Statistics  IndexBox",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakxlX1lJUklzd3JYNkp4Q2NGZlFPZ3NhcmVKYUJYcGprR3dxWWtYMUFrV0VXc1Yta1BNSUR5ZVEtZjdWY2hGeFRQZVNWeVhCX2RHeGtIY2k0ZVVRM1VmMlh2bFZjOWgwTTY2OXlSNTRGOHVNMGhiUkhoUnVHdGx3SHRlQ0Z1aWoyOUNDLXl2VXdMTXdldTVrZzFKSFhnMXJHTXZGXzItU1NnMnZ0aVl3UWp4eWxWRmdL?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-04T16:32:22+00:00",
-      "summary": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage  TechCrunchAnthropic essentially bans OpenClaw from Claude by making subscribers pay extra  The VergeAnthropic cuts …",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
