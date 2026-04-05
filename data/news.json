@@ -1,16 +1,25 @@
 {
-  "generatedAt": "2026-04-05T12:01:32.571879+00:00",
+  "generatedAt": "2026-04-05T13:19:05.990744+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI's Fidji Simo Takes Medical Leave as Brockman Steps In - The Tech Buzz",
+      "title": "OpenAI Just Released Their Best Model Ever (GPT 5.2) [47632d] - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Nd0dVZWtGRWg0cTk3UlZKXzA3X0l6YTE1YTRWYmhMQjlHeXVXZWhlWU5NeS1RNlpnWFJpdFhycmdLdWF5T0J6cENIMWhvRmxfVzBlQTZZRWxfYmlxRzZ0cW12MUtlcUE0d3R4T2hpNy0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T12:51:03+00:00",
+      "summary": "OpenAI Just Released Their Best Model Ever (GPT 5.2) [47632d]  Fathom Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Fidji Simo Takes Medical Leave as Brockman Steps In - techbuzz.ai",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUl9uSEEtb0lmR1NWRXY1WC1tUEpSRG93VHRKa2M3TnlwSHBRNWRrWWtzMUFTRHFrY04ydXV6LVFoSEVCcVU2V3hXVVdCd2p4VFo5Y1BiSlI5dUxTV2JjaHFxZVpzZ1pSaHRRRUgtR0VSRjhQQXV1cmlRWE9JMy1pcDlSV1hVLXlrdXVmcjVTX2JKc2FRc2hlSA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-05T11:08:00+00:00",
-      "summary": "OpenAI's Fidji Simo Takes Medical Leave as Brockman Steps In  The Tech Buzz",
+      "summary": "OpenAI's Fidji Simo Takes Medical Leave as Brockman Steps In  techbuzz.ai",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -22,15 +31,6 @@
       "summary": "China’s rigid corporate culture slows AI adoption, ex-OpenAI executive says  South China Morning Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic blocks OpenClaw: costs rise 50x for users | tbreak - Tbreak Media",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwb28yejZKR0xOdHN6RWZ4N0hmekJjWFZGQ0RNSzZjZ1pzbm82Ty00ajdlNUNjaWd2Qml0elJ5UVc5ZE0ybXVtNWpZVDB4d2VkVnd3V3AyQ1o3TTVmelpZREVBbTRCV2dZNXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T08:20:38+00:00",
-      "summary": "Anthropic blocks OpenClaw: costs rise 50x for users | tbreak  Tbreak Media",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "Claude Subscriptions Will No Longer Cover Usage On 'Third-Party Tools'—Anthropic Cuts OpenClaw Access Ami - Benzinga",
@@ -105,20 +105,20 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal - barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQanhBQlhERWtwM1FuTk8tVDZ4UkFXQ3pFU3ltRTJjcHJKZmhlUVhtbzltRUNQODdNdmYzOV9HMzNhaTNhMzFSc244czVyb0VEM3dJRjlzT0duOXQ1cnpXeE1zOHlHMkdLeTNSVXVNUC16QmtEN0dUallub0JKNTBMdXRLbnBzYTh3ZDFoM3VpdVVzdzRsTGJZaVg0dTlPZVRwZUNkUmlQUi1VdDA5LS1Ddk83VjBIaGd1c2ZZd0hUZ29SS1BxcExBVl8yMXdNamI5Uk1XZ3dHaFM5aHNOVWhYSFpZY29wMWdiTmxFbW1mcjNmYmFYamlUQ2JaRFZLdDVUUnl4TDNNa09ibGE1d1RGLU5ZaGQ4Z1BQbGpuSFNnMU5tMXZhUXNmSkFuVVpOamZrUk5NUlVuODlLQzg1SlIyZjVqNHJPcWRoVDVaVlpzSTBRU2hzUVlNWTA2ZTlaYkE4UjNTN0MyZ1hxTVRqbEdjQWVYUQ?oc=5",
+      "title": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNb29DMEFvTy03Wmw0Y0ZudmlvZ1E2MldydXdmcE91Ui1ad1NtZGlXR1pYeUwwY2NScTRpdEZOdXJmWjJCXzlNY1BSMl9JY1dYZEttV1JQUFFVbzUtZXFkcG10QmRfQmoxZl85VTJMTWVmcm1zRFV1c3kzMnA1M1RMNHlkWjR0WUlYNDVBU19TSWhRSURsWTNxRG1YV1RGY1NSTUNlVjA2VTZKVHZuc05vLUNVdDZzNm5RbzhlWU1Ha2J1SVVsNXZvTzdmbW4yRUd4R1k1YmRvX3l3dlI2NThKSHJyN0J6RHZCT2llRGNXVXlrd3liLXUzaEw4Y1RDUGdFZFRiT2VrNWg2Sjdtb3JnaHdxOVVhUWxkNFdyYXdCSDl3V180emM2SXdJOGtleVlLdFhRc3VXM29tSmNyaW9QSmhuV2JBUWR3bXVPM3NGemhHZnkxajNpVTU0Q2t2Z3hLYlN5b083c3Q4djZ1WmZFanZxMA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T20:07:00+00:00",
-      "summary": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal  barrons.com",
+      "summary": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal  Barron's",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race - siliconcanals.com",
+      "title": "$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race - Silicon Canals",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOEtjTjV0U0MzVVNtcE0tMmVJMFhpdnVkLUJRbDNrRXBXZmtWNjZoVU9lUDVEOGcxZVZrTFVkZHlnNndmYnVsd0VOTm5vdUpacmlweC1fTk90RW1SZk1SejliOC1XcnBYTy1OQmd1YXE3VmlmOUdESTZfRFRxaDJ4a1IwZEtKdnIyNW50U0ZzR3E4YVp2UnU2am5vb2UxNm5uVFdJTTF4UFN2emo5VVc2Vk15cEZpbXdQR2hSV0Fadw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T19:05:38+00:00",
-      "summary": "$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race  siliconcanals.com",
+      "summary": "$2B chasing Anthropic, $600M of OpenAI unsold: how secondary markets are repricing the AI race  Silicon Canals",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Buys TBPN Talk Show: AI Giant's Move into Media Ownership - News and Statistics - IndexBox",
+      "title": "OpenAI Buys TBPN Talk Show: AI Giant's Move into Media Ownership - News and Statistics - indexbox.io",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdG5pT182UFFpRWNaVmZBUE52QmVTUlNYY3JXRzBHVHpvTU5WcHEzNFJXa2ZWMGJ3UVVmcXJqaEpwMFhNTmhGMjFwOUVwT3ZDQ3VNalh0MFlMN2FUTEZzWkNhNFRGNWd4X1MwUS1kNERtYmljSWRaa1FoQjNJNEJPVTNLc25KRHdTX0JXUk9xWTluZlM5Y1hrMGUxOUFwYUtS?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T18:41:00+00:00",
-      "summary": "OpenAI Buys TBPN Talk Show: AI Giant's Move into Media Ownership - News and Statistics  IndexBox",
+      "summary": "OpenAI Buys TBPN Talk Show: AI Giant's Move into Media Ownership - News and Statistics  indexbox.io",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -154,16 +154,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakxlX1lJUklzd3JYNkp4Q2NGZlFPZ3NhcmVKYUJYcGprR3dxWWtYMUFrV0VXc1Yta1BNSUR5ZVEtZjdWY2hGeFRQZVNWeVhCX2RHeGtIY2k0ZVVRM1VmMlh2bFZjOWgwTTY2OXlSNTRGOHVNMGhiUkhoUnVHdGx3SHRlQ0Z1aWoyOUNDLXl2VXdMTXdldTVrZzFKSFhnMXJHTXZGXzItU1NnMnZ0aVl3UWp4eWxWRmdL?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T16:32:22+00:00",
-      "summary": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage  TechCrunchAnthropic essentially bans OpenClaw from Claude by making subscribers pay extra  The VergeAnthropic cuts …",
+      "summary": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage  TechCrunchAnthropic essentially bans OpenClaw from Claude by making subscribers pay extra  The VergeOpenClaw creato…",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Claude Stops Free Access on Third-Party Apps Like OpenClaw, Requires API or Paid Usage - The Mac Observer",
+      "title": "Claude Stops Free Access on Third-Party Apps Like OpenClaw, Requires API or Paid Usage - macobserver.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUowR3AyeE1rakoxWURqX0hVNnZWa3ZKLXMtR25aZVphWHpoSnU5bFdqMUFlOHpFakhYaFM1MUxXMkdnbVBkQ3ZNbGpvcUREZWZXTHYyRTZpX1Zlbkxja2RVNmN4SVIyU2k3S0h3ajZuNzVDZF9YRGN0c25NSjlEMFBOd1Z5cURTUDh4bl9lRWV6RUZ1TEFkODhhLWxheUllY1RpeTdpNWhtN1BPamMxTHhxWENLSFVaWngw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-04T16:27:04+00:00",
-      "summary": "Claude Stops Free Access on Third-Party Apps Like OpenClaw, Requires API or Paid Usage  The Mac Observer",
+      "summary": "Claude Stops Free Access on Third-Party Apps Like OpenClaw, Requires API or Paid Usage  macobserver.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
