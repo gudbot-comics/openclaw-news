@@ -1,10 +1,73 @@
 {
-  "generatedAt": "2026-04-06T10:52:13.789393+00:00",
+  "generatedAt": "2026-04-06T11:44:35.747713+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Anthropic Adds Pay-As-You-Go for OpenClaw Usage - MediaNama",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUklHRTVMOXRsNVhuc2J3dXUxOUlfdjg4T1FFWk80bndPaEE3QmxySEtlQl9SS2NlVFVUQmNTZDA4b0cybXQ2ZWUwamVZYUdiMTFwQ2lCTWl0cVh0X210ekd5V3ZFNzRmTUU5TTBuLVQzX1g2UzdJSFVMVHQyemlXd2x3OEx0dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T11:25:47+00:00",
+      "summary": "Anthropic Adds Pay-As-You-Go for OpenClaw Usage  MediaNama",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "UX Roundup: OpenAI Usability | Integrated Software | Seedance 2 vs. Kling 3 | Grok Imagine | Increasing AI Use - Jakob Nielsen on UX",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUkVBbThPOTVVMkZSem5rMl85dnNpTGNiZTkzb0hQaDNrMFZJVS0tYUsyS1NwRnNmRG9sbVlmMnpSWnNsWmFfelcxalhmSWFQSWliRHlKY3J4WTFJc05Iak45UHBjcHRPTGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T11:21:59+00:00",
+      "summary": "UX Roundup: OpenAI Usability | Integrated Software | Seedance 2 vs. Kling 3 | Grok Imagine | Increasing AI Use  Jakob Nielsen on UX",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI calls for robot taxes, a public wealth fund, and a 4-day workweek to tackle AI disruption - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSDd0aVA5N29BcDUybDFkZXh4LUtRdWVTVHg4d0VjR2ctVzh3SmJaQVBNV2tBOGlPVkItMHUzU1pJcGdDY1hSYzJrajRwOXo2Z1FIS3M0RV9BSURBSUtHZVdaMnY5b0dpN3BpTmNjTTdyd3lpQklRVWJQYmxhbzQ0eGdFYlF2U245WWYtWThrU3htci1lTGhzRVdZbVgwdkdaRmQ2Tng2bV83T2dWYVM2TEh2LS1vZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T11:20:00+00:00",
+      "summary": "OpenAI calls for robot taxes, a public wealth fund, and a 4-day workweek to tackle AI disruption  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI suggests electric grid, public wealth fund for AI era - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc25DNnVUZ3Q4dFBCV1hiQ1djeHo0ZW41Z1ZQSTFRN05fQ1JGNUtGR2JmMy1idXBVaEctRjZOc3pEbEN2M3RQN3A1Mlg3ajItd3ZhQUlNZGV6Y1U4em1ZNnZqbGJXQ2pwRWprb1R0V1F2NnQ4NFhHMldsdXh5bU8tQ0pEQXFJV1hzYVhiX1V2WjloYXVELVNXYXJyU1cxQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T11:01:47+00:00",
+      "summary": "OpenAI suggests electric grid, public wealth fund for AI era  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Venture industry marked by ‘extreme’ concentration in Q1 - San Francisco Examiner",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUEJkeldDZ2RrZHk1U0tCZC1wd1NmcGd3cm9jc1g3d1RhNE1HejhDUEF6aTRlaXZBMGNUMUpkUG53UVZCd0hrYVJpSmw5bVh1UHFFT3NaU2ZlM3ViYmFlTEpDLTVEVVVsYVRQMndwdmpQT21NTVg0Sl9ZSXNFMGJOYnNBQ1pKY1Vtck54UC04bThnVTdSVy0tT1hGN01oTklJN3NlendPVTV4WllUOE10NjhkZEdrWlVIZUVUdlN5VFQwTTJNYTNjSkFhNXZPM0xfYUV0TjR5TTA5Y1pBYzRHdQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T11:00:00+00:00",
+      "summary": "Venture industry marked by ‘extreme’ concentration in Q1  San Francisco Examiner",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Fidji Simo takes medical leave, company announces leadership changes - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0hYbUpLSmEyMHZ6c2xUR2hmTU1RVFpVY21Kb3A0eFFoQS1sZ0hDUm9BWnNzRDFWQlZ2X3FoSGtZZEIxTFhTamkxWk8tWTRmallaREdka3ppQ3FfbzRtdmZNcjNrYTA5c1phZ1VwcVhqdnJOT1Z2bnYtTHltcks2aTVYdHBWaW1YX1VZemdCN056UzkzQVVXVUlpM3JjMWFFR2tHanJETWEwbl9FbFZWUEVZT3Nob3pZMGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T10:59:29+00:00",
+      "summary": "OpenAI's Fidji Simo takes medical leave, company announces leadership changes  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Fortune Tech: OpenAI CFO hot seat, China vs. drones, North Korea hacker coup - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdnpsTkZqZFcwYk9GSEVUQ3ZLQWZ1TDV2OGpDMzBXM25XQkVOMmd5NTc3aFZHZHNSd0FoNFJsVVI4Q0E4TEZWaTdzRHRwN1FqOWs3cG9KVnhWWGRiSV8xTlBnM254dHVabnNyN1h2UkVFd2IxQ2ExYkJYMjE4MDhhbWxaSFdlZnFuR1kwczYxanpxMXNHU0dodjdhSEJucHlMWlc5bFRQZXJfemRCRm16TlVyNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T10:46:00+00:00",
+      "summary": "Fortune Tech: OpenAI CFO hot seat, China vs. drones, North Korea hacker coup  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Leaders At Odds Over IPO Plans - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSmhnWEtuLXlFS3pFejg2VTZvZDBobmpqVDJCX0Z6NFJZeEJ6bERucGZyVjJDRlpJOFpSY0pGcG82TjdHMXd2STBveTVuV3pkR1hoTk1pczVOcHVvUW9OekhVWDVFelp0ZGJWSVpCSjhHWTVQY25vZmZLdE5NMm5teg?oc=5",
@@ -78,20 +141,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Exclusive | Anthropic backers fret over AI giant's volatile CEO Dario Amodei as billions hang in the balance - nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmFnQVAzdWxSOWlUMEV5WjdSbGV0NFJmc1lsZDJiT1RWalUxbGROZWpFc0ljYUhBNDZpYk5pUG1jbzdMNmt4aGZqckxYSDFUSjYxalgtUTMxTmVIRXhQajVxR3ZGT1JORXFyR2ttS08wTFNueWlQbEV2YzdKVVdyNEhnbWZEUjZvR3FpOTRuYUhGaTRtaTJ5c1BYVjI3UENRRXJxQnBMX3BxcWVUNHRqSTV3d0hBM3JieGZYVWRMSkhSRUhnQ0lLWUpVOEI5SWxS?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T10:00:00+00:00",
-      "summary": "Exclusive | Anthropic backers fret over AI giant's volatile CEO Dario Amodei as billions hang in the balance  nypost.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Sam Altman May Control Our Future—Can He Be Trusted? - The New Yorker",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ21pbG9zZ0VPWlp4YV9WOGZBd0pGVXAwNE4tZjVXTVF5VDNXVFU1ODRWdWZaSjhiQ2owQXFkV29SQ3JXZzI4UmZOTGFsZTFKMmJ1NDktN1cxWEtHQ3JiaEtuVFhDTlRtWjZxZUFwZVdmRk5WN2ZSRmVZcG5sZm11ajlYNDBRM0ozRGVkZUlJei1peWIyRHZTUnhiREo4Zw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-06T10:00:00+00:00",
       "summary": "Sam Altman May Control Our Future—Can He Be Trusted?  The New Yorker",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive | Anthropic backers fret over AI giant's volatile CEO Dario Amodei as billions hang in the balance - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmFnQVAzdWxSOWlUMEV5WjdSbGV0NFJmc1lsZDJiT1RWalUxbGROZWpFc0ljYUhBNDZpYk5pUG1jbzdMNmt4aGZqckxYSDFUSjYxalgtUTMxTmVIRXhQajVxR3ZGT1JORXFyR2ttS08wTFNueWlQbEV2YzdKVVdyNEhnbWZEUjZvR3FpOTRuYUhGaTRtaTJ5c1BYVjI3UENRRXJxQnBMX3BxcWVUNHRqSTV3d0hBM3JieGZYVWRMSkhSRUhnQ0lLWUpVOEI5SWxS?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T10:00:00+00:00",
+      "summary": "Exclusive | Anthropic backers fret over AI giant's volatile CEO Dario Amodei as billions hang in the balance  New York Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "What to Know About OpenAI’s Ideas for a World With ‘Superintelligence’ - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOV1M3SzJUSjFyR3QtcEJjY254cUFGazQ0anh4a3ptTUVUbW85aTN4SEV1MW53SUhSYVlmc19ibDJVWllBZTRxeGg5UXlDbmJIVXZCTlRIamJPN1djd1N3a3ZYM0ZfTHFwY1FDTkU0QW1nS3N4R01lODE0TDB2RkhrV3BtWkFsaU5kWlBNdXlhNG1TVWlpTUh1bkdLTUpwNVpwbmR2cmxDRHRVUnNzenh0U0dadkt2VXBmdjdnWDZHQmRNcGhTczZtUEN6WlJfMTVheUFBYTctUEE1bzJRQkpEVVJZa1pubUszSHRuMDNUUmt2Q2dSTmRSM0FVTkU5eVZ4Z2g3WVhSR1RrdzhSSGxjeXVsTlBzRDQxZ1dlQVd4dVd0Sl9OYjJUYXdWZGFKNFlEMmpiRGhlc1dzRFpMNjdwZnVIalRZc3J1VnBnNmtXTk5zSXlKNTZzOTZRV2pVX3JKaHRORU1VV2t6U1V0OWJKTkUwU2lwV1VYU2d3ODRfdVdNUEJWWnFsZHYzWTU3aUtVclZqcWdLR0JJdUxxb0d5SVR3ak1MZC1XbjhBcw?oc=5",
+      "title": "What to Know About OpenAI’s Ideas for a World With ‘Superintelligence’ - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPNHczRHNtdnlhLTJTbzJ2RFNfcjhxc3F6N3psVmZwSWJUX21SR1ZzeWg1Nm8yMjJvTGtrcnNXUWctU3FiS0M4T19kLWtBak5IUXY5ZjlBcmVvYmRpc1hlbU4wMjJ5S0lMbnA1MUpIa25hbEtTbFJqdE9XX01kWG5YeEEtRU1UNFN2SU9ub2NfOWpFSzVFZXZfY0s1a1hjMzVEaHpuUW1Ud2daeG1Tcl9BZWpfZnk3SkpvczkxYnFBcnFndE04OElUT0Zhb3gwZmdLeUsxcFpSVkRoSkVyb2hRWHM0VnBiZ2R2WUpuYUdVaERmUlFBZlloNUdpZUl5ZG9YVklnZ0FycENwaGZ5OFVmOUtuQTE4bkI4YmxXTjhIN09TWDNndnpNYnRranNSWC1mZHBHaG0wS3ZpTHE2QWFXQUpUa05QNzdQVGVEYkVtQXQ3SjBLdHFPaTM5dGxVNnlhZjMzT0xCZU5JZTYtalVNaVNXalJXVV9rdl9XaXBBc2x4T0ZCZDdLWkZ3ZEJYSkdrTGVXOW11QVVaRzFGLWtQMERqRERZVGpkVW9SWQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-06T09:30:00+00:00",
-      "summary": "What to Know About OpenAI’s Ideas for a World With ‘Superintelligence’  WSJ",
+      "summary": "What to Know About OpenAI’s Ideas for a World With ‘Superintelligence’  wsj.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -157,69 +220,6 @@
       "summary": "Anthropic Attracts $2 Billion from Investors as OpenAI Loses Appeal  ForkLog",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ANALYSIS: Q1 IPOs ‘Forge’ Ahead as OpenAI, SpaceX Look to Debuts - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjByMkI1UkdYclQ1d2p1SjJqVG0wRG5hYlBnSDJuY1V0UkdISU5TaVdVZkhNenF6Zi0xVm02SGJnYlZBYmxNdzVWRWdEaFJkOHd1X0NQV184R01zQkJHV0h2Ulp1NDk5djZsdzN0b0M1ZDRQZTFHSmdXMEdZcmtzOXhJYWFpRENUbU45cS1xZnFXVDVHdV9HcWtsNzF3c2hqbFpyRzVBVE80NEJ0VFdMbTFKQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T09:00:00+00:00",
-      "summary": "ANALYSIS: Q1 IPOs ‘Forge’ Ahead as OpenAI, SpaceX Look to Debuts  Bloomberg Law News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT web service hit by brief disruption, OpenAI investigates - news.cgtn.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUE1lRllCV3NfZEJYM2lVX3F6V25jaWhEN0wyZjZVekJ2dFlZdzM2ZTNsdnNEeTAtTXJCV0NjTmxNVHowa0JCLVEzRXl2X3p3NDd5ZncxXzFlN3pBbVBpU3djYVZqbDA5X2VFQXZqZU5rSEwweURGZmpsNHlRcWJCNVFjelFzQjFqR1c1cVdkTEF5elhMbEEtQk9uYXZiUVFDZmxXME1aVEp5TGlHSGpaRGFzWDdLbWZtWDF5VA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T08:56:27+00:00",
-      "summary": "ChatGPT web service hit by brief disruption, OpenAI investigates  news.cgtn.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Naver Explores OpenClaw-Based AI Agent Development - en.sedaily.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemJ3OFdEWUxDVjBNXzVZSms2MVViT3E0WG1zaUhHLTk5NC02MWhPV0Q2NnNfejlncHlKS2ZjU2VOZHlsVl94NHVreWloYWtVQUFLVGwwZHhrT21Wa2pEYWJRcnhyN0RZVm54SUJmMUQ5Z2xHRFlHMXF5VDdUbFlCLS1KenlobzRqZ1B6THFjVHBoeFZPRTF2SjhqTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T08:47:30+00:00",
-      "summary": "Naver Explores OpenClaw-Based AI Agent Development  en.sedaily.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Anthropic cuts OpenClaw access from Claude subscriptions, offers credits to ease transition - InfoWorld",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPazBLb2lTbVJEMmU0TGlTTEI3a0ZZcERrUlBtY1dFdW1fSEJnQlAtdGh3RlU1dk1UdkprZ3RMX2V5REFabHg4V2JQb25sVHI0M182T1V5STFYVTM2b3VmeWVFbkg3dno1MWJZdFkxOE1peFVQRFFBNDFpLXpZUWxkb0N1TkN4SDFuX3djUnpvWkYtaTdkRWIwNTRJZmpPX1llSW9PWDBQSnplZDR6b2xfY0haZXNzVEQ3d1VOX2xja0RITmJNczB1R01nZGRJRFpVQkJj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T08:41:30+00:00",
-      "summary": "Anthropic cuts OpenClaw access from Claude subscriptions, offers credits to ease transition  InfoWorld",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI IPO: CFO Reportedly Flags 2026 Timeline As Aggressive In Rift With CEO Sam Altman - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZG5pczFia2pUZHNhQ1Uxb3ZMRTgtckNSaFVSRmVkRnJCXzZEZ3loTmJaVnNfN3ZhOU1oTHlfQVg4QUg1R2dfOWRJOWlWSlZaU2xVZzh5V1FVc0RLalJsaWlNamJjTmF6U2hKZ19Ba0tXSEVFSXJ2Wk5ZTTFwbHJFclZieTZOMzFjWXhiT21aZ2o5UHRrN2tfYjJJQ3BpMmhKZ0FiR3RtNzBKeVRLVENBdTNscVN0cXlRS2ZsbzU0OFpQS3o0UXM0Sk52dnVJeWdyZmVLNVVwLWNyMTlXRjFKbUxyV2Q1MVk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T08:17:53+00:00",
-      "summary": "OpenAI IPO: CFO Reportedly Flags 2026 Timeline As Aggressive In Rift With CEO Sam Altman  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI: US$122bn Investment Will Grow Global Infrastructure - Business Chief",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CWU5qblJMbnFQUm5lYlNIVkJWNGwyZG9LNFBzMmlrTWNwY1loUmgwNVVfUE9sTXowbS0ydG9HTFRsempOVGhXaGNIQWJCbnQySmlJOTl6REFWWmJIRmhpVzhKYy1oMlZk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T08:04:20+00:00",
-      "summary": "OpenAI: US$122bn Investment Will Grow Global Infrastructure  Business Chief",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Chinese AI rivals clash over Anthropic’s OpenClaw exit amid global token crunch - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWF9BazA2Yzl2WGxCdHJncWZ3a2tGQXc4RG1iRko4REFfeWRlUmdnUllpZEV6cGJ0M1ZZZkNTWlpiOWxKbXVDbFRIMkstbnlTR05NcWIxdS1CSkZyck03dWZzOEZ2OTJaUEJjbW9HNFRIVWU0Z19HSGNDeWROYVpxM3VJRGxVVERXazg1cWQ4UW02aHRDT2J2S2lQeHFDTE1MT2QwdEpiZmV6T3dmWDI4NjVDU0JuVVVBSlVPc3NlVnFEcEl3STYycVBGRGbSAcwBQVVfeXFMUEhyUFcwLUpyNzcxRk5qR25uTC13cWZHY2hWS29yQmFKUTJVRVVPOWtDbFhIemFMV3JxMlpac0ZsWVZLTV9TeV94R0d4NjJUNTFoLU9RUU1mQ3dqYzJFNVlwN3RCUFZmZ0d2UEJqSENkbUxqSzBpdjVhbnppZG95aXpKRC12S0d6ajl0UkZ5b1JCN1BrWDBaOVROTFlrWlFhMnFrd0NrOUY1RFBTWUZVeHBnVHFGNXotWnhpeWFtc0NiT3oxWng2V01JUFVo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T07:58:08+00:00",
-      "summary": "Chinese AI rivals clash over Anthropic’s OpenClaw exit amid global token crunch  South China Morning Post",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
