@@ -1,16 +1,88 @@
 {
-  "generatedAt": "2026-04-06T14:44:24.292937+00:00",
+  "generatedAt": "2026-04-06T15:33:20.901889+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI CEO Sam Altman Faces Renewed Sexual Abuse Lawsuit Filed by Sister - Complex",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTFWbjhsdTUtN3kydmhvTUpxT3NzUU9pN0xKSlB1UDdUM210c2VIZWZWZDV4b1NFYXBnVDl4VEVBTktfb2VPbG5NeUI3NnpPWXJKb3JoME9ZRlpEclZMX3hfemE2Q3lZcE16ZHpsZGFiTGlOTkk4WGxzbXQxZXZ2aHNISEhDX0Y3b1pBWTJ5RXFRNEU2eVMyc1VrV0hmWjlYWFVWUw?oc=5",
+      "title": "Anthropic: You Can't Use OpenClaw With Claude Without Paying Extra - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXJQdTRScmxheE9aMVlqZXRrN2dMUktjZ3FrcWRWX2Y2RXV5NWxKa3pLdkJ2RXdnYkFTT3R2Y2FXUVl3cDBxM3MzNjNta2lmSWxOMzRNVWNOVVMtejM4WjVLaGljcGs5VzlaYUpUUjRVbE80YmtQeEJrMm11N2V4d0VUdkxWVVV4enB3dFV3VnpsdHdqZGc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-06T14:38:10+00:00",
-      "summary": "OpenAI CEO Sam Altman Faces Renewed Sexual Abuse Lawsuit Filed by Sister  Complex",
+      "publishedAt": "2026-04-06T15:22:30+00:00",
+      "summary": "Anthropic: You Can't Use OpenClaw With Claude Without Paying Extra  PCMag",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Set Out New Rules of the Game for Moving to Superintelligence - incrypted",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOG5URklReEltYWJ1b3F1RURWUVlDc2FueXZXNVRWWU9iOVlZS0FCRFkxNVlSN05hWkhkYzkyN2ZDZ1ZVTm5yM256VFFYa3ExMi1jVktHV2FVcEZyanBSZWRjaWdnUTNlTVBDb1RFUndIZkRYMGtZOWJRdERzSlhJX3pEM1p1NjJWNERGUF9Ydnk0MkFRcEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T15:10:33+00:00",
+      "summary": "OpenAI Set Out New Rules of the Game for Moving to Superintelligence  incrypted",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic acquires stealth AI startup Coefficient Bio in $400M deal: reports - Fierce Biotech",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTV9FWGdlbHlhazRRUUYtOXNNWFlVSUF4UWZxcU5aaW1TVmQ5ckhPLWxSVmFockx2YzVhbTRfWV9MYnZhMHlNeTJkQ1dEQ2x6T2dXb0JJVW5vRDJnQmtFNlkweTJMcjM2NHR6cUVjMGVOMFhid2Y3TmplZldBN1N3QzVMZDZvZFFZamQ2LTdaSVB2M2tJeGw0UzZNMTVhOFRaNWVB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T15:07:18+00:00",
+      "summary": "Anthropic acquires stealth AI startup Coefficient Bio in $400M deal: reports  Fierce Biotech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Claude Subscribers Now Have to Pay to Use OpenClaw - AI Business",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZCRWlfQ3RyaTV1VWZwbTlLWGpMNTQ0ZGQ2NTVONWYwalB2cUJkRWpiWlUtUUpXSERMU2daMkFJaHBSRDN4c3RuUzU4ZlB1YkcwekhwZnRsaXBpTUJySl91ZUVPV3dBMTFJYWliVzNUTWZ6NWwyYVRWMTFSSW45OEFhaTk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T15:06:13+00:00",
+      "summary": "Claude Subscribers Now Have to Pay to Use OpenClaw  AI Business",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Anthropic Reins In Subscribers' Unlimited AI Use for OpenClaw - CNET",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWZkVkJoTjMwc3dOQzFhZC1WWUVJNEVOV0hsNFBvU3dfc1NHQWFfLVExVXk3MnhwQXZZZktJejJkYjNBbnczb2JuVjAxQ2tfYVZGdjNzOGdrOVdJNUFBX0N4Z1FUaENFZGVsd3ZMdUdtMG9DbmRSR3hieHN0bWpJZE5CeEI5eGFfcHowcTFRUjdXWk5WZFNmOVF4TWNXRGs3QUpaMWVEQzFQX0xUNXljTWVxZGYzMUNwV085UHB0cHFVNXJzZnZmNVg1Y20?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T14:49:00+00:00",
+      "summary": "Anthropic Reins In Subscribers' Unlimited AI Use for OpenClaw  CNET",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI buys streaming show ‘TBPN,’ aiming to change narrative on AI - Editor and Publisher",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHNfOEwtc0M1S2NQclI2ZEVyS2s4dWZlZjRHSFRZR1l4Y1JIUWtPZy1aNWI4dEI3VktpNjBXcXliVUR4RVFhRkNYOFRNc1dPeTk3S1RyMENHT2I0YnR2WVR2QWt1OGZ1Rk91RU9rUmRlNHhhS2JvQkg1ekcwM1VZT25rWThKelE1dU1tV08yZlNJZi13X3c2eXB1X2tuYlpLRXNTV00wdUJISkJIcjFvQm5DV1A?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T14:41:00+00:00",
+      "summary": "OpenAI buys streaming show ‘TBPN,’ aiming to change narrative on AI  Editor and Publisher",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Recommends AI Policy Social Safety Nets 04/06/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY0k4VzkyT3h2T1A4aUN3ZWluT2VIa1BSNVRXQVBkaVdVWTBmRkRPVHYyUDFCbG1HRG1vZWJjbDdLZl9PMnV5Wmd2XzVlLXZZZFh6QkxSSkN2bVdGRW1qV1ZxM2o1RkdWM3hTUHpyc3k1TTBsT29BeWhENXY2LURzSTh4TjZZM0JmaTZRa2RjeXFxXzdBYXA4ZnZFc3pEYU43aWpSRzkyQlJTeG9aSEFySnNSM0Y4VUc5YldXbA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T14:38:46+00:00",
+      "summary": "OpenAI Recommends AI Policy Social Safety Nets 04/06/2026  MediaPost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Report: OpenAI on track to burn $85 billion in 2028, expects profitability by 2030 - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmtkbjFlX1BBQWkzTnd6djh6c1BBSlNWX2QzNmxwV2ZHc243ZVZEeV9uTDdXQTYxS3R0R3JKZEtTQURvTVR0cEhpR0pfZXp0T1dKWTFrSXpDdVF4WHJvcXhEMHQ3bVVTMmlMc2l6SWhZMWJFRmg4TzEySUJxZGRETXBhMFJiVGgxdklRWkFXOFRlTFRILVA3OW5yNU5iMS1lT1M4NA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T14:38:04+00:00",
+      "summary": "Report: OpenAI on track to burn $85 billion in 2028, expects profitability by 2030  Sherwood News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Offers Industrial Policy For Intelligence Age - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXNkaHVEd1NYUUpCbFZDTjNTRVk2U2pJSEN4SldFZGhBN2psOE16X2k0cU9NM21OamR3eGVfOTBpZlpiajNLOUxGZUNCQkFQbHJyQlU5OG1kWUpxWVNVTkNjTGtDZFY4cEVyRzQwQjY3eWphOWZzU3hYZF8tVndaSVJMdERvM1IxdjZJbHlEa0VOVFZvRzAzVU13?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T14:18:13+00:00",
+      "summary": "OpenAI Offers Industrial Policy For Intelligence Age  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,6 +92,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-06T14:00:00+00:00",
       "summary": "Codex and Claude Code Can Work Together  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reshuffles leadership as 2 executives take medical leave - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc0ZKSGZMN1JKaG9vdXNwNjh1WldodmpLbEl5RGZKNmN2aXVIajVMQXgyVl9TSUo5NkQ2b2FFdVNCQnVoM1NfWjVkemxqT09KYkhldnFEcWFsMElDVVp2VHJ6aHVqb3JYbFFxTll0YVRHckZIM2dEMFJxTkwxY1lodmtKbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T13:58:40+00:00",
+      "summary": "OpenAI reshuffles leadership as 2 executives take medical leave  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,29 +123,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Complaint accuses OpenAI of practicing law without a license - Data Protection Report",
+      "title": "Complaint accuses OpenAI of practicing law without a license - dataprotectionreport.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0tXaktTTjhOYVloYnZoelpha2J4VVhnSjV3VWdmellNN2hTSmtaNWg3N3VtcnFJdHlEWU44LVo0WjhGN2w1SEc3cExUU1BYcWtLVjE1MndtUGM1WTRiSzlFUjhZX3V6aVRyQTNXcm9RN3Q2cU1Xc1NaVWlEVTNKMXVsNG9Tb2Q0NGJBVGJjbkJ0SlJIdlo4aTdSRUkxQ0w4dG56dnFFTm84Zw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-06T13:31:29+00:00",
-      "summary": "Complaint accuses OpenAI of practicing law without a license  Data Protection Report",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI leadership reshuffle Simo medical leave Lightcap - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc0ZKSGZMN1JKaG9vdXNwNjh1WldodmpLbEl5RGZKNmN2aXVIajVMQXgyVl9TSUo5NkQ2b2FFdVNCQnVoM1NfWjVkemxqT09KYkhldnFEcWFsMElDVVp2VHJ6aHVqb3JYbFFxTll0YVRHckZIM2dEMFJxTkwxY1lodmtKbw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T13:27:11+00:00",
-      "summary": "OpenAI leadership reshuffle Simo medical leave Lightcap  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI leadership reshuffle Simo medical leave Lightcap - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaldWTzNnN0dsc2UtYjF2elJ5eDE2X1Q3RExvbWlCRnZ5aG43Ml9NSlMxcG54QkFYbk9TWXJsU2tjS0hZa3ZzeUVha282ZC1mSGQ1TmctTU5KYTg2U3BrNDhZSnp4bW1uVGZGMnp1QW1mVHJxdXhBMEZTSkxJZWF1ZlB4eDNpTFRoYUdncEtxN1JpcjFPeGUxaTFIV1pYM1U4VnNlU2lIUGhoLXgzM2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T13:27:11+00:00",
-      "summary": "OpenAI leadership reshuffle Simo medical leave Lightcap  Yahoo Finance",
+      "summary": "Complaint accuses OpenAI of practicing law without a license  dataprotectionreport.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -155,69 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-06T12:05:00+00:00",
       "summary": "OpenAI CFO reportedly questions Altman’s $600 billion spending and 2026 IPO timeline  Notebookcheck",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hope for a U.S.-Iran deal, Apple's anniversary, OpenAI's podcast deal and more in Morning Squawk - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUV1cHZ1aXBzQ0YxdDNMRGVhNXpCbi16QWtxV2VoYklnLXZUOFU5YjByUHNQRWp3aXJiYVM5bHpHaXFzWkUxNjNVdU9Oa3E3VFNrWUVKbHJQc0xrWWVaREd3eXFkR0tWSEdpTDJ5bnZHeXZBNktUUWg2aEIwSzNIYVJn0gGHAUFVX3lxTFA5N1lXczV1MGdaUTR1dm8xMDBrRnlDeUE4R0pHY0tKVzVKa2prVXhrUHdpT0ZBU25YTjk1RWd1WEZUN2hkR3E2MVdOS082RjJkTGl1SkxEZUY4Z0FkVzFuMFhfY2ZBZnFPclpmazNBSWV3SG5IeUZFQ3NUSmhwb1RTc2V0dEpadw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T11:43:34+00:00",
-      "summary": "Hope for a U.S.-Iran deal, Apple's anniversary, OpenAI's podcast deal and more in Morning Squawk  cnbc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Restricts OpenClaw Usage in Claude Amidst Feature Copying Allegations - ForkLog",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNem1qckhYcVpkdzQ2TDlDcC12d2VmbGlTTzZKYzd6MUFDUWY1LVdMYUxXUHZEVDBaYlpEbmNEZmtLUUZNb2NVOHVIVGlfdmhvYXJ3YU1aOEN4Y0QyX2UyZGxoV1ZSZFRGNDNzTG5jMHgxamhXcXNHX2lxc0VmSEZwQ2dEQ01tamloamZFVGpGal9HWXozaFNqZnJadGRfYkhMZGt3bEF3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T11:37:46+00:00",
-      "summary": "Anthropic Restricts OpenClaw Usage in Claude Amidst Feature Copying Allegations  ForkLog",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Anthropic Adds Pay-As-You-Go for OpenClaw Usage - MediaNama",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUklHRTVMOXRsNVhuc2J3dXUxOUlfdjg4T1FFWk80bndPaEE3QmxySEtlQl9SS2NlVFVUQmNTZDA4b0cybXQ2ZWUwamVZYUdiMTFwQ2lCTWl0cVh0X210ekd5V3ZFNzRmTUU5TTBuLVQzX1g2UzdJSFVMVHQyemlXd2x3OEx0dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T11:25:47+00:00",
-      "summary": "Anthropic Adds Pay-As-You-Go for OpenClaw Usage  MediaNama",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "'Complete and utter annihilation' for Stargate UAE AI data center threatened by Iran as the war continues - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVy1Ecjk4S1o1cjNDUTh3aTdXQ1JHZC01dUNjSzhFZjVuVjctcHVoQ1dUd3B2eG9RTGZleUdFSFd1X3o0QXJiYzhuZElsOFNDUVFsM0dNdWxPYzlJTW95a19QRExrUVl6UnRhSng4QnJpb3o1SVY1dm5sWXJtMFJlOU8wTXQtR2tlT3NFcC14bDVNQjhIZF9JZVJlQnYzZkwzVDNVOEZ6Z2dValpJblJYd20wS1hkc3hxTGZTNkpqT1Z0V3NKdDcwcXcydmVjZW5fSjBqNjJBckwxalB3MmlMS3d5QkpKVHEweWMyMDRMN3F5dTh3ejBpRw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T11:24:51+00:00",
-      "summary": "'Complete and utter annihilation' for Stargate UAE AI data center threatened by Iran as the war continues  TechRadar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "UX Roundup: OpenAI Usability | Integrated Software | Seedance 2 vs. Kling 3 | Grok Imagine | Increasing AI Use - Jakob Nielsen on UX",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUkVBbThPOTVVMkZSem5rMl85dnNpTGNiZTkzb0hQaDNrMFZJVS0tYUsyS1NwRnNmRG9sbVlmMnpSWnNsWmFfelcxalhmSWFQSWliRHlKY3J4WTFJc05Iak45UHBjcHRPTGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T11:21:59+00:00",
-      "summary": "UX Roundup: OpenAI Usability | Integrated Software | Seedance 2 vs. Kling 3 | Grok Imagine | Increasing AI Use  Jakob Nielsen on UX",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "China Is Obsessed With ‘Lobsters’ That Book Flights & Check Emails: Decoding AI Assistant OpenClaw - News18",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNS1wSjdQaFl2ejkwWG1QQ3c3Wi12TGdOOE1UOTVTWnY4VDE3cDN1eG1HSVR6MDA4WFhTTnBKWWl3a3c5ZUZhUkl1YVl5MHBDeTBJUS14MFIxNTByQktXMXo5eklQU2t6UVBWeHRuMHZOQk5CZjFiMFhndWNRVlBSZVZhU01PWkx5a0d5WlNtWWJEbUFhRlN1bS05R1VVRDc1Z3ZUdkppMGgxRV9QcmQ3THU1aGVLZkV5bDFleHYtUHVDUGJuN0xUQm5nRW94R0JmdVZVY3B3M2Q1ZDkx0gHiAUFVX3lxTE9QTzg5bVF2am5XV0tBUHBDenZvZUJnd1NiSXhRZVhtU0ZqRTZHUzVrRDQycTdKU2pQekdoU0RIMWdoNWV1OHZlRDJxeklqM3pJZWdnVU42OVFOTkFKUTc2bG9DWm5WbkVQWG1TbkI2dUpPTkN1Y0Y2NmJ1eDAzRDliY19aZDVpMkFYLWlKdUV1VEpDQ2dQb25pYnVIZGVzRWY1amZnSG01cERRZzJxQXdrNkk0TEFHRGFUMHZhNzAtZlJSZmRWZmxkeGtLZUtvZnFuU2JvSmtLd0RjZ1dTU2p4QWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T11:21:00+00:00",
-      "summary": "China Is Obsessed With ‘Lobsters’ That Book Flights & Check Emails: Decoding AI Assistant OpenClaw  News18",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI calls for robot taxes, a public wealth fund, and a 4-day workweek to tackle AI disruption - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSDd0aVA5N29BcDUybDFkZXh4LUtRdWVTVHg4d0VjR2ctVzh3SmJaQVBNV2tBOGlPVkItMHUzU1pJcGdDY1hSYzJrajRwOXo2Z1FIS3M0RV9BSURBSUtHZVdaMnY5b0dpN3BpTmNjTTdyd3lpQklRVWJQYmxhbzQ0eGdFYlF2U245WWYtWThrU3htci1lTGhzRVdZbVgwdkdaRmQ2Tng2bV83T2dWYVM2TEh2LS1vZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T11:20:00+00:00",
-      "summary": "OpenAI calls for robot taxes, a public wealth fund, and a 4-day workweek to tackle AI disruption  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
