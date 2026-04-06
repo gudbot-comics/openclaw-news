@@ -1,10 +1,37 @@
 {
-  "generatedAt": "2026-04-06T22:52:43.769609+00:00",
+  "generatedAt": "2026-04-06T23:31:12.413883+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI is getting weird again - Platformer",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ROVJ5REhzSnR0TjdWRUtfZzRxVDFpdmJMYjFLUjB4Y1BZN3dOVlVzbUhFZEU2YW1FdjNkcHJHZVZMRndicmVUdnQzeUpUUmJPV3lLSnR2NlozZnhVWW5ObmlPcDlsRjRHOVJiOG5DOVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T23:18:07+00:00",
+      "summary": "OpenAI is getting weird again  Platformer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI has ideas on navigating our AI future. VCs should read the fine print - PitchBook",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0VNRDVrb2dldjBiTlVwNnFTMy1UNFY3YzNocUxlcUNMQldVX3E0OWZlcE1zNkRyYUJYOGRBb0pLa0FxdG9MV01LYUxwZVpQTW1GNTQ1S1p4VlRYZlNOSWFuWUVNVW00LUFQYW03UHVJeFRtcU9Udl9za3NhV1I0bll6TVg0a0hNd21BNTdJRE1VZUgxUTNoZms4U1dfRWdYV2xHMDEzY0JpS2kyOUoyVg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T23:11:51+00:00",
+      "summary": "OpenAI has ideas on navigating our AI future. VCs should read the fine print  PitchBook",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI policy blueprint sparks AI regulation debate - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54NHNzTXgtX1ROX29mV3ZJQjFwU1IwaGhQTW5SWmZ2cmktYmRnX19tMS1tcE9iU1BoZm1wXy00elhkNE9qVVdQb2pHX2d3MnNqalhId1IwakhBdFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T23:08:54+00:00",
+      "summary": "OpenAI policy blueprint sparks AI regulation debate  Fox Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Calls for Investigation Into Musk by California, Delaware - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkNLSXZma1JtVk84LUR3Nmk2TDB5RGVmSUh1SWdsVXFMOWxoUU5vVkZPVzNXS1Z1VXphcEtfeHVEbEl1aWIxOTJXWVFSMGliWWM2eUtJZWxuVGEzUk9wYWt5NjZBVGdWRWF6d1ZSNVFFVWZWOTRfRHA2Uk4tajMzcVZaZXNJbzJIZ2FTWWlyV1ZyYmtTVk04N3RtbDdhOVhTQXE2R0VTZ0lSZGlBX0VOV2VwYjU?oc=5",
@@ -42,15 +69,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Sam Altman’s ‘New Deal’ for superintelligence - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGdsSElmNTZpNFBIdmtJZWtfZXJmQjdqNGswcThOeVZmUVpJeFdEaE5udl9GUnZVZVl2NGo1ck8xaFB1R0lUSnJZOU43V0g4X0dYMHc1N20zeFg0d2dOOTN5M2ZsSEFBS0g0NnpHMjh1ekYzRmJwWHZ1VDZQbzRkay1jVWh4LTU1bmx6LVIzLTXSAZYBQVVfeXFMTlZndXJKVmxab0JPMGpBWG93azRsbWUxNVQ1dUV5RnAtdjBIbExNSjNJUEliZjd4QmJhSzNpUENDNkNGTWtOSy02a0JqUXdJbGpDb2JOaHh6VE9hTUVzOFBJZG1xZUkyU21Xa1BjQmJWTnFNX2pIZ1BjY1BTQjEtNHE4WlFrc3U0YXltTjBnMnhJcGUzREtn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T22:02:00+00:00",
-      "summary": "Sam Altman’s ‘New Deal’ for superintelligence  The Hill",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI urges California, Delaware to investigate Musk's 'anti-competitive behavior’ - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRllRd1VyOUMyWnNiWU52bE83RXh5QzVWdHY3RFNJVm9qN00wSVlIbGtTNUI1Nkc2X2lZT2llR2dFYWpwWVp1SFRMTEttbGxqODFZYnhqbUVRZkNpRFJVcm5LM0NDdTJVSjJrM3pWYmEtRjl5SlhWV1hSVlZ6NGpDbUVuLU41aHJoUklMTkVsZHhRMi1DT2s0akNsVW9qVGZsNzg5MDV5dEJaaFJ0SFRubWl1alAwNjRydFM5cXpMVkVDSTNjUWI5Uw?oc=5",
       "source": "news.google.com",
@@ -65,15 +83,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-06T21:57:00+00:00",
       "summary": "OpenAI Asks Attorneys General to Investigate Musk  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3M0a25WMUV5VW5SM3NQOU05U2Rld1NwdVhZbUFUT1NURE12OTgyUldSV1pvRkpwbXdENzNRSmhMNjRDMmotNlV2Y1N5dmtSN2FUcnFfV2w5QjZYRER1cXJIcXI0YWNGU2JJZnQ0NUlZaDNJYU81YXM2bmJDYW1ncWozLXV1RE8zbURQSDROYWZFcVdUeFNtQUFuckw3aU1CTnRqQ25UMlAtZ3VC?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T21:54:26+00:00",
-      "summary": "OpenAI alums have been quietly investing from a new, potentially $100M fund  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenClaw.Direct adds ability to hire AI employees through conversation - FinancialContent",
+      "title": "OpenClaw.Direct adds ability to hire AI employees through conversation - markets.financialcontent.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSnVkbHE2VVpzdjJSVVpqVmVXRzZhRHpOZ0FSM1dMV2UwYzc0Zk8yVm9UVE9sWGZnUlR6cEVkTFA4VkhjeVlUSDhiOFYwcUxJMENJMVB2dG1wQ2lxbzJvRUhBZEJfeGp6OHVUY3YtcXNWVlROQWJqdnBZeExPRzZWWm5XSU5PQjJWd1RWTVJtdFRVNndfLWF3SzBsZXRWMG9CaUJwR0tKY3o4NWJLWTVsU2hKYWhJaDU1dUZ4ZW50RVFWV0dfSmxZVTlGOFRyQ2c0X09hZlduMmI?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-06T20:35:00+00:00",
-      "summary": "OpenClaw.Direct adds ability to hire AI employees through conversation  FinancialContent",
+      "summary": "OpenClaw.Direct adds ability to hire AI employees through conversation  markets.financialcontent.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -195,29 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Daily Digest: Ronan Farrow investigation and IPO dispute roil OpenAI's top brass, Mayor Lurie's newest layoffs - The Business Journals",
+      "title": "Daily Digest: Lurie lays off city staff, Altman faces Ronan Farrow and OpenAI IPO questions - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ05kNms0cVdCRFZSMDlMUnJwLVRKZUN1WktRNGxCOVdIUk5XM2hHOTBrdXZCbGVPZWtkQVVKNW5ac21KVVY3MDh5bHNQTG9BcmtIR0xZMWhvQXVodS04Q3cwZERaRVRqOHhxYXpqSUpmalRWNGVqWWpoVlRPS2tGZkJXaHBpcDU4VEl5ai1MOE9yc29zUUdKMnhKS25Oc2FOQjlXWmhNdV9JQVVQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-06T19:38:00+00:00",
-      "summary": "Daily Digest: Ronan Farrow investigation and IPO dispute roil OpenAI's top brass, Mayor Lurie's newest layoffs  The Business Journals",
+      "summary": "Daily Digest: Lurie lays off city staff, Altman faces Ronan Farrow and OpenAI IPO questions  The Business Journals",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Congress urged to open antitrust investigation into Apple and OpenAI over ‘left-leaning bias’ - Washington Examiner",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWlaWDZkZE5scjFFUDh0RW9Lb3N3djhvOWRmSWR4UlQ3d3BzS1pXaGJaME10UGFpbEpjbGdiWjJIS21ZT3J5VVFTZHZQcVR1Z2QtODg3bFB1ZGxlZmYwdlRTa3hBQkQ4eFVBSlMtUnMwN3JMbFB6bER5cHlIQTQ1Y25WbGp2TjJDOTlnZWVrczBEVG5pQ0RtMDVjTG1fV2kzWHZVVlptZ1dNTmU4M0w0R1lqTjdWdVhXMEE?oc=5",
+      "title": "Anthropic closes door on subscription use of OpenClaw - theregister.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ2dmY2FrLVFhQlZBZjEya3FaRTdJYk9mbm5BWWxndTU2UHJHRmkxLXMzYW9XRnVTdVhpd2dSV0lDRzNSS0MzTS1ZLWhUbkJCakkwVmVSUXMtRXJjWEhST29URnFRZnZ6SFdwWGZaOG1CRDhhZ3U3NjdKb21CRHRLbTNfMA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-06T19:19:59+00:00",
-      "summary": "Congress urged to open antitrust investigation into Apple and OpenAI over ‘left-leaning bias’  Washington Examiner",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Atomic Bot now runs offline AI models on your local computer - TestingCatalog",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXRpVjFYeE00ZHR3RUtMVGw4TGtVcFlyWGNNc2dHVVNVNjh4ek5oQ20yU1ZmM2ZPaVpWTHk1OUsxVFJwVzE2cHlkTDh5S0hFemtRdFp4X0tEV1RGNE95a2Zwb0MtSWg0NFBmZWtCT2ppLUNDaThaLWxOYmkzMGpoc3Z5SjdwM1BzSXBybw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T19:14:26+00:00",
-      "summary": "Atomic Bot now runs offline AI models on your local computer  TestingCatalog",
+      "publishedAt": "2026-04-06T19:37:00+00:00",
+      "summary": "Anthropic closes door on subscription use of OpenClaw  theregister.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
