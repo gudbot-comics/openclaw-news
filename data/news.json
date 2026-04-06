@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-04-06T00:00:08.347542+00:00",
+  "generatedAt": "2026-04-06T03:36:36.947849+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI Operations Chief Changes Jobs Amid IPO Preparations - pymnts.com",
+      "title": "An Inside Look at OpenAI and Anthropic’s Finances Ahead of Their IPOs - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOclhmZkVXSFZKS0ZmRVM4YWNnVjNFZy0wUzhZYWFQUXc0TEVuRjcyS2REekNIZWRZU2JjT194bTROX2RxSlpqUTZ0VkNjZHlLbWkwdEhvdUxtSXBMaTRiVWY1MXZ1d21jcEpvU0p2djY1ODI0Z0JNdGNQSmY5MV9PZUowNlJUNXc1VnV1bnNpUWhLX2ZQYnJqb0U4dHhJamZNaVFnTVZKc3NPQVZuM0ppWGpsLU9zMVZDeFNlTF9STk8xWUoxc3pBRzVZRUYySDBqWEJiZnpQUDFiZDZmOHo4ZnNNV1E4ejRMR2ZZU2RvR0FmZHpib3JSQXRGVWhSTy0zazlTazVPZzNMaXBhbURPdlBXU0hGVU9mNnZVWmVvMkowWlliZWRQRUNuWW9QcEpNb0RnTUQ3VGFod2Q5M0k0TmFCamtyYi15UzUzYzZpc3pCeHVtWTQwYXJCNlVTM2E5Q3V6QTFFYnBacmNJTUhNdm1pOUY3QlI1T2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T01:00:00+00:00",
+      "summary": "An Inside Look at OpenAI and Anthropic’s Finances Ahead of Their IPOs  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Unraveling: Investors Pivot to Anthropic Amid AI Shake-Up - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYnMwRGhRMWt1VU0zZlhGSnJlTGU1YjhtajhIX3ROa0xwUHJwbS1TN0pDdWlaTFhub3BTc3VscHRQUnhiSzB1VFJuRDhtUFQyNk5UQVJTSW51aExvbjZidlducDRqX3lpQ3BzemQ3UkdXVEc0OFNzNk11ZEpGRDJqVkhLNC1FX2MwemdJSWE3b0IwWHFpa0hJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T00:50:01+00:00",
+      "summary": "OpenAI’s Unraveling: Investors Pivot to Anthropic Amid AI Shake-Up  Startup Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic Says Claude Code Users Will Need to Pay More for OpenClaw - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzI1N3NqTU1QN1pBRmFud2NJNXVsS2JPcUpiNFpka0VfSlVEQm9uWW5yMklVejg1aTRWOHRqMk9pbkZyNG5wWWNrdWFBNzB3c3ljcTZLUEt1akJBSUZKejlOdHFNOW9zOTdKVnVULWthcWlVbXk2V1ZwQldrNmN1RUxuQjBWNW9FdUllM1Y3dTRSZ0k5NU9OQk9PR3M5MXgzRDVYdmdWSFVtMElYZk9XRTN4VW91bXhnVDNRbDVwZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T00:13:50+00:00",
+      "summary": "Anthropic Says Claude Code Users Will Need to Pay More for OpenClaw  PYMNTS.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "I Built AI Employees From OpenClaw — Then Needed a Human-Only Slack - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMW9ENmtFMm84cHFSOHdxV0hPUWllQXNjeDB2b0pWSFY4eF9DaUFBNk10ZmNWOG11aHc5enFwYkdIaG03dEd0RFBpamh3Z09tSEdPb1dqYlBBUXVBLVVHOFVqTXZmci1GV2tkM1ppcEhZU0U0NXNWQ0hSYnpoeC1VSGJVUndRTnNLZVVVSThlblNrdlVFTkYwaElPejU5Z28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T00:08:00+00:00",
+      "summary": "I Built AI Employees From OpenClaw — Then Needed a Human-Only Slack  Business Insider",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "I'm a Chinese CEO who jumped on the OpenClaw hype and built AI employees. We had to create a human-only Slack channel to escape them. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53VmJiOGpreG9YZDB3NC1YejFIeWRndlVrb2loOXpkOWpTZ2tKZHpJckpIamY4OVBqUkx6bmpiMmFCUk1Ock1YUERFOWllbXJJRUEtNTZwNVF5S244N1JJcnk2Wi1oaWV2TTM2QkZsUVhOUDVxcU14cG51YkVZLTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T00:08:00+00:00",
+      "summary": "I'm a Chinese CEO who jumped on the OpenClaw hype and built AI employees. We had to create a human-only Slack channel to escape them.  AOL.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Operations Chief Changes Jobs Amid IPO Preparations - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQU4wTDF1VzZWbkFkYnltYWplS0JCSlVlV2pPMm1PZ2x4enNlcG9uZDVJQVAxa0Z0M0otSU04TVl4M0FMNHFUT1Eza0NmOWJUQUdQeEJ2dFRneTNwNVk1a3ByY2NCZFJsR3BHbkc5b0VrRk1FV0o3TjRJYURSaFFlY3FHUzFXeG13RVMxWEZCdFNkSUROQTZNR05KQ1lwVGwwbnNmS1JYaWdicUF5ejFrZE5yYw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-05T22:43:52+00:00",
-      "summary": "OpenAI Operations Chief Changes Jobs Amid IPO Preparations  pymnts.com",
+      "summary": "OpenAI Operations Chief Changes Jobs Amid IPO Preparations  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,11 +78,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "SA Asks: OpenAI or Anthropic—which is the better investment? - Seeking Alpha",
+      "title": "SA Asks: OpenAI or Anthropic—which is the better investment? - seekingalpha.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQzV2d2I4d3NjeGoxeF9oNlI0dTNBNndHSW9DdFdhdmN0MHp1cHlVd0N5dmwyLU1ITzBTT2NlWFZfUWQ2MHU2dEhpQTk2Q3ZhRkUxQzlMV2dHb2RRN3hxQWl2QWJJTjJUVVlVUzJYOS1od1Zyb0dIakVBRDNsOThGdUN5MGwtTUhCYmh5UWJORlpFUC1KaXU3Mzc1dEZoM00?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-05T20:58:09+00:00",
-      "summary": "SA Asks: OpenAI or Anthropic—which is the better investment?  Seeking Alpha",
+      "summary": "SA Asks: OpenAI or Anthropic—which is the better investment?  seekingalpha.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,15 +132,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic Restricts Claude Agent Access Amid AI Automation Boom in Crypto - Bitcoin.com News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkN0TnRFcWViSHJ4YXplbGpybW5vVlhyZlFwSUZsS0Jab3hGWWptaGV5RmgzTEZINHVHZl9wb1N2ZC05YTRCRElGM1Z3ZzhEZF9hbmtSaWNiOGRlbWVFYXp2Wi1NaE42SzhJRk5OUnd6R2V1YU9PT1V0aUhWOTlYQ0hnazcyQmU2U2VOUE04cE92TjZXbjhLMUtnTEE0Uy13?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T19:22:12+00:00",
-      "summary": "Anthropic Restricts Claude Agent Access Amid AI Automation Boom in Crypto  Bitcoin.com News",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "Nonprofit Research Groups Disturbed to Learn That OpenAI Has Secretly Been Funding Their Work - Futurism",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpRmNYc0wydjB6d0hDWUM1UHVCbFlwX1VCMm9ScGJhZ1JqcGFRQmdibGlZbU5Fc2U1d0N6elRDeWl5Q2JfTjZHQkRFZ3Uxb2lUX3BmN1dqdkpJdVV1MlBpLWowSWZfZm1DdGl4NmRnVjE2TlZnQzYzeWJuQ3JuU1k?oc=5",
       "source": "news.google.com",
@@ -114,11 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos - venturebeat.com",
+      "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos - Venturebeat",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmowaTBXMjF3d3Fzd1dXTDhVbXVJeDJ1SUNpSWp4TWVWU19xdFBRR0V1YW9jMDNKa043WVl2WE5jbWxFSzVOU2xwVGcwZkFJbkd4ZnZOb3BNUlJpckhCNzREUDd5LTZrd1R5cVF3TWw3dzB5bDFMWmxZc3JVM0d5bzM1NWxqbFlBeUgtMm5sbEtpUmdiUVZlTE8zX3RPZmx4ZmVlbko5X1VnU0NhaEE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-05T18:06:23+00:00",
-      "summary": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos  venturebeat.com",
+      "summary": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos  Venturebeat",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -130,6 +166,15 @@
       "summary": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Major Lawsuits Click The Following Internet Page (UeomqPSdJb)  Mshale",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "😺 Marc Andreessen just described your future coworker - The Neuron",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWZFeXhlYThkWTRZRHhDNF9GVkZtN1BSYk1xdzVvcDdnTzgwWGxFTG9BNlljMnhlR3BoWTNVdzlzQWZxUWdULXdSR1RTOEcxcXloZjBwVXMxTVY2Tlc1b0RQRkV0dHl4Qk9uRmFTUFMzNkFVOU5KcFgwLVBuNDRiSEZZR1A2Yl9fZXQzdg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-05T17:34:08+00:00",
+      "summary": "😺 Marc Andreessen just described your future coworker  The Neuron",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "The mega IPOs of SpaceX, Anthropic and OpenAI alone can't fix this stock market - CNBC",
@@ -154,7 +199,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXJQdTRScmxheE9aMVlqZXRrN2dMUktjZ3FrcWRWX2Y2RXV5NWxKa3pLdkJ2RXdnYkFTT3R2Y2FXUVl3cDBxM3MzNjNta2lmSWxOMzRNVWNOVVMtejM4WjVLaGljcGs5VzlaYUpUUjRVbE80YmtQeEJrMm11N2V4d0VUdkxWVVV4enB3dFV3VnpsdHdqZGc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-05T16:44:16+00:00",
-      "summary": "Anthropic: You Can’t Use OpenClaw With Claude Without Paying Extra  PCMag",
+      "summary": "Anthropic: You Can’t Use OpenClaw With Claude Without Paying Extra  PCMagAnthropic says Claude Code subscribers will need to pay extra for OpenClaw usage  TechCrunchClaude subscribers will now have…",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-05T14:41:00+00:00",
       "summary": "OpenAI Buys TBPN Program to Address Communications Gap - News and Statistics  IndexBox",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Adjusts Claude Code Policy for External Tools | 2026 Update - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnQ5N1NHYTc1M0hicTVmcWx0SVVtaDYzNXNlZXNwVEw5ZXVIQ21nemlMeEpBdWpZaGxETm9aUV9rVi15TC1GVFpCYktXNlQtNDBadmhfUDQ3ZDVlZ0pnUW03NlcxZVVMU2w0OXNBVXpvbjVlQTlZN3ljX1VzVHFNbGdiLTUtRWdsVjg3eUU3b2RtSG1KaDZXYzItRHplbHRqNkJGcA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T14:21:00+00:00",
-      "summary": "Anthropic Adjusts Claude Code Policy for External Tools | 2026 Update - News and Statistics  IndexBox",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Embeds Staff To Secure Defense Contracts - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTNhSTRuZXpTS0t5eVJlaG5Rd0I1VDdnRGRlOVUxVTE2NVV2QlFxdHAzWFczM0IxMGg4LS1Yd1FnS0tHXzVPZUZTMHNKNTVybS00VzFqQTdpdFhaMElkV1g3WmtLd1JNRGc0ZG80dF84V2NlT21DQVpiQUhqWUlMSF92MWZlajJUYzZpNFR4ckoteEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T14:11:49+00:00",
-      "summary": "OpenAI Embeds Staff To Secure Defense Contracts  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Is Bleeding Cash. Its Solution? Military Contracts. - Jacobin",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwOURZcHg1Q2Zudm1zbEQ4MWRGSUxpQkFMWng0TVhXall0eUx3MTZKT25hZG1DOTV1c3hhcDRRQ09kTVNNbWFNY0pMbGF5T0JFbGJ4M2R3UjdveHdIQnlJaEV6UzdLaXlLQ0N6Mzd0S0NrVVJiSWFB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T14:05:40+00:00",
-      "summary": "OpenAI Is Bleeding Cash. Its Solution? Military Contracts.  Jacobin",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Fidji Simo Takes Medical Leave as Brockman Steps In - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUl9uSEEtb0lmR1NWRXY1WC1tUEpSRG93VHRKa2M3TnlwSHBRNWRrWWtzMUFTRHFrY04ydXV6LVFoSEVCcVU2V3hXVVdCd2p4VFo5Y1BiSlI5dUxTV2JjaHFxZVpzZ1pSaHRRRUgtR0VSRjhQQXV1cmlRWE9JMy1pcDlSV1hVLXlrdXVmcjVTX2JKc2FRc2hlSA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T11:08:00+00:00",
-      "summary": "OpenAI's Fidji Simo Takes Medical Leave as Brockman Steps In  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "China’s rigid corporate culture slows AI adoption, ex-OpenAI executive says - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONk5IME5KTVNRWUlvWlhJdDBnNkNhUWxxQ2VmS2d1NTl4eWJMSExUVlBuMEZqc2lYLVZjc1l4bWlfRHRDZ2I0ZVpOLWVFZkNpem0yZ2lMUjBwU21KYkZUUk83YTJwcDZRZmY4QUVVZXpWUTRWY0k2N0FPNXdYNDlyZC1mSTR5U0tMWURBMERGOUh5Y0o3M0tHU1NBbVJyeVNlVFc0alByRzNLQ3NKLTl4YVNDX1BUdllmSV92bjg0RVl4TUxXSlQyelJtMNIBywFBVV95cUxQZURJek1OWG81NGd0VnJlb0JIV0wtTElnUy13T1NJejlpY2lJQ0RRWVNsSEJ0cnY2Z283LU0zdUEzcnVZWThFbnhNZUlGd3ZzUGl1bnBMWjJob2xmejNScVJubU0wSFJmaW5hb3pZWm8zZzI1ckEzNU9zbkhmWXZhRzQyX3ZBcmsxVlhBR3BWRWRHblV1ODUyS05NRmlTY2hnR1FaUElyZkdsTWUzN3RVem5Ha0UyYVFpc0dmZk9xMFpyMDlpRUZpZ05qUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-05T11:00:08+00:00",
-      "summary": "China’s rigid corporate culture slows AI adoption, ex-OpenAI executive says  South China Morning Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
