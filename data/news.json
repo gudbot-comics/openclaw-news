@@ -1,18 +1,72 @@
 {
-  "generatedAt": "2026-04-06T20:52:55.510826+00:00",
+  "generatedAt": "2026-04-06T21:34:00.610645+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenClaw.Direct adds ability to hire AI employees through conversation - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOHdrZVBQRU5CSDF0aUllZHdLRDZ2NVJmQ3NOdF9icUZKZ2ZEM2RjTEhZZnJrbjhGUlRQS3U2d2lWQU5SZ1hQcVdHcUpESzU2WmczU3I0X0hJeVRiVnQ5MXFFMGlPMVNFdDZhY0hyZVlWRlVtV0xHRjNicE5XNDl0SERKTHJZQ2tQSW1ROGlqMXZOdlVtdXZBQ0dvdW5qUlVnOVFGNDk3RHZ3b0JaTWFkVlVyNjQwUk5GLXQweUJvMA?oc=5",
+      "title": "Iran threatens to destroy OpenAI’s $30bn Stargate data centre in Abu Dhabi - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLbHpiZk5JNkwySDkweC02RnF1VDU3Q0JvOEJteVFUREFUbXdBNlFUcnp0TkIxVFRyWC1PdkZ0LVlNLU0taExJZDlXUHdQSklvUHpkY3oyd0FyTVNHSE9acGtfYUREWDAwMXI5R1ZENzBZSERSbUtR?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-06T20:41:41+00:00",
-      "summary": "OpenClaw.Direct adds ability to hire AI employees through conversation  StreetInsider",
+      "publishedAt": "2026-04-06T21:24:00+00:00",
+      "summary": "Iran threatens to destroy OpenAI’s $30bn Stargate data centre in Abu Dhabi  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVGdydnZSSjc2ZDlNMy1CT09NVVFXZHRzd09JUUlQWlAzVXhuS3VyVkF0UWkzQXJrU09aYWNvYU4xMlBmcWtTbzYxbTZUbl9ET0xXNDVMaUNaU3AxQXNFWFNPOGdHUWxhYTc2cWF2b0h4UnhKeG9DUEN2SzE4QUNJek5ORlNuWXdPVGpCbkRSR2VfXzU5THlhd3pydXJnb0xaemV3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T21:23:36+00:00",
+      "summary": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO  Ars Technica",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw.Direct adds ability to hire AI employees through conversation - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0RDWmJxYzdPa3ZrY192SnJOU1YweWpsRnowbjh2b040cXNMMWdaMWNIbU5na0llX2JHeFptcjd5bFdmejBuaHpFd0VQcEkxMVN2U0JLbTNRNjc0ajh6cXdzQ0tHelNCTDdwVFRfSUtfdHRxV2pOVkZSQ2JXNDZjNk0xcUFQSEQ3MUZVenE2MDJmMnJsa2tvaFpQMGJ4NXFuUjNLVmh4YU5uYnptZzhNY1NUSEQ2R2dKak8wR213Yw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T21:21:15+00:00",
+      "summary": "OpenClaw.Direct adds ability to hire AI employees through conversation  USA Today",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google Unite to Combat Model Copying in China - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY29pTlNlU1RLWkl4dkRGM051Ny1kVUxMMkFvUW1pMzdEQ0RLckd6NWljVkp3RlZfcjNTWW5PQXkyYno2SGFFUXRJVEtGQkxCbVlob2JzWmszUTN3TmZqRC1aX29wM2pqS2NYbEVNUVN1YzBNcUlXUW9YbHF4NUx6ZkV0UVB2bmxHYnc2dTNJbFFrU0ZxZ3pRSmpDMWIwOGdqdkFfZ2pHNER3NzJCZlFKb1VuYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T21:08:58+00:00",
+      "summary": "OpenAI, Anthropic, Google Unite to Combat Model Copying in China  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s $122B “VC Round” Is Vendor Deals, Contingent Capital, and a Guaranteed Return It Arguably Can’t Afford - SaaStr",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWTVpc2pvcUFuYS00ejFLdnN0RDNrb2g4WlRrZDBQXzVZaGNPNHlPZS1BOHgxdW9GNUtLTXBmWG1lMk5oQWtCZkhRTTdCSVFYS1JiTjhyRmhBVEhUMi1IRXpBUDVkOTZlbGdYbzFtbG03UEhVeEh6R2psZDVBQVBfbnF5Q0VyaGFxbFktUGE2bnpkam9GMHAyQzlNN2FIaDZPcEtHb2V0VGlhdkE0SnBqd2FMVGVrVEFpVjJsY3NxVkZoY1gwa19n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T21:05:58+00:00",
+      "summary": "OpenAI’s $122B “VC Round” Is Vendor Deals, Contingent Capital, and a Guaranteed Return It Arguably Can’t Afford  SaaStr",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw.Direct adds ability to hire AI employees through conversation - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVliVWZoYWY1bHFFMkdvM1RtV01NSE53NzdLOUxxOHFwN1lyZkIyTlZKVDlxb1RMVjJWVmpqSW5naGxVVVRBRmNVUWJkSEhKZ3JWVXFGLVVTMUQzVHVoMUhNU0c2VjNRX3lDTVVRY2dzdktuVThnQmIxbmQ3TEhKUFJ5NUlnVTcwaDJoSU0xOE9pZ3dUU09PVA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T20:50:05+00:00",
+      "summary": "OpenClaw.Direct adds ability to hire AI employees through conversation  openPR.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Asks State AGs to Probe Musk's Anti-Competitive Tactics - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1ZWU3R0QWg4MThxb1IwYjV0Zk81eTBiUU1LbTVMMHhMLU52UC1sRjNSd2VDaGxxT0JudHVPS1F6YVZHMWNNUFFqdjE5cUlvS1hlLVpvM2FKbTdFbmRnVXkxVkZuQWxiRGZXN1pSWUdPblAxXzFLdklZdlVhZG9CWnhFbGJIejJOM1dscThyYnVxS0JZWUJRSUg2WQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-06T20:49:00+00:00",
+      "summary": "OpenAI Asks State AGs to Probe Musk's Anti-Competitive Tactics  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "Key facts: AMD wins OpenAI, Oracle AI GPU deals; TSMC, Citi lift outlook - TradingView",
@@ -24,11 +78,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI asks California, Delaware to investigate Musk's 'anti-competitive behavior' ahead of April trial - cnbc.com",
+      "title": "OpenAI asks California, Delaware to investigate Musk's 'anti-competitive behavior' ahead of April trial - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUmhvSXpYOVVlY0wtc2lVaWlnRVpwTnpJSVBlR3FWbGRFeW5YdEhqeGxvWlhqbTI0NGF2VVdYOXpMSS02RmwtOUVWNC1fQUM1MW5FRS1oMXdpTXNvWWRNa0s2TUc2ZUVlUEN6eUR2Ylg2SFhFVzRzQ05qTUg0a1dWYVRhTHdNVFhlb2ktaGdTVGpkRC1sR3I5SWNqdGZabkZhX0lXc1d6d9IBrAFBVV95cUxQbzBJMHZBYnpoX1R5S2kxdDBJR3pEUm1iMnh2eHdJelR1STRHdzVJNl82TXlfRWk3MVh6SHY3QXVrMnFnel96TTdkQkQ2ZFZJVDhhOWE2Ukh2UmpHaktwWlJVUk1wc3NJX1lJcXJFWmhUaEJaS2dzM09Hem5RM2o2R0dEX3RPZk44WmtuTXZqVnhvNERhLXBKUlloUDZhblZydjVZQ1NVX0RpVjVK?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-06T20:00:20+00:00",
-      "summary": "OpenAI asks California, Delaware to investigate Musk's 'anti-competitive behavior' ahead of April trial  cnbc.com",
+      "summary": "OpenAI asks California, Delaware to investigate Musk's 'anti-competitive behavior' ahead of April trial  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,74 +204,20 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Surviving SuperIntelligence: 6 Things OpenAI Says We Need To Do Now - Yahoo News Malaysia",
+      "title": "Surviving SuperIntelligence: 6 Things OpenAI Says We Need To Do Now - malaysia.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkYzbzUyS0pvSmFLZUQ0ZEU0X3BRSzZ1Y0hEZ2w4LTdtZWZMR2dCcm1WdGZ0a3REZ1RFcGV1MkNTa2VGTnpnT21Dc3BwY1NXS2V2eVIzLTlKNWhINkdjTU1seW9CMzZvVFEzcU1HcGpJV0NVWWlRSkk3ZTc5c3NUWWw1c05KeTdMOHFxdG5MWjJnMmhU?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-06T18:33:44+00:00",
-      "summary": "Surviving SuperIntelligence: 6 Things OpenAI Says We Need To Do Now  Yahoo News Malaysia",
+      "summary": "Surviving SuperIntelligence: 6 Things OpenAI Says We Need To Do Now  malaysia.news.yahoo.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "A.I. Is on Its Way to Upending Cybersecurity - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR21Ub0VaMXhkWjNLczI4Wk5pT19zckk3dEJWal9LcGltLVIwMWUwOXNreWtQOGtTblcxWEx2UWhxUS14T1RfY3k3dW1lbXFyeGdNYTlIV3RLYmdBUDRsbm9mS0J3SzZIU0RXOTJTRnRGR2ZOdHRTQmd6RHhIbjhqcg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T18:28:29+00:00",
-      "summary": "A.I. Is on Its Way to Upending Cybersecurity  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Touts 4-Day Work Week, Wealth Fund to Sell Public on Next-Gen AI - pcmag.com",
+      "title": "OpenAI Touts 4-Day Work Week, Wealth Fund to Sell Public on Next-Gen AI - PCMag",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdkxTVkdnX1NOYm1pckxRcUZ1bDlHQ2c5VGxTYjdGZUZ0V2RvOE1fd084SFppN2pUSktZU3NjbVdDelBSZnJJTDdJWHl4cFNleUxUdUthU0w4Q2lCTHByQmk0ZWdXZlNMemRnaGV6MG54dG5WNGpLQWQ2b3VENVRiV0o1eFBEZEpCbXJXQTVLYnIyVmJUbUloUEJnbmhfUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-06T18:19:56+00:00",
-      "summary": "OpenAI Touts 4-Day Work Week, Wealth Fund to Sell Public on Next-Gen AI  pcmag.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Inside the memos behind OpenAI's safety retreat - Tech Brew",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VYWhxVlV5UVplajJYTDdmNnJKRWJOQWlOMkxLLXBCVTJ5d3lpM0x3eUtRdXREYWVvSUsyN3hYem1pN2JLNDg5NVppekxjS0xlS1VtaExaLWs1VlBOdU96bzRPU1lLdlRHN2NuemtDVGpmRUVp?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T18:17:00+00:00",
-      "summary": "Inside the memos behind OpenAI's safety retreat  Tech Brew",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Crypto AI project OpenServ claims to beat OpenAI in direct benchmark comparisons - CryptoSlate",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oeWJCb05wbTRwN0xOdHBOaXI3WFp4OUxyUnhIQlhMLVA1TjRKZ1d5VVhwdmU5N28zYzVZd3pIVDVlOGlXVUpJSkhndGlNT2FJWW1BNVNkV1ljRERwTlA3ZW1OWmxhLVhZdWtJa2VPOHVIVFQ0NGgwbFUtRndxUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T18:05:42+00:00",
-      "summary": "Crypto AI project OpenServ claims to beat OpenAI in direct benchmark comparisons  CryptoSlate",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXp4VGFqZzlMT0t5QTg4N1VhamdIRU9UaXFIRE82T3FkS1RYbV92WHJvTXZ2WkxLdlM0cE12c3JVTXFqVXVZeUpkdVEyLTFOSmZXUGtXdUJnR0c5ei1xUXRuWU9Qei1WU2p0dWRodFRxbHRRQmdESEU2aEs5NDJRRFZKUHVTckluOF92NXlTa05zT2h1RnZFWUVoeE95cjB5aHFnY2pYN0RMX0hNQnZz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T18:05:26+00:00",
-      "summary": "OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Releases Policy Guide to “Keep People First” – Nothing More than Insincere Platitudes - Food & Water Watch",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmdteXR1a2t3VzY1bnN6WmJfV01EOVg1T2dFUDVSVDVuQUw2VHNOeFdEOXc5Z0Z6c01Xc0FFanB1UHJtUmxQM2MzSDlkbFgtbFFINExJUV9SRFRVZ3F1ZC0wdWJjcUhBa2YwR0tkZ3pzNkd3SzlwckI0ZnJDTVRySnMwUGhhMmlCdjI2SnRMX1hJUjR4ejBOcjBKYUgwMXFTdjJVVFRxcGY3eGhMTVROYTBPbk9UMVhzVUVPZVlocHVtN3dtOE13TXpFRWNfTGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T18:03:51+00:00",
-      "summary": "OpenAI Releases Policy Guide to “Keep People First” – Nothing More than Insincere Platitudes  Food & Water Watch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s plan for an AGI world: AI for all and a 4-day work week - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTS15VEJxaWJQMW5MOUpMR2JWYnNRT0hsdW9wVlh3QlR1THpKQ2tHZkZSaGQ1TS1PU3IzdGxxYkwya1VTeExSM3NCcUprdm5sTFFMTTdmM1ZXLTc3cFBrS2VJYlRDZjYxZ1VibVp2Tl9QTEtsVF9oQVd1LU9lMFhFei11RlN5Z3JPZ05zWEZnTGxnSGs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-06T17:55:17+00:00",
-      "summary": "OpenAI’s plan for an AGI world: AI for all and a 4-day work week  Sherwood News",
+      "summary": "OpenAI Touts 4-Day Work Week, Wealth Fund to Sell Public on Next-Gen AI  PCMag",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
