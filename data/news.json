@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-04-07T23:33:38.616017+00:00",
+  "generatedAt": "2026-04-08T00:05:28.417674+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Anthropic’s Revenue Growth Suggests OpenAI Is Overvalued - The Information",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXJfQkcyWGtTaFRyRHZaVGUxSTEzWmtqU0M2ME95M0J4eW1JZmlMVnQ4ekdjNWJWSzJYWnhYbXNDSzlTc1FzaEtTWkxVNmVGRFg3MEpIbDRIa1E3TF9WV1BLc285M3RtQ3FZcHlGNTRWMkRDOWJjX2xqTENFV05DVXVYRlJrV0g1UkRnNWVuRkx3dDNWMWhaLXg4cGE2Uko4TEtaSnhSOENWckhy?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T00:00:00+00:00",
+      "summary": "Anthropic’s Revenue Growth Suggests OpenAI Is Overvalued  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmowaTBXMjF3d3Fzd1dXTDhVbXVJeDJ1SUNpSWp4TWVWU19xdFBRR0V1YW9jMDNKa043WVl2WE5jbWxFSzVOU2xwVGcwZkFJbkd4ZnZOb3BNUlJpckhCNzREUDd5LTZrd1R5cVF3TWw3dzB5bDFMWmxZc3JVM0d5bzM1NWxqbFlBeUgtMm5sbEtpUmdiUVZlTE8zX3RPZmx4ZmVlbko5X1VnU0NhaEE?oc=5",
@@ -20,15 +29,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-07T23:30:32+00:00",
       "summary": "AI & Tech Brief: OpenAI draws skepticism with policy pitch  The Washington Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk Changes OpenAI Lawsuit So that If He Wins the $134 Billion, OpenAI’s Nonprofit Gets It - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTW5WdVBVbGlYT0M5ZEJBa1JQQnFoNWpKMmttRW55Q1RxUlh6Y2lwdGZQUzFKWVpZNkxpeFlIMHc0MFpkYW52NmtxaGFTdVVNbzFGdnFDZzhqeUVDNTlLX0RCNkxxd0RwV1ZQNDZNbUdLdS1nU0J3Y2JoM2J0TkFfYWtnaTJkVGxnbVVNbXhFMkdjdHJsS3hibEoyWEwyQzloOW8wRUZrbGhyRC1WampyNE9nWkVtenZUZkVj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-07T23:11:58+00:00",
-      "summary": "Musk Changes OpenAI Lawsuit So that If He Wins the $134 Billion, OpenAI’s Nonprofit Gets It  Gizmodo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,11 +114,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Musk Seeks Removal Of OpenAI Officers - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWFdzZC0tQWt3WExycGlFTTZiV3hhSWVPX1lFdm1HSW5YM3QwU2JhSU96Z1kyVnNrQnZ4NjVKX0o3T2ZxSmtQM08tYldkSHUtRURSRExpQWJ3R1FoQ0kxSWprZkRIQXlyZm0wOV9abE9oSjhNQ1A3ZG9RYWtXdUtVZGd0VXMwdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-07T21:21:23+00:00",
+      "summary": "Musk Seeks Removal Of OpenAI Officers  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDdsUHZfM1VEanlsZWZrTzNrTUhkZFVma0l2M3k4NjdvN0tldEZDM0s4TzJneHdBSHI0YjZpcy1odzN5a0owX2RYVF9DRVduaVFucFZaeU5iRXVsei1BU0pRc3lRVU1HQnRMNUROUWo5U2ZNRzdzNE5NUFp0a2Z2a3RmS0llNXlpU2haRVBJSHB5dUlMVDNVMGM2LU1DclMyZGctLUhR0gGrAUFVX3lxTE5GQktReXBkM3JBV3ZOVkRyUjdPb1V3UnBTOXdvXzIxQ2ZjeWN1R1NUTkljNkptZEJQVXN6Sll6cWcwMUs4M1oxcEZTRjJOYVp1YjlObnotMEFoRVZmOWhjdDRTOGNBZnAzMkNDa1dPMlhkMmhBdHdmRjEwWUpnQ2NYZFdLMm1JVDNBYy1GMEhFRnBLVzBHUG96dE52OVZteFZUdEkwdFhQX0kwSQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-07T21:14:06+00:00",
-      "summary": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit  CNBC",
+      "summary": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit  CNBCMusk Changes OpenAI Lawsuit So that If He Wins the $134 Billion, OpenAI’s Nonprofit Gets It  GizmodoElon Musk Asks for OpenAI…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -139,15 +148,6 @@
       "summary": "OpenAI Just Escalated Its Feud With Elon Musk, Alleging ‘Anticompetitive’ Plot  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI Superstream: OpenClaw and Friends - oreilly.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTJHbU1EU0lkcWcwMy0wbENqX2RFWXNNdFdNbVEyb2VCdklRNTNkTE5jT2Q4RzEwZS1WN3B1bWpGWDNmWWNJbjl3TTNaQmNSX2ZCTUdhYlVVc190bFdvb0RseDN5VzdhRldPLTBkM0NfX2c4dDZ0ck5lT01UbF9wTTZNN0NfQVR4YXZlS2I5NA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-07T20:51:36+00:00",
-      "summary": "AI Superstream: OpenClaw and Friends  oreilly.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI Warns AI Could Hit Jobs, Taxes, and Society All at Once - eWeek",
