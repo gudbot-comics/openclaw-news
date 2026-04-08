@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-04-08T05:27:05.099152+00:00",
+  "generatedAt": "2026-04-08T06:54:08.412614+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Sam Altman resets OpenAI Codex limits - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLTN5UzBNNzFYY21FSG44NExLYktkNG05c3BFcFM1Ml9IRjBtNWR0MnI3SDlCZ1FJME8xRnQ2N0pTTmg4U2l1Qnc0eldsNy1JYTh2V3l0aGQ3VkJRbVlERHo5cjhVY1lVcVRjZHpzS0pzdXdOQTRUemRHdmY4YVRwb1NuTDZyUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T06:10:02+00:00",
+      "summary": "Sam Altman resets OpenAI Codex limits  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Disney’s OpenAI-Sora Collapse Could Push It Deeper Into Epic Games - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnd6ZGtwS3c1RnhHazlOeDZrSUJqNnZUMDVhZFVaM3pmZW9ldUtZMTl4dmh0Y2Fwa2lfNWxPUjNWbE5NeVFIb3NnOGlyZFN6Y01MdEMwS055MEZDUXdjX2tyb1VzNUZaWTMwclFWMW1TTUhVUHNCWThsbVFYZ3c0UjVHS0JON250cXhTVEVMeFQ3QQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T05:32:24+00:00",
+      "summary": "Disney’s OpenAI-Sora Collapse Could Push It Deeper Into Epic Games  HackerNoon",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos - Venturebeat",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmowaTBXMjF3d3Fzd1dXTDhVbXVJeDJ1SUNpSWp4TWVWU19xdFBRR0V1YW9jMDNKa043WVl2WE5jbWxFSzVOU2xwVGcwZkFJbkd4ZnZOb3BNUlJpckhCNzREUDd5LTZrd1R5cVF3TWw3dzB5bDFMWmxZc3JVM0d5bzM1NWxqbFlBeUgtMm5sbEtpUmdiUVZlTE8zX3RPZmx4ZmVlbko5X1VnU0NhaEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T05:30:54+00:00",
+      "summary": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos  Venturebeat",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Anthropic Charges Extra for OpenClaw Third-Party Use - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHhodHVGUUFFdlB6dU50MXlnVEhKek56LW53MkF1a2RaN3p0bFVJUXhFWjAtNzBYeDN1RE5sbFlySHB6d09pUE1oUmQ4N0I2aFFBSWd2S0NsdnVEcm9oWEpFYjZPLXZzTDJvMktfNXFHMmF1Y1dwNWRJQXE5eXcxVkoteEpYcTVpSGpBeERfVGlycjlYdGg0d29R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T05:00:06+00:00",
+      "summary": "Anthropic Charges Extra for OpenClaw Third-Party Use  Let's Data Science",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "OpenAI warns of superintelligence while racing toward one - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObWFmME05eUhjTmRTWG1Hbk13ZUdwYWRWc29rMnA2SzNPb2hyZkJqSVpsZ3EzYWhSNHpkYVRyRXVWRGFtSUlGR2JQb3RNMWZKOUlQMm00MmNsaU1udW1qc0dyU3BUbWc5SnhIc3N2eWc3cUd2aFY1N0ltTjJIY1psbTVHaGpIT0VvLXhSQWZNcFNqVDlUc0JJRTJaYw?oc=5",
@@ -24,15 +60,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Chinese Tech Giants Race to Attract Users as Anthropic Limits Claude Access on OpenClaw - Thailand Business News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRzBLeUJzZkVOam9GVEQ1czNoRlNLVlhMdDhnRkEzNmhla1FreDY3bzZKenlEdy1VNjE3VjFTYmpfdVI2NUVobEEtS0N3TUEwdS1aclFSQlpCOVBBbmxUUUxuVlNOeFd0UDRxQldnYzFTaWJSU2lWQzhnc2VydmxKTmdRdmNzdmllbHJibGg5NzRKbERmdGtHVXgzSDhBbFpXcnNsTXNuQXFwcVp3cmZzWmFOOE13Mk1CSktzc1VkNXhFSzBsZmFNT1dMcWRJMjlzQlBxLVhR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T04:24:02+00:00",
-      "summary": "Chinese Tech Giants Race to Attract Users as Anthropic Limits Claude Access on OpenClaw  Thailand Business News",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "Who is OpenAI’s global head of ads, David Dugan? - Digiday",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1pJNkllemMyWXJ3WnFGeVRKQ3doNlY0VHFIVGlSRXR4Qmc5SGpRaVlXSWhHYW54alhROUFoejFDbVFWUURmU2gwWmN6X0w5RlA4N1lsNFotRFNsR0UtdlFwbk94RnplOGpRV3hTTkNGSERXVmtYdDU0dlhINnR6a1dR?oc=5",
       "source": "news.google.com",
@@ -42,13 +69,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos - venturebeat.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmowaTBXMjF3d3Fzd1dXTDhVbXVJeDJ1SUNpSWp4TWVWU19xdFBRR0V1YW9jMDNKa043WVl2WE5jbWxFSzVOU2xwVGcwZkFJbkd4ZnZOb3BNUlJpckhCNzREUDd5LTZrd1R5cVF3TWw3dzB5bDFMWmxZc3JVM0d5bzM1NWxqbFlBeUgtMm5sbEtpUmdiUVZlTE8zX3RPZmx4ZmVlbko5X1VnU0NhaEE?oc=5",
+      "title": "Elon Musk asks for OpenAI’s nonprofit to get any damages from his lawsuit - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWFFd3U0am5oRjFialJVa29INzU0d25JX0N2VW85dmZQYV96aXVnV0ZHSHdRb3VCYVNYU3JWdWRfMWlaNE9KVG81UU9henlvYnJKcjktTmk1b2ZoaEVjUXNESXltSVdmOVJpcEVXQ2d5OWVzQWxER1VybnFUTUt6anpvUkMyR3pCUTBhd1Y2WEpPcEJGZ2tQcDRrMEo1OGNJT0FVMGp0OURjYkZzU3dGNHpCUnNCVGVVdHBDOXF5YnVaaWJ4X2tZNE5nZ2o0RGtYU21tUXRMNE1SQkRMMFJEZVd3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-08T04:00:54+00:00",
-      "summary": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos  venturebeat.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
+      "publishedAt": "2026-04-08T03:22:30+00:00",
+      "summary": "Elon Musk asks for OpenAI’s nonprofit to get any damages from his lawsuit  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "Evolving Your OpenClaw Strategy and How to Pick Your Servers - ServeTheHome",
@@ -87,24 +114,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "How to Deploy Open WebUI with Secure OpenAI API Integration, Public Tunneling, and Browser-Based Chat Access - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSEU2RGd3enBBZDBZZC16RUhBUUpoNGM5MTNiYWFvZF90dW1nNU5FUzF1NkpOQWJNa1lycDluRkUxYkdNNWhzWFhQZVE2dDNKMll0ZVEtQ0VEWDhWWldLWTRhb0ZndHdPVS03YlZFTFlnaHpPNGlOVkNBT2owcjJKcmtSWDdWaEltWGhWM1h4RVJOam9sOFp1NFd6NVI3c3RGMms2RlFSTTBrdG5zV0lNQTg3Rmw3ZDNRZEYycVpvZEpVbm9vX1ZYcVNxYllYZ01fTmpJY2czRFhkRG5ZUFlqS9IB5gFBVV95cUxQZ2dSdF9mZW1YUE84SWZJc3lQRUxpNmFhYmN5bllaTTBIbEcyb2RaNXVtLVc5VmFrZ3NsOGJDOC12WXVKdzFaSlRoNjByVlFmSlRYMGhEcXNPUG9YQ1J2UkJoZktvYUQtcllhN1VndXFROUx2ZWdNazFnRnZLSkU2b3dKckFzamxHdjVCQjFTMWU0b0NoaEJuQ0l0UFplTVBHWmpIQk1Cb2dkQW5LaGlFaXhvdW5kV0hyWFI2Nk45UkVkcVZzZG81b0Q4WVhZWEdpX3dZYjRfaUphLVptRlFjc3NXM1J0Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T01:31:56+00:00",
-      "summary": "How to Deploy Open WebUI with Secure OpenAI API Integration, Public Tunneling, and Browser-Based Chat Access  MarkTechPost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk asks for OpenAI’s nonprofit to get any damages from his lawsuit - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWFFd3U0am5oRjFialJVa29INzU0d25JX0N2VW85dmZQYV96aXVnV0ZHSHdRb3VCYVNYU3JWdWRfMWlaNE9KVG81UU9henlvYnJKcjktTmk1b2ZoaEVjUXNESXltSVdmOVJpcEVXQ2d5OWVzQWxER1VybnFUTUt6anpvUkMyR3pCUTBhd1Y2WEpPcEJGZ2tQcDRrMEo1OGNJT0FVMGp0OURjYkZzU3dGNHpCUnNCVGVVdHBDOXF5YnVaaWJ4X2tZNE5nZ2o0RGtYU21tUXRMNE1SQkRMMFJEZVd3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T01:18:45+00:00",
-      "summary": "Elon Musk asks for OpenAI’s nonprofit to get any damages from his lawsuit  MSN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI goes after Ari Emanuel’s WME in Musk legal drama - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkVKbTJBa1NkVFI3bmItY2luNXF3cmhod0Y3QW5pZUhUX0RqdDBsNElSalc1Y0xoeFJ1bmwwOVFTZWJIdjdnbVRCZTJVR2c4MllFdU1lYzlCZWJXdnRnbWpoaXNIc0lEZ3JMck1KNERpRU5SdUZGR1ZBdUlrZHRqUVdQMnlicHpneGQtRUIzT0NaSGFfV1hyaDE4Ym4?oc=5",
       "source": "news.google.com",
@@ -127,7 +136,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmpMdjQtVjlKNG00anlMR1JsR0tvbl9Uck9tbkFkcEQzcExDUXJZcWl1M05fR1FIY3lrMlF6alB1dVlHLVNjZm0yd3RLWFpZQTNYYzNoRkZRNTlIZ1hKcFlZRnRBdzZDY2x3MXAyQUxiNlM0WTktZkg4WmhjUGRZV1BaZUM1VDNPTU1WUjVGMUl5bW85ajM1VWJ2LUx0Si05R2FfSkE5N292TEVub0E?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-08T00:04:00+00:00",
-      "summary": "Elon Musk Asks for OpenAI’s Nonprofit to Get Any Damages From His Lawsuit  WSJElon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit  CNBCMusk Wants OpenAI Nonprofit to Get Any Trial Wi…",
+      "summary": "Elon Musk Asks for OpenAI’s Nonprofit to Get Any Damages From His Lawsuit  WSJElon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit  CNBCSF: Musk Seeks Removal Of Sam Altman At Openai …",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -137,6 +146,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-08T00:00:00+00:00",
       "summary": "Anthropic’s Revenue Growth Suggests OpenAI Is Overvalued  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI accuses Musk of 'coordinating' with Zuckerberg to attack company, asks for investigation - The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZGpxVDRqdm5vcmN6dEI3UGxTdFR5emJ3RzljbkczOWQtaW8xLURBM3RsRFFMcXB6MTRXV1JzZ1JOd3lxU09sR3BsekdnM2pseElhemlXdm9COElSdDN0RU5NeXd2OTZPcW82dGMzOEZJRkdGdzBmOXItZlotcWRCd3FMZFdsU3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T00:00:00+00:00",
+      "summary": "OpenAI accuses Musk of 'coordinating' with Zuckerberg to attack company, asks for investigation  The Cool Down",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk Wants OpenAI Nonprofit to Get Any Trial Winnings From Suit - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTFEQWJ1allDTHh2bXNwclFiczRvNlpiSnVDa19vaUR1THo5WFdWRTdTVnNVV20xaDduR2xKcjNqNTN2N3RlMElzLW5vd1ExWUNuV1pPcjJQTm54R2lQdngwZ2tDMkV5M0hoRW8zX0RXXy1NaTJEeDdpZkVJbHVTRmw1YTZ3aGNpdy1fWmJyU2QxTXo1Z05qLURXaUk2ejA4MDdSbUlwa3RBUGVwVFRBVGVkNXk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-07T23:28:30+00:00",
+      "summary": "Musk Wants OpenAI Nonprofit to Get Any Trial Winnings From Suit  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -168,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2dRS2daZzBwMnkwWlA5QXIxR0xiWFk3Y21OZDV4V0hOeG15LTdaVDVpWDNEOUYzdktib3JVRzdLYXYwSElZRVRuMTVsT182dHBzU0s0VmtDZ3A1dVFOMUxfS2xVN0hKNnZZbjU2WjU5ZVVtdjhmaGlhNllUaTlzNEtCU3BVUllxWTR4S2puRmo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-07T22:30:31+00:00",
+      "summary": "A frightening OpenClaw vulnerability has been discovered  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "OpenAI Urges AGs to Investigate Musk's Alleged Anti-Competitive Actions - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnJzdmRHM1N0MkIxRm15Mnk5RUsxQ1dZRGFuN1hOY3NrbDBtdW4xYnNQTllMcVN5am9ZZkE0cU9idWRqNFB3dGhNWTR5MW9KTm5vNEtvMHNQZVFUMXhkaWthOE9FYWFBNmh4MnZxQjRmTmtXNmo4LVRBemxHdmI2RFptWVdJdmJJTkVKZ2hnVzdiNnZsLUpodnZ4anZjTWc?oc=5",
       "source": "news.google.com",
@@ -184,42 +220,6 @@
       "summary": "26-Person Startup Arcee Takes on AI Giants with Open Source LLM  The Tech Buzz",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Musk Seeks Altman's Ouster From OpenAI in Lawsuit Escalation - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHFTT1hmUG1MY2s0dU5NMTA5T0xpZVdHdUxuWUxiSEE5MVJXc1RvRkpNaVpicldSVTJRaC15UUlpSTdnczgyaHVXRnF0N2NJWElhWkpKZENjaE42ekwxcUhxeHJPQ2Mya0JNSGVGS0FZaVo4czEtODBnNU5lTzRkUDFNWW1TaVNaZUhMRDRCYU5Ud1pJZmFkaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-07T21:42:00+00:00",
-      "summary": "Musk Seeks Altman's Ouster From OpenAI in Lawsuit Escalation  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "I can’t help rooting for tiny open source AI model maker Arcee - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRjEzZUZrT1hVNzBKdlNNWHIzampDVHlSUlVpN2RvSjRlYVl6ZUVsSVlOVkI2Y2xiUjNCT1dnbDJaVDdjSWl6Y2xhQkhDV2l3Z2dvSmY3MlAxWmNORVM0MTNtMW1tS3pmR0ROX0VJcl9tMWJ4TTAwRGNIWFdhV3BDTWtjLU5BaWlQQk1nMmo3Wlc5UmhwT3dyUXRBZWg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-07T21:35:02+00:00",
-      "summary": "I can’t help rooting for tiny open source AI model maker Arcee  TechCrunch",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI presses for investigation into Musk ahead of trial - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2ZjV3N1cUNEaEhBam9mSGF5OWVaa1lzVU9aOEJ5VUlVTXhoT3FKc0dOaHN4WWw0NDN2SUE3bUp2OHhRTlFZYTRmajZiTnRQTmhGckc0N0NWX3FvQ1Ata1IxTV9NMENocXVHeldjNWx0c0VtRUY0YnhKYzMtZnFiOVdsWldoSVoxMzdmdmJzQXl1TWhvRXdMSVZzeWRoVTBWX1BfN2h0TFJpVjJWekHSAbMBQVVfeXFMUFFDSnhnelFiMi1JS1FMVEZ6NURKMG5RUXhubzE3RHV4enBENDZrWjRidXNld3dnQmhFVVdBVmdSUUdFV1lMY0l2UXVWRDhod3MwMHJISG1iZDV6S0pQamNPV21UemQ0VGZQMTlUY1hUTHRlLVdTOTRxNWlLclQ5bC1QSDZBcTUyOVhtekNPZnJ1ZmUxcmFvLTNIVmszTlpJNjZPSGVqcXZGM3RJM3FLNkJ4c0U?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-07T21:34:00+00:00",
-      "summary": "OpenAI presses for investigation into Musk ahead of trial  The Hill",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk Wants OpenAI Nonprofit to Get Any Trial Winnings From Suit - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUDM1anFtbkJpWW5Nc0JaVk4wTjdPb2lzcHpiaWRTeTEzUXRRTW9NeEtMby1TdXZSUGZiMzNGZlpweU5KdlFqakFQVHFWcXJlQjhUQ0NBVEx2cjB5VXVOakVyUnRxMDZDYlAycVdKeFpHenQ5RjZyNGJrRml3WE1lY3J0cGExcFU2ZnJ0T1dBTktHcU1iYmZkNmlfMTBkem1qSmhZd2tuaDRLbnVDVWhyRXAzZVJwSnZQV2JmX0ppa2VOWkNYcm9DeE9aOGNQY2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-07T21:11:57+00:00",
-      "summary": "Musk Wants OpenAI Nonprofit to Get Any Trial Winnings From Suit  bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
