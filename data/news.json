@@ -1,16 +1,79 @@
 {
-  "generatedAt": "2026-04-08T12:40:44.465544+00:00",
+  "generatedAt": "2026-04-08T14:19:24.266429+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Raspberry Pi grabbing agentic AI with OpenClaw - Electronics Weekly",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYXUzZzlBaHZlTU1NQ3lCMmFFX19RU0N0ckx1dThlVXVORmpmMlZ0M0M4cVpQZWdQVVNGX0NKTWF6eEJKRWc5Mm5DaW9HX01ZS1hIemhoMTFUTnlEVFllQUFibm9mNm5teS1sZjRjdkhYb0NBTW5Cc2JzdlozckxhMU5KRkZhRno3anFwSGNuVUZ3UE0wbEVqaEFJcHluN3MyNFJSc212T19CdF9kZDBHZzktSGRlM0RYaW5SUVh3eTZnQ2xGcWJfYmZySmlNaldTb3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T13:53:56+00:00",
+      "summary": "Raspberry Pi grabbing agentic AI with OpenClaw  Electronics Weekly",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "The vibes are off at OpenAI - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXN2dkw1SF9sa3A1dXUxZDYxNlpzallDVDRMR0hHRFdSX2Q1cUtjREp1Z2psaWR5b2I3bTBjNUZEeTdJM3cyQ19IQ3l2TTZRcEhLLVlNWnRpY3hmQmZjUmVZem1YNE03QmZlYkFobzhRdmNQSW1hTkR4bWZZZWxSYi1mVFcxRGlBcVZLZG40WQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T13:47:38+00:00",
+      "summary": "The vibes are off at OpenAI  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmhldVNySHItMHR2YWVBNVRkNGVZVmxiZnBqWVhMWjVCa2FzYS1McnU5dkJPeU92bEF2VDdnaE5Ick1XOWoxV2ZVSEZPNXZwc2hHTTREWktscGVNV1FCY0l5RWZld1Zic3c0OTRjZHVlLTBSOVludnh2WU13Q3lWWUI0S0VBbm44U2UxS1RiNXRUNy11ZUlMb3cxMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T13:40:00+00:00",
+      "summary": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s New ‘Industrial Policy for the Intelligence Age’ is a Policymercial - techpolicy.press",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWDQyR1JiSUs2TEtUWGZEZWQ0aWNaRFZWZTNNcVpVNmthbDJuMDdVRE4wV2RRRDFRQkpSZmE4cmV6Yl9FRGliRFVMX0FEZ0w2dFRTWTV1dUVfVUF1MGRDOTYwR1NoSGJ2VWR0RlBzRWJKNGtGU3c4Q0VYdjg0cHNia0VwMUk1cTR0UFZWeDlJS3E4el9WR1k2SzdzRlp6YXUxWWh0MHZB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T13:21:03+00:00",
+      "summary": "OpenAI’s New ‘Industrial Policy for the Intelligence Age’ is a Policymercial  techpolicy.press",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Vision: Four-Day Week, Robot Taxes & Wealth Fund - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0xtelhvWnI5TWJ0UzZuSlBZN3FvZUYtb3V6NFJ5MHl4WVA0N1pCNUFQbktHemU0aEVpSE1FbE5IMjAyamJKZkRRRzNDSEYtMERpaDRYSHhFdkZ3SGpVM0RKQ29LWXNSMWR6WEsxMVY2NDUxUXo2MlpZRDAwRUs4UmZZZW9WZVk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T13:07:54+00:00",
+      "summary": "OpenAI’s Vision: Four-Day Week, Robot Taxes & Wealth Fund  AI Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI alumni launch Zero Shot: a $100M fund that’s betting on vibe coding - Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80VXVoallRS0JfZC1nMlh4TXJtSFhIS3F1TlBNVGxDOGhfLXJOUjAxLS01eTlNWlBTTmdDajNDdHFJb2kyY2lkcXVWS3BCTXhnM0JnYXNoeFFvRm9WY3hPZ0U1TDUxQVVpOHZWTTBlM1ZqUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T12:45:04+00:00",
+      "summary": "OpenAI alumni launch Zero Shot: a $100M fund that’s betting on vibe coding  Tech Funding News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "The Week in Tech: Social media use falling and OpenAI’s manifesto - Marketing Week",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTamtkX2tTaXd2ZExQeG56LWRtLWFyRnJMTHBvb00wS1RXaFlRQXk3bXlMcmRmTVJoNk00djVUdTNfMlVNZ1FfV1NMdnBCaWJibGE3MHlNajRCWGI5MGlhVElfMzh3ZTNXMjdjS2lKd1REWFVMaDB6cUhnbjBWRjQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-08T12:34:15+00:00",
       "summary": "The Week in Tech: Social media use falling and OpenAI’s manifesto  Marketing Week",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Disney: Looking To Save Part Of Deal? 04/08/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHRRTi1qVjBzS1BpQ0ZxLWxMYzdOdmZPWjJkcWphU1FLRHM3V3BNMUR1enFSV2w2ampsb2dKTDUzSlJHUTZoMVVVNjBxbUQ3ZmVxcGRORXNBY2J5bFdXWHlXbTdBOTlRT3dHck45aGhINzBFZWVpR2FYdmJIRjNUdXcyeGxPcVFJNThVZ3BBZG95d3FHT2V5ZDkwYmV2RXV2UkRR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T12:00:28+00:00",
+      "summary": "OpenAI, Disney: Looking To Save Part Of Deal? 04/08/2026  MediaPost",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,15 +92,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-08T11:04:14+00:00",
       "summary": "Off Topic: OpenAI’s TBPN acquisition is merely to save face  Washington Square News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic’s revenue run rate just topped $30 billion — that's ahead of OpenAI, depending on how you count - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUtiOGp1ZFM1eUFvSmxDSjVIT044WGxMY2RBejRkcGdITGJWS0xqclRNaUs3QXhCSHZ6WS13ZWVYX0lYU2k1b3B4R1BnWGh6UDVjN21INUFSYmJWUzlXNTF6akMweV9tblFIelROMHV6YTFxcGRYU1BCRnRGelUtd3l2WU1CN1Y2ampfR0RuUVJVZWpZM0ViTUFIRE1GV0daYVpZNFpB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T10:50:39+00:00",
-      "summary": "Anthropic’s revenue run rate just topped $30 billion — that's ahead of OpenAI, depending on how you count  Sherwood News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI calls Elon Musk lawsuit ‘baseless’ ahead of trial, says case aims to undermine rival - Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmNtbUUyYXJBcXVXaTZ4OTRScXd0alBibVQ4cC1ha3huWlpwXzZGX0tIMTVoTDNTYlZ5aS1YbU10NXBxSTBaMEF1ZFdLRko2a0xtWlc3dExEWVp3NzR1OUxtc1pjMkZJbk1DZnNsczkzTHBSN0cyTXlENmdram1zYzN3UFZoM3NxZ3NsQTJ1d3VFdXRscXhvOTlydDlZbnI2dmprZjRzY0NYdVQ2Y3hOb3ZVMlJIYUM4Q1FlRGVSNjJmUGc2YnRPVlEyamQyQjR20gHWAUFVX3lxTFA1MC1hdkxlQ015M0VpQWM3TnlFb2RuM0k2Z0RxYUdtbFZydUFwa3JDSnFzY1VuQnMzYlYwNGtTSmF1MlJZeXU5MjNickdDM3dmYnNVN3FZSHVPMVk4SWx4WUpwWGFIX2pzcE1zZmxQRUVfUmxZbTltUk1TaWpIZjFYSE0tWm10cGRkSHhpckRIR19DQklfUDhCaGtJNXJoZjBINjRGQ2VSaWxIellVcW42eGdSRHRQZDgtM3R5dXI5LUxKY0hITUhaNXl1WU93UXRMQlZ5alE?oc=5",
+      "title": "Elon Musk seeks removal of OpenAI's Altman, Brockman in lawsuit | Daily Sabah - Daily Sabah",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQREFrdUFvRG4xZThBa3VpcFNTMXdzb2ctRzdTYUxVMzJYTlFZZk1oWFlZRmV0bVNYZy1TT1BkTGpQSHdDYUlNendka244VjZUV1RLRDB0U1FQX2E1TVhXYVR5N2NkUlF5NWlDTFFMX3BFX3ZiWWdRUkxlODRZNVprWGFNSWJXV1pFUkFCWWI4MzZxNXdReUZ0dDBWck1DT1dURi1LTNIBqgFBVV95cUxNbEhUWFhrZmNJTng3Nk8temI2Y3piYWFCaUVhYWwyRFJtZUtIMUlKNlpnUE1LYTlMeGthOEszTVhHTldsaHhOZ1ZacUZPQldvY01yRWU4WGN2bDY0NDhjUUFQa0Rkakl0akpJci1nX2ZUN3gyVHpRYUFkdTIyZms2ME9iWUhtQm1HWGlocV82dGNma2tkb0tvQVZtcjNBcmg3enFucFZHWEd1Zw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-08T09:36:15+00:00",
-      "summary": "OpenAI calls Elon Musk lawsuit ‘baseless’ ahead of trial, says case aims to undermine rival  Storyboard18",
+      "publishedAt": "2026-04-08T09:44:27+00:00",
+      "summary": "Elon Musk seeks removal of OpenAI's Altman, Brockman in lawsuit | Daily Sabah  Daily Sabah",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,15 +159,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "I vibe coded time-saving tools for boomers like my parents. They picked up on AI fast, and it's made their lives less lonely and easier. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWdDT0xfOERVMTVXUXRKREN3UmhQOWRmOGowUFNyV2haeFlucFJsZncwVWxqYzY5ZU1zS0xCWjdKM1ZjLUpqajFUWkpXOWRHT3dwdlhROTNMN1Z0MmR6YkZzUjJzUW5QUWNFNF8yRHNVOW12WUNQWHI5S0EtOXVlWUoxOGMxbTZzZHVhdlhzMmE5cW1WS3dINzIyR1B2TE9x?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T09:02:00+00:00",
-      "summary": "I vibe coded time-saving tools for boomers like my parents. They picked up on AI fast, and it's made their lives less lonely and easier.  Business Insider",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "OpenAI Slams Elon Musk's Lawsuit As Driven By 'Ego, Jealousy And Harassment' After xAI CEO Pledges Any Damages To Nonprofit - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRk1pTG5HUWxTN1NhQkFPWndIQlp2X2dibXM5UHhCWnBwVTVjb2pOeVU5YTZUMU9vcTR2OS1NSFY4ZUhDUHk0S0RKdnR5WmI5dW5ER0xheDlhNFN0YTVHSUFpTEFja3NsOEViX3FRVURpTU5uWXo2SEtwMVFKM3NNWVNJVzlXWTVYcG9zXy1lNFc0ZFV6SkhrQWFRWjRIWnhKVEtxQmRBcFRQVzVxay16ZVotZ3FOUXljbXlBdU9MSk1uajR1b3duelVuU3RYd0VqeUJ2SG1lSFNhM2pNWHdEdmMxbDVfRFQ4aEJvT0VhV2w1Z0p6MUdsZTdZUkZGei1NdUpyQVNkdEc5QU9wVktnVHpEUWI?oc=5",
       "source": "news.google.com",
@@ -132,11 +177,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Trending Industry Today: KNOWLEDGE ATLAS Leads Gains In OpenClaw Concept Stocks - moomoo.com",
+      "title": "Trending Industry Today: KNOWLEDGE ATLAS Leads Gains In OpenClaw Concept Stocks - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXYtV29MdlNrdFlla1JyNGEwNi15TGppcjRMRjlCQU5jbXRYc3ZiS3g4YWQ2WnJRMVBSTnVmQl9kMENlNHdnaG1xTmN2bGFqZ0wxcXFGT3BfNTZtcnBmbEU0dmFkeXlidE1tYk1pbG1WQUJhVUlZd2xrUlUzbTA3bUZseWViYjF5MEJKQ0NFTktxcUExVU4weVBka3FTSFdWNWMxeFlGN0gtdlNUOEdpU2Q3TQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-08T07:10:00+00:00",
-      "summary": "Trending Industry Today: KNOWLEDGE ATLAS Leads Gains In OpenClaw Concept Stocks  moomoo.com",
+      "summary": "Trending Industry Today: KNOWLEDGE ATLAS Leads Gains In OpenClaw Concept Stocks  Moomoo",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-08T05:58:39+00:00",
       "summary": "OpenClaw CPU Agent And LLM Inference  ServeTheHome",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Disney’s OpenAI-Sora Collapse Could Push It Deeper Into Epic Games - HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnd6ZGtwS3c1RnhHazlOeDZrSUJqNnZUMDVhZFVaM3pmZW9ldUtZMTl4dmh0Y2Fwa2lfNWxPUjNWbE5NeVFIb3NnOGlyZFN6Y01MdEMwS055MEZDUXdjX2tyb1VzNUZaWTMwclFWMW1TTUhVUHNCWThsbVFYZ3c0UjVHS0JON250cXhTVEVMeFQ3QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T05:32:24+00:00",
-      "summary": "Disney’s OpenAI-Sora Collapse Could Push It Deeper Into Epic Games  HackerNoon",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk Seeks Removal of OpenAI Executives - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVE92LUZYLXdBZWFDYXhJZ292aThDeU9hNTFnUDE2ZUFnazlvbFJSWFJPanVTU29zd2RhVWcyQWMyMUhrTTFqVVpmZ0hHUXZ0ZzA4OGtFRnZwQlllY2h5c0QxR3gtT1BQRlZ3SjkzQmV4bjMwVGt2TzFLN1F4NGVRUTlVWWp1bHpFRTcyYmpMcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T05:13:40+00:00",
-      "summary": "Elon Musk Seeks Removal of OpenAI Executives  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Charges Extra for OpenClaw Third-Party Use - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHhodHVGUUFFdlB6dU50MXlnVEhKek56LW53MkF1a2RaN3p0bFVJUXhFWjAtNzBYeDN1RE5sbFlySHB6d09pUE1oUmQ4N0I2aFFBSWd2S0NsdnVEcm9oWEpFYjZPLXZzTDJvMktfNXFHMmF1Y1dwNWRJQXE5eXcxVkoteEpYcTVpSGpBeERfVGlycjlYdGg0d29R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T05:00:06+00:00",
-      "summary": "Anthropic Charges Extra for OpenClaw Third-Party Use  Let's Data Science",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Who is OpenAI’s global head of ads, David Dugan? - Digiday",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1pJNkllemMyWXJ3WnFGeVRKQ3doNlY0VHFIVGlSRXR4Qmc5SGpRaVlXSWhHYW54alhROUFoejFDbVFWUURmU2gwWmN6X0w5RlA4N1lsNFotRFNsR0UtdlFwbk94RnplOGpRV3hTTkNGSERXVmtYdDU0dlhINnR6a1dR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T04:05:14+00:00",
-      "summary": "Who is OpenAI’s global head of ads, David Dugan?  Digiday",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Usage Surges, UGM Expert Warns of Data Security Risks - Universitas Gadjah Mada",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmV5RG5BNFVIbl8xUEJ6NEZaMi1NTlF5TUoyTzQtMUZ2a2pOVVhocld6SlFuS01HVFNWVzIybWxXa01qUkdWNWVHNUt4TUgyRUZQbzRDNVNlNlhDdzF4WFNMZmZyTkxqTWtaekQzUzMwdEhhZGplUElyczNPcFhHVWVOdWZSQ210SkdJWEtlOEZxQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T03:56:00+00:00",
-      "summary": "OpenClaw Usage Surges, UGM Expert Warns of Data Security Risks  Universitas Gadjah Mada",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     }
