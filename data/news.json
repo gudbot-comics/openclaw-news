@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-04-08T19:38:36.815876+00:00",
+  "generatedAt": "2026-04-08T20:22:23.959559+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI made economic proposals — here’s what DC thinks of them - theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSkR5dWpEY2xUUEU4RllKRjczb0RUWDU1aDVoNHFsMkhLY0U3bllQbksyb0VsRGlFUjZCdUx6dEpLdGVDQS1zYVJYeEFMUGRPYzRJcElPYmFRMUp1aFkwQ3NfeHNKaEdESmIzaF9QSkxWaFF2aS1MdzRldExNZEM1MG9MNENsQkpRZlhUblcwMHlnSGFDb19FN0ZLNXJRdkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T20:14:00+00:00",
+      "summary": "OpenAI made economic proposals — here’s what DC thinks of them  theverge.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSVVwSTdSNXhQalc0eEV5YWhwNWtMS0xYWHNtOFJMa05xaTlfWXZDdTFsYzBwS2hlbzJDem53Rkt4ZDlIcjFxNWNTNGFoaE1kMG15ZXdmYUw1endPLXg5em5ZdkxKX3N1TXQzZUJkRTMzbFJRa2RKSnNGcnBXOUFtMDJCR0JJUnVXWTlzYlVGRG45Q0ZESU9lN19ydVpoamtLT2RpSG9QckFENHFwQWRFWWpRdWtDTFdOMGptVGNlZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T20:09:14+00:00",
+      "summary": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic may have closed the revenue gap on OpenAI. Here's what it means for their IPOs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmptOUE1QmtCdmpfNjRsWllPSlI3aE12SmNTZG9wTU1qbV9QZTFkTmJEMVNSYUVKMERmV1p5a2hGRUNwZ0RiZDVvS1BfR08tb044MUdmenJDV0UwR25ZNDl3VnQ2WThGYVZmdG0xOWZIV0J5MUh2QlhqbFlQZ3dPcVlnRDQ2cVV1WG9yUDZ3dzZXcE9zcWM1RG5HeGdRZ1BLY01WZks1U0g5WFJmdTF3eWF4U0lqWWlHZXQxdGlFOEFjOGtabUJFYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T20:00:00+00:00",
+      "summary": "Anthropic may have closed the revenue gap on OpenAI. Here's what it means for their IPOs  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How dangerous is Mythos, Anthropic’s new AI model? - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWVrZ1djYW11TWVoSzdTQWJwdEZTdldDQktTSnBCcEFJQzBjcTJpUVlYSFRFcEE3TlB3eDFrQUxUcGRhNE1SUFBkU2lORXpjaDdDQnJsTkgwQ1hfaHg1RW1qSElKMjg5T0NBM0U0aFNYeE94U203N1BVeFB0ZFNqMVh4SjNZbWNBdEJla1otc19tQThDcURDTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T19:27:14+00:00",
+      "summary": "How dangerous is Mythos, Anthropic’s new AI model?  The Economist",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Why OpenAI bought 'SportsCenter for Silicon Valley' - NPR",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0dwYnZkaFhPNV9jTHpiY3Y0MXlvUnkzZm1WVWNQRWpXR0xxUDYxcGpKN0NfZDZWNmZKR015NXctcGtNWURBUVpadDVGaUxIR29KaFlheVExMEJwc0psOGh1d1pXNWZzaG9mMWRMeHBIS2tPd3l4MFJfR3Z0ZDhhck9EZmJ2S0FJS2c?oc=5",
@@ -15,20 +51,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI, Advocacy Groups and State Officials Want Tougher AI Rules to Protect Kids - cnet.com",
+      "title": "OpenAI, Advocacy Groups and State Officials Want Tougher AI Rules to Protect Kids - CNET",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1BjYXBiNzRVZkRUaHNaZkR5LVV6bmk3ZGVSYllPNmxFNGdlZTk4NlFUcHJkMUpoSy0tY3N0ajJtWEw1d003MGl0emJELW9IcDdaUVRCaUw2cmdMekVHdW5fa090Sm1mVnVGaGFhV3B0RXVmUGpnWHhjUVNWVWhfRmc2RE1WTUJ3azQ1UlJxbVRxT2hOaGxTNkQxMXJSSWM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-08T19:10:00+00:00",
-      "summary": "OpenAI, Advocacy Groups and State Officials Want Tougher AI Rules to Protect Kids  cnet.com",
+      "summary": "OpenAI, Advocacy Groups and State Officials Want Tougher AI Rules to Protect Kids  CNET",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI Sued Following Florida State University Shooting - Campus Security Today",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUJZeHFVeGVUX0xvQnFCajNPZHBkZENvNjg4bUp0UF93RTVYeDdfUDdxV0I2aXBoUlpJeXpmRHpkSEd3RWg2cEk2bnpJcDlnZzFoQVhicXVCcVhsX2JBeUVzdXNKTXE1UE9IbkxHVHU5YXZEbjVqV01BU3RXYVcyOEhuR19SMGdLeHRHaDJqSnA0SUNNejFHbU5SMzFaTFdNY3NES1NkUGRHbEVndVRWQUM3NURJckpMX3JLbTF0QzBVYllvLUlV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2FXMnA5QmhJd1hqU1VuWHQ0M2tJaUtrdjlia3NveDhlZllPRkNvNHJCemJTZUtOS3RUT2l3eWZXeXlTamJEUXBOZ1p1YTAyYzh0US1Ub2ZEdkl6T0dfbGV5X1ZYTkxZR3l5cnZYSVBSTU1ab0pnLWRiVHRHVVZHU0ZybXphODFGaW1NOFE3QnBfU0doTmRLdnZ3SGI1M3pVWkJWVDRMWXVKN0l6TXJ0Rk1B?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-08T19:03:43+00:00",
+      "publishedAt": "2026-04-08T19:03:44+00:00",
       "summary": "OpenAI Sued Following Florida State University Shooting  Campus Security Today",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk Demands Removal of OpenAI CEO Sam Altman Amid Lawsuit — Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2FhUjllQi1qcUpBYk1IbEVTZTYzbWdQeExOZll3LUhSMG9tc0hYamozQnJzNGVUeXBpWGc4ay1BUzc5RHJ1d0lkTTVWRXdodFBkTHZwMWRXWG5iQWpodkxWYlkxem5BTm10eEJVcTlPaU9yWmg5WEd2R0pwZVk0Tng1MjhEZW03cVRLa2JVWW56eUtDTzI2SmdZa2ZHTXZNTzB3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T18:56:39+00:00",
+      "summary": "Elon Musk Demands Removal of OpenAI CEO Sam Altman Amid Lawsuit — Report  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,11 +105,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI alumni launch Zero Shot: a $100M fund that’s betting on vibe coding - techfundingnews.com",
+      "title": "OpenAI alumni launch Zero Shot: a $100M fund that’s betting on vibe coding - Tech Funding News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80VXVoallRS0JfZC1nMlh4TXJtSFhIS3F1TlBNVGxDOGhfLXJOUjAxLS01eTlNWlBTTmdDajNDdHFJb2kyY2lkcXVWS3BCTXhnM0JnYXNoeFFvRm9WY3hPZ0U1TDUxQVVpOHZWTTBlM1ZqUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-08T18:39:52+00:00",
-      "summary": "OpenAI alumni launch Zero Shot: a $100M fund that’s betting on vibe coding  techfundingnews.com",
+      "summary": "OpenAI alumni launch Zero Shot: a $100M fund that’s betting on vibe coding  Tech Funding News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Polymarket Odds: Will Elon Musk Win his Case Against OpenAI’s Sam Altman? - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXFOUE9mOHNucnVEVlNKMHNNX3Z4UEd6aWowY3VsQkgtQ0x2MXo3VVBNWW5Vdm1DcU5QejZ6QUJYdGFnaXNweHNCUldLTXRmU2J2eHEwYk52UHpVSmZ3OVRTc2dtWklUNWx0M21Ia0h4ZERQS1NTZ2tNNUVFaFFDLWxETUpJTHI0SWNvU0VIQzFGeEFhUGFJcWRLWkplczdfSEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T18:33:45+00:00",
+      "summary": "Polymarket Odds: Will Elon Musk Win his Case Against OpenAI’s Sam Altman?  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmhldVNySHItMHR2YWVBNVRkNGVZVmxiZnBqWVhMWjVCa2FzYS1McnU5dkJPeU92bEF2VDdnaE5Ick1XOWoxV2ZVSEZPNXZwc2hHTTREWktscGVNV1FCY0l5RWZld1Zic3c0OTRjZHVlLTBSOVludnh2WU13Q3lWWUI0S0VBbm44U2UxS1RiNXRUNy11ZUlMb3cxMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T18:30:00+00:00",
+      "summary": "It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears | Emma Brockes  The Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,20 +150,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI is shutting down Sora, but OverDrive’s fight against it continues - crainscleveland.com",
+      "title": "OpenAI is shutting down Sora, but OverDrive’s fight against it continues - Crain's Cleveland Business",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmkxQVJyQ1JxT1FfMEVibGhWM0VFYmFqT1pralQ3NEp0cXNadktKQXJwM05yN1gwLVNHUzZhcmpWcnBLX1hUbEZ6US0yNHRUdnF2ZnRjVmlwaW1fN2VwZWxWOTVFYmhnLW1EaENSOU1RZlcxZk5qSFJuRUcxRlVIeUhnT2tpMUZnVFVpZHJpMzY3QQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-08T18:14:00+00:00",
-      "summary": "OpenAI is shutting down Sora, but OverDrive’s fight against it continues  crainscleveland.com",
+      "summary": "OpenAI is shutting down Sora, but OverDrive’s fight against it continues  Crain's Cleveland Business",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Unveils Critical Child Safety Blueprint to Combat Alarming Rise in AI-Enabled Exploitation - mexc.com",
+      "title": "OpenAI Unveils Critical Child Safety Blueprint to Combat Alarming Rise in AI-Enabled Exploitation - MEXC",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HLXdjR0pxRW51UHZVMHdDY3Y2aHBkYkpRUDFZSmZQOGItZ1pWY2x4ZWpEck5zLWVrUVEwcjUwb3FhLXZ5QkZaWQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-08T18:08:40+00:00",
-      "summary": "OpenAI Unveils Critical Child Safety Blueprint to Combat Alarming Rise in AI-Enabled Exploitation  mexc.com",
+      "summary": "OpenAI Unveils Critical Child Safety Blueprint to Combat Alarming Rise in AI-Enabled Exploitation  MEXC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,20 +177,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The Revenue Models Behind Today’s Top AI Platforms - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEQ2SV9tMThCek4wcDNCSUFJQkZ4SXNSbkpPUEtuZkFCMmlzUjR1WGtuNFJNc09iWTBxb0NzNHV6d2MzN1RyalJOZXlneHJJWWFxc3JBd1hYTTBoYlZJMGhzazBXb1JMaWF2RmFTZmI1d0hLZkZRV0Rac3poOHZKemFYMV9IcVNESlN2dS0yNUVCWXphY2VuSXFEY1pCdkwtUTVmbEFGUQ?oc=5",
+      "title": "Meta Rockets 9% After Launching Muse Spark—Its Mega-Billion Bet On AI - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTnhhMzdfTDE4cms5SnB1c3p3eHVwVk5wa0xfSjBaZk5ZT1NhVDM0YWhOSktCdmp4VUY2M1dSXzItOGY1TFFXRHJvT1luZWhXOEJtdmo0NklMbGc3UjA2QlpBWUgtU3dmeEdrUG90WWl6MUNGb3pCMEpJZVh1NzdBQl9SMUdDVVpuaDFVRC01MzBQc0xYMUNoUURRdGNINHEzUnRuUnJwTU14RG85VDlfejdLMVJkYUx5YzJacjBjbWgyTWdRNnF6QVNvYnZUSjREeldVazNlQV8zT3pTR1E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-08T17:57:59+00:00",
-      "summary": "The Revenue Models Behind Today’s Top AI Platforms  PYMNTS.com",
+      "publishedAt": "2026-04-08T17:46:00+00:00",
+      "summary": "Meta Rockets 9% After Launching Muse Spark—Its Mega-Billion Bet On AI  forbes.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Meta Rockets 9% After Launching Muse Spark—Its Mega-Billion Bet On AI - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTnhhMzdfTDE4cms5SnB1c3p3eHVwVk5wa0xfSjBaZk5ZT1NhVDM0YWhOSktCdmp4VUY2M1dSXzItOGY1TFFXRHJvT1luZWhXOEJtdmo0NklMbGc3UjA2QlpBWUgtU3dmeEdrUG90WWl6MUNGb3pCMEpJZVh1NzdBQl9SMUdDVVpuaDFVRC01MzBQc0xYMUNoUURRdGNINHEzUnRuUnJwTU14RG85VDlfejdLMVJkYUx5YzJacjBjbWgyTWdRNnF6QVNvYnZUSjREeldVazNlQV8zT3pTR1E?oc=5",
+      "title": "To beat Altman in court, Musk offers to give all damages to Open AI nonprofit - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3QtSXJrN0Rib0RrU1BWYTltcmU4d01oc0RQNUZGNWJOSnA2eDBraWVic081ZUNDM3BGQk50NDg5bzZ3cXRFcXJ5UkJzZVl2b25QUU03UkM2d0JMZHNvc2lDU1NxcW9KMWJMMzBxdmhHZUFQa3pzQlFkeG5xMVAxd1BnWVl5TmxBLU1pekF3LWJSMmZvUGFQMWNMQ01iQ2JJd2xTb0laS0QwZmZ0VzhFLTJ3ZU53aEVEZEx2SUV3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-08T17:46:00+00:00",
-      "summary": "Meta Rockets 9% After Launching Muse Spark—Its Mega-Billion Bet On AI  Forbes",
+      "publishedAt": "2026-04-08T17:37:06+00:00",
+      "summary": "To beat Altman in court, Musk offers to give all damages to Open AI nonprofit  Ars Technica",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,83 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI acquires technology talk show TBPN in surprise move - Arizona Digital Free Press",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmF5RVNMbjJPbVJWTGhqbEhYdXZBbTJORU9VOTV2UEJkbDFQUTRxeHF0bElEZzQ1VGNtOGV1NFVJQXVyZ1lmdGFKY2tDTFB0T1pkZWdYMGJDZmpLZTBYQ3pkNHF0S3NuYlM5T2JNSzVlaFI3VzRINEtvLWRVSTVFRUtLYS1raFFBZ2pCM2xTbW1tMlhuQ0dzSnpjbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T17:30:00+00:00",
+      "summary": "OpenAI acquires technology talk show TBPN in surprise move  Arizona Digital Free Press",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWThaMlBvWFFESlZ4c04xUldwTDJtMHJuTUdLNTUxc1NVOVJ0S1VfejlxemRwbTZQbFlIdzVNOV82QTE2Ql9qekFPX1lUb1dYRU1IblYwUmhKamF1eUd3UGNaNk12UWpiamF5V0FFR21WZHQ1NDJFMWUyZmZ4ZHFNcVJNSG95ZFBDUnBBSWZHOW1ia0dTQTJJVHlWNHVfNkNuRkk4a1hteTNsRW1XdTloLWl2dlU2R25ZR3pEV2xRbw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-08T17:11:00+00:00",
       "summary": "Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2dRS2daZzBwMnkwWlA5QXIxR0xiWFk3Y21OZDV4V0hOeG15LTdaVDVpWDNEOUYzdktib3JVRzdLYXYwSElZRVRuMTVsT182dHBzU0s0VmtDZ3A1dVFOMUxfS2xVN0hKNnZZbjU2WjU5ZVVtdjhmaGlhNllUaTlzNEtCU3BVUllxWTR4S2puRmo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T17:02:11+00:00",
-      "summary": "A frightening OpenClaw vulnerability has been discovered  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Four Day Work Weeks, Public Wealth Fund: OpenAI’s Ideas For Our AI Future - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmJZMDRDX0w5VkVqZDdSX1MwSV80Nm4tRjhuMk1mc2VXTFZXZXVwX05KaHNldzNha3ExcUQzbDYyNEFGRFVVbzBBbDNTYVBHYW1WUS1UVkQtU2tuMDFJZE9YNG42a3VTTjJWdGlDcF9ZSzBJZWVtTVZiV0VScndvLUl5VlhWbW5SNm11OFY1WnI4UC1pN09BM2ViM3RZM0FGOXg4TGVNUmNMa091TDBQV2ticlBHQnZfaE5KSUphVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T16:55:58+00:00",
-      "summary": "Four Day Work Weeks, Public Wealth Fund: OpenAI’s Ideas For Our AI Future  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FSU Victim's Family Sues OpenAI Over ChatGPT - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc3ZiOUJpZG1zb2hkdnp5ZmFzd1NjZ3MtVDBtakdfWllXbVZMU0tFM2pqakw2SHdfT2lrUlppay1xVHFOVXgtZGFkRFk3elo2aGk2N1FYandKRzJrY3dsc3kzYWwwOVRCd0tjWWVIR0dOMHVFdnpWVGotajRmT1BtMnZRdEhsUi1lQVlGYlRn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T16:50:00+00:00",
-      "summary": "FSU Victim's Family Sues OpenAI Over ChatGPT  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Marc Andreessen sketches AGI pricing for advanced AI systems like OpenClaw - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTWc3T2doQ190TEMtV3RFU1JmbVpXMGluUEhBRERHbTJ3dnZVWFp6RXpHR1dtTDBWYkp3aXRkY3hiUkhrTDROWUE4c251RXJ4QlFtRkswbXpSeFExUnk2SzkwYlN5eXlaNF9aaU5QLTJwbnAzWHEzRjhQZTMtbUNzLVZvTEI3dklSR2pqZzFUSjZDc0hoSE9QR0NJbExyODJiYlB5WlN6aGVjQ0Rtc1RhV1ZPMzhicGJZT0M4UWg4UG5rWWVJMXpFVkRMMUtaek9CcW9WcUR2bkVJQ043UkhqazlGWkdRU0pBaU5sQkpR0gHzAUFVX3lxTFB0SlZ0WVlZbFRGYVk4NWlUb2JOcmxta2dJNjJsX3E3WEV5aVBXRmZfWFFpOVFVZS02Y0cwYWpyLTFtSHhDdmIxclJ1bGMydVBtT0MzTk1BT1NWQ3FVaGFicUNqWFl4MzlWWGduNTY4SmZQX2pYa2VvREc3NzMxZDhXS0dlcTlDb2RDalNyT0xIdkUxWlFxamRoa3ozQ3htSDA3QkQwSFp0bGZYckZ1c2p4a1dNZlYxei1FcEpzamxQcEZNa2RiWngtOTJ3d21IM1V6ekZhLW43cTE4LTNpbDBrVFY1NTloRGN2OHR4a19ZVFZSWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T16:48:05+00:00",
-      "summary": "Marc Andreessen sketches AGI pricing for advanced AI systems like OpenClaw  The Economic Times",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI builds superintelligence, struggles with basic communication - AzerNews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13ZG44Uk9oZFZPM0Vpa0pBT0dFaFozc19uaENGbjJlWklxUFlMajlSNDI1OE15VWREUzRVOGNfZDBwMjBJeFlQbkQ5ZGNEWlZBLXM5ag?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T16:41:00+00:00",
-      "summary": "OpenAI builds superintelligence, struggles with basic communication  AzerNews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "View / Why OpenAI’s slowdown isn’t as bad as it looks - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY1dNaUV2QVB6NC1uRzJhNlZCVzMzbDkwZkRPRFFyZmk3VFA2LW8xc0pEU1FaWXRlanFQcVc2d2pseDZ4TlUyY2VkZ3hTaE1weGk5MnNuZmk3MmE4YTJLTktwZEphUFBLZVIyNXVwaDVGY282QmxEWC1UMjNhWHNHNDlWSnptbFZjVXlXSFdwX1Y?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T16:38:00+00:00",
-      "summary": "View / Why OpenAI’s slowdown isn’t as bad as it looks  Semafor",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Unveils Child Safety Blueprint Amid AI Abuse Concerns - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRVpMWGV3OFBVN1VveDJpMkwtbVQ4VENhRy1oRW5reFZBaUhibzNZUVVDS21Keno3R1N6MWU2bUxQTjBEcm5fVFR4d3g0QTZIbWxQTnNMMVR5dFdrRy1fRElFQl9jUmx5cS1kWkRvR1RoUnNQZHNPWHgya3ZvZ29KRVJHX2Z4RW44NW5KRG94ajVsS1d6XzBqcA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T16:16:00+00:00",
-      "summary": "OpenAI Unveils Child Safety Blueprint Amid AI Abuse Concerns  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Bezos' AI venture makes bold hire from OpenAI ecosystem - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnEwYmgtcHdzdDRzRmJFY0l5VjRrZnQ1SDU3Z21Cd3VjdDJ5Q2tYdklySGR1dDRad3M0Qm9YTmdIRFl4ZWZ5MmxLcVZhdWIwZldwM0VnWVhtYjNfR01JMUszNThSVjFQZ3NCaGNvWlkya18zOGQ1eGdPSEpvYkt2SDh5enVMYVEzUW1BZnBCNEJoUWFjdXZSdQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T16:13:39+00:00",
-      "summary": "Bezos' AI venture makes bold hire from OpenAI ecosystem  GuruFocus",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
