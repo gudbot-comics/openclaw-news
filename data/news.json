@@ -1,43 +1,115 @@
 {
-  "generatedAt": "2026-04-08T23:58:20.766602+00:00",
+  "generatedAt": "2026-04-09T02:44:22.651487+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "AI News: OpenAI Is Paying Researchers to Find What Could Go Wrong — But Its Internal Safety Teams Are Already Gone - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jY3NFdVJ4c1cxd3AzLUp5bXRGbnBRd01HYVp6N2xqdzg4VHk0Sy0xQksycWxqMjl0MGdwaWFjNDUtaERMQzFtS0tNSjBRRWJSMjZuMEtxVlU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T02:06:09+00:00",
+      "summary": "AI News: OpenAI Is Paying Researchers to Find What Could Go Wrong — But Its Internal Safety Teams Are Already Gone  Cryptonews.net",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "China's Rokid to bring OpenClaw to AI glasses - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPak9fQWQ4MWcxTnFJNkxrb21OUmp5WFB2Wi1RX0h6R1lVOUJ4UzBkRGlRRzBTdlNDZ3ZHbERBbTE3WXhHTTB5VnhaOE5RVE1ES2k3LVlTYnVmX3plWERwcDNYcjhvNnJGU3hsT09KeE9raEhIclJVbWlhYzBIdS1oRmxpbTVhU3RrQ2pCR216V2lwbGRUekhILUJPRmpxTjhubEVXZnBTUFdGbF9vbkpodFFxSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T01:57:00+00:00",
+      "summary": "China's Rokid to bring OpenClaw to AI glasses  Nikkei Asia",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmowaTBXMjF3d3Fzd1dXTDhVbXVJeDJ1SUNpSWp4TWVWU19xdFBRR0V1YW9jMDNKa043WVl2WE5jbWxFSzVOU2xwVGcwZkFJbkd4ZnZOb3BNUlJpckhCNzREUDd5LTZrd1R5cVF3TWw3dzB5bDFMWmxZc3JVM0d5bzM1NWxqbFlBeUgtMm5sbEtpUmdiUVZlTE8zX3RPZmx4ZmVlbko5X1VnU0NhaEE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-08T22:51:37+00:00",
+      "publishedAt": "2026-04-09T01:51:37+00:00",
       "summary": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos  VentureBeat",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Amazon’s $50 Billion Bet Puts OpenAI at Center of Cloud AI Arms Race - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVklBWFNPeFU0SjdwSmdMdXNZTm9RX1VidzA2ZjlQbFRZc3c0Z2h3ZjJNTG5JMjVxdUgtVVNqOF9WQ2dCWG9kRDVhLU1QWVl5VFBBcmpjckZva1pPNGkwWUtlZVd5YTNEWlpQSWktZWpISUIwekY2ZHMtaDFETXUzYk8yUFVsVXhWU2FDZ3dMVmRiaHE2eUZDMTFHOVhSemRUWkVBaEx6NGpKendORlN5UnFPTzA?oc=5",
+      "title": "Meta unveils Muse Spark AI model to regain ground in race with OpenAI and Google - ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kbFFiY0VELTNyeUdiVnJBVE5Qb2tCamR3cXVqaUVJUGg1TEhQY1JDc1JhMHdCY1F3d0dOcm1IcERSeHBGaEV6Vk5Cb1U1YldHZ2tXVkhwUVZYNmc2ZklsS29tblU5UElacXhPaQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-08T22:28:43+00:00",
-      "summary": "Amazon’s $50 Billion Bet Puts OpenAI at Center of Cloud AI Arms Race  TipRanks",
+      "publishedAt": "2026-04-09T01:06:12+00:00",
+      "summary": "Meta unveils Muse Spark AI model to regain ground in race with OpenAI and Google  ynetnews",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONzhmTUJoS05ZYXI3R3RDUGRFV0ZNTEk1SXRwTkcxa1pSQjFuWk9ValFIeDZ0cjlZMmhhZnlaMW50YkRTaW5Jam9Yc3JEU0JkZFFlNG5EUGhBdzNkT2xKTzV4NjB0U0lCNTVPUkpLZ0Jnd2xCclVKNnJGcFNCOUM3WC0wazVCa0VxT0tTU1JOR0NtODJFd0dmR1ZwUGgwOG5HWUdpZVI3OWUtcnM0QXlCWVZnSWp1TlpHRzI2dlNqUHJSaGJFOXBWbGVkaWd4RjA?oc=5",
+      "title": "OpenAI Sued Following Florida State University Shooting - Campus Security Today",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2FXMnA5QmhJd1hqU1VuWHQ0M2tJaUtrdjlia3NveDhlZllPRkNvNHJCemJTZUtOS3RUT2l3eWZXeXlTamJEUXBOZ1p1YTAyYzh0US1Ub2ZEdkl6T0dfbGV5X1ZYTkxZR3l5cnZYSVBSTU1ab0pnLWRiVHRHVVZHU0ZybXphODFGaW1NOFE3QnBfU0doTmRLdnZ3SGI1M3pVWkJWVDRMWXVKN0l6TXJ0Rk1B?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-08T22:14:06+00:00",
-      "summary": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC By Reuters  Investing.com",
+      "publishedAt": "2026-04-09T00:56:15+00:00",
+      "summary": "OpenAI Sued Following Florida State University Shooting  Campus Security Today",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmxza2FSWmFQa2pJMnZ0ekNhLXlWZXNwT1lHT0J0UlgtOVFFcnpkbTI5Q1dUS3NXQWhYOGxSOEZLOHpvVnFYVlRRbEo5cE9jYjFXSmxON1pRRnc0Z1VhTkJnZUVlVjJ1YzZER3BOTl9iY2xKUEM4cERISEQ3UXVXQ2xWT1N4T0hHX1FwVFpSZDkwWDFPUEhIOGx2WlY0dw?oc=5",
+      "title": "As Sam Altman pushes for IPO, the wheels are coming off OpenAI - Boing Boing",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYU9vUEkwbENDS2dIcTdtZk4yQkd4Ujczc3FnYVRMYTRtVzV2Sm4xY2hUM3M2aE12RldWa1J3aTlRMTdBQ0VQeTRQSzdPa08zZWwyRUhwZk80ZlN1NVZCcUQzdGJDellfTVp0a2ZESXJURnh4WHJHdVZGVzU0WGJqQy14aTlpQ3Bpek5JY0ctZkcteFZZNWpyamIwY1p4Q05CeGfSAacBQVVfeXFMTVJoZUY5cXBFNlRzbG0xbHJialZOLUxPUFlIUGVOZlE0YWx0RGtfcV9VQkN3Sm91enNCNVBaVEJ2Ui1Ia0RyWERVQmkySXA0NTU3eDdDM3ZPTGppMVZHSV9YVlV2VUlEYVUyeUczU2tfejJ1R2hrNHFDQlRENFg5UzhXRXZfSFNKcHpMMGlwZFgtT18ySG82TDlUUkVCWTVjT1pLZTI0Ukk?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-08T22:06:22+00:00",
-      "summary": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC  Yahoo Finance",
+      "publishedAt": "2026-04-09T00:47:03+00:00",
+      "summary": "As Sam Altman pushes for IPO, the wheels are coming off OpenAI  Boing Boing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI may reserve IPO shares for individual investors - Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcllIMDVfWVhEeTFRWkRYN2xseDR4M09pNHgySnNXQ3phellUbEVrWGM5LTd3MUFPdVU5R3NNdnpWc1oza1dxeVJHUUxFUE85ck5CTHFKNE9hZ3NkRjJoenQ1N2ptZlZaZTcwaVM3ckRQNUg0NDVjNGpEY2dncVZ6ZlNETHc5MHZKdWZvdmdwUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T00:32:00+00:00",
+      "summary": "OpenAI may reserve IPO shares for individual investors  Tech in Asia",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic and OpenAI Seek to Calm Public Anxiety - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenR1ZGRjUDlSblhTZGdrN1E1c01vMXJlYjJ2aVh5cDRjVFkxNGNlck1YVGdSeFI0SzFQQzVqSmxsUkwzUjRGTnNLNTl6SVBrUy1LenZMcDNOLS11eE9odE00N3JrVFZkM3FfTnFySnctOHhvNklxaXpJN2F0NDNSVGtMWUFJRjV6QWRVclBpNmdURjdf?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T00:10:00+00:00",
+      "summary": "Anthropic and OpenAI Seek to Calm Public Anxiety  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI alumni launch Zero Shot: a $100M fund that’s betting on vibe coding - Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80VXVoallRS0JfZC1nMlh4TXJtSFhIS3F1TlBNVGxDOGhfLXJOUjAxLS01eTlNWlBTTmdDajNDdHFJb2kyY2lkcXVWS3BCTXhnM0JnYXNoeFFvRm9WY3hPZ0U1TDUxQVVpOHZWTTBlM1ZqUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T23:01:59+00:00",
+      "summary": "OpenAI alumni launch Zero Shot: a $100M fund that’s betting on vibe coding  Tech Funding News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Wants Everyday Investors In On Its IPO - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQ0lJN25MOWtSTXBZYlRrY1FtNVF0Zlk2b0xZNE5ZbDlZRlkweDRQbl85YWo1YnFwZUhSWW5yS1BVakEwWUwxdzRha3I1c1JybDhZa2Z4cXd4aEdxMmN2cHA2NXplbHc3cENKWU1NcThJdldWMVd3bGYyMlZEMUU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T22:28:08+00:00",
+      "summary": "OpenAI Wants Everyday Investors In On Its IPO  Finimize",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2dRS2daZzBwMnkwWlA5QXIxR0xiWFk3Y21OZDV4V0hOeG15LTdaVDVpWDNEOUYzdktib3JVRzdLYXYwSElZRVRuMTVsT182dHBzU0s0VmtDZ3A1dVFOMUxfS2xVN0hKNnZZbjU2WjU5ZVVtdjhmaGlhNllUaTlzNEtCU3BVUllxWTR4S2puRmo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T22:14:02+00:00",
+      "summary": "A frightening OpenClaw vulnerability has been discovered  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVVqQU9DY2RNbG0ydnJRMVdiQk03M25Ed2o5OTYwS1VPeWViNFkzZTNuNUtKOGt1R1EzRmhGeng0TXlXSTZONk9qSTdmMVptOHBJYWc4dzhQdkJoMW9wNnF2dVA4SFdYN1d4UWlyN1BJQmNGSklwVVI3T3huZWpPRExNMEdBWXNmRTU2Tnk1WEFxa2Juc1F1SkV5VGFSUlpScXhuUUE2MUc5eWRKQzNOVUktS21WSFRBRDYxRWpxNTlEZm1H?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T22:06:56+00:00",
+      "summary": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,15 +150,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Every company is now a media company—and every boss a star - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSTlGT2dNT1AxTmM1cG1sUXE4bi12b0YzbExFWnVYbHF0Z29RYlZ5d0dEQTFTMFVzU2lnMXRQMFFmbDhxMlNNNmkwaFdqWGh3dFpSS3V3Wi00TmowMmNwZm1vQ3kwSzU0ZHNQS0NuTVVfOTJsMjBYLVBkVzl5XzRiUWxCTEFEbXRzUklfQUZHRjV0LVlCREZJdGwwaDBhRUQxbExhWmc2OA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T21:34:03+00:00",
-      "summary": "Every company is now a media company—and every boss a star  The Economist",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "'Lying' OpenAI CEO Sam Altman not fit to have 'his finger on the button,' report claims - The Cool Down",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkxkS3ZqRF9IVGdoWUcyb1ZIajVfMkt4VlMtSG01RWYzNjJ6U3NpV05icGFVc2dERTVfMXlMN05MY2JRbVV6YmRtOVI3X3NTX0Qwa3NxNk5aYWRuSGw5czFBNnYySlJlRkh3U3BySUowZ2Y1NDZ1RmNkZ3o1ek9wc0pFN1hGSUVxRzg4dzE1Wl9Vdw?oc=5",
       "source": "news.google.com",
@@ -96,11 +159,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Wants Everyday Investors In On Its IPO - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQ0lJN25MOWtSTXBZYlRrY1FtNVF0Zlk2b0xZNE5ZbDlZRlkweDRQbl85YWo1YnFwZUhSWW5yS1BVakEwWUwxdzRha3I1c1JybDhZa2Z4cXd4aEdxMmN2cHA2NXplbHc3cENKWU1NcThJdldWMVd3bGYyMlZEMUU?oc=5",
+      "title": "Meta Debuts ‘Muse Spark’ AI, Challenging Rival Models From OpenAI, Google - eWeek",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5icmZNVVJoUXMxOWdvZkdqRnZTczlVb1NhZmZMelphNVRxMkw1dFI3R2IzOXl6YnRTbnExYlg0clNvVXNWb2hKMFRGMzVYYWFwM3FXa0pLN01PU2E5blhBLTdRRmt0MTBSYng0VExCU0c0NXhUYjV5UjR4N2h3VDQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-08T21:18:47+00:00",
-      "summary": "OpenAI Wants Everyday Investors In On Its IPO  Finimize",
+      "publishedAt": "2026-04-08T21:23:14+00:00",
+      "summary": "Meta Debuts ‘Muse Spark’ AI, Challenging Rival Models From OpenAI, Google  eWeek",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI TRENDS | OpenAI Plans IPO with Shares for Retail Investors - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDeVRCUks3VzNZTjg2cG83VjdzQ3NLWm03WE9CM2ctUWlNWGc3RmY0cmJGbmR6VlRpc2JKdlpNZEg3N1YyVG9RaE83bUY2TGNISURQa2lPb2o1MlVjbUZ5UExYa1g?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-08T21:13:20+00:00",
+      "summary": "AI TRENDS | OpenAI Plans IPO with Shares for Retail Investors  Binance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-08T20:12:52+00:00",
       "summary": "Muse Spark: Meta’s New AI Model Ranks Just Behind Anthropic, OpenAI, and Google  trendingtopics.eu",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSVVwSTdSNXhQalc0eEV5YWhwNWtMS0xYWHNtOFJMa05xaTlfWXZDdTFsYzBwS2hlbzJDem53Rkt4ZDlIcjFxNWNTNGFoaE1kMG15ZXdmYUw1endPLXg5em5ZdkxKX3N1TXQzZUJkRTMzbFJRa2RKSnNGcnBXOUFtMDJCR0JJUnVXWTlzYlVGRG45Q0ZESU9lN19ydVpoamtLT2RpSG9QckFENHFwQWRFWWpRdWtDTFdOMGptVGNlZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T20:09:14+00:00",
-      "summary": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Polymarket Odds: Will Elon Musk Win his Case Against OpenAI’s Sam Altman? - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXFOUE9mOHNucnVEVlNKMHNNX3Z4UEd6aWowY3VsQkgtQ0x2MXo3VVBNWW5Vdm1DcU5QejZ6QUJYdGFnaXNweHNCUldLTXRmU2J2eHEwYk52UHpVSmZ3OVRTc2dtWklUNWx0M21Ia0h4ZERQS1NTZ2tNNUVFaFFDLWxETUpJTHI0SWNvU0VIQzFGeEFhUGFJcWRLWkplczdfSEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T20:00:31+00:00",
-      "summary": "Polymarket Odds: Will Elon Musk Win his Case Against OpenAI’s Sam Altman?  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic may have closed the revenue gap on OpenAI. Here's what it means for their IPOs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmptOUE1QmtCdmpfNjRsWllPSlI3aE12SmNTZG9wTU1qbV9QZTFkTmJEMVNSYUVKMERmV1p5a2hGRUNwZ0RiZDVvS1BfR08tb044MUdmenJDV0UwR25ZNDl3VnQ2WThGYVZmdG0xOWZIV0J5MUh2QlhqbFlQZ3dPcVlnRDQ2cVV1WG9yUDZ3dzZXcE9zcWM1RG5HeGdRZ1BLY01WZks1U0g5WFJmdTF3eWF4U0lqWWlHZXQxdGlFOEFjOGtabUJFYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T20:00:00+00:00",
-      "summary": "Anthropic may have closed the revenue gap on OpenAI. Here's what it means for their IPOs  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWThaMlBvWFFESlZ4c04xUldwTDJtMHJuTUdLNTUxc1NVOVJ0S1VfejlxemRwbTZQbFlIdzVNOV82QTE2Ql9qekFPX1lUb1dYRU1IblYwUmhKamF1eUd3UGNaNk12UWpiamF5V0FFR21WZHQ1NDJFMWUyZmZ4ZHFNcVJNSG95ZFBDUnBBSWZHOW1ia0dTQTJJVHlWNHVfNkNuRkk4a1hteTNsRW1XdTloLWl2dlU2R25ZR3pEV2xRbw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T19:35:00+00:00",
-      "summary": "Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How dangerous is Mythos, Anthropic’s new AI model? - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObWVrZ1djYW11TWVoSzdTQWJwdEZTdldDQktTSnBCcEFJQzBjcTJpUVlYSFRFcEE3TlB3eDFrQUxUcGRhNE1SUFBkU2lORXpjaDdDQnJsTkgwQ1hfaHg1RW1qSElKMjg5T0NBM0U0aFNYeE94U203N1BVeFB0ZFNqMVh4SjNZbWNBdEJla1otc19tQThDcURDTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T19:27:14+00:00",
-      "summary": "How dangerous is Mythos, Anthropic’s new AI model?  The Economist",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why OpenAI bought 'SportsCenter for Silicon Valley' - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0dwYnZkaFhPNV9jTHpiY3Y0MXlvUnkzZm1WVWNQRWpXR0xxUDYxcGpKN0NfZDZWNmZKR015NXctcGtNWURBUVpadDVGaUxIR29KaFlheVExMEJwc0psOGh1d1pXNWZzaG9mMWRMeHBIS2tPd3l4MFJfR3Z0ZDhhck9EZmJ2S0FJS2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T19:17:45+00:00",
-      "summary": "Why OpenAI bought 'SportsCenter for Silicon Valley'  NPR",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Advocacy Groups and State Officials Want Tougher AI Rules to Protect Kids - CNET",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1BjYXBiNzRVZkRUaHNaZkR5LVV6bmk3ZGVSYllPNmxFNGdlZTk4NlFUcHJkMUpoSy0tY3N0ajJtWEw1d003MGl0emJELW9IcDdaUVRCaUw2cmdMekVHdW5fa090Sm1mVnVGaGFhV3B0RXVmUGpnWHhjUVNWVWhfRmc2RE1WTUJ3azQ1UlJxbVRxT2hOaGxTNkQxMXJSSWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T19:10:00+00:00",
-      "summary": "OpenAI, Advocacy Groups and State Officials Want Tougher AI Rules to Protect Kids  CNET",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Sued Following Florida State University Shooting - Campus Security Today",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2FXMnA5QmhJd1hqU1VuWHQ0M2tJaUtrdjlia3NveDhlZllPRkNvNHJCemJTZUtOS3RUT2l3eWZXeXlTamJEUXBOZ1p1YTAyYzh0US1Ub2ZEdkl6T0dfbGV5X1ZYTkxZR3l5cnZYSVBSTU1ab0pnLWRiVHRHVVZHU0ZybXphODFGaW1NOFE3QnBfU0doTmRLdnZ3SGI1M3pVWkJWVDRMWXVKN0l6TXJ0Rk1B?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T19:03:44+00:00",
-      "summary": "OpenAI Sued Following Florida State University Shooting  Campus Security Today",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
