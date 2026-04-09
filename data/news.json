@@ -1,16 +1,79 @@
 {
-  "generatedAt": "2026-04-09T07:59:57.010371+00:00",
+  "generatedAt": "2026-04-09T09:20:36.075520+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI’s Child Safety Blueprint targets AI misuse risks - YourStory.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wQUZfZW1wQm5JaG9WY3FDcnB6c0pyUGFDeVBNRW4xbFp4WVF1bHcyNGFtTTVYLVNPVFZHY3FkaHFDZjYyVl9ya0c4TDJlWVU3cW1FWmhTcjYyV0hlTEZVUTJmZllxaHF5MWY0YVQ5T1g?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T09:08:55+00:00",
+      "summary": "OpenAI’s Child Safety Blueprint targets AI misuse risks  YourStory.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Scoop: OpenAI plans staggered rollout of new model over cybersecurity risk - Axios",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkdXhEc09XMUNsa21wdjlMR0tGYXZfQUJEMHByaW9qRFNmVkFUY3lRRURfNUVHUlRNbV9kUTZYdXo4MGpYSVRXMmxxVWlQc1VkUHpKVEpLa3R6dUlJcFhHc0lVSzNzOGZ4U0xNYklHRGZrNEtFYWZGUjNaMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T09:03:37+00:00",
+      "summary": "Scoop: OpenAI plans staggered rollout of new model over cybersecurity risk  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches child safety framework to address AI risks - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHljSG1YM0RMTlJLOHlEQTRsMDlPRlp2bXpKbkZwZlR3bTQyNzUxRzRSNmlqM0trVl9LeV9SbnZaV3pSWkg0ZGNyREpxSmNWU01NNFNzOVRjRFA1aHYxUGZHRmNHdHhLNm9YTTc1Ync4TldoN0hqbTRrdE5leVc2NlRIVnFJSmppRmJpNQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T09:00:52+00:00",
+      "summary": "OpenAI launches child safety framework to address AI risks  Digital Watch Observatory",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta’s Muse Spark trails OpenAI, Google, Anthropic in early benchmarks: report (META:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdENYOUpYUzlBRVhyb2Q0SVVtRWpsT05CcTBYNnZrYnpUdzNKYWp4MEVLa1BTSHYxTTREY2Q4b2NDTDZ6VTVyaHBLVFZlby1CbjVsYW5qVEZvSkgxU3BPa0JPWkpsS1ZvY19Mc1FGckdiY09EN3BvSElsaTJlRVd3SmtZU3IwbzQ4ODNkQzhOWU90TTZhSVpmQVZSZ1RZeXdBYXNINWxzdGw2cHV3ajY1R25udDZZbXp2Q3JIRkl3QTdwbGRqZDVVcXFuUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T08:45:58+00:00",
+      "summary": "Meta’s Muse Spark trails OpenAI, Google, Anthropic in early benchmarks: report (META:NASDAQ)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple's foldable snags and OpenClaw coming to smartglasses - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZU9jSjlNLWY2OV9wVnBMaE5qcHVQSUs5MGhiMXhYMDR0TkZZZDd3UDVHY0I3UzZrekVwaHlyQWo4Zzhqc0d6MThZeGtVTGw3WE9LN0VudEV6NW1VMENCUm5MUEhNd1BkRXQ0Tk9INkQ3eGFCMC1MRE45TFdCVzYyaVY1eFp4SnpkcFdsNEI0bnNBbElkQmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T07:57:00+00:00",
+      "summary": "Apple's foldable snags and OpenClaw coming to smartglasses  Nikkei Asia",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Why was OpenAI Chief Sam Altman fired in 2023: Report mentions ‘sociopath’ label, lying allegations - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWmpoM3QtM0RVSmVOQklBM1BYbDBsQ0lMZXMza0VkelZXM0lQTkk5V0hDcERWUjlFWXBIeWp3TmFXaFJCYU1NcUNQOWVuUE9JY0pxRUxnU1gwM0U3QTJrenBBc1ZTY1c1ZU1JWVd2M2pXeUFCX1hKdVViSUZWbVpCZEZmWEEySFBLQ2dFMU1PTVg4MTF3NWM1ekR4OVQzQjhWcVE0WWdGUEFQUEkyYTdTZDA3TU52ZmdLUTdNaFdJZzlKRWZKaFkxbnJ0c2Q3T0p2Z21uUHRnWVBNN2PSAeABQVVfeXFMTzRUTHVkSWc1dkVfQmFxUXY2QWNWV1JCTVVuQ0U1VmhWczFVdHB3Y2hGWWFBR0lhcm4tMWlyZ0dDNzUyZlF0ZWk0ZTNHalZydFpuZl9wYkZfRDVodHlOSmtSNmJNYm04Xzdfb0lfQWNrRXhqendFNHE5dXdSVjZyZ0xkMnNLbmNwN0RSaXpxTGo0dGJuc0dzSWtMbVpjQ2V6SXk3SmxndGc3cWpMNG1IRGQ4ckt6Ry1WUHkwVWdCaHhrUWZ1Q1l4NW9NdHdtNjNBUEhXR25qdjUyS0JJYXFBV2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T07:56:02+00:00",
+      "summary": "Why was OpenAI Chief Sam Altman fired in 2023: Report mentions ‘sociopath’ label, lying allegations  Storyboard18",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Sam Altman a sociopath, pathological liar and abuser? Musk agrees to claims on OpenAI chief's past and leadership - WION",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcGtCWnkxZk1qSnZBc19MY3lVeDNvcTdQZ1lZYzNnOVhNOWE0OVB0UWFwSHdEdTVmbzNFWW5aQXhDNWxMOEFzWTN5VzV0U2ZCdnBEQXNvZnVMbV9KYzhaWXJpUDVsR1htT1FrczlrRTNBMU03VEFvck9XTVFSbHo1dmF3RWpmRncxXzM4NHBWSjY5cnVZazNyTUwzWV9PN3NNaHBwVTdna2RTanl4dmdOd2tmSlRDczY1SV9JdVpZRS1QMGVEc0I5Ni11OE15VC1NQ0xQQm50VXhWZTg5eXkwZzZKc0E5aE1wc01YLXlUNXbSAfABQVVfeXFMTnBrQlp5MWZNakp2QXNfTGN5VXgzb3E3UGdZWWMzZzlYTTlhNDlQdFFhcEh3RHU1Zm8zRVluWkF4QzVsTDhBc1kzeVc1dFNmQnZwREFzb2Z1TG1fSmM4WllyaVA1bEdYbU9Ra3M5a0UzQTFNN1RBb3JPV01RUmx6NXZhd0VqZkZ3MV8zODRwVko2OXJ1WWszck1MM1lfTzdzTWhwcFU3Z2tkU2p5eHZnTndrZkpUQ3M2NUlfSXVaWUUtUDBlRHNCOTYtdThNeVQtTUNMUEJudFV4VmU4OXl5MGc2SnNBOWhNcHNNWC15VDV2?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-09T07:51:00+00:00",
       "summary": "Sam Altman a sociopath, pathological liar and abuser? Musk agrees to claims on OpenAI chief's past and leadership  WION",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What is Sam Altman’s net worth? - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CSVNJTmoxdG1rRDRxMTNuVHkwM0hOTHVQaS15Y1VuN1VobTM5WHRKWE5QNjh2M3RLOURWd1dtTkp4WkJUX1J1TGNvdVFBU180SkFHYVMxaWlfazMzbEV1NENmMjRvNDNkN2FiMlZicmljdVFQeEEwLTRzb9IBgAFBVV95cUxONkNjZW9wOVgxUTRwbWpHbTlhbHU2NGlDdXU5c0ZzVVBxNnlfZ1hCM0k0M2tIS2RTdEM3bUZ3YjRjOC1xSGt5eTZsZ0RGYU9Nc0F1VldBcnNTUEZjUVMzc0F0Zm5IcHZxQTZPazliNUZFN3FhZzV4eTFJRDAxLWhVQw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-09T07:24:54+00:00",
+      "summary": "What is Sam Altman’s net worth?  NewsNation",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -22,15 +85,6 @@
       "summary": "Amazon says investing in two of the biggest Silicon Valley 'enemies', OpenAI and Anthropic, is ‘business  The Times of India",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple’s foldable snags and OpenClaw coming to smart glasses - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tRnlqY1hoRWJCVnBVLVFZYVoyYnFPNU85OHV5Y1c0akROVnd5UmlqUzgwRFlCbGVpSGVUR3Q5cE0xcktUbENmUVhmZTI2VEp1Ri1VRkJCZWFoVTFJZkFwd2FJWFlkTTloeElYMnVtRjA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-09T06:18:58+00:00",
-      "summary": "Apple’s foldable snags and OpenClaw coming to smart glasses  Financial Times",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI plans IPO shares for everyday investors - News.az",
@@ -49,15 +103,6 @@
       "summary": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC  MSN",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI Superstream: OpenClaw and Friends - O'Reilly books",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTJHbU1EU0lkcWcwMy0wbENqX2RFWXNNdFdNbVEyb2VCdklRNTNkTE5jT2Q4RzEwZS1WN3B1bWpGWDNmWWNJbjl3TTNaQmNSX2ZCTUdhYlVVc190bFdvb0RseDN5VzdhRldPLTBkM0NfX2c4dDZ0ck5lT01UbF9wTTZNN0NfQVR4YXZlS2I5NA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-09T04:48:49+00:00",
-      "summary": "AI Superstream: OpenClaw and Friends  O'Reilly books",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "Your Guide for Building Safe OpenClaw Agents: Deploying Secure, Tool-Driven Autonomous Software Operators - Intelligent Living",
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-08T23:01:59+00:00",
       "summary": "OpenAI alumni launch Zero Shot: a $100M fund that’s betting on vibe coding  Tech Funding News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Wants Everyday Investors In On Its IPO - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQ0lJN25MOWtSTXBZYlRrY1FtNVF0Zlk2b0xZNE5ZbDlZRlkweDRQbl85YWo1YnFwZUhSWW5yS1BVakEwWUwxdzRha3I1c1JybDhZa2Z4cXd4aEdxMmN2cHA2NXplbHc3cENKWU1NcThJdldWMVd3bGYyMlZEMUU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T22:18:47+00:00",
-      "summary": "OpenAI Wants Everyday Investors In On Its IPO  Finimize",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVVqQU9DY2RNbG0ydnJRMVdiQk03M25Ed2o5OTYwS1VPeWViNFkzZTNuNUtKOGt1R1EzRmhGeng0TXlXSTZONk9qSTdmMVptOHBJYWc4dzhQdkJoMW9wNnF2dVA4SFdYN1d4UWlyN1BJQmNGSklwVVI3T3huZWpPRExNMEdBWXNmRTU2Tnk1WEFxa2Juc1F1SkV5VGFSUlpScXhuUUE2MUc5eWRKQzNOVUktS21WSFRBRDYxRWpxNTlEZm1H?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T22:06:56+00:00",
-      "summary": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Critical OpenClaw AI Vulnerability Hands Out Admin Access to Attackers: Update Now - Android Headlines",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEpSalNWeVY2a2I4MmlJa2pDUi1ydzN0VjFEMTJNTzlDNW5TRFF3c0NKeFBqTU5wNzZ0RXhRMlhzaDUydlNERVlhT3I2TktUNjVmZW9peGozSnNfMVlPZXY0djVjcTc1djVocmt6dy15MUdaNDZWcXhTMS15Qkl4VHlGb3pMc2ZpclRSaTNMQk9fWUs4LVNiajlhQ1lvRW9ETlN3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T22:05:15+00:00",
-      "summary": "Critical OpenClaw AI Vulnerability Hands Out Admin Access to Attackers: Update Now  Android Headlines",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS25fbnNFVXhxR3lOUU5VbzlvZHl5dnBNc3BnRzNGcUNoNl9ETGpxZzhYZjFzUFZYX0ZSYjYyRU1sTU5UYk0xVG1kNnQtejNPSGFjX2dNRkFXdFROdEgtMzAtaUNaX0I2QWF3N1pYdFI2TVFhc081c0JvZWFyWF9rb0dWYlA2YzBCZ1N3OWhqaU0xX19VMFAydXh3ckxKYkFrbkhiZ1BOM3Zuekl3UVRNRlp5VExPazNsSV9qSkxGQlRsTkJpMWdBbkp1N0xEa3FFaGNNY1ZpUm5TcGtKYXFMdQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T22:04:54+00:00",
-      "summary": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Enterprise AI Play - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVjJHdm1wMmM2MkQwaTU4RUctbGp1eF9WcTJ0blEyYVR4dFdsbjM3OGRhUFFYY1ljLUhkOVZyemE5OGw1bk5SZGlUWGp1S2dsbDZQazhSemFBc1NNelFqMmNVUG12aG9xcjNkVGlfeDNBNUxaQzZuZjJXMnAzTndsRkpFSXhqbXVIbUNKbU5YVlNZcmpY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-08T22:01:09+00:00",
-      "summary": "OpenAI's Enterprise AI Play  StartupHub.ai",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
