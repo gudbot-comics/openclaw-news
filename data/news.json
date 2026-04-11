@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T21:51:57.378555+00:00",
+  "generatedAt": "2026-04-11T22:27:44.079145+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -83,15 +83,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-11T17:27:23+00:00",
       "summary": "Woman Sues OpenAI Over ChatGPT-Fueled Stalking  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman shares picture of his family after Molotov cocktail attack, says he underestimated - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNRUE5eURjRnk1QnZKN3FxaHpiV3N3SUV5eUJIVVA0Z1BPaFBIZWU3dUg0ZkxwdEl3d2Fjd2hYbGtXMWk0c2NkX2Vwdi1lcmMwOFNPck1OcnFYVjl5NkVUTHBKMTNoZ3J3TlNhU1ctaTFLSWxYeXBvR3ZWbGZIeTl1SjFpdTNjLTdxLVE3UFZFeDhiZW1TcE1VRGVXUk9pckJuazRJenRDWGc5SEdhT2lTVHg5NTlGcjY0T0RaSjVQQURJaEVoazU1OGZIaThYZVM2NHhJbkxaUmFoRzE0R1FTQ0N5Y1dWRUtYcUIwS0tWNUs4N0dZclRoT3RQRzdUN1dsN1dzeGlZM2ZvOXQwT2QxYXFvaTJCeVA3akl2aDhtQ3dPZlozdHfSAasCQVVfeXFMT1RqWHlnc1Eydk5VRmkxZGZTcHk1VDFkaGs1Z1lCczdLNHJUcG14NWszNFFMWUhRUGRISXluZkd5NlE3cFN0UGpyZERXV1libEZJbjFZd0RuMm5vUmRKcEh5MGpQMHFOeWhPTG1FclI0WDkwX0NFMXdvTUZ4Szh4LUhMRjNrYVYzNVJnYzV0N1daalo1VzZ5Yl93WU1sMmZPcy0xQkltbWpLQmQ5YU04bUk3Si03NWRtTVhmR3hIV01BclRxME5XNjZBZ21MTDlFeGNHXzlNNnNfY2tKOTlvTFlfMFpueGIwR29fQmJZQWZFdFZpSE5HNVFVT1FmR3otbjZVMFBhN242NW9aR0pFQVh2aFBaajlPbkwwbE5GTkRDYTdpRGtlYXFHX28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-11T16:04:00+00:00",
-      "summary": "OpenAI CEO Sam Altman shares picture of his family after Molotov cocktail attack, says he underestimated  The Times of India",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -220,6 +211,15 @@
       "summary": "Anthropic restricts OpenClaw creator’s access to Claude amid security and policy concerns  CXO Digitalpulse",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Dropping of Tyneside AI investment 'reflects national challenges' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfbVI5OWNaMlN4RmdyTk1LYlkxRkhSeE5wbFl6MDl2WTdkaDZlU2tCQURvZnlvVFV4UnR0UDA4Mjl2eWVqVjQzcEhjZGtIS1B2MnpSNnhpcW1JZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T06:03:23+00:00",
+      "summary": "Dropping of Tyneside AI investment 'reflects national challenges'  BBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     }
   ]
 }
