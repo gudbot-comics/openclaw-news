@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T13:04:28.608618+00:00",
+  "generatedAt": "2026-04-11T13:59:54.252102+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -105,15 +105,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI identifies security issue involving third-party tool, says user data was not accessed - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREkyd3JpMGxfUjlib3VWN1kyNXd6OXowTVZjWWxBSWtWX3BWTHBIOVRvR0M4VVRqREpvWHlQaU1MeFRrQXNOZ1M2amoyMW9FVXFYbng2ZFdYc1lyZEdxRkR4OFRETDdHYUtRSU1EdlN0Z1NrNUU5M1F0bHUzME9YQmNOSTNEZ2xiMWt1VmpUaHJ5b1QxdnJPOWFkclTSAaIBQVVfeXFMUGtlNmoteTlkSXBQbm92dndwOEt6blh3V0pNamV4bnRFc2JQa01id2owWlEtdW9GUFdHNVF6YUMxYWk1LXJUNGlwX3dPdW5MR2xEenZyUnFDZjdITzNpYzd5NFZkZGxYT1RkTGJoX0VHc0pDUFJWYnNtcGRqYnJ2amprVmZLRzFvdzMwaVU2VGE0NnJrYTZ1cUhXWWpzeTAxdHdn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-11T08:18:18+00:00",
-      "summary": "OpenAI identifies security issue involving third-party tool, says user data was not accessed  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "With 47,000 stars in two months, is Hermes Agent the next Lobster, or another story altogether? - PANews",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44V2l1eHhVYUQ3X2FFTVhYSVBqNlBlQ0NBdFdhM1d1TklWRS1xWlJ3elR6UWx6Z29UNFVXaGxNX05GaFV0cWFyOFAwWmZjbG1lUkhZbkhiYzlWOTRMSDRoSEpSU1lYc3V4S1BNY0VYRkQ0d2lEalprNjJJY0dybjQ?oc=5",
       "source": "news.google.com",
@@ -150,6 +141,24 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "OpenAI Requires macOS Users to Update Apps - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWJPc1ZMNW51cTBvWWNCbzlYR05HY1lwbDc1Ynk2akNHMmVIamZhZ2JhcmJhbVhHbUZsSFhFRmJFNnh5eFlFeThBMFBkeDhVRE5jX3V0MUJmUldFRzZWZjIzSFlublVrZndYUXpfam1YS2RaWUlBcGRrNDZaU3EyMkx2Nl8zeFh3blhMRg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T06:40:06+00:00",
+      "summary": "OpenAI Requires macOS Users to Update Apps  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Calls Musk Lawsuit Amendments Legal Ambush - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3JheS1rSTBNdXdlSWpTS3RXeC1zQ254cHBrTVVENW9MbjRIb2Q5bFEwZFJ5VFhrZER2RXpLdFhOMThiR1lGYTZVMXhGTUw4ZnpLajIxTnlEY0FrQXpLS1NWUVpJRjd0QWw4clM4SGFyd0VXaDJkS3pHclFBYlp5aUlrYlU1NnVpWmNIYXdUSXhPY1dzOXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T06:20:00+00:00",
+      "summary": "OpenAI Calls Musk Lawsuit Amendments Legal Ambush  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Anthropic restricts OpenClaw creator’s access to Claude amid security and policy concerns - CXO Digitalpulse",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSVRVaGxaUVE0Y3c1Y1RpM2gtZTJfS1hYcmVNei01ck96aXZicVkzak14bHg1OW43bzEtVjl1Nkd6VFA3dlB1RmQwMThSWGR4dGdSZG9pTm9ZdktHVzlwX00takVQR3RiNkd5OXoyT3o0aTFEeldjS1REY2hvemJJN1FnSmJzcEx6NFJkUmp2cXZGdXIwQlN5NTFLWWV5V3dxLS1wWUF6ZUY4dHdsRk1LZ09RY1RlTDJfdEp0Uml3?oc=5",
       "source": "news.google.com",
@@ -168,6 +177,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Sam Altman Confirms Molotov Cocktail Incident and Responds to “Incendiary” New Yorker Investigation - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWl5QmV6SjdjejZseFN4QkItaV9fTV9BbEJMWWMyMTYxR2Ewd3NhSzRsblZCS3d6WW96TFdlWFJYT1c5WGxkR0JHWFJ4aDdXRktFVjM4WWh6RUZGemdXNE1qRGhjZEJXQXJ4bXcxZlZVVm5NWDRpak1CTExUS0lJalFuVTZ1TGlyU3VIZXU0U3NyQUNiOG8yc3lQQVY3aXFLNm81Wm5JOEJENDVVNmI1TzBHay1MUXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T05:49:44+00:00",
+      "summary": "Sam Altman Confirms Molotov Cocktail Incident and Responds to “Incendiary” New Yorker Investigation  The Hollywood Reporter",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Man arrested for throwing Molotov cocktail at OpenAI CEO's home - The Japan Times",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzdFV0JQeXV1QmJ3M1k5MTNBLUVkRUhjdXZPTmtqT3hZX3Y1U1o3VzZ4cDMxVDJQMGFMaEN3bDFIZnNyQklPcTR3bkNiNGd3alBSbmtXdEM3RFJtTElWRGVIWnlmLWZtR3hhY2RKVzdQaFkzR1VPQS1GVF9ZV05FYU1ZRHp0RThZbFFaYWY4bENWQWdKajRWYlNPSnU0Y3gt?oc=5",
       "source": "news.google.com",
@@ -177,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Police arrest suspect in Molotov attack at OpenAI CEO Sam Altman’s home - WVLT",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTTVmZFJQc2dQWEtnRlV5Nm10NlFWbzJva1BOazdsZHhEQVhPYzRyU3JjeWVaXzFSN00ySmxiVk1DUFNuUmFJZHlFcGNGODhncVRHTWJCbzNOc01PRXZTU2ppelFSampHbVIyX0RfOXRFT2ZTR2MyOVhPa2xibERxcHY5TUJtUTV3V1JaT21nNzczRjJhYWFNaXM5UFnSAbABQVVfeXFMTlVCX2xlLUdCNFJabGdieTM1SWlNMnkweFVrZzFJMXNNUlVZeDJJYWRpeGY4UThGeGtGZzBMZXlQTmFHNmNWa2dNRTFFUzExZUQ2aHJwc3lYb2JhMzFsSXdoLWl0QTBzY2ZVNUdyUXVVQzZoYkdFTmZxSmlscXExV25IXzhSbkFmV3duSGV2N0VTdVNTYzJCaEdJckU0Y3RSa05UV3JnU2NpSEpNTE9rQ3I?oc=5",
+      "title": "Police arrest suspect in Molotov attack at OpenAI CEO Sam Altman’s home - WCTV",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFlpU0twNGxvM3RwTElsMVpoT1RFamRqMVU0TnBPMVRsd1FKSHZJZGZXWHhQbXNEODlyeHpsRVg1cGs2NDFXbDJlTG5ITC1XQzE4RlRFUUJ1Z0pLWndjb1UxZVpneC1RY2gxSDlmXzZ5SDVfNzh2aENqMzVVaFpURHZaWEMwSGlYVG9LaWJBNmtZX25BQ0JKWUxRMEzSAbABQVVfeXFMT1dxcjR6a2FXeV9aTGRSV0dJY19hVkNCNjRlSGVmNWJIbFZRR1hmQmhVb01tSS1UT1FmS3FlVVFseWJRYU5zSFFadjZVX2gyRU5fV0lLZkdNN29oSVgzbGFFWWIxM1BOWnl1M1FEallMb2FvalBZV2xFdXJNaTNWYzQ4WGpCVFRrU3Q1VHhKOWJrbUIwcG5kYWNDTHJrMlFHVFpqb0tuZ0cwekVVZFlMZ0M?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-11T04:16:00+00:00",
-      "summary": "Police arrest suspect in Molotov attack at OpenAI CEO Sam Altman’s home  WVLT",
+      "summary": "Police arrest suspect in Molotov attack at OpenAI CEO Sam Altman’s home  WCTV",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-11T04:15:00+00:00",
       "summary": "OpenAI CEO's home attacked  Dakota News Now",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO's home attacked - WBRC",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLOTZ2d3JqLV91REZwVXZ1NzNGREJkRVUyeUUxRk5sSXVGZk1IcW90THJuc3lQRFQ1MjlYUkdUdGMxRmRpVFM5d0VZd1VvYW1MTlJXeXNLME5maThodm9qUnREdThpb2RZSVhaU0NfSHk3QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-11T04:15:00+00:00",
-      "summary": "OpenAI CEO's home attacked  WBRC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO's home attacked - Live 5 News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Pa1hRWkxfNUk5aHV4bmZoZ0phMlRnS1A3eHlMYXR4ZEIxZGlQaENCMjRqcXk2cERndUZHaEEzcHZlQXp4NkJ5X2I3dktIUDBSLWdCdG5BcGk1M0w3UWpIV3ltQWNkdDlXQVVseklvNDZlV2wwYU9CQw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-11T04:15:00+00:00",
-      "summary": "OpenAI CEO's home attacked  Live 5 News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
