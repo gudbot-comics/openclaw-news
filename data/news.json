@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-04-10T23:49:32.514751+00:00",
+  "generatedAt": "2026-04-11T01:01:38.999670+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI says CEO Sam Altman's house was targeted with a Molotov cocktail - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOHh6WHdBTXFhaWdWZC02YzNXMFJfVUhQcHB1X1FZZ3dMRjNVN0ZwVUw1X3pGdXFrR0dEanBPSnY3YVd2bnVPMzBQMEFNVW5wM2lYc2lnaC1YUnJOQ0w5czNPS2ptY2gxUmVJbG9ja0xKTWJWbG00WFZPX1FBN3M1b3RhcVBzRzNqNld6NGZRQTY1RUlZWnlENFlHcFBlRDNoRzZzendxbE82dkk?oc=5",
+      "title": "Molotov attack on OpenAI CEO Sam Altman’s home leads to arrest - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPODFka2VUR3JvNG1KN3lNY3lhNlVmWjNJY3F1RHAzdzd0azRkMmJGRTFKWnNBWmZDSVQ2ZTF3Y0VkcHZtMjdJWWtBaUE5Z1hxWlliWFdwVm5rOFo1TEpLa1pkb0FMTnkzdUU3MGNsb09SVXk4ZzhLVlJ2bGpnRWM4Nkxhd0RyR1RNME5KTXBzZGJDZGNaZkdaM0JRY2xXd1FEZlo2cW9sMW45TXU5SmphYkxyQzdEOHBPcGV0RXVWT2VUUdIBwgFBVV95cUxPeEQ4SGNRTTA4czcwWVRkZ2xMdFpPUW80cnA0WEt5MW5wS0l4djdoSkpTczlRRDNJR0k3c2hzS3E3cXVFR2d2MkVwZm96em9Hc21nSENsblhBYVBtVzRDUFI5Q2xDeVBMRkZVTERLQ2s2WDlQMHdrWVVwYnd2WVdsQlItajMzZkhLUlNUYVJmNlUyY2hmNC12aTdOM3p5U0lzSlJmY3VtMWN5WUhLTnlHcklyMUNRRW1zZjFwMEN0WXRLdw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-10T23:18:09+00:00",
-      "summary": "OpenAI says CEO Sam Altman's house was targeted with a Molotov cocktail  NBC News",
+      "publishedAt": "2026-04-11T00:34:57+00:00",
+      "summary": "Molotov attack on OpenAI CEO Sam Altman’s home leads to arrest  South China Morning Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Video Firebomb thrown at OpenAI CEO Sam Altman's San Francisco home - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TeTBJa1BaWG9JUkIyR2hpMV9PdW92Y1BjWFpqMkgteG8wdmZPemdSWW5fNUsyR19MR0d2anBhakQ0cmdlVk5OUWhaV0M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T00:22:40+00:00",
+      "summary": "Video Firebomb thrown at OpenAI CEO Sam Altman's San Francisco home  ABC News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI pauses Stargate UK, energy costs and regulation stall AI data centre plans - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNEF2ZE5zWE9DajByd21aMGZ1MXAwcnFGTnp2UV9PYTdsbTNLUmhqSDhhWjg1UVpOeU1saVc2SVlLU2twTUZ5eG9kODVBTmdmbVV6Y0U0ZGZ5Y3JJS3ZJVUREdmhHYks1eS1VRVZ2WmJybktSMUgyemk0VmVMS3BhNmpOLWtlMmY3bVNsX1pqNTctT3d0T3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T00:14:11+00:00",
+      "summary": "OpenAI pauses Stargate UK, energy costs and regulation stall AI data centre plans  digitimes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Claude subscribers will now have to pay extra to use OpenClaw - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVUzVjFlUEVJU284bDI3V0dHUTlYRDF5YlV3OGh5RTdUNmltUFpqVmc5cEpMb29Ccjh2bF9rVzNqZmpoY240ek1BS1RtMXgzS19YTWNxMzNkbzItcE8wcXN0WFZFUTliY1JtMXRHT0piVUZyZ0lWNzNtTkRKNkszcUZhX0Zmc28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-10T23:58:56+00:00",
+      "summary": "Claude subscribers will now have to pay extra to use OpenClaw  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2dRS2daZzBwMnkwWlA5QXIxR0xiWFk3Y21OZDV4V0hOeG15LTdaVDVpWDNEOUYzdktib3JVRzdLYXYwSElZRVRuMTVsT182dHBzU0s0VmtDZ3A1dVFOMUxfS2xVN0hKNnZZbjU2WjU5ZVVtdjhmaGlhNllUaTlzNEtCU3BVUllxWTR4S2puRmo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-10T23:58:22+00:00",
+      "summary": "A frightening OpenClaw vulnerability has been discovered  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFRMNXItMzZmUWF4S1hvWUhWd1lhTXZLdGk2cndFeDNQZEdQYldlSTBkdTVadE9VeVJsTWpXQ3VsM2RMbWRrTVRRVDd4YlBWc09vajc5RWRSY21jbEF3TXoyVGczbXJLZ0FjV1N4TTJtUTM2X3d2bC02VlozdXN0S1pPZks?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-10T23:52:32+00:00",
+      "summary": "Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO  The New York TimesMan allegedly throws Molotov cocktail at home of OpenAI CEO Sam Altman, company says  ABC NewsOpenAI says CEO Sam A…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Police arrest 20-year-old after a Molotov cocktail was thrown at Sam Altman's $27 million home - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTJGLVktSUxJRHRJUFNCUGJtcGVqRTVuY3RpZ2U4dVdYeUhCb1BQRXJUUVZ6NjJaT3VlSGp0NlM4cVVjd3JwdjNLWmw0ZTN6a2lGaGUzOE5iRmR6RHAwVGxnRUlfQ3NheXBFNlk3aHFTZkFhWmVXTU5kZ3RTR1ZtRERNcGctNXNQV1RCZzRmZGtYbTMxcElN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-10T22:59:00+00:00",
+      "summary": "Police arrest 20-year-old after a Molotov cocktail was thrown at Sam Altman's $27 million home  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,13 +78,22 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2dRS2daZzBwMnkwWlA5QXIxR0xiWFk3Y21OZDV4V0hOeG15LTdaVDVpWDNEOUYzdktib3JVRzdLYXYwSElZRVRuMTVsT182dHBzU0s0VmtDZ3A1dVFOMUxfS2xVN0hKNnZZbjU2WjU5ZVVtdjhmaGlhNllUaTlzNEtCU3BVUllxWTR4S2puRmo?oc=5",
+      "title": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG05SFhQZGJIODk1aVBVV3l6YU1leWptVTJSbmo3U0pGV1dMRk9NRWRZM3I3WE9DRjJVUFZOajBzVEJ5Wm1USjVGZEFOeVNHOHBZQU14SWJ6WjVNSVZONzh0VWtoeDhTNE83RTJ6V1FMMVhRQlAyel9nS3ZpZEVuZDc3cGJFR0lNc1FRWWtZQmZZOTVkX01wcklINU5tcHZINWptY0kwNNIBrAFBVV95cUxQWlRydkVLU2RzQ3NXaWtERWhfaThsUWwzR1R4VkExUVVDX3ZjRjlYbUNuellTbENuTVFNbUh3N1JYNHFtaDRvWUpoZ21SdnFWLTd5UE8yN1U3WEFTWHdZeklNRUI4QXdweG14Nm9XRjIta0VGYmhlMV9UbW1SeTBvQURrYVZoazlteldZckg1TWVyNDAtc21mejNtejY3R2NVWFlaQkFESU14Zmg4?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-10T22:29:59+00:00",
-      "summary": "A frightening OpenClaw vulnerability has been discovered  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
+      "publishedAt": "2026-04-10T22:34:23+00:00",
+      "summary": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack  Al Jazeera",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Man allegedly throws Molotov cocktail at home of OpenAI CEO Sam Altman, company says - MyCentralOregon.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjl4aHJQZkx6WDRzMmt2Szg3WXJNN3EtSVBaeTBNVDd3cUdLVmNEVXlMWTkyREFDLTk1NW00MnFtVkJxaUc2SklSNTJFcWViRVdNSzA1VFBleDUwN2Q4VmpEX3gtLVdKOG9sNk9XX1RIUnNwUTFHU1N4aXJNRFR4UEN1VFpmVEYyWFVUYUNvR3JWTkpSY2wtOWJTY1hnUnFkb1U3SENrYXdpOTlhMk9ucG8zSWVMNVlWQWIzYWtmeWRqY3M3UkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-10T22:17:52+00:00",
+      "summary": "Man allegedly throws Molotov cocktail at home of OpenAI CEO Sam Altman, company says  MyCentralOregon.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "At a major AI conference, the consensus was clear: Anthropic is the new favorite in Silicon Valley - Business Insider",
@@ -141,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Man allegedly throws Molotov cocktail at home of OpenAI CEO Sam Altman, company says - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlk3cFJkWnNMMHloVFZSQ2pIelpHUWxJbndOeWdiUVcxdXBncjcxdmU3cEUtczJBSV82MUc0LTFRdkJ4NmZpZmZUMUdmU1NJc3hMSlRUSU43RW5VN1pjVzJqSm83OWZiakt4TTQ0bHgwR0hYVkJUaTB1QUlnRUxFQzB1YngzOVoxS0pOYkFzUHpHQVFvcHN1SjFVONIBoAFBVV95cUxOSmg3TE42d3BRemlRWXU4al9ZU0p5eEtCeE4yNzNiaE1oTDB5MHZBMDVDNTUxUjl0dzdma2VWcDkyTUNMRnJoNlJobXNLU0t6NUdXbXNkMWdUa2NDUk4xZ2loSjY2TURtTXkxMTNtd3ptU1VUemYyVG93QWt1ZkNvdEp1aDQ4UVY5RDRwUXRSRGZsdmNJalpyeHVBRkxpbW1v?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T20:50:54+00:00",
-      "summary": "Man allegedly throws Molotov cocktail at home of OpenAI CEO Sam Altman, company says  ABC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Shubham Saboo: The Plod device captures audio context and personality, OpenClaw transforms AI agent capabilities, and effective onboarding is key to maximizing performance | TWIST - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNdDgxeHdFQ3FnY1pjeFpzQ3hYdWFMMzMwNkdIa3E3bVdEeHBnQ2t0OGNrLUFDQ3Y3WHNDS0hNMWV6ZHVZaGNoWkpiSFI5QU5mLTFEXzlFVW4waG9LSjV4SzlCTVRGRlUyS1VxN0dhdnYzeW1XWUZJeUdjZ1k4MTFGUDVuUHlQLU41ODh0WndPb1ZObXFzbi1GVDdGZVVzWjlUTWpwV2hrMlIxYVVxUFNmRDAyTVFXSGhSNW5Pc3ZJd0ZKQU9oa1dINGJuS3JCZi1EaVdTdVZNMm91S09NTXVBZEtIRkN5Zy0xVnBPRDd2VnZOWWZGUURhV1FVN0M1cnpLUXdEMnNLZWRjaWxCeE5wR2pWMnYwZ0ppaG9McUNUc19XSHNObGlhdlBR?oc=5",
       "source": "news.google.com",
@@ -164,60 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-10T20:39:53+00:00",
       "summary": "Suspect arrested after incendiary device thrown at OpenAI CEO Sam Altman’s home  CNN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Suspect arrested after incendiary device thrown at OpenAI CEO Sam Altman’s home - KXLY.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUW9IZDNRZEZyOTh3SVQ5eEwyUGhJS2FQa3N5Vjh1a19uTHFqVUxCdTUxNnEtbjlpV2lEWHFIYnk5NVZyNWFfVTJsQ0dYOEYxeHV5RERLMnEwU3VOczV4VTNNaFh2b0JLLWpteV9tNE9EYkg5Tk5BYTl3OHc4QkR5cEpzMHJJdzB5ZC1Xc1dWV1BSOGNNQ2l4ZHlLZDFiYmhzeXlQQXNGNUZMcllrN3FqTEljYlhUU1Y3U21RVlg5QjlIQ1AxT01wQkpueHNzdXJXWWgxZy1nZGF0Z3JYdVJIS25PNjEzRWxqM1hFR2t5R0pHNE0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T20:39:53+00:00",
-      "summary": "Suspect arrested after incendiary device thrown at OpenAI CEO Sam Altman’s home  KXLY.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Just Cut ChatGPT Pro's Price in Half - Lifehacker",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82TlJHTmlHRjRobXRpQlhDdlhJeVdGeGFPbVpMN2FGSVRndUE2aEJOOUMwTjVLRVBRUEYwMWNFNHg5MVBid3hVbk41dlBIcVlFTEl1V0F4QWF6TXFPNVdGeWlNbjFCN05PNTlFemNDYmtEUlF4X3M5TzNR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T20:30:20+00:00",
-      "summary": "OpenAI Just Cut ChatGPT Pro's Price in Half  Lifehacker",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive / Anthropic is gaining on OpenAI’s revenue, but hasn’t yet eclipsed it - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlFGcVlsaHAtT1k5XzlXalQ1eDViNkFPVXkwSmp5LW4wVWtBN1FXZEJLWVh0VGdtRE9FUTcwOERWY0NHMHhSUUVzc3pSR01la3Zld2lPRVRDcGtxSDZLbnoybEtoU1BtN2ZhNXJ2QW84X1I4d2JyRzYwZTdEcFUtWlpWQjhsNEhEZ0tsWUtCbFdiWG1QN1MzekpmRXB0d1I3UVZkekRFWWlQYW9K?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T20:28:00+00:00",
-      "summary": "Exclusive / Anthropic is gaining on OpenAI’s revenue, but hasn’t yet eclipsed it  Semafor",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdHc0NnVhYl96c20xTWM0b0dRWTJZbnozMkdFRkw5aWtwU3BRcWNRMzV5Y1BtSWtYMnlYV0FEdF9YWGx6TEY4UTd1Zk1lOEZoekthRnR5am5MVWNKckhBTXFBOXhZS2F3RGFtNlBiYUl2V0hiMlhXVG9DLWxvZFA5Q1kzUXktQkFMWVg2WENXS2VnSHVmNUhTZHozUHhaU21ETXZCcnZn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T20:27:52+00:00",
-      "summary": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude  TechCrunch",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI CEO's home target of Molotov cocktail. Suspects arrested. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQlhRQzBJMW5LY19uTC1ZRENXMGdPT2dYNHVMeDVibHBfMTlLemc3MXQ1dUpTeEFjbDZYRHFCektEaEp0RlVkOVp2MlhyY2dXT2hwY3Bld3dKcU5oWTR0Vlp3X0gyeGhvSU1PSlV1TW53dEpDRzFRZU9QNFFtVHM4S1M0UFRaLVllbENZaWtZTjdkVjQwUmNobTRvOEsxMTdQdk1jX0ZBaEUyWndw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T20:26:59+00:00",
-      "summary": "OpenAI CEO's home target of Molotov cocktail. Suspects arrested.  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "20-year-old suspect arrested after throwing Molotov cocktail at Sam Altman's San Francisco home, OpenAI says - ABC7 San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3lZdC1QRW05bFY1d1FUTjNyMWVBVUhuNXRYUUNiVE8xb2NwOVVRaUVYOWlNTXpKYl9pTnZ2ejF0MlJhXy14Qnh3WXFMU0YzX3IzbFZfZW9ITkhnZUh5VFduajU4WXhjcUhNakpCN2pxR2h5SC1VVzExLUtVYWdBTG5zTHFKVEVQQ09qOC1SSjBqNmE1b21JemNsSEc5NHhqdGpxOThMRTJWaXJCeUVxbUZmaFZlel9NV0p4YV9R0gHDAUFVX3lxTE9fcWtmTm9obk5FeXQ0WWtJMkpiN2dDblZCc1gzY3hNOGIxSGt4WHZkcHVwa1RHeDhBbUxWdVI3ZG05elNQVVROY0R6TGxHTDQwOWhHTGd1OGtteERxY0dvUDJSM2dZS3YtRDRScTRzajhKbHpRMXdsOVdwQnlaM256QzRDQ1gwb2otaGdUWGU0d0laS1BrTjhHa19MVWg5QktWX0FQWjF6eTBjQVlyZnM2YjI4UE50T19LcjU0UHAyT3ZvQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T20:25:31+00:00",
-      "summary": "20-year-old suspect arrested after throwing Molotov cocktail at Sam Altman's San Francisco home, OpenAI says  ABC7 San Francisco",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
