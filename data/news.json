@@ -1,10 +1,172 @@
 {
-  "generatedAt": "2026-04-11T01:01:38.999670+00:00",
+  "generatedAt": "2026-04-11T03:45:12.214827+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Video Firebomb thrown at OpenAI CEO Sam Altman's San Francisco home - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TeTBJa1BaWG9JUkIyR2hpMV9PdW92Y1BjWFpqMkgteG8wdmZPemdSWW5fNUsyR19MR0d2anBhakQ0cmdlVk5OUWhaV0M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T03:29:13+00:00",
+      "summary": "Video Firebomb thrown at OpenAI CEO Sam Altman's San Francisco home  ABC News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Police arrest suspect after Molotov cocktail thrown at OpenAI CEO’s home - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWFRHQ0FtN1dHTEtPclRIM3VkV0gxYTFERmtNU2F1NzkweWkxaTZ3aUJjTVhlNVlUdy1VZ0xiSFpEaG0zdzF0Uk9xTDBWVVBGc3FHWHdFejFCaktTMnZkMmtnMXpsVmxaZnYzMTFQUGVKaHBzTDZPUmVqRHNLdk5oZjFzeEpRWjF3eWo4Z3pvekQwdzUxbkUydlVYeFpPNDlOWnlaSFhWeWI2dUVuLU42dTZzdThIWDBHREE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T03:08:12+00:00",
+      "summary": "Police arrest suspect after Molotov cocktail thrown at OpenAI CEO’s home  Washington Examiner",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What is the OpenAI security issue and why is it important? - News.az",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUZMVXMydm1tSzJUMURGcHBlTy1wV1RkYW8yR3FTTk8wcUNRYXktZVUwTDJBd0ZUWHJBUUdRN1o0Z3ktOE42a3lLNl92NXA1WXZQM1lHUFJUd0NPRDgxRHFEaU1qY00wM2YtR1ZpWkUyb2R4eWxiaHg4SEkwZk5MS210Q3Y?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T03:04:20+00:00",
+      "summary": "What is the OpenAI security issue and why is it important?  News.az",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Claude subscribers will now have to pay extra to use OpenClaw - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVUzVjFlUEVJU284bDI3V0dHUTlYRDF5YlV3OGh5RTdUNmltUFpqVmc5cEpMb29Ccjh2bF9rVzNqZmpoY240ek1BS1RtMXgzS19YTWNxMzNkbzItcE8wcXN0WFZFUTliY1JtMXRHT0piVUZyZ0lWNzNtTkRKNkszcUZhX0Zmc28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T02:58:47+00:00",
+      "summary": "Claude subscribers will now have to pay extra to use OpenClaw  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI identifies security issue involving third-party tool, says user data was not accessed - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQl8teDFhWjMzSFNqRnpvc2U2d1RwanRGd2tiYURvaGxVZGNzUTh4ZEpkNGxwck1DemE0SG9jR1hya0hXVnRoNDl4Z015b1k1R0ZsVjVOQklLOFNUMUsxcDgyeHh6RXJtYWhJRHlSbDZ5QVctVVBaUkNfT1VyNll6dF9qaXpnbk5QY1VWU1VMZkFub2FkT2pPeXFyeWNHVzZKZ1YxTzZSZTlkdnNzOXd5eXMyVWE0TFpsWkpDRGFjSndCRVZrd3l1dk9ZaURTS0lrMENtTXYzaWs5dW5hcDBsUkhFV2xKXzZDdlRnejNZalVBZGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T02:56:00+00:00",
+      "summary": "OpenAI identifies security issue involving third-party tool, says user data was not accessed  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The Most Important Person At OpenAI Right Now Might Not Be Sam Altman - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0dPbzVKYmRUNk1NN1lvVG1BYVBnZWd3TS03OFR1a1N2aW1JUUdGd3lWdFFfR0lIX2s1MWVMb2JRZkUxT19RdVcwZXJRUXRQRnBuTTk1QjlGdzNINGpkQllZcW5FeWotUWZsZjNLN01faTZGU2dMcm9ZTXpURVU0eU9fOTJOWDh5LXZLejI4WmxSTHJDTlU5bFpzaGc5cnQ5Q3lQcVI1MzdXQ2IwUkVVRlpoWEpmMXd1VndJNmlB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T02:46:17+00:00",
+      "summary": "The Most Important Person At OpenAI Right Now Might Not Be Sam Altman  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI identifies security issue involving third-party tool, says user data was not accessed By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQel9lNmhmaFo3MklYYWozdmU1bWhOVE1pMkxLR1FFU3lWQWIwZENjM1JncC1sZWNKTmxLMGZTUF9QNm5vYTQxbG55a0FidkJLOFlpeEZPMjR3ZXpWekZFRmUtRG43MDhkR0RXNE1qSk01S1ZVZmFOemhWa1F0dENvN3B6RG0yYjhGXy1uZk5zQVBCN3p6aXFINlVoeG5pU09wQTV6OEt3eFJxUDNMZHpOSmZuWkllX2dOWjVnaUY5LUo5YVVMU29UMGh5VFROM1Fhc1I5ZzdTSEF6OW9jSDhKVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T02:39:52+00:00",
+      "summary": "OpenAI identifies security issue involving third-party tool, says user data was not accessed By Reuters  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic Tightens Claude Access Rules, Faces Developer Backlash Over OpenClaw Use - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSGhoS2JfUGJsQTFQTkFwYkduZlNNRzlQeno1SHBIa0NaQkVoVUg0NjYzTTM1b1hoWUVRNHRYWkhpNnZBbUpMaGVZamMwdmRPRVFDcFQyQWpKaTlHY0JXdGVVeWtDMWtzNHVGX29BTm0wTWdOaXF1REJzYzZGbXVVWVY1SzhfZzJtWVZQbjlqS0trRGJteG1QVU50ejJJeUVXdHhOMWVzVjBoVVlmUUJ2N3NYLW81MDk2eDhZdHRwOG9OeV9uaUpuVw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T02:37:52+00:00",
+      "summary": "Anthropic Tightens Claude Access Rules, Faces Developer Backlash Over OpenClaw Use  TipRanks",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI says to update Mac apps including ChatGPT and Codex as security precaution - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcHljeUZoenpfN2VyZ21QZGo1TkhOQ1B1cjNqU2I4MmdVZGZaUUNjTXllejlkXzIweGg2U1BVZHE5eDNsV2RLTHc1bU04ZjRHYWJuaHBVd1FPaXg0Q0NQQlFOSUVFRDgxR01mSWlaUVBkbzlxTXRrMXdmZ093cUFBTEdnbDYwV0s2a2FwNklCYUxMNTVtOWQ0NHNzcl9qejY2c1hkcjY2Nk5STXViQkxKVDAwVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T02:11:00+00:00",
+      "summary": "OpenAI says to update Mac apps including ChatGPT and Codex as security precaution  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "'User Data Not Accessed': OpenAI Identifies Security Issue - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRk12bnE4R3kzeldGZHJBSWJBTE05aVZEOG5YbFNTTm9aRThINEd4b1k1TjNBb2pSWkVoRzdOdVc2N19jZmpiUWZRTC13WXFlTWFObkM0bDNWbWFOVFFGUE1feG00M0xzS3d2a0lhek15eGFDbTE4aGg3RXFqTmhOUi1xZzVCazFBN0RVZjZNdzlmVERpTVVwRXRnandTSlBOTnkwSlEyZlV4NVVkcDZFTUNlWVQ1NmpIVjhveGZrWjBvS18wMWh3N9IB0AFBVV95cUxQYlVOeHcxXzQ4aG1Ga3NtTU15QVBfeVkxdGFBWjhCbmVCeFRleFNoemNjb0Q1M3RvcXc2SmNTX2lzLWhhNkJ6MmNsQWkxNmd6TWM2LXFRT2U4bE5BMHFOUkV5NGNaR2w4QXNGLVZIbDU5TFdqV19JbjJFZEFVa0lobFN5OTlnWmExOEFxTklfbUtERWVZMUxjM2xrZE1EMmtoWDFFcjRMMHduNGl6WFg3M2FocWl1eU8ybTdNdW83MlhUM1JjTTdIMm1hTGh6QkFL?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T02:05:43+00:00",
+      "summary": "'User Data Not Accessed': OpenAI Identifies Security Issue  NDTV",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI identifies security issue involving third-party tool, says user data was not accessed - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTnU4UTdodW53WXFybnlRdHlud2JjQXNON1RmMndnV3dtdXlHeS12NlI2eTYxQ1RaOF9ZanY5RmZab0k1MVBRbjhSaWIwU0FCTVNPVXl5M0RxcmRVMUlVZi1vcjRPcWRYZ0JOcVZMVUIyYkMxUlJqMjRiOTlTaUxTUW1ZbHdLeHNNSm1ZTnpPc2Q3MnNicDNDR1V0cGhac3ZjMndDeVFVeDVRYzB4SmVkMHpjUVRmY280YjRZSXY5OVc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T02:04:00+00:00",
+      "summary": "OpenAI identifies security issue involving third-party tool, says user data was not accessed  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Identifies Security Issue Involving Third-Party Tool, Says User Data Was Not Accessed - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWlpLWWwtcnh2VmFKTkxwdlRoQm0zVDgzQkhXbGR4Q0VSdFV0YUpHTnNadUo4NHFmYXhQT0M0R1NpbTRVeDRpbWs4MkdaVll0THFlcWp5VkN1TVlZTUl4Q0EzNUJrY2RjMTR1QUJXLW1OZFFxRTN1NmdlZGVaWUdNampsNVFmZy1KTzFYalBBOTNnaXpWQVpBd3FUTVFoRElJYXpfLXppS1YxWFplOEhoODhLNFpvLXdxZXAzeVk2NFN6VllsR09oU3daVHBQRUdOdmJNOHoteGtvR3JTU3llZHFR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T02:04:00+00:00",
+      "summary": "OpenAI Identifies Security Issue Involving Third-Party Tool, Says User Data Was Not Accessed  U.S. News & World Report",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "In the news: OpenAI CEO's home targeted, search for missing man, soccer coach shapes next generation - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVlPSHZ4cHFhUGJoYmdpSVNwTUlVeUxjejFjYVI4TjdBRmNWVDJQUlNNQ0VFOUVRUWlxWURRcDFjTGJFY2hwcHQ3aE8zSDJBNFFyOXViZHIyV1RYeWlnTk5jZjZ3SF9PWGtuQ3lQNFl1eUVuRHRSaXhZY0dsQ2swWHJmWGdQWmVLekF4UmVpd2d4WEl4OE8wS3JERVpheVdGVkJydmFzZlJicjFvUDdQNElFd2J5SE93aHlhc1lzWjhabkRkYlp3Q18xaXFhWmF3UTZvSk0taVZTU2PSAeMBQVVfeXFMTkVkX2MtOVB2SzVvRHBObzVjWXAwUVNaN29JRnAtT1FfZ2RZVjRUMEEzU0VRc1dGTFhPOWdrTXBGQzQ4RF9KTTdKT0NRN0NXVjNWZUxvSjd1eDUydmRUaE1Pbk9YVlIxdU9IN0xBZjhnRnpTN1JJb3JkY1lwbzViaFVORjFmUGlNZWFNQzhaZld5T1c5QVNES2h0ZDEwVDZBRnhRNWx6MTk1ZzdmZEZySVA3dWU1Nl9jT1pXb2hyRFdzejhrZmc4RUpBdVZOTHFCZlIyR3paWmV2N1dHOWhleXFoeGM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T02:00:00+00:00",
+      "summary": "In the news: OpenAI CEO's home targeted, search for missing man, soccer coach shapes next generation  NBC Bay Area",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI: We recently identified a security issue involving a third-party developer tool, Axios - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFFPbmsyUWxGVS1NSzlyU3FaYWMtcFVtajZ3ZlVaU1ctVElBaDV4TzByVzgtb0JmRklZVk4wSlduckJ3c05lZC1FMkRkLVAtcXU0YlM0SXM4a3VwSm5LYlV4RlVjbGhrQm5lMFEtMFBnWW4xOTNpMDhkRndXMXpDdUJTcnBTcVdDdVFZNWxkQkxHcE5rUzVaRkE2bGVyLUtxYVZ2cGNVN1gwVDhiUHFUTGlaaUtHUWNONG5KY1VJT1oxNldQVmE4SFNVRXFNaXBEbzRaQkhYZ3dTY0ht?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T01:58:16+00:00",
+      "summary": "OpenAI: We recently identified a security issue involving a third-party developer tool, Axios  marketscreener.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI flags software supply chain scare - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qdk9vcVp6UUhYakVDZ1U2NmNwVFB6MG40M0JWdHE2TFExSGgtZFV2dG1VRUJLbmE3ZjNOYmpSSmNrdjY3Z19lZzg5M3Bla1I4RnY1N3RFSVF6UDVBZlZpMjVjYkxpdExhQWQ3NTFn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T01:51:20+00:00",
+      "summary": "OpenAI flags software supply chain scare  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI TRENDS | OpenAI Addresses Security Issue Involving Axios Developer Library - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GWTZnaVY2XzRvcXNEblQyTTA1aHg3cEo3aktZcjJ3Q3BvSkRndFdhb0ZfZzNlbzBpSnNQcS14RkFkdjhabG84bmw5b3NSMF9zUnY1Yk52MXpaejFOWWFVbURtMG8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T01:46:27+00:00",
+      "summary": "AI TRENDS | OpenAI Addresses Security Issue Involving Axios Developer Library  Binance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Former OpenAI Stargate Leaders Plan to Join Meta Platforms - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdXZRcXhVQUJQUEFhN3BmOHpmaVRkS01nOWR5TEEwY2hPT2d6dzd3a3pLZ3JTaEs3OVJPeGR0VkRVUkNlR0dDbU5EMlBMM2txT05vWHloOFRFejdxZ1poS1lZMk5mRmpzU1pBWE5aOTBtNmFLVjllbFVUTU5COTFsdG9XVFV3bmZrWkpGWFNrOVFwNGxtYnNXWVNWa1NaaWhPOVpOV2dBRC1xcDU3Y1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T01:04:00+00:00",
+      "summary": "Former OpenAI Stargate Leaders Plan to Join Meta Platforms  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI Cybersecurity: OpenAI and Anthropic Race - crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFekh0NEYwampjaXBMdTJLcmVkYnF3VS1BSUFtS1A1eUY3TWpkdUtIRjZhWlVUekhESVJpbFVzYkhEdGgycjhvYmdzM0VEYkxNTTVwaFZZVi1vS1VJM0ZpZkM5TWEzUjJHeW1sUHNCelI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-11T01:00:00+00:00",
+      "summary": "AI Cybersecurity: OpenAI and Anthropic Race  crypto.news",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Molotov attack on OpenAI CEO Sam Altman’s home leads to arrest - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPODFka2VUR3JvNG1KN3lNY3lhNlVmWjNJY3F1RHAzdzd0azRkMmJGRTFKWnNBWmZDSVQ2ZTF3Y0VkcHZtMjdJWWtBaUE5Z1hxWlliWFdwVm5rOFo1TEpLa1pkb0FMTnkzdUU3MGNsb09SVXk4ZzhLVlJ2bGpnRWM4Nkxhd0RyR1RNME5KTXBzZGJDZGNaZkdaM0JRY2xXd1FEZlo2cW9sMW45TXU5SmphYkxyQzdEOHBPcGV0RXVWT2VUUdIBwgFBVV95cUxPeEQ4SGNRTTA4czcwWVRkZ2xMdFpPUW80cnA0WEt5MW5wS0l4djdoSkpTczlRRDNJR0k3c2hzS3E3cXVFR2d2MkVwZm96em9Hc21nSENsblhBYVBtVzRDUFI5Q2xDeVBMRkZVTERLQ2s2WDlQMHdrWVVwYnd2WVdsQlItajMzZkhLUlNUYVJmNlUyY2hmNC12aTdOM3p5U0lzSlJmY3VtMWN5WUhLTnlHcklyMUNRRW1zZjFwMEN0WXRLdw?oc=5",
@@ -15,11 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Video Firebomb thrown at OpenAI CEO Sam Altman's San Francisco home - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TeTBJa1BaWG9JUkIyR2hpMV9PdW92Y1BjWFpqMkgteG8wdmZPemdSWW5fNUsyR19MR0d2anBhakQ0cmdlVk5OUWhaV0M?oc=5",
+      "title": "Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVJyU2JCbnBsc2FUbG9CbE8yMWljYlZoLUJYeUhoa3M1eEtKeWZ2X0JVc1BTSHowbUljMEp1M3NNa2w0UWNLbmdWX0lrWHVyZFZBMEhmUzN1X3hUMkc0LVNqVjQwa0Z2ajc1RnJFdU1DXy1aVGpaZFduZkFmTkpOLVBlR3JmVEIxRGVRdDBSUTNqRXcwalJ5cG9XTUdYVHJhS3BKNGxFT2ZyRlpiaUtjag?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-11T00:22:40+00:00",
-      "summary": "Video Firebomb thrown at OpenAI CEO Sam Altman's San Francisco home  ABC News",
+      "publishedAt": "2026-04-11T00:20:00+00:00",
+      "summary": "Sam Altman’s Home Attacked With Molotov Cocktail, Suspect Taken Into Custody  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,13 +195,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Claude subscribers will now have to pay extra to use OpenClaw - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVUzVjFlUEVJU284bDI3V0dHUTlYRDF5YlV3OGh5RTdUNmltUFpqVmc5cEpMb29Ccjh2bF9rVzNqZmpoY240ek1BS1RtMXgzS19YTWNxMzNkbzItcE8wcXN0WFZFUTliY1JtMXRHT0piVUZyZ0lWNzNtTkRKNkszcUZhX0Zmc28?oc=5",
+      "title": "Leaked Memo Reveals OpenAI Sees Anthropic as Its Biggest Threat Yet - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTQ0dVU3cFNwUUFLXy03c1RXLXVRV0tHaDBEVVA4RHh3dWo4UW45dUU2S2djWkpzZVRMcFhwXzBVSDFrSUdMTVBaSDN1WEFwR3FfSV9uMEUyaDEwX0R3aWUtZWUyN1RHQ19XUGRWUnFkZGVwaHRWSDJ2VGV6NmdFSTZ0VHEwRmxQMHhBdHI0RjdDSWlWRmgxUFhDUW9TUQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-10T23:58:56+00:00",
-      "summary": "Claude subscribers will now have to pay extra to use OpenClaw  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
+      "publishedAt": "2026-04-11T00:06:02+00:00",
+      "summary": "Leaked Memo Reveals OpenAI Sees Anthropic as Its Biggest Threat Yet  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
@@ -55,169 +217,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFRMNXItMzZmUWF4S1hvWUhWd1lhTXZLdGk2cndFeDNQZEdQYldlSTBkdTVadE9VeVJsTWpXQ3VsM2RMbWRrTVRRVDd4YlBWc09vajc5RWRSY21jbEF3TXoyVGczbXJLZ0FjV1N4TTJtUTM2X3d2bC02VlozdXN0S1pPZks?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-10T23:52:32+00:00",
-      "summary": "Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO  The New York TimesMan allegedly throws Molotov cocktail at home of OpenAI CEO Sam Altman, company says  ABC NewsOpenAI says CEO Sam A…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Police arrest 20-year-old after a Molotov cocktail was thrown at Sam Altman's $27 million home - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTJGLVktSUxJRHRJUFNCUGJtcGVqRTVuY3RpZ2U4dVdYeUhCb1BQRXJUUVZ6NjJaT3VlSGp0NlM4cVVjd3JwdjNLWmw0ZTN6a2lGaGUzOE5iRmR6RHAwVGxnRUlfQ3NheXBFNlk3aHFTZkFhWmVXTU5kZ3RTR1ZtRERNcGctNXNQV1RCZzRmZGtYbTMxcElN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T22:59:00+00:00",
-      "summary": "Police arrest 20-year-old after a Molotov cocktail was thrown at Sam Altman's $27 million home  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Chris Lehane Explains Why They Bought TBPN - Puck",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlUkstNkxxSFhXNFd1S1lwRlRBcTVuOXpNZldCUTRkdFMzU0swQ3FzSEJfU2RvV0NmQ0JVdmwyS0RBUFBIMUdqN3k5UHp2eElMUFVic3JhQmdfUE1YRERiU2FCQkFVLV92WWxZdFI4R050T21NalZrMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T22:52:43+00:00",
-      "summary": "OpenAI’s Chris Lehane Explains Why They Bought TBPN  Puck",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG05SFhQZGJIODk1aVBVV3l6YU1leWptVTJSbmo3U0pGV1dMRk9NRWRZM3I3WE9DRjJVUFZOajBzVEJ5Wm1USjVGZEFOeVNHOHBZQU14SWJ6WjVNSVZONzh0VWtoeDhTNE83RTJ6V1FMMVhRQlAyel9nS3ZpZEVuZDc3cGJFR0lNc1FRWWtZQmZZOTVkX01wcklINU5tcHZINWptY0kwNNIBrAFBVV95cUxQWlRydkVLU2RzQ3NXaWtERWhfaThsUWwzR1R4VkExUVVDX3ZjRjlYbUNuellTbENuTVFNbUh3N1JYNHFtaDRvWUpoZ21SdnFWLTd5UE8yN1U3WEFTWHdZeklNRUI4QXdweG14Nm9XRjIta0VGYmhlMV9UbW1SeTBvQURrYVZoazlteldZckg1TWVyNDAtc21mejNtejY3R2NVWFlaQkFESU14Zmg4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T22:34:23+00:00",
-      "summary": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack  Al Jazeera",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Man allegedly throws Molotov cocktail at home of OpenAI CEO Sam Altman, company says - MyCentralOregon.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjl4aHJQZkx6WDRzMmt2Szg3WXJNN3EtSVBaeTBNVDd3cUdLVmNEVXlMWTkyREFDLTk1NW00MnFtVkJxaUc2SklSNTJFcWViRVdNSzA1VFBleDUwN2Q4VmpEX3gtLVdKOG9sNk9XX1RIUnNwUTFHU1N4aXJNRFR4UEN1VFpmVEYyWFVUYUNvR3JWTkpSY2wtOWJTY1hnUnFkb1U3SENrYXdpOTlhMk9ucG8zSWVMNVlWQWIzYWtmeWRqY3M3UkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T22:17:52+00:00",
-      "summary": "Man allegedly throws Molotov cocktail at home of OpenAI CEO Sam Altman, company says  MyCentralOregon.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "At a major AI conference, the consensus was clear: Anthropic is the new favorite in Silicon Valley - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNay11YUs3b09YXzBTZjJiUlZranZzRU9RVE15ZTBQZXVOTS0wRGlxNjU3akxyZGEySlkwM01vdFBtX2UzWmlUNFhrdFR5WVA0Y3g1Y2x3YUdIczZ3RTRBbUVuY3gyb0l1VlJmMlBNc3NjNUtyaEpPYmExSUNfeGNoU3F6T1RaanNZSW40aXdkNlBMLTM0MlpmODI0c0lmdWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T22:00:00+00:00",
-      "summary": "At a major AI conference, the consensus was clear: Anthropic is the new favorite in Silicon Valley  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Ranjan Roy: The appeal of video AI is waning, OpenAI shifts focus to powerful models, and SaaS companies are embracing AI integration | Big Technology - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdmRyQjI3S3FLRUdmLWtDOGltc0o3dm5pbHppbXZtUEc1bm94Um5GTldUMGhHUlo4ak13VThPM1l5T3hncVVGRXJfMHdkMVlkaHl1alFBQ3ZzcDhfeEd3T1dITlJDemZ4VUczalgweTVLdWNfUjNWaEtUV2xJdXY1dllITUk1cFRTcHZjRHBSUXpaaHBxREJLQms1NDJNX1IzakRyZnNJN3pKeDJIZnVwN1AtUEh0SlhBOURFdmpTNFFLekJYZnk3b19yb1pSaS1WTkE1NzVHSkNmYmhFanRLelNpRWtkcnlId0NUQkFPN2FPN0E3dkFPS0RpR1dmWFEwODl3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T21:47:16+00:00",
-      "summary": "Ranjan Roy: The appeal of video AI is waning, OpenAI shifts focus to powerful models, and SaaS companies are embracing AI integration | Big Technology  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Suspect Arrested After Allegedly Throwing Molotov Cocktail at Home of OpenAI CEO Sam Altman - People.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16aHp0N2R0VEQ2UHl1SzZaOEZIMkhTdmNaQTFEclBFdjVWYjlXNEloaFJCNWM0dXlwRG9SdW1YMEpBYl84ZklhM2F6WUppVEduQ3AwV3J6R0o0NDRLeHN3Wnc0VHJBZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T21:38:33+00:00",
-      "summary": "Suspect Arrested After Allegedly Throwing Molotov Cocktail at Home of OpenAI CEO Sam Altman  People.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Suspect Arrested After Molotov Cocktail Thrown at Home of OpenAI CEO Sam Altman - Common Dreams",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TWWVobDVBNHdxdkdkTkI2RTB5REIxRG82Qk9HU0tFX25JdWJla21XN0VnUmU0d0JOOThLWlF6MU1makRIYmtKTHpsblNrcWZ3Z0I5eEMyNHp4amFuVHV5QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T21:32:52+00:00",
-      "summary": "Suspect Arrested After Molotov Cocktail Thrown at Home of OpenAI CEO Sam Altman  Common Dreams",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Suspect arrested after Molotov cocktail attack against OpenAI CEO Sam Altman's home - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2xaZ1FqbzY3WThKX0dESlI1UkhXeXp2QVctNG56RENQVUtfRkpwMld5dzlMZjZWQWx1WDZ2RnI3YjY5UjZVVWFRWlFPaVcxUzRXeTdHUzVIZHhzZVAwbWxGNFJtcUJLMnVqeUFIbHBPOFFfVmhPTFJRYloyclFFVDd5NXJCUjkydTNXaTJoUHVMZjdaQTlHUVFWSzlUMFVBQ3NOMFF2a2RSTlRoaGhHOE1SWFdKbWtoRHJRY1NTR1oydlFz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T21:21:55+00:00",
-      "summary": "Suspect arrested after Molotov cocktail attack against OpenAI CEO Sam Altman's home  Data Center Dynamics",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Bans OpenClaw Creator After Pricing Dispute - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGl0STQ5ZjYxSHVzbFJYMF9kbFcyM1hVRlN1UzZLRzJiYmJ0Q203UGdNRGozTGwxZldVdXJrUGJRaTdyNGlBZnR1VFVDOFlBcmpvcEtUd1piTXo0SVRzaHVBR2FQNk5mZENxc3d6blNSVDdnUElRY2VhRVdHbE53MlI3NmdLeFRpRHlnU0Radw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T21:11:00+00:00",
-      "summary": "Anthropic Bans OpenClaw Creator After Pricing Dispute  The Tech Buzz",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI’s $122 Billion Pivot: The Restructuring that Redefined the ‘Innovation Supercycle’ - FinancialContent",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSlMwMHdHTWZDUW55SVNmM3VULTJaMkdfaE1UNEM3cjBBVDN0N2NlN2V1REZRLW96VGRCSnNRQU8zRkZtVDZDQU9lbXBwNVVvRlVGZHJrNVg3d2NoZEszWFdRV3ZwcHVrMDFWbzF4OUpuYnZiZGlFU01VUmVOeFRsWGllaHhoenl0NXV0aGtFNzN1VnMxRkVtSW9DVXQwY2ktTkdLTGRRQkxUNG03YXlDX0RrNnJjRDlLVHNzTEdQZVgwSU1ZVGdoMGJoaC11SG5jQjRibm5WeG5nMmV4djZNYkFlMzNUR2l1YTR0dFY2ZjY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T21:07:00+00:00",
-      "summary": "OpenAI’s $122 Billion Pivot: The Restructuring that Redefined the ‘Innovation Supercycle’  FinancialContent",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The luxury home of OpenAI CEO Sam Altman was hit by a Molotov cocktail before dawn on Friday - themercury.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSVRQZzZnU1g0MzFCcFAxUk5GcFFnZ0VaTzdGd0tSb3BPM2NwOEowVlJ1cGFiUl9OejVEejdiWldEV2FVSFBYUEJoMlhneWJ3TkU1WHlJbFEwWlVmUFZVMi1zWnJ3NVVEazFkeTE4SHBtUWhCb1l2QlVvUVJKWGpOZllMb1d2QW4ybE15cFl2RzBOZGw0dC1SZnVmNUNhWjZ0QzY3VzR0eGM1OFRHYU05YjFUa21jd3V3S3RlQ1VNVEI2Vy0zNk9RdkZYTGdlem1nTEFTZWYyRU1udmlxeXhDMElPbTFHRjM3VEVGTUFtaS1RZGdr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T21:04:53+00:00",
-      "summary": "The luxury home of OpenAI CEO Sam Altman was hit by a Molotov cocktail before dawn on Friday  themercury.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Suspect arrested in alleged Molotov cocktail attack on OpenAI CEO Sam Altman's home - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN1FUb1czblBoYXNiSHF3c2NBZmJjRWxCS2Z4VkZkVXIyc1MzNVV5SG1ONlpjY3JMRzJCOFBValRSREZJdXdyVkZCR00tY0RON092dU1WTVBXbHBjVnRtM2FQaUM5QmI1TVpYOHdWTGRPQUNUdGZ6MTd1OXNQN0VOaVlqN1hjbGU2UWZVNHJNWHF2a1ZvN0JReGMtMjMybUtnTmtTMmNmcVNvd3ZiVEdYblprWm1TbTAtNVUtU2tTLVFiU1FPem9yQXpfUFJNUXBWX0Job0prN3d4TVg1QU0xYVVnQlU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T21:02:40+00:00",
-      "summary": "Suspect arrested in alleged Molotov cocktail attack on OpenAI CEO Sam Altman's home  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI boss Sam Altman's home targeted with Molotov cocktail - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxU1ZpVGN5eXl3RjhiUkJBZGV5T1BBUW41a3ZDejdNblBTS0FtYXpDWnZNdF8wSGNBOFRSOE40aHp1OUlrYWg0VDF1d1oxMTI3UWREbW1WTl9qUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T21:01:18+00:00",
-      "summary": "OpenAI boss Sam Altman's home targeted with Molotov cocktail  BBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Man accused of throwing a Molotov cocktail at OpenAI CEO Sam Altman's house - Shacknews",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEI0cV90X3YyakZwUzYxYWZqUE1wMm5hRTFPOWlhU0FRY3ZJZzIwZm5EWHNJb1huYkJfVVRSbURQcW9qZDM2VlVRNF9zcXJ5NzFfbTRhZjVrTDF3VGdUY0JabnZtVFNYNW43UXdBMGNtYWRYU082YWJLa0llX0l5aHJyQ1RJOG5JQl9RamFIUlRJcjdpSkR3dtIBpAFBVV95cUxQY0RyM1VHMWk3UkZDNlhsMGR4OHhyalhVVi1jSUo5NjV4VFFmQXdCZnQ1RTdzX29CMF96M0lqekRXVGxDNGJXcWV5VWdCbng3eEgwUW9uamd2RGlSR0ZhUktnX19hcHZGYWhBUllYeUZ2ZTN1UUxwN1p4TmxORndQb3ZnT3B0SEZCMjdKOExqb3EyMVJHb3NWUnlQdDZBN19SYXdHbA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T21:00:00+00:00",
-      "summary": "Man accused of throwing a Molotov cocktail at OpenAI CEO Sam Altman's house  Shacknews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO's California home hit by Molotov cocktail, man arrested - The Mountaineer",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX2x6VFhveXJIR0ZVcWR4Mnk4UWpiY2trN2MzTGNjOEJXZWIxUk9UcGlnZTQ1WXIxa0tyVlFxa0FCaDF4QzFTMGVFV2o4UFZBemZPTWx6dWY2SDF4WHB3eFA5czJ5YXI3QmlRZGo4R0U0cHRuaXlLc05TRm82czJBdmNwc2xZLW1PZnl3bkFFeUI5Q2JvLS1RaDVFTXpGRWFXQXZBTkpucGY4cHJmOUYwMDRxMThKWGZud0lLVnVBSDFCbk85OGROYmZuTjlVVUZ4SUFrNnI1YnFOU3FhaDJkREUtZlF0WHh0a2Y0U1pONk8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T20:58:23+00:00",
-      "summary": "OpenAI CEO's California home hit by Molotov cocktail, man arrested  The Mountaineer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Shubham Saboo: The Plod device captures audio context and personality, OpenClaw transforms AI agent capabilities, and effective onboarding is key to maximizing performance | TWIST - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNdDgxeHdFQ3FnY1pjeFpzQ3hYdWFMMzMwNkdIa3E3bVdEeHBnQ2t0OGNrLUFDQ3Y3WHNDS0hNMWV6ZHVZaGNoWkpiSFI5QU5mLTFEXzlFVW4waG9LSjV4SzlCTVRGRlUyS1VxN0dhdnYzeW1XWUZJeUdjZ1k4MTFGUDVuUHlQLU41ODh0WndPb1ZObXFzbi1GVDdGZVVzWjlUTWpwV2hrMlIxYVVxUFNmRDAyTVFXSGhSNW5Pc3ZJd0ZKQU9oa1dINGJuS3JCZi1EaVdTdVZNMm91S09NTXVBZEtIRkN5Zy0xVnBPRDd2VnZOWWZGUURhV1FVN0M1cnpLUXdEMnNLZWRjaWxCeE5wR2pWMnYwZ0ppaG9McUNUc19XSHNObGlhdlBR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T20:42:50+00:00",
-      "summary": "Shubham Saboo: The Plod device captures audio context and personality, OpenClaw transforms AI agent capabilities, and effective onboarding is key to maximizing performance | TWIST  Crypto Briefing",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Suspect arrested after incendiary device thrown at OpenAI CEO Sam Altman’s home - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLNjlDWTlTRnVwNV9hTkJSOUQ0S216TjVVdUlNWVIyUkZMeHlYLUxvVFRJQWRJcExPcklNQ2JSbjJuaXlfS18yd1VtM0xyRkhjYVVoUUw0NkJTdTgyb18wbGlKTVhuR2dmUkJNMTNMYWJYZ21kc2c4ZHlVODQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-10T20:39:53+00:00",
-      "summary": "Suspect arrested after incendiary device thrown at OpenAI CEO Sam Altman’s home  CNN",
+      "summary": "Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO  The New York TimesOpenAI CEO Sam Altman’s home targeted with molotov cocktail  The GuardianSFPD arrests young suspect who allegedly t…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
