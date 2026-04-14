@@ -1,8 +1,225 @@
 {
-  "generatedAt": "2026-04-13T23:55:29.925764+00:00",
+  "generatedAt": "2026-04-14T02:08:51.605310+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
-  "items": []
+  "items": [
+    {
+      "title": "IndyCar News: OpenAI to sponsor Palou at Long Beach and Wash DC - AutoRacing1.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWFfd2FjZWxQQ2IzWDIzQ2hvTkdWTVhWOHRGYmEtTWFUMEM5WWdZUGVuM0tUMVJWYTNtS0RnUnJSTFgtTFZIQkhSQXBnU0VHUEdsMklJUWpaNlNNQ0UyUXRoekhtUkxIa18xQWNpZUJqTUE1QjRfallLNjNlSW1HUE1rdVhCRjRScW83Z1J1SXBBdEZmaXRoVllKWURGODZUYXA0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T01:47:13+00:00",
+      "summary": "IndyCar News: OpenAI to sponsor Palou at Long Beach and Wash DC  AutoRacing1.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Opposition Toward OpenAI Brings Two Violent Attacks on CEO’s Home - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbS1pUnBSb0NvMmJJMmVLYWJXM0dtYXRmZTJCWVBYTG1xY05aZjlFZEVnLTdWRHNRMDBRMUs3YmlhYTdvMnlyWFJsZlFDeldIb3NfYlpiVzg3UHlhYjI0eG8wSkt4RXBfall2aldqczhqWmc3SGpaTEJ1dlRSS25XaGlkTG9pU1Byc1VNZHJOT3BJazVmTkJiaWNrU2k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T01:34:39+00:00",
+      "summary": "Opposition Toward OpenAI Brings Two Violent Attacks on CEO’s Home  Broadband Breakfast",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Man Who Attacked OpenAI C.E.O.’s Home Had List of Other A.I. Executives - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFR6bEFXa2l5TWhXQS1Zcm1IdC16cnltSWk2R2hHc1lqb1l3aWNvV3BudHp5emtUVFFiLTRfT2NtVDE1QmtWam1YY0lCaDI1UDUwdmdtNi1RUU1sNlE3RTh1a1JfV2xOV1NPTE11bHNHc3ZmUnduM2stbkZDdEYtQ2lzMHBnTEZ2cjhaalB5VUlPOTh6YlowclhNblJPMnJVNml5LW01OUhUTTQ2WEYyd0Y0VFFfOUk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T01:28:02+00:00",
+      "summary": "Man Who Attacked OpenAI C.E.O.’s Home Had List of Other A.I. Executives  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Man charged with firebomb attempt at home of OpenAI CEO Sam Altman - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEVoYTVTZXd6M0dqb1NmVk5LSlBRZGJRVDE2VTlTWEFnUDREaHA4MWVvMHZJZkNKR1lvSFZzNm81V2Z6eVNRZXVqcEFXN3ZTNlplYVU0dk5LYVpuVGVXZW1BTkNpNWRRczNLZE56VjhWWjdtRzBHNjd2M3c0eHNrWU1rZ2R3T0k3Q0xURkFzbnY5dTM3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T01:26:30+00:00",
+      "summary": "Man charged with firebomb attempt at home of OpenAI CEO Sam Altman  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Man faces attempted murder charges in attack on home of OpenAI's Sam Altman - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IZlVfWDdWU25UQUVQbzZDbDBYVXhkdTBxcGM3eHIwMmFYcklOS1ZWUjVnNzc5SkJZdDZ6REVEYlMya3BvLWFNMnZPZGl4bUNMQUIwaUtUWEJ6UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T01:05:54+00:00",
+      "summary": "Man faces attempted murder charges in attack on home of OpenAI's Sam Altman  BBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Man accused in Molotov cocktail attack of OpenAI CEO’s home charged with attempted murder - TribLIVE.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa25ZYzRsRHBTX25SV1Fyc0FJMnRRTW0xZXdMRlZlY0ZKNFhiazFTSjBlTDIwdlRtYVVNSUNxaGpOc0ZndXBVZ3dCRW1feVRqX1ZDRUZTSlR2QVF0dVBuNHJIc1BpVnhPaTktZEtwdGViQ0RrdTAzRXNBbExPb0NBY3VqRWxTMm16d3pOVEVIZExfbC1qNGRySGdZWTVrM1NyQzBxaF9IRzRFWWFRdWJNV2dtcXNpaWs2bW5sYnRRQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T01:04:24+00:00",
+      "summary": "Man accused in Molotov cocktail attack of OpenAI CEO’s home charged with attempted murder  TribLIVE.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Chief Scientist: AI Interns Are Not Far Away from Us - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NckNWa255dU1iczN3cE5ac2h2bmtpWHNXOXZpRGllWFY3U0hNUnVaMmVEZ3k2cDJSaWVhamljcjJJblB3WVJZNGhMNU9jTGRodDBr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:53:10+00:00",
+      "summary": "OpenAI's Chief Scientist: AI Interns Are Not Far Away from Us  36 Kr",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Acquires AI Finance Startup Hiro for ChatGPT Expansion - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWm9OWGFRSnYyQ2hpOFhkWWRWMm91a2dpeTVJeDJ3OUV5a043TVZJczg5V3B1Q0gtOHpQNU9QeU44R3ZweGgyRUdUTWpsNmpycXJLTFdQNTNjUnZ4aXNZSUUxLUh0UnV1M19TU1owbDdaVnU2TWhWdzI0bjZfc0xSdUxtdGRvYW9xM00yenRUMGhsdEJ5LXJwVC1R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:52:00+00:00",
+      "summary": "OpenAI Acquires AI Finance Startup Hiro for ChatGPT Expansion  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Home of OpenAI CEO Allegedly Attacked for a Second Time - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0JTcjB6ZWVKYUlSY2hzWlNnakpuMkJpTTF6ZG5sYlNDS2hNWEVyb2FESFZvWHVjdlFZTl9xX0VYbkhTY3JvLThqNkVoNGFxMV95b2U0NmJsamNDNElVZThXR1JiTU5GMzk1bkpEZzhBNmk1dm5PQ1Q4cGJxVjI5UzQxam1OSVZqNUQzci0xSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:50:25+00:00",
+      "summary": "Home of OpenAI CEO Allegedly Attacked for a Second Time  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "New details in multiple cases reportedly targeting OpenAI CEO - KTVU",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44bDVMZEROYWpQejhqdWd2NTJvMDlZdThRRlhWX0J0VnVvcnZpS2FZTEpEVFgxQWViQWNzTEFmQUtMb2ZnelcwNDRYQkV4dk5yaF9SbS1BZmxFSGvSAWBBVV95cUxQWlNFMTE0VXZ0TDhGbnhLNVV5di1EQTRzdnQwYi1MSjJXUTBiZmRzZ0dPS1dDMmpETFBkMnJkcHVIY2x2dUYxd3laeXdTT3ZTeVFYaEFydko2czRTTnVVeGY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:43:56+00:00",
+      "summary": "New details in multiple cases reportedly targeting OpenAI CEO  KTVU",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI can't duck federal claims over murder-suicide tied to ChatGPT - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdHpjekdUSVNfTTJWZDI5ZktxaWVwNnZ1aFREV3ZvUUczZDZxNEF6S0gyQjNERXRUWXBDeFhQWm54QWZHenlWcDN0ODFvSUFzeERINm1lWWRmVjhFS0lXS2tjUjdJQzdYUk5MVnNfbTRTRWxlcm4yc3FMdXU5cEx2WERUbV9DakFvMFFDaG0yZjdWakp0ZHpjdFpmV1loV2Fq?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:29:51+00:00",
+      "summary": "OpenAI can't duck federal claims over murder-suicide tied to ChatGPT  Courthouse News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FBI raids home of suspect linked to attack on OpenAI CEO's home - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdGZTUE9raXBXdFVLOC1kSkJKRXNjbzl1NHBXeHVnbG5sZnYtbzlwdnVXTzF6Nzg4eEVibGxpdTlOVE96TGt2RTlfNE9NMUV1aTJTR3NGbVJ5TUY4eWROY29uMnJwNWtHOUV0NnhOLWxJeUFTcDQ5b1lZMk12T0NBMTdCTzB4ZFFtQ3puWXFsdXE1RHBYcWlPajI0eHd6SG9ZeXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:23:50+00:00",
+      "summary": "FBI raids home of suspect linked to attack on OpenAI CEO's home  Anadolu Ajansı",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI has bought AI personal finance startup Hiro - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVlKUndodXlWSzdiajl5emJ0RFdURmgwa2lJQm9QZDZ5VXlZUi16RlRKaVp3c19qUmtleVhhUmFUV05QaVZsOF9rWks2aXZvTjVORXJQazE3MVA4NF9CMERISmRQX3Rkbl9falZrRFVWYlBVU3dhR1U2OXFkVkJuMnFPMHJpWFVscHZiU0Fn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:23:33+00:00",
+      "summary": "OpenAI has bought AI personal finance startup Hiro  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Man accused in Molotov cocktail attack of OpenAI CEO's home opposed AI, court documents say - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUh5TjBUVEtNeDgtcE41S2FRVkk5cmtLc3QyOGJfUzNwdHZpR19LWjkwZlVLak9tLWRQY2dFaEw4Qmt6ZFpKdkZzQ2tMSHFxMEZ4cWRQanpzdm9oSkR2STFJYUVmemtjLTAtTEtIYWlKN1o0aWw3bWtIQkYyOTFVWktva24tZ9IBjgFBVV95cUxPOU1fYU5iNmkwNmRQa2ktNFZOZTF3T0xFWGZaS1NPZFA2LWxmWDAxVG8yUWNmdHpKMXRKOFh1NmM3N2laWFB1S0gxVjRmOWVUZGlQN1lKYWNyVU1aUFdGN1F5a1lneUNaRnN6UWRmbzNmYVBTdlBybWctOWxmdGdpV0F0V0xpamFzNHRvdFln?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:14:36+00:00",
+      "summary": "Man accused in Molotov cocktail attack of OpenAI CEO's home opposed AI, court documents say  NBC Bay Area",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder - PinalCentral.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQlg3aEYtekxUaFdhVWNrSWJwQlRKVVVYRzN3ZklpWV9yWjk3bVZoTGNNamRGTzdfbjItNWFwTUdSTTA5UkZEQ0YwSlgyRFhfYWhfZ25TZTZtUTZETTZmaC1Rc3dnazR0b3lIZVZPcnplYjBMVzlhbmVTaS1lTnpxSTlEcXhyXzhoRUxIUFVDZEctc3haTHRDZURHZHFoYndpOGU0ZWg1bExFbWNnRGFOcHc4UF9IbTF3UEhBa29JSS14b25CS0hXQ2hKRmlvVTl3VS1XZWlDN192X1RBMjhhRncycmZfdHh6Q18tZ0tnQ3VXaUIwSVBjMjBvNlpiVzBuVy03ck5CdzdId1N4Q0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:09:00+00:00",
+      "summary": "Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder  PinalCentral.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Texas Man Attacks Sam Altman Home and OpenAI HQ - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXNXb0dDQWRLc01weFowbHBGTWtXbjFidnFpMHNRZjUyMW9WaEtlREhfaWVHQjBLV0h0aTZBcUFDd0FQZ2xSZlZaU3RQOW91OU53aWpfUmhkTUtYQlZuMFN4UXJrdEt1Q1VFLV9PdFhRQ2VyeWRjUU1LdzBsU2piMjVNOHJKak5Fc016bG4yVTNSZEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:08:24+00:00",
+      "summary": "Texas Man Attacks Sam Altman Home and OpenAI HQ  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Video Attempted murder charges in attack on OpenAI CEO Sam Altman's home - abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zZVpPRXQ2NlFzZE9nX19ZZmNfemlSVnpPOEh5eFM0QWRBOENGbEFPUkpiV0JFUFNTM2hqV1VNVFBiSEZxNklUdHM3THo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:06:25+00:00",
+      "summary": "Video Attempted murder charges in attack on OpenAI CEO Sam Altman's home  abcnews.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Looking to run OpenClaw on the cheap? This mini PC deal has got you covered. - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZV9hM1EzU3J2VE92OUpzVVFKcHI1ck4yOVNjZi1HM1VTRFQ1aVpfWll2SHlMdzJweldocy1wMDNQZjB0RVJ4UTh2dzh2QXlHTlpZZWg0RlRFNmZjR0ZwbFc2UGZvOGhyVnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:04:33+00:00",
+      "summary": "Looking to run OpenClaw on the cheap? This mini PC deal has got you covered.  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman's home struck by gunfire, days after Molotov cocktail attack: Police - abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlk3cFJkWnNMMHloVFZSQ2pIelpHUWxJbndOeWdiUVcxdXBncjcxdmU3cEUtczJBSV82MUc0LTFRdkJ4NmZpZmZUMUdmU1NJc3hMSlRUSU43RW5VN1pjVzJqSm83OWZiakt4TTQ0bHgwR0hYVkJUaTB1QUlnRUxFQzB1YngzOVoxS0pOYkFzUHpHQVFvcHN1SjFVONIBoAFBVV95cUxOSmg3TE42d3BRemlRWXU4al9ZU0p5eEtCeE4yNzNiaE1oTDB5MHZBMDVDNTUxUjl0dzdma2VWcDkyTUNMRnJoNlJobXNLU0t6NUdXbXNkMWdUa2NDUk4xZ2loSjY2TURtTXkxMTNtd3ptU1VUemYyVG93QWt1ZkNvdEp1aDQ4UVY5RDRwUXRSRGZsdmNJalpyeHVBRkxpbW1v?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:02:53+00:00",
+      "summary": "OpenAI CEO Sam Altman's home struck by gunfire, days after Molotov cocktail attack: Police  abcnews.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman’s home and OpenAI’s HQ - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQXV0NTJSdHdKWXpTdTNUNTlvRjVZdjJZUC1fOUFHZk11UzVZYk0zQjMtb0k5M18yT3JjT0EyS2xOLWlBdjZyUnFRaWhaSEY5VDlFeHJEaU8zQVp0dFJsR3gxUFdHYk16UEhFNnlTRnJsWVl3dEFQOXZ6anZnRnlkZDRYQWJwbFNqdG1V?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T00:02:00+00:00",
+      "summary": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman’s home and OpenAI’s HQ  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Fire Arrest - GazetteXtra",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmxPb0U0MjlhX2tabVpGZFREREIyNHpFXzEwOEhRd2R6LURZMTRUanBhZnktcVpwem1tZjEyV1dVdF9NTVdBSTNMMnJzS0Nfa2YwVnhSbzBxS2o1dFhwVVpqYmxhb3d4aG1jRGI2dVAwaUNHYWRGSVB2VEotT3lXV3JtSktrZThSRmFfdHJRRGpBMGlRc1pRMm50ZzFtNkE1ZFZvWU16SHkyVEtBMlFvNzRB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-13T23:38:36+00:00",
+      "summary": "OpenAI Fire Arrest  GazetteXtra",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FBI raids Texas home connected to suspect in arson attack at OpenAI CEO's house - FOX 26 Houston",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1RETVFuVHhYRjVyQzU4aGw1RjU0aWpJNDBveGxUblhYTV91ZUNsZjhKVTE3QTBCeldwQ2FNZndKZ3hsbjJEQUt1cExubFZkVXhnTGdnS2xSMTZFeThiNVJiZk1DZTRiWVpGUGZhMnZ5bzhSUUptY01GOFdORDN5Y0ZSZEV3MENuLWR5UkRsMF8ySHZlZExxc2UwX2JGY1o0YzF0VGZwYjZpUk93NjlZ0gG0AUFVX3lxTE1TbGpUb1JZT1VBWWlNQzYxVWpuc2VWRmxwYm0zcmphOUJpenRNSlZwOEtUdU9jek9pc2dLQzRpdzRZY0JzVk41RTJ1RVd2b2tjUEd2bkluNEo0NUtlWFIxMk5KLThIeWxHRjJYNGl6Tk1nTlNGbUw1dlBvQXlHSlpZbFNIMWVUdUNUanRQWWx4aWx3VnZmckx6SU9HaU5ubjhlTVE2YlJDUzZDdDNmNnZGSzY0MA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-13T23:35:39+00:00",
+      "summary": "FBI raids Texas home connected to suspect in arson attack at OpenAI CEO's house  FOX 26 Houston",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Man Behind OpenAI Molotov Cocktail Attack Feared Humanity's Extinction - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORklIS01xUFdkV1JzdVFIbTExU25FbVNFd0x6cEtselE1ckhNWll1bDAzU1ZseVMtVnVDOTRvdUwwOXhoSGxVRk92d0pCOGQ1SXNmeVFZdjZaS0RnNElLSDk4WlRyUnhzRUltLWhveURUWXcwT0U1b082WGxyZm53WW1ONGtxNTZQWjVsamI5dE5SdEYzLU05YmFuOUw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-13T23:32:42+00:00",
+      "summary": "Man Behind OpenAI Molotov Cocktail Attack Feared Humanity's Extinction  PCMag",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Suspect in attack at Sam Altman's house aimed to kill OpenAI CEO, warned of humanity's extinction from AI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJUHlDQ1VKZG1ob2Ewd1doRUZCNkU5ajRVWm56NXFCRmxJMU1nM1I0aGNLRWc1ZERTdXdPSjVoSjVjOHYxX19WMk5FRmNQZFQ3UnpfSlpJZnQyc29Ib01JOUtVdnJCRko0c0dPZnREQmPSAXZBVV95cUxQNG5YYnlLYzNxdFN3UjJ6VFRUQm0wZEpFN0FBS0JpQklFT0x3OXg5OFhncU83aXNpSy1Jb05IbEc4ay12eXA3YjJKSUZwOUk3Sm8ydi1Oc3ZwU3liMmwzaE9Ud0lEMnU2ZHJVMktBeUR3bXM4MHln?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-13T23:27:13+00:00",
+      "summary": "Suspect in attack at Sam Altman's house aimed to kill OpenAI CEO, warned of humanity's extinction from AI  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    }
+  ]
 }
