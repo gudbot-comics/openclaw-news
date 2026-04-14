@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-04-14T20:02:27.696922+00:00",
+  "generatedAt": "2026-04-14T21:05:13.400205+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI releases new Cyber model one week after Anthropic's Mythos Preview made waves - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzFybjFQdUdGcldFNGQxeWhDbGhyeXJKVUlGWUFnTmhvQndQeWRRcjBSQUdsUm5GY0xqdjN1N05wQTFmQnFEQUdfak1rRGZFN3BKbHB6eTRkV2J5eEVQaG1jRkRSTVlqUGRhNWowVUo5cVVHd1hrQ0hlSjJLRXd2X05JMUs5X1RFdExwRTloX25SWV9TTEktM29OTmEyOTlqcTZsSVFDd3RqUW51X2d4a1ZIVDdMX0hISXF0dWtB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T20:55:15+00:00",
+      "summary": "OpenAI releases new Cyber model one week after Anthropic's Mythos Preview made waves  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI unveils GPT‑5.4‑Cyber, an AI model for defensive cybersecurity - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaFFqMXdhSFg2NS0tTmEtX2pXQXpaOUVsWG4tWllYdFlTZE94UzRleEg3Q3NxNzhDVkU3QXZ4VndDcVlkWHR2Z1AtTDdmNVViUHdGbU9mR0xOMDA3ZHBBS29wN2xqRnhlTmxBemlIaURtaEdidE10VU9QNWEyY0haQWUzbEh2bFh1ZnpDNV9WTFRnUERRa3VaZTB6ajdZdWZnN0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T20:35:00+00:00",
+      "summary": "OpenAI unveils GPT‑5.4‑Cyber, an AI model for defensive cybersecurity  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI expands access to cyber AI as hacking risks grow - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBON1hxdFBVM1E1RXdvQnRTR2Rob2JDTUtXY2llXzBBUWNpZkJac1VISE1YM1VWNHpPQnJBM1lNRm9BWkpXOUhPSjBKLXpPNmp5QVNWS3pJajJuR0w4X2VnbTFOZzRiLVdCMWEzWk9fY2ZoOXdEaEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T20:03:40+00:00",
+      "summary": "OpenAI expands access to cyber AI as hacking risks grow  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3pMQVB0Tk9ZYzZQQjF4Ql9ESU9TSW9UenZUMUlaM3pXcldIdUlXdmVVanNlTFlDdVRGeE0zTG1fbEpZX1gwVXJlRzdNNkpzQlk5MnJtUTEtZ1I0Q0JPaGRPc3l3YnlHQzBhd1JHdjRvcFAtaEg3UmtXMFlQV3Nka1paSUd3YlJmc1NhcmFkelFMZWNoTjRXTG1HWWRfY0pGYS1VYkptb2xvblR0YTVja2xpZWt1dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T20:00:22+00:00",
+      "summary": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "In the Wake of Anthropic's Mythos, OpenAI Has a New Cybersecurity Model—and Strategy - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFh1dmotOGxnQ0dTRHUtMnl2a1lqaXJYSlUwU2RnVE5RRFBkUEt6WTYtVkFkTF9rX2o0bUlPU3I5a2FjT2k5ZW5tTHJoSEItLVBwMXNEYVhCWC1kdFpQa3FPTzZDVjhBNnVtOE55bjVuYm9xRVVfWkhkLXJ2Z1VoTjhaVE5VTkhWRUQ0dDRwTThZVWxOdUFWQ0NmWmppYzA4aEdDRUVZNE5mNmtwVEFSbA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T20:00:00+00:00",
+      "summary": "In the Wake of Anthropic's Mythos, OpenAI Has a New Cybersecurity Model—and Strategy  WIRED",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2dRS2daZzBwMnkwWlA5QXIxR0xiWFk3Y21OZDV4V0hOeG15LTdaVDVpWDNEOUYzdktib3JVRzdLYXYwSElZRVRuMTVsT182dHBzU0s0VmtDZ3A1dVFOMUxfS2xVN0hKNnZZbjU2WjU5ZVVtdjhmaGlhNllUaTlzNEtCU3BVUllxWTR4S2puRmo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T19:50:06+00:00",
+      "summary": "A frightening OpenClaw vulnerability has been discovered  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "OpenAI Says Musk Remedy Shift Leaves 'No Case Left To Try' - Law360",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONW9STjZiZDJtSVRId2NzZ1Zjdk9UeW5yV1FtUW42NG5fQjJsd29FN2VtdXR4VGpQMC15RTNpNXBUUEhVQ1FJN3JLMDV3QW1hR2ltdXF1UWRLZzZuaEs2TDlrMzlnVFNCV0VuSTFXOG9WSlhEZ0UwWm9ac2Z3eVZRN09OZmF6bzlTZlFULTRpV2EtWjk3TWxNR2VXOVhNZ9IBVkFVX3lxTE9IVjhfMnhPUDhRNWNPMW1aWHJEYmJnLWNFOW85dFFNQkNFWVhiS0FjZXE1bzRqbVFRNnBNbnlkSWNCNHFHODh5aFplcTdacVgyemRybFJ3?oc=5",
@@ -42,15 +96,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "TechAhead Announces OpenAI Services Partner Status to Help Businesses Accelerate AI Adoption - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYU9xNWE2bVBoaUM2NkZlWnU2VlE4d0lrMDhzVlhvSWZuYjlvQVBHaFJhcGZQRWdvVFNHckhvaFIwQVVfMENtOU5pSnM1amFEdXUydUJVUVpVZzFlS0kzd3Qzb0d3MkFPUTNqOXlCNXFNMHFMMGtUaFRBdHYtTU5hbjkyZUNEdzFGaDltZlZObm9oc2x6UjZUODZWMmRnaEdzR0k2NzJtLVUycDAtMDRBWmhR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T18:57:00+00:00",
-      "summary": "TechAhead Announces OpenAI Services Partner Status to Help Businesses Accelerate AI Adoption  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "TechAhead Announces OpenAI Services Partner Status to Help Businesses Accelerate AI Adoption - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYmZOVkxRTHVuMkRfbzFqRm85WDA1UzctdE9TWjJlV3lUbGtUd01RY0RoWTJpc1NDZzNTYkoxbW55VDNyNDhQaEhFazd5eTRnY0NHemQzN3pIaDYxQl9UZW5ST3RxODhlLW5CYkhnTExMSk15UDJ1V3RTWmROT2pXOFlsaHZLSXVZVGoxUGJ3ZkpCMFpTRU4xUFdlUDRIckhoNlREQ3VXYXUwZ3hQNlJucl9wMTV6YkF5YVZkQUI4dlB5WmszbnJXTVR5SzJDWTlleUh5Zi00d1RUWjRtRUkxTVdUNjNscUcw?oc=5",
       "source": "news.google.com",
@@ -65,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-14T18:55:47+00:00",
       "summary": "The OpenAI-Anthropic Cold War Comes to Illinois  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft Takes Over Stargate Norway Data Center From OpenAI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlR4MF9HOGVOaXd0YlZ6alV2RDdvR1JwOTNfVEJUcXpmNWdGTy14U2VqOXdIM0tVT2JVcE9sc0hCb0tiM09LcjU5c0lRWGl2ekZORlpWa0FJbjdZMXllRzh3QXRkMUN6X3JkZXotanJoVXZzU21jY2lhekd1Um9fb2ROMER5ZndqSC1LcndNekJJcG1fX0daQkxRZlJQamkxNm9FRHpHcUM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T18:51:17+00:00",
+      "summary": "Microsoft Takes Over Stargate Norway Data Center From OpenAI  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,15 +177,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI Civil War: Amazon Wins as Microsoft's Empire Cracks - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTBRbWM1b2FUeWl6RW5pWVlpQW0wUWE3QWZyOEZoYjdyNW45OGEwampoMTZWMU1MM2oxUjg4TU41a2w5S3hlMTdMQTkzZktoX1RFWkpMSXlxblBRZTY4WWhxeGNZaU9ZVHF5Q0EyUW5EUXBpQk42X0E1UGlDei04dERnQnVQY05BOWl1ck9Kc3B1c3RO?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T17:39:30+00:00",
-      "summary": "AI Civil War: Amazon Wins as Microsoft's Empire Cracks  MarketBeat",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "DA wants Sam Altman arson suspect Daniel Moreno-Gama held without bail - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFB3OGNMQXpUNlRscFdrb21QWkV4UDYzd2haeTdHRGN4bnVWZENZTGlxdVJWeGNzeldZSHplRHlvZkFPQTBMSHVVZXRsNEhOMW04VVNtcnZPMmZ1MzBYenB5MmwyWEd3VkFDTXo5MnNLUGR2TDJiUlFYT1BpRjBVUlQ2WFR1Tldp0gGOAUFVX3lxTE84bVl4RkczVHZjNF83UmVZcVNpTC1DN01KOV85VUFNX3d2clZQQWFvc1lOcTZjSXpJRFRnUWswT25LNE01VGQ3RlFIUHBLSnZzSHAzRE1EUDVzR29fWjNTdy1jMUIxeWxsZ2hEVEJ0VFR6cFJfdjJ5YkJQUDZWc2EwM1RQXzhBT0c5N0xMQmc?oc=5",
       "source": "news.google.com",
@@ -141,11 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Texas man charged in attacks targeting Sam Altman's SF home, OpenAI HQ - SFGATE",
+      "title": "Man allegedly traveled to SF to kill Sam Altman and burn OpenAI headquarters - SFGATE",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSk5tOG1mLUdybWxoeWUxR3RERC1BcG5VVktNNC12S3REZ210alBRZmh1Q0dxNVJ2WWpkcnZENHF5UGdUR0MxQ25pYjhpVVlUZEJVRzhoSkVoX0hXU085a2RLUDFVQzAyb00zOTRFdy12NDlNbXA2Ym5adWNJa0ctN01kVVlpT3M?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-14T17:16:28+00:00",
-      "summary": "Texas man charged in attacks targeting Sam Altman's SF home, OpenAI HQ  SFGATE",
+      "summary": "Man allegedly traveled to SF to kill Sam Altman and burn OpenAI headquarters  SFGATE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -155,15 +200,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-14T17:05:39+00:00",
       "summary": "Novo Nordisk, OpenAI Bring AI Into Core Operations to Accelerate Time to Market  ERP Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Man fearing AI extinction launch Molotov attack on OpenAI CEO Sam Altman’s Home - Lynnwood Times",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oWU5jLUU1TlpXU3NDSXg1MUVlaDZVZnZYUHBsYUpYMUthVzN1blh3bnk2bmZCYmItNEpQLXVqNlhPOUdlSy12UzlROVp5c0t6anBTSUtvdkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T16:50:20+00:00",
-      "summary": "Man fearing AI extinction launch Molotov attack on OpenAI CEO Sam Altman’s Home  Lynnwood Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -184,42 +220,6 @@
       "summary": "Microsoft Takes Over Stargate Norway Data Center From OpenAI  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Man accused in Molotov cocktail attack of OpenAI CEO’s home charged with attempted murder - FOX 11 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SSzRGV3ZfMk40dnNzbVBVOHNpLWpVOHBPa19aZVE1Q2xoRmI1WVpELWlGQWlSUzIwb2Y0ZmFIbFNOSEtHa2o2bkNIUjRZOXJOamZyRnZLVVBQaHlnT1VJcnFPU2xHZzA1akpuUHpuMm1GakNLQlZXdGY3WWfSAYIBQVVfeXFMTVQ3NWx0NGZOMDE4NjEzVXVJWDViSHJ6X2JEdndfdEMyR2ZWMUhXR09lQ29rMEJXS3o3X0VmY2J2c3ZsLWU0SnB4TkZkdFRrdFpPVnlxYUxDQ2IwU2JHVFlNUzlXT2FtLURzVU5HSTB2ZVFMZGEzamhRd3BCd3R0enMwQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T16:18:56+00:00",
-      "summary": "Man accused in Molotov cocktail attack of OpenAI CEO’s home charged with attempted murder  FOX 11 Los Angeles",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "4 Critical Reasons OpenClaw Is the Most Overhyped AI Tool Right Now - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDR3V3BacThGczByVDAtTXA4eU9rVVFYbklYcHkwLXlpX3pVbXZVaHZ1S1p4WWM5TGVacFJLc0VwbUxuVlB3aDFzVEhnLS1MUElVSlRjSlo4T084UE5xSFFfZDdLTXYwX0VFLU5Ca0phaFFHTEZQeF8tN29FWkhMcW9hemNHRkU3b0dKNzJ3N3FDUWNkVlg3X0wtcVVBcnM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T16:17:56+00:00",
-      "summary": "4 Critical Reasons OpenClaw Is the Most Overhyped AI Tool Right Now  PCMag",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Texas suspect charged in firebombing of OpenAI CEO Sam Altman’s San Francisco home - Advocate.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmX2V5azhfNDNSM01EOWg0UWRoWFlYMVRrOXdiRi1Lankyc0RrbGJUeERBVE5kNUFPX2dreUNjQ3JIZU1mLXU0SkxFMjRLdWRWbjlmUVpKV2VBcGVlQlpXaGVZSU05aE84aWtTaW9B?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T16:17:39+00:00",
-      "summary": "Texas suspect charged in firebombing of OpenAI CEO Sam Altman’s San Francisco home  Advocate.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "4 Critical Reasons OpenClaw Is the Most Overhyped AI Tool Right Now - PCMag Middle East",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3JrTS0tdlFXMWZhd2NSWWhGYi1PcGtjNG1UQjBSVms5M1VQaVV3VmVvSTZROGM5WVdHWVBoekJoZmxxUllyT1pfZlhDVV9nbGFndHZvSXZHQ3FXWEdKcHNVdllqOUlpNnFJRHE1ZU9hWldfbjlBTTI0UmlIZWx5SlI1QmN6YThCSUN4X1lManNnZE9IOXdJYVBEQjlKYVJvYnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T16:12:34+00:00",
-      "summary": "4 Critical Reasons OpenClaw Is the Most Overhyped AI Tool Right Now  PCMag Middle East",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
