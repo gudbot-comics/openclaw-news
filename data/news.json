@@ -1,16 +1,178 @@
 {
-  "generatedAt": "2026-04-14T12:01:08.482015+00:00",
+  "generatedAt": "2026-04-14T14:07:28.105104+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI snaps up AI personal finance start-up Hiro - FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXZ3OW8tV1VDM1pYYVF4WDFqQ05QZkhWQ255QWlORkl4VG5XOTVVU09ESF9TeFdnQzRtQ0xGc2k1NENxUkhxZTVKcGRmS0xLSU80aWxXN0lXS1JwMjE4dHI2WjFoUzJCeXFyS2stRVZxZmljQ3Z2ZEVYaEQtUlFjZnYzZzF6bFdpSlVsMQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T13:36:27+00:00",
+      "summary": "OpenAI snaps up AI personal finance start-up Hiro  FinTech Futures",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft wants to build its own, more secure version of OpenClaw for Copilot - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVU1hSXpZVW1yMWtmNjk0STJjZmpEQVBleEFWTi1nUkRYWGlMSm9sbmlQNUFKUkdsVkJoSDNQeFlmcHFZRGR4TFhfcXV6WUlYcTljNzRIX1VhYVdWRHBnTVllQldtWlB2VXFuUkpKeDBpSjBxR0p0Vy1kRWhjRTVfbk94aTgyV0VIUXQ4OUw3SEZPSXk2N1FQb3NwNHQ1ZnNXYXR2MnU2aUt4dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T13:25:00+00:00",
+      "summary": "Microsoft wants to build its own, more secure version of OpenClaw for Copilot  TechRadar",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Novo Nordisk’s stock rallies after drugmaker reveals deal with OpenAI - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQlJKdGlEWXY1eDdjQTh2QWJhaTdsUDhaQlE4dElJY2VNRWhhdGRobjBndndQdDVETlBNcG9OVnhRRExxOFNqcGVjUkZuTm5wNHpKMDZJd3ctMUNBeDFlTTRkaXZLbDh0VnpJRF9Udjdqek1UVkxBNHlXMmJZTjdOQlZEQWh0cHFUZDdtOGxnMEdnTTRTRWJYWVVmNjBrRGhZZWNqWVhMTTNPdWxTMUh4Tg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T13:11:00+00:00",
+      "summary": "Novo Nordisk’s stock rallies after drugmaker reveals deal with OpenAI  MarketWatch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Novo Nordisk partners with OpenAI - PharmaLive",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5feXZkM1FjR2hZWGZQRDBVc3pwQ05BaEgxQkxfTlV6eFZxOUJ1UWRWdzJnQ0hlR2xwTi15cXNxRUowdlQyZmwyY1oyNnpFTTZyZHN6b3E1UVpxLTB6VHhzbFZmMkc3c0ctQnNLajhR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T13:03:35+00:00",
+      "summary": "Novo Nordisk partners with OpenAI  PharmaLive",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How to Run OpenClaw AI Agent on Raspberry Pi via ROSOrin Pro - Hackster.io",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXpiWVFuRmVURFF0dDdtd2VkVWFJczJNMkQ3N2NmcmwwMG5tUndydEpmdWFfVllVMFowRXVPVDV0Y1dVSHFvM1N2bEFodGpwTE04Vll1ZDQtU0FJYV95bXJjZWoxUVFrT2kyWDAxYzFVMUlPT0pDRE1iVTM1bjBsYzJ5dHlrby1TODlpdVNDcV9TMFZUSDk5b2V4c0RpN2JJVDhyTEM5UzE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T13:01:47+00:00",
+      "summary": "How to Run OpenClaw AI Agent on Raspberry Pi via ROSOrin Pro  Hackster.io",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Snaplii Brings AI-Driven Fintech Innovation to the Online Shopping Experience - newswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDVQcnhiQktKU3ZaUFpJS0NGZTBPZlMwNS1YUzdOU1QtLUhnem5SaWs1MUxsazZtZmN0MFo0ZWlrMkpzU3duRndHY2w1RlFuVTlBWGQxZ25nUXoyS1laMW5SYWhBRkpCZlNRM01LOEd1amt0bHJaZjd4bmJNVUpjSW85b0oxTEdoSTBLQ09IdTlmanBPYXBhOU1Ua01rOTZaN3BJVUd4Z0NCYUU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T13:00:00+00:00",
+      "summary": "Snaplii Brings AI-Driven Fintech Innovation to the Online Shopping Experience  newswire.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Suspect charged after attack on OpenAI CEO Sam Altman’s home - KCENTV.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbXRVaUh1RjhCaWh3Qi1xR2NKeXB5UUpJTFN6RWhEdlBZYnlnbnlIbktINWk1V2JQTTQyV0ZFX3JRZFlfR2NoczRPVmVJaDlvY0J1VGRGR1BYYkV0RXhWbDFnOWJsTWRVUjNPSmhUREx6YWQ0QjZIVzR6UzNiMTBpdnNMcWNackNDLVFpVFB5M3JKSUQycXNtWWZkWGJsTldOSnJsNUpuMmZlZmJFOXlzN1Q3V1ptOXIyQ25jU1YyTnN2MFdVUnk2RXJRWUY3dDZaUEFnRTNYMTU2bXFIdmIw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T12:59:00+00:00",
+      "summary": "Suspect charged after attack on OpenAI CEO Sam Altman’s home  KCENTV.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Update: Market Chatter: Microsoft Developing New Features for Copilot Inspired by OpenClaw - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkU4RXZLTS0xTmVLQVJOaGNrSHBxMkFIZkxtWGd0N3pkeHJpRC04YXA0MFZBNkRFNlpRSjNNNUJlUXNZbTA3QVBHTFFaOHEyQmtpTk1RdTFENkxNbm1QNDFjM29saTRocXFaZHBHbUJ6N1dtc3l6dHNRM2dqWDZBcDdsZ3YyVWEyaEg0Q1oyb2UzMVhZcTlUeGNQZ3VVR2FvR2lGZWFSbVRkb1B3V3lRcWlndEpScUVyaGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T12:43:15+00:00",
+      "summary": "Update: Market Chatter: Microsoft Developing New Features for Copilot Inspired by OpenClaw  Moomoo",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Suspect Charged With Throwing Molotov Cocktail at Sam Altman’s House - CW39 Houston",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNa29ZRDRqVndlTWVLbklwQndOeUFhVi10VjZQYkpBYk5seF9yZGdWRHpRaDRaMGxka29jMnVjanoycEZDZTI4TjU1TGtZajhBai1HWlBwUzNncm40UHJaNVVQNVh3T0VpSElPQdIBckFVX3lxTFBCalowdWdVRkE4bHIxS1pBT1FSb195SXFFaGkzTGM5X0Z6Rk4wQlVlaXlyb0hIV1NvTzZrWTVlYTFGT21rWHJOZURPcnlmeVlOa1V1bW5LSEM1djFwUkJhMm1DNTQ5WDdORVRKYjVLWFJUZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T12:35:01+00:00",
+      "summary": "Suspect Charged With Throwing Molotov Cocktail at Sam Altman’s House  CW39 Houston",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FBI raids Spring home possibly connected to suspect in OpenAI CEO Sam Altman attack - KXAN Austin",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjVlUEs1UmNUanZXQS1HdHFyM2M0eExWdE85YlJGa0hQTzA1VGdmbHo2bXFCQWZqLS1yVWpoZmEycEt3b3g3VElrY24xWXJfVk5WeEJkeFVEdjJyRW14MVdQNUdLX3lMLUhUOWFtWDF3ZXhiOXMxcUZHTVg3Mm1DTHR4SVowZGFUODZwUnFnZDBMakxUSndGY0l6aHpmYm41LUxLeU9IVTd1ZDR0anFZYVJ3bmtOSG_SAbwBQVVfeXFMUG5JUXdDZkVGN1FlaS1PTWRzS1Zzb2RZSVV2MThhZG1DejQtY212QUJlU1N4eE84SkFqOHZLTHc2ak5kMGRvZUllWE5NTkVGb1BRY2ZVZVNpUkVzQzF0U1U5SWxyNVhadFVjMGM3RmpuYUxPOFgwQkdBR05oaDZGNEdxQlFleEYzUGhZejZncEpvajc4MVRud0U3VThNeE1sSmttbDNnY1pmUUpOTjRabE9JNjZXWXYzdjdOUGI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T12:33:12+00:00",
+      "summary": "FBI raids Spring home possibly connected to suspect in OpenAI CEO Sam Altman attack  KXAN Austin",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Must Defend Federal Lawsuit Over ChatGPT-Linked Deaths - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREtmTGRpTUl4cXN3WEwwRUIzTl85S2QtWkN4ZFgxUXAzczZxOUt1bHREcUg1TENvSU03b182NFprVnoyYVZJdktWNDJtaTRFcHR3Z3VzcWhHbVlRWnRqTW1JWnN2Xy1Cel9icTdkdFR1Y2N5MGJBdVJRMnpYb09hclp3LUtLb1pWSTM3cGhycTRmQW1PZE1ZeDRJcFc3SjJSeWhTYg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T12:28:00+00:00",
+      "summary": "OpenAI Must Defend Federal Lawsuit Over ChatGPT-Linked Deaths  Bloomberg Law News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Suspect in Molotov cocktail attack at OpenAI CEO's home charged with attempted murder - WCNC",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTWhhX0N6V09zMllNM2NrOXdDaHdFNXptNVhyQlRyd29jeWpjNmMxRjNtNFdOZm5JV2oydzJXV2tscEVKTVFVRjFlQWhJaTBCSFpKWGtpamk3WWg1MzNlZ1VWOWg3N3FJMXM4MTQzWjNPc2t3Ql9UNF9Zd09qNzJEZEl0eTcxN0p1OEJTVXJLYXhoT3BoVGpWV1QyNmhtaURRcDZ5Tms1cXlFOVdZT0ZPZFhueHYzWFRWQzRndnNsbkFQREZ2NHcwRGZOXzh6Rm8wMlJPV1dyN3NjU29LWWlOWXUyRGdfd0R5U01wSHEtZDlad215bnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T12:26:00+00:00",
+      "summary": "Suspect in Molotov cocktail attack at OpenAI CEO's home charged with attempted murder  WCNC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Novo partners with OpenAI to boost drug development - European Medical Journal",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdEs5d2YtTWVNazFqcU9MMFJpeW55akVFaHB4bE1VOGdqdXRKQVNTMG5jbG1lVDFiT2laeGQ0ZXRVSno4eDUwUUQ1QzN3NFEwT3I4dU03aEdSaTVrRDhlMXJyWmVKdmpkOVl6S2pZU193QnQyR2NzYlRJSXAwYjJoZEN0VGxpaEpyU0E1a0RwRVpqTjlPcVZ2SQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T12:25:42+00:00",
+      "summary": "Novo partners with OpenAI to boost drug development  European Medical Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Snaps Up AI Personal Finance Startup Hiro - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXp0OU5jMzJXMDE5bEs3a1YyaGNwRjBpd2o0Njg1clFxaEVtdzVaN0dfTXlhTGxOOHB4anB3YUJpNWxZNTY0UjA2a09hRTAwOTVmOU1yNVkzYmVlRU1GYmIzQnpDTTBHT2k3bElaU2NPRW9LMHRNOUVjVlV0NnE5S3d6ZEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T12:19:16+00:00",
+      "summary": "OpenAI Snaps Up AI Personal Finance Startup Hiro  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "China Agentic AI OpenClaw Boom: What the Surge Means for Businesses - China Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yTUdfSVVjSEQwaG1nbXF4MDFQMGVfLS13cUJmS2kwU1Q2UkdUMTFVU190b0YycFdxSHRBeUIxd2RUcm1jSzdhOXNETlEtbVFycmdmejdzWGNGVXd0aUVXT0lBRnZDY2JGOF9PYS1LLWhwc1REd0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T12:18:28+00:00",
+      "summary": "China Agentic AI OpenClaw Boom: What the Surge Means for Businesses  China Briefing",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Investigators explain why they think OpenAI CEO Sam Altman was targeted in recent attack - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1ZiNnV0NVNVV1ZXSUgxeUF3dlJZWm1HNUM1cnR1Yjg1M0FVcWxrdDlfVXVRa3lzd3NJMDlPYmhGajNsRHBmUjhzdDFiRWIyMWt2Y0JqdGxaUzVrZVk1eXc0cTlGN2xiUkRNc1NnLXAyV2RxVGR1d1hOS1Z4V0hsczBROHd5Y2dQOW5EVUM4TnVhTVVobmRyS1V4WGdZRUpkV0NfVU1hSkJjdWYyODgzdG5JclZjTGZma0M4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T12:02:00+00:00",
+      "summary": "Investigators explain why they think OpenAI CEO Sam Altman was targeted in recent attack  CBS News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Breakfast News: Novo Seeks Edge With OpenAI Deal - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY25yR29xTXktT0hhd2J5Z0tFcGNpdnNtakV5VEJETDlQSUtvR3RpaWota3pISzMxRWlnNnl5RzVhY2xXSTA2MnZNalRfcHlvUDlDYkkwekFaMjRCVTZaancxS1VQMnYyRHBlTVdVMjZaNVphQXRLX2ZkNkJUckxOT3hSblZMVlZUUWJOMThMSkE2MThzanBoVkE3ZlhXc0d4MlJMc256VU8?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-14T11:34:50+00:00",
+      "publishedAt": "2026-04-14T11:56:14+00:00",
       "summary": "Breakfast News: Novo Seeks Edge With OpenAI Deal  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Novo Nordisk partners with OpenAI to speed drug discovery - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5a1lydGoydlBSMnFfbjVRQ2lvZGloZ0NqS2pYeDhObUNxV2FabXhwZDRXOTJUOWI5UkhfVFZrRDRkei1acTZZRU1BRHVPYlNNQ3Y0d19LUmc3a3ZqV3k5cEJCMmtNMWNWcWdjamxQWDdDbUxMc21v?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T11:52:35+00:00",
+      "summary": "Novo Nordisk partners with OpenAI to speed drug discovery  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Texas man facing attempted murder charges after attack on OpenAI CEO - KVUE",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUFdZamptejAtYUgwMUhXdDdCSnIxTEhlMjF5ZjQ0WkVLM0RrLU5SNVpUbGpNMm1OaGVlNElFcnhNMmV0aGlRWU9CbC1IbHNiRklBbHRWZWFYMXlrR0tHRVVveC1aLXd0bFVsUnVlWnpEZ3RNdzhvUUNfZzVacjhRNDVYUXdxRFRsOWI3U19UOVBPUHdsMnRvb0lWY3dWZzhWd2hTVnJPTUM1ZXJJQkRISmJTUmdYd2Z6bG9CRXMzWUNKWHpOU1p3aEpERQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T11:44:00+00:00",
+      "summary": "Texas man facing attempted murder charges after attack on OpenAI CEO  KVUE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-14T11:27:00+00:00",
       "summary": "Novo Nordisk Stock Rises. An OpenAI Partnership Can Help It Find the Next Ozempic.  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Novo Nordisk partners with OpenAI to speed drug discovery - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5a1lydGoydlBSMnFfbjVRQ2lvZGloZ0NqS2pYeDhObUNxV2FabXhwZDRXOTJUOWI5UkhfVFZrRDRkei1acTZZRU1BRHVPYlNNQ3Y0d19LUmc3a3ZqV3k5cEJCMmtNMWNWcWdjamxQWDdDbUxMc21v?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T11:24:58+00:00",
-      "summary": "Novo Nordisk partners with OpenAI to speed drug discovery  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,159 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-14T10:51:47+00:00",
       "summary": "Novo Nordisk partners OpenAI on R&D \"transformation\"  pharmaphorum",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Backers Question Valuation Amid Anthropic Competition - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGExZzlyMDN1a0pYVXBkRzdKMVVZX2habWpOOURfY2VhLVJGaHpRZU04bnMxYUxITWtFal9kbVJGRll3LTBBRlgzRURwSVpWbVpFQ3FPUnBUUkI3dS0wUlJrSmY4aHFtWTVmMDdmNVdNYnRCUFFWdG1xbFFPd0FYcXpKc2VpQWhXMHRWS3h2SnF4YXZHZG9XN20yY2pWTGVMNU5RUzBVU25IeUpIUjhoWEpkR2cwZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T10:49:27+00:00",
-      "summary": "OpenAI Backers Question Valuation Amid Anthropic Competition  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Buys Personal Finance Platform Hiro - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWdBS28taExTNklURnhRUUNVVnptM3ZVWng4YmpFdGtaNzg0dGNWNjhVYk1tb21MUFpiSkRLRm9tbXhqcWhPUmNnNWVPNmtmMk50bnRnMG1rRmZNdDVsMVNqWE9wejd5TGNxaUVQbi1rZ01pZlFzU1cyT3c3d2FvWUNXTWI1NC05Nm40Sw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T10:44:27+00:00",
-      "summary": "OpenAI Buys Personal Finance Platform Hiro  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI partnership places Novo Nordisk at ‘forefront of AI transformation’ - The Pharma Letter",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZU5XQ3lMTGxjZnRCOEtpRFNPeVR5NnpsOTRVaGxXUW5PNjVxNFNHMnJ4SFluWkxQVGk1X05qeTdrN0tjaEJUMmJMejYzM2gtMGJqeDZWSGZMRHdMejBud2ZCaS1ldkg3UUhXVVdYdTNHMTlLRTNNT0w3S2FCX0lKRF9fQWxXZDRneF90NnhVNzVfZ2FKQS1nYnRGeDZDR2ExNVl5YmloclJxWi02SFJCYWVCWm1tbEU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T10:30:00+00:00",
-      "summary": "OpenAI partnership places Novo Nordisk at ‘forefront of AI transformation’  The Pharma Letter",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI makes another finance-related acquisition: Read Hiro Finance founder Ethan Bloch announcement on L - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQXzZ2OEtLb2YteEQzS1BHVHpyQmpmVy1UanhJRktra3JiMTVzT1p4X2oyY3hEQkVUTnpmcHlQWUQtQXZnM1NXQTBldDRBd19nLWJtN3E0Zkd4Z0lMcWRudlVPUDVhaTRldHRlOVZGTjBqc2lvelgwcVJrQjNQcVNhUTBqbjlhRE53OEhhVGd0ZzdvcnN5T1FrN3N3MHU5bzd4UnlKZld0V1ctLWdyaGVvcHZSWmx3bmRnWjJVYkpvRDl0dUdIQzdkNGtEN25YTE5PcXpjYXQ5RVBpRGlfdHV6YUtQLW9OZEo2bGFGUzE4dVdIbG53bWMwTHFkQy1CTXJodzNLaWFwc3Zna3BiNHpVOVJOWVFXc0NqUTd3RlByONIBpAJBVV95cUxPTG1WSWpNa2V1Q3o4SkxsQWlpUGRFYkJhc05GcjZXaldOTUh5U0RaNFhfVUZ5WlYwdXl0OVlTQmI1b1dMRGFLVklYUjlYaXRKaHVfSklxemlZVWtmMDNZN1BldmNZM3J3M3BXWmNfcWdGUGdxZWRtdWRBa1NyREZXY1ctWFJlc0gtcExYZnktbWV1ZWJtM1hUZUxWaXNOaFZuQVJ0dTZaZUFocWlPU1BPc25LNXJHNzJoVjVCNWxfQTZpQ3otcXNWNjNnQnJrbkswRWY2dWhFX0tucEVMWlpRWmpNRVh6YXBjR2RiQ2l4cXZnQnNPSUNuLW5Pd1RudkhNWVdYeGJKT09qUUExTkFKLTBSb05uT3dxRzgwMEFtakRkaldn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T10:28:00+00:00",
-      "summary": "OpenAI makes another finance-related acquisition: Read Hiro Finance founder Ethan Bloch announcement on L  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft weighs new copilot features inspired by OpenClaw, Information reports - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWJreTZhTUN5YlI4RnNWcVpmTmUyR3Z3eWU3UnhjX0xBR0xRZVNSMWdNNk91R2tmUHdIZC1hZEw5YUpKN3VVYVVZbEpqOU5CMFA4LXlBNHA3Z0ZVSDhHbDRxUkR6NW5KS3QzYlNLcHlkTTZMV3ZlemhQRC1penBWSXBGd3R1NnpHMUNZOGw3Uy1UMDhBODJRdnZ3S2tQUzI3a2RKRmlCRzE0QVl2V21oMTJvYjJkWW5TMi1YRHhVRlUyN29kSnZB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T10:11:37+00:00",
-      "summary": "Microsoft weighs new copilot features inspired by OpenClaw, Information reports  TipRanks",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Novo Nordisk and OpenAI forge alliance to drive speedy drug development - Pharmaceutical Technology",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMU9OTld5YUo1dmw0Y1Q1TjU2UUdXU1FpcncwOTdvNDloSkZtLWZzQWZvZjRDa3ktaXowcXBqcVVxd2ZHM2lXZ3prM0RBU2RmcUJ0SW1XLWExanZvSTc0Y1VJVWFfck04bnJ1cU1BUFhsWXNVdVVveEllaC1QVk8tNmNIeUV6M2UyWVZWMjJaMkdINXhJWGZ0UGlJYk0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T10:06:09+00:00",
-      "summary": "Novo Nordisk and OpenAI forge alliance to drive speedy drug development  Pharmaceutical Technology",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's $852B valuation questioned by some investors amid strategy shift: report - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMm1QTTlFUDVKZzFMb3daeC1wUHhYcmZ5MTdnU1B6SlEya0NySXdRdGd0WVNDTFE4RXJobUxPRVVUQTNnaThHdEhfOHZpMVltYVM0WDZzd050d1ZSb1hGNm9DUXh4ei16WHFrSldrNUNMRUJkOVpZZXktZzdrVm8ycmZ0T2FqUEcwUk9OcDVJQW1Kb0J0QUg5N1EwNUZ3YkRaNTlqcjI1NGNNWGk4ZVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T10:05:03+00:00",
-      "summary": "OpenAI's $852B valuation questioned by some investors amid strategy shift: report  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft develops autonomous artificial intelligence for Microsoft 365 Copilot - WJournalpr",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMF8zZmtFWTZqLWwwbFpnaEJKUUlyX0VMLWhVc1NXYWZ3bE9ETlBwT3BaMnNvT2p6ZURBcEZLWWNkQUtvdDZiSzZMUWh2cFhKcDZXU1JLbUpFS0hkTHdobGEzd2w1TDluSXc3enZ4VkFhVjR1Z01FeUp2N3o4cElHakxxMmhlVm5IQnFHRU5DWjkyTnFLN1BDa1hrUU5jVXVsSW9kS0Rhb01FUUZDcTVtQWN5NkUteUpMdWhMejRleV9vd2h1U3FFRm1CMENJNmN1X2pGN00tN2RuVXpVa2M1MTdoamRBZGRwQ0lQME8yMkNBeDB2MlpWOVdiZmoyTkl6?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T09:59:00+00:00",
-      "summary": "Microsoft develops autonomous artificial intelligence for Microsoft 365 Copilot  WJournalpr",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Novo Nordisk partners with OpenAI to AI-power drug development - Computer Weekly",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzE2OFdEWFZCZzFPV3A3dlVlM1djT2MtRkhZaHhRMDlLSkI3alo3cUtVMjlOc0N0Sk1BUkp3Z3pGYlhKQnZTeTN2QWJ3bHI4cUVMemZ6ajk0Zmt4clQ1M2tGMDJwd0tHNV9CSGFGTnczSzcxa2hla2YtSkVwMi1lekpBN3M0amd3YnJKMjJiQV9aVUVPeUFxTmx1d2FlaElNS1UxcVVXSDdCNUIy?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T09:57:07+00:00",
-      "summary": "Novo Nordisk partners with OpenAI to AI-power drug development  Computer Weekly",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Ticketmaster launches app within ChatGPT, bringing event discovery to OpenAI’s chatbot - Music Business Worldwide",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTREb0YxbHNvTkh3REtGcDhuV3U3Nng3bnlGT1JoWWJmT1NObDZQd281aWlMUGd1Njk3aTFfeVppdUJHWHM1R2Y1blZwV180NE5ZUHZ3SUg5MVFnYnNuT2VkZ1dIX3Z1NW1JZVBfTTdnb2sxSnVPOGFncnB5Y2l4SUg1MTJ4YTNUM2tPYmtITVRhbzJZUVRaTEgtaFpZbDQxLWwyZ0NxWWFFeDZxRTBhOHFzOTQ0TWdmd0FDWmxDdjZMUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T09:45:32+00:00",
-      "summary": "Ticketmaster launches app within ChatGPT, bringing event discovery to OpenAI’s chatbot  Music Business Worldwide",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw: all the news about the trending AI agent - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU21qZE10LUlJT1lXNS1MbENLcGVzMWlhTjJMbkRwTVRlWWZyQzkxTWlhZUMwelM2NU5PX1h2MG12Zkxxc281LWFrcDZzRFFQbkh6dENseGZHYXdGUjloVmxSY1ZiYWg3djhnZVRCWEVkWS1kNHZ5VUhHT0pFejBuLURn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T09:30:29+00:00",
-      "summary": "OpenClaw: all the news about the trending AI agent  The Verge",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI revenue chief accuses rival Anthropic of goosing revenue projections - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVEp4TkdxU1VTM1I4ZVZnSEtlV1M1eXJocndZd25zdWlTSGQxeTV4MzllRUZ3eVAwQXFmUHpnNkRJeC0zeENMTUh3MDBtWkxna2laeUhvTGVJY200aTB4VlNxRjlzWFUyTmo2RWZBcnVlc1poelo5eUluWkFiM0FVNHUxdmFyWGs2VzB6YUJPWWFsS0RvWnVZT2kxRmZBLTYtNVVoR2llanJFSzg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T09:19:00+00:00",
-      "summary": "OpenAI revenue chief accuses rival Anthropic of goosing revenue projections  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI snaps up financial planning app Hiro - Finextra Research",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUEtVFQxd1FQWFVKNXVrSW9RZGZlbHVhWmtKRGQ3UFhua1Vvc2lVMXhYeTd3Q083d1VUV21rWGlIemtnQmhvZkRvdnk5TDlheFVOQktEd2x3aEZUWWdYQkZfTTBVY0RlZ0hYVTV5TEZfRm1wbFExX05iVzhuY1d1VG5oeWRRbzlKeGlWYlBvVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T09:15:33+00:00",
-      "summary": "OpenAI snaps up financial planning app Hiro  Finextra Research",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Suspect charged in Molotov cocktail attack at OpenAI CEO's home - WFSB",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFUzMUhEM3lRN1Y3dEotRmNHUWlGZ1BNTHFPNlFCOERISTlWTEVLZzVSVHJSYk9iTWJ5VW9XVjhmZFk0N01WcF9VZXdNaDROd3VNelhHSndnY0JXVWRSOXR5djMtZ0lzRGl4ZGRWZ3N5STQ3QUpvM1BJN1BqUzhVLXRIcnUyYU1OVnlDSEVOWnIwQUdHOHNTSUFLZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T09:03:00+00:00",
-      "summary": "Suspect charged in Molotov cocktail attack at OpenAI CEO's home  WFSB",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Suspect charged in Molotov cocktail attack at OpenAI CEO's home - WSFA",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmgzQkN1cThMb0RiVkRDS0JNYkx3R29QYW5lc3pEazB2Z3M3TVRweHVZTjdJaEV3MXVSNFh4d0lPTWpJd0l3QzhUenVZNlJ4V3R0WXZ5WFZkUFFEMXQ3ZS1EcS1vb3Fjb3ZualdBdG5YVExSZzdQRl83Qnp1a2pRZFlGcW12ZHdudjVvWEJxWGtkbkFhUHFaLTNhWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T09:03:00+00:00",
-      "summary": "Suspect charged in Molotov cocktail attack at OpenAI CEO's home  WSFA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Suspect charged in Molotov cocktail attack at OpenAI CEO's home - AZ Family",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0hGdjh3em9FNHdDN013ZG84azAyd2x6YjI3eEI4T29jajlySktMMnJsZUFDRHNmbkkxNXZnRXZvdWNMeHFsNTlwUndOa1pDT09VMFdEeEpNX1JmXzNuUk9mb1FmYXlaOGdDZFlWRzdDRmp4N2tWNDFEVk5VRnljZTdHM01LZUQ1ZVJpY1E5WndIa0t6VTVYbm1kTVlqRU5K?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T09:03:00+00:00",
-      "summary": "Suspect charged in Molotov cocktail attack at OpenAI CEO's home  AZ Family",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Suspect charged in Molotov cocktail attack at OpenAI CEO's home - KPTV",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYnF1NjJFeUNISlkwNUhlRmZoQ014MjN1bTJqWHVHU2NaY3hjZUthNEpaTmIxNE1wODZOcS04SXBmRUU0R2FuRk40a1hCRUk1N0VSVVhoTG5iTVFOSkItVVdqM3ZRWEp6WWJwaTlvRkRGLW5zN1pYaHJaTkV2eFVxMzJvMzRBY1FvajNDbUVRR1l3ay1oMHhwRHViaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T09:03:00+00:00",
-      "summary": "Suspect charged in Molotov cocktail attack at OpenAI CEO's home  KPTV",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
