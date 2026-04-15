@@ -1,16 +1,115 @@
 {
-  "generatedAt": "2026-04-14T23:52:18.892767+00:00",
+  "generatedAt": "2026-04-15T02:04:53.903094+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Microsoft’s MAI-Image-2-Efficient model accelerates company’s move away from OpenAI - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdHNfcGdjWnVwUm9nZkkxcE5IQ1d5cEQtNGphc0I5Mkl6T0ZPRWd3MVdkYTFIMGQtLVdYeEE0U2I0bm9XTWswT3poTzRZSGVZRFBCRi1DWWU3a1duUl9waHpwSGhWUlhua0t0T3hwdWRQcEU3TUNwbEl0Rk80QnY2S2FDeTdIcWxGUk1TbU1nSVhHR3V6QjRLcy03SWROU2dpLVRDTlM4RTdqQUxJeVFUUWtGdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T01:57:23+00:00",
+      "summary": "Microsoft’s MAI-Image-2-Efficient model accelerates company’s move away from OpenAI  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s ‘io’ Move Is ‘Red Flag’ in Trademark Suit, Judge Says - Bloomberg Law News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbk41dHJERThhZHFSa2VSWGJrcXpGSWdETURJbWpQSy1oNEZWcWRjd3lxdmpsZXRiTkdwWF95VEhGLUtNYlZ4SlJiZFgtRUE2emZZdjdWcTdFTWFHQkFNT09HOXJBVzBtVU5yN2oxWHR6MUt6RlhOUnZpcGJ0N2FxOGJwUWNCbkNzZXpZa1VGbnBMenpWVmFUTw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T00:57:00+00:00",
+      "summary": "OpenAI’s ‘io’ Move Is ‘Red Flag’ in Trademark Suit, Judge Says  Bloomberg Law News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Expands Cybersecurity Program Before Deploying New Models - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0dfSFRGYjVGanZBVl9fZmx0bnRqWG9pY3FtQmoxbmFFU3lOWXFzanZzUElXWG9vOXhySXBCeFdCS3o4emJqYlhNSFJpSzk2alkxT0stVVFNQU91V1hCTFdXV1RmOGpkSjQ4d0xBNGs1RHdCQ2FmRXAwS0Y5WFF0SjRKamtwcThSNXgtc195cnU2dzhER1Y5ZW1zUGpld3ZZZGFTd3phNXRGY2dPdk94TFFpWkdqWWdnVl9J?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T00:48:31+00:00",
+      "summary": "OpenAI Expands Cybersecurity Program Before Deploying New Models  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Expands Trusted Cybersecurity Access Ahead of Deployments - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaks5YkpIbXFkdDNjMUFUNHFYZmgzMnBBc0NrX3JPNnJMQ05jTXF3eFNNXzd3dXZodmdZdlQtQWpnNjRTQ1BGNkRZem8wTWdGVlJYWmhNbElSWUlMaE5rdzBDVkJrQXV6MGw1bGxKNUt4d0RjMXBxaG1ZUzdodWxUcllqd3g0YUNqT0tkUHozeHFjYkJMRk1vMl8tWHZDbGJHWlJXZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T00:43:53+00:00",
+      "summary": "OpenAI Expands Trusted Cybersecurity Access Ahead of Deployments  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Acquires Hiro Finance AI Financial Planning Startup - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTVJkVzNvUk1TMEZYajRzQ1ExVm9ES050Wng4WmFadTJUckc4Nm13YWRHZTdncXJLMnNGNE5IQjc1Vk5xOEpRUldweExZNFVLUFZKa3Z2ZlRjbEVyTlZDTmhaNDhCaDlzc2l2c3VFUmlMYl9jWmlDb05XYTVZOVlQMw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T00:42:00+00:00",
+      "summary": "OpenAI Acquires Hiro Finance AI Financial Planning Startup - News and Statistics  IndexBox",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUZubVVSNlNLekg1ZEVvcDlweXlKc05abXFIaS1rU1FkZy1aelczZG4yZnlnN1pjQzc1YkJEdGtMNWdkMWIyZFowUExNMU8xT2x5VGRtQ3I3SmM2NEM4MWtWMDVzdl9EbFBGVEV5VGstcE1UT204ek5XNnBUek5meFprTVJtSWxnUzMw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T00:25:41+00:00",
+      "summary": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's new GPT-5.4-Cyber can reverse engineer binaries, and it wants thousands of defenders using it - XDA",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2cTdMV0ZDZ2xsZTRaMnBNUDJJM1ZnUHRUUXVWR05ud0NORFEtSzBaek1ZYTBqeC0zUlBDS0VPNkpoaTNhaVhqdXJKc1JWZlp2N2pGaVVVTEFkQTBQd3RuQXl4V2JGelU5?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T00:21:00+00:00",
+      "summary": "OpenAI's new GPT-5.4-Cyber can reverse engineer binaries, and it wants thousands of defenders using it  XDA",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Attorney says suspect in attack on OpenAI CEO's home was in midst of 'mental health crisis' - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzFVTk4zcGlzZmdJRmdJY2RhZ0huNjN5Rl9kMEpTaVdydXZZcktzQmZuSnRKNnFaUWVzUUZkQ0lCelZfd0xrQUpNbUJYcEhReG9KT0NtSVlIM3p2Y2JaWUdzempaX3kwVFBOWXFTVlRCYnNYN0RJLXdlWjlCeEpSajJMZFpLeFVqcFpST0NvWE9ZWDF2VF9URXUxRjlOdm9mRlJlRDVlMDl6TlBWZ0YzMkJseE1kdzJrVHU0Z1ZwZGtnZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T00:08:29+00:00",
+      "summary": "Attorney says suspect in attack on OpenAI CEO's home was in midst of 'mental health crisis'  PBS",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Touts Wider Access to Its New Cyber Model - GovInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ1RpMXRreGd2SkhXamFqTzV6ejRxcFQ0c3BSYnB3dmxYbkxwdkhDcnpHQlhwTm9oOUNPSGE2bVNrR0tVczdHNUhibExyMy1sVHZkSWtnRjZlRDh0blVaaGVvZnJVZ3I3Qkh1MFl2azZfQ0JtdmVJSjJhQ0FvUktZYTIyNHJYaEpKaU9ZVlZaS3VDQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T23:56:15+00:00",
+      "summary": "OpenAI Touts Wider Access to Its New Cyber Model  GovInfoSecurity",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Man accused of throwing Molotov cocktail at OpenAI CEO’s home asks to delay arraignment - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWh1cU1IWmExODVZZlZtWGJ3S3J1cWQ1OXloVG4zRHRTWXk0YTN3ZTdMQkRSczZEMHRocy1QX0lPNG9rZVBadUhxQlhQVE9pOXZxR2ZQR1p3dThTSFg5R3dUUF9rQVBrNS0zQk5ROFdrNl9sbWFYcGpiaTktVUFtaUFrTVZibHpRUmcwbHNvdnRXUWxLQ3JyWHREb3BUZjBKU25ncDYtSko2S2V1UVhZOVRGeGg5eTBoUlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T23:43:44+00:00",
+      "summary": "Man accused of throwing Molotov cocktail at OpenAI CEO’s home asks to delay arraignment  Courthouse News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI federal wrongful death suit over chatbot role won't be halted - Daily Journal",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSENPZWNVeXhONDNsN0FKRHlLaUdWNThUaDMxc18tU1JLOUhPWkFCeGc0OE1mbnhBNUkySlYzQVlGTld6Y0VuTFRuaGJfMU5VeXVrTlhLeWllZjA4RUs5dUZ0c1dMV3l6cWNyVEdvSXk1b2RfUTNLQVFSS0VmWFpKZDJSMGpoeWhkU2hKSVctTFdUYUxQMzVBZ2FGbUdHM0E3ZHlaQXNUdXlVM1piOXkzdWVn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-14T23:27:39+00:00",
       "summary": "OpenAI federal wrongful death suit over chatbot role won't be halted  Daily Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Rolls Out GPT-5.4-Cyber to Select Users Amid Tight Competition with Mythos - StockInvest.us",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2lRZGNJUElXUFBPSkRnME55bzN3c3E0a0ZTNjZoNDFocTRjOXdIRmxlZUZRMzV2eW5nMFRzLXNzRTNFdHZmRlM3b016RW4xSDN1VnJQbml4cUd1RERVWHVaOFh5emJOdXNCdVdNT2dHd3JWRFFGUzdYMVZ3ZGM3ZVBLUmFHSUtuZm41bTlTR2V0QnRod25BOUNpdUVQUDgtZ1RSQUdFQUpUMWdpMU1V?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T23:25:31+00:00",
+      "summary": "OpenAI Rolls Out GPT-5.4-Cyber to Select Users Amid Tight Competition with Mythos  StockInvest.us",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,6 +150,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI releases cyber model to limited group in race with Mythos - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVJwMDM5U3gtRFh3N01yanBQc245N3h4VDhoUkZKaDJyM2VFSktZb0VEYUVYWE5IMTk3X3Ntb0thQ2VHY2VYVi1tMVpaQS1nOGZVVWFneDlJdmV2aTExVmEwV21ZYU5yNUZBb2N3UHItUjJoX1JXTVpBWk1WWmZrazE4TWYwSFZzb2V1Z3dCRXNOLWVlMW9OdTB0YjBQX0kyNnlTb2tGdkktR0ZaYmhxODVieUhiTGk0MHpINjhn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-14T22:34:30+00:00",
+      "summary": "OpenAI releases cyber model to limited group in race with Mythos  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI launches GPT-5.4-Cyber model for vetted security professionals - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkRPVHFfMFhDN0tzYmlYa3ROclU5U0Y0aUZFVVNBV0ZFaXEtTFFHNXV2djVPSzBxYnJ1aW9fdkVKUjdoODZnUVVFeGprNGpDal9xRWwxRWlRUGlhcnlHbTVWMGpwTk5xeTFYU1hTMmRuQUg2ODAtMlQ4eEwwUE9BZ0dzdXdMRTFhUDFwN1Rpdlk2UmJqX1hTVURsZzkxNTktZW1SRg?oc=5",
       "source": "news.google.com",
@@ -60,20 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Expands Financial AI Push With Acquisition Of Hiro Finance - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnVBR2lyOUFvOWthZkZFaFF3V2dJV1F0blpnTWRERlpJSVE4Q0pVMDBlSnRoZFVvZFR1VlgtUXd4N3UtS1FKRTZkcE5pOTgwckNtRkJRd1c1dE5XbXhoRlNLYk9SNzNud1JqNTN0S0Rfc09aSGlncmNkX3dha3dRcGNpbThCYnpYZ3k5V25UY1E1R0swS2ctMVY3OTNqQ19FQ3ZWTGxGM096YTdGVU1KaXVlMkhMRHl4dU45ZVNiSHQwVmZyZmJEeg?oc=5",
+      "title": "OpenAI Launches Cybersecurity Model and Strategy - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmhZdUh0SlhVTUFkcGctejB5bmZud0hPUFZkODVjcEtYSXBUUXl2MERObVNKNURCNVVIdFlnbFJ2eUhFa3BBamRPNVpYLU9DUkRhbmZ3RVk1ZWlveV9tTnRBdG1lODRkdjBEQTc5SUpBVnV5T2ktcG1ld3Bfci12dnMxQm16UmRFTjlaVWpvaFMxTHND?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-14T22:12:27+00:00",
-      "summary": "OpenAI Expands Financial AI Push With Acquisition Of Hiro Finance  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Fire Arrest - Idaho State Journal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzlqUGNWR3VHSHU1U1cyR0I3Ynd0NVU3VC02VVd5emxkZF9rX1k2dDBpV3RUREFiMjJLcXNRNDF3X3ZIVmEwNG9TNkJGUFBwTnF5eC1LQ01aYmZuWW9CZDR5bVpZRy1PVEhQQ1JmUTBKRmFrdTd0eTI1YUhpZnk0RDRQSTQ4UmRfNVVxSFM5ZVF2YTlPUnZFUFdKN2ZzVC1OT2tfMVh2YnhtZ1p6YU9lWXRBMkc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T22:02:30+00:00",
-      "summary": "OpenAI Fire Arrest  Idaho State Journal",
+      "publishedAt": "2026-04-14T22:23:18+00:00",
+      "summary": "OpenAI Launches Cybersecurity Model and Strategy  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -83,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-14T21:50:00+00:00",
       "summary": "OpenAI Has a New GPT-5.4-Cyber Model. Here's Why You Can't Use It  CNET",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI releases cyber model to limited group in race with Mythos - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVJwMDM5U3gtRFh3N01yanBQc245N3h4VDhoUkZKaDJyM2VFSktZb0VEYUVYWE5IMTk3X3Ntb0thQ2VHY2VYVi1tMVpaQS1nOGZVVWFneDlJdmV2aTExVmEwV21ZYU5yNUZBb2N3UHItUjJoX1JXTVpBWk1WWmZrazE4TWYwSFZzb2V1Z3dCRXNOLWVlMW9OdTB0YjBQX0kyNnlTb2tGdkktR0ZaYmhxODVieUhiTGk0MHpINjhn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T21:49:47+00:00",
-      "summary": "OpenAI releases cyber model to limited group in race with Mythos  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Man charged with firebombing OpenAI CEO’s home makes first court appearance - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnRZYjlKekE5N011RFJUS1hTYUNGQTJ0S1ZWTk9tMEFiSlVxZ2tEcE56NjUzTzBYWU56emJmeW5vWVdpVm5GLXVJOFgtYlIzT29PR3NKVmpHZnBKTDFUTk1OSFdwTG1wMnZTWldod3Z4R2hHMWZ5VEJxX3hzWWg5QmliWjJBZ3I2ZG83VUFPenRlOFNtLUMtaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T21:25:40+00:00",
-      "summary": "Man charged with firebombing OpenAI CEO’s home makes first court appearance  San Francisco Chronicle",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI investors question valuation after questionable pivot - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0tacFl0VVlfY09aTzhCdUV1S3BZY0VJSGY0Rm8yY3lGYWZkeWczVHhxYW5tLWlSRlZHTmVjQmZSZXNTc1F1QVVxLTVuWDFyaWtnM1FsQlpKNkZxZmh4dmJiYmlPQTAtSFJvU0VEbGNaRzVNeXRFLVFNTjhhaGdlRVp2azR2ZEpkd2toejlub2g4c2EwMWNMNE84cjZRMnN0cEFWZ3dCUkY5cUU?oc=5",
       "source": "news.google.com",
@@ -139,87 +220,6 @@
       "summary": "OpenAI's Hiro deal is a bet on AI finance  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI releases new Cyber model one week after Anthropic's Mythos Preview made waves - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzFybjFQdUdGcldFNGQxeWhDbGhyeXJKVUlGWUFnTmhvQndQeWRRcjBSQUdsUm5GY0xqdjN1N05wQTFmQnFEQUdfak1rRGZFN3BKbHB6eTRkV2J5eEVQaG1jRkRSTVlqUGRhNWowVUo5cVVHd1hrQ0hlSjJLRXd2X05JMUs5X1RFdExwRTloX25SWV9TTEktM29OTmEyOTlqcTZsSVFDd3RqUW51X2d4a1ZIVDdMX0hISXF0dWtB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T20:55:15+00:00",
-      "summary": "OpenAI releases new Cyber model one week after Anthropic's Mythos Preview made waves  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Cybersecurity Model and Strategy - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmhZdUh0SlhVTUFkcGctejB5bmZud0hPUFZkODVjcEtYSXBUUXl2MERObVNKNURCNVVIdFlnbFJ2eUhFa3BBamRPNVpYLU9DUkRhbmZ3RVk1ZWlveV9tTnRBdG1lODRkdjBEQTc5SUpBVnV5T2ktcG1ld3Bfci12dnMxQm16UmRFTjlaVWpvaFMxTHND?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T20:39:41+00:00",
-      "summary": "OpenAI Launches Cybersecurity Model and Strategy  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI unveils GPT‑5.4‑Cyber, an AI model for defensive cybersecurity - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaFFqMXdhSFg2NS0tTmEtX2pXQXpaOUVsWG4tWllYdFlTZE94UzRleEg3Q3NxNzhDVkU3QXZ4VndDcVlkWHR2Z1AtTDdmNVViUHdGbU9mR0xOMDA3ZHBBS29wN2xqRnhlTmxBemlIaURtaEdidE10VU9QNWEyY0haQWUzbEh2bFh1ZnpDNV9WTFRnUERRa3VaZTB6ajdZdWZnN0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T20:35:00+00:00",
-      "summary": "OpenAI unveils GPT‑5.4‑Cyber, an AI model for defensive cybersecurity  9to5Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI expands access to cyber AI as hacking risks grow - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBON1hxdFBVM1E1RXdvQnRTR2Rob2JDTUtXY2llXzBBUWNpZkJac1VISE1YM1VWNHpPQnJBM1lNRm9BWkpXOUhPSjBKLXpPNmp5QVNWS3pJajJuR0w4X2VnbTFOZzRiLVdCMWEzWk9fY2ZoOXdEaEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T20:03:40+00:00",
-      "summary": "OpenAI expands access to cyber AI as hacking risks grow  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3pMQVB0Tk9ZYzZQQjF4Ql9ESU9TSW9UenZUMUlaM3pXcldIdUlXdmVVanNlTFlDdVRGeE0zTG1fbEpZX1gwVXJlRzdNNkpzQlk5MnJtUTEtZ1I0Q0JPaGRPc3l3YnlHQzBhd1JHdjRvcFAtaEg3UmtXMFlQV3Nka1paSUd3YlJmc1NhcmFkelFMZWNoTjRXTG1HWWRfY0pGYS1VYkptb2xvblR0YTVja2xpZWt1dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T20:00:22+00:00",
-      "summary": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFh1dmotOGxnQ0dTRHUtMnl2a1lqaXJYSlUwU2RnVE5RRFBkUEt6WTYtVkFkTF9rX2o0bUlPU3I5a2FjT2k5ZW5tTHJoSEItLVBwMXNEYVhCWC1kdFpQa3FPTzZDVjhBNnVtOE55bjVuYm9xRVVfWkhkLXJ2Z1VoTjhaVE5VTkhWRUQ0dDRwTThZVWxOdUFWQ0NmWmppYzA4aEdDRUVZNE5mNmtwVEFSbA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T20:00:00+00:00",
-      "summary": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy  WIRED",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2dRS2daZzBwMnkwWlA5QXIxR0xiWFk3Y21OZDV4V0hOeG15LTdaVDVpWDNEOUYzdktib3JVRzdLYXYwSElZRVRuMTVsT182dHBzU0s0VmtDZ3A1dVFOMUxfS2xVN0hKNnZZbjU2WjU5ZVVtdjhmaGlhNllUaTlzNEtCU3BVUllxWTR4S2puRmo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T19:50:06+00:00",
-      "summary": "A frightening OpenClaw vulnerability has been discovered  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Says Musk Remedy Shift Leaves 'No Case Left To Try' - Law360",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONW9STjZiZDJtSVRId2NzZ1Zjdk9UeW5yV1FtUW42NG5fQjJsd29FN2VtdXR4VGpQMC15RTNpNXBUUEhVQ1FJN3JLMDV3QW1hR2ltdXF1UWRLZzZuaEs2TDlrMzlnVFNCV0VuSTFXOG9WSlhEZ0UwWm9ac2Z3eVZRN09OZmF6bzlTZlFULTRpV2EtWjk3TWxNR2VXOVhNZ9IBVkFVX3lxTE9IVjhfMnhPUDhRNWNPMW1aWHJEYmJnLWNFOW85dFFNQkNFWVhiS0FjZXE1bzRqbVFRNnBNbnlkSWNCNHFHODh5aFplcTdacVgyemRybFJ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T19:40:00+00:00",
-      "summary": "OpenAI Says Musk Remedy Shift Leaves 'No Case Left To Try'  Law360",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ROSOrin Pro runs OpenClaw AI on Raspberry Pi - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXpaWXBIaUctSTlnZ3dIZDhuSTZBQll3WEZOTTJaUXdfY0dubEM2UGVxSzdacTJod1AtY3ZYUFE2S21iTFdpSl9xOW14a09XZDROZUUyclJKdlBGVFk3WGgyR0VkY1BwcGpoQ18xTUIxOWVQM2xha0Q0OWhlbTZLVXF4eHRoVGl6TXRySk8xdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-14T19:24:42+00:00",
-      "summary": "ROSOrin Pro runs OpenClaw AI on Raspberry Pi  Let's Data Science",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
