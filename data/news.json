@@ -1,10 +1,82 @@
 {
-  "generatedAt": "2026-04-15T18:17:17.643432+00:00",
+  "generatedAt": "2026-04-15T19:45:15.270509+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Says Microsoft 'Limited' Its Reach, Slams Anthropic For 'Inflated $30B Revenue - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcjR0SEpJcnNUeVR3UHJwNzhoX1hzNU81b1lhbzBDTlZVdGF4cnY1WnhHT1p0Vlhqb0p3VFFTWjRZNFFRN0pLVDcwV0o0Yi1uMDFneXktY1dmS1JLbEhWdnEzQ1dPZG83dmhhaTVBNmRoWkt4WnVqem9FeTg4WVBKbnlMWEY3UExFbGpRbA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T19:31:06+00:00",
+      "summary": "OpenAI Says Microsoft 'Limited' Its Reach, Slams Anthropic For 'Inflated $30B Revenue  Yahoo Finance UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzZBWlBTOXUxeVVfOVFsNHhka09hQ0s0VnRXZldWVGhhcnVzU0xBTldIbXBBOFpmVlVVbkUyaDlCOHFZaFN2ZWE3X0VPVlJUTDZWb2h6al9IMldlejRobnlCMDR3Ry1FUWNvdGhLUVprdnJ4ZGFRVFowbmVGRVVEdERuUTJnUzFPRXRXR1g1WXk0Tm5PY3RyelNhUWJaQzBfTVBGTUJ1OEgzNXlkd2pKQWJHZjVCMW8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T19:28:36+00:00",
+      "summary": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils GPT-5.4 For Cyber Security, Featuring Advanced Capabilities In Reverse Engineering, Vulnerability Detection & Malware Analysis - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMm5sSmVIMEJKT1ZYcFFHNHZRbF9YYVlEbzJ6ZTRXb0tyeDZLSjJMLTE5ZlJ3OXRzZUVTdHdJTTlnMUlfZXpBRENJVDhRazFwLXYwbVFJa3N4MHFBdl9zUHJ5a0NINFBBRE1tSW9JdkFDaG9maVZfYVJDVWZKLWdsc0VKVm1sdVBYbm5r?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T19:00:03+00:00",
+      "summary": "OpenAI Unveils GPT-5.4 For Cyber Security, Featuring Advanced Capabilities In Reverse Engineering, Vulnerability Detection & Malware Analysis  LinkedIn",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Ticketmaster, OpenAI team up for better experience - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQU9hamdKRDZxXzQtNnUtTnUyODAxMlhjUjVvVVpWdVB5bEEyMTVITkJrcmF0dzFORVNmTTU4QWNnZWYtUkhDU3pYc0JMSW45YThZdW1EeENsUHI4eHc5MFB6OVpoTmFXZ2RUeVY4UFp4ODJJeUI1d1NpT1QyeUlrcjZvakEzbEJoaWszeW5WeUN3bFdISFdFOU9tM0gxLVZ1V3BUeDh1N0JwbHZYVDIyQzBnVGpMVl9TUjJWQlB6YUV0RGs5ODl6YXJ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T18:57:00+00:00",
+      "summary": "Ticketmaster, OpenAI team up for better experience  KSDK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Agents SDK separates the harness from the compute - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UdVpSU3FGSE5DS2F3NkRJeTdvRmZ3OVgwb2duVjB2Tk14SmlLb1V5Sjlwak9OMmExQ0t5OEMwb3BybU1sY3d2Zk9GcXRPSEVnQkpXQncweHZqUDJpMTFEbg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T18:49:44+00:00",
+      "summary": "OpenAI’s Agents SDK separates the harness from the compute  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Novo Nordisk teams with OpenAI to speed drug development - NJBIZ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rTDVzUy1naHJvNkNEM08xRWNMOGZ3Zmw4MF8yNmExeEJiSzdMMzZwaXVpS1ZiMW9pVFlIdXlDZU5lZnBpN1pnd2ZzanBwMlVPNTZmSWZVWkJKMjZUYjhVb1MxdWtOR2xQSlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T18:33:45+00:00",
+      "summary": "Novo Nordisk teams with OpenAI to speed drug development  NJBIZ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI GPT-5.4-Cyber Launches: Thousands of Defenders vs Anthropic Mythos - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnJ1TDVoUkdiMElQN0g0bDZhbnlidF95enpEUGlDX3B4b1hJaks3QklXb2NJWFhURjJlaHU1UEFjc1ZmM21IU0pfT1lRQVo4Q1JGZjJkNnA2cHphb01hdlcyZHVoSHo3a09qTWtPOVJESU1iU09Ha2RXRUVIa295X2llVkM2Nmk0eXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T18:23:29+00:00",
+      "summary": "OpenAI GPT-5.4-Cyber Launches: Thousands of Defenders vs Anthropic Mythos  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI updates Agents SDK with new sandbox support for safer AI agents - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZW96SUpUZHhSSEliT0swV1ZCaERTaHdDWVdyWXhhOC1xalZiY3YxSEM5NGNzbGpkX1YzUWcwR09JYlY4UGN3bWp5NWtGRGNZWVUzTUVuV0ZiR3ZSMFBFOFBrQ2R6VkJLbzBYZDY0Q3ZqdFlULTdBakltNXRDOWN1ODJKdG5JVkZYZ1ZldTNHU2FoNHdnZDJMeEs3UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T18:08:53+00:00",
+      "summary": "OpenAI updates Agents SDK with new sandbox support for safer AI agents  The Decoder",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Anthropic and OpenAI Just Rewrote the Cybersecurity Playbook - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGM0QlZGeG1TU25CanhoVzQ5SlZhcjBhWjc5Vm51c3lSd2R4Z0otTjFER01tanhBQVNEMUE5MnNDd2Yza1kzYWNfUFQ4WElKM3Fyd2N5Z3V4OTJiLVhSb0tGUzJkX2VuM1pFb3ZjV3V3eW16bmtsQmw4ZHNYYWRsTEkxTExadkwyUTVLcjBmSkR5d0ZxVENjWkgyRG1pMjJGb2x5ODFB?oc=5",
@@ -60,11 +132,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Novo Nordisk and OpenAI strike AI deal to boost drug discovery - Life Sciences Intellectual Property Review",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjRKR3drRHBBc19hblQ3T3BraUkxcE83aXVQcWMwSlJuVkJKeW9jZHNvS01uTW9QVmtfTGoyZjduRktubldxd3k5V3FlTm1QWktvZmJ6eXQtdjh3RmpsV3NqZUxsTkNnSGhWd3Rwd3B0RC1iUHloNWR0R2VhY29PVlFOM21VLXFLVl95b0VGZEdvZEVzUjkxYVJfRTd1OXhWUUItRWphVERkYWVnNmpj?oc=5",
+      "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2dRS2daZzBwMnkwWlA5QXIxR0xiWFk3Y21OZDV4V0hOeG15LTdaVDVpWDNEOUYzdktib3JVRzdLYXYwSElZRVRuMTVsT182dHBzU0s0VmtDZ3A1dVFOMUxfS2xVN0hKNnZZbjU2WjU5ZVVtdjhmaGlhNllUaTlzNEtCU3BVUllxWTR4S2puRmo?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-15T16:50:41+00:00",
-      "summary": "Novo Nordisk and OpenAI strike AI deal to boost drug discovery  Life Sciences Intellectual Property Review",
+      "publishedAt": "2026-04-15T16:52:46+00:00",
+      "summary": "A frightening OpenClaw vulnerability has been discovered  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Microsoft is taking over OpenAI's planned Norway Stargate data center - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0YmpnelUzMmQ1VVhfcVkybEVneUVoempvemZvWFVObGpYeGZ3ZjRnTjV4T2NpN3NiaEd3bFN4V2ZBQVQ3eWUwSkNDQWVmQjNGT19tN3FZVnR4WlF3dFhyc1lHbmRDTlEzcDdnOEloczNrSlBrR0tiTXVTQVRZdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T16:37:20+00:00",
+      "summary": "Microsoft is taking over OpenAI's planned Norway Stargate data center  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,15 +195,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Microsoft is taking over OpenAI's planned Norway Stargate data center - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0YmpnelUzMmQ1VVhfcVkybEVneUVoempvemZvWFVObGpYeGZ3ZjRnTjV4T2NpN3NiaEd3bFN4V2ZBQVQ3eWUwSkNDQWVmQjNGT19tN3FZVnR4WlF3dFhyc1lHbmRDTlEzcDdnOEloczNrSlBrR0tiTXVTQVRZdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T15:27:42+00:00",
-      "summary": "Microsoft is taking over OpenAI's planned Norway Stargate data center  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Launches GPT-5.4-Cyber Model Tailored for Defensive Cybersecurity - MLQ.ai",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjluQmxlZFVDX2NFRUh2eWZzd1RmOVpiVHRFX3hFUEZyem9lM0FJeHpQeUtKaGNjWExUTjJZVmpjNVAzcy13Z01mVmJSUEJuSWV3TkV3b1plRFEzTmJhLS0wV1k2aUd6ZW5nWk4xRmhvVTRPQjVQV0d6WjFuSkNVNWFUdjZGYjZNV2ZJN09sNHZ2STFjdnU4?oc=5",
       "source": "news.google.com",
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-15T15:11:07+00:00",
       "summary": "GPT-5.4-Cyber: OpenAI Introduces AI Model for Cyber Defense to Counter Anthropic  trendingtopics.eu",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI ends direct lease for Norway Stargate Data Center - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlR3M3h1UWpZUXR5a2VtY0Q2N2kzcnJYc0dleDFqeW12emNHenFDQjU2c3Q5WFVKYktLcnBBYzdfeVpXWGZXZHVxekQwRFAwb1Q0VW1wZzdNRG9GQk52bUM0bDVCN3IyU1V2UEg4RkRzQnp5WU9nQ05aVFF6U2lnYjNORQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T14:56:09+00:00",
-      "summary": "OpenAI ends direct lease for Norway Stargate Data Center  Latest news from Azerbaijan",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Debuts GPT-5.4-Cyber, a Locked-Down AI Model for Cyber Defense - eWeek",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVUjRrUjVYaG90bzhtZk1lcFYyZVpTWmFGMG1GNlpqeVhWUE05SjhXMmgyX2pZd3NTSGUtRE1jWVZxWkhVY05lMTYxeTN4c0VYQlhDWGRJNGtTTnpq?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T14:43:14+00:00",
-      "summary": "OpenAI Debuts GPT-5.4-Cyber, a Locked-Down AI Model for Cyber Defense  eWeek",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "It’s not just OpenAI, it’s anthropic - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeE42cDhiamV5ckRmdmVWRUhvQTNzY1FhalktQk85WkxmQVMwdjNyUzdXRnNNUDJTWU8wUDVScmxiWWFxaDZDWWFNSW5DU2NmUnE1T0ZLU25LbVlRcjhuamNFM3BnamJGakRIamZnYXgwbGVEaXUxVHNjSG1Hbld2YTZLSDNwamfSAYwBQVVfeXFMTXVuWWRvTTBFRUFIc2VqNnRSTkdtNWRBNGFGdldISE5lNU54VThfQWJ0dFhwVDlsU2pyWHZ2LWwxVzZPdmY2b1FYOFV2WHF3NmtlM1ZLWmd6OW0zTk02MlhSVUxlaTFDQlltR1NLRkdSTkxabUUtdVVtUHJaZzJMNjBncVVKMFFQRHpmSms?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T14:39:34+00:00",
-      "summary": "It’s not just OpenAI, it’s anthropic  FXStreet",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "NVO Inks Deal With OpenAI for Speedy Drug Discovery Globally, Stock Up - Yahoo Finance Australia",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcUxxSk5XQXg1eHM1THlBRkRHUXdtcnM5T2NnTGdoSngzQjJHN0VCMTBXajYxUHlCeHVBbXFsQXBNN3NHUDZfaHkzdEdJU0ZOLXNnb3kzUWptb2pYVHRvcmc2X0VJRUxIR1AzaUdKUTY0YkFMZnhQa09EVjZ2d1BZQjRB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T14:17:00+00:00",
-      "summary": "NVO Inks Deal With OpenAI for Speedy Drug Discovery Globally, Stock Up  Yahoo Finance Australia",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI mulls new pricing and potential upgrades for ChatGPT ads: report - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkNkNjZDQ0p2dEd3MFZiVXZ4UHRIa3pUUU8wN1dybU0zWE1nQ1FVODl5aFZqWHdGa2ctVlg3ZVR3LWNYT1k2Vko4NUNnemNTWE5uUWpCOVRKMEhrTlc0ZTFrOU5WblJJYk9sTTMwQkhlLXd6akRSRl82SV9TNE1DVElZUnBWV3pmbDUzVnl6Ykp6QnVtVnlsd3ZyTnBHNm95Y2M4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T14:06:15+00:00",
-      "summary": "OpenAI mulls new pricing and potential upgrades for ChatGPT ads: report  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI expands Trusted Access for Cyber program with new GPT 5.4 Cyber model - CyberScoop",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEo5emwwY3AzeWkxMk9fV3pMSkNsZll6TnNobDQtT0pyNmJXOUJBMVNaR0I4OTI3SlMtclZsdWV2X1RuQmthWU05Sk52Uklwdi1nd0FFV25WN3JiOW5sZ2R4NUZJNm9SVEpZUWxzRFp4RHFDUGtacmgzM1pMZE93WnpodU1VZXNvQ2xfbzR0d3EzbEg4aEltMFpR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T14:04:04+00:00",
-      "summary": "OpenAI expands Trusted Access for Cyber program with new GPT 5.4 Cyber model  CyberScoop",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Introduce Click-Based Ads on ChatGPT, Targeting Marketing Growth - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaU55bnRrRHc0TU1UZ1FTSFRpUGdQRWV0amRhWWtTaWxLdDNPMi1SQ3ZTaTlURUh2bWhyMVFhVzR2amszZmtoSk5XUm9QSFFoVzl6eUVmbTB0QjZKaTRtcHNwR0pRekRlZ2NwS0FENFhUZDVERUU5dWh0T3JSVjBZd2I4ZXplQk1XVWNBaENCM0lQdEl3MUN5LUdLRlNESWJPaEQ0Z3YzbV9XNXhqbzlzbA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T14:03:26+00:00",
-      "summary": "OpenAI to Introduce Click-Based Ads on ChatGPT, Targeting Marketing Growth  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI acquires personal finance startup Hiro - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkhWUzZwVW94SlgxUy1NaERpeUNLcl9EZFdsNW9NYVdvRDlOYVZWeEJoczY0eHBtLXE2Mk5DUG8zOUdDcTQ3LWk1OWtkOElVbjJ4UzNHWjZZOC1JOTdWQ2lXMW5LNm1acXRtVTBnVWxjVnF6bEdsNzl2Zmg4cHhXWHlHTkxrNVNy?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T14:00:00+00:00",
-      "summary": "OpenAI acquires personal finance startup Hiro  American Banker",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
