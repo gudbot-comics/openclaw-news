@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-04-15T22:24:31.575653+00:00",
+  "generatedAt": "2026-04-15T23:08:27.148059+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI pulls out of a second Stargate data center deal - Network World",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQm5XVTVrVkhEYmx1V0laWF9NSG1XZDlDN1hfNjRXdkpuVzN0bUQ1MFEzTG1uV1FnTmx6LWxkNTd3S3ZLNEtfQjJsQ19tVWpEdHJLM0dTVElmMUFjbDMxU09pdWNRMmpWZURrQW5hSmxMRUQtQUhuUFAzNjJrcF9zdW16aHlibTl5T3JfMEdobklVQk1nNEc2MjAyVFpIRUJwX3JtMTlmWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T23:01:57+00:00",
+      "summary": "OpenAI pulls out of a second Stargate data center deal  Network World",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI can’t pull plug on family’s suit claiming ChatGPT provoked murder-suicide - The Black Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSGw0Slcyb3ljLVQ5T2FReTN3QjUwcndxOW8ydFVWNVYwRXM4OVhEcUtYT0luRGNtdDc0N3l1VTlIXzdndzlsTGdYUUdfbWRFVEZfLTdGRVRRTjdEcko1M1Z2WjUwenQwWHNtRGk2bDVVUUR1SVZhVFV4XzhTVnJRZE5DZHB3cnU5Tml0VUcwdS1vWFAwZkNaWk96RC1DUjhpTUczcHR5OXpiSy1uaHE5SmhMLXpYd3FyVllrYTdzSkhWMzNQdi1sNTJpU2xZdVlCTmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T22:39:14+00:00",
+      "summary": "OpenAI can’t pull plug on family’s suit claiming ChatGPT provoked murder-suicide  The Black Chronicle",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Limits Access to GPT-5.4-Cyber Model - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDkzdUdlNkFDTEFIUnEzS3FJdVBTNFhRLVZIYnFMVWU1S2NPdzVUUFhER2NuQlo1RDZvbEw1SXR4Z3JBWkJabnBKLVdfNzhBTm9RT1I2aGFTOUY4QjBRMmlRSHRERUV0OUkxQWprZVpXS00tY2Y1MVB2WGwtQU9mTktYRk9HVzJYUW1zUg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T22:34:07+00:00",
+      "summary": "OpenAI Limits Access to GPT-5.4-Cyber Model  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Follows Anthropic in Limiting Access to Its Cyber-Focused Model - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQWpIN1FJQ3FtdnNDQlFDR2tVY05EcHJMR0l2c1dCSGFESnRKc09mQWtNcmF2MzFTN3FFcGt4eXdMaVB2N1F3d0dWWjcwWUdBaEFCYjdNMm8xcXl5TmU3V0ZkaklvNWtVMjE2cFUyQUZPMjRIcTc3dk9tTVpZbDhKaXJIYk1lVml4Zzdndk53aDBtRkx6U2Q3Yk15eG9pYkdKaU8zQXdtMHlUMnVyNkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-15T22:30:00+00:00",
+      "summary": "OpenAI Follows Anthropic in Limiting Access to Its Cyber-Focused Model  Security Boulevard",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI expands Trusted Access for GPT-5.4-Cyber - TestingCatalog",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS0VObGRBTjhIOW9TNUFQN1F4T2RIZ09RdmNDbDVWX2FKVS1hSVczQmdqS05HZlRXbXNYWkZObF81Y1VoMUwyd05menlkN3hEZFhpdVJzdkZ3WjdZMGFpa1RsbnpmQVk1bzZHTk50eTQ3Y0lfQ0k2WUVhdW9ybE95Uk14SzVfUQ?oc=5",
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-15T18:08:53+00:00",
       "summary": "OpenAI updates Agents SDK with new sandbox support for safer AI agents  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic and OpenAI Just Rewrote the Cybersecurity Playbook - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGM0QlZGeG1TU25CanhoVzQ5SlZhcjBhWjc5Vm51c3lSd2R4Z0otTjFER01tanhBQVNEMUE5MnNDd2Yza1kzYWNfUFQ4WElKM3Fyd2N5Z3V4OTJiLVhSb0tGUzJkX2VuM1pFb3ZjV3V3eW16bmtsQmw4ZHNYYWRsTEkxTExadkwyUTVLcjBmSkR5d0ZxVENjWkgyRG1pMjJGb2x5ODFB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T17:54:38+00:00",
-      "summary": "Anthropic and OpenAI Just Rewrote the Cybersecurity Playbook  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI vending agent ‘Valerie’ runs San Francisco vending machine with OpenClaw - crypto.news",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVRnbnBOLUtaWU1GeDVZOHNvRUl6QmpjeGw5R0tkcTJ0SHZacElBdk9CMjFkUGtsdGtIZ1R5cG1IU2ZpUzBUcWVBb2lPV0ozazV5SlJTaUtuSWY0SHo5Tkw1N2VMTzZVNi1vN080Z1lQa3VSbC1DZ0tOT1NpNlB5VGxGMUlzYUJJRmlwWFREYWtFUTRBYVNqdURn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T17:51:26+00:00",
-      "summary": "AI vending agent ‘Valerie’ runs San Francisco vending machine with OpenClaw  crypto.news",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Hits Pause on $40B UK AI Project: Energy Costs Shake Data Center Economics - CarbonCredits.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbjNxcXVEQ2FhNkRsTWFBUXlMMnBOdnVYaURURnNFLUM5RDFzWVpoYUF0TEp2eWk3UGFDdFQzV3NTZGNNUmdtRXUtMVVRdnYyb1VKdVF6a0h2cW5GZXJmYnBfUF9IWHRGLW1kb055ZVhtSUhPUWFYQnlvSXVZM1M3UHBYeDk4WXBrbDZJTWhWOUZrVlZkbENFVXctUW52MzctQzFTQkdzS1B2UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T17:40:54+00:00",
-      "summary": "OpenAI Hits Pause on $40B UK AI Project: Energy Costs Shake Data Center Economics  CarbonCredits.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI pulls out of Stargate Norway, hands data center off to Microsoft - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUmtidzc3WlczcEhTa0hHQlNmN1Q3c2tuU3gtdW9qQ0k5YzhxVUk1X1U4SHBiNkVwLVlMZlRJV2VQUkFEM0VoUXNtblcydjE3MnpKXzhDR2dLQ28yVHBDdUFzajhuUl9hQnIyb2RlSWpQQlZwOXBCeDlqbXZnRGkwc3hPWlJaREJTa3o2UHQtWjhfX1dYWEM4UU44Qm5Ea0k?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-15T17:35:44+00:00",
-      "summary": "OpenAI pulls out of Stargate Norway, hands data center off to Microsoft  Sherwood News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
