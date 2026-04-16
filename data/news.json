@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-04-16T08:52:49.128610+00:00",
+  "generatedAt": "2026-04-16T10:12:51.494376+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI unveils cybersecurity model with limited rollout days after Anthropic’s model - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLTBTQVdvaExyb1RNSGEzZm1STWp2QnNGLUtiSTZTSDU1VGZKMFNpWS16Y2ljckxhVi1rUlFTVEJwZnh6NnN4UTRoUXY3dm5uWlJWVUU4TnpXQnd3bDFXY1NiY0xnVjhnSThDYUZrNmJXT3NDUWZjMWluYTNCVHZrUWl1NmprZGdvMzRaN1NTYjZxVEtKMkloV1cydXo3OHV6dlRNUHZIcFFSNlMtaGY4Q2lqQmtiYnVucU9mekE5QXdydw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-16T10:07:56+00:00",
+      "summary": "OpenAI unveils cybersecurity model with limited rollout days after Anthropic’s model  Euronews.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's GPT-5.4-Cyber, McGraw Hill blames Salesforce for breach, signed adware disables antivirus - CISO Series",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaUwxd3RncnlVNmkyQ21FSXNmZWRiazJuR0U5ak1Jek9PdTh0NXVJODkxb2tmc21kVWJ2c2NkN1ZfUVN1N01nQkJIR2xibDhMRlVJOUFVVE1jM2xYRWdhUVBPbGM4NjcxQW00Q0MxdEdIZWRkaUo5UFBhbkU3UTVFZnoxVk53VGVnOVhtX25Rc2t4SDFFYjhncjFWTzZDZkpyMVFTU0dmV0tfc3hVZGU0dnZZbmo1UDBtOWVhSVNHRU0tWkJsdU9JRWpwUUdvcC15emNrcA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-16T10:00:00+00:00",
+      "summary": "OpenAI's GPT-5.4-Cyber, McGraw Hill blames Salesforce for breach, signed adware disables antivirus  CISO Series",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT0c1eVNSWEpnUy02bjdZMzBpNEk5aGdrY2FXa0NfakZFVGR2cGVGMFhKeTU2M0FkclB4MWR6YmFMRTZVYkJwellnQ18zOVRKQ2JuNHlnWkxvb3d5bW9LeTR0UE5mbXNqUkJrN1U1RFp5SlJjdkk3YXJaZzhTY1pUcU1oaWtEdlFUN2ZzeGMxVVXSAZYBQVVfeXFMT2F5TXVWQzVVbzN1bWJFeXp0OEJGVHdFYjZpV2pDR1hNZmpaQVk2dzZGY2w0djhENWtkQjNMY1Vqbkt3X0NxVjdLemRoemV2dWp4OE1US3FlZHA4WmpvR01qb2tGYl9pZUFONDJTMVdPR05hYVlHN1hmdW5FUnlXOFFoV3BsQm94T3RxV0pVWlVBQ0JIbTN3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-16T09:34:03+00:00",
+      "summary": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI updates Agents SDK, adds sandbox for safer code execution - Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWRreWJCalZqRHFKRGxFdjJWcEtZQ3VNNHNYYXBacHg1UE9GT1A2dWNuY0taZ0F4SlA0b1J2ZXgxbHFldDl3NExyRUYwVmZKRjNLLS1Ddk1jRk02QU41TDF2NlB4Z0QzUkVfZWVPRmlMTEQtNjFGY0lEVTBpTVFYOV9FWXJmd0ZRUl9EYTRyYlhpUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-16T08:57:50+00:00",
+      "summary": "OpenAI updates Agents SDK, adds sandbox for safer code execution  Help Net Security",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman's coding abilities are minimal, yet he runs OpenAI. He's not alone. These top tech bosses have limited IT skills - WION",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM3NZbnNELWNnOWlCdDE1RW41dXhUYzhwa2h3aEthYjIyLVNaMTdEdldJajdZMUxSWEpOcDRodlJnTGpXZXhaNG5aRFBQSGw5UEM1endkdVFvd0I3UFBHYm9pbEpxU2F0SlRFM1NoWGFyaUcydEMxaEZ5RFVhNDNqaFJwa200ZU1CTm55Y05JblhLUGlqbk9ZcG9IeTJVdGZwQlZfTkxoVnhudjViTmJvY01kZDVVaGM4Tzk2VVI0S2hseWk5ZElCSFZXdFdVamVueGRRdHdZbzdXYlNCUHBzdGVfcm5CSkJ2d1h3SXhjcm9nRGIxaHVDQw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-16T08:54:00+00:00",
+      "summary": "Sam Altman's coding abilities are minimal, yet he runs OpenAI. He's not alone. These top tech bosses have limited IT skills  WION",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why OpenAI is Investing in a London Base Amid Stargate Halt - Data Centre Magazine",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOenpkREN0TDQ4ZFpRdG13MjN5bEhZSmVVMWVlb3RiSjd1X1JwdEw3cnhkTkdPMG5JY2VPWVdJZF83bkhONFVKNWVtM3dNZmdWNFNka0tHY3ZkU2dsa1NFZlZLVE5YUjEwNEl0YXEwVmRZb25WMDFsYTlWbkxQUmF6TzV1UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-16T08:50:10+00:00",
+      "summary": "Why OpenAI is Investing in a London Base Amid Stargate Halt  Data Centre Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI suspect floated “Luigi’ing” tech bros - Fudzilla.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54bThWM0JESUUzUGJVSzd6RmlhYUNlY3Q4Yk5CNEIxU3VCRzdZeTR6bENtTEpnYjdreVJtX1ZOeDgwSWJzZVA3WGlDVVFCcHBFeS1NMGtZd2FTbFFSSk9vQ1hRN1VEdjRnQnNuVEVjODM?oc=5",
@@ -24,15 +78,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNbU1kbWNnc29lR1hWUng1dVh3V1poZ0RfMEFkZ2RweHY3X1hnY0M1cjJUWVJQZlJ6MWVPcHhzTFRLU3YwS3VSYVJqcVJ6OWRBTk1kaGphczRzcjBiLWZKQi1sOWZzSzNVNGtqWDFmUVZrcU9NZHhFenFsNFBENWcyaW5ZU3M3QzB6Vi11d0RVc3I4RW5wdUZZUUExQ3hzVk94MTk4THJER05DLUJoMUR4Wk9ZNjVMWEFoa1NUV1hkRFlnZWZMa3c1bDdtdTRab21hQzFUaDQ0X05DZ0hmSEc5UWc0QThTREE1YlRvbGl5N2U5MDhRNFVNRW9NaXhEaHBXYlkwS2t0VnlVOUVZMlF3cDR4N3laZ1QydENlY1VJQ1k1NzVQeFQ0N2hqQ1VUYV9LZ3FrM3JXN2_SAfYBQVVfeXFMT3pzWUdnUGMxcnJpejNKdEJXWGJmWXlPTDdETFZEZGVXWWk3dm83Xzc0UURJOTdyTE5OcGpyNmRINUNGc05PXzFwajhkLU13TFF1WGdfX0NUVnlBbjhuQ1ZKZ3U4YkRkZFVsVU9wRlhKcTBPZWI4NWE3SmYtOUpzbm5VN3h1dFpBNTNjakh3VW9EeGZFUkw1cmVBRjNDRE0tTUFrUlNkUjFDRWZsYWo4US1JdUhlSzBnSVZObjR2YjUxeng0MThKUFpZU1NFN0NuRE5BZHVNQWtpUjR4ZGpRbnUtNWJ1WFpxbDdMdVVqbVE0Y2RFWHhn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T08:30:00+00:00",
-      "summary": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure  Indiatimes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Shifts Focus Toward Enterprise and Coding - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd05yaDgtcko3TWVEVHJnald5dlJmeGpUNGEyVTdFamQ4QmFTUkhKc3B6ZEVaR3JGZzNSdUNCZkxlSHp0WWV1clNvQ0NwY2xMak92SXE3NTRfZDcxS1dzOHQzVEdPRUJhZ1pFM0JlR2JfUDhaREZQeVdud0NCYmJLcnlWc2NSWUtPeTFkMlYzUG5nQksy?oc=5",
       "source": "news.google.com",
@@ -47,15 +92,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-16T05:43:51+00:00",
       "summary": "'Built on Fear': OpenAI Slams Anthropic’s Safety Culture in Private Memo  Android Headlines",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Altman seeks dismissal in abuse lawsuit - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yQlhQRXp5Y25qTnp1VU1Ib1lHVy1LRWg1N3V2RFVWYmphTHl4T0NNMFgyYjBmaHRfYnhpRXRXRDhZWlJNNXZPNGpuNWRDV3VyNTdnekY2UWdhdXowVl9zQWFZa3g4SVpIak52UzRTZ3o5c2ZhbVpNSm5TWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T05:29:41+00:00",
-      "summary": "OpenAI CEO Altman seeks dismissal in abuse lawsuit  Latest news from Azerbaijan",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -162,7 +198,7 @@
       "title": "What Recent OpenAI Updates Mean for AI Stock Investors - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmMzNU5WWGZIMnZMcEVpSkhfMzBPTEIzZi1KV3Zhd2o1NnIxaUd3ZzJIbWFnenJybmoySFBuYkdDNTBzaFpJblp6aTFkaTRqdGptVjVBRlZpUTFxR21TWmJKMDJXWWVyNXhOanpreElEWWZOb0ZQcmdUV2hMYXJzcm91OWFLRzhac2xKTjVyNWhhYVJEQ011WA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-16T03:04:35+00:00",
+      "publishedAt": "2026-04-16T03:30:00+00:00",
       "summary": "What Recent OpenAI Updates Mean for AI Stock Investors  The Motley Fool",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -184,42 +220,6 @@
       "summary": "OpenAI pushes for bigger role in life sciences  Tech in Asia",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CICC: OpenClaw Drives Practical Implementation of Large Models and Restructuring of Industry Business Models - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamRySFJiY3RSTTV2SU0zRUppMC0wNjU3ZzdKZEVwNGllWFBhLWtiOHRFeFAtMlpqei1VY0I5T21nbGlNQ0ZiSUI1d1ZNUVY1SXdnYm82d1AxcUpQbTRMU1UzeEhNM0hXTU9RYkZlelJmR1paV2pmTEZEcUMtWDY5RjdSazh5WS1VaVJsRUhVLXdTUWFIVXJfaC05VHVMYlJkQ1pBNjZPa3pMNVg1azctWmF6R1IwbGs0cGszZQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T02:32:49+00:00",
-      "summary": "CICC: OpenClaw Drives Practical Implementation of Large Models and Restructuring of Industry Business Models  富途牛牛",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI CEO Altman seeks dismissal of sister's punitive damages claims in sexual abuse lawsuit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdW9IT1ByaDJmTHFUN2hERXhoeU1IaklKbkpwMzZyb2d5cXVxd01sR2JOcVhwZ1E2X2h6VUoyRURGLWJ6YmxzWTV0ZWNVVnFUMUNCZEtUYWdjZGdLRzI2S29xZUJVLU1DR1MwUU4yMlFnOGYzVFZxalA3U0NTbks3WU5iNGI2eWQtdTBJWk4wX1F4SHYtUVYtNzhZRENTQXV6ZlpnYjVsNU1wQ2MxQlNsalVGOVhWSjVTbFlQUVY5QnhGMFJFazFVR2hEWTA1Z2Q1QmRB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T01:23:00+00:00",
-      "summary": "OpenAI CEO Altman seeks dismissal of sister's punitive damages claims in sexual abuse lawsuit  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "After UK exit, OpenAI scraps Norway expansion as it leans on Microsoft partnership for compute - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNkhnLVRieE0yWWRGSzRGaFZHU1JaRTZBM29rUTh5bFhfNEVmVU1faV9ieEVXdUhQRGRfT0MyUWlqZENYNk0tNHpRRE9jRDhuTkZnMGE3ZDRsSF95S1VpRmJQTXF1cjVTVVEzY2REZFlFckR6Z1hHelJMVFI1cE9jOEhaN1NEVmU2U3hPRmRmU3dMcVhzazZ1U2hPa3JqTFU5Yjl6MmhtZVpPcThYYWViWmIwY3FsR0FzclNMZ2c2V3JZYm5wVHZEZ0ducXZFX3V6djJWWnBBTkpIZHFPang3VHRtTnEwY3cyNmVzV2Zjd2Y2S1ZJOTNINzBYc0hjNXdqTUFTY3VIWdIBjAJBVV95cUxNZFRjTDZ6djBSN2dfLVhaWFNZSGhFS3pRYkVvX3RyVDY1dFpkRXNKLXNnMDJ3bUdkOEUwZVRSLWlrUUVYbTFyUTJLdW1LaGFvbWxjNWVON0JzaW01Ym5JY2NlU1R3dkNVTWRid25fNjZuc0FvYzBzWlBZMmJHckJPV0xVYVQ4QS1BbFhISXhKRVBOcXlObk1YdjRnRzYzUDRrNWF6NzdKeFRYcFFHajJZTGZKazY0RVRPTXJhZXY2ZklzOEl2YTNETWVpc2l0OW5IVzJ0VnJ6N2JaSEhGa08zdFloS0t6ejNjdTBmaExiNFhvOTVxQndmbzFkc19NcDdYNUZndEtXR0hBUUZJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T01:04:00+00:00",
-      "summary": "After UK exit, OpenAI scraps Norway expansion as it leans on Microsoft partnership for compute  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lenders unveil own OpenClaw AI versions - China Daily",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnTDNnQjRpdXd6MVBvV2tsUmY0SThRQXltNzJWWDBWTUh6ZlM0dGJFZFh6WHAyU2FZaGpUNlNPRFloUFROalJnSTduXzVQdjVpRzJubUhCNXI0WEctQWNVZTZTU3dKUDBpcW1WcUxuOHpILXgtZy1VY0FNT1kxZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T00:57:00+00:00",
-      "summary": "Lenders unveil own OpenClaw AI versions  China Daily",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
