@@ -1,10 +1,154 @@
 {
-  "generatedAt": "2026-04-17T02:22:37.366878+00:00",
+  "generatedAt": "2026-04-17T05:14:18.352733+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI blueprint targets AI-enabled child exploitation - CoinGeek",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEJaY3dONEotejBRQVJrYVc3Qk1VMEx2dFl0RERqd1Vpc0h3ZXFsemdGV0k2ZTh6MWVCdjNtNUlBN3B5MGcwUm9pMHBWS3ZOZ19jcXY4MGNfYmVQOWFLUmUzaDgzTlJ2MTNjUTJxaTgzSnlISFpOckN1LUR2Y0NyTjBR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T05:02:36+00:00",
+      "summary": "OpenAI blueprint targets AI-enabled child exploitation  CoinGeek",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reportedly to spend over US$20 billion on Cerebras chips, reducing reliance on Nvidia - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaWRkY0ZjLWVnVUdUN2J3NW8tRWNlTjA1Ym91TEFhaVNVd3VDX09UaDRlVjctOG10Zng0U3hYMi1lSTVPRnVhSjVjdENvRGNVZmxzS3VlTWxKVnBoOG5Rem5KalN1N2lEaUpLN3Yyblc3MjFyZjNYNGJsTzU1ZThYNlZPcTNRemljRXJNRXJiVndYcmhBMHJB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T04:41:50+00:00",
+      "summary": "OpenAI reportedly to spend over US$20 billion on Cerebras chips, reducing reliance on Nvidia  digitimes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw Drives AI Adoption Across China - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaGlDVTJ1cUl6V2JXME9IdDZtUHFhLTU5RUZic0lyODdQM3VVakw1dE5ScTRQQXJ2aGttWHZnaE1Pckl5dFNxbl93ckFNU0MtX05seXNfdldXLXRxRVJvLU80UWZuV25adHR2YXd2Y0RRbGlLUkN4SVRsZ2g3Zk1MSmZybm0tOWpuaXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T04:29:02+00:00",
+      "summary": "OpenClaw Drives AI Adoption Across China  Let's Data Science",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI targets Anthropic with Codex upgrade that expands desktop control - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbnREbWItaEFrbndKZnB3TlVYSng4OVFkQ1RBMlJUdXYzODZoNHBEWDRhQTA1ZzVzODVTREFEYkhCMWxOUnh5SHltYzRvUkMtejdacklYcVA4aEg1eUc1VkhLdkRaQWtyUjVyR29Xa1NOUUU4bHFsOVkzZUpydjc3UHNEM3FJNWJXRVR0XzM4R0U0OHVhVXk5ZXYzTFE5ZTQyRmFsWlRPalFHWkhZcl9nWW04OTNzUzVNRkJvSy01ZXNpX3dPRUpnZ2d4dmFvWnVDVk5MaVl6TEtwMnBqSzBqZGJqekxYNTRQUWNV0gHwAUFVX3lxTFAtMzdrNjNnZFlMZVZvVTNlUDNEZHBSR01vRzBJbzd6dTRKdmJVR3RjbjBJWlkzMzRCRDNrRTFoNFJ1VDdUSU1nMk9DMXIwOWJEZ3hSLW50MUpNRWdJcHJpdVZlRHRhU21ha0FBMVZITmJqaEVCTFpTVE5FZ0ppY3JqZHBYcC1BX0pjVVlfTy04ejRtQVBKNWlncW1SVHpQYWNiZVVMX2JGSERlbnlINEVJTTd1bko0X0cyc1MwWHEtVDVZUEN0alpVbVFRMkRHMlZIU2tXR1RVRkFSTjZPbGNRMTBnZUFDUHVqSkdaa3VSbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T04:29:00+00:00",
+      "summary": "OpenAI targets Anthropic with Codex upgrade that expands desktop control  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches Life Science AI Model GPT-Rosalind, Entering Drug Discovery Arena - NAI500",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOHhrM3ZlbTlLbjNHU1pyTzZXdVp4MlFWeDVKN1pBY2dZenl5R0tEVFo4d2FPbUpsVW54ZVo4ajZHNFBxcHhYSGk4cWRqRjhIRWtfVF8wb2Q5RkQ5OFRaNE5Edk0xa3RXWW5naktBZTkwOVlGdGhjeWRFSGxUVi1sUTFDSkE1VDE1WDhiVVZLeXlpOUNwSHRmMGNDNm94a25JNnNUZXRBeXJMNU5CcDNLUi1Fdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T04:17:23+00:00",
+      "summary": "OpenAI Launches Life Science AI Model GPT-Rosalind, Entering Drug Discovery Arena  NAI500",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Accelerating the 'de-NVIDIA-ization'! OpenAI invests $20 billion in purchasing Cerebras chips and acquires equity. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1N6R1JLY0VSSDJ4N05VNXZCRnVudzBKLVB6MU1RMVhkM0tiNnQ2VGNweGF4THZHNE40WlZUNWQ2Y1N6Z2FUS2JRVFBvSmdLa1Y4MW82ZVZhYjVMUnpubjVrVklGaWRVbElaNVVmX1RrLVpESmU4VTl0YjBjUlVyQUhfY2ZBNG1pNWt1bThNMWVSY2tYV1hQYUE3al94aS1ibF9hcjhoRFc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T04:08:48+00:00",
+      "summary": "Accelerating the 'de-NVIDIA-ization'! OpenAI invests $20 billion in purchasing Cerebras chips and acquires equity.  Moomoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "I've lived in China for over 10 years and saw the OpenClaw craze unfold. The West needs to keep up. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU0R6eFZGWUVmOFZZUVJ0YjRmWUVDZFFDWWdpb2hZRWpxenlNaXJsb0JUeXpFX3VNYXZZWnA2ZHhRcTBlNjFRLUxBUnItSUdfTlVNRTN4SWpPS3NhNVFFRWRvQklLVFF5M3FzUFMxVmN3UzdMYzh5NmFRUm9ObWd6WVNKMHN2TkstOXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T04:08:00+00:00",
+      "summary": "I've lived in China for over 10 years and saw the OpenClaw craze unfold. The West needs to keep up.  Business Insider",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI to spend over $20b on Cerebras chips - Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xX1JhQUpRYkl2RUJIU1dIakNIZGNDd1hyWEZWanZQYnN6VEpqT2dYZ2FjVGpabDNQOHJNQ1NiRkxjdERrb0lMc0xlbFB2b1YwSDdpc2tkdnAtZm43ZzJZeEltOEVXR2Jaanc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T04:00:00+00:00",
+      "summary": "OpenAI to spend over $20b on Cerebras chips  Tech in Asia",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida attorney general investigates OpenAI, claims ChatGPT assisted FSU mass shooter - FOX 13 Tampa Bay",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1dBNjJ0eWY4cGxzYTN0TEp3MTEyUXYtM2RTcVFBbjFaRTBsVEN6RVNaMk0xeW9DY2lEWG96LXFfSDhLVTE3cW40QmNNQnR4d1dFem9oZVBnUFRYemhTbnJiNjY1T1F6TmxJZE53T3MzbXM4bGRfRXVHd00tWURhdWdnOEFma3F0b2JxeHNiTGpJU0VJbDR4QkhDZ01wamJFaGfSAacBQVVfeXFMTTR0b3ZBT2s0T3MzYkc0cm9wWV9Kc1BkNmh2dE11bnlkV1hQRkcwRzFHTkNUcFBMX3ZTenVoVkhETkNtSXZOY3pYTE00SGplSXhHQTlCN3RKX180OGEwR2YtVGVOVEFhY2poQmp4MWwyeThsaThvdE1MWlJQTzF0VFhtR2VySFZvNGlKS1V1RU53c0ZPcEpLZkF0MU8yWXlOLXNENmdkNWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T03:43:04+00:00",
+      "summary": "Florida attorney general investigates OpenAI, claims ChatGPT assisted FSU mass shooter  FOX 13 Tampa Bay",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to spend more than $20B on Cerebras chips, Information reports (OPENAI:Private) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcGVqTl9paUtwdTNybGd2R2w4eUUwQXZLV3RzWFdpaE44em1IV0d0YzBIX19Md0hfNTFSd05uVmZRWmpwMGdkRWJrYTQxeXJaWTBFYXNxUlhnRmdTUm95VTlLc1k4by1PcGJTUzZ5NWtlMkZBUTN0dVN6NHAxVEMxSlV0NU5LUl9qMlRkWDJSbnlfQU1BdVlBcDZ6VzJXVkp0Y21NdktlYU8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T03:15:32+00:00",
+      "summary": "OpenAI to spend more than $20B on Cerebras chips, Information reports (OPENAI:Private)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "As OpenAI releases GPT-Rosalind for life sciences research, we test out the new AlphaFold and PubMed plugins - R&D World",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR2RRZm5nc1pVdlZ1UElRbDJjOWRrUlhiRjZSaTFnMUU4aFdUYUZtMjFRTlBtMk1pdFRwMlRiZDRzZmdDZmgwaVAwdzdJQi1GSFBrX3dVdjlLZkJiSVc1bkd6dEFfUFpCcnZyT0xkdDhvM1RXUFdCLTlOU3MzUFhSWnNscEhKczZVV05WYzhlUDJ2Yy1GTHFuNDc0R0lqMkdiNU51QWdMdFpRU1pHdHF4Mi1ubzF3MVM2ZzhONmRDS3Vfd1BxWFhoOFI3cDVseEhpZWJ1aHo2NnctSWhiU2lBdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T02:52:13+00:00",
+      "summary": "As OpenAI releases GPT-Rosalind for life sciences research, we test out the new AlphaFold and PubMed plugins  R&D World",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI expands TAC program, challenges Anthropic’s Mythos model - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX2VqZW5mbGFkWERrUzdxVVZMdXc5Z3dLajB0NWdpUk5ndlNGZFhLQlpMZEpUTlBjTFRsUmF0cUs1Umt4V1gzSXdGR3B1Q0pydHdrem1qWkdvdzdZX09TamVfbnBxLUxGSklNbXMtdThvbjVEeUtZelBtcUt1THB5MWRqSExSTEM0QkpUdnlWcUlueTg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T02:51:01+00:00",
+      "summary": "OpenAI expands TAC program, challenges Anthropic’s Mythos model  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI expands TAC program, launches GPT-5.4-Cyber - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3kwX0F4S1FYMDNyUDZ4M09xVmptY1pZdEV1a3k1UFBGZ2ZCa3B1VEFKZy1TZFAwYm5vSERyOXJMcHRUMjFCT0FGVUhwOU5ocGNReGxfTWw0UjhwNjljRTgyV2RzcHJzMXYwajVHWXVVUjdORHlhdG1jRFR6YmRQRTFmTzhRTUE5VXRCdS15cXY0V01S?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T02:41:27+00:00",
+      "summary": "OpenAI expands TAC program, launches GPT-5.4-Cyber  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Targets Pharma Giants With Purpose-Built AI Model - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3J5NGNYaGdCYkpiUURnYWFlSXVxWjlpZXhxamtRWXBQMGFwTzMweFN2VXZReF92Y3RPNWJNSE5NRmx2cFZuazcyRVhLdndhUl9pQ0dVa2dGZmVfZnlrdkV3WU9QODFvRnEzS3Q2OWo1N3pUMk5pLTM4MlVYSWR5aXRKNklQTWhNNGJCd1o2VVVqb1MtOUtmWDJjM2hsTmRpLUJpOTZNQVRWZ3k0eEpfSw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T02:21:19+00:00",
+      "summary": "OpenAI Targets Pharma Giants With Purpose-Built AI Model  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches GPT-Rosalind To Accelerate Drug Discovery - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNEdya3ViOG5rRHZXLUNRamw3NUN0aDNUenlndER5M2txU2k5eURvYm4wQ0lYXy0taVNpcEZqMGFOc2wxcHVJOGtPUEltcWJZNzFiazJnOGhmaDQ2QlhqQWpNMzRxTXdCUXhSTGxJYTY3Q3kwVFNIRkFuMWpMaEpsRVp1SHZPRzVOZWJFajMyblB4RU5IWUFyOWJLMC0tS0lX?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T02:18:28+00:00",
+      "summary": "OpenAI Launches GPT-Rosalind To Accelerate Drug Discovery  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI secures $20B Cerebras chip deal, gains equity stake - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONG5fcXA4dXp3eFhlUlFEaUtPVGxPTXZIeVVscUxsd2RpWVJwNzBMV05tVDZtRWZ5bU5PdUpPWTF4UGpPanZhT3owTzlFRFpqdmhLR0hkTkp4ekdkR3Nxd2hLSkthQWxyNWNnb2VqU2dPZGhVNXk1YVVtakVJN1BiS2VpWmROdFl5X1FBdg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T02:12:37+00:00",
+      "summary": "OpenAI secures $20B Cerebras chip deal, gains equity stake  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Epic evolution: OpenAI launches Mac version of \"Super Lobster\": Codex evolves into a cyber colleague - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RQl9rdFMxdjdKU1N5TVh6dHdsVk5nUjhJcTI0Q3Z4c3QtSEE3M3BhQXdTX19Wb1Q2X09CSVVjMWk5Y2lKSW5LRTRUSnNoWTkxVjEw?oc=5",
@@ -15,20 +159,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive equity stake, The Information reports - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaUsxVWxXSmp3ZTFWQ3FxdWw4WVdmS3Fvd0VXeURGUWt2d0FHOEVlWUp5SHFUVEJMSGwwdWVscEc3b0FTWHRVR0xXRWZ2SmE4WU80emJITlFveHA4R0VfQUZMVG1fc21YbnRPYTE2aDNQWG1jN2lUbFliMDFTV2tpajl1dG9FR05PcFlwc3V0V3YxQ044MWlKejdmZzdCekN4YmoxR2hsc2tBaEctSElBcVAzV1g5bkpPRDhiNzU4Vm80cmNGbjlJM3d6Njl1dUtLa0VqRkE3ZTdpN01uelB6X0pvcDFlcUtNdzlRTU1Ic0dKX3lUMWlnd1hUWnViNVZ4VF9VMS0xcEhhY28?oc=5",
+      "title": "OpenAI to spend over $20 bln on Cerebras chips, take equity stake- The Information - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbVlZaXVrTTJYellrNG1ydm5DbkY4Q2JnUFpIUmIydjM3MWdQcnBpS1NqNVlJcUgycXFNSjVEV1NMZ0ctdlZrdS1hV3hVczFoTm9mRGRudlpoN2tuUlptWXlxSEVpcm5ENVpPa1kwVWVEd2hpRUgzcW9yQllfcEd0cWxVZnVUbkVIQTdER0pHdzRha2lDa1R3M1ZDclpHU05FWVdzSzRRSTNqUTFGRDNtTE9tZUdOZDllY3dPeldpWUtPUGZfU3QyeEVacms4RHhtX1E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-17T01:55:42+00:00",
-      "summary": "OpenAI to spend more than $20 billion on Cerebras chips, receive equity stake, The Information reports  MSN",
+      "publishedAt": "2026-04-17T01:50:19+00:00",
+      "summary": "OpenAI to spend over $20 bln on Cerebras chips, take equity stake- The Information  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI said to spend over $20B on Cerebras chips - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmtvNWF0WFViVjNMWWpvb1gzY2lac3UxUkdsQm84dFg4RWd5M1B1S2dJaV9Ba2QtQWF4VnZHNnFEUXE5RlZBYnR3RTZ0OHJUTzRwMmlGcEJyY1p2ZjNNNnJveE1MaFpNYnpRNFZmZGl5M2N3cFRjNVVMQUV6WXpPVDkwWkE2TXpCTl9OTzhpMl82Y083VkUtUUdSY1ROamM?oc=5",
+      "title": "OpenAI's Ryan Lopopolo on Harnessing AI for Software Engineering - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMll6M2FiTzljZ1VxeHRzb2NhMkMxNG9KWklXMlNsczVLanlFcGw3bXBTMW5LMlh2UVFwaEMzbDRmYVBxeDhCN3hQbDloYWZLQ1JPOXFsa3JscXlfYWwxb2pDa0lVLVI3NHU3enRWQmFfMmZnNy1ac2lVMU1YZlkwdzRuRUhuOHUyUWg2ckJHaWs1MGw5Uk02a0ZkbFI5WDdwWmo0ZVBqZlhnXzdWUTJiU2hUbUxPSnhiNGZDaWJfaWZRTk00eHc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-17T01:45:00+00:00",
-      "summary": "OpenAI said to spend over $20B on Cerebras chips  Breakingthenews.net",
+      "publishedAt": "2026-04-17T01:46:34+00:00",
+      "summary": "OpenAI's Ryan Lopopolo on Harnessing AI for Software Engineering  StartupHub.ai",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -38,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-17T01:42:32+00:00",
       "summary": "OpenAI Secures $20B Cerebras Chip Deal  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Global Affairs Officer Chris Lehane is very angry with everyone blaming AI for 'doomsday', especia - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPbjVURXhHSHp3b3BYRDQtR3cwNU0xZmZhaHROaGpkYkdqc0JDbm9KNXNpc3Q4T0hTeldGMzNCZ0J4bTZlU0dYanlEX0doZkxvVFB6WFBOZmdSMVZzMThCcUpYU1duMmdHb3lsLTFCU3NJTGFDM3djLXJHQk15aVI4dFpQZHUxYXNWSjdQSnhYWGdjUmtNVVJmUmh3TzBLMnFpQ05yS1lLMFoxMjJIcDhqdEk3djFROWkzOEY3MnVINzhyS29sSUhXdjlMWTJhdHoxMjZoVTJPSTRtLVJvR3YyQjlKSl92OS11dFRJLWNtMDEtZF91UEpiclFZWHRoYlZ5N183M1dlVVlOeUdjYjNQSEd4eU85cV9XZ3lyYV94ZDFOZjJMR0IyNk1MZlB6eDRhSGdwU3dnUElsMk5PUVM1RGFGSmk3alRwT3Zn0gHQAkFVX3lxTE0tNzQtX2c1OWRIbGFSYTJHRHhZWmxORW9UTmlRRERycWdUMGVta3JVSGtUT1ItZEFhUk5pTUpCTkphazNpbF9NY1l1WHVTRGdFcXc2TlJGVUpYNzlzMGhYaFNWdENoaklVMmZDb0Z3UFRTWERySzhhY3ZmWmpfY21GNEt2ekRKR2VqYmNWbTFCRTh3QjF2b1pualp4cTBVZkVzRXVuR0lrUi1zVlItc19uZmhIeFFrajVUc0lfcV9TYWtvZFZ4dVNsUzE4dTJ5b2RvWG4xWi1Hak9Pd3l5UVNQZHBocU1KVE9KaHhQMjZSVG90R25lZXdBQTBYZ3A3MGlVQ1p0Nkhrd19HUHJGV1QxWU11UHF0T2NKcXU2blJEai1FLWRaeFdkX3FXZG8xckdRWmdmeFZIQ1VnakVWczBrY2J6WDh6S1o3RVFDb1VIOQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T01:42:00+00:00",
-      "summary": "OpenAI Global Affairs Officer Chris Lehane is very angry with everyone blaming AI for 'doomsday', especia  The Times of India",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,20 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive equity stake, The Information reports - Reuters",
+      "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObi1YYzV0bzRTTmxRbVp6X0pvMS12c0VLZ0ZUNVUtblA2WE52ZDByNDJlOEc2QmtxMUZpMlc0MlJUNGJjRDRZc1NQTnloSmxQbERCVTlucHFXcHlycUJLZm05ME81amZKcmdBTnl3ZGpfTF96NVN2OUVFU3BhWmt3ZkpkNWdqYVpXbjcwdkJnYmpEZWh6NW9JUURIRjdVQXZTNFc4TS1wM2NRUzdMYTc1T2JGNDA1TlE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-17T01:31:00+00:00",
-      "summary": "OpenAI to spend more than $20 billion on Cerebras chips, receive equity stake, The Information reports  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Spend More Than $20 Billion on Cerebras Chips, Receive Equity Stake, the Information Reports - U.S. News Money",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV3p3RFVWTGFJYzM5ZG5jWWtSWTk2c0Y0ZTc3S1NTRXJuN0taTHFPbnpvZ2hneW9NQXlUSVp3SExMaG9PdFUzaEZJSTdxc19WcVFEZEFwUEtoS2dpR2Q2YWFKLWFaMU5TZ1NmSkpHVHRtQjhzdTBGcDBaT1hYSzJKczdlNl9Kc0o4bWNqMzE2X0hHR2ZwcFlPUFgwSmRvQUlMZHg2RVdFaXFXVjdYQkVRVXhWV3RmcFE4N0xqNzBxZS1HVVVxaElfc0pYMkdBX2pweWFRaTRLRm9zUzhRY0RMQ3VsYjNaS3RZU0FDR3BySmY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T01:31:00+00:00",
-      "summary": "OpenAI to Spend More Than $20 Billion on Cerebras Chips, Receive Equity Stake, the Information Reports  U.S. News Money",
+      "summary": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,132 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-17T01:19:00+00:00",
       "summary": "OpenAI to Spend More Than $20 Billion on Cerebras Chips, Receive Equity Stake  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman’s Side Hustles Blur the Line Between OpenAI’s Interests and His Own - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rNkY4eTRrS3VYV1pWV2ZDU0xHamNOblQwelE3djYxbnFLbC1QeHBEMWRJSWczbmJrbzVTbnR2QmNhRVdIQWZXYndMbjdxaVYxUGNZYXdiWjNoX2Z4Rm12Ym9zQUFabXpBc0tQdmJ0OA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T01:00:00+00:00",
-      "summary": "Sam Altman’s Side Hustles Blur the Line Between OpenAI’s Interests and His Own  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI jumps into health care space. Could AI improve it? - NBC Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd2d2YVJ0OXljWWFPcGV0N1g5WnhZTTBrd09HeTQ1eHJST0VFSm9iSGU4WDhzUG5EQkpUWk1ZblAzTThNT0VmSko1Z2Q1UG00Vkl0UFRNZjdvT0x4cUhiV1RYRDNQNkY1cDBPamN2ZXluSkdLSk9xaVZXb1JoV1F0Z0pyU3lDZ2JMeUNOSk02YVN1Umhz0gGcAUFVX3lxTFBXX2c3Mk11SHJhM0wzSVkycXZOS0VDbXpqNHJQVHJmajhfd2o0OW9iNWpBNXI2LTdCVjRyU3gxeVBxVlRjaW9lTGNDbzZUTUJKVlprc3J3OTA1c3R4a1NDWjA5YUhuaE5XWklPQXpLU1hkMWlxOXVTM0g1N2xUWmVZWkpDNEFQcnlkcll6T1N1WXJ5TGgwY0RpbkctTw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T00:38:27+00:00",
-      "summary": "OpenAI jumps into health care space. Could AI improve it?  NBC Bay Area",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How Zscaler and OpenAI turn zero-trust security into an AI accelerator - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPem9IUjFqRWFQN3pvUnhtVFZzZlRFcE1raFBzOTc5QlFiaGpWaVJoRGhldUNUc3FhS293T0ZhNm84c3VkTjhLaTNKdWFWWHd4SWF3RXVhSW1pZjBGV21sX2YyYkYtejlvS2dvQk5GeU1GSFFFaWJPcnRzZ3RCNVBOQlpkZDEtYmdlNDVRYUxmOXozQjlNbEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T00:32:13+00:00",
-      "summary": "How Zscaler and OpenAI turn zero-trust security into an AI accelerator  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Zscaler Integrates OpenAI Models to Harden Zero Trust - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2pTVWgxekNqekF6cDlpU19MdGtTRlE5RFQ4LUluZnlBSVFjWWpId3pLLUZUV25uVnhGcnZZc3ZIZENGQ3lQNjRMd1VmR3BFb01MNWhZS2tRNWR4OFM1MmpRMGhPbTNYb1FmcFZsNlVnSjlucHRZWTR4a3N0ZG5sdVlVX1R3Q1BPX3ZkTFZzbURCRi03NFdYclBjMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T00:32:13+00:00",
-      "summary": "Zscaler Integrates OpenAI Models to Harden Zero Trust  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkIyNm5pQ25NVmZXaDJxbjZILThVV1dITnA5WXU0ZHppUFZqY2dZWkVjOFd3bU5yWmJWVzRhUzA4eVQxN3c4UFVrTms5NmFGRlhYcXVEVEpLUmE5NWdSNnBJVWhVS2pSR0lmMGZSdndhNEMwSHNpOXQzRDNrcENtTkc4el9YaThvM0JRemJtZ1MwTTN3aDI5Q3BPcW5jbUtzbXY0anFmSWtrc1A4bVJRY2lBSEpnZ0JBOXhDaHhicExjRWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T00:22:40+00:00",
-      "summary": "ChatGPT maker OpenAI shifts its focus to business users amid Anthropic pressure  Pittsburgh Post-Gazette",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI ratchets up Codex’s agentic capabilities to rival Claude Code - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGRfZ1Q4N3hOT2RrWmlnYlk4aHpSbk1kMHlyemdaVXB6NVZQUjNCLUllc1lXbktCSDB2STZWVXhISmloRFdjckpVTkNvd0QzWVQ4cEVteXo2X2lTU2JyaDd5VDhlb1dYVTNOenBuRkZTSmFvcFgxMWYwUE83OEo1dXdjQXRhT1gzeVdGekJnaE9LYWlyRnNDZDA0cUFYMDQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T00:19:09+00:00",
-      "summary": "OpenAI ratchets up Codex’s agentic capabilities to rival Claude Code  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Plans Business Model, Partly in Response to Anthropic - Newser",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVVyeUplRHV3N3hyMDdqenZoQmlHei0wam9oVldYN25TR3NOSXhNZmdnYUswb2RmdUY0aHRkdEFuM2V6N25Ma2FQOWdsM2hqdVJVRTBvQjVQZEVIVFNwQUY3czJGZlEyN0NCWUEwVl9NQXJ0OGJ2dzhQSWJack1nMTczdjZ5VUpZT244azI5aXFRX1g4U0dKNWxmdVM3dUU5SUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T23:49:00+00:00",
-      "summary": "OpenAI Plans Business Model, Partly in Response to Anthropic  Newser",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Codex for Almost Everything moves AI from chatbot to autonomous operational engine - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1ltQVR3Z2F4Z3R4RHFfbzNOemVHNUg2QU1STG1GV0lZN1lzRG1adG84S2F0UkJoTWRpZFFxWXRqRVpReTR3dGFvVFVhM2lhamxORDU0cEpzMU9OaFo5cTVhTU5URHNOME9mQW1BN0pGY1I3WG9DamgyXzgxblYxU3dHNWJCbHd3NlVldmRiVjhQT3B1RW1qUmZBOEJSMndCR29CUlVCMTluemNsTkRCYjlQQlpPUU5vNnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T22:50:35+00:00",
-      "summary": "OpenAI’s Codex for Almost Everything moves AI from chatbot to autonomous operational engine  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches GPT-Rosalind AI Model, Impacting Drug Developmen - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzZuNDlzX184RzlmRVBRaHQzOHdaVnlUSXBYSW5LeElRb3RCWHdPZVBiQnQ5T3JJZUhuRzljd1NQQjk1WkpTQU8zZlA2aVV0b0IxWjNVSVhSSnBvQkk3UmVCdWNpa2xMYWRRckJpQUhkT1ZWWklXQ2tHc3hVVUZzT2Q2TnZZaElMYzVwNWNBTVlmU3JkQWxHa19TeWszXzA0UjdXNEhxbUhBSnc4V2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T22:07:46+00:00",
-      "summary": "OpenAI Launches GPT-Rosalind AI Model, Impacting Drug Developmen  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Exec's Alleged Attacker Suggested 'Luigi'ing' Tech CEOs In Online Chat: Report - HuffPost",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQk9xcDZ4QXBBV0htV0dfTEE1UjNMaU5uM21iSHJEVlZrTThFbllLbldkR0pTSFFmUXR2TVlqNi1HWHgzZUVlRm9EV0RlMzhReEZWbklueWpCel82Z1IzYjBOamx2TEhVbEhwQy1fMkF4c1NjbzE3RWRFWE1zRTJtNm55T1QzR2o2ZmwxYVFibW8xczNNeDI1TNIBngFBVV95cUxPRzNMai0zeFpxa0ltclJ2ejA5bGNzZDRDd0hGNWl6bS1xSE1USFNOenlpZllTaDlOOW0wT1V2NGZ0ay0wc0Z1SHZaRXM2eEdCNXpOUEthVkVXWjZmWmdTSzRXcFZZVzRLSHFjX1p5NDNxWFBjMy1ZcU9jME1lNHpuak1IUXlhZENjNU83S0UxUTFtVnBfeUZnWWxYUVVrZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T22:01:07+00:00",
-      "summary": "OpenAI Exec's Alleged Attacker Suggested 'Luigi'ing' Tech CEOs In Online Chat: Report  HuffPost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Novo Nordisk Brings in OpenAI as NVO Stock Sits Near 52-Week Lows Amid Generic Pressure, Eli Lilly Competition - foreignpolicyjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZnptOGlZRDdXYTZxaWM2VDMzbGl2bkhQVFBWUHlGdTZrQnBadWR2SnhYdDJMM1liSkZQN1Z3NlRUYTdUQ0dsdmdwUVU3WEJkdVVDWmV0aG1hYVh2SmVXNHBIUlhCSVA3OTFHUmcwVlhwVFUxQlQ0ZENjOTFNdWZkeV9GNlhubi1Vc21pcWF5RTRNbmpibkNGWlFrNTdHbVdwd1lQc19LaFBWRjdkVnk4aVI1eGc3UUl4OW51bWdWMndDWVhWT3RiNVNUZFNUTmRWOUxSTXZ3ODZFc3BuSmpqVkZObEpldUpNaUFNMURNTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T21:38:36+00:00",
-      "summary": "Novo Nordisk Brings in OpenAI as NVO Stock Sits Near 52-Week Lows Amid Generic Pressure, Eli Lilly Competition  foreignpolicyjournal.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI starts offering a biology-tuned LLM - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa28xMkNaSVlobHZvZXZsV1FfbDRsUk8wd2tBY2FBTjlTVDdvWVZIWVkwVm1QNFNLazdhZ2owcFJMUURqaFkwVDlLT1hVR19hcFpxVDh6RFUxNExkaXpqcGhQSWlsVkp1WWNpaWE0WGtBMENUcEFuYThtbkwwRTBxblVIaXVFWFFxaGJZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T21:17:47+00:00",
-      "summary": "OpenAI starts offering a biology-tuned LLM  Ars Technica",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-Rosalind, a biology-tuned LLM - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPamk5WjYzSGY3R1pROHZTWDAza1pQd0xBbm9yb204WUJqWUxGbHZvTFRJOGpPUGxwbFduZGh1ZWJtRS1WREIwWER2OVd2LUd2eTJwVXgwVW53RDJCbVNmRjRMVGdIR25VdHFOOWhRYVZTTGhnYUhta19xOHpPZHE0alM4aVFuYU5Db1NZNkxfMjZqY1Ex?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T21:17:47+00:00",
-      "summary": "OpenAI launches GPT-Rosalind, a biology-tuned LLM  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI announces restricted-access cybersecurity model - Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHBwd0k5ZVpMMndELWJvS2tGMDhjZmhiZTRHa1d3bUZ1dFA0OWY4SHVoNy1MQmZKajdRbWRTb2hjbVIyb0ltRFlIZmlHbFlkOHU3R2tjOTNNaXZLTF95LVdsTF9nVW5acEtweENFNUZGYmh1eHRqNW1RYUFvRjhzYTJTX0tVNXJsVjNQamQwSXhSTFNUVnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-16T21:00:00+00:00",
-      "summary": "OpenAI announces restricted-access cybersecurity model  Japan Today",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
