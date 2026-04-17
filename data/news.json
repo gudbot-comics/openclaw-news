@@ -1,10 +1,82 @@
 {
-  "generatedAt": "2026-04-17T14:52:04.082048+00:00",
+  "generatedAt": "2026-04-17T15:56:19.637723+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Proposes A ‘Social Contract’ For The Intelligence Age - Noema Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQm9jaVRIaVFwckU0d0o4bGR3OEJOQ3ZfT2R2a3RpV2ZNQ1RFVHd1NU9tR0dVR0owcjlIMUs2LW1oWDVDWWx2WWZUUGtvQTlRUjhNSkd5Y1ZId0lVU0thdzhETEw1ZUQ2TkItOXdwSmdvT2w1NUZtWnZWVVFYSWV6ajFsdFZoeHpiR1lr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T15:49:00+00:00",
+      "summary": "OpenAI Proposes A ‘Social Contract’ For The Intelligence Age  Noema Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI Coding and Design Competition Intensifies as Anthropic and OpenAI Expand Agent Capabilities - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXRwVGl6dkJVaThUMU12dDBiLUw3RHRkZTZlcUVXREUxTnNwbXNJeE40M3FCYjVqdzh2T3ZnNGdxcEJSTUhIMFNBX0hmRDFOY3dXOERSWWJOVHBQaTJ0Vkg0OVk4cHY1Nm5qWVRNMDVHNzNGYndMZTJQcElHZTNBam13aF9zcFpjaU5tRGp1SnhUSTJkUVp4aW1hS2xWc3R1UFZPS1FRaFAxT0I4MF9yWmRaME42a3JfelBnaDJrOHNMWFZCLUVSWmh3OTU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T15:38:02+00:00",
+      "summary": "AI Coding and Design Competition Intensifies as Anthropic and OpenAI Expand Agent Capabilities  AI Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Walmart partners with OpenAI: The dawn of agentic commerce - Centre Daily Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wS1hlOEYxc3dVMjVXQm9UQjczN3poVkxQdlppSmN0N1lRT25LX3R0cVR1ZlhGTlotSENiMXBCOFFMWU85Q2RVUlVXbHJkSE5qMlNfQm85YXNLOGVDby1aemIyd1B3LVpjb0xPVWdacG8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T15:29:06+00:00",
+      "summary": "Walmart partners with OpenAI: The dawn of agentic commerce  Centre Daily Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's $20 Billion Deal Sets Up Second Most Likely IPO After SpaceX: What Do Prediction Markets Say? - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNU0ZDOFZEMjdHNEpENXVDb0VZS0ZzRFloWHpXRlB4WjRhMHk2R244OFVwS1JqN0xPXzRKNHV0NVpOa3J1UlNKbGVmd1M4QzluZ2laSnNNUnNTRkRDTEIzaW1Cbml2aFlSQ3M3VHREUlR5bTFMSzJpcW53NDR5N1VUaVF0WWdTRllYZjFYc0loNzVQa3FZRjlEVXgxYmRYQjY2OFo1UERwcUNjZmJGcTlTZ25XMXhhTktNZ0hTcElwMjV0Tl94NDlhQi1ROTFNT2JQWEl1UXRCNEstek9EUjI1cW5aVF9LRjE0QkNtbXZaWG5uNE8zODhVYg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T15:26:07+00:00",
+      "summary": "OpenAI's $20 Billion Deal Sets Up Second Most Likely IPO After SpaceX: What Do Prediction Markets Say?  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Expands Codex to Challenge Claude Code - DevOps.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qZkp5NFduMVYtQ2ZybFY0YWNGeWRfcVAwWUh0UGZacUpOWkhVSF9Uc081RGRoRzYyaWwwSkdqTUZiX3Q2bWFHdHNxYlZudkphRGNOSTdzLXgwdG9lNU5NRUFob21TV0xNNXBLTUgzT0pNZXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T15:24:54+00:00",
+      "summary": "OpenAI Expands Codex to Challenge Claude Code  DevOps.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.4-Cyber for AI Threat Defense - Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUpMcHcyNEJ2WWRpWEcwUjA5WTBhZ21aRUp3c0UxUWlhVUN1R242WGViLXlPem9JYmxOem9CcmtZdFA4NXJlZlhVMWloWC1tRmhFemxxaHE2eWhpQVBBRTMtZW9rMUxaQ1NyWTREeXRIOHFuLWtJMVVCMHdrYzNFLWxtUWtmOFhNS1VYeXE0WWZLZ29TdFRHRw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T15:15:00+00:00",
+      "summary": "OpenAI Launches GPT-5.4-Cyber for AI Threat Defense  Mexico Business News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches GPT-Rosalind to accelerate life sciences research - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNURRTVNLZXpiREdYaG1COWV1bFNXV1l3VW95MkxOVmZzR3B5SjhYS05taWNCRGR0clg1OVRjR1FaRGlhY1VsVXFoRU1BZEFBMC1tZ3FHbUxENFdZd2JGd2hoWjk2RzdKTk5sSndsTjQ3bGFBVHIzUXhYSW45ekpPQkVhRGY4eS1TRm9POFBKNVZfZ2tLTDZ2UjlyYmc5SjVwYndhelpfU3dOVDZkcVRhZ1dGMlV5TXd2X2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T15:12:40+00:00",
+      "summary": "OpenAI launches GPT-Rosalind to accelerate life sciences research  marketscreener.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches GPT-Rosalind AI Model Tailored for Drug Discovery and Biology Research - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDBvRlVIWE5oVnFiTDV5dG51dGIyVEhja0RucDZJdHFjZVhMb0YyVXNRSHhXRFhQRkd5QWVHMVlneE1HQ0ZHSWJZZUFwelFzM0I5SF84MU1tQ3dQdXdYOXFUMzRNZnp6cThTYU5najR6ZHcwZ2dMVC0wbGE0WC1hQzZRTDNRTGVpakdBNlBOeUV0YktvTnZiMlk1QzQ1WnFKbXNaekpWYkhhVFk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T15:04:24+00:00",
+      "summary": "OpenAI Launches GPT-Rosalind AI Model Tailored for Drug Discovery and Biology Research  MLQ.ai",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenClaw Exposes the Real Cybersecurity Risks of Agentic AI - Infosecurity Magazine",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPejlGZS1NU2tpN0xOTGdaNlZtMmJlaGppdkZ4d2t0dHpMR3lvdl83aHoxYUZHX0VzWGlPMjhKZktUSktOMEJ5S2ZraWZ0YzlhVHBlMTVxS2tiTmw0b09WQ09ZME8tN2ZsenV4WklKU2NCUmlDREdHdF9PczFhRHBWY01CVEU?oc=5",
@@ -29,6 +101,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-17T14:06:16+00:00",
       "summary": "OpenAI takes on Google with new AI designed to speed drug discovery  Los Angeles Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches biotech-specific AI model dubbed GPT-Rosalind - Fierce Biotech",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzEybW5KVW1EUy1ZZm4yMkJuRHhQTGNPZ0lEdkFMa2xVM3lCY2Z3eW5EdHpQTEtXc2N6OEVLY1RBbm9NSThmUGRwWE84bFY4U0FLYzcwZ1hYSVh6UFVoQ1VNSU1WVWowVVl6YkstTHJrOXNCZEFqY01XbmF5THl2b1BSdHFPYXhNUFN1VjEtX3J5TGpVSV9r?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T14:00:00+00:00",
+      "summary": "OpenAI launches biotech-specific AI model dubbed GPT-Rosalind  Fierce Biotech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Upgrades Its Agents SDK With Sandboxing and a New Model Harness - DevOps.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdlBTU18wM2tfeDFZNTh6dWdCQTZqUXJubmFWbjNXcDZMdEk3VVB2UE12MXhGTmwwVWRQRWJtUnVjU0swNElvRFhlQWVkNHJ5RFZZbkV5aEZFLUloUHJFeXNjWTg3My1pZkZvYlhIZm5PeFZpVkN3WlZjWV9jYWV0ZHB2UTEtUWowUjdZSFdjSVBZX2pZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T13:37:49+00:00",
+      "summary": "OpenAI Upgrades Its Agents SDK With Sandboxing and a New Model Harness  DevOps.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,96 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-17T12:33:30+00:00",
       "summary": "AI market is ours: OpenAI memo leak slams Anthropic, says Microsoft is more limiting than Amazon  The Indian Panorama",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI introduces GPT-Rosalind, its drug discovery AI - pharmaphorum",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbmNtVGJDdUkxeS11UlUzam5iUHdtVm1kM2d5VjV2c3JUQ2RicTc3dF93NmVyV2c5VDRDVUdCYXpYeWVOYmhVV1RtcjUwWlJqNlNGQWdtRnoybDBqVHFQU3dHOUVkUFctZ2lYTlRGbzY1clhvOXc3TkhNSnFUYUhBdkNVZ1NpV2NIOFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T12:14:21+00:00",
-      "summary": "OpenAI introduces GPT-Rosalind, its drug discovery AI  pharmaphorum",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI takes major shot at Claude Code with major workplace updates - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYVVxOWlvTnpRbUE2SndmdGg3bnJYRnBVMmMzMm1LT2pWTGc2ODQ0bjYzaC1WVU5ZWnVUTUtXNkFwUVZsQzlFaVg1aFBMQllaUUg1TWM2V2t4cUZZa3d6SFp6LWJBY29HQzFlZkNGYkJ4RWlkUEZJMXlObEdWWUtXdmk2NUxuclFvT3RDeGNCYmdmZm1mb0h4aDdwel9fR05Rb2dDRGljS0RKZDkxNFhxXzNjQXI3ZGpIWVhnbzVZazlfMkViczlSaHUwVmpZUEdRd1hWUjdnNmV3RW45NUpCRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T12:05:00+00:00",
-      "summary": "OpenAI takes major shot at Claude Code with major workplace updates  TechRadar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is launching a specialized AI model for drug discovery and life sciences research - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTaTQtaTR6WllkeW04aWZDallRR2RSYzlBaE1sanBFTE10Q1hMVldadzJSWm5qWUZJNlhxMkxsRVZNQV8zaXNnSm13aTlYT01DOF9wX2pEemFsNVdScllfbmtRanRuVW9jMk5BakU4S2ZmbTZvMVFQX0dn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T11:53:51+00:00",
-      "summary": "OpenAI is launching a specialized AI model for drug discovery and life sciences research  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "I Just Vibe Coded a Global Mass Surveillance Site in 2 Hours With OpenAI's Codex. It Was Terrifyingly Easy - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHd2aGxIazNKcXdkenhzY3kteFFPWW9HM0RDMWhhRHUySHJDUVJkNl9HOGVFOVY4eURzQmxlVEw5eDB3Zy15LV80Q3NuT2lOaXdVcnBqeGFxVm1xVGJHdGUtM3JuQXluTFVPa0xhZjJFLW9iQlJVUEF5eHktQjNMQVNDQ2J0WkVzOUVNOGpCZzhFVl9KcVlQT2l3TGs5Umx2WXluZ1pnd1dHdHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T11:53:39+00:00",
-      "summary": "I Just Vibe Coded a Global Mass Surveillance Site in 2 Hours With OpenAI's Codex. It Was Terrifyingly Easy  PCMag",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman’s side hustles blur the line between OpenAI’s interests and his own - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa0JYR2lKRHAzVGljTTl5WXJfUzV2dENYTzQ0R3FfYWJxWmU0d3FscGhPRlJ5Wm5EVVN4UEtKSzRnMVZpV0xEaEdmSW55NlJfSW9VZk1ZTUtJQWNGeVRMd2RMTDdyQ1hRS3F6VnJmckFtWUpMejBLc2lFdFBHa1JWTDFMQ1MzQWJJN3JfblVLeTRaaXFGcW81SEhJVGJiY1ZweDBBdDlGVG90TDg0bGVXbWxzMGFGWGpLQlFQWE9zT1oxanFxNXNtczM0MWdCNzhMTm85cGNrcl9JUnk0UkhaUXYtclZrR0VMUmUtbFdFOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T11:38:22+00:00",
-      "summary": "Sam Altman’s side hustles blur the line between OpenAI’s interests and his own  MSN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Reengineers Codex, Develops Independent Mouse - like Function, Schedules Work to Out - compete Human Workers - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OSG5QblNKdm1LNnhGM1NScE5qOGlqaXIwVENLVUJldURKeFVILXFVekJ5YWU1eUtzM29VZ1pLOUZqZlIyRkViOUtmZjk4MWVzb0dZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T11:33:43+00:00",
-      "summary": "OpenAI Reengineers Codex, Develops Independent Mouse - like Function, Schedules Work to Out - compete Human Workers  eu.36kr.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Debuts GPT-Rosalind, Its First AI Model Built Exclusively for Scientists - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDRtdXdvUUIzOVAzTDQ3MlhRRGF5NEZqMzRnV1piVUFSU2JPZEZEYVJPM2sxSWlQNjJaOE5hVFRqLTRvNm5SWjR5Tk42SzNjWENwenMwM1IxRjdDWlJrWDZlV3VubWZlY2hrTG9wcUlNQ3FBQUlzZkJDeDF4YmJZa2gzUkJmcHB1amlyRGZKVURNR2k0R1RaRFpqZHRBV2pCeXdiS1I5UTBmcVdx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T11:32:58+00:00",
-      "summary": "OpenAI Debuts GPT-Rosalind, Its First AI Model Built Exclusively for Scientists  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI shuts down video platform Sora: Is the film industry in the clear? - The Boar",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkg4dnM4YnRMczY4enl6SUNlMlhPN3UzQ2hrQkcwem4yOTRsdmFQTDNMakpYT0JUQXM1RlZBY2F1cGVQbjZUVFI0eWpFTTE4ajZqY1JoX0llNGppc3J3bDdLdk9JWWtWZU1ROG1zelZFMEdhVFk5THNFU2tYYkdVaV9QX2pxWjJEbEZPcnk0X2FLSVBHMC15Ym16SDJHOVlTdnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T11:04:15+00:00",
-      "summary": "OpenAI shuts down video platform Sora: Is the film industry in the clear?  The Boar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "I went to an AI conference and got a crash course in middle management - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3FFTEk5VmFkeXp3Q2ZOaFNYMG16b1hoUy15aW9fbnVIZlAxTTBpNmxWMjMwd3pKQ1JXSzFFcFllNEFTbmkxYWlKZER4MVJEakZlU2JkY0ZvSVZTcjlXQUNOQS12b2s5NmF2M0t0UHRWeTk0YmxocjNiUm1tU243T1ZBaHNZYmhYR2t5cXhBSy1pNlFQcWlDSUdwcEtBUm1HTkIwUXI1MVdyV1k?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T11:04:00+00:00",
-      "summary": "I went to an AI conference and got a crash course in middle management  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-Rosalind, an AI model for life sciences research - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWEtURGg0cERHc0FtTlNRWUh4UnJ0NkV5eFVrd0RPS0dkV0x5bnpDUjVQMFVMUjRZUlc0RUNsUGFfRHJNVDlLSTRXTXFSMS1IOW9FUWE5LTc3R0luRC1jTW9ZbXZfcVM4aEc3d1VRVjBfaGd5SFQ3OTVWMl9kWTdMV0w2aFNkX0xhN1Fqalh3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T10:27:39+00:00",
-      "summary": "OpenAI launches GPT-Rosalind, an AI model for life sciences research  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
