@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-04-18T04:02:20.747252+00:00",
+  "generatedAt": "2026-04-18T05:47:16.133609+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Sam Altman’s Side Hustles Blur the Line Between OpenAI’s Interests and His Own - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rNkY4eTRrS3VYV1pWV2ZDU0xHamNOblQwelE3djYxbnFLbC1QeHBEMWRJSWczbmJrbzVTbnR2QmNhRVdIQWZXYndMbjdxaVYxUGNZYXdiWjNoX2Z4Rm12Ym9zQUFabXpBc0tQdmJ0OA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-18T05:35:12+00:00",
+      "summary": "Sam Altman’s Side Hustles Blur the Line Between OpenAI’s Interests and His Own  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Codex of the Lobster's Upper Body - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54R1pnUzJLV0JORmN2TUZaTHJSazVydFRjVGYyTVItX0Q5Rnpreko5QzgtbVcwMTdEYTlzVjk1d1IwWk5INC1rWThaR3dQUjEtOGNZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-18T05:33:14+00:00",
+      "summary": "Codex of the Lobster's Upper Body  eu.36kr.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "AI: Anthropic & OpenAI inch forward to mega AI IPOs & more. Weekly Summary. RTZ #1060 - AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYZVozRjlVbFJMQnZKWXFXcXlqc1B4ZWhwdHV5enZXbWxMeWFySmZzNTlIR0FjMmcwck1UWTlMXzloRTlvRkk2WTNHaWpIaktvekgxR0hkenRTRUJ1b3ltekwzR0hZNlotZ01fMVRUVW1wUVp2a2ZQbnNBX0lxZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-18T05:02:41+00:00",
+      "summary": "AI: Anthropic & OpenAI inch forward to mega AI IPOs & more. Weekly Summary. RTZ #1060  AI: Reset to Zero",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI sees multiple leadership exits as restructuring gathers pace - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2FaeEItWjIwUEhGeWlPbHBNcF9BUE56X2lNTnJRY0tBZkJBSjVhUlBib0NKTTdsRUNsVl9BUFEzaVNWS0JySFNOUzJvSE5Udl94UUxBYll4NzFDMnQybmt4b3ZCMFJ5UE9tZTVTQjFSdkMtNEp1cDNhSmdieDNWVGZKSzRfSGFIN055aTJJOHFmclA5QmxPcDBJbi00TTFxV01USDViS0t5OHZ0ZExBQzNBYzFDbFE3Q041R3FtWldfdXVYWGlZ0gHHAUFVX3lxTE43YVp4Qi1aMjBQSEZ5aU9scE1wX0FQTnpfaU1OclFjS0FmQkFKNWFSUGJvQ0pNN2xFQ2xWX0FQUTNpU1ZLQnJIU05TMm9ITlR2X3hRTEFiWXg3MUMydDJua3hvdkIwUnlQT21lNVNCMVJ2Qy00SnVwM2FKZ2J4M1ZUZkpLNF9IYUg3TnlpMkk4cWZyUDlCbE9wMEluLTRNMXFXTVRINWJLS3k4dnRkTEFDM0FjMUNsUTdDTjVHcW1aV191dVhYaVk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-18T04:27:34+00:00",
+      "summary": "OpenAI sees multiple leadership exits as restructuring gathers pace  Storyboard18",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Srinivas Narayanan Leaves OpenAI to Return Home - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcElVNVJQQXpiR3BzQVFjbGhqT3hXY1owd3BjRWRGTjRLTzdHNFpUQWxnbm9BMHF0cExsb01KcElNeGhHUkhrRWJwU19QaXdDRDF4dG1NOTRwOW05N0I4ZDcwcEFPOWZjdWQ0Um5hcThQNVNJWW5kay1UMk5KclBMQ0ZBYmc1THd0Y2o1ZmNRU2k0V28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-18T04:03:43+00:00",
+      "summary": "Srinivas Narayanan Leaves OpenAI to Return Home  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Cloudflare Stock Rises After AI & Security Partnership Announcements - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX0FybEVPbU41czA2Ukc3cDBwUXU2cmFQRHZqQVBNRlJ3ZkVLOF9LMGgyZ0ZpRXoxN1piRGxnbFYwTUNEV3FSdy1jMFB1VWtGcXlCbnpjM25vY3h4RGpKTHpYN3VuV2JCYWx3MkYwaUIzeXdJeHp1cm1wZWd4RGsxRDFZY1F5bWRLTnkyRXloZ0VyZw?oc=5",
@@ -29,15 +74,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-18T02:59:57+00:00",
       "summary": "OpenAI’s former product chief and Sora head leave company  The Economic Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman’s Side Hustles Blur the Line Between OpenAI’s Interests and His Own - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rNkY4eTRrS3VYV1pWV2ZDU0xHamNOblQwelE3djYxbnFLbC1QeHBEMWRJSWczbmJrbzVTbnR2QmNhRVdIQWZXYndMbjdxaVYxUGNZYXdiWjNoX2Z4Rm12Ym9zQUFabXpBc0tQdmJ0OA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-18T02:57:14+00:00",
-      "summary": "Sam Altman’s Side Hustles Blur the Line Between OpenAI’s Interests and His Own  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,6 +177,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3pjLVFSbGItbWoyalpNUU5oYXRtTWJfUjczZ2FfNXpMZnZrRU1VSXpTVHpnY2xVYjZmVFpVREVPMlpRa3VMWHMxN216ZDNuMmFJbERIdThrd2hpVFVMTG5xYjJZSWtOVjNLcC1NQm4ydkFTUVczZ2dzUVZkNlI1ZXRHVkg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-17T21:41:13+00:00",
+      "summary": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Leadership Shakeup Clouds GPT-5.5 Timeline - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkI2RTMwMjBJNF9SV3pmQW93d1I4YU1leTdFRVBHMVVQM2U1OFhNbW5yMDI5OUM1TEFGWWJTZlBYakRkQUg0Zl9DMEJPTGpTS2lqSkMzTUZoclBGSHJ1cE44V0pYbm5iV3pwdzU0dXJXdERMSU9pNGFTc0t2YWNUTHNMdEROV2R3YUFSQ1BHb0FxUVlr?oc=5",
       "source": "news.google.com",
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-17T21:16:06+00:00",
       "summary": "OpenAI loses multiple executives in latest leadership shakeup  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Researcher Bill Peebles Leaves OpenAI Amid Strategy Shift - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGVpZGpwdFVyaVNXZVNyaVNxbXJXVzZrdDBqLTN5WjNxd0R1THgtRGY5T0ZxYjFSaFdoY1FDTXlsMkstVndLRFBjTWtlMUJHVlR0dkFXcHlyU0Yzb3c5blFMbG04bnNyWmlWako1OVVMOEx2OXRDaEgxWW1kWU1XMkJSOGd5OGZXWi1ubzRqUHJPVWxYRENEeExjOGJNcFJ4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T21:15:34+00:00",
-      "summary": "Researcher Bill Peebles Leaves OpenAI Amid Strategy Shift  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s former Sora boss is leaving - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjFOVG1keVAtMG9XclBwell1T1VuQmxzNEhuR0twTUR1T2k3TThCS1lKY1VyRDliWWtrVlM2UEZsMENnTVRIUkp1LWdKT3lobHdQZGlTVDVQTlg1N3Q1MTVDUjg0elVsTldISjBaXy1LZHNrUjdMUWlrTW1UU1ExUFlzYnNRdm1YWE8zOXk4cW8teEZjM3ljckJEOTZ2YzBPd054UlY3NUtjSkZUWE5aSjV3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T21:13:25+00:00",
-      "summary": "OpenAI’s former Sora boss is leaving  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Months-old start-up Recursive Superintelligence raises $500mn for self-teaching AI - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRkEwMlBacDRqNWx6bmFMSFV6cnl5TnI4d3JtNUNGZTZPb0E0a3ROc19lMktEcFFrdEtZZ1BEemRmVl9sRlNIZmFXSDBZTGFjVTlTU0JaSE1VNF81WkdnbU4zQmd3Nmk0WVBwbWJTTm41YV8tQlpjQVNvVTFTWUdGc29VQnU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T21:10:31+00:00",
-      "summary": "Months-old start-up Recursive Superintelligence raises $500mn for self-teaching AI  Financial Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Loses Key Executive as Kevin Weil Departs - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVBZcV9aNktHamFqcHMwZDgwQzFWekIyUWNQSUtoMVhXSEZzZ0NkMTdOREp3N0NPNDAwdm5yTkxOU2RZVUpSbEhXOE5DQy1WbzBDRG9zaXB0eFFROTBzOG9ZdmZyYjNUWDNqVG42VWoyUmNlaUxiNDhBb2IzelhrSVdyR1NzMWw4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T20:47:00+00:00",
-      "summary": "OpenAI Loses Key Executive as Kevin Weil Departs  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’ - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3lfUDVGeXhMUW5JMTByNUhmeWFSQVA2SnM0ZFh4SDd2N0NZVVJ2SkwtQW5wdkt3SUV5Wm5oMzVadUlyanMxTHBXQUN1MWZZbXZRR1FzVUppUFFBNGE2WDh1cE5tRm1odGhiZk1zY25JWVBRQWYtY0lZNDB2U0d0VFBtZ01lTTlWb2std0hnYmFjaWNxQ2VROXdPd1gtRXRHUU85WTFYNHd6UW5yV3gwOFBfdzN3dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-17T20:38:17+00:00",
-      "summary": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
