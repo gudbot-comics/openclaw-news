@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-04-19T09:08:06.740460+00:00",
+  "generatedAt": "2026-04-19T09:59:14.904338+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "AI 'agent' fever comes with lurking security threats - The Moore County News-Press",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTk90YUJMRmpUSU9LOVI1cVZmaEVlekFSeTVqTXZHUEdwS3lNRFdUMTRsMFFZb2tPNGI1Qm5ncVNLUGlPd3NHbjFwSW1NSFhxSE54dkZ3OUtYOHBFVFFqd0tPd0xLcTNmbHBIamZlN2djVU5FVW1sSmQtUzJ5Ymh1YmxqZmNvc2lKRjRxakN1UVNEYzFiaS0tVVpudmN3eGFkdXFPYlpuQndXeG9BbWU3VDhhVmFpMVpuSTAtSl9RSkpoVWR2SExCRHdzdFkzMFlXRVQwNl9TOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-19T09:15:10+00:00",
+      "summary": "AI 'agent' fever comes with lurking security threats  The Moore County News-Press",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Build an OpenClaw Free (Secure), Always-On Local AI Agent - flyingpenguin.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQay1zZTExWFM5dDlQaXg2ZFp5cVpzNzUyeW1HZWpjUXIxY0NNZEtqdHBzbXYxZ2xPcmtmTEF1VVA2b2REck1kdGthNFE3WG5WbFZDWS1ZZURUbnBkR1FIU25hRjBTcUt6VEROR0RVVExPZEpieGE1ZTFSVHlxQ0JYQURlT0Z6ZUlPdmpRS3Fn?oc=5",
@@ -60,6 +69,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "ChatGPT users are calling OpenAI’s latest update the Karen update and signing up for Claude instead - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXBTSU1BYjJBa0FGSEFCZWRZbGR1SXpyWVQyS0dqN3JFU280WHlrV0kxRThlQy1vMDVjVlB6MTZ4akxBRWc5TkhWTlRIbmZTZm1RZE1uZVFWT0NvODU1WFQwNExLdkEyNDNhMG0xZUU2SkV4YURMcXJ1a1VMRUZELWFPOVNFNW9TVzRxRHB1aXVnUnVvVy14NnRVV1M2LXFSeG9hYzdpbHJIaEV6bVFzYTNmR2l5a3dDa2k5aVNMOTh6WnQ1?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-19T04:06:04+00:00",
+      "summary": "ChatGPT users are calling OpenAI’s latest update the Karen update and signing up for Claude instead  Startup Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Sam Altman’s outside ventures are raising hard questions about who OpenAI is really building for - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb1lwOG11ZVNYOUZreUQ3YzVkOGRNSkUwY3NoS0lxemZSX1ZIVHl0VzNKeWJob1NGNXdmNHM1bXFCM2VyMGktOGNzeDVKVlhHMjQxUjRuV2E0bDdZWlZ1ZmdSemg0RVgwcGo5aXRndGt5TDJMcDloaDE1WEh1TElEbThlRVhSUWt3UHJEZlpuWXBpcXJnX0dnMlNQTlB5ZWVXSUpPTnY3YTBTODE3VlVLVi1McWJzQk9lVU5mWE5odEQ?oc=5",
       "source": "news.google.com",
@@ -67,15 +85,6 @@
       "summary": "Sam Altman’s outside ventures are raising hard questions about who OpenAI is really building for  Startup Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI 'agent' fever comes with lurking security threats | National | lebanondemocrat.com - Lebanon Democrat",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbVpHdmlXWDE3WFpqQzRvUGRaclVzT0pfa3hraDQyTnpDVEFmWnBlRl9zTTRmRFhMWVk1bkVWY0VuM29yNXZ5UjQ4dktQQUc1Vl9tbjRGdHpHUzhvSXNzYmRqVUtTb0FmOEJvTDVVVUdHOWcxWFR5TmcydzVneDFhczJGQkM4Q3dfa2RTYVBkV0w5LTNoY1RKemlGRXJiU3c0SC04dzVtR1YydUZrY01BNGtQLTlpRV81NndPUjQtRVVsSjE5WjZVdUctU3N5MjJXQ1NQZFhfU3hqQjdTWktV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-19T02:53:59+00:00",
-      "summary": "AI 'agent' fever comes with lurking security threats | National | lebanondemocrat.com  Lebanon Democrat",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "Srinivas Narayanan, Kevin Weil, Bill Peebles: OpenAI lost 3 executives in one day as science division shuts down - Mint",
@@ -103,15 +112,6 @@
       "summary": "Looking to run OpenClaw on the cheap? This mini PC deal has got you covered.  Mashable",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Commentary: Why China can’t quit ‘open’ AI - CNA",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2hHclA4REY5eElTeDE2Z0hCcXI4YTBCNHdvVXVubjRhcmlMcl9IVFF5Z1ZqU3BsYU9SM0pQWVptYkl3aTN1RTdrelhKeWxPU0F5Q3lMMFFHcGJZeDA4UWgwZURtb0ZTQWU2Y2lkSkZMUDE5WmF6U0VCNjA3d2tQeDg3SDhQRHFQUUJoODhkcFFzdFhIaG9ZbkpMMi1fTS0tUGlr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-18T22:00:00+00:00",
-      "summary": "Commentary: Why China can’t quit ‘open’ AI  CNA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI Researchers Depart as Company Consolidates on Enterprise AI and Superapp - News and Statistics - IndexBox",
@@ -213,13 +213,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Altman's fusion investment clouds IPO - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYWNyaDNDTjV0bVBnZVhTVDVaeXYzakFXZnc5czgxR2VqdFY2MXVnNkhDMXYwcnpoMkpQMTZ4ckRkM0dKREkyRE1PeUdEbEZPTXVDVnhPVXlPREtiWm9DSWI2cm56dmJDT0JlZGlXbnN5a3hVMlRxV1dNdDNJUlh5S1F4bzhjUQ?oc=5",
+      "title": "Minisforum Launches N5 Max AI NAS with OpenClaw - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm1CWUVMXzE0ZjhKTVFwUkI0WWt4MUFZYVVNZnhoVzctVFZZM28xdXZYbDNHdUd2UmdfWjN3ZWtfT2NpNXNGTHZWaGFxdjJ3N1NFTTdXNDA3T0R3OVhxRWdWY1FXazUtNG91bFNHLTB3S2YySmEzanl0U0cwRVBrWF9EUjJIZW91Rk5tdVVuLW4tMWs?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-18T13:28:23+00:00",
-      "summary": "Altman's fusion investment clouds IPO  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
+      "publishedAt": "2026-04-18T12:52:06+00:00",
+      "summary": "Minisforum Launches N5 Max AI NAS with OpenClaw  Let's Data Science",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     }
   ]
 }
