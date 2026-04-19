@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T19:06:13.991730+00:00",
+  "generatedAt": "2026-04-19T19:50:00.278980+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -150,15 +150,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Claude Code Really Killed Openclaw With This IMessage Update [1f476c] - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFYUlzcnFYT1RGeVpDVEpJOEVub0J6VDV2a0JGZVFjUWg2ZjBlSXBiQl9hRGpVYWVCOVZNUkpCT3lZSktqVnhtNEJZUFdPT05iZFQ3d1BwMHk3ZnR1TWZic2g2bHBuQ25EYnhYS3g5QnI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-19T01:14:13+00:00",
-      "summary": "Claude Code Really Killed Openclaw With This IMessage Update [1f476c]  Fathom Journal",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "AI IPO Race: OpenAI vs. Anthropic - StartupHub.ai",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGZNMVRGNWN3YlRpLTgxQVRhZlk3OVo2cnpIUldNUDRlVS1WYXRsT003NlNCVm5rVmwzRUZNZ25XeXhFbVZEVThwbWpOdm1CS1hFdjBVTzRrcVVpRW9IRkd1dDdhMzVGM2xpdTVZdGhmbEFjaDFsbkY5elFkcENqODcwVFIzLVhVY2hDeWlRaEhoTjg?oc=5",
       "source": "news.google.com",
@@ -220,6 +211,15 @@
       "summary": "What xAI and OpenAI Should Buy Next  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Minisforum Launches N5 Max AI NAS with OpenClaw - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm1CWUVMXzE0ZjhKTVFwUkI0WWt4MUFZYVVNZnhoVzctVFZZM28xdXZYbDNHdUd2UmdfWjN3ZWtfT2NpNXNGTHZWaGFxdjJ3N1NFTTdXNDA3T0R3OVhxRWdWY1FXazUtNG91bFNHLTB3S2YySmEzanl0U0cwRVBrWF9EUjJIZW91Rk5tdVVuLW4tMWs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-18T12:52:06+00:00",
+      "summary": "Minisforum Launches N5 Max AI NAS with OpenClaw  Let's Data Science",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     }
   ]
 }
