@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-04-19T16:55:49.520176+00:00",
+  "generatedAt": "2026-04-19T17:34:01.790716+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "The $852 Billion Question: Is OpenAI Worth It or the Most Expensive Bet in Tech History? - primaryignition.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcDNkVXRHdHZRUHRmc1lZLWFxS2JRVUI5aThRbTJxOFVBWkpWUG1LZk8xMzQwRE1lZngtSDh2OW1qZjBNb2lYV001bjJNdXdPeG12eEVNQVkyZmZ6R0xraVdGWDRVZkhwTmxDb0U0LWJITC0tM1NCNFQzZ0NZUEJrYURpbWdmbDNXZlR0Z0pidkY2UHdJWjFPZjc2VmtfWDhReU9YT2lOdGNIWFZVRnppV1dfMG5TSlI4MjJvMjdwNUF3LWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-19T17:00:38+00:00",
+      "summary": "The $852 Billion Question: Is OpenAI Worth It or the Most Expensive Bet in Tech History?  primaryignition.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI agents could pose security risks - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zX1ZFSWNKSS02Tm1mOG9weDlYS1UtTVNETmdmNE9DSk1zMjVPX2U2ZUNMMUJCcFdfWkhOSUkxS0VfRmZUd05BSHlXS1BWSXRIVXNLWmNIc2QzZkFBZ2h4cGJLbDl0bFBZWjEzX2l1UW84dHFaRmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-19T16:00:00+00:00",
+      "summary": "AI agents could pose security risks  Taipei Times",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Is OpenClaw the Linux Moment for AI? - HackerNoon",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwcEhrNGt5RklPeEs4bUNTQUktUGdBWVlRQ2U2MURianRrZUkxc0ktcmRZNFdLQ3BtUTd0YWYybTduemdJUW9Id0NtaHJXSHFiMUVHUWNveU00OWNFMnpiMGJDU252ZGxVV2c?oc=5",
@@ -186,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Sam Altman’s Side Hustles Blur the Line Between OpenAI’s Interests and His Own - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rNkY4eTRrS3VYV1pWV2ZDU0xHamNOblQwelE3djYxbnFLbC1QeHBEMWRJSWczbmJrbzVTbnR2QmNhRVdIQWZXYndMbjdxaVYxUGNZYXdiWjNoX2Z4Rm12Ym9zQUFabXpBc0tQdmJ0OA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-18T16:33:02+00:00",
-      "summary": "Sam Altman’s Side Hustles Blur the Line Between OpenAI’s Interests and His Own  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "What xAI and OpenAI Should Buy Next - The Information",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUWpYTlo1STJqbloxbjFCUlpEeTBjQTVWaGJtYll1ZEx1NzBYOWQ3a01GUHpqN2FQbU1kZWQ2VFZnMkxESWNDRVdlRE5Na0RLbzJHRXRDeHdyTmxVSFpBRFhmWXJENlNISVliVGJNMVZNUkpnVk1UWXNPb2tJVVE?oc=5",
       "source": "news.google.com",
@@ -211,15 +220,6 @@
       "summary": "The Hollow Crown of ChatGPT’s Head Honcho  Jacobin",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Minisforum Launches N5 Max AI NAS with OpenClaw - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQm1CWUVMXzE0ZjhKTVFwUkI0WWt4MUFZYVVNZnhoVzctVFZZM28xdXZYbDNHdUd2UmdfWjN3ZWtfT2NpNXNGTHZWaGFxdjJ3N1NFTTdXNDA3T0R3OVhxRWdWY1FXazUtNG91bFNHLTB3S2YySmEzanl0U0cwRVBrWF9EUjJIZW91Rk5tdVVuLW4tMWs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-18T12:52:06+00:00",
-      "summary": "Minisforum Launches N5 Max AI NAS with OpenClaw  Let's Data Science",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
