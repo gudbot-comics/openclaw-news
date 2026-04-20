@@ -1,34 +1,61 @@
 {
-  "generatedAt": "2026-04-20T10:21:14.104167+00:00",
+  "generatedAt": "2026-04-20T11:49:54.608330+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "My OpenClaw AI agent terminated itself after a failed task - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMkJrcW5UUmpqUS1KQ2Z6clVadE1HSEk1ZDFXVUNYQ1N5WjRCczFIbjRwQ2VXMXNFZ1Fxc2plZGl1NXRaMktoRDFMam5mOXdGY1h2YXRJU2V0YjlrZGw4bEVJOEJmY2dkY1dMQVB6TFFicmt0Mmx1c3dPenpUaVJLV2xQaDU1UG9jU2pF?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T11:13:35+00:00",
+      "summary": "My OpenClaw AI agent terminated itself after a failed task  Cybernews",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "UK Infrawatch: OpenAI infra platform stalls; £1bn altnet haircuts; Gamma growth plans - TelcoTitans.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObnVWLUdSeTdoVnd0ZlF4dkhldUZCTS1IeGhVbl9IZF9BWk9adU12VFk3b0w1R1gxX3A0Y0pNbXp6MGtsdGFiRmJYbG5ubEp3blpOYll4cGl0YWtiTVBUbFE5UXpyVG0wNmhidzR6bkJ0emZ4VU1xMk0tWlZpSkFZdHN6eDlKLVlkMWQwYm16S181bkNDcnp4VWhfblJzb3hWQjB2Rk9JcFpsN0QtT09Dd044WnU0VU9CMFFWVXp6Q3NKU24xYVo4cjNZeEZ6aXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T11:04:32+00:00",
+      "summary": "UK Infrawatch: OpenAI infra platform stalls; £1bn altnet haircuts; Gamma growth plans  TelcoTitans.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SF Public Defenders Say Attempted Murder Case in Alleged Attack on OpenAI CEO Is Overcharged - Davis Vanguard",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FUVoxZjdJYU4tVmEtQUtwRDFZWkN4SHQ1dkhkM1ozcmVrWWo3czdWazhoQ1pnYWFWS2haRXliallucXZ6UTFNTWtQWFphc1VFMHVVUHBxUk5JcDdSWUVzSllLdHd0SmROTzZqeV9QN2swdHlVRWtETQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T10:48:17+00:00",
+      "summary": "SF Public Defenders Say Attempted Murder Case in Alleged Attack on OpenAI CEO Is Overcharged  Davis Vanguard",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "A Deep Dive Into the Sam Altman–vs.–Elon Musk Trial, Our Next Techstravaganza - The Ringer",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTc2eDM5d3V0dlZDYWRSMHhPRlpTQV9Sc0cyeG9DOGtGdmNuVE00b3BPOFZDYjBiTzRrQVNKWmF1WXJmNUJvazNoQkNwMWNVQVFxSmxBQnBhaHBSdlFZV1M0UEUwWDd4YmdVSjYwd0gxVHIwNkpFZzBJSTlFaTRwRWFyakg3MjZFMnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T10:30:00+00:00",
+      "summary": "A Deep Dive Into the Sam Altman–vs.–Elon Musk Trial, Our Next Techstravaganza  The Ringer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Shifts Strategy – Microsoft Partnership Blooms, TBPN Acquired - VoIP Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWllSQ0VqSVNoeldmNjE5MjJLU0xnWkJEckhhYUtmU3hQOGttaU5yZTdzdnRZdU5id3FlMWYyS3JHZXVPUnVCRllqZlJMWWoxRUlqbnd1TGpzSEpucmJxQXA1QzJnNDlGWXhLSVB5R0Y3VlNFdjlib19FbnE5cVMxUDRBVXVJR1BUVkdDbmotMXhmOFVVWGgxSmYteWNQZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T10:18:00+00:00",
+      "summary": "OpenAI Shifts Strategy – Microsoft Partnership Blooms, TBPN Acquired  VoIP Review",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI’s Sora Chief, CTO Announce Departure Amid Company’s Growing Enterprise Focus - Gadgets 360",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdE5Xc3AxVk5rTC1CQXEybFcwb1VjeEJpd1JhQ2xlbkd6VWh3TExMLUo4SE5hQTdVY0J0aDNmWmw5Y29KNWRmeXdXN0xHZm1fWHBjWFFyVnF6bnFvWjMtZUdsTTZieTdmQ0N4VmMxWjA4ZmNDYkh0eFB3SGpBLUYtRHlJLWxDSG55eXo4MEZsQXdJczBoYlBua3NHT0V3NEhILWx2bTZxNGNvTm0tQVlXYzgteUZpaktBQ2d6eVBjUE85TW5sdHJWMnhJeUZId3IwOW5mTE1VVm5uZ1VWalZwaUpYX0ZSZWRmSkY0Z0VKa9IB9AFBVV95cUxOaS0xU0lQZ2F6aC1HRE5jWWNsenJCaXFYNGVFTzFMOElUT1BiOEZXUEFiLXotYWxSTk9QMUYwNHVRTHBOZFQ3akNjUDdlY3dYOWlyeEktNUxGX0Y3anA5YU1tMms1R0Y5RW5iR0RkZTY5bnp2aktFU0o2Zndxd1lPQk9iQ3ptOGVicUlBQmZqbWg5RWNIeUxGNjduNGkzVGRxeU1IOXBJQnNRblViTWM5MjV6QlpMX2daN0s4MWhKVkU3R3FrVlZibVV1WThKSjRab09yTWZJcVYyS1BLZ3JPNHpRRkhsS3ppTjYtSUZ6MGIyWEZs?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-20T10:07:14+00:00",
       "summary": "OpenAI’s Sora Chief, CTO Announce Departure Amid Company’s Growing Enterprise Focus  Gadgets 360",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Backed by Peter Thiel and OpenAI, Toronto startup Biossil aims to give failed drugs new life with AI - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQamh0ZTVfMmpuX0VKbHc4LWxlVXU5SW5hNmlFZTlYNzZRNDJnWmwyblc5aThXTUxFbkY3RXh0cG1vVnVXaXZpOEZfd0FSdVY1NzdQMXgwdnh2RFBMOWhLV2dxaWNzanY1YndnYXpOUExnck53UF9FUWtvUmF2S01KclItd2NmclItUXBFR3d4elNwSnpEcVl3SFNIMWhNc0RkbUE3NDdNQzlyUVAtcDJNazRsRHN6SjQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T10:00:00+00:00",
-      "summary": "Backed by Peter Thiel and OpenAI, Toronto startup Biossil aims to give failed drugs new life with AI  The Globe and Mail",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3pjLVFSbGItbWoyalpNUU5oYXRtTWJfUjczZ2FfNXpMZnZrRU1VSXpTVHpnY2xVYjZmVFpVREVPMlpRa3VMWHMxN216ZDNuMmFJbERIdThrd2hpVFVMTG5xYjJZSWtOVjNLcC1NQm4ydkFTUVczZ2dzUVZkNlI1ZXRHVkg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T09:53:12+00:00",
-      "summary": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -81,7 +108,7 @@
       "title": "Meet the AI running a blockchain CEO's life - Axios",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3l6dzRKZEFPRUR6Ty1xNzBZUWRfWjlWOUh6TzNiTHFtOEZQdzlJSFkwQUl6eTNVdGFLdVhWaW10Yk5oeUFiU1ROVExKdG5ma0xiTEdjRTJXaEJTVE9CdFFoeno2OWpPNGJUUGVPdjl5XzduSEd0WU1FZFRybE5Ndzd5VDdrZnc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-20T08:06:17+00:00",
+      "publishedAt": "2026-04-20T08:24:08+00:00",
       "summary": "Meet the AI running a blockchain CEO's life  Axios",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
@@ -96,11 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Novo Nordisk Announces Partnership with OpenAI - Insider Monkey",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjMyeHdHY2luU2VFR2U1RDlSWWUwWFB5VW9FbTNEYWdjbWY0cnN2Zy1GS0E4djJKeWk5M0xycHR3MldBWUluODRmOU5NcFBrUGtlZVlvYzlMVVdqYWZ2OEdTbVBETk85NkpCRmxOU3FVZWpjZjR2RVlFY1NxZ0lHT0kzMjduZ0Z4UEJySEFCNDltWGhC0gGcAUFVX3lxTE9jcVRUc0EwME15Q3doODJGdVEycUpRcmotNWFvYnBMczdvX1ZTaHZUQ3VLcTJhRHZqMzdZTVFxRS1ZTkljaEhuUGQyLXhoZ3JvTjI1YlpCblQtTHhDZy0tZnd5VHNUb3JSbVNxT3BjOTlxd3VNSi1lMktPQ3U5WDd5MlFEQjdEU3pZUW5hb3RXOXVSWmlNek1HTjV6Ug?oc=5",
+      "title": "Novo Nordisk Announces Partnership with OpenAI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFE1b2VvYVpuendiMjNfeXQxUVM3ZG02blI0Zk5YVnNQY2FSRWNGaHNKRi1CTzNGSU9zRjdvVjc5Q1F1ZGI5QjZhbVI5cXc3ZFM2RFVxWjBHZS1ud196RTlETFhkenJhWVpRVXJPNl9aS3pYM3pHWWl3SnM3TURYeUJUODdNaTdMWlA0Ni0xcnRiMmUxNXJ5cmlEbGJZQ3NPUmljTTB6c1E3S2d1NXNn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-20T07:26:09+00:00",
-      "summary": "Novo Nordisk Announces Partnership with OpenAI  Insider Monkey",
+      "publishedAt": "2026-04-20T07:20:42+00:00",
+      "summary": "Novo Nordisk Announces Partnership with OpenAI  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-19T19:52:00+00:00",
       "summary": "Cerebras Systems IPO Filing: $510M 2025 Revenue & OpenAI Deal - News and Statistics  IndexBox",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Indian-Origin OpenAI CTO Srinivas Narayanan Quits, Plans To Spend Time With \"Ageing Parents In India\" - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1N3MmpPQkYzTFpxMFgwTUNvcl9PNjhCOGFfNUI5X3dMZ09MbHM4VE1kLXltNFh4NWxwVDR6cFFoOGcxOWFLbk94aU5xSWJ5R3BVclNTeGFYdG52YzBLcy10MjF2QWwyNTJvSFA2RE1XenBSWElhZ3JOc1MxUUI2c2gzRmg5aEFkdG85Vm1tX0d5VnhmLTRGUEhlRTh3b1hXSm1ESDVFMmYwRU1JOGxmeV9LNEo1ZlNqMjZmWnZ2dzNPOUJTeU9SejdmWnlJVjhubHfSAdoBQVVfeXFMTV9yNTE1UlVLYTNFdEJES2N0ZDI5eE5aY1l5UEdQVzFScTJ0eHQ5S2t0eksySDdDMWFhYnlhQWF2ZUNJVnRDbU1VTUxkR0VFS0J1MWF5cFZGMDRhc2dDUDRadWpSdFlBVDJoeklKcU91ekFwejhXYkhHWGhzWkQxUFd1eFc4WUFlbnpWdDE3T0JBVzlyMWRRSjRyV1RwU2REZ1FraUp3Ymc3STlnek1ZZXpWem9sZ1hRMmI4M0NnMzR2cG1tMUpfcnoxWjkwV052M3BWb2xRQjZpUHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-19T17:43:20+00:00",
-      "summary": "Indian-Origin OpenAI CTO Srinivas Narayanan Quits, Plans To Spend Time With \"Ageing Parents In India\"  NDTVOpenAI's senior exec Srinivas Narayanan announces he is leaving; says: 'Looking forward to…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI agents could pose security risks - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zX1ZFSWNKSS02Tm1mOG9weDlYS1UtTVNETmdmNE9DSk1zMjVPX2U2ZUNMMUJCcFdfWkhOSUkxS0VfRmZUd05BSHlXS1BWSXRIVXNLWmNIc2QzZkFBZ2h4cGJLbDl0bFBZWjEzX2l1UW84dHFaRmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-19T16:00:00+00:00",
-      "summary": "AI agents could pose security risks  Taipei Times",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "The Florida Mass Shooter's Conversations With ChatGPT Are Worse Than You Could Possibly Imagine - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kd1FtMnlpVVM5dEN5SjZSaE9UbGlHME11RC1yTldqNGJfWXBkNDVQUERuV0lZVUhIVVVVbzBfaHRsSEw0NzEtNGFsZC15WmNQem4wYVFYZVd0N09wUDdXTElYOHRfZlR2RS0zZjVyQ1pSbFJpWUNrYU9qSWQ0dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-19T15:15:00+00:00",
-      "summary": "The Florida Mass Shooter's Conversations With ChatGPT Are Worse Than You Could Possibly Imagine  Futurism",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
