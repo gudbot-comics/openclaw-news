@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T21:59:56.444250+00:00",
+  "generatedAt": "2026-04-20T22:55:14.427789+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -7,12 +7,39 @@
   "items": [
     {
       "title": "OpenAI CEO Sam Altman Says AI in Hollywood Will Get People to ‘Care More About Human Creators, Not Less’ - IMDb",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1POGNsN2gxQXYtS2w2ZkFmcElCUWx5T2pFMlJfMjlxUVkxUlNxbUxFWFY4NnRpWTZDOVEtMVM3ZnFGWTB0Y0ctQURmUFdXM2xSWnd5di16M1lmR3pWeS1MRFJfcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4MnRueEl3OGFJSlVOUlJVYlFFU3R1X2YydkpzV0psaDlCMVJuY2Q5NVlDeHBCbjVrbTdUNENSdEw4aks1bEE0eW9aS0NMdmt3aGE5dzBRYnVydVhwa3NZMWZpOFJwaVRXSlE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-20T21:58:23+00:00",
+      "publishedAt": "2026-04-20T22:25:47+00:00",
       "summary": "OpenAI CEO Sam Altman Says AI in Hollywood Will Get People to ‘Care More About Human Creators, Not Less’  IMDb",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Investigates ChatGPT Outage Affecting Users Across Multiple Regions - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LVHI2ckI5TEFzSjV6X0Q3MjlSdVNLeHN3SHF1clFOcUpadGwwVE9rQnFBSkgxZmRCMXlJV3AzRkVER2tzSmZ2T3pvckZfM0Qyd0hsVE1B?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T22:19:24+00:00",
+      "summary": "OpenAI Investigates ChatGPT Outage Affecting Users Across Multiple Regions  Cryptonews.net",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Is ChatGPT down as users encounter issues, what's the latest as OpenAI issue update on status? - NationalWorld",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYkdWd2NBRVdLMWFiV0dDeWZhQXRYblJNcXBoZWNwMzlFWmxjUUhnejdVNDVTUnRxZktkN1RLdTZBTjFFSy1ySG82Q1hfUERmd3FDMVBNOHd0QjVObGM2Q1Ixa0JFR0JzR0MzNmo3VG5kWXVkR0NWNDFkNVpsbkZHbGg0dDBTb2o5eV9rMEhfTG93dDFVdnNPb201QXR0QktvalBpZm1rUlI1TWtjaWZYc3ZTWG50UzVJdEx3U0IzN0hpcURRNFg5SXJnZGhxX1kxZTlhZkh5X2U2T04y?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T22:12:24+00:00",
+      "summary": "Is ChatGPT down as users encounter issues, what's the latest as OpenAI issue update on status?  NationalWorld",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Qualcomm stock edges higher as team shares guide for openclaw AI agent setup on Arduino UNO Q - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdndydlh3aUNJN01JZkhXUTBIbEtaYmV2SHNHM0sxZXJlUUdEQTdLRTI1ZFdfMFJiQzJrTGZFR25vWWpkV0FLWjFPaHc4aXZNUV9xb1VtaFlERlh6dFBvZGhiZFNfVXhsQm9hUGZ5eTJBQ2VabWVudDhjTG44dkpBT1FrLWQ5c0FpU01ldzhwVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T22:03:04+00:00",
+      "summary": "Qualcomm stock edges higher as team shares guide for openclaw AI agent setup on Arduino UNO Q  Traders Union",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "ChatGPT, Codex down: OpenAI’s two popular apps facing outage, what the company has to say - MSN",
@@ -24,20 +51,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Codex Chronicle captures your Mac screen to build AI context, with cloud processing and no encryption - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XcnBsbXJsNUhWREc3M3gyamZqT1B6OUotWkNfZzJrVjdSTGNqR241Q1RpeTdtUWZXYUpQLWdVNE9yS1BnWUNNNjZTajFiemNRSm1iWk9rREVzNTdjQ3lpak1NSGxud2xJZndteUM5UGtSVi1PRDNKaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T21:53:00+00:00",
+      "summary": "OpenAI Codex Chronicle captures your Mac screen to build AI context, with cloud processing and no encryption  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Amazon doubles down on Anthropic with $25B investment, mirroring its OpenAI cloud deal - GeekWire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmx0YTZwMEx3OEgxcTBManZReUR0VXVhNWdVV0h6QkZsWTZKbDRQLXVCTHRwai0xSk94SXFsVkZxRjhtRXFSa0prY25aMHpEMVYtdExzOThJNVFpZ28wZ1FfSS1FLW5yWkJuaUVvN3dhMFBJV2VvQmVJcENGSG1pV2Flb1dDMmFlWUdaSnJER1NkQmtNSU05TXpMRG1vQTQyUWV4S1JPSWRYR2dPTkNmTFAyR085Zw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-20T21:49:56+00:00",
       "summary": "Amazon doubles down on Anthropic with $25B investment, mirroring its OpenAI cloud deal  GeekWire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Is ChatGPT down as users encounter issues, what's the latest as OpenAI issue update on status? - NationalWorld",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYkdWd2NBRVdLMWFiV0dDeWZhQXRYblJNcXBoZWNwMzlFWmxjUUhnejdVNDVTUnRxZktkN1RLdTZBTjFFSy1ySG82Q1hfUERmd3FDMVBNOHd0QjVObGM2Q1Ixa0JFR0JzR0MzNmo3VG5kWXVkR0NWNDFkNVpsbkZHbGg0dDBTb2o5eV9rMEhfTG93dDFVdnNPb201QXR0QktvalBpZm1rUlI1TWtjaWZYc3ZTWG50UzVJdEx3U0IzN0hpcURRNFg5SXJnZGhxX1kxZTlhZkh5X2U2T04y?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T21:47:29+00:00",
-      "summary": "Is ChatGPT down as users encounter issues, what's the latest as OpenAI issue update on status?  NationalWorld",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,11 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Codex for Mac gains Chronicle for enhancing context using recent screen content - 9to5Mac",
+      "title": "OpenAI releases Codex ‘Chronicle’ feature for enhancing context, here’s how it works - 9to5Mac",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2xISk9ITjZnZjJUVWotZWZnV2otc1hxWEI4QnJFVVdzNXczVmV4cDJacG83cTdrSndJZW02el8wc3JJbHM1UkVvdFRwdVQwNTlCMEN0Q0VFTEcyVGd0aUJVWUNqMHRraEh2eDdLbHN3UEo4RGhRNV9mZ0FTYlNpc0hxRXVTclVtejZKRG5jeXNxbmQxdG1QY0dwZUVEeGhvTk5NNUlmemN6czRjakpiTQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-20T18:40:00+00:00",
-      "summary": "Codex for Mac gains Chronicle for enhancing context using recent screen content  9to5Mac",
+      "summary": "OpenAI releases Codex ‘Chronicle’ feature for enhancing context, here’s how it works  9to5Mac",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -168,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "ChatGPT was down for many — as OpenAI says it's 'monitoring the recovery' - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMald5bU5taWVINlhoUW9WSnBoM2M0Q0tseVg0ZW1VUUh3TEJZdEhYLWIwVGhseDNPSlJuNmZkQm9Mc1VCQ1hLZERlRVV1bTNRT1V2MWRoTnRTUy1OWG5OMEJIdG9Yd21FVWEw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T18:01:17+00:00",
+      "summary": "ChatGPT was down for many — as OpenAI says it's 'monitoring the recovery'  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Outage: ChatGPT and Codex Services Stabilize After Day of Disruptions - Morocco World News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWGhUc0lhTEdkR1Y5M1dFUWxjT3ZHc184djJBcDRqa3BpX1lhS1NwTnQ2NGtZQ3ZYWTN0Yi1rU0NxUWFSTE1ybTVrSnZoZTlxM1lSbGx2M3hkcWM3WmthektzS1VWWXY2REN0UE0tWFM2b1hwWTBzckM2cXd0bnkyVXJHdExXbFZZX2NBLVhfX200Vkp3cFlNSWNxeTJhREVNcmZ1ak1vS3owa1Y3bXlubWt2Ym91VVV3eVZLODVBX0Nfdw?oc=5",
       "source": "news.google.com",
@@ -177,47 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI Industry Shifts Toward Enterprise Focus and Digital Identity as OpenAI Restructures and World Scales - AI Insider",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEh1S0pmQVpuX2dlUU1vNzQ5ZnZvVDY5UkppdnlyTFNKN2xrUmJiZFhFekJVYUQxdG8yZ1VBYkRpYUUyV1VRRWl0QnF6clNoUTQwSm44TFVTZ3VldWJSeFJrYjhOTGwwMFo5dnpBVHJka3B0N0d6dFM2eFhma00ydlBhdEIzanZYbGRfMlR1R0tKVnMzRk5TUlgzbFJITUU5NGJadnVXNTJtMEQ3UzVrU01SQTlyRjJxUks5MTlnX2wyTDRSR3dIa2FNc3Y0OGJqU0NoZ21QQUc?oc=5",
+      "title": "OpenAI debuts AI model GPT-Rosalind to speed up drug discovery - TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS1dSbjNCUlMtNVdGYzJWNmIzRlZucU4wMzkxUkM5TjU5V0U2cjFzT3k0NlRQVG4yYU01RVNrUFBhVVJoamdGaUxPbmJPeGdpTUdERENwN21TYmtDUk5jN3ZBSl9GYVppTnBPV2cwVmsydnZuRWxpZWhYX1poU1F1ejd4NkJzQlJ1eGFrMGhzWGtSQkxmdUUwSG5Kd0Q5MTl6alZMdV9rcFBTanJnbThvV01FRXJKVmx2WjBCdFVKSUM?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-20T17:40:45+00:00",
-      "summary": "AI Industry Shifts Toward Enterprise Focus and Digital Identity as OpenAI Restructures and World Scales  AI Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Adobe (ADBE) Inks Partnership with Microsoft (MSFT), Anthropic, OpenAI, and Nvidia (NVDA) - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWG5wOWsxc3k5R09QaDU2Y1pyTHNwSXJYVHdnaXNRUHlzWXBaMGJYdXZtMTZSQ0NtWGRPTzdLeUgxYVlMU3NvMTBmclh3dFFWTFBfODkwWVowM0x2WjBBUDFVNW9ueG04OHV4REdxOUU2U3FXNTRKdUhwbHpxTkd6bU9BX1FtZGJ6clgxWk9LVzdKcHFDSnVlYmc3TUhic0R3VHZNeGN0MHBIUEl2LUVN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T17:30:49+00:00",
-      "summary": "Adobe (ADBE) Inks Partnership with Microsoft (MSFT), Anthropic, OpenAI, and Nvidia (NVDA)  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's ChatGPT Down for Thousands of Users, Downdetecter Shows - GV Wire",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDZRVGhrb3RYX3hJNnJZdW04SGNMUEk0cFB3OUdTZmxIdlVDeUxjV3pYc0NSMUo5eF9wMVFpTDlzemQ1SlpzLXBaOHJMdGwtc3lsRENHRXJEZXJOdW1QNmhtVnR2YmZoeHcyMTJVM2VyX0dobkYzYkJrMnNyWjV0WU16Vm41Z0h3cWhDTzV1Y2ZEdUJueDBaXw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T17:00:35+00:00",
-      "summary": "OpenAI's ChatGPT Down for Thousands of Users, Downdetecter Shows  GV Wire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How this company founded by OpenAI CEO Sam Altman is helping Zoom and others to verify human users - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNckpnWmJfTThfRXNLd2dvQUdPc0hGZzJHYkYxbWlmNUluekpyczkzZGMzMklKRVhGS3JqQ2ctc0Q5X1R3TjVUd29OZXN1V1ROWjBlX2NaUzlVMFc4dGlidDVrVjRidWxzbWVNSzJfMHhYTlNGNXJBNjFySzN2MTJHMU41TDFGZTFhUXZhNUcwNFRkV0tkU1hVTVNfM29oVXNVSWpUUkZGZEN1RjNsM1ZreWxsclhkVDA1aV9ac2JMS1BmYVJzWW1mdWw3aTgzOTI4dVBxaWYxYW1kZER2Uk1oZDh1dUhUNEF0NnUwVmtCWjB4QXBPWlJFUGJIMHE2Y25QV0xzY1N6U2Q2aHN5Y1HSAZMCQVVfeXFMTlhwVmdkZnMwMjdTV2Z3cE9Cb1RlS2dlOS11WWh4WktmS2k0QkY5RG51TVEyWDNENFZrTDNWZHlkRFU0VklxSE55ZlZjOXhJWjQtcnJUOTVqQXEtQXFGMHdCdlJjbEk2M1hSQnBUaDNQcEQ1UmhOeWRnbGl3Z2J5Q29HenZEMm9VenRvOTJnMnp2MGVDZ0JkMW1xcS1IRUNNYloxUHhaRTRIczFUVHQzZ1ZTeHZ0a0puRkgtb2tCbjBWMzhSbzM0VGtCYTRjZnFJR05GQTJOLUY2YXloR3RGNW9Wc3hHeGkzV2xoQjlmZEpPb09udHdmSjhDbnE5LXFHZ3JnbGhNZ2VwdDJVU3FQU0Jhd28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T16:43:00+00:00",
-      "summary": "How this company founded by OpenAI CEO Sam Altman is helping Zoom and others to verify human users  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "'Return to India': OpenAI CTO Srinivas Narayanan resigns to spend time with his aging parents - Indian Startup News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVk5pWVdUS3pFTTlXQVRlSmVmNjJhbDZNQzM1US1GTTdTWnBvZHkzMG5lV2ZoczctVEVkb3o4RkhhZjE3SnpTcVl0MUJ1eHNJWjNpaF9LUV83dW02RVh3cFhqQTF5SVg2WDlBa0NrVkFVVUZMdkt1UzR2X2hLTktUbHFZY0c0MDh0enZ0WllSQ2VBU29Bb0c0SGhaQmZTb0E0RnBUdmFrVlRoY0ZidEYydFBSbEQ0cmpyWk0tenhPNFYtOEh1b1dveUxHd0tqalXSAc8BQVVfeXFMTVZOaVlXVEt6RU05V0FUZUplZjYyYWw2TUMzNVEtRk03U1pwb2R5MzBuZVdmaHM3LVRFZG96OEZIYWYxN0p6U3FZdDFCdXhzSVozaWhfS1FfN3VtNkVYd3BYakExeUlYNlg5QWtDa1ZBVVVGTHZLdVM0dl9oS05LVGxxWWNHNDA4dHp2dFpZUkNlQVNvQW9HNEhoWkJmU29BNEZwVHZha1ZUaGNGYnRGMnRQUmxENHJqclpNLXp4TzRWLThIdW9Xb3lMR3dLampV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T16:42:22+00:00",
-      "summary": "'Return to India': OpenAI CTO Srinivas Narayanan resigns to spend time with his aging parents  Indian Startup News",
+      "publishedAt": "2026-04-20T17:42:30+00:00",
+      "summary": "OpenAI debuts AI model GPT-Rosalind to speed up drug discovery  TechTarget",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
