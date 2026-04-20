@@ -1,16 +1,52 @@
 {
-  "generatedAt": "2026-04-20T06:34:54.262198+00:00",
+  "generatedAt": "2026-04-20T08:37:42.984700+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI’s Indian-Origin CTO Srinivas Narayanan Quits - Inc42",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MNHhXdjJSczkyT3lCemtQNVVDeXFLV0dLYnBjWWhjZGgwbUptNENKblhodGc3V0lFQ1V5T2ZxNndUSHdSU25ueFJjTmNCaXE5V0FYX1paY2JabVlxaEFKX3pFSDhOcEo4d0VWNmtqbFhWZUJsUjJxZEx0Rlg2cHM?oc=5",
+      "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3pjLVFSbGItbWoyalpNUU5oYXRtTWJfUjczZ2FfNXpMZnZrRU1VSXpTVHpnY2xVYjZmVFpVREVPMlpRa3VMWHMxN216ZDNuMmFJbERIdThrd2hpVFVMTG5xYjJZSWtOVjNLcC1NQm4ydkFTUVczZ2dzUVZkNlI1ZXRHVkg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-20T06:27:06+00:00",
-      "summary": "OpenAI’s Indian-Origin CTO Srinivas Narayanan Quits  Inc42",
+      "publishedAt": "2026-04-20T08:37:04+00:00",
+      "summary": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meet the AI running a blockchain CEO's life - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3l6dzRKZEFPRUR6Ty1xNzBZUWRfWjlWOUh6TzNiTHFtOEZQdzlJSFkwQUl6eTNVdGFLdVhWaW10Yk5oeUFiU1ROVExKdG5ma0xiTEdjRTJXaEJTVE9CdFFoeno2OWpPNGJUUGVPdjl5XzduSEd0WU1FZFRybE5Ndzd5VDdrZnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T08:06:17+00:00",
+      "summary": "Meet the AI running a blockchain CEO's life  Axios",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Anthropic is Making OpenAI Sweat, But the Fight is Far From Over - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVlILUFvN0JtSE9ubE1PcFlCMEtUYnZFWExEVGhPaGc2ekNZQmdfT2ZJdzNDOVhjRmJsZTJ3blhNbkJBb19VZkhxRXRxR1BOUHVGYlF2MDB5c1JGWUJUSFZGZl90emRMb2E3Z1VkWUZuNEN3RC15WVhaUzBIek1uSVNJR3ZJRHY0MFdGMHFR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T07:54:35+00:00",
+      "summary": "Anthropic is Making OpenAI Sweat, But the Fight is Far From Over  Analytics India Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Novo Nordisk Announces Partnership with OpenAI - Insider Monkey",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjMyeHdHY2luU2VFR2U1RDlSWWUwWFB5VW9FbTNEYWdjbWY0cnN2Zy1GS0E4djJKeWk5M0xycHR3MldBWUluODRmOU5NcFBrUGtlZVlvYzlMVVdqYWZ2OEdTbVBETk85NkpCRmxOU3FVZWpjZjR2RVlFY1NxZ0lHT0kzMjduZ0Z4UEJySEFCNDltWGhC0gGcAUFVX3lxTE9jcVRUc0EwME15Q3doODJGdVEycUpRcmotNWFvYnBMczdvX1ZTaHZUQ3VLcTJhRHZqMzdZTVFxRS1ZTkljaEhuUGQyLXhoZ3JvTjI1YlpCblQtTHhDZy0tZnd5VHNUb3JSbVNxT3BjOTlxd3VNSi1lMktPQ3U5WDd5MlFEQjdEU3pZUW5hb3RXOXVSWmlNek1HTjV6Ug?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T07:26:09+00:00",
+      "summary": "Novo Nordisk Announces Partnership with OpenAI  Insider Monkey",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Kevin Weil, Bill Peebles, Srinivas Narayanan: Inside OpenAI’s big shake-up - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdGpBS0RXSDZUald6X2poMDMzR1Jub2tVcGxucVNrY09sWVdUdkt1YlFEcU5FQmVlcU9MeTBhWFVYREs0NElyOUlBb1Rzc3lHbHBMdTFTNzBSOVlsQ0h3QURTUF9SdHlHd29tOXFSWHE3TVB0RVpEMDBRbnhNZEM2MDJiRXNjLTFzNTZEdEFYY1ZScm9QR0UtN2ZQdGRZMTFPbFotdTVHdFVGZ3ByeE93dktWWElQb1RSU2Rua3Zqb2ROek1BakxacNIBzgFBVV95cUxNcWZESVhnQ25CRFZ4VS11MHpSTi1SUWJBRmhEcVlBOGZJamtISTBYcmJCQ3V0R2xmVW1DSlFSSUJBXzdHWGZGZkh6d0FWRHl6bjU2T0Q4eGxubWdVb1NzajE1b1B5Ykp0UnB5dTRPaDIzM0FZZzBWYU5UOWZNMDBTVjN1X3U1VnFNU3YzZzQyUFhwVThFbWlKaW1aRzFSVXJQLXBJRE5GZXZsYVl4bFNfakJycVNCVlo4aTNmcUpJR1JZSTBmRUdyUXJrSWh4dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T06:56:09+00:00",
+      "summary": "Kevin Weil, Bill Peebles, Srinivas Narayanan: Inside OpenAI’s big shake-up  Storyboard18",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,15 +65,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-20T05:48:17+00:00",
       "summary": "OpenAI Buys Hiro Finance and Shuts it Down: How to Export Records and Disconnect Bank Access to Protect Your Data  Intelligent Living",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3pjLVFSbGItbWoyalpNUU5oYXRtTWJfUjczZ2FfNXpMZnZrRU1VSXpTVHpnY2xVYjZmVFpVREVPMlpRa3VMWHMxN216ZDNuMmFJbERIdThrd2hpVFVMTG5xYjJZSWtOVjNLcC1NQm4ydkFTUVczZ2dzUVZkNlI1ZXRHVkg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T05:36:51+00:00",
-      "summary": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "IPO Hopes: SoftBank Is Going All In on OpenAI, But at What Cost? - Bloomberg.com",
+      "title": "IPO Hopes: SoftBank Is Going All In on OpenAI, But at What Cost? - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ181WDJrTXk4eHR4bTBFRGNfSDJIb0lVY0ZsSEtFeWJwNkgxcS1FVjJrb1ZjXzBma0hRVWhMS2x1aWgwYmtFQUNMbmVfN1dfNzhjZVVPeTFiQllSN0lkRjl1bEt1cW85V0dJREQzcW1mSzk1N2ZkMXlVR1FFVWtQTTZrcVR2WVdWc2E1cElPeUZaaUtUQmxqUDRZd3BzUWZyQ1RqclRaaTRTcFBGdFM4OXdlZnE4QQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-19T21:30:08+00:00",
-      "summary": "IPO Hopes: SoftBank Is Going All In on OpenAI, But at What Cost?  Bloomberg.com",
+      "summary": "IPO Hopes: SoftBank Is Going All In on OpenAI, But at What Cost?  Bloomberg",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -110,15 +137,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-19T17:43:20+00:00",
       "summary": "Indian-Origin OpenAI CTO Srinivas Narayanan Quits, Plans To Spend Time With \"Ageing Parents In India\"  NDTVOpenAI Executive Kevin Weil Is Leaving the Company  WIRED3 top executives leave OpenAI in …",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The $852 Billion Question: Is OpenAI Worth It or the Most Expensive Bet in Tech History? - primaryignition.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcDNkVXRHdHZRUHRmc1lZLWFxS2JRVUI5aThRbTJxOFVBWkpWUG1LZk8xMzQwRE1lZngtSDh2OW1qZjBNb2lYV001bjJNdXdPeG12eEVNQVkyZmZ6R0xraVdGWDRVZkhwTmxDb0U0LWJITC0tM1NCNFQzZ0NZUEJrYURpbWdmbDNXZlR0Z0pidkY2UHdJWjFPZjc2VmtfWDhReU9YT2lOdGNIWFZVRnppV1dfMG5TSlI4MjJvMjdwNUF3LWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-19T17:00:38+00:00",
-      "summary": "The $852 Billion Question: Is OpenAI Worth It or the Most Expensive Bet in Tech History?  primaryignition.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -195,31 +213,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Claude users hit by surprise cost hike as Anthropic cuts off OpenClaw access - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOR3l3SnNiV1ZUNlNhVGs4eEZUNGhtWGVqRlN2U0NaZGNqaGc4d1BybzZ5cmVPeXo4WXlZTWYxTEpNd3o3cGswQU1xdG1CazRNaUJzWVNIQXBpSTAtbG5nTmZZb1JsSGRmWFhaTEdnOHJoSmZTall2aGdSVXRmUzZSM2FFTE1pUmlicUlvYVZOMVRlZnIyY0FZSDk5VjlWYTdPN1FuM0VieDdpR2Z2NU1qNzk1VHhtUlNTeTlOeEd4bWhWMlhnR3R5bmh3YzZjcHdpYTA2SGUwY2pWaldaS3RCRWY3QktPU05UR3VPMHV6eHBVTVlaNmU5NENpWFRJLUJDZUFiRGc1WjRPampfdW9XTjRDUWZVRlJmQkt5Q3BMbFI3NWdWS0taYTFsemlQYUN6RW81Vm4xMnB4OUFEQTdHNlFSMmdGV2JJUmFqdkw4QnFONmtnX2tHdTF3?oc=5",
+      "title": "Anti-AI activist charged with firebombing home of gay OpenAI CEO Sam Altman - LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjRNV3J5c0hOTnBXeHFXQ0pnMFBqcWRWS1lGWDlSNkdnd3FYSEtJSldLdlYzSFRDeDNMVzBnOUdBVTNqdjNDSHFNbFJwUFBDVVp2enQtSVl2V2d3b2IxS3NRTmczc3FqUzk1d2JpNVZyWWdjVFprYkdSSERKZi1la1BVZkdUTHdneVdSVnVwR2Z4SEJUYjZWeHVISUgzbTBubmZZZFlJX01xNmtmLUg0eE53?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-18T21:57:32+00:00",
-      "summary": "Claude users hit by surprise cost hike as Anthropic cuts off OpenClaw access  MSN",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Ring-a-Ding Launches OpenClaw Skill for AI Agent Phone Calls - markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWZPaDV3UENkZ1BFVnNKeGN5LTBNOExXV0hMRWVmdGpvZ1RnMnlWSUQ0cmdOM2VLRlQxQmRXZThsRDFycEhXX2Q5cTlUM0JMNmMxUEthM1BXbzBMaDMydjItRU1jMEd6RU1iaXNTRzNBTVI1aFBjOXgxd0VoVUEtb2RUYXJJZi1iQ2hHN3RwbVczSmpEUGtRN1NQcEhWRFg3cTZ2SmJqVUswb1Vicml6SVhGTGhYbXMwcXQ4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-18T18:58:01+00:00",
-      "summary": "Ring-a-Ding Launches OpenClaw Skill for AI Agent Phone Calls  markets.businessinsider.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Ring-a-Ding Launches OpenClaw Skill for AI Agent Phone Calls - lincolnjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRzk4VnZsWUFZV3d1NERvMXlBeWJsSDRCN01udk5WX3lDak5mQThQUU9weWZGSktvTGJ2bW9Ld3dsQS1HekpJaC1hUkhZUldmdG05RV9SUW9IQkNMZ0VYYktmbEpMamtnZ1lXOWtuQ2E3a2RORzRUQTFkWlluanhLSmVOSzlnZ01ROExWZTd6YnFCVldRUU5MNGZ5SFNmcFY3bTdRVUoxc1BnRWF6cFg5SmJPZ29TY0tiTktLNmpMQldzZjlBY3FXSTJyczNSY2I2SHdJRWI0Q1dNRS1ZRFc3VEx2andMZlFaemt4aThMNDY2NGR5bUNxLUFUblNzNjktdkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-18T17:18:25+00:00",
-      "summary": "Ring-a-Ding Launches OpenClaw Skill for AI Agent Phone Calls  lincolnjournal.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
+      "publishedAt": "2026-04-18T19:00:00+00:00",
+      "summary": "Anti-AI activist charged with firebombing home of gay OpenAI CEO Sam Altman  LGBTQ Nation",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     }
   ]
 }
