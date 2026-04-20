@@ -1,10 +1,145 @@
 {
-  "generatedAt": "2026-04-20T14:48:42.387595+00:00",
+  "generatedAt": "2026-04-20T15:58:34.220985+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Is ChatGPT down as users encounter issues, latst OpenAI update - NationalWorld",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYkdWd2NBRVdLMWFiV0dDeWZhQXRYblJNcXBoZWNwMzlFWmxjUUhnejdVNDVTUnRxZktkN1RLdTZBTjFFSy1ySG82Q1hfUERmd3FDMVBNOHd0QjVObGM2Q1Ixa0JFR0JzR0MzNmo3VG5kWXVkR0NWNDFkNVpsbkZHbGg0dDBTb2o5eV9rMEhfTG93dDFVdnNPb201QXR0QktvalBpZm1rUlI1TWtjaWZYc3ZTWG50UzVJdEx3U0IzN0hpcURRNFg5SXJnZGhxX1kxZTlhZkh5X2U2T04y?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:53:55+00:00",
+      "summary": "Is ChatGPT down as users encounter issues, latst OpenAI update  NationalWorld",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Is ChatGPT down? OpenAI confirms outage as chatbot users report problems - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEpCQ2RMUUxiaktoMWJRUHhSend2YzhSNm9WVEtkc1JEcTIyTFAtUHNKOXMzRExySmR5SE82TGJfM3dlWjlZdFEwTWJzTFNHZW1mY3U4SGFDQWx1U3FoLWc3VkJhd1lmRWZPREs0bnF2ZE41aWg3OWFVb3FkRWYxUXV2Z3h3aExpZnRrWUNRZGg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:52:00+00:00",
+      "summary": "Is ChatGPT down? OpenAI confirms outage as chatbot users report problems  The Independent",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Outage: ChatGPT, Codex Down For Thousands Of Users Globally - Inc42",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2dUZHE2WFVhSWRpUElSd3BLZVRmRlpyWElWbGlOSUZfSjlEOFdPUGRVbjNkSUV5NjZ1a2M4LWlxUkh3eXR1bnJFUjNUQ19xbEJCdVBBaTBGSUxreE5Ra2hETU1mYVhvLVgydnBIQXdVNlg0ZV90NWNZUTRBdzFnQ3F5dnprZGhpZEpXSy1VRGtzdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:50:59+00:00",
+      "summary": "OpenAI Outage: ChatGPT, Codex Down For Thousands Of Users Globally  Inc42",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Down Globally as OpenAI Investigates Outage - SQ Magazine",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KLTRmZTQ3b0NxbjN2YWpHUnkwang2TEkzbGdGdDJFZG41ay1scnptT2t5N0dtazMtOGZ5c2dhWjNUclJXcHFXNUpyY2hMTFRHdXg1X1NXZUhMY0ZNZW5SYmhfTTJtUkJFcVl4WkhB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:44:34+00:00",
+      "summary": "ChatGPT Down Globally as OpenAI Investigates Outage  SQ Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT down for you? You're not alone, as outage affects OpenAI platform - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RdXZzS3FZSFIwb2pQV2FkS1J0N0F2QmM0Z0JjaEt6LVE1aWMxT1FLUVhpVlplMUcwNTVPZ1FOeEhCZWExRi1iWG9iY3NIR1FmMlZKV296bW9YVGVkUWFlSWNTMHUxMDZvNlBqSFFNVG4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:44:17+00:00",
+      "summary": "ChatGPT down for you? You're not alone, as outage affects OpenAI platform  Android Authority",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Hit by Major Global Outage; OpenAI Says It Is 'Investigating' - Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3pQYlp2ME9MQ3NiVmYxMGVMUGZZUUcyUVNyY2hUX2NEMVEtckV3cW1nRWRMdjBDMzdmekxnTGN6a3FhOFUyNXRKWVV2a3VpR2RkamdUWVJrd3VfbFJ5WWx4UlExMExDcU0zSXhDSVZzN3NfOElsY1FXem1lRi1BZEV3ZTJEemlpcEpucEJ2LVlPdkdvQmhkUjFVcDZldmdXenc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:37:03+00:00",
+      "summary": "ChatGPT Hit by Major Global Outage; OpenAI Says It Is 'Investigating'  Open Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Down? OpenAI reports partial outage impacting Codex and API services - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzY2YnFMejNiN2FCOXM4bWd1SUZhbjdyeldIOGFSbVgxR2FtUGhGMWJkTzJudS01SG9mWU5GZ1hERldEYnR3bnhSZDJMdmI5N3FMZ2xSSVA3VTdWMWE4UlFHanJnREJZSV9GNlAxZ0NYTi1kYTctb0RPT3BxN1E0OU1tQ2FrbGRjN19HV1J5MU9wLXZtNFBEekxzMGYyVXhObGp0OGRnRWZ4aWtYYWFMb3djOTVzdHdra0NxZNIBwgFBVV95cUxPaDBVMHFqUzFLdFMyWDNFdVczTldhbkUwdnRURmI2SUJBdGJaZXRrLXlqQkU3anNEcGRQNHlLcmRjRkZnX2ZDaWRkLWpnS2ZBZU1yQzg2dHh0aDF1QlB4UHd3bC1LblNqYjN2YnVKWUFfRFJoLWxidlJBLVpWU2ZaMmtIMVBmUlBHOWFpR3VyOGZhTVVPYWVZY2hEQjRVZ2lFaGo1NEtLNVNzRkRudktEeVNzRkNkbGxPUjdKMHBaRGpyZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:33:12+00:00",
+      "summary": "ChatGPT Down? OpenAI reports partial outage impacting Codex and API services  Firstpost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT 5.4-Cyber & OpenAI's Trusted Access for Cyber Programme - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVDhINzdTMkNVcnpnTEdKdGQzVllWMTV1YlNzY2xucUpzTjk0UWFkYnVvLUF4aE92REowLXZMTDVLaHlQZXhpdUNhZEFJVDNNLTNZcG9COVZsUGZCaXI1cFhrLWZ4VlRyVWMxOWduYjRuMU5tbUstaXpaVWdMUUd2b19McjA4YXdhOUZTbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:32:07+00:00",
+      "summary": "GPT 5.4-Cyber & OpenAI's Trusted Access for Cyber Programme  AI Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT outage hits 5,000 users: what’s really going on - Rolling Out",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40bnAzRHN4V0FQQzJNa1FKTkJjTUk0dnNuOHFySlY5aVdKZzJCb3JuUjZKSXZaVW9NOWFjb1NHanR4VmZlNzBudlFrTjBoZkhlU2xzSkVfREFxZDVfQTBfaV91NlV4Y1ZELUtsb3FkYXZlZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:29:55+00:00",
+      "summary": "ChatGPT outage hits 5,000 users: what’s really going on  Rolling Out",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cerebras Files for IPO Again. Its AI Chip Has Big Backers—and Big Risks. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUF9UMTZBbTNmVDZJVnhQVU84RTBRSmJFOURGNVdTdi0xNmduNDZzUXZxZ3NwQVJHTFYtUG8wenNfRWxSRlRVWG9qdVBGel9rRk9KcjFuZEc3T1VZRVJoRk51MnJSQWZJMGtiLTJSaTRaUFJLcVBKTjl4c1VDaF9nMWRYajU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:29:00+00:00",
+      "summary": "Cerebras Files for IPO Again. Its AI Chip Has Big Backers—and Big Risks.  Barron's",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT goes DOWN as thousands of users hit by mysterious error message amid OpenAI outage - The Sun",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR242WTRKcVdGeGxDR3lQZVdXX3h0d0szNHcyOXltVEViSV9HTWp5d1pvUExPUHY4RUE4YnZPMHFIQjExWmJuYXZDcmIzMnQ2UGNHbVd3V0RRTTZWRklfalZmdk1DcGpjaElpdjlPeVp0cFRCMHJjZ3dNbkstaXNlR1NJeVJlUS1VVkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:25:00+00:00",
+      "summary": "ChatGPT goes DOWN as thousands of users hit by mysterious error message amid OpenAI outage  The Sun",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT, Codex Down: OpenAI Says Investigating After Users Flag Issues - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmJueUNLUFpMdi1mYnV1N05ROWZqRmxjSEFTOFREOE00S2Vjc1hMT25SZzJpNzRnWXVlVUhUQVd4Yi1fMTBMb1VEakp1ZHNmNmFsMVlDcGlneE1mSVF4d2xOZERqQ3Q1T2UzNEFfMVJ0ajNMYnRXS3hqWGpwcnFSLVQyOEdwZUp5ZUQ2LVpIcDI4MUIwQ3NlNVd1WGVVZ3dFQmFsVlAtanRaa2xsNG1pcDA5cHNmQdIBvgFBVV95cUxQbER6b2JqNnQ5NlJ4OU5sYXlDOHdvQjMtVmlpTzkydk0xWV9fci1la1JGN1M4SjA1WWZnOS1nelA2NVBNTzVnSGFzdUwtc3o1aHFaZ1M1c1Rab0EzZ0F6TlRqQWg4V1Y2VXhNMDJyUDlLcG5fMlprbG5Zc1d6bFMzcFlaVExsTms4b2VET3B2Y29ZRzB4bXZ0SWtGbldXbHUtRWpRbGhIZk43aHhQX1pWR1lwa1VZaWFVanpFM0FB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:22:56+00:00",
+      "summary": "ChatGPT, Codex Down: OpenAI Says Investigating After Users Flag Issues  NDTV Profit",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anti-AI activist charged with firebomb attack on OpenAI CEO’s home - PinkNews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZENKYTlPZXNGaXo2eGx2QVB5T1pjOTR2SzlEUnpRTmpDaG00dlZPeGkyNlBkTlpsM2pnVHNKbVFSc09OclVsdzRjZnExbDFzYnRpcVo3RXNjVE5hUFlmc3EwOUJ1d2ZRSDJ4NGp6WWhfZG93bGNydUxoUW12SU9EQmU5ZkcxQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:19:06+00:00",
+      "summary": "Anti-AI activist charged with firebomb attack on OpenAI CEO’s home  PinkNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT is down for many — here's what we know about the outage - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMald5bU5taWVINlhoUW9WSnBoM2M0Q0tseVg0ZW1VUUh3TEJZdEhYLWIwVGhseDNPSlJuNmZkQm9Mc1VCQ1hLZERlRVV1bTNRT1V2MWRoTnRTUy1OWG5OMEJIdG9Yd21FVWEw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T15:05:39+00:00",
+      "summary": "ChatGPT is down for many — here's what we know about the outage  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches GPT-Rosalind, an AI model built for drug discovery and life sciences - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Xd1JjYllLYmdLM09UdFRwdlhqXzdxY1NuUlVZa0NWSFUzN1NlQ0hyS1prYXkzVFRZYS03UVg5cy1HVUpNM3dxS1RLazV4ak9VVlJyTFBqUWsyczl3bDdEZXVLaE9iNXhzQ3laMGZyR1M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-20T14:58:23+00:00",
+      "summary": "OpenAI launches GPT-Rosalind, an AI model built for drug discovery and life sciences  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI's ChatGPT Down for Thousands of Users, Downdetecter Shows - GV Wire",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDZRVGhrb3RYX3hJNnJZdW04SGNMUEk0cFB3OUdTZmxIdlVDeUxjV3pYc0NSMUo5eF9wMVFpTDlzemQ1SlpzLXBaOHJMdGwtc3lsRENHRXJEZXJOdW1QNmhtVnR2YmZoeHcyMTJVM2VyX0dobkYzYkJrMnNyWjV0WU16Vm41Z0h3cWhDTzV1Y2ZEdUJueDBaXw?oc=5",
@@ -51,11 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI loses 3 executives amid side project shutdowns - qz.com",
+      "title": "3 OpenAI executives are leaving as the company shuts down side projects - qz.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11eHRmQy1zazdkcENnN09udk8ySWdmNGJZWWx5UFJOVE1sWENITmFpd1JGS0hDTFZISU9LQnFoYWVPWXhTQjZYaW85ZXEtYlk3UlRQUTVJUi1zSFNxWVNrN0MzWExzc0RyVjIwSGRiLUgxQQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-20T13:13:35+00:00",
-      "summary": "OpenAI loses 3 executives amid side project shutdowns  qz.com",
+      "publishedAt": "2026-04-20T13:43:35+00:00",
+      "summary": "3 OpenAI executives are leaving as the company shuts down side projects  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -85,141 +220,6 @@
       "summary": "Samuel Seeff Hit The Nail On The Head When It Comes To AI And OpenClaw  2oceansvibe News",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI to open first permanent London office in 2027 - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVXhqRWlWNGZTUmMxZF9NVHNMdVprZklJbGV5c25NQW1IeHl2LVNUUjF3SjcyVUxpakFNTkVOdWJtTVhNWWxtd1l2TGhOc3Q5ZmRwN3BJZFMxODNWUGRiYWx1TFRic3ZCTDcxTGctVFd0S3JKUFJGYlcxTGlXNC1KSHpES2l2RXhWVk5KdUt6RTRmZjZsazg3RkpJWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T12:59:40+00:00",
-      "summary": "OpenAI to open first permanent London office in 2027  Telecompaper",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI boss Sam Altman’s ‘World’ gets into concert ticketing - Music Ally",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMVNpdXJObnhMZVNsQTlkZkpmM1VtbEQyWUNfTGdaRE1EYVMySXY2bmR6ZXNiR256TGZFaEdVRmVsM1MyeVdDTWk4VjF2bVppTE1WVW8xOUY4NTF2ZXAxQnl0WGNadEdMMDRXTHhGWmx4LURkWWpXQV9NRVlkcGVNQ29FT2FCZm5lYmpNWENkc2RrSWZCUGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T12:47:49+00:00",
-      "summary": "OpenAI boss Sam Altman’s ‘World’ gets into concert ticketing  Music Ally",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI: GPT-Rosalind Life Sciences Model Introduced To Accelerate Drug Discovery And Research Workflows - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUxTeDVMWnotMm1Gb1B5c2tNT05wSnd4WXI3WnQ0MGlDeDBDZmNXeWpwSEltbUZoNE1OcFM1WVZhMXNvWklrYjluaXEtdmo4ZC04b2RYc3dTRUk4UURkNlpDdzFfZXRmNFU5UVNTQUZIa2lGOFBaUWlHS0F0alJyLXowQU5xbjZoSmlXNjBlZHd6RE1JMDdDM1VHblFIY0xkUjhxMFhJRHBKZDI1MHdOaHg4TnZOaTNiRGRMdzhSa9IBxAFBVV95cUxNZUtpRFU3OXFMLWRycGZfY25EU2FZV2NQNzhMODdYUlhIS0tWVTVxR21WOVR1Xy0wQjlPdEt4eEphLWNrVFpRQzlNaU1JZWlleDU1QzNiaEQ5TW5LMG4xTUI5bVhscTVsRVFTbWxyTHdiaFBldXNJZDhORlBNdlMwR2tjdkJvbEp3ZmUxWUZoRmJkVnVPU3l2Qy1xXzU2dkRjN3pwRm04TjBET2FQR1U0SExrZkpZVVcteUEtSlZMUzd0M1Bs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T12:29:40+00:00",
-      "summary": "OpenAI: GPT-Rosalind Life Sciences Model Introduced To Accelerate Drug Discovery And Research Workflows  Pulse 2.0",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI targets workplace professionals as enterprise AI demand surges - hcamag.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNUl2T2FUME9sbXV1eGZBOXM5a0lRVTBEbnQ3V1pBYzdxZDlobHNKeURfR3BCNDBJeHFIVC15M1dtRHhwem4xWk1rVjB4enUzM1pVSmV1dVJVZEJ4SXM1NkRJenFsTXNPOG1qSFhoNTJIbFNDSjBGdmE0Ry1YWGtCU2UxdzAyY2drd1JXaGtqRjBwdU5abjFqOGJDRlYxcGwwSUZveHFwMzdGaWw5T1JMRHhCU0xoZzFqdGotVXlQRWNzeGFWWkNNN0RIcHQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T12:24:50+00:00",
-      "summary": "OpenAI targets workplace professionals as enterprise AI demand surges  hcamag.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's top executive openly criticises company's biggest rival Anthropic in employee memo; says: 'Anthr - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNXJrYkQ4S1ZxaGlTY0xET0sxWWtwR3U0cFpUN0h5cnU0UXFZYjZYemo0TDcySUtadUdXZnhDUVJDNXBPQVNBblMwUktleEQ4eG5OcnZoWmpZNk1SZGpvMVVYcHVxajFscUE1bGV4aHY5MzQwTGRtcHJDcFhUakhHSzJtOHZRVHRPQjR0UzNMWmdBMUdEZ044dEdSbWdyUmlFVmoydU81eTRZcGRRVmZZdjgwcDZoeXR0dk9XbXVOMEl5RWN5TGZVNWV3ak85aFZ1YkJJd296N2tfTDh2VFlNbFpaSno0SjIzZzFKdXlXVGRFT2xTRU44bWxiYXM5YkduX1M5R1JoR1J3N1hfQ0ZrUFJRQm1aYmZ1ZU9tQVhFWW9YOGJKOVJFTFlnV1VWVG95UHN4M2tjdWprOFFEZU54YXNGWDZDRHBKbkFqVk5HR3Z6QnRmVzlmT0JPaFd5Z9IB4wJBVV95cUxORkFWN0traDZMaHhIMzFXcm1qZE81aERBNWk1WVBKUUVqaEV5Z29KSFJQaW1rTFc2VTZ0d3lXdU1pQWVuY3NBZUttdzNFUnB0YUtYSTJVNXVWcTZweEV0SmZ1NlpucnFTYWlIZnZCUlN4ZXpNN1FjT2QyNkt6OU5VQWstNDVvOENQMkN2SHp4UUdQenpySDc0U1VBeFJzbWRBeWJZTmlrZXZXNl9qTDVsd2owRlc3alF0a3lZRTRaYWE4QVQyNm1ueDMxbERXNGwyN1BZWWxFYVlQYzNDbzBaNTQ1SGdxNUZYZnkwR2NJVXEtODhCeG9LaVp6QUxrZE9xMFJYTEQ5eXVjVjFVUmlfRWVqcnU1YjRkR0hPbDBZeUd6RFAyTU04ODdJa3Z4X29YUlBtY0V2eFdGZW9VUWI5Y1U2NWxDRjJnMkVxTjQ1aVBDOFctWjlVT09hWDd2SWFEMm9Z?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T11:49:00+00:00",
-      "summary": "OpenAI's top executive openly criticises company's biggest rival Anthropic in employee memo; says: 'Anthr  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "My OpenClaw AI agent terminated itself after a failed task - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMkJrcW5UUmpqUS1KQ2Z6clVadE1HSEk1ZDFXVUNYQ1N5WjRCczFIbjRwQ2VXMXNFZ1Fxc2plZGl1NXRaMktoRDFMam5mOXdGY1h2YXRJU2V0YjlrZGw4bEVJOEJmY2dkY1dMQVB6TFFicmt0Mmx1c3dPenpUaVJLV2xQaDU1UG9jU2pF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T11:13:35+00:00",
-      "summary": "My OpenClaw AI agent terminated itself after a failed task  Cybernews",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "UK Infrawatch: OpenAI infra platform stalls; £1bn altnet haircuts; Gamma growth plans - TelcoTitans.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObnVWLUdSeTdoVnd0ZlF4dkhldUZCTS1IeGhVbl9IZF9BWk9adU12VFk3b0w1R1gxX3A0Y0pNbXp6MGtsdGFiRmJYbG5ubEp3blpOYll4cGl0YWtiTVBUbFE5UXpyVG0wNmhidzR6bkJ0emZ4VU1xMk0tWlZpSkFZdHN6eDlKLVlkMWQwYm16S181bkNDcnp4VWhfblJzb3hWQjB2Rk9JcFpsN0QtT09Dd044WnU0VU9CMFFWVXp6Q3NKU24xYVo4cjNZeEZ6aXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T11:04:32+00:00",
-      "summary": "UK Infrawatch: OpenAI infra platform stalls; £1bn altnet haircuts; Gamma growth plans  TelcoTitans.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SF Public Defenders Say Attempted Murder Case in Alleged Attack on OpenAI CEO Is Overcharged - Davis Vanguard",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FUVoxZjdJYU4tVmEtQUtwRDFZWkN4SHQ1dkhkM1ozcmVrWWo3czdWazhoQ1pnYWFWS2haRXliallucXZ6UTFNTWtQWFphc1VFMHVVUHBxUk5JcDdSWUVzSllLdHd0SmROTzZqeV9QN2swdHlVRWtETQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T10:48:17+00:00",
-      "summary": "SF Public Defenders Say Attempted Murder Case in Alleged Attack on OpenAI CEO Is Overcharged  Davis Vanguard",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Sora Chief, CTO Announce Departure Amid Company’s Growing Enterprise Focus - Gadgets 360",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdE5Xc3AxVk5rTC1CQXEybFcwb1VjeEJpd1JhQ2xlbkd6VWh3TExMLUo4SE5hQTdVY0J0aDNmWmw5Y29KNWRmeXdXN0xHZm1fWHBjWFFyVnF6bnFvWjMtZUdsTTZieTdmQ0N4VmMxWjA4ZmNDYkh0eFB3SGpBLUYtRHlJLWxDSG55eXo4MEZsQXdJczBoYlBua3NHT0V3NEhILWx2bTZxNGNvTm0tQVlXYzgteUZpaktBQ2d6eVBjUE85TW5sdHJWMnhJeUZId3IwOW5mTE1VVm5uZ1VWalZwaUpYX0ZSZWRmSkY0Z0VKa9IB9AFBVV95cUxOaS0xU0lQZ2F6aC1HRE5jWWNsenJCaXFYNGVFTzFMOElUT1BiOEZXUEFiLXotYWxSTk9QMUYwNHVRTHBOZFQ3akNjUDdlY3dYOWlyeEktNUxGX0Y3anA5YU1tMms1R0Y5RW5iR0RkZTY5bnp2aktFU0o2Zndxd1lPQk9iQ3ptOGVicUlBQmZqbWg5RWNIeUxGNjduNGkzVGRxeU1IOXBJQnNRblViTWM5MjV6QlpMX2daN0s4MWhKVkU3R3FrVlZibVV1WThKSjRab09yTWZJcVYyS1BLZ3JPNHpRRkhsS3ppTjYtSUZ6MGIyWEZs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T10:07:14+00:00",
-      "summary": "OpenAI’s Sora Chief, CTO Announce Departure Amid Company’s Growing Enterprise Focus  Gadgets 360",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Backed by Peter Thiel and OpenAI, Toronto startup Biossil aims to give failed drugs new life with AI - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQamh0ZTVfMmpuX0VKbHc4LWxlVXU5SW5hNmlFZTlYNzZRNDJnWmwyblc5aThXTUxFbkY3RXh0cG1vVnVXaXZpOEZfd0FSdVY1NzdQMXgwdnh2RFBMOWhLV2dxaWNzanY1YndnYXpOUExnck53UF9FUWtvUmF2S01KclItd2NmclItUXBFR3d4elNwSnpEcVl3SFNIMWhNc0RkbUE3NDdNQzlyUVAtcDJNazRsRHN6SjQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T10:00:00+00:00",
-      "summary": "Backed by Peter Thiel and OpenAI, Toronto startup Biossil aims to give failed drugs new life with AI  The Globe and Mail",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Leadership Under Fire: Investors Question Sam Altman’s Focus And IPO Viability - Ubergizmo",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XYXE3TGxncWxlRTk4RHBDeFlUbkZtQ3BsU25tQVdVVDVCRzdVcFRDaWVkb0lpU2F5ak9TaFhOSlRUMXB1VHdHUzNIcGNUXy1TdXVCT1FCb2VJa3pWSVNmU3BiVzUwS2FKenFnb2U5M08?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T09:36:46+00:00",
-      "summary": "OpenAI Leadership Under Fire: Investors Question Sam Altman’s Focus And IPO Viability  Ubergizmo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s coding agent fails incident response, obscures active threats, complicates investigation - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM2lJU1lxZFp2WEMzeWt2Um8wVzFBZ0I2QVVJZDBPUThEeDlqNnk1dXFQWjI4aWt6TC1TbHhlRExHeFYybVRqWEFSQ3NMaDgyOUhTeC04aHRFcFV4SkR6NVNIaG92QU9VNGhKQ0hzOTJYdW1tOFp5NWRiR21NX0dtM3RR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T09:34:51+00:00",
-      "summary": "OpenAI’s coding agent fails incident response, obscures active threats, complicates investigation  Cybernews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How I Created OpenClaw, the Breakthrough AI Agent: Peter Steinberger (Transcript) - The Singju Post",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWhhNTdmUnhNd250R3VQQzhyY2xfMnZKRGl4V3F2NVFIdVV2X3Btc2lRdnRPNnhIVE1HQlh6OE1hZzBxOHVWTmtQT3pKekFoZWJyVjlYSVhuRjQtVHNBYlYxall2R0MyQ1J4ZEU4WjBtSHVWY2RjeTZqSFV1Z0x5S3VxWHdGMTQ1VmVDZnFFcGh5YnlYY0lienVlRFg5MzY2SHM4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T09:14:27+00:00",
-      "summary": "How I Created OpenClaw, the Breakthrough AI Agent: Peter Steinberger (Transcript)  The Singju Post",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI, Anthropic Highlight Revenue Gains as IPO Hype Builds - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkw0OUZtdkJRaXBZLTFWXzZKTTlQWHZ0eHdkSXVqanBHMXdZTVJWNG55dUJMOE5QUnZmY2RWTV9aSGhVSC1QQjZJekpMSXhXNVBDdm00dmxRcU10aUZDeUpXRzV0alJmQjBsWmNoX1pial9nRjhVT1cxWVJzazlGbF9UWk1XVFdWbUNhS0JDc3dhWkRlZXhXNGpfTHNGVk54SXVZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T08:41:01+00:00",
-      "summary": "OpenAI, Anthropic Highlight Revenue Gains as IPO Hype Builds  Morningstar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Artificial Intelligence NPC Market Is Going to Boom |• OpenAI • Google DeepMind - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUJtQ2ZjRFBGRGN5cVJNTWtRVk9MMnpSWWxUcDdKRTZtd0RQQ0JGN0t2Y20xVFFhNTdFeGszM25tNXJlUFN2YVdvendYN2NPRjRZRXhDSS1RVUh5QTVrVjJTMUNLQS16eXdvZWtVejh0OVpGS1BTQ0FsTi1TWldCNHZYRjdYRUxGblU2U19YMTQ0OVNtWDF2bmxn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T08:29:14+00:00",
-      "summary": "Artificial Intelligence NPC Market Is Going to Boom |• OpenAI • Google DeepMind  openPR.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
