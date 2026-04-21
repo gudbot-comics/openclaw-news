@@ -1,10 +1,73 @@
 {
-  "generatedAt": "2026-04-21T20:45:59.655450+00:00",
+  "generatedAt": "2026-04-21T21:33:08.395942+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Florida to open criminal investigation into OpenAI over ChatGPT’s influence on alleged mass shooter - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXFuSVY4YjRBcXpCY0xkNDhZVDcxZUpsZmhXNkI2ZUZXY3dZTzhfS042X3hyMHRCX2ZsX29ySHU4bHRrMjdaQjNfNjdvak1CT2s0Uy1MQXc0NnFkT3lYUXNqdEZFcTlRQWdTX29SbUpVUjcwcVZXT3JXRDktdGNEQkZ6cGQyZUhMYzc3Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T21:28:00+00:00",
+      "summary": "Florida to open criminal investigation into OpenAI over ChatGPT’s influence on alleged mass shooter  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman Opens up About the Molotov Cocktail Attack on His Home - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92S0Vzb2pKOXRkZktpUWtzbnR4b01PX3RDZlljc3lTOXhGVEJhWVhGWjgzZ1NhNXhFaGpOTDk4SXNZdVZia1RBaTl1emZ2WGxvbmNpS2VIQU5GZWt0QklOa1pXYWhSZm9jZ1BWbDRPR2lMNEhsTjRySUFTUEZXU0U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T21:15:55+00:00",
+      "summary": "Sam Altman Opens up About the Molotov Cocktail Attack on His Home  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Releases ChatGPT Images 2.0, Improves Rendering - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbndNVmRoODRqYmE3STNNVW1vcDBLa1RUd3VsZVdXZEdVbU16Y2UzTkdiMDFyOE9DZzJZRFpobGpJZWdOTUpGVlh4QXpPTG9vemFxV3lBYTVIY0N3YVd1MDgxX2JDdzhzZEd1UHJsZld3LUN1cTJkYklJNkRzVzZGS0hFLVVlTEhVQ19tcmtKcVdGeDZFRUEzZHZn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T21:07:50+00:00",
+      "summary": "OpenAI Releases ChatGPT Images 2.0, Improves Rendering  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Announces ChatGPT Images 2.0 - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3h4OUVvaG9mdWFja0ZLTHBzUzdLdnBjZ3FlY0NNX3pFWWp0SElBdGVvaW4ySFVwQWdkbnVrNFNrT055MldVLUNsbmxsTnA3WEtHNXlGOWktV0NMaVA1eG9pS3lZWWNZaTZXcExickt1a3hvaVczWWhmWXBreXJDbXdPSVBybEJJeUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T21:04:03+00:00",
+      "summary": "OpenAI Announces ChatGPT Images 2.0  Thurrott.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s New Image-Generation Model Could Be Your Next Creative Director - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTmxaMUc4OVZ2aERERUhLdXN1Q1piRFZITlQ4WDAwS1hJdFgwNnVqc3dOQ3M4bzJ0cGQyMFh1MlY0bzM4dzVSMi1Ld29IbGZhMWlZZVdjZkJ5aHk5S2I3RVE3Vlk2Z0ZKMm5zSXUwQzY3MzZiQVRMUlREVHlVVTdvQ0VlWU0yaEpOR3d3Sm4xWGJuTDZvY1BFWG5WblY0ZVFxVzRHUGxCZ1E4dEJSeHh5WQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T20:48:45+00:00",
+      "summary": "OpenAI’s New Image-Generation Model Could Be Your Next Creative Director  inc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is coming for your presentation poster with Images 2.0 model - FlowingData",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0t3cjN5bE80QkpiaVBrSlN1d3NSUWd1cUdVcGlQVnZrOExOZUEzeUpuUklETEsxeU10WnQ4RW9Gdkc0Y0VISHIzTXhjM0p2dWl0SGI1dS1NMjVpbzRtQ1dQVy1mbndYenl4bnJ1cm83VENmRFN3blB2SVg3V2F0V3NIQWJvck5IZ3JwaDE5VVo5VnlVX2V4cU91aTQ4SW4wWVZfcHpR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T20:47:40+00:00",
+      "summary": "OpenAI is coming for your presentation poster with Images 2.0 model  FlowingData",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Agent orchestration - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2ZkUGw2alJOYl9kNFhSc2VjdEx3Q2dlYS0tNE5ZWEZMX3pHWVBKdjdvX1FNTFNYTENOMDVyWTNNUkZNZm93a1ZyZHIzSkJoSHF3eXA1aE13SlBxN24wbk90VVpCbGxOTkVZZGdrU00zb1hyVG41bWVDUTVaZ1pOR0k3bDZlU0RUa1hKX0pUNXprZHA1M0RzTFRoam5Pdnhl0gGmAUFVX3lxTE5IR3c2M3dxd0o3WnQ0a25YcFJWRGhQRzVuODFHdkg3NC1RRG5lazRtRWJyb1JaTUVVRGF6OTBkcUlvZk1BaTg0TEN4MzNIZGxPZXQzdmc0WTIxdzZlY1FJaUZXZzk3THNjSW9mWkh3cVNydGo1OU5sRXhPOWlVX0dUd2JCTXNObExkZmlPZVNBckUtUmxydFpmRU5kc3F4Nm55T1NKbWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T20:45:00+00:00",
+      "summary": "Agent orchestration  MIT Technology Review",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "OpenAI Unveils New Image Generator to Usher in an AI Slop ‘Renaissance’ - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTXppVlpRTTl4bFpqdlFSdnFoQkFwRjc2dDkzWm83MUFQblJoMklWd1lmejBqNmdkdG9xS3dzYlJWamhBcHU4OVI1OUEyT3FBNXNUVEVpYkN2TWo5WkMwV2Z3ZFByVkhra1FucGF6eHV3SkFGbE85aERIUGdac2syRUNIaXZFMzY4bGZYcGZGbzF1MU9DOXhxTWI5N21qZHJpUXc?oc=5",
@@ -20,15 +83,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-21T20:38:20+00:00",
       "summary": "Florida launches criminal probe of ChatGPT's role in mass shooting  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI releases new image generation model with complex capabilities - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWS16eXVFTHJtemxpTm1ORG5aaS1RUXZWcGlBS3V0dnAxanppanY2bHNmYTA2ZnFYY0l0ODBCVHNqQVRsaGMyeXBXYkdWUnpJZktmZ3NqYlktSG45TFkyOGt0UTI2OUJSN0RFcjcwSmVtWmZ0a1J5b2I3WE9sVXFZelJLbkFMVTVsNGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-21T20:36:28+00:00",
-      "summary": "OpenAI releases new image generation model with complex capabilities  Sherwood News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,11 +105,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Florida launches criminal investigation into OpenAI over ChatGPT role in Florida State University shooting - WPTV",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU0ZKQjBRWm9aU01UdXh2THM4MEZaeWRjckNDUDhqSXI5SkpRYWV3TmN4MEF0azdzb0FRYi1WQlBGd2F4SDc1WXhRMEJjc2VRb09OLXA3bUN4YVJHdElpWVZTSHg1QzhIeFJERW9hbWIxbjNWblNYUnl0V19oeWtwbFJ3YnZvdTdUTk5PUVNBSzladWowNGo5a0I2UzJtcEtPbWU4bkdkSlE4SllVYjJUaDlsWF9JTktEZjBqenhGcHhHSldMeVowMXJMa3JxZWdJaHBhNQ?oc=5",
+      "title": "Florida investigates OpenAI over deadly mass shooting - Mashable SEA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTE1OQ1VSRlNnS2ZuSEZOZ0lBcDNFaWdBWnQzajYtU2tDQXE5ME5lNjhOTjlHUDg3S0U0Wkl1a001QndfYlhjbG1rSkFiVDYtU3J5X3FrVUY4eEdqZHY2MVBZT1ZRcVhKeTF2OGZiaFN5c3ZQeW5Gb3MxM2hkamNXQVNZQUgwcmlLTEpMTW15bXhUN3k1MTNPZUV6SUdrUFU?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-21T20:28:57+00:00",
-      "summary": "Florida launches criminal investigation into OpenAI over ChatGPT role in Florida State University shooting  WPTV",
+      "publishedAt": "2026-04-21T20:29:49+00:00",
+      "summary": "Florida investigates OpenAI over deadly mass shooting  Mashable SEA",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida launches criminal investigation into OpenAI over ChatGPT role in Florida State University shooting - WFLX",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRWx2b0lMTnUxdmRfWmJZSF85ZlFqT0JkbmNFUlhwTG9IY3pDemlUQ2haeUEzMl9jbDN5WTRHWmhRNU5qdzY2R0JnVEx4Sy1QV2xBRHZTMm54YWJwWmxfNXZRU01nUTJMQ3I4YmU4bHJINkpPMEF3LWZ4dGFoRlRScWxRakNkTEVmNUp2NDlIZ1dnellSSFI5ZlVxYWhrV3ZwUUdrSUhKUXZUSEpCSEstaEh0bHB6bUtyWV8zZURPaS1ESzRtM21aTWxNZEFGeEEyRlHSAeYBQVVfeXFMTmVLdmxRMDd1U0hDU3BtNk56QTlrS1ZSSXIzZ3JnaDhQV0RUSDNLaldmZ3YtYWZYUDV3aHJyZFJ5bEhkeWNqT19jbEczZ25JLWx6bE4xaWpfUlI0Y1pyUDh5cFI0OWRQMUJ5ZlprcGtHWXJpdmFkbDJPQmFlSGVrdVM1Y2FsLTVjQlExUm9JSE1MZUJ3VHlHaDVycGZlNzhzY2hPNV9lRGpFRnFMWF9wYnRNQUtPTXBtbFFFMEgzMmdUNzJxNWVSbGZUazBIaHF1VlBaNXZ2T3N6N0RLYlZMNWJNRzY4SWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T20:29:36+00:00",
+      "summary": "Florida launches criminal investigation into OpenAI over ChatGPT role in Florida State University shooting  WFLX",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,15 +141,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Florida attorney general launches criminal investigation into ChatGPT maker OpenAI after deadly FSU shooting - news8000.com",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQQVppZTJzSUhvVDJmM3M2VlNreVd0NGdudUM4eng1czJON0cwMTdjOVdKV1JsVmcxdzhwb3pYaEtkQWJLYnc4ZC14SXhfdUhTY0gxWkRGTTUzSmxKT2pRTl85UTF5dTF2dTZ5RTNKYlJnQW1UVktST25Xc2dPNzY1SWZ3dGEwN2NwNHQ3ZlI1QWlwMzBXOTRqdnhFTnhnb29oRXpOTWhscG5YMktvVkRZbVRCejBldjNTRVNQQXNjdXhKOTc1eXl3RXp1Z3J4Nk4xb2pKb2VuXzlfbGU5MnRqajktMUV0SDNvOWpGcmtnREZOYUVVa01pZ0ZTdEJnN0UxNG55SldrTng0V0I3LXRkQnV5UlNCTEZPczlCVmtEVGc4Uk5sTFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-21T20:10:53+00:00",
-      "summary": "Florida attorney general launches criminal investigation into ChatGPT maker OpenAI after deadly FSU shooting  news8000.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenClaw AI Agents Begin Gaining Access to VPN Connections - CNET",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeHpVc3VhLUcwbEpQNi1TNnhNeWtpSXZIakdWcXRHanRsTS1zb0s4S2ppWS1oUEczVGk5OUdBWk1uczZVbUJVTmctczNSTUx6ZVR3dDVjSHNTYzk2WTVwa3lSXzhnWVdSRTBrTlVYSFZobDBFT0ROcGpRVlFpaUNhQjhvMWptUDNyZm9LdEFuNEJqVzQ?oc=5",
       "source": "news.google.com",
@@ -96,11 +150,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Florida AG launches criminal investigation into ChatGPT over FSU shooting - WYSO Public Radio",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3RPODg3TWlXUmY2QWVJbmNYWjBTS1R6Ml85YnlFT2phTExMMkxRNHcyd3VuU1hHMVNKT2VNN2g2eHlDWV9vVGp1Mjh0ak80eTBCLVBFdVh1RDhCZ2k4QTFzTEs0YTh0VVV4S1c5Q1VmY1Blc0xpTFFwTUFjR2hrby1GcHExTXZUV0QwMXZXMURzclhwZmpkYmRJMThvT3d5LUFYNHpXSnhnb1cyMmZERjRMcm8?oc=5",
+      "title": "Florida AG launches criminal investigation into ChatGPT over FSU shooting - NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVEhGcnJqSFRqaHFjSFZ3YTNZcmtxX3FYT2tvSmVvV3pXYlYzdGRCcl9Bdl9xcUNpWGs1RWMwTGItWGVfRWNWQmNpZ3VxMVhBY0FnYVdhOHZDRnA5cG5LVmNlQXRVLUh5Y1Y2S2VUZlE4RDQ4dEpOUlFqbU1yYml2cXdLMmlWUC1uRjBSVks5anh6a243Rmc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-21T20:02:00+00:00",
-      "summary": "Florida AG launches criminal investigation into ChatGPT over FSU shooting  WYSO Public Radio",
+      "publishedAt": "2026-04-21T20:02:06+00:00",
+      "summary": "Florida AG launches criminal investigation into ChatGPT over FSU shooting  NPR",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -110,15 +164,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-21T20:01:36+00:00",
       "summary": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"  Ars Technica",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's ChatGPT Images 2.0 thinks before it generates, adding reasoning and web search to image creation - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWN5T2MwVGF6d1JyZ294SUQ1TXJxOW16NC15SU9OeF9uNW1aRm9jNzA3X1N3ZWZmV3BMTzFQNEk1M0dwcUFaWjFWRHhKNnFGYmVQM0ZITjdiYWNxLVBqOWRtRHdiYXlOeGF2VEFza2xvNWt2VUYwOUtWVUZWM0xITWhfWlRVS0E5MXBEMWEta25ydWdfbzlwaTItcy12Nkg3OHUzcWluOWpTRC1OaVh2bjZBRTdMNmxnOFJwQkN1Z01jTmZ0TDFF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-21T19:57:50+00:00",
-      "summary": "OpenAI's ChatGPT Images 2.0 thinks before it generates, adding reasoning and web search to image creation  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,65 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI’s ChatGPT ad strategy comes into focus in leaked StackAdapt pitch deck - eMarketer",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOEFrMmgzR2htTlVybXlwaHdXbWdkTkZkeEhXczhRTjhGSmJDaWZFdmJCcHJ4amtMcEUyRlJlOF96NWNDSk5MVHBhQ2RRd3B6NTNsRWdMc0picDZRZWVWX2RldExQMnZZRmowUTY1UjN6NFZDZmFqSXN4ejBRcWMxOElGbjNROWZCRlFnam5BQkkzNGdWNHZoQ0hyUmxpVVRFWU5WRnpB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T19:46:30+00:00",
+      "summary": "OpenAI’s ChatGPT ad strategy comes into focus in leaked StackAdapt pitch deck  eMarketer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI launches ChatGPT Images 2.0 to rival Google's Nano Banana 2 - Neowin",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHlDSTF2ckVVRm9Md0ZPdFFkeUFzMEx1M0Q2M3ZzVGFvV01KNWdHakZDeGpFZnR5bkRQSWsyS1BlTDRPTV84RlJkZXNGVUdkLUpfLWZRQWlpMkRQQTNyQndLUWZTOFhudWlpRmpGSjVlTGZnRE90X25INDJFZ3RYN084VlpPU1BFb0EzdFRtOXBYU0VUaEd5StIBlwFBVV95cUxOV3dUYkhfVDZjRUdLbF8xblh5VEFSZ05VNWpEYmpxVEdOSUdCNk82YmZlOUxKYlYzeWl0YXpMS05qSzBrNjRzZXczMGh3ZGpEb2pIdHJWbWo3bF9hbnFwWklJeGFqNm9ZS2QyOXhmZnYyUHdBSnJWQVhlOUdjTndmNy02Q1V5ZkM2RkVPeHNmN05RcGx6NzZJ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-21T19:46:00+00:00",
       "summary": "OpenAI launches ChatGPT Images 2.0 to rival Google's Nano Banana 2  Neowin",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches Images 2.0, allowing users to generate multiple images at once - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMjFjVGl3REZIcklTWXF1OHlkZWFXQ1pnSlVSRllvaDJNbHNVY3dtSmVfRjVhdEJOLVdIRW8wLTBHeUUwcVUzNG12YWhpS0RrRWlJSXI0M3htRkVFcFB2RWFTaGUtRkZUWkpJek9JRlA1dUdRaEktcUtxc1FpTEF6M1FnQ1AtdXFGTUZGTF9jQzZSSmsxWERWaDZGUWh1MFhBWDUwSzk3SGROTkU3Rjg5bjNJdzQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-21T19:32:11+00:00",
-      "summary": "OpenAI launches Images 2.0, allowing users to generate multiple images at once  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "‘Uncharted territory’: OpenAI investigated over mass shooting - The Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON05QUnBGTWZlT3pmTURadHc1R1RGZjdXSzFuSHVROEtfenYwSGJFajdaekRmbEMzS0pJS0JKYV9HNFFvUUVyQU8yMWxpLTBHTUZPSTNUTXpoRmVTTnBvVDByeXAyWUdnTldFWVhKMFprNWdVMFEwYVlaZUw0c2xZSXBKaEdUSXNNc2d2V2hwbmFER2pieVU3enl0ZnI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-21T19:20:17+00:00",
-      "summary": "‘Uncharted territory’: OpenAI investigated over mass shooting  The Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI faces criminal probe over role of ChatGPT in shooting - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQzhxOThXRDlYNWI4TFJ2TFlsQlNhdG5kVm5Ta0M1YkxzLTdyNWcyeHB4aHlsWkF5TkliRXY2eDVWZ2NaeTQteGhzaUFBVzNLN1NNYzE4Y2FwUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-21T19:15:34+00:00",
-      "summary": "OpenAI faces criminal probe over role of ChatGPT in shooting  BBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Florida Probes OpenAI Over ChatGPT Role in Shooting - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR19xY0QzMXJYclhra21Tem5fZ19XWEx5RXltZ2ppc09jREU2NlBQTXEzT251UGZyZTV4Q3Y2blU1cVd0aHhQcjUtT1ZBLVI4Rnl4UHdJQ2c5ZWhBbURpX0JqNmtpUlF6OHM2dFpYdVRmWUgwakd0aGtSclROTnZVekhEUXFDOTd1QXlNU3E0Nm5nU2o4ZVlmQw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-21T19:15:34+00:00",
-      "summary": "Florida Probes OpenAI Over ChatGPT Role in Shooting  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Uthmeier expands OpenAI probe over FSU shooting, now criminal - NBC 6 South Florida",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3dnckw5M2JzSWFuSERHZTNvd2NpTEg1NElFU1pfSXl1LVd4WXZRWkRIeE1PdE54NjZHYkdEWl9tMGdHd2Y3Wks1YnF5bHo0dUVHdjVyeW1mdjVQUElOUnJoNGgwTjhncDZ5RU9aYUZxcjk5RzNaNWNKNklVZ0c4ZDBiMUNmQmxlYmxnMmNVOFRiWm11a1QwMnRudmRMdGxQb1hUN1p3X0bSAbABQVVfeXFMTTVHbWhRMDJDTEtvNDNDbktKVklvc1FTV0RnRzhJUTRNQmdOZE83Rm5JUXNXbHh0d1lnTkZYd0pnVUF6WGNXaTF5RDYzbllnWER2ZTh3ek5pS2kyMGdJdUxvNTZWd3M3X1dMbEJDWUoyUFRnNVNnVkk1bi10c1lLQmk1M0JPbmJYRlhVYjVLUlA1RkxDeFVEYTN1eUFsQldLNFVWcFdJYV8yZ2ZOeWVoVHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-21T19:08:13+00:00",
-      "summary": "Uthmeier expands OpenAI probe over FSU shooting, now criminal  NBC 6 South Florida",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Consults With Accenture, PwC, Capgemini To Sell Codex To Businesses - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa0dnVzk1SkItcW5iV0Nvb1REdllXY25VeEtMWHRqZnFWV1FJWmg4TWVTZjJOT3d1VzRUOERnVjQyR21BSWR0THJTQUJnSEsteXZrRFVpbWtVV3c1RDVwdk95VDE3QmdfbXgybkRVWG1QSEZ1VVlHbndKV2IyZTQxR2ZrNTVWMDlFY0pNemwwMVhSRERrNmpYTTZnZ2cxX0ZyMm8wMWdrNXVGRjF2cDdiZGplcnFQYl94QmNtZ0pXWWlGMU1JUEo1TERvLVVCRmtlSlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-21T19:07:39+00:00",
-      "summary": "OpenAI Consults With Accenture, PwC, Capgemini To Sell Codex To Businesses  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
