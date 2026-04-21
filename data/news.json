@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-04-21T04:19:45.554624+00:00",
+  "generatedAt": "2026-04-21T06:15:42.398118+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI accelerates life sciences research with a new specialised model - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTRTUEpDVko4Xy1xUjFPcWxtZ3dCTHpiS1YxbmRkdnl4b0JUbHZ0NW1uaVhXX0xCTUtrb01OUEY4MVE1aVB6LWdiRGVJMlRqd1lFQ09IQ01EVVRqTjAwRS1HNlluY0UxT1p0WjhJNU5DLWMySmV3VW1kYTloQS1NR3YtS2UzcmpHb1E2dmR2TGtnZUZENHp6LWVJSkU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T06:00:00+00:00",
+      "summary": "OpenAI accelerates life sciences research with a new specialised model  Digital Watch Observatory",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Strongest Competitor Gets $224.9 Billion Additional Investment from Amazon - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5X0M0aDFEMFVUYmFOdEItc3RDZGRLeFZoQWVyeVNUeVQwSS1leDRUSE80b09fT2NhTTBuak5ld3BPcDdOMkRoUmNFNEpoTjNwSGNV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T04:50:36+00:00",
+      "summary": "OpenAI's Strongest Competitor Gets $224.9 Billion Additional Investment from Amazon  eu.36kr.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How Does Bittensor’s Decentralized Approach Compare to OpenAI’s Centralized Model in Scalability and Performance - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjBmTWliQkFmdlUyUm51VU1FT3BxQklsWGduN1pJdGRYcURiTzBnNmNCV0RORXlRNjNYMkZ5d0RSSUhjVlI1SHB5cVhGT2tkNC0yN296VkJKVTBjbFJxNUFTMmNNVEk1LUZ6RE5rMXJoVy1rVTBhS3ZZZUZpalptdXU2UG9wcjdvV2hXb21rem1IeVY3UzIxUlRNN2U3aUN3QnpkcDdEYXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T04:27:40+00:00",
+      "summary": "How Does Bittensor’s Decentralized Approach Compare to OpenAI’s Centralized Model in Scalability and Performance  KuCoin",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches GPT-Image-2 with near-perfect text rendering and twice the speed of its predecessor - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWxEX3JubVN2MUc2SXRzaGpCQTNUNG5uMGFON0NIYlY5SnRGWFBVQXhsTS0tYkd6VXhNR2Q3UXh0NmJPQ2trSjFXZVRiNmxwTlNMazFBLU96ZFUwOE04WERCR3RqV0VUb2pPOXM1bHZjYl9tWDV0aW1XMVE5SzM4eTBmcFJ2T3Q1YXZsLU5FNGx1VEl1Sjd4X0ZOZWxPSFhaZEJwSGZjbWVtYk5zdHViRXJKZ3NDT09Zam82R3p0VXpENUR4RkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T04:23:09+00:00",
+      "summary": "OpenAI launches GPT-Image-2 with near-perfect text rendering and twice the speed of its predecessor  Startup Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How OpenClaw turned into China's next big thing - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNF9ocE91TG44S1VnZi1JNW1ZTDJ1cThwVC1tbXBWSjdYOHRBYmxvR19hUlFKanVoTmlMQVcwd1hRN3VwbjBBVWQtTXZuM2phdzJ1ajNqM3B6VjZpVVdua2dCM0NFck5qNkJvRGN5TWdsV081bDkyZGhxOEJ4VzNWUE9seXRmTm1LOU5SUTNOaUEtRTdUUG5xUHE3ZWxDcUVKR0NKQm90em9IUC15ZlhKSHV4ejVRaWUzSXJ5b00wSWxKck0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T04:21:47+00:00",
+      "summary": "How OpenClaw turned into China's next big thing  MSN",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "China Has Raised an Army of AI 'Lobsters' With OpenClaw - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2RUOFV1d2FzazJxdTlhWW5FdHpZQjhMSDZDODA1dU5oek5iUjZaLTRBWl9rTU1lVXJKTHYySEx1VlBqRUdZaDFuSk5md2ViTnVfYldEYTNjamtPUjlpa0lWSllxRURKZ3JGYTNfT2E1SzRWYno0eDM5Y3VZMnF1OHRTeWRFNDM4MlNqVDV3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-21T04:08:11+00:00",
       "summary": "China Has Raised an Army of AI 'Lobsters' With OpenClaw  Business Insider",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "How OpenClaw turned into China's next big thing - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTnZyVUFOTkNfNWxORC1RY3BhdlJ5em1QVS1NT0RLNHJFZWVNMzlGR0dUY1c4UVQ4aWZaRkM1ZGczakU1djU1TW41LWIxaDB1N2tyRGZIZmZzSThFZkhUc1pRY0l0VUtNcWx4V1NTWVFwM2NXT1V2eXJmS1dwZl9fRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T04:08:01+00:00",
+      "summary": "How OpenClaw turned into China's next big thing  AOL.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -33,11 +87,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Builds Ads Business to Monetize ChatGPT - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2JkZk50V0lXb0pORGk3b0dnOVZYM1c3RkNySVNjaExyQmw1NXdEMTExUXI4X2EyU19BV2hNbHNDZFVUSU5qQkN5VkdySnRjTnFzZFV3c3Z6aEdkeEtPSURPVHNlMmJiMjZ4SlJ2SkRNUmFTWWpmNllkajFueUo3S0NySWZlV3hpQkgtTTEwaUZtZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T04:01:00+00:00",
+      "summary": "OpenAI Builds Ads Business to Monetize ChatGPT  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Is ChatGPT down as users encounter issues, what's the latest as OpenAI issue update on status? - NationalWorld",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYkdWd2NBRVdLMWFiV0dDeWZhQXRYblJNcXBoZWNwMzlFWmxjUUhnejdVNDVTUnRxZktkN1RLdTZBTjFFSy1ySG82Q1hfUERmd3FDMVBNOHd0QjVObGM2Q1Ixa0JFR0JzR0MzNmo3VG5kWXVkR0NWNDFkNVpsbkZHbGg0dDBTb2o5eV9rMEhfTG93dDFVdnNPb201QXR0QktvalBpZm1rUlI1TWtjaWZYc3ZTWG50UzVJdEx3U0IzN0hpcURRNFg5SXJnZGhxX1kxZTlhZkh5X2U2T04y?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-21T03:47:29+00:00",
       "summary": "Is ChatGPT down as users encounter issues, what's the latest as OpenAI issue update on status?  NationalWorld",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "IPL 2026: Google, OpenAI ramp up spends as Delhi Capitals, Rajasthan Royals deepen AI partnerships - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZTNCRHI1ZHZKZFlLdHo0VURPZVJmeDRtRjg4LXdnSjNvNFZPSXlGU1ZoV1BnQTdUNVdOTHdHdjR6Zksxd3NaeEkySDIxa3F1RlRZY1EtcGdYS2hnNEZFNmlfU0k1R0FmRy1abG5kZU9yYU8xeXhFdTdXdFlrdDc4YTlmUmMyWFpYXzNuQWlLNGJzaWtuV2RKZ211M2RiSm9UYUJjQ1g3ZEtxdmtubWVOVVFnbG5yaGhDMUZjRms5VHdoTjRzMlRfak8xWjZYdzRpZnNOaFpUbERja1FPX0JZdtIB5gFBVV95cUxOVGU4bVoyenFERWcxa05WVldXZjdYWjJ0YmVzVWs1WnAyeDl2cVA4bGJqaUtFTDhXa1EwQ3JrOWNjMkl2Qy1tWEptRGJ6VW5nXzJrV09aVVlJMmFxT3VuRV9DR0MyMW5jOGZjTm9YQ1BwWmp2TUpZZFdoNjY1Z2lOeEZRRmRXcG9TMHhWTnVfdkpBTWVVODJOcVRZZmVta3BSUnNtOGFKQUN2Q3NzdVhmNmptRDB1Y3hUd1NXM0EwYjltZS1vdFlLa0tRNHhNUGpWR3U0VXNiMVotZU9TVmEtRjBBbXFWdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-21T03:16:27+00:00",
+      "summary": "IPL 2026: Google, OpenAI ramp up spends as Delhi Capitals, Rajasthan Royals deepen AI partnerships  Storyboard18",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -117,7 +189,7 @@
       "title": "OpenAI Investigates ChatGPT Outage Affecting Users Across Multiple Regions - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LVHI2ckI5TEFzSjV6X0Q3MjlSdVNLeHN3SHF1clFOcUpadGwwVE9rQnFBSkgxZmRCMXlJV3AzRkVER2tzSmZ2T3pvckZfM0Qyd0hsVE1B?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-20T22:19:24+00:00",
+      "publishedAt": "2026-04-20T22:20:01+00:00",
       "summary": "OpenAI Investigates ChatGPT Outage Affecting Users Across Multiple Regions  Cryptonews.net",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-20T21:49:56+00:00",
       "summary": "Amazon doubles down on Anthropic with $25B investment, mirroring its OpenAI cloud deal  GeekWire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT down for you? You're not alone, as outage affects OpenAI platform (Updated) - Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RdXZzS3FZSFIwb2pQV2FkS1J0N0F2QmM0Z0JjaEt6LVE1aWMxT1FLUVhpVlplMUcwNTVPZ1FOeEhCZWExRi1iWG9iY3NIR1FmMlZKV296bW9YVGVkUWFlSWNTMHUxMDZvNlBqSFFNVG4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T21:41:47+00:00",
-      "summary": "ChatGPT down for you? You're not alone, as outage affects OpenAI platform (Updated)  Android Authority",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman Says AI in Hollywood Will Get People to ‘Care More About Human Creators, Not Less’ - Variety",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRDJyUDc4Y2dScnlMZFdiRG1yS3ZnZUVqVDBOdUItak14UVNLZkd6TzdMZmxrN18zTXNhOWtwNHdrazRjNUUxbk1RZnBSLVRtNnJmUVdSWmppMEM1NjRva1pTYV9NUW1IZlpsc185NXRZbGtpZjl4WkVWM0ZIT1JTXy16OFRBTFRobDBHeUdZcGtjbDh6Mjh6RkNmaVp5SU1ORjNuS1ZSSlp3NVBSUHI4WHNiMGs5SjNoNVZvSEw1WS1xZmVNZnY3QlFFZFhNcGZkTFpSTERuT1pRSmNqeDBhOW0zOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T21:35:00+00:00",
-      "summary": "OpenAI CEO Sam Altman Says AI in Hollywood Will Get People to ‘Care More About Human Creators, Not Less’  Variety",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Inside Elon Musk and Sam Altman’s battle to be ‘first buddy’ — how it ended up in court and could destroy OpenAI - nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaFhjZExSdERSVWdwQjk1bnNOTmlYcERsTU1JRmV3TjNDZC04aUVFZmFYUU40bkJKdWlJVU02X2tkMUpXV2JJNWtyRERmR3ctc1o4c190bjZDMWpOdmtsOUpFd01xNW9Ub1QxdkV3ZFVJZFA0S3pZaDREYTFqYjRnRDBSS3NLWmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T21:26:00+00:00",
-      "summary": "Inside Elon Musk and Sam Altman’s battle to be ‘first buddy’ — how it ended up in court and could destroy OpenAI  nypost.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI drops policy proposal for the “intelligence age” - KALW",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWThqVWZlNnBERkdZUXVIRlJzYWkxY0hwZDRCNW1fdi1TWGdDd2E0MzIzaEVSb212VGVtOGtHN1lQQzFPX0hTVVJfOGlCdlVnbmJNSlhSeUtiTnV1cTYxYnh3MXp3MEtBMzdnZ3NHc0RqMWNvRDZvU3cwVU14NGpwNHVqNWxueFhEUDJyRnpnWnI2MlZPQ05qNjZVQ3IwNUZW?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T21:19:00+00:00",
-      "summary": "OpenAI drops policy proposal for the “intelligence age”  KALW",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Rumble Cloud Deploys First OpenClaw Integration with MoonPay on Neutral Infrastructure - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaEdfV2UwdGJ1VmJ6UlBwT21MQXdMYnN6alo1UGpvUmRrV0EyekdzV2tSM1Z5ZzFDdkRyRU40R1NTRWZ3VmhaRzlXTzRxajg0QW9jMU03Nk93cE9XR3BnSUFZMDJBdFBKbGxIQVk5dkgxZmlGSTEyN3pxQkhjU2ZqVko2S0xfcXByajRlazZDajJKRGt6ZHZEbVFUQTBuS2F5RzdjQmZjeTZGdzk5OHFZTm5OMy1vdkwwYnNfcTd3VE1WQmZrQ1dlUFhXNy1YNGNXWGU4alhRTHljSlh2ZWtnOXI3YWdrVkVZZy03RjRlQ29CQdIB9wFBVV95cUxOQWZEVVYyNXFjUlBoMnFxMVB4OEFIVU9FQU1qeWN2bHpFeFoxSi1adGJ1LVRMaWZCUl9HQ2RUTGRxSUFFaFRsTW0zZVh3NkNhckRPNkdCdzZMazRqeUhKdjh5eDRpN1JBQWZDNnhKWnhWQ2NVcUFVenRsRG1hc19kTllrajg4a28wMXMxb21QdlJwS2gxc2stVy1aR2ItMjlNUnFZTV9GWUZ4bjJvOVZZVmczLUFnLVlzY1V3UFVqcVQwZ0R6R0tMZE0xa0FldWZvMEFnd1lGQmFlSjZYWWg2OU1lZUxTZjZzNkZEbklVTkFtWG5RT3E4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T21:12:52+00:00",
-      "summary": "Rumble Cloud Deploys First OpenClaw Integration with MoonPay on Neutral Infrastructure  The Manila Times",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI's Small Acquisitions: Hiro Finance & TBPN Media | 2026 Analysis - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPelJic3VxNzNWUGhVMGxLWmc2aUlUSGNRUEl2UTJjOWp5NjhUNEtzMEliZVJDeGtHdnZvdzFjdmRLYzJQR2RjaUhmeDJWZHZobk5SOEY5U1MxcS04QnpVNXZIZ2dwMTVJSExZZDBYbVF6YkVNQThKdlZ5TGhCNDBCYzFrdDlhWXZQd3psUA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T21:02:00+00:00",
-      "summary": "OpenAI's Small Acquisitions: Hiro Finance & TBPN Media | 2026 Analysis - News and Statistics  IndexBox",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Rumble adds built-in crypto payments to its new AI-agent package - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHFOZFpyelhOUTN1RURMNXNWSVJMOHBpaXdWcnNKY0VWMDhmcDVMc3V3U1V1WS1SaUpDM19GTEtXTHJ1WjFJbDk0LWstaVRVamVzOHliOTM2eUZIOWZZWjdlUnp1aDZWWU1RRW9NS3NvWnc0bXZuNjltcVEtOWF3WkJOSUUzUGR3YzV6bWgxNWVVVXR4MlNfYTlQcEEtTVF0b0FENFFrRU5SREdKSThXOVU4eWNQTTgya2dZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T20:57:00+00:00",
-      "summary": "Rumble adds built-in crypto payments to its new AI-agent package  Stock Titan",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "EXCLUSIVE: Leaked Deck Reveals StackAdapt’s Playbook for ChatGPT Ads - ADWEEK",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSksxbGF2aC1mVUZkc3hGdXRkRzhHbjRSSXdDQ3FQdjl1S2Jtajd4SUl5WGtwNXo2ZFp2WVpkVTNPZUlKVXR2MlgtY080ZkJBVnRUSjNhV0FOdUE3ZVJGS2tGVzNhNWpDM2otQXlSM2hYeEowa0hneWFBekIwVVlaa2VhMXgyTGF5WGpocDN6LWsyN1d5VGhYRWdWeEc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-20T19:25:55+00:00",
-      "summary": "EXCLUSIVE: Leaked Deck Reveals StackAdapt’s Playbook for ChatGPT Ads  ADWEEK",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
