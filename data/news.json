@@ -1,10 +1,109 @@
 {
-  "generatedAt": "2026-04-22T16:17:40.189317+00:00",
+  "generatedAt": "2026-04-22T17:17:19.251583+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Midday Update: OpenAI criminal investigation, Buc-ee's site plans, Thomasville teacher surprise, and more - WTXL ABC 27 Tallahassee News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVNOOEFXVTRpQUxLTnVKaTl2SFU2VTJSazV6VEFsek1lazdWTUdmeFd1Q1EwWDgzSVRzSFh5VjlBUE03ZmNycWFuUXlkaG9LN3EteHNGWFI4ZTNyaTZjdnl0bXl2OVZXb1FhcVVuS212SnNoLWFjZ2xrRkJTSjRnenpINXRVZEh5MzdmYlFXcWgxTDMycFFicnNRZ21QMlhyQTJ1NDVmTGd4OVMxRWVGQnc0RUdTTDFLYTJxcGtDcHFTUXZTODlBYkNUd1VlS1BOMThn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T17:04:07+00:00",
+      "summary": "Midday Update: OpenAI criminal investigation, Buc-ee's site plans, Thomasville teacher surprise, and more  WTXL ABC 27 Tallahassee News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Just Open-Sourced a Tool That Scrubs Your Secrets Before ChatGPT Ever Sees Them - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT3VldHc2Um5Xb3JvODNlUENlV2NuN21TQ0FzTkhvRFl2MnN4RTYyaXJZSkx5Ukg3czhTaTVzclYtdC1oMHFmeTNOdjA4Vmp2bTAyWVdtT0kzWUdQTm1QRmNNQ0RCVDQzRjN6ZDhNWVJZTUZMTnBPeERXYWt0eEhBY21DMNIBiwFBVV95cUxNcnJxUkVtYmlpb1J5TG02ZzlVeTBBN0RNWVBJbE03dDUwVHhyQ0ZkTHc2VFhYM25RaG9SYzlBdlA1YjMzN2xueGJqa3Q0MTEzSWNfWndzWkVvRjZZNXFrOFJuQTdYN2NOT25oVHZFcnVaVDBiWGRfZTFRV1NyckFvZWJKeWJJNTVhMTBF?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T16:56:25+00:00",
+      "summary": "OpenAI Just Open-Sourced a Tool That Scrubs Your Secrets Before ChatGPT Ever Sees Them  Decrypt",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw trojan uses AI agents to take control of 28,000 systems - TweakTown",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEVrRjFjMDBhX0FyX3F0M2xfUlp3VmdFOGVTY0hTNWVIU3JfSHRtWlpFSVZYYko4MEpEdzlUbk03bUc3UWctN01iSndDZTBfb2Nxc1NNNGF2UjFkRW9JRDMyMHctVlZYYU5YOHJISHl5V2JBU011WkQtbk4teUs4cFEyb1R1WVZPZ2FxRWd3YXFlYUZHTEt4RzlZSFF2TmctX2JCSHJDM1JIbTFhVno0d1VR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T16:56:04+00:00",
+      "summary": "OpenClaw trojan uses AI agents to take control of 28,000 systems  TweakTown",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Google (GOOGL) Launches New AI Agent Tools to Take on Anthropic and OpenAI - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHBmU0g3bUNsR0g5WWdiY2hsQlJFMWVLSHVvamtLbF9fVmV6b2c2bjFlNEh1OFVUaExEY0V1NW4wcElWd1RCSTFYN2FUdHNVNUI5REhNVVNSS04tMmRXbXdvOFk2Z3pYUUhCSHYwRjVhRWx4d2hscm1vUU1SZ3V6dVFTM3pRQVp2czRXWVExQlJtMWNZalFiU1FYQWpaZXJValFqSw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T16:35:09+00:00",
+      "summary": "Google (GOOGL) Launches New AI Agent Tools to Take on Anthropic and OpenAI  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Robinhood's private-company fund has an OpenAI stake now. What investors need to know. - MSN",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOekgyWURMcXZ6RHlhZDF4UG51aG9TaGJlYWtNYXRxUENtTlZGVXpzdk1Vd2thYVpsc2tIRnFnNDB6LUtIamNQSmZOSGNBWk1ETUJ5a19KR1A0M1ZHZkwtWXJhaDB3T3h5QjFFQm1XLWJKWk9VMUFjWU9wbGVDVzBpazVkUTNjWVRHUFFKc241N3dUWDR5LVVPMUNmaFBYZFo1TWprSXIzSjk5X1BLT2F1aEpUVnRGTUFMY2FySWQyckhqcnVsZDVZdHJIaUV0ZWZ5RnNsTzdhSU9QZUpLRFJDUVRzNjBNcnVQV1hjRnFMMlJVd0FfR2VRQmZ1dkp3N0lwT1JV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T16:30:54+00:00",
+      "summary": "Robinhood's private-company fund has an OpenAI stake now. What investors need to know.  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida AG Investigates OpenAI Over ChatGPT Safety Concerns - 1290 WJNO",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOczl6a0pqWFNqT19YenNxMnBFRTY3czhTQ0FIbTZJWFBVUDJLYlNHSkZiR1pHQkRQcmVQYzJxRW0zeVY4dnVKM0tDckVoelAxNHkzaVNyTGNOX1NYeC1hVHc5ZzZPZ0lnbF9jSndPdVVhd0E1WmpKQ1Vhd2xqdDFJcHFiWHRzZ1dxaDcza3QyaDBkOGR2NThxbFNXaUV4QnRkMEVzaVlrWXQxMkNxWDVZbFF3WXNaY1lqOWRaOHpUT01oSTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T16:30:00+00:00",
+      "summary": "Florida AG Investigates OpenAI Over ChatGPT Safety Concerns  1290 WJNO",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches ChatGPT Images 2.0 With Thinking Capabilities and Better Text Rendering - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTVlfeWx6TGoyaU1GeFhwOHB6dHFubUx5b2hEbjNSWXBkRzFwZEI4UFF6RllfbDhvVEQzcjc2Z29hR1RPT1kxNXpwU01nR0FpNTREWnZiYXh3UTBsN1p4WUd6U2Q1RTBEdmFBdU56UkY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T16:28:21+00:00",
+      "summary": "OpenAI Launches ChatGPT Images 2.0 With Thinking Capabilities and Better Text Rendering  MacRumors",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RS1QX21mYm9qa0plY1BHV0xGZktSa2RBWjhtdHpuMHE5eTE1WWJmcmo4SDB3RGZEaWd4WElTNkVhSDlRM0dyWjVISU45eDIzUmVuMWZUSERmbVJTbWdSSzh1cVE3OGcya1ZjeU9pMjFQbHRhOG9HTEdobw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T16:23:39+00:00",
+      "summary": "Speeding up agentic workflows with WebSockets in the Responses API  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI presented a new AI-based cyber tool to the US government and allies - Axios - Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTZOTGExaWlZZkpRZ251STI4OEJLR0c0MWY5YV8wZkVEeTMwRGhZMHZZV3ZEdUtuR2gwV1BUWjhyYmJDTWJHNXhKb2hFUklwMjl3LXJHdVJaemZTbWNCU1lYUkNwemFRUHZQV1k2X3kxTkZhUzE0U1JpU1RiV0ZRNWp5cHZVQ0YtQnFFeGl2MHVYOXlQS1pOcXBDR2ExUVc1aFdBRHlR0gGkAUFVX3lxTE1uLXYyaG5UdkhWVFhlRXBrVWxFNGU4UFJrazhpbk1tMVA0dFBOMXExanZjNzlHQ25LYjVVZ3JUMDJjRXRILXlzeHBNckFOak5SMTVueW4wTTFsQ01WY2J3bFp6MXl0bWQyTlZHbHZRbUo4UjAxRF8xM0pTTTN5UDlqTkphR19IcVhIQWdxUXN2anlJSVlveWIyaHBWNHFrbktMcTRZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T16:19:12+00:00",
+      "summary": "OpenAI presented a new AI-based cyber tool to the US government and allies - Axios  Українські Національні Новини (УНН)",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI To Scale-Up AI Compute Capacity To A Whopping 30GW By 2030, Far Surpassing The Competition - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbm9LMWlYWWRBZWxPUXRuTVZ3V2VxdGdpYWdqLXFJWFE2MDU3NDk5T2NWZ0FpSWVtVEZhMVNYcHhvdW5wN0M2R3VuNkR6LXFadjVWenpEQ2gxOTc0clF5bnZJcFJlMDRSNXppbVhuaVd5UmdmNDNnMkJlSk1tOHFpV1ZCU3JEZnp6RGRGdWt2d29RSE1MajJJWVhOWmt4d9IBowFBVV95cUxNdXBqVmI0cGRMRGF5NVFvQ3pHTXBDR1ZWWnQ4NXhkV0RybXhSanVrUnJQV09EdjNneTc2OGRnRU93dDJWbkYyWTlxZXZLNVRYRWpEd3lFbGlWQkFhUUsyUE9wRV9qQ3NpWURLTmFDcWtkT3B2amVucUJrU0l2bUs3cWh3cUV6OFdKNWp3andIbE45OWhVRUpaV0pOdXYwbUhyTUF3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T16:15:00+00:00",
+      "summary": "OpenAI To Scale-Up AI Compute Capacity To A Whopping 30GW By 2030, Far Surpassing The Competition  Wccftech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Robinhood's Private-Company Fund Has an OpenAI Stake Now. What Investors Need to Know. - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHFIZXZKUl9UZ1Z5YTBBQV9IN01ncXpQanJWU0N5X2t1WU9XMEhPRTRjVm1wR2EwOHY4ckxHY3FRc05FQzQtNTZ1T0VYMUJudGM2ejVUMHdGV05oZlN4VGM1NVFaSGJLOGZrN2RQRXJCbkRfVUFONzI2VkZRSGZWc2lldWtLOVVzM08xSHVERHkwN1U4ek9mMkJUZktIajlWWWg4NjFCQnFpNUEzS29GbFVtSlEzeGZHMVVIMGpTcUU3TTB6N1d6Tw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-22T16:10:36+00:00",
+      "summary": "Robinhood's Private-Company Fund Has an OpenAI Stake Now. What Investors Need to Know.  Investopedia",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Ready to Buy OpenAI Before a Potential IPO? Robinhood Just Made It Possible for Retail Investors - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IWlZBbHZBaFZRUU9FeEd1WXFTY2IxS1N6S3FzeElPNjNhS0VGMmJOakRZU2R4eGtfZ3hZR294TWJTdF9MemZoS0M3LVh2dnd4QVlYdnhkYkJ1THdnNVJJbWk4d0M2ZzdlaVhmOEU1QWMzRG82MDNQalVaa19GNWM?oc=5",
@@ -114,110 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Google’s internal struggle is handing the AI coding race to Anthropic and OpenAI - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQkFsSG9kRmFOVHlZQloxUTdIRWEzNHEwR3pXN1l1RHBGOXVObVJ3QXZmZTdfWWxNaW50cFhmel95WGttRTc5QU5xUGxMLUFKeWlFcExsaksySEJMS1N4VF9jelQzTElXTkFfUDRaWWtsN3ZibG1GUFpsTUhGNldFS3I2UzMxNk1lT3liRF9uWjBFM3YxUWtiVThYR3AwRVpPVUpBcGdxUEp0V2FVTW0xU3pjVzUyVWlJM191S0Rn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T14:41:00+00:00",
-      "summary": "Google’s internal struggle is handing the AI coding race to Anthropic and OpenAI  Los Angeles Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Robinhood OpenAI Stake Highlights New Private Tech Access And Valuation Risk - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOFY5aElJVG5ISS0zNXlNNW5uR0hfM3RnV2p4TGEtSFZzOGx3UnFFU0tsdDJBakZJNEhxbDF1Y0tOQ3NHTHJ4RF8ydkdUcHdSWEZvaVV0SDRPcDRFRHlXMkpfcFlSaHN4WkRYa0VoX1RtMUxlcmFyVnhKMkQ5TEJGUXAtb1dYQ3NuX0VDRVpMT2Yxc1EtcjBhcjZWQ1k4bEZNQ2p3Y3EtR1A4U19Zbl9WLVpFaXpUV2R5bmFtRWt2Q3NqNVNDZHNUcU1jWHZWWE1QNnowWmZJWW8zc0lMRkplMmtKWWvSAeoBQVVfeXFMT3d6a1BzTU1sbEdCWU82NXQ2VF83M0c5MUtpUXZmNFJRaG9STExqR3RLczhmRkNndE1WQ0lTSzNOVmZPckFVend4Y1JxWDh5ekt6WUtMZTRnSEJ6WjNNZUd6Ql9zblJzQ3pvc19fbGdFbzFpcXVhaVJHc0dHY2hEeTdfNV9rQzVQbGRjWUVxcU9LbDNidFc5TXk0ZEpGMkg0TmhGS3ROWHU2M3pRQTZiQWtlYWZFQkhFbFh1U0w2UDV2TkRhTldkaXhabi04S2lLMGt6bXhuS05qVkNFWnFnRHBXOFRrOURNWTNR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T14:25:22+00:00",
-      "summary": "Robinhood OpenAI Stake Highlights New Private Tech Access And Valuation Risk  simplywall.st",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVhKZ2tpS0x3YkpDTVdXdEw5TG5ibmdkamhWS1R2TFFfX0Y4RU5QbHVzUm5zN3pZSlVEaEp5b0NrYi1pNWJYamtmLXlJV1o1cVhLSzlDY3QxV1lhLTVGcGV5RlNjOHRkUTJNVmUwTG0yLUVIRFJsYWpWS1NEZFI2V2NNNmRJclBEVk4wcVgtd2lISjBvSHBBSWQwVVphUDFCbVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T14:22:10+00:00",
-      "summary": "OpenAI teams up with Infosys to bring AI tools to more businesses  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "You Can Now Invest In OpenAI Through Robinhood—After $75 Million Investment - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTVFZdmxRLVJTQlo3Z1Q3WlUtblI5V3Q5LWJuRmhkRUUwUWpjSFYwcmRzcEdCUTYwWlpIRjFWQUJqaTVpZGtEd01PUVJfYmtSeXMxaHB4ei1IWE5nb25nSjd2VExTaTVxZ1I2X0x6SHZkT011S09UUk4tQjhuRGxBQXRyWDB3TDJMMmdTV2dhUUNQQXpJdGl0QjFMbmtEekQ5T0wxNW4tVlhkbjRabHhuU2lKdTh5WF9feEdRSHNtODRXQkFSMnFxd01EZ29IQWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T14:21:22+00:00",
-      "summary": "You Can Now Invest In OpenAI Through Robinhood—After $75 Million Investment  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is switching ChatGPT ads to pay-per-click pricing, challenging Google - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PdDNpb2RRUWJFcmNlc0dIR2tnRi1NRU1rX0RMbXJTYm5HTHluSDN1d21uOVRVaTJSRUMwVC1KTGpDa015SWExU01vdzI2akNPSGJySjFldDFmRlNHMUxvVjVNa0RMU3IzQWRyYXA0R3c0LWl2?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T14:18:15+00:00",
-      "summary": "OpenAI is switching ChatGPT ads to pay-per-click pricing, challenging Google  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Are OpenAI and Anthropic Moving Away From Reasoning Tech? - The Information",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcEsyWVo4cUZjRXVlZ3BGZ2pjY1BNM182d0oyRkxZdTVHaUxWLXZhVVFvRm9CQkhlRmxkOFFFSEZCYng5WnY0S3FraTBHRFI1MTlPVlBia18zQ0t2TlB0RVEyOTh0dWlZaDRDc3dWYmlCZDN1U2UwSEFIM3Myb0szX19FS3FYbDhzRC1ya2FwUHJDYWlyZ3c0WkZIX3E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T14:05:00+00:00",
-      "summary": "Are OpenAI and Anthropic Moving Away From Reasoning Tech?  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw-Based AI Agents Exposing 28,000 Systems to Hackers, Research Finds - Android Headlines",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjY0S1A4Z1pqVHJxM2RsTk5tZjloY29GeWhPR2d2YmNWZXJnbkpJdDVJVFdDZGxhb1ZwajJUcVR0WHdidGVxQnAtdU00blNmZjBGdG5KQ1lTdWRMTU9IZnctNXN0amVrM0o1SWg4anRkQkpIZjJFLVBYbnk0RDZwUFE3bHBvamJvbG1HOGIxSEVyNF9ZRWtIcUVB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T13:57:30+00:00",
-      "summary": "OpenClaw-Based AI Agents Exposing 28,000 Systems to Hackers, Research Finds  Android Headlines",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Robinhood's venture fund buys $75 million of OpenAI stock in one of its biggest investments yet - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfMzhKeERlbk80cW9ZV3RZOUFqc2JUTzJyRFZHbDZwVFBHYTlOaGJxNEJZWGhQZ3pHcTJTdG9raGp5alVlQzVfVnh5M1RXTkFPYVlKTVJRRXJCNHVJR3h3cWNkRVNCeTk4NjJzVl9NdS1hdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T13:52:52+00:00",
-      "summary": "Robinhood's venture fund buys $75 million of OpenAI stock in one of its biggest investments yet  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Is Hiring A $295,000 Content Marketer. Here’s How To Qualify - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkZUOUp5RjlIVGctMVFOekFNNG9QaFJTb01YS0ZZVkRIcDJXU216OFpuNTRTWkdOU0N4NFA4b0wyN3BMYlBOdTY5eF85VWhDajBYUVBCZnZhUHBxR2VIMU55eXc3QUhqQUhfYjBCbDliblNGT09tWEM4UHd1Vk1kRUFudTdHRmhEZTdiMDRZTFBydEJEU3o2a1c0S1ZoX2drUVNxN3lLYUFIVkdwSWoybjBudUdKQVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T13:51:08+00:00",
-      "summary": "OpenAI Is Hiring A $295,000 Content Marketer. Here’s How To Qualify  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk promises to forego any money he wins from legal showdown against OpenAI and Sam Altman - Page Six",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRUNSX2l5Y1dfVGF4aFNFSTJCd2x5SldkZnJmUEpIUGowcFJkMnZnZTdaZGQ0aWctMHJhdE5jaHRkRVM1WFBibmZkRnViU2FVaUN4Z3VPZEd0TVRwZ05WOVdBWE9lT3BTcnd4Z1NMN1ZMMTVDdmY4b1g5OFk2UHBDRVhHRzAyQ0JaNHRXaldFZzB6QmFBOUxiUGZlLTNFV1JiTXlfVlI2eDd3dWlXa2taSHAzZGZKbVFSVThCT0E1TE9FckVNU0lBM283VHpfbVBEeHdaNQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T13:45:00+00:00",
-      "summary": "Elon Musk promises to forego any money he wins from legal showdown against OpenAI and Sam Altman  Page Six",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Robinhood Buys Into OpenAI To Bring Private Markets To Retail - Finimize",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS3pmWk1XMHQ1SW1xOWlsVF9sT3VpQkxSM1Q5MVU3MW5BN2lMYkpUX2MtTXY4bE44eDlzRzlaMjRTd0IxLUFYemhuU2FZWGpZLVlBYkhZbjR2QzY1VW54OU1JOWNQWXdlaGRXREVJMHFDVWZwb3RUeWs3dWdWN05waVZpdXlDbUVxWmFranhrWV93NE5z?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-22T13:44:57+00:00",
+      "publishedAt": "2026-04-22T14:48:25+00:00",
       "summary": "Robinhood Buys Into OpenAI To Bring Private Markets To Retail  Finimize",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Robinhood Ventures Invests $75 Million in OpenAI, Offering Retail Traders Exposure - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdm1pWDZxQ3o0dTh0QWtzNHpRU1pTZ0lIb2NpcjF1eW5yV0pNX1lSZG5iSWtLVjhwcG9waXVEb0NvbV81M0wyc1QwNG4wd1VidTBmVDhISDJQSklmMTZWODdaWUJnZExuajhiVm5RYVlWeURwQzlGdzNvZGw5bldOUzBBazRFMEYtRFdHbmdvRHRpOFAtM0syNDYyaG9GdXVHdWtz0gGrAUFVX3lxTE90c0Z6Z3c4MG1lWERjT19ab0pYRHJLVmVsblFRV0YzSXFVYi1vN09pU1ozT3Q3WUpPeDA0Y0d2eFBSejRFNzduVlVYMUkzYmJJMHRnWmdtaWNhcTV1bUdydmZ3cUx6enpCdTBNd0dWc0NuZDlnZm9hUE4tU1Nzb0o1UEExVlNFSzNGamlmNFNNazZFVWdMWjdPc1VGTW9hbVZwQTNVZm1jYnJTaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-22T13:43:08+00:00",
-      "summary": "Robinhood Ventures Invests $75 Million in OpenAI, Offering Retail Traders Exposure  Decrypt",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
