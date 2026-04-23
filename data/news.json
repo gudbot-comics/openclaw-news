@@ -1,10 +1,91 @@
 {
-  "generatedAt": "2026-04-23T16:52:40.243899+00:00",
+  "generatedAt": "2026-04-23T18:03:33.064789+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI releases \"Spud\" GPT-5.5 model - Axios",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZUGxueklxTlY4RC1CSVRyZnhmV1dGWFdjLWxWNXFSYTFPbzNQV2stT19yMDB0NlFhMHh6bkVaMUdsdExWSE1uRkdLQWdyQmpXcmF5N1R1UTRyc1ZSUm1VN1NBV0tQeTA4S2pQMXFYX2w?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T18:00:39+00:00",
+      "summary": "OpenAI releases \"Spud\" GPT-5.5 model  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils GPT-5.5 to Field Tasks With Limited Instructions - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUJYRFJBMXViTWIyN0xUWUxuUFl0YWVQVHluWjFxVk9ZQzNBckp3M3owWE1WM3EtZmowNGJ5dXpoRkxhV2NJQXZWR2puT2E2R2s5UnZtYVE0YXhFU2xndFFwZTZDOUJyemlTdUNia0NFM2pEeFV0UDc2TUhseWNLb1BnU3hsYlBEMmprNGVwb1gzX2pndEhxbjJGUGR4WFVpX0VGNGNSYjFJb0dMcHhlWmd3MWs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T18:00:20+00:00",
+      "summary": "OpenAI Unveils GPT-5.5 to Field Tasks With Limited Instructions  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORURxVjRuUjV3M0hnd3VhckZQYWxZbnNybVRJemo0Y09zRmNsZ0pOQ3VMUUlaZmdFRi1PTkRLLUl5TERPVUlHZTRDYmpLck9kY0xhOFRTbWZBUGFDeTdmLXpBTzJvRmtaUkNnZm8xSUJxMDFYS3VPOTd0bllQMTYtZVEwMFF1anhj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T18:00:00+00:00",
+      "summary": "OpenAI says its new GPT-5.5 model is more efficient and better at coding  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic overtakes OpenAI with $1T secondary market valuation after 233% revenue surge - Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcF9BZ1VNQkNicDFfMm4xTjNzbmFBd0wxOGowYUR1cjdSWDJycHl2Y1QwRHBienpONmhWRE5ORjA4VFp1TlVOMnNmdnhFMldHaGNic3NyN3UwdkVXVkQ3WmxkV0lKYUtodFh2OEZGZEVhWXF2SDVValVQOTVPSm9TRm5XRGZQZGYyRUVxd2ZobFU1WXloZHBOeg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T17:37:30+00:00",
+      "summary": "Anthropic overtakes OpenAI with $1T secondary market valuation after 233% revenue surge  Tech Funding News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Desperate buyers are in a race to secure a dwindling supply of secondary shares in Anthropic, driving the AI company's valuation on some sites to $1 trillion, a price that would have seemed unthinkable even a few weeks ago. Meanwhile, traders Business Insi - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVhvT2ROZE5HckluTHJxc0syaW9LQjBrOHFRX3V4MklGX0x6NkczRUdfcExuQThVVFNyYUlvS3BRRXE1SHl4OUlUYlBxMzBPUkdERi0ySlg4dlppX1poTHN2WldVY3NSb2djaUR1dndVUzUzdlh1aTBzcm5WMHFaaHg2MzRONzJYcldTTWFFdE9uWHVzbElsWFNhTUtmbE1YU3d5aXk5SnQ5UGRQekE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T17:30:13+00:00",
+      "summary": "Desperate buyers are in a race to secure a dwindling supply of secondary shares in Anthropic, driving the AI company's valuation on some sites to $1 trillion, a price that would have seemed unthink…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "View / M&A has become unrecognizable - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SOTRFamQxMW82NUMtdy1PR1JvajlMU0lPc19salFYN3oxakdORVFqSmlWS2tuZW9UdzdUc3ZjbzhJai12QVlXdzRkcldIWEQzT09DajRoM1VMYURYN0ZjN2hsXzJCWFR5LWFaelNSS1M5UmVaWWhFSXZTNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T17:19:00+00:00",
+      "summary": "View / M&A has become unrecognizable  Semafor",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Coinbase Marketers Join OpenAI, Signal Crypto-to-AI Shift - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkZaVVNONlN3Rk5qcGpWZFZvZ3oyQXdKS043OERXcGRaWWNsZVJwZGNlYmwzc3hJSlYzZWo1ZUllYmNJNDBKSzhER1JWX2V1NzZIc1Z5ZkhfZWcxMjB0amVjd3VYWG9ZdnE2MVVybHpKWEpkbUlUOFFIaEZ5bWVvSTI4eWhIMTZNeUpZa19Vb0JVQ2xVajlXRmtlbWozblk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T17:11:11+00:00",
+      "summary": "Coinbase Marketers Join OpenAI, Signal Crypto-to-AI Shift  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI ships GPT 5.5 as a precision upgrade that bets reliability will beat raw scale - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS0pHemo2V0h5Y3BuZ1dBSFZyLTlnVmdBRWxTQnR6MXloMHFqZEJ1X00zVnVUa0NxbGdMMndOWlhaM01XUV9ZQ2VvRml3TlFOQlZoTUh1T2ZRMDJsM0JCV0NkUXF5QWdZYjEwS0tDN3NZSDhNcUx2R3JscDdNSmNhVTEzZTF0X3BHOTBiMnVuTFhyVlFBVm9NRHZRREF5aW1takRfOFNlYWdtNHNaVEkwekl3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T16:46:02+00:00",
+      "summary": "OpenAI ships GPT 5.5 as a precision upgrade that bets reliability will beat raw scale  Startup Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Admin-Free Medicine: How OpenAI's New ChatGPT For Doctors Aims To Reclaim Patient Time - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNzJSRDBNRXNITUsxZkNvYmlQcjV3Sjl3TnpDSFZuZjJ2dDRPWG5yY2RBODloTGxGR2dOVl84eThsLXlMR2ctZjNwMDNsVkhONk9TY3BRU2tOdWF6N0l2Nnk5YVBXZ2o0YU1IUVZPOGtJdVBFc1lSaWlEV1VTZlA5VWVTVGZIRnRtVXBqX3FtajM2MC1BS3NtUTUydE9vRm40aXg3eTJkei0xYnVCNTFhQnpCV3ByRjdBcUNvN1ZmbmlSRS00enZ4b2FFTdIB0wFBVV95cUxObC14Qlc0Sk1QSGg4WUdNZU5DRzF3cmJBVTRwNlJTUkpQbzdEWXY5MWtoOUM3UVVFbnpsR2lmc3dWaW8wZlRfY0xhU0dJLVVTRTctOXFPRGlzejFCTDJCb04yMFBmdjJ6cF9NS1p1WHE1Y0ZQNFpRc3pFdjkxUlE2UERWVGEtOXJMRmxNOExEMmJkOGVvQ3hhNlIzVEt4Z1J2LTlKUm9nQ0lLa1ZicHJWR0o0LWFEQ1BTdHVHUHU5dDF5NHJOSlZiTVlNdFlpSHdkUkdr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T16:42:52+00:00",
+      "summary": "Admin-Free Medicine: How OpenAI's New ChatGPT For Doctors Aims To Reclaim Patient Time  NDTV Profit",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "The unflattering secrets revealed so far in Elon Musk’s latest legal feud - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUo1YTl5Y1ctczgxMTJLeFVRcGd6emI4b1pwbkp5d1FtdFQ2OEl0bmhTZXFpdFlRSGdQSG9SVnR4TWVpT2dnV0FWdGdxUnpELS1CczBJanRRbFZnUUU0ZGNhWEZ6VWJ0UGRMVWtDM1lLWnBRYTJ4WXJvZDhGdGgwand3a3Y0X3RYWjZfNklLQQ?oc=5",
@@ -24,15 +105,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic overtakes OpenAI with $1T secondary market valuation after 233% revenue surge - Tech Funding News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcF9BZ1VNQkNicDFfMm4xTjNzbmFBd0wxOGowYUR1cjdSWDJycHl2Y1QwRHBienpONmhWRE5ORjA4VFp1TlVOMnNmdnhFMldHaGNic3NyN3UwdkVXVkQ3WmxkV0lKYUtodFh2OEZGZEVhWXF2SDVValVQOTVPSm9TRm5XRGZQZGYyRUVxd2ZobFU1WXloZHBOeg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T16:24:49+00:00",
-      "summary": "Anthropic overtakes OpenAI with $1T secondary market valuation after 233% revenue surge  Tech Funding News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI's new Trusted Access program gives Microsoft its most capable models for cyber defense - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcmRCYkFzVWNQNkpqR2tWVzgzUDhUa3lLbjRkSldLZzJPS2VyQlMyeF9tZG9KdW56OF9SNFFkUlJMYVhBTlFRZEMzMWtzSGNOSkM3QlpQWDllQUR1WjgzbGJaaEZ3S1hFc0FtNlUzNXhVSFNTOExDUHlDcGZSNWFBdUUxUm0xYnpMZVFBTGktZnp2MXNRa1ExQzJpdkFVdTI5RXlwTEJQUkdqR2w4N1BsUl8yd1JpVUE3?oc=5",
       "source": "news.google.com",
@@ -47,6 +119,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-23T16:13:00+00:00",
       "summary": "OpenAI Barred from Using ‘io’ Name for Devices in Trademark Suit  Bloomberg Law News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Adds OAI-AdsBot To Crawler Docs - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnUyZHVOLWR2UE5lUDNpaFM3Ylk0S0JDazdiWXNYUHh2Wnc3X1AtN0ozR1dGREVtUnlYMWM5a0JPUFhTLTc0bmw2RVB2TWJJVnZfeHAyRmZicFlLYVRRTzBkRFhuRDZmOFBucVZ3eEVLQktfSXRoVERnSDBJSFM4aGp1dkNDUzg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T16:10:03+00:00",
+      "summary": "OpenAI Adds OAI-AdsBot To Crawler Docs  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic reaches $1 trillion valuation on secondary markets - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX25nN2Q4ZnpNUUQtbjVlRU9Qa2lDOFlRSGtubUI4VUZCNy05dDhOOEJNS2ZUbVU5cDlya0s1bzNUSkVpakxuUEhaaW05dTF1SkxZdm1HS1FiaTJDaU5ESHRTWUtheDZCNGhncWYxSjBaaVRMSFRHeGl4b3FwRF96c0JZT21LYmJkUGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T14:51:09+00:00",
-      "summary": "Anthropic reaches $1 trillion valuation on secondary markets  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Tbpn, the Tech-Bro Show Now Owned by OpenAI, Is Launching an Emmys FYC Campaign - IMDb",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40NEdfdjM1NEI2dzgtRnJxTWwwWHFWRUx4ZFBQWTlnWXFfY1BhbDBZb3ZGR0NqZXZVcmZROEI1WnJnaEhaYUVQYm1nV2o3ZEg4dTNzZ3Jxb0FPTEFRQjhWNHJyenI3dw?oc=5",
       "source": "news.google.com",
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-23T14:00:00+00:00",
       "summary": "New Security Breaches at Anthropic and OpenAI Proved Mark Zuckerberg Right  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI releases open-source model that strips personal data from text - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamxxVHFaT00tYlZxTzY1dkxvbzdHQzRtai1KZDZNNElaRWZaemUzNUtYbDdiMHNZQVVMd1o3bFJQZ0VEOW5BOUtNb2hQVzFtTFk4cko4WUVTSlpOOWlWUHBtdXJZZkpOd082dWFMQ0RmQW1yLWhLaGR6akhpQjQ0SXJnX3BBbk9EMksyMmZjZHRfN19fMHc4SnRR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T13:59:00+00:00",
-      "summary": "OpenAI releases open-source model that strips personal data from text  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive: First Revelation of OpenAI's 72 - Hour \"Power Struggle\" Inside Story - Altman \"Ousted\" by Just One Phone Call - eu.36kr.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xYTNPMHV1VktqUUV5VlhRc1Jpc2pkcG9jaUhDSUN0Sk5lOUxvaXNjYkJ6Nk1VekhfX052dG14N2JPelZ5UVZRVll1bzZTUlE1VUkw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T13:53:52+00:00",
-      "summary": "Exclusive: First Revelation of OpenAI's 72 - Hour \"Power Struggle\" Inside Story - Altman \"Ousted\" by Just One Phone Call  eu.36kr.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "What Happens When OpenAI Buys Your Tech Podcast? Ask the Boys of TBPN - Cultured Mag",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU5FOFlfcmVreUtrdVEyRW5sN3BEUnRSLWpLUkhseU4zamg1VGhUTUdPZjVla1E3V3dxX0piZHcwZmZkNzJwVVdJNWZUelYwU0J5TVE2b0JiTGRITHdLNS00WXZIZlk0TnN1amloOUxRdkRyaVR1MFlFT3ptSEUwU3FPR1M2ekRsZDRDQ2Fja0poWUhMQlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T13:52:38+00:00",
-      "summary": "What Happens When OpenAI Buys Your Tech Podcast? Ask the Boys of TBPN  Cultured Mag",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "TBPN, the Tech-Bro Podcast Now Owned by OpenAI, Is Launching an Emmys FYC Campaign - Variety",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUgwZ3RhVWszbnVfenhRNXBYclI0S0YxRzZxdHRqZXBsdFJELWwzTUxReHpKM1FVYkxVNkQxZ0pxb2JtQTdkSVJldTI3b0piYjBlX1BlY1NZam5KUlNncURhSU5QUEhMUWVkVUh4WmZHX1RSbU1ORnBlVlRocmZBOQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T13:52:00+00:00",
-      "summary": "TBPN, the Tech-Bro Podcast Now Owned by OpenAI, Is Launching an Emmys FYC Campaign  Variety",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Robinhood Ventures Backs OpenAI with $75 Million Investment - StockInvest.us",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZExQVFNoczQxdXVTN3p0SVlJdlNrdUJ3eF9BMUQyNlVCSm5iTVVTUU5EMENiOVR2QzVZRlJOakNzRVFJSXFBTE1Lc1dmVXUzTU5laU1kSTNEUGRUTFlsd0pnd0pCcF9EN0VoZHJrOFhQR0pralZXVWNqMkxCbUZVUEpzQkk0UzQ5MnVta2ZCLUNOQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T13:46:58+00:00",
-      "summary": "Robinhood Ventures Backs OpenAI with $75 Million Investment  StockInvest.us",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SpaceX, OpenAI, Anthropic: The AI Mega‑IPO Trio Set to Reshape the S&P 500 - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckkwb3RTV3JrSTNaa3FHUWQzZFZ4SmVqSmFPRk1NNk1CU21jRG9sbWtpeG9YNWdiLXNZejNLc1BObDBZYU9vamdjYjRxQVZncDRYS1RLWTZJNzViMXRlczBSdWFYWUpGa0FNWXpPNDZyaFZGVjBoQ1hYRnZRbWdvUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T13:26:00+00:00",
-      "summary": "SpaceX, OpenAI, Anthropic: The AI Mega‑IPO Trio Set to Reshape the S&P 500  AOL.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Don’t Trust Trump? Don’t Trust Big Tech - Tech Policy Press",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrOFFfQmZyX2VuczRqVEdvT19TelRSdlpaX1prTUtybWpMd1JiRmpVR09WQVNZQXBwaE9uOU41dTU4aWx5TnFtYzM1SENCU0FmUVczZkZLbFc2MWRhalppMHk5V0k4SFJOUE1QdEJOcGFrREE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T13:08:54+00:00",
-      "summary": "Don’t Trust Trump? Don’t Trust Big Tech  Tech Policy Press",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SpaceX, OpenAI, Anthropic: The AI Mega‑IPO Trio Set to Reshape the S&P 500 - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDg0Tjl4REJGVHNTa0FLaWpfdHVnS3VVVWZ3Z2ljVUlaMUVPY0poX0ZmRjJXUThyWFlEOFMtNERQWVR0ajdpSFVpOGg0LUJTYXM5RVVZQy1tN2k3NWlYY192TjZhTno1ZnJkMUVrY3dKR0pId1RPb3dTZloyZ3NxZnZEZE4wcExUVkx6amdVWUI3N25RYmt2VmhwVlNzSWVtUWZxU3BQbEhSOFJIZXRGSWZlNHg3bnUtbi1qUm0wOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T13:07:23+00:00",
-      "summary": "SpaceX, OpenAI, Anthropic: The AI Mega‑IPO Trio Set to Reshape the S&P 500  24/7 Wall St.",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
