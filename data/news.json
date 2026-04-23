@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-04-23T10:49:06.032993+00:00",
+  "generatedAt": "2026-04-23T11:48:16.520584+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Anthropic overtakes OpenAI with $1T secondary market valuation after 233% revenue surge - Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcF9BZ1VNQkNicDFfMm4xTjNzbmFBd0wxOGowYUR1cjdSWDJycHl2Y1QwRHBienpONmhWRE5ORjA4VFp1TlVOMnNmdnhFMldHaGNic3NyN3UwdkVXVkQ3WmxkV0lKYUtodFh2OEZGZEVhWXF2SDVValVQOTVPSm9TRm5XRGZQZGYyRUVxd2ZobFU1WXloZHBOeg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T11:47:15+00:00",
+      "summary": "Anthropic overtakes OpenAI with $1T secondary market valuation after 233% revenue surge  Tech Funding News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches Cloud-Based AI Agents for Team Collaboration - ForkLog",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM1d0ZllSLVA3cDRPVkJfMzFFeWZMbWRtejgtalRZOUZHR3J2c0hsVDRxZU5ZS1BIUC04cU1Rd3lQWVZsMS1ONmdVSTA1VUQ3bVd5REpKd04xbHVMODQyamZTX2hkMXMwNmJUTXA0c1ZiOFF0RW56X3FzSEtsM2pEUW1TLVRQamxrWTZOdg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T11:36:57+00:00",
+      "summary": "OpenAI Launches Cloud-Based AI Agents for Team Collaboration  ForkLog",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for Clinicians, a free AI tool for physicians, NPs and pharmacists - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDJOOUdqUTVhQjcwcFUtUU51LU9mYl81VXVGRi1RT2dJbi12VjY3VVdBU0dWV3RxWklhUWpzaU9nWnh4TXE2OHRZMzBWejhLc0tfSHBKTVdzUml4bnNWSXZDcGFzanZzUEZQbWJxbEJnY0pVamlTU19JX0RIdG94Q200OEc4VmFva1dyR1BWcURQcFNKMDBhMmpPbElLaVpFN1M3Zk13QWFnelNZWFI2NGJfdmpod0JtU25iWkgwNGM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T11:30:00+00:00",
+      "summary": "OpenAI launches ChatGPT for Clinicians, a free AI tool for physicians, NPs and pharmacists  Fierce Healthcare",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk mulled Mistral partnership to take on OpenAI and Anthropic, reports say - Sifted",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RTkZ1RWJ3dnBJS2llS0VFME04Y29JekJPLVV1SjY1TGhDaUNLQ2lieWlMS2lRbUQ3clY3dEFWdDRCRTVpdkVtcU9CQkU1S0pkRXFsNGlpbjI1dTlWd0haWi13c3ctTTJlVmduUw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T11:06:16+00:00",
+      "summary": "Elon Musk mulled Mistral partnership to take on OpenAI and Anthropic, reports say  Sifted",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Uthmeier launches criminal probe into OpenAI, ChatGPT - The Black Chronicle",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTk2bGdUNDUxZTRmWGVWRFFCYnVxZTREOFZELTBHQzZzNW91T2JuRmdJSFhrV1Z0MWQ2NkkwX29ZTlI2RHV5YXplTXdZbXo1TGZ6TzEwMDJ6cGtkOExmeFRYVHhSSy16NWNsTG9UaHJpY1pBRXJQT2ViMDF1MnFxUGVqRk9lcUp4bUhGUlMyS0JwYks0MnBPYXNzZ1k2VFk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-23T10:39:18+00:00",
       "summary": "Uthmeier launches criminal probe into OpenAI, ChatGPT  The Black Chronicle",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEd4bVA1T1hmYWdWczNVWkFzLWhFQnF3ZlhjWXpPSXVLRW55Qi1fY1F1MWVTVEJwU05YQWlHODJVZUVhbG1vY0dOUWRsQlhBalFYaGxYMzB2b1hQLW9NRHZPTy1vU29Ud0RnUm1KcTRxV0hYUEd1TWJ6YkVGc2xqbHB2dGRERDZFVFFKSmJvSDc4b250V0cyay1MbUEzUk5lLUtiOGp5ZVZTYnRpYjNOcQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-23T10:34:07+00:00",
+      "summary": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -168,24 +213,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s ChatGPT Images 2.0 tops every major benchmark just days after launch and that changes the competitive map - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSjktMmxYeFhiOExRYlowMHYxQ3JZdF9xM3lJMXQ3U1ZwT0tEblpmQ3RDaHVNMnZHbXNfZDVmcDN1RmpEOHI2WUp3d1BvWnYxcktHa3pBNlJLbVE4QmZXNTRVWmV5S0pVTGxISVJ4Si1uVmRac28wQjFEWmV4NE5xZHI3U0NZVWlQSU96ZnNVeVZ0UW0wZENFQjV5djJGNWpzNG00Y3hGT01Eb3F3Q1pkQlJJVkdYVG5RRWNYNzJHampZZEd3ZVFMX3pjWVV6TktpcmlGRTVYaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T07:53:53+00:00",
-      "summary": "OpenAI’s ChatGPT Images 2.0 tops every major benchmark just days after launch and that changes the competitive map  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI faces investigation after chatGPT linked to Florida State University shooting - Escudo Digital",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQakdKWkJWTEdCNWRQeGZsWi1ReVlxN2htdW9WdUg1R0FaLWVUaTlLRENTQkxxR09yQ3UzM2J3S0NWcE1TdEsxR1NzOGYxdGE3MWNKNUdDeHhqRzRPakJOSEhocHpLOU16bjFxVjl4cTQ0YW14Q1lMdFh1Ry1WUWluR01GUjB5UTlrbi11ZENwRHRxcURRSXNoV0J3aTU4QW5RMFZ3Y3U4Nk5YZTZDcW0yWnhsZkRpc3RRY3dqZVIwdmFvdXFUVFZ4RFFwZ0tUaFpXWERYY1BpTktUYjg2cHB3NkQtYWpBT18xVk1pVmJB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T07:49:19+00:00",
-      "summary": "OpenAI faces investigation after chatGPT linked to Florida State University shooting  Escudo Digital",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Infosys and OpenAI join forces to advance AI in software development - Techzine Global",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2tVb0s0Q0t0cFFPbU1XUzhnV3JnN3ZoNzZwOVpyRjhnaHhOV2pvYWw0ZEVXaE1hR3NDdGd2T1hrZDFHazF3dDlPNkMxTjhmM0xGaUF2NnBqQzRHNFZ5cC13VzJHOTZqZzYwemFtZWExODRIUWM2NFJfMWpHWjQ0ejZxcGstTEd6NkhsYmRNSFpCSkhhbmp0R1MzUk5uczdNRW9BWTFRdnpRS2FzdDNEUk5oMkZEZw?oc=5",
       "source": "news.google.com",
@@ -193,33 +220,6 @@
       "summary": "Infosys and OpenAI join forces to advance AI in software development  Techzine Global",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Briefs Governments on GPT-5.4-Cyber for Defenders - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmJ3RnhHUm9rLXJaRExRSkduRS1hUTZNZ1VqVGxVS3hGSlpuUmJtT19kMXZrZkMzUUpCenJMemhsM3BWeUltTHo0YXJhamRMV3Z6UHA2bGxKMEswTzZoeGEzNWJyeF9PeEFCNWMyMzlpYV93U0VPUVJLeWtTSlJSQk5URE1ScGxITEwyR00zSUpqUDViMFVfVHNyZmdiUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T07:32:02+00:00",
-      "summary": "OpenAI Briefs Governments on GPT-5.4-Cyber for Defenders  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hackers Exploit Vulnerabilities In OpenClaw To Control 28,000 Systems - Dataconomy",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmx5Tlk4OVVqeDhYNmdGUmRmcmNiWW55Q1pPbzBYU1RiTlo2Z0xJNU53MkhGUlhmQjJvWTkxNFdWaHRrR2drVHJFYXRMbldwcjMwVHoydFNscUlRY1NWWmoycF9Oc3B3R3ViZU1wZXV1TW1JcDVBMWRmLUs4MU5VdmViVXhlaVQ5UHRHazNzeE5iNkZ6QkxKRy11bTJaWkJKSURmTTNn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T07:18:09+00:00",
-      "summary": "Hackers Exploit Vulnerabilities In OpenClaw To Control 28,000 Systems  Dataconomy",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "KAYTUS Unveils MotusAI Enhancements with OpenClaw for Enterprise-Grade AI Agents - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTkNGV1l4UkdMWlduUnh5ZjBWZDlRbEpBNjA0R2NGQ1VSYkdEREN4UVE3QjQwVXZwcUFjc05MNG1kSVl2LVJMVERmN2ZLdjJiMVRISXBUVUI4SGlvdWZBNWNqV1oyRXN0a0pDNGxvaHBuTE8tMF9OVnFMOWlsb2d6WnJ1SmRPUTBCR0hBcndvYnZzSVBaNXE2Y2hGY1BiU19nTzlWc1IyNjVfell3cHdScW5uMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T07:02:00+00:00",
-      "summary": "KAYTUS Unveils MotusAI Enhancements with OpenClaw for Enterprise-Grade AI Agents  Yahoo Finance",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
