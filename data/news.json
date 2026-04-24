@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-04-24T17:46:38.046142+00:00",
+  "generatedAt": "2026-04-24T18:32:13.515952+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Unveils GPT-5.5, Marking Shift Toward Autonomous AI Agents - Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHlCQzRfc0Roa0M4SzQ3OG01S0lQZlZ1RkxWdS1RZ1c1djBKVTBVT29tanZhbkF2eFo4NWxRbnhJSkh0SVVOOFQ5anYwMkRWWlNOODd5N1psRHBSampuNTZNc3F4UUppUWJURWdVOWR5UmMxbDNzNldWNFZkamF2UFV1RUdmdlZRT3NYTUQtMnZsTVQ1WWwxUG4xZkpTREtiVVhURU5VQktfcWJGSW5kWnpzaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T18:25:02+00:00",
+      "summary": "OpenAI Unveils GPT-5.5, Marking Shift Toward Autonomous AI Agents  Morocco World News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI President Greg Brockman on GPT-5.5 “Spud,” AI Model Moats, and a 'Compute Powered Economy' - Big Technology | Alex Kantrowitz",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MVzhleEJTdUdpVDZWMWlDQjF6M3BPYWs3SU81Z3F3VXRhNjdndWJzVlNUWGNTX0NnUFlQTmhnME94MHhqZVlQQlloOTlwM01QOHBFS3JmVi12TUQxOFk0bzYyenBlSms2SmtFMFVZV2tlNWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T18:06:03+00:00",
+      "summary": "OpenAI President Greg Brockman on GPT-5.5 “Spud,” AI Model Moats, and a 'Compute Powered Economy'  Big Technology | Alex Kantrowitz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw: Moving the perimeter to the reasoning boundary - TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUNFWi1kZ21kZ0J4OTh0Yy1VeHVrWFdQd3hPcGJHM2NIXzlsT0xRaFRxOFg5VFdZN0RYenA3TWRVUmFmV2tVdGRWdWNoODhoYzBOMEVDM052UkpIZXRrem9xdVhqX2Y1ckwtUnN6dlBlTEdLbWZ1Um1NRExVb25YVjZkNlItS0hlbXM4dWRVQ3dzbWtVOTdkN0hWSGNjeTJnZGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T17:56:38+00:00",
+      "summary": "OpenClaw: Moving the perimeter to the reasoning boundary  TechTarget",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI’s GPT-5.5 vs Claude Opus 4.7: Which is better? - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVBNZVhkenFXc1BPcDM1Q1Y3eWF0MWl3anpReWpkNFU4dmJBZXhtU3FIOFJDYWlDZ0theHVyQXBxZVl4MGl5SlJNTUxHc09MN0o4QVd3eTdYck1yMjFLbnBacWY4eDhOOXJ2cXU0b2djaGpKVGxqcVlJUTM3SDRUeFdfdGw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T17:46:06+00:00",
+      "summary": "OpenAI’s GPT-5.5 vs Claude Opus 4.7: Which is better?  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Former OpenAI research scientist launches new AI model for Tencent - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTlJNzlhcGFLQ1Y5TjZYdlRuRm1UN1JjOFhub2VnX0dSWUkzVjZiQ3BrX2hNdWZQekJ1WGtiWDJlTURZZkRfeThPdDdfYndpNEw4aVg1QXhvSmhHWl9KRFBGUXZkbm9ZZGI4MTUtTENXMl9yWFhfc2wtQVdqSFB5cmI5NXZpX2NYU3JON0NNVHJPX3R5UHpMU2ZmWlZEbjl4VU5CVzBWbXBYSF9kYWZUaDRwZ2JiQ3BuWHZ3?oc=5",
@@ -16,7 +52,7 @@
     },
     {
       "title": "The National Beat: AI labs compete over computational power - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDN1NFRJbV9VbkVzLUdtdVNwWllXbjlIb3lfMkZ6UG1jMlZuNUlZVlZzVHFMc3ZZRWlGVXJjb2M5VTJmS1lhODZvNnl0U2VELVlNMnFUMU5zZk10LXlnSWFZTVV2aHd0c2lRd2ZqcFhWaFB3dnBZUHhPYjU5Rm5Mb1lSMV9RSUVFNXlfaUxEdDhSQWU1SGgzNlJleDhnT2p1SHg0ckg3ZHoyUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbV9aSUdncDNuRWQxVWJkUzYwNU9remI3anQyMXBtdFBFbkhnTklmcjRpUUJRMjFKd0lpazFvMEZ0czdWZ1NEMGN3VmtrdHV6cUtiOHJKUENUU05LT0E4SkFyNmVzZW1ZZ1FqVFEwaWlxb2ZjZFBwSWEyQUh6MHdCRWlXYWVvZnB3NlEtNVJlZzBtWFNKMWxvaHZra1g5Z2JRNHlsdQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T17:22:00+00:00",
       "summary": "The National Beat: AI labs compete over computational power  The Business Journals",
@@ -29,15 +65,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-24T17:00:00+00:00",
       "summary": "Musk v. Altman: It’s not about the money — Elon goes all-in with bid to reshape OpenAI  Local News Matters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI united Altman and Musk, then drove them apart - France 24",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSU1yYlRCVmdfRWgtZFZ3SElXNWhsVmZENk0yS2JkMHNDeFdMMzhQemdwMkl1YU9OV3NtQUdYQ3o4V1hTOS1abklhYVJSektELWJIMkhkSVNWdnlvcU90a2dtQTNER1pMcnNjWV9rclgyLVBFd2o5MEhMWFFJQmtmVzAzX0RQbUUyZTd6dElVVkkwWFdlZGdKbWRn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T16:59:09+00:00",
-      "summary": "AI united Altman and Musk, then drove them apart  France 24",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,6 +177,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI trial pits Elon Musk against Sam Altman in $134bn dispute - The Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU2ZzWkVmRTFUMDB5U2hROWxpM0gteHNoUVZDb3hwX0ZVVVNLcUY2OWJnVGU1RWlCS3JwWGM5MmVCUDVkalE2MlBvektPa2hIS3p6QkFkeGlRWTJPajhkSlZhcGhFbk4wbmJSUkc4SXRmZzdGMGdKdERwWG9DTVJJT0QydEFxMmJyRVkwcnV3OUlqeWhobTNfdDl2WE1YNG85cTVZM0FWbzVFSTBRUDZ3RExKUEZSMG01Qmd4cThySlh3bGll?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T14:10:02+00:00",
+      "summary": "OpenAI trial pits Elon Musk against Sam Altman in $134bn dispute  The Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI shouldn't be deciding if its models are safe - Transformer | Substack",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONzZkSGdRZG1qSXFNVXFMd2ZUdUlueDFhTEsxNUZnU3JCTFlKQjFGTGNaSFMxbC1ZYk11cW13djVyVnM2VTIzektocWxkcEJYNVdvSDJLYVE5a2dhU1hSS2RHQXNMd2szMjBMMTkwR28wMTBkbGxkM1llMnVud0puNy1OeVRYNXpRSHF2SmxBY3VDTUFfNnc0aV9ibllCVTBIQnVMTFRBWjFjZXpGMDExOUl3QzZqOUJiNGJlSndWUWtqNGhRZGZ3TDJHQzgySkcySk1IMmowLWNsUQ?oc=5",
       "source": "news.google.com",
@@ -168,56 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "China’s DeepSeek Unveils New AI Model Just Hours After OpenAI’s GPT-5.5 Release - Yicai Global",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWldXV1p5WjFqRTlQVUtMTy1HYlhzTWFRYi1mVnB0b2ctblpfZTdGTzZfQ2xycFduZmItMHNMMnlmYnpPbEdHZEZyVXRSRjd2SWVDcVNCQU4wR21FMlFyUWJMVldDc1pNa1RiQ1MtSFU4Y0xVb0tEY0FFdzlCUlBRSXVZVk91dVkxUjJLTFY1S1BIM0M1LXp0bHp6WjdOMkhL?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T12:55:10+00:00",
+      "summary": "China’s DeepSeek Unveils New AI Model Just Hours After OpenAI’s GPT-5.5 Release  Yicai Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "“Mythos-like hacking, open to all”: Industry reacts to OpenAI’s GPT 5.5 - The New Stack",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94bE9ha0ZPbEFBdWdPNXJERUt6MVBUOTBSTTZ1enRXMm9KclVfQ21TSzNUNC04YWw5MXpzRFF1anQ5LWZTb3g3WEpPbDZhYlNWV1FlSzhzU0xWdVdMTDgwQUpEMGZXZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T12:52:53+00:00",
       "summary": "“Mythos-like hacking, open to all”: Industry reacts to OpenAI’s GPT 5.5  The New Stack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Releases GPT-5.5, Shifts Enterprise Landscape - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGZMNXZkZ3dCdnlBWEMzaGtpdlpGQWI2Wm93YnY0MFljX0hpTVdTVXQ1RTZsNjJnU3oycExEckJnN0JNSnBjaF9WWHFfQnd5NjNmbXBkN2oxOE5JZkhPWm80cXBTV0Z2V25leHhzYU9LY0RCVENaWm5hdFItX2ctSU5aSWo0bFUtSXB5bWlEV05MWWh5VmtR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:49:34+00:00",
-      "summary": "OpenAI Releases GPT-5.5, Shifts Enterprise Landscape  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is launching a free version of ChatGPT built for U.S. doctors and pharmacists - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXhfSy1Hc1QwbDV6OXBqenZEdVZBMEpiZlNqRVJuZVgtWmd2TnB0VEtJbnBHNTBBaXBjNFlBa0d0azBQVV96QjhjV0hfY2NLNlhQa19UcVAzYWJNc1BkcFIwNzI2ZHN3Nm5IeVc2ZVpFZ21rSUJkdTlsRldoZmtrYg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:34:04+00:00",
-      "summary": "OpenAI is launching a free version of ChatGPT built for U.S. doctors and pharmacists  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Debuts GPT-5.5 Claiming Agentic Coding and Research Gains - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EdVhjUmx2X2t0SzRzajh4NUY3WDhaMGFFUGl1bU01dE1Ba2xDVGJLSkhrV3RQTUExQTM3Z0NhN0dCMmZCckJVRlZiWWFJS01PbU4zQWtMS1IzLVpoY1l4aVExZVRRSjI5R3pRQ3F3MHUxS0JtV3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:32:38+00:00",
-      "summary": "OpenAI Debuts GPT-5.5 Claiming Agentic Coding and Research Gains  MacRumors",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches workspace agents that can do your work across third-party apps - The Indian Panorama",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQjNvWVFoQWFfMVhTbm5kYlQ0dVItcXVZNThiSW55dS1Ed0ozUjhmMFlEZVlYYjhUSkpLM0ZwWEJJNmpaclYySjNxRlV2RHBPWVRySEJYUmpWZjh3QU5NZFFYTnhrTkFBMnIxMUpvaTdkdjRJMVhkc2lfXzVhSnQ5eEEtNkJOYkxlUkFnanlxNWRjWDY5Vi04WGV1UkVvRGFZbXhoYTRzRjRtMVFsamRBWlhvZDYzd1YxMklIUlpVQUlfNVZPR1NZTFdVbk04dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:28:57+00:00",
-      "summary": "OpenAI launches workspace agents that can do your work across third-party apps  The Indian Panorama",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft Is A Value Trap, OpenAI Dependence Could Backfire (NASDAQ:MSFT) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXlDYk1sTFhrMFdoSUpTQ1YzWDRGS194T3pyMzA1ZTRXNjRzN3o5QmZNZzlXZmRJRnlSVHFIbTl3dVl1Wi1QVUhKUThOT3B6V2RaQjEtNlVUam9iTU9iRV8tMEdYdXNtRFMteXhyaXkzNEVYbFhxWlZqT0FUZlktb251MEx3aUNhOXkzY2pvemRzalh3S2ltZXl6TVE1eGlF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:06:31+00:00",
-      "summary": "Microsoft Is A Value Trap, OpenAI Dependence Could Backfire (NASDAQ:MSFT)  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
