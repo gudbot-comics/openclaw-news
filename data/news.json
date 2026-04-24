@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-04-24T16:51:03.626385+00:00",
+  "generatedAt": "2026-04-24T17:46:38.046142+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Former OpenAI research scientist launches new AI model for Tencent - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTlJNzlhcGFLQ1Y5TjZYdlRuRm1UN1JjOFhub2VnX0dSWUkzVjZiQ3BrX2hNdWZQekJ1WGtiWDJlTURZZkRfeThPdDdfYndpNEw4aVg1QXhvSmhHWl9KRFBGUXZkbm9ZZGI4MTUtTENXMl9yWFhfc2wtQVdqSFB5cmI5NXZpX2NYU3JON0NNVHJPX3R5UHpMU2ZmWlZEbjl4VU5CVzBWbXBYSF9kYWZUaDRwZ2JiQ3BuWHZ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T17:25:38+00:00",
+      "summary": "Former OpenAI research scientist launches new AI model for Tencent  Computerworld",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The National Beat: AI labs compete over computational power - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDN1NFRJbV9VbkVzLUdtdVNwWllXbjlIb3lfMkZ6UG1jMlZuNUlZVlZzVHFMc3ZZRWlGVXJjb2M5VTJmS1lhODZvNnl0U2VELVlNMnFUMU5zZk10LXlnSWFZTVV2aHd0c2lRd2ZqcFhWaFB3dnBZUHhPYjU5Rm5Mb1lSMV9RSUVFNXlfaUxEdDhSQWU1SGgzNlJleDhnT2p1SHg0ckg3ZHoyUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T17:22:00+00:00",
+      "summary": "The National Beat: AI labs compete over computational power  The Business Journals",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk v. Altman: It’s not about the money — Elon goes all-in with bid to reshape OpenAI - Local News Matters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2RqaG1VRGc4akJ4ajJWc0IxUG93c1JwSjRaRjhvWmw4ajZ4VXlXMXQxdlNqZTN4ZEtuSWFkcEVicnNTMXgwaXJCWTdlZjZiV3hLSTI3dE52OUtsODhHQ3J6U25hTnRTcDNSdmVEYlBobFNxNElRclFIaTZmek1JRWhCR1dXX3VmMTBSeVQ1bEcxMXJMRUVncE1ENVZmQVpjZDJhazVEU1hvd0ZzcVZHN3ZhaEhSbmNmTG1DbEx3MA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T17:00:00+00:00",
+      "summary": "Musk v. Altman: It’s not about the money — Elon goes all-in with bid to reshape OpenAI  Local News Matters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI united Altman and Musk, then drove them apart - France 24",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSU1yYlRCVmdfRWgtZFZ3SElXNWhsVmZENk0yS2JkMHNDeFdMMzhQemdwMkl1YU9OV3NtQUdYQ3o4V1hTOS1abklhYVJSektELWJIMkhkSVNWdnlvcU90a2dtQTNER1pMcnNjWV9rclgyLVBFd2o5MEhMWFFJQmtmVzAzX0RQbUUyZTd6dElVVkkwWFdlZGdKbWRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T16:59:09+00:00",
+      "summary": "AI united Altman and Musk, then drove them apart  France 24",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT for Clinicians: The Trap Sprung - Health API Guy",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90RlBhOUFkOWVCbjNQeUVwNmE5TnhiRXBjYXhwX0JnTEJpMEtUcmxHT2RxQTdNQndLdThDdFduT2xzZVRHTmx2OWxtNl9fTlRoTk1vOVVvaVhrTHZnYVh6c0VQaWRaeS1VYVB0YjZKcVFsaTVUSWp6RDNOX3ZEd2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T16:57:00+00:00",
+      "summary": "ChatGPT for Clinicians: The Trap Sprung  Health API Guy",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenClaw and the Shift From Chatbots to Autonomous Agents - The AI Journal",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWU2aGVtR25DWFNwTXFLVmpNSVdvMUViT1A3akt2YmhmbkJ2cG5udDN2WC1DckhnT2ZwV0gxcExXbkF6REJqYi1BcEpXS3hYS2l3RzhsWkJSY05yMXpld080MVFtdHUtOGRtSVp6RHJKMWRNZzdTOHpNdDlFcFBCel9BWDM?oc=5",
@@ -114,38 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Musk v. Altman heads to court next week. Here's what's at stake - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTFVjSmY1aEJiaXQzYVRuWTJMNGtscDBsWnNzUVRkSlF3dkRTazR1dXctN2daaXZFRjRTMFltZGZyRFRycWZ0N205TzdJLU03dWlmekxZU3cybC16d2tJUklicHZTYkRIZzdzRThRVlhVd185WktJb2l6NkdkUXh2ddIBhgFBVV95cUxNM3hyLXNfUkNweXQtVldBYU94bUYycXVpcFh2OE1oUjJxeXpFeTNGcWNDdzVpYVRkaHJyaVlhYjJOWHJla0w3X2tsOXlsLVB0eTFOQUVJNUFkcE1RbTRlaThqTmR2TGg0SjQzNDZ1VHZMZDhpMlhkdGtwN09rUGRvQ3hWdTJjQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T14:00:13+00:00",
-      "summary": "Musk v. Altman heads to court next week. Here's what's at stake  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Google Conference ‘Further Proves that Demand Is Not Just Anthropic and OpenAI’ - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWNraTQzWUI4XzdkSmNOLXRhUjEzS3hUWmdSV0JPMW5lRzhPODFLaHJKV19wVTNHdGt4eEROVVlIUjNQMVJQa29kSHFLUmVfZ283aVA3UlhLWXRZdVRraDhmMV8zWktUbXU3bVZlZEhEN1gzaXh3YW81NnZYeDM4Rlc0eHFvZDZLYXhRMUlCMEdXR0FNSWVMZFhtODR4UmZ4WUhwaEFoUUtYUU0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T13:19:44+00:00",
-      "summary": "Google Conference ‘Further Proves that Demand Is Not Just Anthropic and OpenAI’  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Musk vs. Altman: The AI trial of the century comes to Oakland - The San Francisco Standard",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02R2Fkdk5KcEx4NzB4YlQtSjhkSVlMYkhTbGtGNy1fVnBWUkZTVTIxQ01Ia21LSldlZ3E1QktHV1FQNmNFRnNUUVFTRnlCYkw3bTFaZlk2MGhnWldjT0tmam93?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T13:00:00+00:00",
       "summary": "Musk vs. Altman: The AI trial of the century comes to Oakland  The San Francisco Standard",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "China’s DeepSeek Unveils New AI Model Just Hours After OpenAI’s GPT-5.5 Release - Yicai Global",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWldXV1p5WjFqRTlQVUtMTy1HYlhzTWFRYi1mVnB0b2ctblpfZTdGTzZfQ2xycFduZmItMHNMMnlmYnpPbEdHZEZyVXRSRjd2SWVDcVNCQU4wR21FMlFyUWJMVldDc1pNa1RiQ1MtSFU4Y0xVb0tEY0FFdzlCUlBRSXVZVk91dVkxUjJLTFY1S1BIM0M1LXp0bHp6WjdOMkhL?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:55:10+00:00",
-      "summary": "China’s DeepSeek Unveils New AI Model Just Hours After OpenAI’s GPT-5.5 Release  Yicai Global",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -202,24 +220,6 @@
       "summary": "Microsoft Is A Value Trap, OpenAI Dependence Could Backfire (NASDAQ:MSFT)  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft Faces OpenAI Dependence, Threatening Cloud Margins - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLXRlUld3a3Z6WmZXRW5ZT0g4UDA1QWxEaUpVLXZ6cDN6akFlTUNVNTcwanpTWVg2NTE4bFRiaGhSTGhnUDVFTnF2dEtIZGFzcGs1RHo2aGZsV1JUUUt0a25FdUtfN2E1WXpIMWFPVnppd1JsMjBNY3BlRGQxWjVYclFra1dvaHRaWHQ3SHlJYS1ZZW1YZ1ByQ0cya05PVVRMMHpn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:06:31+00:00",
-      "summary": "Microsoft Faces OpenAI Dependence, Threatening Cloud Margins  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "7 Practical OpenClaw Use Cases You Should Know - KDnuggets",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02SnZobTZUd0ZEWGtackJxSGJpdy1FdU9TVVpVdjcyS0dSYWJjelM3OS16UnQ3Vm43UWF1U1pVdjRYX3F4anQtOVZqVHFlWlVKZWNUZi1wQm1kbmcwZGhJOUZjc2xIdWtfZXJha3o2SHFUczhBbDEtbzdjUVc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:06:09+00:00",
-      "summary": "7 Practical OpenClaw Use Cases You Should Know  KDnuggets",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
