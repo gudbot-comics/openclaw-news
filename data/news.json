@@ -1,16 +1,43 @@
 {
-  "generatedAt": "2026-04-24T18:32:13.515952+00:00",
+  "generatedAt": "2026-04-24T19:34:57.526570+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Benchmarking OpenAI's Privacy Filter: What it gets right, and where PII detection still needs real data - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU2g3YVZuNFNieU1kSnl1YnZPbzJmSnBPT180UkpxSkZrM1BLd2x5VThZcGZKOW9OR2VUSkk1RVJhZEt0bHBmaHg1S3l3dFNRejRlaTdHSTZYbGt5bjRpV1dvUlZVWkdfcGpUZW5uemt4VE16TmJEVDZ2RFdWQVE1bmxqNGsxZklYTU9veEVjcWk0LURscl9kWVJKdmh2aUE4c1NDaVludlczLUZSUEMxcmZKa3AxYmxXS2x1TVdVMEVJamRnV3N6NWNHMDhNREo1eVlsTVF3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T19:18:45+00:00",
+      "summary": "Benchmarking OpenAI's Privacy Filter: What it gets right, and where PII detection still needs real data  Security Boulevard",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdm9zcEhybWNHRlRRV2pUSGlXMW5GVDQ1aEZWSnBQQTFnQTMyRHh4RFRTV1ZRczJ4MDFTaDdzTkgxbVdGb2hvUW9fc3NwYWRpMURyblRKbmI3SW5IanN3b2FtZFcwNFJfWHU5NDBwb1AwUklWV3IxWEpFLWF3UjZMTG5iMVBOMHRuZ0VHUGhvVUJOV3U3SGNkaWg3STBpVS1iY2tndFBPQV9pTktkQkJSejFadDZqZ21vaFlzUXBR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T18:37:10+00:00",
+      "summary": "OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Unveils GPT-5.5, Marking Shift Toward Autonomous AI Agents - Morocco World News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHlCQzRfc0Roa0M4SzQ3OG01S0lQZlZ1RkxWdS1RZ1c1djBKVTBVT29tanZhbkF2eFo4NWxRbnhJSkh0SVVOOFQ5anYwMkRWWlNOODd5N1psRHBSampuNTZNc3F4UUppUWJURWdVOWR5UmMxbDNzNldWNFZkamF2UFV1RUdmdlZRT3NYTUQtMnZsTVQ1WWwxUG4xZkpTREtiVVhURU5VQktfcWJGSW5kWnpzaw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T18:25:02+00:00",
       "summary": "OpenAI Unveils GPT-5.5, Marking Shift Toward Autonomous AI Agents  Morocco World News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Press Release: Rep. Steven Horsford Partners with OpenAI and Rep. Ro Khanna to Enhance AI Workforce Training in North Las Vegas - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPalhsU1ExbXFORGRJeXhKUFJVeFRRQlk3ZXI1VEwtSlVQeHFFUkd1MU9sYzdOTVZ4N1NHOU9IQndUNGJfTHF1T2htWS13QVpIZzI1VkxoTnZWQUdrNXdnWkl2NFpEOFBnY3VpdUo2dGxYN21PMmoxbjV0RW9CMVMtNGZqemNFMWMwRm5kNkMyQWV1Y3Q5ZG00NEU5M21EYlJ4UXNiMHFuZWNjSF9TVlprT05xVXJCYzF5dUwtWGgyUU1DVnNZSXh0SHFTalJLQjFwYmFhN09LVnBSZUZibExLTC1HVm9ZZ21Ja1pGNDVfZE9Od0pX?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T18:25:00+00:00",
+      "summary": "Press Release: Rep. Steven Horsford Partners with OpenAI and Rep. Ro Khanna to Enhance AI Workforce Training in North Las Vegas  Quiver Quantitative",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -31,15 +58,6 @@
       "summary": "OpenClaw: Moving the perimeter to the reasoning boundary  TechTarget",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI’s GPT-5.5 vs Claude Opus 4.7: Which is better? - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVBNZVhkenFXc1BPcDM1Q1Y3eWF0MWl3anpReWpkNFU4dmJBZXhtU3FIOFJDYWlDZ0theHVyQXBxZVl4MGl5SlJNTUxHc09MN0o4QVd3eTdYck1yMjFLbnBacWY4eDhOOXJ2cXU0b2djaGpKVGxqcVlJUTM3SDRUeFdfdGw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T17:46:06+00:00",
-      "summary": "OpenAI’s GPT-5.5 vs Claude Opus 4.7: Which is better?  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "Former OpenAI research scientist launches new AI model for Tencent - Computerworld",
@@ -78,6 +96,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGZLZ08yU0FPWlhSTW5yNWlacmZQVnZWVGoyYWZPcmhvcXZpQWY3RjJobWRMeUZ3LTRjMGtHaTNrbWhUSWwtMWk2WWNDR2s3MVY4NzNjOFBBUEN6OXgwVzZXU2U3Tl9HekJnVF9GOXYyMFNRMjJ4SVIyemwwWHp1MWRRTlNxUldNd2J3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T16:42:19+00:00",
+      "summary": "Marked-up Mac minis flood eBay amid shortages driven by AI  TechCrunch",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "OpenClaw and the Shift From Chatbots to Autonomous Agents - The AI Journal",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWU2aGVtR25DWFNwTXFLVmpNSVdvMUViT1A3akt2YmhmbkJ2cG5udDN2WC1DckhnT2ZwV0gxcExXbkF6REJqYi1BcEpXS3hYS2l3RzhsWkJSY05yMXpld080MVFtdHUtOGRtSVp6RHJKMWRNZzdTOHpNdDlFcFBCel9BWDM?oc=5",
       "source": "news.google.com",
@@ -114,10 +141,19 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "'It was awesome to see it work': OpenAI deploys GPT-5.5 Codex across Nvidia Blackwell systems – 50x efficiency boost and 35x cost reduction makes AI ‘viable at enterprise scale’ - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQS2VnUWtqekdNUXAzLWJWRHdEZDNRcTFfblJNcThraWRkemZQOVRYYmpkSVcxSlNHNXJKVF8xYW00ZVVFNzlmZFQydGtTNGc5ZVUwZG5OX1hfbkdrM21rYlBVWjc4dGJ6NGp4aGotbjYwWHJncDJGa1BPU2pzYnRvaDF3UzVoaDEtalIyZHlvZHFjNHU4TTJVWUJUZXlOMVlWT2dwelQ2Qzd0V3hmTFJrTWQ0YTdRb2dZVkUzMWc1bnhBQjU1ZlRqYUZIalFFTGhlZ1E2UWF3bXBKNE1IS19iMFRKS3FIZmtkbXpjZldDeTdrQndyYl81X19YeldzSXFjNndDRDRFZ0FRSWNaY0xDX01uUTdqNkZrVTRhdThvQ1BBc1Z5QjNR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T15:35:47+00:00",
+      "summary": "'It was awesome to see it work': OpenAI deploys GPT-5.5 Codex across Nvidia Blackwell systems – 50x efficiency boost and 35x cost reduction makes AI ‘viable at enterprise scale’  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Watch CNBC's full interview with OpenAI CFO Sarah Friar - CNBC",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFh2cm0tREU2a0hTYi1scEdHM2hpUmc1MVAwQU44ZnIyVjFJaUJqVFl6RVRjSVBUSk9pZURnXzBNZjFKS1hjNVZ1c0dZQkNYOU80cC1mTzE2QVQzRkFheGVzUmFYeFhwc25vcFBPN2tlM1AzVXloR1hyT29BeUhFQ3JWZWx6RnpWRGxoTmZUZEw5bm1fSUQ2RUVHbE1lZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-24T15:43:50+00:00",
+      "publishedAt": "2026-04-24T15:30:51+00:00",
       "summary": "Watch CNBC's full interview with OpenAI CFO Sarah Friar  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -126,17 +162,8 @@
       "title": "OpenAI CFO Sarah Friar on IPO timeline, Musk v. Altman case - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFF4cWlpclpiclpPRkt4M0pIdHBBV1d2bWx4a0FKdklPR2Z1eThOVW1WR3BRUGRraTlLTGxmaWVIVFplY1lKZnpxNEVpaW9mYWpxdUNWOGNXemF4MUZEcFpNTmFjR1doQnFxV0E4Q2JUNGlmX0FiczFBZFktcjlNVXd2Z1ppeHRDYVp0aDlEMDUxWVJSckdTRGpST3ZDWE9WRWc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-24T15:42:45+00:00",
+      "publishedAt": "2026-04-24T15:30:48+00:00",
       "summary": "OpenAI CFO Sarah Friar on IPO timeline, Musk v. Altman case  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "'It was awesome to see it work': OpenAI deploys GPT-5.5 Codex across Nvidia Blackwell systems – 50x efficiency boost and 35x cost reduction makes AI ‘viable at enterprise scale’ - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQS2VnUWtqekdNUXAzLWJWRHdEZDNRcTFfblJNcThraWRkemZQOVRYYmpkSVcxSlNHNXJKVF8xYW00ZVVFNzlmZFQydGtTNGc5ZVUwZG5OX1hfbkdrM21rYlBVWjc4dGJ6NGp4aGotbjYwWHJncDJGa1BPU2pzYnRvaDF3UzVoaDEtalIyZHlvZHFjNHU4TTJVWUJUZXlOMVlWT2dwelQ2Qzd0V3hmTFJrTWQ0YTdRb2dZVkUzMWc1bnhBQjU1ZlRqYUZIalFFTGhlZ1E2UWF3bXBKNE1IS19iMFRKS3FIZmtkbXpjZldDeTdrQndyYl81X19YeldzSXFjNndDRDRFZ0FRSWNaY0xDX01uUTdqNkZrVTRhdThvQ1BBc1Z5QjNR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T15:35:47+00:00",
-      "summary": "'It was awesome to see it work': OpenAI deploys GPT-5.5 Codex across Nvidia Blackwell systems – 50x efficiency boost and 35x cost reduction makes AI ‘viable at enterprise scale’  TechRadar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,40 +213,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI shouldn't be deciding if its models are safe - Transformer | Substack",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONzZkSGdRZG1qSXFNVXFMd2ZUdUlueDFhTEsxNUZnU3JCTFlKQjFGTGNaSFMxbC1ZYk11cW13djVyVnM2VTIzektocWxkcEJYNVdvSDJLYVE5a2dhU1hSS2RHQXNMd2szMjBMMTkwR28wMTBkbGxkM1llMnVud0puNy1OeVRYNXpRSHF2SmxBY3VDTUFfNnc0aV9ibllCVTBIQnVMTFRBWjFjZXpGMDExOUl3QzZqOUJiNGJlSndWUWtqNGhRZGZ3TDJHQzgySkcySk1IMmowLWNsUQ?oc=5",
+      "title": "The Horrible Economics of AI Are Starting to Come Crashing Down - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2RWQzFOQnFrM2pWdHBScVN4d1lqZ3RMU3FOai1panJKYUtNWHhUQUp5OFphaFJ5NC1TYjhTRXRSbGFnbTJ3R0xadjRzSV9kMzYzaWI2WWZ3T0piZDdnOS04Z3N5N242SDUwNERjWnhmZWkwbFdqVjVxRHFYRWpIdjZxbFA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-24T14:02:17+00:00",
-      "summary": "OpenAI shouldn't be deciding if its models are safe  Transformer | Substack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk vs. Altman: The AI trial of the century comes to Oakland - The San Francisco Standard",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02R2Fkdk5KcEx4NzB4YlQtSjhkSVlMYkhTbGtGNy1fVnBWUkZTVTIxQ01Ia21LSldlZ3E1QktHV1FQNmNFRnNUUVFTRnlCYkw3bTFaZlk2MGhnWldjT0tmam93?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T13:00:00+00:00",
-      "summary": "Musk vs. Altman: The AI trial of the century comes to Oakland  The San Francisco Standard",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "China’s DeepSeek Unveils New AI Model Just Hours After OpenAI’s GPT-5.5 Release - Yicai Global",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWldXV1p5WjFqRTlQVUtMTy1HYlhzTWFRYi1mVnB0b2ctblpfZTdGTzZfQ2xycFduZmItMHNMMnlmYnpPbEdHZEZyVXRSRjd2SWVDcVNCQU4wR21FMlFyUWJMVldDc1pNa1RiQ1MtSFU4Y0xVb0tEY0FFdzlCUlBRSXVZVk91dVkxUjJLTFY1S1BIM0M1LXp0bHp6WjdOMkhL?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:55:10+00:00",
-      "summary": "China’s DeepSeek Unveils New AI Model Just Hours After OpenAI’s GPT-5.5 Release  Yicai Global",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "“Mythos-like hacking, open to all”: Industry reacts to OpenAI’s GPT 5.5 - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94bE9ha0ZPbEFBdWdPNXJERUt6MVBUOTBSTTZ1enRXMm9KclVfQ21TSzNUNC04YWw5MXpzRFF1anQ5LWZTb3g3WEpPbDZhYlNWV1FlSzhzU0xWdVdMTDgwQUpEMGZXZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:52:53+00:00",
-      "summary": "“Mythos-like hacking, open to all”: Industry reacts to OpenAI’s GPT 5.5  The New Stack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
+      "publishedAt": "2026-04-24T14:09:14+00:00",
+      "summary": "The Horrible Economics of AI Are Starting to Come Crashing Down  Futurism",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     }
   ]
 }
