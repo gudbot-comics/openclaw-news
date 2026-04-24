@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-04-24T15:54:38.813203+00:00",
+  "generatedAt": "2026-04-24T16:51:03.626385+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenClaw and the Shift From Chatbots to Autonomous Agents - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWU2aGVtR25DWFNwTXFLVmpNSVdvMUViT1A3akt2YmhmbkJ2cG5udDN2WC1DckhnT2ZwV0gxcExXbkF6REJqYi1BcEpXS3hYS2l3RzhsWkJSY05yMXpld080MVFtdHUtOGRtSVp6RHJKMWRNZzdTOHpNdDlFcFBCel9BWDM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T16:38:00+00:00",
+      "summary": "OpenClaw and the Shift From Chatbots to Autonomous Agents  The AI Journal",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Introduces GPT-5.5 Upgrade for ChatGPT Plus and Higher - extremetech.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNW1HbEdVal9LZ3Y3QXRPTnRBNzZ1MTBlSEhuMm1hQ2pIWm1BcG1Ed3V6TjRtUGZRalhyclpPYU1Ea1FqZmdyNEFCN2NIRlJhdG1NQmJrZGtuR2tqWmtkSVQtZWl4dVhJMjRvQ0N3Wk03ZnphMEZiaXhVaWNUNjRVMFhvcmEzQmFhRHU5dk9mcGYwVWRxU25SeVBVdEZJYlk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T16:30:29+00:00",
+      "summary": "OpenAI Introduces GPT-5.5 Upgrade for ChatGPT Plus and Higher  extremetech.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Warning: 3 high severity vulnerabilities in OpenClaw can lead to RCE, Patch Immediately! - Centre for Cybersecurity Belgium",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzEyakhDVXQ5cDFmWklSQXhabS1JNmVnUmZZMkk4a3pTYURyUDktTlo4bXd3ejRqU21ZWER1OHZzRGh1VEd2YUh4Umt6QTNfTGVTbHNZOU9kbXdkbHNGdFZfaE9ocEhYZzBPTlIzMm5PSGtLZ0ZBbXVaeXNWSUZLYVpmRGp6MmRGb3F1V0Z5bkRvT3BRSWdob3MycnBKUExieC1nOXpJSFFyYkp6QS1VbGdQNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T16:22:52+00:00",
+      "summary": "Warning: 3 high severity vulnerabilities in OpenClaw can lead to RCE, Patch Immediately!  Centre for Cybersecurity Belgium",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "What Claude and OpenClaw Vulnerabilities Reveal About AI Agents - Security Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUxBQkhxS3VZQy1TYUx1QzVVNVltVkVuVFZDTWkwc1pYNHJyRW53d3FjMHpTY1ppaVU1YWRJS2VFM05uMk9NZUlmVDdlTXB5MVVtZ0tCdDdack54SW1QbzhGNEpGWnhzWVBENGhnNlFMQ1Q2RUQ3azBCNHV3cnlTM3pBRkpPZHpTeXUyZURSRUVlUlFlZFUxekRMZ2N6ZGU3Ym5UcVhLcDZNaFJkMVlQWXowUHF2OGV5S3ptaW42RE9LVm9QZmJlYXU0RQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T16:00:00+00:00",
+      "summary": "What Claude and OpenClaw Vulnerabilities Reveal About AI Agents  Security Magazine",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "Watch CNBC's full interview with OpenAI CFO Sarah Friar - CNBC",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFh2cm0tREU2a0hTYi1scEdHM2hpUmc1MVAwQU44ZnIyVjFJaUJqVFl6RVRjSVBUSk9pZURnXzBNZjFKS1hjNVZ1c0dZQkNYOU80cC1mTzE2QVQzRkFheGVzUmFYeFhwc25vcFBPN2tlM1AzVXloR1hyT29BeUhFQ3JWZWx6RnpWRGxoTmZUZEw5bm1fSUQ2RUVHbE1lZw?oc=5",
@@ -33,20 +69,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Unveils GPT-5.5, Challenges Anthropic in AI Race - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWxQVVpJN0VoWTFsTkdNMG5td29HWjdUVk53QkdqX21YV3BwMGNfOEFXVWFDMUtfQ3kzZjByR05lemp2dWpqNElOc3ZabVIybGt5WGRlNXpwdTl3WEtvTE5yX1pJb3ZpWWxQdnVORjdIOEFGRVRqYW9tR1dLdXNQYlR5SkF6cmJW?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T15:09:07+00:00",
+      "summary": "OpenAI Unveils GPT-5.5, Challenges Anthropic in AI Race  조선일보",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI confirms GPT-5.5 release on April 23, 2026 - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjBHS3ZaNmVjR2FrWjFDSmZ6NkFfUkE0MUJ5bXlkZzVtMUdKM3oyVlEwdHlWbjkyTUl4WE5YZ2JtOHAxdHhGRUFZMmtIdzVzSzVXbUg1bWpWUU1lRnV0WGV2TUJ1cDYxd09FaU9SbmtnM2pHbUhiLXZDM1p4aWhHRg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T15:01:19+00:00",
       "summary": "OpenAI confirms GPT-5.5 release on April 23, 2026  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Unveils GPT-5.5, Challenges Anthropic in AI Race - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWxQVVpJN0VoWTFsTkdNMG5td29HWjdUVk53QkdqX21YV3BwMGNfOEFXVWFDMUtfQ3kzZjByR05lemp2dWpqNElOc3ZabVIybGt5WGRlNXpwdTl3WEtvTE5yX1pJb3ZpWWxQdnVORjdIOEFGRVRqYW9tR1dLdXNQYlR5SkF6cmJW?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T15:00:00+00:00",
-      "summary": "OpenAI Unveils GPT-5.5, Challenges Anthropic in AI Race  조선일보",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -67,15 +103,6 @@
       "summary": "OpenAI Launches GPT-5.5 to Take on Messier Workloads  eWeek",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Horrible Economics of AI Are Starting to Come Crashing Down - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2RWQzFOQnFrM2pWdHBScVN4d1lqZ3RMU3FOai1panJKYUtNWHhUQUp5OFphaFJ5NC1TYjhTRXRSbGFnbTJ3R0xadjRzSV9kMzYzaWI2WWZ3T0piZDdnOS04Z3N5N242SDUwNERjWnhmZWkwbFdqVjVxRHFYRWpIdjZxbFA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T14:09:14+00:00",
-      "summary": "The Horrible Economics of AI Are Starting to Come Crashing Down  Futurism",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI shouldn't be deciding if its models are safe - Transformer | Substack",
@@ -99,7 +126,7 @@
       "title": "Google Conference ‘Further Proves that Demand Is Not Just Anthropic and OpenAI’ - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWNraTQzWUI4XzdkSmNOLXRhUjEzS3hUWmdSV0JPMW5lRzhPODFLaHJKV19wVTNHdGt4eEROVVlIUjNQMVJQa29kSHFLUmVfZ283aVA3UlhLWXRZdVRraDhmMV8zWktUbXU3bVZlZEhEN1gzaXh3YW81NnZYeDM4Rlc0eHFvZDZLYXhRMUlCMEdXR0FNSWVMZFhtODR4UmZ4WUhwaEFoUUtYUU0?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-24T13:18:45+00:00",
+      "publishedAt": "2026-04-24T13:19:44+00:00",
       "summary": "Google Conference ‘Further Proves that Demand Is Not Just Anthropic and OpenAI’  TipRanks",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -137,6 +164,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-24T12:49:34+00:00",
       "summary": "OpenAI Releases GPT-5.5, Shifts Enterprise Landscape  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is launching a free version of ChatGPT built for U.S. doctors and pharmacists - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXhfSy1Hc1QwbDV6OXBqenZEdVZBMEpiZlNqRVJuZVgtWmd2TnB0VEtJbnBHNTBBaXBjNFlBa0d0azBQVV96QjhjV0hfY2NLNlhQa19UcVAzYWJNc1BkcFIwNzI2ZHN3Nm5IeVc2ZVpFZ21rSUJkdTlsRldoZmtrYg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T12:34:04+00:00",
+      "summary": "OpenAI is launching a free version of ChatGPT built for U.S. doctors and pharmacists  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -184,42 +220,6 @@
       "summary": "7 Practical OpenClaw Use Cases You Should Know  KDnuggets",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI is launching a free version of ChatGPT built for U.S. doctors and pharmacists - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXhfSy1Hc1QwbDV6OXBqenZEdVZBMEpiZlNqRVJuZVgtWmd2TnB0VEtJbnBHNTBBaXBjNFlBa0d0azBQVV96QjhjV0hfY2NLNlhQa19UcVAzYWJNc1BkcFIwNzI2ZHN3Nm5IeVc2ZVpFZ21rSUJkdTlsRldoZmtrYg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T12:04:04+00:00",
-      "summary": "OpenAI is launching a free version of ChatGPT built for U.S. doctors and pharmacists  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic: Implied Valuation Reaches $1 Trillion On Secondary Markets, Surpassing OpenAI - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHM3ODZHOTBnYlZTMGswZGtjM1BoaDZzdVJiYUJ6aXIzUERhcW9iXzdERUdjUWFoVl9GdGFqbnVIVVBaMFB3TmJQU1ZXS0xQNmhhOXl5OUV3RnVoRG50dmUzZEZDS0VkS3o0Z29kdnItRkh5bWNRaE9UYmRwQlVvZExaMGpZWjhYQ1RLck41a0lxNmF6aDJ0LVh6N2Y0NDdUenVWMDVUcGvSAa4BQVVfeXFMUGZDZUhzaFpIaFRiQk4zTDJTYkpUOHp1S2xMRFQtR0VTeUhrN3kwblhody1UM1FJZGFRNUQ2QzEwY0dkRWU4YWNRaHN3S21CVFJaN2ZJVURiYjViTXJ5UFFBUktlR2I5S3h0cG8tdHlQSW1CUGI5ZjlpSExsS1YwYnNqM2JyQ29pcWR6enhKMDY5dU52WnBhckZkTW1ZZnZWTE9OdGlvV2NyZEpfblJB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T11:36:44+00:00",
-      "summary": "Anthropic: Implied Valuation Reaches $1 Trillion On Secondary Markets, Surpassing OpenAI  Pulse 2.0",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Four things you need to know about OpenAI’s new workspace agents for ChatGPT – including how to build your own - IT Pro",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ3Via2lqVHhEVTdaelgwSFRhRGwzQ29YRm8zMXFaR25yaHh6MVFVN0lwWFRTZllaVXlhMXp5ZVQxTDVySUJZcWpYMjVybGhldi1rVXY5OGpLOU1RaWMxaGlnQ2xmaWZTZW1RX01XSnZOQzVkUHRSQ2ZmN1ZvejJQeHQtX0tSeDRxczY2dU1TZ3lVbllXSmVhMjdWRkMtSEtzQXkxLUNITWZVN0tXeVNHeHBKMnJFaXF0UnhhYWFUa1VvTlFITUhROWRUZnY4bTJhZjAxeVhmNGl4aXdSOG1tbndtZGExdGluQlVET01pRFItalU4cVpF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T11:34:35+00:00",
-      "summary": "Four things you need to know about OpenAI’s new workspace agents for ChatGPT – including how to build your own  IT Pro",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "What is OpenAI’s GPT-5.5, its newest ‘smartest' model? - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUdBWWlNcUJqMldMV0taa1M3X25mV0tSZk5pTURZQy1QeEVxc0VVZDRtY0hZOS1kQ1ZhRDRHWGNQWFNKZnVwWE5xYzVDYlVUaDVXWVN5a3BuV0cybFFEOTZNZUlsTE9TOUtYaG9fWVpZZjFWbTZUVjAxZVNNUE5SQV9KU2Y5QUd0SjVLd0VrX1lJR19YNDVGd0piSFpLSHNJR1VRSDEycDlUZ04x?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T11:29:06+00:00",
-      "summary": "What is OpenAI’s GPT-5.5, its newest ‘smartest' model?  Euronews.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
