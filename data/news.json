@@ -1,16 +1,97 @@
 {
-  "generatedAt": "2026-04-24T07:56:32.498100+00:00",
+  "generatedAt": "2026-04-24T09:44:16.435852+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI Unveils GPT-5.5, Accelerates AI Race Against Anthropic - 조선일보",
+      "title": "OpenAI Launches GPT-5.5 as Its Most Advanced AI Model Yet - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWnN0Tkl4UHpSdW5WMHpYN1hXbWlFTWdHOTBZbTd4R2M5bnNYQ2hHbkxweUlWVkRSbVFEeGpBeTFCN3Vocmd3Ujk4dW1BOU41Z3pndXRwcUZJcGpEcGFSWGFRdmxLWXlLQjNOeVhsOGdWdUt2aWNqZTItRElwRHU3dW1Jdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T09:27:48+00:00",
+      "summary": "OpenAI Launches GPT-5.5 as Its Most Advanced AI Model Yet  MLQ.ai",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Key facts: SoftBank Seeks ~$10B OpenAI-Backed Loan; DigitalBridge Buyout OK - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1l3Q1V5eHZzRmprS2hSeEx6WHROYzlNenFFU2dLbkhEZE1QNG5DT3RKdGFaa0c3R1RvRXhabXNfNmJjTEJqVDJZYzlGTnp6aWR0ODlJam9xekpkd2l0Z3h0Z1VadmwtUkJqS1RtYUhSVTZ2UFA5YWJZWDBGR0hvZUxuWGFyVHBiakU0NVAwU2hQN2xaOUV4R0lxQTFkMHFHTkhhQ25kUENERXhCRnJKU3hINUhOdmFhS0RPM0NnbjRDSmxGR3dJWjgxZGdwQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T09:05:53+00:00",
+      "summary": "Key facts: SoftBank Seeks ~$10B OpenAI-Backed Loan; DigitalBridge Buyout OK  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHWVhKLWttcVRBaG45WFhYZ01LR2ZzdmU2RDlURE9FYm1xMk9TNC1lRXg0dV80SWxxRnV2UjdvS19icFhBdkpNT3JWRElZeExIUmlGa21UdUw2QlRHc0lxaWJkbVpnRWRMSzZoNXJwa0o1NnVucTlwMXR4LUlKUlk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T09:02:24+00:00",
+      "summary": "Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's 'Spud' dethrones Claude on the frontier - The Rundown AI",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xRVdGMnNGWWE5a3VqdjlnMzZPQkZNSUQ1VGdKZGZlNlgwQWxVWE1VRFlCVzNsYkMtdEk4SEhTenRqQXg3bXVod2VuTkNuQV9ZNzJZZWxRMkkzR1J6b0llbUlkUy1GdFpXdUR6T2xodXN0dlQ4ZmJWbXpSODc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T09:01:42+00:00",
+      "summary": "OpenAI's 'Spud' dethrones Claude on the frontier  The Rundown AI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia's 10K staff got early access to OpenAI’s new AI model GPT-5.5 - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzd0bkNvRjFSTkczVkpKd2RPOEN1V2R6VF9iY0l1bGhGbUVrcWQ4ZFNmbDFtSGVDXzhEUE9vdDEwVjlPMVk5RzkxRzNFV2NtV2wyb192YWlsZ0tjY0ZMWFotTnJ4Q3FfX0o2eU1CbG9pbVZzaURpUWRJdlltdVJNdUdjdDEwSW5aYWFKSEc1MFRDMDkzYVN5VTJrUXVCaFFhQ2NHTkNn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T09:01:07+00:00",
+      "summary": "Nvidia's 10K staff got early access to OpenAI’s new AI model GPT-5.5  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI brings GPT-5.5 to Codex for coding tasks - Developer Tech News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWZDQW9ZQzRrNUVqamFiNU5WUWtCV0JYcVBaekl2VlJpZVJ1OFp5NXJXZFQxVlRudkJ3Nk9DVzlSZy1kaXNuem5sY1dtMTk0YmRxWmFpY043WVlKWmJEZW91bXVXd3hzajV5Rkd4UXJxeVVROGpRZTAxbkRoZGN5Ym8yQkVCeWZqNVp0cg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T09:00:49+00:00",
+      "summary": "OpenAI brings GPT-5.5 to Codex for coding tasks  Developer Tech News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s new model outperforms GPT-5.4, raises questions on GPT-5.5 release - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1hDeXdaQ3JBNE9ueEdTRFo1QkttODhqYWtvM0Vob0tHUVNwMGFSZmp1RnphZmtNSHRkWGh1QnpCNHAwdVY2ZFlJeXg1TFREbTNxeGpkWnRDTVRxbzBNM0tpNUF3d2FiWThGY3ZVRkh3WW41aU44NDZsYnFldkF3YWkwYWl4V3h6aEJERVhtOXNGTmZzdXNDT005WWV6Xzh0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T08:55:43+00:00",
+      "summary": "OpenAI’s new model outperforms GPT-5.4, raises questions on GPT-5.5 release  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "With GPT-5.5, OpenAI is focusing on AI that can execute workflows autonomously - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTEd3UEdjU3F2QmE4LUg3TVdvbjF0aTBUcHVzckdIQXpqRTliOVM1aDBfSFRpb0JzQjdBQ1ZndnVzRXpIemx4cEJoR0ltSHpDSE1yR0NPSnVhaUNJVGJ3Z081MzZxYTJ2MnBtbF9kdEIzZUZvYkgwemdzS0tLRjBfbTJCSVRJSGVoZGZKMGZXVEtaTEctdkVLTDJ1MFhPX0NvY1F2bGNFa2xhM3RSQjNTek85bUZ3R2tIRHBuOW1tMEtwTEJVUXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T08:47:16+00:00",
+      "summary": "With GPT-5.5, OpenAI is focusing on AI that can execute workflows autonomously  Techzine Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia Deploys OpenAI's Codex Across 10,000 Employees As Jensen Huang Hails 'Age Of AI,' Sam Altman Says - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOa04zM3NOTmZyb2JLZE9DVGhoM2NWRzlZWTUycDJGMUU4Zk9QTGlUcE5iLW9TZFlUM1BMVXRQNEZoZXdoMjhkczktM1RPd2JMYnNEZFc1bFk5OWpEWFVKY2pCUzh2ZzYzQllfYUJfNWxyd1p5WXN0UVp5RF9CNmtxM1FFdE9RaVM3bTZUa3FhX3FxeVV0VzR5aDZUTmdPVXBrN09FWkh4UEY5ZGtGbWIyWE9icHp6ZmxfckwtWnlxNkFnbzYtVDJFazduMkh4VUl1UXB4dzVueDZ4UVBhUERsbk5qQXh0cDIyOHMyR0lmZEZsWXZ2YUkzY2Vmbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T08:32:37+00:00",
+      "summary": "Nvidia Deploys OpenAI's Codex Across 10,000 Employees As Jensen Huang Hails 'Age Of AI,' Sam Altman Says  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils GPT-5.5, Challenging Anthropic - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWxQVVpJN0VoWTFsTkdNMG5td29HWjdUVk53QkdqX21YV3BwMGNfOEFXVWFDMUtfQ3kzZjByR05lemp2dWpqNElOc3ZabVIybGt5WGRlNXpwdTl3WEtvTE5yX1pJb3ZpWWxQdnVORjdIOEFGRVRqYW9tR1dLdXNQYlR5SkF6cmJW?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-24T06:51:48+00:00",
-      "summary": "OpenAI Unveils GPT-5.5, Accelerates AI Race Against Anthropic  조선일보",
+      "publishedAt": "2026-04-24T07:08:46+00:00",
+      "summary": "OpenAI Unveils GPT-5.5, Challenging Anthropic  조선일보",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,6 +123,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "DeepSeek unveils new AI model, targets OpenAI and Anthropic - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWEVmNkhTUjZ5VEF2dXc5ajk2LUNtVjZlWUs0aERyYmlyaXR5aDdya1ZHRDgtdkc5OTI2cXY1cnJsQzd5UjVXMFk0RG5IYklncDRuLXNxT01fSjJRUXN0SWQ1QkItdURBbGxwX2dRUkU3RjY4TElvNHJBTWk2emwxUTVwWkZaN3piN3hzaHl6SHZCbjNRV3JTVGJaVTI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T04:41:37+00:00",
+      "summary": "DeepSeek unveils new AI model, targets OpenAI and Anthropic  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "China Catches ‘Lobster Fever’ as Cloud Companies Embrace Openclaw - The Good Men Project",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTVPQnFBMWtUbktfUElld3FXU2hSU1BoeDhncy1sTmVfN3VqaFY1YzYtbzIzS2xpT2RPeDctd3JVVTY5SWxzWHZaUDc0N3VRTzlZNWI0M294alZzZkRYeUhtQnlOcmJRcGo4SnRKelFTUGpnSUpheElkWXc1UXF1YTNnWWZHN3Q4MmM3aTkxQ2VGeS1DcHltREhySnZ3bnRHMUYxTnl1T0ttaF9m?oc=5",
       "source": "news.google.com",
@@ -49,15 +139,6 @@
       "summary": "China Catches ‘Lobster Fever’ as Cloud Companies Embrace Openclaw  The Good Men Project",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI says new model adept at making AI better - The Mountaineer",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRG1TMzI2X3lWcmppZnJvZXhzSXdCYmxFSWxqSmtFc2FOb1hDNzczVmpBUEYySDJRV3laT0R1OTN5emx6ajh2MGFvNzVkeGlXNGR4bVpWcU1fUWtINXVzSXBGN3N6cXc5TEZIR3FxaTVJLTU0LUJvenNlUWZjSU9talAtNEctVmFCU0owZ1hQN1IwOWd1NnozYUtzZ1IyVjEwR3gxdExjdmQ3WHpXMWZtM2d4SUpmOWp5WEFRbXhhaHpTSHpiOXVOSHZtYVVySnNpMFQwT05lMlNFdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T03:17:48+00:00",
-      "summary": "OpenAI says new model adept at making AI better  The Mountaineer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI’s GPT-5.5 officially released, April markets resolve YES - Crypto Briefing",
@@ -78,31 +159,31 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire - Bloomberg.com",
+      "title": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaEd4bVA1T1hmYWdWczNVWkFzLWhFQnF3ZlhjWXpPSXVLRW55Qi1fY1F1MWVTVEJwU05YQWlHODJVZUVhbG1vY0dOUWRsQlhBalFYaGxYMzB2b1hQLW9NRHZPTy1vU29Ud0RnUm1KcTRxV0hYUEd1TWJ6YkVGc2xqbHB2dGRERDZFVFFKSmJvSDc4b250V0cyay1MbUEzUk5lLUtiOGp5ZVZTYnRpYjNOcQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T02:36:00+00:00",
-      "summary": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire  Bloomberg.com",
+      "summary": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire  Bloomberg",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI says new model adept at making AI better - Key Biscayne Portal",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObkR4RUZnVmN1clFZM3VHSWFRS0NsUGhiYTRscE00VWVyalo0eHZ5OTNieXZWQTZTOTFVTDNBcER2MUViYmg0ZHVJWUM3U21SRWFycTZKQzNqRzZiaUQ2ektKTlltT2NWclh4X3VCdmctYUExc2tLNmtxMDVlVUVxcVNXZF9faDJ2bC1kcmVlcURuNExEM0IzWDBIS05ZelZSS3NkVHlXX2pocVllbFVlVzVxNTI3TmVjZHlxQ1M5Smh3eW9GbnN6cVNvNWtEbWZFREJVWlJmb2Y5SW9aVnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T02:18:03+00:00",
-      "summary": "OpenAI says new model adept at making AI better  Key Biscayne Portal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finds 18 percent of US jobs face AI automation risk in new framework | ETIH EdTech News - EdTech Innovation Hub",
+      "title": "OpenAI finds 18 percent of US jobs at risk from AI as ChatGPT use surges - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkxjV3pfa0huREtTMjhTVC1JZE1XeGFiNEVJd0ZNVE1CSTZUaGZUNzktN1V2c3RlclV5V3QyTnpLbVdMdDMzb3I5VE5Pck04Y0hwUlBoZ0g3QmczSUlaRkhBd3lBQUstMFVwQ1hhVl8wVXFXRDRSMnAtUEVLR0U0WlVEODBaSnlnNk5GN2FpcFpzQmVwMkxqbFp6OVdxUWJQOV8wLXpEd1Fka185U2NpWjJ6QQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T02:00:17+00:00",
-      "summary": "OpenAI finds 18 percent of US jobs face AI automation risk in new framework | ETIH EdTech News  EdTech Innovation Hub",
+      "summary": "OpenAI finds 18 percent of US jobs at risk from AI as ChatGPT use surges  EdTech Innovation Hub",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic blocks OpenClaw's founder from accessing Claude AI, reverses decision in hours - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcjlTVDhZYlplT1k5ek9fdl8zNk5mYlEyeHlMaE8wMU1FaXNJQllGdmVHTk5kNmQ2VHg4dkpUWFhXb2p5MUU4UFJiM3hpRkRaeVVGQkFPeGlEV1ZqY3VDZUdyQ0Q1MW0xWjNQd2JzVl9fbkV0X2FDbFEwVzRnUVZpRkt3OGVMMTMzTmZRZWtteGg1R2Uyd2NkWmF1ajJPYmVPM2V2RFhvMWkzdG9ialFsbGFfNUUweTFYVXd0V1RTeWRFWkhXOE5nc1kza3NvN1NWTko3X2poZzhxdC1IUlBDWndnVVpJLVJQRjgxeF8xRVdiY0FtNW4tWm5aNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T01:28:59+00:00",
+      "summary": "Anthropic blocks OpenClaw's founder from accessing Claude AI, reverses decision in hours  MSN",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "A dirty secret in disguise: The $17 million contract with OpenAI - The Orion – Chico State's independent student newspaper",
@@ -139,87 +220,6 @@
       "summary": "OpenAI Debuts ChatGPT for Clinicians Free Access  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Without the Headache: A Hands-On Look at MyClaw AI - North Penn Now",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTBxMmc5NzR6Q3J3am9ESEpFRlFEOXFEa2RZenYxZV9UTnpRNHp1Qm9CUF83Q0lzM3V0YVVJY0xCdWdscncxU0x5S3JWMlRoV1F5N3dPVGJVTUd6RWplT1RfYmk5WEJpbjBjUi1MVEExZWE2aVR5cGZuakF2eG9lVm03aEJTU1dkYWpwYVl6LXZ6bWdzTUtvb0RKbkJyZm43SGpR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T00:44:13+00:00",
-      "summary": "OpenClaw Without the Headache: A Hands-On Look at MyClaw AI  North Penn Now",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Airbnb EMEA chief Emmanuel Marill jumps to OpenAI as Managing Director - EdTech Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDhROU1OVE8yQ205TF9tQ1VSOXdTOXVJeDlpRzBYU2hjSDk5d1JvZEZ2dmR2SzJRR25faThnVUdfNzJzTkp1cDlpWGdfUU1vTEV5R0tWUFVYUlkwRnFqcE9uYXM3WDhQYlJkQ0tUQWZoRXlNUUM0NVk4ejE3a1pGdXlmaVdYcndYY0Mzc0RkRVZycUk1NzQyQ3NrWnhnbS1wUGg3bFVHZHFaRUtIXzNadw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T00:30:32+00:00",
-      "summary": "Airbnb EMEA chief Emmanuel Marill jumps to OpenAI as Managing Director  EdTech Innovation Hub",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "I asked OpenAI's research leaders if AI will take their jobs - Sources | Alex Heath",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91SlFjU3A4TFF1YnExY1N3YWpDaUR4cXI1U2czdHN5aldpNVVRcUEyN0NpNWVCMUZXOTJMejRkUFctajZ1b1E2eWlIMDR6T2JQM0lQVmVuMndidDVCUTBxOWxHVGhnU0k?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T00:23:36+00:00",
-      "summary": "I asked OpenAI's research leaders if AI will take their jobs  Sources | Alex Heath",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI releases \"Spud\" GPT-5.5 model - Axios",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZUGxueklxTlY4RC1CSVRyZnhmV1dGWFdjLWxWNXFSYTFPbzNQV2stT19yMDB0NlFhMHh6bkVaMUdsdExWSE1uRkdLQWdyQmpXcmF5N1R1UTRyc1ZSUm1VN1NBV0tQeTA4S2pQMXFYX2w?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T00:08:16+00:00",
-      "summary": "OpenAI releases \"Spud\" GPT-5.5 model  AxiosOpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’  TechCrunchOpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT for Clinicians: Free AI Documentation and Research Tool for Verified Physicians - HIT Consultant",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGw5ZG1zTlh4RFFFeHdpRGE4MGpYZnluUkE5LVRWNm1wUXJiQXVHTjhwRmNHMDh3RF9CV05qdnlOcjMtLXhJN015ejJrYWY2c1QzdkxzWEJZeVo3YkNUa2hndkRGVHBVVEtURldPazdEdjhUSXNpUEJuY283dnE0Y0lFeVFER0lXT0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T23:36:13+00:00",
-      "summary": "OpenAI Launches ChatGPT for Clinicians: Free AI Documentation and Research Tool for Verified Physicians  HIT Consultant",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Announces GPT‑5.5 - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEdzJ0bEdRZEUtbFBURFNDdUxVaDBRLTNYdGZmYWlTNHZaNWk3NXlhT3hWVWNNVldhLTlvT1IzcDkxRG1HOGpVX3J0TXVTTW5tbEpucG9YRlZNMHc2cWY5Vmphc3NDVTlyaC04TVBNa2tjbnRRb2x6VGMwWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T23:16:22+00:00",
-      "summary": "OpenAI Announces GPT‑5.5  Thurrott.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Teases GPT-5.5 Upgrade for ChatGPT - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTWo0OVdBVUJUMVh1RkFhNDlodHpUVlotVHNvWHVOSVBOWDhJWU1GWHVpTUdtVXVNRmNyOEVuYlc3VzVoSGJNLUZUOE1aN1Bud3dKQ1lQMzkzS2xhZWtPYWJ0NWNkQno0eGtFWjBXaEh4UWgxSDNJQmpqbXpBcWRIR0F5blJwNFFtVHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T23:16:14+00:00",
-      "summary": "OpenAI Teases GPT-5.5 Upgrade for ChatGPT  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Databricks partners with OpenAI on GPT-5.5 - Databricks",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43ZWF1MUJIQnQ3XzN1YWZNcTJMVC1uOUtEa01KNE1PbUN0Q2l1Ync2NUV3SkV4cGxHNzZSMnRGLXNOZFVlcFJzWkh4Zjh4MC1RbVo4UUVwQWlPNkppZXBDUVo0QUtaREY1NTdkbU1YVllTZWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T23:10:02+00:00",
-      "summary": "Databricks partners with OpenAI on GPT-5.5  Databricks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw's growing pains: innovation outpaces enterprise security - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejV6d1BpMVNzaF9Lc0RXcDlJQUxLaFJ4UmsySWRIajhGQWFFcjZxSFZYdWM5VlhjTG1FQnFHcWh6b19GenpTTy1OTG1yVGlFSWdFUUc5Q2QwZVJ1QXdFRDVJTWRxSFNYSXF4TEdsR2tTNGV1dkJJanItUTl4RlR3LV9SNWZJaFdyVWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-23T23:03:38+00:00",
-      "summary": "OpenClaw's growing pains: innovation outpaces enterprise security  digitimes",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
