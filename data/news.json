@@ -1,34 +1,79 @@
 {
-  "generatedAt": "2026-04-24T23:36:01.723740+00:00",
+  "generatedAt": "2026-04-25T00:08:17.803560+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmF1V2lFZ2g1cDUyVTRlb3hlQjlZVXEzaWwzdXBFck1DelFsUDlLYm9QZjg3RVNYOTNyNFo3TGtBVkFMY0drZlhscEJwc0U0LWk3dm1nd1hFVlVQd2lpQlAxd3gyU0x3R0JYbUxPeHV1STdhcG1sbkF0T2JzT2FiREZqcmFHdGJ1UTdtM0xtNjF3bXZtR2Q3WjZDS0dTOGg4S3BxeUNISHZwZXJDZVlDT2JkdlMxNHFFMk56NzY1RXVKak9teVRidlpTY1dERHBLWXYwNXdmdnlZX3ZhQ2QtaA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T23:58:18+00:00",
+      "summary": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial  marketscreener.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman ‘deeply sorry’ over Tumbler Ridge shooting where 8 were killed - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZ2ItVFBtY2Nqd3BwbG9zOUVfcS14S0tuVXJ6WUdlS3BKRWNjR3ZZbjRzenFYYXdzTF8wZXJGRGhtWXRKdERnR3JiZjcwQnBoamt2RGdHZTFXM1IzbURCdEFOZjFCUlFrSFFuTWRUTnVBcFc1dG5PS1NmNmJtR0hQa0VPOVY5T21SOTgtRWpuUEdheW85VHc4Y18wT0g2ZUdVVDd1MWVvZEhfd2dUMzZ3dFNJNmRlOXFBblVvWUdENF9qNTJXcmVCNm9vVVhhX1lJTDF5ZU9HeVIzOU00b3JfVzlzZy0xbExDUnZlMFB1a0hNQWs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T23:50:05+00:00",
+      "summary": "OpenAI CEO Sam Altman ‘deeply sorry’ over Tumbler Ridge shooting where 8 were killed  Toronto Star",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "US judge dismisses Musk’s fraud claims in OpenAI case, plans to proceed to trial By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2hrdEgwdG9HZkt0d3hNSHEtYVlaZ3FCb2NJTmh0dFlYck9rMlRJa21DRVlLcXB2akJTcXFXQnZpVGFrRUVpaWVod3VDN3RfOHZfNTFKZWgyWE9GRVVNR3hvY1FZejdQZ0I2VWlBWEc1UUFkZkxQaHRkNkJraklHSUJkNG1iWFZQWXliOGF2aDZIYUxtWWVLbEpySFpLRWNIOGVJOWpUb1ZmMkFuaDhEd2RGUTVTaEVxd1hxYmVkeTd5M2NQT2JGY29WNEtoMHlp?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T23:44:14+00:00",
+      "summary": "US judge dismisses Musk’s fraud claims in OpenAI case, plans to proceed to trial By Reuters  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "US judge dismisses Musk's fraud claims in OpenAI case, plans to proceed to trial - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYm96c2MzaXpMQk8xOW94OVBHS3VibFQ4dHIwVHFtOXZ5dm56ekhpd190QlJRaEN1M05KYmlDS19ja2xzc0pHQ3UxM3U1NDN5UHZ6OVNleXB2dWpoNXhBSnh5TDRtYXRpWHNQZ2xTZkZZbi1GZ2Y1el9fT1ZEZzMxY05hWmJXbVp4dW9FSzJLRDJiUE5SV3U2MG44UVhNTWgxcEpBcm5yTHQ1UnR1WFBabQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T23:39:43+00:00",
+      "summary": "US judge dismisses Musk's fraud claims in OpenAI case, plans to proceed to trial  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Altman Apologizes for Not Reporting Shooter's Account - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUEJzV2F0dzQtMDZoV2RyNFRjN21FTmZUUGNLMEpzQU9Da1JCc3FhSnJiUXFobUt4QzRVX1o4bW85aVBJclBRVDNiVDl5ckJHZW01Ti1FdnlYbzNObm1CRkJBNXMwVjI3c2NFbk1GMUFPYVBYRldWVnBRS1NGZkNsZ0tQY21JZXlkMEw4ZEk5QnhjbVB3SndBRzh2Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T23:39:00+00:00",
+      "summary": "OpenAI's Altman Apologizes for Not Reporting Shooter's Account  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "US judge dismisses Musk's fraud claims in OpenAI case, plans to proceed to trial - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFdicWNBclBnaGxEVUI3cGFTWjJRLUd1TFRWZTd2WUMtbmFhclF0N2I4T2tCZXF6YldTSXllSWlyZGUtSTdNQUI2elBVRTBTOEN0bGZMMm1HNUF6TjhOelpxeXo4M1BUSndCWVc2cDRMakM3UXBGd3VlZkJhUW1TMEVDZGpYbHR0c1F6amotYzVkdm5hNmFYSC1SbUVOLUNmYVBYejh5YmluaFBhWGFlMktSUm50SjVqcXBuSWVqUkRiTFlRUlUxenZDWXg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T23:35:37+00:00",
+      "summary": "US judge dismisses Musk's fraud claims in OpenAI case, plans to proceed to trial  marketscreener.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Former OpenAI research scientist launches new AI model for Tencent - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTlJNzlhcGFLQ1Y5TjZYdlRuRm1UN1JjOFhub2VnX0dSWUkzVjZiQ3BrX2hNdWZQekJ1WGtiWDJlTURZZkRfeThPdDdfYndpNEw4aVg1QXhvSmhHWl9KRFBGUXZkbm9ZZGI4MTUtTENXMl9yWFhfc2wtQVdqSFB5cmI5NXZpX2NYU3JON0NNVHJPX3R5UHpMU2ZmWlZEbjl4VU5CVzBWbXBYSF9kYWZUaDRwZ2JiQ3BuWHZ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T23:15:00+00:00",
+      "summary": "Former OpenAI research scientist launches new AI model for Tencent  Computerworld",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Anthropic Overtakes OpenAI with $1 Trillion Valuation in Historic AI Power Shift - Android Headlines",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNS1RdWtKcWdKUkpjdThnbzBNQWh0OUIxMzJpVDlHZkM1QWZWVmxuZkhjMDBLNkV6Sm1mRGNDU2dzMHF6YWYtOGsxLVJKQWRxdldSLVBHQ1l5bDAwX3dtU25ndVRtVVYxaE9Jb0doNEY4M3J0SXBLc2p3N2ZPN3hHazJvLVU0cFNvem9mTExzV1JVTkRTMEQ3b0tOQQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T23:13:34+00:00",
       "summary": "Anthropic Overtakes OpenAI with $1 Trillion Valuation in Historic AI Power Shift  Android Headlines",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Altman apologizes after OpenAI failed to alert police before Tumbler Ridge killings - Goshen News",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNU1ZQnFJOVkyR2wxTlE5MVpYSlhHT1kzbzJvdDR1bmVlWVVzNnNZdTY1eW51MDVINWJDYjctMHFtRl9EY0dkV2ZOQnhnSnA3dVl1TENTdzN5Wkt5dDMzc1NYMF9mbktHVHo2SFg2aE8xbkwtUjBpOV8tQTlIc0s2TFRRNXBlMGNxVkhvdzFWcFFGR0VfTDVCTXZINlJyaFBOVHZwUGFMYnJxZkh5RDZ4Qm9mQkR1UDlPSmp1TFBlMVFVYWQ0NG8tWjlVb1YydTRKVVBCRjhaWnFSenhpRmYxOGduM0dIVXg2LWpmcHNBMXBFVnUxTUF2amlqMHJSaGN0OEltQ2tQUFBqMEU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T22:34:36+00:00",
-      "summary": "Altman apologizes after OpenAI failed to alert police before Tumbler Ridge killings  Goshen News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Sam Altman writes apology to community of Tumbler Ridge - CBC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeGRiTnpJdHVEODU4eVhTUGdPU3NuS2lUa1l4Q3h1Q29JWkE0N0R0cDAwbWpCZ0ltZWg2TDhiSjh4Y0llckRWeEVqTTR4bWt6ck4zMkNUeFlqakVCLXBsVUxGcENFcDlJLUlRVmFQWmF5eHBlWWwwVGlRbHR6M2J5Sk1hdFRFWERhamJidTVKMU1oLTdm?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T22:21:09+00:00",
-      "summary": "OpenAI's Sam Altman writes apology to community of Tumbler Ridge  CBCOpenAI apologizes to Tumbler Ridge  Tumbler RidgeLinesOpenAI boss 'deeply sorry' for not telling police of Tumbler Ridge suspect…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,6 +114,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI apologizes over missed warning following Tumbler Ridge mass shooting - Williams Lake Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVdJajhZXzNWZFEtS1VPLUJuazI5MkNPQWRSTnctZ1dMT2VFR0lwRVMtck5MS3kxMTFzMDdOeVV5bWRrOFBHdGtOeVNPMWI0anNkUWNOUUVsUEtqbWNfTWtSb3h2LTlwcGlObTVlV1hUNUozR092X3ROcnM4XzVFSUJrek5rdmp4V0FSaDdXTmRyT0Z6ZEkwWEtCM0lSblR0cmt3UjNoYnY4T1dhdHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-24T22:04:01+00:00",
+      "summary": "OpenAI apologizes over missed warning following Tumbler Ridge mass shooting  Williams Lake Tribune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Altman apologizes after OpenAI failed to alert police before Tumbler Ridge killings - WRAL",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1B3RlA1ay11ams3MTJvaUNqbHcxQjlCTHVyNVFBWDdkc1Z6ZTNrSVdVVERrdWtfQVVNelFhQkxMLU9zd1dQY3hKVjFwRzJqbWNCY1ZhakhVVTJqcDRtS244QjJMS1ZpMnZlbUhVQksxRGpPeGsyMzdSS0xYRERCV3dPVmFITTlxcll1YUNtUU1CWnZuNXVKa3Y5VlFpUXBVZ3NRTXd6QUNPS0xzSmtlUlRrdFBmbGhpRVE4?oc=5",
       "source": "news.google.com",
@@ -100,7 +154,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY0R1QzZ3aDhTbGJNaHljd1ZFQ0Q5bC1nZk1tZU53Wk40aVRJMjFsTUNnTUFmLVk4ZTR2WjYtYjl4eWdBb0F4c0lCdWtkcmZOeS1EZW5RLVYtWjFRdWU0SThUUUpWRmRob1Q2Zi1fT0dKSlZlb0RPTlRqVEdubUJUMjAyTVM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T21:56:48+00:00",
-      "summary": "OpenAI’s Sam Altman apologizes to Canadian community after failing to flag mass shooter’s conversations with its AI chatbot  CNN",
+      "summary": "OpenAI’s Sam Altman apologizes to Canadian community after failing to flag mass shooter’s conversations with its AI chatbot  CNNOpenAI's Sam Altman writes apology to community of Tumbler Ridge  CBC…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Altman apologizes after OpenAI failed to alert police before Tumbler Ridge killings - Temple Daily Telegram",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdkVQa25RbWZJTWZBMDVlQ2lCdktOYmNxSGNqM0xhMldhZ1NQakxuUkYxRnpyWGNTTTdpRmkyM3lOaTlxODdPZVZzdy1yT182MVBRdjZ6MlBqUHp2QUpPcFU3dXZGR2ItYXhFb2VRc2hxNXZERGVnanRBbHd4Z0ZfdFFPOVRyTmpxX3JWNFl3VnZMRFgxcFE?oc=5",
+      "title": "Altman apologizes after OpenAI failed to alert police before Tumbler Ridge killings - Oskaloosa Herald",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcW4yVU5OcDkzVWo3d19lanpWRGhXdlRQR0cwLTBpbXRDdVMybkM5MGFDWDhLaWE5QlZld0xOaFA1SlBZQ2lsUXVYUW95ZHM4RWlIdVBXWXVoNGljYlRTZ2lzOHJVV1pfSUFYb21DM2xaN2o2SjBHNlhZTWVyaC1haVZCcXlzNGkxZW1fVXFrWlRLTVY3NnJ1ZDZrd3VFWFFDdWVCdV9XWnprNG9jNFl4dkE5dXpxN1h0V3E5Qm1VMDdXTURIWTg5RlpycVQzQXRILVRia0ppX2VKMldXZXBCdmtsNmZjUE1RWHpBTWdxOUNJT2hFb0p1eU02bVdhNko2MUxvRlNSTGMxdw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T21:55:26+00:00",
-      "summary": "Altman apologizes after OpenAI failed to alert police before Tumbler Ridge killings  Temple Daily Telegram",
+      "summary": "Altman apologizes after OpenAI failed to alert police before Tumbler Ridge killings  Oskaloosa Herald",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,38 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI CEO Sam Altman 'deeply sorry' over Tumbler Ridge shooting where 8 were killed - Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zTVRQRGhwaWhxNVJtbmlxYmJjRm9TMTZmLVhEOXhLYXFxWm9ydEZrckJBSzBNT1ZIQ1ByZVB6VzdOLWF0VkFqSjlCLXcwbzVva05QRnNBTTdzc0M4QkRNNXp4YXZOV1FZallCLWNseDBFdVhoeVhr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T21:45:00+00:00",
-      "summary": "OpenAI CEO Sam Altman 'deeply sorry' over Tumbler Ridge shooting where 8 were killed  Yahoo News Canada",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Ai Arms Race Heats Up as OpenAI Unveils Gpt-5.5 And Pushes Toward “Super App” Future - Sri Lanka Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXAwSHhaMVFhUXBFMnFhaXZPVWdPX1Y1Y1NzcDZiU05NMnpfay1mNzRxZEFmSWE5S3RvUWdoMGNVQWFPeHhyZU5HamJvaTF2NGo3LVN5d3VvSmwtNGozeVlWUjlWYU5jUks5bzlpNGluTUZydk04ZWpmX2NPaUtCTVp6RlYwclV4STFqN0xFSWFxWVUtZEZxbDFQZ1R2OElLel9yQ3FrTUxuZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T21:30:00+00:00",
-      "summary": "Ai Arms Race Heats Up as OpenAI Unveils Gpt-5.5 And Pushes Toward “Super App” Future  Sri Lanka Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI releases GPT-5.5 Pro on Venice, confirming April 30 launch date - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNclRXQ3Q2UFc1TnhHUGNCeVJCOFdrcWRsQUNIMDhiSVFvZkdWeDZmSnRVMGFXMHppeXN0cU93dGpma2k4OGRKbHF6Q0Q0TUlkdTQ3NXNsTElVczh4Qlc4cU43QTVyRkU5M3AzTDROeGd4RFZFOGk3NHZtRk1ib1JySGhVYXdsYlJFVmE0SUMxV29TYnhqbTdlQkd5cVg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T21:27:47+00:00",
       "summary": "OpenAI releases GPT-5.5 Pro on Venice, confirming April 30 launch date  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Sam Altman apologises to Canada town for not reporting mass shooter - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX3V0c2NxcXZTb3EtOEp4NnQ5VHA5MG9SLUVuQTZCM1dWZDNOOEZraFhsengxWlczb3dMc0JhUjJubXZndEVWQm9VZmJFZFJEd1pOMnhiVDJ2WXdPTkRRdzB3MHpOZFMybmthcmJ0TkUwMmhicFZ2Um5hLTRxRjRzWG13S053d3ZMT1RmZ3NkSnVoelRBd2QtNHFMYzJwWXlJdkkyaUkxUlZpclR6eUNaWGd2dGhueVBVdnpZTWpwaE9YV1VQWGE4UVJhVVNVWHVMMGdZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T21:20:25+00:00",
-      "summary": "OpenAI’s Sam Altman apologises to Canada town for not reporting mass shooter  South China Morning Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,38 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI CEO apologizes to Canada town for not reporting mass shooter - Community Newspaper Group",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUmowMVVyVjY4YzFwTGVHM2pmN0plRDh5NF9oV3ZFSEVEY0JtT1NzU1FsUGhYdF9ONjJiMFZLWWc2aE9HbVN4d09qMVZKeDVVSzkxOEtEOEwtR21kdWJpWE9lVUNXOVB4LW53WmxBbGhyd3ZnU08tWnc4VUduV3h5NkNNTmNoRWlKNTJvVmZZYmxzMzlYWGF2SWNqWFBBbGtqeDh4N25qRS16YTRBTlJkNkdkU1lxWFgwQi0wUkxIWm5TZFlQWUp6TkNUV3pqR29SOFQ5R1hCSHM5VXlsdjdUenVIZWZRaEZva2tGX1NxaS1zYk16Mlhpdi03LUE5dw?oc=5",
+      "title": "OpenAI CEO apologizes to Canada town for not reporting mass shooter - The Mountaineer",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUWMtNWxSbGszTWJ1aWsxcC1TSVNSbW93U1A3MjdNWEJHalE4LXdDOWl6eGlybTJ6Q1phaElTZUxNUVdHZU5raU9GM0VWMm55cnZDbzl4MldrX3R0STY2czlRdjNuNDZuZHJjN0ZJOHdSVDJJOVd2T3RvOGRPMGhFbVRmMTM2TDAtNlVIbWN6RW9pc1J2OEZDYUVJdFRTTUZBT2NtQm42VEgtOVFGUmk2OTRZZTNlV29hUGpwZGpRYklPUlpBQnVZNTdRdnBGVEw1eGZlWHpZUmFYMmFjLTNmbU1nR2hsa0dXZUd5cmtNSjRiOHBi?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-24T21:01:19+00:00",
-      "summary": "OpenAI CEO apologizes to Canada town for not reporting mass shooter  Community Newspaper Group",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO apologizes to Canada town for not reporting mass shooter | National | lebanondemocrat.com - Lebanon Democrat",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQ3JtR2JMLWp5ZzUyU01pbFBnaG9LaWpBb3RqSEZYVDhQLVpYX3gtQ0NVZFVzR0psZGw3SGhDRjJ6UEw5a0gxbFllemNOTW10WWRfeWtjdk9aRTRiRmlLR01SMWFKU0IxVHFCcnNRT3Q3ZkV6Qlg4dVZMaFRwRnJjZndMb3ptdFo3cW5FUV9CUnI0eW9kaFUzaG4xZ1UyUVVKQTJhMl85MmdFdXo0XzB6bnpSM05MVDR3elc1LVJUdXdBUC1rZ0JJREZ0SW9CcXcyQVZJaVBHTVBFYk9XQk5nZmVsb1VJYUZHaGpNNmVFeHYtMVJ4LUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T21:01:19+00:00",
-      "summary": "OpenAI CEO apologizes to Canada town for not reporting mass shooter | National | lebanondemocrat.com  Lebanon Democrat",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO apologizes to Canada town for not reporting mass shooter - Barron News-Shield",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVZBYjBheWlILTBPdmZfQk15eC1ZT1ZyS1kyLUE0RTREUXRrMDVwYkJfaGFUZ2oxS3pxaUVNQnB3RzJEdmFvV19XbVRxd2RVZ2VHQW9Vd3ZWanVjM2h4dmtJNU9JVkFXcG5DWWdtVGtlN3hvVDRyd1Bab0VuMU1vOXVXSkItSmZfeW5XMi1iSFN3VGNkRmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T21:01:19+00:00",
-      "summary": "OpenAI CEO apologizes to Canada town for not reporting mass shooter  Barron News-Shield",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Ads Are Worse Than You Thought - planetearthandbeyond.co",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdG0zVU00ZERGQklZM0EyeEp2TWFsQi1jWmo3aVo0RFhOLWsyX1dFNTBpb2hxaE9nV3Zad21kOHR2QXRrY0Q2X3hwTzY1RDNBeEhUaVdPRThDdExTMzJjek5TaEc5dnhob1IxTUVfS0tpV0tSczZoOFFhUjhuVmcySkpxbXdaVi1pdkdPbFcyamNGNFlGLUt3a3JleXVRd1ZjRkNaYldac1BSRVpaU2JYNDFkM056YmFiVEJGaFBxRTNndUwxaVB3bmJTaTFxQ0EwWlc4UE5QaldQckw0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T20:43:10+00:00",
-      "summary": "OpenAI's Ads Are Worse Than You Thought  planetearthandbeyond.co",
+      "summary": "OpenAI CEO apologizes to Canada town for not reporting mass shooter  The Mountaineer",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
