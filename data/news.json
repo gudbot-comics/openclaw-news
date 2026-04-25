@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-04-25T22:04:17.155166+00:00",
+  "generatedAt": "2026-04-25T22:53:22.084621+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaXVBUGlUMi1fNzEwNndBQ25IcXNwMjhGcXRhR19XVjdMOWpXMDRvcmh0XzV1TGF0UjJQRTFUT3pRbUwzaGxQUGFMV2ROekxCSkVRRV9pOXktQnRfMi1EUjJ0TlVmNmhZcUtrWkdtZ0o3M3BmMlpUOFVfRjV4dzVFQ1RTcFJmdnl4WUFlZHV3N3Rhejh5UEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T22:14:00+00:00",
+      "summary": "OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police  Yahoo Tech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter - Winn FM",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEd1MlJCM3pTOUdzbFRWOXRiTnZuaWVnY0s2dms4eTVfeXN0MVYxMHQ3bHJpM0tkS29KMDI4RzRVYlh1b2JHSlFiajM1RDNQckJoZW03amdTendLcEFDbHNsbXZjM0ItVjltUXp5cnBLeHpDbUtDZVV1NXBZZkpZYURka2YzSVNGdjM0c0twb1JJRWhJckhYUlVDS3BCcEduVm9yWDhHYw?oc=5",
@@ -211,15 +220,6 @@
       "summary": "Why OpenClaw is Replacing Passive AI with Real-World Task Automation  Geeky Gadgets",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Robinhood app lets everyday Americans buy into OpenAI, but Bank of America warns there are no 'rules to protect them' - moneywise.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW5FdHpfRFpaNEQ4cTV4VG9MYW9PMFJ5SDhlWFYxVFFwSTJkZHdwOWx2OC1HSm5LQng1NlR2Z1h0ZEVwNEJFSjFOWENON0pRajJ0d3FVOUFTTzhVc29nZGJFTHVzYzdJTGlpaDE0WlB1SGhudW5tWjN3UWVxOURZX09rLVNENlJQN2hMeGpNUU5jUmFDZTMybA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T11:05:16+00:00",
-      "summary": "Robinhood app lets everyday Americans buy into OpenAI, but Bank of America warns there are no 'rules to protect them'  moneywise.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
