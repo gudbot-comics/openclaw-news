@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-04-25T05:28:50.766434+00:00",
+  "generatedAt": "2026-04-25T06:51:27.870259+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Databricks Expands Enterprise AI Capabilities With Integration of OpenAI GPT-5.5 - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQnJzcld3QlhRNGxDUVlSRjJHeEpZN3Jwb0FaOTJKZE9VX2VqZDZ1d191eld2UDd4ZUhIRlNFV0dfYnFaQkVsRXBoM2M3Y3VybWdtNnhYRFhUb2EtWHFzck1XRzJhODlhdHI0RG9KS0RUNnJBNC11bVdaYXB5T0xONTFpajFEOS1URXhYY25rQ2NCdkFjVmJYTTgzZEZxcHljVm5MN1JCeV9ZTTBlNVkwYng5UGw3ZWh1RlI0UEp1bGVDekp0OUN3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T06:33:23+00:00",
+      "summary": "Databricks Expands Enterprise AI Capabilities With Integration of OpenAI GPT-5.5  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSGpJY1J4RXQza3BBaWo4VTY5QzFlNUozSlpmbXNFeGlZSDdycjFvazhsSm05THBWRWpLN002TTZ3SXNUQUlzajhjSEZIaTVUQUJVcDl2NDlJd0s4Y2pkSlVzWXNORWpOX21KRkxKV2NjMjNVVm1wUlktd21XbXFRTnE2RUdxTGlKZFhZbUVSM1BLaWRsLWhKT1NKSjk2SWVXQzNxb3RmQWFTM3lOS2loeE1RUzVYVmtFeEo0OEZ3UUxTOXJTUnNmYnl1bmVjUUg5TldqZy1CVFRnVjVfekdsX1R3VjNESnR3S3dzSk8ybUlnV1VFUzdLWG5KbW03Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T06:11:55+00:00",
+      "summary": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Op-Ed: GPT 5.5 – Hype, obviously, but redefining the AI environment as well - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUk1RjJKTE9pdkVOUFoxVjBGbElNRVhXdUJQblpoVlBkTlRFYnZ3UGJHRkEzNGYzLVgzSmc5UnlnaGYzMXZlNHhmTTJVekUyVkkzcW9feFQxSjFERG1tX0xSYUlkM2RUanc2anM4NHhHdFYySkNxUmdGSmJBbG1YY0JxWm1BRW1jLTJJX3BmVDI4R3JkbTV5dnhYWEMzSUFOOEZnLWw2eEMya0QwSU14UUVWLVhGUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T05:58:55+00:00",
+      "summary": "Op-Ed: GPT 5.5 – Hype, obviously, but redefining the AI environment as well  Digital Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-5.5 is here: OpenAI’s boldest step yet in human-centric AI - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVExpekVUajc0LTIzRVFZSUFkcmdoNmdudTh0NnJmdXpWUlNIT1JKQXB5TjdydEYzSG51eGpzWWZiY0llcGpxQnI1d1BZX2FKNHRCY3JtT2J4TUY1VmdkWkM1aF84T19sS3U2bEVhQTdnblNrRHRyVDZvQlhvSl9aaDlIY3hxVElFcVhnVTZGaFMwR3NEak5XdEFiYXkwcU03NHlZYkF2TWtWVUh0UlNYTUIwNzNEV2JhRjNqVGN5RWxaT3dWejQyUjV2ck8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T05:20:03+00:00",
+      "summary": "GPT-5.5 is here: OpenAI’s boldest step yet in human-centric AI  Escudo Digital",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "GPT-5.5 lands as OpenAI accelerates its model release cadence to near-monthly - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHlMMElxbHZUNEwtbzVJM2hnMmViMFB6OV9fT2NTN1ZhYzcwQllmbXBONVBfNWhySUFmQk9PbVk2Qy1pcURzR21oYjdXN0FFQ0dOMVR1Q0hxX0RCM2hyMmhaSDFYWF91OU91YXVQUzVWVVdRdHlyZXJ6QkZhd2d5QjR6T3NxZl9OOE5iWHdkb0JRdEt5NUNBNkUxLWdvblNIMDJ1Slg5aw?oc=5",
@@ -38,6 +74,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-25T04:38:00+00:00",
       "summary": "Better AI Images? OpenAI Expands Features With Update  Yahoo News UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "I gave OpenAI’s new ChatGPT Images 2.0 ten impossible prompts to test its limits, and the results are stunning - Mint",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSDNvU0VKSVVkU0dOUlFXQkhuZ3JHTmV4RWhEQzJUUXc4OVB6QlhCODZVNFRCaVF0MnBEWnJJUlFiUW1fRmNYWjNpTlhwLS1mcXVheW5oN2phcUdLbUlKeWpNTHJjblVYUnB6aXZXTGRfRUxXZWtaVHRKeGNGMDhpMVhjd0tFSXB0dGR0MFJsMFFtNmVjQl9FRDR4MS1zSUxEa3hzMVVWNTlrNy1xNnJBeXRZWTUwQXhfeXJheGktR256ZTZEb1l6TDlaOWJObFB5MDh4TjlkRDNUTVpTZG03QjhuTGRnUURKWk14ZzgzdkdHUkZybTJTREpDS0dkR0s0V0NOc0tn0gGLAkFVX3lxTE5CV1pTVnZIMXhOM3ZneGFtaDNyQy1jdTlfN3pfZ2c3UzZDbnVoeUZjbFBMSVp3Xy1CbDM5UFJZNlVzeDNMY0JuYWh2UUZvWmJ0cnVKczgwTmh0R2RKd0xFaHQ0YVJreHYtY2JmUzdDZlM4WGEtd19jLTVOQ1d1YnBvNFAxYnVMNW51NExPdUNwbzFFZjllNWJOa1FXY1JVR2kwQ010VVRJbW1JalNVYXhUN29OclhDSlI5bUs4TFh6TTJFdkh1d21ldmlRY2w5Tlc4RTBmVkJNMVBzaXB5ZXNwbFhMYVBITVV1OEJBVGlBdjM3akZtTldUR2R4VnRxbGt4RW96ekdOLTVydw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T04:32:17+00:00",
+      "summary": "I gave OpenAI’s new ChatGPT Images 2.0 ten impossible prompts to test its limits, and the results are stunning  Mint",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,29 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Billionaire Elon Musk enters courtroom showdown with OpenAI - Shelby News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTlVEQlFIWmdnZ3kxZnJLbncxRVFNSm9EMkRsOGw1SjRkQjJ2elptNnM2ZWhVemp1ODZmTVU0MnhobGwxRFo3djVzMGxvNURmREhwbGppQmI1WjFwX2U4d1NSUWlScVE0T2czWExDYVhPUE04RGFzUVc2eG1tQjZkcTVPX0g5dG00RlZsOFp0TDhubk9udFRsTUgwOXllOWJEMjZCSGI4UjFJc3ZURmE3V1R0VXdXdkpYNzdaQXNIZzF4Y0EzOWhWLXlkZUNHSmxpQmpITm8tSnZYN0NlUTluTTg5U0s?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T03:02:56+00:00",
-      "summary": "Billionaire Elon Musk enters courtroom showdown with OpenAI  Shelby News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Billionaire Elon Musk enters courtroom showdown with OpenAI - The Elkhart Truth",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcFNDcS1nTkhLV1pQS3ZpRXhqUUdkalU4YUJSaHBQbW5zcXR1ZG9ILWpNbHQxejlHYmdjdVFPNS0tZlNuYVJraWtubTdrSFpLRU84YUYzMk1VcTBZTk1nYkM5d2lEQkdtX3Z3Tng4TmpEa1FBSk11YTlKeFhJcmxqM0RwTDE4TzJmRnVxYmpUR3FoTW1PVjNtSHZUSDQ3aUZWQ0ZVYVZOckc1d2NHd21NUmlZMFFKZWRVazViaWdWcy0ySnlfbVp3U0lENmxJbHo5WDMzQnRVMXk0ZXRHM0YxVE9aWDZ6Unc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T03:02:56+00:00",
-      "summary": "Billionaire Elon Musk enters courtroom showdown with OpenAI  The Elkhart Truth",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI apologizes for not reporting Canada mass shooter - DW.com",
+      "title": "OpenAI apologizes for not reporting Canada mass shooter - dw.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVRzVG4tLV93ME1hNWJHTktFWUJ0YlNVbXdLTklncFJjSXpIVW1oMEhIZTdQTWRadVNEYmVvdnhPRkg4ak1UeVd3ci1qcmhVOERwbUttWUNUa3FsS0llS216RDZKaURWQVhDc19UMXgxMTNPekwzbzlseG85ODB2SERNNlQwMDRULUhOQVBFTmZkUdIBkgFBVV95cUxObTR1RVoyWTEtRHJLLThiTEt1eDdGOUxzQm1DdWh3ZndON1NfdkhjSUFjQ1V6dk9jSndhWHJHOGJFNk9ROFE0bnNJZlhHR0N2NnBEa0RzZEZZVF8tS3U5T01tWTZNOWZZMm1jOEZ0TGloUWVNUEFNUkJZVVpfRGQ0NlN2WFhaUGZlX1NRVWloRnZvUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-25T02:17:42+00:00",
-      "summary": "OpenAI apologizes for not reporting Canada mass shooter  DW.com",
+      "summary": "OpenAI apologizes for not reporting Canada mass shooter  dw.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,11 +141,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0lINU5OenAzTW80alNoRFlXNDhMOVBZZEhTZzJ2N21uaVRweGxILWZVSWlEN3otQTdKckpoei15Wlo4dEpiNjdNZjNxaVZMTkZYS2lZVDk3MjU3UFg2dWQwQmFaMWJ1eFBEOGlZS05zQ1AyMG1PUUFUQzZ1MHVONUNRVnpHMEhHWXctdGZONnc2OUViX2g2bDBxTjJGcEp4eks5bUlnT19iVXQ2M0dXd0xKQTgxR3AyQ0HSAb8BQVVfeXFMTUwzRVVTMGJicjhWaE1IYkx1bXdGNG5fLTUzOUZiWXJlNVg2OXZLd1J6eUVmRkVSMDY5b1FMUGF6Tlc4X0FEaUJOU1JiMkcxZk5RRWFuR285RTBVbkpudmxpaW9xSy1WdUtQQnpqQmk2X1k4STljbkU4M25pd0ZIVFlMclVqRFlZQlJzUm9waGNqUHFOeDBVZ3V1aXJGRGdhMldPb3dmeDBSV2JtZjh2Wk1qXzd2emRqdThuVWdqQVk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T02:14:49+00:00",
+      "summary": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter  Al Jazeera",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUJQRnRoSEJqbE1mTGhOblRuSHR0UHlDTnF5WGY4aWZEZnlreEpzS1UzUldnQm9DaldHdmpUVGFHM3BoYl9fMzlIeUV1bVVpZ0lya0RXSWR2WXVwZ3l4TjdqbW05bEpsSWlNMThUOE5DZXJIMjc1MHlUbWZQeVhBcGRnRlMzZmxfLXNpLUJXM2w3UjM4T0RRV1hSRVZlN2FLTFhUWE9BcjRLYlRvbE5oWjZjd0h0Q2V1aXpCOHNoeTRnVi1OYjJWcnZn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-25T02:13:00+00:00",
-      "summary": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting  The GuardianOpenAI boss 'deeply sorry' for not telling police of Tumbler Ridge suspect's account  BBCOpenAI’s Sam…",
+      "summary": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting  The GuardianOpenAI boss 'deeply sorry' for not telling police of Tumbler Ridge suspect's account  BBCOpenAI chief…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "US judge dismisses Musk’s fraud claims in OpenAI case at his request, plans to proceed to trial - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdjRMU01icVc5RmVqZE5LaFBsOGN6N0I0THdGMmdHMlZPZjY1YW9ldnpuMEFHbFdOR1BBdkdpbXQtUkFNMlVyekdBV2JNcWJpcnRWV1drdW10bzBvbkg4d21VN0xhU2Z1UXhsdmZvLWVBTWNYbTdId2JFWmExOUl6cmR6LVFDb3ZzeVZjc05rV1FpdUtMdzM0SWVsMHpZRnUwWnk1T0pvLXJ3OGtCWnFzd1pjdjBMTEVRUGpMV3diblp0aS1Tb29aaUw4STN3RVBQUUNZbVF0bDNTZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T01:36:00+00:00",
+      "summary": "US judge dismisses Musk’s fraud claims in OpenAI case at his request, plans to proceed to trial  The Straits Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,15 +173,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-25T01:25:00+00:00",
       "summary": "Musk Drops Fraud Claims Against OpenAI, Altman Ahead of Trial  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Florida AG opens criminal probe into OpenAI over alleged advice to FSU shooting suspect - WRGB",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMkNzUGpTcy1oZjhxRG1LNHVaVjczNVZYSFd5Z09WdU05VHA0SjZhUXFZOVdzMnA4X2VMVGp3TDdaTjh1b3dlcDVyY01aT2E2R1EzbjVrdXI5SFhmRFZzczVKVG1UZnNULVpEeEdCQnc2d2pnRFNaSFkxX1Z3ajRaUU1TRHpBT3pGQ1NLWXJnMWF1dEptNEtuY3pMd3VENFRQbHpRUTMwU3lmXzJtZEpZZ05mdjRWeE9XM1NkQm9QZDVZVW1JR0Etaks4ZjIzT0ZsTUFpSk83a3FoVnRBbER5YkJ0X2dSNk01N29kWEJjMHphWkFmY016WUlNV3FhQWwzakY4bUVSR0FndzBCRjhJeS1nNWliVnM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T00:38:47+00:00",
-      "summary": "Florida AG opens criminal probe into OpenAI over alleged advice to FSU shooting suspect  WRGB",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,15 +195,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Florida AG opens criminal probe into OpenAI over alleged advice to FSU shooting suspect - KBAK",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdG9nM1J4UVVmcm5rT2JlTEtwQTlDd1NRVVFNc2JMRkV3eGlLQUUyOGtkcC1MUk9BMi03U2NMRnFIMHc0blNIbmtoN1k3b3JxaFRsNG1Pdk45SVBzT25PaXlmUjdWaUF2aWUzRnNuMkRFREFMbTVyX3hQM2VVaC0xVjQ2My1tTU10Z3VLMTR3cXk5bjhXQmt1RDUwRTdMZFJ6cy1WSnZ1YnZBMDhIZEZzdHo4RTJVU0VfSl9ZampBZ0t1LUJZeGp4QUxDempVQXJCYnVTSGFCbHFFQWVscUNJZEh0eXhtcDVnbTJlSUZHazNsdDV6YkVZbjRJbHRvRjVPSnRiNzFYQ0tLR3JhT2R6a1NWZnlkRHQxckcxQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T00:36:48+00:00",
-      "summary": "Florida AG opens criminal probe into OpenAI over alleged advice to FSU shooting suspect  KBAK",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Nearly 1M Nevadans are regular users ChatGPT, OpenAI executive says at CSN campus event - Las Vegas Review-Journal",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNVZLRm5xbktiUGpwS282NXNZX1NrQUFoM2JnY1FqNEszYy1DcnJUU0s4NGdsV3VBaHE0YXhVajRLazAzS1BfU3VDVnljTkw0a0RHRXNVVnNXSzZWOXFDakoyRUttN3FmZEJNak9NbDNVaXdyeXE5Tk9zMFU4V0ZQcm45MHFUa0hiT0JBNmpBSDJPaUM0Y0JmT3owNXEyZDVnVEdqQ0JHZXV6YlNqT2VUbUwwLXhGUExwaE9EMWtpV0JFM2NaQkhmZ2ZGaVo4cy03Tmw4dlhYU3BfUGZKY3lpUzB4R0t2V1lPbkE?oc=5",
       "source": "news.google.com",
@@ -177,47 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Florida AG opens criminal probe into OpenAI over alleged advice to FSU shooting suspect - KOMO",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWEJPOUp5QkpxNktwbmM5c2I1dHZ1ZzVEZ0JsUTgxZ25JamZndnlSSDlNQm9aWVM3N2VuLW5UU25OcGpXdDBqcEtSWW50dlZoQXRneWVNUEt0eEx3aTRsQ3VyQ2xvZEcyY3M3SFBIMm9WRXZQZWxqdnVRRmt0aUE3MV8yOUN5Wmg4RktJUDk4bS1Rb0loS0VDeGhpNm5wU0JHeWJ4c3ExVVpGUzl4Y3dpSmlIREYtNGdmbEVUMXBXcERwS2dZOUtsbDRENmhuaGp4TWRmWDlWX0FKMW5sRnBwY0FmWk9FS240VFI2ZUE0ajBXQUdvU2FTSzBTeVo3b192X1RHa3RwX21mdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T00:34:29+00:00",
+      "summary": "Florida AG opens criminal probe into OpenAI over alleged advice to FSU shooting suspect  KOMO",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "RAW: FILE: OPENAI CEO 'DEEPLY SORRY' OVER CANADA SHOOTING - Local 3 News",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGxVd1ZCRDMtTF9tbHBYblJCS0JuUVE0UjdGc2tjcF9rTmVVRWtKcm4zMF80YldyTVNLWTNDYkM5SHZZMjRabGN4WWFjd0lrNmtVbVpmVVh2eTZRU3lCUkVlQXkzb0g0a0pFU3dJQVVDbnF3ZlFGOHYwMnRjbzlvNXJXUGZHZ3AtRV9rLTY2ejh4aTBqdWw2aHBKYS0zRnQxZ0tablVYemlWSV93UERhWWgzMlNqZWhaZUU0VmpuMC15NW1mMy1XTHVqTG1BVWVpcW5nTnlsMG5pckNUY3BV?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-25T00:33:38+00:00",
       "summary": "RAW: FILE: OPENAI CEO 'DEEPLY SORRY' OVER CANADA SHOOTING  Local 3 News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial - MSN",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNNlZsMWVOQzYyN2RYUFFlMnZaQmZZWEFwSGlCNDFjc19DZy1FRUE3UDhqVlF6SHAyUVYzSDlpNXlCT2t2d0Rsa3B0aWxzbmJkUFJKcXljTjRwbWlGNElCckt3aDNRclQwU3htZEk4M0pXUnVfUDdyWDdIRXotTEN6WkNreUl5YlEtZHlGYU9pZW95NUNSMTNnQUdUVVN5d2NDZWpKR0dMdERqOVYwV0tsYURiZl8zb0pDT25McUVVT1RFdnNWR09LbUNiV0FOVXF1V29aWlA1MUJORHZ4UHhvMEkwRWV6NFdiR2p1aWZjbEZIYUJ0OWVHMHRRdTJyS1JFNi1rcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T00:20:30+00:00",
-      "summary": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial  MSN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk vs Sam Altman: US Court drops fraud allegations against OpenAI, but biggest AI trial of the decade is still on - Mint",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZXIzd1dJSHRKOWwwYkxnNEFaaFc4YzYwUURQa2JmSy1hajlKbk13YmlrcFVSVnIxRFVYTVdIV2ViS2toRWQ2Szg4VnRpMXBpaFNxc0ZqU0NoVlRrSUp6c3dNRTlMMzl5bFpoU1R6YjlrMWlObVhWcW03bmNVLUdtYzM1YkY4SDREOFYxa2FHSmdraGV3eVVWc2pEemltNHBFbENFZFRYRmdvcEZPcDNUeUM5SG0tWllWTnNYb05ndWRpOUlPbkVtNHR3OFpnOWMtZEFhS0pkSnYtRzFXQ0dBZnlFcFgzQ0lWQl9iQ1hveEVaOUk5ZDc4S0ZOMXp1S2ZhT1HSAYcCQVVfeXFMUGR0RXduQUxNWjZVYllVcHJhQ3VYY2tCaWtQTmZYUUNVRWhzTXFaaFd3TE1lSVJWcXZ3Q28ySWc0MW9NSEN4TmpldnR2cFpiODFUeDF0bS1ubjJGbTNiZVBGU0R3cEotNmM1RVBYQ05TMWFqWndUS1pvTkdSdDNLaDNrX3BNT0ZnM29sY2NseXpKZjBrSHNnOFhxVHk0VUpUUlU4NktmSktBQlpKZVFhMjlPeW1oZENOX1ZvcXJVa1VyZTVpdGdTcWlyNGxCSHdhdldweGppeW1mY3k4T2VhMlplLXE4QjZnendNTTBqX3lpRVJJT3BZbEVGcWs5dTdQTzBDelp4dUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T00:02:58+00:00",
-      "summary": "Elon Musk vs Sam Altman: US Court drops fraud allegations against OpenAI, but biggest AI trial of the decade is still on  Mint",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Former OpenAI research scientist launches new AI model for Tencent - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTlJNzlhcGFLQ1Y5TjZYdlRuRm1UN1JjOFhub2VnX0dSWUkzVjZiQ3BrX2hNdWZQekJ1WGtiWDJlTURZZkRfeThPdDdfYndpNEw4aVg1QXhvSmhHWl9KRFBGUXZkbm9ZZGI4MTUtTENXMl9yWFhfc2wtQVdqSFB5cmI5NXZpX2NYU3JON0NNVHJPX3R5UHpMU2ZmWlZEbjl4VU5CVzBWbXBYSF9kYWZUaDRwZ2JiQ3BuWHZ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T23:47:02+00:00",
-      "summary": "Former OpenAI research scientist launches new AI model for Tencent  Computerworld",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "US judge dismisses Musk’s fraud claims in OpenAI case, plans to proceed to trial By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2hrdEgwdG9HZkt0d3hNSHEtYVlaZ3FCb2NJTmh0dFlYck9rMlRJa21DRVlLcXB2akJTcXFXQnZpVGFrRUVpaWVod3VDN3RfOHZfNTFKZWgyWE9GRVVNR3hvY1FZejdQZ0I2VWlBWEc1UUFkZkxQaHRkNkJraklHSUJkNG1iWFZQWXliOGF2aDZIYUxtWWVLbEpySFpLRWNIOGVJOWpUb1ZmMkFuaDhEd2RGUTVTaEVxd1hxYmVkeTd5M2NQT2JGY29WNEtoMHlp?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-24T23:44:14+00:00",
-      "summary": "US judge dismisses Musk’s fraud claims in OpenAI case, plans to proceed to trial By Reuters  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
