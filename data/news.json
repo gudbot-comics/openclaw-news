@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T16:02:57.136109+00:00",
+  "generatedAt": "2026-04-25T16:58:10.045957+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -24,11 +24,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI CEO ‘Deeply Sorry’ for Not Warning Authorities About Mass Shooting Suspect - PCMag Middle East",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRzZFMlM2VWM0dVUzdWdaeDAzeVhEYjI3U2VBMWxDWWxUc2E0LS1SRTZOTVJDeGVNLVJrQVphX2lFaDNwZjg2TlFhdXpMWk5LUjV0cWVCU1R4dVNuVkloQ3J3bHZyQ00xNlNSUTB4RFpvTFZBdGE4V3NLWWFMdXkwRHhkYV9FZlFLRjdZR3N6T0tSZkVHMmJPRHNyaXhTejl6enFzbXJnczJjSlE5WGNXb3VR?oc=5",
+      "title": "OpenAI CEO ‘Deeply Sorry’ for Not Warning Authorities About Mass Shooting Suspect - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlZ5THByejhJcTJYQ2M4Zm9KWDlHNHdIOFEzVm5ObmZycFBha3RaSTNvZzJSY3hCdFNLWnpURFJONGplRTNvR2JleWY0ekk3Vzk1cE5rRjh3WWFGNDRlTFJ6QWhPNFpSSDJNLTZCNFA1NTJ0Q0JsTXVqdzJVT1lwcDlMTEFLMmMxbGxRd1N4ODZDZm5CakwxbWdxdi1MUWc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-25T14:37:31+00:00",
-      "summary": "OpenAI CEO ‘Deeply Sorry’ for Not Warning Authorities About Mass Shooting Suspect  PCMag Middle East",
+      "publishedAt": "2026-04-25T14:37:40+00:00",
+      "summary": "OpenAI CEO ‘Deeply Sorry’ for Not Warning Authorities About Mass Shooting Suspect  PCMag",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -38,6 +38,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-25T14:16:29+00:00",
       "summary": "OpenAI apologizes for not reporting Tumbler Ridge shooting suspect  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk fraud claims against Altman, OpenAI dismissed (OPENAI:Private) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUUJVNDFhU0JFVkZ0NEl0bktCZTAtbGVac0hLR1lIYWhkd1hkY2FPOHhKR3JQeThSeGNFYnlaT1VsVkp1cHpBbmlwcXhvVWFmbUxCTE1VcHJHWlltM2xvR3pwcXdFWWdFVzhIbjJjSnA0cmM5RE8tb0VFTXZfUDRzUjdzcGNoeFdyT2d4b1AyY0s?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T14:08:25+00:00",
+      "summary": "Musk fraud claims against Altman, OpenAI dismissed (OPENAI:Private)  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,11 +69,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Altman says OpenAI ‘deeply sorry’ for not flagging Canadian school shooter’s ChatGPT posts - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeWFpZjVoSnI2WEZNTmwtX08yR0NKOWtSMEZmVEwzVmdKd3VzbndNQlh0RjdQMFg1U3VKUkhsYk1MYXh5YXhwT2tLV0pydkloQTFhSkQ2aGVWbHdwek15VEhMdGV1dkdnajdJakN0SHQ1aGh5SmxacmJLSFRIVmd3M1RPUm14WE5wZDhIMTI5c3plODlV0gGaAUFVX3lxTE5nMG9GQXlGQnBMemJSX2tBazdGQWRaRjMzWXQtZkxkWDlBV2ZKTS11eFd3ZEZDNjVZUFFKRU96MFFxYnBTSEVZNTRZbEJhTnpON21VQmV4czBkelAtMVpoT20tVjd3Vk9ycDlpRlRnZE5yT2ZMREtfQUlZNVptai1NTm94c29UeXhGdllTNEZvcmZwT2xyWUZfWkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T13:43:00+00:00",
+      "summary": "Altman says OpenAI ‘deeply sorry’ for not flagging Canadian school shooter’s ChatGPT posts  The Hill",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Musk drops fraud claims against OpenAI before April trial - The News International",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSkE5WXNlUGhyTFRPNWVPRENROW9tUVdCb29IQTR1NUVyUWVTRnljcjNFbzNWVzlFYWFscDcyS1FSdDN0RGtEMVFVTDJYb1BnZ2N0US10bEtOck1XeElncThqamU5YlVuaW00OElyWHB5VUI5MThCUU9QVXhqb254YU1ZN3l2dmtzcUprT1JFRFNSczA5S2JkYWdlaEt3VHlx?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-25T13:38:51+00:00",
       "summary": "Musk drops fraud claims against OpenAI before April trial  The News International",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sorry for Not Alerting Cops Ahead of Shooting - Newser",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRkpweHdIZHVwOElVWHVIZ2ZNSENoMHBOYUdITHFjR1JZdnhHNDJuRjR1TXJYQ1dmN2lUSGpKc2hSSlA5SXI4U3VWY0VuNGtTa3JwU2dONG9GQXhzaWVCOEpULXpPNmJsX0pEVnFaY2FrcUg1cnJ1RWY3NGhhY01KSFZaSHR5eXhaOW03eUdMbXJBRmltUTdSNlhGUnJrQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-25T13:10:00+00:00",
+      "summary": "OpenAI CEO Sorry for Not Alerting Cops Ahead of Shooting  Newser",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,11 +177,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI chief apologises for not reporting Canadian mass shooter - Bangkok Post",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYU5FRG5Db3ppenZiUU1KNzVvX21kTWpkSlM0S0hKM0FBNkJadlU3Z0tUb2FtYjNQVlg4UWNscXliTUVmYzFVSUZ2dncxM0dkRVd0elZpWDVxbXdTdTFZOHd1Wk96Z0k3R1FmRlNkbGY5aENUV1JnNG1rNlJ1c19TWEQzdDA3allRTmhfUGlKOHFSZHRMUkxxbWRyS1Fua3JXRENKUUNOUnM?oc=5",
+      "title": "OpenAI GPT 5.5 on Snowflake Cortex AI - Snowflake",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZaXI4UWY0WElhbEM0TzdsZDk1RGgxM0VzMXBTMkNwc2FQWnZNRzRoZTM4Y3RxWWV5c0ZrZ3l4N0xMd3lnWElSZ3VDeEFqWlJwalBJcHE0TFNHalpESS1abFNPV19jVjhtaE8zLXZnZFFxQVY5cmZiOA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-25T08:57:00+00:00",
-      "summary": "OpenAI chief apologises for not reporting Canadian mass shooter  Bangkok Post",
+      "publishedAt": "2026-04-25T08:52:32+00:00",
+      "summary": "OpenAI GPT 5.5 on Snowflake Cortex AI  Snowflake",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -168,29 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Now We Know Who Paid $100,000 to Unlock a Sam Altman Podcast Interview - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcVY1TWRqb0VXT3NpZ0F1SC1FcmVkUndvR09EMWhVSGZZQlJhQ3VNbUhIY1dvczJDTUlENFEtc0gwZEJOVnlpZm1xY0xiQ3RSRUVmS09ZS2RDTEpFVkRZVU05ZnJacXMzWUp2X2NKRHRFVGtVdC1ISXVxUWdKaXFGc3ZxTHp4dkNiY0E4eFdLbHJpczFkYU9BaFZJUFpEM2tseGhWQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T08:32:00+00:00",
-      "summary": "Now We Know Who Paid $100,000 to Unlock a Sam Altman Podcast Interview  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI chief apologizes for not reporting shooting suspect to police - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1JZNVl1eUZzYi10MjhFeEFWbTJMUXpfRmVDWVlsS1VtTlJVRmpsUnpvcE5mM2h6ak9yQ053UHhHRlhSa0V1Z0xQWTZIeFF5djBMMWdrTUpKWll5RFhKZ19YOS1zWDRyRkg1TGtERDBqa1JLZXJYajV6T3lHSm1adHlmeGlDb1pWUzRRX2U1Snk1dDdSbDJhWjZDR04zVVIyZTlNc3dFcEc1Y1M3bU9mX29YUE1VTms3bUx5MzNhNEJISy1qR0E?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-25T08:16:11+00:00",
       "summary": "OpenAI chief apologizes for not reporting shooting suspect to police  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "US judge dismisses Musk fraud claims against OpenAI, trial to proceed - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWd2cWxxb1daV1lSWGc5Zk1naEFtcmRrTFhWTFl1c3BDSm1GN0hycnczdGJFSV93cFVuZ0lOMmVKbHRndHZxTVNTT1BKUXJtdTh0WkFfbjhrWUw2dVZ1M1BES2tZaHpYMHdUNjBFRUxLb0lYVy1wMW5EOEFhWnhBbHd0Wk5hYk9LLVlkUVNKQmFGbVlPVUxZOTdWN0VIc3JPNkYzM3BXOS1KNVBYN0xJaHViN07SAboBQVVfeXFMT0NncEM4TER2OGhTNVpkMnZRWk12djYzc1BzMEFnZE9WUDdqRTRGZFBxOGxvcG5ueEZYUlRYcTJ5M3lPOUZ2TllQa1BWYW5rRmxOR3FQXzFZQWVFS2hNS1ZJYnJWQm5kREtWVzNxVzRmOVNwZk1hdWltcDBUSElnam1YTjBTc3dYN29lZENvd1RCQlc2bE1VcGlCV1ZZRlBrZ3AwQlFLejJucGZOYkhrUzFPZmNXQzJEaG5n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T08:07:56+00:00",
-      "summary": "US judge dismisses Musk fraud claims against OpenAI, trial to proceed  Firstpost",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-25T08:00:10+00:00",
       "summary": "Sam Altman Seeks to Make OpenAI Profitable  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk's OpenAI Feud Intensifies As Court Dismisses Fraud Charges But Clears Path For High-Stakes Trial Ove - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNa0xkZzFQRDJsR1gwM3djd2dBTjVQVkZIcWZscEt5M2ZYYUk1MFlPbzhaMGJXNkEyOE1zN0dINm5lUEZWcGt6SFBzQ0Z2dXl6NFJHd1JDMlFFLVJMVEllUEFDWEVDeE1jN3Yzd21tbUVIc1pKZVRPZUZXOG9MRXd0OHpfZlFuSGxTaUZPdTFtdWY3QmhHellZTFpoVmEzWTdUQmNIdGstOFdjZERac01qOE51VERmWURSbGZDZlZDMEFMV0drekRvd2pHTnd6bFVUcF9GWGdhdkN0ajAzZk9XZlc0dkxTN0E1aGMyS1ptUTI5OTB4ZU5iOTBCWmZVdG1PU0Jz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T07:59:32+00:00",
-      "summary": "Musk's OpenAI Feud Intensifies As Court Dismisses Fraud Charges But Clears Path For High-Stakes Trial Ove  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
