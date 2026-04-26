@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T19:57:24.442401+00:00",
+  "generatedAt": "2026-04-26T20:41:02.518490+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -141,6 +141,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI’s GPT Image 2 resets the bar for production-ready image generation - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkJCT0x5NXdKR211Mlk2c1J5SHExR0owQVRfNlQ0R2dRQlhmblJicjU4ZWVJREd4VVB3eFdjQWZOaUZTYm1ic2R5WWU5XzdiNVdaNmotSjR1ZkpwQUhvRWVwR3RncjlCdWREWG04aHFyQkNHNWtodHlDcU00T1NqY09sZXZ6TFJkdTI1MExYUE9ncHAzckZYRm9aWHJ2S1JtTUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T13:59:42+00:00",
+      "summary": "OpenAI’s GPT Image 2 resets the bar for production-ready image generation  Startup Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Nvidia Deploys OpenAI's Codex Across 10,000 Employees As Jensen Huang Hails 'Age Of AI,' Sam Altman Says 'It Was Awesome' - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVZCa0xFT1RIalNzUnlVelh2WTJleURfQXAyblFoMHpWZVphc2lyOExlOEl6czVOc3h1WTc0Y3ZhTEdXYmF1RUpTMkRHeDF6Q09hNU1IZ1lZbW1LeTJTYS1vMGs3VHllUzRGUks2eWV6U3JsNnd6R0xnS1JVb1Jxd25ZWWM?oc=5",
       "source": "news.google.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-26T10:40:21+00:00",
       "summary": "Developers flee Claude Code rate limits for OpenAI Codex as throughput war heats up  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnNlNjR4Y05id1JIN255SG96ZmRpVDFMTmE0VjBfTWtUR2J4c3RmSWQtN3d2RmZUY2g3YWtuR3NIeDdWRFllZkMwbnZ2bExtWXg4cTNQUVJIcGVnUURIeUNsQm9ZN2Y2bWRQV0MwTTZFZkhjbFo5Q0Z5OEd6QVNVWEk2TE0wTHNHbjZ3eV9BNTRDa3NWTU1GdUpZZ1NlOHJzN1FDOFFLVl9hb0ZOM0dB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-26T10:22:55+00:00",
-      "summary": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
