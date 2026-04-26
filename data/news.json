@@ -1,25 +1,43 @@
 {
-  "generatedAt": "2026-04-26T10:41:19.318279+00:00",
+  "generatedAt": "2026-04-26T11:27:06.725670+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "The Sequence Radar #849: Last Week in AI: OpenAI Ships Agents, xAI Eyes Cursor, DeepSeek and Kimi Advance - TheSequence",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBUm5ld29teGZ5OGJsRUtEUzhqaXg4ajNYbFdoYVNXVll3TGZYR3VTM0pVMXY2MGdReTRsSTlrZkZoUUJaa2F3aldVRDgwU2FzeFA2MmVsLXJZUWpHMmp3eUtjcm05SEtVMnNqZ3FlNXlsYmRVM2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T11:03:15+00:00",
+      "summary": "The Sequence Radar #849: Last Week in AI: OpenAI Ships Agents, xAI Eyes Cursor, DeepSeek and Kimi Advance  TheSequence",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "You can now use DeepSeek's V4 models in OpenClaw - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0NMN2UxMFo2Q1hUMHZrNlM3WjQzOUpLR3NSNTNmVVF6d2ZxT25jLUI5QUt6VmFpUVNNU2l0RjgxN1A2dzEyYkZXQ0dPSmNGTlcxN2w4WHI1c1hSR3NEVlVqTUNEY3NVa0JRSDRlWU5IVnBhTERlWkhIal9CcXpEckFZaW5kLUZzdEFvbWVjNWd4ekZ1R3FjS29UTHRyUEo3dFEtMUNCcUFTOTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T10:44:00+00:00",
+      "summary": "You can now use DeepSeek's V4 models in OpenClaw  NewsBytes",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Developers flee Claude Code rate limits for OpenAI Codex as throughput war heats up - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3M1bjNZV0lGTloyZWYwQUdURUEtdUxYUEppYlBQNGFvSHJXeXdKdjBOZnYtQk9CZUR6OXp6bVFEaVkwYlRZVFBvRTU4a1pNd1Axc2lPU2Q1YkJBMFk0aDRuNXVfVWdNb2NsZXVpYkduTTYxR0VTSW1pUDdIVUNHcURUcGlWMXJJNVhsSG9tZlpraDNkRE1hdUpfdFprTkM4dll6OFRueEJfbmNVdFNIUg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T10:40:21+00:00",
+      "summary": "Developers flee Claude Code rate limits for OpenAI Codex as throughput war heats up  Startup Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnNlNjR4Y05id1JIN255SG96ZmRpVDFMTmE0VjBfTWtUR2J4c3RmSWQtN3d2RmZUY2g3YWtuR3NIeDdWRFllZkMwbnZ2bExtWXg4cTNQUVJIcGVnUURIeUNsQm9ZN2Y2bWRQV0MwTTZFZkhjbFo5Q0Z5OEd6QVNVWEk2TE0wTHNHbjZ3eV9BNTRDa3NWTU1GdUpZZ1NlOHJzN1FDOFFLVl9hb0ZOM0dB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-26T10:22:55+00:00",
       "summary": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUIzZTdBdnVsd1JFZkRzV25EV2xBTU1FS1VYeGZ6OUk4R2dMU2hIMkp5YkQ3UW16UmY5RXF5ak9HQ1VXU09iMVJ5SEgtWG5aOVQwNmF1TlpBRUJXd0F0cVdiV0pQZmNOaUFUNWFhTzRUWnNwZEpGRWR4NVZxSURLWA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-26T10:01:00+00:00",
-      "summary": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court  The GuardianThe unflattering secrets revealed so far in Elon Musk’s latest legal feud  The Washington PostCan Sam Altman be trust…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,15 +83,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-26T06:34:17+00:00",
       "summary": "Musk Drops Most Claims Against Altman Ahead of April 27 OpenAI Trial  bloomingbit",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman apologizes after OpenAI failed to alert police before shoot - Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaFc1MmJJeFRyZHM5UHNrYlpuNGQ2clN5VTZRSXB4WmNwMHFTb0xyOEtIdGprcHVBSy1NdDVxajlzUFU5dG4ySl9GVzlhWVQ0MFdHUmIxUE5KeFpjV2JuWnFENElEczVrSG9YbkdleEo5QnFwdGFZYXk5cFd1Ul9pZjZ1cXVIa01ObkVnQWNuZjhIWFk1N3RpRmtoX2hmTjRJTXZpY0hVeDRaSUxzaWJOYUlueldUMVdVNVIxdXBNRTJJcjBoTkRBM1c3ZlFnN2NJSHfSAdcBQVVfeXFMT0tEZnFRaWVxWjZWRldvTkZ4ZEJiaEIwTmFqMHpRbWhMQXB3SDl6SlBDSElCQWhKV0xBLW1mekZQbW9mNXliRnZXODFhMWdiQ3Y1aFd0aVh2dHFVQXZ3NjBGdVRBeG9xaXhhVjVPMU9QbDJnbHF3bDJmcldfajFnRVBPcmp1ZkdYTEtDX19ZUC0zaC1icXlPQU5XVUdpeThHdXFSTGFQa2xObUo3MG83U0RJMUxwYl9yOElDZ3gyYl9QWmlWZXJybmN0bWNvX2YtNk4zd2I0cEU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-26T06:29:10+00:00",
-      "summary": "Sam Altman apologizes after OpenAI failed to alert police before shoot  Storyboard18",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,6 +168,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Nearly 1M Nevadans are regular users ChatGPT, OpenAI executive says at CSN campus event - Las Vegas Review-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNVZLRm5xbktiUGpwS282NXNZX1NrQUFoM2JnY1FqNEszYy1DcnJUU0s4NGdsV3VBaHE0YXhVajRLazAzS1BfU3VDVnljTkw0a0RHRXNVVnNXSzZWOXFDakoyRUttN3FmZEJNak9NbDNVaXdyeXE5Tk9zMFU4V0ZQcm45MHFUa0hiT0JBNmpBSDJPaUM0Y0JmT3owNXEyZDVnVEdqQ0JHZXV6YlNqT2VUbUwwLXhGUExwaE9EMWtpV0JFM2NaQkhmZ2ZGaVo4cy03Tmw4dlhYU3BfUGZKY3lpUzB4R0t2V1lPbkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T01:36:36+00:00",
+      "summary": "Nearly 1M Nevadans are regular users ChatGPT, OpenAI executive says at CSN campus event  Las Vegas Review-Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "GPT Image 2’s grime artifacts expose OpenAI’s quiet watermark strategy - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGdRYzhSSTVNQk9VUC1GYlpFemsxbmNHbERXZnpWV3BUSlF0U1NKS3p3aUNpZmo4YmMyR2tLLTRHWGQtN2lnUW9fU1QzR1J5bzF2dDQ0aTdKajBDc1hYUll2cmJCV1N5THhkUU9iT0tteTNZS3liQmJEUkZoeWdkVUZSUVQ1cG1JRXFpeUx6U3VZeUVBdmZwNkxQY0w?oc=5",
       "source": "news.google.com",
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-25T23:37:52+00:00",
       "summary": "Musk v. Altman OpenAI trial begins Monday  LiveNOW from FOX",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is unbundling its AI stack and the pricing fallout is reshaping the entire industry - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORlVNT2xsODVwSHBCTTRSQkxkT2U2SEhzaWxFRDZnOHBqUEhzS3VXckJ5djd0TFZibWZHcXhWSFdYNFU1MXNSUGwya2ZMTzRjTWE2by1qS2dhUVVVbWxBSGRraFRUVFE2dmtHcExrd3o5WmRqRm43eDJfanRZazhYbXdvN3F3dTgtaW5PSFNQS2RTTThSQ3FzT0hvZ09rcUY5bGVwOW1QT0lub1VfbjctRGpiYnM2NUNJNUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T22:46:07+00:00",
-      "summary": "OpenAI is unbundling its AI stack and the pricing fallout is reshaping the entire industry  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVXgwM29HT1Qxc0VzbzNYT3VVeURiZFgyb0VGZ3ZhUmFLdTIteE0yNEd0Qzl5cEgxdVl6X1k1emhmT2QydkJDZTI2LXdhTWs3ZUR4MDVqQjFPbEdpLVc0QnN0UVFqZDNfVlpIbkd3LXk4cGt4MUo1ZXAzQm45Vno3TEx6MmJRSlNiYlhWRG1CR2VYaXliQV8xYUkzc2ZqUE5VazBUdGJFTEhQNEFnU2RJVTVNbHo3cFdmM3VELUhIOW9YNDNPUUVFa0pVeEk2RTEtWThUSUdUS2I?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T22:14:00+00:00",
-      "summary": "OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police  Engadget",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
