@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-04-26T11:27:06.725670+00:00",
+  "generatedAt": "2026-04-26T12:03:41.477026+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Nvidia Deploys OpenAI's Codex Across 10,000 Employees As Jensen Huang Hails 'Age Of AI,' Sam Altman Says 'It Was Awesome' - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmVkWjZTQnFKajlNclBIZHUwLW00ZlVObmdLT0k2cDBXY3d3SFBfbGUwUWxrLVdiSmJMdExuTWNlMUJMbF96QXJMN08xZFVRWUo0Z3haQ2VBbGhIWHJUQnZ4bk16V1o1cmpsdEU4WFBDbkJhcUo4Yk9FV01CU0UwdFkzNnhGQ2tKOTRSQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T11:31:26+00:00",
+      "summary": "Nvidia Deploys OpenAI's Codex Across 10,000 Employees As Jensen Huang Hails 'Age Of AI,' Sam Altman Says 'It Was Awesome'  Yahoo Finance UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "The Sequence Radar #849: Last Week in AI: OpenAI Ships Agents, xAI Eyes Cursor, DeepSeek and Kimi Advance - TheSequence",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBUm5ld29teGZ5OGJsRUtEUzhqaXg4ajNYbFdoYVNXVll3TGZYR3VTM0pVMXY2MGdReTRsSTlrZkZoUUJaa2F3aldVRDgwU2FzeFA2MmVsLXJZUWpHMmp3eUtjcm05SEtVMnNqZ3FlNXlsYmRVM2c?oc=5",
@@ -38,6 +47,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-26T10:22:55+00:00",
       "summary": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Can Sam Altman be trusted? Elon Musk wants a jury to answer Big Tech's hottest question. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1ZzSTBSRXJ4a01PZFYyTk9ySFQzTjNqZXBjQUtRMDNqWTJIWUhYYlpsSlBLOEdEU1R4STR1SUhZbXRIOGJHVWJJYjRPZUNJVk5Va3dSYWdiZktHUEpURGtSTW9kcTlhM1ptLUx3bFdqVkVCRmlyN3VNSzNJRVZSb0t4cEFDTVFuZ2RBTEpyWkhLYmstMUI1Qg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T09:50:25+00:00",
+      "summary": "Can Sam Altman be trusted? Elon Musk wants a jury to answer Big Tech's hottest question.  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-26T00:40:01+00:00",
       "summary": "Nvidia and OpenAI both make US$20 billion bets on AI chip startups: what's the common factor?  digitimes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s release timeline sparks fresh debate on AI strategy - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGs5SFBDVUcyMWVWSWZKbmQtLWN0SFRCNzZaTFpDZ3BqSWEwMzZZYlJ1V3B6SGNla0FWSllPbkdYcWx4REowR2lGdGNiQjF1UThPbHIxUnFXS1FuNVFIcjZmS2RNUWppWDUtMkE3WWxSbDBpbUFodWRIRVBIalk3ZGRSX2U2VDFKanRET1c0N28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T23:45:44+00:00",
-      "summary": "OpenAI’s release timeline sparks fresh debate on AI strategy  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk v. Altman OpenAI trial begins Monday - LiveNOW from FOX",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMMFY4RS1pSWg1T1JMbURsQzI3Sk1EUTByT3BCWUlITTRyZF95cXJINTk2bmpMRGoxblRRXzVnYV9fTThhVDYzMDA5OVhvc3RHMzRycllpVVFFZFVhYXk4ZGZkTdIBaEFVX3lxTE5YX290WkJTSGh4MzdGblBVZmpZMVNOenYtWklaUDVtNGUwNFdlR3lNSnVGWVd2QUxMT2ZCTkVfc2pYcDFuT2JNS2lGcTk0dFpuMDhsYk8wUXVNNFduSGczcTVuSDJLRGYx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T23:37:52+00:00",
-      "summary": "Musk v. Altman OpenAI trial begins Monday  LiveNOW from FOX",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
