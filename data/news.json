@@ -1,16 +1,25 @@
 {
-  "generatedAt": "2026-04-26T09:51:47.914072+00:00",
+  "generatedAt": "2026-04-26T10:41:19.318279+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Can Sam Altman be trusted? Elon Musk wants a jury to answer Big Tech's hottest question. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1ZzSTBSRXJ4a01PZFYyTk9ySFQzTjNqZXBjQUtRMDNqWTJIWUhYYlpsSlBLOEdEU1R4STR1SUhZbXRIOGJHVWJJYjRPZUNJVk5Va3dSYWdiZktHUEpURGtSTW9kcTlhM1ptLUx3bFdqVkVCRmlyN3VNSzNJRVZSb0t4cEFDTVFuZ2RBTEpyWkhLYmstMUI1Qg?oc=5",
+      "title": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnNlNjR4Y05id1JIN255SG96ZmRpVDFMTmE0VjBfTWtUR2J4c3RmSWQtN3d2RmZUY2g3YWtuR3NIeDdWRFllZkMwbnZ2bExtWXg4cTNQUVJIcGVnUURIeUNsQm9ZN2Y2bWRQV0MwTTZFZkhjbFo5Q0Z5OEd6QVNVWEk2TE0wTHNHbjZ3eV9BNTRDa3NWTU1GdUpZZ1NlOHJzN1FDOFFLVl9hb0ZOM0dB?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-26T09:50:25+00:00",
-      "summary": "Can Sam Altman be trusted? Elon Musk wants a jury to answer Big Tech's hottest question.  Business Insider",
+      "publishedAt": "2026-04-26T10:22:55+00:00",
+      "summary": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUIzZTdBdnVsd1JFZkRzV25EV2xBTU1FS1VYeGZ6OUk4R2dMU2hIMkp5YkQ3UW16UmY5RXF5ak9HQ1VXU09iMVJ5SEgtWG5aOVQwNmF1TlpBRUJXd0F0cVdiV0pQZmNOaUFUNWFhTzRUWnNwZEpGRWR4NVZxSURLWA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T10:01:00+00:00",
+      "summary": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court  The GuardianThe unflattering secrets revealed so far in Elon Musk’s latest legal feud  The Washington PostCan Sam Altman be trust…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -56,6 +65,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-26T06:34:17+00:00",
       "summary": "Musk Drops Most Claims Against Altman Ahead of April 27 OpenAI Trial  bloomingbit",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman apologizes after OpenAI failed to alert police before shoot - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaFc1MmJJeFRyZHM5UHNrYlpuNGQ2clN5VTZRSXB4WmNwMHFTb0xyOEtIdGprcHVBSy1NdDVxajlzUFU5dG4ySl9GVzlhWVQ0MFdHUmIxUE5KeFpjV2JuWnFENElEczVrSG9YbkdleEo5QnFwdGFZYXk5cFd1Ul9pZjZ1cXVIa01ObkVnQWNuZjhIWFk1N3RpRmtoX2hmTjRJTXZpY0hVeDRaSUxzaWJOYUlueldUMVdVNVIxdXBNRTJJcjBoTkRBM1c3ZlFnN2NJSHfSAdcBQVVfeXFMT0tEZnFRaWVxWjZWRldvTkZ4ZEJiaEIwTmFqMHpRbWhMQXB3SDl6SlBDSElCQWhKV0xBLW1mekZQbW9mNXliRnZXODFhMWdiQ3Y1aFd0aVh2dHFVQXZ3NjBGdVRBeG9xaXhhVjVPMU9QbDJnbHF3bDJmcldfajFnRVBPcmp1ZkdYTEtDX19ZUC0zaC1icXlPQU5XVUdpeThHdXFSTGFQa2xObUo3MG83U0RJMUxwYl9yOElDZ3gyYl9QWmlWZXJybmN0bWNvX2YtNk4zd2I0cEU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T06:29:10+00:00",
+      "summary": "Sam Altman apologizes after OpenAI failed to alert police before shoot  Storyboard18",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-25T22:14:00+00:00",
       "summary": "OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Ads Are Worse Than You Thought - Medium",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0huc0xaMUdYSk9VaGNWLUlqdnRJdkUzalFfWjdTQm1pSWF4b05oNUJYSmdDV25Qd0R4STZsX1hBYmFUUll4TVh3a0Zsblh5WWpxVHQwMUdCTDJhNk9NV01GLVRaYjFjeXhlYXF4ODE3UGgwa3poZEJGQ2lSSkZpWDJtaHB2QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T21:01:01+00:00",
-      "summary": "OpenAI’s Ads Are Worse Than You Thought  Medium",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How OpenAI’s release timeline is shaping investor bets on GPT-5 - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnlEbHZNREhWbXNtbm1MVElXLURMSmRzTkxqeGduVlYtUWNVZmtwU3BhWnJGb0RJOVJwS3JGUTN4QkpPLTB0OGVJYXJWenNqRlVVd2tVdmxVd1A0R1VrSGtNbHVybHl1bnY4NUZHRHVaTm9PTmlaQi1jNUF0QUdCRlFKMHI5cjZHd3oteVMxMlFNaVNt?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-25T20:46:42+00:00",
-      "summary": "How OpenAI’s release timeline is shaping investor bets on GPT-5  Startup Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
