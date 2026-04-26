@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-04-26T17:23:08.809850+00:00",
+  "generatedAt": "2026-04-26T18:03:58.908150+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "fal Launches as Official Partner API for GPT Image 2, Delivering Immediate Developer Access to OpenAI's Next-Generation Image Model - Programming Insider",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd2lJLUEzSlN3alRoTnBjMkxWR0ZjZzd6UnBfVFc0YWV0RWJWc0JMS2pRNWlaVGlMTVdWQW5EdVhoRUxBZ1B5RElRZ05nVEJjQnJHdGpMcy0zNW13aC1mTC1Cek9LVU9xZ0EwdDg5dFY0Qm9mV2tzT3lNYUIyc2tkQXBOU1VKSEFXaUdQZUt6YldVaFBnclNpM3BkWWpFSndhNjJWZUF1U21RRk15c1Q0eHNPTFBPa2h3dVNRWW02bmdsU1NkU0l5Q0dRdzJpbUJjSXB1dVM2a1NEY3g0aWdHNWtyZ2VuVTUyRUdKTEwwVC1Vam8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T17:38:48+00:00",
+      "summary": "fal Launches as Official Partner API for GPT Image 2, Delivering Immediate Developer Access to OpenAI's Next-Generation Image Model  Programming Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Launches Bug Bounty To Test Limits of Next-Generation AI model GPT‑5.5 - LinkedIn",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdE9fV0pmOGJVUWYwV0syc1Q1ZTJhM1RZdUJ3Mk9KbmZudng4a2htUV9SdGFoUFdkekNhM3BVNkVDM0EwQ0ZEV0VuM2NtaTlwOUlra2VyZkZUOUJPMzhBWnNFMkJxYjVVY2c3QjFlN25YaUVWMzU2R0YyUXI4R2VpUVZWaUVyeUlPa3l6dFlkWXlVenpPVmc?oc=5",
@@ -60,15 +69,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Elon Musk’s $134 Billion OpenAI Fight Heads to Trial - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1AtQ3N1bnFsNFlsbHVhWFo0NkYxcGJLTjJLTUg1LVd0U01OeXVUX04wZHdrMHM2M05SSHphX1ROVXAwaW9RdTlwaC1YVHZ4NU95QlA2QUl2WFBpZTR4d3Z5bVB3RV9lRGFZNU9XaW13NlREN2NIUkwxblk4WDNzWEhndTBaYXY0eXhfbTU2TnJ3YzVfekhudA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-26T14:23:37+00:00",
-      "summary": "Elon Musk’s $134 Billion OpenAI Fight Heads to Trial  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "The Elon Musk and OpenAI Trial Can Expose Early Secrets - BeInCrypto",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43YW9DYzRlSFA5OUR2MnJoWGs1X2hhM200QV9ldllLalJyTjl2NU1PNFUweEgzNk9ISTRMNWRsV0x6bjlUYkpLRXQzVGd5YjFDc3ljYXdqWlpYRExoX01rZ181VFd3QUhqX2wyNHc1cHg?oc=5",
       "source": "news.google.com",
@@ -87,29 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia Deploys OpenAI's Codex Across 10,000 Employees As Jensen Huang Hails 'Age Of AI,' Sam Altman Says 'It Was Awesome' - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOVZCa0xFT1RIalNzUnlVelh2WTJleURfQXAyblFoMHpWZVphc2lyOExlOEl6czVOc3h1WTc0Y3ZhTEdXYmF1RUpTMkRHeDF6Q09hNU1IZ1lZbW1LeTJTYS1vMGs3VHllUzRGUks2eWV6U3JsNnd6R0xnS1JVb1Jxd25ZWWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-26T13:31:26+00:00",
-      "summary": "Nvidia Deploys OpenAI's Codex Across 10,000 Employees As Jensen Huang Hails 'Age Of AI,' Sam Altman Says 'It Was Awesome'  AOL.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI’s super PAC allegedly funded a fake news site staffed by AI reporters - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkJ5am4wR0xDZGdqY2hCbWJjbE1nV1pNNFZCcl9uZjI4VTFtRWxxTUEtbnlZWFFUTExnZFR2V0VFLUtCSEhqem9QMllNbXBybjJHUGtORjNpT1liM1RMeXR5RUZtSWR2eFpiVGd1UlVuZGt5Q3dfYmU1bmc0UW9nZ1pfRldnS09ZdWY0ak0xcUZaWVB0Z2pUcjdjS3EtS3NoaTFxa1lR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-26T13:20:20+00:00",
       "summary": "OpenAI’s super PAC allegedly funded a fake news site staffed by AI reporters  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk's years-long legal battle with OpenAI and Sam Altman will finally head to trial on Monday - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdHp6TkpsMERRbjB3Yk51ODdiczZmaUFsSXFjb1VpUU5UUGxrX2l5Y3Eyb191TUdZamdpT29pS2ZLNnlSaWxWNHBtMTFBcXFoa2QxM09mRVg2RUxVSUFRQTBxQnZPLTRRSjBmcld1bUR3RGh3TUxfd0lXeGJ6WlZjNFBnRks2UTlkOExNenU1Uk14Y3ZZc2NodmM5dDUzUjg2dHRwWFhLRk9qN3B2alN1czdYWThzWEI2WGpzc1hxN2NIeHgxUmE5a2FQOUhXYW8xOUhrU0szSFNrbFVPc191MlJMVWQ0XzBOcG55bFdzVzVEcDhEb01vby1n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-26T13:00:00+00:00",
-      "summary": "Elon Musk's years-long legal battle with OpenAI and Sam Altman will finally head to trial on Monday  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -172,7 +154,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUIzZTdBdnVsd1JFZkRzV25EV2xBTU1FS1VYeGZ6OUk4R2dMU2hIMkp5YkQ3UW16UmY5RXF5ak9HQ1VXU09iMVJ5SEgtWG5aOVQwNmF1TlpBRUJXd0F0cVdiV0pQZmNOaUFUNWFhTzRUWnNwZEpGRWR4NVZxSURLWA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-26T10:01:00+00:00",
-      "summary": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court  The Guardian",
+      "summary": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court  The GuardianElon Musk's years-long legal battle with OpenAI and Sam Altman will finally head to trial on Monday  Yahoo FinanceCan…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,6 +191,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-26T08:35:00+00:00",
       "summary": "The SpaceX and OpenAI IPOs Are Imminent. History Says the Stocks Will Do This When They Start Trading.  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The SpaceX and OpenAI IPOs Are Imminent. History Says the Stocks Will Do This When They Start Trading. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXZqLVZrNHliZFRJSGRCN1VHcGVCbzI2WFJFeWtINDQ2elBaV29qeHhQLWFhdFYzMWxwWXc0aVB5WTRFNVFGSURaTjhaeks0X2lGMzdNZENzRDZ5N0d3NFhOWk5OVldUMVluM1pQalpUTlBZVER1b1h3RnJzZjAtblRqMXBQQ0tRSjRsTUFNenlaQl9CZS1FdWdNYTVyaE83SHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T07:55:00+00:00",
+      "summary": "The SpaceX and OpenAI IPOs Are Imminent. History Says the Stocks Will Do This When They Start Trading.  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.5, Its Latest Artificial Intelligence Model to Keep Up with Rivals Google and Anthropic - The Bridge Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmpYVmRNN1JPREpSLXBqLVZTMnFHR09qcWRKWDYwV3dPYThqX2c0cUFVX3BzamliN0tJb0Vxa3FYQVhsU0NOSWZVYUJIanE5OXNrWjJ3bGViVlhMU0Nta1FfeWZGNm9uVXJ1NGk4STZBVFRndkRrQy1XaEVwZWIwZjZlTzk3c2JubzRHMtIBmgFBVV95cUxQMVZhRVp2aDFUWF9iellySUtvdGc1cC1xelN2S1hPNzYwWXZHUWs4dUc0cUluZ2o5ekdNVVIwaXN5cDlTa0J6QzJtajc4Zkdzcll1ZWI0OGRfUjZNUWtqZTQ3RzhzUjdwM2t3ZExScllmRDFfWFpLQXN5c1pWUktva0hXNm9uNlFMcVBQWnFKZThKR1hmNlNfeldn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T07:04:30+00:00",
+      "summary": "OpenAI Launches GPT-5.5, Its Latest Artificial Intelligence Model to Keep Up with Rivals Google and Anthropic  The Bridge Chronicle",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
