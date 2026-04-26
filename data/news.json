@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-04-26T13:37:47.914568+00:00",
+  "generatedAt": "2026-04-26T14:26:21.396023+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI offers a new cyber weapon to U.S. Intelligence and its allies - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6Z1VqNjZsdXBGMjBndnpCSXJYXzlYNTVCNUxVNWVxenA2dkZPMVlLSlBHUDlaejZDcTUyYTJ2a1N5aHJrOTNqaE5LU0RQeWc1MmlBa0lTRlhhT0Nx?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-26T14:16:49+00:00",
+      "summary": "OpenAI offers a new cyber weapon to U.S. Intelligence and its allies  The Jerusalem Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI’s super PAC allegedly funded a fake news site staffed by AI reporters - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkJ5am4wR0xDZGdqY2hCbWJjbE1nV1pNNFZCcl9uZjI4VTFtRWxxTUEtbnlZWFFUTExnZFR2V0VFLUtCSEhqem9QMllNbXBybjJHUGtORjNpT1liM1RMeXR5RUZtSWR2eFpiVGd1UlVuZGt5Q3dfYmU1bmc0UW9nZ1pfRldnS09ZdWY0ak0xcUZaWVB0Z2pUcjdjS3EtS3NoaTFxa1lR?oc=5",
@@ -15,19 +24,10 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Elon Musk's years-long legal battle with OpenAI and Sam Altman will finally head to trial on Monday - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdHp6TkpsMERRbjB3Yk51ODdiczZmaUFsSXFjb1VpUU5UUGxrX2l5Y3Eyb191TUdZamdpT29pS2ZLNnlSaWxWNHBtMTFBcXFoa2QxM09mRVg2RUxVSUFRQTBxQnZPLTRRSjBmcld1bUR3RGh3TUxfd0lXeGJ6WlZjNFBnRks2UTlkOExNenU1Uk14Y3ZZc2NodmM5dDUzUjg2dHRwWFhLRk9qN3B2alN1czdYWThzWEI2WGpzc1hxN2NIeHgxUmE5a2FQOUhXYW8xOUhrU0szSFNrbFVPc191MlJMVWQ0XzBOcG55bFdzVzVEcDhEb01vby1n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-26T13:00:00+00:00",
-      "summary": "Elon Musk's years-long legal battle with OpenAI and Sam Altman will finally head to trial on Monday  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5 - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmtGdV8xZVVRdVRGNVdWcVFhbnpfRU4yVExEUks2RGhCc3RGTXktWEJKWmYyV3pPM3NCM1prckF5Qjh4Y0VrQ2dSdFhmako3ejRUNmpWMklXbE9WSVJXXzgxeUctWkpFQlJjUVVYM0JscE9TYTd2ZVRjVW5mS1d3Nk1RYkxWRzhhYTFweVZnUDRseEdORjMxdVc1dE1yaG9Zd1E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-26T12:53:35+00:00",
+      "publishedAt": "2026-04-26T12:53:25+00:00",
       "summary": "OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -91,7 +91,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUIzZTdBdnVsd1JFZkRzV25EV2xBTU1FS1VYeGZ6OUk4R2dMU2hIMkp5YkQ3UW16UmY5RXF5ak9HQ1VXU09iMVJ5SEgtWG5aOVQwNmF1TlpBRUJXd0F0cVdiV0pQZmNOaUFUNWFhTzRUWnNwZEpGRWR4NVZxSURLWA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-26T10:01:00+00:00",
-      "summary": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court  The Guardian",
+      "summary": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court  The GuardianElon Musk's years-long legal battle with OpenAI and Sam Altman will finally head to trial on Monday  Yahoo FinanceMus…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -106,7 +106,7 @@
     },
     {
       "title": "OpenClaw adds DeepSeek V4 models as tech world assesses Huawei tie-up - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTkteXpZZXRpRjJNYktCajB2dUZJM1JWcDg0RHVEZVBUdG84Y05LaHhqN1B3WXpsWkJOUnNwRXdwVGF2dGF2dkRaTU5uaEN4SFJ5aEVBbU1EVk9fcjVrS1FYNlN5Q0ppX3RodHpfbW5FZlQ4ZlllalI0Y1BiSTg1Sy1nbG82RUR5MG1UaVZURWQwTktjZ1NzS3VLaDE4clNkcXFJWC1qVkJJQ1ZmWWU4RFdoSVVPQUpB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTkteXpZZXRpRjJNYktCajB2dUZJM1JWcDg0RHVEZVBUdG84Y05LaHhqN1B3WXpsWkJOUnNwRXdwVGF2dGF2dkRaTU5uaEN4SFJ5aEVBbU1EVk9fcjVrS1FYNlN5Q0ppX3RodHpfbW5FZlQ4ZlllalI0Y1BiSTg1Sy1nbG82RUR5MG1UaVZURWQwTktjZ1NzS3VLaDE4clNkcXFJWC1qVkJJQ1ZmWWU4RFdoSVVPQUpB0gG4AUFVX3lxTE9pNnA3NFVUVG9BWURtaHdLVUQ3WVJtbExySmxYRVdTMjhWbUNBZDMwTncycm5qM0FEWnRzaWMybTZBNkVYNy1HNTdHdEhDcXdhM09pczhCX2hjSDZiRmNfQ21hbncxYTBqNHJXdTh1SUo4dW5aWVpHMV9KNmRncGVxZDRDWUtyZ2ZkVGQtcF8yRWVFemNWRlFGcUdzNk9uaVZRQTRpb1dYUkJLaGkzSGVnVU9faEphRnU?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-26T09:24:39+00:00",
       "summary": "OpenClaw adds DeepSeek V4 models as tech world assesses Huawei tie-up  South China Morning Post",
@@ -126,7 +126,7 @@
       "title": "The SpaceX and OpenAI IPOs Are Imminent. History Says the Stocks Will Do This When They Start Trading. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWl81b2dJMDVOeDVHUlZ4ay1yem1ITzdQS05lQ05EbXM1R2ZoMF9DTm9SYzdwaXNWRWJleldKMFNtZ2NjQjVMOEdEZkMxMFlqeTZKM3g0TklvZ3R1M3YzYUMtWnVWajRKaE4zNENpN0VteU1JYVptZTNnbXN0ZFZPd0o3OTdKN0gtVlFHMU9IRkVlbFU?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-26T08:03:36+00:00",
+      "publishedAt": "2026-04-26T08:35:00+00:00",
       "summary": "The SpaceX and OpenAI IPOs Are Imminent. History Says the Stocks Will Do This When They Start Trading.  The Motley Fool",
       "topic": "openai",
       "topicLabel": "OpenAI"
