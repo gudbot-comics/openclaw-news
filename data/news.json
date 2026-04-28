@@ -1,16 +1,133 @@
 {
-  "generatedAt": "2026-04-28T07:18:25.058544+00:00",
+  "generatedAt": "2026-04-28T09:36:14.673516+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI misses growth targets as costs soar ahead of planned IPO, reports show - ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JYlBMQkZsU0NCVzlNM2swTFZ4R0VtS0k1NTNzNUNOeEZjMXBNNFo5WEpGZ2FqckVjTEVkSEtxczYzdW1sQkZqYkNJUUhndzQzMnhiYlJzRkQ1Y3lGRzF4MTln?oc=5",
+      "title": "OpenAI misses revenue targets as Anthropic and Google close in - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZk5odjB4dTJnVTR2N3BOdEVYM2huMnhYSHJHRndhbGd4T0RIMjYyX0Q5WkpQRTN0aXkteTJHN3JxRlRZak5RVnI1UGFOZ210RGE1R0padTctZXBsQXJsR0lVTi1Zdk45Q3N3azE5X2draFowSWNpNWxyWjM3aENQNmJHMENXa2ZqTWVXQjk2dks?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-28T06:21:16+00:00",
-      "summary": "OpenAI misses growth targets as costs soar ahead of planned IPO, reports show  ynetnews",
+      "publishedAt": "2026-04-28T09:31:31+00:00",
+      "summary": "OpenAI misses revenue targets as Anthropic and Google close in  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Multiple OpenClaw Vulnerabilities Enables Policy Bypass and Host Override - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KSkFtN19DVF9lWmZubWJWY184bE5zZEJ6WUZhV2lzR0EwTzVRTlpYSlBwU1RKQm4ybURKWlhhdWZvNkpYU3RmY2RqY0xxUVNHT3NrS3VIZXNWMUt4ZEh1enNXQjFyd9IBa0FVX3lxTE41V05CZHotQ3RxdDRwYnhqbG9XWFd6STRlM0YweFp6MXEzdWNuNmpTWEVDLXFub2xodVFMZHRjYThmaE9BU3VlV2xPakpYb2o3XzBNMUVvQ1dwRnlXTzU3WFp5UzVuMG4ySWhn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T09:22:30+00:00",
+      "summary": "Multiple OpenClaw Vulnerabilities Enables Policy Bypass and Host Override  CyberSecurityNews",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Oracle Stock Drops on OpenAI Shock. CoreWeave, SoftBank Also Hit. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUEVwdWE1S3lVdE1NTG52NkFBWWF3SXgtekdGd2JQREt5WnQ5LU9yRkd5YjVMMTMwRk5ubXg4S3hNNlVwSlFOenJrYW5BbDJua0JJY0tZeW5GVmVQVV9sOWR4cTZURmJVLUM3cUZCM1Ywem51Q1VKcy1uYkVhekFHbGFQem1ncFBKZWV5WF9LSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T09:22:00+00:00",
+      "summary": "Oracle Stock Drops on OpenAI Shock. CoreWeave, SoftBank Also Hit.  Barron's",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "WildMango Partners with OpenAI to Expand Access to Advanced AI Technologies Across Africa - TechAfrica News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORm5acF82UTBMSi1sejNVRFNEaDhQdkJZUXd3WWpBV1VlallrRFduMHFfcTF3OHd3b1VOclU1Q0llQ0ZuX0dIM1hvQ0FYQ0FodUZ4LWJYcUFlUTZ5Vm1hR0pUemhFMmRRVUpaWlM1RmxETTNrUm03cnJfRWFKY3N6eVV3M1UxU1pHUjdpLXhRNWk3eXpLUkotdUxtOU5sWHBnQ0NZVzBUZE9oSFpFQmZZb0NPZ3VNX29wbjFYeTAwSXp3dEpBZ0ZJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T09:14:12+00:00",
+      "summary": "WildMango Partners with OpenAI to Expand Access to Advanced AI Technologies Across Africa  TechAfrica News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why OpenAI’s Biggest Challenge Isn’t AI - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHBHdVBRQnVkUFJSMGppY0Z0d0V4WWtRVHozcmNYZ3VBYVh1TG5SU1RQY1VwdkstNnBPZGI5TXVKUm9KNWF1Mi1QdVJHYmFMdU5vMXNhQ0NGVWh4SUJTN0ZvOEdMTnJqd3R2N2VZRHhZbzhtX2NoTHVyV3ptdEJDWXVmWllJSkxtZnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T09:11:15+00:00",
+      "summary": "Why OpenAI’s Biggest Challenge Isn’t AI  inc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ORCL Stock Drops Premarket: OpenAI Reportedly Misses Targets, Raising Concerns Over Oracle’s $300B Cloud Deal - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVm1xS3JWQ1VFc2V0TU9ja3hFclN6dE1ldjZVTFc3cnBkb0UzdHd4WGlLZS11RWNRY3pUQnQyd3pEbGxManJCdkVobjZfcnEwZjdOc3pJY0ZOWlB1SlFGZ0dKdjJKVEIyTEZhYlo3c1hpeU5MN0NrUndpV2k4MW9LVWt4bTNvbEFSNGx1WnRob3FlS0JONkhTZGhZZUM1RVN4eEJpOVlka0FubmxmOHliRy15QjJYTWZUdDVUdnF0cTlxMTNrUjA3NTVObnhiRXJoT3RGWjdRZUhPMnJtSEFHZmdGVGxUN2NGcmRfbUd6cFNfa1RwcVhiNkU0Q0M0dGNqdlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T09:10:00+00:00",
+      "summary": "ORCL Stock Drops Premarket: OpenAI Reportedly Misses Targets, Raising Concerns Over Oracle’s $300B Cloud Deal  Stocktwits",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Inside OpenAI, This Productivity Hack Is Giving Workers Their Own ‘Chief of Staff.' You Can Use It, Too - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOelpEQkhmRHRUbnNHSUFiV0h4eW4xR2F3YkdtVWJzdm1LY2ZBQlRYWHpVblhrUnV5VDBLWVhOZVE0WFdBY0ZuUndzNEsxQ0VSd2pCaUpfemt6dXdhbnhVS250UEpZOVY0N2RpZ2N0aTdPbXlCNl9oSE53MGZJQ3p1LVpjUmMzZjZVT2JDOWQ5UFhYRS1fc3lSa0tzUWk3X3hjN2pEaWRfallUaXJiWDZOeDhvbWpqaDdtQ2YxNnN4eFIzNlVIOWJiVlRYSzE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T09:06:53+00:00",
+      "summary": "Inside OpenAI, This Productivity Hack Is Giving Workers Their Own ‘Chief of Staff.' You Can Use It, Too  inc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft and OpenAI Restructure Partnership to Accelerate Global AI Infrastructure and Multi-Cloud Expansion - TechAfrica News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc0stb1dBeVZ6RHVvcDRSY2dvMHREZTdSZVJSdmpQZkJmcTZXWVdXeHRUS3J3MEplWkJ6SjFERWhWR3hXVHc2QmNKaHE5Wlo1MkoxaTlVNzNONThJa3V0c1U4SlgtdmFYZ0d5VVJWMGhKR01OTzNXVTVYdGhrdUVDVGRQSkRUT2dzeTRtZHd1bTZMckFtbVY4SlJvNEY3SzF6OVRBQ3Zyekl4Q0M4UUpSMWtQb0txN2YtSGRqN2tFcmx3UUtMeWNYQmQxR09selpIdmJLbUpqaFlHUmVJX2FuUkpB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T09:00:14+00:00",
+      "summary": "Microsoft and OpenAI Restructure Partnership to Accelerate Global AI Infrastructure and Multi-Cloud Expansion  TechAfrica News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "My Adventures With ‘The AI That Actually Does Things’ - New York Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDhFSzBOeW0xV3EyY2QwMHpuN0xRRVVLYjQyVXJMNjdzelZHdEpidTRnWUFrT01IOWNJWnVCX3FtZ1JEY3ZOU3c0ZUlDb0ltM3VNWHU3VXpOUHg0N09ORlZBZWY1M1lYNWdPVDdpSkJHbW1oX0k0VXEyOXJYYnFtNjJETHR3bjFtd25jOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T09:00:03+00:00",
+      "summary": "My Adventures With ‘The AI That Actually Does Things’  New York Magazine",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI-Linked Stocks Slump on Report of Startup Missing Targets - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHoyYTlzYTJCQ1ZuSmNfSHV3anNfVmFtTHFqYTJHQnJKbUhUVkR1SjJoUUE1eVk2OVY0XzgwcXpmcXplN2NCbWNfSV9kcDRCZkhEaHFydS1BVEcyVy0wTVpWaGx0QVV5cjlBMEx6ZXhkdnFmRnFSektvM19sR0hMcDUzLS0xcTN0SHppeGppb0d4czNUNVNNTnp6cDJhdnN0dHdsME5adktmczNIcm1PLWNaU2Y?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T08:58:12+00:00",
+      "summary": "OpenAI-Linked Stocks Slump on Report of Startup Missing Targets  Bloomberg",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is underperforming relative to its own expectations - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVlsVXBOSC00QkhXRzFiMlN1aHd4UGFqbzkxcHVDY0VBeXh4SE43d09vcUVEdW9TSi1LQm9QS09uZ05pZWNFM25BQjkxWUtSY3NMY3VHMEJnR2F4cHVYNWExc0JVZWxHREJsQmV1bzROZGF3bE9YeWN4dE1BMS1FQlZwa3RBNFFOaGdEUjRVOVBMVWs5ZGZJbEJIZXN1TURJMkpKeXMtLW93YU5X?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T08:44:54+00:00",
+      "summary": "OpenAI is underperforming relative to its own expectations  Techzine Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft (MSFT) Stock Handed Boost as OpenAI Tears Up Exclusivity, Restructured Deal Opens ChatGPT to Amazon and Google Clouds - foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbDhlWWE5MDlMQm14T2Q0SlkxaksxSzlSdTN3WGZqQWRSc0ZxbjFwc1JGTUdKZjJGWE9PcGo2VVFuNHp0Tm1udk56UG5vZmVjdWRwUUVlTHBRRll1MVNpcXhOMVR0VHA0bGVjSjgwRHloMXdaaGFRT3RaVzdVbkR5T3BnX20zNEw5WVZTVUdlbGR6RnhIckRiTHNVeFl5TjF5S2ZpTXRNb3BydlFNZWxRLW9HOUc4Mm5saXhWRzg4RHpYNFd4eWVTMnJ5b3NtMVdGRnYxbGY1WWxzR1JyRlMwSDFUX21oZkwzMWx3ZTBsWlc1M3lBT01oVkVNVjI0SHBwc2w0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T08:22:53+00:00",
+      "summary": "Microsoft (MSFT) Stock Handed Boost as OpenAI Tears Up Exclusivity, Restructured Deal Opens ChatGPT to Amazon and Google Clouds  foreignpolicyjournal.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "After report of OpenAI missing targets, one company sees its worst share-price decline in six months - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVDV4QkZQZWJXdkNWaGRramY3czJ3NzdTYmthM0hLdUtyQWk0LWNobnJRVjBVdVV4OHdNOGpaRm5VaW9xZ09oOGhHQjNBSXpraEVGemg2VC1tRFhwLWF4SzR6Ql81UjR1cEhlVVczeEk3bUdjeHdFeWdJSVVSNXhFNXlYanJTOXhzOVpraVZyLXdKWDJiOEJmQXhwcHNFUDZUQUhuYmpBNUsyMU9hVWc3OVRJTDhsZjFqZERoUGlTcEVndkJzeFN6akdPaTQ3YTgycWx3T3NxcUVwQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T07:42:00+00:00",
+      "summary": "After report of OpenAI missing targets, one company sees its worst share-price decline in six months  MarketWatch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI loosens Microsoft ties as Musk trial begins - Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tZzJyM1pOV3g0b2xvMGx5VGxiUmpGc2JmS1hlWmQtbmJpaTRweDNTZTYzYU9lN0pCQlBDVk8zOThzRy1IQTE0UmpYR1I3NV82cW5iQTA2U1U0WFRXbHhqdlBuNzYyTnVWd2VfYXZTUEZJQU1UcjNWcQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T06:22:03+00:00",
+      "summary": "OpenAI loosens Microsoft ties as Musk trial begins  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,6 +137,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-28T06:19:15+00:00",
       "summary": "How to claw back personal Data stored on ChatGPT by OpenAI  Cybersecurity Insiders",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman has five new principles for OpenAI: Here's what's different from the 2018 charter - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc1l4elNBRmw3TmFsRDV1Z09ROE9OSFFBUE9fU2dCNnoxMlJGOTFjaXRRQnc0MlJEVzU4U0pXVlRZb3BsbmU4RTFtUmhTUm1vZFdTbVE0NndLd1M4Q2tyWnZLQ3VzRDZJWXEtWVJlUXNiVzR3eDdxN1NqTjl0SndtYkpKakZPVUYtam92anFTS3JTTUROSTZsUi01SUp0QVFteFRlTjNSYlEwNlI1cmRFMEZsaTlwbmFFT3g2a19ERGJIOVoxZG1lMm1GdEExTjBQVzR2WV9jN0ZzbnJhZmM2a1hCbk94aGx2RThwS0RkOHpMRjdIei1fSDFkQmxLVzRUNWfSAYcCQVVfeXFMTl85c1ZKbHF1N3dUeXprTXkzWjJXaWNnTW85djBsX0FDS21DQnZjYkNrRV9NOGZwVmdCeEFSV0U4QTZaVUNsZ0k1YWpqcUJ5dGZuWjJoYWNSOVJpQTlmNjN5TzZScnV1ZzQyY2lWYzNRdDg2TDZrdjBRQTJvY0x3aG9TLUk2bEFiN2VULTY2RmhHb1hpMnR3R0tKQ1Q1bWdTdUtCS1ZCd29QMVB3QWNKazBGNlB5dmdkUjUtVmMzS0NfN2FQLXgtNWFWSUc3WFhwdVJsczY4YkQ0Z2VXRXowWjVqRmo0NzFjSklnZTlJSnhVRS13Z01LcmZ4WkMzR2QxbXZZa1ZGazA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T06:17:00+00:00",
+      "summary": "Sam Altman has five new principles for OpenAI: Here's what's different from the 2018 charter  The Times of India",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,15 +186,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI falls short on users and revenue, sparking internal worries: report - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFYzQ0lOemhQbUIySlZqbnVWU3RHM3pDNEVoelNzdTF6dUtRVHNaZk9YX0VUQk1vZzF0MG9OMW10cjM4S01qWEgtYUNYYzZPaWZ3Vlh6eUFmZ3E1STdPTlBaUW1pQ3lCR3BRdF9waUZmeG9sSGl6WDc5aWMxd2dKN3REdzhHSGpvdGdWVXNhU3czbURDeE5NT2hiQ2tHSjRZT25pWFRGWXhUa3JWNEJiWFpSVUxZWXBWeGVRNm8wemV2bjVHcGdDSGJ2QWw2cHBrRE9fdTJnNlB5dkozTGVCNk1Wc2g?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T04:23:00+00:00",
-      "summary": "OpenAI falls short on users and revenue, sparking internal worries: report  MSN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI falls short on users and revenue, sparking internal worries: report (OPENAI:Private) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQclJNbUJnams0cmpsMy1DMEZiVnhLU0pmcy1rbElUOTV3Sm1lZmFjU1F6MHlwbkoyOWhfSzlUbVBMU2tFX3RwTHBpTkt0RkRqUi1RM0g2NVFSZGVUSmRGVDJpN1BEaDNYM0tldGVPWk9CNmVaOGYzYmx2UGx2TFFzYUlNNDd3NTZfWjktZVFLVTBTem11RHRJVE9USmQyal9EbnFnWnhLdk1ZQ3MzUUlF?oc=5",
       "source": "news.google.com",
@@ -87,139 +204,22 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenClaw major update, AI agents are no longer black boxes. Official slogan: Less mystery. - 36氪",
+      "title": "OpenAI Recently Missed an Internal Revenue Target - The Information",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakNXTDlMWGQtMVlZZXFTaWN0VVVCMFdNMWRPdjZ2V3daNldSaDBKQk9KNklneFBNWU5lSFZ2NzlvSkdITkNVV3ZmWW16Ni16b25ENFZKejBxWTVmNDlKdmxJT0dNdmw0OVRMTHBQMmJTWEpHdDhZV2R6d3dQSEFCV2FteWNwVzVpSmNHM2Vxbjk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T03:30:00+00:00",
+      "summary": "OpenAI Recently Missed an Internal Revenue Target  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw major update, AI agents are no longer black boxes. Official slogan: Less mystery. - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hWjNmRnU3LXREWERlYXpFMFBObGJXY0QtUU10ZUdPQk5KcHdEWFVjbTJLeWJhWjFMekVNN3FteGZhZ2ZDeEVQVW14ek4xTjBqSW0w?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-28T03:21:32+00:00",
-      "summary": "OpenClaw major update, AI agents are no longer black boxes. Official slogan: Less mystery.  36氪",
+      "summary": "OpenClaw major update, AI agents are no longer black boxes. Official slogan: Less mystery.  eu.36kr.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Misses Its Own User and Sales Goals, WSJ Reports - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnh6WFhheEhGS0VPeS1DQ0ZpRXJPczFRZnF1dFY2UDhZRGZ1VFpZWkQyTmxweWlKX2Y2NXJFOFNSSmthcE51YVZEN1ZIOFNLbmV2RjJmVGVFMG5KaUd3R1ZCZC1TMDVkdFJ1YUx4Nl9DSFdUUEx1aXB4NWdtWnA5Sm5IMVVua2l3cUpXR1IxbmRUSlFhNUhMQUNzOGJqQW5hWlBQV2V0MGU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T03:15:00+00:00",
-      "summary": "OpenAI Misses Its Own User and Sales Goals, WSJ Reports  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhER0JjUGFMTFlWVFNCQjlGOHp6cHBlWEhVQkpoQkppazFKVVJRQVRqQ2hJTjl1OXQ1UThSeEJaR3N1QWhFS0M5MkRqQXlKWElWWWc1dUNnQnBrMDRucGVPcFdaT0x4enRCSXVYdUFpZVBCbUpuSEw0aUVhVG5nT2FkMTg0TGEwM2piMWdFdTNmUGxoWnJwcFI3SzktLS10SFJEdU5GbTVGdUFybFBYMVhYQkl5RG8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T03:10:00+00:00",
-      "summary": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk v. Altman — Day 1: Jury selected as blockbuster OpenAI trial begins in Oakland - Local News Matters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdE5xbmYzSDFnX2tvZ2ZkQkx1OUZiMW1UbzBrTUFrOGxKSXduSndHQkYzT1phMW8tenViaEs5dFZwZzZmZjNtWDE2TUhRT1RvbnhvZ3ZhWGhDR2ZjZkkwT2thRGV0emQ3WjRVNUZkRFVyMjJmSHVoN1dyTmtQRTNMTnkzc3BSS1dZbXF3TDFwNVN0aUlGMEJhTHlXWlAwU3BZNjlqNzVIZ0NyVVBqdlVDOU5ONlNWUkEyQ2NCLQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T03:00:00+00:00",
-      "summary": "Musk v. Altman — Day 1: Jury selected as blockbuster OpenAI trial begins in Oakland  Local News Matters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI misses internal revenue, user targets- WSJ - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHN2d0dZQ3JweXRIRUhsOUJQMWFnV0FwYm9aR3VRU0UyUWtlZ25xTTE3cVg5STlRSXNQblNvOXFGSTh6dFhEaXBmdENnRUpqdVd2ODJ0d0JxSlJUd25BWnJkalkwWnpEVW1qSTJ4RDVQSmhsNmVGNjNrbE9QR3ZKMEg4VmJjMEdNWGFXSlZxWVdxZWZtQTF1aEphbm9rQURKSFlkcWljcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T02:51:14+00:00",
-      "summary": "OpenAI misses internal revenue, user targets- WSJ  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft And OpenAI Remain Friends, Are Looking To Hook Up With Others - The Next Platform",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMWJVVEVmQ1M2dUpWNTJxOVhjbFhHWWx0azdvRWFVRTdseTlCVkZ5WUtQV3RuTU5LMENxYWRVd2M0NzZ3S2s1RmI2YnZuV0NDUGhucDJEYTJQYTVGalRzN1FsakQ3TDFDX1JQN3Q4RTVRVEo0NHhYMGhyc0dsWGE5aXU5QjJqWjhWei1xVDRCaHI4Zkw5bFBIelpwbzM0M0JsS0l6WWxXRVl0ekMwa1kxLTRmd3dFMDF6eVRIUm1R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T02:48:18+00:00",
-      "summary": "Microsoft And OpenAI Remain Friends, Are Looking To Hook Up With Others  The Next Platform",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft, OpenAI change contract terms–again - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM2hELTRaaU1keGJwSHVxZU9vbVoyTjctXzZwdGhxZk15WXRnVVdmUldOTWdDLWl3Wm9aRFF6cmtSRllSRmFRMzZGZks5VFd0MHB3RTlfSk04N0QxOTJla3JJemtWM2VyT2Z6M1ZmZ0w3dDJpTEpwanZQak1QeDlfOHNRMXJnbi0zcU02TTRVRmcwbklJRlEzRFZlWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T02:22:38+00:00",
-      "summary": "Microsoft, OpenAI change contract terms–again  Computerworld",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Agentic AI exposes enterprise identity and access gaps - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2ptbk9PZVIwUVJtdldZNU8xWUNCU2VuVUV4YlhyQ1JiNUhHbjk2dXdPYldLazFaMGVTNEtqeDZ4WTBGMjZ5NklEeFZfQU1vZkpDSXZZWUhxSS1LQklxOWhIb1FvTTY5Tmp0SGk4NmNhekszZnBVM0NrQ2M1dEI5LWdYQk1nRzlJb0tHal8xdmxBaWJsV2hrZVRpMjQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T02:06:50+00:00",
-      "summary": "Agentic AI exposes enterprise identity and access gaps  Let's Data Science",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Microsoft OpenAI Reset Tests Azure AI Edge And Valuation Story - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ0tMcllyb09lT29SNUJlekc2Q3dMWHptN1RTdDZPZS1LMVhlSk5FODJlVzNlM2VnQzZMVXlhVURjTkZYUDFtamVTam1VeDF4am9aOGtzZVZBbDRkMktlcTVWbldSTjdLcTEyM3pBekhXVzVXSFNfWmg2Wmpzdm5BRnRDZUt2dkFGMTRwa2dSMEpkVk1VVWVlZXY5NmN3MHJBQmxhamp6ZUJZQm1rNHFoNjlxeEQxdmZpMlhya2Z3OUI2S1NVTFIw0gHMAUFVX3lxTE9RZG1WMF9KdW55SnlqWmlGQzRtNWt5Umw4bnNpS1pwS0R3NG9GT3BDaDZRaHFDTTZQSHd6eEs3VV8wMzV5WE5MNWhfbl9pdmZnWG9XMVp0czRJQ0NCNTU4T3VBeV96STBSQ0hVYU82ZmNqZVc2TTc5Z1d5Snp1YV9jWERBX0luZzFqWFlyUDN6TTlyelZjNG5MR0NySzA0T3J6UllYc2dDNVk0XzJBWkZrT3R2dVJrNFh3cFpQcW1IWWd6N29hVkg3SjhoRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T01:52:30+00:00",
-      "summary": "Microsoft OpenAI Reset Tests Azure AI Edge And Valuation Story  simplywall.st",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft and OpenAI revise partnership, easing exclusivity - The San Joaquin Valley Sun",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdEI5bHVIWk1uZ1RPcDRZTURNTDZldnRZVjB1UVN3NVZrZGNoY0VsNUZwTWhTbjVscjVlM0ZkMUNrR1pibVY5Z0UteFYtZ2xaaUhUZWptV0NPVlpQZTJxY3RhVmI0YjdxYTd5SFBETElrQm1VazAtNW12VmpaSEl4V3RJeERUOHRsc2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T01:40:17+00:00",
-      "summary": "Microsoft and OpenAI revise partnership, easing exclusivity  The San Joaquin Valley Sun",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Opening remarks Tuesday in Elon Musk versus OpenAI - The Mountaineer",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONG1PN21PZTlYWTh0ODZSa2RFU1pHOG0zTENfcGZFSzNUOE1QU2FVd0VzR2syT0FfU2JuLTFqc0JPeFhSMFROQmxQS05YQVRUQURSbHE5WHpwdkk2YmNub0t3UExwcU0zU0xUQktXNGpFdWt6U3NlYUk1ZTlvY3lVUGVwNDVIZ2NDZjRsZkNNQkdkSW9QdVUwMG5jX0IyMUZoX3VONzB4R29yTWdnVVhQbGJJLTZZQnduN1NHWUNLcXA3WG5reXFxSXBzQktEUDZIejljQUZDTjRMYmlaVlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T01:25:01+00:00",
-      "summary": "Opening remarks Tuesday in Elon Musk versus OpenAI  The Mountaineer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Opening remarks Tuesday in Elon Musk versus OpenAI - Northeast Mississippi Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTHE2R2FWc1drZGF3aHFld1FxLVdCTFRRZGR1QllSTGdkSGg4enhOTUZvczJiUGY0OVQ3QkNIb1FJcEctbGJyN1ZWTUxqWHM4c1d3WmRjWC1uN19LZjdxRF9QbFp0ZklaLTRoMnBwcGVBS1RSZkVkNzIyOVJlNzZGNXplRXpTeWhiNUg4a2cyaWUteGc0QzUyaXoyUUdGdktQMUNOeGVCcTJfaS1pN3Jhem1ZNkdaMmF5clNkT2NiZ0h0Sk1sU2NneVJwQzNGVXNUT3ptT3NR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T01:25:01+00:00",
-      "summary": "Opening remarks Tuesday in Elon Musk versus OpenAI  Northeast Mississippi Daily Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Opening remarks Tuesday in Elon Musk versus OpenAI - Caledonian Record",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb2lYY25UTDJfakstcTNFZWFmcV9ZRzZtNUhHa29ZUW9QTmFGcS14QkFoSS1VZ0s4QzFQSDNtczlpdl80dEdZaG1na1NFXzRWalE5R2JrOWFpR0xnQWk3MjNmbEdfenZwXzdjODg5R0lFNnQ5dVJJSHdiTlJBbnBEYmRTQ2Rod1ZRSExfeFlCdzNnU3JJNXZLcWVBTXZlY1I0R1BuQXoycmdjWEc3T1RfYV9HTHdTMEhqWVJwVGdEZnE0aWNfMkZvVFVpckxBTzJHREVyNXA4S1EwU2NHY1d3Rw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T01:25:01+00:00",
-      "summary": "Opening remarks Tuesday in Elon Musk versus OpenAI  Caledonian Record",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Opening remarks Tuesday in Elon Musk versus OpenAI - Community Newspaper Group",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZFNnSWRHbTdMaDFVZ09sRHR1SXNzdldKYmNrVkkxbG1fZEdwX2NHYlgxQ0ZnWlNuZFJSdlc4QUppVkJBMk5LSG0tTDdSdm93X0d5M184b3F3eGRMNXRVcDVSb050eV82VUdXUGxVOG1DUW50Um1weEVSdE5ORmE1THJxZmt2QTk5VnJRSnFsSVFFV2dIeUo1cU1BbXI3c2RHX2JGTlhhdFdPTTMxeUNxaXZCU0VQOTRuamkzdFg0NXo2UDhRMGVQaUNGNkVfTDMzaXI0eUdHZ1ZpZ2ZSWmZ0YjF6c1hERms?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T01:25:01+00:00",
-      "summary": "Opening remarks Tuesday in Elon Musk versus OpenAI  Community Newspaper Group",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI loosens Microsoft ties as Musk trial begins - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tZzJyM1pOV3g0b2xvMGx5VGxiUmpGc2JmS1hlWmQtbmJpaTRweDNTZTYzYU9lN0pCQlBDVk8zOThzRy1IQTE0UmpYR1I3NV82cW5iQTA2U1U0WFRXbHhqdlBuNzYyTnVWd2VfYXZTUEZJQU1UcjNWcQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T01:18:47+00:00",
-      "summary": "OpenAI loosens Microsoft ties as Musk trial begins  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
