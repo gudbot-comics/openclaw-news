@@ -1,16 +1,88 @@
 {
-  "generatedAt": "2026-04-28T21:31:40.429140+00:00",
+  "generatedAt": "2026-04-28T22:35:15.130760+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "US technology stocks slide on reports of missed targets at OpenAI - The Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOTNmZDh6dFpZREt6M1JfNFZCNEFBd3UxQndzektQMFRjYm1rSUFBRUZ3OGdkVnZuTm9NRlhFbXdaaTROaGFjQzVPcGRGb1JEaWpoTU52ZlM3em9PNm0wWUlwZmpxNkd0UERvamVxVU9TdlA5Yy1tN3h2SnY0MXByZ0luRmozOEhkVTY2bXJNODlDV3RlYzFNSUZFNy10QQ?oc=5",
+      "title": "Amazon touts a 'major expansion' with OpenAI as Microsoft ties loosen - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEkxU0w3RFlNWld3N2ZLNUVsejdkWkk0ZUZyLVVTWjZhY2NGcHY0THNZd2duTVU5NHhYT3BRS0RRWkU2MXY1bGpSYkVTS01iMHhNMVVOZEJCREpQM1ZLWWFEUDlVSmZaR1hod2lObFBNRmpOMUR3WEV2VWhmU0g0eXYtVzJTZHQyZXU3T2paMXpTbWtCeUNVTDFrc0JEY0ZCRUhjMnF1UnlLTENBbDNXdkVSelk5V1plcnczMWRyVQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-28T21:10:25+00:00",
-      "summary": "US technology stocks slide on reports of missed targets at OpenAI  The Times",
+      "publishedAt": "2026-04-28T22:25:16+00:00",
+      "summary": "Amazon touts a 'major expansion' with OpenAI as Microsoft ties loosen  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDU1cTBTVTRRdVVSUGQxNnlKdUVpN19pUWhzQlc4RU91STR5Y1d6aWsyWWx5bW9hdzBGUld6Q2Q0Ym9LOG1uM1NJUml0emhoeDBRWW5PUGZleUllSmVvaS0yaXAxQTJWenFyQzFia3JoaUlNdEdSSnZpM1lIWnlud3JyZlkzMXkzRGxZcg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T21:57:34+00:00",
+      "summary": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Sees $8 ChatGPT Driving Consumer Subscribers to 122 Million This Year - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVNJdGJmM1dsNGQ4eDd6aHFlZmRHRDBvd2YwYTFYOFBOaXQ0NWpRN2JWanMxRGk0NmFQT1RnSExpYkVLcE5RTlNrckxqd0VvTlhKTFdfMjB3SXdOUWVMMTg4T2thYWlLU2lxZ0tHRXNZYjVHVlk1ak81d1BIVElBQzZoTUFuQnB6UTBvaHRoeTQ3TWpaOXo4WllnQmdsalZ1bFRpNm1RUUF1T1U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T21:56:00+00:00",
+      "summary": "OpenAI Sees $8 ChatGPT Driving Consumer Subscribers to 122 Million This Year  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk accuses Google co-founder of loving robots as much as people: ‘Larry Page called me a ‘specieist” - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkFqYk1hbWg1RlhhUUthWG9NYllHSXhxeVlPa2F1MEhXdklkNjFSQUM0Y0ZCLTFwMUh4d3FoT1d1SG80ZVZJdTViaVUyMTNMcUVTTHNBRTIzY1pDdndoMFpJS1plcXFRS2R4cGlRNUtZZE1LQkJYX3JxaFNSX01LSlU2OHRPaHEtaFgtWGlMUE82bDNtakVacW1tcWJQT0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T21:55:00+00:00",
+      "summary": "Elon Musk accuses Google co-founder of loving robots as much as people: ‘Larry Page called me a ‘specieist”  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zOTJlN1dVamJXXy1vVVBJa09FenZVM1lyY2tIbWpyUWVKT3ZhQ0h0SWVrby1taUpxSkhwbVg1NXY2NWZuVFJmeXN5YTE3VmJmNlNKa2h2ZlRfTTA4NkZWaFBQcDk0WHl3VEZnaEtKN29nYWJkcGZkNWlB0gGCAUFVX3lxTE02aWVRcnN6dzJJazFEa1pZcHVXdGhpdDc1WGdEQ0hXY0NYV0xSOE40UWVHaUpZTS1nYVgxZG5wREhiRzdUOWEyRVlvdnI3QTlSUDNZZzB6WXZFMXFKQnJTZ0FPZUdTV1hzLW9NbjdWeHJSSHVnM1ZreUFuUUpZNjEyR2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T21:46:02+00:00",
+      "summary": "OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped  Decrypt",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’ - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdU5WOVhYM0FuNThCRHVmVFNCQ0t3dnhLWE1HUU9wVFQyU2d6UGxuRkdIaE10czBqQkpEOHkxckFlNllwbGxzNFpONUhDeUhzZmMtQkVwc0Joa1p6NmhYMk9YUFdNR2dpd3lOSmE5YWxCelM2VHJoMXc0RFV1Y3Rmc3NGeGY1bUtUSld5NjhpOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T21:35:00+00:00",
+      "summary": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’  WIRED",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk vs Sam Altman: OpenAI Trial to Reshape AI Industry - Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaUptNVpDQlFjOFhzNHdjZ2Uwdnl6VFpKcWJJcFJPV2VkNHVEa0VhUGM2ZUcxRllXMHRLaE50QkFTeUM4SEp2XzVRYXR3T2lXUWh3bnJnS240dmE1d2RGd21IS0pMMTZHdXNja3dSRlcyUWZMMnRoV0VTa1BVeFVWcDdsalVKbEQtdno1UVNRb2J5a0FvX0VQUVNFdDE1bFpBVGdyVw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T21:33:53+00:00",
+      "summary": "Elon Musk vs Sam Altman: OpenAI Trial to Reshape AI Industry  Mexico Business News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk blasts Sam Altman over OpenAI restructuring in tech trial - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQME4yWnNvdEMwb1RFLUh3djZkLXdtWU9GY1dzTUxoNDNUN3M0RUs5X1dST1NUSUd4R3NnWUp2ckVYelZVdmhWYmJuQmpQYjRqTlV0UmFZQ0EzbzItcXZPSWJyNmFELXRESV9rVW5weVl5UUctaTdDVG93OVhxNEs1dDJ0dlhTS3dua0NtUVRWWl9ZRWRFYVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T21:21:33+00:00",
+      "summary": "Elon Musk blasts Sam Altman over OpenAI restructuring in tech trial  NBC News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Amazon - GazetteXtra",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2EzUnU1MjJXalNqU2d2eVZHRUFKTWpKSHBGYnVnbjhENllHRXl0UENNdGFveDg3Sm9OTktLWDBmSkdqN1AwSTZqMllDVDVBXzRiNGdWWjVoWFM4ZlJIWERIY0kxRlBWNzBVWWRVamJlck5IZG5RTlI1LUlJV1FDRUZNMkxINVZtdjFzeGxIU1hfQ2MxMUV5TW81a0pwcDVpcFFiek5HWFpSRTg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T21:18:18+00:00",
+      "summary": "OpenAI Amazon  GazetteXtra",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,11 +123,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "As trial against OpenAI begins, Elon Musk seeks Sam Altman's ouster - LAist",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV2w5QlpBVEk1OV9vTkFpZVNtdjhFMGhnWnh2TGNpMTRfaXF0WkRLTG5MOHFYRFpyUWRCTzVlbllMYnBZX0UtSVlJLXhhZHJfUXppR2pxRlhqNlMxSUlJTTlPWUU2ZFFGemFnVEFkR2xKZ1g4clZIc0paVHZDSmx3bkxSWQ?oc=5",
+      "title": "Oracle Stock Is Paying the Price for OpenAI’s Failures - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUEVwdWE1S3lVdE1NTG52NkFBWWF3SXgtekdGd2JQREt5WnQ5LU9yRkd5YjVMMTMwRk5ubXg4S3hNNlVwSlFOenJrYW5BbDJua0JJY0tZeW5GVmVQVV9sOWR4cTZURmJVLUM3cUZCM1Ywem51Q1VKcy1uYkVhekFHbGFQem1ncFBKZWV5WF9LSQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-28T21:00:00+00:00",
-      "summary": "As trial against OpenAI begins, Elon Musk seeks Sam Altman's ouster  LAist",
+      "publishedAt": "2026-04-28T20:59:00+00:00",
+      "summary": "Oracle Stock Is Paying the Price for OpenAI’s Failures  Barron's",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk testifies at OpenAI trial it's not OK to 'loot a charity' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFB3VVFna2QyR3JfekdNQk9ERkFJU1NhYkxBcjV6bjBlMDVCQ1dyUDNqOTNza2pPVU5KOUxFaUJvNjkzYXR3N2hsdXZjYjRHY1Y0NnNPVThYbllYVGo4bzAtcDVaR1BSNUZ0eGd5YUxmWTFHVkxVNDBKdm1naGhnUVpUS2hRUnlqZkFJLVRhSzZYZGY0TGtJVkkyM3VHVTNrRWF2S1BLcnhTWmVGcG5LeERR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T20:51:51+00:00",
+      "summary": "Musk testifies at OpenAI trial it's not OK to 'loot a charity'  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,15 +168,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Musk testifies at OpenAI trial it's not OK to 'loot a charity' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFB3VVFna2QyR3JfekdNQk9ERkFJU1NhYkxBcjV6bjBlMDVCQ1dyUDNqOTNza2pPVU5KOUxFaUJvNjkzYXR3N2hsdXZjYjRHY1Y0NnNPVThYbllYVGo4bzAtcDVaR1BSNUZ0eGd5YUxmWTFHVkxVNDBKdm1naGhnUVpUS2hRUnlqZkFJLVRhSzZYZGY0TGtJVkkyM3VHVTNrRWF2S1BLcnhTWmVGcG5LeERR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T20:13:57+00:00",
-      "summary": "Musk testifies at OpenAI trial it's not OK to 'loot a charity'  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI-Linked Stocks Slump on Report It Missed Key Targets - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmU0UDRRLTllLXZpVmdDSU5XZTgtWWJjd3lWUmhXUUdFQkRma0VnYktzZklCUy12dm9mS1NPY3hYc3RoNFl4X0E2OHBrUjNQVmlLOFg4RGI1RjUyekZ5UFluNXBuSHdsWVJ3QmdRbXl2V0dHWlhsTEhrT1g4ZXJGd1J3UzJGTC1GM2xuZi1MOUg2Mjl5Z0hoeU5paEdoNW9kLVlQN1NDMFVVMkVwZFE?oc=5",
       "source": "news.google.com",
@@ -110,24 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-28T20:07:33+00:00",
       "summary": "Oracle, CoreWeave back OpenAI after report says ChatGPT developer missed sales, user targets  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk Takes Stand in Trial Against OpenAI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcHRQZmZtYXdobmtRVmVnY0pzSlg4Wm5EaXlLT1kyMTNOSHJPdXREejhHM2VodXY0ekFpZVFIQUczTUlsTERXcENNdVV5ZUJrbVZTZGU2RHFCa3lXSk1GUEt3dHoxeEctUmFfUmVPcTIxTW5sN2FjcGJ6d1FlbDVFeEdGMXZuSVlzUFFJNUUxZ0V6YV9EdDJEb3Q4YlQ4TmNOYnpzcXFCOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T19:55:00+00:00",
-      "summary": "Elon Musk Takes Stand in Trial Against OpenAI  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI trial begins with Elon Musk claiming company leaders ‘stole a charity’ - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0dvcUZFY3JOcXdTdEo1SUdjLXZicERIeXFuQTNLSlRfdEZlbjVwMG1QVmw2VlZqV0NMZzR4dmF2T1Z5QWtRTTJjN0piQTNqVU5sTmtWMTZ0SEhKNUtZdUVlN2IxMVBvbHVvV0FZV0FLWFlpal9mTFI1ZWhMdThoRXJSLUZVOTh6V19EMnh3bHA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T19:53:57+00:00",
-      "summary": "OpenAI trial begins with Elon Musk claiming company leaders ‘stole a charity’  San Francisco Chronicle",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,65 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Watch Elon Musk and Sam Altman arrive in court for landmark OpenAI trial - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObkJTRmlMTUVEWTVkaTlFaWdWSjhuYV9JdXo5cERHSF9Zb3JtU3lVY05TUWdzdDR5QUYxa2RHMG1iYkVmVnBGaG0zLVdmRUdlLXAxQkljcXFnT0tnQ0x0NC1iNTRuaENlQUg2T2x2Tk9KUEw4aUtKNzN2LV9JZmZoNTZXZ3RVSGNVT0ZLeXN5eklyMExfV1Z1Sjd3TTVPbFNBdjRxUzhHZGVibE9mY0E1UUh2Y2Rldw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T19:47:00+00:00",
-      "summary": "Watch Elon Musk and Sam Altman arrive in court for landmark OpenAI trial  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Musk OpenAI Trial - GazetteXtra",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVRuYTF4d3NmeTNhU3I4WU8tTUxfellVTlc1R3lhVkszTUZzRzJrRGE0RzVDelJZUFZHelV0V05Rclg2bGV6c0VkZkQyNVRFbzJ5MzNXOHBvdlIwd2hnaWNNZEk0MnNIaGMyVWsxZTI0MmJsOFlnMFlDNkc5d0w3OTliZGJmS2k5d2lKc0Zvc2lTVzF2THl3VHY4Y29RY0tQYmxKMm5DUHU1RTAtbkt6VA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-28T19:45:22+00:00",
       "summary": "Musk OpenAI Trial  GazetteXtra",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit against Altman - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ODBnQi1Ec29vUGZaUHpXQ2hFRFZJMDR1aDEtckZYcm85OEp6dEYydkMyTTU4Nnp5OV9NaTc1dFRoVk85emNjY3NaaFFkcVlVcl8xVWd2QzZlQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T19:43:02+00:00",
-      "summary": "Musk says basis of charitable giving at stake in OpenAI lawsuit against Altman  BBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's latest AI models, Codex now available on Amazon Bedrock - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjJfR0xvY01GSXdacnE2N2pISVlfOU9rakhVU29GeXhCV0x0MlZpX0dnWEJRdTV4QTNoSjAwWUQyalhIa0JabU9hQmNfbWlpT2VXZ0dEUGExZnRzdU51ZUtxc3BkMUlyMjBuN3pxc0MtaGpCVkZfMmU3Nk03WklCdEdlbE1RTElqaWR1Njl4cDlySjZBY1pfSXJrSWZleUZ4TjZGTm9SaEdsMDlvdzZQNGduQ1ZoczBJMFJlUENyR0Z5OGM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T19:42:51+00:00",
-      "summary": "OpenAI's latest AI models, Codex now available on Amazon Bedrock  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Boasts Recursive AI: 3 Examples - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjNMZUk4NUxtdlpEaDc4cllDXzg1dEhaQmdjeFZpVGJRUTVQR1hSdlA5dHdZNHhtUEdwdFBjTEtmVjBIcF9QR21qTEFhYkoxQjE2NnQxRzBud093UUF5OWJLeVFrbGYxY0trSkFiYnBKdExwVFBhNXc5WXdpQW1fckcyWnhoTjlwa243M2ZzLTdPNlU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T19:42:09+00:00",
-      "summary": "OpenAI Boasts Recursive AI: 3 Examples  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Tank OS: Red Hat Maintainer Unveils Safer Enterprise AI Agent Deployments - Bitcoin World",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KX1o0ZXFPbWduNmxVa3hfbXNRWEU1XzlBVFA4V3J2OXJiUks0ODcwdXlxbjRDaFZJV0swckUyZDIzMTdRMkFORUlJUzl2YlJwNmtRbHNmLWdhbmVVS1VQaFhzdkVNZy1Dalo0b3hpNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T19:35:11+00:00",
-      "summary": "OpenClaw Tank OS: Red Hat Maintainer Unveils Safer Enterprise AI Agent Deployments  Bitcoin World",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Elon gets his day in trial against Sam Altman and OpenAI - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ra3FPcmNUUnVLVEhiWGh0bV84LWhZakZyUTJvZ193WHFIN1VMS1RTOVZUNWtZaXRMdnVDWjNOREt3T1N3U1VFRXRIa1hGaFphZlNUc2hqUFdESmJnTmd0QVpqc1U3VUVq?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T19:35:03+00:00",
-      "summary": "Elon gets his day in trial against Sam Altman and OpenAI  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
