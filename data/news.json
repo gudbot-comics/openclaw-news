@@ -1,25 +1,70 @@
 {
-  "generatedAt": "2026-04-29T04:48:42.659547+00:00",
+  "generatedAt": "2026-04-29T07:12:53.717542+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "AWS CEO Matt Garman interview: Huge business opportunity in AI-powered software - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GYkd5MGE1SjJ4VS1XdS1wdzVoaEczdnNVTE5XMloybjB3ZE4xcHg3NEhYaWhaQWpScDNlTTMyZjF0UUF4Ulgwel93Nm54TlN1eFlFWlJ2VGFXa2ZsWEdQWEV5YnJKYTRsZ2YwYUlxNDNsWnhVeFhRWm5HREJuUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T06:58:00+00:00",
+      "summary": "AWS CEO Matt Garman interview: Huge business opportunity in AI-powered software  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Reportedly Eyes 36x Subscriber Surge In Cheaper Ad-Backed ChatGPT Plan—Fix For Revenue Slowdown? - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDBMOUYxbUs4amxkOWRiMWZGSk9jQk9YOHo5d21JTDVCUjlETTdNRGZPeGlPeGZEeUxrQVBPLWxLZzBwSVlXZC1sZnJNQUdrc3ZyRjNhMVBkQVAzcHlPSWhCdUhwaVBrbTRWWURtLWsxMS1taFRwbGFhQVRtOUFvQjBtVXU3LUp3YThiQ0N5X2d2SFJWVGpBTWs5U0lqNVRMbFFxalh0UmJzeTMxblR5My1GbVA4NXFOV1FzZXhEeXhZZGhwcFV0X1ZIVGJjSm5id0N3dmhCT21LRzFKbGlPUk5pcnE1eHBUSW84MllReW9uUmJvbExQQWdB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T06:56:42+00:00",
+      "summary": "OpenAI Reportedly Eyes 36x Subscriber Surge In Cheaper Ad-Backed ChatGPT Plan—Fix For Revenue Slowdown?  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The stakes behind OpenAI’s IPO - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YSjFXRmpXdzBibzlON1B1eklPYnN3bldXZ01yT2lDUDBuV0ZEQXNiQ0psR3pyY0hjMmV6WHZoZ3pSWERJaWZ2djc5RERsTEEtdVRpdEhfQ1J2cjRHN2ZtV2xPcnZPYVN0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T06:53:00+00:00",
+      "summary": "The stakes behind OpenAI’s IPO  CTech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk takes stand in trial over OpenAI feud - TelegraphHerald.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbU9qaFhoeVBYczJ3UXBCaEZHeUJCMV9QcE5rSHc1eVNGNTFIOTdzOXE3ZEV1WHE5cXRPX2haSFMtQjZjUkNLQ1cwMWwxbzBvZHBhdG5XM3BLVEEzZTBHSlliSWppWkJuclM0UFNwUnF0aWxERnBYM19vVXNSQ1poNTBaRHZ5a2hxaWNkMmw2NXU1UWRQN0N4OQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T05:30:00+00:00",
+      "summary": "Musk takes stand in trial over OpenAI feud  TelegraphHerald.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reportedly missed revenue and user growth - Morning Brew",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbG5RR0FUbHo3Y0xIek8tRFdGMHE1clYwVUF5R0Zwd1dtc0hGZjVZTHpxYi1Dem50am1ia3l1WTZDUWxWT0xVS2ZSamNxUElpLXBaOV9JLVpGT2Ntck1ueTdjMGtMN1FXQ2JhX1l6ZnpyZUxoX1Rxd195cDZkTjZrQS16RE5fMzkzX0s0SQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T05:07:59+00:00",
+      "summary": "OpenAI reportedly missed revenue and user growth  Morning Brew",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘It’s not okay to steal a charity’: Musk testifies in trial over AI’s future - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVdKelVsSDFCYXk2a0JlOGVkb2lRWGpoaUNQTGhRd1VoS0dLNmNHbEhfWTY5blZ1UGRPbkhvWnNQX0RtS19hckxKbEtJMGZWTEd3RDhZZ0p0cDBGTUhCOGstckEyTUFCSWF2d3AtaXRnX0RKTWV4T2FRZ3pMVmxyUnZqNlEzeHhuRGRCTzdRaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T04:34:18+00:00",
+      "summary": "‘It’s not okay to steal a charity’: Musk testifies in trial over AI’s future  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Futures Rise; Three AI Stocks Lead Earnings Movers - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVDcycVBHdjZ1SXFzbGxBNzlkODY2MGJ5aElUaVdldkNUR3lhS0hYQlBDV1FRRnhxdEdabVVQYmkxUWdYWm0xSUliZFVsSzZiSENwRURDMzlwY2VJZVhJUlhoUUtxVGN5VnhSWFM1LWNCNVphcnh6TWd6b3FyTnhsWldvRkE4TGxiQWsyc2Z1Y2RaMi1UREo1THpnU1JxU0N4aE8xdUxIT2hZLTJwN1pfVkxKZzRDZDhQdFI2eE9rWm8zWjE4VE1TZTB2MzE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-29T03:05:00+00:00",
       "summary": "Futures Rise; Three AI Stocks Lead Earnings Movers  Investor's Business Daily",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk accuses OpenAI CEO Sam Altman of trying to ‘steal’ a charity - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVZCZXoyZkVfaVNtTE9IakRTTG1NUUJNX2VMNDA0ZW4tT3lPNGZ3b2dFWmJXUmprcFY2b2JDZngxamtCejhZN2JoczZWSlNaRkgtUm0tdEd2XzZrakl3TUNvV3d3a1hubkN6UDNaU0gwSzJFU0FKUFprWmlkU1E3dlAtRGkwbExJR3pmeERPZmZCLUJPcWlnaW5EV1J1UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T01:56:16+00:00",
-      "summary": "Elon Musk accuses OpenAI CEO Sam Altman of trying to ‘steal’ a charity  SiliconANGLE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,11 +96,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Our commitment to community safety - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42LVhacWVMekxvZDJxS1BJMUg3V2lEN3FfSHd2S2FQbU5TQk5OcER0TmZ4TTBkcmp5TllSaEZQVVVJaGVLd2JRNDJSbTQtZm1RQTg5OVl0aUViMXA2WnBEclRmYjlXN3FnYkdJ?oc=5",
+      "title": "Elon gets his day in trial against OpenAI - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ra3FPcmNUUnVLVEhiWGh0bV84LWhZakZyUTJvZ193WHFIN1VMS1RTOVZUNWtZaXRMdnVDWjNOREt3T1N3U1VFRXRIa1hGaFphZlNUc2hqUFdESmJnTmd0QVpqc1U3VUVq?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-29T01:02:22+00:00",
+      "publishedAt": "2026-04-29T01:19:21+00:00",
+      "summary": "Elon gets his day in trial against OpenAI  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Our commitment to community safety - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1dmFVRVlSX1Bya0hINnNGTlZZTktuTjF5UHhaZ05iYjg5SmZCaXVrdVlEQW9tUDFfckE4M25YcWFSOUhjbmpxSHNtTEFLdVo4ckN5OVRraXN4YTA2c05GeVFMVjN3VExDWS1FTw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T01:07:00+00:00",
       "summary": "Our commitment to community safety  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How Amazon got OpenAI back - Sources | Alex Heath",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05eTg5UkVoMmxXMF9XWGJNXzB0eUFpb3QyV2dvNGpqUkUzSGdNZUpxSjlnRzdXTDVXSzBnUzFIamFKTU9TdGdWV1V4UlViTFQzZk9DSkJ6elBsRFVJMkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T00:55:13+00:00",
+      "summary": "How Amazon got OpenAI back  Sources | Alex Heath",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,15 +150,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Elon Musk points to meetings with Barack Obama and Larry Page as proof he's serious about AI risks - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNemlLb0U2RzRnQ3lVaHhtczZTbk1RQkhFME9MLUpzUGYzQ1o0TjdUTjRoUkVjUHZPUkxzR2RZZC1xZGdsWTkzeG40cTBxcU5LOS1tbFAyT0w4TThXNjJTc2hxV0pkTV8yY1l4RjFlYjd6c2YzdjRIMWQ4R180U1dlU2otMkdGQUpiWkRFVWI3Zi0zQnF0Mkt2UU1WRnRlajdYY0Vrd3ZR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T00:07:00+00:00",
-      "summary": "Elon Musk points to meetings with Barack Obama and Larry Page as proof he's serious about AI risks  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Elon Musk Takes Aim at OpenAI as Trial Begins: ‘It’s Not OK to Steal a Charity’ - KQED",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUZmQ1ZncnBzdUcwWm5LWnU5SVg5aEF5TE9VVzEyWE9JRVBFWDhHSjdoZHFrZU9aaTJHR1ZxNUtaY0FxR1V1WGFwbWtxeXpQR0VVNjU4cFpzbWMzY2NsbWlyMHJVSmRPbjF3RzBTckxpRDc4TVR6OEhiT0NWZkFwNWlLS3dXbXZ0TTFGaHV6WHBUdVFwbEdjNjNlYWZMMU05d0pxc1BGODF2MEQybDVB?oc=5",
       "source": "news.google.com",
@@ -110,6 +164,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-29T00:00:00+00:00",
       "summary": "OpenAI's Wall Street Disconnect  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk takes stand, calls OpenAI's shift \"stealing a charity\" - Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjFqalV5b0tWR3Fub1dGcWQtWnowWGI4bS1zNEZOMk9kblh5eUFsaWJBbjcycjFmcG5wU3FpVEZMNEFiZjl4TF9XMVRPWjcwaFJ4X0xZRG02SEVQdXBMbHAxS21WTHoza19PSmpFTXkwWXU0M1NUX0VROG1ERlhKZDBhTWcwc3FselhuamxjSFV4R3JMdWh3WWlZejIyNHFrR2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-28T23:49:04+00:00",
+      "summary": "Musk takes stand, calls OpenAI's shift \"stealing a charity\"  Daily Journal",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -153,71 +216,8 @@
       "title": "Elon Musk testifies at OpenAI trial - NBC News",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWklwWE5UN2xMSWYxQnhkdWthcWk5ZjI2M1FUS2ZKUlpPanMweDlCT29vZ1E5Z0Nrb1hEdVJNXzhQVnFZNEs0aUFoNldzVDFUWjhaU21SbVRaNmRncTlwQ2c0dUJYdnBxY0IwZHlXRW1RdXZ5QjRzSWRkTzh3dmhXUDZDa1k?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-28T22:48:13+00:00",
+      "publishedAt": "2026-04-28T22:47:59+00:00",
       "summary": "Elon Musk testifies at OpenAI trial  NBC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Struggles Aren’t Weighing Heavily on Bond Market - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WNjNRempwWHhNT1YwZzNDZWR3bFpLUGl3c2dhTWlLanBlcENXYTZ3YmhiZjZCRXF2Q2FlQ0ZtRE9KX1J1cGFac19ORDJxaVB3bXp1NUI0elNIMVRfUVl2RlBzaktYUmQ4QmtrbFNn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T22:47:00+00:00",
-      "summary": "OpenAI’s Struggles Aren’t Weighing Heavily on Bond Market  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk testifies at OpenAI trial it’s not OK to ‘loot a charity’ - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUlRXd09OMDIxZlNZb0JBNDdFY3FlVWQ0VVJxREtFS0M0MWdFQ2loRG5VZDh3Qlp1bGFmUnhWQ3dVUjhNYW5zcWlXcTQydEc2MmgwTlEyVFVrUVJvWmVWZ3dzU0xZcENJbTZrQlg4SjBSTy1pdVJaN3MzMURBaGhzMENKY3Bid3lGWUNpZ1F3bGN2WVh5ZVVMYjk3a0w0SHNURDRTOWV30gGrAUFVX3lxTE8xU3hTdUwyNkoxSDZxY0NiMVJWeVNmaEwyV1JBWDJYOTdaWUdwa0xTZ01ONnF6SU5WZ3Y4U3JFdXhOWXd1dFdMTlMyc1JicGNyeDAyWG55em1TOFMzVFNIRnJQeEE5QVB3enJjNDdJVTRsY0RvNHl1RHBuR2VGWDhxWXFsLVlpdi1rQzNDQV9vNmdlMEdlbVl3RFBUMzJxeFJfd2oxUVU5N2thNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T22:45:46+00:00",
-      "summary": "Musk testifies at OpenAI trial it’s not OK to ‘loot a charity’  Al Jazeera",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI investors stay bullish after OpenAI revenue miss - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mM21JOTZjRXlFZlZtRXh5N3duZHlsMlpIUVdyakt2U0x6SlhvcUZUamJHUGduUEFyZ2UzVjc5TzBqakIwTENnN3VSQkFyRlNFd0RoMWt5RWNNUWZ1TEYtazlzeEFjTzhJaDNIUg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T22:40:30+00:00",
-      "summary": "AI investors stay bullish after OpenAI revenue miss  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "One OpenAI report just gut-punched the entire AI trade - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0haemtoRUlxSkpDbHhMLU00bUtjV2F5MFJuVllDUERybEtVQi1LZkgyd1AwOTR2elYxczctNERBUnE5Ni1Tam5vV0tiS2FNZVJhVldvU1gwZXVLSWFod0lTNDBZaGhyWjlaWUVsNzhsRDlzZFdtVGFGbEU2WTNOc0xwQ1BvZUFPZjVrbHVHQ0JKRUtY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T22:37:00+00:00",
-      "summary": "One OpenAI report just gut-punched the entire AI trade  thestreet.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive: OpenAI, Anthropic meet with House Homeland Security behind closed doors on cyber threats - Axios",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxM0dOTTJlZVo0X21uek9OSUdOQmg2Y20tY0t1ckUzOVJEMmtuODJhVC1qR1hMSElFVVB1eWpCN1h0NXBmUkx2UzBianh1dTZSTGJDWmU5TU0tUFJWckhWTGN3U1F5R1lQTzNjS3RHQ2ZjdmZMUDhBX0JESnpwRDg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T22:29:44+00:00",
-      "summary": "Exclusive: OpenAI, Anthropic meet with House Homeland Security behind closed doors on cyber threats  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk says OpenAI was his idea, before executives looted it - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcFB3VVFna2QyR3JfekdNQk9ERkFJU1NhYkxBcjV6bjBlMDVCQ1dyUDNqOTNza2pPVU5KOUxFaUJvNjkzYXR3N2hsdXZjYjRHY1Y0NnNPVThYbllYVGo4bzAtcDVaR1BSNUZ0eGd5YUxmWTFHVkxVNDBKdm1naGhnUVpUS2hRUnlqZkFJLVRhSzZYZGY0TGtJVkkyM3VHVTNrRWF2S1BLcnhTWmVGcG5LeERR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T22:13:01+00:00",
-      "summary": "Elon Musk says OpenAI was his idea, before executives looted it  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Start of OpenAI's Trial Against Elon Musk Wasn't the Worst Thing That Happened to Sam Altman Today - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3J5VGItMGpiRXlOR1lPVTkxVDZRaGxFd3lpVXlzYlRnR1ZUaEhfWUtsM0xrdGxFMkgwS0Nnb0ZIRkJTbUs4d29XU2xFaHN1VnZ6RXlvVmFScC1PcFpkcmQ3Q0ZvVUVtZmlXYWtkM2JSaGthc0pPcndsQnAwTFlaaEIyU2c4RXcxZlVlNzRmWWx1N1NybmdiS1B2Y2pwUzdGdFcxUGxuRG5iZDBOcE5tSDVpSjBDQVZnWUt6UlRfNUIxdXhreDNmYzJWNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-28T21:58:32+00:00",
-      "summary": "The Start of OpenAI's Trial Against Elon Musk Wasn't the Worst Thing That Happened to Sam Altman Today  Gizmodo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
