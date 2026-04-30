@@ -1,16 +1,205 @@
 {
-  "generatedAt": "2026-04-30T16:06:58.878974+00:00",
+  "generatedAt": "2026-04-30T17:41:33.271976+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Musk faces second day of questioning in contentious trial over OpenAI’s founding - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlBLbXJDN1ZuMVhJNm1ONzhWU0tmQW4tX28yVi1nOEVJb3VGMzFBNC13ZTdfdkhxOTAwcDdhNzI0eHZpYTRjd0VqOEJ6RVVPYlJCRmtPZmlrZmRHd2pXajZMWm53aThmeEp5NmNMbUhWQjVjeVN1c2lxR0hVaENrUzF5dy14eXZwRDhnWUJNVFZReUJ1WHZRaQ?oc=5",
+      "title": "Live Updates: Elon Musk Faces Contentious Questions at OpenAI Trial - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVEwbnZjVlRnbUVpbmNrNGhsY1VzNGUxLU5VVURpdVd4bFE4bi1saUtzbXFLUmxfcmtWWUxSS3pYMlVFRG1XRUgzc0ZaSWUwQ1VuQ3hBUHZBV2tDVWlSSVhEcHl3RWM5NUhkUVJRV0R0UTFXOEtsdFlvRWluaXN3bWFnakNUbXRaalhRSA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-30T16:03:45+00:00",
-      "summary": "Musk faces second day of questioning in contentious trial over OpenAI’s founding  The Guardian",
+      "publishedAt": "2026-04-30T17:34:59+00:00",
+      "summary": "Live Updates: Elon Musk Faces Contentious Questions at OpenAI Trial  The New York TimesOpenAI trial live updates: Musk says Tesla, SpaceX and X are 'socially beneficial'  CNBCMusk faces third day o…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHdXNVpWWTIwVXVHV2U3WEUwY2cySWxmODQtWE1leWdhNGdLTUFCZ2FvNTlfeTNqd2JHRUlsMVVDbXNVQWtwam9GLWhFVm5sa1h6QVNGUlR6S0RCdXpIVHhDR21iLUVqSnpKTXVrRERjRGRveG5hSXE0VV9lSS1ZUHJ5aW1XUk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T17:34:23+00:00",
+      "summary": "Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech  San Francisco Chronicle",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Yubico Partner to Bring Custom Phishing-Resistant YubiKeys to OpenAI Users - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM3VoWXNPVHBlU1FjRHRURnFpeW0wSWVMQV9YTDlMMnFoeW5LVnNfaFpVWk0zdkRJd1M3bjlDV1M2NXczX040VWNhQVF6RHZ2ZmVGempxWWd1R1R0SThOX3dBMmlpejNOUlJUNFM0emx6dW80elI4SkZldWUzNERBQ0tJMmQzeEpVc29Vcmh1dDIyOHpfS2xDQ2N0TU9hS0Fia1VKSFZQM1BvVXk4Q28zc1NrajgzOXhBbTljdFBlcGc5QzlSSHhvVFF6YUZYQnRjVjk5MkJKaHladw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T17:31:00+00:00",
+      "summary": "OpenAI and Yubico Partner to Bring Custom Phishing-Resistant YubiKeys to OpenAI Users  Business Wire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Rolls Out 'Advanced' Security Mode for At-Risk Accounts - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjJnOTY5dlBvQmotZXo2U2UxQ0ZjT2R5eTBMZ1NoTjhUYUJvX2ZDWjFOV1VLQjFIdjFUQ1JXV3lZNHphakdoUlNKM0Jaa2ZUSGc3ZEdvTDNLZ2dYV2FEYzh5OEtRM2xYRGpxbzE5cjV1MUprenFqMzFuY3NPU1pYRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T17:30:00+00:00",
+      "summary": "OpenAI Rolls Out 'Advanced' Security Mode for At-Risk Accounts  WIRED",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Introducing Advanced Account Security - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QelBlU2VzTEx6SWNEZDJuVVE4am5FUHBWVWVMRjZOX0N2UHpkUTZpUHZkZjAwbkhMVTFFeU9CNVlTVVJqZmxoN3hFbHZ4eGpqd1JKOXNnOXBQaDhLMGJBdA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T17:26:15+00:00",
+      "summary": "Introducing Advanced Account Security  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Sued After ChatGPT Assisted Canadian School Shooting - Campus Security Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1NMSm8tRmp5OUhFSkRBbFh2WHF3d1RuLXhSbkJrZzdaWU1lS1A3Sjh3ZWRoUU9VblhaQUNJeXlRb0h4Ry1vOUR1bjB3dTJoRTdybWxOZy1RLUE2b0piSnJEUWk5NVMtWE5DUTQ1RVoxZ1ByalNteXcwQzV2cmtWUmJvTTFvNnhXT0ZucDFEWThPSmJDOURTUnRXcThBa0p6cG5TSkxmSEc1aGpJU01EY3RHWURNSzg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T17:25:13+00:00",
+      "summary": "OpenAI Sued After ChatGPT Assisted Canadian School Shooting  Campus Security Today",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman says he probably messages 'a few hundred' OpenAI employees a day - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjVid3B1Y3dVX21oWFQwWkxLczJzSXBoTlZ5VEpfRUQ0a2Q5Y2RBekdfRjZuMmNuSWRqRXJ3UkM1Wmk1c09xdnhvbzRlb1VFbFVmcnZHcG9yTC10aklZN0ppZ3RVWEFYUzNUTTBhQkwxM0ZGbFdVMVZULXlvWDdWM0FHZzFyNlBvdnpyRDVNc2phOTV1RDZ1YTJHY0Y?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T17:20:13+00:00",
+      "summary": "Sam Altman says he probably messages 'a few hundred' OpenAI employees a day  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The OpenAI-Microsoft reset, decoded: Why AWS may come out ahead - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzR1VYZlRjd0NRS3M3bzZTQlBMUGRLZUl1RGJTbHFXMXpLWTJVa0piUTc5OFFIUXkzUVJJbU1FcUd6Wml0TG5aMTlZZ2ZqUm9tbkMxRnQxdFh5bVhlUks3Nm9aYWs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T17:18:41+00:00",
+      "summary": "The OpenAI-Microsoft reset, decoded: Why AWS may come out ahead  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why OpenAI's 'goblin' problem matters — and how you can release the goblins on your own - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2NQRHpOUUdvaFhtMjczWFBTRklkNmw3ZjNTYlV1aVY3MU93Yk1Fc09zcU44RWFWQUF6a3hicEVFeDcwdndONklfZFdoaFlBazZnX2lSM0RRcy00eWw5ZlJVRXh6cWNmdDNESEZlQXVBb0V4VFFqd3lzZVNZSlhVQXNyNjNVWW5fbkVBb2tPR25fNTBJSm5rTnNwbENiMzZJMUVGdkRvUG50QjVoamc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T17:11:00+00:00",
+      "summary": "Why OpenAI's 'goblin' problem matters — and how you can release the goblins on your own  VentureBeat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "If OpenAI Loses This Trial, It Could Effectively Be Eliminated in Its Current Form - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnV6R0FnWXA1TTFHWFVndVpWc25jbHk0dmVjYUtkVnUzTnJ3S0lTdjNTWVJDNGExSEk5M0xCZURUOVpZclBLY1dnQTNpYVZPTXdFZ290Z3dmLXpCZlE4aVpIelZ3TVVQcmZfU3FXd0t1MVZ4UE4wQmUyY0MtRThHaA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T17:10:57+00:00",
+      "summary": "If OpenAI Loses This Trial, It Could Effectively Be Eliminated in Its Current Form  Futurism",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI gives users the options to ditch passwords - Axios",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ydmFIWU1sR3oxd1FCZUNweTZyeG5nbkEzN0dEMklwc0pRbTZjQlRpZ3doWl9NMy15bTJscmI5VXlZMXpCSHlfa2hpNUx0TFg2Sjc3WHJ6N09ITEF6YjJMbUJ5SGtYT3ZZcWxZQlZhUFQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T17:00:08+00:00",
+      "summary": "OpenAI gives users the options to ditch passwords  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft Resets OpenAI Alliance And Puts AI Execution In Focus - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVkgwYWkzWDhPcWxPU3dmRTFRa0NyaFJpOWhaeDRmM3Z0elNoei1wQ3pHSGNfV09rUEVNa3ZIUjhYbGVxSTFWTGgxWUN3dVNsTUJWdkpsOWZZQjc3ZFY5MlM1Ql90WHV5X1F2MnFiX0J1UE91N2ZzdkhGaFdpWGxPQkt6aU1HUVpsUjBMdllpSjFnU0VhQUw3MTc4TUc4SzhCZkg1RDFjRUxiVTQzd1FGeFIwT3U1NVlvVE1OOThOMUlMV3psQUVv0gHMAUFVX3lxTFBHbU1GV1U1aHdPa3BLeXZEUjJ3V1NhZmh5b29obWpVb0FpVWprWE5zc1Rrd0J3YzJPejBvZHFoZkJIOHlzcDdMUGJwMHRHV0haX2ttVldKbldVVjY4UzRNM3IzenZHVE9TWEhZQXVBLU9Ud0RJeUtJaWZLb2JMbktlS1d1a2JsMXBBX0xXcUlfalN0Z3ZFeE5xSFVFcWdBRnQ4NkZtdnltTnRHTTNCdEJVZTRDWXZhdHByalNXSFplNzdtdEdpTzEyRlRrbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:56:56+00:00",
+      "summary": "Microsoft Resets OpenAI Alliance And Puts AI Execution In Focus  simplywall.st",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk faces tense questioning in cross-examination by OpenAI's lawyer - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYi0yc0o1VE1YYWlUMlVGRllPVk43OGIwLWZHLUR0N2pPTHpLR1JhaEVyYlZNdklnN3UtbEMyUXlkcTQ1NERtemE5U25IMlRqZnpmdGhOVkN4MnFPZHZTNUI4RldQUHh0TEtTOWQ2UnB0YzBYNkVVUjlScXlTQmpiSHhLX2RFZTlRQWxrYm1iX3NSUWhOQ2lHNzZTVlY2bDNVRFVNOG5vbjhBS3ljRlJPc3ZUeExQYlBleGY2MW5vUHB2bmlXcU5rc20zYllPTS1jQXFzZXFVMk9Udw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:51:08+00:00",
+      "summary": "Elon Musk faces tense questioning in cross-examination by OpenAI's lawyer  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "'The Goblins Came Back to Haunt Us': OpenAI Explains How ChatGPT's 'Nerdy' Personality Got Out of Control - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYlF1NnRSdWtDSkFrU3dIZXowWWhqd2k3dXJUQ0E1WUl1VENGN3diQl9nMFhMRVRXYy1uYjYtamd6RUN0eDZJanpXZXNxVzA4cm1QdzlIQ0hSMzBpWXo5QU9ERWFNajFRUThtZ3RwZUlmT0xneE5JSVI5Y20wT2JzVDg2d1lRdWxQWTQ2LWxxajRjVV95ZzBzU3NCdzNOUlJyOUNEVC1JaHM2TEUweVQ5LXEzRXZ2c1A2dTU4M1lfRFlmWHBhRXJOU1dB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:45:51+00:00",
+      "summary": "'The Goblins Came Back to Haunt Us': OpenAI Explains How ChatGPT's 'Nerdy' Personality Got Out of Control  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk Says No Written Agreement for His Early Donation to OpenAI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2V2akc4T0F6MGdqQjdqRGJxcGNmajJjRk9UTGVoTVNmRHdPNllBamd3R2VyZTczUnpZVkU2MmF5WTRUZ0VnRHdfYlV6Q1F1UVJQbmZSWUZORXdDZk5ZS0JuQkJyb2FUdVF4ZHpycGNmOUhWcFNsS1JGNDVwbzJTY3JURUNSLVpoN1Jvc2tvTXR6SWVXLWpSdjlpZ2xWM2hUQVdiVzVCWGdNNnU3YmFOMnMtb3g?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:44:38+00:00",
+      "summary": "Musk Says No Written Agreement for His Early Donation to OpenAI  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "EXCLUSIVE: Elon Musk Vs. OpenAI Is About Control, Not Safety, Says 'Father Of AGI' - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVDZBTHA2cDZtQkFaZ0RKVUtoRkVKemZGbklHV2lCb1V1NDdtSjJDYTRRdXNjUU9sRFhfbDRTYm0yX1p4MlpmRWkyMEtybjlacDgtWlZacTd4b0UzWUo5aUU3QklUY2VUaGdJMnlUWi1memdLMWFRU2pQZXpWN2VOMUFoa0xYZDU0MHJzcW1OdG52WFNhelBTSGlqaUxvYmZ4eGJOY2wydFlEdXp6VUc4LTVJcV9nTmxwYkwzNG0wNzNqaDIwY2h2aQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:42:05+00:00",
+      "summary": "EXCLUSIVE: Elon Musk Vs. OpenAI Is About Control, Not Safety, Says 'Father Of AGI'  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Inside the Courtroom at the OpenAI Trial - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYnI2Zjh0VER6SHVrSU9ESnpwbzQ1V2FES0lsV3otZFZ5UXFxM001dV9icGk3WFhzZTllRWhXZUlablRBYVk2R282dGFmWndkT1JFSFRqM2NaUE9YZXJBYmphVF81S3pBbkx5cEVfT2E0a1U3RmhFbDB2ME9qNHp1T2cxU3g?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:36:50+00:00",
+      "summary": "Inside the Courtroom at the OpenAI Trial  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI explains why ChatGPT developed a goblin fixation, and how it solved the issue - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTVuVlZma1FjdkNqbEltczlNNkZhYTJGUVhjeEM1T1J0YjlLRlhLandNOTk2dHlEeGJvQmJ6OUdXX3JEa2o0enExV2xmTlQwVFRBOFk2OXBTTnFTRGlkb2hOM1JqZF9GLV9HQ0dHLXk0R2Jvclh5akJxQmxDYUxtTTdWUWFMd1ZRTW1ERTNwX1BveV9nM1ZTQnlHWkdIT0drSE9yZkc2UmZOWXZreWpyeVdyN29tZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:27:00+00:00",
+      "summary": "OpenAI explains why ChatGPT developed a goblin fixation, and how it solved the issue  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Meta Targeted in AI Child Safety Bill Senate Panel Backs - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY01WS3hOUndsZE9oM0NOSTZqS0xDZFlVLXozNzlKNzhxRkduSXVPbG8tWXUtbVFHNmpnZ0w1azdzMzRmWjRrZEV1YVptSVJqcWFYLUJNOGxnS0dicmFyRUFYZTN1cVBDMG5NS1FwYVhhQUhzMW9EVzJyNEI2d3YwR0FsZmZVMDNzMTF3MnRzUGh2WC1EMmlUaTRjM0dlYlFrNTdDNnEzSGhneWNjTThUZlN3aU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:08:01+00:00",
+      "summary": "OpenAI, Meta Targeted in AI Child Safety Bill Senate Panel Backs  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk Faces Tense Questioning in Cross-Examination by OpenAI's Lawyer - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYkUxbFloSW0zMERSanFjcGN3YVNyejN6d2RFTF81M0hvRzFBMzVuSllQMmdkT21SLWxvMVVTZ2paRWZRdThXSlBOWUl5M0hnNjlIS0pqYzdKQmJObVRwSEljN3lfQXlRcEZUWjYwUFl1Qmh2LXV5TTJkWk44Xy1Ic2lWUnNiWGpFdHFuS3V4Y2FmUjlaMUxYZjV1YndPeVV2QTBzRy1sU3dRT1RFNEN1SE5QaWhCRUVUaXF5d3RxTVNlQWs1MzVNSnBiYlE1dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:07:30+00:00",
+      "summary": "Elon Musk Faces Tense Questioning in Cross-Examination by OpenAI's Lawyer  U.S. News & World Report",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk back on stand as OpenAI trial resumes in Oakland - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmwtWVVncFFpUFdCMW84cnZwZFBDanVWN25adUtjWWE1SXdtWWZxUk5LbTFPSTVPSFljeXlKakNDcUg2bVM0emxyWWczRGMxM0NpTWdQWE50cE1QR1hONmlTQUN3Qlpndk1VR3dVOTNOOW9YOU5lZmJmdnBudlJCeXMzN0d3dU1HVTh1dmxJdVV2NVIxdkRMaGhlUEpHMExjbmJkbXdQR2lFd9IBsgFBVV95cUxPSkRXNjZyTTF0UUNpMTJaeEZWOXd6MnVOcU9LNkowY3Y3eDRoSWRkZGUyMFY0WUxseWxWRjFLMC00dDliSHVSeHBTZmFQcTV6T254OUJRTWJiNFZpU2plVFIyMnNEbmRQYzJ4ZEl4Uk5XSFhlc1g3LXZZTzZUVzFpQzBDQkFkOW9rTnRWcWJMRDYxWExaQnZFcUoydzBTeTk5bFl2NFB3elZkLXg1VlZsV3Zn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:07:26+00:00",
+      "summary": "Elon Musk back on stand as OpenAI trial resumes in Oakland  NBC Bay Area",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk fires back at OpenAI attorney - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmZXNDcwWjZyQ3pBMjR1MHdaaGtsLXAwbGVyemJPMFhKSHBOd0wzODhiQ19sZF93Z1NacU1UYlNIRVVjS0V5R0xsZ1pXbTA5MjhNaDVtemMwQlFZcHFMTFRPT0Nrb3AtWlhvaVIyV2s0ZlhTV2Jaa3NFVnc3d2lra2RmTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T16:06:01+00:00",
+      "summary": "Musk fires back at OpenAI attorney  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,200 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Live Updates: Elon Musk Faces Contentious Questions at OpenAI Trial - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVEwbnZjVlRnbUVpbmNrNGhsY1VzNGUxLU5VVURpdVd4bFE4bi1saUtzbXFLUmxfcmtWWUxSS3pYMlVFRG1XRUgzc0ZaSWUwQ1VuQ3hBUHZBV2tDVWlSSVhEcHl3RWM5NUhkUVJRV0R0UTFXOEtsdFlvRWluaXN3bWFnakNUbXRaalhRSA?oc=5",
+      "title": "Watch Elon Musk enter court for the third time on the stand in the OpenAI trial - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3RKUEkwZ1R3TDdPcmlRenBUT1JTSXVlZEFQWWtTUHV1X2s2MVFtUkhrLU5Qay1Cb2JybjFwQjFtTWp5Z0JkUDlmRlU3Z204bk9TOFhOa3lhOWl5a3cteVVKMm8tR2czTXQweHVDODdyc1lyNkVhSGZYRDY3eU1IM0tlU3pYcXd5c05VNGh2VW9rU1l1Ykh5eXNfQXpqY2RHMUJXZXE5c2hIeWVleXRhLWM3Q042V2h3WVlwby15bw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-30T15:57:45+00:00",
-      "summary": "Live Updates: Elon Musk Faces Contentious Questions at OpenAI Trial  The New York TimesOpenAI trial live updates: Musk takes the stand again after heated cross-examination  CNBCMusk takes the stand…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk returns to witness stand for cross-examination by OpenAI's lawyer - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYi0yc0o1VE1YYWlUMlVGRllPVk43OGIwLWZHLUR0N2pPTHpLR1JhaEVyYlZNdklnN3UtbEMyUXlkcTQ1NERtemE5U25IMlRqZnpmdGhOVkN4MnFPZHZTNUI4RldQUHh0TEtTOWQ2UnB0YzBYNkVVUjlScXlTQmpiSHhLX2RFZTlRQWxrYm1iX3NSUWhOQ2lHNzZTVlY2bDNVRFVNOG5vbjhBS3ljRlJPc3ZUeExQYlBleGY2MW5vUHB2bmlXcU5rc20zYllPTS1jQXFzZXFVMk9Udw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T15:49:54+00:00",
-      "summary": "Elon Musk returns to witness stand for cross-examination by OpenAI's lawyer  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk OpenAI Trial - GazetteXtra",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFlHXzhQT296RFFpbnRXaXlZcngzSFZ4LUR0RFhwMDhGbHhrQnJGbS1EUG5meTV1MWkyVVowWWhzVFNpamxMazNqWFloNnlWdUdLZ3FMYUM4TWg2d21XVVAzWVU0d29JOXRGdzlTQU1HQjU5X1lkSUs4SWEyaWk3NHFmT000MDRVY2U5Ylg1a1RoTlNfbC0yWFVNMVlHMjRnUXVUajhwS244TFNSR21SdQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T15:48:18+00:00",
-      "summary": "Musk OpenAI Trial  GazetteXtra",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT Developed A Goblin Obsession After OpenAI Tried To Make It Nerdy - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkdBbGVQUnNibnJ3RVFqN3dOU1VvcWZEWVdoNlJ0NUJpS3RmSm1ldE8yUTdkWVpHYWI3ZzNaaWplWlpaRzJYNF80TFlzejdtNzdqQVZnX1ROZ1I2a3lZT25veW92dlh2c0RnaFBGdERiYkpXSHJ4Sk1ScVJER294RERlX191cFJsSy14V2NaTlpIR1RUUzlnejlEblVYM2lYQWI2cHNCV21udw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T15:42:28+00:00",
-      "summary": "ChatGPT Developed A Goblin Obsession After OpenAI Tried To Make It Nerdy  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk likes Bitcoin—but he just told a jury most crypto coins are scams - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zZGNVVUpkR2RZbWJIS1lPTHVydW9GRnB2MXE4YjFaMUtIbTNkSnByTUNwWEFhTld5MDNPU05lMzJ6T3pOOGRqelFmVElfWktrWFY1MjBlVVZHZG1uWk5NME9pTUJzNnRDb0xFU09BOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T15:41:00+00:00",
-      "summary": "Elon Musk likes Bitcoin—but he just told a jury most crypto coins are scams  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI blames ‘nerdy personality’ for ChatGPT obsession with goblins - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzZ4dnd2VVp1T1lTUEZZOFQ5ZXZaWGxPUkIyd0R6QW80aUJXSkdsUmcyUmNOQmQ4YTZJQVh2VEtDRXkwMjgzeG13X1g5NEVQVER5dG1CWXFhbEQxNWpWcC1CZng4eVZXUE5JUnQyNFJyVGhyOHphYVNuZDRWTC1UWUxteEg5c0otcGYwUUxxaGZpcmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T15:21:02+00:00",
-      "summary": "OpenAI blames ‘nerdy personality’ for ChatGPT obsession with goblins  NBC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tech stocks today: Meta stock falls 10% after earnings as Big Tech results highlight AI spending plans - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGx3YUpFdW5lRV8wQ1M1aHdiZVIwNzJNb01xWl94QnJtS05HcEptYlQ3U29xMTU5YkZnMnkyMkZPdHdwNnRHSHZpWm5FZ3VVcUI3R1JhMklPT1kycFhqeW9STXBBTms3dXN5b3dNV0hXMGpUYzZVY3QxbVNwV1FqMjVCV0IzUlU3Tll0NGZtNGR1V2xoV3RZWmV4RTZGNWttTXRRc2Fwb2pyNnM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T14:55:06+00:00",
-      "summary": "Tech stocks today: Meta stock falls 10% after earnings as Big Tech results highlight AI spending plans  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Qualcomm Lands OpenAI as AI-Native Smartphone Chip Customer - Gotrade",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckpfaVZYeE8zc285RktCRWd0QUpscmp0dEV4ZjFPMVQ1WjladFBzdllyUU1pWWtUVXNMR0ZwcGhScVFvMGFybFZfMTIyck5aTzRsbmtmcU1hcFl4QjlCSW9WN0F4dWNGYl85X1gycjFaWVg4TjJuWS1VMlYzMzJGSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T14:51:50+00:00",
-      "summary": "Qualcomm Lands OpenAI as AI-Native Smartphone Chip Customer  Gotrade",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT Is Weirdly Obsessed With Goblins. Here's How OpenAI Fixed It - CNET",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUVyN0ppS29JTklvaDdOREQ4am8zbDJHWXhYa0xzbWpISXRMYXN6YTZtMHJYYXFaLXV6eHNCY2Y5OE1TX2l2VXpFWlF5ZmRFSzZMWG5yMUZIM0lldy0wVThVVXg2andnMUE1YmdrMXkzLWN4aWxyQ0luV3NRcTVRbWtEMHhVMjZvNzdiVWkwRnRYMDFZcnlQeDRLMjB0dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T14:43:00+00:00",
-      "summary": "ChatGPT Is Weirdly Obsessed With Goblins. Here's How OpenAI Fixed It  CNET",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI expands cyber AI access for vetted defenders - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVA0eHRZOTd1dnVYR0ZyTExRWk5GcmtKNDdreTFyZEZveWVkdzJKSUl0RlRQcXZvbEgxRWdqcDFwVTVjcUlldC1yM3BHS3l6LTNkZHZFcXdiaFNqNW1kN1JlNlhNT2haUkdXTEZBdkpHc0dacmZIYk54R2pxNGxJcy1xRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T14:37:18+00:00",
-      "summary": "OpenAI expands cyber AI access for vetted defenders  TechInformed",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk, Testifying at OpenAI Trial, Accuses Executives of Stealing a ‘Charity’ - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUxKVE1CQ3otQTQ1aGxFQ1lYR1haZGRyLTdPQXp0bHJrQ04xQi1hdmI1Ml9RRmhQMDhRejgyR0tqSDRlSVhSS1NjeE5vQm9WZXBMeGVwUS0zYmtBLUw5d0ktOTBPTXRoRkVoeE5MUmVMN2V5bWdSYVVWV1RxZHh6QzBRQXM1Z2hSTjl0eA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T14:15:00+00:00",
-      "summary": "Elon Musk, Testifying at OpenAI Trial, Accuses Executives of Stealing a ‘Charity’  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk to return to the stand as OpenAI trial enters its fourth day - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVNQa1dwbjVRZTI0ekZpdWY4UjNqZDlISUFFV2lnS0E5VnFvc0VmY2FnVEdCX0MzbG9td29GbHptTXU2MXVLOVdMRFFhY2U1a3NsSzNxQXJFdEVudm55NXVueHlrRV9mWVdyZURhem5MZW85clE0NExyc1NReTJZNXdibm9GMm9Jc2NxMTJERDRHV0xJWWhsaERyV1Jub1QyZ01hQ3F6YkM0bEJ2MHdDLTRVVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T13:52:34+00:00",
-      "summary": "Elon Musk to return to the stand as OpenAI trial enters its fourth day  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI talks about not talking about goblins - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRmhwWlFFZVdWZ09FUFBfOVJVWFl0elBEdk9LMUVUVHQxclcwZDN4TWR1cHdxRWRMQV9ubndPVEZVVTQzVkx5SHZtNW9CWG5rUzZIRkZMTmhWLUVyckJvWHhTdEUya2JFZjJHYTVNa1ZsREpMYURDNG5qd2hjUlFRX05lYlB1UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T13:42:29+00:00",
-      "summary": "OpenAI talks about not talking about goblins  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI tells ChatGPT models to stop talking about goblins - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yT25BMWpfTUFVNjY3V3NqMzlUdVlPQ2ZHbHV5UGR2QTc2bnE1U1otVUpERDNBb0l6Zlp2UkZTTlk1cExKX08tLUFweHV5M21LcV9LRzRibExTUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T13:28:04+00:00",
-      "summary": "OpenAI tells ChatGPT models to stop talking about goblins  BBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Is Building What Comes After the iPhone - InvestorPlace",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXFRY2d0aUlWZ2dFNjhIZ1NPWHJYWmlMZGo0SHlSTldxZW82SWVqV3JkUTZSaE5UYW9ldmJ1SEN1bXl5YlEzRU9TcFFRdGhVYnZ6VklBNmRheVRWc1Z2UjRTa0hwdjhfTmRMOExyR2V1WDF2ZFA4M1pSWl9MYkRnSDJHdXZtWV93Y1QtZ1lzNzNzaEVCRUw5OUp6WkNuY0YtREV5dg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T13:20:14+00:00",
-      "summary": "OpenAI Is Building What Comes After the iPhone  InvestorPlace",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI: 2026 TIME100 Most Influential Companies - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQy1kdllodkh3NHlSZ1hvTWhxZk5zbU5WV1VJMlVhdDZPVGpPMmEyNVJZVU1uTDM4UzhSYUhfck5GY0tNVXpTanBOcEVxTWkxSUt0TWpkeVVmVUpsY3VKOGdORWVpb0RWdEhfNEg0YjFDcXRMZ3V0TmRicDg2RGhDMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T13:19:08+00:00",
-      "summary": "OpenAI: 2026 TIME100 Most Influential Companies  Time Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic is eyeing a funding round that could make it bigger than OpenAI - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VVTlwZGZCSjJYOWFpTm02dUI4amVNS29oYjBIc2VFVzg0QnBGQUh4WlRKWFVBRW12SXNaMW9uckRndlYzcHhSUzdqQXMzLXFweW03d3ZzWXdvZW1LNTN5TXZ1d2oyc2ItR1ZUMlNLWUY2XzdEaGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T12:11:24+00:00",
-      "summary": "Anthropic is eyeing a funding round that could make it bigger than OpenAI  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Is Shedding Baggage. Now It Needs a Jury’s Help - Advisor Perspectives",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVMtOHR4STRRbDVvZmVwUkY3UzZnaWZRV2JQUml4MmYtYU9tQXhmZEtOMUxHUmlhYTNqVWxYRUhMWFVWT0Z5bG5TSVVWZVUwTDVnSlQyU1JTMkRRX21EUUpIV0xWRzFBOUd1eFA4REdlbDZFWWNXb3VEdkl5OTBNXzU5bFF1ZXRJZjkwUzZYcjFiOVg4d3JFMF92bw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T12:02:07+00:00",
-      "summary": "OpenAI Is Shedding Baggage. Now It Needs a Jury’s Help  Advisor Perspectives",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman wants OpenAI to be the Google or Amazon of AI. There's one big problem with that. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaENvVDNydHh2dXl3UTNGQ3dnQ0ZRV1E4TGZDengydVF5ZmdqeWRnN2ZPMmRvc0RPajZud2hkQVEtT3NVNUtiZFIwSEN0WXBRQkZtdlBJdlh2RlN1U2hKX2hyYWJNZUhkR3cwdG9lZDI0WG1sbko2VDcwQVZRSFN2TThvNlJtNFZLVHEwUG1XTXA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T12:00:00+00:00",
-      "summary": "Sam Altman wants OpenAI to be the Google or Amazon of AI. There's one big problem with that.  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Forbes Daily: Elon Musk Takes The Witness Stand Against OpenAI - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1pUZnRhRHl5MFNEX3E2SFBlU3JndDhqMWdZdTdlX2ljZGI0bzhnanA1RjY5UUhFSW9Hdm5vMDR4dHdTRlBUTklpYm9nUWFSM0FmeFZneXkwVnNXbXl6aXFGVEs2TnhIV2o2SWxuaWJNNFpHb0p3eUh2MDNqQVpyUUFDLWhxemx5dUt0ZTBVYUNBbXRKVlRzTVFuWHhnaWtyS09YbXZObVE2S2d1U1R0SVBUSGd5VjIzMGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T11:45:56+00:00",
-      "summary": "Forbes Daily: Elon Musk Takes The Witness Stand Against OpenAI  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHZETTlmMkZXTExNcExtWGZpb05kaHFmclA4VnVzcDNZVTJoSDdMSlAySEZ4Si10OWJIeUFJc2NkTlJXVFM0dVNCY011ZjZXTXJ0bk5XRU9VSDBBMC1DLWNZbFdFNjFlYjZncmUxVWxST0RKb25QVlRhQ0huUUEyN3JkNnRxa00wd2NlZnJ5ZktweW1BblNoV0k0UWo0enkwcFV1c29aS2NQU3dYNHdheHNnWVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T11:09:01+00:00",
-      "summary": "OpenAI’s new security model is for ‘critical cyber defenders’ only  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s ads pilot is getting more accessible to some advertisers - Marketing Brew",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTJKcWhiVWhBVDdyUjV5NDV6SnBzSlNpNVlCWEVPYm93WG1qVnBHVDZLT0Z6bzltazZqdFlzWkRhaVdka0dySnAxOXQ5eDROSEpUSzJtczctVlVCVmFNUUZaNlpkYTBqYWtIX0RBTHdKdy05UEZFMGVCV1pYdGZzaXBNSGI5VmRPQ2VETTBfT1NLSlp1eHk4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T11:07:45+00:00",
-      "summary": "OpenAI’s ads pilot is getting more accessible to some advertisers  Marketing Brew",
+      "publishedAt": "2026-04-30T15:56:58+00:00",
+      "summary": "Watch Elon Musk enter court for the third time on the stand in the OpenAI trial  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
