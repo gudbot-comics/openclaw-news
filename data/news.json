@@ -1,16 +1,133 @@
 {
-  "generatedAt": "2026-04-29T23:07:32.903693+00:00",
+  "generatedAt": "2026-04-30T00:05:34.685821+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Elon Musk Says Sam Altman Tricked Him Into Funding OpenAI - KQED",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVRYb0IyQVpPVzM1WE5neFJ1cjR6RUU1azZmbU1rYnNNLTFCdVJOU25tejBhekdNVzBxNEFXV1J0ZVVPVmo4WTAzcHFxemJldnNOU2hrdHJUV1A0SUxGRUhlWE00QTh4U24yejlCTF9VeF9BYk9LY2hXM3htQWZDS1lLMWNpaXJyTmZHRXNnVUQzdU9SRFI4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T00:01:10+00:00",
+      "summary": "Elon Musk Says Sam Altman Tricked Him Into Funding OpenAI  KQED",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Salesforce + OpenClaw: Salesforce Goes Headless - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeFFSS3BqelBlX1kzWW8yOVFXQlA1VTN6RHJ6dGY1MUkxM3JfOTgtQ1hWMF85WXR4aDdyMTFOVU9CRGpieEI0ZXhWWlRfT2NySFRMVm40MVpJLWxlZVJyaUx1ZkUybWlqc1g2TlJtNkhIaHVucGpqWFgyUGVwM2VYbjZzdEx3NVVnUk5ZTDByZXBkMUpUVUlrWWtQV1VPVnFF?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T23:57:39+00:00",
+      "summary": "Salesforce + OpenClaw: Salesforce Goes Headless  Forbes",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN29oRXRtQUd4ckU2LXByV1A5eVczUG0wWXN0OXV6MFV1OS1ZQVJXN0VOVldjUFFRUWc2TmpZVjVRV3g5LVU4Yk4wY3RTdFMtSmstQ1BtTnFrRnEwOWJVYUkteFgyNUFXVExfQ24tWUdDYWVNZlJFVDJhUWpaWHU0ajU1bm1qVHJFNWZFdl9VVnhpN2NBX2RQNkJ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T23:55:23+00:00",
+      "summary": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk accuses OpenAI's leaders of ‘looting the nonprofit’ in court testimony - NPR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmJwVEN5RjcyTmd1MEtmRFFuYl9BRDlrWnlYQm50RzhQYU5HbVkyeVFEWmNFWVc3cDRIeHJDMEtHTXprSXVNbGhCdk9sOUdVSk1WeVVrNENSVVRaWmZpalFILTRiQmxiTFlMeXMzd25weFBWV0ZlR0ZPd0NIalppdmNGUkVxUGotZFR3bQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T23:54:32+00:00",
+      "summary": "Elon Musk accuses OpenAI's leaders of ‘looting the nonprofit’ in court testimony  NPR",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’ - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSWU2RXE2dmlHVm85bnozOHMxTFF6MHBqczN4UzlVVGNfX1poc2g2MFpCTE9SMF9lLTVvU0RCc0JlQV9HNFcxaEc0VXVRcUR2WnFiZEdzNTdOVV9ZMnJuZmlpOVhTNjF0aDZYYTMyTW96b0JMckNKUjdvZDBLSk45VEpRSEJrdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T23:41:00+00:00",
+      "summary": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’  WIRED",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils Plan to Democratize AI-Powered Cyber Defense - Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSDNhQktCellZbzdSTEh1X1REdkRnYnljNHJNR0daNXdOSkRieHpkRUJNTWZvOWE4VTBndk1wZHVCbW9iQUxlTlZsbFFCMGZXV2xJOG1JeEdqMmllZS02Mkc3cGJZdndBZzNhMEsyOThNczVSZXFvTzYyVEdKeTZhakI3R3NBbEYxWG9IczBKLUJmMi1RdkV3Q1lIZVRmcmdrUEJLTnd3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T23:04:24+00:00",
+      "summary": "OpenAI Unveils Plan to Democratize AI-Powered Cyber Defense  Mexico Business News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "On witness stand, Elon Musk accuses Sam Altman's lawyer of trying to trick him - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3V0enU0V28zQlNvSkJMZTNDVFVWZUk3VzljRWNzRWJBSkwtalg2MlJpTnBHUm4waU13V24zYkd3ZWVNQ2hTbkxseGt6UDkxWUNLMFliVjhqckJXN3diRF96Z3NYZmE5QmZiRFpFSW9RNVpiM3FFRjl6WFY5WE9nLWtKQ2hKYmRlZEhhMy1kV3M3VWVyOS1xcld3NVI2elk3X0pWVmhEQUllS2djdzNvaFpxS2tfVGpaTy1SV2FWVC1tYXNKdHBfMkpyMG0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T23:03:43+00:00",
+      "summary": "On witness stand, Elon Musk accuses Sam Altman's lawyer of trying to trick him  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI trial recap: Musk cross-examination gets heated with Altman's lawyer on day 3 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVFMZkQyajZ6NUZtWjdsdGY1bi0xeVJlaEt3a1hrNThVa2dsUmNQVmhJenhlNmJvLV9sM0VNRk1UWXhZR0lyMElzcm13RHNyNEs3SkEtRW5jWjVVU05OUmJSOEpUNVpVem16NExINnZfQXF4ek1wYjF3ZTRlVGZoTXluMC0tSWVi0gGOAUFVX3lxTE1DN3lNc3RVWU5MWDV5WDZqLTJkM3VBQllmN1poM3RnZXpfZEZXSzBUM21ISnpGY3d4Z3MzbGUxZjF4ZUlGSXdzck1hYnhmZG9URktwUFJxNHpfQ3ByZlZxU05GcjAxaGVoNGt3dWtpNnZxaFFJSV9WSG5hSnlzYXRvbVVOZ2NQQVhrVzZEaGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T22:47:00+00:00",
+      "summary": "OpenAI trial recap: Musk cross-examination gets heated with Altman's lawyer on day 3  CNBCElon Musk gets combative on the stand during Day 2 of jury trial against OpenAI  NBC NewsMusk takes the sta…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Musk fights in court to portray himself as hero, not villain, in founding of OpenAI - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV29adWpVZGxhTW10ckdEVnlGWXNCNXh3UEUyZW5ySjZVbktUTmFlZW9XaWxGREZpaDhJNEJOVDh2OFl6cmo2SExhNUVjQk1FaXQ4LS1TQ3d5UTh2bkc2Wmo5UTN6emdyVkM4NFhjTEFTRGhSTEpuVWhzZUV2WVU1NWJ3ci05dVJuck9QTXRxc2JSUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-29T22:45:08+00:00",
       "summary": "Musk fights in court to portray himself as hero, not villain, in founding of OpenAI  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk tells court he was a \"fool\" for funding OpenAI - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XeXQ5Q0ZHZGd2bDJ1bWNMWEdXeVQtME5uUHI5SVI2ZFlLWVN6cUtpWUZzcXI2ZUp5eFpHcjd6VVd3NG9Tb2xmSnlXSFh0am1MLWJFN0VrVGlIZFA5M19EcE9zRzNDbGJadHNwb19TelpidEFEdExUaTk2QdIBgAFBVV95cUxOZUM5V1ZzdGFWM3FaTHNwbDM1Mlpkb3pHUVlqTy1QTmFZRU54Q1JLZkJXS0dYdUVMLVpHT2ZDUUhuSWhqQVd3MUlBcF9WM3pReUEzeFJzekxORHY3TmdDUUpucGhSVXk5QWd2SVZYMEI1dEdodHc3SmlDMjY1RWFzbg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T22:35:00+00:00",
+      "summary": "Elon Musk tells court he was a \"fool\" for funding OpenAI  CBS News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Sam Altman Hit with Slate of Lawsuits Over Mass Shooting at Canadian School - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdHRhWldXS3FwalpiTUdmYTlYV2pXVnRTTXVRRUR3NjhKUFhuQ3AzY0ZFVkFnbzQyb0JxNnU0QW9MVjM2MElLN0FGa1V5cGZsUFFwXzd5M0g3SkJGeXFpTmZHRjBBYk9VSUNydTZsYmJQa0t3VFh5WkRZZzE1YUxOTXp1RWdSeE90RlY4WTMySGJhYk9kZWZqMmUySHF4MGNZSF81M1kwMkhxUnpnX3EwQWVodE5xeDRQdV8yUmo0MlZZNmZv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T22:34:00+00:00",
+      "summary": "OpenAI, Sam Altman Hit with Slate of Lawsuits Over Mass Shooting at Canadian School  Law.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic in talks with investors to raise funds at $900 billion valuation, higher than OpenAI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQemIwT21nSUIzZUtRR0xpNkN0S1hsQzJmdHIxek5raklGOVI3cVJIZnlYSEg2X2VsTkRTN2xqcEJ0dHQ2cWhjVHhvendqRGFzeGhEZml6LXJPLXVBbjdZakdCMlVFanVmeTNta0x2dURXQXJYbjdVTUNqOVhweDVyLWJjVHVkaHRPY0RmNG5WNWFXMFVwc0VQRXp0QXBHT0FwMWfSAacBQVVfeXFMTlJmLUxyekh0cGJ0YjRHTXRoV2xSM0d0LUs2VF9pTVhMZmxYOUZOM1FHT2x0cVA2R3pheW8tUEFOcFUycU03WGFGd21kUEV6WE4xVXgzcWM0a2VmOHFnZnpXbzUtQmMzTndIUURYTXF0WUZHa2NrYmQ3QkNPN19kS09xRDJYMGVoQWJCYjdDVHdmUE1kcTNrZTRzOWYyaHBqVy1ULTI4R1U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T22:25:37+00:00",
+      "summary": "Anthropic in talks with investors to raise funds at $900 billion valuation, higher than OpenAI  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk attorney claims OpenAI, Sam Altman ‘stole a charity’ as high-stakes legal fight begins - FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmFKelZtWDZvdm1QRTMtSHk2VjhWSTdhUDRrTlNYUlNmcW1NRDhicGFhSUxBbGNxeUR0T01oQ1dSV1ZPeVRISkRpdmJ5VkxBSmtRT2Zwc0hWeTVsMDZEUmIxXzlpamRoWDZvWDItV0J5bW5rYzN6amZwZFFmRUJiLXpaUUlqTmxDQmh0TmlycUo1QV9hWkpLZzBsX3d0VGJrcXExWms0dmV4T2Ffa0d5SUJ5MUnSAboBQVVfeXFMUGQ5ZnVWYXdHTlNXR2E4WDVYQ055T1ZCTGJENFBteE1DRklHa1hkR3NPa3RPZFpKR1hiWnNKU2QtWnpYWVRQVXJFT1lLNDBNQkVXeXF5Y0VNY3J6SHdQVXdiMGVRa0Zxb1JrbnotQUtxVXZfOVhoYW9nU2RJWENmanVqSDBIMGpCdWpfN19DWDB5SEsxc0ZKTnU3ZlY5LWM5akdsdUlxVHNaNEFGbHgwMUhrLXFIVHJ6LVV3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T22:23:00+00:00",
+      "summary": "Elon Musk attorney claims OpenAI, Sam Altman ‘stole a charity’ as high-stakes legal fight begins  FOX 9 Minneapolis-St. Paul",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Tech stocks today: Big Tech earnings highlight AI strength, Musk battles OpenAI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGx3YUpFdW5lRV8wQ1M1aHdiZVIwNzJNb01xWl94QnJtS05HcEptYlQ3U29xMTU5YkZnMnkyMkZPdHdwNnRHSHZpWm5FZ3VVcUI3R1JhMklPT1kycFhqeW9STXBBTms3dXN5b3dNV0hXMGpUYzZVY3QxbVNwV1FqMjVCV0IzUlU3Tll0NGZtNGR1V2xoV3RZWmV4RTZGNWttTXRRc2Fwb2pyNnM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-29T22:19:17+00:00",
+      "summary": "Tech stocks today: Big Tech earnings highlight AI strength, Musk battles OpenAI  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,20 +159,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "On witness stand, Elon Musk accuses Sam Altman's lawyer of trying to trick him - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3V0enU0V28zQlNvSkJMZTNDVFVWZUk3VzljRWNzRWJBSkwtalg2MlJpTnBHUm4waU13V24zYkd3ZWVNQ2hTbkxseGt6UDkxWUNLMFliVjhqckJXN3diRF96Z3NYZmE5QmZiRFpFSW9RNVpiM3FFRjl6WFY5WE9nLWtKQ2hKYmRlZEhhMy1kV3M3VWVyOS1xcld3NVI2elk3X0pWVmhEQUllS2djdzNvaFpxS2tfVGpaTy1SV2FWVC1tYXNKdHBfMkpyMG0?oc=5",
+      "title": "Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2Zzc3RXcGk5Q1ZBLUdRNVhKN0VkY3g1Q0thQTgyUWdZc0NRWkpTUUdnUmJGcU94a2VzZmJJLVQ2R0l2d1cweEhEeGNXV1VDWVlKT1JUcmVYUHYzT2FuUWt2TjVrWjhVbXliNGFMVHFZR1pXUmY5aW05WVNGZWJyR0hoc1JrS09HYlZnRVFzNjQtODJWajUxdnhaMi1fNGREX2hoLXBIaHgzSzJoQXpzTjZ3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-29T21:52:23+00:00",
-      "summary": "On witness stand, Elon Musk accuses Sam Altman's lawyer of trying to trick him  Reuters",
+      "publishedAt": "2026-04-29T22:05:43+00:00",
+      "summary": "Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Tech stocks today: Big Tech earnings highlight AI strength, Musk battles OpenAI - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGx3YUpFdW5lRV8wQ1M1aHdiZVIwNzJNb01xWl94QnJtS05HcEptYlQ3U29xMTU5YkZnMnkyMkZPdHdwNnRHSHZpWm5FZ3VVcUI3R1JhMklPT1kycFhqeW9STXBBTms3dXN5b3dNV0hXMGpUYzZVY3QxbVNwV1FqMjVCV0IzUlU3Tll0NGZtNGR1V2xoV3RZWmV4RTZGNWttTXRRc2Fwb2pyNnM?oc=5",
+      "title": "Elon Musk tells court he was a “fool” to fund OpenAI (OPENAI:Private) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOEc4SkVnNVhMZWFFeVJSUkFHeEwwNEtFWU1KNHZmUkpHUHZfNnBHUndfVllEekxSMXpYZFhESFFQaGJGSnBZQjRIMWxGR3JySXFyQm54Sm9VaFZ1anVYUlVxWUdFbzVuTjAyOWNyaVN4dktfcjlpMEctWkJ5NnZtUlR1LVIzLTBLMFlBNEp6aFVKQQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-29T21:44:27+00:00",
-      "summary": "Tech stocks today: Big Tech earnings highlight AI strength, Musk battles OpenAI  Yahoo Finance",
+      "publishedAt": "2026-04-29T21:56:27+00:00",
+      "summary": "Elon Musk tells court he was a “fool” to fund OpenAI (OPENAI:Private)  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,128 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Elon Musk gets combative on the stand during Day 2 of jury trial against OpenAI - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWkhHbUhxc2Y4RTUwZ0ZOTjRwSWF1cnZvUFVTR0JPYW5rbXdyUlZmaXd1bUhPcGpRTFNvdFFOcU9VQTNmakVZdFhqaUhJNmZoeGlQVDdmbEdkY25IeVZOczgyVzVrUXp0dTQ1b0NSSURKaEdERG8ybjdhVHFuWDctZG1BOU5RY1J4eWQtbko1ZE1RSDViX0FaeU5ybG5ZVXBCT3JDTjF0STNNLUVEZ0Y4QktjeEpYUWRjMWRB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T21:21:31+00:00",
-      "summary": "Elon Musk gets combative on the stand during Day 2 of jury trial against OpenAI  NBC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies - Venturebeat",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM0hnNFlxVUpNa0Zyai11UU1sY04tcURNNVM3U2VGeUxjRUQ2NDVPX0FPT29hR0g3bGxCWXJmeF9ScVVTUklnNWhzMHdndWlwX1VfbHFFbmwzX21QN0JYNVBDYnJ3WFBNdkcyaUEyMUp0aC1MUlo5V0x2YzRyQUhuNWdLVDVLZ3d1bC1SZWh1ZVozd25ycHVJWWYxWG1sUWxVS2Ixc2RmNnBjZkhnSTJBbmxaejVGNFJUbUlkd1ZUMHQzdkpEU3ZxWk1SU0VZYVE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-29T21:14:06+00:00",
       "summary": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies  Venturebeat",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Just Published an Absolutely Bizarre Blog Post - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzkxUkJ5VGJFa1lmbnhGcHlaQm50d3F0SHdDYUtRWHFOVzg3V0tNZXJnMVdHZ1lFNFUxY1hsajhxOV9DcEc5QkJEakJnVWZ5WTdYUjh1RVJMSUFudGNZQnZxTVZuMVlOekUwT3NsNGNCWEtsV0hPYVFvTU45RG5FcXpQQzJkbkRlVmU3aWhra21QdmpVTExkZjctUkU4Vzg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T21:01:00+00:00",
-      "summary": "OpenAI Just Published an Absolutely Bizarre Blog Post  Futurism",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman, OpenAI sued in wake of mass school shooting - KRON4",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUzY2dUVEdmNHdndaSWx0RVRzcHUyYUlhY2pTcHpIbkVhcWdULVNkVVYwZXE0VVV2X0V0YmZLLUstQXl0a3d0aEhuZ3lEUnNlMnVDWGZqc25UYUd6c08xSmpmME9vSU5jWTVDbGMtN3dWUFhPUlN2dmxNYVVVbnA2Z3JqVlYyRlFJMUViSURrT3htb19ZaWNrUjdBRjbSAaIBQVVfeXFMT0Z5c1NwZk1ENUkyRjJqc20zelhPRmtYNVhwdlhMYzhJX2ZIVTFOc3FVemFpMVY3cXVtb2Z1SHowOEd6b29GTUttX2labUN0RHg4ZDRFeW1GWmpLVEx0U3JUdEsxdDZjR1FFNHNlRmpqNGdmTWhzcjlMU0psaUlTZXVRZEFjNDhZOUY4QWFVNTZDcFYzc1UxenZNb2JKVlNqSFpR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T20:37:11+00:00",
-      "summary": "Sam Altman, OpenAI sued in wake of mass school shooting  KRON4",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk accuses OpenAI lawyer of trying to trick him in court - Honolulu Star-Advertiser",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUEtjcjFYcldMZVRubC03c3ZyTW5nQ2ZaOXJiTXlPYnEwUURKVDJmdnBRWGxVRkRxQmVzZVlPVmJPbzhTbFhDbmh6NGlGeFUydE9jOW9MU3ZGMW9OTnI2Q3Nlam1uUnJGb21RaV9NcXMxVERpX2hRUFM4Z0NBd081cklDRzVBNWxxWVAxWHh3Y0IzNDRxLVBXMGRNbV9TNkxWWnVrVkJBNVlWeDZaeUVEY1FITHcwczBxc0RYeg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T20:34:41+00:00",
-      "summary": "Elon Musk accuses OpenAI lawyer of trying to trick him in court  Honolulu Star-Advertiser",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Victims’ families sue OpenAI over school shooting that ChatGPT failed to flag - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkJOdzBWMHJsdXczNXpzWnFadTBGZTEyUnpMTnRTVXdzbWUzR0U3bTJpUXFVaTg3T2Ntckg5SE9QRW5aWWVyb1JmckNkM1hzMHZ2eUZUZWlWbGdEd1BFMU50UldEMTlKMmI1ZHkxclUyV1plV1h3YjdZSEhGTmRjbmIzbnlKU2tLV3pvaWM2anZ6UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T20:33:04+00:00",
-      "summary": "Victims’ families sue OpenAI over school shooting that ChatGPT failed to flag  San Francisco Chronicle",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk says OpenAI betrayed him, clashes with company’s attorney over questioning during trial - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmR3cTM2c29QMS1TSTUyNzFuNE9Rb1VWTVFJclA1SElpQXBLVEM0M1UtZElZR1cyM2lVTVFNa0h5cENYdkJWZkFYOTdSMVFlYWxXZkdIbzM1V2hFVUxuREFsTHRUUWp3OXBpSnpoUGlvdndqMzVNY0FIa29PbldENFdR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T20:32:54+00:00",
-      "summary": "Elon Musk says OpenAI betrayed him, clashes with company’s attorney over questioning during trial  San Francisco Chronicle",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk tells his side of OpenAI’s beginnings in trial pitting him against CEO Sam Altman - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2UzQTFjQy1sZWNnT0ZDN0pXYVV3UUJkV0NuNzNFejg0cDVLNnFFLVpUQW1KOEMxY0FFal83RFFNRG5zNXBWOFVyYjZrcHE1b3Q2Mng2S1loZEdjVGNxMFZkYXVObDY1X3dUeFVhR2htNEgtQmVoaGRoYUYtb2ItMW14QnkycGVzVXdWZVg2dENKNlY5YW1z?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T20:26:00+00:00",
-      "summary": "Elon Musk tells his side of OpenAI’s beginnings in trial pitting him against CEO Sam Altman  AP News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk accuses Altman of betraying OpenAI’s nonprofit founding mission - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDdsdmpEa0FPQTB0ZFhJc0ZSb1hFNTFsbS1YRWg0QUc5VmR4M3BVQWFjMEtMcUVWVlhONEF6QVhfRmJPT2c4ZlQxTFFUTkVhS2JhdkI1VGJ2cW04VEtNOVFTaU1WUEU3TWxCWlNCLUR0QzR3cHFCREdSRkJhTjRwQVVWOXozV29lVC1MQ2pYWThWWXVtdHc2T1RvLWxTN3dRSVd4WTRUUGZvOGZpVnNqZNIBtgFBVV95cUxPYTJqemdlM3VDb1Rvel8yaFJscVZ1a3pXTDNNMDVPaXhYcWVyNmlMM1FQQWtUamNSWXhrUGQwQzYzY0w0dVhXeDV4YXgwaW5MUURfZWdIRTl6LVEtR3E3aExVNHg0NWFWOVVnUjFGUnJyNmtCVWtnVzlNM0IxNHNYUm5CaUg5QVZOMDRTeE04eWMtRVJMTW5xNFNWTDFGVC1JZlZBRWFZdGNEQnE4M2REUmdCU3JXdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T20:25:32+00:00",
-      "summary": "Musk accuses Altman of betraying OpenAI’s nonprofit founding mission  Al Jazeera",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SpaceX, OpenAI and Anthropic are already public companies - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFhkVGVfcWplaWZkaXdTUjhVSGswZzFpYUp6WjlRM3ZQSEZmNTJQSkhHN2JkT2dvRnRfSjN2cUM5dHZzaGtGSzlCYXcwQ2dHRTRtY1pqcXcwYXp0eW1Rem9DY1FNYnlKd2kxN3UzVGJBMlBvbGk2YjNWclItejluQzhVVnVHNzJsYTUxWDYyYXQ1bWc0OTZwOU10QjdEMHVVNmoyeQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T19:58:41+00:00",
-      "summary": "SpaceX, OpenAI and Anthropic are already public companies  The Economist",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk, Testifying at OpenAI Trial, Accuses Executives of Stealing a ‘Charity’ - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUxKVE1CQ3otQTQ1aGxFQ1lYR1haZGRyLTdPQXp0bHJrQ04xQi1hdmI1Ml9RRmhQMDhRejgyR0tqSDRlSVhSS1NjeE5vQm9WZXBMeGVwUS0zYmtBLUw5d0ktOTBPTXRoRkVoeE5MUmVMN2V5bWdSYVVWV1RxZHh6QzBRQXM1Z2hSTjl0eA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T19:57:00+00:00",
-      "summary": "Elon Musk, Testifying at OpenAI Trial, Accuses Executives of Stealing a ‘Charity’  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Fresh wave of lawsuits filed against OpenAI by Tumbler Ridge victims - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTY3hUNzJMc1VUeEdyR1JpV3EzTTJYRDAyV096UTd1ZmJLM3pIbHQxOWgzSXdiOTRDMlI2eFg2NHJJbllWamJTeHFHN2loSTdibG5xTHU5M3QxZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T19:51:55+00:00",
-      "summary": "Fresh wave of lawsuits filed against OpenAI by Tumbler Ridge victims  BBCFamilies of Canadian mass shooting victims sue OpenAI, CEO Altman in US court  ReutersFamilies of Canadian mass shooting vic…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk Testifies He Was a ‘Fool’ to Fund OpenAI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnQ5Q29mRmRHWkN3Q0JLa05vZ0VnYlVSX1Z4MDQ0SWZ5T2NVazhNNm1EMlBwVl92ZVJFZXFVS2lHem1tQ1hMZWQ4Rzl3eU4zWGlyZG1zV2FUZklXcGN4WTFpYWtQNmJaaFA1WTdtQXZzdkpsX0Zzc042dkIwX1hkMUJXenJMX1dWcEpoX0g4QWJWak1ZTHVPa09HbXY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T19:49:00+00:00",
-      "summary": "Elon Musk Testifies He Was a ‘Fool’ to Fund OpenAI  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Families Of Tumbler Ridge Shooting Victims Sue OpenAI - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHRPbjdQRFF6ODVBcWV3VEtyMmFybVp2TEtFSGVTbWlYUnpuZko2ZmN1eUtSTkZoeFp1NHlUTlVzSDJDbXVuQWNoTVp4cW9zMnJ6Z2hNUHRnRUtIVUZaUkZERWtTQW1RNWY0NFJRS1NXY2RTNkNGamg0RkdtUWV2WW1XNmVMWlljOHppQ2xUYlQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-29T19:25:24+00:00",
-      "summary": "Families Of Tumbler Ridge Shooting Victims Sue OpenAI  Engadget",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
