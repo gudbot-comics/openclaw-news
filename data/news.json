@@ -1,16 +1,97 @@
 {
-  "generatedAt": "2026-05-01T00:08:09.559383+00:00",
+  "generatedAt": "2026-05-01T04:13:42.284831+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "The New York Times. . In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. Our technology reporter Cade Metz explains what’s behind it all. Read more: https://nyti.ms/423UtOz - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU2Q4U2RfS1RZek0yMm5WUzdHeWVESi1hYi15MzNaRzAxUENzZlR0Zi1XdTVnU1JIamlrczEyN1IzTjZ6ZHlHelBEUUFLU01xc1B6VmNhZnpCZ0cwVVRYRXFYQkhEWndHeEE2RWc3bmxlRVcyUHR2SkNQRnNlYWw4ZkU0bGJJQ2QzMGhPQVc5dnJOVDZlelpyV012ODVzbnZMSjdzTVJONEFzalpRbzlaSk5JaWI3cFY1STlwSmNBUkV3d2VRdVNDZ1kzeXRyMEk5Qi00?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-01T03:57:04+00:00",
+      "summary": "The New York Times. . In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. Our technology reporter Cade Metz explains what’s behind it all. Read …",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk Testifies He 'Didn't Read' OpenAI's For-Profit Fine Print, Claims Sam Altman Misled Him: 'Can't - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUHJQdEMzeGdFNVRfeWU5eUVuTVpKZjFVWUdyc2xKWEJncmFFUWw2RUFVRDJjaWlESVRCZHM1MzM3cjhNbl9hN0dMd3NwLVlDM2ZMNmdvYzRGbUtBMTkwMUR3MzBiS2QwNHlLM0ppMzZ4YnVvRE5qcF83d3dlamM5QmJGSUxoVU8tUFJYZFFvVkJ4OXk1Uk9DRk1sZldnVV84Rl8zc1Q2NFdNODVOLTNiLVlTbXgwSzB6LWlDMUwyVnRqN3V6Zy05NDd2WkZKZFBLYmhuTWNHWVg1a21IUmdWbEptdlNiRDFrbEY0UVdIdWpuQXhJZ1M4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-01T03:09:15+00:00",
+      "summary": "Elon Musk Testifies He 'Didn't Read' OpenAI's For-Profit Fine Print, Claims Sam Altman Misled Him: 'Can't  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk concludes testimony in trial against OpenAI - LiveNOW from FOX",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GU25GcHozN0xOU2pLQnk5Tmx0YzM3Sk1FaHFObnhUc3NGbl9pajE5Wloyc3dYNXBEOVVvUGRpTk5yV21hYkNGb0hycU54bXJpZ2FJQTB4dno1Q2lBUjd0aEJWd9IBaEFVX3lxTE5rajZyeWhhLWZtdW5GWV9XSGlMUW5ZY3JuQVNWdDBfWjAzanRDMEVxT3RTMkNFQWdaRERxSE5NTnN6SmVmZFRnWEhBWWxlelJjTTFvaUhHelZfVW1VZlNyODBzYzc0eHFJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-01T03:00:42+00:00",
+      "summary": "Elon Musk concludes testimony in trial against OpenAI  LiveNOW from FOX",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk on the witness stand: here's what he said about OpenAI - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xUkZ4aVNFWDlCdUVyME9ETzVka184YWQwUjdmcGVzVUNPb2paMUJ4QTRnbWVoTkVSM21NakdQQVQzOTdBekdfYTVaSzNNVGl1aDJkMS1nRWVOYzJzM0lSVHVJT2wwaDg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-01T02:07:04+00:00",
+      "summary": "Elon Musk on the witness stand: here's what he said about OpenAI  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Finance Chief Sees ‘Vertical Wall of Demand’ for Products - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1RpVzVwZWE5dllaX19odmswNWNBSkRfYjhfcVhFVXVyLVBuM2liRDFMVkJJS0toZ1FCc2w4M0hTRmVLSU5GRERiNkNUQkZBdEJwUFdoeVVRc0lmX0RyU3JHdGF6dktqMVVNVmc4X1UwTW1xa3B2bGlFUXBtMDdLWWQybXN3YWoxVndDYmoydUtYNTBWdHBIcUhKcGtYYU9xNVViNzNLYS1XcjBoY2RUZzA2WQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-01T01:41:00+00:00",
+      "summary": "OpenAI Finance Chief Sees ‘Vertical Wall of Demand’ for Products  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple’s Fatal Misjudgment With Advanced Chip Supply & OpenClaw’s Popularity Has Resulted In Disgruntled Customers And Revenue Loss - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nTXdnbjBZenlfZU5ieXBzSi1WQ192RDAtaW1KakZXbTVYQ3Z6REZydXNTek5idEttN0czcHM3blMxUXhPR0g2Q09DSWl2N2RjbFI4N29idUc3Rm1kSlZhbXBobVViLTJDYTFqTmhQLTJxNjRXWDBjMdIBfkFVX3lxTE9uaFRzdnFQNXBmaG5MU1N0TG1zVFdIUTdRVmFxT3p4cDRVTHlzVDd6bjFWUTJnZjFYLURZME9JUWV3WEg1aGtCQnU3QUFibXFKdV9mTUxfQlg3R3Q5MmhKeGcwRDlMUUgwUWxfbXYzQ3ZzMmpKMDVMUHM0NHFvdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-01T01:08:00+00:00",
+      "summary": "Apple’s Fatal Misjudgment With Advanced Chip Supply & OpenClaw’s Popularity Has Resulted In Disgruntled Customers And Revenue Loss  Wccftech",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUlBNzhpZlo5VGxwRURCRFZZcEdFbkRkZ0FRU0pHMjFfM05BV0pWYnpneWdjVTJQLWNyWi1TM2FhclFubWt5Y2NGa2JUdTFCNjFCb0QzMFhiMW5pVkVXa1lzeEJ2Y1FuZmZpWjZ4SFhDTnFMQkt6Z2k3S2NILXB2NU8zNEpnLVlKTTcyZVgxNFRwY2RyVXZpaTNwcGNERWVPQWZ1dA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-01T00:51:00+00:00",
+      "summary": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider  WIRED",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Are Elon Musk and OpenAI Fighting an AI Arms Race? Sam Altman’s Lawyers Think So - KQED",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaTBTNFBLM2xCT05zSXFSWlFlTlYwbmdlaW9wZU14dFZ1VUd4RDJYX2xyb29xWHNJc0FIZTA4T2t6b2MxZWY3WkRtdGh2X200S18teVVKbi13LWllb1Aya3pqY3FKeE0zcFZtMndoRWplQ2RZY3k2ZW1OclJZYUwtRlpDMEdaa1VGc1NINFdFUjgxdTc1bVdYN3VjU20xUkNnWThlN0x3SEQ0bmxHNXlDYkNXUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-04-30T23:29:37+00:00",
       "summary": "Are Elon Musk and OpenAI Fighting an AI Arms Race? Sam Altman’s Lawyers Think So  KQED",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlRRSVE1cmtMWlNoRU9RM3c4XzZaNFk2U1h1S1dNNHNOYlVObDZicXVXTEpNTFFkMWNFUEhpai1ZbG1kc210cEVOcER3aHFPaWxodWhyU1pLWVhydXBMUmdQbWJtNk1DZDZ4dXlCbktabjYxNmtnbWdGaDcyTVNkZEFrOTlYVTlwejNMT21B?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T23:24:17+00:00",
+      "summary": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYi0yc0o1VE1YYWlUMlVGRllPVk43OGIwLWZHLUR0N2pPTHpLR1JhaEVyYlZNdklnN3UtbEMyUXlkcTQ1NERtemE5U25IMlRqZnpmdGhOVkN4MnFPZHZTNUI4RldQUHh0TEtTOWQ2UnB0YzBYNkVVUjlScXlTQmpiSHhLX2RFZTlRQWxrYm1iX3NSUWhOQ2lHNzZTVlY2bDNVRFVNOG5vbjhBS3ljRlJPc3ZUeExQYlBleGY2MW5vUHB2bmlXcU5rc20zYllPTS1jQXFzZXFVMk9Udw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T23:06:00+00:00",
+      "summary": "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,11 +114,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHdXNVpWWTIwVXVHV2U3WEUwY2cySWxmODQtWE1leWdhNGdLTUFCZ2FvNTlfeTNqd2JHRUlsMVVDbXNVQWtwam9GLWhFVm5sa1h6QVNGUlR6S0RCdXpIVHhDR21iLUVqSnpKTXVrRERjRGRveG5hSXE0VV9lSS1ZUHJ5aW1XUk0?oc=5",
+      "title": "Oakland judge shuts down Elon Musk's 'extinction' talk in OpenAI trial - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vWjBsMXctSmdrZzVhaHNuaEd0TWFkRmFXTDFwcFdSSm5kMTlBRm5jSE9FNkhCMzBwVW9mQngtWWRtNEtHa0FmM0lsekx5MDVUWDJrQ01IWWFNdVFVWTZtOTdwVEhWM2dnbXo3X0ZENWhnM1gwd19jQXVLTlVsQQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-30T22:28:49+00:00",
-      "summary": "Elon Musk says his xAI startup’s models were partially trained on OpenAI’s tech  San Francisco Chronicle",
+      "publishedAt": "2026-04-30T22:52:40+00:00",
+      "summary": "Oakland judge shuts down Elon Musk's 'extinction' talk in OpenAI trial  SFGATE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Ecommerce Trends: What Anthropic, OpenAI and Google are each doing in agentic commerce - Digital Commerce 360",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVRRVUNqNVN0RmxNR0twdV9Cd1V6XzF5dHRaYi1jaFdwbzhPZHBRRnlUbk5mRXl1di1oaU5FeE9YY3FZdmVHYl9uRmNwa3oyekQtb29DYkNxTVJvdkhZRXJpN1ZCTW9nVWFHVWN6djlvS3RERUFUNlVlbU1pbUFBYUZMaDFPT1lqUGI0RlJUeWdBMmJhcW9nTnJlVzdvb2p0VEN2allDWVk0Z2NTSDJ1RHV4RXRtSWhkQW5ycFo4dzBzLW9vemZ1NWRyRdIB0AFBVV95cUxOLXE5bzJiR3NtVVdoRWFNOGYwYXUxa25kU3h4bUl3Rnc5TU5US01BbkR5Q3dWbXM5N0Z3SXBjai01LVJudUNCM0lVY3BjUWs0d190bEp5ZndycjVvVnFOM2U0UUhZbXNhSUdWeUdEY0l0X1VWWkE3ZXhCMkh3Vkl2aXFSMFJ5NWpTbWxMN2RVUUlPeWJQbDJvWktHS1RHMlFfWEgtZnp3bUtpVWJFYjFuRm9iaF9aUU5hcEtGODQ1dXFBYlRmaElMV2NncUZvVlV4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T22:23:56+00:00",
+      "summary": "Ecommerce Trends: What Anthropic, OpenAI and Google are each doing in agentic commerce  Digital Commerce 360",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -45,10 +135,19 @@
       "title": "Musk testimony continues in OpenAI fight - Courthouse News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0MFFRZmp2ZnplLTZMMWJQclp6cFYtTzRKakVadkxhZUQ5RzRiNTJpTkFYbVI1TmphSXppVkZnVTAxeXJ5R24zWXNKQ3RFbUVSTXpNLWtDcG9EQmlaeXQ5XzU1SzBLdU9KZi1EaU5LSU9YV3htYkhoZHN5d1g?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-04-30T22:11:18+00:00",
+      "publishedAt": "2026-04-30T22:16:43+00:00",
       "summary": "Musk testimony continues in OpenAI fight  Courthouse News",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple is facing Mac mini supply constraints as AI and OpenClaw developers buy up tiny desktops - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUzdVd1J5cm1ndVVFeHV4LW5MbE43QmY5cm5lYk9WZy02Y3M3eVM1d2ZyUDVKRFFnbVVCQ2tIODlxMkExcHVFVkpSbEhPRHJNSVNWM2NQRHBuVHE4bHUybGVCZXN6UEZ4VThIZUx5eFF4VUhXa2c1MS1OTzFJYk02U1JKWDZ0a3JUaGYySjhHSUxRVVp5MU45dXNWaDBmRUlxNlVVbndERnNPSUdacnBIb2JRTjFIdVV6UWY4ZW9VOFc0UFZYclRfRG1KWkpwSHh3UGhHNlZicUFTSk5zX0otaWJmbFhMa0NTcDFiLTg0Zkd6NHBP?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-04-30T22:12:32+00:00",
+      "summary": "Apple is facing Mac mini supply constraints as AI and OpenClaw developers buy up tiny desktops  Yahoo Finance",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "In OpenAI Trial, Elon Musk Really Wants Jury to Know That AI Might Kill Us All - SFist",
@@ -56,15 +155,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-30T22:09:01+00:00",
       "summary": "In OpenAI Trial, Elon Musk Really Wants Jury to Know That AI Might Kill Us All  SFist",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYi0yc0o1VE1YYWlUMlVGRllPVk43OGIwLWZHLUR0N2pPTHpLR1JhaEVyYlZNdklnN3UtbEMyUXlkcTQ1NERtemE5U25IMlRqZnpmdGhOVkN4MnFPZHZTNUI4RldQUHh0TEtTOWQ2UnB0YzBYNkVVUjlScXlTQmpiSHhLX2RFZTlRQWxrYm1iX3NSUWhOQ2lHNzZTVlY2bDNVRFVNOG5vbjhBS3ljRlJPc3ZUeExQYlBleGY2MW5vUHB2bmlXcU5rc20zYllPTS1jQXFzZXFVMk9Udw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T21:43:37+00:00",
-      "summary": "Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-30T21:27:00+00:00",
       "summary": "OpenAI may be teasing its next iPhone app launch with these clues  9to5Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk testifies he \"didn't read the fine print\" in OpenAI case - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOThOenZ1S0hDT3VaVlRwV3U1OTZoakVzTC1wOF9DQXB1RXhVWlJRMFFWWjF0MW1BVi01OFkwTWNKSlJBVWFXRjV0aE9QUzNMT1R0ZHctZU1ybmJ3RWpuVkJYY2dCbnAtUFdYRlRGc3RtQ3dZUHhGMGJxMDh5VGprbkdTRm1KdGZLYzNzYXVnRERmSmhrXzMwb2dSLUppejNvRkZB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T21:18:31+00:00",
-      "summary": "Elon Musk testifies he \"didn't read the fine print\" in OpenAI case  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -137,87 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-04-30T20:52:43+00:00",
       "summary": "Elon Musk Says xAI Used OpenAI Models to Train Grok  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk clashes with OpenAI attorney during cross-examination at trial - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjQ1WUczNlRxWG5LellqanF5YS1wRlBobkxtYnNhUS02bVhiZV9LR0ZZOXdOS0dsMWpTUC1LV2xqcDR6Wk5wVThKQ0dEVG1Ed0JIZFgtbjlCVlRnaTFjZk9VNlJXWlJoN0JEeERfZUNWcGt3dHEySmhERXZIZkM3NGF1VnlDTF83X3FFLTdn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T20:32:00+00:00",
-      "summary": "Elon Musk clashes with OpenAI attorney during cross-examination at trial  CBS News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk grilled on AI profits at OpenAI trial - The Mountaineer",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOXzdTLURYR0V5OFRZd1pObDd2aVlDY1ZpclQtXzA1R3NSRU9tTVNWRldKWHZnRV9qU1Jyci0wQXlIaWladnVHYWZWbl8weXdqUlFrQ05VQWRxX3ltNDlVUC13R291dUNSbk5BeENvM1JWLVdvR3kwNC11V3ZZYWlWWjIwWjRaVkxhQ0tCZUp2dExtLVpWWWE1cDE1UVNxT2pEYXZuSENSSUtXaHhzZTlFRkF1THZKTkVwX2Q1cXVUTk03TF9veTd5NklwVkdfVkxEVnlR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T20:31:13+00:00",
-      "summary": "Musk grilled on AI profits at OpenAI trial  The Mountaineer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Judge cuts off Musk’s AI doomsday talk as his testimony ends in Open AI case - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlBLbXJDN1ZuMVhJNm1ONzhWU0tmQW4tX28yVi1nOEVJb3VGMzFBNC13ZTdfdkhxOTAwcDdhNzI0eHZpYTRjd0VqOEJ6RVVPYlJCRmtPZmlrZmRHd2pXajZMWm53aThmeEp5NmNMbUhWQjVjeVN1c2lxR0hVaENrUzF5dy14eXZwRDhnWUJNVFZReUJ1WHZRaQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T20:11:10+00:00",
-      "summary": "Judge cuts off Musk’s AI doomsday talk as his testimony ends in Open AI case  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Will Arm Critical Cyber Defenders With Frontier Model - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWtHRTF4bV9NOTN2eUdmMkZ0T1JIejJqUEFpWU9jUl96RGFjQTBnbjNNdi1hUWtLcVV0LW9KQ0lsNjI4ZnBIMDFzWWY3NGt2T1pvN1J1TmlEMlZtYVh4QmlYVUdqV3ZIdmdDUEhGb3lLRjhKbDZDcWpUUXZWMERyQ3R4UnR2VzlibzBMTlk4TVZ1Tnl3cDNsd1pvY1h0WmRLNDNYN1BB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T20:09:37+00:00",
-      "summary": "OpenAI Will Arm Critical Cyber Defenders With Frontier Model  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization - NVIDIA Blog",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY3RlSUFpVEFjUTVLQ01OdWxiaXQ4cmhwU1plSTlXMm5UcGN5SnowblF2b2x5aDFZLUJlV0JTRWRUS3o2RGQtdVlJRWxNNmhLRnpXWHo0RTgzOGVPRE96Q2t4d1lwZ3FnWkNUS3FHaUZfSm9yU0NwbmFTVlh0VjkxempQLTJvZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T20:04:23+00:00",
-      "summary": "Nemotron Labs: What OpenClaw Agents Mean for Every Organization  NVIDIA Blog",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "In Musk v. Altman case, judge warns lawyers that AI itself is not on trial - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGR6R2xrVHhZNXI3NnphcUZ1dHRpS2R2Y2NzN2diUWo2LXQ1RG9fbS02aEFNMklkcEdPRzQtQU9ncFZvOGNSOFB4SFpSMXgyenQ4WkoxVV9BMjFyaTlBTFFoMllRS0paOGpIazJDaGdGYklPVDVldV9tbDB1SXV1ZnRRc2ZVdGZHOXB1VWRhV1F6WjNrM1dLWkRONmV4c1VjLXFpS1Zn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T19:53:41+00:00",
-      "summary": "In Musk v. Altman case, judge warns lawyers that AI itself is not on trial  NBC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk Is Probably Going to Lose the OpenAI Case - Slate",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHlubVp4aWhSOEFnUkNydWZla2g1OXpURGx2bmU5d2xFcnJQRFBaMTZLcUt1cEZmTm9VcWRHY29pS1dSZWR1ejhBV2lJczZGVTFLcWg0WUNFUjN2QU11V1A3RUplU0ZPdUZYUnJiM0JlX3NzUjU1aWNmaUpVS0dzNQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T19:53:00+00:00",
-      "summary": "Elon Musk Is Probably Going to Lose the OpenAI Case  Slate",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Rolls Out Advanced Account Security for ChatGPT Users - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9laVplejFDeF9wWWxJWVU2bFFhZi13Z3c4Q0g0TE9YdkxxZEZpSVUwY0NFcVdCOFpzaWlXN04waTBhRWhKa2JsMGM4UlpWaWJhYlNVcHpraFBqTmJnTVpIMS1CV1k3NzZ3eUZ0dVRRNFRvejg4TGlwUEJlREbSAYQBQVVfeXFMUFpTSk1SZGcySzl0cTkyc1BhVm0wNkY4QmxvNGV4WmFoQTBmSHFKbHNpY3I2bzVxRTRQZnF4UUwwV3FHZlJZN0dlLThLVGFXWGVDSVBCNERDVHA2bmRlN05uaUprUTg5VWtpb0tfZnE5bFJHS2h0cFRvci1zUG5FMGxlY2NF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T19:51:43+00:00",
-      "summary": "OpenAI Rolls Out Advanced Account Security for ChatGPT Users  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk spars with OpenAI attorney in trial over company’s evolution from a nonprofit - Daily Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2hkYktqZVd0OVVsejJpaFE4ZlZocGVSX2FTRjVIUmR6U1c5MmMwblZvX0NSeXM2Rlc0V1RpV0YwYXJoaVJHUkV6amdSOERTVW52WnBPN3NLclVLWEJkVGU0ZWc3b2R3aFNMdTdWNHdiQld6MmJ0LVFnSGFVVmNuRzFud1A1TDBEZWhWT0VyMkduaGJtSmdvdTAxOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-04-30T19:33:27+00:00",
-      "summary": "Elon Musk spars with OpenAI attorney in trial over company’s evolution from a nonprofit  Daily Bulletin",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
