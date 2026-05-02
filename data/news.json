@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-05-02T08:05:15.573594+00:00",
+  "generatedAt": "2026-05-02T09:17:46.589830+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Elon Musk went to court. The judge wasn’t amused. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTURZVDgyN240alJ4cjVPaUdwQ3BKbkhRRVpKTFluRmRRSklTTGE1T3JLZFNYWlNiN2hueXVsdWppRzZ5SVRic0ozb2xJaVZfRmtDX21USEx1WTk3RTlxUjQ0VlJoMVQ3ZXNza01rNEk4bXpXUDNHVnMwSWd3ZzZuTUN2ZV8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-02T09:12:56+00:00",
+      "summary": "Elon Musk went to court. The judge wasn’t amused.  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDdGX19PTVdFV0JubmFVSTkySEt4Z2JYNU13TlBtNjNmUFRjbEVMajA3TUx6bm1XSVVpOUV3MEp1NjNqUEJMRGFDU3huYm03SXNXYVBPb1NtSmF2WDYtcWZEdU1sa2lydnFWWHpmQTJBMTliR1ZRU0dDTGE1Wnc2cEJTZUstTnoxMmdoTVZUUC1wb3g2ZnRtNnlaYzVTZ2p0b2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-02T08:36:37+00:00",
+      "summary": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Musk vs. Altman as OpenAI trial begins in California - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6dzJ6dEJyS29oWThKaW9FbmdBUWNZc0hCU2s0XzRZd0NJb3ZobF80d3NSV3JIRGlpUVNGRlpyVHZVZGhGdlctelQ2cFNEQkhobEl3Z0VFVXQzYjlRNEpMcjM1Uk5wLVU?oc=5",
@@ -18,7 +36,7 @@
       "title": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up. - WSJ",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3VzlNVWNWM0s1bllfR3VBOGtpYjVXMC1XRVZxRk9WSnIyaGs3aHplRUlPLXpNSkNqb21uV2RHTzRGMFpDYVkyMXIwMEdwNVZWTjg0Tk5DaWI1R0Etenk2U3I2OUNaWXZwRFR0aWVVVllHZUpZTHlmQXJ6bw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-02T06:22:42+00:00",
+      "publishedAt": "2026-05-02T06:31:02+00:00",
       "summary": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up.  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -65,15 +83,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-02T00:37:00+00:00",
       "summary": "I was in the courthouse when Elon Musk testified in his case against OpenAI. Here is what it was like.  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk’s Trial Against OpenAI Hits Some Rough Spots in First Week - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNU1OaG1KNlBiOXgySEJMOVFYOXZmMmFzQlFxM28xRzByRFVxV2J5emhhd2RMS2xiYTAtTnV6X1lPVlpkOGs1WkxiXzhyZFdabTJQaXdpVko4dG92WWVfNFNGZDlhaklWYmpMNlMycXA1alpTRDlBeHprNXdTWW5pWW1oZVFpZGpCZ3B4YV81V1ZFQ1lPOFZZWkxTd2YwVHoxcVFSUFdYLVlYdXEtUm1Wc1VuU1g?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-02T00:24:00+00:00",
-      "summary": "Musk’s Trial Against OpenAI Hits Some Rough Spots in First Week  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-01T19:14:51+00:00",
       "summary": "All the evidence revealed so far in Musk v. Altman  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AWS and OpenAI Partnership Brings New AI Capabilities to the Amazon Bedrock Platform - The National CIO Review",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeEtMZjYtaTY3SGZNMGFIbkFPZVZmNHMtN210c1lJVmg4Y0pLSGUtaFdkOXY1OTliUDdiR1JyUVJyblM0V0pDQ20xYlFvLVoybFdHSGx3YnMxRmJodjlCdnJFWEVXMzFsVDh4ekhDZG4yZVhjcGFiY1hyQ1lrRkZjZkY5QWNXVXVxWDZ6UklCTG9JX2xJUGdMYjhOMTFGWHRKRHZSS1pmaWxyYlQ0VFVBRkVXMkk2cVduc2xKRW9yN2twOERSMDAyajBfNVU5OC1HRjF4NG95Q25ydUJDc0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-01T17:57:56+00:00",
-      "summary": "AWS and OpenAI Partnership Brings New AI Capabilities to the Amazon Bedrock Platform  The National CIO Review",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
