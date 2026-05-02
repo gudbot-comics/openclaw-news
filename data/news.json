@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-05-01T23:29:25.059831+00:00",
+  "generatedAt": "2026-05-02T01:12:22.159780+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up. - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3VzlNVWNWM0s1bllfR3VBOGtpYjVXMC1XRVZxRk9WSnIyaGs3aHplRUlPLXpNSkNqb21uV2RHTzRGMFpDYVkyMXIwMEdwNVZWTjg0Tk5DaWI1R0Etenk2U3I2OUNaWXZwRFR0aWVVVllHZUpZTHlmQXJ6bw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-02T00:18:21+00:00",
+      "summary": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up.  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Kakao's PlayMCP supports integration with open-source AI OpenClaw - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUTlEUzNXVFhkRFlydlI5MDVyX0dYZ0R0Smw4R3JJdXBCWmY5OHR1UmJyUHktZDBlZUtLekFhenVOVlZzMzJnd2tUMGplOE5jMG1lQmk2U3ZCNmd5Tm1ldkt3ZHUwMVpJcF9GZVpWd3YtcVdPdjgtbTEzT2EybDF4dFJoS0ljWlNlY0xHcS1KVUx1OEZja1M3MjFpX2RZenM2RXFRQXBrQTdpdXBv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-02T00:08:46+00:00",
+      "summary": "Kakao's PlayMCP supports integration with open-source AI OpenClaw  디지털투데이",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI CFO Says Company Hits Core Targets Despite Stretch Goals - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHhpX0RlSTM5UW5JRnFKVGo3cDEycDI1ZkNheGxQVEVhMlJiSGtIaDBKTmdaYlppdW1pZmVCZG5uZ2tPM3ZYZUptS2NhRG5YdURDOWpIOUVvYzc5TTByMUJqa3BNY0k5cHdLZ09IQ1d2YkRLZVRDTHlUTEhkVkNkV2Z1blh3VkNKVXRuNTl5cDlIdjB6T1JIYlRPcV9JZ0xhS21iaWVjRUJKV2dwOGpMaTF4TUtsSjZRQUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-02T00:02:18+00:00",
+      "summary": "OpenAI CFO Says Company Hits Core Targets Despite Stretch Goals  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reworks Stargate data center strategy as site plans change - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWC1FRmVGenVuUVNLMWdxTkhNOGZXb0wyOHJ5Y0hkZGRLc21tTDk0ZElxMUtfX0w0eHJjSWtJRGNwRnBuS3k1endFS0xVbk80M2Y4VnRPTWNWdGc1UV9QZHNIdjhrNExsRjh4cmpQcjlUZzNzekQ2WTA5SV9xZFRzTkJmZVhLbElBbVRFNDZtOTRRVS13NTNTX0RxSE5kVWMxcGlMWg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-01T23:43:22+00:00",
+      "summary": "OpenAI reworks Stargate data center strategy as site plans change  digitimes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Back in Court Over Canada School Shooter’s Use of ChatGPT - KQED",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS0tfclNRX1U4Z2VuQjZfNk5LMi1JcW5ndXd2NUVQcFAyYWktRG1xSjFsV1NXSmdhcTFIM1g5YTFObndqSVVmSnRWcE5DUUhnX1ljVzdFVGxfRkhWRGl2ZXFWYUgtYUgwQ3VNTWNiYWRUUGdPdjFNempaLW1CUjkzakQ3VEJhZlRaaDEwYnFSQllyWS1zaW1aRkJrNFNxanM?oc=5",
@@ -20,6 +56,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-01T22:40:00+00:00",
       "summary": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTi1jZkhwbUdsMmxOd0dvVk43VXpsXzJ1U2s1eUhUdGVxTVNBa1JpV1Z1NDEtMzBXTVpSZ1J3eXN6WVEzLW96aVdfOUd5QnA4U3d2aGdlWjBncndJMFE3VWxPSThEQy0zQjVhbWdiZU5kc0dDZXJiRjUtcGN6TW9zT3p2NnRBOG5OUTFGZDFhaUdOOG5EVjVNMkhBeUc2bm5MZjZPWG1FSElqMkVhTHc5a1FYZ2szSU9yYzNIT0hDQ3oweUprQ2lNWmxOTnkyRTg0OUtRZ2lTamVkZy1xVk9ySF9jMEJVT21KYTJNc21PWG5mR2llSTBncVhBWdIBgAJBVV95cUxNMElkY1hLcHZMS1p4Q1J5WG1XMTdpZlExSVR6eUZNSmptbVN0aks1UkkzNDE0ZGJpMkhXUzd5cWtfZjJaMGFHWklqY0xJTzlpLTE5ZUVMc3dCRUQxd2thRV9PNjRnbzllbDEzSGxrdnM2ZTVaTnFSWW1vNGx6SnRnUlo4YnFVZ2Nqd2NTMlUxZ2tVT2ZDT1JQVG90QUhucVZ6Y3N0Z3RYS25NTjVmT0IxcG05VDRJXzkxd0d6MmN1UkhUT2plVW9vYnB2cWtjRlBralZreVhaUDNXRE9UUHVDN2tLWnVvdzc3WGZLS1IteG1YSlpqdWJZZ05xU3FxNUQ2?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-01T22:08:19+00:00",
+      "summary": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models  MIT Technology Review",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -45,7 +90,7 @@
       "title": "SpaceX, Anthropic, and OpenAI Could Be Fast-Tracked Into the S&P 500 After Their IPOs. Here's How - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUU5TVlMUzRxbmRpY3NWVjZIZ0E1cHQzWWoxX1Q0OTFJa2EyY29LNlh6QWVnSF9sYUFZQkt2UEVxRTlfOUJ5aEtWd3dRZnpMbElLNUlVa19acEpnbVQzNWg3OHUwa01Kdmh3U1RIMERxb0xFLXBocjE5QkRxZDc1c0FmbmQ3bS04U3hyZzQzZUcwR29CSk9j?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-01T20:30:38+00:00",
+      "publishedAt": "2026-05-01T20:59:00+00:00",
       "summary": "SpaceX, Anthropic, and OpenAI Could Be Fast-Tracked Into the S&P 500 After Their IPOs. Here's How  The Motley Fool",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -78,11 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s Revenue Chief Says Enterprise Business ‘Accelerating’ - Bloomberg.com",
+      "title": "OpenAI’s Revenue Chief Says Enterprise Business ‘Accelerating’ - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDV3ZmlXOEZoR3JZbHRBMGVtUEx0MDBSSmxBNWM0WTllaEZmZzRlN3Y5aTl6RC1BZ3k4ZEJRVlEtc3Mxd1FvTW03UEpyTDY1dHdIdEpzdlFzTi1JOG9hVWxnZUlsUVRtR253RWR5MEJyTUFKem9acENGazA0ZlZHRzUtb0JUUG8wdXBOZDRNNGdkdGNsdm43MS1OV0RNbjl6bTB3R3hQMGw3bkFIRFJpUEtpZnM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-01T20:00:01+00:00",
-      "summary": "OpenAI’s Revenue Chief Says Enterprise Business ‘Accelerating’  Bloomberg.com",
+      "summary": "OpenAI’s Revenue Chief Says Enterprise Business ‘Accelerating’  Bloomberg",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0JXdmNuZEgwb2FRZDkxRHU3cUtCT1ZYbTdvdGtwTUFYRVRpSEpHT3p6Y1cwalRHb1JkMnNoXzhUOVY1cXJrTlFxT1dsbkNXUXU4UDItRTFzTkNZblpBVEtDM0VDVng3d284dDBadE0zZ19GZDNIOVJ4THdlN3NtcC1DZnlZbzRhTmlJazZCZ0k3MFAwVzVwZENuc0fSAaQBQVVfeXFMTWoxMUo2MkhnSjZ2U3lNTFFCR0pmUjFjYjZxeU44VlJPc1VHcUVDSjY2UmJSQTRVME13aV8zeWtqS0tFQmdkSGhLWUJpRjc2UUUxNVUwQ0lQemE4dVl4SklGRDBRdnhQR0d1M0NVNlRnTGVQdVR6U3dBVGdhSFViMTBNZjdpWWltdHpzRGhFS3FBV20xdXJMdXVWelJhYXRvaTRaY1I?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-01T17:56:55+00:00",
-      "summary": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenClaw Success Puts Spotlight on Pi, a Minimalist AI Coding Agent - eWeek",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tT0J3MnM1em1WeDNLUk1NLW5yNTJ5MlJ5b19vWllRbFp4YzJmbjNLMFAzNmxuak5XZ3BuWlc1NlBUbHpOWTkwN0pHWWE2am43RXNNdGFFLVZhUk1HcFVHUU1FU0EtSGJ2NXlBUDRjWGdwMVJfYXQw?oc=5",
       "source": "news.google.com",
@@ -177,47 +213,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGpsakVfVGxsVnZCTUZ1azFIMUs0VGVwb1lzTWc2d0I5NmlGUTVwV3Bral8tRmN5U3FfTkZ1c3FzS2MtX0ZycE8tNmZrcjVOU3RnRkpNOWVpNkFwRF96MklMQ1RmazFLUDBsY3M5T083Y0RhRXJrM1E1M3pQYTNDaVBiV0FrREVqdHhkckhtZDdaQdIBmgFBVV95cUxOZ2phSUdRdERIYzIyQ294OUlDR213ZFNMZ2xOU2V4ZlhWN1NaWThMZVhNWUNsdzAxREtFcjNPdnp3UU92YUVjVGVrU08tZjlUUG1YRHVCdFVGa0JlTTFTQTdKdnlsWUFtZF9oSTJzM0Rib2kyNnNxUUhHRU5FNWVOdHJJUWF4YWRPeVRkek5CbHJDNndHTHBkbWFB?oc=5",
+      "title": "Billionaire Chris Larsen Plans to Spend $3.5 Million in NY House Race Amid Midterm Clash Over A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUNNei1IYVRKcWFIMUxYdU9ROV9SRk5FRnJaNUVNUTUySEo1NUpNZllMM2h3d2o0ZGJWaDNITWk4aVlyWGlnR1ViT2g5bmFhOVFySG02dHItWXRtelNYNHBMQUpIQU5OeVVjSWlMalQxMmJzeWtONHZqYnhwQXo1M0lpUXUwYTZELVhWdTByNDJGWXhDeGNyZ29ZMlhhU2xPR0E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-01T17:22:53+00:00",
-      "summary": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3YzRU84RUFjYy1CT3FINVRrMC1xamZfWTVIbXhBVkVJWGE4SEdaNWdhVHktamFzejd2cFZRblpJdmcxclFoLXFweHloUm8yYzU4WUhnYURKTVkxd2dXQ1lCdFJ3QVhSTnR2MFJGSzdEMGs0ZGpYemZlNmo0cFNGeExXOGtnLVNqejNXY3FuUlNTaWFfZE5zWWQtT05fWVNRSm41OGwtMS0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-01T17:16:00+00:00",
-      "summary": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "There's a Fascinating Reason Why OpenAI's Latest Model Is Obsessed With Goblins and Gremlins - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX1M3dDZTbVFRclowYk5hMTdiZ0xZNk4tQjVWRi1xMjdqTHZGcGVCWGwzZ0N3c0JtVkxwalFOV2c5WGVhQVN1N1otdEZEMHZfVy1iMzlZOG0xX2hMSldnMGRwemd6UTNVT3lvWTk1RDNRRk5JQ0ZmZWVjcUdMcTlSVGlBbVV5S0xRSFRUdlh2ZnVKRzEwNlZHbGNCc3RXRU9tQmZrTVpqWmY1aXR3T21pTkJBMGtLQUp2VW94VjBlYzJkdWZvZVlpRWZ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-01T16:53:44+00:00",
-      "summary": "There's a Fascinating Reason Why OpenAI's Latest Model Is Obsessed With Goblins and Gremlins  inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CFO Sees ‘Vertical Wall of Demand’ for Products - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1RpVzVwZWE5dllaX19odmswNWNBSkRfYjhfcVhFVXVyLVBuM2liRDFMVkJJS0toZ1FCc2w4M0hTRmVLSU5GRERiNkNUQkZBdEJwUFdoeVVRc0lmX0RyU3JHdGF6dktqMVVNVmc4X1UwTW1xa3B2bGlFUXBtMDdLWWQybXN3YWoxVndDYmoydUtYNTBWdHBIcUhKcGtYYU9xNVViNzNLYS1XcjBoY2RUZzA2WQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-01T16:04:55+00:00",
-      "summary": "OpenAI CFO Sees ‘Vertical Wall of Demand’ for Products  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk Warns of Killer AI — While He and the Rest of Silicon Valley Cash In on AI That Kills - The Intercept",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1YkpCQllHSzlTSC1VbXVFX1NMeVFRanZ2SEw0RV9QNTBuMFA3dldUM2FmUkN3MllUZ0pqVG5aTC1raWZkU3cyZ1lXa2tHVXNCREtrcFdmQWxnTzFCLVBOcnFIVi00eDBXVXBTbEtMRU4wWjdWdFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-01T15:55:25+00:00",
-      "summary": "Musk Warns of Killer AI — While He and the Rest of Silicon Valley Cash In on AI That Kills  The Intercept",
+      "publishedAt": "2026-05-01T17:49:15+00:00",
+      "summary": "Billionaire Chris Larsen Plans to Spend $3.5 Million in NY House Race Amid Midterm Clash Over A.I.  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
