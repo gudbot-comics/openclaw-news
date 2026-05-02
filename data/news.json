@@ -1,10 +1,37 @@
 {
-  "generatedAt": "2026-05-02T11:08:49.172710+00:00",
+  "generatedAt": "2026-05-02T11:56:23.088832+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Hey Chat, Make Me a Fake ID - The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEZfbnVkNGhJNS1aWmNsVHRPQWduUGZOOWVyR2ItX09HRXRUYktGc050SU1LOHU0LVRpWk9kMkY2UW5rMXROVUE3dmJIclhlQzdjYVIxY1VEZDA0N19wOFdDdUt5bjliQi1WM1VEVlZfX3ZoZWlsNl81XzlxSFBuWm5mR1FYT1hxMUtCUDl3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-02T11:30:00+00:00",
+      "summary": "Hey Chat, Make Me a Fake ID  The Atlantic",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The Musk vs. OpenAI trial is underway — here's where things stand - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaU8tRXN3MDhsbHFSLWFqdTRhMnNtc1B2TFhGenpZakJXWjVuWVJiMHJCX3liV3VvLXRJSjR6di1lZzVtYWFaTUFCSk9zenlLSjZGVHl1cVczWGFmTTdxV1BRd0hRdWNYMi1Bc0tOSlNJei1TenJpMDN4MklhYWRROTVtT0RoRTJiSmpPejZhanFPQUpxcGNEcUo3ZU5zU3hCQ1BIZXVxcw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-02T10:59:30+00:00",
+      "summary": "The Musk vs. OpenAI trial is underway — here's where things stand  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CFO Flags Data-Center Costs, Influences IPO Timing - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzZkYXdLUEcyNXJGbzZnanpMdVVTdkg2MmxDUS1KWjQ0SVFzREoyRzY3ZUVtMDZMMmRadm0zYTFHTTB5cGlESXFhd1lKSDdvYXNZbWFTeUxlNTgxUFZLNDZBZzFYVll4QUJFNmxlbHBZQ18wSHBpMGlUMHNxNjZLZnNLWjRhZ3ZvdGp5YXJ1Ymdpb29peWNqc0tWNEtCRXM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-02T10:30:10+00:00",
+      "summary": "OpenAI CFO Flags Data-Center Costs, Influences IPO Timing  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenClaw Alternatives: Hermes vs ZeroClaw vs PicoClaw - AIMultiple",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BbjV5SXJYQ09YOF9WZF9tWGkzSEVjMVUxZVM2WUdna0E0aldsTzdYVGxid2hRS2hvbWFQM2s2UmNPcTNMTEpUbTNuXzZHdFZHSHRBMWNHNA?oc=5",
@@ -13,15 +40,6 @@
       "summary": "OpenClaw Alternatives: Hermes vs ZeroClaw vs PicoClaw  AIMultiple",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Musk’s trial against OpenAI hits some rough spots in first week - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3YzVGxHQmFsbXhoT0RHS3d5dUhibjBTWnZObFROMXdDT1VWMzBqRTJiaXg4Z00yazk3bV9OQVZsbzRrWHJzZHR2X0VMdjZBRlJLMWhScFJPZTFiajBXQnFSTjloY2dPVjUxcmdfZGlZVTlnOTBIb2M4ZU9SSjhwT2k4S2RTUEVXXzc5T2pqMWVkYzNuSUNCcEw3NXVTNXpELS16U1hWelhwTnFXNVNXeFVYUGdXSENqRnB3SHpMRWdSLXFKWXFwS1F0aEQ5aFJwUF82RXlMZ1E2anc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-02T09:37:01+00:00",
-      "summary": "Musk’s trial against OpenAI hits some rough spots in first week  MSN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company - the-decoder.com",
@@ -38,6 +56,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-02T08:36:37+00:00",
       "summary": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk’s trial against OpenAI hits some rough spots in first week - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3YzVGxHQmFsbXhoT0RHS3d5dUhibjBTWnZObFROMXdDT1VWMzBqRTJiaXg4Z00yazk3bV9OQVZsbzRrWHJzZHR2X0VMdjZBRlJLMWhScFJPZTFiajBXQnFSTjloY2dPVjUxcmdfZGlZVTlnOTBIb2M4ZU9SSjhwT2k4S2RTUEVXXzc5T2pqMWVkYzNuSUNCcEw3NXVTNXpELS16U1hWelhwTnFXNVNXeFVYUGdXSENqRnB3SHpMRWdSLXFKWXFwS1F0aEQ5aFJwUF82RXlMZ1E2anc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-02T04:00:10+00:00",
+      "summary": "Musk’s trial against OpenAI hits some rough spots in first week  MSN",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -72,7 +99,7 @@
       "title": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up. - WSJ",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3VzlNVWNWM0s1bllfR3VBOGtpYjVXMC1XRVZxRk9WSnIyaGs3aHplRUlPLXpNSkNqb21uV2RHTzRGMFpDYVkyMXIwMEdwNVZWTjg0Tk5DaWI1R0Etenk2U3I2OUNaWXZwRFR0aWVVVllHZUpZTHlmQXJ6bw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-02T01:24:29+00:00",
+      "publishedAt": "2026-05-02T01:00:00+00:00",
       "summary": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up.  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-01T19:55:06+00:00",
       "summary": "Everything You Missed From Elon Musk’s Testimony in the OpenAI Trial  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Remember when OpenAI beat humans in Dota 2? Turns out that was partly thanks to when Elon Musk 'personally called [Satya] Nadella' to secure a load of discounted Microsoft computing power - PC Gamer",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSk5aVjhWcGdPLTY1LU1fbmVtS3BPZHI3cFJJbTRJOTZnbUxyUm5EY09HSTlEdHpESFlBLTN3Y0pJMFlYbDFkemw0NVZlVkVfUzhvNURZcWVseU01Y2ZFMWJDZ1lzS0RsaGZSV0VtVy0wcVZkTTdqVnBYWmFaUHBBcVNJcFdVNmd5MXFqSXRzOUNCdXhhTElDTU11bkkzNTlxNXRSSm01ejlQelZkQUxucTVlR1RKVDNYR2RjZzdHMHVaaTFYeUctR05tS002WVBmQkFoN21sbi1XdGUwWVdRMWlmdHNTbHQzZGpNSmUxUExDSWwyX2pqcmxJVFBPMUc3OWtDdnhUYjB5aDYzSmUxYXdxQUtuMW1ScTR4VTZBekltUlAzUjE5Q1lqb2c3TmUyQkJsSmZWWjBveHRlTi1n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-01T19:30:32+00:00",
-      "summary": "Remember when OpenAI beat humans in Dota 2? Turns out that was partly thanks to when Elon Musk 'personally called [Satya] Nadella' to secure a load of discounted Microsoft computing power  PC Gamer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Faces Lawsuits Over Deadly Mass Shooting in Canada - CNET",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNEtuUGJ5SjlVX1AweEV4NWMwWi1SNnlEVlA5TEZLU08zeFhuajlQU0VlUFNlZ2UwWjZhcHBNM01MdnJYSkhZc3I2bWdwU2JqOU1pcnVHZWtCMzJpR2UtdTZlZWNXWk9HYVVNYzl2WTVjVFJnN1FmLWlnU0NzNThzRFFWRWNwMHlQMUJQbkVNVW1ZSVB4Q1k5bmFvTW81VnBaMTczR0xzVlctZ1dhdTZjQg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-01T19:15:00+00:00",
-      "summary": "OpenAI Faces Lawsuits Over Deadly Mass Shooting in Canada  CNET",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "All the evidence revealed so far in Musk v. Altman - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenBscHdSV3VQTFZHSVIzeFZHZEZ6ZGtjV2g4Y1FZdXlyX0lhcjRmMkpxM3RPVVRITFRmU1lOcTNkWVVmaFByRnh1ajZIczRJVE50OTlyem1vRHVGOUVKTlZIN3NFQXdRMTRNS01ZTXJsWkJPSkJ5LW9nUEU3ZzJXQVNWRFh2UGdIeFZ5enZGVmtiaE5LV2xYR2Nqang1aXVUeEEwQ0c1N2U1ZFFRWWw4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-01T19:14:51+00:00",
-      "summary": "All the evidence revealed so far in Musk v. Altman  The Verge",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
