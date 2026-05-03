@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T19:06:39.793049+00:00",
+  "generatedAt": "2026-05-03T19:57:33.406006+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-03T18:37:51+00:00",
       "summary": "OpenAI missed revenue and user targets, faces internal concern over meeting data center spend commitments - report  Data Center Dynamics",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up. - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3VzlNVWNWM0s1bllfR3VBOGtpYjVXMC1XRVZxRk9WSnIyaGs3aHplRUlPLXpNSkNqb21uV2RHTzRGMFpDYVkyMXIwMEdwNVZWTjg0Tk5DaWI1R0Etenk2U3I2OUNaWXZwRFR0aWVVVllHZUpZTHlmQXJ6bw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-03T18:33:26+00:00",
+      "summary": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up.  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,15 +191,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-03T08:00:53+00:00",
       "summary": "The email that can sink Musk's case against OpenAI  The News International",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to use cookies for ads, enables marketing tracking by default for free users - Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVG9nXzVpcE1KSTYwTmtVLV9GSnNzakRuYWplbzVYakpDYmhXUjBZeFNuS2UyUlNSRkdTQnh1N3haTE1SRFZ1OWJrb3pUOHVGSWlaTUtWMkNQMmo1VzlJa1VGSGlrQjNJcTdIbG1TTWFLMGdtdUdvdm9aZnR1cm5Zc05lNEk2NzI0b0lZSlNISDR3NWE1U0tMUlBOTXdaaXY5cktGT0Q4Nm4wanNrc1p0Zlc0NWhORW1lVXV0cTBrVFpSNkxFMkg2T1g0eUJURnNjSzd3V9IB2gFBVV95cUxPdWpZNHY4b18zeWJNRU1EeE1IMnFNVHhTWW92R1R2RW5OZVdPWlJzQkNwZDBJTmtfUDk0YWRSR2VOSTFuUTFfQ1hlMktPUG5GUHc4QnE5U2g4d1BrdmZMUk9YR0lzbmN2eUx3SlB4RWtvUXhXRDl6cTJiR05ReXp6OVJuMUh3RHVENkN2bTdiM0tlaHJYSWo5M1V1ZC1HMjllSTByaU5QMUVtY1ZyOVM4ZkRaS1N2OF9OYS1DeGNvRFZyczhva0xXQ3dseVMwd2IwTnBZSVlEaVd3Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-03T03:58:36+00:00",
-      "summary": "OpenAI to use cookies for ads, enables marketing tracking by default for free users  Storyboard18",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
