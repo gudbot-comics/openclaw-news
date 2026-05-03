@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-05-03T08:22:06.103050+00:00",
+  "generatedAt": "2026-05-03T09:45:44.544630+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Stock indexes are contorting themselves to include SpaceX and OpenAI - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTUVMX0ZJdTFBcHBvSGlwN05ScFFFeGhmSUl6ZnZxNUh4dVBaQ3VCYzFMWGJIQ3BGN0Ntd3dmVGVOZGNnbU1wWV9nNkY5MlJLMmxiRWt0dUJBX010V3VYUU1idHdCSTluVXd6aUthRkFqNDNrMEFpM2JTVHVpTlVtUW4yTi1LTGY4MWRFNmhReVFpUmdPMmF3dGkzNU94bzFlMXp2S25KOUtUcFdhb1cxLVpTd2tKZ3dwbjZDbTh6NUtFb1JGOUM2eW5fTWQ5X1VqS3N4V2FoTW1nWURjSWVv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-03T09:41:03+00:00",
+      "summary": "Stock indexes are contorting themselves to include SpaceX and OpenAI  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Stock Indexes Are Contorting Themselves to Include SpaceX and OpenAI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGFmOVlCdlI3OUNJV05uTmViVk5faWpXSElEWkZ6MERXRjRJbmg1RnZ3SWltN1JaaTNKM2dkd085UXNvd1I5TllVeXI2RU1PcUh1MjZyclVGU19qZ3JtTUZ1THQzV2QwcEY1VmhHZWJLd1NlUkoyanM5QTVySFVUWjZGNWJGTm13dVNsTFI5cktBS3hUYy1xTnF4ZkotQ2tqc0VXa0F2Qkd5aHMtbUFGcmN3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-03T09:30:00+00:00",
+      "summary": "Stock Indexes Are Contorting Themselves to Include SpaceX and OpenAI  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman asked GPT-5.5 to plan its own launch party. Its requests were 'beautiful' but 'strange.' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSdlFLOVFFcjgyNHNZak5CSzI5Yjg4WWgxVTNRdkxrTDVqaElOVHd4TzN0aUNmc3RtZVQ4ZnF4NTQ4VHVDRmNrRkhFZDA4X2ZoTnhhTnE5NjBHM0NLaDZHNWd3dW1nMXZWY0xnTkVYWmd1WkFtTGJjLXdEOXkxdDg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-03T08:30:17+00:00",
+      "summary": "Sam Altman asked GPT-5.5 to plan its own launch party. Its requests were 'beautiful' but 'strange.'  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The email that can sink Musk's case against OpenAI - The News International",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0F0WWo3WjE0cmFMeFQ2WlctMC1zUi1oN1R3cnFsNnJYSS03RU11MXN0MHRibDZPZ01MNld2NlQtaEUxS2kxbHA3aF80OU13WlZaMFdZem5jQnhDMlBPZHl3MlhVX2xFMDVwUlpZVFNRNngzRnZoQVAyaUtwanR6Y255V2lneWdOVG1JYWpJeXhhMFhiQkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-03T08:00:53+00:00",
+      "summary": "The email that can sink Musk's case against OpenAI  The News International",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up. - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3VzlNVWNWM0s1bllfR3VBOGtpYjVXMC1XRVZxRk9WSnIyaGs3aHplRUlPLXpNSkNqb21uV2RHTzRGMFpDYVkyMXIwMEdwNVZWTjg0Tk5DaWI1R0Etenk2U3I2OUNaWXZwRFR0aWVVVllHZUpZTHlmQXJ6bw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-03T07:31:03+00:00",
+      "summary": "OpenAI Wants to Go Public. First Sarah Friar Needs to Get It to Grow Up.  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Sam Altman Extends Invitation To Elon Musk Amid Legal Battle: 'World Needs More Love' - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLW5wN0JCc1JoZjNTWmFJVVRpQlVHZGhXWTB0ZFdiMjluR2FvWWRtN21pVFRSVE05eU1FVGtDWTFKWUVPWmhFd3FJS3N3eXBTT1d1ZThPeFg1WGZEa3BrT20yNVJDSUpuaVppcm5WUnc4ZW4yVXh2dW93bDdtUk1ZRTdQdHdLUEtNc0RUOGFENk43aFJLN093RVNvenJQTjY0aGRoNFF6STNRbDZ6RHFJcW5aM2RWcndMdHQxZzFoOXFrM3NYNm5pYmRHVVZvWkZF?oc=5",
@@ -175,51 +220,6 @@
       "summary": "OpenClaw Agents Manage Personal Projects Efficiently  Let's Data Science",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yQ1JKN3c5SDQ2TWNFZm1rbDZsM0VQZnp5NnBqcEtfRXZUWjI2Z3ZkZWVQLWg4TTJZN1J1SHAzaXJCa0VZd09kNXVnVURpNUZXNTZDN3k4cHdCYkJ5dlhtcHZ4WnBrVFNPZHduc1lSRjBTSVg20gF8QVVfeXFMT2JMT01PQ2p6T1RaV2h2cXVueHRWTDBxT2FuVnB3bi1fQnNsM2JoX2lEMGYtcFloNWRTOUFoYTd1WDdVY0lnNUpHMWlUaWRpTVhoTFpMbHc4bUlGQ2xjYjZCZnBSaGNlYnRQYlQ4YVVpVWFDdHBuS0prUzE4bg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-02T13:01:02+00:00",
-      "summary": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough  Decrypt",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV2VvWWlkQUhIRkFwWUVaRndERXJUMEoydzJieDRCZXVWaTVDUENrSWJ2VkpQWURJNW5TN2huWi1tdXZQTV9iYjA5WHNLWkhadDNqRzUtX0dlNi1vNHRKaDFKTF9pSnhIYlJ1ZGJVenZ6eElPcGhZYjFqR0w5MTdNOVJCc1Fzc3d2cGtSQ2lkczIxb2FQWGI1UVFZRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-02T13:01:02+00:00",
-      "summary": "OpenClaw Put Apple Back in the AI Game—And Now They Can't Build Macs Fast Enough  Yahoo Tech",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI wants to put its most powerful model at all levels of government to fight hackers - WTHI-TV",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTUtxT2p2c3BucWJWZmNuOTZSb3pHOVBYbl9tOHliVk5PbUhHOHdQdmFobUFCWWVCUS1saFFtUGhFR1Z2WnRxMzJ5NHBhZjV1ZmpGWUJrb2RVaW9ROXNoTnNoVmRYb3ZpQzN5TG9yYTBMVlZueV9uMVgzcVZwc1ppWEZxQXRvR2pzNFlrdWFVLWNUbHYtYnY1TDNmNTU4UUxtR2JqQzQweTMzY1JaRXVFUUtyZFdYWFJ6WkZ1MnFDTXIyWXNWUFJCT3BKVWozVk81MnpOUzdNSkE1LTBLMm9CVXFjd3VlVnA4dE5GZ0c2Yw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-02T13:00:00+00:00",
-      "summary": "OpenAI wants to put its most powerful model at all levels of government to fight hackers  WTHI-TV",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWpDNnJlTFFVZDJXeGhFdURSSzV4RW84S0JIWXZ2ekFIUThkVE15MUZ0RE1tYzNrOGNndTIxVVRGSE4xZWtkT09vVWJBcHdWMXZQdURFWEVzWjV2RVBWaGZzVmdDQ24yeVVTeFpfb2xSRDRlWU1RVU9ESUNLSmp6dnJoTnoyTmlKWTRBd0lJNUFCbnFramoxcm44OXJ4S0wwXzNlWldR0gGrAUFVX3lxTE9WdDIybXRILVhwQkZxS2JSUmR2OFRSS0tUVG1ESVl4TUtNSFJvaFVRZWt5encySG14S2ZMSEpjYi1QY3FCR3NBQmNtUktNOUg1T1dRY1J5WE9yaFZHNUVtR1dxQkRCV2JSRGRBNlhBTGt5RXBkWEt6d1d6YkxTMWFJb3NsU1NJYlhsVUdsbmpTMFpCNklfaGozU1U2bWVFNFZVeUJ1VzljOFl4QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-02T12:00:01+00:00",
-      "summary": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Musk vs. OpenAI trial is underway — here's where things stand - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaU8tRXN3MDhsbHFSLWFqdTRhMnNtc1B2TFhGenpZakJXWjVuWVJiMHJCX3liV3VvLXRJSjR6di1lZzVtYWFaTUFCSk9zenlLSjZGVHl1cVczWGFmTTdxV1BRd0hRdWNYMi1Bc0tOSlNJei1TenJpMDN4MklhYWRROTVtT0RoRTJiSmpPejZhanFPQUpxcGNEcUo3ZU5zU3hCQ1BIZXVxcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-02T10:59:00+00:00",
-      "summary": "The Musk vs. OpenAI trial is underway — here's where things stand  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
