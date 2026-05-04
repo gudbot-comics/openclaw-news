@@ -1,16 +1,133 @@
 {
-  "generatedAt": "2026-05-04T11:13:03.607918+00:00",
+  "generatedAt": "2026-05-04T12:57:27.011020+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Cal State struck a deal with OpenAI. Some students and faculty refuse to use it - Lookout Santa Cruz",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFA5YTlueXZCYlpmcDE3cGt4azVDbHpXQ2VVQXVGNWJCczdqSDJ4b2hVamxLY2lQZzdTRDVnOW1jdFQ4REFqeWJHQzFXYWRybHRTVEVqbU4xZS1lZWp0ejM1cG5yN0dDWUpicVg0d284TlNsUk5ia0kzRHVwcE0tV2ROSkxVS01zSTFJQU0zNUdYeFdNMWtMOUQ1b2R1V01NcGVZdGZ3?oc=5",
+      "title": "OpenAI finalizes $10 billion joint venture with PE firms to deploy AI - Bloomberg News - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT0ZPVWxzQlJlUE4tSEhua19QWmhMRy16QkpaSWZ4bS1CWXJ0ZFpHOUQwYmEybWlUN2dqcmJkUThvRUkzN0YzdmdLMGZIRThkejg3V2RWUlhIYnFEVmhRa0dBd3BLVHN6WnBGQzVuTEJkekpZM0Y0ZG9KV0lJbXVGTmtwLXozU1dyVnRQMGtGS2hPZ3pyY21HUE84NWw5T1JVR0h0Tl9FVDRrWnl4aTlrb3gwTWxKSTYxWE0xbnVqU0xyMmdGTm8tT3lJWVBpeng5c1E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-04T11:00:00+00:00",
-      "summary": "Cal State struck a deal with OpenAI. Some students and faculty refuse to use it  Lookout Santa Cruz",
+      "publishedAt": "2026-05-04T12:50:09+00:00",
+      "summary": "OpenAI finalizes $10 billion joint venture with PE firms to deploy AI - Bloomberg News  marketscreener.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Managing OpenAI Rate Limits at Scale: A Practical Guide - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXdEekxlUVFYdnNSblBWcTVEcl96Y25SaWtJa2NXNHJ5VUQ1QTRROThCbTdwNlRGMWQ3X3FBb1RRVjJ6Qi02Y2x2VkpmNjUtbVVveTQ0dzhJNnZzMjBGSlBjNENaVkx2VlpYWnV6dFVRSkJrWkxDdFAxU1d3ZC1EZ2RQOE92QnpYdFJhTTlKWlpQNVNXYXhwXw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T12:46:26+00:00",
+      "summary": "Managing OpenAI Rate Limits at Scale: A Practical Guide  Technology Org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says Elon Musk Tried Settlement Before Court Fight - thedeepdive.ca",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4UC1sUzd5QzRLT0Y3SWNJeHdtM2xCSTNDME45OThoemFKX2hFaUk1VnFYNVotajIxR0JRQ1o3bGxxSC1TRExucUVzZFBHZERmTDFSVTc2VDZlVmxrSWZtQjVDTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T12:41:29+00:00",
+      "summary": "OpenAI Says Elon Musk Tried Settlement Before Court Fight  thedeepdive.ca",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk's Legal Battle with OpenAI Intensifies Ahead of Court Proceedings - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWExwZ2pLTENOc0d3emxjbkpLZXVXWkZUYUNYWHVSQW1tQjZUWThfRW1IS1NBRDRyVWt6Qk5NVVhDQl82dXhJQzBIRmhGWmFfamhiMWkyb2tGVjVEMHB1SkdLTUhFLWN2SmF3aEUwYmdKRTEzZ19QMzNtRnNVT1pLTE9Xa29idmlHWUtfYVBmV0kxN19LcUhYbXpscGo0N3ExMU8tbG9aQzlxd0g5eDMzV0xiaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T12:38:00+00:00",
+      "summary": "Elon Musk's Legal Battle with OpenAI Intensifies Ahead of Court Proceedings  GuruFocus",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1NhcXhKUFZGelR2NjRuN2tnSkE1bmJTUjMzMnN6YlFoWUVlWnZ0SkpxZ1J1ZDhnVE5USzQwbUdDSTZENDZZZTZqNDhaNzJFcmJBS01lOXdJRmx3N25iY2hWdnJyNEliX3JGOHZ2Q2QwZnh4YlhZWjFJZmtNMVd4MFNTenFCVXRQWUh3TGw2WlpuTldrbE1UOEFONmN0NmhkMkYxekxRR3FxY21kWk5sR0VwdUwyQnIwWXVR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T12:31:00+00:00",
+      "summary": "OpenAI Finalizes $10 Billion Joint Venture With PE Firms to Deploy AI  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Two days before the OpenAI trial, Elon Musk reportedly contacted OpenAI president Greg Brockman to … - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORlEtSC1qd2p5U2JlbG4yX24yVno4cjlpWUFMQm93N1IyVmNERVBaV0pnNktjQzBTNndXOU80SzhzSDFjN2o3bmtKUngtbHdlN1RKdmVka0k0aHJQamVPelhCLUgwT1AwdFdnV2dYWnM0TzIyUlNKLW96QVBnWl81M0s1Y1FHWjlqQlVmVlJDd2JVY2dJak83R1haR3NNUWgxclhBVnFZZFRPd3FvdVZHS3pZUmNCazBTekc1WlJUbmsteC1HbjUtRHdRX1UtQlFBM1ZvZVdUM3hsZnRQa0s5dkExX1RUbl9VemtYZ1VyTHE5Y2RqTHNmeGx6UjVhdG9vb0VRWi1wVml0ZGZ5dXfSAZMCQVVfeXFMT3pPNXE4eXZ5TnYwT0R3VkNEbmJpV1c1V2FmVWY5M0Q2Z2VISEpNWV95Z2JvYXVLaDFfbXVjTVNjT0xpcVdaRnVlQzhzbTJlT2xDRWUzMjM5dXBqOTVTb015bVlDYXNLS0Ixb3dodFFnc1RfTE9JVnJQNzVWbXVmM3hLZmoxRmUtTjFZaE9NRXpjQS1Ga1poQlpiVm56al9SME1nR00xMy1MU1VPZE13empCVkpfeFVrUTgxTl92MEZmV2lHLURtb1E1Z0drbGNkck9QV0Y2WnN6ejF1b0I4NUxpam1pWERJc3NnaXpaeWVwUjNzVG9sd1Q0VXJTeXl4eUVNRE9ZVU5JZVBfck85eVdYSHM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T12:23:00+00:00",
+      "summary": "Two days before the OpenAI trial, Elon Musk reportedly contacted OpenAI president Greg Brockman to …  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman warns ‘AI washing’ is real, but tech-related job displacement is on the way - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0a0d6S0FFdG9BNmhRU0xXTGtOMmxTcGFad0FlODRZb1dUNVVMOUZ6RjNLUWpxYTBrTlFDaFlqLXBqb1A1UE1PNVVjeHVqMGo3VUh2YVNxZUpoMzNyS1hmNGtmdlh1NGE4bUVLYjN2eGI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T11:50:34+00:00",
+      "summary": "OpenAI CEO Sam Altman warns ‘AI washing’ is real, but tech-related job displacement is on the way  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why ChatGPT started mentioning goblins; and why OpenAI had to step in? - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblRQczF3RTNoV24wNVB3NnBVQW5hRVF3LXpfVTR5dVo0c1hqdzczc0R5MjdMeDFDbGZLYmNwYVhkYXFlTEd2bXJTdUNwYVJGbnpzb2JhczU5cEFVTlhrd3NrWWlDbnpIbUhkdGJxckNLU2o4U1MwbDlFcTZsVTBZRTNZMGtqdzg2U2Y0U21wZkZ5bV84dDlRVm83bEhreDhmWGNrUDlZbVlwQUNHZVN5VnJLc0dhQdIBuwFBVV95cUxNclBjVGFEX3hYOHRJVGJGdzBBU3FWcm9UcE1Pc05tWmNMS2lNdDFHQTJudGtqOHA2S0pBR3FkemhkR2lzVHpjeFZ1YUQ4Wml6SnNkT0RFY0hFZnNwNXFNRS00c0ROWkxHUzF2ak41Z1J1RGN4NlNSZ09ndVlLMlpLUU9PREluTHpJbHFiOWk4YmUybndLX2hFQUhOMk9IYnMtVjNRbXlFeDRiUGhaR213anVzV3ZjZWYyMVpz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T11:40:29+00:00",
+      "summary": "Why ChatGPT started mentioning goblins; and why OpenAI had to step in?  Storyboard18",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk's Legal Battle with OpenAI: High Stakes and $150 Billi - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaThraHl3a0lYR25kZDQ0Z0FHOU1FSm5lamh5OUVUTzQ4bk9PeHNFZk5JUzVwR2d4MUp0UndWY3FVbGVpMjNJRHVwUUkxQ2dweUp1eFNtQU8yMG9sUEJJbEFaRS1RUkJLTmEwWEpLTzIwNXR2U3pEUjhUbFFkOXI1bHBTUmhJR3B0Mi1jUzFvSklRZlZKMl8tV0I0d2hzTE5UNnFBaE9xa0hSZHAt?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T11:36:12+00:00",
+      "summary": "Elon Musk's Legal Battle with OpenAI: High Stakes and $150 Billi  GuruFocus",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Court filing: Musk attempted settlement with OpenAI ahead of trial - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNUtKaGxhNDVKby1LRFlyRGhiOFpLNzE0ZWFNME1nWHR5MjBXVmh1b2IwZDRhNmMxcXdyakdiZlV1OXcxTFA3OHc1Zm9FV2FlaUtST3hMRm5BOFFteW55X2t3NjBpblZVN3g5NjFtY2kxNnU1R2dPeU42d0ZfVkt4OUhvWFM4OVI4cVk1LXpmQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T11:33:35+00:00",
+      "summary": "Court filing: Musk attempted settlement with OpenAI ahead of trial  Latest news from Azerbaijan",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Made a Special ChatGPT for Your Doctor - CNET",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGtRQmZ0NjNNWk45WmMtUGg1RHI3S3NSckRZbmVHNTdkSUFINHFZeWdfTUZ4OGU5WHExTm0zYXZPX2JRYmF0cUVLRmtZTmNvQzRrd1c4UkxGSklESG9CMk1TZ2ZTMVdtMjlYMjJoUUpjeW1iTS1jdVVsSkpQbDhKYVBQbDRSdXFJQktVZXJLR2tLd24xRjk1eVhvc3NuUUhMMFZhdENwMzZLZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T11:30:00+00:00",
+      "summary": "OpenAI Made a Special ChatGPT for Your Doctor  CNET",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk vs OpenAI trial enters second week - Ashley News Observer",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVEFNRWxWWlQzWEJIYVBZVm1YRXNQa1NMbVNudDlzYnZSaExBRjRKMW4zR0VRSW5FcG1KLVhHTkxzeVhPMGtMbF84WDZEVDMxU1BkTVc3N2dDRUV3MHpZdHdrN1YxNWNySlRCYm13X3hUUGg0Mk55SEllcjFEcXhtYmhBM2FZSWYzeHpvSkJoald4OGpMcGtBU3FZUVFMeTFGUWNrNnpUSDlyWmp2bVlRRGI1ellHYWxRRi1nc0J4ZG5rRHh1aHlkaFh6RzJmalRRWDNCcg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T11:20:11+00:00",
+      "summary": "Musk vs OpenAI trial enters second week  Ashley News Observer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk sought settlement with OpenAI before Oakland trial, filing shows - CNA",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS3RpMlVacV84aXhkY0VwRnhqb0J3ekhSZGhGaURZQXd5eVBRRnM0c1NwdnJaM0IxSGlxREt4WG5UeC0xdHd3cEhUSEF0UERldVd0Z1FGclF0dGotUkN3MnJDZUNGSXJiU3RfOU5tMzNTYzU4MTExR2FPMXpnak5wd2lNNHJIVXZNNHBtLTYzUExaTndqSFhuVGxhdHpsYUNQXzJydzBsbHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T11:12:27+00:00",
+      "summary": "Musk sought settlement with OpenAI before Oakland trial, filing shows  CNA",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk Sketches Apocalyptic Vision in Bid to Block OpenAI’s Transition - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZFRQUm9tb2dpWVZlU0xMOHF3MGd4b0h1SnUzNTVMMDJ0UkZaM25sVnhtSFR2TGh4enpTM3J2SXdIdm0yX0szc09kZ1M3RGQtTm5XWjlVTFQyOGZLR0RMWkFHWWd5dVJBQU56V1FWTUppWGVWQ1VXRTdLQXpnNnlaaHpyblNjbEZKZ0F3T0RFVTY1NjdPWVp1NjRwTF9BVUtjeGZSUS0ybUVnQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T11:06:06+00:00",
+      "summary": "Musk Sketches Apocalyptic Vision in Bid to Block OpenAI’s Transition  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,6 +137,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-04T11:00:00+00:00",
       "summary": "What’s Next in the Elon Musk Megatrial Against OpenAI and Sam Altman  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cal State struck a deal with OpenAI. Some students and faculty refuse to use it - Lookout Santa Cruz",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFA5YTlueXZCYlpmcDE3cGt4azVDbHpXQ2VVQXVGNWJCczdqSDJ4b2hVamxLY2lQZzdTRDVnOW1jdFQ4REFqeWJHQzFXYWRybHRTVEVqbU4xZS1lZWp0ejM1cG5yN0dDWUpicVg0d284TlNsUk5ia0kzRHVwcE0tV2ROSkxVS01zSTFJQU0zNUdYeFdNMWtMOUQ1b2R1V01NcGVZdGZ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-04T11:00:00+00:00",
+      "summary": "Cal State struck a deal with OpenAI. Some students and faculty refuse to use it  Lookout Santa Cruz",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,20 +168,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI CEO Sam Altman warns ‘AI washing’ is real, but tech-related job displacement is on the way - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0a0d6S0FFdG9BNmhRU0xXTGtOMmxTcGFad0FlODRZb1dUNVVMOUZ6RjNLUWpxYTBrTlFDaFlqLXBqb1A1UE1PNVVjeHVqMGo3VUh2YVNxZUpoMzNyS1hmNGtmdlh1NGE4bUVLYjN2eGI?oc=5",
+      "title": "AI chipmaker Cerebras targets $3.5 billion raise in IPO - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kOWU0Y1JwbGN6NjdQLU44bTB4cHYtZGtFNEZOUnQtcXJfOTlleWw3WlJhNmdLQjYtWDhHdTk1QWVUMVJmbzFCNkVOVTF2dGNac2twREpMeFZWdnEwM0JHQ29rQkJlSUNDR2JFdV8tb9IBdEFVX3lxTE5OM2p6TGRpN0lTUHF1X1ZTZzRndDJJakluNnRPQmdXOUdWRWRiREowOVl0YzJrOTB0M1Q2RU9ZSXpJb25EUUVMZmR2Q2FZVEs1Q1BVTTY3Zm82YnNCSlE4WlVlaVVObFRkYjMzWEhTNTVHSVdW?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-04T10:20:34+00:00",
-      "summary": "OpenAI CEO Sam Altman warns ‘AI washing’ is real, but tech-related job displacement is on the way  Fortune",
+      "publishedAt": "2026-05-04T10:45:24+00:00",
+      "summary": "AI chipmaker Cerebras targets $3.5 billion raise in IPO  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Harvard Study Finds OpenAI’s o1 Model Outperforms Physicians in ER Triage Diagnoses - AI Insider",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3hzVkY5dHlGcE8takpnNWFocjJaT3JQSzJLSExNYmJieGhpamtXRFNGY1VzTktLYk4wZWVrSFU2UmFTODhyWDFKb1liVlpCSnV0alE1MTI0bzZ1MDJ6c1lkYmZYejhUVzNzYUlkT2pRRVhjRk05VkFtOUJlZlVDc29kam9lQ2Q4eUpOaWRnWHRxaWEwU2pHYmFBZ3FnZDVPbVlQX01SY0R3MXA5b3hrUWZ2T2dFcnVCWlpQZg?oc=5",
+      "title": "When, If Ever, Will A.I. Actually Make Money? - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa04wbFdnaFRhOHU0YzBZb3Z2cWVpamlfVUJLTi1VT2hLUUJuZ0p5WUJKWnVPSlFDWDhpWHlmTEhxRUQ0U2ljMldUbkM3U3MwSW9FdU5SZF9JMWFUbDRONzNjTWs1Zk5pbnhPY082eFVBUFRsXzRQc1B6QTNsVVFnZWRHN3gzZkVoUDJsWnFSbHM0UmlEREk3X25kRWNReGtmM002Rnp3WkZYSGdzWWc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-04T10:05:38+00:00",
-      "summary": "Harvard Study Finds OpenAI’s o1 Model Outperforms Physicians in ER Triage Diagnoses  AI Insider",
+      "publishedAt": "2026-05-04T10:00:00+00:00",
+      "summary": "When, If Ever, Will A.I. Actually Make Money?  The New Yorker",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s talk show signals the rise of corporate media - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jTTVRWjNad1RiNVpCLW02VmF4WmxFZWdnSDJEdG10Wl9OeHVRZnpEbFFPY2FsMDlLMVViYTNQelVHWk1aYjVnWUVtYnd6eWlNTl94Z2tJenptWGJtdVNyVU1LcDJnRmFqNW9oNnZkVTMzaTg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T09:30:13+00:00",
-      "summary": "OpenAI’s talk show signals the rise of corporate media  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Rolls Out Advanced Security for ChatGPT Accounts - SecurityWeek",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVkJwcktzLTduR2JiU2pvWXZLY3JpanhNSVZKZHA2VFVNTTB4N1VneTJuNGZMbTRGZU5VWWRSYkhoeVJ6YjdROEdHTDFvQ1g0UTVMT3BCMldidlJ4YUNUSVdpMVVpbUVyRW85LVFqTDNjNjU2N3pZbUVldnQxdEd5QklqOFJQb2Q0YjRaTGRB0gGTAUFVX3lxTE0weVRWZklzeUpsQ1hGN3gtQ0lrTG9JM0d1N0Y1WnluUVV3UzVXV1NYOHRlUDRJR2hrM3NScnJka3NTWmVzNktSSHBWOWxOeGs4am1mWWZfUkxiMmtQVDYzalNyVk43X3l6TEJfcHM1THVBRjYwelJLU2JSbGw5YS1iX1FTZ0VnU3ZQUDZiRXlPSUowUQ?oc=5",
       "source": "news.google.com",
@@ -96,128 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Elon Musk vs OpenAI trial enters second week - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb09yc2I1ZTVPNVJUdzRCQkd3dzlxTlVlVFFYeEo5akR4aTdjSEIxc3lIVTZ1QklLSWNDS25PWF85RmlCS1JKOFF3MFJmMWlDeWxiZkhKWlo4RHhXS1NSbU5rZDA3OXVlM2pKaHhOX3p6OEhnMnJPUVcyZFJkdlo1N0NXSW45UlRoeGs4cnhmZFhCRnZsR1NJRHBFemJLSE4xWE5IZEtJbmhtNk1CVFpIMVRBa3rSAboBQVVfeXFMT05iSEJDM09sRkRHODNfbTBxbHBkMnZzekxQU2paeWR2TEdYVWl2aHZIcUxJazQwWlJ0bGliYklQNWJuclJ4U0Z0OUN6eFZYeS0xV3cwS3M3RW5aMXo0MkxaMmtpcXpsRkJPMzRmM0V4eTN1b2Q4a3BfVGtsRDVodnBUM0tuWWRyRW40UFZxU0ZSR3ZXQ0NUNjhFdkwxY0RQemlhVVQ4dDREWVBEX19FY0ZRS3djdG1QUjF3?oc=5",
+      "title": "OpenAI’s talk show signals the rise of corporate media - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jTTVRWjNad1RiNVpCLW02VmF4WmxFZWdnSDJEdG10Wl9OeHVRZnpEbFFPY2FsMDlLMVViYTNQelVHWk1aYjVnWUVtYnd6eWlNTl94Z2tJenptWGJtdVNyVU1LcDJnRmFqNW9oNnZkVTMzaTg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-04T09:02:06+00:00",
-      "summary": "Elon Musk vs OpenAI trial enters second week  The Economic Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk Pursues Lawsuit Against OpenAI in Court - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYS1ONk90cklyV2szOS0xZWN3Zm02aG1ManVEQk5CSERJMVo2bkg3LVVqZlY5SmpXTnYxbEJwMWVaLTlTMkttVVk3cWlFb3d5amZtSnZZbXZwREJ3MmxQbW0wV25UMWVhbjR4dURleXUwaEMweWg0dlRhbV9yTWtwdXhLQzJaY215M0d0eHRRTHFwOTlkQ0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T09:02:06+00:00",
-      "summary": "Elon Musk Pursues Lawsuit Against OpenAI in Court  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A ChatGPT warning ignored before deadly school shooting, families sue OpenAI - Qazinform",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnpsTXpiZzNqcEQwdjhMUXU3RmNjQXVROXJ0WTVBcDE1QlFJM2o2d2RwMVFlWUR4d3ZHVjFteHA1b1NvTXBOdzlxRHRLUHV3YmhCcHBCSm1PM1BBT2s4ZHBFTkdkcFBEUVZKY3pJc2hTbTdFWGdrV2d4WjNLLS0wQUItZENNRUtvbXEzekFCQWt1N1NHNFpwOXo4a0VIbDAta3hDR0VyaUVlSU1DNUHSAa4BQVVfeXFMTTcxRGJoaDJ3Nm9mMnJaZWFQVzYyNmRCYTcxVmItSGxUVXUzS0dmem1JZnNjS2JrcVhiSDBEWHhPb2VIU0hpWnhrQ0ZkOW1BVTRONWxJbWg5eEFWTENPa3UzamxGMXMzNWxLZDBESy1zbmNMVjNhMTFqc2d5Mk53OHRUSlVReXFfU0s3cVNSTzRYOUkyOWlPUXZCdUNpeVo2SWNHcVEzbVl3Q2FhRlZB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T07:43:18+00:00",
-      "summary": "A ChatGPT warning ignored before deadly school shooting, families sue OpenAI  Qazinform",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk vs OpenAI trial continues into second week - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EYjV1TmU0bzBlTmZOeGdYbWl3UmlreHVITW1tZU9GeGYzWWp0anVBMVk3TmVPV2FsdFdBYy1mREZadl9fYjhRNWhBQW81cnlhVGRZeFR4XzdLSGx2UkdzcXhPNXVGVlh4WFNCSmlwbzBYaW9FNy1z?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T07:32:46+00:00",
-      "summary": "Musk vs OpenAI trial continues into second week  Latest news from Azerbaijan",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI enables ChatGPT subscriptions for OpenClaw integration - Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNU1GYmp2TUFlMkNzbElUV1p2Q0t4WUhlc1BWUlFfWHB0N2t6RXdrY2NuMGp6YU5CRkRUM19xdVFuZHAwdHVMYldJdHpPcG9veEs5ZjNoeUYzcTUwRFV2ZlNGS2pWbWFFazFDdHJ6UXkxZ3FsV0wtTzUyN2FvZl9COVRjb29fZnRpT1ItbmU0RkZ2SUJGWUhnaXNoN2lpVE1MVnRUZ3dwb3lxdGtH0gGyAUFVX3lxTE1EX084T0NwVjV6UnAwd3h6WGY5VnR4SmdxYlI2OFJheVUzNU5MTENqUWQ5SlZhdkdWUzNfRXlhVlVBVU9jbjhSQzRidjNVR1NZNXJyajJxUmxJOWpwbGlkSmR4OWZ2MVREajhlbjg1M3ZFM1JQU1JrNVMxbk1NaFgyalBQaDAxbVQ4NzQ4UldCRXpRcHMtVnVNLThES21lZU9EQ2Q0WmNWdG1MRGdLaEJ0SVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T07:23:51+00:00",
-      "summary": "OpenAI enables ChatGPT subscriptions for OpenClaw integration  Storyboard18",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Battle of the tech giants puts business of AI in the spotlight - Law Society Journal",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX250VzFfMmNudm5YcGRjNHpKSm54Nzg0ei13T09ibEd3QUJEa0xEemhQdUJMZXZwMlhVYW8wLVQwelZ3ZEI3WWZYdXpJV1RsOHlqYWhOVXpjcHdMYTZ1ZWRtZFJsM2JYQ2NFTWYyZ1lmZ0h6MWtBanVMdG1XVmR5M0xqMkhDOUhPLUFNejF0RzhMdTlwbFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T07:11:57+00:00",
-      "summary": "Battle of the tech giants puts business of AI in the spotlight  Law Society Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Chamath Palihapitiya Warns Power Crunch Could Cripple OpenAI And Anthropic, Says Elon Musk Holds Massive - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTUJNbTl0Snl5Z1lxeHp0ZFkxMGlNWkJEcWdQaE1zTjhDTXBaaTdPbktyY0dGTVhuV0lMZV9BS05zRGwwbVRTUDJ2ajJUazVYQjNnc2hyNTRZc0lMRk5VVHpZRFZIZk5SZzdtSFRINElSNTliQzR0bDRlSTRVWlNPSmc2SzNfdWl5ZTJMWnZIYVFreFNjVXdRNlF4ejZJOEItS09EMm9XdVBKTE9YU0lwQnJhQ1BXaFI0dDZmbnp0MUdiMlBCYkVzTVNEYmZYYVlsRjNsWWpzelBXRUpzOHVKU3BkM0ltSUcycmdTVkdhczE2Nm1nWk1GZFI3dWE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T06:49:10+00:00",
-      "summary": "Chamath Palihapitiya Warns Power Crunch Could Cripple OpenAI And Anthropic, Says Elon Musk Holds Massive  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic nears $1.5B joint venture with Blackstone, Goldman Sachs to rival OpenAI - The News International",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTE5KVFFURzd3SW5SVnVQc1R5YWJDNkY1WG53SGJxUXVSZ3gydmd3N01xMEJ6c2hCS2Y2RHFnQUF3UU42c2k5c05CRjROYmZSVGo4c0lydy1LZ2JJS1hRTHhFVy1LVWVZdEhXdXMwMUdYN1VwMW9jN2NTQTYxaEdwbzhTa1lTRTJ6WUJZdFhlaWVSSDVudmVWX0FDbHdXYzg1ZjU5WFotdGRHSHNwYnY0d3UxLUwwSXJJSG4xNHFn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T06:33:00+00:00",
-      "summary": "Anthropic nears $1.5B joint venture with Blackstone, Goldman Sachs to rival OpenAI  The News International",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Shinsegae Ends OpenAI Talks, Backs Reflection AI - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFVtbWE5N0FLTHQ2SlZDREpEZGhlbFZBcW82ZVJ0YnhLR3BnbVc4dFJSUEJ4VFdhdHFRTUJ1OHQzTjF5aG9KMVhmWGdPbFUtekFELTNrZGRsNUdIUnpJOThJODFrSGRkbjRrWTBXT1RyNkhGYmxnNldtZ19uU25aM25pYUVXZ19GTUFlZmpJVVlaeEk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T05:52:03+00:00",
-      "summary": "Shinsegae Ends OpenAI Talks, Backs Reflection AI  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Shinsegae chief disgraced by scrapped OpenAI partnership, delayed merger of affiliates - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbjFCYUFZSklkTm1pNzlMLVhadFBmNW5xZ0lQYS1RNTB5bThPVFBEUFBGX0NTMGJuSl9LT1F5ZWJMSU9KTDNLUHRhTDVwMEc0bW9FcEhsWlQwcTRQcGRtQ1d2WUxrREtmcjFMS0pBQ2pzUkIwbWg0WEd3OUswRXg4SkpRaGRobldfSC0zM1ZTZk9falFUbGNZRG5WcW9uRWppZHM2aVNENWp1azN0dF9obkNmcElmT2pMbXg1LWcxRk9taUR6MUNPaGNqQ3B2N2dzS0RTS3NZUDBRUdIB3wFBVV95cUxOMXNJTjFlcFRzelprLTFjZkREVUpNa3NYX1hILW9jOXhLS1pCT1EzYW9KZmNuS2hQcmpid1JIYTJtVUtmdWgwRG1fN3A3OGRQSGlsNnlQMi1ud1diNF84MjI1ZW1KeWNIUUlUSllud2hQSE5oSnU1Nm1iYmM2Nm5PZ0hkNlNVcVhtc2VVZEF3QTJOSlVIUHdSTGRGTmRzTXdITEozVFpmRzhaZ1BsbDVXbEt3YUQzTDFVTTVGSFhFc1QzR2psQUhUMG1lWGtHVTlJTU1QSWl6NXJtZFBkUG5j?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T05:32:03+00:00",
-      "summary": "Shinsegae chief disgraced by scrapped OpenAI partnership, delayed merger of affiliates  The Korea Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk vs OpenAI trial enters second week - Northeast Mississippi Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmxIaVNvTEVTSWxMYXZhQnVfTEE4bnBlMnN3c2U4VWNGSC1oOWpyZXpVZU9LSXRlc2E5RkQ4bVdhRnFjWDJJVnNMRy1fcUNFajNGbXVGMzNxMmNMN29YMTJVRXdrY1h6S2RDNlRiSHpiTnUyZU92MV9hOVo4d3NzMXM5bk5lUzZBV1JTWHc4WFBlLUI5ZTRpaDFKM3drb2UtanJibnE1RGxqZm9MMkU4cmZlaTNYaHBDUlNJcTZ0UE1Ec1dWYlJ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T05:24:06+00:00",
-      "summary": "Musk vs OpenAI trial enters second week  Northeast Mississippi Daily Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk vs OpenAI trial enters second week - Community Newspaper Group",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZi1ZaDdmb1ZNcE9xV2FCSC1kZkpCc1pNM1hzZmNva0VkWHRJVkNaMGpLNjdSQlpIb1JKeHdFQXdDWGxIWDdGcWpYMkdDUkZEUVMzZlI3SDY3UlBaZ2Jka0FncDNpTnd5VTkxeUlLX3I2R3pqcC1fNlphVHRPQmp1SEh0R2tHYzZTOGNkVU5aZTdkVUxuT0VUSWVGQUZnTGN5QjVCQllkWjc0bUJhNEdCWnAxZGxLZENBR1pwSmlrM1ctVDMyWGNnUHhCczNwemdiQTZUMVpYMEk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T05:24:06+00:00",
-      "summary": "Musk vs OpenAI trial enters second week  Community Newspaper Group",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk vs OpenAI trial enters second week - Bryan Times",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUnlGV2Rzam85c2JBWWdFLWFFbTVZNDhnd2hsZHlOV2dYMktrTHlyektzSDJ2Qzk4ZXVITm1KZ2U1bExFN0ZxcWZWc3JaYmJaZndLY0VabmJrSlJiMkV0aFBfcWZ2N0RUYnV6cm9rOFVXOTByTFdid1RZVUNqbWFUb09VLWx1dE9nZWFiY0hqaUhzaVRhQjRmVHV2ZHQxM2VDS3pCZ19IZGFnVFJXal85RFE3dzgxMTJUMFVGT2ln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T05:24:06+00:00",
-      "summary": "Musk vs OpenAI trial enters second week  Bryan Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk vs OpenAI trial enters second week - Caledonian Record",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzVxODVJUjhnaG1EcEw2cklrTVJaajFOVS15VWl4bUF0X3Z2M21neV9lZUJneEhTS3ozRThWQjExdEltazBfLU1JZ2VkdW9waG9KS2FsZ3FOTVM4bEdSc01BMmpURjZvY09mTkRqczR1WWhJTFRSUDFyaEpNejRiTWt1MlUzTFhYQ1ZkUHdPOFo3ZWFSbXZhbTJ4b2F4TVNWY193SUNYU3VhNUN3Q0pRdmxiLUw4QnQ1Q21SdGR5QmplWFBVM3VVVHE3cHNCT1k5OVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-04T05:24:06+00:00",
-      "summary": "Musk vs OpenAI trial enters second week  Caledonian Record",
+      "publishedAt": "2026-05-04T09:14:57+00:00",
+      "summary": "OpenAI’s talk show signals the rise of corporate media  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
