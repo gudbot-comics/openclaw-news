@@ -1,10 +1,118 @@
 {
-  "generatedAt": "2026-05-05T08:25:02.306461+00:00",
+  "generatedAt": "2026-05-05T10:16:44.758875+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Anthropic and OpenAI Launch Rival Enterprise AI Joint Ventures Backed by Wall Street - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOci1nblZnS1d4MlJqVHdOWjRib2UzRHJjbGtfQXJ3VFJsZy0zZm5lb0liLXNPSmZ0a2hGNkp2Nl9BdlltYkpaZ0dMNkpzMHlQaTRNSHRXREtkZ0NzRkRGWGNfM0pNYmdiN1hsX1RYakFBQm8wbk1xc3FZLWYtX0FRN1BJMXZqN3poY0Y3ekpoT2FIWWwtXy1BUHhKY0g1MTFCek0xUDRuaHYwNF9CTkNnNE4yV29PTnlCTHZYZnU3dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T10:08:00+00:00",
+      "summary": "Anthropic and OpenAI Launch Rival Enterprise AI Joint Ventures Backed by Wall Street  AI Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXpmTmxYa1dmQkw4aUFTN09mUk9YZG54emZQbjA5YUwwQ0dYSjNwUkVLbU9QUEJtbEo0RDAza3Bmc19vaG5hSlJFLVJteE93V2lOdkNfVjdFb2pzZ3JTbEdJemlfb0hSYlBSLTRNWFV6UlFqYmplcEY5M1JYNUk2VENuN0JTWVRLVDRDeTNYY0YwSnZmZ3BURVUwelNyV1I3czNjV0lfMkFRdmxYMF91UmNFU0JCdm8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T09:58:36+00:00",
+      "summary": "White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman says he used an OpenClaw agent to fix an 'unpleasant' daily task - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yWmNEanYta1RnM0ttSW5sQnI4eEl1RXpONTM5aFpUS1lUZTVVbW00ZlYzZUVzb1dtNGl1WktPWXVrUXd0Zy1ya0lKMDBZZGNhbWc3SnFPSUs4bkdEM05iRzFCaWVQbTlZelpCdG9ReF9VSnN0X0pMZGJHcEh4Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T09:17:32+00:00",
+      "summary": "Sam Altman says he used an OpenClaw agent to fix an 'unpleasant' daily task  AOL.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Ex-OpenAI counsel raises $9M from YC and 20VC in four days for AI law firm Moritz - Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeS1OREVNamJEWWxWQUxDR0NGaVNkd2duV1ZNZmFrZXpTaE5saXdjR0ZiWll3TE1iYk1ISkZ6MkpqSjhWdlBaMkl0SDBKQzR5cFBBZTBSXzJrUGowMmNCYUxlMV81bUtXbTdSMVJTaHNsdC0ySHdZSTB6Qnpnc2hmUUlzWFhOZk9UNVpCWl9XVjZ4WnM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T09:02:10+00:00",
+      "summary": "Ex-OpenAI counsel raises $9M from YC and 20VC in four days for AI law firm Moritz  Tech Funding News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman Uses OpenClaw Agent to Automate Messages - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGNNeEhPYlZjNHpscENfTTdkZnpwUDVndlNrNm1CSUVPaFpfeEl2ejlwSnpCaXYtY0NGdkdwcVVwSnFoZ0lha1ZBR0JCVlpBdzZWWjByWFh5XzFaOGMwNHo0ODdQMzJHYVJudG9xRjVqWmVmczBTT19rNktQdzVRQUFma0ItTVdvOEhMbGswRkpCbGgyOUFqeA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T08:57:56+00:00",
+      "summary": "Sam Altman Uses OpenClaw Agent to Automate Messages  Let's Data Science",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI launches $10bn AI deployment venture with PE partners - Private Equity Wire",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS0ZwSDFHYnlDV2xZWHgxSnhtTjl1QTc3bE04eXRlZWJTTUpZSTdSaUNxcVJVcU1HSXFCYVpEaVNrN1lpZ1pvRnp5azJuUmpiLS1IeWpTUXlQVlQzTXpsVTF2VkFSMG1YZllWakNVN3VsZ3FZazdjMjJLR0pDOHVhVUdyaDZubXZncnk1c25JVUYybnNVdnZYWUxUbGM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T08:53:16+00:00",
+      "summary": "OpenAI launches $10bn AI deployment venture with PE partners  Private Equity Wire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Missed Multiple Revenue Targets—Here’s Why It Likely Won’t IPO This Year - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFMzckUwMFc5V0hDaldadmR1aGI3UEpLMS1pUFpSUVc5M2txU0ZWQUtIQ2U2cTNjSDlDdEtIdkE0bnVGRUVKWWpnc011cWNtdldxanJPazdDN29LcXV3X0h0NEdRSHQtcnl4VF9nNFhEX3ZJVGwtbnZGYUxNbnppd2RHclViV2xsSl83eE5uRVVHR3pPNGdQd3V0TDl3YkltMUNTUk0yV2JXSHVzYzh4TVViOXd6dDJTY0RTag?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T08:48:45+00:00",
+      "summary": "OpenAI Missed Multiple Revenue Targets—Here’s Why It Likely Won’t IPO This Year  Morningstar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "American billionaire Mark Cuban has a ‘message’ for OpenAI CEO Sam Altman: You are wasting a lot of … - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdW9LOTljbkNkdjNEeEZROENnYWhnNWNyNkhsNFZzdEpld083SUFYZ3FGRzdjZkRTTklxUk9tSHJ1VVFlU3hiSkk2NFlYenNybmlWZWhkc3VXcjdiYnZYblFvejJ3RTBzalZKZXJsQXV6LWxReXRqRXRwZHAzOElNZUFOSm92alBoaVJzTUJqY0MydnhSeXFNRHBESFkwS3RrekQ3ZmZWdkJUZ3dlc1BtYUVBSHNnUktxcVZCdjFTOXBzNHBxN1h6ZzhYZ2JaWE5GcnptcEtoYkdZT29IMVAxSlFfNVp5elg2dUdESjVyTDlPU29ndi1ZYXctSWFPQnQzQVNyRVRWOXQxZmxP0gGSAkFVX3lxTE5tM1hhbU1ZTExIdVVVcVFDaTZseWFDWHRoLXYwMHdUc0VHQmtmZ1R1NTFtZkdlVU9LTkdrTzlQUThBbGFtQ25yeENiME41Mlc3eWNISU5Pako2S0NRZFRDWlo4SEJOeDV3ZU9IVU5rbEk5MDdobjVIakp2dU9DREhySmhoeUltd1N6RWY4d0NiU3dGS3hZYXBKeVI3ZTVsMHIwVjNtSy1adGdSMVVIV2lpc3pWQUl4SHdzb0ZPQktJX25aQV9vb1p6SkpPM1owUC1vY3dBdlRIMkVKNDdhbHg5NDdCdTYxTk9ZMG81S2NrdjhkYmF3a2NkTE1SUC1UTE4xUUNJYVJuakZkbU5maThYbWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T08:45:00+00:00",
+      "summary": "American billionaire Mark Cuban has a ‘message’ for OpenAI CEO Sam Altman: You are wasting a lot of …  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman says he used an OpenClaw agent to fix an 'unpleasant' daily task - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUVkZkNBUDc3RExybXdHU2tjVHpPX2QyRzF2cXFhMlpRXzlJYkJPNlY2bVZ2RHRWOHpsakItRDRCV3Bmc3B5Z2dNU1VTNjV0NVNYVHd1Z3hyQy0xSHZXbDl5OEJUa2xKdURXNG5kS0pyT25ZaThiS0kzd1dQcW5MYnlzVnA3Vk8xa190QUt5MjF5UlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T08:42:01+00:00",
+      "summary": "Sam Altman says he used an OpenClaw agent to fix an 'unpleasant' daily task  Business Insider",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "ZAWYA: AWS and OpenAI announce expanded partnership to bring frontier intelligence to the infrastructure you already trust - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWng0a2RCVG5od0JtMnF6TkE1N0M0b1MzV2M3U2xIVUxDbS1JUDV3WWlmcmo5TDg2SWZZTlJOTVJVR3dqcEhjZDJmbU8yTDBWR3Z5MzVsbW94Ul9tLTFXZG1HbjJramtBU0RwR04yZW5OaXhxRm16Qy1QOGhnSS1NRTMtUTdBTFphSk1HX2VXYmo5SWE2TERyb1pOSnVKTElrTnNoY2FqamFfZDRPeW1fb2lJbkU0cURPdEtxTnpNY1NmZWNCZFFIZlQ0WEZHUFg3REM1MnZ6Vkc5a19mcWsySXBIRi1xbDlEdkFpbWR3N3N3ck9OaUFIY3lONVZTV2c5U2hmRWVEUi1oT1ItM3pFQTVBT0RoNnJxTWMtTjRkMU5vUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T08:41:10+00:00",
+      "summary": "ZAWYA: AWS and OpenAI announce expanded partnership to bring frontier intelligence to the infrastructure you already trust  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw Alternatives: Hermes vs ZeroClaw vs PicoClaw - AIMultiple",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BbjV5SXJYQ09YOF9WZF9tWGkzSEVjMVUxZVM2WUdna0E0aldsTzdYVGxid2hRS2hvbWFQM2s2UmNPcTNMTEpUbTNuXzZHdFZHSHRBMWNHNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T08:30:47+00:00",
+      "summary": "OpenClaw Alternatives: Hermes vs ZeroClaw vs PicoClaw  AIMultiple",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI lawsuit: Musk accused of jealousy, massive stake revealed - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWm95ZmZKTVVBdHhqemcySm1GV1ExTnFOYzRLN09hdWtJSDhkcnlhengtNER4dDFReW12Mm1YWjh2Z2NNRnlfR2FOUUFMa1lzZjc4VTd1YS1URlVDY29WcVNrcEVUZjhTWUxFX24tUjVHS0Q5dkhmNHFITVlfT3RrUUJfNTZpWS00Vzd1OVB1aWlvdk1ydXRFaktIUkxwcFA4VjEzT3ZubzlRQWZDT1JORmplcFAxdktrclE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-05T08:12:25+00:00",
+      "summary": "OpenAI lawsuit: Musk accused of jealousy, massive stake revealed  Techzine Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Sam Altman faces crisis of trust as OpenAI's mission goes on trial - Türkiye Today",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzVuTGZYaXdZQjF6NzhUSG9kZFVta0w5MGdDVEVzWm1Ha0RGU1lzMi1pZUZYQUN3OVhiZmlwcktSa1FzM1ljZ2wzSGRTTDljaXZvdmxxX181TzRhSWRYWW5OV01TNkplQnJEZVRaU09GVi1LbGZrcHZmcVFIUGN2VHdCam1DSi1fSUEzczY1bFNLcy10WVRsemp3NlhoWVRLYURWbWFNUnJtVVBLN25lSA?oc=5",
@@ -42,29 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Is Building a Smartphone — But here's the issue... - Gizchina.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGJrVjZKUUJSVnVjYlZRMnpjeWxvN3RNNGZPTjBNS2NZeVU1b0w4Skc5MWJ5d1ludi1aaHZSanF5TTd1ZkNWZG94WjFIS1U4X0NkOERCSnM1RkFZSl94TFVKUkNnNU1nemEzdFJicTQtandDc3huSzJZaXRSUVdfYkRsY3oxUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T05:57:27+00:00",
-      "summary": "OpenAI Is Building a Smartphone — But here's the issue...  Gizchina.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "The Musk vs. OpenAI trial is underway — here's where things stand - MSN",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRlZJaTZMeUpUNXZmUTUtdGhsM05Scy0tM1Ftd0VTaGx6ZlBBOFdCMURwVjBXM09RUTNLSFRnVVZ4WWRmWHVxSDBYMFYtUUtsVXJDQUgzOVg3S1BVdmJ0cGRWOWlkT3lYaDdKTk1fNEt4cjNxVy14YzFqY2hvNjRZZEVMOHN2SnI5Wkl5cDRVLUNfb1JTbGx0Z18tdEUwR19NczNkRWsweWZwNm9pVzR4dlBvZlg5ZDFtT1RNcjA1N0U1SFl3LU1USDA5Rk0wbkNIY3BoODdmSFU4Q1VhS2V1WThERVNsWkpKNTNPYUVCdWRQZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-05T05:52:14+00:00",
       "summary": "The Musk vs. OpenAI trial is underway — here's where things stand  MSN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "“Were we honest?”: Brockman’s journal becomes key evidence in Musk vs OpenAI trial - Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRTBtX3Uwa050SXJ6Z0ZVam04WURmOUFPanpaaUFnTnUwVkJkMEplTHdYRFZ3TC16bmlnNVB4bVpubHcwUEhhcGU0aDcxUzdWYW9iUDJsY1p5VTB2SEpTWnlnLTJGN0pJUjhGVm5WR3U2WWhhRlFzZzNIblJVN1N1alhKY3Z3bEc0S29QaVBMQzNwcEVDd1lNSEh5UVV5dVJPeHRRSTRzZVlKMGF3VGt6UXlVMk14THFTTnpRNjdvZXBJZl9kQ0daTk1wbmtOZ9IBzgFBVV95cUxQRTBtX3Uwa050SXJ6Z0ZVam04WURmOUFPanpaaUFnTnUwVkJkMEplTHdYRFZ3TC16bmlnNVB4bVpubHcwUEhhcGU0aDcxUzdWYW9iUDJsY1p5VTB2SEpTWnlnLTJGN0pJUjhGVm5WR3U2WWhhRlFzZzNIblJVN1N1alhKY3Z3bEc0S29QaVBMQzNwcEVDd1lNSEh5UVV5dVJPeHRRSTRzZVlKMGF3VGt6UXlVMk14THFTTnpRNjdvZXBJZl9kQ0daTk1wbmtOZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T05:44:59+00:00",
-      "summary": "“Were we honest?”: Brockman’s journal becomes key evidence in Musk vs OpenAI trial  Storyboard18",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -130,96 +220,6 @@
       "summary": "OpenAI co-founder discloses $30 billion stake, financial links to Sam Altman emerge in trial  Storyboard18",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic race to lock in enterprise AI deals with Wall Street capital - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLV94dVhUb0tnOWtwNTc5VVN3TXNFY3hBbjdPbmRQY1FaSHplcDEzaDdTWm5VZ0pOczhUQzl2OEZPeFhpZkcyMWtHQWdzNWE2TlFqamlZMUFwRmY5QmZEZDc4LUFNeEthWVdzblltRjlzc05SeU1NLWZzaXJvSlJybnJR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T04:20:58+00:00",
-      "summary": "OpenAI, Anthropic race to lock in enterprise AI deals with Wall Street capital  digitimes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic, OpenAI Team with Private Equity to Rev Up AI Adoption - The Daily Upside",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEMyblF1eXpIMlpuQTV0SXlRenIwTXpfaHRLTXBwNC1zQnFNY3BnZU5VM2psWDhRVmNGRWcxUUM1b2VDYmdOTU5mNURCbVRJeU9Sc3o1Y2s4ZGk0bnl0c3NRLW9seWVydXVMRFJ1ZVRFbUlEVUhUblNfSnc2UHYyNVhqSEpVM0R4dFdpTGRyTnVPZjh1Z2IzNHhuY1lscUpmbm5uNUpJek9rNmZOMWJMbDdzV3o5eEtLQU1zdXFCZzc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T04:06:49+00:00",
-      "summary": "Anthropic, OpenAI Team with Private Equity to Rev Up AI Adoption  The Daily Upside",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic and OpenAI move into enterprise AI with parallel joint venture plans - Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXlZTF9FWFh4M2RoY3MtX0RZcDhzaWNERjctWG9PbmZPbGo3cG84b05xRVFxZ1FKSml1SDRTc2NVUlpTamhrM1FfQzJOTEJLLWprNExJQ2V2azZOaVVKUUhTbGhxM1A4X09ycjFrSHBqZkUxQjlON3lVN2k1ZHRldF9yQnlWam9nZjNtWG1WZWtleExTQk93WXFBU0lfYVhPU2xfUlNHalJPN3dCMDNNbWI4MXZiWFV3RnkxYnRFU0RmNlRnQnF1d2hn0gHPAUFVX3lxTE1DQnNROFQtZENoRWlQTWlVbS1sSlNuZm03REZkMXlnLXN4eUVUMUhzaS1ERUpMYlR2dmR4Q1RnaERDUUgxVVdIekFjazRIMjZrZ1VBbFJSYU5iYTYzYWFGalBrUkxaU0dlcmktTVN2Zzc0SUFSV0pGZ2hyRHhVTXJWM3BCSWtERTZWYktZclhIR1RsdGFCeE1adzkyZUQ3VW03c0U1bUl0MVhpODFDeU9mQjQ2RVdPREF1QUNqSlRIR09zOFVpcE9FTWtZamFfUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T04:06:48+00:00",
-      "summary": "Anthropic and OpenAI move into enterprise AI with parallel joint venture plans  Storyboard18",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Co-founder Testifies Over $30 Billion Stake - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1ZBVDdIa1dxWTZLU3o5UkN0Z256NXV3QjVzblVwbFFXS19jdWxsN0VybHNsWVd4MERHVWlpWDVzMmx3NHJ1TlNWWTdZeXRxeG0xM2J2bGQyZnBwVDZTaHFMWEdBTWdpMnoxNmNBb0VrdnBkNXFxTWRTM1lzTldJSXJDeE5Od0ZCZWNVbzFFdW5sUkI4aVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T04:03:38+00:00",
-      "summary": "OpenAI Co-founder Testifies Over $30 Billion Stake  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Test Agentic AI Finance Tools In-House With PwC’s Help - news.bloombergtax.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXViVnNJSE5wbmNtYUx3ZWdPUUplRGNEM1JLOVM1MkJsTk9tTFdtVzZJVkQyV2pFbkVxZnVGQ2xXbWxIa2duQ0NJclVXUk94RnA4WFBYeXFicXZERFRNWVhMRjNFMW5wM3dCVlhnWGNITFcxX3pXM2t2RThMY1M5Q0pqVC13Y1VydFZ4M1ZybUszbFZaZWFlRUFoM0J6cWtHaW9KYnU3ZlZSbnhNVGlz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T04:01:00+00:00",
-      "summary": "OpenAI to Test Agentic AI Finance Tools In-House With PwC’s Help  news.bloombergtax.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "PwC and OpenAI Build a First-of-Its-Kind OpenAI Native Finance Function - Carroll County Mirror-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2NtRkdYRXFSMFpsS3ZWekZpMkRodHhFWlZoMDNNVFlwWVY2dFhfVzY2a0RSbVlrWEpERXpPcU9RdWlBeDJsTDJ2WnN6UE1CNmVFV1dfUEp4S0FnWkpRZ3pTSThFWVpVY0p2d0xiZENvNG9vaVI0VGNFSkhUOVphUmVxTk9GMmJWZnhFcnJyUzhRZ19TUm1COUp3dHdpWTZNZGxJak9qb2hTUXZUY3VCR2RLSlFkVms?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T04:00:00+00:00",
-      "summary": "PwC and OpenAI Build a First-of-Its-Kind OpenAI Native Finance Function  Carroll County Mirror-Democrat",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI explored robotics and hardware spinoff in race to IPO- WSJ - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZHdkeFFEYm9jNE9UUGh0dy1KV1FBMy13M2ZwOEpQS3FyYWdqNjdval9XQ096bWZSd3Y1bGkzbFZJTENvMEl5MDNPQWNzTUhDVG9ZQmJpOG4wZjhzLURackpPNjdQczVvRUJrOVRTejZkRy1ZWkp4Qkdrb0dpREZ1U0RMMHcwMzV3ZnVMQkdlSnFBdUtydGJpQmJKdm10aWp2U1NqS0sxR0Z1MldWdFdDWUZCUzBJQkhQVU5ocEdxeHBPalV1?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T03:08:40+00:00",
-      "summary": "OpenAI explored robotics and hardware spinoff in race to IPO- WSJ  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk’s lawyer pushes OpenAI’s Brockman to give back $29 billion - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSURrUkttZnBYWm9PbnY5dlZxZ0E1ODJPNmtLQ3NhM3ZBcTBNWlUxZnI5LWk1UEszX09vWTZicGc4cm9Bc2M3U0phYlFiaVVTbHRwQUdlaGNLanFEOVJIZ1c2bTk3cklNb0J6S3NVaHZuSl8ybHJRcHg1Qk5YZHRiY2JkUTJaVU55c1JFWG5LSFVQeW1vVVRwbEpfQXFkWjVrdjZhTy13bTBzVHA3bnU1ZmNuR19MZlB4QTJxSWUwOFQweUwzeWoxV0ZGOTRnSk9tV0d5RzlrbUVldw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T03:03:01+00:00",
-      "summary": "Musk’s lawyer pushes OpenAI’s Brockman to give back $29 billion  MSN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Brockman Discloses $30B OpenAI Stake, Altman Ties Surface - Gotrade",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnM5QkllUWhlb1VVNnpfTF90MGFlcHY1NmhhRWpHMzd1ZGNrOEVyRWdlZldvZmdzaUgxOVh5dWtmTG8tUU5PS3dvMVFfYUZzOG1tRlFtV2dUVGtDREpmZW1DemZqV21valRuS2U2V1psbTAwNkFndXhBMzdBRGVXR2NGUDVmWkJ5UkFkRE9B?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T02:47:27+00:00",
-      "summary": "Brockman Discloses $30B OpenAI Stake, Altman Ties Surface  Gotrade",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Alternatives: Hermes vs ZeroClaw vs PicoClaw - AIMultiple",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BbjV5SXJYQ09YOF9WZF9tWGkzSEVjMVUxZVM2WUdna0E0aldsTzdYVGxid2hRS2hvbWFQM2s2UmNPcTNMTEpUbTNuXzZHdFZHSHRBMWNHNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-05T02:41:10+00:00",
-      "summary": "OpenClaw Alternatives: Hermes vs ZeroClaw vs PicoClaw  AIMultiple",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
