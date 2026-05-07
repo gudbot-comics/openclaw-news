@@ -1,25 +1,97 @@
 {
-  "generatedAt": "2026-05-07T13:14:15.018097+00:00",
+  "generatedAt": "2026-05-07T15:38:43.970241+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "'Expand thoughtfully': OpenAI offers ChatGPT ads to new markets including the U.K., Brazil and Japan - Digiday",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcEp4Q2VhR2stQkZNSV94T0JlcmZjZE81YlA5ODBEY21hMWN3V0RRMEtsS0pNYU15RzByTlFxNl9WdDFLTHNmZEZ4cy1aZzQxaFAwTV9nRzdsVE1vWDJBTWw0eW1nMG9hZklfQWM1UGZWLUVqQzlTVEVReFNPS1M3d1FFSkpTWFRtMDl0eWgtMjhQRnhyQjByU3gtaFJNWUxuZktzZWhQVTl2cmw3X19Qa1JjU1RjY0xaeHAyaEdUT1dmQU5pbDlCaQ?oc=5",
+      "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUZsc2ptUGh0SFZyeHlnSklVSU44TGU4SENWeG83U3B0T2JnemxrenVZOVhPcnltVUtxdlVmWXR0YzZFZUlMaXgxaEgyOEloSnU3NDJZLXlvNzJQNGxaa0x3X0dOWjNDU25GLWlvakhIb2M5SXM2bjI1SnUxUE9LTEdvSGw3bkpfZk1VOXZyVGJPdG1pUktfWnZxQ1J4NWJzXzllY3FSb2pPb0Y2a0hSX0FLQmdPWWlHa1Rj?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-07T13:03:53+00:00",
-      "summary": "'Expand thoughtfully': OpenAI offers ChatGPT ads to new markets including the U.K., Brazil and Japan  Digiday",
+      "publishedAt": "2026-05-07T15:29:56+00:00",
+      "summary": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders  Pittsburgh Post-Gazette",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "How Elon Musk’s Team is Struggling to Prove His Case in Court - The Information",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYjFCbE1MSFEyX2c0NHlzcGh5V1FfaE5wRWdFdExGX0xNNXJ2ZTQzQlZPUWFxU3YxSjdKZHpobmNpY3VBTjZXTjBvelhpMjJjVG9uWHQ0clpDdmswbzItMXZ3WUlZM1dJUzd0QjVTOTM2dWxGSWVwR2dCSGFzcFl3RHdIZlNWRGxkc0hF?oc=5",
+      "title": "I tested the new OpenAI Codex features on a real Python codebase, and it's the strongest Claude Code rival yet - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NNG4zeko1c0VQaTJvY1ZwYWN6RmFYbENOcGRRc3VvajBQQWZRRHBxR05WTkFVeEFXLURoUUhvTTl5c0NMazhuOGE2SEZNV2pqejVqdTBONHpXMlVL?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-07T13:01:00+00:00",
-      "summary": "How Elon Musk’s Team is Struggling to Prove His Case in Court  The Information",
+      "publishedAt": "2026-05-07T15:28:24+00:00",
+      "summary": "I tested the new OpenAI Codex features on a real Python codebase, and it's the strongest Claude Code rival yet  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "'Still don't want me?' — trial reveals Sam Altman's frantic texts after 2023 OpenAI ouster - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLUNIaEhBYWlFcUtGRlZJQVJ6NGRqX05FQko2ZlZwNkpubE1tQ1F2aWIyQ1pBckUtN1FOR0UwU00wQXEyR0swV0hLbkhUMHdFMXBWQ3JWMDdiME5MdEc0eWs4MEVveU5VeEN5bnZ5T2kxREM4MnBnRjBtNk8yWGZjclAtZGxjOE1GbFZ1UTg0dmVYYTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T15:22:20+00:00",
+      "summary": "'Still don't want me?' — trial reveals Sam Altman's frantic texts after 2023 OpenAI ouster  businessinsider.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI trial: Mother of Musk's children says he offered Altman a Tesla board seat - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWpzNllkRkJqMHI0WUNCTmVES1FrZUlZMVhjbXRuM0Njd0lxVUIwRDNZakc5cThDUUJMZTJ4Ykx3MjU2VFF1YUxNTnd4YlIzY0xtbEs0V04yX3B4YjNEMS1ieExuTzJuaUMwZUwtQU9FOURfQzN5ZTZVX1hmYlRjRzM2Rm5tc1NJUTduX044RGbSAZYBQVVfeXFMT19MeG8xU1RNcl9NTVJqZlh6TUJSMnVQOURXV2JUa1ByaXVKSlBJSUVDYkhGT2JGTjVtWlBDak9YSmNzNUVyQXVWYnJKTktLVnRKSmFtQzhzM1dJYjhaTm1HSVVnOWh4ajZKT3k0YzRTeTZCS2NSc28tMzNXa1RMREg1UThGRXc1Qk9xazNwYXNpRVphWEdn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T15:18:28+00:00",
+      "summary": "OpenAI trial: Mother of Musk's children says he offered Altman a Tesla board seat  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows - infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjSTYtRHQ4cTloTWVJaEoyWG1XZGI3NDBRSnZ1OWxTbG5OcHRPWXdDN1djQk00X0xob1MwdjZQTlNNckxCZzJxejQ5N1h2czdMVGVxYTZ6cnExMFZTTjlFTndUWnhyckdBMzhNTEswMVFONjgy?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T14:49:21+00:00",
+      "summary": "OpenAI Introduces Websocket-Based Execution Mode to Reduce Latency in Agentic Workflows  infoq.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw and Claude Save AI Podcasts to Spotify - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzBrLTBtTndWR0ZDSEVtdDFITHNNdngxYmZzWjIwTTFXMVItUXFiVm9od2RRZjBMdlhwa0FvWDJxX1JiNnNJWFE5MEo0RGlqako5aDRibVJ1aXBKeHI4QXhUU2xZdmhxNEliajhoNUdyTmZ2MEN0QTVoZG53NW8xSUhUNDB0TV80YU95ZnByeU1SVTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T14:19:58+00:00",
+      "summary": "OpenClaw and Claude Save AI Podcasts to Spotify  Let's Data Science",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1QzFyYVdvTG40TW9xLUpXLWFxdEJ2eXFScDlBOGJuOFN6TS16bXN6NkJVMTR6Uk02LVF2aUM5R0pJaHlzR0tLY2xCSFZEaU5faGdWaDA3LWxSbjN0X0RUN1kyRnFZUV8ybWstcER1OVBzYVNBMGV0cEZhTGxzZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T14:15:40+00:00",
+      "summary": "OpenClaw and Claude can put your AI-generated podcasts in Spotify  The Verge",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Spotify Now Welcomes AI-Generated Podcasts Created With AI Agents - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTFFOUJkcDRwc1l3RzlnRUhnWG55dGZ5VGNwYURMNC1ycGVFTlFORXRlVHByNkJRSXA0Z01PZVVUazFESk10WVNfT2lDWHMzdEZTWFpJMFMzQ2d1MVRqejdybGhYRFJYdU8yejlMZUdEeEZBTHhpM0NXeVV4bnpYZTVDUHVDYTFpR0wyYmV0VGZuSzdpUVdCeTBUUHFLNFgxTlFn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T14:12:51+00:00",
+      "summary": "Spotify Now Welcomes AI-Generated Podcasts Created With AI Agents  Thurrott.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI is replacing ChatGPT's default model with a smarter, less error-prone version - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JZm5ja3FFNWEzUTYzWUMtZXlQOURPUjFSQkFzZkI5ZUR3SkdmZEZHa1ZOWEVVY3QwWDBlS3hoVmhIV1ZRYngxbGg1dlpBSmtNUEhSSk9KTmYteHFIS2pXUEFTbEVoUUgtc2ZXOWxuYjNmanp1?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T14:10:15+00:00",
+      "summary": "OpenAI is replacing ChatGPT's default model with a smarter, less error-prone version  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Anthropic LLMs Used in Critical Infrastructure Cyber-Attack, Warns Dragos - Infosecurity Magazine",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lMWhPbm51X3ZSemNCalZLV0FMclRrdEx6c0h1MHZ6SWZ6VzYydUVULWgyWWpYSk1RVnFOb3hmNnFlSTFqd2F5Zl83aW8xSHIydGZiaFFtaTVieVdkSjFuNldMc1FPYklFWGRzRFlNS1c0MmNVVjMwVzVOTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T14:00:00+00:00",
+      "summary": "OpenAI and Anthropic LLMs Used in Critical Infrastructure Cyber-Attack, Warns Dragos  Infosecurity Magazine",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,6 +177,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "'They don’t care if everyone quits': Chats show chaos inside OpenAI during Sam Altman ouster - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZWxHczl6S3ZGZGR3enlDVlhfU0ZNRnk4WnV2ZW9CN0RjMTZXRWRXY0hpMXNMdXRNMGtaX3pWUkhVc19QZ3M3OVNIb3g2NGU2d0l1eWdheHd5eFZBSzdoSU1INzNaOFhVQlFNVF8zbEdiSVMzNFc1RFctWWFEVHBKUHRxT1V5NGNYN1lLN2YtRGptZDMzVjdXSlVoMW80a1Y1eXdjM0hLS0hpWG5XY3V3R0R6ZWVhWWlQSkpSX0cxdGFkVGpyLTBpRjYwN19DeEJ3WG83U2VBaEtQby0zZ1pMeDNyZ3k1aWxtd3dmYkRZMNIB9AFBVV95cUxNaEtwUmQ4c2hGMnZyQzFrYkRLUlAyZTkzc2ozRC1oV05SczJSbVByeXZjaG8wdlhkWW9hekp0UjV1cVFkczY3VjdqMW12U0tpb2d1QXZDbEtVSzFoaWtoR2o5UXZoRzY1N2RicUZZcHFKQjdSN2czSlk5bEhHSElzVGJ2ckZDMXhUZ1ZWVjdmUXBYNEV3djBlT1dweDkzbTZ6NHZtZlNFcy1HcU5XRlJJVkFBcVdYZV9wbGdGczhSYmdXZ3VKVC1uVzdGZE1SNXVlX0NPQjBvVjZDcGEtM2pHdHg5QXFmMUIyYlBpNm1SWTluMzZL?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T10:45:12+00:00",
+      "summary": "'They don’t care if everyone quits': Chats show chaos inside OpenAI during Sam Altman ouster  The Economic Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Big Tech Suddenly Wants to Build Its Own OpenClaw - Analytics India Magazine",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlHaHBsd0ZuWFlESVYxSDdYdy1WbjVCSzlZblg3VFA3V3lWWk9ZVllzQlEzVmV3RzctRG82UUlrTmdzS0hwU3RfVU5EbDdzcmVRTm10RFU5bFZmLXY0dVl6cEUwalBHSDlVcnE0d3BYaEM5TEhHbWVCVl9mY3VyTWNUa3hXcVJzYjR3T3Y2dDNIWkFUNnc?oc=5",
       "source": "news.google.com",
@@ -137,87 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-07T10:14:11+00:00",
       "summary": "Shop ’til you bot: Google, OpenAI, and the race to build agentic commerce  Fast Company",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk is in court arguing that OpenAI abandoned its nonprofit model - marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU283UEpEd3dtOVdFY1pBZTlXNm5ySDItR1haSVVETHVDOHZaN2tta0xtSFQ4OHU5ZDQtMjZNSkZtZmRUNEs1dTBSSHZGcmFjOHBUcjd3a2NHc1V5TWQ4THFWYWlXdjgzbzNQQ3M0bGdjS0ZBb0xpUEtiaWkyR3NvWTEzUDhHQzlOM3JYNXdaeXF1VEFBVHVPT1hBTFV4ZUZxYjQtWFRXa2ZCTzk5U0thS25PdWkxRWtmQkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T10:00:52+00:00",
-      "summary": "Elon Musk is in court arguing that OpenAI abandoned its nonprofit model  marketplace.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Business - Musk vs. OpenAI trial: Shivon Zilis testifies Musk wanted Tesla to take over OpenAI - France 24",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOazViel9QSFgzZ2stMUFlWlM2eWEyX0VqNkF4WF83enZBaFpYNzRmb0p6WGZhYUQzbVlaYW5QVlNVVHlOSkNwMDFvUWZzUzNROGxuSElNamRwcW5yWTNtU3VSdEI3dFRXWVNYLTBoN1lCdFo3QXotVENkanlGY2tkLTEtRmhBbndIclR0WmF3UXliMWlKVWJMMDBjV1AyaXAyX19kRFdybVVPWmxkT3BteGdTYzFNSW5sXzJMZWhkQ0VvOWZzbGdoTlNpZlJsUzNLaXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T09:49:00+00:00",
-      "summary": "Business - Musk vs. OpenAI trial: Shivon Zilis testifies Musk wanted Tesla to take over OpenAI  France 24",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders - Austin American-Statesman",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3kwb05laGhUU1N6ak9waDdoMG45VUJ5enBJU090ZWtscktHM3BMbXo0S2RCeEQ3MzNlTHdQQWVoMmFMWFZSeEZoUW1Ga1p3RXk0amYtSVo2OHVUTXYxa0ppVzZiRUNXRXh2ZjE5QkV5eWp4RkdHZEpaRXo4RTdHRXhTblhHN2VxZFhHZ3lwOGN1WGt6ckR2VG1rWk5vWlh4TEhfMg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T09:24:18+00:00",
-      "summary": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders  Austin American-Statesman",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI found non-compliant in Canadian ChatGPT privacy probe - Digital Watch Observatory",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16bmN4Und2QWp5Z2d3V0g3d3pHeEgxRUdUak1lTGhMUXcxd3JtSVVCT3VQcjdWbjJJRHZyT0pFX1JDU09uNVo1azBGOUotVDl4OWdIbjFwLWFwU0laOHBJT2JqeHo0dlNpSnRXcWtn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T09:07:12+00:00",
-      "summary": "OpenAI found non-compliant in Canadian ChatGPT privacy probe  Digital Watch Observatory",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic’s Capacity Pinch Cracks the Door for OpenAI - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVo0OFBqSkdROWhIOFpLN3l0blFwQnZIVXFhRTB3SVB1UjJGczNKOHpmbXgya0tQNG1IM0l3OG1pMVFpd0hGTy11UHQ0RXIxUDBDbXFWSmpGMWItLU42bVRkbzc1ajFhbF80NGJyYk01VUl1c0hPdzg1MUI4a1RFZ2VzaGtzRFFaWWgyY25FYS16VXhQd3RnbkNuMHp2TkpLanE3aWNxbDktZE0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T09:00:18+00:00",
-      "summary": "Anthropic’s Capacity Pinch Cracks the Door for OpenAI  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Emerging technology trends brands and agencies need to know about - Ad Age",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWItMTA0UnQwdjVYZGQyLUpXel8yV1p4bHAwdjN4OGxuTWVwZkRUWlExTkg0d200enY0S0JGWWRaTGJva2NkR1JMeWdPc2h4eUNUZWJ3U2dzNEdxYVR6ZjQzTHEyMlFlYzZtZ2UtSktxSDhyXzJyVUdOUTBscGV2SGlSSWc0Nm5CWXFZeUdmTE5jZ3dSbUlwLXBn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T09:00:00+00:00",
-      "summary": "Emerging technology trends brands and agencies need to know about  Ad Age",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Malicious OpenClaw Skill Exploits DeepSeek AI Workflows - cyberpress.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqTmNrTjQ5N0pHQkhFRkFkSUlDM1hLZHpYNnNMdHJMY00zYTJFNWFkV1l6a0NhS0d6R1FjUC1iRDlfdDAwLWFmYmpHSEVpWlZGNFAzRjU3WENra3NhNVFlOEtiLUxHTDVZR1g4Ng?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T08:45:48+00:00",
-      "summary": "Malicious OpenClaw Skill Exploits DeepSeek AI Workflows  cyberpress.org",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "The 1 Thing Tech Investors Aren't Ready For -- but OpenAI Just Proved - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOekZhZjVjdGN6OGVPY0xvdUs4bXhJZzEwend0eXMyUmdQTDNRaVlNRmNVbTN3S2MxNHJiWlA2MXB6WlNGU2hON2hISm1Tek5hMlpWNXBSTDFhSDZfWEtfWTZ0bmk0S0NEQ1BrM1ZXcG9vWWJodDdCdmRULVBwVW8zRmxmMFgwRmhka0xfVGpEUncyRHZqS1BiZFFmU1ZuV2tMeEZUMlY0Vm1jM2cwNE9xY05aQmhEQ19CT0dBQmtzRElJWGRHSmh6VENhNXpYMmhoWWtVNXFDNlVuWFEtU3p3NjAtSmpQbE0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T08:43:58+00:00",
-      "summary": "The 1 Thing Tech Investors Aren't Ready For -- but OpenAI Just Proved  The Globe and Mail",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The 1 Thing Tech Investors Aren't Ready For -- but OpenAI Just Proved - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGMwdGtubERMTFBNZWdNVFhLNWxlcmhDWlkzeWQ3VGhrQlNHVGFJYjlqUVlsOGdXSXBTby1YNGYtQkw1Y3dmN2pYY0VRMENXdjZYZHVXR0llU1Jhb2g1ZHFyN3EzRVRmaDJvdHZsM1otMnh1MDVReThIc1hVbnBmMWdWanhNZkc3MHV0Y0prdXNuRGFUc3cxbw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T08:36:17+00:00",
-      "summary": "The 1 Thing Tech Investors Aren't Ready For -- but OpenAI Just Proved  The Motley Fool",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
