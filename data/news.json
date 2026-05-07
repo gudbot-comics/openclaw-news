@@ -1,10 +1,91 @@
 {
-  "generatedAt": "2026-05-07T20:40:36.130548+00:00",
+  "generatedAt": "2026-05-07T21:39:56.618109+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUZsc2ptUGh0SFZyeHlnSklVSU44TGU4SENWeG83U3B0T2JnemxrenVZOVhPcnltVUtxdlVmWXR0YzZFZUlMaXgxaEgyOEloSnU3NDJZLXlvNzJQNGxaa0x3X0dOWjNDU25GLWlvakhIb2M5SXM2bjI1SnUxUE9LTEdvSGw3bkpfZk1VOXZyVGJPdG1pUktfWnZxQ1J4NWJzXzllY3FSb2pPb0Y2a0hSX0FLQmdPWWlHa1Rj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:33:21+00:00",
+      "summary": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders  Pittsburgh Post-Gazette",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The Goblin in the Machine: What OpenAI’s “No-Pigeon Rule” Teaches Lawyers About AI Hallucinations - JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOREM5OTBCM3BvdWxOV1AySElXUVVUaF9ORlk5TEduM3lTcWEtYjFLVzBfMTZLRTZIV1JZSTcwUkM5ZWlqZ2FydEhzdnlzaW1lbFJySDlqTVpKdWVTVEdndHd2TGZHVEtITUcwWS1aQTlBNE9WbzZmN09iUGZrZUN0dFhZMThic3owUmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:28:10+00:00",
+      "summary": "The Goblin in the Machine: What OpenAI’s “No-Pigeon Rule” Teaches Lawyers About AI Hallucinations  JD Supra",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI co-founder says Musk 'didn't seem to have a deep understanding of AI' - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzNrVE9oY2dKWkFxLUJXVjhRRGsydFFmODdNUGdUengxLWFETHVvQ0JHeGJHeXlBLTRiOE9GeXN6Z1NwYzcxdDNudXdNbUxYUVdVVDR3ME42R2ZxaXZ6M0R1X2g1ZkxMb3FzampIRkt4UmhZVUZjbXF3VGk2Vi1Od2ZVaC13dzVuYTVwLWppSzA0dWFrX0lFNHNEZzFFZWVZdFZLcDNkOGdveENPMGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:21:00+00:00",
+      "summary": "OpenAI co-founder says Musk 'didn't seem to have a deep understanding of AI'  The Business Journals",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google may already be testing a 'deeply integrated' agentic solution to take on OpenClaw - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TX21SNHhJRWZDOGsyckYwYTBhS3JsWjNodFNsc0VNSHNKMTJFY0VuUlFObFNmcjJLdVR0WlVraTdhRW41OGxmMDBpSFJ5cDBuWTYxRUc1T2lMbjRGeldtZnhfNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:17:08+00:00",
+      "summary": "Google may already be testing a 'deeply integrated' agentic solution to take on OpenClaw  Android Authority",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI launches GPT-Realtime-2 for smarter live voice AI interactions - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnhZaGZoZFo5SlpRU1poSmRYV0VOb3ZnYVdIM29UTW13aUVMYk9WMnNNaDhpYVRnMlRlQ05QVUQyX3AyRjE0QUZ5TEdUbkJIcVFtUVFWZzRFUTRRX2VGVFY0dlUwbmFZUnFSU0pXR3lEZ1BYSFBXYlU0cGJkX2FkZ2w2OURuNUxNMXBxSg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:14:00+00:00",
+      "summary": "OpenAI launches GPT-Realtime-2 for smarter live voice AI interactions  Interesting Engineering",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Adds ‘Trusted Contact’ Feature to Send Alerts When Conversations Get Dangerous - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY19KT0lGLVB0MjdxX2t0UGowY2tqalhZSVVWRGtBU2YzR2dJQjdYZFdteTF4aENXQ055V013Z1k5WUhSVU1JUjJjWkRFQmhZdjU3VnVPd2VqR2FOelR0emtfQzZnQWdWSjRYWFFFSUk5NHNLSVdEZjZMTGZDQi1GOEhRRWFJMzhPZklQemtYYUxqMnpnbE9QOWlya01UVHdIVUxEMEZ2dDBVcDhkcnBJUHl1Yjladw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:00:07+00:00",
+      "summary": "ChatGPT Adds ‘Trusted Contact’ Feature to Send Alerts When Conversations Get Dangerous  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is Tired of Seeing All Those Videos of People Clowning on Its Voice Mode - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOFBKT25ud3QtbG9FTWFWNlBlRjA3OWYzdFVsLTdPMmxEdUNLR0tBbjVBZXFzZzhpMlQ3SUFBTFNpTktSZG5aaXpsX2dZRVFlOVRHOEtiZTVCak93QVpiTm1rcU9iYjNwMzBUaFpjdHdzbXB6WmUzdHlOMm1WLWl0WEhuZENjR0JkVU9sbXBaaWo3Vk1kWFd6TklxWUxKeW9Pd2pkSkZfU1FEcHVJN3BZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T20:45:21+00:00",
+      "summary": "OpenAI Is Tired of Seeing All Those Videos of People Clowning on Its Voice Mode  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Former OpenAI board members, including mother of 4 Musk children, testify in trial - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb3k0a3dwa2RKTURjcHVOYUt4bUlzOV9iNFY4SnNieFYyc1lGX0JGS2NoRVEyY3BFQmtKTUNwbi1VelRJbmlfR2dwN3BfRDFhVThMZmJQRU1QTlo3M0U1bkJsdFlKR2FfZHlQS2F3cll0Ri1ONUwyY25yUzJLSFFUZk5xdXRlbFRzelFCSFVDaUF2VElKSzllejZ2bw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T20:26:00+00:00",
+      "summary": "Former OpenAI board members, including mother of 4 Musk children, testify in trial  CBS News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDBTN2NEYTNtcDVfVHZyTVRMNE44LUp0aUxVSzRNS2JOR3MxYzNlbUU2UnNwSGd6YnZWcUZidnoycXdVRmZGNFlhWHRUOUFEOEpkUGVsM2VJS0o0aUEzNEtubkNsb1hUMkcwZDJoQUJfekhHTGp2X3VzcDNhUWJDQkRkWVd0aU1KUkVRdWh1Z09Zbk9zUkdsb1BqRmZzNVhQSFJwT0lpbjRWZGozcEhpb3M4SHo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T20:20:20+00:00",
+      "summary": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Broadcom Shares Dip After Report On $18 Billion Financing Snag In OpenAI Chip Deal - The Information",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWlzcFZld1FiSV9aZUxnY0xDS21kT21DXzZOSTRLVjE2eUZmS3V3ZTJ1U3JmRi1HZThjZG1GQWo5eWk1ZWEzWnQtZHJvbWFCLWlUREdtZWQ0SnREUzhKTWVRUTNEY2NjR3ZRektfbmtFS1JZNVdzLVVoaDB0eS1CMC0tWDNtejRGQVlWUkxXX0lLc1llbUxfSG1hRU9kNHlVM0tLWi1jSzVBQkxKTHJHeUdOVy1mREdJeWJBVHMtMA?oc=5",
@@ -24,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUZsc2ptUGh0SFZyeHlnSklVSU44TGU4SENWeG83U3B0T2JnemxrenVZOVhPcnltVUtxdlVmWXR0YzZFZUlMaXgxaEgyOEloSnU3NDJZLXlvNzJQNGxaa0x3X0dOWjNDU25GLWlvakhIb2M5SXM2bjI1SnUxUE9LTEdvSGw3bkpfZk1VOXZyVGJPdG1pUktfWnZxQ1J4NWJzXzllY3FSb2pPb0Y2a0hSX0FLQmdPWWlHa1Rj?oc=5",
+      "title": "OpenAI is launching 3 new real-time voice models for developers - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiU2tvLTR4R0puc1ItN24xd2ZXXzFaZzJLdmhodlNaSDNHeHptNVNwUUhZQ3BiQ0lPcjNjdWRqT0cxcGwwV3M2ZEg0U0w3SWgyXzZnaGdpekVkSUU5RWZEemdtVnFkUEVzdzk1M2pB?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-07T20:02:19+00:00",
-      "summary": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders  Pittsburgh Post-Gazette",
+      "publishedAt": "2026-05-07T20:05:47+00:00",
+      "summary": "OpenAI is launching 3 new real-time voice models for developers  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,20 +132,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "I tested the new OpenAI Codex features on a real Python codebase, and it's the strongest Claude Code rival yet - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NNG4zeko1c0VQaTJvY1ZwYWN6RmFYbENOcGRRc3VvajBQQWZRRHBxR05WTkFVeEFXLURoUUhvTTl5c0NMazhuOGE2SEZNV2pqejVqdTBONHpXMlVL?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T19:51:23+00:00",
+      "summary": "I tested the new OpenAI Codex features on a real Python codebase, and it's the strongest Claude Code rival yet  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "EXCLUSIVE: The Trade Desk's Chief Strategy Officer Samantha Jacobson Is Heading to OpenAI - ADWEEK",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHVqWFV4d0FBNElzQ09LSWhYSjdxQWJsUC1vbWZ3MkZwVms1VzFDZTdtWnFjRjNJZGhjWmZ3REtWeDJzZ05DNDRvNlBITTFJX2RfdjJ1aGxpS1N5MjFVWHZFalVrS01qNHY5TzFYNDRTYS1adEJEVlh5aUoxUkl1bjFVUHByV0lOOHBlVjdnekNfdzJXUVRuLV92QnBmWGxnbXNyQ3h6OXQ0WnBtanpFV1o3NEhwd1lH?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-07T19:39:27+00:00",
       "summary": "EXCLUSIVE: The Trade Desk's Chief Strategy Officer Samantha Jacobson Is Heading to OpenAI  ADWEEK",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawsuits: OpenAI tried to hide ChatGPT help for Canadian school shooter - The Black Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMUp1eTFyQmJQMTNSSlRnNUhkYjlsQmFuZm5uREU0and2a1A3a000QjlEVHdZU1ZXOFlWWnEwRnBQWkd6c09VaklGeVowMERabm95WV83SGp6eUszenhvanR0SUpwWFhiMWdQS3lxTE5FSHVjazA0bzRnUU1kUnJHSmwzOVJTaWI3czlCS2EyZExJS19fQjRneFZsSnJHck9LUWF0RXJWbDNGN1lNU3VHSnJxaU0yaXg1RmduTnpvYU1LZHFIRk1r?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:38:45+00:00",
-      "summary": "Lawsuits: OpenAI tried to hide ChatGPT help for Canadian school shooter  The Black Chronicle",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Tech stocks today: Broadcom stock falls as chip deal with OpenAI hits speedbump, Musk-Altman court battle continues - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2ZqZVBhTHR4cXlhWEdtRG8tTElTR3R6cVo3UWJWcFBOdFRGeVZmTmJDWlZUdENIUDAwV0pkNmZ2SlVILTRJOVlNVS1KYVpCTDk3VkdHaXg5VktTWWd2bkwtMGlxRV9OMjBmTDQ4TW9DeVJta0xZWU8wOVRsajZEdjZyTl9kTFAzeU1HTlpqQzNpRllVSHY1bVhWVy1zc0t6ZUZ0bjBxU251aS1jaERxRktRMnJTMkZSSWdJeTFIWkllZlZDTktBc05BQQ?oc=5",
+      "title": "How a mother of Elon Musk’s children became a key witness in his lawsuit against OpenAI - CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yWWhYalY3cVlheG5ROUk1WmpOd2tLVVI0U0o0RGZSS3hnakc0a1FTNVJncWsyNUpzVTE2S3BuNXlaTDQwX1ZkSTRMazJSaW44TXpYemZ0OVA2Zm52SUlETndadE42WkZSUXpicFNrMnBuclUyUkRadg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:26:11+00:00",
-      "summary": "Tech stocks today: Broadcom stock falls as chip deal with OpenAI hits speedbump, Musk-Altman court battle continues  Yahoo Finance",
+      "publishedAt": "2026-05-07T19:29:43+00:00",
+      "summary": "How a mother of Elon Musk’s children became a key witness in his lawsuit against OpenAI  CNN",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,15 +173,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-07T19:21:21+00:00",
       "summary": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is launching 3 new real-time voice models for developers - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiU2tvLTR4R0puc1ItN24xd2ZXXzFaZzJLdmhodlNaSDNHeHptNVNwUUhZQ3BiQ0lPcjNjdWRqT0cxcGwwV3M2ZEg0U0w3SWgyXzZnaGdpekVkSUU5RWZEemdtVnFkUEVzdzk1M2pB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:12:32+00:00",
-      "summary": "OpenAI is launching 3 new real-time voice models for developers  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,92 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI, Anthropic, Musk Battle for AI Capital Edge - Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kWERPQk9zRWN4VGZZbWhfU05VbkxWNGhYT2RqRzZ6NmlLazU4YnAySWtMaE5KUzMwVThZdzVOQktyRnBVNElHcS05U0FhTGRfbS1TMTVyLVJIbW5IMDgwZWR1QzUtWHcxaEJjbmJPTWc4Q3pRZlZTY19IX283RDA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T18:59:44+00:00",
+      "summary": "OpenAI, Anthropic, Musk Battle for AI Capital Edge  Gotrade",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Under Threat of Perjury, OpenAI's Former CTO Is Admitting Some Very Interesting Stuff About Sam Altman - Futurism",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFFXVnhodHNkWmFxeVUwY1N1UWxrbFlENlRHTE9QN2hsR1ltS3FBUXY3b2hfTDVnMkdwSTFYTEMtNnJyZkJsSzZNTzR4SHpvNWtVS292dEJlVHNmZ0xmUGNiQ1JfdHhzcDlMcGxfZHJTQjB4MlBGUmZXWjI1bk40SEUyWQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-07T18:58:00+00:00",
       "summary": "Under Threat of Perjury, OpenAI's Former CTO Is Admitting Some Very Interesting Stuff About Sam Altman  Futurism",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI unveils trio of realtime audio models to power next-gen voice agents - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEt1eGZiamtqU3RfZG4yUVMwMTViT2NRQjBoMGRTdjhFS2gySGhMVEJfaTBCcDVpWWxYb2NjbWZpMTR0NUkxc1lEZUNuVkRyUVFpUWVIclg5V1dNVVExRVlPa2FPUHZCRXU5OEhzc3pvNlZYLXZRYjlqamFFT2d5QVhOUGplTEoxTEFvWUhHSVd0MTk1b0RPZkZ4ekU4NjNZb1RVTExFa9IBpgFBVV95cUxNMkVXMDZ2YjZqUm5yU21kWHNKYlptdGU5YjFWS0lsVEkzODMwVVRWVFdMREFpRTdRaDRVSktqbkZCeHh0Y1pQRUVDUmJ1YW5GWXpWVVU5Y0x0TEJEQjAxVTBwX0pic1JiSUZWTkhqUC0yR1BVdzBVN0NteTVXUnhoLUlnYjJUQ09ZUmxTbTNmNW5nQ0xyU19zREFHd2UwSklhSWRsdXBn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:52:00+00:00",
-      "summary": "OpenAI unveils trio of realtime audio models to power next-gen voice agents  Neowin",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUW53SW14YXFBRjZpNGl6akpBR3pTVkpERXczSFo5dlJqY0M5dFJlOEYteFpMOGVaU0NhMUUwSWhmSWNyOTVfUXhaWXRMSnAzQkYweXBVWnUtcVY3OVU0Wk5YNWxfZzAtVHprb0ZfUmo2WHo5QUlQai05V3QwNFM4RnlQNlpHVHZRYjg5bTZCYkRfQ0FWT0Zic2pNMmJBSmpXaF8xeEhDMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:46:53+00:00",
-      "summary": "OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Defends Growth After $852 Billion Valuation Scrutiny - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORFQ3MDJpSE04Nkc1YnJaT1ZRaW4wT0htVlZ4QktJUHhrUmEwdVhoRThzZnY2WmplM05TZktvMnpMcVo0d25XOV9QVUc2Z0E3eEdGeUlXcmtUczJkb3hCU1NTTWhBeFNFc2RiMzFEcHlZQy1fMDJpY2NlTjE1YTRZQWtDeXhCNjV3ZkVvY1lWNVd0dnEtVlZqZGVPWXNRZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:39:19+00:00",
-      "summary": "OpenAI Defends Growth After $852 Billion Valuation Scrutiny  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches GPT Realtime 2 for Smarter Voice AI - SQ Magazine",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQXNwWkR4b2xsYkQydmN2TzRlczVMY0dSTmJscE94My1kRTA3WnNVb3piOGdJcHo4dnJCTUtJbmNDTGN3dnB2MUZjSGRPX2M0VS16ZDUwczdfa3FpOUNmQzUyOFFJd3dFREhRLTVIQVc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:35:47+00:00",
-      "summary": "OpenAI Launches GPT Realtime 2 for Smarter Voice AI  SQ Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is advancing voice intelligence with new models in API - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjZleUxsTEtNcUJTOG9NSUM1R1lJc1BYTjl6WmVlWlZBdUswRnlCSjAzcW45Z3ZDOUhjaG43VzBGTGZtcWI1SkFrSVNjNHRuZ255clJLdmpncTBiNW1yTmJtTXkxREFWaVZBeEduMGR2ZlBPOFhJMmZUZnVRSGk3TGtxT19xT2lkQWI1ay16LXdCNU9xaUxGa0tLNV9OX0dDV2pkTk14cDV2Umh4MnFqcy1jX1k?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:31:35+00:00",
-      "summary": "OpenAI is advancing voice intelligence with new models in API  marketscreener.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Broadcom shares slump as OpenAI’s $18B custom chip deal hits financing snag - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRnJlanRDSjB5X1VmZzJhN0s5T1kwOU9tOXlpYmlNQXI4M3Q0RDl0THo5bFcxVzdrM0pSa1JISVA5Z3FqM1RuNmFYTzBOb1NIUmZManZVWUMyX1FFUUpBRVY0cW05ak5oWW5henNyY2VYYXo5c3cwZFlEREtmT1NQVjBOcldnaGY0a2lJc1JseVkxbFU0UlVLOGYxcTJoOVRDdUQxQTNITmZvWXZjQTZmVndGWHRvVno0X1Fvd3VpOW9obkRzZGNEY2hR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:25:26+00:00",
-      "summary": "Broadcom shares slump as OpenAI’s $18B custom chip deal hits financing snag  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The 'Need for Speed' in Mainstream AI Models — OpenAI 5.5 Instant, Google Gemini Flash, Anthropic Orbit. ARD-71 - AI: Reset to Zero",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BamVqZS1Xc0UxbkN2U0w5Wm1hZ3duR3N2STNjZE9UZGU1RmVDSE9KUS1pYklISmJuZmZjbDBBUldvX2d3YldiMWxLLWdHaVpSNTJVcVotR2xKN0x1R3pWdnhhcHVJd1FJSHBLb0tmRTJKOTJRU0QzNQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:17:41+00:00",
-      "summary": "The 'Need for Speed' in Mainstream AI Models — OpenAI 5.5 Instant, Google Gemini Flash, Anthropic Orbit. ARD-71  AI: Reset to Zero",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI adds Trusted Contact alert to ChatGPT - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0t2UnN6aVJpa0xFZm45aEpjbFJWWFdSdDdLMm5UYi1tNUc1c3FfTXVTbVc5T01tNHNVWkx5Q2VOdFAyajJlRUtPSEJwTnY4TnhoVVZSUUNDc3NHUnRsRU1uQkdUazNNZEpLZWZfWXRXaG5wQ2lMRnlNdDJCQzdpNzRzaVJsTVBUdmxwMlU2cw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:16:39+00:00",
-      "summary": "OpenAI adds Trusted Contact alert to ChatGPT  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI unveils three audio models for real-time voice tasks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzZRSzA0T0UySUwyTVB1ZTdlWVVCenFrNHg5eWhTZ0RWam5kVWIyVTRFSzV4Mk9XWDlYbFdnQTI0MWJzTGxRNERGd0UzbENNNVM1QW5VUGZ4NjJndUZJTDd6a19TX0pVcDFBdEZOOVBVUy1GdktUSS1xMlJ2X3JWUTczM3hLODhvMzJVamJZQlRfNGlKWHVDWnRUTjlnNFB1MjhlbFdNY0xBbkxtb3AtMkNWWVI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:12:32+00:00",
-      "summary": "OpenAI unveils three audio models for real-time voice tasks  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
