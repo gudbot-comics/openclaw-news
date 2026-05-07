@@ -1,18 +1,108 @@
 {
-  "generatedAt": "2026-05-07T21:39:56.618109+00:00",
+  "generatedAt": "2026-05-07T22:42:18.246435+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUZsc2ptUGh0SFZyeHlnSklVSU44TGU4SENWeG83U3B0T2JnemxrenVZOVhPcnltVUtxdlVmWXR0YzZFZUlMaXgxaEgyOEloSnU3NDJZLXlvNzJQNGxaa0x3X0dOWjNDU25GLWlvakhIb2M5SXM2bjI1SnUxUE9LTEdvSGw3bkpfZk1VOXZyVGJPdG1pUktfWnZxQ1J4NWJzXzllY3FSb2pPb0Y2a0hSX0FLQmdPWWlHa1Rj?oc=5",
+      "title": "OpenAI launches new voice intelligence features in its API - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEVKNVBfWjRiOU9oWWM0Zkh4elFUbWtaMVd6RDVFeXVpTVU0TVZvTzVxbVVaMTdVWW9CejVZcklRTGFZWkhGRG1MS1NQb1V5VEF0MGxnbE9VZzVqZ0tBa2MzYjluZWpOME5wT0VBQzBFbFV4UDBfbDVlQ2tXeDZnUG5IMzdsODNXZ2NHa3I2VndTRk5XZUxXYg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-07T21:33:21+00:00",
-      "summary": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders  Pittsburgh Post-Gazette",
+      "publishedAt": "2026-05-07T22:24:50+00:00",
+      "summary": "OpenAI launches new voice intelligence features in its API  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2QVNNMkVFTXRBVmFZOTBlRVJKQmFiampXWmU4WEw4WUlsaFloczkwUm1FSXgxZm80X1JxU21KZV8wclV0S0lHcjNBanV4QmhSQ1FpeHVjckY0LVFHY0taUGpqU2p4RDhwYWx5YUJlMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T22:19:30+00:00",
+      "summary": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI releases cyber model in limited release to compete with Anthropic's Mythos - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUU4wZVV4Zno4bWhGSWlKOC1wWFo1eVFPUEx3UFF0RC1kX2FtVDRaZkNScnVLVjhlaE0xN2Z5ZFFHRjZNSl94UGQ3ZGNsVVRBbFpfVkh0dXYxY1A0Z285S0lzNUFQSmZ5WmVham5WX1ZfSEwzUktLUklEV2YyemVPeWRPTGl2bjRiaU5VUlpMSlFueFdMRFJzZFVXcDh6dzdZaURxMlhyZm8xTXJaa2VEQWpKUWxMOTlVSmJJUTZVT0U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T22:18:32+00:00",
+      "summary": "OpenAI releases cyber model in limited release to compete with Anthropic's Mythos  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Spotify adds AI-generated personal audio listening feature that cannot be shared with other users - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeW45OFNGZVpCWjU0dDNyZ3IxdzdlWF9HbEptX0VJMVNSWTVyaW5pU1hIZVIwQnVZMnp6M1BkRmRLQUFmaHhPeFRPU3ptanF6cEZzUFZsMWVvcW1Dd3psN1EzNDNNdDVEZGVjUGJRdmVaZ3B1SUFMSl90S2lpRS1ScmNnWkR3ZEpNODZXUjR4R3p2TllERnV4bWxjV3Q4XzFpYWFYU2stRzF0aXlkcWp6YjRiTDBHUmZIamtMSVBDTjIyTVBCWDNlbg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T22:08:50+00:00",
+      "summary": "Spotify adds AI-generated personal audio listening feature that cannot be shared with other users  디지털투데이",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI rolls out new model for cybersecurity teams a month after Anthropic's Mythos debut - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVERza2ZhM29taVNpd21wdk94RTlleS1MWFV2VFZhZ1JGdzFMUkwxdzBZRXE4SlJLdkdXSGZYWTgxT1N1b1FwT3QxcDBPY0Z6YXlCZ0hlUUcxam5TUHRvZXRoWFY2ODUyZnFBTldISUlVb1lWQzdfM2hnblRxb1pLSnpxMEptLUtEaWhEZFFRRXRxVzAwNzl1N2RIQXJ5bW9jcTVnR3lKNVDSAa4BQVVfeXFMTzVHak5tV2xlaG5OcUk2M3BNTURmSFE3akdpMkQ1NmZZNW1FVFNaVGRjUlVGVnNxSDI5VmlHUFRYc1NydzZJR3N0VVcxMi1odWpaX0Y1OG5YQXBXWVVkOGRUQ3luMFZZRHdMN0ZDUlE4S3hNVjdYX05lZWloU291eHpzSEFRNG1MNlBTb2wtMnl5X2pUQTdpc1NvdVBFZUhOVFh6NXVkTEh4cll6bzNB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T22:06:20+00:00",
+      "summary": "OpenAI rolls out new model for cybersecurity teams a month after Anthropic's Mythos debut  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank Rally Hinges on OpenAI Growth Easing Balance Sheet Fear - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFhGYktTbmIyZ3pPRTNNdWhuMTRNY0FtejVsUU52aVR5OVZPTHNYNVA0alJ5QTBDQlA1NlJmX21nM0dBcGFMVzVvZDR5OTJwSTNCMFFKQ2lnNmFyNWFnRFFnNlRybXZmRGxXN3dEX3BQUUpMbV9jWXJjaldLZ3ZnLUxaQkNTRGlKZWhCSG5MT2c1QTM0T3gxMWtqRmpZRnAzMmNNTTFxZUN0Yl85b0NqQ245dHdldw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T22:00:16+00:00",
+      "summary": "SoftBank Rally Hinges on OpenAI Growth Easing Balance Sheet Fear  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI makes its rival to Anthropic's Mythos more widely available to cyber defenders - Axios",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ua3RUS3Jja2lpRVZFQW4tekIzTVQyeUhLd3hkMEU0aFE5dDBfUUFFZ1VERFZyZUtWZE5iVVRrSWo5bm9jVVVRRWphNFpQbUtsY3dpY3NNQU1CMncwN2dLQ2JUcnBBOGZuYVA3LTZIdHFWZTlQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:47:21+00:00",
+      "summary": "OpenAI makes its rival to Anthropic's Mythos more widely available to cyber defenders  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI just open-sourced its data center networking technology - Fierce Network",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcmxTUzFRZkhxS0RnVVM3V2NkYXdUd29aWkFxVnZhbXA0RDNJSGFLWFdPNTJ5cTBuZHNwZTF5NkJzc0QzTmg3QktjblZiZFNadEstWFVEV1prUTVlbVMzNDJsU3Z3eTBqR3pneENBaUF5dFRXV3gxYWFicVVObVFiTWhvU1owRWFzWlNuTGZGbzBuVDVUTFBjcldTN1ZlOUtC?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:45:00+00:00",
+      "summary": "OpenAI just open-sourced its data center networking technology  Fierce Network",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI rolls out advanced AI cyber model to challenge Anthropic’s Mythos - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXBIT1haWmxDVC1OVXduTTgyU0QxVzRtbWJPbTV3Z19QNDhKM01QbHRacHlybnpNWEFrMnJEb2N3aWNxcXNnc2dCV1pCbXJ5eXd1Zm91d0dHRV9xclhFVTdPck0wV2U3eUNZN2tzSTdLQnpQcDBoSEpUOXUwMUNMZmU3WmY2Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:42:26+00:00",
+      "summary": "OpenAI rolls out advanced AI cyber model to challenge Anthropic’s Mythos  Politico",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Breaking news: “they hadn’t figured out how OpenAI would pay for it” - Marcus on AI | Substack",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOGlncDhHRFFLMzg5WTc3LTJLV3kxWkpLb2hfWlpvbmUzNGNvWi00UFZBbHJiRjVYZHNzTVpyYUJJWC14R2dReHV2aWtNUGtQSTlWN2NrSUwtYWctTncyVkNJYlBvWlY1TGhmQ0dubEFROEJiRW82R2JrSDU0aTdyaUpwX0dBR0FMSGtDSEJUYW9vVFVHOURfTC1aemhfdFlTblN4dzE5SXhQNVFtajdWejIyWUNqN3AxdGdrcVR0UV80SVYzRG05WFVqVVVvMUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:42:21+00:00",
+      "summary": "Breaking news: “they hadn’t figured out how OpenAI would pay for it”  Marcus on AI | Substack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta's AI agent plans reportedly include an OpenClaw competitor that can shop on Instagram - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYl9BT3RCN2VWdWpGRVh4R2htSU5mcTM3QWtzVDNNQkRGTzg3Z2N1SHRvcm9tU3QtN1FRVFV2Q183RzZ2U0RlLTY3UHhQU1VZUW43bVVQb1hTSjEtcEFrdHdUWS1CM0VlbWhEYW1lVFhRRlV0aDV0cEFhblFyeHBEY09DVy0zY2xncEMwWXRuWjdvTjZQVEJkOXcwYmZZVWRVOWstVGFzbWM5dUhqN0xURUJkUzMtVXVsRGRpcTNSMGg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T21:41:37+00:00",
+      "summary": "Meta's AI agent plans reportedly include an OpenClaw competitor that can shop on Instagram  Engadget",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "The Goblin in the Machine: What OpenAI’s “No-Pigeon Rule” Teaches Lawyers About AI Hallucinations - JD Supra",
@@ -108,7 +198,7 @@
       "title": "OpenAI is launching 3 new real-time voice models for developers - qz.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiU2tvLTR4R0puc1ItN24xd2ZXXzFaZzJLdmhodlNaSDNHeHptNVNwUUhZQ3BiQ0lPcjNjdWRqT0cxcGwwV3M2ZEg0U0w3SWgyXzZnaGdpekVkSUU5RWZEemdtVnFkUEVzdzk1M2pB?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-07T20:05:47+00:00",
+      "publishedAt": "2026-05-07T20:06:44+00:00",
       "summary": "OpenAI is launching 3 new real-time voice models for developers  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -128,96 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-07T20:00:00+00:00",
       "summary": "AVGO Stock Drops After Financing Deal With OpenAI For Custom Chips Hits Snag: Report  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "I tested the new OpenAI Codex features on a real Python codebase, and it's the strongest Claude Code rival yet - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NNG4zeko1c0VQaTJvY1ZwYWN6RmFYbENOcGRRc3VvajBQQWZRRHBxR05WTkFVeEFXLURoUUhvTTl5c0NMazhuOGE2SEZNV2pqejVqdTBONHpXMlVL?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:51:23+00:00",
-      "summary": "I tested the new OpenAI Codex features on a real Python codebase, and it's the strongest Claude Code rival yet  The New Stack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "EXCLUSIVE: The Trade Desk's Chief Strategy Officer Samantha Jacobson Is Heading to OpenAI - ADWEEK",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHVqWFV4d0FBNElzQ09LSWhYSjdxQWJsUC1vbWZ3MkZwVms1VzFDZTdtWnFjRjNJZGhjWmZ3REtWeDJzZ05DNDRvNlBITTFJX2RfdjJ1aGxpS1N5MjFVWHZFalVrS01qNHY5TzFYNDRTYS1adEJEVlh5aUoxUkl1bjFVUHByV0lOOHBlVjdnekNfdzJXUVRuLV92QnBmWGxnbXNyQ3h6OXQ0WnBtanpFV1o3NEhwd1lH?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:39:27+00:00",
-      "summary": "EXCLUSIVE: The Trade Desk's Chief Strategy Officer Samantha Jacobson Is Heading to OpenAI  ADWEEK",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Shop ’til you bot: Google, OpenAI, and the race to build agentic commerce - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdC1RMDNQMkJtU0tWLWZXWmNSWEJaVVMza2NQQnY2WGR4MkV6aGxOUGdGbG1oR0ZGbWp6YlRQZy01eWdOWnQ5SEhOSDNBdkE5SUpYaXBDQjBjTy1icUNOWUwxbkltakpsN0V2NDNuYnRWWHdYZTRIczh1dkFsaF83ZHZMaHJDc3VGR2ZxSF9WSHZ6OXg5cmFiR1g5amhKX25FTzk5U3RsTUJjdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:32:35+00:00",
-      "summary": "Shop ’til you bot: Google, OpenAI, and the race to build agentic commerce  Fast Company",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How a mother of Elon Musk’s children became a key witness in his lawsuit against OpenAI - CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yWWhYalY3cVlheG5ROUk1WmpOd2tLVVI0U0o0RGZSS3hnakc0a1FTNVJncWsyNUpzVTE2S3BuNXlaTDQwX1ZkSTRMazJSaW44TXpYemZ0OVA2Zm52SUlETndadE42WkZSUXpicFNrMnBuclUyUkRadg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:29:43+00:00",
-      "summary": "How a mother of Elon Musk’s children became a key witness in his lawsuit against OpenAI  CNN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjFkeVRoSVYyWWtsZUYxWlA0Tm9tX09Da3F3djU2ekVmZGU0SzFjM2wxQzUzM0loT0xUNEs0akt0V0ZHbFdJMkxRU2xtckxodFFqV3QwTW1LMFA1aV9TS3J5OG41eXp3MndGbTdfY3NPdUo4UmE3RjJpRmNtRHBZRkIwUVlPdEQzNHB6ZkR3MUF4dnotYlhtOEtTMmdralpvSmt6c1Qzb2RwSjQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:21:21+00:00",
-      "summary": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s massive custom chip deal with Broadcom is reportedly facing financing difficulties - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1ctNjgzYkVUZHo4cDZiN212Xzdlb2dRaFV4OW92RVoxdld3SXotSEdTVTE5b0lwa0xIX2RtTU5MRm1rM3ZoeElvOUhGb3U2VENNcEZvOVpfUTBOTk1YbnNJREVwYzZMZGhTYmhVQ3pqWFZpSV81NkhHYm45OEIxR0R3SUptNU5kcjBzYTNDbjJ6OVFkUlBQRW5iLUV6VGV4RUVzZlphczVrYjVnNWpoZ21XVXRySzRhdzlaYQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:12:22+00:00",
-      "summary": "OpenAI’s massive custom chip deal with Broadcom is reportedly facing financing difficulties  Sherwood News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s $18 Billion Chip Financing Trouble Rattles AI Boom Narrative - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZC1zSzNSVDlIOTRpTXBJYWswMWQxcGZmWnlrMkZPQmJpTEpacGJRN1VWd1ZDb2R3MVI2RjlYWTJnSnlHeml5YTRGbjItV0M0ZkMxV1NuZzk4Y2VxeFhXaVNxbE9RRVduRlhwNG5VT0NjZUNoR2xfSzhnVk1mcVlTVkh4V3ZUdC05dzBKT1BPYkdkUmd4MXI4enVGVHlCM0hrYnlR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:04:57+00:00",
-      "summary": "OpenAI’s $18 Billion Chip Financing Trouble Rattles AI Boom Narrative  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's $18B Broadcom Snag Stokes AI Capex Bubble Fears - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZzkxdnB3NWNfbWQyZ3V4Y3pSbmJHSGQzaF8zQmZZOVlCZkJ2N3pPWGhkazNLc21Ua3VfTUo2cnRqU0Eya1NpMlJOQ1dfa01OR09Ra2Z5WGpoM05lZGdxbVlOMkhSaVZna0tnVldadUNLVFU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T19:04:00+00:00",
-      "summary": "OpenAI's $18B Broadcom Snag Stokes AI Capex Bubble Fears  BeInCrypto",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic, Musk Battle for AI Capital Edge - Gotrade",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kWERPQk9zRWN4VGZZbWhfU05VbkxWNGhYT2RqRzZ6NmlLazU4YnAySWtMaE5KUzMwVThZdzVOQktyRnBVNElHcS05U0FhTGRfbS1TMTVyLVJIbW5IMDgwZWR1QzUtWHcxaEJjbmJPTWc4Q3pRZlZTY19IX283RDA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:59:44+00:00",
-      "summary": "OpenAI, Anthropic, Musk Battle for AI Capital Edge  Gotrade",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Under Threat of Perjury, OpenAI's Former CTO Is Admitting Some Very Interesting Stuff About Sam Altman - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFFXVnhodHNkWmFxeVUwY1N1UWxrbFlENlRHTE9QN2hsR1ltS3FBUXY3b2hfTDVnMkdwSTFYTEMtNnJyZkJsSzZNTzR4SHpvNWtVS292dEJlVHNmZ0xmUGNiQ1JfdHhzcDlMcGxfZHJTQjB4MlBGUmZXWjI1bk40SEUyWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-07T18:58:00+00:00",
-      "summary": "Under Threat of Perjury, OpenAI's Former CTO Is Admitting Some Very Interesting Stuff About Sam Altman  Futurism",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
