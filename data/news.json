@@ -1,25 +1,79 @@
 {
-  "generatedAt": "2026-05-07T00:11:51.034660+00:00",
+  "generatedAt": "2026-05-07T04:07:21.981635+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Mother Of Musk's Kids Defends Role As OpenAI Liaison - Law360",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFVtT0xPUUxXUW0xeURJNmVOX3RiLWVrUDZQOG1MZEc5VlI0T0t5YktJdTFIVU1yMFNXekEwaEVCOEtFWEgtZkgtY3d6ZDZRajc3WFExQ0tnekw4YWQwclFMdzNpa2xHTWVudVU2MFRHbzdKTThneS1QWUp4RVNma3drYktuUjQzTnBkYjY3Y0Y1dVJqaExv0gFWQVVfeXFMUHJ6OENjdDBOMmE3ejI2ZV9xVXFsdVlZSXF0YlZ1aUxQNjc0U1g0aVkzd2NQV0NoZ3pDNTR5SlZsZXV2SmFFSmVtUnBMOXh2S0Z2OWVUMXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T02:54:00+00:00",
+      "summary": "Mother Of Musk's Kids Defends Role As OpenAI Liaison  Law360",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Ex-OpenAI CTO Mira Murati Testifies About Sam Altman Allegedly Lying to Her - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0NwczZHdzhsUDREWVhNMFFDS0ZYQ29aYzdySWI1bW54R1o3b0JfZkNqVk1nREQ5S2hjeGlNWnlkZTkwdktwSHc1aXU5WTllbXlYZWtVUHJYOEhuVk11MTVfSDZCLU42YU02V0JmLW1yQXBmc1M5d0hFU0RhXzNGcmVkYUVZdFVHcThwM3FRNVlZOXpFSTZrMGNmNk5feExfendnbEpTdld0Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T01:43:12+00:00",
+      "summary": "Ex-OpenAI CTO Mira Murati Testifies About Sam Altman Allegedly Lying to Her  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Co-Founder Testifies He Feared Elon Musk Would Hit Him During 2017 Meeting - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVBpT0FlQ09qZUNkZ1RrNGR5RWxPck1ORHltQzdURjIyZE9OeXBncDY1WlZMemlWbWZhbGJzR25iUkJHMVJGVjJUOVVvcWtjdmt0UEFqZDhBb1BmcjRkYmJpNEhnRVBhVTZGNHA0dldpTUx0ZTdoY0pSWVJSZ201SldRWXZEVVU3SFVqdWdCLWo5YUo3YTQ2Nk55dW15S3dxalo1Y0RR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T00:54:00+00:00",
+      "summary": "OpenAI Co-Founder Testifies He Feared Elon Musk Would Hit Him During 2017 Meeting  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GREZWTHVCaEhPQXVwNExPTnhUc3dac1h4Z2tFUmpRLThndzczR3ctcTRaZ0NFRFBUelgwMzRRN1JXTXIxc1UzSTJHS2ZCMFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-07T00:44:38+00:00",
+      "summary": "Singular Bank helps bankers move fast with ChatGPT and Codex  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "'That's not how it works' - the judge crossing swords with Musk in court - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtc2FyWHNjTmZTNjRKdGpUSHRPU0loaDlJai1FT2dIRFVWdDZxYW1SWmV1UGlqWWxoZnRLV0hpNWhYc2tuc2puazFGME9ySTFhbkQ5eVJDd1A1QQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-06T23:52:48+00:00",
+      "summary": "'That's not how it works' - the judge crossing swords with Musk in court  BBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFZqemhnWW1VcVhzSWFvaW5sQi1ZTFdyZS1QZEpfZ05IeXAyWGY4Sm1Bc1RON1IwbEdpcXNCY2xxQW52amhSSHdSRmp0aEZoUVZfaDBnRUZXazJYblNjSWk3V3hPYVJpd1U5X01aRzlMYXVKQm5UZEdhS3kwQ3VtdkEtWWhSM0RjWGpWUzhkOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-06T23:50:25+00:00",
+      "summary": "Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk Faces New Trial Evidence on OpenAI Governance - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT245RGkxTXhLeFJFR1JjUllMYjhGS3JjTjlwY1ZwTGpBbmZUb0tuckRfbms0a2QxYTZ0MVQwV1VwVVNSeTMwbVRKeWttWlltazhTTnkxTHpZNWp0TWxTTE5zMmN0OURLeC1MbkxmQzlZN2ZDdVNjdFdiaTNmd1Z3bEFtNE5Jd2JLWW9QUnZOVV9TejdrR0tn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-06T23:44:20+00:00",
+      "summary": "Musk Faces New Trial Evidence on OpenAI Governance  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI and PwC Build AI-Native Finance Function - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcmNXd2tQYUtxd2sxUkNXaWhHb1FqRTVNMGJaNmtUSG1RdDhlXzE3aE1FMDlMM2FvOF9MTndEVHBoa0NnWnlLRXFnVjk3dllrZXNabVhMcUdIUUxoU244SDl6dm45dnIyS2NnZGJvR0EtdFJZUERJcTVKQ1Z3OHZPeUVhVkxyRFRWSDd2SHFJSnB0VGs?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-06T23:24:58+00:00",
       "summary": "OpenAI and PwC Build AI-Native Finance Function  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVjFCTGg2eHpXT0xNaFpBZU9GU1dxbUMwRnV3WElHczg4b09YZWxZSkhoOG5aeGhyMFV5X2JsRk1XNWI0c25BQ1Q2LXRsdnNyRHJvTDlYSVd6UGtCX3NzbnpOSWFZU3JGX3VrdVhCNTFia2QzVUxYdzhSVUo4MzJFcFl3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-06T23:23:00+00:00",
-      "summary": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla  WIRED",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,15 +96,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI simplifies large AI training networks with Ethernet-based protocol - SDxCentral",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTUwU2kxdkM2VUJucnI0aFNJNFUtWWV1UTNxOWJXaUpXR1FwQks1OWFVaVdOWnJGVThVSlkxOGJTR3RvcUZ2R1haay16OUFGZklBOWNCLXZVMUJsNFFvUzJOY1JOWFB1YU1aM0Vpc2ZVNGM1RHJVLWtWOUZwaEFxSjcwc3NuaER6d0xscnBMMUJzQVlxT0VNTl9MSUxadUJDRjB0VGxhQ2x3dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-06T22:58:34+00:00",
-      "summary": "OpenAI simplifies large AI training networks with Ethernet-based protocol  SDxCentral",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI board learned of ChatGPT launch on social media, former director testifies - Daily Journal",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0dXWHhRTERjak9wSnFVX2VwaXFwYnlseWM3V3pHS3Y3UXRyX1NibnhmU19xTkR2UHRIWkZGMmJGUnp6OV9jbzlGajRsdXpaUll3aXdGeFNCVnRxMHV2a25XaTVHZ3QzbXBUWER5T3ROdmk3b0JsaWdLY3g5SzhxdUVSaGdqUUpVM1NEQ1dZQjlDLVhMQzcwU3V0RHJ0MlNIQnZRd0ZycC1IY3ltTG40am5XdUZERnBtRzhLeXV0X2hhQQ?oc=5",
       "source": "news.google.com",
@@ -61,7 +106,7 @@
     },
     {
       "title": "Elon Musk tried to recruit Sam Altman for role at Tesla before falling out at OpenAI - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hNl9YSzRFM1pwLUZDQmhPWTl2U2FLb1BIeVRad2U1V2JfMEtqTGNXbjEtZkxNSS1QNTIydVVGQWUzZkhOdlZwSnVUVVJJMFp2SW05amlLV21ya3BXS3FZZFptejRJZFNGOWRkTEZSeG4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdG5Da2otcTdZR1JhSGlYNERwRFFvanlnM3Zxek5lS3NJZFpkX0VYeUowWWp1ZW5vRnZWcHBrUnJzN2pKejNiakxmRzRtb2tHUWlDQ2ZoaENyM0VUOFhsM2J6dGk3a0dqZERBZVFZOFotUWJVWmpqdGg3c1RfOTAtak1DZFI?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-06T22:14:31+00:00",
       "summary": "Elon Musk tried to recruit Sam Altman for role at Tesla before falling out at OpenAI  Financial Times",
@@ -92,6 +137,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-06T21:35:31+00:00",
       "summary": "Mastering UiPath and OpenAI for smarter automations  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "In OpenAI trial, former technology chief says Altman sowed 'chaos,' distrust among top executives - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT0lGWGN2LVhGTWlGT1RzMS1scWxzbEo1SzRmS3ZEZjBLbS1mYmhIZnhlYTRSWFFmTU9kZ1h0WkY1cmhUVXc4amFiRldhTkM4V011YWpJNFdlUGlaQXBXbkdfblBzQnZzT3lNaFpUTFRJZzYySmhtbF8wWXlBRy0xR25zQVpsQTV1c2VqLVFGX2s1OUlTdmExbC1QQmhMbktuU0IwV2Q0a0JGdXUxdHJGSTNrZTVlWEgxXzI4T1U3SjZhRDZQNl91Q3FJWDdaZ0FWX2x1YVJIMlZ1SXZRN2Zr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-06T21:29:45+00:00",
+      "summary": "In OpenAI trial, former technology chief says Altman sowed 'chaos,' distrust among top executives  MSN",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,74 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Save $50: Shop the Mac Mini to start running OpenClaw's AI assistant - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxa3RQUWN0bDZEbkw3U05zMXdrckpILUFPLXJkUzBYZl9DRFZBYnpkSDRDQnRuTjNqZUw1Sng5SWRWMmFtaXU0SnNpalFnTHlBM055aU5sRWdXOExGZWRETWJpazhuVzhW?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-06T21:09:51+00:00",
+      "summary": "Save $50: Shop the Mac Mini to start running OpenClaw's AI assistant  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "Musk Weighed Offering Altman Tesla Board Seat, Jury Told - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVp6ZV96U2xBakZYWGY1OUprZ0F4aV9aMlM4a0ZwcTNBcXNKaUNWc2haYjdPU1ZyTVdvdU40dWk3T01ESlhnQ2NGTHpOLWpKZ3N4RVNqUTUyeFFZckwxUHU4U2JtSXd4STRZTDFCTGZDUER3LVpIdG5zZ0RYRC1ybWdmeXlXZ0psbmVDRkpEMU9wZGdoWlJvdXlXcjIzN1lFQzFpUzFmQnAyc3l3UkcycUlxYw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-06T21:05:34+00:00",
       "summary": "Musk Weighed Offering Altman Tesla Board Seat, Jury Told  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tech: OpenAI’s Lehane fundraises for Ossoff - Punchbowl News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nUXh3SW14NkVQTjVna1ZLT0hvelI5WGd1Sm0zRE8zMUN2R1RMdzR0alplX2RJLVd1SmUybUJFY3RkTElUZV9vOE9lUGdnOWF3YXRzdWdza3NoT1RodTEtNVVOOUZ6MEVTYm1nUkdGbTE3SnIxRk5v?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-06T21:03:14+00:00",
-      "summary": "Tech: OpenAI’s Lehane fundraises for Ossoff  Punchbowl News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Big Tech’s Personal AI Agents Are Coming for the to-Do List - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGFVcFBhREJhV2hqeGQtNTkyb0ZwWVV6QW1VRzhia1NEU181STZOSzZoZUN3T1hrNVBOUUZRbzZ5dG9xZXFJWmV3bFY4RGFybW5VTVhIV28yX3ZXd2JRSGVGV3gxT2dwZzdKbDFxclZkRU9paHhLYzNsaEN4UTV2cTNhdjRFX1lGZTNLUnNZZExxcDRaRXRSUGxTRmZiNnk3WnczaXFkQzRTM0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-06T21:01:04+00:00",
-      "summary": "Big Tech’s Personal AI Agents Are Coming for the to-Do List  PYMNTS.com",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "In OpenAI trial, former technology chief says Altman sowed 'chaos,' distrust among top executives - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDBWMjRUdGd0bmo4ajdVc244Ul9PbFdhME5zb25uUWMxVlJualFIZktMMHFzbkowWXF0RnhoMllGenlGWFR6Q253aF9mOG9yRWVWTWUtUmNscEFEaFJ5M0xNOXJJVXBRMVVRMXRWZmhuN3hmeUxNakNBX0JncmV4NmsxR2J2R3Rhclc5SHdwUkpaQmhwcFljSGVSU1g5V18xYWFRdGZza1FHem5HS1ptX2pWTjlia01Kalo5aUNLd1BLT2hySXNyb29Ocm0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-06T20:47:12+00:00",
-      "summary": "In OpenAI trial, former technology chief says Altman sowed 'chaos,' distrust among top executives  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, PwC partner to build AI agents for CFOs - CFO Dive",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREtFdXNlWkxWN1RwOGc5V1NJT09IVXNPZXFXMUdyOGZyWVZuSThPYm4ycElRVWpCMGZQYll4OWlUZVJhN1RBa0ItbDBNdGltVDdNZ0MxUzEwWmVFb0ppdS1tT0dFSTJ3WllIOTNlYUxlSkxVLXhmWUtpRzBpOGZWU2xUX0JITGpZZEE5dG1nODJYNlJvRlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-06T20:38:27+00:00",
-      "summary": "OpenAI, PwC partner to build AI agents for CFOs  CFO Dive",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "MUSK-OPENAI/COURT - Arizona Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ReXlfNU9FVXc0aURSNWo0eUxDNXh6QmswNy1pRTBJMFdOaGUtMEJoTUc5QWdSWWlsV3R0eXdxUjRGMS1TQmRlVlRlNjRtMzQxekFfZnpxY2xoR3ZCbGxmVXBZZTNrbGZYdWhUMWZGZVExNkFj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-06T20:33:46+00:00",
-      "summary": "MUSK-OPENAI/COURT  Arizona Daily Star",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Will Elon Musk win his lawsuit against Sam Altman's OpenAI? Here's what prediction markets think - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hc0wtS0FRdENyWk5yQ3RoSXFWenF5MUF5bGRVX3dTVWtibFMxa3hsUTBoa0txY2EtdWMwMHRsWV9aY1pqekI2WkF0TW9zQTA2YzhuZkRZRzhld1VScjF2dkhfU1dUTTZTbkFTbVNOaTB5d0hrb3UzLU5nV3ZPUjTSAYQBQVVfeXFMT0FCOGhnWU5rZXpUdHJWVnk3M0tnTUVHbWVFV2JyV0tfZkFVamhjUzVoQzk1M3A5cXFYSVZLNGxtRG1mZ3p6eV81U1dGSV85REF5Q2ZPcXBVYjVSWEtKd0YzTW5ZUURQNzNib1FEZG4tRWxpN05QUXhqZ0ZmcHRSWE5SY0lw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-06T20:32:33+00:00",
-      "summary": "Will Elon Musk win his lawsuit against Sam Altman's OpenAI? Here's what prediction markets think  CNBCOpenAI trial: Shivon Zilis wraps testimony  NBC Bay AreaElon Musk’s Confidante Shivon Zilis Is …",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Training Spec to Boost Large-Scale AI - AI Business",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSTBFRllKOEl3Rml1dU9TSlQ0NzFQTk10c3YyZFd6OG9KbkNlWUUyNi0wME9KZkVfR1Y0TDRuQTlzYm9RcFp6QUoyU3pXLVIwTmtqdU4xZVF3SC0yNFFhb25aMlpGNjF4VllOb282Zl9uRFhRcG5lQ29ObzBhSUNaMW93MmhuX0NHSDgwakFzcTg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-06T20:29:01+00:00",
-      "summary": "OpenAI Launches Training Spec to Boost Large-Scale AI  AI Business",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
