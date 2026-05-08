@@ -1,16 +1,79 @@
 {
-  "generatedAt": "2026-05-08T21:10:45.187837+00:00",
+  "generatedAt": "2026-05-08T22:12:12.718411+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Here's what happened when Global News asked ChatGPT if OpenAI broke Canadian privacy laws - MSN",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOX25YSUtpNzgxd1lwRXNvNzQyZkczLV85NVVqSkNrcWsyczU3VmNKNlZ1MHpiUTlmZEVRMXpmeFBDblJkd0Q1dDhkNDZtdTRzUTBHc1pwZTNya2tKYnpZRnNpQURqZW40VS1xajFxc3BGMFdQOGlVN01uX3lua3F5MXZOalJkVm92b0tBa0VQZWpXR2FrTE1EVTN0elZSejFyd0pQQ0hIb2UxZTVLYkFGTkR1c0pMY1hPUlFaUUN4WWdGb042OXRIb2l6ei1CVzdDSklmU1hiREJ6aGxhRktpc3JTOS1sRlBveEJMUVJjRlhzNURDenhRRWhDYUpSX3dhQUtCcERFQXpjbnJPU21fa1U3bXlFYkk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T22:00:10+00:00",
+      "summary": "Here's what happened when Global News asked ChatGPT if OpenAI broke Canadian privacy laws  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Chinese users 'recklessly' draw upon OpenClaw AI agent - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95UUtQSHNzUHpEakRSUUVnRlMwRWpzT09OTGtGRks5eENRSGZYOXlsUkM4SDFRQnROai1FcVNhN004NFd0UFBIQkVJd0ljTVdCSV8tdFFR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T22:00:00+00:00",
+      "summary": "Chinese users 'recklessly' draw upon OpenClaw AI agent  朝日新聞",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Brings Codex to Google Chrome - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQnJLeFA0Z0lzbjN3aW40YUgxX0M0LTl6dDNlX2o0UVltVXhId2xSN2hLanM2Y29jVmY4VkVkTjR0Z3ZlUGItZm5wN1dZaUpSMTFXWl9JR0hnRzRBZlpscDVoNk81SHR0VmFiU1U3Wk9GSnlJWTdtQ1RrS2tOYUZ0ZFJIdGNBN0s2WGxZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T21:52:00+00:00",
+      "summary": "OpenAI Brings Codex to Google Chrome  Thurrott.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI voice models get GPT-5-class reasoning - Venturebeat",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2UxeFJUdlhJVEJhcFRoT3FpQmF1bWY5X08xdG1xNWdGbHJrNVlQSVI0X2JGT1RYdlp1LVliR21JYTROOHA4N1BDVzZDQm5TYjZhSW5heFpwYi0zb3Nfd1ppYWFyMXh4LWd6OHU0TzVMcnZqenotWFBuOG1tb1k4NWZGYXM2N1M5ZFpMRU91RUVvbkoyMkNZaDA1QUMwdmoyWHB0UUxHYkRkbERTR09WTHNSX21md05JQ1RjUTBPS0w2ZjVDOGlVNzlfRTQ3Nm9FZVVIUkJKcGtPbDZKaXdBQk5xMkI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T21:41:21+00:00",
+      "summary": "OpenAI voice models get GPT-5-class reasoning  Venturebeat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces GPT‑5.5‑Cyber for high-impact cybersecurity research - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWF5YWR5dEZYRDgzaTFzdGxVY2YteEoyTGVOZnJpaEhhSVgzNHVYdWZLV01kaEN5SFFZSTBPcUpjSUFlSTVad2NvNE50allKRHhXaE95TFhQVWdzTXRTbUJnQlQwRzBQeXhlbVpfTDA4OUtka1dVQS1kcDhqZndVQ1hVQ1Z6VzY1X3pHWDdpY0l3WHVoU0UzMnVYZkZZeHhiVFY0b25sOHd4emNsUi1qWlp5dk9FcWoyTXd3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T21:31:09+00:00",
+      "summary": "OpenAI introduces GPT‑5.5‑Cyber for high-impact cybersecurity research  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Enables Smartphone Control For Codex Sessions - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNy14dlRuVlZDQVp5c0UzazlwZWRvUmd2NzlaR0tOSFQtVFMwckxWZmhxNjNZeDF6eVc4Z1oxZVBtcDJVckw4aGE5Q0M2UFo1Z3NheHB4aWJVaE03LWNfQ0tIeVhlSFdSYU9sUUwtQXBsLWF2Uk13SWUtUTNtbURabVA1RFdFQzZWSkhrUkNBaFE3SWc4TmtPa2hR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T21:08:54+00:00",
+      "summary": "OpenAI Enables Smartphone Control For Codex Sessions  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Elon Musk signs Anthropic deal amid OpenAI trial: Week in AI - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmtQSGZkRWVSdVYwYjVzUkE1SDg0bTZROWlOVFI2bE9GQ0hPZ3dLY3FvZmpIUlhzWXV0Zjdhd0xvcS1xZmZjOE9XWFRXc2NVVkJGdXQzWjNQUTB0UUE4LU51OG9CNHl4ajZTVjAtSHYtcC02MHVOZEY4ZkEtN1dzd3k4TGMxVFdqenBHalQ2bmZsZkxZM2FZVFJGV1pTZ2llYTFDUVlFbFI5WkE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-08T20:10:00+00:00",
       "summary": "Elon Musk signs Anthropic deal amid OpenAI trial: Week in AI  The Business Journals",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "University of Michigan May Realize Billions From OpenAI - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWUI1cTVwcW1oR2VEU0FzdFlEYS0tXzZoMkNZN2E0VWlqV0szRXZ5N0RjdjMzX2RQemZlM1J2TzlTNzVLWEQzSVNhMjNma1duNFZNelBXWHBQVGNMSWtaTlFVQ1k4TlFseGNGR19BZEtsU0hJNlJxeXpJTDhoS2lYb1gweVdLNm9lZ0swWUllUTNfb1BTMXlYdzBpR0lOdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T19:44:53+00:00",
+      "summary": "University of Michigan May Realize Billions From OpenAI  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,15 +141,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Digital Minds: Why Anthropic might testify against OpenAI in AI delusion, psychosis lawsuits - Sedona.Biz",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2hiRERybFdJUXpBWnl5UXhsWkJiWGxnbFlLdHBSbXlzcnhWdlFoYjlfcnNSMTBxS2tSUXBxYThWZzVpTUhOZEZtTWM4SU8tUTNTal9yTlgzVzd2R3BoSEdfdEZSTXg4YlROcElPQ01pbTZJQTRNQVZ6U3NnN3hYamhpX19Zd0xHYnN2U203dGxualpGS2JfUVZfZFlkZHktZ0tWcHl3WVVCTnloUWxF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T18:12:26+00:00",
-      "summary": "Digital Minds: Why Anthropic might testify against OpenAI in AI delusion, psychosis lawsuits  Sedona.Biz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI expands ChatGPT ad pilot to new markets - eMarketer",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHJtWm1ZQ0tncDhMSmN1VEdsUi1Fc01Jb3U0QzQ3TDhxXzJqU19aYUozMFpVSnlSRktST3ZialhucjdMLU1rNkpBN2RfZzJZQXZLRUN4TzUzOHgyTlhmdDVMSkZQVzZERjZhSWlENmM0bFpoVGdXakZIOTNCbm00UmNHdw?oc=5",
       "source": "news.google.com",
@@ -110,15 +164,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-08T17:46:06+00:00",
       "summary": "OpenAI Expands Cyber-Focused GPT-5.5 Access As AI Security Race Intensifies  International Business Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI makes its Mythos rival more widely available to cyber defenders - Axios",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ua3RUS3Jja2lpRVZFQW4tekIzTVQyeUhLd3hkMEU0aFE5dDBfUUFFZ1VERFZyZUtWZE5iVVRrSWo5bm9jVVVRRWphNFpQbUtsY3dpY3NNQU1CMncwN2dLQ2JUcnBBOGZuYVA3LTZIdHFWZTlQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T17:43:15+00:00",
-      "summary": "OpenAI makes its Mythos rival more widely available to cyber defenders  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -175,51 +220,6 @@
       "summary": "Meta, Google enter AI agent race as ‘agentic wars’ heat up  OODAloop",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI and Anthropic just met with religious leaders at the ‘Faith-AI Covenant.’ Here’s why - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOE9fV3c0c3NnVUx6TUtlMnNKb2ZKbk9MbE5sT1EtN0lvOUNEYllEaE1nRGJrekdSNGZUZFRnUEk4cTlXOFhpbXkyZWpkSnFGNFpicDJNU1E2S1hhX2cxaGdMNEFaYnZUNTNvYi0wMHNuZHFTY1RjdmhjMF9KTUd6QWE5cmYxNGxZazFhamhxSmVOWVdQNkNjOTNwNXN4MEhDYnJPLTB3czg5ZWpz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T15:52:34+00:00",
-      "summary": "OpenAI and Anthropic just met with religious leaders at the ‘Faith-AI Covenant.’ Here’s why  Fast Company",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI makes its Mythos rival more widely available to cyber defenders - OODAloop",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHVQREpJUlh2Qkc2Tmg5ejVwWHE4cmdGUnNIR0VNVEtwN0QxR1hVS2d3Tk5zS2RqUnFPM1V3b2ZIZ09BS01oRm1va3c2NjBlTzI3VHpnanhfOUpIbFdGa25FYlBJWnE4Ry1UQ05JbzJzb0Q2Z3B1MWFqLXVvLW8zYWNpazhfb2k5dm5pR3VQalMzVFBINnFRVGRKVW9ZbFgzNTlpekpwbjU1dWh0bEhr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T15:47:11+00:00",
-      "summary": "OpenAI makes its Mythos rival more widely available to cyber defenders  OODAloop",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVY0Q0s3ZmZiOU50ZTRHbG1tVjVtUThVUGxDbE5Nc0F1T2hNRDlRUzJLOFRQUkhOM2lJR21EZ3VfcVRwTEo4Nks4R3RPVjIxbDlTT2FiVGdZU3FfY1Bqck5TMURSa3RCVl9vQndsLUpvS21UQzE2WUVTRjd4Tnd0LU44T0ViVlgyYzY0QVlWaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T15:25:02+00:00",
-      "summary": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How OpenAI is changing the way businesses operate - WCNC",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcTI5dnJlellEZHJUVm4xTmQ1TEdJVUMtY2p3S3dMdXRDWG4ySlBpUnBMQUFKZjVrMzJVcHZpRTdTWDRjeDltdW9QVGpWSFpiRkVwZHFXa2lMYVlkejZFQnlHMDVXNEJpVklDNjVPbHdnQjBaSUtjNmx5Z294TG9mWUQyRkItaDlTQ3FuWXkzcC1rQjFPSFpFQmRnb2pid3pkVENlYlFHbnN1aXphTkI5WEdodnJack8yNlUyaHpTV1FwMlZZS0p4eWhqRXY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T15:12:00+00:00",
-      "summary": "How OpenAI is changing the way businesses operate  WCNC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Moves Closer to 'Super App' Vision as Codex Expands Into Agentic, Cross-Platform AI System - Cloud Wars",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFByM2RDR0M1SGV3a2V1RVBqcExWR2FkSUlEdjg1eWpKTEVhdGl0MkY4aGxfdkJocW9yR3FtVXNEeVJDNF81VlE1a0QzVDgzdVNxc3dZV05OTkY2S3piYjI1bGRJNHdGbFlIdkpUN2tjaHFfMVBOM1l2dl8zZW85T3FhckNVcjJCTUwxeEgxbW5SalhneDZQWkhPcVV5cklnQXJBTFFxY1BWeEZYSHRxN3Bsanp5M25vbTZ1OA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T15:00:00+00:00",
-      "summary": "OpenAI Moves Closer to 'Super App' Vision as Codex Expands Into Agentic, Cross-Platform AI System  Cloud Wars",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
