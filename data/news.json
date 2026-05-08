@@ -1,16 +1,79 @@
 {
-  "generatedAt": "2026-05-08T12:12:13.560864+00:00",
+  "generatedAt": "2026-05-08T14:20:47.458884+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "‘Terminator’ Fears and Internal Dysfunction: Inside the OpenAI Trial - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNzc4Zy1nN0h0eXoyQjVqU3Uyb0tlYlhtYVFlUlJfSFJNN3JhLURwTFR6TEx2UTRpeWlBUEl4dTFtSTg2UVpFN0NDdmIwR0YweWd3dUhBQkQyLWstTWx4QkZyaXloVUxjRUlkNkU3M1BETEJ1UlRUYmNseTRpYzRpUQ?oc=5",
+      "title": "Sam Altman Stocks: 7 Companies Set to Cash In on the OpenAI Empire - MarketWise",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xeWJPMEp4SUoxMTVxb19CeHF1VVkwRk5HODU2VVZvVUhNQnEyVVlOZDgtLVBPMEcyaERjZzdBbVV4R1ViNWNQSEJUWUpLNlZuM2JnMkF3MGxzRkNaZ0I2QQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-08T11:56:05+00:00",
-      "summary": "‘Terminator’ Fears and Internal Dysfunction: Inside the OpenAI Trial  The New York Times",
+      "publishedAt": "2026-05-08T13:57:15+00:00",
+      "summary": "Sam Altman Stocks: 7 Companies Set to Cash In on the OpenAI Empire  MarketWise",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Worries about AI’s risks to humanity loom over the trial pitting Musk against OpenAI’s leaders - WCAX",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNakZQVURIemx2OGl3Z2Y0Qi0zTFpfS2htUVh6RnVaSXRYbXZMQTNlSG1QNkZyMXJqa1hwUE9CMGlFd1poZ2h4bkF0U0pGU1BKbTE3a2M4b29aM1BBbHRjX21od29PYzBCb3p2OXA5RXZYZjgwV3cxUmduLUlEY1dGNnVBNU1FeHZ2LU9WNnMwSTlIOVBTLTdPQWVKU3ZjM2V5WlByOExmNEl0UU1KVzhhT1BWcktZSUtwb1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T13:55:00+00:00",
+      "summary": "Worries about AI’s risks to humanity loom over the trial pitting Musk against OpenAI’s leaders  WCAX",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Broadcom in discussions over financing of $18bn custom chip project – report - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbXBLMmpGS1FGeVh4eEtzbHVCelFvdUFLRllodGFtQlhjYkp2c2IxeDZnRGs3TUJpMmFHQ29uNXpuRXhjOGVVSWJpTVR6VTJ2Vzh5SFZvcnVRSllaQjc5S2VfbktHbXdmTml2d21zUG4tRi1hUWlpTzdfbkV3QTFpUGJnY29vMDJRY2VkYTJOdDNxM3Z2UjdpdlZ1djZlV2tRZnpIXzVvNVFxb2pJSU9FdVVrRmhKQW4wNnJHaklKZldLRlRLd1Fr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T13:43:51+00:00",
+      "summary": "OpenAI and Broadcom in discussions over financing of $18bn custom chip project – report  Data Center Dynamics",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Faces Executive Exodus Amid Restructuring - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS1JwMGh3VXVHMjlWcWx0dW8tRlRhSDhVQjlmZ25wRXg4TDcyd0I3NnhYbFg4RVFVVlFJNDJfaUVKdHdQbnB6bWVGd0JVVXFwRTFGSEVBOVNlNjFSblhmYS1lVFFwdVR1QnU1U0tqRnVpVDQ2cXhLa0JKRHpyMGJ6RWVZSFlGUi1pSXJZVG9SY25oUERU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T13:34:21+00:00",
+      "summary": "OpenAI Faces Executive Exodus Amid Restructuring  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta is building an OpenClaw for people who live on Instagram - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYU9UeFZSaUhLYnlwN0RwR2FHbEF3clJldzRnX1A1LWNVem94N0stbEk2NjMxOTB1YndadnJXelJFUW1wQlBfUmFzT2s5YzF1Q09UZGZHRldyaVlXZGRaT3cydWhsN3RnVVR3TGhhODVKMTAwX19fY0Y5SjU0cFNCNEo0bHkzNGxlR1k0bUtxRWlaWEQ2ZHNudHg3M1dTNXRtZFR3Qm81WXZMS3ZnWXJ5Y05iRWFvelVaYmRTZDUyN2tIeUlxa3BNZGRBTEVwNmZaVkNocm40SEhJcWF60gHiAUFVX3lxTE9oN09xS2lJNDJIQUJ4Q0piMktEazJ2Wi0xbkoyQ3dYS0VyTGROQWtNZEZBQ0JxcHR2azhJa1AyR2o4ZWlZaV9GM05RRm9wZWhOZmk4SGtIMU9JRlB2SlliYV9yWFZfS1Z5Y2s2YkF3VW44aVJvNjJHUm13bXlITVFTN245Q3d4ZFg5aHpmdjBXcHpXY2tHYUd4YlBhSUVjMERwM1pEa004WUV2QkhTU252SDAtZ2hxZnVtU3pNemhSWkJ1YjBYdXRCWWNiLXAtbEd2QnZ3djB0YXBBdWVaejJQc0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T13:24:00+00:00",
+      "summary": "Meta is building an OpenClaw for people who live on Instagram  The Times of India",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI’s New Models Listen, Translate & Act in Real Time - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeFd2WHg0VUkzYTJTMDVxNlZXaFllM29rMzZmeFl4WkprQU1zUkRyOTV5NnVNODZYMmNManNpcTJGS01qYjJKOGRyNjhWV1FvQ3VsRTJtTjNWb2VoMUVvSTJjelZLRGFCTXpwU3RwUVQxX19sZlZQMjRwSVc2dFRiY3phdlYyUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T12:56:05+00:00",
+      "summary": "OpenAI’s New Models Listen, Translate & Act in Real Time  AI Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why Hermes Agent is Quietly Replacing OpenClaw for AI Task Automation - Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rb29RVTNpdmNaSDlodF81Q3lCTHctQml0RjVSTFc4V3lRcXlBRjRKaXJDWEpiNjF3czNhNjc5Ml9QLTZGdHg2MmpjRWZhcFg4Z1ZjMUhrSnp6QW9xWXVuRTRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T12:47:32+00:00",
+      "summary": "Why Hermes Agent is Quietly Replacing OpenClaw for AI Task Automation  Geeky Gadgets",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "SoftBank Scales Back Planned $10 Billion OpenAI Margin Loan After Lender Pushback: Report - SoftBank Grou - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTm1ISmhIRVV6NlhRMTJVWVFMS1Z3S1ZobTJ1cXA2ZEFJUzZpVk4tc1FiOWZJczFCSTFGX3pFTUVSSFdjakFUWXJoeHNpRVljU3FZUUNDQ3FpVkZucTltaFVXNnl1YXQxeURyTjBOQ3JVa19IeXVzQlBsenotenM0empuRVdJZ2l3OVRnRUJybVloNV9MZHhKQ1FEVWJjUEt3NFhIRWhrY3hnVWhpckdFdHpKdEdMRjVxTGEyd0g5SEJjeWdqbXhQOE9KdkxkSk9kVGFZZzRpRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T12:42:01+00:00",
+      "summary": "SoftBank Scales Back Planned $10 Billion OpenAI Margin Loan After Lender Pushback: Report - SoftBank Grou  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,6 +137,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-08T10:00:34+00:00",
       "summary": "😺 OpenAI's GPT-Realtime-2 is coming for call center  The Neuron",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk could lose his case against OpenAI — and still get what he wants - vox.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2Z01OOGpUUUFGTXYyTmRjSFYzSlVobXUzSjRhRFI5UEZ2NW1DMC1OS25tOFlfdy1DWFlwdkxIN3dxN2M1b2JicVUzX19QcFBzLXkwcm15N0l1OTlHR1BHbHJNYzFIRkg0NlltSWt6NTh4Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T10:00:00+00:00",
+      "summary": "Elon Musk could lose his case against OpenAI — and still get what he wants  vox.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -148,78 +220,6 @@
       "summary": "Google’s Gemini-Powered ‘Remy’ Targets Open Source AI Agent Leader OpenClaw  Open Source For You",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "SoftBank cuts target for OpenAI margin loan, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTR3TURmeGlYRHRSZHQxWGlCWW83WjV1YnlMeXhqQzktOXRqSnZHbzB6MmRLYkZvMnJINmVSTEk3cEtpWFRtMk85VmJUTzdZYWxUYm90MngyU3poQkVqcnFydl9zUGdiaEY4Vm4xWTFxdDR1aTBHNnhIOTNrQ0l3YS02RGtIRU1OOE04OEhKY3RwdktFODg3QlZQT0RTaWZ6TGtJYU11dVFwMy1BLXBDUVdWTmRzMERVRnNfWXREU3U?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T08:28:46+00:00",
-      "summary": "SoftBank cuts target for OpenAI margin loan, Bloomberg News reports  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI doubles down on cyber defense: GPT-5.5-Cyber limited preview now available - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDcxRXBnaEd4dXBlU2VwcGNHNDhCRzJBX1NZd2JRdTIwaHdPN3lzVWVMX1EySnU0T1VtbF9hMmNCSkpENjVGS1pIRnU4am15Rm9SN2U3YVpiNXUzTkVkUEwtSnllMlJpTWp5TkFQTmVIT1ZwdkYwemx5d2ZWajZxT0xOY0dZWGRvOGl2XzY4dXJ2SlBtdzRoQ0dlLS0tVTVEb3o3Mk1sSHVVUzRf0gGrAUFVX3lxTE1INkY5eXFTNU9HeFBjTUJUbTg3Q0tHVFZvQWJwazFudlpCNXdfb0VUVDFyaXFORk9kWGE1QXltTzFGZVZUUVNncVhBN3NNS1FkODRoSzVCc084dmFaNDRkdmtBTXg4Zk4tNHFPZHFmR2RQYUdZN3luSXR1OTRTdDE5elhjaHpmYWtnakRBeElYbUNZN0RoZ1BSQlR4ZUk1N3JOTW1UVnRsX1JZNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T08:22:53+00:00",
-      "summary": "OpenAI doubles down on cyber defense: GPT-5.5-Cyber limited preview now available  Neowin",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank’s OpenAI-Backed Loan Plans Get A Reality Check - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEZiNGZocVQyWFFaLUV4VFJ3Q3kwU2xTcXdrOTBpemIwVmV6MTBuMkt6UXdjNGRFV3V1TmlmWkpjWHlJcnBNVlFkdTd3bTNZOHd4QmFHLW5SOUtYN1BjbHFoQ3hWclVOY0pHZ1hFbzEyYVItU1QyYmJrN1o4TjU1bnJBXzRQTGFkMU1B?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T08:07:38+00:00",
-      "summary": "SoftBank’s OpenAI-Backed Loan Plans Get A Reality Check  Finimize",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI tunes GPT-5.5-Cyber for more permissive security workflows - Help Net Security",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vdXV2dnh5d1Z6WURWRWdmRFktV0Z3WGJ6RWRYblJHZUNRLU5MM2FybnhNUDNSUHBFMTFKM0t0LWZ2VjhJZHAwX21KdWZLcnNjWjRncXc0SjJQaVgwZFZ4VkNnYlZDSzYwVkpLYlliVFZOVnpYZDk4Wjd3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T08:03:33+00:00",
-      "summary": "OpenAI tunes GPT-5.5-Cyber for more permissive security workflows  Help Net Security",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI may have stumbled—but ChatGPT tools are still guiding the AI trade - PCWorld",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGFHR1hBR0xob3lMSE9TdlBJQ2hmYklBX0tFQ2RhY0hhNTdlMF83M0pBY1RBMEVra091ZjRoUUluTU03bjVMOU4yOUp4azJlT2d6czR1emxEbkpuQ0tyanJhQ3p2OXNNUjlWMGVHcUxpa3N5akU4Vmo5X2JSWEZuNzFVTE5hVHNsUGVXU3M3MUpva2lrc1FxQXlsMDZ5czBxbWFKaU13NzBrVGh6NV8xejBScXFUZjBXR0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T08:00:00+00:00",
-      "summary": "OpenAI may have stumbled—but ChatGPT tools are still guiding the AI trade  PCWorld",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI violated Canadian privacy laws, joint investigation says - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSUptNmwzRjNYWVRnTnJYRTQ1V1ViZ2UtZXFORFgtWVdCVUVLYXVzOV91dmlzVEQyX05hZ29Fbjc2UDA3Vjl2eDB5OVN4SE1wUUZrdGR3U0lYOTgtU0EtSHhyVnlieDRGSDl0SEJjUXpFT2pVQTZiU0VlS2V6eHIwT2VwR2l2cTluWGgwNjFQWUpIY0x5QnZ6ZHliZE9ONWdtTHBDcGNJc0lhenZ3LURCT0V0MGNZN2xpdHlod19TRUhPWk1Hd2FwREFGYzFQRzBJN2UtVFllTTZnRnJaUmRDVEF2aURYdkUxM1dhaW45eU9fNnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T07:38:50+00:00",
-      "summary": "OpenAI violated Canadian privacy laws, joint investigation says  MSN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank cuts target for OpenAI margin loan by 40% to $6 billion, Bloomberg News reports - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTk5JdEljSkl4VHluNkFSNkRuLUZiNlFqUmhWZWR0cm1pVjJTV0p2S0l6VE12THJhdC1Qd0RQOERZdTBIZWNOcUUyUnlBQ3ZKQ21BWTRLS3ZnaU9ZcTdZdFEzSFEyX0lVREdsOVpvTGZRUjRwRVVUUS0yclZoVWhiSXhmenRUTWhrSXJj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T07:28:33+00:00",
-      "summary": "SoftBank cuts target for OpenAI margin loan by 40% to $6 billion, Bloomberg News reports  Yahoo Finance UK",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank Cuts Target for OpenAI Margin Loan by 40% to $6 Billion - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHhiczJ3MHphY3ZPcGhmSkVjODBSTXo5Y2Y2Z2lyRFVURG5NZ0hhbWxDVHlkTW1XZGtQcmdLc2QzcE1keWNqdFNwWG9EMWlHdTdRQUwtSEMyM0hzTHRIT2MxbTluODJtX2tNaG1YVEpQOXQwdUlDUVB1MHotcDFoQXJZSHFyRzdtNmQ2dWZvckFiTGF2c2k3SzVpbjJVb1M1RGhLeXREY3pXejYzRW40N3RzNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T07:15:47+00:00",
-      "summary": "SoftBank Cuts Target for OpenAI Margin Loan by 40% to $6 Billion  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
