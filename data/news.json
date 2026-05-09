@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T18:02:17.067624+00:00",
+  "generatedAt": "2026-05-09T19:18:03.936379+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -20,6 +20,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-09T16:38:00+00:00",
       "summary": "Report: UM endowment to get $2B richer thanks to early AI investment  The Detroit News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJ2RGhFNzZENUhoNG5fVUxteXRTMHlZRzM1czJRQ09DQU4yd2xrUG5GX3dCbzFDcV9tMWs2eTF6ZHlzQlhvTlhuTFlnTDZVLXdnTGFtNWRtdkoxVURHbzZ5dVNLTlFHaE1VUzg5QzlDQV9IUWxzQkdHU3UwaDlKVThDdEtuMHY4Z1NfQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T16:00:00+00:00",
+      "summary": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge  The Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -58,6 +67,15 @@
       "summary": "Open AI CEO Sam Altman Apologizes for Not Alerting Cops to Killer Amid ChatGPT Being Linked to Crime  National Enquirer",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google Stock Could Rally as the Company Builds OpenClaw Competitor Remy. How to Play GOOGL Here. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUk5PQTNkc2tkNFhHdURDVlc2dnJhdFY2MjFiRzRuajZrV3B1SFhlS1VMX09SNWFDMXM5NTdTYzRHQlFpWTVRRzZHOTZaVHZDeE44UWVFaFhmTzBWR19aVkRyMXdfN19OM0N4UVhOdUY3NXlCOWE5NlgxZGRFQUtObHZXdlppY2pkNkxYS3JZQWhMcU9nWTNHV25YeHBidw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T13:00:02+00:00",
+      "summary": "Google Stock Could Rally as the Company Builds OpenClaw Competitor Remy. How to Play GOOGL Here.  Yahoo Finance",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
@@ -123,15 +141,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI launches GPT-5-class realtime voice models - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY0FBSU5JRHN1eUxJRnlVOUs0SDhTV3JKS1pyb3h0YU5nWWd5aHo1NTFhSkxoeDlnVHlVZk5NNGhnUG1NZWZaNmFjNGFVNVR6RWM1NlpQS09LdjRwS2hJTDJzbURPclA1OGJVZWo3dHlwSnZLZTRpQ05yczB3ZUJJYjJ4TXdxQjBzbTZhQ2YxMERRSGphbUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-09T06:38:34+00:00",
-      "summary": "OpenAI launches GPT-5-class realtime voice models  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "FriendliAI Targets Open-Model Inference Users With OpenClaw Integration Guide - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlNNNGFMbDB1QVl2cnF5OW5meHN2aHVtRlJJaUl1ZUFWRV9JZTQteGZiWklNSU9JdDRWN3V2bWtCc3dMcW5Ocy1vZ0EtWlNreWRTd1hDYWo5STNyQXZTcHcwZVh1N1lTc3lfQzV2bjhxN1hnTzR3Smt1UzZrSXNRSEJra1I2Vm5NbHI2a2ViRER6WnF5aGh6bXR5MThMWWpFNU5iMHpOSkl3VVd6ZUtzOEwzdUdYNEM2NGgwVThCWUtGbWs?oc=5",
       "source": "news.google.com",
@@ -173,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-09T02:02:52+00:00",
       "summary": "Michigan OpenAI investment worth $2 billion, could lead to NIL dominance  Yahoo Sports",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Secret Diary That Has Spilled Into the Musk vs. OpenAI Feud - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3lXSFNZa0gyZkx2UTlhZU5LdkFmNVFmRUhyT1dfdUxLTUZrMzFYdXhWZDNfYUtRMkdSVDcwT0NRRDhwWFVfQ1k0TEs0Q1E2ZzZ4U2RMcU1kTGk4eXBERWg4V0swc0R1YVB3ZHQ4bUdQcTRvZ2kzZVRNYjBGYnI1M0lIblpTQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-09T01:00:00+00:00",
-      "summary": "The Secret Diary That Has Spilled Into the Musk vs. OpenAI Feud  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
