@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-05-09T10:39:31.699841+00:00",
+  "generatedAt": "2026-05-09T11:31:48.053339+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkFJZnpYM2RiVlVYdEdodnhHT3FZUE4xY1lwUHlQNFhWN0ZsRklyeG1uMDI3OHg5R2hWSTdLdE9JaWhUeXU2UjEtWFVZVkRqQWZpYWMtNDBBeHhvdVZiYTk2ZGFDNkJJRFJadDQ1SzhuamlEWmRPLW1VdFhsMVZSU3lNN0NHYVhLUmtCdXI0R1Y5VWxodUJ0NG5lQjNndDVldl9NdUZrUEFScVVmenhNQWc2QjkwaDQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T10:52:13+00:00",
+      "summary": "Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Qualcomm’s CEO is working with ‘pretty much all’ major AI players on top-secret devices - Fortune",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaDJWRVdyVUhGSWc0VjRSOWJqUTVuamhQRXBUZUpvNEFuNnhfWVFzem5LcHJ0bUNybVl1NWdhUzFHZFhERWo1emJvbGRxbHZvNjJvMENnNzBuRXg5ZlpLTFBLcHpFVnpYME1iMGdMZi1nNFgxLXdRbkhsTGdaMVJQbXZTQ28zNVpLV2tVRjJYbkRvTW5ybUlKSlcxSHM1QQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-09T10:26:00+00:00",
       "summary": "Qualcomm’s CEO is working with ‘pretty much all’ major AI players on top-secret devices  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI IPO targets late 2026 as revenue hits $25bn - crypto.news",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3UkluMHZWc1V6Rjh3MVVmTGlnRzdSaDVBd1l6S1hWcmV6MFdxVFFqOUdpcERZNW1yRGk3NjVzOHBXdF9HMVowZE83TG5GdnRrRXZ0MnphOUFfbllPVmlFMkloVVNVQzExc2l0Zl9yQ1l6MmpLWkZIenBR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-09T09:59:00+00:00",
-      "summary": "OpenAI IPO targets late 2026 as revenue hits $25bn  crypto.news",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,13 +33,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Musk vs OpenAI: Court battle exposes fight over AI control - The News International",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdTRqb1ZjVHZYWmd1U2FvTDl5YVVzZEF5NmZRODc5c1Q2ZE1lV1NXSnoteHBIdE9nOEx1eDl0NHBkU281WXpfYzJ1ZGhlbXFERTJ5REdtVFlDa05zQmRDMFhuMW4tUWM5eWRqRzhHUU03VWw1eHpmRmU4UElreUY4UVVNaEwzUTJxV0dicll5R2tXeHJOZ2VEblBhNTJHZ2tw?oc=5",
+      "title": "How to summarize emails automatically with OpenClaw - Hostinger",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYThPVlBBdG92RWRkd3Utel9hRnREd09NUDA3ektQNkhySGluWFFVdzFmNDJCQktROEpzMEdKZXdIM1A0d01UOWJEMzNUWUlSSmNFY0E2ckVMX2ptTXUyeGhiQW1ybVFnRlFVVXdyYjI3UUpQLXNqNHRjSHZ4N3M2aThDaHVKQ1AyVjFaLVlwSlU5Vmg5?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-09T08:52:30+00:00",
-      "summary": "Musk vs OpenAI: Court battle exposes fight over AI control  The News International",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
+      "publishedAt": "2026-05-09T07:26:08+00:00",
+      "summary": "How to summarize emails automatically with OpenClaw  Hostinger",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenAI Hire Puts Trade Desk Leadership And AI Valuation In Focus - Yahoo Finance UK",
@@ -78,6 +78,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T05:56:25+00:00",
+      "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "AI: Anthropic & OpenAI dominate Weekly Summary. AI-RTZ #1081 - AI: Reset to Zero",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tZ2lIQUMzc25MNEZZcWRvRlVxMk1uc3A5em1yMW5VeWpUNzJwQUQwMUF3R0FSSUp5aG1Mb1UxX0Y3bUE4WEI4V2lJRWxMZUpFR0EtalljcWMzVU5Kbk9TVEdoWWJpNDVKME4zcVoxVU0xZW5sXzVHUw?oc=5",
       "source": "news.google.com",
@@ -96,6 +105,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "How to automate meeting transcripts with OpenClaw - Hostinger",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSklFbGw1bnlDNjJDeTFjc3BrcEdRWFI5SDRWdldQaC1idUpaUFNDUW5sTlZKb2RURDhGZXJ0Vjg0ZWtpWlRxZmF6aGFDdDJ0QjVFb2dQZThxSlJzWEdXV3UzN3FUMWRpSVlkUFE4c0p4QVhlVkI1SGxRejlfcVFoV24wNjhzeTVzS0tn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T03:40:05+00:00",
+      "summary": "How to automate meeting transcripts with OpenClaw  Hostinger",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "Weekly News Roundup: OpenAI launch, AI lawsuits and frameworks and Pentagon AI alliances - TechTarget",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWjJSLVlVMTRLczREWndjZ3hkVjZHQlpSTWhpU0wyR3lJQmZMaklCcU1mQUcxOUdnOEJrclpCb1FNXzg2RjAzSlU2aXJHc3ZQM3AzNjMwSDN4VjZQdzd1UWVYcDRKcC1YOGpkbkpUZnpCLVc4SXdpWkw5SGZXSEpYaDk4TWpQcV92cGlnSlA5SVkwbWd2MWN6NGh4RVlKYk94RHNqX1MxV003UUhHUktOaTgyUmVnUXVibWswSHBXdFlxV0Y3WkRpSjdrUQ?oc=5",
       "source": "news.google.com",
@@ -110,15 +128,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-09T02:02:52+00:00",
       "summary": "Michigan OpenAI investment worth $2 billion, could lead to NIL dominance  Yahoo Sports",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Codex installs surge to 90M in a single week, fueled by GPT-5.5 rollout - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ya0VIbV84bm03TEV5UEhrVGVFajJtZTFGRTNXTEgwWTBaeDh1cElnaU15bDBmSUpyRUNOelZsUjZfN0hrbXVSSTF1Z1Z5Q0RST1l0Z1ZJOUdrOERocU5IWjVhcjA5SG84V2RHSDR3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-09T01:16:32+00:00",
-      "summary": "OpenAI Codex installs surge to 90M in a single week, fueled by GPT-5.5 rollout  Crypto Briefing",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -177,24 +186,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Easiest Way To Set Up OpenClaw On A VPS | Part 1: VPS + SSH Access (43AdWcngHV) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iM3B0YmhmMFM1aE5ucFIwblVQdmY1NUQ4aVl4aktVTFhBTmdwVzlLRXhlc3FETHdQLUpEQ0dBSHBGcmt2eW1lYm5uQm9MUnBBM3l0ZFhNb3pVZEd6MktwODRUeHZxUm1xX1ViWmViTi1RMlJHU1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T23:11:04+00:00",
-      "summary": "Easiest Way To Set Up OpenClaw On A VPS | Part 1: VPS + SSH Access (43AdWcngHV)  Fathom Journal",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "EXCL: Sam Altman Takes His $49 Million Hawaii Compound Off the Market - Realtor.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWY4QThLdmxHenpsVWlZdmhQajlQMk5odzd4SjhkdnctWURnRUNOQVpTSmxYU3dUQWNYdW1VUDc5bVZuTklFM0V6WjByUzJmV2pIbWtkb1FvYlc5eDZYbWNWdVVBVE1yQzZzYW5YdGJoVzh5UC1wM3pGNzd0R0JuOFNRbE9UNTNBOGVHd2xkRmdlSGczMkZ1RGRJQnpscHFfVGdJa0xTTVk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-08T22:39:18+00:00",
-      "summary": "EXCL: Sam Altman Takes His $49 Million Hawaii Compound Off the Market  Realtor.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Chinese users 'recklessly' draw upon OpenClaw AI agent - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95UUtQSHNzUHpEakRSUUVnRlMwRWpzT09OTGtGRks5eENRSGZYOXlsUkM4SDFRQnROai1FcVNhN004NFd0UFBIQkVJd0ljTVdCSV8tdFFR?oc=5",
       "source": "news.google.com",
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-08T21:41:21+00:00",
       "summary": "OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate  VentureBeat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces GPT‑5.5‑Cyber for high-impact cybersecurity research - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWF5YWR5dEZYRDgzaTFzdGxVY2YteEoyTGVOZnJpaEhhSVgzNHVYdWZLV01kaEN5SFFZSTBPcUpjSUFlSTVad2NvNE50allKRHhXaE95TFhQVWdzTXRTbUJnQlQwRzBQeXhlbVpfTDA4OUtka1dVQS1kcDhqZndVQ1hVQ1Z6VzY1X3pHWDdpY0l3WHVoU0UzMnVYZkZZeHhiVFY0b25sOHd4emNsUi1qWlp5dk9FcWoyTXd3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T21:31:09+00:00",
+      "summary": "OpenAI introduces GPT‑5.5‑Cyber for high-impact cybersecurity research  SiliconANGLE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
