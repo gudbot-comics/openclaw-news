@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T08:13:36.227759+00:00",
+  "generatedAt": "2026-05-09T09:44:41.411034+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -78,29 +78,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTRxOTdMb0J1Xy1nWlZDanJFNGxPekJvci11cFVlQ0JVMUtudFRtN3N6U3RZZHAwWEV1Y1ZfTDdaSk1xMU9LMkpSMkk5U3FEcWdURzJ3M3FGcVVOWnpqY1VmWWJXQmV1N2pOV3YzMjZMVDJPNDI2aEZQOVc2NngzLWNzZ3o4eDMzZHhfa2xEQUpUVFc2M2hHY2dRNWxIMHhrVFRLal8wTVJzX1YwOFZDTnNTRWJBSUlqT3EzbHhjbXY2SUdaVGxrZ0RLODJpUFkzNmVlYklhaG9zMkF3YWwwWERtaWJyZTJldkV30gHwAUFVX3lxTE5HWHhvR3ZLSElQYTJFb3c2Tkx5cldyWnJQUFJtN0hfdWVPdnZXNmYtLWpDN1JBZjIwYm5fMmhqb3V0RGNRZW54NG5UNVRXNHVXYk1tMm9PSHNncWYwQTBFNlZscTNjMG54LUd2dXZtNG1GTE5zd2lzUjFQYl9mVzdWZHgtaGhSVTVYeU5KMzZPSmpnNE1iUGg4d3NobFMwbEF0ektFTEhzcmVLd1gyU1BqRjRLMkswMWFQWTZiQXktMzJ3a2RSUjVhZWdLNERIeGxIcU9lYl9xVjRLY1p2aWpzVTM2UXFjbkZjc0hsWm9IMQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-09T02:00:00+00:00",
-      "summary": "OpenAI, Anthropic are starting service companies, it is good news for Indian IT sector  India Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Codex installs surge to 90M in a single week, fueled by GPT-5.5 rollout - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ya0VIbV84bm03TEV5UEhrVGVFajJtZTFGRTNXTEgwWTBaeDh1cElnaU15bDBmSUpyRUNOelZsUjZfN0hrbXVSSTF1Z1Z5Q0RST1l0Z1ZJOUdrOERocU5IWjVhcjA5SG84V2RHSDR3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-09T01:16:32+00:00",
       "summary": "OpenAI Codex installs surge to 90M in a single week, fueled by GPT-5.5 rollout  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Codex reaches 90M installs in one week - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa0puNGtZMW5NS1hSeEwwdzdwQ041Ql8xWnpHUEVlNmdpTlhYS09OMlJCZ2MweW9Oc0o1QlBSWHozWk11QVloNUdRaDNRdTRnSkNQZm1nWHNqSEJVWVJJMEcwbl8yeTkyc00zQVBHUXZDM3lnUzBXeTVoeGN1aW9pLXJodlJJa0FaUGJWd0NONGI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-09T01:03:41+00:00",
-      "summary": "OpenAI Codex reaches 90M installs in one week  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -112,6 +94,15 @@
       "summary": "The Secret Diary That Has Spilled Into the Musk vs. OpenAI Feud  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "China unveils guidelines to regulate, boost innovative development of AI agents - People's Daily Online",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DN3F0YzNlSkFNUzRiQWpOZnMwNTBQTEMzZjJuMktOM25iOWhsWlpvTWJyNlN4dGtWYmJGZzlEYjMzLUlENEpsZkM4Z3ZTY0twZXFrdDd5WGM2eXhweUZ5NFo1bw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T00:19:00+00:00",
+      "summary": "China unveils guidelines to regulate, boost innovative development of AI agents  People's Daily Online",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "University of Michigan’s $20M OpenAI bet aims for $2B return, legal report shows - MLive.com",
@@ -213,11 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Musk, Altman Management Styles Under Fire at OpenAI Trial - Bloomberg.com",
+      "title": "Musk, Altman Management Styles Under Fire at OpenAI Trial - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX19xT0k5b2FTelhTOFNPT3lkVGF6RmIxWXpkbHBDVzRhVkpNbzFMMGdYTVJkTlkyaThiSDlJclBtdUpfOGljV1J2TjkzV0hOX1p3ZzRhRFRmWkJjVnJuSzhzNXQzYmV0UmwzWnFJdWpiYzBKbXRIR2lqR0lJSlhLOF9XUTlIM0EtYjhyY0l2U0lRcVlBa01ZNUMzbTY5X0prNG51UUVLVnh0d2JPbkZJdU13?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-08T19:22:19+00:00",
-      "summary": "Musk, Altman Management Styles Under Fire at OpenAI Trial  Bloomberg.com",
+      "summary": "Musk, Altman Management Styles Under Fire at OpenAI Trial  Bloomberg",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches Cybersecurity Preview To Challenge Anthropic's Mythos - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXBubC1wMDN5MDdlM0VucHlrcEtORXg5aHVpS1otbVBiVV9tdThLTlphQ3RJdXRnR0lTU3hlVXdtMVp4M2wtNXF5RFdLSmloakV5ZFdvMXJzQy1ER19TTzVWbWxONGpUQkhyUFlCdTlIYzhzU2tmNEI4Q3poOW5DYVU4RkJFUHJvYkpQSGpGdGVDTHdtXzRMVzFvQkgxS0V3N2UxU0F0aFI3X2R2dEFadnRqc1VPc2pXTmhXXzd0Y0VDNXppdW52bWVKdU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T19:17:07+00:00",
+      "summary": "OpenAI Launches Cybersecurity Preview To Challenge Anthropic's Mythos  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
