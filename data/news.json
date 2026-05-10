@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-05-10T19:18:54.388655+00:00",
+  "generatedAt": "2026-05-10T20:05:58.132411+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI, Anthropic workers fuel S.F. rental market surge downtown - San Francisco Business Times - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR254aEh3eEE2eFZac3VMdFpiWktZeVhsSWVhS2dHb3VWMy0wUnJBZnJ5d1NUaWRaZ0IxNzUtSGlOLWxtOTBjYUh4U2k3aDl5TjZQWE1GRFB0a2dFejI3NTd2R0JRcmFheHFFSzk2SHBhVHNXdW1pNlRmbTdaNXlCQzhLVld2ajR3UTZYTkp6WU9UMlZuekpKa0FCZkJqV21JZnZnbkhYSDdwc1lzNlVn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-10T19:56:00+00:00",
+      "summary": "OpenAI, Anthropic workers fuel S.F. rental market surge downtown - San Francisco Business Times  The Business Journals",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI president’s private journal entries read aloud in Elon Musk lawsuit - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TZ3RRRm1McHc4b0kzb294b19semZmalZOSEJ3MEp5WUxUQWVkNjRQR290LU05aTduTjhUM1pIaVJwdDhjeU1RWFFWSlBycEgzZnhwSzM2aV94aHlPYlp0dVZqSW1IaHJCdFdSRWszQlR2QQ?oc=5",
@@ -132,11 +141,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "What Sam Altman's lawyer learned from RBG and driving a cab - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVlsenZ4cVI1MVh5Smg3WHV4Zkt5THpaSGJ1REFic1ozZnVQc2xrYVJJcG1JeWY0V3NkNHdXOVdUay1KSEVlUFBfc3UyUEtueEtFbDdCaTBrcGYtaWVHTVhyNmVPaENIU3pna2hhUTloZWlmbnVRMDRoa0NteldXODY0TWR0NU1yRklEd0N4OGVnZkprejFfM21JcWVmVm16RkVzd3YxUXQ?oc=5",
+      "title": "Malicious OpenClaw Skill Distributes Remcos RAT and GhostLoader - Cybersecurity Insiders",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1pGMVlqZ2RHY0VuZjNFNXJzWDVzSnRVMTNSc0pEN0FqMGlYVzh0UmZNZUhHdkxPMUFJYXJ6LWhZQ1VzTmpxQWxfdk51MjRQbTh2eVdEd3p5TjFVNVZMcWI5azdkY3d2eHhFTnRWUWFjSmtjRUwyeWp5V2drMlhyTmRXUl9VRllsYVk1TzhWQUptbm93cHJjeWJtXzFTZ013V0F6aG1n?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-10T10:03:00+00:00",
-      "summary": "What Sam Altman's lawyer learned from RBG and driving a cab  Business Insider",
+      "publishedAt": "2026-05-10T09:15:07+00:00",
+      "summary": "Malicious OpenClaw Skill Distributes Remcos RAT and GhostLoader  Cybersecurity Insiders",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "The ‘Chaos’ Inside OpenAI Is Spilling Out in Court - New York Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzhkV3Q3TTdtZlNjaWRBUU5YMGVKNUFFQ3VuSEdtZUh5VVRZajJzWE15Um45UkkyY0RiWDNCMUVGYVdBTjd4b3ZfalpIaVhhR3FnQXhwV0NyUnZqQ0tvTG9VQzJpMUt5aEF5UE41bml4RzZjNnlkTmcxVVExVXVpdktJRE4yRnJBMHFHSDZLaGtUY2ZlcDU4bg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-10T09:00:53+00:00",
+      "summary": "The ‘Chaos’ Inside OpenAI Is Spilling Out in Court  New York Magazine",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-10T01:13:04+00:00",
       "summary": "When OpenAI and Anthropic enter the market to 'grab business,' Palantir's true competitors have arrived.  Moomoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnpNUlhWbmUwV3Y0Sk9ObDhSOHQ5ZHUwcm8tNmtaZnFMS1NwdlRoZDFlREpLa3MtLVZKUWs2ZkNpSldScHJSbDV3eWhZOVZLeXN3MHQ1bVdmMHlsY3VUOThWM1lPTF92Wk1UV2ExMlpLdlJjSU8tRUFYYlJyQjhlZkJIMmNGbjQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-09T18:04:44+00:00",
-      "summary": "Meet Anthropic’s ‘Perfect Wingman’ for Its Race Against OpenAI  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Report: UM endowment to get $2B richer thanks to early AI investment - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcGNyazJZMk8zLThwdFZNTG9DNTR5Z2VUMzU3eDVIYUtzV21VWEVodzFJUXJzeHRqTGJVSDVxOUdWQ29ldEZoOHJmSHVpRFJ6dzZGOTF0VFNPQ29PUFFwUWJRcFFQNEp6UEhMQkZUMmtMSGhyU0hjcklQanRZWVNxREhjalVaWkxwSmttbWFxbFBtWi1QUUY2UTdaZHNlaGR2RHB0Q1BiRHJWRExMTXZ1ZFJXMGRqT2I3bEEzdkhwUHl4WHNPSDdyODUxU3hMZGc2b19zWVNHaktRNVdqSGhlbml3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-09T16:50:00+00:00",
-      "summary": "Report: UM endowment to get $2B richer thanks to early AI investment  The Detroit News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
