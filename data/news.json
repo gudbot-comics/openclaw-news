@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-05-10T09:14:55.040153+00:00",
+  "generatedAt": "2026-05-10T10:39:28.335629+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "What Sam Altman's lawyer learned from RBG and driving a cab - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVlsenZ4cVI1MVh5Smg3WHV4Zkt5THpaSGJ1REFic1ozZnVQc2xrYVJJcG1JeWY0V3NkNHdXOVdUay1KSEVlUFBfc3UyUEtueEtFbDdCaTBrcGYtaWVHTVhyNmVPaENIU3pna2hhUTloZWlmbnVRMDRoa0NteldXODY0TWR0NU1yRklEd0N4OGVnZkprejFfM21JcWVmVm16RkVzd3YxUXQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-10T10:03:12+00:00",
+      "summary": "What Sam Altman's lawyer learned from RBG and driving a cab  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "The ‘Chaos’ Inside OpenAI Is Spilling Out in Court - New York Magazine",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzhkV3Q3TTdtZlNjaWRBUU5YMGVKNUFFQ3VuSEdtZUh5VVRZajJzWE15Um45UkkyY0RiWDNCMUVGYVdBTjd4b3ZfalpIaVhhR3FnQXhwV0NyUnZqQ0tvTG9VQzJpMUt5aEF5UE41bml4RzZjNnlkTmcxVVExVXVpdktJRE4yRnJBMHFHSDZLaGtUY2ZlcDU4bg?oc=5",
@@ -20,15 +29,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-10T07:59:49+00:00",
       "summary": "Supercomputer networking to accelerate large scale AI training  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI trial lays bare rivalries behind start-up’s $852bn rise - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FREZyNVI0SHNMclExaTF4cGtqb0ZvdnBTb29JNEJTRVZzUzlwYTBGSjNwX2NDMXd6T3pxaVlUbjBIbEdoVExhU0RRM2pFaGR3Y29uQ1JhTHNSNUVaNm1CaHFWNmZkWVZvdDFGOUJvM1A?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-10T06:00:38+00:00",
-      "summary": "OpenAI trial lays bare rivalries behind start-up’s $852bn rise  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,6 +78,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "The Secret Diary That Has Spilled Into the Musk vs. OpenAI Feud - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY3lXSFNZa0gyZkx2UTlhZU5LdkFmNVFmRUhyT1dfdUxLTUZrMzFYdXhWZDNfYUtRMkdSVDcwT0NRRDhwWFVfQ1k0TEs0Q1E2ZzZ4U2RMcU1kTGk4eXBERWg4V0swc0R1YVB3ZHQ4bUdQcTRvZ2kzZVRNYjBGYnI1M0lIblpTQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T23:32:52+00:00",
+      "summary": "The Secret Diary That Has Spilled Into the Musk vs. OpenAI Feud  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Zilis Testifies on Musk Recruitment, OpenAI Resignation - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2ZnYXU5ellvelhnT2d3NzVnM1kwdjUxNlZibmpXNm9FZWFvOXBFOXRoWDNSbVRpdzF0clR6Tkx4S2M4OUpmN1MyU2c1RHNYemRTLU5wMDZPS09pYVZGTlJZdC1RQ0VBQ3JZMEJXaW10R2FpWTVNYUNzbk5XOGhlb1pZeE1Vd1RqUEFpSDhLYkpqX1Y4c1JBWHZydks?oc=5",
       "source": "news.google.com",
@@ -109,7 +118,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJ2RGhFNzZENUhoNG5fVUxteXRTMHlZRzM1czJRQ09DQU4yd2xrUG5GX3dCbzFDcV9tMWs2eTF6ZHlzQlhvTlhuTFlnTDZVLXdnTGFtNWRtdkoxVURHbzZ5dVNLTlFHaE1VUzg5QzlDQV9IUWxzQkdHU3UwaDlKVThDdEtuMHY4Z1NfQQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-09T16:00:00+00:00",
-      "summary": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge  The GuardianEverything you need to know from the first 2 weeks of the Musk v. OpenAI trial  Yahoo FinanceThe Sec…",
+      "summary": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge  The GuardianEverything you need to know from the first 2 weeks of the Musk v. OpenAI trial  Yahoo FinanceOpenAI …",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Google Stock Could Rally as the Company Builds OpenClaw Competitor Remy. How to Play GOOGL Here. - Barchart.com",
+      "title": "Google Stock Could Rally as the Company Builds OpenClaw Competitor Remy. How to Play GOOGL Here. - Barchart",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTZEUEtXMlcxamEtYVRqUHIxVjRDelRVa0FIc2xGRGJtc0tHV0pacmJFU0tiSkZ1RVJsV211c3o4WmJqR2Y1dnIxNGEtb2NGbjA3T01kY1dsWk4zQ3Zhcy0tYmlPNzRvSm9iOEFoaUIweU1PTVRhXzlQdWhRck1qcEd1WjZHTEotWnZieGNMOGFjdzhrNHI5QjJFQ1N4Ymt1RGV1Rk5TNmd3bkt4VW1PaVBhNjg1YVpWR1RKZmNhVVFncEMzU1NSdTdxQXNobERhczdYdQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-09T13:00:02+00:00",
-      "summary": "Google Stock Could Rally as the Company Builds OpenClaw Competitor Remy. How to Play GOOGL Here.  Barchart.com",
+      "summary": "Google Stock Could Rally as the Company Builds OpenClaw Competitor Remy. How to Play GOOGL Here.  Barchart",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -166,15 +175,6 @@
       "summary": "Qualcomm’s CEO is working with ‘pretty much all’ major AI players on top-secret devices  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How to summarize emails automatically with OpenClaw - Hostinger",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYThPVlBBdG92RWRkd3Utel9hRnREd09NUDA3ektQNkhySGluWFFVdzFmNDJCQktROEpzMEdKZXdIM1A0d01UOWJEMzNUWUlSSmNFY0E2ckVMX2ptTXUyeGhiQW1ybVFnRlFVVXdyYjI3UUpQLXNqNHRjSHZ4N3M2aThDaHVKQ1AyVjFaLVlwSlU5Vmg5?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-09T07:26:08+00:00",
-      "summary": "How to summarize emails automatically with OpenClaw  Hostinger",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "FriendliAI Targets Open-Model Inference Users With OpenClaw Integration Guide - TipRanks",
