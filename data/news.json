@@ -1,8 +1,225 @@
 {
-  "generatedAt": "2026-05-10T01:21:22.376601+00:00",
+  "generatedAt": "2026-05-10T05:00:31.433794+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
-  "items": []
+  "items": [
+    {
+      "title": "What Kind of Distributed Infrastructure Is Required in the Agent Era? - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BSlF6aGU4WThxMnoyRDc5YTl5Zm1ud3ROck1teTRpUTVtNmkwRkNXZWY1QkwxR1hoQlVvSWNUalV1UUZldTBDZ3FTQTdIMWJjUmcw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-10T03:12:54+00:00",
+      "summary": "What Kind of Distributed Infrastructure Is Required in the Agent Era?  eu.36kr.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Nvidia's AI Investment Bets Top $40 Billion In 2026, Led By OpenAI Stake - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSldsLTVJZFNZeHRfSWs3NnFaQkp0Ni1EQmtsRkZYSURMV1pkTkJiNWF2bnZXbHZKRE15Y1RlZlFqM1VZM0tBTlN5MVpCeExsWHo3bHJhOE1rdGJ3ck9EMlFTOFVwRGFIaUZyZDZsb0FWMmVTMnptQ2FUUDhuTEtIMzJBelZXb2E0VHk4eVB5VEQ2eE1pT2JRUW1hZGczcHZmT3p3Zy10OFkzQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-10T02:40:50+00:00",
+      "summary": "Nvidia's AI Investment Bets Top $40 Billion In 2026, Led By OpenAI Stake  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "When OpenAI and Anthropic enter the market to 'grab business,' Palantir's true competitors have arrived. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVGdTV1ZBak5Qczd2NzV6YkUxUW1VcnQ5SE1hTVhKdnZVWGU0UEFFazg2Wmx3Zm9ndXBZY2RybnJOLTNjeXJQc09vaXdSUG5qV0Rvc0VtOVhIQ3VhYlBobExSMW5sc0FUTFQxdHVrMUtZX0tyQzNiVWxTeWhNem1yYXJ5S0hOX0dTZkJzTDQ1eldBbmtLN3dsc2pobVU0NjJrbHA4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-10T01:13:04+00:00",
+      "summary": "When OpenAI and Anthropic enter the market to 'grab business,' Palantir's true competitors have arrived.  Moomoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Zilis Testifies on Musk Recruitment, OpenAI Resignation - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2ZnYXU5ellvelhnT2d3NzVnM1kwdjUxNlZibmpXNm9FZWFvOXBFOXRoWDNSbVRpdzF0clR6Tkx4S2M4OUpmN1MyU2c1RHNYemRTLU5wMDZPS09pYVZGTlJZdC1RQ0VBQ3JZMEJXaW10R2FpWTVNYUNzbk5XOGhlb1pZeE1Vd1RqUEFpSDhLYkpqX1Y4c1JBWHZydks?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T23:30:00+00:00",
+      "summary": "Zilis Testifies on Musk Recruitment, OpenAI Resignation  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk Calls Himself a Fool for Funding OpenAI at Trial - ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3gxVW9FRHBfZGRNekNmeUFZaU53TFBvSXlEOVh4aC1zZmdyNlV2REt5WHpmOVZyV1EzWHBmX2IyNlRPX3lsQ3djU0RWem92NkFhcDAwTkQ4QzVGWFJDaTQ4Rkdpc0hsQTMyVjZFem94b3huZDdqb3hSTTB1OGUySVVR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T20:00:00+00:00",
+      "summary": "Elon Musk Calls Himself a Fool for Funding OpenAI at Trial  ColombiaOne.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Supercomputer networking to accelerate large scale AI training - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44UjNuSVJqV1FLVFlvR2VfWjZhZmtNMDZjWkREZGpsOEx2UWN6c0JqZGZzZ1JyeV85aVB1Yk56OUhlUTV5bE1sZmVsUk9EaHJEcF9JakVLczQyd0dOMDVTcVdhcTg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T19:27:18+00:00",
+      "summary": "Supercomputer networking to accelerate large scale AI training  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why Are People Getting Rid Of ChatGPT - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xeDZxTVFldnBrMjNjdTE1WE5CMjc0Vk1vY3d2Z1UxaUhfb1JyRkRKOEo4ZG1JanFXbDlGZkZXaGE5VHhFd3pUSDhmVWJmcGF3X1ZjYlc0ZXJaUjB1NURLYVhDUEw2V1F3VFpSdkVqazFOMVE3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T17:47:00+00:00",
+      "summary": "Why Are People Getting Rid Of ChatGPT  bgr.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Report: UM endowment to get $2B richer thanks to early AI investment - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcGNyazJZMk8zLThwdFZNTG9DNTR5Z2VUMzU3eDVIYUtzV21VWEVodzFJUXJzeHRqTGJVSDVxOUdWQ29ldEZoOHJmSHVpRFJ6dzZGOTF0VFNPQ29PUFFwUWJRcFFQNEp6UEhMQkZUMmtMSGhyU0hjcklQanRZWVNxREhjalVaWkxwSmttbWFxbFBtWi1QUUY2UTdaZHNlaGR2RHB0Q1BiRHJWRExMTXZ1ZFJXMGRqT2I3bEEzdkhwUHl4WHNPSDdyODUxU3hMZGc2b19zWVNHaktRNVdqSGhlbml3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T16:50:00+00:00",
+      "summary": "Report: UM endowment to get $2B richer thanks to early AI investment  The Detroit News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXJ2RGhFNzZENUhoNG5fVUxteXRTMHlZRzM1czJRQ09DQU4yd2xrUG5GX3dCbzFDcV9tMWs2eTF6ZHlzQlhvTlhuTFlnTDZVLXdnTGFtNWRtdkoxVURHbzZ5dVNLTlFHaE1VUzg5QzlDQV9IUWxzQkdHU3UwaDlKVThDdEtuMHY4Z1NfQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T16:00:00+00:00",
+      "summary": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge  The GuardianEverything you need to know from the first 2 weeks of the Musk v. OpenAI trial  Yahoo FinanceThe Sec…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk v. Altman — Week 2 analysis: OpenAI targets Musk’s motives as trial hits midpoint - Local News Matters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVnpPUW1uUTlZSHZDMkJIUW1mX3hYVG9wX3VoTXdjWjhxU1ZrQThSVjVBdFRYbFFXQ0RaUkRycG5PVlFyUGpjYU9hNUVxLVotM094NFEtTTFtZjFOalBBdXJSa2tUYjZJUlJmMjJzcFdSd1Q5MEZ6Nm1sSk4xdGRfRzUzaHBQRzM4cUtZY21hazNDb0NDNnJLcXZzNWV6b2puQ1ZSeFVaeFJlb192Q1U4NVBURi1FOUlqTmx6em9rTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T16:00:00+00:00",
+      "summary": "Musk v. Altman — Week 2 analysis: OpenAI targets Musk’s motives as trial hits midpoint  Local News Matters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY25UREJKczNXZXFhQ19HZjFwbUNIWHJJbU5pQVpVOG4xWi1LQ2h4RlFXcU11ZUhWLUs1M0dsVEZtUE5zYWpobkJld0VEdTR6RTNyd1N0SUp3NFdzay1veklwbjVTY1U0aGNkdC1qSG9XLVdGc19BZzd4LXJmZHZza2YtWXZyWmp3Y0QxYUkxMEpsQUtfNEFwdDRJd2FYcmYwNl95M1hncmNHNzhsSG9TbHFQSdIBuAFBVV95cUxPMU9ZcFV3YlRUcU1VNFZWNWZ2SlNOOC1ZdlFWQmVPWTR0N0tmNEh3MWpxQjhldjRuR1J4RnVlSVhSU0FpcmlFNzcwOEZFd0RyRWpnTzlEOS1oSFBFVDBRRG1Od3l3ZHFNdVlOaWFOd1plSk9kenhGVXpNNHdYRlVmYnVVd2JlTllwbTFaeGhiNEpyVjhPSFllN1FJUVk5bkxnNi1YNXVKX2htaE1LSjQ5MDgtcm16dERi?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T14:26:03+00:00",
+      "summary": "Fake OpenAI repository on Hugging Face pushes infostealer malware  BleepingComputer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Broadcom Faces OpenAI AI Chip Funding Test And Investor Valuation Questions - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPam95NjF2NGVCMDJRRzBjV0NpNzg5azZ5OFlBVU5ySEU3aHVnSWU4U0tlc3RNU1VaQmVIS3ViQXBYUkhxQi1zc0pTVXVsWElZWDV1Mm8zMVR0OUFSa1NlM2RUUGlZMjFBOHJXbm03U3QxNlVwc0pZRUtoSTlzaXhPcE11ZE5CQlJRbHB6dmZYU2phNktzMkVkOXhucnpMVXpac2NxR0hxc21oOVhUcnZNZ3FmamtqRnlXXzhQU2JTOG9jYVFVUVp3VnA1dVA3d9IB0wFBVV95cUxOTUU3RWRVZ0dyYVBPWC1nTU1jMnlIUDMtUXpsRzJZSEc2RE9oRnJSam9HZ2hwdGlTdDRLWFZhMzludXdyX0FmNHotemNhbXhzTlpxa3BuVHNER2hMVlZ5NkEwLUh6RE5zdG9MZl9CVU80VDZtUDhGSGl2c3lnX3huM2NhVFhSUC05M1R6NG9BdDZPSVp3ZFBJU1NtS2tnMmoweXo0ZWxyZ0dTUF9taF9SODNBVFhIM1VNVGJ6bkFmaHEyb09PdHB4M3l4UTdldWlyZmRR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T14:00:55+00:00",
+      "summary": "Broadcom Faces OpenAI AI Chip Funding Test And Investor Valuation Questions  simplywall.st",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Broadcom Stock Drops After OpenAI Deal Hits a Snag. Is the $100 Billion AI Story Still Intact? - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSExMU3l6T0lmaUo3aFNjUXNzN2MxS1FMNW42R2JxRHRvcVpOekVNN212WVczZFdnN1hxY0JScHAyUGV6dklWaFByOGhjU0MtMi01SWZGMnpCU21kTUp5Zjk1UERMNDJZTDRnZ3Q3enF4RmFHc1BFR3pLZFVFM3hybHhIWXl6YUNvRGtrcnpvQkw3enZBWWRoaWlPdkY0WXR2ZGstSGV6cEk4Wk8ya2dHVFpzdERYRTBr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T13:47:57+00:00",
+      "summary": "Broadcom Stock Drops After OpenAI Deal Hits a Snag. Is the $100 Billion AI Story Still Intact?  TIKR.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google Stock Could Rally as the Company Builds OpenClaw Competitor Remy. How to Play GOOGL Here. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUk5PQTNkc2tkNFhHdURDVlc2dnJhdFY2MjFiRzRuajZrV3B1SFhlS1VMX09SNWFDMXM5NTdTYzRHQlFpWTVRRzZHOTZaVHZDeE44UWVFaFhmTzBWR19aVkRyMXdfN19OM0N4UVhOdUY3NXlCOWE5NlgxZGRFQUtObHZXdlppY2pkNkxYS3JZQWhMcU9nWTNHV25YeHBidw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T13:00:02+00:00",
+      "summary": "Google Stock Could Rally as the Company Builds OpenClaw Competitor Remy. How to Play GOOGL Here.  Yahoo Finance",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkFJZnpYM2RiVlVYdEdodnhHT3FZUE4xY1lwUHlQNFhWN0ZsRklyeG1uMDI3OHg5R2hWSTdLdE9JaWhUeXU2UjEtWFVZVkRqQWZpYWMtNDBBeHhvdVZiYTk2ZGFDNkJJRFJadDQ1SzhuamlEWmRPLW1VdFhsMVZSU3lNN0NHYVhLUmtCdXI0R1Y5VWxodUJ0NG5lQjNndDVldl9NdUZrUEFScVVmenhNQWc2QjkwaDQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T10:52:13+00:00",
+      "summary": "Broadcom reportedly won't build OpenAI's custom chip unless Microsoft buys 40 percent of them  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Qualcomm’s CEO is working with ‘pretty much all’ major AI players on top-secret devices - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaDJWRVdyVUhGSWc0VjRSOWJqUTVuamhQRXBUZUpvNEFuNnhfWVFzem5LcHJ0bUNybVl1NWdhUzFHZFhERWo1emJvbGRxbHZvNjJvMENnNzBuRXg5ZlpLTFBLcHpFVnpYME1iMGdMZi1nNFgxLXdRbkhsTGdaMVJQbXZTQ28zNVpLV2tVRjJYbkRvTW5ybUlKSlcxSHM1QQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T10:26:00+00:00",
+      "summary": "Qualcomm’s CEO is working with ‘pretty much all’ major AI players on top-secret devices  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FriendliAI Targets Open-Model Inference Users With OpenClaw Integration Guide - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlNNNGFMbDB1QVl2cnF5OW5meHN2aHVtRlJJaUl1ZUFWRV9JZTQteGZiWklNSU9JdDRWN3V2bWtCc3dMcW5Ocy1vZ0EtWlNreWRTd1hDYWo5STNyQXZTcHcwZVh1N1lTc3lfQzV2bjhxN1hnTzR3Smt1UzZrSXNRSEJra1I2Vm5NbHI2a2ViRER6WnF5aGh6bXR5MThMWWpFNU5iMHpOSkl3VVd6ZUtzOEwzdUdYNEM2NGgwVThCWUtGbWs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T06:15:28+00:00",
+      "summary": "FriendliAI Targets Open-Model Inference Users With OpenClaw Integration Guide  TipRanks",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "How to automate meeting transcripts with OpenClaw - Hostinger",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLTBtbTQ1ZDRSZHhycm1JUENSZmVhUE9hN3QtS01Dejkwc0ZvQ2tEWHptS2ZHUU9FX3dpZTd3V1BuUExmYlJEa2VfN3F3aVUwRThUTkxmZnRiMWpLVk92S0V1TFlUZXJwdlhXem9MVVVqaWJkaVVaM1VOYVo0eDU3Y0ZpUlE0Q3o5SzhR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T03:47:19+00:00",
+      "summary": "How to automate meeting transcripts with OpenClaw  Hostinger",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Michigan OpenAI investment worth $2 billion, could lead to NIL dominance - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUldzSTZZblpkRUJQQ0doX0F0bk9sU0JwR1JxaEJiWER4ZENRSXNSMFoyckdHa0l2SlN4Q1cxbXVDUEJ1OUh2TElXa0RNbm9ZQXNXOEExaHBUX3dzSmxGUXZzOW91T1ZIWEJfTnpVOGdUV2QzTGExMDl6V3ZxdjdjUWdqMXI1dTF4cWVR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T02:02:52+00:00",
+      "summary": "Michigan OpenAI investment worth $2 billion, could lead to NIL dominance  Yahoo Sports",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Michigan Football Could Turn $20M OpenAI Investment Into Nine-Figure NIL Boost: Report - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmpSeWlkRk16Q2NhWjZxM0xLeTdOYlZMWDdWN1BqYjFSQlBFSUJJR0JoMnZudE04N2hyR2d3dUJhbThYYV84TDUyWU5HMTJMSWtiRG44bGx1aENpaFFMaGhHaGJTX245TXNEZ2d3Q19CSkplRFIzOHRCRFZRS2JXVkRxaFZMQUVr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T01:33:02+00:00",
+      "summary": "Michigan Football Could Turn $20M OpenAI Investment Into Nine-Figure NIL Boost: Report  Yahoo Sports",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "University of Michigan’s $20M OpenAI bet aims for $2B return, legal report shows - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmxTNHgwSzN2Q2J5cnZVMVVvM1huYVJRdUk5S2lyNWdXU2ZwcXc1RTNVOFdKaW5GN2RVdl95anlUNVRHQ3lrLXpoUXZuSDdaZnF0YzlQZXVINmFQSDVxbFlCQ0x0RVp2OWxLZThyQkV0d0d0YWt0dDhDdThkUHpMN192QUJHb3lMc0tCVzBvXzJGMHdXUmJZYjdmSWxHUDM3NVJQOVVyMGxRWU9WOGtfOWFNZEZycGZBdWwySlA5NFVDQzJF0gHYAUFVX3lxTE9WT3lTcnl6MWlfVXNSelBUdmlwQXFmM3lmT1JiNkRnRklpR0JaM2VXcUVYTUcxLXZYcHZfdjh2SjdSaW9uWnl6SnhJMzJqSmVwclRHMVhpRmpsM3lGZXBwWWFFSEtneTkzTEh2LXB3QndZcUk0VHB3MkV6eXJfbmktdWFkMm9yRVRiUDluQnNpamdfbDhFTkx5VkRaT05rRFhUM0VmQzVsdFdTMzZiRDdfTldYSkdzUHFxU3hfcEVrWUNMVkxwUVBBMGk0V0lkcDVyZnBGalBWaA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T00:08:00+00:00",
+      "summary": "University of Michigan’s $20M OpenAI bet aims for $2B return, legal report shows  MLive.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FriendliAI Highlights Cost-Efficient AI Assistant Integration With OpenClaw - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM25nZjNTRWtlX0NKaEd5Si1TeExQLUxvQ0RXU2ZwT043VjNUeS1iSkViVlJnSXNqMkplRG1zMFplMkNqaDdVVGtLSFpDUWxkalZla09USUhiZDRhRERPWGllNkp4Nnh4aFZHcGVpQUFQc0RWWjItN3hvUlJlVk9RS1BZaVFnZVJlLTJBM0VvcW1PN0RNVkpXd0Ruakg4VndFVTlzZzNrdk42THhnSll6blh0RDIzTDZjRUVja0tqRFg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-09T00:06:36+00:00",
+      "summary": "FriendliAI Highlights Cost-Efficient AI Assistant Integration With OpenClaw  TipRanks",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman - MIT Technology Review",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRHJUVF9pN29WTk03RElMVGtVSTdHV3pQTXE1SS1WeFJMS2c2SUtHbElieGdBeEZLRmtnMzZUdV9waXlJZ2dQMnZKSU9RWjdrSEltYTM0V0Z6TnVqMWZSbzkwWEh1cnhTRkE1a0VTeG5aRlFpRmJTb3lXV3UtX29vM3EwMnlTUF83SlNkTS1YNmliei1teVo1d0pSazBWekhWZGtQYVN4RDNkVHkyLTVISkY1SG12WVBrV2NrMU55WlNrWXJSalVIeUUtVk92MW1pb2EtUWxPMm41MmZwemhJZXQyTlhVbmPSAewBQVVfeXFMT3c5cF9yMXRGd2tIZUtQcEdBOGo0bWIwVXNWcnhXSV9BVWdOYUx6WllDcXhRQ1NrRlZHd1JFRm1sQXQ2SldEdzVnTXM1MmxISDRrMVV3VmdyRkRFUjItT0VSbXBKSmhPX1J2aC1vSVpxS2F1bXpXMU5JNkw4RTlUQjEwMmJITUpiTXI2OHZEdVBWMFhTWVBqdHE3OWx6cmp4YjM4YkQ0allDajB0MHNZbXF2TEFIVWZKOHgwelZLdnpiQTA4TXQ4ZG9xZjA4Uk1XRFBBUW9mUGlFZWlBbGw0bVlmTkhUOTJKOEs2dHQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T23:59:19+00:00",
+      "summary": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman  MIT Technology Review",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Chinese users 'recklessly' draw upon OpenClaw AI agent - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95UUtQSHNzUHpEakRSUUVnRlMwRWpzT09OTGtGRks5eENRSGZYOXlsUkM4SDFRQnROai1FcVNhN004NFd0UFBIQkVJd0ljTVdCSV8tdFFR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-08T22:00:00+00:00",
+      "summary": "Chinese users 'recklessly' draw upon OpenClaw AI agent  朝日新聞",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    }
+  ]
 }
