@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-05-11T22:09:52.420973+00:00",
+  "generatedAt": "2026-05-11T23:10:14.734640+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI board member didn't look at the internet after firing Sam Altman - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaE1CWk92YW42cjJXQ2RZMkdFWG5uWkVPN2xpTldIcGxxTmE3VnFqbTB5WHBoUlRjT3BXT0E5NTBaOENfZGNsSHF5cWV4ZHA5M3piLXR4OHJyS3ZYVjZycVpxcjl1WF9QN3haTm5WRXJrLWVSY0pnWDlCQ2daemR3UHY4eFQxamxqeDM1Yi1vYkREby00VUlKQzRIV0wzcXhJSDJYb2ZB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T22:57:33+00:00",
+      "summary": "OpenAI board member didn't look at the internet after firing Sam Altman  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI unveils PE-backed joint venture to accelerate AI adoption - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUNCdnV3dXdBc0pxdnVmdEdHMlhFVVpPWVdqRnMxaGRTcmhFaDFuT1owX2dxWUV2aHlHZ2xBUHpHWTh4LVVVMG8tdFd4X3FKUF9ES1ZuUThBWW83QkxMTzVSUWpyc05BWDhXcmZGZHZOdFVvSlBLd3lsNnY0YWl6d0ItellDNXRFYjdNOHdnbXBVRHNRbm5jcHJneEE3bVZM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T22:52:25+00:00",
+      "summary": "OpenAI unveils PE-backed joint venture to accelerate AI adoption  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How ChatGPT adoption broadened in early 2026 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4RWxkUEoyZ2JGM29GUG5RSHFzUXo3ckFkazd2ME5oRnlCTkc1dmlyelhkSDVXQXFxYmlEbmRTUlhfSUVTX292ZGV2WUFaS0dEd29FUFdRV0U3dnNibkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T22:43:30+00:00",
+      "summary": "How ChatGPT adoption broadened in early 2026  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yM0F1VURUM0pPY2FpVnc3bFJ4cmZzSjljRFlmUmtzNHQ0UVpZdHJSY0ZhUEU1dk9CYV9xYmdyUXA5UWNzRlZYRXBhS2Y4V1VJc01ZNWNBVEltQlRoWG1IMXdKZ1VRUFVscGJydk5iX21xM1NVZnfSAX5BVV95cUxPSE5JVjJPSFRpenNVM1F6SGp0VUVFNHBDaThURWI0QjRlbnFLeUdzQnNXWUZWNlRobGF3RzBLMlRyRHR4UnNLSEJPc2hTX3NZSkVRanAwalJnQVhBb1UtU2pEd1AwYW9wcThVX0lyUjcxbHFCUGFDTUZ0S200QXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T22:30:36+00:00",
+      "summary": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity  Decrypt",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's New Daybreak Platform Uses GPT-5.5 to Find Software Vulnerabilities - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NWTE4Z0lsNVlNREg1eTNfTHB2Sjd4Y19VOWhiQlE1eHlYOXZXcXhuMHpzcmFST2IxYTdrWnlyU2ozLWk0TzhaWDE3cXBJR3JFWGNxNHRSZDVlNjZldE1iUk8yOU1FQkVVeFVMSGR1RQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T22:08:02+00:00",
+      "summary": "OpenAI's New Daybreak Platform Uses GPT-5.5 to Find Software Vulnerabilities  MacRumors",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI unveils Daybreak initiative to fortify software security through AI - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkthbE5ZcG5Bcml3cGF6aWxZLXdob19IRzBtMHNpZzRndENfYXRBV3pIczJIYzZISDAwWVREYkxZdjQxSFZWYVROYjVEM2NiSGxDQldVeTh2b083TWhkS0IzS3k0S1IwSG5WQzdYWGxkbVFRWktCZWlWNjFXZDZwSXZneENRNUg1Q29tWGFFRzFUUWsxUm9xVDlmZFFIY1BmTFA4ZEt1Ty03MFd1QmVGelo1OWZrUWstT2FfZzNCNm1kMmNiY2REWEszaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T21:55:28+00:00",
+      "summary": "OpenAI unveils Daybreak initiative to fortify software security through AI  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Builds AI Deployment Biz Around Team Behind Virgin Atlantic Concierge - Skift",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTdZOG9rUEdpd3pOQllBNTJKLXByLW9kbEg5MEE4YV9RMkN3ZklWaHJ2NTh5QzAyT1ZWOUJXbTlFUG1DcDJQYldpMTRHM28zeDNIbDA5TGEtcVZiNXBmT1FpTzlweG9yU0ZJNVVJVmNvSG9YWTMyeE1lLWV0aU8ycGRvbkhBX0M3?oc=5",
@@ -24,11 +78,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Family of FSU shooting victim sues OpenAI, alleging ChatGPT helped suspect carry out attack - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVFZZDJKYTZ1VEFZZnd2SnRuMDM4X0VsRTVvbE9HNjJjTXNXSGh5SGhMTWxNTDYyN2U2M0FBempOVEtRc1RxXy1xcE56ZnV1R29FakpxX1ZHN1VjT3lPdk13ZTJMQTF3SDZIZFJYQ0tUeUJoUENHb0oxZVlWWk5rUl9vcWp2dVJ2UnB3WnBtQlV0aGZHOHFxTWJPdmdnZUZtN09zNW0yTHRJSmRtdEd5MTFvUWdndE5McUpGbWMwUDhYc2kwOHc?oc=5",
+      "title": "Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejRjVEZaWTlmSWZJQkRSWDhNYkFqNm51UXNxTmNsVjFueEhEeTUwZUpvYkpPYjZLMGR5NGVYblpuZFo1cmJsLTNkVXk4OVFpdmwzS005N0hLWDRuNy1OcXhSVkFHT1FxcXBFa09GV2VqaGkxM3hPb2ltak1YU05jdVc3S2dUOGhMZGRiWHJFcnlGS2FCeEotQ0dPYWpPb2JneFpVSlhtZ181TmdZTEhEUEduU1BtWEs5X1B3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-11T21:38:00+00:00",
-      "summary": "Family of FSU shooting victim sues OpenAI, alleging ChatGPT helped suspect carry out attack  CBS News",
+      "publishedAt": "2026-05-11T21:48:09+00:00",
+      "summary": "Ex-OpenAI exec Sutskever says he spent a year gathering proof of alleged Altman dishonesty  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -36,7 +90,7 @@
       "title": "The $6.6 Billion Payday: Why Hundreds of OpenAI Employees Just Became Millionaires - inc.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdjFlT2pSNjh6eUQxemtaYlNOanJiOGEyQy1CM2ZmUTB5cC1mSXhZaWk4em5KMnBWRUNSM0t2R2s3UWpOeWxOQmtBWmN3SnVVNEdUczlWZV9wZVFKNUtFLTNVVThpWE5FTDhYckxNRUpYOUg3d25QaFpUN3drR21hYnVHRFc3WXNpWHMwRDBaSkxwSkFmeGUyREtYME5uV18yeTB0dw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-11T21:32:42+00:00",
+      "publishedAt": "2026-05-11T21:32:58+00:00",
       "summary": "The $6.6 Billion Payday: Why Hundreds of OpenAI Employees Just Became Millionaires  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -51,11 +105,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Ilya Sutskever Testifies He Holds $7 Billion OpenAI Stake—Second New Billionaire Revealed In Musk-Altman Trial - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNmd5S1Yza05mb25mZTNUYWUzZmtRX3dORVEtNjVWeHp1M05MRFFHX1FZX0hFcGExMnJUcGk5cm5kMzZwMXBLSEFOQ3NnaE40SjdEZ0FBdWkzS1c5SEtJVHVMUVB2NXJ5VjVTak9OUk9mVWJUNVdVU3Y3V19CdzltN0pvN1FlZXpFSklvZGc5TDM0elRPbVBIRjNXM1lfWlRMVzM0QzNwVGRQcU52ZVZfa3RqVjNnc291NEMwSXhPWVk5VEQ1eW40MUR1VXpYYU95LTE4YmswYUEzMWZNc054cFVZVVh4VVRSeURTYnczRm1WTHM?oc=5",
+      "title": "OpenAI says ChatGPT not responsible for Florida State University shooting in 2025 - WEAR-tv",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmVqSnhsNnB4eE5XclJzcDc5clZMSUNWeWJqY1B4UkhlZllnLVRtYjVqdHdKNmEtQkl2SnpCR0d5YVRaa1l0VGpiOUYweWlLaEFINi01czlvMWI3UmtrSUZRTXR6blJMXzJ0NmVuQ3d1YmFMbm5UTHJQdk5ZSUVXY0VLbUQzTWVtZDIzLW9pejdZNHM5VGtrSTQtZUZJaWhqR3pUVXhucW85aWtNTGdmYg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-11T21:01:57+00:00",
-      "summary": "Ilya Sutskever Testifies He Holds $7 Billion OpenAI Stake—Second New Billionaire Revealed In Musk-Altman Trial  Forbes",
+      "publishedAt": "2026-05-11T21:18:36+00:00",
+      "summary": "OpenAI says ChatGPT not responsible for Florida State University shooting in 2025  WEAR-tv",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Former OpenAI executive Sutskever discloses nearly $7 billion stake in AI firm By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMDFFMlUwR1psckRyRDRYSmtob3RISUw4QVJteU1sNkRaRFozVHlBSEdCX09wMV96S0h5YUVOSUU5THlZSFA3UERfNzMxWXlMZEpFMlR4ekx4TVpaZXdfc1hueDVHazB4bWhDa3hwUGl2V0N1aXBNLUlDd1JoLUVrTVoyWlU4MmtoSlU1TDZBbmtXRkI2MFF0SVdZZWd6R1prSkdMLW10LUtFVlNtZmN6Q2pLcm5vclNfbzYzTXBiMkR3N2FaZmpuUFlpOTFhMDg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T20:59:00+00:00",
+      "summary": "Former OpenAI executive Sutskever discloses nearly $7 billion stake in AI firm By Reuters  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,15 +159,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Ilya Sutskever Says His OpenAI Stake is Worth About $7 billion - The Information",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTBERWc4c1NlcThCUGRjZ2xZNnA2bjBfYW14WXBCUDZUZjByYldzdlZNcEdZeW1iclNoSFd4V2dWWGZoT1UtclZoeXRIanVITFkwdVpDQWlIVUlkYkczTFZ4dkI1M0J3ckZ3dlB1dVRsSDdXamR1VF9fVEVWVjVmQVdJcEktV242YXJjeFcyeW9UME0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:44:00+00:00",
-      "summary": "Ilya Sutskever Says His OpenAI Stake is Worth About $7 billion  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Made It Harder to Fire Sam Altman - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUlRTDJSdi0zM29EQXNybjQ2a3d3SGxDd3daT1NlQmtJRzFPS2kxUkJITUtlcWVLSUlVbVctTkhDdWlTcko0aE5DWktTQ1RhYnZxWEhpTE11ejJxYU50b1FUdk14ODFWZ3lqX2VSX1BnS3hfc09mb3pLM0V5S29jSXlKUkZFQ3NwaThNeTJwNFJGdjdoNXNIWDBNd3czQQ?oc=5",
       "source": "news.google.com",
@@ -119,15 +173,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-11T20:32:00+00:00",
       "summary": "OpenAI Debuts $4B AI Services Company As Rival Anthropic Builds Its Own  crn.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches New Venture With $4B Initial Investment - Law360",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmFETW1XUURqN2lYRE5yTFdidktFSXlBS3d1bUswa0o1blNHZDJpS1JTVGYyZjFtSHZMUEhOVm0zUnUtMURYTlFsem9Wa2dmaER3QjUtZE1MUzFBNVZXd29Ba2ZzdkZpM2lLckZzblVNUUpKR01hT1Y4VXpNczdjcERLU1FWT29GTUNxR1k0ZVZOUUJkblBEUnR30gFWQVVfeXFMT0lCZmN0ZkxqMkVLOU1OQXg3YVNweTRyUmRFeVc0NF9LdDdrTGFmRnAxZFNEb3lBdEVqTTJDMWZkQ01JN3RXRmt3aWhZWE5qN3pRRVo0ekE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:22:00+00:00",
-      "summary": "OpenAI Launches New Venture With $4B Initial Investment  Law360",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-11T20:04:00+00:00",
       "summary": "OpenAI User Drops Privacy Class Action Over Mixpanel Data Breach  Bloomberg Law News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft (MSFT) Targeted $92B Return from Early OpenAI Investment, Court Documents Show - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzZPUTN3TXVYbUNLbHI1X0hRSmpDNkJoaS0zT2p0c2t4YU05UVEwclJ2bkZScTFMeEFTbk5uUGE0cVJyYXVNLXNsVFdBV09OSlBrbWFXSXhJOTlybnNMa2Jrd1VUYWREV2N6YnRpTEdJRUpxTmFua1psV2NsblhwRjdQLTNoR1BKNldEb2NrRXo4dUh6TDdrcGVPc1lUQnU4bXRicW5QbjlmdTFmTUN0b19ZazA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:01:16+00:00",
-      "summary": "Microsoft (MSFT) Targeted $92B Return from Early OpenAI Investment, Court Documents Show  TipRanks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Former OpenAI executive Sutskever discloses nearly $7 billion stake in AI firm - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejRjVEZaWTlmSWZJQkRSWDhNYkFqNm51UXNxTmNsVjFueEhEeTUwZUpvYkpPYjZLMGR5NGVYblpuZFo1cmJsLTNkVXk4OVFpdmwzS005N0hLWDRuNy1OcXhSVkFHT1FxcXBFa09GV2VqaGkxM3hPb2ltak1YU05jdVc3S2dUOGhMZGRiWHJFcnlGS2FCeEotQ0dPYWpPb2JneFpVSlhtZ181TmdZTEhEUEduU1BtWEs5X1B3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T19:56:22+00:00",
-      "summary": "Former OpenAI executive Sutskever discloses nearly $7 billion stake in AI firm  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nadella Testifies Musk Never Complained to Him About OpenAI Deals - The Information",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYl93TE92QkhwVVlBZ2YtQXdRZExWMlhsUU1yc0Q0MlZSX0FsVTVuY0RNOGllT2cxRzRjWEthTnI3OVotNVRwdVctYURZbHhHajlzUVliaVNpVTZhMDVZSUVZMlc1S1p2SU54MElhcXV4aXluVE5KR1dCMjNhN21EZ3lnYTBiMmRXU2t4X19leTJqVVZzX01WaA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T19:55:00+00:00",
-      "summary": "Nadella Testifies Musk Never Complained to Him About OpenAI Deals  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft CEO says he was never given 'clarity' on why Altman was fired from OpenAI during Musk trial - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFlqTlpRbUc1eENFU1ZkcVVDQUgwdE53RUFoYWhkS3FRSlJvTV81cHdSOWYzNEFKRmF3MHZLS0tSSXRiS2IxclBJcGFEVGtSYVFaY2JJVVp1RmFpNWUyYVB5eHpnNkJIemNoRWVVQ1IyTXFndm9IbzdqSXZkTFcyZmpGT1FRYXJqMV9STHVTbjNaQUJnazQ0Sl9lemM1ajMwa3ktckllNjR0UzBJb1JFd0hwaUFwX3ZTWUdKSGhlMWxpRWotWUhJVFpKcW12dUV1RzNmRXlyMWlYZkIwSGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T19:53:21+00:00",
-      "summary": "Microsoft CEO says he was never given 'clarity' on why Altman was fired from OpenAI during Musk trial  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Satya Nadella says the attempt to remove Sam Altman from OpenAI was ‘amateur city’ - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56T2hHSDF2YU9aVFh6ZXlQUkUza19jMTNibUdsZjhNRWt0X3NhcmxVNjJGdkhqbFhSVjVFdE4xUXIwQVFBaWZvcUF0eGRMU3ZJNmRrekh1N1dmMjFxZWdMa2JoOEpDZUY5dVNpUWtEZUg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T19:52:19+00:00",
-      "summary": "Satya Nadella says the attempt to remove Sam Altman from OpenAI was ‘amateur city’  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
