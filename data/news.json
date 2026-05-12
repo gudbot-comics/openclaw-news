@@ -1,25 +1,79 @@
 {
-  "generatedAt": "2026-05-11T23:10:14.734640+00:00",
+  "generatedAt": "2026-05-12T00:09:07.419152+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI board member didn't look at the internet after firing Sam Altman - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaE1CWk92YW42cjJXQ2RZMkdFWG5uWkVPN2xpTldIcGxxTmE3VnFqbTB5WHBoUlRjT3BXT0E5NTBaOENfZGNsSHF5cWV4ZHA5M3piLXR4OHJyS3ZYVjZycVpxcjl1WF9QN3haTm5WRXJrLWVSY0pnWDlCQ2daemR3UHY4eFQxamxqeDM1Yi1vYkREby00VUlKQzRIV0wzcXhJSDJYb2ZB?oc=5",
+      "title": "OpenAI Exec Says Enterprises Seek Help With AI Innovation - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFRnclhxTXIyT1hYRGlTeF9iU01XLUVTZk1YMGVjVmd0R0ZuMmp6aEoxWEhEa1VkU01yS1pGUlZaVmZXeThzVU9taTc5cW1Fdm1SaWZmVjhpazFyYm9TdjZZVjRWcW52a2RCRjhDamR5SEpseGw5WnNGMFE5MTY5MTQweVFLR0I2V3dMVEdwbGhLa2RRd3RpbnVGVlpMbGZZbDVfbmhOWDBwd1pTY1RMbU5R?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-11T22:57:33+00:00",
-      "summary": "OpenAI board member didn't look at the internet after firing Sam Altman  Business Insider",
+      "publishedAt": "2026-05-11T23:58:28+00:00",
+      "summary": "OpenAI Exec Says Enterprises Seek Help With AI Innovation  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI unveils PE-backed joint venture to accelerate AI adoption - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUNCdnV3dXdBc0pxdnVmdEdHMlhFVVpPWVdqRnMxaGRTcmhFaDFuT1owX2dxWUV2aHlHZ2xBUHpHWTh4LVVVMG8tdFd4X3FKUF9ES1ZuUThBWW83QkxMTzVSUWpyc05BWDhXcmZGZHZOdFVvSlBLd3lsNnY0YWl6d0ItellDNXRFYjdNOHdnbXBVRHNRbm5jcHJneEE3bVZM?oc=5",
+      "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’ - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xUUcycThiM2czUFoyMzMwcV83TW9QZXcwa1hvdW4tb2ZBeDlYRjI2UkZ1dTg0akJRV1diSnpzVWZZOTFOQkx6ZmR3WGxZU2ZwRmV5amlDRDRIVV9zckRnVkZLZHU2bC1Sazd3NDZadTZINE1FWTZRcXVoaHdKdw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-11T22:52:25+00:00",
-      "summary": "OpenAI unveils PE-backed joint venture to accelerate AI adoption  Yahoo Finance",
+      "publishedAt": "2026-05-11T23:51:00+00:00",
+      "summary": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’  WIRED",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft CEO Testifies About Sam Altman’s Firing in Elon Musk Megatrial - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbmtHSXVYWmlqSTRncXZGTDJJbm9JNEJGUTJ0Mlh6VHIyemYyYnJTdFFXb1Boa2g3MmhOMF9YWEdvVERHZVdJNV9pVzRDaUdkd29VNzF3T3dMTl9LRE5pVVlqb3hERnA1TWJtWGZmdVM2NVg2dG9oNjN1Yk16ZFlmdUVNVU5PRk5fOUZlMlo0SHo5WWVsbXFUa2NnNGRfYzZwYUNjTkJ1Zm1KbWd5OW12Q0xKS0g?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T23:24:00+00:00",
+      "summary": "Microsoft CEO Testifies About Sam Altman’s Firing in Elon Musk Megatrial  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft CEO calls OpenAI ‘amateur city’ in Musk-Altman feud - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVXY4c1VCbjJPZGtraUxwWnBPNzYyZW9kVzdUOV9ETzdTZTdIYWVLbFZUenJGOGphWXUzYmhVN0JMSlpIYUxrcklNN19EZV9YTkdUajZWSnFxaXQ2Yk5fRHh0TlBBVzNWa1hkX1ZlMUJtYUxxNnV5ZHVLQi02NC1ZTmczY01vQ0FSZ2RHOThhdlRjN1VSamc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T23:16:55+00:00",
+      "summary": "Microsoft CEO calls OpenAI ‘amateur city’ in Musk-Altman feud  Courthouse News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT lawsuit: FSU shooting victim's familu suing OpenAI, alleging chatbot aided gunman - FOX 35 Orlando",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHhVVU5HRkttM05iSDUwdHJYRFhVdGYwTVltVjc2WmdKQ202ZFk4VUVSYl9lV184Y1ByYlF0RzJnaFBOc2JacVhRMHVFMzl2R0ZGM3FJMjRWeVZtUWNWZzNzSFdfaS1zSm1rcHFWSnZQaTctN1VtTXJIY2NFS1dadF9wenJ0dlBNU28yOXZoMkNndlJBdlBWYlplUWZlZm1yNno4MDZGbEFBa3p3MUhxWU50aDZVMEJRUTd4WNIBwgFBVV95cUxQcmZlZ2o1YXZPdDFmVE1aNnJRWVc3cnNET2c2VXRCTlZqSzZBUURCSUw2ZjhVZ0FkM2NjT1FpcEpIQmZ5dHR2VTJpWjBxeEFnNTQ5bi1RSmM2Y0hZS0FCcXp6RE4xX0JxZjNydDB4Y2pDakJXdjZ5bDAxS3h2alg3QzF0ckdzelFsSmN1NmFtS3JFS1dIOS1GX2tCaDhoajB1NU5udDV6eF9tcmpYZUVLS3dHTmxsUG9jZ0Z6cWlYNlBaQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T23:16:41+00:00",
+      "summary": "ChatGPT lawsuit: FSU shooting victim's familu suing OpenAI, alleging chatbot aided gunman  FOX 35 Orlando",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AMD MI450 AI Deals With Meta And OpenAI Test Rich Valuation - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVDBYZWV5RGx6OHBWYndGbm5uVFlFX0Z1WlRMWk9wXzc0T3B1X04zUk0yMDNwN01ZMWpqcWtXV29hcHdSaHlILWFqbVptNWVnVTBZbG4yRnE1WWdjVEpQb19GbDdERzdWMkkybHVvakNRdFRpcVAxRE05M09TU19LUkVjc1Y1UTNJZk5JRldXYmN1UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T23:11:08+00:00",
+      "summary": "AMD MI450 AI Deals With Meta And OpenAI Test Rich Valuation  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Victim's family sues OpenAI after FSU mass shooting - firstcoastnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVHFlaGZaRGxlc1B5TE1vZGFiUGp1Z3N5TGE5Tm1FSWJRVGpCT3gxX0Z0VktxQ05zTEEtZzFpX1QwTW9mMEFHZ1hxd2xNV1gyeVg5YmpuWllvd0hadnRRVlFWdFVKLVltVmRaTUdaTzNrVXhyR1FVSDVCWUxHaHU4T3dObkVrVzZLcng4UnB0TTZlbW5sOXh6UlJjQzBpQWpCaEhmTUoxTXVGQWU2ejVXT3FNRF9OUHZjcEtKNjA0eGYtUS1fYldGMVBnSHlqdmlueEFXNC1Wbzg1V21EVWZsMHlEaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T23:08:00+00:00",
+      "summary": "Victim's family sues OpenAI after FSU mass shooting  firstcoastnews.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI board member didn't look at the internet after firing Sam Altman - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaE1CWk92YW42cjJXQ2RZMkdFWG5uWkVPN2xpTldIcGxxTmE3VnFqbTB5WHBoUlRjT3BXT0E5NTBaOENfZGNsSHF5cWV4ZHA5M3piLXR4OHJyS3ZYVjZycVpxcjl1WF9QN3haTm5WRXJrLWVSY0pnWDlCQ2daemR3UHY4eFQxamxqeDM1Yi1vYkREby00VUlKQzRIV0wzcXhJSDJYb2ZB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T22:57:00+00:00",
+      "summary": "OpenAI board member didn't look at the internet after firing Sam Altman  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,6 +83,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-11T22:43:30+00:00",
       "summary": "How ChatGPT adoption broadened in early 2026  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella defends OpenAI's for-profit status, shares past nerves over Altman ouster - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNTJnb2xPdXZXb1FBb05DckpzRExBZDR6VUw1Y3YzZk11UUphWTNZZEliNTNXQ1ZQM09oVVBqUVJxdEVRbjdMRXNqNUQ0WVd2UG0wUmJtVHd5WWJJbDdSdWszeGh6V240aDNoQVpfWHZVeGZtN2g1VkJUdG5pZ2t6WnhKSlgxRVBwU1F1dlNDdWdqZ1VMNVkzOE4zN3hEa2lOSXpxSHk4X0hxbmNkQnNJVWFkNnplVUNCMGRoT2hLNHYzY05yaE9TckhZc3JCUXhHajdHQzVn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T22:41:00+00:00",
+      "summary": "Microsoft CEO Satya Nadella defends OpenAI's for-profit status, shares past nerves over Altman ouster  New York Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -47,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-11T22:08:02+00:00",
       "summary": "OpenAI's New Daybreak Platform Uses GPT-5.5 to Find Software Vulnerabilities  MacRumors",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘A consistent pattern of lying’: Musk v OpenAI trial exposes what insiders think of Sam Altman - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9saDF2X3hqd2FYSWhQUEZPN3VBY3Z3d0hyWlVfX0F3a3lidXFscTJCSm1SLTF6blZCY21sOHlJSE5VY1E4UzJQQkc5SzZ0TWFmdTR6aXZfazdCaFhHQlhwZThQUl95VWJXcWFvamdjVmZGeDVWZE5pUkNJcWVJZGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-11T22:02:00+00:00",
+      "summary": "‘A consistent pattern of lying’: Musk v OpenAI trial exposes what insiders think of Sam Altman  The Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -72,7 +144,7 @@
       "title": "Microsoft’s C.E.O. Intervened When OpenAI Fired Sam Altman, Musk’s Lawyer Claims - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2Z5M01YdmVfUG1yRUxoSXdod29WY1RMLW1TOUxRZzZ2RkxnUThNTzJzUU5tMGN5RmxsRUVLSjNfX2lhM1NRSWswa3htUzktRjdCVHJPSlowb25iLXJLY0FFTUFxRkJVOE9WZm5UaFlzNHJWVmphWXNtVEpZRWhNYnhEbHhacWgxOVE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-11T21:50:48+00:00",
+      "publishedAt": "2026-05-11T21:50:49+00:00",
       "summary": "Microsoft’s C.E.O. Intervened When OpenAI Fired Sam Altman, Musk’s Lawyer Claims  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -96,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "What smart people are saying about OpenAI's new $10 billion company to help businesses deploy AI - Business Insider",
+      "title": "What smart people are saying about OpenAI's new company to help businesses deploy AI - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanBpdUVLLUdXR3V6cTJyb2N2d1JsWDRkeUtFcGN5aEJvcTFLUEp0bTZJN21saVIzelliZ1A4akVxRENjSjlFVFBvYU9TMWlBZGV2Z1JpS1FERGtEalhEb3paV0l0ci15c0trMG4teGpKN0JhakJqcFRxWTlKa3RaX1JfeEo?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-11T21:21:01+00:00",
-      "summary": "What smart people are saying about OpenAI's new $10 billion company to help businesses deploy AI  Business Insider",
+      "summary": "What smart people are saying about OpenAI's new company to help businesses deploy AI  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-11T20:51:00+00:00",
       "summary": "OpenAI Launches Deployment Company to Bring AI Into Enterprise Operations  ERP Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches professional services business with $4B investment - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREZScDB6ajlhaS1kZVNkOFdrX1g5MWdoQXJ5X3VEcll5Y1lpa21ySUMzZFN0Z1UxVkVUWnoxY01ualhhNGJXcERQaHY5RlMtZVliT2RhWHV2enlMcHpuWDU5dGx6Y2FrVjNDOFZCd3Q5SE5JMW9Mc3o4S2VUQ2RsYjNVWTNRcnpOMXRqalpfempmV2VfWlNyd0luZm5jQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:47:49+00:00",
-      "summary": "OpenAI launches professional services business with $4B investment  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Made It Harder to Fire Sam Altman - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUlRTDJSdi0zM29EQXNybjQ2a3d3SGxDd3daT1NlQmtJRzFPS2kxUkJITUtlcWVLSUlVbVctTkhDdWlTcko0aE5DWktTQ1RhYnZxWEhpTE11ejJxYU50b1FUdk14ODFWZ3lqX2VSX1BnS3hfc09mb3pLM0V5S29jSXlKUkZFQ3NwaThNeTJwNFJGdjdoNXNIWDBNd3czQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:40:37+00:00",
-      "summary": "OpenAI Made It Harder to Fire Sam Altman  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Debuts $4B AI Services Company As Rival Anthropic Builds Its Own - crn.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVllyclNlM3dFNGl0cEFXaG9LMzh6UW9WY2cyMnAtNThiaUlWUVVMbHlqNTcwTzRXOW9fQ2hsdFVfeUNvUVA2QWNhZEUyT2dsczZmM0RrRS1KbmgxUG96Mk1kY0dIazloR3I1UDFPaE02d1ZLTGR0Q0Y5aV9XakdYaXplWF91MFR1SkdqNnBBVldJd2FKamdsbVNHNDIwT3Uza2NyZDgwUG55aEFqWXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:32:00+00:00",
-      "summary": "OpenAI Debuts $4B AI Services Company As Rival Anthropic Builds Its Own  crn.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft CEO Says OpenAI Board Was ‘Amateur City’ - New York Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTTZOeDJXRG9mbnF6VlpDTlVIejdwMWc1dEhxY1FtWmNWSE9GNzhod2UyOXBKTDZqeFpNRFJuWlpaT3dGcS1mVXRKcGVSTFBGcEJDQ3N6cFIyWnB2V2dKUTdIWV8xVmFkQ0xGeGVpU2FJLVRqMkM2ZlJDdVVwUlBYcGd6RW1yRDdXbW9Qa01aQzg0VE1KM3JGd1dmM0xwR2tkSlRn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:19:30+00:00",
-      "summary": "Microsoft CEO Says OpenAI Board Was ‘Amateur City’  New York Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI spins out DeployCo with $4B funding to embed AI engineers directly into enterprises - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVanNjOWljck5HSWdmejRweU9QakRYR1d3MkZkendTZGdXMFp6MnB1OHRuM1N4VUxjSUZ4dGFnbjRuN3ZvUENCUHZTRGVWQXR0cjV2X3l0dS1hNEg1elJqYWttWHBGbERNSHhCbA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:16:30+00:00",
-      "summary": "OpenAI spins out DeployCo with $4B funding to embed AI engineers directly into enterprises  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft's Satya Nadella testifies in Elon Musk, OpenAI trial - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzFVcUVGcTFJeExXQ0ZpcHRkWVczb0V3MmVQTG96ZHpRbDd1ZlM1cnRGdWRmUkxHcWhxbjFKMGYtZFhMM2hyRVpzR1hFN1hjRzdHUWVGUE1HRGV2VVlhWHpidjVXbDZaazZ5aV9KN3BqVUtCYWo1V0xTdm54X05LemE4bUxfZUJBaDhrNTZ3X1UzeHYzYzBkMFZxNVd6VHlRbzBBNTVCaE1sZ1U?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:12:14+00:00",
-      "summary": "Microsoft's Satya Nadella testifies in Elon Musk, OpenAI trial  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches US$4 Billion Unit for Enterprise AI Deployment - Mexico Business News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX052WllXN29oM0VNcTBoUjBSQzlWRUw2b1pZQkFSTjc2b3NadDBMNzVFX3U3ZkthRElibG50Sk1QQ2pmLXVJTk9JRjVZSHpXN3FFd2NiMlRDb3MzcGlWOExqTlAycEVSMlBaVzNSNmpoaTFEbW5YTHNpejZDaWNaX2szV2xBWXB6eTJ5ZzVRSDdnQWYzcW05QjBQNEJEUzltYXR3Q2h3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:11:25+00:00",
-      "summary": "OpenAI Launches US$4 Billion Unit for Enterprise AI Deployment  Mexico Business News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI User Drops Privacy Class Action Over Mixpanel Data Breach - Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdW9kMzZlRTdORjltVm9WemxZR1VtVFdlLS04d180RUJfak1JU2xENjNHWFVwa1lqRXBsU0JKS2JqX3FvQzN5b1ZMb1R3dE4xa0I3SmgyQkdmcENJNlctMmt1VElKMmZHdHVqWTB4WV9hdU1zN0dUQm1XU3FKaWV0anloYXdhMVdkRTJpQS15UDRTd0FQN3NSbXREaG5Na0lTVmtwWFYweWp6ZFU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-11T20:04:00+00:00",
-      "summary": "OpenAI User Drops Privacy Class Action Over Mixpanel Data Breach  Bloomberg Law News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
