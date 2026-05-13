@@ -1,34 +1,97 @@
 {
-  "generatedAt": "2026-05-13T19:48:55.845819+00:00",
+  "generatedAt": "2026-05-13T21:12:17.059630+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "A judge told Musk he was not excused from trial. He went to China with Trump anyway. - NBC News",
+      "title": "How Elon Musk Would Have Run OpenAI Differently, According to Sam Altman - observer.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRkZwMmsyY0JITExkRGN3TkR3RDFIdGxZMHVWLWVyVEN2YmFOZ2ZkdzZVVnlyYk1YOENQNVRneEQyNG1tVWRnSUVkRnpOMUJhQnlOV0N5UGtuVERKSFd5UWNFcjllX1MwdjdYY1kzbWVaUUtiMTdtemN6X09XeXMtb0VLQ2tKQ0FzeUhncEh0bmVCa19PbWxqUTlKaEtuY0laQmZJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-13T20:59:32+00:00",
+      "summary": "How Elon Musk Would Have Run OpenAI Differently, According to Sam Altman  observer.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Tech: OpenAI distances from Leading the Future - Punchbowl News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NSzhLRmtMNC1ydG5BX0tDaWlXcVlTSmZ0bkJxanlaTHFvRm05VjFFY1NyTzR0eWVzU2tRRDM0Z3BuUG81Njl0LWtRTm8zSkhQVTVSMEIzUmFrU2swUWY4a3N3aW1PbjlCVHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-13T20:27:30+00:00",
+      "summary": "Tech: OpenAI distances from Leading the Future  Punchbowl News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive: Microsoft eyeing startup deals for life after OpenAI - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2VyeEVUTWlmTUQtd0tKanlmR2l5ZmxPMXp5UFdnTGljWnlZX1ZhRGFBZVZjZU44U3dZS2dKQVFHcVpncVp6VUJIVFpicWpxMUxEZ1cwTTdyUl9xZVNES3NiVnZNTUp2czFKWkNWSW5EVVFBV2tZOG9laDdDVU42cFZDeUtpbFJjWnhWT2xMOEg4QU1D?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-13T20:19:33+00:00",
+      "summary": "Exclusive: Microsoft eyeing startup deals for life after OpenAI  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft: We have spent over $100 billion on OpenAI deal - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVhOdTNDekdFTEJ5VmtXaUc1UkZNeUJmdVN3ZXE1TjlPb1o3SUd4eUpWRUNhR3ZJWmpDdnJjVndITWM2aU9DS2d1d08zYVBBSTFITGFSWmVvbHk1M0hwSVRHSDA5WXN0WFdmSGMzRkJJMTZvbU91WkxGcEJfRFQ5MzduX1J5OGQ5SVFr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-13T20:02:53+00:00",
+      "summary": "Microsoft: We have spent over $100 billion on OpenAI deal  Sherwood News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk Lawsuit Puts Microsoft’s (MSFT) $100B OpenAI Deal in Focus - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3BReWQ0YVhGSHZ6Tl9NaFc1aDJXLWxuek5OYWk4S185SmtqQXQ3SmlCbktqODBicnh1NS00VjJMdjZuRDdPZlFhS3RLV0Jqd012RDN5TTFSRTFjUUk4UXZMWjI0Qy1QM1d5bk9tUjZtWUVXZ1AwSUhGYWhJT2dBNnRWaU4xREdYTk84QWNFU2JobFJkWDVHRFRB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-13T20:02:19+00:00",
+      "summary": "Elon Musk Lawsuit Puts Microsoft’s (MSFT) $100B OpenAI Deal in Focus  TipRanks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft Shops For AI Startups To Reduce Its OpenAI Reliance - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRktsWnVsOXVRY0N3MzFSMklFSzlGVjBCVGF5b1REQjR3VHdVLVBGdU0tdUV1MlFHQ194bkxHbjh4aDRRa3ZpNjhGekJ6X3AxNkZQUGJDVFZwMGJiVS10aEZSS0hIdEFzSjZFU0hqd1R5Mi1iR2ZFNUJucGxZTG9kbHRHdUZlQVpvYVBnNmZFczktcDl0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-13T20:00:36+00:00",
+      "summary": "Microsoft Shops For AI Startups To Reduce Its OpenAI Reliance  Finimize",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "TPG Says New OpenAI Venture a Traditional Move for the PE Firm - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2hjOVJMcDVzVFdqZkUzOFI1WDI3RFRWTE9lNkRHT3pqaWZTR01NN2J6X3Ffb2dKVFFObTVUMGQ4RklMSXY0QzFZNDFLb2l0WXJpenlLamhtOVlHQWdhdmlVZWNsUzl2LVk5eEIxaVZaM1dMMnkteW55LTVBM0VoX1NwQjBlY1cxWHFaT3pPMGEwRnFmbkYtbE9wTkpHcFViOTVSUHNsZVRhN0tPQ09iUmE4NA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-13T19:56:47+00:00",
+      "summary": "TPG Says New OpenAI Venture a Traditional Move for the PE Firm  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI, court filing shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDUxQUx2TDdmSWNrbHFMd0pRQzJXZmd1RDJkNHFVWl9heHZLNE5ibVhYS3JhS0JkTjZHT2VEam9lWnprZkhLUEZiMnJLNjdyNDJxSHRvUzAwOWJvNTFFNEJWZTJhMERuNzFiSmpkaUk3M3BIVzlXMlhzYW1SSHZ0WEY2Nm5idnAwUlVVcV84NVR4RFJXanNaQV9qOVNkNUpOUWZhYzZXOE9FdEhSc1Q5YU1XZ21lVkdRT1NhSmJ0akQ5M0hGTHVsV0xB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-13T19:53:54+00:00",
+      "summary": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI, court filing shows  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Amazon workers are under pressure to up their AI usage—so they're making up extraneous tasks - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2NRTl9aSGtwNERDMFZhWG54SHhjM3VZNUJuaXFnb0Z4VFdFUjItNlV5WjQ2dHRIc0NkUENYOTQybHV2Q2pCVDZvVWJ0QkVlZmUyUEJsS0JmNnBkSENHTnM1aGx1bThVemdNRnFHOFdMdG1IbXJzaldDbVZFOXVZdG9MSjZKRUY2QWRRRDNVcDJtVlVCaUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-13T19:32:26+00:00",
+      "summary": "Amazon workers are under pressure to up their AI usage—so they're making up extraneous tasks  Fast Company",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "A judge told Musk he wasn’t excused from trial. He went to China with Trump anyway. - NBC News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUhCRDNTN3Y5S3JMRHI4ZW5wUWxQZ0l6Qjd5Qm1aMkF6QWpoQ3NUMVlUazM2dTJwUzZDS3JUc3UtRFhReUhDYmgwSU9HTklKZjVRZVZQVWhrWWRnbk9TUDlsU3VqNmtGQ3lqNTkyRmR5WHlSNjF4N2lfQ0tOWFRhLUVRVTh2ajZwb0pSVFQyQVdkbEFuZHlMdg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-13T19:28:48+00:00",
-      "summary": "A judge told Musk he was not excused from trial. He went to China with Trump anyway.  NBC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI: court filing - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDUxQUx2TDdmSWNrbHFMd0pRQzJXZmd1RDJkNHFVWl9heHZLNE5ibVhYS3JhS0JkTjZHT2VEam9lWnprZkhLUEZiMnJLNjdyNDJxSHRvUzAwOWJvNTFFNEJWZTJhMERuNzFiSmpkaUk3M3BIVzlXMlhzYW1SSHZ0WEY2Nm5idnAwUlVVcV84NVR4RFJXanNaQV9qOVNkNUpOUWZhYzZXOE9FdEhSc1Q5YU1XZ21lVkdRT1NhSmJ0akQ5M0hGTHVsV0xB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T19:28:09+00:00",
-      "summary": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI: court filing  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI: court filing - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRnpBOWRHYzYxQWhjX3ZKazd4WTlfcWtla3dvTWE2NTZpVHVyZmozNktUeUhtNDk1YVlOLW44MUd5ZVNlMGVUYW9XNWZGbjNacVozTHBtRk9vODFNWUtXdEU0ZUtSYlVHUFVfemZBWEo5c0Y4ZGYtUVhfbXJVWkc3SHJjbzNhUFFnVTdmMEN1a196a1poV3J5YWE0MFNxeHFQcG5TWW9mRFNqNkR4eUpoalV0eURpR2dYcUhISmd6cUU2elpXcFRkRjc5dWl4S0tuWm9fN2VZSmcxRkdhNUdhclFjT3NpaTZpdy0tRDVNUkdtNzZEWFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T19:22:12+00:00",
-      "summary": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI: court filing  TradingView",
+      "summary": "A judge told Musk he wasn’t excused from trial. He went to China with Trump anyway.  NBC News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,6 +159,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMlR1RTU1M3ZSMkpvdWtPY0t2R2hTVUJ3ZG5WcmlkSl9jdlZucE91TWdWRmViSDkwN2MtRkVjWFpQQlJFcktYTHJJc1dmLUROMU1yWnhaYjAyZDQtb0VDbmNlSHRYbW8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-13T18:28:50+00:00",
+      "summary": "Building a safe, effective sandbox to enable Codex on Windows  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Anthropic overtakes OpenAI in B2B adoption for the first time according to Ramp spending data - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMm9FREVIM2FXVGx6bkFBeUV0RzFQMEhjNWNKczFQU3QyTFFEdk82RVN6OXg5X3daNmx1U3QzeDJ4QWpYZ0g2Wmlydm5NSjEtZGFaUGhCeEt3Z3NJeTlJeG5RZmtLdGFTeVJVN00xZjgtUC01MUpXZTh2TVBhcDJRNXRNNlRPZGxUNGNYajY1VC1fekc5VWc5RXNoYlhJNXhvbE91aEFQdk5qU1FKQzZKT25FVWhuN1FvRmc?oc=5",
       "source": "news.google.com",
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-13T17:29:19+00:00",
       "summary": "Tech Moves: Microsoft AI leader jumps to OpenAI; former AI2 exec joins Meta; and more  GeekWire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "What Does OpenAI’s Deployment Company do? - AI Magazine",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJczlTX214R3ZzNjNORENLbWFfeURSc05CYVo4MFczQ1JRUFIxdDJfbmNiNUtienNZMTU1Ym5HNjF6Y1FQZktOV19tUWpCNW1UdzhKZFNOVnE4b1VYQ1dveXJnMVBDMHB0ckxhYzlUcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T17:21:59+00:00",
-      "summary": "What Does OpenAI’s Deployment Company do?  AI Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman says Elon Musk wanted to pass OpenAI to his children - The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmJHZEJWb01Kc29TTkxRWnFycFhTWFZ4cVJVT3hOZnJaeUlEX2VYZjNNQ0RJSUlFNC1UbzRBMGdZSWo4YWNLb0RFc3JoTllXMVVyMi0xdWFrcmFKaTQtbVowWm1ZQ1loVlpMcVFBQnR4TTExLTRYM2JhMVpaNlJJbmhERThZUWZxTHE2Z0JnOFNTLUhpV1QtZlhMR2g4ZC11Qm91SE9tbW1Fb2dReWstRWRFRUhQUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T17:19:33+00:00",
-      "summary": "Sam Altman says Elon Musk wanted to pass OpenAI to his children  The American Bazaar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft Spent Over $100 Billion on OpenAI Partnership To Date - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDNER1B1RUJiTnZnWlhhT1Q3ODJxcjJzaUJaWUFGdmtGcm9qOWJFWGdCRVBCTlNFUkJvaFg1SnJacVkxbWNnSy1pZjZxY3huSUZIc2NXQUN5NU8tcDJjOVVnTlNKUE9VQ21VakFGUVVpUkdaQnJoMVNLeFVJRFV4Q0ZxRUtmeGl5OWY1MlRaTnVsSWNGNENqdFlhT2VrU1ZiM0Z0U2FZbmtpdE1CaU53MERZNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T17:15:10+00:00",
-      "summary": "Microsoft Spent Over $100 Billion on OpenAI Partnership To Date  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Brings Its Ass to Court - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwSzNWanlzMU14S252dEVqZnMyd2F0dW5rLUJNZGN0NjRKX3lrX1V5S3RlRkZJaU5VYUpKNFFibUJadjVmS3V0UU5BUWhBTkF1NEZObVducW1QRWRLV2drVWYyZW50cVZpR3hacHRadEVBbnBL?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T17:08:00+00:00",
-      "summary": "OpenAI Brings Its Ass to Court  WIRED",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Enterprise Deployment Unit as AI Vendor Race Shifts Toward Services - CX Today",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ1NDcDlqNHNZS05hM1FYTEhraEJhMWItcDIyQW5rU1ZZakl0REV2RnpnUjZnTjVPaFJYdkN5NzhlVHlZT0c5U3VjMDBlazgtMGtYajN3eXNsYjFPbGtMdzdJWkZYNWdxN0VnT0VCRDNMNS1SbTY3YlVBUWNkd1dScXpyS05FeHNNX1dWelZMQV9nYlRvU3JaQkRVZkVMNXF0UTJRY1daUzUwNzd5U3RVcTdsSm9xUWxvNWszQ1I3ZFFUM2xqbkRB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T16:39:30+00:00",
-      "summary": "OpenAI Launches Enterprise Deployment Unit as AI Vendor Race Shifts Toward Services  CX Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Caps Microsoft Revenue Share at US$38bn in New Deal - AI Magazine",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0hFYmtsWlB2ZGdtbEhFRzNGbnh5SDYyaVRWNjdiZTYxckpBa0t3WndEU1pMOE84SVVhQWdDVzZKV2htTUROSE0wZnptMjVtVlFieVVoMDdaaG1McDhydVE2ektvaXRuQVJ3YWVNNExTbG5WNXZJekNlekp4cXVKS0prYXhFQ2lXX2o4MlNmVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T16:32:17+00:00",
-      "summary": "OpenAI Caps Microsoft Revenue Share at US$38bn in New Deal  AI Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Who trusts Sam Altman? - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNeFI1SlFTLUpFYWYwdnVNa2FzTkp0aGRRWGx0NFhZbzZkd1pvSmg3T3hXNUg0dHQyQy1rdGQwcDdjdFBMSVdacGxJYW5zQWQwaGNMNU9iVUNWVkN1ckYxX010cXFNY28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T16:31:04+00:00",
-      "summary": "Who trusts Sam Altman?  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Real Story of the OpenAI Case - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PRjNtODF4b0dVRzFPbWVBNGhUc1RTVDc2NHRKOE1sRDhFb2ZrRnptdVo1TV9abURGbFNaT1hTU1RvZzJXQUEtZFFZYXlSYWxnYVU4TmNLSlQ4c3BEeG42eG5LTXNwSTFvMWtERzZxdnpMV21RWTE0cWpB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T16:22:00+00:00",
-      "summary": "The Real Story of the OpenAI Case  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
