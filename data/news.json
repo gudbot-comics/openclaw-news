@@ -1,10 +1,163 @@
 {
-  "generatedAt": "2026-05-14T01:33:28.494382+00:00",
+  "generatedAt": "2026-05-14T05:30:05.582223+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI caps Microsoft revenue share at $38B in renegotiated deal - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lTlY1MXR6OHVZT29sTDdUVjNYc0NPTGJBX0FUVExXaWFZdTMySVowTG43T2RHamdOcUhyVS10WFlyTGZ1aTBocHRfNWUtc2lmWTdrc2xDQjU0NjBORmVPdjg3UVdKWEh4LVM0Z3BLMHRTNG9n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:59:48+00:00",
+      "summary": "OpenAI caps Microsoft revenue share at $38B in renegotiated deal  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says no user data breached after security issue with open-source library - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcW4yd2d2ZjRQMFZCdlZMajVDNFlSWmZqSVdPT29rdkw4NmJEdU83eHRFQjVOMUptczk2SzlSQ3pBUk9Oc0pVMEJYWVVOQWFncHNmNm5hUDJld3pvUG5uelVybmRNSzVxY0Q1ZzdCZXhfR2dEeHU1VXJmRkNpaHRGX0RzZjhyelVlZTNNQkRZa2ItZ1dBRjV0a1FXMGV1QmFhcG05ZUJ2NXd1NmhodWxCd0Q1V25Bb3dmUFRzWkZiQjlWZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:51:00+00:00",
+      "summary": "OpenAI says no user data breached after security issue with open-source library  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says No User Data Breached After Security Issue With Open-Source Library - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUtudkxTZGxGZC02eVlGQ1hpQ3pacUZZZmpqSjk2QUR0YmxJS0F1OUlYbnJWbllLNDNtSVRDLV9oQWhGV29vNm9fUldJU2xTbW5wemtzRjF3YmtXM0M4MTR6MWd4eDVMaXhaeFg0dTdJcDJWeTVLZmtPRnhyLVVJQkQxU0JxcVctNFdFUENLdF9JbTJUUnVac2dERVFCRXNlU241R3NqNVFYM0M5Q0lSYndaTlZtTEpwNnh0bk1YUnNuOGlOZHpzUUJoMDZSTHNIcWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:51:00+00:00",
+      "summary": "OpenAI Says No User Data Breached After Security Issue With Open-Source Library  U.S. News & World Report",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says It Identified A Security Issue Involving A Common Open-Source Library, Tanstack NPM; Found No Evidence That OpenAI User Data Was Accessed - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPdll2TWtWcTlUVk1LS0s2eUgybDgwRDd6NnFSd2FCaTFrTGI5V1N0eURIWUZ1dWM1b2xkTklPcEMwOGc1MENlSEVfQzZ6WU9tRDZjNUhobE9idkQ4ekgwX2dlX1JHSU56X2p6VFBBRUp5T2RyUm5Qc0lDZHdtRXk5bzdvaE13bHJxZUdjT05WdXUwTTlaUy1YbmhtamxaWmNTTDRHY0N2VnRPNVlZaGFPamJYbVAtM2ZFYWtRb3hlQ2M5dWU4dlZzN214dVl4RlpWeTdCczJTQjU1Z3F5YXVXWXQyemhWamdjU0JFejRwNDk3Z2g4SFhrcngtV1FBN3RuRXp0XzBINzJtU1I3ZXZwYkZrektpdjZQUDR2elFuXzRIclhLUl9mUkxQTmt4M1dZWW9kXzR6eGlabGUzZlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:40:00+00:00",
+      "summary": "OpenAI Says It Identified A Security Issue Involving A Common Open-Source Library, Tanstack NPM; Found No Evidence That OpenAI User Data Was Accessed  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Softbank Group shares fall as OpenAI exposure overshadow bumper Q4 - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORzRsTGpSa0tOZ3BkS1MxcXJFSUZGVVdTRjlaaEdCbnVTdzFkZ09yWl9rRHpfYzZGU0hjb2V4QmRDNFhzRVM1NzNGYllPa2Z1MzFBbVNkd1QzcTFFYks2bG9aNmJaUTdmYXlHZ2E5clpIbzROY0NfWkEzTjd0ajJIUlBvcUlRQWQxTC1NWG1Xcm5hU0lRczBFY0dHV2pTWE5UR1lCWUpwZ0FZVnJwMUJBdlJXU3V4Z0tJUTdwbFBTRGQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:30:00+00:00",
+      "summary": "Softbank Group shares fall as OpenAI exposure overshadow bumper Q4  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Wireless-Tag previews IDO Claw ARM platform with OpenClaw pre-installed - LinuxGizmos.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT2hPZ1BpVFI3eDZzM1pMQTlQbTJ0VUVUZkd1Y0RiVkV3UFd5NGVxQ1BSY1dNOG9kRzZYZ0RqSFF1RmowaUlsbTJTS0VsVUtCaElHaFpWajJ5eTJoeVIyQmVmR3Z5Rmc5RnhsUGFjUzl1WG1DZ0JmZTMzT28yMnhMNlZBNkNzdzRMWDVleXhjbWhqMFExa2ZRbWVaUXo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:28:56+00:00",
+      "summary": "Wireless-Tag previews IDO Claw ARM platform with OpenClaw pre-installed  LinuxGizmos.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI backs US-led global AI governance body including China (OPENAI:Private) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEgxWXB0SFNVREhSYUcyX20xQ1VaZFQwOXd4QklJNDFJMDc0QmtZSENWVUJLTkxYUl9MOUtoalgzb01mWWE5bmhaekV5bkRkSWxteDZnSU9UZkVYSzVwYlFtWVRzdUdPWUFBMl9xY25KSVJFZklSbUdfM3R6QmNuUDFaWGhtb1NlbWdYZzhQZGVheUZnSGsyZkRQRi1HWnh2?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:25:59+00:00",
+      "summary": "OpenAI backs US-led global AI governance body including China (OPENAI:Private)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk Left For China With Trump During OpenAI Trial Despite Judge's 'Recall Status' Order: Report - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmFLNkNLZTNud3k0eXEwYUlsWVUySi0waTZoNHd3bnF1TDNDcjlvT19mNmRQUXg2ODNzOUNCbEhvU3JJU0Zpb3M1V2taNF9iMFFtV25lSHN0NXlPV2wyUTJlZFJsdnl3OXc0OExhZXFqTHF4UmxNSW5meDB6VThya0thaTJtX1dUdUUxNk1NQ0RZOE1PZjhJWHdBYWhXbUpvdlR0UkRrTzhYcXprNGVnOXp3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:25:12+00:00",
+      "summary": "Elon Musk Left For China With Trump During OpenAI Trial Despite Judge's 'Recall Status' Order: Report  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk Left For China With Trump During OpenAI Trial Despite Judge's 'Recall Status' Order: Report - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN09vWTlLV18xR3Qwd0JtclFweTJHMTlBOU5KWklaR0hubXN6WU9wWkhfUDNZcWNvZHlBN3ZNc2l1OWNrUWJ3N2VJWlNJWE1seFIwY21FZ1dQOVNZX3kwa1VoNnk1V3FmN2djNmkzVEJrdlhfRkhQZHNKaEl6WUZMWg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:25:00+00:00",
+      "summary": "Elon Musk Left For China With Trump During OpenAI Trial Despite Judge's 'Recall Status' Order: Report  Yahoo Finance UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Township treasurer resigns, cites ‘threats’ over Oracle, OpenAI data center - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWFB5U3JTQXNmZmZNTUl6OXo2SUhWRnVnMnBiNEdvNTAyODEwVVlpUUxncUstdGJxeXRVcG1ob1JHSUdrUGVfbWhlMTg0Yl9kVWxtYWlvSVVWTzhRM3psSnNRVlp1eHdiWEdGY1RJWXBNNFlNSndkR0hQN196TXRpS0pNYnotalpZeFJMd0lqbFVxQnlzQXF2VlNxMkJSanZsYkp1TkFBZmRHX0w3N0k5RVppX1hNRFhtMnRnMzh30gHSAUFVX3lxTE9LQnBWQl95RVFKWkFlZHM5RWRWclAtaUFMdE04TTRlNnQ0ZjlfUnhHcVdobzlqSVNTd182ck93OTlPdDQ3Tms3YWdXWE1BRFpMdnlEV3UyOVVIcml1RFVZbURCUjNPVDd5WDFuRkg4b0pmM3VmXzhfdzJkTG11a1UwTTlZblNuNXlmVUx2MFk0bzl6QzU3QUtvVmdMMDFCYm41bDlaNkhYdkFNckpHRlV0NDUzYWM1c2VLS05NRWVOVzZSOFRubWE3N2pZc1Z6Mm9qZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:02:00+00:00",
+      "summary": "Township treasurer resigns, cites ‘threats’ over Oracle, OpenAI data center  MLive.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic Just Overtook OpenAI in Enterprise Adoption — And Businesses Should Pay Attention - Times Square Chronicles",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTVOeFNmNEJ6aUlvd0pQRTExOUJLRTU2aU9MdFRIUkozYU1aOWhreXRBdm9neHNUR1ZmanhVVFZUdVl6RmlBNFZwelp3dEJzVXYxQmNEbFdyaWhRSGJjcW9SeTl4TVhOMGNzeDJ2Nk9QU2pROU5ITWMxMU5QR0J2ZjR6Y0M5aDVQT2xxU3ZLS1J4YmgwMHNtNklnUmJ3UlhTcGE1Y01ENjhld1FxbHlFaHRB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T04:00:29+00:00",
+      "summary": "Anthropic Just Overtook OpenAI in Enterprise Adoption — And Businesses Should Pay Attention  Times Square Chronicles",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ServiceNow and Nvidia Think They Have the Enterprise Answer to OpenClaw - The AI Economy | Ken Yeung",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMlQ4a1Zyb1FZOU12Uzl5YVExZTJIV0YwTW1DbW85Ym1sOTlGRWRidjFJbi1YQXpwM2V6R1RKSUFKTnpTX1hfeDFhbVVWT3Rfcy10N1pXNGYtOE9UWUJWbEhIcWlESFpuMWZCUGE2QWV4V1RSLWx5clN2MDh2V3Q3bVB0Umo4MVZRN3Q4OFJ4OWFjcy1HT1pBdDA5VXVrX1RwN041TmoxazJwSy1Ma05ubUFyQjdldERhUWpKZUNzQTdUN2poU0FYZ3Y2eEhYRHBJY1BZazhiMnBQMFhwam01VEd0S1NHaVdQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T03:45:12+00:00",
+      "summary": "ServiceNow and Nvidia Think They Have the Enterprise Answer to OpenClaw  The AI Economy | Ken Yeung",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "'Memes on his phone!' Sam Altman's trial testimony takes a turn - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvYjlHcW1kOXE3SmRFdUQwVVYyNmZyN3Zrb1NFTmJvUXRaeHFpV1VoMjBpMWFZOWVKcXEzWDdxQjlpZG1DRjZiTW9PSlBteG16UzdJc2pIaHlMUWVRRVF5UzZNVm4xcERaRTFB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T03:32:20+00:00",
+      "summary": "'Memes on his phone!' Sam Altman's trial testimony takes a turn  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft Exec Backed OpenAI Deal Amid Concerns, Jury Told - Law360",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1hkZ0IwUXVWQk4xRTFPVTljZlpTczFBdVVhck0tUk9lOFllWEY1QkZIMENrT0NPeEVrUTM0VHZWRmItc0ZtYmppYU1RN1lTS0VjWVNGenpSZjV3Um9WcGp2Qm5KNDdFNFRwbGxKc1lodThaaV9FSDE0RXRTd3BIZDhMamVocHhuWVZWeHRiVGZOcVhhVjhfVFMtVWdHd9IBVkFVX3lxTFAwcmFfSy1YWGZKQ01oemxRc2FLNFhRR2pVcFN6RDlGelRPQXBsdjV0UjdvanpNYXRTOUMzVXl6R0w0MV9YZ2RxbGhXRHp1VDgxc0pDUFN3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T03:12:00+00:00",
+      "summary": "Microsoft Exec Backed OpenAI Deal Amid Concerns, Jury Told  Law360",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0xib2NNd3JIbDRLSWhONkowbks2dWFtMFFlQ3EtRWdHSEdpWmViMGx2cy1DNkExdGExelpGQ25jRHZoVXhCMEtzRTZ0cmVvbFAzVXRuTDBJYnZpRjNpVVU1S3lrOEY1d09sQWU4MzlnRVd0RjVBcUxGTVljMG10b25QOHRoeDFydDh4M2VQYnR3Um5MSlhGSDRMLURMTHNoVWt2QkVCak1mM1F2Rm5wRmZBUDF5OGdiN1lvSw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T03:04:42+00:00",
+      "summary": "Avoid using OpenClaw in mission-critical settings, giving unrestricted access: IMDA  The Straits Times",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI backs creation of global AI governance body led by the U.S. that would include China as a member - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaUFOd3NjZDlrT1E0WjVYcEJnV3ItWXJCaktOa1laYTRYRk9fVTh0NDlkckV6QXV5eEcyMXd0OFFEVldMVlNPSGxMTi1fMnloX181MlJ5ZFM3cEcyaWo0TFRGeld4TTI1bElGNUplSkFqZktrRHN1WnVFUlBkdTZVMlhUR0s0eGZ2Vi0xSzBBT2hrSW1TeElGTHBqQ1pxWjJOcVgzTGZGWUdDQnd6NXpfampSTC0yUV9fN0NGekx30gHDAUFVX3lxTFBXRXhsU2hwM3dxd1pHc3hSaUFmWlB1V0FYclRiYlNHektZNmlZNGpuMzZMQk11UkhuV2hpdkVrUW16aXoxd0d5OHV6MUlpRlItMXkyR1Y3YnVHWHRYQVpoNmlCWnhmZlotb3RvcUVfb1VfaFdNSnA0eUFxZkVoWVh2bVF5VXRDQkF2OGYzZFdRR2J6TXhEejZXMS1NMEVER1AxMnN3bG9ZWE5mSmF4RjNlYUNmV0hwT0pteGxONHBLZjJqOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T01:53:00+00:00",
+      "summary": "OpenAI backs creation of global AI governance body led by the U.S. that would include China as a member  Fox Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft (MSFT) Seeks AI Startup Acquisition to Reduce OpenAI D - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkREQkhDUTUyTWZ5NWFVVWxzNHJfZEt4SmpZV3dXRlN3WkpUejY1dE00c2x0Ml90MWlBenlEem53dmNsekcwSFYwQ3BYbjZGSllYd2JWNVd1cDZrVTBTdGRFaTRXTTVlRjVaS05MU0UzYVcyLU54bmREYzZJSWdYZDBmbzRaanZmNC1HbGlDZ1pjRXR4T1pQeGlsc1JUV2E1eXZkMFBiTlB0elhpYjk4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T01:26:35+00:00",
+      "summary": "Microsoft (MSFT) Seeks AI Startup Acquisition to Reduce OpenAI D  GuruFocus",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI employee says Musk called him a \"jackass\" for questioning Musk's AGI plan - KTVU",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81TDZUcjdxRk55UmlDb3dzenNlLXdYOGpGVlF3NENObFQxcnk5aENiM2FNMjdwZS12WUxqdXBOWXZVZXhvUGMzZnBKNjN5Z1BaN3VjMGRYWWo5alHSAWBBVV95cUxNd0VIWnpfOUZXb2lUTE1McWowRVRGbk1uRmU1MjR1UGJibjI2LXBIa2xwTkt5TW82d0s4VlRWY0o2cFFwSEtIajlhS0xFOWZuYU40M05VcDF0d1hVWDdRaWI?oc=5",
@@ -29,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-14T01:00:40+00:00",
       "summary": "OpenAI Signals shows wider ChatGPT adoption in 2026 | ETIH EdTech News  EdTech Innovation Hub",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "'Memes on his phone!' Sam Altman's trial testimony takes a turn - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvYjlHcW1kOXE3SmRFdUQwVVYyNmZyN3Zrb1NFTmJvUXRaeHFpV1VoMjBpMWFZOWVKcXEzWDdxQjlpZG1DRjZiTW9PSlBteG16UzdJc2pIaHlMUWVRRVF5UzZNVm4xcERaRTFB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T00:45:00+00:00",
-      "summary": "'Memes on his phone!' Sam Altman's trial testimony takes a turn  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -72,152 +216,8 @@
       "title": "OpenAI and Veterans Forge run ChatGPT skills session for military community in DC - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHk1UXRXdFN4bW9tTVJrSnctNWp4QTV0bDR1R09yNUcxVjIzdXNzSmlPZVZwNUxGaUUyM3gyd29Qa1A2Z2xqMlJBd2FIaXo3ZUF3bjFmOFR5cEVRWlJWemQ5T01WMXdzTlhIWXA4Y1JyVng1Y21HM1F1RDE5MDlsYk9ER3JPWkZPVTlYRUNFOW16S0xwdkdaYTlIMWg3QmJOeldLbThGaHV4TFhScWlqNDZWQXcwT1pEZWN1WEJZaw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-13T23:07:03+00:00",
+      "publishedAt": "2026-05-13T23:01:43+00:00",
       "summary": "OpenAI and Veterans Forge run ChatGPT skills session for military community in DC  EdTech Innovation Hub",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI trial wraps up with testimony about Reid Hoffman, a trophy, and a Musk outburst - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzZDRjhRTEJwT3FFN295NHdEVWNDZjJHQ1pCQ2tOa3poXzBldU1ieWlaWjZ3QTJIX05FeFdCeHI5MzZtOE5TWXNBdV92Q3VPRU5XUTVydTNjRm4zUnoyaEdzYjF5QkFNU1AwdkxheV9hdzRoa2ViMjVRNjZsXzVfdFN3X2E1QXA5WXRKTGl0eUlDc0syUDBnNWM4dC0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T22:54:39+00:00",
-      "summary": "OpenAI trial wraps up with testimony about Reid Hoffman, a trophy, and a Musk outburst  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions — with a catch - Venturebeat",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdng4Q3p1N3R1QXN3ZEtQdDZrd2xVM09jcWwxRTFra181TUh5TXJ3V3F6Y2tvMzVHSGZ1aXBkczlrYi1zdFU5VWNXS3d4YlJoaHFxUjBQUzBzNVM3aWJwT0NnOGdRMUg1SW4wTlM3Z25zZ3Y0OXZoSm84d1VKcVlWQnhYa0tsc2VhR3BjWTJ2czdBbUROVUJsZ2gtYkFuRTg4N21YZWdWWk9TbFNZZmdnRElHcThnbVluNjJweWNQdUdidFBvZjNPOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T22:15:00+00:00",
-      "summary": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions — with a catch  Venturebeat",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead - Venturebeat",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjR6UjJXQmp6ZGNlQjhHWUlwaXBYcHc2aFFkRmZLSEQ3eHYxVmNmZkFfY1JLQmJVUU4xaXRHejJib1hORUxjREh4eDNJRndSVVdxX3p2TWVZdHctbnB2VnB3RF9rSFF2MGhQSFZxNmpPbnhNNERmUG1xYUNiWU8zRnlnVWctWXhmZldBaUwwRDV1OGszOW9iVVBiVTVKYjVyWGE0OUk4NDZxVDZxY2l5bFNGTUtIRG9lamYzWFREQmI3QlFTYnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T21:53:05+00:00",
-      "summary": "Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead  Venturebeat",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman defends ties to firms doing business with OpenAI - The Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWpCYWtzenlxTkVSV1FlNTNXc1RYaHYzUXctQU55QXFJY20xSDlsaUNzT0hjMHhtRE1JYjVueTJNcFZpc1d5UmNEVzNUcXlPZnd5V19pd1JsVzZNRGlNWFl2YkNVOVBsVlhZTEg0SjlHTnE5Mjdwd3FwZEZNcXFHXzlpb094R3JPa2FGUHln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T21:50:56+00:00",
-      "summary": "Sam Altman defends ties to firms doing business with OpenAI  The Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Floats Idea of Global AI Governance Body With US, China - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX2oxMnR3MFgza1EtTzFyTENrcmFuZTlPWkltdmhRSTExNVNSby00QUV5R3pQLVQwb2tZZGQ1Qm1xWHIxNUV6VzdzYm9LVmY2UGZtQnN0WEo4a1NZVjl0aWMxTy1EanFVRlR0TjduUzZzVnY2d0dZREtGRm4ydWl5bDIwYVR1Qzhxa0VSaXF1Mmh4OUtBVlExUVpHdWc0VUdYYldzS2I4X2NJdU5mX2lSc0l3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T21:36:55+00:00",
-      "summary": "OpenAI Floats Idea of Global AI Governance Body With US, China  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tech stocks today: Cerebras to stage blockbuster IPO, tech stocks climb as Cook, Musk, and Huang join Trump for China trip - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUktSQ2ZNSU81QkZHbE1rMVJac2ZRRmpoQkNKOTA3ejlhY24ycDNxX21TSEplOUUwT1ZnWmI0UHVZWVM4WHJ4b1NLQkpyb2xLdjQzeEdEMTYwQWU1NDlmUmdEbEJTVHpVQnhUTl9lenlNakNfM3FiOHZyd09XSHZVeUpETWNINGVTSWxtNGRZOUhsYWYxSXBqN0NoRUl0SFpmOUwzVHJMZlNJQVA5MmhYQTdMXzlLQ3RwRmhGWlVocXpES0lvQXBpXzJXWXZ1RUJzc0dtdWktSEs5NVQtMkN2WlVXd191MmJRb3lhWHNFb0R3ZWg3VUlEOEhzNUtXMXZOYkZGekJfczFPSGMzelFFWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T21:31:15+00:00",
-      "summary": "Tech stocks today: Cerebras to stage blockbuster IPO, tech stocks climb as Cook, Musk, and Huang join Trump for China trip  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Final day of testimony in OpenAI trial - KTVU",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fcGJRaFNvSlhLMkpHVktGbzh6aXRxZzVSY21mQ0t2RWFvYUctN1UzTE14U2J6Z3dOcloxSjVEMlJnRWhlUV9Od2JraTVYSnR1X3RNU3JhVkc3YU3SAWBBVV95cUxPVkZzOURLSzh0TGstamYwRHppRGJMWmtWWEpCbldpZzlrOFVISV9ULUI5WmIwbURtc05uTW9YVmRTWHBEX2tUZHlOX3RuUkdORllYc1pkQW9PbHZDb01heDQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T21:30:50+00:00",
-      "summary": "Final day of testimony in OpenAI trial  KTVU",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk v. Altman — Day 10: OpenAI CEO rejects claims he acted selfishly, ‘stole the charity’ - The Mendocino Voice",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSlQyWjJuaDRCV1pvc0FmR0FqUVZLNFBTRjVuVWJoczc2c0tsZjhpTzFJdzNEaW1MdFBPTC16VkwtY1p6LV92Q1RlbFJhUV84SC03SWVOU2dmeVlZWl9RYTBiR0gxVmZmcUhaZFJnQXE0WFNjZjJUVlIwSVp3MWFmWTFzNUhhbV9Wb1lmbk9IbkQ1eVVBTG41MjVhQTUxQ0prMlhYOVB4WTdybERYVUttOEdncUE5dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T21:23:34+00:00",
-      "summary": "Musk v. Altman — Day 10: OpenAI CEO rejects claims he acted selfishly, ‘stole the charity’  The Mendocino Voice",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzRlYVRNSndodVREWlZZSW1leWFIQ0Q2Z24zREUySHNBeTYzNmdKcW4tUzhDZURLY1hRbHpsaGJkUmtNbkZrOHlnd0N5UkxrZ1JmT2Z1MFhKTlBqNEFvTG5JQlYtakxfYTVaYjFpUHg1TkFuQjBCblU2UE42WE5YbjdDRW1VeG1RNFhqaDhEekg0d1J6MnR0d29RYy0yUm9YSllmeG5IdzfSAa4BQVVfeXFMUHN1UU1TcFFLQmtrQzVleUNrVlVCQjRNSUNkTVVySlA3T3F6T1NpZ1lZMHdFZ3lTU203a3RIdlNmX3lOU2xsaWwwTUVkYnNvRXNZX1U4aWljTjAwSFVUTWNVREtHV3Y3XzFyVnVYNTYyaF9QdEhtUmZKZXUwOHZYN3JWTE5vUlQyMFhmQzVYV2FsLVNENFMzZ1ctdXBKcDRycC1qNUw1emRHak1hcjln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T21:05:08+00:00",
-      "summary": "Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How Elon Musk Would Have Run OpenAI Differently, According to Sam Altman - observer.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRkZwMmsyY0JITExkRGN3TkR3RDFIdGxZMHVWLWVyVEN2YmFOZ2ZkdzZVVnlyYk1YOENQNVRneEQyNG1tVWRnSUVkRnpOMUJhQnlOV0N5UGtuVERKSFd5UWNFcjllX1MwdjdYY1kzbWVaUUtiMTdtemN6X09XeXMtb0VLQ2tKQ0FzeUhncEh0bmVCa19PbWxqUTlKaEtuY0laQmZJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T20:59:32+00:00",
-      "summary": "How Elon Musk Would Have Run OpenAI Differently, According to Sam Altman  observer.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive: Microsoft eyeing startup deals for life after OpenAI - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2VyeEVUTWlmTUQtd0tKanlmR2l5ZmxPMXp5UFdnTGljWnlZX1ZhRGFBZVZjZU44U3dZS2dKQVFHcVpncVp6VUJIVFpicWpxMUxEZ1cwTTdyUl9xZVNES3NiVnZNTUp2czFKWkNWSW5EVVFBV2tZOG9laDdDVU42cFZDeUtpbFJjWnhWT2xMOEg4QU1D?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T20:52:50+00:00",
-      "summary": "Exclusive: Microsoft eyeing startup deals for life after OpenAI  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Futurist Received a Gold “Jackass” Trophy for Challenging Elon Musk - New York Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1ZKbDZldE9DV3dkSjBydzlUWHpoaDdYNHJFWlpwRUlQd3plXzk3QW8tU3hGNEFyeVZ4TkJGVHd6OXlqRXZTUS12ZHdkMGVCUHNjOC1FcFQzbV9lUS1KS1lUM052YUg1NGQ2ejNSazhaNG5fWFFDdW1aMWdxRjByT05MbTI5Sk80dmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T20:38:08+00:00",
-      "summary": "OpenAI Futurist Received a Gold “Jackass” Trophy for Challenging Elon Musk  New York Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tech: OpenAI distances from Leading the Future - Punchbowl News",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NSzhLRmtMNC1ydG5BX0tDaWlXcVlTSmZ0bkJxanlaTHFvRm05VjFFY1NyTzR0eWVzU2tRRDM0Z3BuUG81Njl0LWtRTm8zSkhQVTVSMEIzUmFrU2swUWY4a3N3aW1PbjlCVHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T20:27:30+00:00",
-      "summary": "Tech: OpenAI distances from Leading the Future  Punchbowl News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta AI App Gets 'Incognito Chat' as OpenAI Faces Lawsuits Over Stored Chat Logs - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PSVJEWlRMUl90bnVvT25jTHJQdHgzdG1WS2dMa0ROTG05cmNVZTJ6UnZHOWRUN0t6NERxN3hIaWVFY2lhNGV5NzNlTVdvazlZbnBwU3lIUFNHc3hOM3dKdldvX3g2ZUk3QmRWcQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T20:23:37+00:00",
-      "summary": "Meta AI App Gets 'Incognito Chat' as OpenAI Faces Lawsuits Over Stored Chat Logs  MacRumors",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawsuit blames ChatGPT maker OpenAI for helping plan a school shooting - WHEC.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbnRUM0xiWm4xeFAtaXAyR3lEdnRHRE1DQmh2bnJERDFmdk9wZjRjaHNiU2JSejRlbFpkVEhqbk9XV2VyUTNyYW9GZ09IbERLM2dzUnh1aXFNQV9qZTBvUDRkOE9QekRwWjJya21pNUt6M09KVXByNGlvbG5IeGpSd0taSG9tNG1heDVyang1c1VNQU93aHNudHF5TGtSV25HSnZfNUcxTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T20:21:54+00:00",
-      "summary": "Lawsuit blames ChatGPT maker OpenAI for helping plan a school shooting  WHEC.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft: We have spent over $100 billion on OpenAI deal - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVhOdTNDekdFTEJ5VmtXaUc1UkZNeUJmdVN3ZXE1TjlPb1o3SUd4eUpWRUNhR3ZJWmpDdnJjVndITWM2aU9DS2d1d08zYVBBSTFITGFSWmVvbHk1M0hwSVRHSDA5WXN0WFdmSGMzRkJJMTZvbU91WkxGcEJfRFQ5MzduX1J5OGQ5SVFr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-13T20:02:53+00:00",
-      "summary": "Microsoft: We have spent over $100 billion on OpenAI deal  Sherwood News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
