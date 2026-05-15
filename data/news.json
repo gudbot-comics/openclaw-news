@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-05-15T19:56:07.202339+00:00",
+  "generatedAt": "2026-05-15T20:58:33.454599+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI CFO Sarah Friar and Anthropic’s Krishna Rao Are Racing For Compute Power - observer.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqdTVjbDZ4bkl3UDZtUEVsMFVXX2RDMHVyaHVjX1pkTGl1c3ZEWkx5QU5aWGdhM2NuV2k0WDVxOFBhWUJ1UWV2X0l3YnZqOG9RalpiTnI1VUl6cGVBQnlYZzBxdVZ3V1Y1VDhxa0xjZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T20:41:49+00:00",
+      "summary": "OpenAI CFO Sarah Friar and Anthropic’s Krishna Rao Are Racing For Compute Power  observer.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI-Apple tensions reveal AI platform power struggle - eMarketer",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjlkbjdHVGFQbFFKSjZJc1VQbEVJMUl4ZWpTM1VzS3VIUk5qa1Y4aWVoc3N6R2doUE5peWl1cklBMS1pN2JnU250NVZBUG9zRy1OTkhUZW5kOTVBeWdMUDhkUllHR0FEMWR4d0FheGZlNDVwb2JCNTZVMzZ6QU5IQ21ORk9iSVBZNmVNc1EyTEVVTlU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T20:32:56+00:00",
+      "summary": "OpenAI-Apple tensions reveal AI platform power struggle  eMarketer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI enters personal finance with GPT-5.5 integration; stocks hit - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWURtLVBXTWRYQzNITDZFcjg1aGc2Yk5maG5kTHZsMVRjOVF1cjhGYjhqSkU1SVN5amdUUEc5OHVrUW1hVzBOdm16cG5NSVNnVlVFR1hPS1NuUlBfUUJzVmFYaEJsYmF4eXRSM25zVHdCM3c2cktiaXRnOXJEaW1QczFHdGNaTHY3bG1lSEFTYTgtb0NMTGZ5WTM4WDVwSGhSVU44SHpRelBENHhhb1liMkJmNTRnSVdldTNJa2VR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T20:21:19+00:00",
+      "summary": "OpenAI enters personal finance with GPT-5.5 integration; stocks hit  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Court grants Musk’s bid to add Craig Federighi to Apple/OpenAI lawsuit, spares Cook - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2lrUFM5bG9mN3B1Y3RDekpDUjViVkFtWHBtYi1NUVd5b2JNVk8tOEtiMm9yZUZVdWZBbXZmNEdnR3VKSUNMUlVSdDdwWE9Jc0JJZDR2YUd2T19kLThSb0duY1RNR3RCMHhRSldOMjhIa0E5M0dtRE03MF94S041T1ZWWnlTZGRXbmxXSFJORGlDTVU1ZlJLdnJ2dk1IVndzWGEyMzZ1NmRyVUVVdVdlTFlzTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T20:06:00+00:00",
+      "summary": "Court grants Musk’s bid to add Craig Federighi to Apple/OpenAI lawsuit, spares Cook  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI may sue Apple over ChatGPT integration - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDdqRHlFSW1IdU1SSEJYWnM1ZF9OWVNRTXZYeFU5QW8wdXZnemtwUXJWbktaWjZIYjdlZ2wzdnZvWl9zSnRxWWs1eWtyQnpzcXZEQkdmaDVvMTUyZDBYYWp5eElHR0ctX1Z3amNQVllZSXFvajNRcTJSLUlpamVqNWtqaG4waURNcUxlMFNZVE96bFFDcWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T20:02:48+00:00",
+      "summary": "OpenAI may sue Apple over ChatGPT integration  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI announces personal finance tools in ChatGPT for power users - Mashable",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3IzRnVIQ3dtX3BBTDhWTHN5OEdDbWdZLXhsYm1wWDVlQ3RkMWE3NUQxYXR6TE8teDVQVDJvSmZMLTdBN0dtb2xnOW4yOUEwWGx1WWZIbE9lLTZHbmJLVjE1dTlXcEl4dmJ6WFg3amx4d01MTEJPd0NMMFY5bTBBazRB?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-15T19:50:50+00:00",
+      "publishedAt": "2026-05-15T19:52:30+00:00",
       "summary": "OpenAI announces personal finance tools in ChatGPT for power users  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Fiserv and OpenAI are targeting banks’ biggest operational headaches: - eMarketer",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWdmbmIwV0FoQXZGUzZ1REtOOVJEZG5rNzk5UkF4Z1BGSGJQMzNkMXhzQk9fdXRsN3NCZEpkS21jT3RNMFlGOHdpdlBnVTNaSjJldHNuUUpjSnBEWjRXYXlycEpKaW5XYzc2enpNN1hzVlItcEtPY1NXVmdiNXpvU2hJSE9aVW9kQVZxRg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T19:52:30+00:00",
+      "summary": "Fiserv and OpenAI are targeting banks’ biggest operational headaches:  eMarketer",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,20 +78,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI may sue Apple over ChatGPT integration - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDdqRHlFSW1IdU1SSEJYWnM1ZF9OWVNRTXZYeFU5QW8wdXZnemtwUXJWbktaWjZIYjdlZ2wzdnZvWl9zSnRxWWs1eWtyQnpzcXZEQkdmaDVvMTUyZDBYYWp5eElHR0ctX1Z3amNQVllZSXFvajNRcTJSLUlpamVqNWtqaG4waURNcUxlMFNZVE96bFFDcWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T19:28:51+00:00",
-      "summary": "OpenAI may sue Apple over ChatGPT integration  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Elon Musk vs OpenAI trial: What happens next? - Mashable",
+      "title": "The Musk vs Altman trial: What happens next - Mashable",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGWEhfTGt6UktyZEMxdF9hZ1EtS0xLUXR4XzRLR3pyb1JLMFdSMzdqN2dwb1JQZXAycG52X1FUVm1oNlFHdlVydk5aSWRIVDhxazR0WjNZSVVCd2FhcW53TXRFeVlKQ19nTU1RMDBmOXZpdw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-15T19:28:51+00:00",
-      "summary": "The Elon Musk vs OpenAI trial: What happens next?  Mashable",
+      "summary": "The Musk vs Altman trial: What happens next  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,15 +168,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRl9iTnlSU1Nnc2lYTEFIMHEweEJ0dTl2WkNKVHBhTmRJdEJOamE5eEYxNm9SVU91VlROSUNHVGM0UGk1cmJ2RXRvQlRvWTFPWC12STRVNFBueEo3cE5odEtRZEJwSWR2Rm8xLW5rVFNCUV9CQ1RPU1JVVnpNWTU5VzJEOHB1S1FjaWtaTFBwN0dHWEk2NG1ZdXVycWl6WEZxTzA4Y0QyYjNTVFFYenpaZGtfOTg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T18:13:33+00:00",
-      "summary": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say  Ars Technica",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI takes on Apple - Tech Brew",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50WUh6MHAwYW8tcnp3cDVGcC10Y2pEdlRoUUdFUDNfRDhSMFRTQ281ekgxdTNCcUdhOVNpazl3blFrU0E1dURoY3NOaFlFd0x0UnNaVFJqYWVUbmE2UFdYTGR0NmE?oc=5",
       "source": "news.google.com",
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-15T17:38:00+00:00",
       "summary": "OpenAI Reorganizes Product Teams Around Unified-App Strategy  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The OpenAI Jury Has to Decide: Do You Trust Elon Musk or Sam Altman? - New York Magazine",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXdHOUFYSmpFTURlRlRWT1BOcHI1a1VobDBCazJOc3ZrTVdDUTBFdE4yTm5mcEJkLUJyLUtfMmh1Sm81Vk1DTGVza25ON2JLMHRlZmJZTmVaWmNJd01NSlEwYmx0czZ3S254c0tJcFAtVUFyV3RfTEIyNURtWXB1ZVUyc25pbUZhRFZmVTdfam90YzhTV1JyS3dHbVJlNFBMQ3ZTU2N3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T17:30:30+00:00",
-      "summary": "The OpenAI Jury Has to Decide: Do You Trust Elon Musk or Sam Altman?  New York Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk, Altman under attack as OpenAI trial nears end - Arizona Digital Free Press",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZHJIcnlpY2dFZ3Y2N2Z2cW1tVDRJRzV0QU1BczJnc09nUmE0Q0ZfYnlveUtvVC1BdzhuLWtGQjNlWl9NXzBlRk1zX2pFX1FMVkZwTmticHZSR0NLT3A3Z3RqdnJqeXRZRmktZVQtYXJRZ2ZnSWhCTWJHRUltbThaZGs0eldFcDJLd1NJaGJuM0g?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T17:30:00+00:00",
-      "summary": "Musk, Altman under attack as OpenAI trial nears end  Arizona Digital Free Press",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OX1BRenk3Q2ZSS1FDclA4aDh4Wmd0RzJINW5najZ0RHo2NUVDbFZsMUV3U0djcV9NLVdoR25XalB6WE5zVGxsemdId1hMOVN3X0ZzVXkwLTJuM2NleHBWNGNWUjhVOHJDUDlxUEhrQXo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T17:09:00+00:00",
-      "summary": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up  WIRED",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI unveils personal finance ChatGPT that connects to banks - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWnJ6LVAyczFLRTlGME50OXBjekFJX2FTeHdHYXhqdEZLNFBqZFkwSkcxTEpYWEZQbG5DSTVGMldxblRIY050bllNQ1ZZLUdsR1BId0lhX3Z5a2VFeDVtLWhqTE90Z3BqV2NfUmt4Ulp0SGIwbFZPdG1Rc3hFTVRVbmVrNktUUzc1WGtn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T17:07:11+00:00",
-      "summary": "OpenAI unveils personal finance ChatGPT that connects to banks  Latest news from Azerbaijan",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
