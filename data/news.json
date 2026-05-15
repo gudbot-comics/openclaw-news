@@ -1,10 +1,136 @@
 {
-  "generatedAt": "2026-05-15T14:58:44.786251+00:00",
+  "generatedAt": "2026-05-15T16:53:36.800474+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI releases personal finance feature; plans to add Intuit support soon - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGFmVVRzYWloR3ZsQTl0di1LXzJlM0VwY3FJNnNYOHd4aXhsS1dseFc3ZV9GY1UtbnpUNC1xc29wcVJaLVFHQjY4OUFhMW1PWmNUM21lMVRQVWl0S3EycmdSV1gyZHFydFdRMXV3WVJxZFJfSTI1MEJaZzJVWm4tckdreTJNSXUtUjJJUjNWODVBT3RONmpycXlDRW1DTVJiejBMWXVIRVBWaVdEX0NobA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T16:46:03+00:00",
+      "summary": "OpenAI releases personal finance feature; plans to add Intuit support soon  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI may sue Apple over ChatGPT integration - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDdqRHlFSW1IdU1SSEJYWnM1ZF9OWVNRTXZYeFU5QW8wdXZnemtwUXJWbktaWjZIYjdlZ2wzdnZvWl9zSnRxWWs1eWtyQnpzcXZEQkdmaDVvMTUyZDBYYWp5eElHR0ctX1Z3amNQVllZSXFvajNRcTJSLUlpamVqNWtqaG4waURNcUxlMFNZVE96bFFDcWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T16:29:26+00:00",
+      "summary": "OpenAI may sue Apple over ChatGPT integration  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AWS’ OpenAI Partnership Is ‘Massive’ As AI Model Choice And Ease Are Key To Clients, Partners Say - crn.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXlkWE9iaUpXLS01aUtBSGdRZ1owQlg5UDJKa1EwWERxM2lFa251VlFIbUV6azZ2am8xd041SFk5QWtKZVZsc2RLX2daV3ZqSzFYd0pvTGVtbzVjVHRHRWNScTg1UHkzdDlMelNYZzVpb1pXTVhuQmNxVkRaeW9kd1lJZTU0eW11amRPTU51SXFIR1RIMG5jUU1qSWQ3VE1qMkdKc1JzYVhjc1ZsdU5pWktiRmNZOXdhd2tvc0g2T0p5YjBTZlRJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T16:17:00+00:00",
+      "summary": "AWS’ OpenAI Partnership Is ‘Massive’ As AI Model Choice And Ease Are Key To Clients, Partners Say  crn.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Enables ChatGPT Access to Bank Accounts - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3c5NkFpQzhYREZGWlhMVEtUdDRxbC1mWEw0V0VjRV9CUS1MbTZjX1lyQVBmdzlLaDBmNHoySm9OYl9OU1hWV3YtNVJzSFR1dFlGOExVNVV4Q2FvY0ZaUDM2RXh5ajhzYkZZdTU3Y2JUbkp4OHZidjh0UFJsV1VTMWxLdThsTDVKZU15T1AxNnU4UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T16:15:19+00:00",
+      "summary": "OpenAI Enables ChatGPT Access to Bank Accounts  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI now wants ChatGPT to access your bank accounts - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzF2ekdKT3hxelI4eG9RX3BFa1YtVTUxN2FDNmxmYmx3cUtCQlV6cDBoSXFBTjhJdm1BNHdGVXd5QmdIQi04NnBfcDZXcGpvVmotLXFsa1B2QWxEZUhqcUJyMzY4RktTN0RfZTRSUjdETzJoTTB0a1VpOUNRT3BSbVlvZEdCMG5qU3JHSW5iRlFGaDZGR0VUZ3hPeDktZ3N4UVRoSUZxNHJ5aW03b3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T16:00:00+00:00",
+      "summary": "OpenAI now wants ChatGPT to access your bank accounts  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Taps Plaid to Bring Tailored Financial Advice to Masses - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXI0ZzZBelBqV1J6d2hRYWZmVFFYNlM1a2NXdXU2RlRvNlhPelR1MzZJVzdkQUJNWlpLcFlfMzdmRlc5UGxaZnBFeHVGaTl1TUFIUmpKVHIycFFHS1I5TVhQU0c2NFlVZ3lJeHhSZC1ER2ZsdGh3b2poZ1ByeHdLSVRmM1ZmQWRKSVB1N0ltMWVqMWREOV93SkRJbDBtc1dHYVhjV1FDcnE5Nnh5ZjNlS2tKYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T16:00:00+00:00",
+      "summary": "OpenAI Taps Plaid to Bring Tailored Financial Advice to Masses  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUxmNUlEOHZUdDJjcUJLZ1dXbkhHY3AzVktpc1lIa0ZBVGhMTmU0eC1BdVFFaWlIYmNGaEExWXFPc1VzNnpsOE50engzT1h3RTVLSXRNU1kyZldPSFEyOWNwb3BxSGlDZUJqd09hV0dHRGdSVE5CaWpRdnRBZEVzQmpDS28yclVqWmlYWmg3V2xVTGdpMkJhRDlyWW9DREU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T16:00:00+00:00",
+      "summary": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts  Yahoo Tech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Considers Raising More Capital to Meet AI Demand - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjZBYlIwYlVyVlBHQjRrajFtU0w4OGpzeWllRDhyYjkyaEdsYlpERHBzN3czcGVubklIOXhBYk1XZFoxQW43MmxUM1pkazEzRWF1bUtsX2JHR2JDWEhtc2xScVRqc1M4SXM2NkQyaFdPeXRrN2RfdTB1VHFZNEJTZFJhMng5T1I2VldxVEluY1BFc3lnTkJoSlMxZVBtUERRbklPQ1NrREp4YUFxVUdB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T15:34:51+00:00",
+      "summary": "OpenAI Considers Raising More Capital to Meet AI Demand  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reportedly considering legal action over Apple ChatGPT deal, citing weak user growth - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWUdvTmEzQWItZ0ZDQk11b2l5QURBQy1tdW9McjlGaExMSmhEZ3MxT19Da185RXJFRktPT2dwOVNCR3pnQkxWQU1WN3lWUnRmdUNwcWQxQWNNN0hQTlFmejZyZ1dZNUcwWWNOV1hhZTJnYmZKMm9NNFNUdVpJd1JsSzFkaU1uMjNFM2dTajQtRnY2OUxBUGJTZUpnN3RfRTh2MnNKUXo3ZXNJVk1wTW15akFBZ2ppNlhsZE9yUFYtTjJaeDl2YXM4ZVA2a1phWXlqNkdEUDAyT1A4djh4Skk3NmFLdDFjR0g3V0VOYW9iYmprek0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T15:20:00+00:00",
+      "summary": "OpenAI reportedly considering legal action over Apple ChatGPT deal, citing weak user growth  Proactive financial news",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic closing in on $30B raise that would top OpenAI's valuation - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbnEyVzAzdEx3WGlrLUhXaWZvOWo1cUQzcWhhRFM1dHdWbS0ybWxjYVJQaGJmZkp4LXhhaDZjUm1XT1pGbXVKOS1QSUtlTXYzOG9Xc0RsTVlHazM1c2tMV3ZCdkRyZ1hXRVo5TDJqSzQ1MlZpRW44aTh6cHhmV2psb25XalZXU2lGVW1kVGZPM2ZtZnJCaTE0UUlsNHlIUlNyTzJlZml0UnFpa2ZNY0FhYUtKLUNYelBFcWw3OTRXMG1DUW5KZUZ4cl8yQUlUNld4OEtmQg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T15:20:00+00:00",
+      "summary": "Anthropic closing in on $30B raise that would top OpenAI's valuation  Proactive financial news",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic, OpenAI declare unauthorized AI startup shares worthless - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44ZE1GZ2FkZHk2Mm55dEtxVkdIREloRS05MTN1RDVoT2l4blZWaGpBUUJsQXZ1WXpEYVRGcWRMQmQ0c1owREx5SEF1QUxoRnNCVlU4Zks1bU9QNkRuWXdVcVdScVJfbjFtd3JVdWJZdGl2eGZWY3JWWVFTSFJiVHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T15:17:02+00:00",
+      "summary": "Anthropic, OpenAI declare unauthorized AI startup shares worthless  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "LISTEN: Did OpenAI Kill What Disney’s ‘Super App’ Needs Most? - Variety",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd21yWnlwdTFLRGxHb05PQkRNSnhHQnFNMjRfVkF2M29xWUExUjNBR2piRk1WVkFZb3ZhZmE2c3NuTmlOb0c0OFZaYkhqekpQVDJZOThORTlKdnpLUWJ6MHdMejZBTjMyQVBBM3gtcW42dy16UUNkdF82NGhVMXRSc3dZeFFGNnh5cUh1XzdqSHFQMEZJcG8tVUR5dzdpeUZ4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T14:59:00+00:00",
+      "summary": "LISTEN: Did OpenAI Kill What Disney’s ‘Super App’ Needs Most?  Variety",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI may raise more money as compute crunch deepens, CFO says - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlRlekJDd3hoQ0xKWWtoY3N1ejNDQ2JjdDZyQVhOYW5oZE9veG1EWVNRQmtPa19jekI0VHRJWVdSMmlwVG9lcFBhelJkLV9CakpQNUVTU3RmZk5Xc1lDQmtzVEpjQ0xuejE2VWlMUWlYWFdHM1FIaW9fQTNmYk9JbUFLbkQzRWhBTHFiZ1lCV2Y1WjBoZ2NvNDUtMmFReUJyTW5TN9IBqgFBVV95cUxNSDgtVnkwckV5WlJxLTVzTzJiYTNzdm9Mc0NVNU9BRVVEZzRUcGRNY3ZmUmh4bU1FMjlqOFp0cHB4WVpZTUF3OUgxNE02MVFOZ3dHZE1KR3RTOU5pcW9CYkVfYkE2OVZTMEJKNHR1YU00U3NneUxJcVVXSDBhenVXUlQ0Yzd6OUN2ZEhFc0gxdk4wNGZteFdFMVJMNWE3dUVjTVE3Nk80V2xuZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T14:49:07+00:00",
+      "summary": "OpenAI may raise more money as compute crunch deepens, CFO says  The Mercury News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AFS, OpenAI Partner to Advance Federal AI Adoption - ExecutiveBiz",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRm5HQzdiUHpnNC1LSU1EMWNOc0lJMVZSSTNaYm42RzkxdmlkbHczQjd2ZEpPNWkwTVNFYWF6XzNudXNPZnNjb1lHckNoREsxalZVWnB6Y1dHbDVkck14R0xycXE5QUwtNkRiemJ1dS12ZlpsZGJvZzNkNG1IUHZILVFYYzQ3eXlpQ0lV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T14:41:04+00:00",
+      "summary": "AFS, OpenAI Partner to Advance Federal AI Adoption  ExecutiveBiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Accenture Federal Services And OpenAI Announce Partnership To Accelerate Secure AI Adoption - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWF2NGV6by1uOGllVXBORE9aejJ4eTZaWXM3dDYxNG5lM3BfMkFOaWtmMlJUN0FZQ3lOaTl1NkIzUFpNX2VFaHVFTEZPcHVVYllpeFZEU2V0RDhONDdUUXVUX2otTmJ1MHdEZ1Fjei1EUnY3TzdwYnNkMTNxSkFScm9pb1JIdy1Xc3hfcUVEWFBsYl9qSjRYQmhaQk9TNEc1Nm03bkhrZjRwSGN2NlFaVtIBtgFBVV95cUxQUmJ4OHRUQnpEYkZkNEhER0hfM2RRRjk0Vld4ZWFINnM1blVLemRnT3ZHTkNLQmhNVGpVYmw5YUUxYVB3Ry01QUJaU1Azc1hNb09WQmJLWWMwZjkzUGUycl9nVjNOTnl5NkFPSWtRUHJGc3NvcGZVaTlGYUMtTTVKb083by1LN2Q3NkpHX0lCdlVYZ2dQempKOENDS3dSbWJNQmFpc1VQOWZKSllQMU1JRHBDNEFvUQ?oc=5",
@@ -15,20 +141,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Telefónica OpenAI Cybersecurity Tie Up Adds New Angle To Turnaround - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTNPNy1sRzNZTl9nbkthWU96MVI4SWwyZW5fRW5XUTEyQ3dBc1E4aFA1RmlLZi14Vlo4b2FBMlJCNDRSVUFrbE54WnlybjI5Vk1SRk5JZi1KdU9YdmZwMWlmUVhnLXBhZTFGbTZWVHJGazQ2TEVqV19uTHQzejg3cjNfZm40V2dfYzFOdXh4c2JHdlhFLWFCU0ZQNHYtX2xMckE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T14:20:47+00:00",
-      "summary": "Telefónica OpenAI Cybersecurity Tie Up Adds New Angle To Turnaround  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Report: OpenAI Wants to Break Up With Apple Over Unfruitful Siri Integration - Thurrott.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFYcmpGX1ZWSGthR0dIU3Vyby1lZTdiWElMVE1KZWZJQ3R3U3c4V1d4eG5YY1hSMF9ZZ3Uzb0FReVB0Q0RleHZuOEJreUNjcGZEQnhNdWx5eVNtM0ZhRDVzbm9oNE50ZndyTzg4a0JzS2xmRTNKSWhPdElLUUNnT29XNGZ3LTNraEh6aVl2RDVjOGJjUGFHLTdObTNVQWhudF82NUl0bml0eFRaRXB4RQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-15T14:00:02+00:00",
       "summary": "Report: OpenAI Wants to Break Up With Apple Over Unfruitful Siri Integration  Thurrott.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple-OpenAI alliance frays, setting up possible legal fight - The Mercury News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3Zab2cxX1hnb1ZKbUhkQk0xSXNyQmhuVVpNbHk2dlBoZ0VxbWFVU2pkMy1WS0xxdnhtTnNjN3VYcGszNi1jRzNGVUVVQkhWSlViQmtXR0Q4VzZsWUFOMHFWUGdYUUZNcmx0VExLMGZmeTdHaDlPWWxKY05JZ29uNFdIanRScmdZdHFlLTlONVlqVFJJQWJrTk5tRWwxRFJW0gGmAUFVX3lxTFBiMWRfSC1LekhNUmZ1SEp6djZqc2wxcmVzeXRpSGY4STNxRlA2WDk2aVJzcUtwMHVUbnBmTUs5UTR5SGJzaFBnTXhZUDlBRFBKMTVBQnpocVpWa09WaWI2djFWTzQ3ZnBveFhkUkExX1dodDZod0F0d2pTdWs1ODlsaC1DOHFTMU5RTDVVbkRjeTVyWHpoaG0wQlF3cGtjSFFvYmxza2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T13:59:50+00:00",
+      "summary": "Apple-OpenAI alliance frays, setting up possible legal fight  The Mercury News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -47,6 +173,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-15T13:12:21+00:00",
       "summary": "OpenAI Explores Legal Options Amid Tensions With Apple  MIT Sloan Management Review Middle East",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk v. OpenAI heads to jury after scorched‑earth closing arguments - crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTlnVmNBQVVNcllEdGdGZzRSdU1uc2JuYURsYU14RnlZOTIwNUJrZTJ5MUFxTjRabU1VZDhLR2FpT25pVTd6NktQUUZwQ0pBUjJ5WWx2ZWNqcWc1alJJTUN0NkRiOEg1N3hhRVlMcTlvbE5BaVRKejlQZFVWcERPRnltUFdNT29uTzQzMlg5cm0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T13:00:00+00:00",
+      "summary": "Musk v. OpenAI heads to jury after scorched‑earth closing arguments  crypto.news",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,146 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "ChatGPT now remembers documents you uploaded earlier — and Free users can use it too - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDlodnNwbTZKWXlQM3lNeEZnR2RvQmtzRUwybGk5aVZEMk8xb253eGs0Q3dWT2FsMnctYkZJQ2ZiVFNmZU9vMUpxRmpHVzFuRnhFNjBiN2k1WVk3a3hSUm8tMWRmSWRFNi1LYUxnYktkVkZlQldlTFRUNjFRWXNLT0JhbTZMOTBWdzlCQnBJNE8ybGZVendqRHhLUDh0cnhWYWhydlZWbERUdTFid0NPeklGSXpOdGJZUEwyYjRCUF80Tl9CTVZrZXNXb1JpTm9FTFE?oc=5",
+      "title": "OpenAI prepares legal action against Apple over ChatGPT deal - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wdW1SVHMybG12ZEx1T2J3c0NyalJLMXdjblMtTEdKcENWeFhqS3JDRVNmdEY0V0hXQkpBYVdKMUVPYjg5Q3VDVGVTOE1EVzZBVkxLbjg1TUlOY0xRandiaWpGc2Q2YzBnYnF0UTcycVNOU1RjNFE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-15T12:41:47+00:00",
-      "summary": "ChatGPT now remembers documents you uploaded earlier — and Free users can use it too  TechRadar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI confirms security breach in TanStack supply chain attack, but says no user data was affected - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNXlpdEwxclVVZ05oRXp6MUlhSkw0cERyWFdBRUNYY0lNUlVyaVFqWjRWYWdQcFpLUmYxMU1iQXhLT1dyemJNbmVReHJhOE85TmF6aTREZm9DTzk1ODNLMXd5TXU1MlJheU9FUzFYdG50T3B3MGJwNHl6REpXc1dERWozT29Zek5OUlZKWnh2NFlGalV0UjR4Vm9XRDRITUhNVkZoakpGTG11OHBQNXRnRFBDeEF1NzFzVFNEdWNHTDFlYUxfQndRY1dZOWZfVXVsMFVJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T12:05:00+00:00",
-      "summary": "OpenAI confirms security breach in TanStack supply chain attack, but says no user data was affected  TechRadar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Musk vs Altman trial: What happens next - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGWEhfTGt6UktyZEMxdF9hZ1EtS0xLUXR4XzRLR3pyb1JLMFdSMzdqN2dwb1JQZXAycG52X1FUVm1oNlFHdlVydk5aSWRIVDhxazR0WjNZSVVCd2FhcW53TXRFeVlKQ19nTU1RMDBmOXZpdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T12:04:19+00:00",
-      "summary": "The Musk vs Altman trial: What happens next  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s new $4B consulting venture lands squarely in HR territory - HR Executive",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2ozaGc5dmg4RWdSM3pjVGFMTzgwcTBMckR3MklpV2laWGJPWXhZa2tCQ2ZZWko2VVdTUkltZkRPUkxrY0VuS3lqenlFTDUtc1l3NXdEdW1HUnpIaXhGRlQ4NjN4U2xPMVE1LVRFUVFDQ3RiMVg4WTRNYlJ5VGN2cUpyQUMydWEzV2VJbllFTHVpOVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T12:03:22+00:00",
-      "summary": "OpenAI’s new $4B consulting venture lands squarely in HR territory  HR Executive",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meet Espa, a fresh take on AI assistants - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBneWJRenBsbkhlcTZQU1phTGs5a2hQY1N6eDVHWndKSWk3aUtaUFo2TkJROGRpLUVEc0RjSWJ4N2pZeE5JVzUtS2pBZHg3eWpZTEpzdU9mNThmWl9WZ1pncC14eDVPN05VZkQyYjBKci0zOFQxeUdoYUtMYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T11:37:41+00:00",
-      "summary": "Meet Espa, a fresh take on AI assistants  Fast Company",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "‘We have done everything from a product perspective’: OpenAI says its AI partnership with Apple has been a dud — and that could change how AI works on your iPhone - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNek5SMjc3Ym52Q2VaaFFHbnlJSkVzejhscDlFTmxYQm5UZXJ0ejNxTDVNak9YNUpVdVJkQ0N4WWdDT25IMkxSSDVRZ1dVWlktVUQ0UFE1amFwczZieS1rZEtoN0xKYnlNRjYwQjNWMG1JN2hpSmx0OTVxZU40Z2lYWlVacEd0RzRQNWw3YzhQbXJwb0hONHBNbnBKSkpUOHBrWll5eTJRNEZIaWE5cGFRZUQ0WU5lMUhOVkI0YW9USk91TTFvNURybHlMZTZVNXc0M3YxcDNGMHRJeEotdUQ0c1d3dkRRMndITTg2UUYxS0FSOU54UzdubmpLcVozd3M4ODZSMTA4R1RIRVJP?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T11:10:53+00:00",
-      "summary": "‘We have done everything from a product perspective’: OpenAI says its AI partnership with Apple has been a dud — and that could change how AI works on your iPhone  TechRadar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Billionaire investor Bill Ackman is suddenly bullish on OpenAI partner Microsoft - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTUk1SkY5Smc2SVRtd1duRVlHVkxDRFpIY1Z6cHBpd0taN0ZBV2lKZ29yeEI2MzNhTTc3dVZRMkpVTk1GdWVlS010MUF1alhIVTZlMFpmRy1zb2F1RE5wVUZGdERheWxhMk1sUVBubW9SQzlIYk9pWENieUNSaU5ySkc0OG96VGM1XzRMQWo1VENvRndUdHBJd2pobExYZE8zbHJVbFNXVVc3WHUzdjBpMElxWlYwZ0RiS1l0aTg3ejdLN1VSaEUtYlBkQ0MwTjJIUGcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T11:03:43+00:00",
-      "summary": "Billionaire investor Bill Ackman is suddenly bullish on OpenAI partner Microsoft  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTUtFeDFUNDlVYmVZMTBjWTR0NHF0Z3JMUnJxSkdnZTdJRk90RUREcGV2a1pXVUE1YVJ2ZG5WazdMSkVfZFo4bHFEdHVwZkU4ZVpqeTNYdG1CMGxBZnBYQ05RNWcwdGVjdmc1cENFdnloT2g0azNzTUtnN0NfeW5XT0VR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T10:54:00+00:00",
-      "summary": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates  The Hacker News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI may take legal action against Apple over Siri’s ChatGPT integration - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeTNmdTVpN0dxLVFBZHpDV29WRlBMUnptWDhuTVFCTmUtV2hSMkplWkxUWGdFSVB5bWNzdHN6d051cGttaXdjSEd2c3pLLXlIdkNJc3Zsa3NxNFZic1VnOFRzeS1xcE14WGlDMHo3QWt1NEdXWGxuZEZ1WU55SlItcmhIbVBwa2NRSkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T10:45:00+00:00",
-      "summary": "OpenAI may take legal action against Apple over Siri’s ChatGPT integration  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Picks An Apple Fight - spyglass.org",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDWGRrZi1BV0dpQWpkYkZTb0R2UE5RQ1dKYTlHRUtialpRVWI0bm1FR3Fxb2RWZGczSmlGNVhEYWgxV2ItU195aWdWV2xGY3JPYVBNOS1YWDUwYnRxelE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T10:38:35+00:00",
-      "summary": "OpenAI Picks An Apple Fight  spyglass.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Closing arguments wrap up in Elon Musk's case against OpenAI; jury to begin deliberating today - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY3JQVjJJb2NITkxGanBTYnRJMGFtY3ZhNHZTWnJHUG45dFl3b2V4NnJHZnJaajlJaGxqS3pPeUpJLWF6ZXNLbGNhRGRSUlZRQ2djN29HMzNpbWV3M3dwWW1sQlVpaTAtWXR1MnlYTmpua25LUkF2Vy1YU2g3Sl80dmlKZDRQa3lBcUxZSGZiRklldFF3VFhaRjFFQlJYTTdPT20xcXRmQ0xsRUZHcG1LcHFWVzVzNndVUzBfTktrTTRsdjNpT2JhYVdYbUtpc2Rn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T10:37:30+00:00",
-      "summary": "Closing arguments wrap up in Elon Musk's case against OpenAI; jury to begin deliberating today  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI faces legal and business struggles - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWRKRUhRVXFWLUV2WnNSbWN2algtR2NJU1V6RThTZDk3MUV1QkFSY0RmekZOTU4xYzBnbXNsM01HcFRsVHN2Ykg2R3hUcEJSd1hvTHVJM2hScXcxa0dTRXlXd2VIOXlqTTdNdkVfVENUaWVaX3pkMUJFV0pxQmdRc0hzOWlzTnhDQVdyYg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T10:34:00+00:00",
-      "summary": "OpenAI faces legal and business struggles  Semafor",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "“Do You Always Tell the Truth?”: Sam Altman Rests His Case in the OpenAI Trial. - The Ringer",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYS05d3VxSTdxcGNnd1lwb0VrTWd1elA3MmNvdkQ1ejlhUEtwNUVBQ3V4UVZtVjh5REMtcWlVNVV2M1Z3NnFnNUswaEJnbGVLTTdCc2Vlb3dqUzhZN3h4aEV3enJpa1ZyS0Qtcnk5SkppWF8xRHZlUFU3Q2pyVjVTOXU0U2FnUGhxbUM4ZWVOaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T10:30:00+00:00",
-      "summary": "“Do You Always Tell the Truth?”: Sam Altman Rests His Case in the OpenAI Trial.  The Ringer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI caught in TanStack npm supply chain chaos after employee devices compromised - The Register",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdG9VRUw3WVRBZThSa3NmYldpWHB5ZlM1TVkzV0sxWl85VUg0T1h6ZGUwU19VaXN4Q0JaUHQ0cWpKdWdvdDFxTVpPMElfd0VaQlhjZi16bFpGT01FYkp1MHA4c3hFTXhxa2xFbXlfZ0J1TkY2SUFodW4wb0NNRXduc2ZlS211QmlSXzAzQ3NmaFJfZjVvQjVUaGw3V1VBQjF5dVRKVG55WC1aeTlPWm9sdVVCaEdVcHVZeGpoMkhkeWZZUV9MRzVSc3Q0QkhZNnZfZm1Yc3NB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T10:08:07+00:00",
-      "summary": "OpenAI caught in TanStack npm supply chain chaos after employee devices compromised  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Reverses Decision on Third-Party Agentic Tools, Allows OpenClaw Usage in Claude Plans - Gadgets 360",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDB5a09QMmdlaG9pU252Y3ltUzBTVUNXanBLRXkxTTl2Qmp3X2c5MERzNTktV3dWajdITkd6NDNDZ1hsWk1PdFI2WTlpUmM3eVlaemk4MExYeG9UMU5aeE8zc1pWbEE4bHRtMHoxOHBwMDBicU9oUklLTmd2NFJJSllVU1dKNy1vcmdObm5fYmhjOE9XeU5saTUtb3pubTdFaGdNRDBzUW9HT0pyTHpmbXNlQmNlck5ta0VrQmNhemx6T3fSAcgBQVVfeXFMTUNmQ2M2UXFHTUZqaWg4SklEWjRlUktDaWhkNzNsVDcyS25RcWRsZkFCdHlEUGdVV1JNcEgtdWFUaVZlR1dmeG1WaGhkTEREQURXSUFTTEtiNGE1VERmQktZT3VUd2dRMjU1a2U4NE5jelhRbDNDYnQzODRUb0dGbEdaYzhzbU81VmFIVVdPMm02NW83UnJjQk1sam9ZOXFzS1pQakpEQ01YZVljQW1YNy1lX0l3eUptUnhHWmdzRnlyN293MEpkckk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T09:47:24+00:00",
-      "summary": "Anthropic Reverses Decision on Third-Party Agentic Tools, Allows OpenClaw Usage in Claude Plans  Gadgets 360",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman’s investments face GOP scrutiny ahead of IPO - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yd2lWeTdkSV9uWnJpZ3o0LVFNb2N4SWdlR0xlNnZIUkZpREpYZlhRQWU5MUM0N3MxTDhnOWV4WWl1QUJMNkwwSU1QN3ZJWW95R1JsYXVIU3A5TzlpMTJ6WFhuV2p6d1VVVzJLNjBvQzlSMVAtb3pLLVRn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-15T09:44:20+00:00",
-      "summary": "OpenAI CEO Sam Altman’s investments face GOP scrutiny ahead of IPO  Crypto Briefing",
+      "publishedAt": "2026-05-15T12:36:16+00:00",
+      "summary": "OpenAI prepares legal action against Apple over ChatGPT deal  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
