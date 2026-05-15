@@ -1,10 +1,82 @@
 {
-  "generatedAt": "2026-05-14T23:39:49.770766+00:00",
+  "generatedAt": "2026-05-15T01:29:09.441728+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI brings Codex to mobile devices, adds more customization features - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYVJTN3o0d3Q4X1kzQWxfWWxXcHRUU3VLZDRrUmRzMk5GYjBQVzlpTE1GcDZ5eG1HZW00dUlZMnlaeWdmcmR6QWFMOFJDM0Z4SW9VSXA2ckF6T090M1RZazQ3cTg3WW9KSEVzSnlHbnBXcXNUV3NkRmg2emtING1oQ3c3eVRhekdMSHNSMWlubld5bS13bEdHZDBUNmZNNG9o?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T01:09:20+00:00",
+      "summary": "OpenAI brings Codex to mobile devices, adds more customization features  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeTViQTVUTXhIX1ZWeTBHbmExSEpEZ3hzY0RBYzBGUWdnMU44clg4cnIxMlRWVGZuYnhjcUtUdG1sVkpDOGxZZUNRdjB2dVJHWnVscXhNQTBJWVV2bkw1TmJFRzlRSWJzUTk3V1ZJVDA0M013bzUtb19acVNoODJha3pMVEJaQkxkN1ZyVw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T00:12:36+00:00",
+      "summary": "OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk, OpenAI, Microsoft Lawyers Deliver Closing Statements - The Information",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVZVZmx3dGJnYS1hbWVTcjNheFdCZzVOQ0NxNVhCZVZ0STBrSzlTbGRNYndMM05iQ0VNaHFldHozbEtIUEtIVTZhMmgya1ZzR19oR0luZkZTOVpTWXFwdGtmY193ZjBJR2p6elVWSjJDZjhZdEwtX0pQazJzUkxKM0ZVZ0s5VTF1NEhDVkV5YUlWTzhkVFNmV0FRUUhBQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T00:04:00+00:00",
+      "summary": "Musk, OpenAI, Microsoft Lawyers Deliver Closing Statements  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Tells Mac Users to Update Apps After Software Supply Chain Attack - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVW1RTlFmckVBWW10SnEybDJSSy1NbmVibXNGNGkweVk2aUpSaW5KdmNLNWhXbWpjbWxLSjdSZzBwSHpwRjl3NFQyQlZ0aGxBNG0wSFpQQ0JYZm94Q0FRUFg0WERCTEpQTkUtWmY3ek1zWEx3eEthTjZsdHdRZmNjeGl1QVFnVVozajlEM09rc0ZXbm4waUVPNXNkVUhDaFE4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T00:02:03+00:00",
+      "summary": "OpenAI Tells Mac Users to Update Apps After Software Supply Chain Attack  PCMag",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cerebras IPO Stock Pop; Apple-OpenAI Drama - The Information",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGFUVV9hR0VOMW4tTmloYkpZUWJwb01ONFZlMlRUUXluN0k1Y1FOSFJYX295a1FjYjlaVUJvbGFWbGFfSThpMTFQZFgtenFIcm9WN01rSTVoQzFUbG1TVU91MHBjVU5uRkNWcHVNTjFqdDhGWnVaSzVYdVFkYU45WjlQcTBVWmJFYjUyZDctRlRlakV1VzMteGJfSF9vUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-15T00:00:00+00:00",
+      "summary": "Cerebras IPO Stock Pop; Apple-OpenAI Drama  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Weighs Lawsuit as Apple AI Partnership Sours - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJuT2k5bFF5eE9IdDdyZlI5cTc4MWpicWlNN2Rxd1VMV2syWGd5UUNLTENSTWZkbHU4NmduSFdSeHIzeUxaVzZ0NklycnR5T0h4WDQwa0hpN2RHSGtGR0NxY0NfbTNzczlsR1BZS0VyYzdnZ2NWZ3c4ZjhFYmtOLS1OeTN5WWZUM1l5YmtLbzcwT0dxUFY2bA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T23:48:45+00:00",
+      "summary": "OpenAI Weighs Lawsuit as Apple AI Partnership Sours  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk accused of 'selective amnesia,' Altman of lying as OpenAI trial nears end - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSHpHRUktaVF5Qko2dWZqVUhNaDIxQ01SRUZta1J3VmhyTEtsSWEwRjVoX1pQbFdNQm1LVnl4MXhmdThpcy1ycWEtNWo3UTJnTUZYWW9tLXdRcGwyZVBqeWNWUm10V01WdE1VdkdRdFlsMWUySFhiUlR1amNCaDJnQXhtMFZLV0tGQlZNUzBZRjk5Xy1qTFA0NWM4LUVNc0VpNFdFT3NDeGRTR3VYc3AzNExVdmFRSUg1U3JueDlSVm8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T23:38:42+00:00",
+      "summary": "Musk accused of 'selective amnesia,' Altman of lying as OpenAI trial nears end  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI weighs legal action as Apple expands AI partnerships beyond ChatGPT - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOczc3MGJmRlZNVXRhU09EZ2xha241LWdiazFWN21HTEVWU19VSUZ5N2Y1V0l3RUNVc3lrb2dUMUhDSGhRYkJ1N1Vra1dENl85ZnVmLThSTVFnYU84ck5GeFhwd19VUTgyV3VpMWN6ZWlqX29LZmdSNDRxTS0zSVJNdUJPZE5QZi1reVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T23:37:00+00:00",
+      "summary": "OpenAI weighs legal action as Apple expands AI partnerships beyond ChatGPT  Interesting Engineering",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI may bring Apple to court because of the ChatGPT integration with Siri - PhoneArena",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQME5JT3RSbE5kS0h3eVpwRjhZazhMYk52RkZBd0VPRURJZEZiMWx1b3NVVWtYaXFUa3J3enlWSkZfRE5XeUJ4LUZqdjg3NFdJQlpjSE9qMXFHT0JXU0x4YU5EY2s4VFJuVktmd0hhX3dLTzJmcGxKaGxTUV8wWFROS0E1c2hoekxGUHkzSzEtaEtzc19MamZjMFZUd3hhcFpTTHNIOWh1VGRoZjl4T3BCdC1nXzdBaFR6?oc=5",
@@ -19,7 +91,25 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEFib0R1T3RMNFo0d2FFNDVNU0NqcGxuZkVELVY5TWlWcXBXQkxtRlpXRTJVclh3dEZYdDdxNGU5TmJjSERMdE5wd1lieUdPLWhVMElDcFExTG1KdlExWEhIbVZ3cmJ2Wk91Umt5MUJOS3BXSV9MbzJ6ckc0cEMtbXV0TTdvVlNlbnNXUw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-14T23:18:43+00:00",
-      "summary": "OpenAI Trial Live Updates: Closing Arguments Begin in Elon Musk vs. Sam Altman Case  The New York TimesClosing arguments begin in Elon Musk’s landmark lawsuit against OpenAI  Al JazeeraMusk v. Altm…",
+      "summary": "OpenAI Trial Live Updates: Closing Arguments Begin in Elon Musk vs. Sam Altman Case  The New York TimesMusk lawyers accuse OpenAI of deception in close of mega-trial  AxiosLawyers for Elon Musk and…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future - Santa Fe New Mexican",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPY1hrT0tvX0QyNWQxS0dQX09DNjFuLTFQeUgtbm9tRm9zTUZHU0Q5bXFVaEtsaGIxYzJoSGpKYWxzYlQ1aUs3QnJyWUROWWxkNkFWalRBdGRxU0hlTnFOS3BINl9QSHhrcEZDM1k4M05NMGRrXzJDR3Fuald4VkVCOHdhd1lqaXdJcmczWXduR0RjY2RFNmlTNDY0d0lQYmhjR0pIRmtrMUFiV0hub3RDbG1KQ0ZEQkIzNGFwYWI4LVJ6aDRxemNkSzg1RmlLZUQ2UU1nWjNXTTNkR1lTNkFicG9nUWpJZFFIOWRHTHYwdWwxRXQxRXBuYkQwRlRSWGdRb1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T23:15:00+00:00",
+      "summary": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future  Santa Fe New Mexican",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Newsom touts OpenAI, Anthropic as AI boom bails out California budget - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcm44YnlVZ2hxU0FCVEw5ZHlRQ0FKcXFVOFAtSTZXY3BSY2tldUU5THd1X3FJMnZvdnFJd2VFLTFzSmhKUTgxS0hFVEJod0paczc3ZVBkZDhkVUhFSl8yMjRTbkNzTVM0RnprY0MtNGNFQVJhT2t6WENmYnV6WDVpZ28zMDk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T23:14:06+00:00",
+      "summary": "Newsom touts OpenAI, Anthropic as AI boom bails out California budget  SFGATE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,20 +123,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Closing arguments in blockbuster trial pitting Musk against OpenAI - Digital Journal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUlkYm1tZG1zMFRKc0pmenpuend6U3FhVllxbVRPR216LWNqWDVScEJHb3c5V041dFdXZm1yUmdiaEI4RWZfbkdDbGN3WU00WVFnZjlUbVM1d1hzX1FiM01qNUZFVFFhUXNpRGZQWWpxRk4yNHZzNjBCZjJVUXk3QXk1eGM2ZzhzQV9CeGhKeS1XR2R1aVBLTUE1dGhUejJkdjdBWkVvdk9OWG91aUVNRFZIUDg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T22:52:50+00:00",
-      "summary": "Closing arguments in blockbuster trial pitting Musk against OpenAI  Digital Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Fiserv and OpenAI Bring Frontier AI to Banks - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSHRaaUpLZ2dwWDVuekNfVUx1RWxIT05lU2hOeXZsb2Y3MHc0d0hYRXR4Tm5fRlhQN0Qtb05IUUcyTjJVNUpFeXJPdWtkOFF5VEJvaVhFUmR3TXVvaDVLUkdMdjZJUDZsRzFtY3Q5UTBYdnJMb0pQS1ZrVjdCdDdiX2daRTB1OHFmU3p3TTdGT0tBX0VsSmE2c2NDUzBGOGxz?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-14T22:34:03+00:00",
       "summary": "Fiserv and OpenAI Bring Frontier AI to Banks  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Closing arguments begin in Elon Musk’s landmark lawsuit against OpenAI - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObkx6NFZRaDVLeTUwTFEtRHh1cDNNZW9xdjhZUkFfcE1zM3lEVmZTU1QwWERYS2Q1RDJVVldDU2dlcHM1S01KbGhiWjc3VHhSSUktZ3dfTHYtWVFaTjdlSWNJdVJZREV3a2NLeWlsUUh6cjN5dmRPWU1hNkZSUGlGS3VMRXBNbmM3ZnQ5S1JmZ3NwcXlOamxvdlhZclh2TzFDRzFwZkNnM3Y3LUhldXVjNWRIY9IBuAFBVV95cUxNeERoSUhwUS1VVS1zWS1vMzZwandLLTRvNkdSSWlIcGZzR2FjRkVPdk5vNUJmdnJ4N1NENXVSaGZqVkV0WEQ5bU5LWk5peFc3QXRDNC10MmJNd2NaVGlyTVU1WGF1ajZMbWt4TEhNMWx6TWVxVHNfOVdEMkVmRDBFa3A3MV94S1V6ZlFJeGtPOFo1WUxpSHZuc0NSaS01cHRSOGlzSFV5bjJaTy1yeGYyeHFQZWhNZEVO?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T22:30:31+00:00",
+      "summary": "Closing arguments begin in Elon Musk’s landmark lawsuit against OpenAI  Al Jazeera",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,6 +159,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Lawyers for Elon Musk, Sam Altman wind down OpenAI trial with testy parting shots - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1FvYV9yaG1pZ0tHemxFeUpMTmcxSEkwR1JZQzZiT1gybEJ3LThEQ202VWJuQ1NjNHdiTXFvdFl4cnpveUpBSmRHM0RvdDUyc1JLUGtwMk5OeW9sbTdVVXV2Q0lVQUxxeHVja3prRTVuaWR2aFJHRVNCSTBiVTNtMTZhRW12NThIcHNKRTZLLUlid2xHNEZYR0FBTUVYV2NDdWNaYnZTeTltVUY0QUlyQm16bWNaS2pMMW10bA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T22:15:16+00:00",
+      "summary": "Lawyers for Elon Musk, Sam Altman wind down OpenAI trial with testy parting shots  New York Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Musk, Altman Make Final Pitches to Jury in Battle Over OpenAI - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjhiTHpvR3JkbXYzWkpCd05JS05QMkJSVmtsTXU4dlFORngzN0pwa2pWMkdwdmRHZHdjOHNpWmFydlpXaXV4dldmd21HMC1mQUNtS1VNM2xfNnh1SURBckVvY25YejZMT1JVdTE1VGltZUhHZzhMRnZYYVp1MmNtSDZhUDN2Q3d4V0tRUEZoQUNjSHI2QTgtMEpwbTNZQjBjeV9CVVNvb1RPcWtIdnFmOQ?oc=5",
       "source": "news.google.com",
@@ -83,24 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-14T22:14:00+00:00",
       "summary": "Musk, Altman Make Final Pitches to Jury in Battle Over OpenAI  Bloomberg Law News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Tells Mac Users to Update Apps After Software Supply Chain Attack - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVW1RTlFmckVBWW10SnEybDJSSy1NbmVibXNGNGkweVk2aUpSaW5KdmNLNWhXbWpjbWxLSjdSZzBwSHpwRjl3NFQyQlZ0aGxBNG0wSFpQQ0JYZm94Q0FRUFg0WERCTEpQTkUtWmY3ek1zWEx3eEthTjZsdHdRZmNjeGl1QVFnVVozajlEM09rc0ZXbm4waUVPNXNkVUhDaFE4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T22:11:08+00:00",
-      "summary": "OpenAI Tells Mac Users to Update Apps After Software Supply Chain Attack  PCMag",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawyers for Elon Musk, Sam Altman wind down OpenAI trial with testy parting shots - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1FvYV9yaG1pZ0tHemxFeUpMTmcxSEkwR1JZQzZiT1gybEJ3LThEQ202VWJuQ1NjNHdiTXFvdFl4cnpveUpBSmRHM0RvdDUyc1JLUGtwMk5OeW9sbTdVVXV2Q0lVQUxxeHVja3prRTVuaWR2aFJHRVNCSTBiVTNtMTZhRW12NThIcHNKRTZLLUlid2xHNEZYR0FBTUVYV2NDdWNaYnZTeTltVUY0QUlyQm16bWNaS2pMMW10bA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T22:09:00+00:00",
-      "summary": "Lawyers for Elon Musk, Sam Altman wind down OpenAI trial with testy parting shots  New York Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,101 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Elon Musk lawyer attacks Sam Altman’s credibility in OpenAI trial - The Times",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRzJxcVh4QThKVkZSdDNBZjBVa3RvT2wtZTFGUEt3a1F5eUxqNlpsQ2t3V0F1MVh6bHFWSUd4VXFTdGo4QXZhR2Z3NURENUoxWjhabVJsOFY0cjF1bGluSUI3YlQ2dFFrVU10OHUxU1gxZDRjQ3FJNkUzQXhZNzl1VzROY2dqMEFjaVRsU245R0s1dEJkTVlQT2FjLXRfT2RsSEM2bFkyWUVqZFU2a3dnWG5jTW1GejNMTTVTNF9TTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-14T22:05:00+00:00",
+      "summary": "Elon Musk lawyer attacks Sam Altman’s credibility in OpenAI trial  The Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI And Apple’s ChatGPT Deal Is Starting To Fray - Finimize",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRkY2UTFTaFlyQldxYzFFd0hGWTRpdGpGaTc4MVhVSUlYdDNkdG1OWEdLbDBvbVBBY3c3bmtEZmFqeDRJZ1pabXcyM00zSFRsT00zbzZ4RWpCTUYzYlVCNWpkQVhRaDZyVnhkaEtpSlo5WHZTelBZTy1UZjVEU0RxS1I4Qzc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-14T22:01:26+00:00",
       "summary": "OpenAI And Apple’s ChatGPT Deal Is Starting To Fray  Finimize",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWlUtU0FpYjBXNW1oRl93Q2FXZEpnYWItY3JBelRyajdaU0hncE91M3VoVm10bFZsNWNKSlhOQ08wd2ZrS3puOFZhTlktbVNnYzdzSTVEeFV5ZmVIRXlUUndNaW9VVktDZFcxbFFYSUZXRlZUMUZZZnpKLTYzOWllZUpqaHFRVndsTFhwNFF1bzhKNFRjWDlrem9GRlJNOW0ydHpVdHc3d3gzZjNpMzZXSFQ4VjIzTTFSU2xlRE00eWxXbm5pWnBqSGdzczZLMzNNRVFpTXFhRGNJY1ZubWZxZjYyLWpyN0JpSTVXSmk4ZUExaTJr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T22:00:21+00:00",
-      "summary": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future  The Lufkin Daily News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU1g3eU5TWGVoR1RfRjh3UnNqamJMbjllbjlmM0dkTFpoTVlLdG0taHR0Wk9nTGRucXRJWC01aWhVZkFPVjl3dDJqX1lFTWFYWHBRU29hMmJDcmh3VF8zTWdzdFFRTXowVUUwSjlCUFh2dVVKWVBwYnZaSGZ4MDJPRnVhVmRsdFZrT05HUF9TM0h4eW14UzBfM29hc3pIY0JiYi1PbXRxR2N2UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T22:00:00+00:00",
-      "summary": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future  AP News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Releases Codex on Mobile in Preview - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0pyNnhDZzZTU05jWHd1eW4taUdnbG04b3QwYzJ3UmgzMDVzaEpQREQ3c2JaMGJmVEpCaU9YTERYaUYzS2J1U3pCWEVraXJsdlI3dkYzZHVoZ0hJUVFQaEtYcjR0Vk53WVRsRWlWRWt0Q1czcnlMbTBuTnpBMjFIX241TWY4d2xfMEprZTBVeFNIdG8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T21:45:00+00:00",
-      "summary": "OpenAI Releases Codex on Mobile in Preview  Thurrott.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc08teC1wUlF5VDB2WXpDbWVPMVNQbXBrR0E2RVEwR1BadkUwSGZ0amhqbVE5WTRjc0x0U2pjekZuUDdpZjBlMjlnTmtLLURZLWpLOG42U0FiZC1DSkltaGJuaF9jNlNEUmxXXy1zNTFQTVRvNm1XU0U0NDNyaDlwSWR1MnpmLXBlNHNZM9IBlAFBVV95cUxOM0JMVkpxUEM1ZjBXODkxRkh0N0FhRXBLWEdfc1dwZkhLeDFMUkRxc2Y3U3hEQjBPVGNRbWd0MTR3VDNIMXJtSngwNWVpMWpJM09IZnI5bENQWjBNdVptOEtiZm1sS0hpY2d2QVRDSENjZ2plZk9iVnNQR2ZYXzk3V2cwdF9xNUhDRWtUOWMtQ3haWEt3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T21:43:50+00:00",
-      "summary": "OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Elon Musk v Sam Altman battle is a distraction | Karen Hao - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSG4wV0lZVkNUUkFNVGVxMi1VQVVwbFI0NjVSaEpoY0RDZldSeU1fTE1aRmRvbFV2azdGRmlkYjU4MXB3c2VBRGphbklodGxPVGw4LU9rYnI2SEdwTzhLVEJrc3dhUlNHVDJNN2NJMFpSdTlnNi1FZ25ULWY2QkticzJjNlRPYXp5RlE1Qk00bWZkV2tSZmRxYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T21:41:00+00:00",
-      "summary": "The Elon Musk v Sam Altman battle is a distraction | Karen Hao  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawyers Trade Barbs on Credibility of Elon Musk, Sam Altman in OpenAI Trial - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajliQjhMN0dBOXJ4NXBtX1YzR1oyRHRQTWp1NHh4bmZrdFpsS1lXR185SElJMFkxb0Rjb19QRTRuMEktTEtwVG5yaXZhLTZBU3F5NGplcVNpbjJsV0pRaFc0a1pYWS1IM0lmZ2dSeUJoeHBMZDBoZlhDSEVCZmJIam5Kdm5EYWpwWUZZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T21:38:00+00:00",
-      "summary": "Lawyers Trade Barbs on Credibility of Elon Musk, Sam Altman in OpenAI Trial  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Accenture Federal Services Expands OpenAI Collaboration for Federal AI Adoption - HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzZ3dXRWWkhwTEI3RnR6SEtFbzRBNWFZWXFWdFUzTjVFTUdRTXFRTWdQa0xMY2lMb2JJZ1BqUmpoalM5UmswSkxWZjA1NEljVmxFWHhxVEI2QnJSejdGQnpVU2NXM19JX1h6b2FqNWp1anJGRmhxdWRzRlZWc0l2WHFiZFpvdm1lUHZGTS0wOG5uTUJFXzN3bjl2MmIzZ3I4a0JoNTNGSk9fOXV4RWV1Y1RPV215QlFTZTBkdU15bw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T21:36:27+00:00",
-      "summary": "Accenture Federal Services Expands OpenAI Collaboration for Federal AI Adoption  HPCwire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk accused of 'selective amnesia,' Altman of lying as OpenAI trial nears end - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSHpHRUktaVF5Qko2dWZqVUhNaDIxQ01SRUZta1J3VmhyTEtsSWEwRjVoX1pQbFdNQm1LVnl4MXhmdThpcy1ycWEtNWo3UTJnTUZYWW9tLXdRcGwyZVBqeWNWUm10V01WdE1VdkdRdFlsMWUySFhiUlR1amNCaDJnQXhtMFZLV0tGQlZNUzBZRjk5Xy1qTFA0NWM4LUVNc0VpNFdFT3NDeGRTR3VYc3AzNExVdmFRSUg1U3JueDlSVm8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T21:34:53+00:00",
-      "summary": "Musk accused of 'selective amnesia,' Altman of lying as OpenAI trial nears end  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI Boom Overwhelms Public Perception and Judgment - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNam5fOTAxUXJaRjB4ZVFHMTYyQW00bko5S3RCbFd4dEpUbWgxMTNfeU5BX3FySXJpcWh3MHBGcHJCMGdhZTctblc0VlMzY2VWZ01hMVdDT1Z2aWlqcUhibkZ3S21ONmQtYkVYUWVCT2Q5VDU2aHQzVWFtTndjSE5ycHloRlhhSmg0bXBBVl84MUNqWWhFNUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T21:20:31+00:00",
-      "summary": "AI Boom Overwhelms Public Perception and Judgment  Let's Data Science",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future - Northeast Mississippi Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRlFJOFFxX1F3ejhBemhxN2xJSHRZLTFoMXNGa3JqNnhPSmxwdW9vSW5JOE5CbUpDV1JCdTNkc243Q2xnSTZrNlFwLU51aXB6Um5HYThzcklEazdmb3FoMlRjVUlFS1FHTUFuQmhLMTlCakcwdEo2YlVPSUpmSU00dWlscVBsVFRkREhsM2VLNmpKLXhlT0o0OE83MnRtVXkyUjJUZW9UVjhOcjFZMDRwQUJCTW5DQVRHZnJkVlEtcGlEaW1teVA4Mm9BMzhWajdJR0FCTFlhQnN6QVNFMXlrMkFhRXFfQ285c3JkMWtjNV9jNDVDS0ZOSm5fSVhNUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-14T21:20:14+00:00",
-      "summary": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future  Northeast Mississippi Daily Journal",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
