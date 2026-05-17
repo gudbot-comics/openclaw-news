@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-05-17T16:31:20.230240+00:00",
+  "generatedAt": "2026-05-17T17:36:06.497507+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI offers free ChatGPT plus access to all Maltese citizens - The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlFSNVpqdTgtLXRiMWl5ZDlyVVdiYngyQXhKazJEaFhQU1ZyWlRqaXFXR2ZrWVlqaHo0SlltZFNDZm8wbVBOenZheVVZUDVhS01yLUQtWHZuUURTbVY5dm9GU3lwTU5lN1RyOWxLRTlEcWJnbVM5c2szVUtZdkxnNTZna1VLa1U5TFFER3BQWlNEYkRjZk1PWVEtY21hT1VPQ2FwME1OVVJueXl5NEFXWjRGT3k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-17T17:15:50+00:00",
+      "summary": "OpenAI offers free ChatGPT plus access to all Maltese citizens  The American Bazaar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI’s talk show deal shows human content is becoming AI’s new premium asset - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNai12TEkxaWdBcjhQdUFHSlNsNjJsOTRhZFN3UzdzcFJleVItLVZjTGNuN1NGbFdway1WTmRpZFFtUkdsNFlXWFpLM2txaWN6Tm8xZzJmZ0ZqY3J4Um05dHB4YUZRc3VWSVBFOTE4MXpPSlAwVzZsMmNGN21naGtzREtLZzIxdC1wSmlNTW1oU1NxNmo3WFRjYkwtcFFVV2hIUjRJWWhDSQ?oc=5",
@@ -31,6 +40,15 @@
       "summary": "Agent harnesses, like OpenClaw, are changing how we build and run AI models  The Register",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "What’s at stake in the blockbuster Elon Musk, OpenAI trial? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpUzExMTBXRVRYbGVBTWktYkNjRV9KRUc5TDNDeEtxQ0U1QzYzOWxtSVlGcDVhYU1sMC1XTDRYZXA3SjduZTd0Q0ducFpkci1ZdnhfdW15R3VjbXJmWXRSb0tUdWlHZkZUQzdtX3ctRHk0TDdDay1VZ0hWWWdZWU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-17T15:28:10+00:00",
+      "summary": "What’s at stake in the blockbuster Elon Musk, OpenAI trial?  AOL.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "Texas family sues OpenAI over son's death - moneywise.com",
@@ -186,6 +204,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Replace your OpenAI subscription with lifetime access to Gemini, Claude, and even GPT for $80 - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGxHZXE4aGdQLUE0Nk1fRGRONy1DSGVhNGVXN05pVlhqUWI2RkVZbnMwRTZxTkFlTEh3bmd4cloxUTN6VFVYRjBYbEhSRURWNl95TGdDU2hWZVZEOFk0am9MTmQ5cndPOFFkUGlmT25fbkNGaGYyMEc5MXFzdXQwTlRYMlNFWGMtd3ZtODllN1M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-17T00:53:05+00:00",
+      "summary": "Replace your OpenAI subscription with lifetime access to Gemini, Claude, and even GPT for $80  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Why OpenAI’s enterprise push is only just getting started - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdFVfT3pzYmQ1X0dVTDNZMDdQTHQtcGpFdG1HNnF2Vk9JLVJLTUotVUhZZ3N4SVUxNVlDVll0RjdnTTBCZzQweUZFcHExSFBHSjRHZnpwVFNOX3Nsd2xpTGJfNGE3dzc5R2JMU2V5eVk4dElCaEdGUlVNMnZfb3pQakNEcndwZkQya0ZCd3NPUnQ3cHBoT2RGb2EtS3pwOC11bm52eXBZaDd6M2pnMDRIUjVDWGwtM2lZV1hzRGhyYTRBVzI3b3AtT3hWVlNzbHc2a281eDgzWnpBVEN0djJDcU5vbURocGxaSW1ybGNxZ3hrbHljZWZ6RklsajE?oc=5",
       "source": "news.google.com",
@@ -193,33 +220,6 @@
       "summary": "Why OpenAI’s enterprise push is only just getting started  TechRadar",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Partners With Malta To Provide Free AI Access For Citizens - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWk5LZjJ5NHhBMzMxaTFPMjk4LWdMcm9pelo5ZmlyOEk5QXZHU3NuSC14Ulczc3BPZWJhTUVlWGFKSlJDYlBKWmxRUmpjR3Y4T0l5eG9nZGlQd09VSjBZeXViMTB3clZuajc5bTFEY2hHTmxudmd3SmRlUlZiOGk3NEFVT1ZlYmI5clU3RGtR0gGTAUFVX3lxTFB4clo3aVJVZXVCMXY1MFkzN0cxQ0FHZW1HOUkxS0diTFpZQ05HV25hYXBuZ1RtdzJuZFZHTG5ndmNXNWRUV2Ytb0V6NXdSX1lxcTZDN21vVGlQMjZqQjJJMzhjQXZvZHF6UWhrU2g3d3BlSjZuVlNBT1IxOUl1YkpLR2h5WXJNOWQ3UkN2dmVfblRLOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-16T22:58:07+00:00",
-      "summary": "OpenAI Partners With Malta To Provide Free AI Access For Citizens  Pulse 2.0",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Is Offering ChatGPT Plus To Citizens Of Malta For A Year - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOERXZlRhOWN4ZkZFVEthYzRLUXVqVTVyMzV6ZzhmX0NjaGxGTEZKcHQzZDIyYmN2LUNNb1FiWU1WUVRHNGM1clJ4MnZIaHFZVDhqNmdfS1ZzeENKeFpJNUZDUGF2dF9SSV9HUklHSldveXRfVUctbWtUMWZTRks2WF9BTjFreUF1S3ZTQUZjXy1ibEhHckhFZmRja19Cdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-16T16:34:06+00:00",
-      "summary": "OpenAI Is Offering ChatGPT Plus To Citizens Of Malta For A Year  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Agent That Reads You First: OpenHuman Tops GitHub Trending by Inverting the Playbook - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNE05Qzk3eWRUbTQ5ZVlLYkhKeWZkck11c1FNWWJ4QWdrVTg0ci1jYTNZWlJYOHhYVFJtc2RXSEJENC14cGh5WHdpb2F2VHgtR3VmWk5HVUZBWE9McXp6dnQ1WmIxM2J5QmhhejFSWnFCMk9MODJiNFd4WHdUWmVSN01PQnAtbVlrY1ZKZktOUFFUWWNRWTBmemNBYXdzVlR5eUJxdUx1Z2NxNTd0NFYwZnZjWms5VEtKSlNDcGJ3clJ6RUhwZVlhTy1naw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-16T16:32:21+00:00",
-      "summary": "The Agent That Reads You First: OpenHuman Tops GitHub Trending by Inverting the Playbook  Tech Times",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
