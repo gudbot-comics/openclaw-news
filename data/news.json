@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T11:46:16.363826+00:00",
+  "generatedAt": "2026-05-17T12:42:20.102218+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -78,11 +78,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Claude Code vs. OpenAI Codex: I built 3 real apps to find the better agent— here’s the verdict - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmVSX0tDS0xLVWxzVDl5dExrc1htRXZwV0d4bndWNjNja3I4Ymh6anRmWExySEJfVG9waE9VOXI4SGJIcHBQSXBDM3FnY3lRZTJURUdFY0NnRk1ra2h0RjZ4cHFnYjludnQ0aEpQbzRoRXc3MkFlY1I2LTRKd0FueDJ0N0dVTGVYUW1CaTFLTWtlRTZCN1JqbjdfUERubU9KM1dIZ2VMRkZZVmFMa2sxbHktRjVORTh0WjRR?oc=5",
+      "title": "3-Person Team Uses 100 AI Coders, Spends $1.3 Million in One Month, Funded by OpenAI - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNU54bFhDTk4wUFNfM0p6ZFJTR19STFhXTll2N2Y0Y0VQTXNacER2MDZFTng0Y1dpWmktZ2x5X1laQ29kZ212SjFPVV9mWG5nRm1QZFVqS0hfa1Jnc2VXN1pOT0RldklTNkUzOHdDX3JxdEZhSUV2czJvWkdxT0JtdkNwX0o3VkJhZEFTRHdVT0ZRcjZGd2M1Y0NNOTl6eG9vdHdTX0tXb09WUQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-17T05:00:00+00:00",
-      "summary": "Claude Code vs. OpenAI Codex: I built 3 real apps to find the better agent— here’s the verdict  Tom's Guide",
+      "publishedAt": "2026-05-17T06:38:29+00:00",
+      "summary": "3-Person Team Uses 100 AI Coders, Spends $1.3 Million in One Month, Funded by OpenAI  KuCoin",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI announces personal finance tools in ChatGPT for power users - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3IzRnVIQ3dtX3BBTDhWTHN5OEdDbWdZLXhsYm1wWDVlQ3RkMWE3NUQxYXR6TE8teDVQVDJvSmZMLTdBN0dtb2xnOW4yOUEwWGx1WWZIbE9lLTZHbmJLVjE1dTlXcEl4dmJ6WFg3amx4d01MTEJPd0NMMFY5bTBBazRB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-17T06:32:20+00:00",
+      "summary": "OpenAI announces personal finance tools in ChatGPT for power users  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -157,15 +166,6 @@
       "summary": "The Agent That Reads You First: OpenHuman Tops GitHub Trending by Inverting the Playbook  Tech Times",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI announces personal finance tools in ChatGPT for power users - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3IzRnVIQ3dtX3BBTDhWTHN5OEdDbWdZLXhsYm1wWDVlQ3RkMWE3NUQxYXR6TE8teDVQVDJvSmZMLTdBN0dtb2xnOW4yOUEwWGx1WWZIbE9lLTZHbmJLVjE1dTlXcEl4dmJ6WFg3amx4d01MTEJPd0NMMFY5bTBBazRB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-16T16:24:29+00:00",
-      "summary": "OpenAI announces personal finance tools in ChatGPT for power users  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "Trust ChatGPT With Your Finances? OpenAI Rolls Out Banking Integration - PCMag UK",
