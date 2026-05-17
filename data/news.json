@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T21:31:25.671139+00:00",
+  "generatedAt": "2026-05-17T22:30:33.770169+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -103,6 +103,15 @@
       "summary": "Big risks and rewards in upcoming IPOs at SpaceX, OpenAI, Anthropic  Taipei Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Agent harnesses, like OpenClaw, are changing how we build and run AI models - The Register",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU5vem4wM0gwY0FlaW5mckZnZ1VmMVJGZFJvdTFHZHhIYmg3QVlnYXNtLTFtTmRzSHdNRVhjY0RKeXllY3N1WlpWenNYQk9yWThOWk4wMTZVUmdfNXBRZWxtb2QtSldJTkxPNFBzNmREUHZ1ejc4ekVubTJIcVBiYzlDTW92S1FFekJjTjA2Z0U2azNDQmtQWWlKZWdGZ2xOaXFMV3UwSXhsN2hQQm4zZjM1Y3NkVW5RaWRnYnR3ek5WS3pY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-17T15:30:00+00:00",
+      "summary": "Agent harnesses, like OpenClaw, are changing how we build and run AI models  The Register",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "Texas family sues OpenAI over son's death - moneywise.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-17T10:40:00+00:00",
       "summary": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month — bill covered 603 billion tokens across 7.6 million requests and 100 coding agents  Tom's Hardware",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Founder Incurs $1.3M OpenAI Token Bill - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmJkQURnLWFteUdFSUpyWUxKdFF1ZWtVaU9vaWF6LVJqdW5acTQtVTIwME5oVGU3b0p2X1JWQkN4dXl1Q2hYczFJZGRJMlFoUndfenQ3NlhzT1I2cm55OGpEZUN1SFNCenRSeTZ6c29BRW1Gb3FIU1N1ZnJnczIwenBUNVFycmVTQ2pQVG9GSHY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-17T10:40:00+00:00",
-      "summary": "OpenClaw Founder Incurs $1.3M OpenAI Token Bill  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
