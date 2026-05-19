@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T22:50:15.572479+00:00",
+  "generatedAt": "2026-05-19T23:59:25.001166+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -22,6 +22,15 @@
       "summary": "Meet EnterpriseClaw: Claw-Style Agents for Business  The AI Economy | Ken Yeung",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Musk’s Failed OpenAI Lawsuit Underscores xAI’s Struggles - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTWRsbXg0eXU1aTZENDB0LTRfWjg5b2lrV2NQT0VDdXQwUnk0QURON1Jac05PbGlIeEN6MFhNU1hpZTdSR2hGVF94VXBLX0M4ZEpmLVR5R2Y1WEYtQUhWQVo5QXpaLTZwcWI5d3RoaGFqaGp5a0UzQ19HMGdzTllDaWd3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-19T22:17:17+00:00",
+      "summary": "Musk’s Failed OpenAI Lawsuit Underscores xAI’s Struggles  Time Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "All the Juiciest Evidence From the Blockbuster OpenAI Trial - WSJ",
@@ -56,15 +65,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-19T21:27:31+00:00",
       "summary": "In Musk vs. OpenAI, the Real Winner Was the Suit  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Zeta Global OpenAI Deal Puts Athena And Valuation In Focus - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONV9iMTJOdVdwdHhNNEgxVHhiVHNXdVQySFFiVlZLekdLTlBXYmcwZjZPaWZXUXJJNDNERzNqZXdaN05DTmlGUDV2N28yeGMwNDY2cnNWNVJzSEpIOVEzaGhwX2Vxdmppclk5Y3l5Qzg2dVZfVzZleEJxMEtId3pRMTdyMmVPN25Ud1N6b3J0NVVBaEtSYjZhUg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-19T21:12:30+00:00",
-      "summary": "Zeta Global OpenAI Deal Puts Athena And Valuation In Focus  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,15 +105,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Google's Gemini Omni Tries to Fill the Void Left by OpenAI's Sora - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcER2ZEdCZmhOV2FsVklOaVc2NmlvTW1Yb0JIY0JJODRtU0tzY181V0trcExDc243UjZ0UTFDenJPcjNLY2VIbTE0cklrU2M2eEhVSUlZRzFkSHlUZ09KczJ3bURUOWROd2c3WExfTzR6ZTVoRlhUbnZJcnpVQTNZQVFMUGFrS1lndVpKM2pVcWRLSHNxSmln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-19T20:35:05+00:00",
-      "summary": "Google's Gemini Omni Tries to Fill the Void Left by OpenAI's Sora  PCMag",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Google reveals it's big plan to take on OpenClaw as the race for agentic AI begins - XDA",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmozN1ZGUGhIMUk0WnhjekQ4R2NIZGV3VHhULWRJVXA4UFd6MFF5N0RrRnBWeG4tdjU1ZkJiQWNwQ3pILS0zMGlmZXkzcmg1QThhaXVyZ2JKTnprUTVSbk9pV1YzRG1ZVWRJME13TGNhQkVCYTF3OXRXM2ZBSUpyTk1FcFdyMmJ1MGhIY1pMdWVqRWVLQ3l3dU8yaU9LRk1TUnNTUnZkQmpoWDRObC1ZVmFTRQ?oc=5",
       "source": "news.google.com",
@@ -130,15 +121,6 @@
       "summary": "Google launches Gemini Spark, its always-on AI agent gunning for OpenClaw’s crown  Crypto Briefing",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI adopts Google’s SynthID watermarking to build dual-layer AI content detection - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vMFZESGpDZFdrU3ZTV1I5dVNfMnhVeU1BZ3NKU3F0VTREb3ZManVGQXMwOG1LVWNFQkxrRE8yZHh1LXdjcW85MVUyejcxeVBrX285RnlMXzVHQ2g3SGU3el9Kb2pPazFadWY3OHFlNl9lLTMzNXhn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-19T20:22:34+00:00",
-      "summary": "OpenAI adopts Google’s SynthID watermarking to build dual-layer AI content detection  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "Anthropic Hires Former OpenAI Researcher Karpathy as AI Talent War Heats Up - Barron's",
@@ -204,6 +186,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "OpenAI adopts Google’s SynthID watermarking to build dual-layer AI content detection - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vMFZESGpDZFdrU3ZTV1I5dVNfMnhVeU1BZ3NKU3F0VTREb3ZManVGQXMwOG1LVWNFQkxrRE8yZHh1LXdjcW85MVUyejcxeVBrX285RnlMXzVHQ2g3SGU3el9Kb2pPazFadWY3OHFlNl9lLTMzNXhn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-19T19:48:24+00:00",
+      "summary": "OpenAI adopts Google’s SynthID watermarking to build dual-layer AI content detection  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Musk Vows Appeal After Losing $150 Billion OpenAI Lawsuit - Forbes",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNDN0QTZYMVJMa3dOSmN6T28yX2xLOHFoNVNtRzNFR3gzNUFVQ3M0dWl1OHNNNkQ4Tmc3ek81MW1hb0NEZjBMbnlGeHhIVnJHNl9Ec09YZmxuY2JvLThqVTd4SW40MU9EbkYwYzRhYjdoanpFWmgzdUlYSExCR3RFWi1ZT2M4ME5iTVc0NUVsMWZ1SlBkNTl0Yk8wVG9qZkQyMUtPQjIxaUdhV3JR?oc=5",
       "source": "news.google.com",
@@ -213,11 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic hires OpenAI co-founder Karpathy to lead new AI pre-training team - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeHhXSGlPcXF5RkVBb3kzdnNEVXNGZ0EzZi13SjNlODNCVHFlN1U3MzkwT29MMGJfQVNWdzBEMnk4VUkwOEZGd241MkNOMzJUNS1yRDJsVUZ1SzdjclJzRFNEbkFnbElKSl9JRFdSVU9UbDZPMXV2Y2ZKeDdEWDBEc0FUR2tUNHBzSGNTMGxLMEVPWG0zamNjc20xQTlTVTU0WlR4YU43Zk8?oc=5",
+      "title": "Elon Musk Loses Lawsuit that Accuses OpenAI of ‘Stealing a Charity’ - The Well News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYXNtUWJWeXc5aERvd01WMF9vcnhPb0N1UVMxbTZaUG9ZenBlb2RNSW8xUGV6bkVXQXFqQjkzUHVEN3BTY3JJbVlwSmwySy1ZZ1hYang0a3BfV2hFVG0zOEdaVjF1MlR1bGp0WXMwWUNFS2VkckpIMW9fcFphMHRQRHFvbHlrVFJmMVNkVjljTzhoVjJ0Nndtd0JaT1dvSmc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-19T19:33:00+00:00",
-      "summary": "Anthropic hires OpenAI co-founder Karpathy to lead new AI pre-training team  The Business Journals",
+      "publishedAt": "2026-05-19T19:02:25+00:00",
+      "summary": "Elon Musk Loses Lawsuit that Accuses OpenAI of ‘Stealing a Charity’  The Well News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic hires OpenAI co-founder Andrej Karpathy as its momentum continues to surge - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNVlNUVl2ckZYOHh3STh3UEV0UDZmZmplcHkwSVkxbTBfSHBQSThiT3BPcEpuUGpEUU1KTWtrcmRvOTFGdDNOUExXT0N5bDVDY1Vpa2FiRkdkcmcteEZYeGItUjU4Nl96amRQUzktbmlFU3hDdEhUMGVYLUc1SHhtZ0cydVg1bFFCSkplTWc4RUhwZTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-19T19:01:00+00:00",
+      "summary": "Anthropic hires OpenAI co-founder Andrej Karpathy as its momentum continues to surge  New York Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
