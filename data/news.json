@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T20:11:32.690173+00:00",
+  "generatedAt": "2026-05-23T21:08:55.295966+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -13,6 +13,15 @@
       "summary": "Leaked GPT-5.6 screenshots hint at a cleaner OpenAI interface  Startup Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Gemini Spark is Google's answer to OpenClaw. 3 reasons why it might be better. - mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHJjMmpyejgtOFJCSDBnX2hMRmNlZjBOUWZpTnpCSWQxcWV0SW5FT214U2FKMU5hZ3hzVS1aZU52TjJ4RjI2b3lBZk14WXQ4RjRhVDZsWFFuQzYzRUNBTjF5LTJ2YkdnaHpic0FuQ25TWWZFTkVSSG1aNFNGRmVVaTJTVW4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-23T18:43:12+00:00",
+      "summary": "Gemini Spark is Google's answer to OpenClaw. 3 reasons why it might be better.  mashable.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "I saw up close the dark reality of OpenAI’s race to create god - The Times",
@@ -105,15 +114,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI code security issue: Hackers steal internal data in 2026 - Memeburn",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRU1URXk1YWM2OEhGMjBPcFdBM29saGRtNWVYT1ZYRHZSNmJuSExXZ1piZkxSWng2YkZrSWlWaVVwWGpBUTkxTS1MbWJkemF5TU5aWmo3VWx6STZTVkI4aWE5ODduWkRqMDVqdkMtQXctaUxVRnY2Ty1GV2JVQTQ1cVJNaEozYld5UE05dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-23T13:49:24+00:00",
-      "summary": "OpenAI code security issue: Hackers steal internal data in 2026  Memeburn",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI faces IPO unknowns even after victory over Elon Musk - The Seattle Times",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORHhLcnJOVzlXbTBHanNlOE1ueEl2NGYxck9hak5IV3kxXzhzUkt3OUhobzVJNHBWMlBseVZsUnJOdzNKelA2VmFxU0tDN2w2WHBWa1JQaVhKbFdFYmxnbFdWdnNjM0h3UEdDeGs4ZF9GNkNUQ0hOcWM4Vll2R08xZjIxVEhVVW1BUG80N0NoSWpkWWhzcTUweFpRMF9WM2c?oc=5",
       "source": "news.google.com",
@@ -162,17 +162,8 @@
       "title": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.' - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnhEWkNwdzg1dVZ5eG40U1RLMkEyakw0N0NHODRqc3l3T3Blc0drN2hNOGw0cWt6ak5mb1NXLXg3Q09kQi0yNlZrNW11ZFFTR0FkYndRamI4bnZGWG5vend4UEdjREFFVER6a1F1cVVlaWVOeVVkU2ZGYUhfV3dGQzVBcHQ1MTJzemdUa0dkUXhkbXZWMVE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-23T09:00:13+00:00",
+      "publishedAt": "2026-05-23T09:00:00+00:00",
       "summary": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI has a new website where you can check if an image is real or AI slop - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWloQWRERV8yaFhVQl9rXzdrMmhPYnN0T2UtM0tMQ3VYZTR5SGFxSWk5dEdMYnBzTEdNT0NPejhtTXZ2MnVPWVdSOHlEeHRTa003NlZ3ZG9vSVUySXlMeFV6dkwyeGpBZzJNenI5V2R5OFZ5ZEZpa0pWMkxmaDFrZ2ZSRGtoQk9GaF9XY2MwdmlqWGV3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-23T08:00:41+00:00",
-      "summary": "OpenAI has a new website where you can check if an image is real or AI slop  Yahoo Tech",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -213,11 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Must Produce Musk Case Depos In NY Copyright MDL - Law360",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWVzN0dMaUhsa3V2blBway1xRDBSbUNqUVd5YmRwc010OFlvV3JJWjNESFo0cHFIWEtjbF9CQ3dFc041UEZfV2tlQzBFcmpWRW1CcEJuR25feEtzdUFTby1kcjl5M0FGWUlrbHRUYWllVWhaRkd5dk5uNC1wOVAxTG00ZGduM1FfR1VZX0stang0NmIzemltYmNpMNIBVkFVX3lxTFBkNFF0OEFVVGktaFpzME90TDhCcGxNV2EwM0VFM2xSaVMwTzZwUmU4R29veWducUI2X05RU0FTWm5kUW5ZNzU0TlhtUzFqd3M2YmFZaFNn?oc=5",
+      "title": "OpenAI is bringing ChatGPT directly into Microsoft PowerPoint - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95N3NUR3Rhc09WZGJ3MjRLdVZTWUQ2WTM1bGROZk05bGtBMGZub1lDSHZpbUk2bTNvVkthbHF2WUNLMjRaMGxPYTJtNG1jVlY5akYwTldwUkpZWWMzMW9wQ2Vn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-22T22:38:00+00:00",
-      "summary": "OpenAI Must Produce Musk Case Depos In NY Copyright MDL  Law360",
+      "publishedAt": "2026-05-22T19:20:29+00:00",
+      "summary": "OpenAI is bringing ChatGPT directly into Microsoft PowerPoint  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple's AI spend remains flat as OpenAI loses $1.25 for every $1 - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdzVGNnF5a05xVXVCdXpjb1I5RTNpMVFudEd5eDhUbkdLQWlhQU83VmhTR3ZCTjVfR0pvaFdTQmZoejAwdDdDdkpwZ2F4VTk0T216MXZBYzdpbTZ3ck9GRzFCZ2hHR2VZQjlaYjlYU1VXRHhpb3ltY3RBWXZzVnIwOFVzb1JSM0JuLW14bjVZWjB4NE45MnB3MXU2elpjV0FLYVpFM1Vn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-22T19:08:00+00:00",
+      "summary": "Apple's AI spend remains flat as OpenAI loses $1.25 for every $1  AppleInsider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
