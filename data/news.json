@@ -1,16 +1,79 @@
 {
-  "generatedAt": "2026-05-26T20:34:19.511625+00:00",
+  "generatedAt": "2026-05-26T22:08:45.510247+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Sam Altman said OpenAI wants AI to work like a utility that people pay for by usage - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tdlNkUnh5LVlkNkZWbHI2VlpnNFNReHhLSS1BQmlTZG5EZi0wQTVad2F3cXZpbVRqSkJpZWRrY0hndVhDQ3hj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-26T21:59:31+00:00",
+      "summary": "Sam Altman said OpenAI wants AI to work like a utility that people pay for by usage  MEXC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse' - MSN",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXJBZWxFWDhaNnFaem1UcW0yRFdKX0NmOWJyRUdWMWtSQm1ySWxTWXdLazZET1pWWUNjTUdTR0RkVUx4Q1Z2NExfcEhFTENKWlppR0tLdTU3Wkx4c0JBUWQtZ2ZENlpwQUM2d3dHNlhxOWV0VVVDeUVwalFRZ0hKSUJzdnNzVjBmQ0NzcmRvSnJfN08wdWd3QU5hcmtQeFhGcHc5TkQzOHhUSlNmeGdNYQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-26T21:56:43+00:00",
+      "summary": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'  MSN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI will now let you pay to ensure 'guaranteed capacity' for up to three years - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVlEVWJGcDd0ZmQyYnRyR2hCYmQ3OWV5R1dOcms2ajlIWFo1MHpzd25vd2hya0VTY2dsck55N1IwRERPTEl6bUlnM2t0bzU1Mi1aS2VvZ21SQUFGT19uOTFaTkRIZ3NPVVM0SHpUMm5IR2pELUxnWXktVkRxcVdnTU4zS3M5ckN0c0J1MVhLc3FsS1pHMVJLVHROS09naVFUblROWG9mTlBxcWZfbHBrUWRyNHE4SEU5Tmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-26T21:05:00+00:00",
+      "summary": "OpenAI will now let you pay to ensure 'guaranteed capacity' for up to three years  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ServiceNow CMO to Join OpenAI - The Information",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVNmd1ZFpXWUhlMXhwZkVseE1jYjVrT2ZrUWhlc0lRTnpFZDZZQVNMNmlwUkdfYzF4Rjc3M0lENzBJemZJQlpuUzlBSm1MMWpzRWpIQ1NiNW5sMDNyWWZ1cHdTbkhqSGJBWHI3V3JFX0tDUEJPMEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-26T20:56:00+00:00",
+      "summary": "ServiceNow CMO to Join OpenAI  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Space X, OpenAI, Anthropic IPOs Could Mark The Bull Market Top, Mike Novogratz Warns - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMU00UENoZUlaWHVVUl8zOVRSM0pod2FrMm9VM2ZqSlBEem91X1BPUlpxVkVuN1pFbjlKb3BRd0hwaXZmOU9leVNMd0l6VURYbEt0U0F6WDZfR2NNZE8tRjROdDJ1S2tKcnhic3A3UC1BTVhIbkJKVWx0bGRCbWw2QktEUWVwd1g4SlI3STFzdzd5TkVROGdGT2NMbFJqeXJpWmgxSjVIY0hYLVFNdzJxUHZaRlB5cUNaUklUYVBmaExFZ2pWX2xuM2U1Mk1sZHMyOVNDaE45eXdkWXZxMXhYaGtR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-26T20:52:13+00:00",
+      "summary": "Space X, OpenAI, Anthropic IPOs Could Mark The Bull Market Top, Mike Novogratz Warns  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Parents of OpenAI whistleblower intensify dispute over suicide ruling: 'He would not harm himself' - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNERRdTM0TWt4ZkRublVwM29kc2dKZm0yTTI5OGRTVWQ1ZjE2bGVGUXFVN0UzSGhBNkh1VjNwazRCV1VxUGZlTlZ4QnNOMmhyS05qMXVLUk5GYkVOYzVHMjlubHI1NDlMSjlMX0tMN0JqenNZS3dydnAwODZMNW4wQUQwSGFZSHgydjZoZ2hpNmJPejh3ZmhzTU1rQS1TVjlLMUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-26T20:47:53+00:00",
+      "summary": "Parents of OpenAI whistleblower intensify dispute over suicide ruling: 'He would not harm himself'  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "4 Things To Know As OpenAI Eyes IPO - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXpKVXNienBTMVBOb1pmYXYzMHNvVjJyRkFsVTE5VlUzREF5SndyLWR3cnpESHhBLVRwVmRwLVhobGRTcG8xU2Vucno2Q19KNjI5c1ZGU2FjclRTdlhlMmVuOHA5YkJaVHlDNG9vY19ia0xnbFRGYWhMMXV3cGZQSWdB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-26T19:53:53+00:00",
       "summary": "4 Things To Know As OpenAI Eyes IPO  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Will AI eat your job? OpenAI's Sam Altman has a new prediction. - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGpNajNZcFZVXzZsT2p5TEFVY3RCeXFzR0ZNdklyRHlWckhhTnNVU0lqSGxHUzdMelBJTEY4cXVTRC1Tc2RvQlJfRlNJczFMS08tdnpyUE9Ob0xvblNtems3UlNocXRXVXI1ZGYzUk5NeGhtSjM1U1J3RDUyMnBkWlJFSzVwRFotb3RaS292WUZ2NTFpNEpDdDgydktCT1ktMXdLazJocjAzU2N2c3pGQkxrWEhYLU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-26T19:40:00+00:00",
+      "summary": "Will AI eat your job? OpenAI's Sam Altman has a new prediction.  USA Today",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,11 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Sam Altman Says AI ‘Jobs Apocalypse’ He Predicted Probably Won’t Happen. What Changed? - Time Magazine",
+      "title": "Sam Altman Says AI ‘Jobs Apocalypse’ Probably Won’t Happen. What Changed? - Time Magazine",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IX2FQdmVtVVdvVm9SSTQxcW9ib0VaTldyN3dnLVB6OUFCa2J3UmIzaTRXUVI4clluRm9aR0ktV0laTzRrakl2Rzk1VzA4LU1tM29Wb0todGt1YVVCTjJKZk1zVlcwM0p2S19BRUJReUxpWE9yT0k4NQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-26T19:28:15+00:00",
-      "summary": "Sam Altman Says AI ‘Jobs Apocalypse’ He Predicted Probably Won’t Happen. What Changed?  Time Magazine",
+      "summary": "Sam Altman Says AI ‘Jobs Apocalypse’ Probably Won’t Happen. What Changed?  Time Magazine",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,6 +128,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-26T19:03:18+00:00",
       "summary": "OpenAI Hires ServiceNow CMO Colin Fleming to Lead Business Marketing Push  ADWEEK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Inside OpenAI’s New Founder Experience Team - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM2xtbThodWhicWxzcGJKUHFEZHRyYlpLTTg0dU91ZDhJamJIR21qVjljeFRjZGRsVlVrNDZWNHpZOFVDbFdSZmJ2MHNlZ3F3Nk5mcHliZTRLcmxLN3l5S3o5clFjN3hjU2toZXNvcVFxSzVmcWpJVnp5emJNYkJKSi1RbndYaVJSRVRfQ0xheHRhZzlaYmJn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-26T19:00:00+00:00",
+      "summary": "Inside OpenAI’s New Founder Experience Team  Forbes",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,92 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI skeptics ask AG Bonta to investigate execs’ ties to semiconductor company - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbUNEWFpPZGplQW9WNnNnRUxRcUdseldFZzZ5VWNvelVERm5hRlNJOGRVbWJYVm9qT19iV0NGbEdJb2pVU1NWLWpCcGJTTGlCRjNWVUx4ZzVYX0ROZFlHbVI3YzBxclhFLU5kUXhzX1VaYlR4cTBUaXE4M21hQ3NXYXViZEgzbktEaWh30gGLAUFVX3lxTE01M0xnanNudFdwNVNXcjNVY2ZGOU9jUmxjMm5nQXhwY1ZVZUlKMmxUellVZ3JSMVpZU3dKbGJvVjBHd0FUUzg4ZDFfM2dNRGtyeEN1Vlh3M2wybmtmSXlXeTdvUTI0WThrc2RyUGtQLUY0WmMwQ0FQcjlWMXNFZmotN3drVlNaZ3RRMG8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-26T16:00:00+00:00",
-      "summary": "OpenAI skeptics ask AG Bonta to investigate execs’ ties to semiconductor company  Sacramento Bee",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI's Historic US$1tn IPO Plan and the Looming AI Bubble - AI Magazine",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFNkNmdzBYQllTbEdYczhqTGlNaUVoOGZFOUFuR1RnT1ZFM0x3Q1NuTXpwMVlKS2VIR2hEYzMtVF9sWHFjQXk0RFV5cHpORVJNN3VXakFfZm9SeE1CYWlRdHZEOA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-26T15:56:15+00:00",
+      "publishedAt": "2026-05-26T16:04:30+00:00",
       "summary": "OpenAI's Historic US$1tn IPO Plan and the Looming AI Bubble  AI Magazine",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "SpaceX, OpenAI, and Anthropic IPOs: Can Wall Street Finance the AI Boom? - HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFg3QW4xRHBVU3NxM0NzUFZwc3pVbHRRSi1hbWFyUHpsWVhMOXpQMU41ZUNvVi1Sb2FfRWJCam9QZ2ZhRDVXT1M2eVBjOW5QbTBQZmt6cDRCRG5fVTN2Vm9YU3ZrLVVLcGRPTFV5UmMtWG9WQXNHT1U5TXpQRG1mVERFczJKWThsY0ZaYUlQYVZiT3FPaFdsM0hsUmgydUlCNlZ6bENqaWgwMkY4SEZ2c3lKOWNNZ1k?oc=5",
+      "title": "OpenAI skeptics ask AG Bonta to investigate execs’ ties to semiconductor company - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbUNEWFpPZGplQW9WNnNnRUxRcUdseldFZzZ5VWNvelVERm5hRlNJOGRVbWJYVm9qT19iV0NGbEdJb2pVU1NWLWpCcGJTTGlCRjNWVUx4ZzVYX0ROZFlHbVI3YzBxclhFLU5kUXhzX1VaYlR4cTBUaXE4M21hQ3NXYXViZEgzbktEaWh30gGLAUFVX3lxTE01M0xnanNudFdwNVNXcjNVY2ZGOU9jUmxjMm5nQXhwY1ZVZUlKMmxUellVZ3JSMVpZU3dKbGJvVjBHd0FUUzg4ZDFfM2dNRGtyeEN1Vlh3M2wybmtmSXlXeTdvUTI0WThrc2RyUGtQLUY0WmMwQ0FQcjlWMXNFZmotN3drVlNaZ3RRMG8?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-26T15:39:06+00:00",
-      "summary": "SpaceX, OpenAI, and Anthropic IPOs: Can Wall Street Finance the AI Boom?  HPCwire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Boardroom Drama: The Five Days That Nearly Destroyed a $730 Billion Company - Social Life Magazine",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rM0h0SGJ6RFRVQ1hrOVpzV2VESWFYb1IzTVFIZHBCc2FmbHhMa2QtYXRKX3ItdFQ5aURVQ2VON1Y4WjJNS3JOTk9Rbk5NT0ZTZTlCbTltNTJRN1pmRWhSTEIxYWZyUUozeEprMlJIQnFwbWM5?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-26T15:12:03+00:00",
-      "summary": "OpenAI Boardroom Drama: The Five Days That Nearly Destroyed a $730 Billion Company  Social Life Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Sam Altman Retracts AI Job Cut Prediction - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUVpX1J3VU9QMXZURXluZUYxVXVhMlNVZzVUVzhYTjl1dlhBZl92Uk1nUHFMaF9EYXlRN1VQaXpMOEdHS0RxTG91bzllN3EySk43Y2MyWjBQNDYwdGRuU0wweXNldmoxdl92dGVUNnFqUzdvSkFzUElLelZuVEFSSXJWNFNicTBfb3A0bTdiMktEOEEwWjE2UnBveUpmMXZwZGF1a19SYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-26T15:09:55+00:00",
-      "summary": "OpenAI’s Sam Altman Retracts AI Job Cut Prediction  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Cracks Murky AI Mystery: ChatGPT Is Not a Lawyer! - Cloud Wars",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODE4S3pONVVTMVFHcmxBUGd3TFVBVEhtb1lSaWFKZkdHeTItS2JOaVYtNDViUEVzcWQyZ055cWYzR0ZVeTRpUnhCMHdSN2xIOVRLTTlLRjVzNTBCLVIxRXJFUXlPVXpqemx3a25EWndjc2g4OXFfMFEwNXhEbEsyTVA1Z2xYbjg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-26T15:00:00+00:00",
-      "summary": "OpenAI Cracks Murky AI Mystery: ChatGPT Is Not a Lawyer!  Cloud Wars",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Altman says AI unlikely to cause jobs apocalypse - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXcXVQN0hSdEh2VVVjOEQ0TmZ2RU9iRDItamRNMXFtd0FXQkhLNEs0cGZvbDFsM2JJa2I0SFhoUEpwNDk3TFhGU2ZsWVJYeXVrM3dsTWtVcllIUUF2cmg3bXV5UUJEQXFLYmRtUFhCU25Ddw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-26T14:42:26+00:00",
-      "summary": "OpenAI CEO Altman says AI unlikely to cause jobs apocalypse  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVNETTY1N294NHRGb08waFRWLWVJOG1VVkdUZkpLSXBuNlUxMUxRX3BfVmt3WFNEWThfM2VSYnJSblRTdUVHNU9JM0tjcjQtWjREYmR4RFJxalhQMTAyZ010QVYzZ0JTRjRBcjdhQ3RpcUxWeEFLS2JDN2tNdEZsazdvTmR4RE9yQXZmX25zQndHTmxOTU1IM1ZYSnFZcEVYQ1ExTVJqckZGZ2M?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-26T14:20:08+00:00",
-      "summary": "OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s PR Challenge - The Information",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rRzdvbUFRb2RCTmhGUjM1cDRMSnhQazVnX2VlTl9xb1BhMTRJdEdldDctVnJIeTA3OGlzaXVHMlBrZGFWTGlGeWZRRkFvMlNYSHFaWXpXYUtZMGRKUWNjQmVqNlEtdG5xaWRqeUp5OTRuRkpEVnZQZkp4OWxtQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-26T14:01:00+00:00",
-      "summary": "OpenAI’s PR Challenge  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "See drone views of Wisconsin's massive data centers under construction - Milwaukee Journal Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYlI3WE5TTXlmSlg4d3EyM0VkUTNYZldjTW5wdFVFY3B6N1ZHWG84b2NLNzFfTXl3cmNKMTRLWnlsVGNSTThPS2ptWnhIdDZhVlN1LXk3TnB6QnVCeDJ4ZTZ2Sm9RQUF1amVkc2NnWWVlVmczUjVBLWR1VjdSdVBXbmwycmlJYUE4SlV0WWtxWk81VnlKQjZjZ2JiWUhLVlVYSFp5aTlnTklJd3FPUmFyMHdUYklYSGZ2X2wtZkN1bHo0UWhESkdUSldSTkE0SzdtbFJqbHNzTE1oYmJyekE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-26T13:58:00+00:00",
-      "summary": "See drone views of Wisconsin's massive data centers under construction  Milwaukee Journal Sentinel",
+      "publishedAt": "2026-05-26T16:00:00+00:00",
+      "summary": "OpenAI skeptics ask AG Bonta to investigate execs’ ties to semiconductor company  Sacramento Bee",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
