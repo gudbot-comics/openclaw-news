@@ -1,25 +1,160 @@
 {
-  "generatedAt": "2026-05-27T16:53:14.522755+00:00",
+  "generatedAt": "2026-05-27T19:21:32.492796+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Associated Press, OpenAI Strike Deal for Election Data - Variety",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaE0tcW1NWTRtWV9uSkQ4UjRZX0h4aDRNM08tUUFoODFGZU1fcGItbDg5VTQ0QXdDMFhXLTI4NHdwc3YzWXpHWGlkUWFOSC15bEFodHpIa1UzZUVFc3ZMU21VVXFMS0lLS0JTTWVyZ0Y2S3dCOURaZnNxS0hHZ2ZqS2JhWk4zb3VCUG1IdS1yd0swRXlBZzU1eEQyTmFEa1d2?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T19:18:00+00:00",
+      "summary": "Associated Press, OpenAI Strike Deal for Election Data  Variety",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Pledges $250 Million to Help AI-Disrupted Workers - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2J6U2JORFROUGQxYXZ6eHdpalYzNlBkMERpWXA2VWh0M1F5bHRLVUNoNXlNMXZkaGdxaXBHT3pzejFoQWV4dTR2Y0h3Nl9Mc2JmUlVQQUNvWFVSdWxSNzZHaFk5bzV0UkFFZE1DdVBpclRVeHoya1RvenozYzdyQUoxcUc2Vi14ay0wSldvZlcyTzFIcktPajhkY3JKWVA2T29pQUlOUW40YmtESFJZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T18:50:26+00:00",
+      "summary": "OpenAI Pledges $250 Million to Help AI-Disrupted Workers  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Daniel Kokotajlo, a former OpenAI researcher, shares his thoughts on what could happen if governments, militaries, and entire economies rely on superintelligent systems to stay competitive. At that point, turning AI off may no longer feel like an option — even if - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYWNFaUk5YmdRSXlFTlVqVm1oeUJjdmg4NU5HMzRhWVJWZmdNXzF2U3NfVEpuQ0ZLdGJ5dDNGa3VmaGxtcGtaTWxlcGVJc3k2WmFNNGZLWmQ5aFhlTEU1U25VdjJiWHFuX2owWER3bHRJbHkzQ18zbS1feXdkeWVwRjVZWmlScDgzckVxVnF6MDVJZHI0czlVUHA3V0pqeUs4VGd3VXlrM0hMeDd3NU9ad3BpYlpWMWMtZUFMd09FTHVzZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T18:40:04+00:00",
+      "summary": "Daniel Kokotajlo, a former OpenAI researcher, shares his thoughts on what could happen if governments, militaries, and entire economies rely on superintelligent systems to stay competitive. At that…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AP Adds OpenAI As Elections Customer - TV News Check",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3dDTldRUmw5bmNwV1F4RGV5Z19BZGo3XzVsZ1A3WlNsb0VOSmpITDdkWjNLODN1QmI0WmNXeTROcFJjZUZhbUhZUVJPNFliNGlTbDIzWk8zQzhLSFhOY0ptRU53bm93b2dpMmVnV2lFWGhMcUdOWFFRVV94OTZRbHVZLU9mb1k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T18:38:40+00:00",
+      "summary": "AP Adds OpenAI As Elections Customer  TV News Check",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI partners with social media firms to combat AI election misinformation - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40WXhDTnBQdVN5TVVLekNkS09oN2FwbnJwN1RLZlpZUWdNXzV6WTcwa3dHUGRPeUJaU0FIY3J0cllxVk1xZC1xcjd0NFdqQ3FjUmlzbi1EUjZsU2NkdS1lN3p3VW5ieDdsWnpyQllqUDdqNU9wbUdRWVNPNDBKY0k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T18:33:11+00:00",
+      "summary": "OpenAI partners with social media firms to combat AI election misinformation  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "BBVA’s Founding Partnership in the OpenAI Deployment Company - Cleary Gottlieb",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmMtV2dCMVAzaTVRZVJaRTVGamtrYWl2VzZ0bWVaak9VRnA5cmpzMVVkdnhEdHVCWTF3eHBTdENJNlU2ektmekdNQ0NtREhJRnNVMUhWZi05VEx2aU9ROU1oaVZLUGpyRHNKME15emJIa19PaThKbHhyR01YQUE2Y0xVckVqQWRHYmVmOVhqZ3lMaXRnNE1WS3VrOGtUdVlXV1Uyb2FpRVFaeFoxZHpxWEtqWkFQaXY0OTRQbE5B?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T18:22:04+00:00",
+      "summary": "BBVA’s Founding Partnership in the OpenAI Deployment Company  Cleary Gottlieb",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Foundation Launches $250 Million Initiative To Address AI Workforce Disruption - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDB5MUF4bTJZQ21YQkw1a3hIRU0ycnc0RlhZZWVvclVwMjVEd3o2aERTLUNpR0J6MUZvOUN1TnJFMW5qZVd6WmlEbW0wQlNOYXQxeFNidGxmMEp4NWc4eFZEaDZtVEQ5Q0Fvd3Ztb2dLWkdhU1h3MTlKalN5YlIzUWxYeTM1TFpTREFtR1BNMFRlLUJaekNUdXJySkk0NzZ4LUhQWHIzbU5jVG9tSVpIOUpudw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T18:20:08+00:00",
+      "summary": "OpenAI Foundation Launches $250 Million Initiative To Address AI Workforce Disruption  International Business Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Foundation commits $250M to aid workers, economies 'in the age of AI' (OPENAI:Private) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnlJSlVWeGhTMU1VZlJwNlZLN3NTWmRlUTdpclRNYldSN0dLRWgzdi1TOUNZT0h6dDBncHFBSGRTUWR1cTJCcnl0SnJha1FTNDRQOFZJbl9WRjQtUkNTLU1Sa2lqdUZoNWdpNC1mbjFLQzNobnZaSWtXczQzWnVYVXBGZVVKOU11azlmc2N3RFh6Vk9rTjlUQnQ5S1djeGpkNEF1V2hVVl8zVTQxY2Vv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T18:15:58+00:00",
+      "summary": "OpenAI Foundation commits $250M to aid workers, economies 'in the age of AI' (OPENAI:Private)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Intuit Faces TurboTax Pricing Probe As OpenAI Enters Personal Finance - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZTRDTFJnTWVmSmZWNjdKNTVsMjhFU3U4T0lUcU15cWdDbFRHN093X1VXUzBCRFlxSmJFOWh4Z1c3cTBvOUt6QzhDa3V0WHQ0TUxveGVCejhmc0E5RFBFUE5qYlZyYllpbzlKODB6aGhYNjkxbnIzSFNZSVBYVHBVaWZJM1BzZUNnM3V3czRqZkJUOEdQMDk1X3VkUG1JdVd2Skc1V21WZkJIMzBHd2ktcjRXRTBYWmxaN2x6cXdzeklpMmPSAcgBQVVfeXFMTWlfTk1QakNQVGJLUV9LT2ZEUFM5QzdxSEZyaUxLdTVuSVAtWGpNQW94TDlFQ09Rd3d6Z0ZjSllXbEl6MktrWHJFZmNjQmhUNEJQTzBneXhFbG1mbGVmXzVSaFpzU1Yxdk81eWxvNHhtTDNOVGktLU11VndXYTJJY2hQOE5WRnFJM2VzX1RvRTRJSU9OWUJlYVU2c1F5TmZ0c3c1NVBXc1psZ2c2VFMxa3ZwWlk5VjdEeHVUcjRwVWpEU3BPYkVjSTc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T18:15:40+00:00",
+      "summary": "Intuit Faces TurboTax Pricing Probe As OpenAI Enters Personal Finance  simplywall.st",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI prohibits political ads during election cycle as it begins monetizing ChatGPT - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yWHJwRjZKbDVEZVNvS050R3E4dnFnMG5tNWRoekNxWXYwc1duLUhhaW5WaGQzdGhVS1NhY1ZOWGlJVjg0cHJHTVlDLTJHb3lQOUdLb0hESS1HUmpKMUFJdTFGbUhLUmV2ZVZZbGt4MlpBTzZqbmxkVUtWVW9hdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T17:54:57+00:00",
+      "summary": "OpenAI prohibits political ads during election cycle as it begins monetizing ChatGPT  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Election information and safeguards in 2026 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EcFhBV2ZaTkRfOVNLcjYzcE5GOF96QlQyUTVJbUdwSW9hY1BjMTdEVWV2RVRGZGN3TllUc3owU3l5b1k1dkZuaXFrMy1lc1F3TVA4V3dzT3h1bGpjMzNj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T17:45:46+00:00",
+      "summary": "Election information and safeguards in 2026  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNam5wZ0R5V3o4dUhKbDJ6bW1CWkd2M0NpdzNHcFBQeVVxQzZITDFkeGR5TWYtSDhqN3ROQTZKSWRhWDJRR0l2TFA3RU1wV2l6MjlKQ3dOM2V0QWFSS2ZpMjJvSlNNS1BzbkcxaldaVjNZTEFHSnNJc2dsZC1teUZVel9IWTUwTEg5bXZJbWNCUm1JdzJaLTBNc05xZDNMOVRTel8wTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T17:43:14+00:00",
+      "summary": "OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Foundation is committing $250 million to help workers navigate AI disruption - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQV3NocXJ6eGFVRXFldVlWTWtJX25WLWtvY0FlNmJ3ZHNuY1VDdEdVMURneXFrcVl4ZGhqNXVMRVJoOXhEcjU1Vldod3FsWFdFM202OU1SemQxVHhVc0lVNWpPM2d5anM1WnhuT2lwTDBlcjRzY05DeTJfdkRRZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T17:42:27+00:00",
+      "summary": "OpenAI Foundation is committing $250 million to help workers navigate AI disruption  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Thrive develop self-improving tax AI with 97% accuracy - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MVE5Jc1c4UkV5SDdQaXhSSmpUVFVfQnpJMWdxcTFSV05TeDJQVHRuUEp0QWtkcXBlZk92TFJIMnR3WFQ2Rk1rdnRrOGt1d0w2cGViSnBlQ2dfci1UNnl0TVBab0tydUpfbXB5dDlrdXk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T17:20:43+00:00",
+      "summary": "OpenAI and Thrive develop self-improving tax AI with 97% accuracy  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive: OpenAI readies cyber, misinformation defenses ahead of elections - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZG1veEZSNl8yVWJqdTJyclB0UGxNdU9zNmJJM3ZBX3BuUzJMX2RYZ1pJN29xckRVNVZMNTZ1UlBfeUdwcllVRVBhcU5ZbFVqdUkwMXFuQ0o4Q2JuZF85V0RwYWt5RlZBRndNS3NPMWU3T1RvMl9JWVdBNHdoZU9sU0d2NUtIQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T17:14:39+00:00",
+      "summary": "Exclusive: OpenAI readies cyber, misinformation defenses ahead of elections  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Is ChatGPT Running Slow Today? OpenAI Confirms It Is Battle-Testing an Outage - Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEJiWDZhVmgzMnFhMldBWkVvQUx5cnRRRVY2MEd1bzgzSlBQRmxpRnZLbzRaS2hLVDZycmlsSk5FSXpURnRtLTk5R2lQTFpVSUVJWU1uZm4yQmhvNnJ5RWVnZVlTeGtRckFNUWRjQmwzcHhLdnNOYlZ1ZzZDWktWRC1YQll1Z2w5YlBMQ0FwTzRYSXJYbGl3LTVQLWJheld0QzJn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T17:13:42+00:00",
+      "summary": "Is ChatGPT Running Slow Today? OpenAI Confirms It Is Battle-Testing an Outage  Android Headlines",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Where Does \"Catastrophic\" Start When It Comes To AI Liability? - Yahoo News Canada",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0lRNkFYSTRlQmFBMFhrcG00ckYyVWdlS0hMQjVjSEx3RkRKVC12dnVpV2ltcV9OUGdYWVZZbm5MZWlmSUlZU1VqN1V1YjZYRjRkUkNwZS11WFR4SFBJTkEzWW5Fa3JTNjdiVWltT2JDWWhOX0QyejVDWlZEdFdFQw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-27T16:40:33+00:00",
       "summary": "Where Does \"Catastrophic\" Start When It Comes To AI Liability?  Yahoo News Canada",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Foundation commits $250 million for AI worker disruption - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQV3NocXJ6eGFVRXFldVlWTWtJX25WLWtvY0FlNmJ3ZHNuY1VDdEdVMURneXFrcVl4ZGhqNXVMRVJoOXhEcjU1Vldod3FsWFdFM202OU1SemQxVHhVc0lVNWpPM2d5anM1WnhuT2lwTDBlcjRzY05DeTJfdkRRZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T16:15:09+00:00",
-      "summary": "OpenAI Foundation commits $250 million for AI worker disruption  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,6 +168,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Michael Burry Compares OpenAI, Anthropic, SpaceX IPO Hype To Dot-Com Bubble - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcVpFcUpkN3pJWGZmRkdxT3F6eDd5cTI2MTNNd2Jwc3RqSUFCQWNMVGVvYU9XVDZzNWhjUlNXWVp4MC1CTmRQQ0Vjb25PT0NIRzlhTE1BVWJyQTFwVERldXJNZ2t4UjI5TFJfajM1cHpXa01zMTg5T2RBYkFzazVhRGlRN3lON2J1aGM3dUpUaTdkTUhDWFVVeEhXdmRSb2xyTjNaZlZhcU51MkNpTTdONW5PQXJZTkp4RkgzeDNDOU04a1dO?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T16:03:50+00:00",
+      "summary": "Michael Burry Compares OpenAI, Anthropic, SpaceX IPO Hype To Dot-Com Bubble  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "US funds set aside cash as SpaceX and OpenAI prepare to go public, analysts say - MSN",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzBDa2g2a2tVbEFhRGVTbzZGck1qRXNFcEhzTHJnQkF0c1RHUjhKNFRwY3Z2QkZRelR2NjIyUzlHQVJ6LWhFY2M2bHV1VG05SDlDVS1JS0Z2RTNzdXAzY1pYWldnem9ST19ySmQyNjluS1lOUm5tWW00S3pTUFFadmZzZlV3cEVIem9lUkt2Z1BWb0M5TXhqZzhIZE5FcGk3RDNRUVFQVWE5TEE5ODJVTzMxSHZhWW1IZ2pUejZqX3RoakV4WmF6bWVYWlRPZw?oc=5",
       "source": "news.google.com",
@@ -42,20 +186,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI tried to bury this politician — now people have actually heard of him - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwaFhCZnpjNzFLb3F2bDhyZGtNOTM3cGdJUnlBTU8waG00dmZPTnRJVDRzdExPaDZMcEMwNEV4dEh2TjQzWkduVXdwcDIxOUVUMnoyamhQcXVZNXA5bEhncDdBNXJObW03dmVBemxQOG5LLTBrU3VycXhEa202Rk0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T15:40:00+00:00",
-      "summary": "AI tried to bury this politician — now people have actually heard of him  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "A maturing OpenAI splits marketing duties between two CMO roles - Ad Age",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX1RfQXRObXZZMHBrblpvQl9tQzh4Ql9BQjdISTdHZVFxTTZzWHNKUjkyeEZlRm13RmtkWm9wcjhWX3lDUE4wZkFUUEllR1JsaDl5blN2YmhVS2NYY3RTUjdfVW9pd1pTeGdlLWdmdlNBU0NxMGN3NExuc3l4eXdxMGNwRURUMFU?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-27T15:40:00+00:00",
       "summary": "A maturing OpenAI splits marketing duties between two CMO roles  Ad Age",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI tried to bury this politician — now people have actually heard of him - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwaFhCZnpjNzFLb3F2bDhyZGtNOTM3cGdJUnlBTU8waG00dmZPTnRJVDRzdExPaDZMcEMwNEV4dEh2TjQzWkduVXdwcDIxOUVUMnoyamhQcXVZNXA5bEhncDdBNXJObW03dmVBemxQOG5LLTBrU3VycXhEa202Rk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-27T15:40:00+00:00",
+      "summary": "AI tried to bury this politician — now people have actually heard of him  The Verge",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,150 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-27T15:32:01+00:00",
       "summary": "Anthropic’s revenue continues to surge, shooting past OpenAI  Sherwood News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI investigates elevated latency affecting ChatGPT - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3dhZkk3MTBaeUZjSEdiSTd2MG1EQWpxY2ZzMU8wZVB3eVd4SXkxOHBjaXhpNGd5RnNiUUNPOTF2UXFkVzlYd2dDWVVBR3NEU19PRWFvOVV2My1rM2pEa1Q3RVEwelp2c0sxYTRNSmJFUUNoSnVrRW9lNHh3UWhBVHgtYWF5NTdCaG9oSU0xOXFreWlzaGNQQkpEYlQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T15:17:23+00:00",
-      "summary": "OpenAI investigates elevated latency affecting ChatGPT  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI investigating ‘elevated latency’ issue affecting ChatGPT - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdzFPU1pNc25YdWJaeXI3Z3pyVEI5OUJaLWh4UzZwNGVLQ0Q3OEdTb1FTMDhUYWJyYzJ6cGxKN2oxeWtsanZzdV9GMWM4QVFMSW9VUmozckEtY1dWajZEcEMwRWxfWGw1d0UyTm1TeFRmcUY0WWxab1d0Snota0h1c3V0WmNjM2V6bkNjckZEVzlTaDZlc1kzTw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T15:17:00+00:00",
-      "summary": "OpenAI investigating ‘elevated latency’ issue affecting ChatGPT  9to5Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T15:07:47+00:00",
-      "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "US funds set aside cash as SpaceX and OpenAI prepare to go public, analysts say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWx0clNPT0s4RWVVWWp6cUpid1B3UjVYRzdJeElvRzlkVGVWZXFyM2JsRjJlX0xEWjlIeFlxdHYwYjhjSVJidWw1RWFUWXFGQTQ4Nk1zdGR4RkFqalRua3Roak1ldGlLNVF2R1d6ZURVVHA4NUtoY19qZi1sM09ET1JzVzEzd2JUNFlYbXdCZzBtYkdvZUh2WGl1a2xtWXVTeWdBejN2ZGRicUN5ZGFjMkptbzFTSG5yMzNsOEZ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T15:05:44+00:00",
-      "summary": "US funds set aside cash as SpaceX and OpenAI prepare to go public, analysts say  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Fujitsu expands AI strategy through collaborations with OpenAI and Anthropic - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVy1YRk05RG5ZOURFSHZ6WUtpcUEwSWE5aUZhamN3ajh0Y2Y0aTdWal9BWE1xNmxqRTFhUlh2OERleHRudnBVQW9SRWY4bnNQaW4xcWtOcDJudk5oZmlCWjc0aWZqWHVjTHlvNTFNd0NoazBBZC13UVd1VHBvUW44UGNPVlpWLXlaUy12SHFkUXU1b2l4N0w3UDBvMlM1cnlidDA3VmQwMG1NVUFPVU5fWUNQS2FYTEhoXzFLOS13RXBKZlJrWXJvT1YzRHBMWkRjMkN4RGI1QlpMZk1WVTlnczF30gHnAUFVX3lxTE9XdGwyTnFxUkhYcGVEMHRXQVIxYU9TV0RWcW5GekZHMnR6RGd0Q0R1X2xsanE1c0NWVlpZRFdUcmlSbThzVUozVTJGUS1sOW5tTnhGZUpxRnZwU3RJT3RzRWljUW1MX2Nvb1ZPeVhfdHJTUlVaT2dMWkF4dU0tUTBiM29qYmUzLU9aZEFTMGdhTkZYTE1XUmNYNko5akozQnpybXJzdWp5ckRhQTRCRmNtblJ0dTh2MGI1cjVXbS1aSW1UOWtFZXF0YUxBLTRRLVFsUGM1M0xia0ZUc3J6V3pldEF1TkVvNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T15:04:50+00:00",
-      "summary": "Fujitsu expands AI strategy through collaborations with OpenAI and Anthropic  The Manila Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Is Microsoft ditching OpenAI for Anthropic? - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnVQQ2VoRkpPaHZwelBQVUdHeXJZbkNqREJieHRKVUFNNThOdGRISTVka1JSUmF6S0xGTHlIUUdqR0pWVjdBU29tZFZWdHktRVM1NzJDQmc0dDFPUGVlbDhrbERSYlFGSGVWMWxJaHUtUFBibmQ2Vk9SQlRkZjEwdHNjNWp6M2wwZWJVbmVR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T15:02:00+00:00",
-      "summary": "Is Microsoft ditching OpenAI for Anthropic?  MarketWatch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s foundation to spend $250mn on research into AI’s impact on economy - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qNUNLSWgxUld6UVlhaHJmWl9GNGtNODdaOXdXWDBhcFRZcDBMSlUwbktQb2JIdmRfWG1ndTl0Uzg3eU9vWVZoVmZFenhuYlZVbmtWZGVBZ01vM20wR1BHVzhuczhubFdLM1lJVUJrRk0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T15:00:04+00:00",
-      "summary": "OpenAI’s foundation to spend $250mn on research into AI’s impact on economy  Financial Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CSU renews controversial OpenAI deal despite faculty criticism, budget cuts - Local News Matters",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdkdvNldZYmR3aUtDbnpvc3FkLVpnb1BLLVZZaXhfV3kwYVpPNEV1UUlFbkIzcVZEbkUwMWVRa2dfT1RsR3djSS0yYUNpUEJ2MzVHT1FaRHo3aUV2aTJyRnNBd1pQckxpeExMV3JkQkpqajA1X3ZHb3EwRXVzck1CVw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T15:00:00+00:00",
-      "summary": "CSU renews controversial OpenAI deal despite faculty criticism, budget cuts  Local News Matters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Foundation to Spend $250 Million on AI Economic Impact - The Information",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFpaYzB4NTliMUZIMHNKNV93RHpwMkxhdF9DU0Ezd0gwNFRzbWJxTGc4b3NBYmJJU09TZlFxdXFhRVBua1p6WloxbDZWWjdveEZMVThseUFmSEg5TG80WUFqeGRhS3NRVXlXajQwaTV5Q004UmI2anlJdzNNT2d1c3VoWmIxVVRzOVY3bzRMWU9DZUhTUXA1VHVmNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T14:01:14+00:00",
-      "summary": "OpenAI Foundation to Spend $250 Million on AI Economic Impact  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Parents of OpenAI whistleblower Suchir Balaji dispute suicide ruling: 'he would not harm himself' - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUx2TWNGZHA0NTN2UnN1TWVPdjUxOGRJWWx2UzlYc3NEeWk5RThmQi1CTEwtZnJrd2tOd3o0OEFUSGp0SDd6bHBMbGtid0VPcFhfNzI2MHNBTnBMTF81YUlwSlRDNmtzdXRaOElNY24yWUlRRDJtQXRYVW1wQXJyMXRJMkJHRy04Z3E1M3MxSlRJY3RtU2JXNGFVZzU5R3ROczVLZGIxNmpWM3BDWjJGTWduNUZieHkxaWxJOFl1TW7SAcYBQVVfeXFMUDIyY0FYcWExQURnNjJvM1I2aVZXTGhtcWR3VmN2R3BlRFZpMlhhQ0lIQ3Y2UDhBQ21BU1l1aUlZMkVHOEFpMkRPc0I5cExCLW5PUVZRVmlLQkw1dThaZEdpTE5KdHVudmFHRU5OYTZQNGs0UkF0ZVBycXRJSlQ2WF9WQWxFQlhwOWNOY2VpbDJ3cE5HV1RNRTQ2M3BTYWgxVkljYlFYTWNzRTlzVm91QVJoZG9kNjA1MGdGc1ZlS2o1QkN4UElB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T13:46:26+00:00",
-      "summary": "Parents of OpenAI whistleblower Suchir Balaji dispute suicide ruling: 'he would not harm himself'  ABC7 Los Angeles",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft’s Post OpenAI Shift Toward Multi Model AI Platform For Investors - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNUFfMVNrNG95cThId3VJSnJDWTA3ckhTS3lGQmZSU09QRVZlRW5kTm11R3lyT2hQYWt6OEN1MUh3bFdnbHVSOUoyUG9GNDFtLTg4TUdvZ3JfRnQ2NGY3ZEROM1VJS08tdDQ1cndDZW9LeE50SzJoZlVyamt4Vml4LVJrVTl0b2hFd3RfcDUxMzJ3U2UzUHlEZlhDRWNUbVV1bUd4YmNoekxIWkpzQ0NQbDlXTWMtOUpuX2xrbG5iZmZFWTNLTGfSAcsBQVVfeXFMT3R4X2swYmwzMG1wUkJ3N0dUcGN4czdjal9GS2ozZk5RS3JxMjQ3aTV6YWdyNUZoRzYwY3M1aUN5a2VSRHVwYnlhb2dPWWpHNk1YY3lhNHpRWFlVY0tkdHBMTEdSMGhVTW00UXdZTDhMQ2ZqeUtXNWppakRLSmVVTGdmdkpkTk15NVdfUEhUSmc1VUNibE9JTm5acTQ3SE5SajZzNUpYcFB1WDNuN2ZKcXhZbjFWZU8xcFF2WmFPT25SWkdEN3RBeUx6M1k?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T13:30:40+00:00",
-      "summary": "Microsoft’s Post OpenAI Shift Toward Multi Model AI Platform For Investors  simplywall.st",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Bitcoin Falls Below $75K – SpaceX, OpenAI, Anthropic IPOs Are ‘Draining’ Liquidity From Crypto, Says Analyst - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT2ZkQmptdTJLVXAwM3daSWxPbGlSU3hyTE5XdURxcTlyVFhFQ2xDOV9nd1J5d0t6TG1CRHVMcGV3WWtScUtFSDVQY2phZC03X2ZQTG8wUFMyZWNhTGtLVDJYMWVXbXpJYmF3STQwb2Y1bjduWnRNd2FjRGt1YlhfYmxKajBEVlQ5dURSNFViOTktU3lNMEEzR0dnXzFyMV91TTl2UmFvZ2pLZVdrR0d4WmNTd3VhM1Y4N2xOUFlxTVM5dHhFR1JmZ3RZaElBODBDN3RhT0VzOFpHYlFmTFQzZmxhVExHNEN0OVlxczlwdkZVUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T12:49:30+00:00",
-      "summary": "Bitcoin Falls Below $75K – SpaceX, OpenAI, Anthropic IPOs Are ‘Draining’ Liquidity From Crypto, Says Analyst  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI appoints Colin Fleming as Chief Marketing Officer, Business - MediaNews4U",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY1VJRWFnenQzZDQyTFV2TnVNa002VndmcmE5c3lQVDBuMlBad2pCTUdxMnI3ZlNEVjlOT0tWbTQ4NTllSkdnMXpLdm5QczlhTzcxeUp2bk5jM0NsODUyd3d4eW9OZzNpdkVtcWtOUU84ZUQwallxSW9vMVBYY3pqNy14UWlvelpEV0kyMENYYndVcG1OY2luZW1R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T12:33:21+00:00",
-      "summary": "OpenAI appoints Colin Fleming as Chief Marketing Officer, Business  MediaNews4U",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI redefines Colorado’s workforce as employers race to keep up - The Denver Post",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXczR3liRDlXX3hWSHpxQ05DU3hCVE9wVUdGQVl4dy1va21ROVFhaUMxQXo3VTlHM29ncTRjbHROV1Jfak1BS05uNzhzbWduY3pZaTZXYkUyczBrV3k0TTBuTzhfMDAyUWdobElNSnFtWDhnaGFwb2F1R3R6bkl3bGdn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T12:00:28+00:00",
-      "summary": "AI redefines Colorado’s workforce as employers race to keep up  The Denver Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Opinion: Sam Altman’s toxic ‘culture of silence’ is an overlooked risk for OpenAI’s investors - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVlKaXAtR2pMX2ZncEdfMEdhMlRha3NzcEY2M3pnX1J2YnpIbi0weVhUbXBVeGdrdmtmZDZfQTNNQkZlYW5sdDFpOWlKYnpmekRNdGdWeFdLZGhQNmtkT3BYbXJJQmNVNkpxQ2h5aUZVNmUxWHMyWmlFcjlhblBRR0llRzFnX3JvcnNsSHNXaTh4NFU3Ylo2TW54blg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T11:50:00+00:00",
-      "summary": "Opinion: Sam Altman’s toxic ‘culture of silence’ is an overlooked risk for OpenAI’s investors  MarketWatch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SpaceX vs OpenAI: Which IPO could deliver bigger returns? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV2NhVm5EMl82U2JsTHFzbTFVSUtzdzE2dnZLbUY0WVFiVWROcFZwLU1HZXk5cDJfblR6Snc4aVR1TnQzTmpGbzg4LUNOTjdSTkdaWG1MOFdlakM3SENHNlFuaWw0MFpCQUJhV3lVYWN4Zzh6VWt1d2g1WkpOc0gzamJFSlE0aklwdW9tdmNXSUVfWEtLSEE5VTM5cVRvOUI0TGZZeWNIc25qbW1WMWN4MlVn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-27T11:46:49+00:00",
-      "summary": "SpaceX vs OpenAI: Which IPO could deliver bigger returns?  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
