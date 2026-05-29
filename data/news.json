@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-05-29T01:48:15.483968+00:00",
+  "generatedAt": "2026-05-29T05:58:36.018381+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Hackers caught hiding OpenAI token-stealing malware in Codex npm package - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDWDJlM1c4Y19sajNqVXlOWEFOdEVKU2pPbHp6WEIwTWE4dnowbzZpNEZneWZxRExJM1NyX2wyNXNsaV9VTDdvQWZrRjhTRHg0ZDBaX2M5Ry1ldkYxX0xXd1FjdUJmTUlGOEFiVU93Wm5Pd3lKUHZXSQ?oc=5",
+      "title": "Eightco (NASDAQ: ORBS) Reports $374M Holdings Across OpenAI, WLD, ETH and Strategic Investments - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd0E2Q3labEViYXYtY3Jnd1pJOXh4VFRFdVJ0QzBMbGlaRFEwS0xfdmZ6Y0FvWDNHNS1GcTEwODM2U3I3a3BNemdLU2xjd3k5RnptT2ZKMkVXcDRHNnc2NWU1eEFDaEI1NUxldXlhdVhpNUZXMWJXeEZrdnZUQ245eFNMZ2g0dHRvVWh3MFNKQjVTbmNjVVUwUTgwcFZ0TkVlVU02YXR1aHBLblR6R1dwOXZVSmlOSDQ0Y0Z5SUZjX2ZIZFZQclNLYkljRWNYSzlSNlVaTlhGU0RicmVSU3JSNW93SQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-29T00:56:15+00:00",
-      "summary": "Hackers caught hiding OpenAI token-stealing malware in Codex npm package  Cybernews",
+      "publishedAt": "2026-05-29T04:52:00+00:00",
+      "summary": "Eightco (NASDAQ: ORBS) Reports $374M Holdings Across OpenAI, WLD, ETH and Strategic Investments  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "a16z: OpenAI and Others Won’t Kill All Application-Layer Opportunities—Put Down Your AI Anxiety - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBMklUR2d3SlYwcDRnOU5LLWhNamxDcEFsblZ0Vkk5RTV5YzNlamUzM3UtTGk2OFpfaG5lV3U4UGFwSG4yb3V4bVNJTHZRVDFGSlROcE5GRHFSbGdv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-29T04:36:18+00:00",
+      "summary": "a16z: OpenAI and Others Won’t Kill All Application-Layer Opportunities—Put Down Your AI Anxiety  深潮TechFlow",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic reaches US$965B valuation, placing it ahead of OpenAI - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMlFwbkRlUjMyT2VsMlAycVdhV19COEZ1M2RSMF9WeTJDSV9TdHBpRDJWV19nejFNbGdUS1Y5a3VoS3ZjR016amhnM0xSVE1JS0hKMW1PT3ZsakhwQ19NX3NEelBQSGNrZ2lSSDZCTDRySnIxMl81ZVJ0dTFtUFhKRElSNHdIQjg3VlBZVHd4NA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-29T04:10:33+00:00",
+      "summary": "Anthropic reaches US$965B valuation, placing it ahead of OpenAI  digitimes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Future of Marketing Briefing: OpenAI is working with Skai to bring retail and commerce advertisers into ChatGPT - Digiday",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTDQ4U1VScm9mMXpCVkZjR2NrR0h2TVptdnlkVjZGcmsyNnRHYldrc0xIUk9DNktKRGxPUlprWE5sY044cEtTUVAtNnRPZ21iOFBFNDVvb1BiS0FOd0JoUThkUzVPZ0ZiQmo0SDgwN2ZnR3UxT3hiSFFoLTNlNUxXT3FISlN2dFItcTN4UjVFdEpjTGl4bmVUREx2RWU5cEVwX2tZS05FakRpV0JHS1dMMXZBZTBYXzVRcGJJTjJ4Y2hDNnJGLXRfMzZCYmhjSWE1REhHZEp4Q3N4c1hW?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-29T04:03:15+00:00",
+      "summary": "Future of Marketing Briefing: OpenAI is working with Skai to bring retail and commerce advertisers into ChatGPT  Digiday",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic soars to $965bn valuation, leapfrogging OpenAI - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOW83eW82VWlHMHU3UEI5ZHprcDh3aG5KSnJyVmhPVkhsaGNSR0Y2M0xHb2ZUbDhraE9NbGwwRkV0ajUzclFjWHRaZlVQTHdBUmJFX1NLY1pHRVNqNWhiOF90ME9TaDB5WElRUHJWOHdXMGVjeTRya1hLNmZVOV9WLTZ6VFhQNDhScXdkbUhYNC1MMGc3REZwZTJWaVhHSXfSAaQBQVVfeXFMT1lZU2N1Z3Z2T25MZE9hendkXzljelgtLVZES0F1aF9BdTMyeVdjUU1OaVg4djkyRjM4OU8yVXNBWXl0Z0liMjYyVVJON0MwbmNNVG9SLWdtYjBUWVVBVGl1Y2VQbm5tNFFUUGhBeDJUcTZKVXRZUHZURjJsVEZSeVZERFNiU3ViZ0Z1WHQ2QU96RGFtd0xOQ0laeFZidXB3bGU4eFc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-29T03:21:10+00:00",
+      "summary": "Anthropic soars to $965bn valuation, leapfrogging OpenAI  Al Jazeera",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic Hits $965B, Overtakes OpenAI in AI Race - Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckhvV2FfaDZSaUJKdWFrWU1Dc1dCVVhVLTA3b1hLNEhubTRNb1MtOFF6QkQ2TEFoUkVuUnJqVlV3UjlnVEZyaEdMeWc4U0Z1YXBlRUNEc1diSnE3NlVNemZUbGU1cDJocGM2SG84UTYtd2NmRk1sd210a09MQ3VJN013?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-29T03:19:52+00:00",
+      "summary": "Anthropic Hits $965B, Overtakes OpenAI in AI Race  Gotrade",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "VerticalScope sues OpenAI, claims AI giant infringed copyright by scraping content to train GPT models - Law Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUTQ5UWVXMG5idE1LLVpMM0ktYjF6c25qRjVpbTJVeDk3OElMYmlyX0U4S0g3cFR5VzBXYVFtVlJrelk4LUtDbjFCZ2RZRU1oRGt2MVVyUU52cnoxajFmNGJKamRxVS1RMmt0VHJKaXlfTmxDdU5ob2JocjZWWkxZQVI3MGtidkxudkVYcllqakNwQ3dIWldjVkFCcEJMaW85UzRxUGtWWWJWTUo5SVg4a1A0UXQtNkttcXBWdG41TUszam1BSE5wRnd1X1diVl95b3Q0RkJUd3FhT1ZVYWN0OUNiaWg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-29T02:39:01+00:00",
+      "summary": "VerticalScope sues OpenAI, claims AI giant infringed copyright by scraping content to train GPT models  Law Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -52,7 +106,7 @@
     },
     {
       "title": "Japan's 3 Megabanks to Gain Access to OpenAI's New AI Model - nippon.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDNVYUE0bzNEajVnTjNFN25nd1cteFJCNVNaemRDQkJoWmthajBXbkhfNzlrZ01CLTczNXVjSjlxRkJzeDlXdEt4dXFEQ0RDeXJOVDl5MnN4cGhncW83ai1jSzRFRFdqc1VIT3Bzd2VuR253aUJ3WWhGalJ3T3ZxS1VoUWlQbUJ2eGo2eWZ2dUxIOEhLOUxkREd4MFhBVllnV1JSeE9FQVB1V0dobzNkS2NB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Uc09pV01kellJZHpUOE9ELXBVUG9fcG5Jc2l2QXdPeFpmejhyRGhrT3hHQ2FIbFJQLXpMaElRaVhWS2RLaTNYd21Ia0Zvam5nLVV4MnhvVHFDbWlB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-05-29T00:12:24+00:00",
       "summary": "Japan's 3 Megabanks to Gain Access to OpenAI's New AI Model  nippon.com",
@@ -60,11 +114,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "【Morning Flash】Anthropic valuation surges, surpassing OpenAI; Dell jumps over 39% post-earnings; US indices hit record highs after '60-day ceasefire extension' and PCE data pass smoothly - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQay13QURlSmtudWw4amd6N3hYUTMxWUZuaTNzQmxXZnl4anRKSTlzQ0JEN2VGemFBNTR2VFVjRjJYVzVwMnhjbXJ5YWI2U3JBX1NJNURZUF9iVTYxSnM4a1VRY01MdW5tNHRUdzBnWWFRMzJlNnpLazFLZ2t1Z1dXZ1JwTHlzQTk3aEcyWW1JYWhtQkl0YzVKUnVWUHpWT21tRVk3OTFCaG8yLTFJR3pFYkdIOUtuWUp4S1BhOFpFSUEyQml6?oc=5",
+      "title": "The seller of a $2.9 million San Francisco home is accepting payment in Anthropic or OpenAI stock - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVZIV3U4RlhNZjdoYnFreElHX3VqXy12ZlFPZVRzWkVJWXRXdmVkR19IVEVtWkZhbXZKeHItU0l2Y1FWeXNnT2kwaVVaT0RVVkVPa29uNHM5MlJVMmlIUzU3R3R0YXJPMkRsdzFuc3dFM3diTTJ6QlRtOHFCSmdTMHV4X2F6ZjlLX0hyc3RhMUkyZjdBR2J6cVhFYWg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-28T22:48:59+00:00",
-      "summary": "【Morning Flash】Anthropic valuation surges, surpassing OpenAI; Dell jumps over 39% post-earnings; US indices hit record highs after '60-day ceasefire extension' and PCE data pass smoothly  Moomoo",
+      "publishedAt": "2026-05-28T22:43:00+00:00",
+      "summary": "The seller of a $2.9 million San Francisco home is accepting payment in Anthropic or OpenAI stock  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,24 +159,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic nears $1T valuation, surpasses OpenAI with $65B funding round - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZTBwUXY0WXlZbi1jNFlKajhiLTRFbWFEdEl1cXFWVlgwNWVaelV1eFd5YVFvUWIyVE1McGhncGh3a2QySm80WDMyYk5kMHhOWXdGUzhxUVp2V1NESkoyaUhLY2VlTUlJV3FpS1dfVnFwLVJyZTAwSGI1bWkxSjlrRkFFcDc0Si1yZWlDTExXSW9SR2VfN0RtYzkwY2g?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-28T21:26:14+00:00",
-      "summary": "Anthropic nears $1T valuation, surpasses OpenAI with $65B funding round  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "VerticalScope sues OpenAI, claims AI giant infringed copyright by scraping content to train GPT models - Law Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUTQ5UWVXMG5idE1LLVpMM0ktYjF6c25qRjVpbTJVeDk3OElMYmlyX0U4S0g3cFR5VzBXYVFtVlJrelk4LUtDbjFCZ2RZRU1oRGt2MVVyUU52cnoxajFmNGJKamRxVS1RMmt0VHJKaXlfTmxDdU5ob2JocjZWWkxZQVI3MGtidkxudkVYcllqakNwQ3dIWldjVkFCcEJMaW85UzRxUGtWWWJWTUo5SVg4a1A0UXQtNkttcXBWdG41TUszam1BSE5wRnd1X1diVl95b3Q0RkJUd3FhT1ZVYWN0OUNiaWg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-28T21:13:33+00:00",
-      "summary": "VerticalScope sues OpenAI, claims AI giant infringed copyright by scraping content to train GPT models  Law Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Musk-OpenAI Verdict Shows Value Of Early-Stage Governance - Law360",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVMxN2gwTUVBQlktM0t1LUdzLXFSVWdSOTctTEJaSFZpQklVcU9aQXVVM1I4NGoycmdVTktMQldEODlGS1U5QUVEMVZzU2txcVBQeTdwYklUbVNOSE1XMkg3REVQeUlUY2owZElrQjFmY1UyMHFxMTk2VDRCb1BnMnhnZmhpNEY0ZTZieFd1cW9lUnBWeTBzLS1lU09CcVdidnBKUnBrekJkZC1Pbnkw0gFWQVVfeXFMTWxRU1M3MV84S183TzFmOTQyQnBjNUh6Q0s2TUVkUjhmVEhzSzlNU0dQbTg3Yzl4YzNoZ0tQZjR3M2hNV04tRE8tcWJUZlI5bUpDWVI3TVE?oc=5",
       "source": "news.google.com",
@@ -141,15 +177,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic Valued Higher Than OpenAI After $65B Raise - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnVWOGNEYkJfcENNN0FpX1RvcmhxaF9MSXpreVVLQ0FDOFNILVY5V3daUkRURzBQLUVUOFl1NlowNEN5eFBSS2dUZzNyWHdjV2FIVUc2WjZKSEw2SXVJXzYyOWExMXowN0NHa3Jqb1pVRGViVl8tWTZaQ3RnR3B2dWozWmtUdlg2ZV9NQ016SWRWbUtyTlZXcGhSR2pZYllldmRDUWRMOE41OTZsRFdnQzRValQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-28T21:03:34+00:00",
-      "summary": "Anthropic Valued Higher Than OpenAI After $65B Raise  StartupHub.ai",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Agents SDK: Building with Model-Native Harnesses - StartupHub.ai",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFpfaHRicThHc3pTQnpXQlZuRmd0Y2pwSjN3dlotSWRyN1kxc3JXZDRqSm9IMnk1ZTJyazlhbGhnUVQxXzd2bHhWdWJCS281UGs0cktsR0RxSmlMUWNHbU5nclM2WXdNNWRxMzFnQUpkQVM2SFVVc2UyNTZBdTVGZjZlMzdVME5LMF9WODFXYjIxUFhnWUl2M1hDSW5zcWxiclIyal9qc0U4YnZfTmxnVnpYMkowV0l0?oc=5",
       "source": "news.google.com",
@@ -162,7 +189,7 @@
       "title": "A.I.’s Big Next Step - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0xoeXJnX0dkSHZlQnNoeFZ4UWZhclUwNnRLelRjN21FTUFfS1ZIY1dIWXRfWW96MnptODI2QW94MElCeXM0MHFQSXZlcjg4RU5jY25nOUFwUkdNY1pkNlRIMU1uNHBJN0lYZE1DZ2lKSXIyLXlxUUFvTS1sSE9ZS04yajJYWWhT?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-28T21:01:17+00:00",
+      "publishedAt": "2026-05-28T21:01:18+00:00",
       "summary": "A.I.’s Big Next Step  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-28T20:51:52+00:00",
       "summary": "Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches $250 million Foundation program focused on AI job disruption - The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObUhGMjZxNDJ2RGJXeEF0X1h2WXRhOFA5QmJSd0pYRmpSUXVKak9Ib2pfa0x6UVNGaTMwNGxrRXJqZlZVZl95WVNWVmNjVE45WENqNTFGeTQyNjExVGRfaWZfSEVOdXdpMERtR002MHhmMWxjOXNBbHZhcVhudTlXaWNMRkxhRHo0aVk5WkVGb1BJSFVrZWRLZmVzcmVhXzRNaHozczEwOVVjWV9hZWV3X3l4MS1vR2s3NUp0U2NIRE05R1JhTkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-28T20:50:09+00:00",
-      "summary": "OpenAI launches $250 million Foundation program focused on AI job disruption  The American Bazaar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Hits $965 Billion Valuation In Latest Funding Round, Surpassing OpenAI - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeG0ydlJQbjV1d01WTjJBUGhGNWtMYnBtZVB5M2ptOWZZU2dFYzdEeWt1UGlXdXBQdEFkeU1vTUNPZmg0QVhaVjA4VVNiVlBiMG12bDFwQWdmY1RaTjFGUGx2dkg1b1ZaNm1yYmZBbEVTNWl2MHVidk1HSHYwZDB1bXZGd0pmalhjUUpoZHN4cTNJY0JkVldTQnZKWkE5c0ZqS1RWQlZfSDAxay1qbHFpbmE4WkhhTVU5Skx4NDZhblRtSlV1MDQwWmV6Q3NlcFNYOHdJNk53?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-28T20:48:39+00:00",
-      "summary": "Anthropic Hits $965 Billion Valuation In Latest Funding Round, Surpassing OpenAI  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Rockets to $965 Billion Valuation, Topping OpenAI in AI Showdown - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3a3JRY0JjY0VPalNrZTNGWFVXTmNodEVCLUZEaUFneS1Kalo5UlU0QzZJcjdYN3ZFX0tlUVlMalJ0NjNZRV82c0NjSnFVMzg5OTQyZ0JjaDk5Zk5LMjQ2NE94VnQxWnRpcWpvUlJpVVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-28T20:33:00+00:00",
-      "summary": "Anthropic Rockets to $965 Billion Valuation, Topping OpenAI in AI Showdown  WSJAnthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round  CNBCAnthropic Tops Ope…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
