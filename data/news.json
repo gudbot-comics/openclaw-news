@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T16:57:45.230725+00:00",
+  "generatedAt": "2026-05-30T18:03:23.318419+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -56,15 +56,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-30T14:01:00+00:00",
       "summary": "SpaceX, OpenAI and Anthropic Are About to Test the Limits of the AI Bull Market  Yahoo Finance UK",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT can now manage your wallet and bank accounts: OpenAI introduces personal finance tools - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU2NWcWpJQUZpamlFS0VfdlpPWS14d0c4b29reUZ5dXNGVFhqaDhzNk1TaWhwbGFkYTFaUC1tLXZpNGNLZ2RXbVNaNHFhY3hOdjVrX2I2U3J0WXBFSkpfNFRGZjJIYjJNOXNvaGU3YmQ0YjZ2YWtEd2s0VDY3YmFNNFdINkFKeWd2cV8wMlBqaktvZlVvN1NKWnRNMks1V0p4dV9zX0xjVXlaMU51bFJrMU1uRzNjaE91clFIanZmVGhWbDNsWXJiaktwNGFvOE4tM2R5Ug?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-30T13:51:30+00:00",
-      "summary": "ChatGPT can now manage your wallet and bank accounts: OpenAI introduces personal finance tools  Notebookcheck",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,15 +132,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "AI for investors - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlRORFR3SnRVTDhTdHcxckVxM0dHVGNCdkpNc2JIUXRzazRQOU1IUjlHcExJeFZyVGZLWkppWkotR3R1ZmZua3pTOUF0WmotT2t0ZFhVMy1KUzBqUUlMbkZCRVlDX0Q5UlNfaTgxWENaYnNOcnZNbUFzd2FQYlA0ZzVpdWtzb0FlY2lPYkdqVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-30T08:48:03+00:00",
-      "summary": "AI for investors  MLQ.ai",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Anthropic surpasses OpenAI to become world’s most valuable AI startup - Qazinform",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3c3ek5Ob25KbTY3YUE5V0w3eHpRLUNsU3dnZHN2OXg1QUdVNDMtNEVWNWFTQ3ZwQm9lNXFxNlNyeHZwMXUwMnJrQm9Nekl5MVJPTF9seTZzZ00taHRGWTRmWjBXUXpaTDlmZXpXTHpLWTJXRlhLdGVyQ3hQSUZMNkYzTmh6SWhYWGZORHBPN2s4YmFjWjg5clo4VdIBmwFBVV95cUxNNVFVRVVfTzIyb1VmSG51amg1dlNQeENfem9RckEtd0RseTh1djhJX2JuY1dGVFFCX3k4MmcyaTFWVEhHTzZ6MTJQekFkSExlblRZT3R1aGlXOFJaQmVyZ1ZnN3lfTFY2ZDJNUkJoT0psYzVIZmljNzREZnJjWnk0TElVc2Zzd3JUdVp5cXhCMTY0WmhxS09VdENTYw?oc=5",
       "source": "news.google.com",
@@ -204,20 +186,38 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI gives Japan banks access to latest model, finance minister says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZdWNaWU9ucGpPRUo5S0FQUWVpSkFfckpreGtOeDltVXI3Ri1EMlhFYm80RXJPVFlpQ0NGdlpSbWJfdTJmcDBSeXpqSnF0eTRiRzFPVUhtTFZRaVo3SGNONG85eUpWdEU?oc=5",
+      "title": "CSUB partners with OpenAI for new first-in-the-nation program - KGET.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVVhwdmF1M0IxVWxSS1NnbFRtRHBXcnlsdVhqRDJCWEVNOGs2VHNLMDRGWWFfWkRqV0paa2JqYVJIT3ItQ2M1SDNjZlFjeGNzWW5FaDIzNWJMckxMdnFZeG5XSG1lRjg0blBRaDRqNGtrNlI5YlpqVjduVHBGX2tDS0Y0U0hLaUpkNmpRYTFVYks1aU5FYUNXVmxNdmpNOWFDN0tOOG5B0gGrAUFVX3lxTFBLOVR6N0Z4WEpiUDQ3dk5KWkdjcDFPUnpmcE5TOU9aTzl4SGpVNUtJNGFDV0tkYXZQS3QtdGtzS0wwMVREcjc5ODhSRHdEaFJuV29SakdNaW9OUWtLT0tiTldJeW4yeHUxczExTEFvOEpBeGdTSFZtU0E1dDNtZXAwSGttRUdUeWROS0ZodnFYMExJbzhPZ1oyd2UxeDE0b1VGeUwwU09GUWw2VQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-30T01:18:45+00:00",
-      "summary": "OpenAI gives Japan banks access to latest model, finance minister says  Reuters",
+      "publishedAt": "2026-05-30T00:23:12+00:00",
+      "summary": "CSUB partners with OpenAI for new first-in-the-nation program  KGET.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Adds Personal Finance Tools to ChatGPT - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXJsbzRoYkxpMzhfanY4UUhVdHlyMmpteTZGcUxjV0x6cTNKdE1OQWxQTC1FYkl2NUVfcFp0NjEzTURmU2FtZUptUHN0eTFDWUlPdlZ1VUhiU2JTUi1SelUyNUM3ay1ndWtJTjEyTXVIUkFubF9Ea1V6QkhPYXRmV0MzS1FwOFlpTTdYZEJBMFE?oc=5",
+      "title": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSTNBQy1IOXBRZzBqNDZ1ODRGeEw4SjZnT3l0cDFPQktOTWFNQTFWX3ZEbHF4MkwtTzVwY2drYUdCTWlGLWRfMUFlTHUtNkZtVDUxRmVKb0NOak1ZTEQ5anFsbHRPNDRKY2dlSi1R?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-30T00:36:00+00:00",
-      "summary": "OpenAI Adds Personal Finance Tools to ChatGPT  Let's Data Science",
+      "publishedAt": "2026-05-30T00:00:00+00:00",
+      "summary": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches Rosalind Biodefense, offers federal agencies early access to its life-sciences model - R&D World",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTVKYUhiTVVrNlJSUnBlelFlMDFMZklSWWxSdkJhUG5heEt5LVFMV1FDZlM0MHpnbGlxX2J6enpnZVQzUHpVMTMyN1Rsa1dBMTF5bnl4RUJReFZBSEtKNGZtbjZweXZJRFI4QXV2M0NLcXhnTk1hWTF5aTc3ZEExX0U4RFBwNUVZbEV1a2RBVmhWQ21oaUpJN3Q2QjYwQ2JlT1pyVHE3YU51angwSEtna1ZfWGtYbEdweHhjNDhNZExKMnNleERHQ1ln?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-29T22:09:47+00:00",
+      "summary": "OpenAI launches Rosalind Biodefense, offers federal agencies early access to its life-sciences model  R&D World",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic just topped OpenAI on a major metric ahead of rival IPOs - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMC1FeXhHR0kyOXBiVVMtazFFX2dVMWh3Y0pGS0REWWhYQldmVEtVN0pRVGZBMEh3a29oUWJhRS1VSkdmS0NOU0VKSHdzZnZ1UWQxbENxTDdDakR5UnVEeVp1MGgwc3paTXoyUkJpRFhvU3kzckozaUlQV0doenBiRGRJenNlN2trX0NyOUEwMTBsV2ZmTFlKamFnYnRiYmRzakJRdkdQN082VF9kTlJzQVZR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-29T22:00:21+00:00",
+      "summary": "Anthropic just topped OpenAI on a major metric ahead of rival IPOs  Fast Company",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
