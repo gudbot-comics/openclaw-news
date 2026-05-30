@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T21:37:40.937242+00:00",
+  "generatedAt": "2026-05-30T22:36:06.776153+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -20,6 +20,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-30T19:53:08+00:00",
       "summary": "San Francisco home accepts OpenAI, Anthropic stock as payment for $2.9M sale  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sky-High I.P.O. Pricing Isn’t Great for Real People - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcjZxSTJ3UHdVM1pzZWVfZ2ZoT05GY2d0cFJqcm52aUlTYUN1Ri1iS2x3STh4c2pyRjdQbEk1bEZUUjNrQjExTnBOODlrMkRqR09SZ2c5MW44akNDdXdNSzU2SXY0YTRNR2wzaEU3TFFkSUpnSUFxOUhwZWVVOWh2cXF1d3l4eGM5eWRv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-30T17:26:00+00:00",
+      "summary": "Sky-High I.P.O. Pricing Isn’t Great for Real People  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -204,22 +213,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBSTNBQy1IOXBRZzBqNDZ1ODRGeEw4SjZnT3l0cDFPQktOTWFNQTFWX3ZEbHF4MkwtTzVwY2drYUdCTWlGLWRfMUFlTHUtNkZtVDUxRmVKb0NOak1ZTEQ5anFsbHRPNDRKY2dlSi1R?oc=5",
+      "title": "This is Microsoft's unreleased AI super app - Sources | Alex Heath",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUUwLUpDOHdUdUVhR2hHczZ5RDF3RE9iTkdlano0bEloOVFIWnhuUWhqX0JtZUdiZEJNRlNaNENhWVI4aFk5UzQwbjFLY3FxVTJjNGc5ZHlweW83WmpnS0ZkMGJhUVBaaE40UmVfX1cxWWJ2UENDZEdmWVctWVZBcy1R?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-05-30T00:00:00+00:00",
-      "summary": "The Billionaire Coding Genius Making the Tough Decisions at OpenAI  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches Rosalind Biodefense, offers federal agencies early access to its life-sciences model - R&D World",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTVKYUhiTVVrNlJSUnBlelFlMDFMZklSWWxSdkJhUG5heEt5LVFMV1FDZlM0MHpnbGlxX2J6enpnZVQzUHpVMTMyN1Rsa1dBMTF5bnl4RUJReFZBSEtKNGZtbjZweXZJRFI4QXV2M0NLcXhnTk1hWTF5aTc3ZEExX0U4RFBwNUVZbEV1a2RBVmhWQ21oaUpJN3Q2QjYwQ2JlT1pyVHE3YU51angwSEtna1ZfWGtYbEdweHhjNDhNZExKMnNleERHQ1ln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-29T22:09:47+00:00",
-      "summary": "OpenAI launches Rosalind Biodefense, offers federal agencies early access to its life-sciences model  R&D World",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
+      "publishedAt": "2026-05-30T00:17:09+00:00",
+      "summary": "This is Microsoft's unreleased AI super app  Sources | Alex Heath",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     }
   ]
 }
