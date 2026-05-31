@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-05-31T16:47:24.217700+00:00",
+  "generatedAt": "2026-05-31T17:46:59.706290+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Gavriel Cohen found his own code inside OpenClaw, so he walked away - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52WW96MWw0UVpJUEl2bDQxSVRMOGhERFV3bUFNaWxHSmx5SmtXSG1ZbGFvVWdBM3oyS0cyS2d2SW5fbXl2a1E3dm9BcHlzOE5kTnJQTTQwY01rRkRkRVhtUXBMTTBtb3M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-05-31T17:02:15+00:00",
+      "summary": "Gavriel Cohen found his own code inside OpenClaw, so he walked away  The New Stack",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "OpenAI Robotics ramps up hiring to build general-purpose robots - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81YUlRekFHR2xHeEFwbkJyWk1EMFZhc2tFWUIxV0FiQjQ4d211MkVSU0w0WjFqS0JXNDFyLUN3c3ZyVmVKZVdZRHFHSVhPbXdFcW9Fa0Ita3lzSU12dkUyNWotc21fY3ZYbHpxYg?oc=5",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-05-30T15:00:48+00:00",
       "summary": "Anthropic Releases Claude Opus 4.8, Surpasses Value of OpenAI  Thurrott.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Updates GPT-5.5 Instant for Response Style and Quality - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHBqOU9jRS1xaXNpQ3dQUEZiTEpyTzFqZ2dsQjF1bHRvZkFYMVRyMnhzVVBReF9UdWMySDJYZzFDOExWczI4REJEVjZqVzlIcmd2YXJhYXNraXFYZkMwRGMxTmVTTGd0eTgzcmdsQ0pnTXpaSmg0OERWZlZIaEtJdUFXR0pCZUVRZF9WblhyT2FQYXB5RDh4YUVzcnpObEloaGhabUpGUXBUYVVI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-05-30T14:15:45+00:00",
-      "summary": "OpenAI Updates GPT-5.5 Instant for Response Style and Quality  Thurrott.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
