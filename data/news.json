@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-01T23:18:17.096297+00:00",
+  "generatedAt": "2026-06-02T01:39:42.319198+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT - The Durango Herald",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMjBKMGhDbTY4R0w4WlJ6ekZ5aF9tVklTclB0Ri1NcGVQUTJxazlrTFktOEZMYlJYTzNzXzRvNFFTRVdTRm93QllrbkpNZGVyZTZ3bkE5OW5samFMeDc2b0xPZjRrRmlKV3Zfd0pQTE1LTjdkQU1leEFhb2VuU0tIM1FSNy10d2RaYi1SU05lXy1DUVA1UHB4X3hGRFE0cnR1ejAwNzlyYU9rczdWdUUyX3I0YndDZXU3V3c0ZXVLXzdfRjhBXzhFM0dBRno?oc=5",
+      "title": "AI IPO Odds: OpenAI vs. Anthropic - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeWNtcGhWQzlyaXdRMzAzcldyZ3NRcWpRckRfRUo2bHVoaWNmcTI0ZGlMWHMtZFBmcG1JZHh0RFF3MlpxcjN3T25CM0d1SHBQNXEzdHNuUzk2TFhjUjdEay1RSHJQY0ROS1lkaTg3QzJqTnNJUUlGOHcwVGxVamtzRlozMEtLd2FUTm1wMFhjV3FhMEk?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-01T23:01:03+00:00",
-      "summary": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT  The Durango Herald",
+      "publishedAt": "2026-06-02T00:02:12+00:00",
+      "summary": "AI IPO Odds: OpenAI vs. Anthropic  StartupHub.ai",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -18,8 +18,62 @@
       "title": "Anthropic beats OpenAI to blockbuster IPO filing - Mashable",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PcmdOei1fUUN3YmpSaHhZY3NkTHluRXgyOXJrYmpXSXF1NXVoY2lOeXVXd3JJbjYzaUFTajFFVmx0RnFzMXZlOTlsSk53OWd5LUc1OUctWllWOWVad21KMHVVWjd3c3pLc1MweUIxLWtoci11MUVr?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-01T22:52:30+00:00",
+      "publishedAt": "2026-06-01T23:59:17+00:00",
       "summary": "Anthropic beats OpenAI to blockbuster IPO filing  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida lawsuit accuses OpenAI and CEO Sam Altman of endangering children - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnRneFRWckpKelZ1MXlBdm04NzNVXzA3aWw2QWF2YXdfWWpaRVBFWnEyc0w4R2ZmNUNMcndOVlcyUWxTQk11eTRvd3lmUXdaWV8zdjBjbnBSZ3dQXzlwYXRsV1c4TlU1MFVkUXJtb1hja2t0VWNQU2V4RUZrWU5wZS1hNlJoT1VfUDBnZWZ4d3UtakNrX21CYjFFZ1B6TGthUExzS2FrOVowSGV6bzFicU9Jd25WY1c0V0t4dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-01T23:42:36+00:00",
+      "summary": "Florida lawsuit accuses OpenAI and CEO Sam Altman of endangering children  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "China’s platform economy is an AI deployment engine. The U.S. is still looking for its own. - Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcE5QYjVXYU5yaGlod0Jnc3YwSGVJR2JZSjJIakhvSEpoblZLM0NpRThOM0N3RWJTZmpsUzJWSFdyYlgxNVRsZHJPbnRrZVZCeHk0TW1YcGtvcm56U2t6X0dEVmhoUHhGaGNXRHNXZnY4Sko0VVdSUHZzaGVMMFVaQW04dkZTS1A2dHhKRlFVVFNqTXREYWtudUVGZ08wQ0RHa0FLdTdpNnNmSDA5MVlXSHZja0lNYU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-01T23:40:37+00:00",
+      "summary": "China’s platform economy is an AI deployment engine. The U.S. is still looking for its own.  Council on Foreign Relations",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Florida sues OpenAI, Sam Altman over AI safety issues - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sdUFhbGhJMXk2TjFuX2RvTlRxY3FyYUN3QllRU0xoaDRRMTlvY21OaXpXOEhCVTJxNVJ5TG5WemQ3ZU5SWWFONW5hOTFJQVl2Sl9qZi1VVldQZzg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-01T23:35:46+00:00",
+      "summary": "Florida sues OpenAI, Sam Altman over AI safety issues  Fox Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida sues OpenAI and CEO, accusing them of putting profit over safety - NBC 6 South Florida",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaEQwTWNSbDdJbFpiU2FnVmdzazVQVDJqbk83TFZ1ekJ2dS1jVUVRTm1RZWdVWGVSbDVBLVB0eFpZMFQ5eW9oRXM5QmFpSXR5cExHLTVnUldCTzlZcnB1SmJiTklwY2NEd3dlWmxVNXlmZ3l3QmxvTTJUM0tDTldmbV9vUFJLeHZoYVRwelVfTTBqMzd3ZDVWUlpRdk1BZ0xvTlU4d2NDa0pLOHpyczFJM2Z0aEt2akJqVThFMmxwTdIBxwFBVV95cUxON29EaTRJT2owLUt2T29jOTk0SnFjS3lpa0Nadm83bTQ2R0hHZzktSXlpNkt6ejladnFQeHVmNGNERm5XaG5tbndHcTdZRU54SGR3SDBlR0pQQXZGWWd2OXBzR3M4dTEyRklESDJ0bUdVUDZET1RnTmJhZ29xblRGQW53TS0zTjI5ejBVZU9rZERaWDF4ekRZU3U4ekZhcnAyb3hFNWFfbUxDMWloSlVwN2sxNmo2azM0WGhickkwS0NYcGNQRkFN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-01T23:21:47+00:00",
+      "summary": "Florida sues OpenAI and CEO, accusing them of putting profit over safety  NBC 6 South Florida",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Armenia launch AI education program | ETIH EdTech News - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNczlUYmVWNkhJUkJVNXU0aWZTbTRLeGYzVkplcEJsUFNzZWxhTzRTNVVwVVJIMUt6WnBLQWRKeTAyX2xnaXY3MHVXcVhaTVhsQTZ0N0VIaTRyVzFMSmlNeHRiejdZUHlEY09fdHFmZ0V3MU1NcjA5bUh3OU9wT2dPOEoyaHJaSS1QUnBLMlRiMkJ1WHE1UEZidkNuWU44ODBybWt4UjZCRnZXVEU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-01T23:16:55+00:00",
+      "summary": "OpenAI and Armenia launch AI education program | ETIH EdTech News  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT - The Durango Herald",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMjBKMGhDbTY4R0w4WlJ6ekZ5aF9tVklTclB0Ri1NcGVQUTJxazlrTFktOEZMYlJYTzNzXzRvNFFTRVdTRm93QllrbkpNZGVyZTZ3bkE5OW5samFMeDc2b0xPZjRrRmlKV3Zfd0pQTE1LTjdkQU1leEFhb2VuU0tIM1FSNy10d2RaYi1SU05lXy1DUVA1UHB4X3hGRFE0cnR1ejAwNzlyYU9rczdWdUUyX3I0YndDZXU3V3c0ZXVLXzdfRjhBXzhFM0dBRno?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-01T23:01:03+00:00",
+      "summary": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT  The Durango Herald",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,11 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Top five moments from CNBC's interview with OpenAI CEO Sam Altman - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGJMTkFQNlgyYnhua2U4VGlhMHF3OU1LVmppaDRRN0FLVG1LRldEZmEzSzhySmMwMTliM3lXWWhfRUdmODFZWGJ6c09RU2ZuZ21HYkthNW43ZlpVNTV6OFJLZ3R3SmZWOXA3Ml9UaGYwWWV5REZvMmF0aEh6MWU5UkNEd3lPN3Nxd2l1bFVWTlA5bXJiM2k0a1ZB?oc=5",
+      "title": "Florida attorney general files civil lawsuit against OpenAI, alleges company put 'profit over public safety' - WFLX",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZVo4OG4xSWs0VVFIbjM0Zkh4UGhHT3Bnb2s4dEF3eFJsUjc1YXZsOU4zUlZYQWl3cldwZHhnN0ZXUlNVUmdPQUxfOUxONEd6MDVmUTVINTRVU0I2aV9JTzd4WWF3TnA0T0RiTzYweE9VUjZyZlZ2QjNQR1NId0dabXpaSXhWU2sybWlXck9wdTd4dUlXWlNxUXNqOW9hM2N6OE1WUVZKeUZYcmUwNklaT1hMUzIwcFdxVmNZeHV6Skp5MWtJUndrRTFOdmtKRHVrTVc4ag?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-01T22:32:25+00:00",
-      "summary": "Top five moments from CNBC's interview with OpenAI CEO Sam Altman  CNBC",
+      "publishedAt": "2026-06-01T22:22:52+00:00",
+      "summary": "Florida attorney general files civil lawsuit against OpenAI, alleges company put 'profit over public safety'  WFLX",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT - PinalCentral.com",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOWExBaUp2T2lpYlBhemRiWTJDVDRtcDM1WVdTVEdSYUQyU2RSVGUyV3J6Y3lWS3VYa0hFTnVDZTlMaTBRT05UMHFjd0IzT0I1NWJGSTVnOEZSUi1hRVVFQktsb1RXbmJPRFlrck81djZxNnNzNHNkMXliQm5PLUlkdUFRd1p2WFg0UzZXSDNmWHJjVkI2ZFFMRUJodHg2MkJNVFl0bzdoUDFieDNxLXJGaHZXOVhHNU9QTkZFcndIVjNPTkZIckVYcl8tMGNWdFdjVHd2a1EzQ1dXTGZONzNjNGN1QmZJY25OeUZPMGNDWmxYMEp5RFNEVzhKbnYyWm9nYXhuQVQ2RHVObFFoV1E2VmwtZjQzQW5RVnpfNDhn?oc=5",
+      "title": "Anthropic files confidentially for IPO in race with OpenAI - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTJDdGN3VlpwdDgxelJabkFXYUcxakUyekl5RWI3QmVnLUc3ZFJvQlB4VHRaa2lwNU5URHRuRUhGYkxLOTFjaDJPMDRsM0NLSDNkNjNzejRVbWNIWHBobklMUkNMaVdEenROWlFFYUNHZDB1c0pyd2k5UkIwTnBrdWNrekpIWHc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-01T22:20:34+00:00",
-      "summary": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT  PinalCentral.com",
+      "publishedAt": "2026-06-01T22:17:00+00:00",
+      "summary": "Anthropic files confidentially for IPO in race with OpenAI  The Japan Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,6 +123,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Bernie Sanders unveils bold plan to hand Americans half of OpenAI and Anthropic - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS3NFZk5uNEdLdnNnX1lCYXYtZFdnR1lVZFRGaGRPRTJSd3c5czBKV1ZOak5TR3h6Smo3Zk8zMWhtYUtsZHREV2p2MkloZ3ZkeEQxZUI1R08tS3pBZkdtU1BkTHc1UHJBNHRfaGxUWHY0YVB6STVWTVhXV3RHV3NpLTc0Z1U1WENrbEVsT09zOXlmc1p4bnpoOEUzempDRDJjRi1zY2trRGpXU1F6Vi0teFlHS1VGWlBIT1Zkaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-01T22:03:27+00:00",
+      "summary": "Bernie Sanders unveils bold plan to hand Americans half of OpenAI and Anthropic  thestreet.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI, Oracle leaders praise data center south of Ann Arbor, pledge $10M to local center - MLive.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVzNWdHNNR0JxRldFakpuY2w1SlhVWHB0LTNDb0ZOZ0VxTmg2UmwxTEFmQk9yY1BWOUZzSFN2NlFWX1piTGdFdkNNMFBvc1lfX1dfZGNicDRfemh2MUIxNFVVWmFCR01mcVBxaFJDWWZWRFpjY25mUVRWV2V4NUhlaXozQXlXTnhRMEhmdGNFYTBmLVdNeTNsTF8zeXFybWpNSzZhU25sSDdRMGdIRmljemE2aUUzcEQ0SHlORFVKdXVDWDI0c1FDZ3JZV1hfbTZoQVHSAeYBQVVfeXFMTjBqMk1aOVItTTZ6NmtsUDFBaERKZGIzRDBKX3J0UWpMQnBvOHBieHlFcE1icTVNQzRkV0xMdDUzUTMyWHZUZmlybFdmVjhHZUYyTHM3ZnV0SWM5WUZiVmhoTXNBM2JHN3FZWVdCYV9pMVl0LXpvZE5lVVUybXBuQjN4eENIU01MeWdYVUNmS2EwVk5UUHV4ODBlMnVpbGtsM3ZNWXpvSnBIMlNMeFROdlczb3hJb3FiWHk4em9HOUhHX1pzbloxNWZ3U2hYMnFfSTlRdC1xRHllOVZZanFOY0VST2FWb2c?oc=5",
       "source": "news.google.com",
@@ -78,20 +141,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Florida attorney general files civil lawsuit against OpenAI, alleges company put 'profit over public safety' - WFLX",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZVo4OG4xSWs0VVFIbjM0Zkh4UGhHT3Bnb2s4dEF3eFJsUjc1YXZsOU4zUlZYQWl3cldwZHhnN0ZXUlNVUmdPQUxfOUxONEd6MDVmUTVINTRVU0I2aV9JTzd4WWF3TnA0T0RiTzYweE9VUjZyZlZ2QjNQR1NId0dabXpaSXhWU2sybWlXck9wdTd4dUlXWlNxUXNqOW9hM2N6OE1WUVZKeUZYcmUwNklaT1hMUzIwcFdxVmNZeHV6Skp5MWtJUndrRTFOdmtKRHVrTVc4ag?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-01T21:56:15+00:00",
-      "summary": "Florida attorney general files civil lawsuit against OpenAI, alleges company put 'profit over public safety'  WFLX",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Anthropic’s First-Mover IPO Edge Set to Widen Lead Over OpenAI - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUVETktsVXM4Xzc5R0h2d2IwWmlCd3FkWV9SSDJUZkhvZEE0SlEya0t0cnZPM0hjeHgwU3VxTUREMVFQT25hTENMc0hWNl95Y2I2YjJYVDNfQjFyT1MzVEJQU2lpeXJ0emxZTkliZXJxZmlWcFVNWm5QV2J0eTlwbFBnNnAtcmNBUkY1YWJ4c09ZdnphTXJDNGh0X1FoM01oNlRHaEx1d2F1UEVtZnVuSXJicw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-01T21:55:52+00:00",
       "summary": "Anthropic’s First-Mover IPO Edge Set to Widen Lead Over OpenAI  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida's Attorney General sues OpenAI over safety concerns - wtsp.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMEFPbl82ZFdoRC1FYzc0eU9wNTVvMkRteEFZQnExemRtWmZzcGx4aThNRWRxVlZiX2psTU5tYXVWeXZFRXdkWkRWV0FhOUNRbVFQX2VTR1pBbGFFWlZmN2hxaUUxOTFyTGNubTlCcnlOZXE5V251NmE3VlpuaXRmOGFKU3JMTHhjVGNVSHNRYjhleVROYjRhMmxMSFAzbDFYM0s4WnJxUXFOblVRSF9YUVBLdXFZQVdZcDB5UFc1eXk1ZGYybXdzbjd3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-01T21:52:00+00:00",
+      "summary": "Florida's Attorney General sues OpenAI over safety concerns  wtsp.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,20 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "A Stop AI activist is standing trial after blockading OpenAI HQ last year - Gazetteer SF",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU1hpRlEwOHBEQUQ3S3pUR09fb19tMjFESWdYUnFIejUzbmtzWlBUcHVDMlJUUlFIa2FlYms3eExZY2dxaDVfbGs3YUNCem1ybTU5WjlueTJLMXNHTGpJX2EyWURsdVBkbGUydjFOQTlQVWc5Q3QxZVNlYTBlWVRRTGZNMXdjZkt2UnA4ejFpVVNzLWszb0tXZGgzXzQtdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-01T21:50:00+00:00",
-      "summary": "A Stop AI activist is standing trial after blockading OpenAI HQ last year  Gazetteer SF",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Florida sues OpenAI over ChatGPT, points to 2 deadly shootings - FOX 5 Atlanta",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnVJOEROZFdtSDJNQnpOSjJ2NzN0WDJZOTJ6RG1RSU1wc0NEZ2dtU1FyNkxMXzFEclJxME5rZG8tWmFqbF9GVHBwUzVwNFNueXRJaGgwczdvQTVhMTVkUE9BNDJNZklsbkZhUTBpU1RfZ1dIRTVhVWtKUkxlRVVMVzZ5MkxoZWNqaDZmZ2JTNTZOOTRHVVdwcmlBU2FFcDRpWnUtbDY0cGY1d0thMkZ1RDNn0gG3AUFVX3lxTFBaOUkxeXY0VVBsVjlxZy00clZGNUVZa3IzaXh2ZTZFb2VXNkNpUU85Tk8wcjBWdEplQ3JwakJMTVUyc1hsZE03cEJmeXFMSnBNLTlFelFOU015SS1wc0NEczNPc2VPRW9MOHVTdy1XTXVmN29zRWJNRWdEVEFjVVJ3SnhPeVczSHBDeWhUb3FLOGwweUttaTBQVldCY0lENURIZ1VWckVZbFFfaUZvZFZmSXVXS3p2bw?oc=5",
+      "title": "Florida sues OpenAI over ChatGPT, points to 2 deadly shootings - FOX 5 DC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa1k1WlJ5TE81Q3FaVzNjd1BYeVhfUDRORWpuUnlzdzFKRTVDWkFiSUhrMThMQkZob3ZtV0F2NGE4cmIxZHBBWlp5V1l4dnVUREVHTG14QnpiVjByb0VpcGUzNjhmTi1EQ0k4NTVta3JwTEZFU0YxQnhKZHZac2huOUJaVHhRbmkweE5ESHlaM0Y0MllqenptSnBXYzFrRDRadFd1SFBjLWoxY2vSAbABQVVfeXFMTXVjZjBGc2lnRzBLSVloOEhZWHppbTNmeERfUzFZajVIWFN2MVZWZFZyYWpPUDF6emlGOU1HNnNWeUxGQzBfUzJkOTQzWHFWZnhyZTh2VkZpUW9oV3h0dUhCbjQtTTJaMFh4aHBpNzk5Z0s3VTl5SUtZRVFoX0tJWFdQNGlDSzBBV000NmdCUEtIOFlPTlFha2NNQWg3YWJrczdCa0RoRW5SS2FCNDFxSmg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-01T21:48:33+00:00",
-      "summary": "Florida sues OpenAI over ChatGPT, points to 2 deadly shootings  FOX 5 Atlanta",
+      "summary": "Florida sues OpenAI over ChatGPT, points to 2 deadly shootings  FOX 5 DC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -137,6 +191,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-01T21:45:00+00:00",
       "summary": "Florida Sues OpenAI and Sam Altman as Criminal Probe Continues  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGlob3lFNDdEa0xBaXlBQWh4U1JBWmVuZy1XTVU0a0xqUUpnWnRlckRMbEVNM3k3S01DVE8teUQxX0lJOWVvQXZMc3pFWmpfNFVVcUNUbDBqNnZpN1kyNHJ6NVBhZHIwMGxNMWtjaWtFTFhuN2V2QkJpSTk5aXBsTl9iT2paUnNSYVNTZURqdlNFMzhWVzZFcw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-01T21:37:00+00:00",
+      "summary": "Florida sues OpenAI and CEO Sam Altman, claiming company concealed serious risks of ChatGPT  AP NewsFlorida sues OpenAI and Sam Altman over alleged safety lapses  NPRFlorida AG sues OpenAI to hold …",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -155,69 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-01T21:34:30+00:00",
       "summary": "Saline data center celebration held by official, OpenAI  FOX 2 Detroit",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Florida Sues OpenAI, Sam Altman Over Alleged AI Safety Failures - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWJ2TUZyRUFsSnFVN0h2RnpQVFA5Y2QwNVdDMWYyWXlpZzFxOGNjRlloTGtxbXB1WnlJZG1WejhibllPTV9LLWt2VzloemZxZ1dqdWtCZmp6Rzh3bXpnWmhZbXpTNC1DZnlVeExGUk4xWDlQcnJSVFpHWVZOaU5ncDJ3enVKakxYOHRKTlhLQnJFaFpEcDJEZkNzaDY4aVN2MmNySFl6N2lYc3RHSkNTSmg5a2MxSV9aMWVQcDF3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-01T21:31:20+00:00",
-      "summary": "Florida Sues OpenAI, Sam Altman Over Alleged AI Safety Failures  citybiz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI models and Codex on Amazon Bedrock are now generally available - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFExLVhSRkhMRzhlREdBdzlFWkxMRkhPNk9uc1NTa1R3cTZIMldCSVJzN2Q1SmItV3hpN1lCbWFRWGdLQ1lTYTU3TFl2d2R0UllHdlU1MFJmMC15cjJQVGZRdThRM0RuQzItLUZ0TGpta1dlTGlqOEw4UzY4R0dqaXRKTlA2d2Zvc29hajQwNUd3UnphbjlLNDR3cGV0dGFiMmVkanFWcHNBbnBnMXByNFBwTmh6UGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-01T21:31:12+00:00",
-      "summary": "OpenAI models and Codex on Amazon Bedrock are now generally available  Amazon Web Services (AWS)",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic files confidential IPO paperwork ahead of OpenAI - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVlaNmlWY0lLTjdPZTJCX3pGUGRDT205NXRXZ1FnZXZzNDl1R0cyRDN4bGRSMjR5NXdFZFBIdGxmOXhHR05oUTN5STFpV2xHYkVuWjlremxkN283SlVJQUlJa3hwR3VnR2NGczQ3bGxENnp2a1NWYmxtUkt1QVVGY0hXcFloZmM1M1JJYUhrNW9tbFdxUzNjOEtjNUltd3Z0STRtUXJYdk9BSjZLZDJYQ25fZEZaZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-01T21:30:17+00:00",
-      "summary": "Anthropic files confidential IPO paperwork ahead of OpenAI  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Florida announces lawsuit against OpenAI and Sam Altman - WFSU News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVE1uUXJmY0FJUFpkbkxSS2Rya1RZRXF4RHROYUhRUlRSTC1DMzV5TmtYTTlSc2w0T2l6My1ZdC14d2RmclVPQUNpYUR3eTl6LXhEWjZsMXNwMy1zQU5zSXJRR1M1WDZFcWVJM0ZjSVM3cWkyTy1CQ0l0Z3A3alFyTVVCZkJyRkZQeWNsUTlfY1RDQk9iekNiM3AxSHNQa1VY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-01T21:29:00+00:00",
-      "summary": "Florida announces lawsuit against OpenAI and Sam Altman  WFSU News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Sam Altman says Michigan data center a 'huge bet' on AI - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmF3UlpnZVVwQWlkbnFWMXFpZEVjU1pBcGcxdWpYbktLcE9jSzhPWHd4TUhKTjJiNzR2TGVWcVYxYmNRZFNjZDFjVzk2YzYyMVQ5bVRydURwdURBRnMydDNCLXNjeVVla1RrbHBuNzA5ZWtYdHM4Ul9nN2FsYXhHekNQaFpTaVBJUjRhdFdXWGhoX0g0LVFKczFsUzlEd3g4c3FnV0dsbHBaOWRSNzRwYW4tdEdMR0k1bGM5UEVWU2g1Q1BnV2VTdUd0Q3dPaVVnNV9iTnNtUk1lckVKTHN1dkxfMHQ0X0RSNDB1LW1KMmg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-01T21:26:00+00:00",
-      "summary": "OpenAI's Sam Altman says Michigan data center a 'huge bet' on AI  The Detroit News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Oracle, OpenAI 'Barn' data center breaks ground in Saline Township, additional community investments announced - WXYZ Channel 7",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcVZndGxKeXlFNDJBa0stbWllcVBkZzRKNTR2aGVmSEhfZFdFUlgwXy0xMk0tWkVycDNRM3dtUFptRnphOC1oWW40ZlBkakJJa1pfSl9sMjdMMExyTGhmMml4LXB2bnhtNmZoRDhtMG14a0Y5TXRPSGc1NlVKTmVCZ2RGZnJqcHpvZ1NyRFA5UG1ILXpBMkg5aXVoOHdlMzJ5Z2F4YmZQM3d5WWpMVGdsUzhwV3JNZ2pSaWxHWW5qaEZKMGVRVm96SGc3Q3NUZEZUZGFoUlB3cEVKN0N1Z2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-01T21:24:27+00:00",
-      "summary": "Oracle, OpenAI 'Barn' data center breaks ground in Saline Township, additional community investments announced  WXYZ Channel 7",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Florida Takes Legal Action Against OpenAI And Sam Altman Over ChatGPT Safety Issues - RTTNews",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUdmU3paRzAyREZ5MUplSEpFQ0hGNHQ5NVRLbDFfemRQVWZaNjVVa1l0WGhJTnVlWUdkcDg4d1VUYVhwT0EwRU1IbEEwY2FhdHlsc3g5b2dCd0t6TzBzX2I1d3hva2c4NGVBU2oxZkwwN1BXTmktRFdmUGZZbW5TTmMyVXdRWUtrNnplOWJhd3VXME10bTRjZ1plMVd1YzU3QVlHQ01rZ2J2Y2l6UEhIQzcteTNNMy1aVTBLaQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-01T21:24:00+00:00",
-      "summary": "Florida Takes Legal Action Against OpenAI And Sam Altman Over ChatGPT Safety Issues  RTTNews",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
