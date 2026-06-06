@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2026-06-06T19:14:58.436182+00:00",
+  "generatedAt": "2026-06-06T20:35:33.512160+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHplVzM0WUNMY0dxQWRvYlVnU19KNFhRNDdjZURGanVhYTV5dHliOHluVm91SnQ5aklXYjBTbEFUUklzUnZ0RDVnNTRDQ0hsLWhvV2RVN2t6bGFwS3dscGRJaGRFLWd2OUdqbnBXUVpVU0ViQU1UUmFBNmR3RHEwY0pvRm15T0RTcmdIeXNVY2Q3MFhSTWhtandWcUR1djQtdDU1bkJvM2hvUkZUdlpneDFHak1PSXB5TlNr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T20:32:24+00:00",
+      "summary": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's CPA ads, DoorDash at scale, and ad tech's IPO test - PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MUnlSU3J3dVdLdUV0dS1Eek50cWgxbW02V2VnZ2FMTjQ0TTd0ek8yc3dEUFZWaXdpdU9vWHdoem55b0VxOFdiZWZ5ckxBM2xaQVNkc0ROTFpvd05vSlhvaFllM1VWLVd1UE5xYU9va1FQT2h4ZWdPblRNZ3d3dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T20:20:29+00:00",
+      "summary": "OpenAI's CPA ads, DoorDash at scale, and ad tech's IPO test  PPC Land",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The Trump Administration Is Reportedly In Talks About Taking A Stake In OpenAI - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXB5RDFzZXFCTUMyXzY0SHlTbzROOXNGUjFnRFZUVU9ZeFhnMTFmUS04YXV2UUk3cXR3SHk5bTRQTVRSMnlCTF9mU3FhUlBfYjk1c2dJT2lEdGVtekJTRDg2WnVuRkZRaG00QkpDbGFGTFo3cXliZ3RacmRpUlZzYW9iWUxaanNZcklzV0hfNjB5MGg3RnkwV1ctcUhqUjh2Y1RrWXZCX0JtSE5HTVVBS2Zn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T19:56:12+00:00",
+      "summary": "The Trump Administration Is Reportedly In Talks About Taking A Stake In OpenAI  Engadget",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Hermes Agent vs. OpenClaw: Key differences compared - Hostinger",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZZDBkWFN2ODdDMW10N0NfMUFqQ1FCSkh6eS02ZU1mMzJldGVtb3pWSkdaV2pjdy1aQ2k1RlRXTVVSYi1tZ2NFUmJKSHpaNkZENzlYZE9VcjNxQ1M1UnU2dmRwS1FPLUUzTlYwRDBXdnM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T19:21:15+00:00",
+      "summary": "Hermes Agent vs. OpenClaw: Key differences compared  Hostinger",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "OpenAI Introduces Lockdown Mode To Combat AI Data Exfiltration Risks Amid Growing Prompt Injection Threats - LinkedIn",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXIyNU9MUWhUSjNxcjlFbW1aTFFiS0RpRHVQQTBzRW5STDlSSmRTUGl6M012ZTR1NDl3NDNwaldsX0tmWExkT292UEV2VmplM0wxQ3BJZmEzbC1KV2wtLXdLV1RtWGZFb044VlVfVm5ob1VEYktkTTRYUmh2S1VLQ2NZUTl0WlNENHlz?oc=5",
@@ -18,7 +54,7 @@
       "title": "OpenAI’s next model is being designed by AI itself, says SoftBank’s Masayoshi Son - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15R3RQNmt1UjJLUmRGWUl6eXFyNVlKal9DdHF5aFNPeXdfOUtxbFNGXzlGUERnU3V1V0ZFZW9Vd0hGcWlmMnVzS3Z6aTV3LTJtN3psNjg5UW10QXpHQS1yNTFSa1FvSHBRMUkzdQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-06T18:14:56+00:00",
+      "publishedAt": "2026-06-06T18:15:53+00:00",
       "summary": "OpenAI’s next model is being designed by AI itself, says SoftBank’s Masayoshi Son  Crypto Briefing",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -42,15 +78,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "S&P keeps SpaceX, OpenAI, and Anthropic out of fast index entry - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QVVsV1lwVU1vcTItWFU3VUd3ODZIa3JYVWMzSDFLMEFkTmN2N1I5QVhkUENtSmMxMjNCbTZnbjRPVXVqZEJHaHYtdUk3Y0hfN2FaSXFoeVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T16:43:45+00:00",
-      "summary": "S&P keeps SpaceX, OpenAI, and Anthropic out of fast index entry  Cryptonews.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI and the White House have competing visions for regulating artificial intelligence - Mashable",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3otTjBXbGlsQXJBNkQ4ejBLVllkakR3S2NPcExBWmwyUk9iNjBrQVFncXFWd3Q0bnB4SEVqZGJ3Z0R5a0lYUDNvQ05DdGRiWGhMVHhZc3lYTXNMNVl2S0FoRDY2eXBSMGVSQmx5UnJtMlRIZ2ktNVAwV0NNZG5BRg?oc=5",
       "source": "news.google.com",
@@ -65,15 +92,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-06T15:38:00+00:00",
       "summary": "Microsoft Reduces OpenAI Dependency With In-House Frontier Models  HotHardware",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tencent Hires Former OpenAI Researcher Yao Shunyu As Chief AI Scientist In AGI Push - Yellow.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcS14QVR5UWxhZi1lZmc2a0ZnV1NNOTNjQXN5U2tqdWNYcjFpSzBLbTZuNHJEQTBsZk5aZ0JWMG1hNjYyWWJsRG5pRzE4Vkppa1lIN21qMmVaWm1TQVZmRTV3SVlIeG9oX1QzMWFranNpTTVPWG5TV2NrSzhibkVJdDVmbnpvUTJXNVp3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T14:19:29+00:00",
-      "summary": "Tencent Hires Former OpenAI Researcher Yao Shunyu As Chief AI Scientist In AGI Push  Yellow.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -97,7 +115,7 @@
     },
     {
       "title": "Fox News AI Newsletter: Sanders bill would seize 50% of stock in OpenAI, Anthropic for sovereign wealth fund - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ2p4ZG5nR0t1aXZ5VFhYNzFTUWNHNzRPYzhfZkJYcEIwaDBMWXpwcDEyTHV5eG5FR0Z5RzVjdHJfVjRjbi1tb1JMd0ZrQ1RrOTlQU0ZzOTJuNTI1X0dzU1AzajRuZ1EzeUFnQnJMYndOdk1qbkxlSTJPVUFxbl9NU0NxYUhkSS01eE1Rc0U5eGdaT0dPX0lpZlR1UnV6TWtLRUVZUWs1NHVQa0s2ODB3Tnd6ejNZX1c1TEV4RFMyTEZqZjVoRGhkV9IBzgFBVV95cUxNUDdRRnVxczFPRU95bnlfVkt0V1E3OWRqU3ZiS0tKVE5YWGhXQlA0TGtkR1FxbExjcDFnQkkzeHB3YnFuTWZmMEtNZ0Nyb3Nfc3pPa1RTVk1DcjFWVG44a1FuNUplLTBPZHVwRENDMGJBWTZhWmtrRXZWbFdNYnFTcWZyY0FVTTlCdkwxRnFLWTlaWUV6Nm9haW9BRGdxWFhpQnNiSlNEUnNhUVhUWC1yYkc3S0JMTW55MU5zOW1MT3g0TS1HT05XNDktc01ZQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzlYU0t4cXBiU0JodlJvUXBfMzRUR3F4MVJ5SEhfcDktNHpYX0JheU1xZUdRRGZwZFBRRzMtQ2JZR0FnN0JCenZTTHN6Ynh5b01IOWlQN0ZjMkc4Qms0ZlkyZzIxMm9ZdFlaSXlkdjdRN0U4aEFxZG5BaDE3NGoySmE4Z2cyaUpzcUJNWl8yTWdqMnc1TmR2cXgwcHlNbnBEbnQ4QXd3YWV6VlVoeW15ckhEVk9YWW83VFhEUWdRMVA1UdIBxwFBVV95cUxPVHQ0VTl4Uk1URjBkQ3loX2F5ZERFSF9UbklVRkJYaXc5MkNJQUZGLV9wU0U1Zi11TktTNUZHNmMyN3h5T2VDYVgzWTFGNFNzZDhoYjJtcWUzaTNIeWFpeWxVZ2xtalZiajZLWmxYZ1c4ZEEwUXBSb2hVYVdibk1ocUlTTF8xYW1yMkE4OVJJSWNuNkxLUWtRb01LY3BFTF9TYl9Vc3hZTElLMVVva3Rsc09TUExyTHA3RVM4X2NIS1hYWGVYSS1R?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-06T12:00:48+00:00",
       "summary": "Fox News AI Newsletter: Sanders bill would seize 50% of stock in OpenAI, Anthropic for sovereign wealth fund  Fox News",
@@ -123,6 +141,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "When good money goes bad: the question SpaceX and OpenAI investors aren’t asking - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZDaWhUM2JSdi1qZWwzdk9wOEZoNFN1LXNHOS1DQ29rNTVfOGNQVnNvUFNXbDBTZEVlWFU2Z2ZMMnprT3ZJbEtjaG9TQkxTVHZqcnVxd1VvTkdzRHl1YkpUMUlPUEpGblJBZmJDWFRfQ1ZqY2RnOFlBU3dkMjFqM29SalBZR3d1clpES1VBUUwtVXNyWDMw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T10:34:38+00:00",
+      "summary": "When good money goes bad: the question SpaceX and OpenAI investors aren’t asking  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenClaw Code Reuse Exposes AI Agent Accountability Problem - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZF9BOVd5OW5JVFJjR3l2VFpDV2lhV3V4TFU1TGl1OFktUHVfT0NaaGdVbzZUQ0dqXzlxa3FzSURKaXBRdms4UEtNcTJzRWdtbHBiZ0JLWC1ZejNfdkVQZWhZYnZqUFZiRG5QMkNmZEpWTGFBQkRhcVFqZXRJalVDb2I5RjdGVTBuUmszWG91VDRQT3FzaXdXX1M5MFhwYzFaME40?oc=5",
       "source": "news.google.com",
@@ -130,15 +157,6 @@
       "summary": "OpenClaw Code Reuse Exposes AI Agent Accountability Problem  Let's Data Science",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "SpaceX, Anthropic, and OpenAI IPOs could drag equity markets for years, warns Rob Arnott - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93eWFURWpiX2hrUXg1V2hOVndyTk9xS2RGaTFpMlVSUDRXWnRMVTA2NzhManpjSzVxcEdvWHZYX191ODN1dXQySndWTEw3Ui1BTmRJQV9CelEwUE5Cb2I1NHc3c2wzMDVQLVVEb2F0SVFkd09Vc3ZN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T10:30:53+00:00",
-      "summary": "SpaceX, Anthropic, and OpenAI IPOs could drag equity markets for years, warns Rob Arnott  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks - PCMag",
@@ -168,15 +186,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "SoftBank's Masayoshi Son says AI is already designing OpenAI's next model - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZi16S2JPQWVFYk42Yko5b3M3aS1BNUN1YjFrLXN2c2stSmp3OWdEYzh6dnFjd0piTmNCbmQ1SWhjZGYyZFdISWhxaWhEWEJWYmN5R3dCTmRoT3ZKZk0ySVc5cnU2RlpJN3RVWkFNUmdMU21WU0kyR0hkbHhtazRXcGJ6Z1g?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T09:00:57+00:00",
-      "summary": "SoftBank's Masayoshi Son says AI is already designing OpenAI's next model  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Former OpenAI CTO Mira Murati Shares Stark Warning About AI's Future, Says It's More Like A 'Tandem Bike' - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeExYNW5id0xQRWRKUUxFQk1DenJkMkg3YnFycjRtVE0zbmVKdE0xUlRXSGlUcjBsd0RVbl9tMW5zOWRiZU43VXp1dU1QYTFzc3BzODBVZGluVkVYeDdQWjgwczBQdkJZelltNVpOMy1JTUZ5OUQ3ZHZMTVhya2EzbkRKMXJHLWdQTFpIdHpkS3c4MTd3Qi1vYUxJclhPa08xM3Z1cWZWMmV2Y2JsaHk2UDR1elNBZUFiOFpLaWFhVm5XcUNpSV85UkV0d1BpSXp5Q2lRLWxua3JTNWxqbENOSUdLUmwyMmpwbXZuM3hUSVNjcHY3ZkU4WUNPRkQ?oc=5",
       "source": "news.google.com",
@@ -200,15 +209,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-06T06:14:07+00:00",
       "summary": "OpenAI research and product leads detail GPT-Rosalind capabilities and benchmarks  R&D World",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tencent's new AI chief Yao Shunyu wants to build AGI, and he's bringing OpenAI's playbook with him - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kVDJRNnl5RG9IT1pWLW9rQm9zSkp5SWVXMkcwbk8xOHFlV29fNjBkcFJQMGk5UzlKRmJ5QTdIUmNNdkJDenZndlhZMVFDX0s4SnhwSVMyUW52bDRGSGdzTERPa3FndGlk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T05:20:53+00:00",
-      "summary": "Tencent's new AI chief Yao Shunyu wants to build AGI, and he's bringing OpenAI's playbook with him  Crypto Briefing",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
