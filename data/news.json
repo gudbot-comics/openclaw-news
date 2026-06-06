@@ -1,16 +1,25 @@
 {
-  "generatedAt": "2026-06-06T15:36:21.053812+00:00",
+  "generatedAt": "2026-06-06T16:43:47.816418+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks - PCMag Australia",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTlzMGlLZnV0cXBmQm9TMWNmMUY2SklKSVFSWDMzN1FKbS1UZjlCRENZZEUwdmIzakp3V0tXTGJ1dWxXOHpGZGduRVlsaWZ0aElKZVBaWDYwTUFfQkFUZHRwZ3JjY0dJR0lEZDdJMEJRTGtxbDBVTHZtRGdhVGx4MHh5UE9YNDZTdnZSMDRiTC1JX2lqZVNIWDBhbw?oc=5",
+      "title": "OpenAI and the White House have competing visions for regulating artificial intelligence - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3otTjBXbGlsQXJBNkQ4ejBLVllkakR3S2NPcExBWmwyUk9iNjBrQVFncXFWd3Q0bnB4SEVqZGJ3Z0R5a0lYUDNvQ05DdGRiWGhMVHhZc3lYTXNMNVl2S0FoRDY2eXBSMGVSQmx5UnJtMlRIZ2ktNVAwV0NNZG5BRg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-06T14:54:30+00:00",
-      "summary": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks  PCMag Australia",
+      "publishedAt": "2026-06-06T16:00:58+00:00",
+      "summary": "OpenAI and the White House have competing visions for regulating artificial intelligence  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft Reduces OpenAI Dependency With In-House Frontier Models - HotHardware",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZdklzMDVVTll2eEpiRmZPYkVmc002Tk5rVURaTkM3ZmRLaTFLY2QybVR2RUluQ1oxVVkzQ3Q0a2JQTmR4Y0YxRXYtcUJiX1ppcW9zaUxxbFhqWUtUQ053cjRXN2FGUjZmYndfLUlXeHM4dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T15:38:00+00:00",
+      "summary": "Microsoft Reduces OpenAI Dependency With In-House Frontier Models  HotHardware",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -38,6 +47,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-06T12:05:53+00:00",
       "summary": "OpenAI and Anthropic share roughly 90 investors as both companies race toward IPOs  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Fox News AI Newsletter: Sanders bill would seize 50% of stock in OpenAI, Anthropic for sovereign wealth fund - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ2p4ZG5nR0t1aXZ5VFhYNzFTUWNHNzRPYzhfZkJYcEIwaDBMWXpwcDEyTHV5eG5FR0Z5RzVjdHJfVjRjbi1tb1JMd0ZrQ1RrOTlQU0ZzOTJuNTI1X0dzU1AzajRuZ1EzeUFnQnJMYndOdk1qbkxlSTJPVUFxbl9NU0NxYUhkSS01eE1Rc0U5eGdaT0dPX0lpZlR1UnV6TWtLRUVZUWs1NHVQa0s2ODB3Tnd6ejNZX1c1TEV4RFMyTEZqZjVoRGhkV9IBzgFBVV95cUxNUDdRRnVxczFPRU95bnlfVkt0V1E3OWRqU3ZiS0tKVE5YWGhXQlA0TGtkR1FxbExjcDFnQkkzeHB3YnFuTWZmMEtNZ0Nyb3Nfc3pPa1RTVk1DcjFWVG44a1FuNUplLTBPZHVwRENDMGJBWTZhWmtrRXZWbFdNYnFTcWZyY0FVTTlCdkwxRnFLWTlaWUV6Nm9haW9BRGdxWFhpQnNiSlNEUnNhUVhUWC1yYkc3S0JMTW55MU5zOW1MT3g0TS1HT05XNDktc01ZQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T12:00:48+00:00",
+      "summary": "Fox News AI Newsletter: Sanders bill would seize 50% of stock in OpenAI, Anthropic for sovereign wealth fund  Fox News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -81,17 +99,17 @@
       "title": "When good money goes bad: the question SpaceX and OpenAI investors aren’t asking - Fortune",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZDaWhUM2JSdi1qZWwzdk9wOEZoNFN1LXNHOS1DQ29rNTVfOGNQVnNvUFNXbDBTZEVlWFU2Z2ZMMnprT3ZJbEtjaG9TQkxTVHZqcnVxd1VvTkdzRHl1YkpUMUlPUEpGblJBZmJDWFRfQ1ZqY2RnOFlBU3dkMjFqM29SalBZR3d1clpES1VBUUwtVXNyWDMw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-06T10:25:59+00:00",
+      "publishedAt": "2026-06-06T10:30:00+00:00",
       "summary": "When good money goes bad: the question SpaceX and OpenAI investors aren’t asking  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks - PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV0g5d0ZYbGV0MlNOSHEtSzcxaUJSWFpSVUNKMFQ2TXZCWmx3TUlfdzZjcmxtZXpoWVFsMUVxRElGb3MxNGlKZWJ5Y04yUU9HRzJrdW1tSE9lSkFYeHk3ZkVNSUZLNWczZE1tT2FpN3dCcEhMMXNfWGdoTHJVMFZxZUNvUEpNNHhSR2l6aWVyckNKSUVDUi1YcE9TQ1dGZWRRZGU5VHBB?oc=5",
+      "title": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYk9zRXlTaVRDMUtKQUVVcU90cno1WU1uSlJRUklvdGpNd0d3RjhSZUYtX3VjMFVrZF9nSGozdDNxVnZPM1BNTGRhY1BnT1pHZlUyQmFoTXBUbXF1SFZyOUtndW1FNHRIZm1QaWc2RE5mWkUtRnY5a1hfQU5mcXlkeHVlcG53OUI1Y1N2cGhMNXR5OEg4bUE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-06T10:08:44+00:00",
-      "summary": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks  PCMag UK",
+      "publishedAt": "2026-06-06T10:09:17+00:00",
+      "summary": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks  PCMag",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -101,6 +119,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-06T10:00:00+00:00",
       "summary": "Florida sues OpenAI  The Center Square",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump administration and OpenAI discuss potential U.S. equity stake - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0NqYzhNOEFFNGlFQlREY0FfWWRhRFRpRWEzcms2R0V6Z0RsOTZuUGlXajJSVmh6WFptZjVMSHFnXzNxWnRFc3hfb3AyTFh5UGtaWkVTSXZsVWZTTjZZcGNWSUJ6bzl0Wkhvb1g2bHFQX0dfaEU5R1lVNlNzSGZtUUpIcXo0YnFZazJkZ2VEdVgzQS1PTTdETXJIT2E3WVRVTVA3dDNYN2dCdUxRVXJ2OGh6UWExQkZYSHh6US1OeFQzWjYwN0xRZDcxdWxXTGpY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T09:02:36+00:00",
+      "summary": "Trump administration and OpenAI discuss potential U.S. equity stake  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,33 +155,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-06T06:14:07+00:00",
       "summary": "OpenAI research and product leads detail GPT-Rosalind capabilities and benchmarks  R&D World",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank's Masayoshi Son says AI is already designing OpenAI's next model - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZi16S2JPQWVFYk42Yko5b3M3aS1BNUN1YjFrLXN2c2stSmp3OWdEYzh6dnFjd0piTmNCbmQ1SWhjZGYyZFdISWhxaWhEWEJWYmN5R3dCTmRoT3ZKZk0ySVc5cnU2RlpJN3RVWkFNUmdMU21WU0kyR0hkbHhtazRXcGJ6Z1g?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T05:42:17+00:00",
-      "summary": "SoftBank's Masayoshi Son says AI is already designing OpenAI's next model  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tencent's new AI chief Yao Shunyu wants to build AGI, and he's bringing OpenAI's playbook with him - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kVDJRNnl5RG9IT1pWLW9rQm9zSkp5SWVXMkcwbk8xOHFlV29fNjBkcFJQMGk5UzlKRmJ5QTdIUmNNdkJDenZndlhZMVFDX0s4SnhwSVMyUW52bDRGSGdzTERPa3FndGlk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T05:20:53+00:00",
-      "summary": "Tencent's new AI chief Yao Shunyu wants to build AGI, and he's bringing OpenAI's playbook with him  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google CEOs call for DNA screening law - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T05:00:49+00:00",
-      "summary": "OpenAI, Anthropic, Google CEOs call for DNA screening law  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -195,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI GPT-5.5-Cyber Reaches EU: Anthropic Mythos Opens to ENISA Days Later - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzZHMnZHaEpranZNekNVUjdPY1F0amJ6NUVjcUM0a0NkQzhHbk1SS2t5X0g3WHdjRU14SGl1VUc0UnZWLWdrb2lmTFlMSEZOV2d5YlJTOU5QY0J4WU9POThhVWFvU2N4M2NoWUExQlpnMVdWWmx4RU14dkxZREFTNXMtUTZSY0p1R3RiVjhCVFY5RDNUMkxVaTkxNXRQTk8tcTdqM3lwemZRSm0tOGFQa0lucEM1Nk40ZUZ0cHF3TWhCcjA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T01:45:15+00:00",
+      "summary": "OpenAI GPT-5.5-Cyber Reaches EU: Anthropic Mythos Opens to ENISA Days Later  Tech Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Trump Administration Reportedly In Talks For U.S. Government Stake In OpenAI - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLVFGYU9GS1hjWmF5RUV3bW53cHd1N0NCX2xxc2c0VVNUdjhFM3IyZzR1SXFoNnE3bmRoOHZVWmF2SUtXUjdUR2JaclJlb0hSUk5wNjRSeHhvenpvNzJLSjkxc0FhcHFKaUFWVldSOHY1dERyX0d1WkRmWTlwdnRJSFpxMGpmNTliQnN2S2d6bnpDczBONmpMX1hxa1Z6bWNaYXZ3dkpFeU1LYXNicHRZLTRFME95aHFRanFGdXJNdW1ZZHBRMXhmWlY3Mk5RQTlFMExIT1RsSQ?oc=5",
       "source": "news.google.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-05T23:05:00+00:00",
       "summary": "Michigan data center debate continues as OpenAI data center breaks ground  WNDU",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDVTNXM0N0pNdzF1TndmYVhTd2l0ZXRrUC1VZmZxV2lSNzFLcy1SNnk0d0V0NlpTR0NnaHFQWHA0b2pvb282RTFiQzdyT2g3NmVfWmJMVnJBcGtkRlFSS0dRR0JqYXhhUkJ3akdrWDRzQlkzVHhqdGFKVGQzZ0JZLW5YbFd4ZkEwdnRfa25NeXVFSTBoLTRtd19GU2MtVUxxT1dnc2s4Q1ZsWDRhU2RaRld5cGU3Sm50SHVn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T22:55:38+00:00",
-      "summary": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence  VentureBeat",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
