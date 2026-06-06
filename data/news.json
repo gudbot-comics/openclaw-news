@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-06-06T08:47:51.846202+00:00",
+  "generatedAt": "2026-06-06T10:45:54.715832+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenClaw used Gavriel Cohen’s code and exposed the AI Agent accountability problem - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03ZDQ2eFJ4dUJqdXpzb1dhN0dEc21KRWU4M1NBQVdvbEtoMXJpVkhOR1o2UWgxdHNxRzRhb3J3ekRObndBanROWjE2RkRsR1lYSUx5T2dJR0hjM0NuWmd5cEpseG9VVFk0U1BqOG5tbDNNeWRuclVJUXZaaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T10:34:41+00:00",
+      "summary": "OpenClaw used Gavriel Cohen’s code and exposed the AI Agent accountability problem  The New Stack",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "When good money goes bad: the question SpaceX and OpenAI investors aren’t asking - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZDaWhUM2JSdi1qZWwzdk9wOEZoNFN1LXNHOS1DQ29rNTVfOGNQVnNvUFNXbDBTZEVlWFU2Z2ZMMnprT3ZJbEtjaG9TQkxTVHZqcnVxd1VvTkdzRHl1YkpUMUlPUEpGblJBZmJDWFRfQ1ZqY2RnOFlBU3dkMjFqM29SalBZR3d1clpES1VBUUwtVXNyWDMw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T10:30:00+00:00",
+      "summary": "When good money goes bad: the question SpaceX and OpenAI investors aren’t asking  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV0g5d0ZYbGV0MlNOSHEtSzcxaUJSWFpSVUNKMFQ2TXZCWmx3TUlfdzZjcmxtZXpoWVFsMUVxRElGb3MxNGlKZWJ5Y04yUU9HRzJrdW1tSE9lSkFYeHk3ZkVNSUZLNWczZE1tT2FpN3dCcEhMMXNfWGdoTHJVMFZxZUNvUEpNNHhSR2l6aWVyckNKSUVDUi1YcE9TQ1dGZWRRZGU5VHBB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T10:08:44+00:00",
+      "summary": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks  PCMag UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida sues OpenAI - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHpCN3FQeDFkLUY5RkxCZmh2WDdHc3ItNXFWbkNjaXcyWDJjdHA0X0VCZDBwNUs3eU5LNDBrNVVPSjRKeDBmam1rMzQyQkxyQkVFYmpGSVBnN1lOUXltZE1ickhmbmxvLV9ZdGJ1Vmt1Z0NVNWt0UkdRLXBvQWtTM0x1TzVHQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T10:00:00+00:00",
+      "summary": "Florida sues OpenAI  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida sues OpenAI - The Center Square",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmROOEFsZ2JjbFhGSmVsczA3eFRPT1BKSWJBQjh0ckdRTjhjd3NUbmRrT0ZhOTRlbjhVVnNTTVFEVjFwX1pfVlppOWxpMzU2SUFhLWNyTkZPZWNSUmtiQVRibFQtbnFneXQ0ZHRGWFVMcFhvY05SNXQ1Qm42aHlwNnRGcDEyYVN4aFVQQ0R3Z3RVcEHSAZgBQVVfeXFMTmctQ0VHM1lTU3JQRTlwcTc2NUdOeGpjQVBtMzBQd2h5Q21TNVdtNjNSWFZEaERXMWRaY1Fhd3lESXQ1bzdxbXVGY3hVT2prZl9NeG1Ta2hYR1RaeXFhVlFWcnVyS2thN2h1VGVUczRtemJELWd3YXNFX09nN2hiTVVhd001VzBKZ19zTk5RTnVyVmowcEV4REU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T10:00:00+00:00",
+      "summary": "Florida sues OpenAI  The Center Square",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump Administration Reportedly In Talks For U.S. Government Stake In OpenAI - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLVFGYU9GS1hjWmF5RUV3bW53cHd1N0NCX2xxc2c0VVNUdjhFM3IyZzR1SXFoNnE3bmRoOHZVWmF2SUtXUjdUR2JaclJlb0hSUk5wNjRSeHhvenpvNzJLSjkxc0FhcHFKaUFWVldSOHY1dERyX0d1WkRmWTlwdnRJSFpxMGpmNTliQnN2S2d6bnpDczBONmpMX1hxa1Z6bWNaYXZ3dkpFeU1LYXNicHRZLTRFME95aHFRanFGdXJNdW1ZZHBRMXhmWlY3Mk5RQTlFMExIT1RsSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T09:44:13+00:00",
+      "summary": "Trump Administration Reportedly In Talks For U.S. Government Stake In OpenAI  Stocktwits",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Former OpenAI CTO Mira Murati Shares Stark Warning About AI's Future, Says It's More Like A 'Tandem Bike' - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeExYNW5id0xQRWRKUUxFQk1DenJkMkg3YnFycjRtVE0zbmVKdE0xUlRXSGlUcjBsd0RVbl9tMW5zOWRiZU43VXp1dU1QYTFzc3BzODBVZGluVkVYeDdQWjgwczBQdkJZelltNVpOMy1JTUZ5OUQ3ZHZMTVhya2EzbkRKMXJHLWdQTFpIdHpkS3c4MTd3Qi1vYUxJclhPa08xM3Z1cWZWMmV2Y2JsaHk2UDR1elNBZUFiOFpLaWFhVm5XcUNpSV85UkV0d1BpSXp5Q2lRLWxua3JTNWxqbENOSUdLUmwyMmpwbXZuM3hUSVNjcHY3ZkU4WUNPRkQ?oc=5",
@@ -33,6 +87,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI - Norwalk Hour",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmJLS3hXc1VhTHJwUXd0Y3F5ZUZPTDFRQnRkMWpicldGSkFydzlEVktFb1RON19sc2pPczhobFQzRzdmMnQ4ZnRFUS05N25laHgwU3FSQTJBM1hoTVFfbHhFU2Jka21rUE1uOFUwTXU5UksyR09WMzZmVVBraEhiZDI4SUllSDRvSklqOEhhOEswNVdodU5EY0g3UmhROXI5enc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T05:49:52+00:00",
+      "summary": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI  Norwalk Hour",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Trump says he’s considering government stake in top AI companies - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX05UZVRvRHpXUGI3WVNIdWk3cjVqUU9jVnZxQ2VQQ0JmV3ZKLVdYa2ZFSmVVYWVleElsMC14TFp4akVCTjgxd29CcUxCbDdWRllJVXdJSWw4Ynd3azZ1dzV4bGtwanZqT25DQ3V2dkJnR3VzVl9xUVBYOVFnQ1hEQlFnaG1wenhzWmxKTDQwNjZlY3VVZmtxS1lWTnM5RTllVWZlMmpXR21uQ19Md0g1VXdacUo1dzRvXzhR?oc=5",
       "source": "news.google.com",
@@ -47,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-06T04:50:56+00:00",
       "summary": "OpenAI, US Officials Discuss Government Equity Stake  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Adds 'Lockdown Mode' to ChatGPT to Bring More Protection Against Prompt Injections, Attacks - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPanpLZ1l5RWdxaW9SY2YtVEZxajBwYUZ0RzROQks3Rm9PTllQR2JObG50TnRtUTY2dU9IYzBidkRacGRUNm1EdHJNMDRhTGFhRVNnWV8wS09oZE81d1RzZEQ2a2E3VzA3LUJiOGczY3hFbXV3ZElqemMxWThkQVhWYXlpVHNoQzhSQUlhbVFMS2R1UW1rSlN1REtTcVpCT1ZLMk4waWlyVmlIQmowV1BsOWh5MlNFTXVsdnBDR3l1UkZMdDZLcjk1dlhYLUdvN3BzTVc4aTQwcHFGMHZ6?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T04:15:55+00:00",
+      "summary": "OpenAI Adds 'Lockdown Mode' to ChatGPT to Bring More Protection Against Prompt Injections, Attacks  Tech Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,20 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI GPT-5.5-Cyber Reaches EU: Anthropic Mythos Opens to ENISA Days Later - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzZHMnZHaEpranZNekNVUjdPY1F0amJ6NUVjcUM0a0NkQzhHbk1SS2t5X0g3WHdjRU14SGl1VUc0UnZWLWdrb2lmTFlMSEZOV2d5YlJTOU5QY0J4WU9POThhVWFvU2N4M2NoWUExQlpnMVdWWmx4RU14dkxZREFTNXMtUTZSY0p1R3RiVjhCVFY5RDNUMkxVaTkxNXRQTk8tcTdqM3lwemZRSm0tOGFQa0lucEM1Nk40ZUZ0cHF3TWhCcjA?oc=5",
+      "title": "OpenAI, Anthropic, Google CEOs call for DNA screening law - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrUVp3UmVlYUxwckVqWDF3VVN1YkprQldkWTZnX19ISE1KLVo4eFRQNWRKZTV4NHRJVWNTekk5MW9BaUVxQlZGc2ota0hKZ0NGZ2VUeHMxUThfell2TWJBYml1dmtvS2cwQXFDM3h0c3JKQTZpa1dpY2IxQVFYZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-06T01:45:15+00:00",
-      "summary": "OpenAI GPT-5.5-Cyber Reaches EU: Anthropic Mythos Opens to ENISA Days Later  Tech Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT ads go live in the UK as OpenAI expands pilot beyond US - PPC Land",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb01OR0wzLXhfRjZXM1ZkN29uNjlGZ2Vvd0xnRnVvSUZCWFgtOUV3WU5vc2RNeVhsUmgxQWhjUmZPb0czSkFDaG9KaDM0VDhVUTYxSHl0TzNjNWNPU0dIU2RBSk1HYzUzUmo1TGxXbU5uUmdxTWpLR19hRWh5NGhBdEREc3F5aW54?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T00:50:05+00:00",
-      "summary": "ChatGPT ads go live in the UK as OpenAI expands pilot beyond US  PPC Land",
+      "publishedAt": "2026-06-06T00:01:06+00:00",
+      "summary": "OpenAI, Anthropic, Google CEOs call for DNA screening law  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -112,15 +175,6 @@
       "summary": "OpenAI will voluntarily comply with Trump's new AI reviews order  GSMArena.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Claude Is Currently Down - Lifehacker",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zakluTmFxWDV4RnlsbldsV3JoODBqdU5LUmg5b0plMXNVZldBSDZYUkxKN19Ga1d1cVFzNU03VFBVUmJYTHpzTUdrZ2ttM0hLeTROUnJWVFJmSFo4eFE1Q2R3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T21:29:04+00:00",
-      "summary": "Claude Is Currently Down  Lifehacker",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "SpaceX, OpenAI, Anthropic face a post-IPO test from Wall Street - Yahoo Finance",
@@ -164,60 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-05T19:33:02+00:00",
       "summary": "OpenAI Rolls Out A Lockdown Mode For Extra Protection Against Prompt Injection Attacks  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic vs. OpenAI: Who ya got? - Kalshi",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93TmpReVpoXzNpek91LWxGbzBDSl9jMWZUSVNCdGx6VDhza2ZQNHgybjVuZFF5VDFwSEtESVJCaXVhcjRROXVIQk5BYVNERjFKbGNCY0xrYzJVQTJHdThpOWM0SHBERTFvX0N3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T19:02:05+00:00",
-      "summary": "Anthropic vs. OpenAI: Who ya got?  Kalshi",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGFDb3M2ejdac21uTFBYTGNfaFJzemNtU01NaHJiRlFHV2gzV3RhczJYUkJaOGhldUxORkU5c1BCMFNZNGlvaWN2dDBaUUFWZ1pxcXZ4Y05oc1VjX1hVUUtXdW1FUjFYeE5oQ19teWJTcXo4aUNtdnJ3NGFTc2ROaUEzdmd1OGh0QmRPRDF3Q3ZqcVBpQm9abXB2UFNMT0NQMUN6R0dDdEhsSk5zQWc4aUh0N0pBc1U5amc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T18:45:20+00:00",
-      "summary": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic  Ars Technica",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWt4OThReHpONENEeGZPZjk1a1YtVl85OEdEa2Q3akNPYXcxRHlrN3RZeDhHd2ZHR0FIMDVuY3lfSEU3V3Y0Z1hmOF9BSHFkdEhSNzZNNF9xX0lFcGlJZlhxSG9zTFBhZzUyTS0ya0JYUTFlU2VuZGtCdzZLWV9kd09qdF9lUzNtMnF1cDFURk9KbllrQjNJeW0yTi1wODl2YktIU2Q1RGNCczR4SnhiSUw2MHBWa0k1X3FFRGpaQ2NZUmFnaXg2Qg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T18:35:19+00:00",
-      "summary": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The U.S. Government Could Take a Stake in OpenAI. What That Means for Tech Stocks. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TRThvZnJsc055TV92bXZrTkxhcEhDRDJzQXFFSGhvLUJzWWpJQ2VJamNYcVBDdk55WTFJelNHQjVLcVJsTzJzU1dEdWJQT1ozMWhpVl9RSnJVa25uMHlESEpuenhEMU4wTlg1blprbVFha0pIcWM5Vw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T18:33:00+00:00",
-      "summary": "The U.S. Government Could Take a Stake in OpenAI. What That Means for Tech Stocks.  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How startups can compete in the age of Anthropic and OpenAI - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekc3VXItS1dpRmVrV0xQVzc1OE5aa29STFNOMzZFSTdaS1hJZGNDRzNmSjBRTlNHSmRmX0VMVGl5V2xMOERybnpzbmNKLVBIWmdnblpWdUw2Uzlnby0za29WekNUbkZ1Mi1oWi0zbjBUcF9KZm5VRy1fRjQtcTFXOGtSWlQtb0FTV3NiTndzV1RkSzRrQXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T18:29:23+00:00",
-      "summary": "How startups can compete in the age of Anthropic and OpenAI  LinkedIn",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Investor Reid Hoffman to Leave Microsoft’s Board of Directors - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlY1MzFFMVBqOGNQUm1EdHU0RmhXdEhNUWV2Z2NuZlpGSXB5RWplNGJjVDRiZG55TXdqS3JaRnZtdGhtYXRNaHRqWjh0SUZsNDRiZXV4UzZEdC10TE1JX1doRHpSbzJQelRiYmd0S3k0S3lobjE2UzQtdEpDVnFxYzdCN3JNNmpnelRxSHVmeHE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T18:25:38+00:00",
-      "summary": "Investor Reid Hoffman to Leave Microsoft’s Board of Directors  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
