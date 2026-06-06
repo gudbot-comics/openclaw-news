@@ -1,16 +1,34 @@
 {
-  "generatedAt": "2026-06-06T06:16:42.206292+00:00",
+  "generatedAt": "2026-06-06T08:47:51.846202+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVGU1dlQ1SDRlMkhyanlBR05CMmJJVHFXRnZyTW0tNGVDNXhOUzJ2Yy10bW9xTlNUTlJuXzdpOURwR0oyU3YyNnR0ZmFxSHhsOGdNQjRYZUZoNlhyWVRDNjZCN1F3Qm9vcnRLdi1iaHpwLWsweTJnb2JQM28ySnJVR1lGcUVELTlJZWQxN3VZbjNtblo0blo5dFl5MnVMazdVWlRmcTRCald0Y0JoREp4bVVYNHh4czl0ZlRJUmN6MEdqd0VCYzFCSVVacDlkT0stN01CeUFTWGQ2SHg1MnNtaHFBa28?oc=5",
+      "title": "Former OpenAI CTO Mira Murati Shares Stark Warning About AI's Future, Says It's More Like A 'Tandem Bike' - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeExYNW5id0xQRWRKUUxFQk1DenJkMkg3YnFycjRtVE0zbmVKdE0xUlRXSGlUcjBsd0RVbl9tMW5zOWRiZU43VXp1dU1QYTFzc3BzODBVZGluVkVYeDdQWjgwczBQdkJZelltNVpOMy1JTUZ5OUQ3ZHZMTVhya2EzbkRKMXJHLWdQTFpIdHpkS3c4MTd3Qi1vYUxJclhPa08xM3Z1cWZWMmV2Y2JsaHk2UDR1elNBZUFiOFpLaWFhVm5XcUNpSV85UkV0d1BpSXp5Q2lRLWxua3JTNWxqbENOSUdLUmwyMmpwbXZuM3hUSVNjcHY3ZkU4WUNPRkQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-06T05:45:47+00:00",
-      "summary": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI  The Washington Post",
+      "publishedAt": "2026-06-06T08:36:30+00:00",
+      "summary": "Former OpenAI CTO Mira Murati Shares Stark Warning About AI's Future, Says It's More Like A 'Tandem Bike'  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and the Trump administration are negotiating a government stake in the AI startup - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1EzZlBBZnR1ZExhQ3NDdUplSVFrUmdjMW5NVjFuYm9BX2dGWWluRDA1VjBsYzFqeV9PS05HSm82YlJBRV9QeWlLLWdEZnBiN0R3My1IWFg5aWs3Z0VuNXE2c29xMFBPdVFfc0xCZlU0N3F5bTZtdEpIZ0w1dDZPOEs5TnpydjgxeHJCQl9TcVotWjdOYXYzVmF5SGZnWE1XU0h3ei1rSnFJWWJuaHdBNnR3UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T07:32:09+00:00",
+      "summary": "OpenAI and the Trump administration are negotiating a government stake in the AI startup  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI research and product leads detail GPT-Rosalind capabilities and benchmarks - R&D World",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGxIcEpWV2VhNzdqZW80d0NidWx4YmJxMkdoc2FmY0ZEeEFSb2IxYVdxRmJEMklSSVFPX3FaQ0RDMzZaVGFLOGprdnU0QWdvOVFjUk1CZDkwdnhQSnMxTl9uMjRLUVdwd3R6YlNnSVBvT0RjRU5RU0ZHMGtaSnhGRU93XzlSTzZ6dGwzRXp6TmNPekc5WW9ITUx4LTd4ZDBJZnF4aTY2WUxCTWVFREtpeF9R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T06:14:07+00:00",
+      "summary": "OpenAI research and product leads detail GPT-Rosalind capabilities and benchmarks  R&D World",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,6 +38,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-06T04:53:27+00:00",
       "summary": "Trump says he’s considering government stake in top AI companies  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, US Officials Discuss Government Equity Stake - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWWpWMzFBcFNZVmJXZ09mV1VsejM0Uk5wUHpaYXVkUGE2QXVXTW1ldnczYzRQWFVkZy1kT3NQaEh5VzNuY05BS21JTTltUV9NbVpjMi1MNWliMDIzU2NJNjdOeXg5LWVXeWVVN1owUEZtYmh3NHhjdG9zQ3lvcWNsOGlVSEdpQmVDTGFCdHI0Y194T2VQOWs2WQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T04:50:56+00:00",
+      "summary": "OpenAI, US Officials Discuss Government Equity Stake  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,20 +69,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI GPT-5.5-Cyber Reaches EU: Anthropic Mythos Opens to ENISA Days Later - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzZHMnZHaEpranZNekNVUjdPY1F0amJ6NUVjcUM0a0NkQzhHbk1SS2t5X0g3WHdjRU14SGl1VUc0UnZWLWdrb2lmTFlMSEZOV2d5YlJTOU5QY0J4WU9POThhVWFvU2N4M2NoWUExQlpnMVdWWmx4RU14dkxZREFTNXMtUTZSY0p1R3RiVjhCVFY5RDNUMkxVaTkxNXRQTk8tcTdqM3lwemZRSm0tOGFQa0lucEM1Nk40ZUZ0cHF3TWhCcjA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T01:45:15+00:00",
+      "summary": "OpenAI GPT-5.5-Cyber Reaches EU: Anthropic Mythos Opens to ENISA Days Later  Tech Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "ChatGPT ads go live in the UK as OpenAI expands pilot beyond US - PPC Land",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb01OR0wzLXhfRjZXM1ZkN29uNjlGZ2Vvd0xnRnVvSUZCWFgtOUV3WU5vc2RNeVhsUmgxQWhjUmZPb0czSkFDaG9KaDM0VDhVUTYxSHl0TzNjNWNPU0dIU2RBSk1HYzUzUmo1TGxXbU5uUmdxTWpLR19hRWh5NGhBdEREc3F5aW54?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-06T00:50:05+00:00",
       "summary": "ChatGPT ads go live in the UK as OpenAI expands pilot beyond US  PPC Land",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI research and product leads detail GPT-Rosalind capabilities and benchmarks - R&D World",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaGxIcEpWV2VhNzdqZW80d0NidWx4YmJxMkdoc2FmY0ZEeEFSb2IxYVdxRmJEMklSSVFPX3FaQ0RDMzZaVGFLOGprdnU0QWdvOVFjUk1CZDkwdnhQSnMxTl9uMjRLUVdwd3R6YlNnSVBvT0RjRU5RU0ZHMGtaSnhGRU93XzlSTzZ6dGwzRXp6TmNPekc5WW9ITUx4LTd4ZDBJZnF4aTY2WUxCTWVFREtpeF9R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T00:42:19+00:00",
-      "summary": "OpenAI research and product leads detail GPT-Rosalind capabilities and benchmarks  R&D World",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +96,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence - Venturebeat",
+      "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDVTNXM0N0pNdzF1TndmYVhTd2l0ZXRrUC1VZmZxV2lSNzFLcy1SNnk0d0V0NlpTR0NnaHFQWHA0b2pvb282RTFiQzdyT2g3NmVfWmJMVnJBcGtkRlFSS0dRR0JqYXhhUkJ3akdrWDRzQlkzVHhqdGFKVGQzZ0JZLW5YbFd4ZkEwdnRfa25NeXVFSTBoLTRtd19GU2MtVUxxT1dnc2s4Q1ZsWDRhU2RaRld5cGU3Sm50SHVn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-05T22:55:38+00:00",
-      "summary": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence  Venturebeat",
+      "summary": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence  VentureBeat",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -83,15 +110,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-05T22:41:02+00:00",
       "summary": "OpenAI will voluntarily comply with Trump's new AI reviews order  GSMArena.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI ChatGPT Memory - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU004aVpaWUdmaWNxaDF5bFVteThqMUZhaHRKWDlxRTQzMWVwSW5ISWJIVVpFQjFuN2tsRW5JT1dKVkV3blVMdGZBMmdzeG1Pb0pFRkd4cEhkRDcwY29acTE5TjBZVWpfMXJ1aWJ3dFcxVjV5SzlwTm5Ca0wtWmlaTUJqcXBLM2xnUTdzMXljMTVDcDhBZTdKb0JPandqRVdtMzlNWC1nem56NDdGUVB2NW4wQnU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T22:34:52+00:00",
-      "summary": "OpenAI ChatGPT Memory  Thurrott.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,15 +168,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "DocuSign Taps OpenAI And New CPO To Drive AI Agreement Adoption - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDg1aEVaeGNodkNMWUhINFhJbjFQZXVXc0V2cHRDLVhJaTJQSkMxeWwzbVN0dlI3NFFSMnljdkNYR2dxWTdtRnktaGZ0ZUR0MHlEUDJ1TlR4a3Y1MkhMTzl5ci10MTdjd085YkpHcTlIaTJuWW5XSkRueGFMMjhyTnVGaHhJUWI2N3pHanlDdGtFSGQ5aUFMUE82OXpzUmFJdmVxMkpPMDQ1dy1maEpCa2duV2h2NXlQNjFZdmVPRnNWZ2V4ZnfSAcsBQVVfeXFMTUZfbWQwakNidXV3Mk9PQzdwZEJEbzByTXNNRDZGVDlnbmRRYW9PdGRtb2IxYlR4bFFLRVVZSi1kSEZZYVNRX1c1alJPTGgybWhFNkFLUUthLTUxbENfX3J0dEx0LUhXMXRTTUdOdUtHUDVKVUtNa2Y0V3h1eHVqRFFjUTZHWnN4alY3UjIzaWNqak5xVW1TWDhuRkpaWHZXa19kS29uMUs0LTV4WlRHWFBHZ2FfMXRhYWJ4aTVVbXJXYTV0X0ROZl9STm8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T19:24:11+00:00",
-      "summary": "DocuSign Taps OpenAI And New CPO To Drive AI Agreement Adoption  simplywall.st",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Anthropic vs. OpenAI: Who ya got? - Kalshi",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93TmpReVpoXzNpek91LWxGbzBDSl9jMWZUSVNCdGx6VDhza2ZQNHgybjVuZFF5VDFwSEtESVJCaXVhcjRROXVIQk5BYVNERjFKbGNCY0xrYzJVQTJHdThpOWM0SHBERTFvX0N3?oc=5",
       "source": "news.google.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-05T18:25:38+00:00",
       "summary": "Investor Reid Hoffman to Leave Microsoft’s Board of Directors  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Trump administration, OpenAI discussing possible government stake in the AI startup - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHlVc085QUVIS2ZReHVWMVNPWTRhYmFuWVN1RXZVZUc0ZnZhbUlMT3Rpa1QxdEs3Q0Z6OG1qZ1VZN2N6TmlOMWlVYkVHc0dITjdkMnlTdnB2WmZZSkY4LW5HZHVRcjlKbDBoYVdva2_SAXZBVV95cUxObW91aGd3RmlfdHhHQVNLVUgyN3V6WDlFMkZ5UXdfbmZEQ0NfLW41REc4eTlMMkh1MlFiMW1BdFJmbm5sN1hOTVhwVl9VcXhlZzdVWFJyY1dkVFJQNFI2WXNTOXl1MllWa09KOHkxMkZsOXA4Qy1n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-05T17:58:46+00:00",
-      "summary": "Trump administration, OpenAI discussing possible government stake in the AI startup  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
