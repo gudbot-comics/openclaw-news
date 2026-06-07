@@ -1,16 +1,97 @@
 {
-  "generatedAt": "2026-06-07T01:58:07.656376+00:00",
+  "generatedAt": "2026-06-07T06:31:53.620007+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Sam Altman Says He Wants Money Out Of Politics, Pushes Back On OpenAI Lobbying Criticism: 'Love To See The Rules Across The Board Change' - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGZrd2NIbnJrLTlnS09IZUpVZ3U1bHhzakpxMzlNd2xOVktlbTNPczJUU2JUQXp6ZVZxWTJUSlJZY3JwVGl2Z0NwSDF2Wlc2WWI1QlhlS0k1UWRneEtfbnJpMXlVc0plam5TeXBLalgzQU8wNUo1UDZCOUY1YzhhcS1LOXREVW96R1lKQ0ttLWh5Z1ktT2Mw?oc=5",
+      "title": "Breaking News: OpenAI's Veteran Chip Expert Switches to Anthropic - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GWEVvZEJYY01FOENiaVJHeE1HQzI0d3FYck1GOHhrWVZta0R4Z3NRNVhzUUtUSjNROTM4QkpnU1dFUGRiVEt6WWpLOXJqdUo4bDIw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-06T23:31:20+00:00",
-      "summary": "Sam Altman Says He Wants Money Out Of Politics, Pushes Back On OpenAI Lobbying Criticism: 'Love To See The Rules Across The Board Change'  Yahoo Finance",
+      "publishedAt": "2026-06-07T06:31:04+00:00",
+      "summary": "Breaking News: OpenAI's Veteran Chip Expert Switches to Anthropic  36 Kr",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZUllRTlHZDVpbWFVRW9zeHNsSW0ySC0xVEh0WDlCbW1iNnJpQ3ZmT0tMUUljNk1Wb19aenV5NE1GX2F5RHV6d2ZmUTBNRG42ZU9TZDBnWjdfaldxVzJtVFNoX2VrYzFtSHdtTjBXQmZkYkxsQVJmMFRkeFVlaW9nRl9pT1RiYjhZdkwzUUhqZVB3TlluZEozOU1ERzE0RDdVRDZqSE5wRWRLRVpoWEtYZHljNE1LYnJzRzVNaXZJNEpLbnJJUUdwVHU1NktCSGZqeUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-07T05:09:00+00:00",
+      "summary": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ZoomInfo (GTM) Launches Native App Inside OpenAI Codex for Work - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMTV1MnBxd2dqcmVvM19KbVA0VHhZdGxPX0U1Xy1IVDlZX2Q4WXVlRm1vc2QzZWRSTW5iWnJXeDhyYTE3ajY2cWRtQzQ3dXlrc2ZKUWJ0WnRyWW5tSWhQbE5aY2t4MW8zN3hMUzJScVJuZk9aczRjSDUxTzJHbHpValJuZGVOTTVHeEx4aTlOUXFHbEIzZ1QxYkRxNFFpZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-07T05:06:00+00:00",
+      "summary": "ZoomInfo (GTM) Launches Native App Inside OpenAI Codex for Work  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Wants ChatGPT To Feel More Like A Superapp - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFBxa0ZUb1BsdkJtcHVQWVhraXZrMUpPckxTOG9jdExONGUyQ0NaWm9xTDRnQXFrTkZXdjRERkYxRW5QMHdhOWZCMG9nYkdCN1hFVWVLcG14YThTMVVoVkVmZUxVT3Jzci1uZS1JMTBIVnd6SndsQlJaUXFMRC0xaEliWHI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-07T05:04:09+00:00",
+      "summary": "OpenAI Wants ChatGPT To Feel More Like A Superapp  Finimize",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Overhauls ChatGPT Into 'Superapp' Ahead of Listing - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRk1oaWlMTnhaZDAxc0RiYnFmTmU4TWZ0RUhoVmFoVXNjLVRCVWdPTHpaZ040RXFJTV90aTdXeVJIeVpvY0FLTlQ3bzBpNmRTbE1NWlNNTmZPVkRnSVgwYk1PSVJ0Yzh3LVVWV0JBR013dEFWelViRkJGYl9FY0daN0lnYmNGYWFTVE5yQXNGSGRsclQxUk1EYkluRzZBdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-07T04:53:13+00:00",
+      "summary": "OpenAI Overhauls ChatGPT Into 'Superapp' Ahead of Listing  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI said to transform ChatGPT into 'superapp' - Breakingthenews.net",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZldaTWZsV1E5M3haMlVQZnp3bjJPOGpOUmNndXNCQ0VtM0Vkd0hZX0hUYW9TX0tXb0hNdXdxSWItMXRYUzRzVmRzT281TWhGdXROMEhnbW5GSmVFUDZibDVGMVpKOVBQTDBUeTk4TUxQanJFc0dpSDRBVTN6bzc0cjh3eWlmOGwzZXM5UjZTNl96OGE3X0oteQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-07T04:52:00+00:00",
+      "summary": "OpenAI said to transform ChatGPT into 'superapp'  Breakingthenews.net",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI plans ChatGPT ’superapp’ overhaul ahead of listing, FT reports By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWFyYkszUTEydE1lX2FNdTUxb1BZUnhDdXlSd3VQXy1ya3VtQkJXOF9vRDNjU3FIYkctMmRFQ291NS1ud0RlaUpZejRGMTJVQ01CWFNhZ0tROVJUQnBVX3hvbS10X2s2dlRoZ1RFWDdHblVhaVhBclBTQldBLUNwRW5kVGtHRDdER2xsQzVfYUt1cEw3NjMtU2tTWjVlN0dUajMxZ2pJdzc0RVdJMW0yMTVRR3Z5YjRiSS1BZnBaRFk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-07T04:25:26+00:00",
+      "summary": "OpenAI plans ChatGPT ’superapp’ overhaul ahead of listing, FT reports By Reuters  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcUs5SGticWFRUEZVQlh1R1NUWkdYN285SHFnaEQtdGp2czkxbUJGUS1aTC1FVDJIT0QyRjc4TDBucFpLODlobjk0QTR5ZU0xUVktSnY0cVh2aFpUd3MzUVF3Ny1mYVdtQUtTZVdGU3pCOE5pYWlYbFEycGhONlM5OFVZaGRWX1FhSFl2QkpTV3IxdTU5eUhCcF9NSlkzdnV1b2kwTXRWdXRkU29E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-07T04:21:00+00:00",
+      "summary": "OpenAI plans ChatGPT 'superapp' overhaul ahead of listing, FT reports  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI plots biggest ChatGPT overhaul since launch - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nMjY2M1hZNW5jd1VBcTEtaG95VFZlb0tHcGNNcEl1SnlHTC1DQ0ItMC14SUZPNlFsWk9nNVBJZVN2b2hJMFRlemhWcUt1T2hJTkhSV3dkWC03azlLbl82LVNaV1pDamtYOGN0X1RPdHY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-07T04:00:50+00:00",
+      "summary": "OpenAI plots biggest ChatGPT overhaul since launch  Financial Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI Won't Be Added to the S&P 500 in 2026. Here's What Investors Can Do About It. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMk1rNWdpb2g2MTF6ZE5zOE9ibkVlRk40LUpXcFVCZUlmVFJPdHJiX29PRW5lR2lHcFFlajBZczh2NWExUGdYeGQ2bFY3Y0ZCT1diOG5DamZOcEhoU3FlSkd4UXJIM2FmTkVnRnNLUGdMNXo3d1VrUzNMSVlzNlRIWk9NdE9rajF2VDRROXcyLUlZclFQS1pNODVWNVdQdjcx?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-07T03:20:00+00:00",
+      "summary": "SpaceX, Anthropic, and OpenAI Won't Be Added to the S&P 500 in 2026. Here's What Investors Can Do About It.  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-06T22:36:38+00:00",
       "summary": "Open AI’s ‘The Barn’ Broke Ground With Governor Gretchen Whitmer  The Collegiate Live",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What we know about the plan to give Americans an equity stake in AI - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTEhrYmRVMnB0V3cxYVh1em1oUjZ2bHVXWDIzWHN3VnE0RW9HeTczcVdNMjVyT1ZXVERQOGVIZ21lS1BIVVJFdnFGbmNnQmtUS0Q3N2dqU3RoWnhuSC1Sc1FUd045OENqRHg5LUYyLWJjbUNNbjRvZjVWRTNPMEFCS3p2X1Y?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-06T21:18:20+00:00",
+      "summary": "What we know about the plan to give Americans an equity stake in AI  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,15 +159,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's CPA ads, DoorDash at scale, and ad tech's IPO test - PPC Land",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MUnlSU3J3dVdLdUV0dS1Eek50cWgxbW02V2VnZ2FMTjQ0TTd0ek8yc3dEUFZWaXdpdU9vWHdoem55b0VxOFdiZWZ5ckxBM2xaQVNkc0ROTFpvd05vSlhvaFllM1VWLVd1UE5xYU9va1FQT2h4ZWdPblRNZ3d3dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T20:20:06+00:00",
-      "summary": "OpenAI's CPA ads, DoorDash at scale, and ad tech's IPO test  PPC Land",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "The Trump Administration Is Reportedly In Talks About Taking A Stake In OpenAI - Engadget",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXB5RDFzZXFCTUMyXzY0SHlTbzROOXNGUjFnRFZUVU9ZeFhnMTFmUS04YXV2UUk3cXR3SHk5bTRQTVRSMnlCTF9mU3FhUlBfYjk1c2dJT2lEdGVtekJTRDg2WnVuRkZRaG00QkpDbGFGTFo3cXliZ3RacmRpUlZzYW9iWUxaanNZcklzV0hfNjB5MGg3RnkwV1ctcUhqUjh2Y1RrWXZCX0JtSE5HTVVBS2Zn?oc=5",
       "source": "news.google.com",
@@ -101,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-06T18:15:53+00:00",
       "summary": "OpenAI’s next model is being designed by AI itself, says SoftBank’s Masayoshi Son  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI for investors - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSFJINXg1el9PY0YyNzlVQWcxUjNYZ0RvaTZLWmRraEdSM2t4WndiZ2k5VEpaVXlKVjhSNlVYY3dnWUVwZng4dDEycnFMcDMtbjFKYkt0cGFJTHJuWnNJeFZselFTSkxlVWluQkxFU0V3ZTZCRzBNOVJwSzZocDJWa3VJQ1R2UmZhVXlrd2FlRkN6TXVUakQzLVlTc2QwbzIxVXEtRWlMNTFLLVdST212akhkel93X2JhMkM5WGdWRUNvckE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T17:12:50+00:00",
-      "summary": "AI for investors  MLQ.ai",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,83 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "I Saw the Future of Windows at Microsoft Build, and It's Unrecognizable - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWZOYXZXZU5faVQyLUVZSFpfdE54X2VBSXJQVDZNSmthbVlENzBzLU80ZGc0aVZNVmVOT3Z3eGhDOTVyZDg0SFJqcGMwa2g1bjAtcWJza2NRdmJnUW5rUVlpeTVSU3hVNFc4RFhOWFRvWWU5NmxKS25jWEUtdFpWZlNHMktHdjBaRUN4UU5WZkZqclczUlRFeUJYRnhST2xXeEo1c1Qtc18?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T13:03:02+00:00",
-      "summary": "I Saw the Future of Windows at Microsoft Build, and It's Unrecognizable  PCMag",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI and Anthropic share roughly 90 investors as both companies race toward IPOs - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kOG1MOWxlNHpoRUhzV1FXU0c4SzhEdkg2c1BwaW5nMDdpbkMyRVZOaWJPY3YwaWVjV21xNERjVFVuU2FPd1VmZ1p3TmVmVnFDLXg4QkREYlF4TUZONVZkb2o0WkhVaFZ4Y2pCY1RtNWE1aTA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T12:05:53+00:00",
-      "summary": "OpenAI and Anthropic share roughly 90 investors as both companies race toward IPOs  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic And OpenAI Are So Desperate For Compute They Let Broadcom Finance Their Own Chips For Them - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnE4T2tmX0F2RDcwVXh5WU9vMjRqNHlmMjdRUXYxNUhHOGtOeXJjd0hWZTd5aGhnSEtFblpPTUZhQ1hvRXo4V1RYNVNuRkxLa2N2dVVsXzJUYlhnQWFuVU0yNlUyc2ZXR0YzYnRFSk9fT1pnOUh0SDFUcVVmMW1RTlkxUDdiV25NVzhXcEtHdS1ITk91WDdmSVZ3VHhxaERYUG1KUjFCdmRVM1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T11:32:06+00:00",
-      "summary": "Anthropic And OpenAI Are So Desperate For Compute They Let Broadcom Finance Their Own Chips For Them  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw used Gavriel Cohen’s code and exposed the AI Agent accountability problem - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03ZDQ2eFJ4dUJqdXpzb1dhN0dEc21KRWU4M1NBQVdvbEtoMXJpVkhOR1o2UWgxdHNxRzRhb3J3ekRObndBanROWjE2RkRsR1lYSUx5T2dJR0hjM0NuWmd5cEpseG9VVFk0U1BqOG5tbDNNeWRuclVJUXZaaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T10:34:41+00:00",
-      "summary": "OpenClaw used Gavriel Cohen’s code and exposed the AI Agent accountability problem  The New Stack",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw Code Reuse Exposes AI Agent Accountability Problem - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZF9BOVd5OW5JVFJjR3l2VFpDV2lhV3V4TFU1TGl1OFktUHVfT0NaaGdVbzZUQ0dqXzlxa3FzSURKaXBRdms4UEtNcTJzRWdtbHBiZ0JLWC1ZejNfdkVQZWhZYnZqUFZiRG5QMkNmZEpWTGFBQkRhcVFqZXRJalVDb2I5RjdGVTBuUmszWG91VDRQT3FzaXdXX1M5MFhwYzFaME40?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T10:31:00+00:00",
-      "summary": "OpenClaw Code Reuse Exposes AI Agent Accountability Problem  Let's Data Science",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "When good money goes bad: the question SpaceX and OpenAI investors aren’t asking - Fortune",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeGZDaWhUM2JSdi1qZWwzdk9wOEZoNFN1LXNHOS1DQ29rNTVfOGNQVnNvUFNXbDBTZEVlWFU2Z2ZMMnprT3ZJbEtjaG9TQkxTVHZqcnVxd1VvTkdzRHl1YkpUMUlPUEpGblJBZmJDWFRfQ1ZqY2RnOFlBU3dkMjFqM29SalBZR3d1clpES1VBUUwtVXNyWDMw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-06T10:30:17+00:00",
+      "publishedAt": "2026-06-06T13:31:26+00:00",
       "summary": "When good money goes bad: the question SpaceX and OpenAI investors aren’t asking  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYk9zRXlTaVRDMUtKQUVVcU90cno1WU1uSlJRUklvdGpNd0d3RjhSZUYtX3VjMFVrZF9nSGozdDNxVnZPM1BNTGRhY1BnT1pHZlUyQmFoTXBUbXF1SFZyOUtndW1FNHRIZm1QaWc2RE5mWkUtRnY5a1hfQU5mcXlkeHVlcG53OUI1Y1N2cGhMNXR5OEg4bUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T10:09:17+00:00",
-      "summary": "OpenAI Rolls Out Lockdown Mode to Fight Prompt Injection Attacks  PCMag",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Florida sues OpenAI - The Center Square",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmROOEFsZ2JjbFhGSmVsczA3eFRPT1BKSWJBQjh0ckdRTjhjd3NUbmRrT0ZhOTRlbjhVVnNTTVFEVjFwX1pfVlppOWxpMzU2SUFhLWNyTkZPZWNSUmtiQVRibFQtbnFneXQ0ZHRGWFVMcFhvY05SNXQ1Qm42aHlwNnRGcDEyYVN4aFVQQ0R3Z3RVcEHSAZgBQVVfeXFMTmctQ0VHM1lTU3JQRTlwcTc2NUdOeGpjQVBtMzBQd2h5Q21TNVdtNjNSWFZEaERXMWRaY1Fhd3lESXQ1bzdxbXVGY3hVT2prZl9NeG1Ta2hYR1RaeXFhVlFWcnVyS2thN2h1VGVUczRtemJELWd3YXNFX09nN2hiTVVhd001VzBKZ19zTk5RTnVyVmowcEV4REU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T10:00:00+00:00",
-      "summary": "Florida sues OpenAI  The Center Square",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Trump administration and OpenAI discuss potential U.S. equity stake - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0NqYzhNOEFFNGlFQlREY0FfWWRhRFRpRWEzcms2R0V6Z0RsOTZuUGlXajJSVmh6WFptZjVMSHFnXzNxWnRFc3hfb3AyTFh5UGtaWkVTSXZsVWZTTjZZcGNWSUJ6bzl0Wkhvb1g2bHFQX0dfaEU5R1lVNlNzSGZtUUpIcXo0YnFZazJkZ2VEdVgzQS1PTTdETXJIT2E3WVRVTVA3dDNYN2dCdUxRVXJ2OGh6UWExQkZYSHh6US1OeFQzWjYwN0xRZDcxdWxXTGpY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-06T09:02:36+00:00",
-      "summary": "Trump administration and OpenAI discuss potential U.S. equity stake  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
