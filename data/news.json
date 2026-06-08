@@ -1,25 +1,151 @@
 {
-  "generatedAt": "2026-06-08T02:04:06.006976+00:00",
+  "generatedAt": "2026-06-08T06:58:20.520877+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Is OpenAI putting profit over public safety? - University of Auckland",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYzk5bTRuWUNBZ2MxbWtQOEhKQ2tFcjd1S3ZFR1dIbUVvaEJpZlJXcnZxbEpGN0hFU3lIQjJuN2tZR19jODFZTlNLanJhWXA5TUZwMWhDdmNVTS1GdWxzTVZvYVVaeURiUWl3czAxbV92R2Q3amVCRFpZNFlkeEdGVmRZV1FoQm02a1VCZnZwYm5PeWUyY1NYU054cw?oc=5",
+      "title": "OpenAI’s GPT-5.5 and Codex are now on Amazon Bedrock: What enterprises need to know - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLUdrWTFpSjVoYkt4aEppUFlTNi1TeE9fUGtnYW5PVXVqWXREUnRyYjJCZlN4MFZ1SkJSX3RRS2RwR1VNdUhHTTV6ZnRtS0QyZk9zT2RFLVUtbGhrYXg4WjU0UWtqZFVTWVNzWkEzRGlFbTV4aWlsOGZ4c3lkaHBFM3NUZU9jUGQ3R1k5QloxWWt6RTU3Y1BzX2hfcnpHSEJKRDFxMEZoSktUc3R5eFBnQUtnRFZrY0I1TlU2aFk2SHZCa3lSczFoU9IBzgFBVV95cUxOd1ZITGMyVU9uZ2FnS1RCVlB4MDlaZ2lRa1lHTWZaV0JlUFlmYTJHRGNvbzVVSXNjZTBPNVd5RExnaHdGQXRUSkJ2WWhfaWFRWTZGcUROM2RuQUxxZGlaOTNEeHlzU0UwTjRWZFNfN29sbmp3UnlGVkZZUlFJQzQ4LTkwSnRLLVM4cm45SDc5MUVwYWVCZEROUVBNZXJGRl9xa21DUW5lNkRkcTZMNmpVV0prdnZiNEhJVWZ3a2g1OVV3TUdSeUlpY01lZ1hkQQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-08T01:07:57+00:00",
-      "summary": "Is OpenAI putting profit over public safety?  University of Auckland",
+      "publishedAt": "2026-06-08T06:42:06+00:00",
+      "summary": "OpenAI’s GPT-5.5 and Codex are now on Amazon Bedrock: What enterprises need to know  Storyboard18",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Four Main Trajectories of the AI Agents Competition among Major Tech Companies - 36 Kr",
+      "title": "OpenAI Overhauls ChatGPT into Super App with Coding, AI Agents - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWlDWDY0WTI4bkVoOWZLc0xGWkFTOEdmVEhocWd6TkxNeEtQLXowaE9ocE95T08ydm9NYXFLZGQ4VVQxemNtX3Itd2tTQ08ySTVrOFpsR3hhajBEUjJ3blVJVWduRy1TeHVTWDYxek5Cblp6cGliODNRYy1KSmM3WjdidHMwcFRv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T06:36:57+00:00",
+      "summary": "OpenAI Overhauls ChatGPT into Super App with Coding, AI Agents  조선일보",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Or Anthropic—Who Will Make Their Public Debut First? - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUF9hdlNGbTk3eEhHUzRvX3FZVW1TOXdELXJDSGVvMjNJcFAtS3o4X3dSU0tPZWFPRlhJX2J4RFAyVmdWcnkxWUR3d2h6RWpRUmVNQlJ2MmpCM0lKWkpBZE0xTkpoRmhiNTBLUXFTMHViTG9JY04teERtbENzeEtoRzlhZ3BOanBhN2c0LURjTk8zN2VBQ091REhtTEp1REVkMk9NWWZveDlxaWcxLXVsN0R4akV5RHVncVpkcFh3QmtvaXZW?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T05:26:40+00:00",
+      "summary": "OpenAI Or Anthropic—Who Will Make Their Public Debut First?  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Introduces Lockdown Mode To Reduce Prompt Injection Data Exfiltration Risks - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hRHp0TkNIdGJZMmp1S1pRZG80RDdmOWhsLTktMllXaEtuYXpOdXR5Ty00c2VwMm55RXQ4QXZwWGpLUFV1ZnR4YV9wOFVtYlVJYXfSAVdBVV95cUxNNVdsZzl3Mk5aMTdud25JbkIwbE9VUW5ndzZLU2tKTWxJVUJfVlZHT3NMendnQ2R6SEw4bk9qTXFiU0xCcTNOUDg2V2lCSnpVTmpKUmc2OWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T04:27:40+00:00",
+      "summary": "OpenAI Introduces Lockdown Mode To Reduce Prompt Injection Data Exfiltration Risks  Pulse 2.0",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT ads land in U.K. as OpenAI outlines EU privacy rules - Digiday",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkpOM0YxQngyV1F4dmkxSktUOWVCdG5nbVRkZEI2WHhIS1VHZ1VUY3JJc1kxbVBuenFGc0RsaWtlUGY4c0NxdkhPZjNCWlFLZmp1V0YteW5BekpvX2t4YldOTlRrNU10OEhoQmxrRVZPSzcxU3dNOFNPZG9fcFoyUWE4WmQ5YXJTQTJfUTV6cnJmSjlv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T04:03:11+00:00",
+      "summary": "ChatGPT ads land in U.K. as OpenAI outlines EU privacy rules  Digiday",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Calls For International Youth AI Safety Institute Ahead Of G7 Leaders’ Summit - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEFPZVRUdmpoWDlFYVkydDRwYXZMQ1ZySkF0RWNTNms0SzZJbUNfcTU5d1hYZkozQVpmNkg4bTRTRDl4REZkd0ZIeFdnTTBQUUY5QngwOVdZb2YwN0xiWkt5dE9GRDNENTFpU3VLNE1VR3JMaWFlY0tRUjUyMUdOYmZUa1Jqb0gtZ3MxV1ZFSGNIRkwtT1NDVlp3eE4zTnk5dVpYOHNn0gGrAUFVX3lxTFBoX1czcjdiUGlvWTZrSXEyVE9HMkYxNmthQnp1dzZkQi1yX0k1ZVVWSHpMQmlsNjFRMk9XRmdaSHFHbWhTTTZGT1dFaHN5RHJXQ1I3WFRBejlRTmw4VzFqenB6T3VOMjVfM015b0xGaWE4UGl4NFJRQ3ZER04zXzNTVGJMZHlkNm8tT0FESmdtTHRuclAxOXZwV2N6aVFzZjBHMDdCN29qN0J4Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T03:57:52+00:00",
+      "summary": "OpenAI Calls For International Youth AI Safety Institute Ahead Of G7 Leaders’ Summit  Pulse 2.0",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Expands Codex With Role-Specific Plugins, Sites, And Annotations For Non-Developer Teams - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYUUyR1FyLVItZWk2UlVTbHRCa29Td2VPd1o2aHItOGIzUGlHcWVvMU13VWVQQ0lyT1oxWFNoWXZxVVkzZWNWQlpmbXpNU0E0S2RQcUZ4T1B2bXE2bHVTWXpUOFhsM2JOcDFBMWxFNklSaFNteHlMZ3Jaa3U1cWVrVHJHWmFRM0RfcmItdEVhbTVUYVZORm4wWmc4WG96WHFHamRQZGlQSHZac3dGTHY1d0hLSdIBuAFBVV95cUxQaTJ0VWV4U2pZSUc0bmI3YldNMmNsUEpINHA3SWl5R0JSaHJlSjlGZnZvSVBveHhWaUItZHowaU9JaENZZXhXRlBvakVad1Y3R1VHZXlXNGR6RWhlMXVHQWhNaGUxWXZpelhBMDctWTJZV09XVko4WXE0M3Bmdm1QQ3picFVULUhXTGVzUDNLNE9vVGhsNXEzLWlUWVgzeHlJWWlWVmJXNWs3N1dGSjZJOXJWaE13VnZV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T03:51:41+00:00",
+      "summary": "OpenAI Expands Codex With Role-Specific Plugins, Sites, And Annotations For Non-Developer Teams  Pulse 2.0",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Investors: This Might Be the Easiest Way to Buy SpaceX, OpenAI, and Anthropic After Their IPOs - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVdFQ1RoSkpHcUNDUVZsOVRDWFdKS01KenVNM01MNVV0bVpxSlNqWVlXSV90WDg5TlN3NnNwWjFxQVBuQ3YtQWlTempzSjNCcjBsT2w4bTlzOVZlNDZOM29NRlcwRDVRN3RSOWdOVUpuUVVheG85YUhnYnFIbk0zRzlZSGtveUJFY01QbjZYSEJwUWtKaUVmcA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T03:45:32+00:00",
+      "summary": "Investors: This Might Be the Easiest Way to Buy SpaceX, OpenAI, and Anthropic After Their IPOs  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Investors: This Might Be the Easiest Way to Buy SpaceX, OpenAI, and Anthropic After Their IPOs - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObWcwS1pfRHB4MTIxUlRTSDdUVmJibjd1YTMzMFpGMkp1anM1LWVhc2d3VTFfcnFXSXhGVWFmaVJJTUJZdFg0dFJnczdOQ3hQSlBEZ2Z1MnM1LUljRndGaHBGc09GOXpnc2xxWlN1UmpwblpDS01kUjFRRmd6Zm96NkdtVm9TY1Y4X3hLTGlLdEkzZ2c1d0h0YnhfX09RVm5DTjhNYkZoTE0zUVd4Ui1hM3hQSHEwYWU3a0l4Qkp4bUVnTnNsUnRoaE9Oanh6WW5nZ19CVC1uVVVVeHJTM3JxejlHem96N2IzRmJBM0M3bTFzVlVCQXR3blRkc2p0a0pBT25DbWlTZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T03:42:09+00:00",
+      "summary": "Investors: This Might Be the Easiest Way to Buy SpaceX, OpenAI, and Anthropic After Their IPOs  The Globe and Mail",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Everyone Is Building on OpenClaw Now - The AI Economy | Ken Yeung",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xaXpDUlV4Z0ktdThKYVB5Sm1Hd3Zid3BvajhzT1pnSy1VR2hVVFhjMFdGbDBtNi1YOFBvd1FYU3Z2YUt4REZwVVY0dWw2LXJhYTNQakNGejNla1dJcnNYdmNPdmQ0dm15NmM3YzdJWF8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T03:09:12+00:00",
+      "summary": "Everyone Is Building on OpenClaw Now  The AI Economy | Ken Yeung",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Plans Biggest ChatGPT Overhaul Before IPO - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3ljRks1bXpiYTdOeW9HUWZwUWhmcXdCaC1qMmFZSmNRNS13NFNYN1JNTkxqSXRkdkwxLUtOblJlek5xRjNZaGpsOHotdlFKY0pZOVlmb2dXRnhsRmstYnViSW5ILVhtMEN0QUNkRzc3SDV5SDRRamdTYTBON0kyX2FKTW5MQTZWSlhCaU52ZGFTUUl1?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T03:00:01+00:00",
+      "summary": "OpenAI Plans Biggest ChatGPT Overhaul Before IPO  Mitrade",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reportedly plans ChatGPT ‘superapp’ overhaul - Marketing-Interactive",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXNDWmhCckg0SENSaWlwblpESllKQWIyaHJEeWlKZ19EN0Fqd3Vrc1kyWU4wUEVEdGNtSVFoWVdIYkZuRGZJeU1Yc0lTLXJsSFlIdjNRQVAtMTgyRWdScGF3Y09FUVBFYXNTWF9RVEVZYXBmNnNvellhZzF6VnVGMDBmWnNwQTN2YTFLVksxZFg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T02:33:12+00:00",
+      "summary": "OpenAI reportedly plans ChatGPT ‘superapp’ overhaul  Marketing-Interactive",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft Builds Its Own AI Stack To Cut OpenAI Dependence - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlg3R0NEcEs2SG5EQ2xaU2FveEthWFJUS2dUaTVqeVpBNnhUMFhYSmVSOGVjSll6aGxuYkhDUFBrMmJUd3RWQnpzbXJmb3BTd3p2WEFNMGR5VnJKNTJlREdHbGN2akI0dGdibUFpd0dsLWZzc1V3M19hVnBqX3FJeE5fTmExWEF3a3NZN1V2eHVDWm1vUmNHZWdvRDRUeTF4MnQwUHhpUktJQnVFODZoNHRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T02:31:49+00:00",
+      "summary": "Microsoft Builds Its Own AI Stack To Cut OpenAI Dependence  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT on the verge of its biggest makeover since launch: OpenAI plans to become an AI super app - Basic Tutorials",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZWduVGRBaDJXZ0xtZFcxbDh4bWwzaEt1TVg3ckVQVExZaVpCblhnaUx6Szl6d1NWalF1dUpUbTU0Vy1hWEZjX0VpS0pzTGU1ZHpBcVFVZFRDRWNINWJZT3RmOEZPZTM4RGVVcm5mVnd6ekdQYko5TVhuNkhxUEk1Q3M1WklCeUVqejNyeFNIRWpFUU9waVdmWFdSYkFiUXFibElvN0wwZHhQUFMxVl8zZk5IMWhIS2FmTGg5eGctNUNqQzZzbm9SeU13?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T02:25:31+00:00",
+      "summary": "ChatGPT on the verge of its biggest makeover since launch: OpenAI plans to become an AI super app  Basic Tutorials",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Folds Codex Into ChatGPT After 400% Growth in 2026 - Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQm80b2Z3R2xSbi1kSHA5VUJKTFlvWnBpakR2V3FJZko3a1dQUGgyaWtEbXZ5Q2ZaeTgwNHpYaHh1bWwzbHBCOW1UVEVFUzVua2x3R3pjZWtxNk5EQnB4NExWdXEyZnJBWXIzcTVTb01TYlRva1poaUVTb3NicjZDYU1xblg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-08T01:59:09+00:00",
+      "summary": "OpenAI Folds Codex Into ChatGPT After 400% Growth in 2026  Memeburn",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Four Main Trajectories of the AI Agents Competition among Major Tech Companies - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrNE5oQ3Jfa0sxQWp5dm0yd1ZWODlXSjNCQVBIQ2treDFESnMtMmlFX3hWaW9ESWQ3eExkS1MxMFNmU0RINEl1X3JTQlR3a2pEQVN3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-08T01:02:48+00:00",
-      "summary": "Four Main Trajectories of the AI Agents Competition among Major Tech Companies  36 Kr",
+      "summary": "Four Main Trajectories of the AI Agents Competition among Major Tech Companies  36Kr",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -94,132 +220,6 @@
       "summary": "Personal Automation Applications  Trend Hunter",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "EXCLUSIVE: Anthropic, OpenAI, Databricks Or Canva? This Is The Most Anticipated IPO After SpaceX - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTElGTDhGQWMtQlg0YmxQbVh6MGJmaDBiMHY3TjJqTUJ4dDVQbnFuYWRTVWJ1U2tzc3o3TWhzaFZkWXFhSWtiLXRRSWdiYzRRWnZzeEVSY2w0VXRYVmxUb2QwajZKMFlydzhGSll4OWUzUjBrVS1OWEVZQkx3UnJabnNhT1BOOWFGT2pseHI5VGt5Yjk2cHBFbklzMVV1bzVUUUsyUE1uaEpIbjBv?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T20:31:02+00:00",
-      "summary": "EXCLUSIVE: Anthropic, OpenAI, Databricks Or Canva? This Is The Most Anticipated IPO After SpaceX  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft Releases AI Models Amid Tensions with OpenAI - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHVyWU1YVGs2YjdoSVZUU29uVXc3aTVTZl9nMWpIRDRRdGhnaWpFWjlFX2VwOXhoRVJocmxZMUpiMEZmSUg3TXdLbC1JbTZkaDFTVlF2cW5vRnZhdkNxOEF0dTM2Zm5BMU5kUnhaSWtVWFJWT01aNy05TnRlSmZLUVAyMFZBQ2RpR01fTXJNTzFCUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T20:27:49+00:00",
-      "summary": "Microsoft Releases AI Models Amid Tensions with OpenAI  Intellectia AI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHpKWS1PNTRFRHBCSnNrM1ZaTFdBUDlYLVRRSFEyVUt1NS1VbFVqWlg3RXgxQ0NGaldGb25MT0lOUTliUXVrUlIxdDRTT3BYX1BsNl9XRTM2aFNUWmg5TFF4MDBoZFQySndDOWVGNXdPYkxoWVZDOHBfTHJqQ3dPTm0yNl9ELVpfN2w2cWh4bmE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T20:11:00+00:00",
-      "summary": "Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors  The Motley Fool",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Trump Says The US Government May Take Equity Stakes In OpenAI And xAI: Why The Left And Right Suddenly Agree - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSmd5M1ZDUVFxVkx6ZGpnX2pFTm5BZmUtV0pNX3N0LUJsS2JXa3dYTEFPdmpyMmFXeENKZm1mbFh2bV9jTjZLSkxNVWEzQlF4LVdzRXB4YUphQktIMjEzcUZuNTdLV0tPeDdhdXB1YjgzWWhjNDFzWlYtNFNmRXM1a1lUeFpGd3B4NkR2eTliU3g4OGpJNW1kT1dSRExuU0RaUzdvVXB0WkNRVmgxMFM1VWo0aDN2VTRUYmZlQ2xMaVI0OTNCLVhhZmxNYWktWHlBbVk4RjNtQTk5ZWs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T19:54:01+00:00",
-      "summary": "Trump Says The US Government May Take Equity Stakes In OpenAI And xAI: Why The Left And Right Suddenly Agree  Tech Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Targets An IPO As Soon As September At Up To $850 Billion - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRk9Tclo4ZFdndWhlZElvd0FTajdPUHB1bDJJSTZRWk5mZzlhYnkyUmppUG5zWGNQUk1tbmx0NVVZcDNGSXFQSHo0Y2xOYzgxVVlQNHU1UGRvcU0xYzZqcHdNWUxkNG52eWN2MW1XMU9BVmc1eDcxeHF2TmZkdzZFWXFFeVFqOHJhc0xEM09TbGFXQm41MkdNZ05McTBkV2IxY3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T19:51:23+00:00",
-      "summary": "OpenAI Targets An IPO As Soon As September At Up To $850 Billion  Tech Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Clive Chan Joins Anthropic After Helping Build Custom AI Chip Program At OpenAI - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVldRdDNpbGxKZWxPbnBLWTdnUDZnZHduMURocnEwdmQwbHJiS0FBcE13WllwcllFelZBTURiQ3Rid0ZvQ1hlZnpEVjlFbHNrbWFSVDE3aW80VjRHWk1nTlBiUk1xdmJfNlFVT09CdVp3SzdwaS1QaW9jQy04R3RmU3lFWEw0aGlWTDN0bl9ZQkdfR1JNTVRpZmhSejEwbHRW0gGmAUFVX3lxTE9RbnJmUmgxMnd2dnc4NGJTVVNzakYwT3B6aTVtOE5sMWFQWU41V3Q0XzA2UVg0cDZTM3ppSzJ4dzIyUFhkRk01NEw1aTJiNVZEQ2JfTVF3bDVzRFlQdFVxQlRXZkdjcXVneklvSzVPaHd1bTI5Z2phNHNmdUtxV2FsZUR1UXEtUDF1V29SSmlxb2k0NDJkRHdTMzJrLWtVLWF5bDQ0dEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T19:41:15+00:00",
-      "summary": "Clive Chan Joins Anthropic After Helping Build Custom AI Chip Program At OpenAI  Pulse 2.0",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2ExSXk0V3dVOWNya1RVVWJqUnVwaG9vQURUWjExTlFMUll5czFmX25MSFdXUjJDaUJ2MUVab2NkQUNLRU5INFlCZU9ISTVianVwNXFHX3lYazZKdXhWamNoVmhrMU90eDV0T05RWVptTkgwMklNTHh5WUZzM0VCVUM3cDNyOFJMWUh4ejRPWmp3ejhXcmNOSTA4NFhuUUpKb09UN2F3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T19:31:00+00:00",
-      "summary": "Why Microsoft Distancing Itself From OpenAI Is a Good Thing for Investors  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is turning ChatGPT into a superapp before its IPO - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQU9rNjNzdG1hZjFHeW42NXF6aThpSFBROTdNeFhJUHY3SlhIeEJ2WWxnbW8wY2xaak1aS1J4WHlUMDhJUmw1ZjQtdkNlN09SZlM2elE3UzVKOEktY3IwNW1NWV90V1N3OEQzNi1VSGpsWWV5MWpINDRfN3ZLTmQwYk90TjQ1M1lrcWxqNg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T18:59:42+00:00",
-      "summary": "OpenAI is turning ChatGPT into a superapp before its IPO  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVi1nX1VJcnZjT0lZS05SSkxUeHZjY0FYLVpqU0NVQ2RWRjh5RTRnM1ZRandocjZFeWtCOG12VW9kRUE0RjhXaWJqRER0NkxpQVlRZEhHcHlPWkZSNlpaclFvVmhyczF1dm42Ykd3R01ETFRNZzlLdnFIaEJoZ3hnblJEc0U2ZEZqT0l2TnpDR0NydFJycFJiNzRLMXVrZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T18:16:19+00:00",
-      "summary": "‘Chat Is Dead’: OpenAI Reportedly Planning Radical Changes to ChatGPT  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Prepares Updated ChatGPT Platform with Coding Tools and Autonomous Agents - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMk9leHNqUVRac2pPeWF0OUV6RlRsT0pDYjBxSlFMR1o0NTNHaU1jSzhVNzRyeFI4RmVacGdXcE5QU295YlIyc1FPeFNiUEFCWkR3WU9paGNRZWNiRzBadmhCRENyVkJSLTJEd3dsTkloNVdNejFaWUVPLV9HcjBXS0VLSUp5VjZESEdDNW9mUTQzRFMtN21qWjJsNTQ3VnJKTGk5SnZ0NWRhTmhfc3pPdFZ6bDBtT25fSFowdA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T17:41:00+00:00",
-      "summary": "OpenAI Prepares Updated ChatGPT Platform with Coding Tools and Autonomous Agents - News and Statistics  IndexBox",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman Plots Major OpenAI Upgrade As Anthropic Battle Intensifies - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGRhTXU0Y0p2NWJlZXdVdk9seDc5T0RjSDRPYlVyNW54ZTNzWDN6c3ZfSVRMM0ozV2RwZWJ6NGNPSFgyN2dwZFUzZ19QSEJURzh6bThrWFE3Wk4zQUtnV2IyV2dLLV9mU1Nzd0sxOW5zQ1RqMGg4d1NGTldLdENvY2FUQTh0Q2J0UWw3ZXYxaE5tQVhtZ0I4aUl4R013N3U2ZmUwWUZqakdVc25VX3ZfTFhCTlQ0MDhBSFJyMVJtUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T17:11:23+00:00",
-      "summary": "Sam Altman Plots Major OpenAI Upgrade As Anthropic Battle Intensifies  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "US Government Could Take a Stake in OpenAI - PCMag Australia",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ja2pkc2RQQTl3a1oyX3BGb1YtclN0N0p5NFNQbGhpOW42UjBNakJtbDlwSDVzSUs4ZHVEenBUTTczT0hiUGtaNEhFLXFsMjAta0RvU210bzZmV3RYYVZaMkZxSEtsa1F1ZG5BS0IyNlNnWGhDQ1lad3FLRW1KQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T16:49:53+00:00",
-      "summary": "US Government Could Take a Stake in OpenAI  PCMag Australia",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "'ChatGPT is dead': OpenAI plans to ditch chatbots for agents in upcoming updates of AI model - FT - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2Voa2s0bVM1TzI2dFdtWHBwT1p2VzZDY0taUDMxQUNPWEJOU1JXVmRHblJra3lWTDVpc08xQnNyNXFvUEdBY3JQd255Nkh6V0ZiSUQwS0NZRFpWVVRiOHFJNTVhRkZlVXMtYmdwaHhYR2M0Rlo1R3l0dlM2TGlvWDRfNkc4Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T16:38:28+00:00",
-      "summary": "'ChatGPT is dead': OpenAI plans to ditch chatbots for agents in upcoming updates of AI model - FT  The Jerusalem Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Reportedly Has A Major ChatGPT Overhaul In Store - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNHl0VzNQSG5RdkNpVTg2Sl9FdjlqMklfMkt0aGlTeVZyUDRKWUJpVTlJM0MxU0ptRnFNd1FfQmw1LTlEWUtBYWdCTF9vVGFObzdSdk53WGhzOE5aMDF6N2ZuRzJ5bUhnNUtIdjcwanpQbDg4bXdrSXZoSzBUdWNDM1pvejR4aEV6bk1YblpOVWcwMHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-07T16:23:19+00:00",
-      "summary": "OpenAI Reportedly Has A Major ChatGPT Overhaul In Store  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
