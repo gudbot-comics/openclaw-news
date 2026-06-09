@@ -1,16 +1,187 @@
 {
-  "generatedAt": "2026-06-09T13:22:13.627101+00:00",
+  "generatedAt": "2026-06-09T16:16:33.673945+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI, company behind ChatGPT, files for IPO - ABC News - Breaking News, Latest News and Videos",
+      "title": "OpenAI’s IPO: Navigating Profitability and Market Dynamics - AI Business",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWEVYMVlzaWwyQTBnWF9wSkluOGFMZmc3NDJuT0xqNGZLclRuYnN3ZDZBVndiUVgwcG5mSW5zUV9rTU1aNl9udUY0eFBiM0dZX2cxRFl6VEhVWG5TYzl5anBzMmVKc3NfTHk2eDhqVGxNYVR2SFNoSkd2QUowUmlJSkhtZnN3UEtJMGEtblBtZWk0NkxZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T16:04:05+00:00",
+      "summary": "OpenAI’s IPO: Navigating Profitability and Market Dynamics  AI Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Watch OpenAI Confidentially Files for IPO as Tech Rivals Compete for Cash - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT3l3clVodXoySFJ5dnZIZWdhZC1QX1kySXNIalpVcW5TbGdkTlhpbVk1U0NmazVkVmtjLUp3enM1MUtDd1BCMDJ2RWJ1ZGlVdzNfN01PZXNpQ1dnRDZfY3FxWnFDWnRhUUtHdmRPM3ozalR5Q196SEhBalJISWNaUlg0a1NfVmJwYWhJSTgtUC1sSU10?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T16:00:55+00:00",
+      "summary": "Watch OpenAI Confidentially Files for IPO as Tech Rivals Compete for Cash  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, company behind ChatGPT, files for IPO - WBAL News Radio",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xTVN3ZlQ0d3VIZzJXanhBbUVITUROam16M0p5bHhrSkZDdUJZMnM2UHUzbXNXRlNSS0k5UVVUbjN1N2JJNWpwZWdLNlh3LUhVWVRkLXZXc3ZPQ0dXZkVaOUpLSnh4cjE3MVkycVJnbmxndw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T15:56:13+00:00",
+      "summary": "OpenAI, company behind ChatGPT, files for IPO  WBAL News Radio",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, SpaceX, Anthropic valuations are 'really extraordinary,' says Decision Tree CEO - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX0swUzlNRGhrUERhNmtaa1g2VzRLYTl2R25teTlOMXpIQndhaklibUhlaWs4RnFGQnR0YVVlNzh3WmgtdDRUMkVGVGNPSFRxODMzR21uMUlFQjVTRHNvLUlkNVFuYUNNcGlOLUFBTnpfVVhGcU81Uy1FMTQyYlpmRGRCVG1UYzc1LS1ES1ZTOU9Bb2lZcjJpdDRfMEtLU2FhOFY4cWx1bDRIQk14dE1BenNxS01TcURheWpkT2RVMU92Mjg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T15:55:42+00:00",
+      "summary": "OpenAI, SpaceX, Anthropic valuations are 'really extraordinary,' says Decision Tree CEO  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The hard part is about to begin for the world’s biggest AI companies - CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOYXNXb25HY2lvRlpBVXE1N3J2a3k5Y2RaWVhJQnRQaWRqb1h4YmdNZklNbXotMzhTaHRpUTM3N2thQS15R2wxMmJ3QXVBaVNyN0ZQSS1xRTdmZUZhZmFZNGQ1dkZ0VDF1ZzJWZFZJUS1yT2M5WE1R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T15:50:49+00:00",
+      "summary": "The hard part is about to begin for the world’s biggest AI companies  CNN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Joins Anthropic in Call for International AI Watchdog - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGJfb0Fxa1JYdjVPXzR2UUhzenFqVE5yNUh1aHUzUC13RHg1c2xGcUU2ZkNPSmhGeUx0OWNLTUwwUzlkcXJLTzA5ZGR1aldLM1hmWUZyUnFYcFZyTE0zNGdWeVBRQkEwODV1azhZMmw0UEtuaTlmRURkNFRiRDgxV2tFUWt6dUFJSG9hQXA0bUhYZFFNSUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T15:40:29+00:00",
+      "summary": "OpenAI Joins Anthropic in Call for International AI Watchdog  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why Oracle Stock Needs a Successful OpenAI IPO—and Microsoft Doesn’t - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXFJWFpmVDlqUmpMWTVaU21oVnRoWXd0dXBPWGJ4V2l2X3FFVlJUdXNyS3QwRGh6WWZkTl9OZTRJRVFFaFA5d3VwYmRUdEVHS0t4eVR0MXZEdWhCTm4yM2VjWTJhWW9IaTc4dnQ0NmRJbm5PTk5Lc1FJSzA3YVJFZTJ2Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T15:36:00+00:00",
+      "summary": "Why Oracle Stock Needs a Successful OpenAI IPO—and Microsoft Doesn’t  Barron's",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI files confidential S-1 with the SEC, says it has not decided on IPO timing yet - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdlRXRVNvMEU4N0Fjckt1aVROZUVDZlZ0ZlJjNmxvTkFGUW9oOWJvLWYyM0xFczlxUUR6MjJsUnlzYXBDZ1R5ZndGUUZQRzNyTnNpa2MxSTNtTDRRYmVrLVkzdTJmcGYtZkpWTnMtaTdjSFY2NUg2VFRnaVc0d182akdZVUJ6QnVRNVd2U3M5cFBIcWp0MFdTemloV0E4bXh4RXJHWTQ3R1pnQXJGNjVPZFFpZV9RZ3JPbEZycy1PYjV5VXlGM2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T15:22:24+00:00",
+      "summary": "OpenAI files confidential S-1 with the SEC, says it has not decided on IPO timing yet  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI files to go public in test of investor appetite for top AI startups - Editor and Publisher",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1Bqb284SFd1WDcyamxIQ0lLZlIwU2Qxai02aWtpTlhiTTlxTHVFcDhwMFVhWEpsUE16bUdkbkpBWWZERGJFOFVFZTlVSF9rWmY1Ri1WUlNpN1FxeXVWYktZWmV1TG1NS3hFTDE4dk0xYUVXRHQ4RXpuOWRXZEhsNmZvVkJ0MnZWUWMzTTVSOEJleGxaWmJIalk0WVByRXhyUzRUUWJadzU4azFkU2FPTGdWR0E2ZjdhRDdGbHlGSGlvUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T15:14:00+00:00",
+      "summary": "OpenAI files to go public in test of investor appetite for top AI startups  Editor and Publisher",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Moves Toward IPO as Wave of Major AI Listings Builds Momentum - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVNKS1dHMEltS2FOTWU4OVgzM2t1aVM0MGNzanFEZDJsRl84ZVJGN3hWUExFa1lVcGU3QkctVzZKRTdSSDE1MWZwVmNZQTAyc0RDOGxramZjRkV0NjVMVUZLUVIxZXRVOURCWFhoUlJ4WUMyTTBUVGNUdW4ydjhESC1xZ2dFYUNUaEFDZnNPTzhZOHVUaURLXw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T15:03:16+00:00",
+      "summary": "OpenAI Moves Toward IPO as Wave of Major AI Listings Builds Momentum  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What's driving demand for OpenAI and SpaceX IPOs - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcS1ZUmpjZjZYY3ljLXNSTVZQMzU5VzUyLXYxM1BRY0ZVNlE4dzRqalZoNGhva2stcU4za1NZaGpRTzNUNU1pTElmNlNrS2VJaFZXaE9XTUpoZTVwbUZTOURxVXdZSmJjTll3WWlxb243bWhDVUxBTkFXN0d0Z0xyVUxvbGhvd0FXR0Z5MTdpVGtxVmhMU0w2d253?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T14:49:28+00:00",
+      "summary": "What's driving demand for OpenAI and SpaceX IPOs  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Just Filed for an IPO. Now What? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFVIa1RjQmVHVWIxbTJaSVlPaXk5M3F3dXE1MDduOW9uZG9nR19GVjVkVHY4d08wM0xXenQ4ZTdYTllTRjQ4MTZ0SDgzYmtkUjgtVzE4MGhfU3o4a0VVVXREQ2hRM1haaGtlbFdvaTYtY1ZReWttYUluaFdmMVlYOW53Szd0VEFXS0V3amVrc2RXczdB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T14:38:58+00:00",
+      "summary": "OpenAI Just Filed for an IPO. Now What?  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Files for IPO That Could Value ChatGPT Maker Above $1 Trillion - La Voce di New York",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnhvQ0tISXh6Tl9TRjIyZ0lVLVJielRqMExUN01DUGZHcm5oVzJjbGJ0R1h6MWkxQ1R0dE1aOUlUWjZoUEVadzJ4V2JDdjY4TnlZREJ0SFNBQW51SVVPTU5wRDg5cU1GY2lQejVwLXp3N1FGcFJWUmZOMXRWUFNrVm1DcnhLcDZhMjdGN0xOdEdSdzJvRXFZUHNfVXJOdmd1cFhRTXJkV0pLQmt0RDY4WllvWW5uUWdRS29GeQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T14:37:38+00:00",
+      "summary": "OpenAI Files for IPO That Could Value ChatGPT Maker Above $1 Trillion  La Voce di New York",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What to know about the OpenAI IPO - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1ppdVZyU2ExNTRiUHFwZzdoOTBQWWstdDJPTFFaNkZ0TG1uREhZVFY3S1M4UWlZRVl0R21hcjNETnJ1QWxad0cySklxUDQzVGFKM1dhRXcwX1lSSDJRX2Rta1dQZ19DQm41ajVyQk5qbEd0ZnNUeFBIRGhCNkU2QndEUXc2UEHSAYwBQVVfeXFMTTluYzdGZjJxa083MDVRdU9BYU9paUtaQVl1WWE5VndvYkVtZjNDTnhKeUI1alBtSEdfclhzUTZIWHJGU05EcnIwa0pGUHNHZHJ0d1ZWQWR4N2FpcHRwS3VBZFhrWU01dEQ4NTZfNWFVYXU0TUhQSE1nRzZUcDNZZGdwMXhfbi1NeDFValo?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-09T13:11:08+00:00",
-      "summary": "OpenAI, company behind ChatGPT, files for IPO  ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-06-09T14:12:03+00:00",
+      "summary": "What to know about the OpenAI IPO  ABC News - Breaking News, Latest News and Videos",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Wedbush: OpenAI IPO filing opens floodgates for AI public markets - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTWdJT3hxTFF1aUE4NWs0cVBDZVZpbkxGaV9hS1NQMlhfWXluNW5mNUhXZ2djLVoyUi1EWXJISVVrbTFZQkZhYUlWaVZOM3o3SHZvcHRnQTA3T2lvWko5WHN5T2FZQ2NQVGlxS2VVb0NzUnZqSFlvMGhmbG5DdU9EV0ltTE9RLTJ4cHBjemtOaUtZV1hYVmJDbWJYcUcxWm15dlg0NHU4Z29OYjJNUWZFMzRjWVZlWW9FZkVaTjVn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T14:07:50+00:00",
+      "summary": "Wedbush: OpenAI IPO filing opens floodgates for AI public markets  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s IPO is the largest compute procurement vehicle in corporate history - capacityglobal.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFk2TjJUdHRBbnNHWkZZZl80UHNLbzZSdnRNeEtqS2FFSVk1MzkxVGRfa0tibkRtWm1fME52YWVWZ1JyRkIteExYZ0xselpyaEtleWMzZ3hCVjFOVUprNW9ZbjVvbnV3T0drUlVXc3NodzNwcXlweXZNM3M2cEFlV2V4d3h5QTF0WVo4TVgzOGttMlN3Y3pFcnZGN1Q3YlRlSVIzVWNIZmtvTzFZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T14:03:45+00:00",
+      "summary": "OpenAI’s IPO is the largest compute procurement vehicle in corporate history  capacityglobal.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s $852 Billion IPO Filing Deepens AI Capital Rotation Threat to Bitcoin - CCN.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX003a1ppWGVaVFZoVGN1THowaHpMMmNJVW10ekdVY05zRWF4allwUU1xeDBvNzhEbW5JUHNzb21WZlFQaVJBSmVBLVZNdHBZQ3JFVk5pbWRrYmZxQTd3dTdiN1d1VWw1bFJOQTJBUm9TYlA2V0gxTUVZM21YcXVMQjVZWXAwM2NvR1B5akFWOU41aF9TdUFSLQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T13:52:47+00:00",
+      "summary": "OpenAI’s $852 Billion IPO Filing Deepens AI Capital Rotation Threat to Bitcoin  CCN.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Tests Investor Appetite for Yet Another Giant I.P.O. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXpld0ptU2Rfcjk4MFFPS2o4dGJNYUozRFFHMGEwbHUwT0ZZR2hGLWt6WFVKcE1MdnlXSWlwdlRKUzItT29pc3NHOGJVWHdGNGxLT0FYc0JZdlhfbXNjenAyZUJaNkFudXdiM2dOblhIVkd3QnExMUljMkR1dWxiSEFkSUJpUzhTMGdDLURn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T13:46:28+00:00",
+      "summary": "OpenAI Tests Investor Appetite for Yet Another Giant I.P.O.  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI files for IPO amid intensifying AI race - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeW1jM3loaFNYMjBDNjg0MjdQUUlfMWFxZF9hb0h4a3RwVDJpX3NvTlN2NV9kRkNzTlBySFNETWJOVUhCeHN5UGVfVDZLbHgwcXk0OUdoWW1pdG1zQTRNNmk0akdKRWRHNXkxNTFNbmJ3SEh2bERmQnd1OElPT0psd1doTS03OVFsSVZ0VmVUd1h0Qk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T13:46:00+00:00",
+      "summary": "OpenAI files for IPO amid intensifying AI race  Semafor",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI officially files for Initial Public Offering - weareiowa.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcC1zUFQzY09mejM1UDFrbzRrVDhrLUVSX0lJTUV3c3haQkdiYUhnRHIzX3IyUVNXWFJHZ1VZSlZ1bEd3bWdyc3hrSmhlM1N0V1JWTk85VDVybkR1WmhQblUwZi0tUTFYNmZZWDd4Q3Y0S1lGOG0xMTZqM1RRSjdtNmtVVVplX3dGTjc1em5WU3dhQkdteWd6Ql9Sci1XdzBIVmVkbkdDMklNcVhQczFsV3FiZDd0NkZsWEo3bkE3LUNxWFN6QkhieHlqTjd5MTdCaEJMVw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-09T13:20:00+00:00",
+      "summary": "OpenAI officially files for Initial Public Offering  weareiowa.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Files IPO, Builds AGI To Change Advertising 06/09/2026 - MediaPost",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSnNnYllvOVJtVnZMdHNhOEowQlhaN21UeFlhVDQwUy03Y2NELVEySEJFdDdxd0VMSkNIVHByVzFEZklRZ1pFV2ZrcWk5YWlTbjU0bkxaYjBLOGswM1VrXzQyWE5MeG92WGNxTlJBcjhKWEFsVWEzeDdON1JZMnZaMk15WGhiYzhFLWpOdFpEME1BSXVpcHRsQzFOTUxQSFNQcUl2Sm1sQ2dadnNH?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T13:02:20+00:00",
-      "summary": "OpenAI Files IPO, Builds AGI To Change Advertising 06/09/2026  MediaPost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Anthropic, OpenAI Stoke Brisk Pace of VC Fundraising - The Information",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnNkbWItQkxOeEp3c1I4Sm5UZ0RsMjJUb1dKbGVhNGdhbWFPMDNGS3FsUDRLMHlJX1ZTckVERVYtRW5ubHl0S2JBRHZ5S3FOLWhIUl9TdkszUXFUTDlUcUo5Z1RPRk1ncWo1dUJiaE44dzE1M0pnbEtWX1pzTlU4RVpRMHY0dFN6WVd0TEdLUkVvZw?oc=5",
       "source": "news.google.com",
@@ -51,173 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Files for IPO: 8 Key Items Shaping the Stock Market Tuesday - TheStreet Pro",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0NpSzI5RFFvZUctNTRHT014U3p4aGc0N2ozQXFsQVRpLVo1Ty1tQ2xPNDJ6ZWhuOE9HdFNpcUt5SUZlVXV6NUFiVjhFOEJOM2JWWURWWEotUkUzLTZUQklWRUJWdzM4WDdmVVZkd2tyTVlLM2xQREtWRHg3Nm5LTUNZTVlZdHZjYVNSOFBXVUZ0Z056cGJwWVZzSlRyM3JHbVdB?oc=5",
+      "title": "OpenAI Joins the Mega-AI Lab IPO Race, but Timing Is Uncertain - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM24tMWE1dWhNcUUzajZMUzJkRDlveTJ1TjFHSm5YdFhGZmJ2dlNDSWlTWDR1ZGdOaE5yNG0tZk5kUTVTWGs3dzJsSEI0U1ZYNFJxNTRXU2lSUDltQWJNMWdaTVVLYnc2ZmFqQWFrUzY0VV9EX0I0OXd0eXVFUUk3WjVuMjV6ZGlSbGlQTFhB?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-09T12:55:00+00:00",
-      "summary": "OpenAI Files for IPO: 8 Key Items Shaping the Stock Market Tuesday  TheStreet Pro",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Public Market Test: Can ChatGPT Justify a Trillion-Dollar IPO Valuation? - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN25nd0xUdF9ObFplOS1JcEJ2YTFfSElUOE5BUXMxUHNkZk15eF9hdlZ6UHpSSXRuSFE5Znp6cnhPS2ZQbTluLUVsSXp1c04waWRuTXpVSFJBWXZVQmxRd2RMek5OOHNaelpnSnFmck9DUFpqOU9aQXNvMUxYZU5TVWE0S3l5UUR4UVdYQ2ctSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T12:41:00+00:00",
-      "summary": "OpenAI’s Public Market Test: Can ChatGPT Justify a Trillion-Dollar IPO Valuation?  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "'It may be a while': OpenAI carefully manages expectations with its much-anticipated IPO announcement - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSk9hWG5DWjY0enNCTlh4MWRoeEZSU1NZc0dVTFE3T20ydl9rWU5DUGNUSU83Sk1JMVVta3lIYzFYSGhxWFc1VXlKaFhQT2VCdDRjVXdXR0pSbkREVmR3WVpEQ2JmUE1xeHExWlJWQ1k5SEdndngzQ2l2UWRHMGY3MU5YM2ZtUEtaRlhjb3FFTlkzdGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T12:32:00+00:00",
-      "summary": "'It may be a while': OpenAI carefully manages expectations with its much-anticipated IPO announcement  Fast Company",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nasdaq's chipmakers to power further rebound after OpenAI files for IPO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUjctckk5M0NTdG5xUWVNT0k4WUU5T2xxY1BuOXVRN1RMOFJlYndzZGMwU05SVU55SEFBeWRueWx3U1o4Zlk3M3Z6ZmduN3FZazQyS1J2SVZrdU1MVFNoeVNGY05NY3FnVDFUeTNlWWlidjZIenFZMk9QTXp2N3RWQjNrdmlBN3FpaG91Y2xid3R3TTFDakM4TFdWbkRMdW9kM01VM3N6ZTA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T12:25:00+00:00",
-      "summary": "Nasdaq's chipmakers to power further rebound after OpenAI files for IPO  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI files for US IPO, but says it still has things it wants to do while private - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYm9UdnJYYTZWcnhhdk1Fci12QktmTEFHVTE5bllYMHRwU3cxSW9nQ1oxZ05QcmJkZmZMb2xka0RZcXhUdWdOZzBXOUdlNEVoOGFYYkhqYzZ1a2ZMVHJvTV9iRGVXSlRRUXlVVjFYbjcza2E5ZW53bWxsTi1LOHdhejlGbWlyWkxqaktWcmhBdW5rM1o5emxfMXlCSVp1T01HaE5hZzQ4QzlqaXVlb0t3enpiMEVaeU9uRjNWYVZ5VmUySmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T12:19:03+00:00",
-      "summary": "OpenAI files for US IPO, but says it still has things it wants to do while private  Data Center Dynamics",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI Services And Robotics Lead Diverse Crop Of 29 New May Unicorns As SpaceX, Anthropic And OpenAI Line Up Blockbuster Exits - Crunchbase News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOWQwQVdzV3NsdmlWSk1NY2dXYVZsU19VTTFPTmljNkRUWjljVHhfdnQ2T1hTZW1vMmsta0JzS2NNdzE3VGowaERZQ09hbWE0cGZyS2tyaFFtY0Jrb3psbjIyMnhYY2R0MEZQNTZDWTVqNzBlemVuWmhZSk9DZDhlb1NmWnhDRDZUM0ZIMURpWWw5R195Z3EzUlhUbzF6OWVQcHF1Z3RTbw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T11:00:24+00:00",
-      "summary": "AI Services And Robotics Lead Diverse Crop Of 29 New May Unicorns As SpaceX, Anthropic And OpenAI Line Up Blockbuster Exits  Crunchbase News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Adds Lockdown Mode to Stop ChatGPT From Leaking Your Data - extremetech.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbmVLQVlydzJUWHJtMXpOUXZOTW5KSFoyRDZ2eTFfZHNQZWxXMVl2dTZCTXRLS1lfZnVOaXgyNzRFek9LUzJENVIycl84S0JyQjEtdnl6QUw1M0VWd0JiUGhxYUJYVEkxU3VybzhocVZTWG1yVGFFZ2FSVmRVYmdvb0kzd2FpdEt2WmpNZUluaXNJRThhWVpEZnowVW5EaFNiWEpZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T11:00:00+00:00",
-      "summary": "OpenAI Adds Lockdown Mode to Stop ChatGPT From Leaking Your Data  extremetech.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI files IPO paperwork, eyes stock market debut - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEZUTjhMMVZpTlFodWE5WXVNemRDODEwVjZHMWZDY2g0dC01akpGOTRTXzlKRVljcDNUZHhpeVNCMW8zQ194cE51MXF3c0hpWVZacXp1RUtiaGdGaExSZk5uVFBvOEpPMlRpRk9rSGZJdHpQalAydjZLVE1vbWZmNkhsNk1jMWFQcVZj0gGLAUFVX3lxTE5TdmpVdWx2Sll5RFpsTlVOS2I1aDd4V1pteU1IXzl3elVla184b1dXd0l6Vjg2TUVoMklfbmpGcUlWQ283X0VGYXRLMGpsS1c0UGZnN0lrNmQ2bGN3MzlmVXcxWFVBQWlFWk5DdmZGTlh5VW43Y09DRFQ2dEtvQXZNRHRlYVlYdVpBbWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T10:58:36+00:00",
-      "summary": "OpenAI files IPO paperwork, eyes stock market debut  DW.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI joins the IPO rush, but says going public can wait - Straight Arrow News - SAN - Unbiased. Straight Facts.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTnltY1E2VDVuaDNXd24ya2huY2dJYTdZR2UwLTVaSWwxeFR0RWJ6cDlJZWpUSnJEc0E0SVRfUnZNVGNWdnY0VW9DdXQ2eTAzMmw2RjBwd3BmckQwX0ZKN2h3Q05WUkNhWHBfZTd4V0pXeGRGQWFDS3h1Yk1xcDlMZEt3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T10:58:02+00:00",
-      "summary": "OpenAI joins the IPO rush, but says going public can wait  Straight Arrow News - SAN - Unbiased. Straight Facts.",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMWVpZENXZ2NCb0YwbTF0c0ZibDl4YkFEaHpiQmhSOUVELXRaYkFUdHVLelVkUF9FNWZ0Sng4dFhRWEZBeGJiTzZFUHhaNm50NHMwVUl6QXlXT2Y3TjZBaXUxNmxZRGJNTXpsb2YydzBVSnViVTJfdjlUSl9iRjRmQ1BxLVdmdjdFZGtVRDBQWFRfbXQ4VFIxYzNSWWt3WkloSUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T10:57:56+00:00",
-      "summary": "Perplexity CEO Cheers OpenAI/Anthropic Listings, Plans 2028 IPO  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI now says \"entirely automating everything is not the future we want\" - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazFNYWFGSnZBTW5YQVJEc1RPTXpjUVI0RGxiWmhxelBIQmRaVTBPcnd3akYteFF5TFNqTnNFODJEU3AzTGhQTTZIb1BERDR2NHFFMzFxNW82UTI3NFhqN2tmQkxYV1M5UVRoMW56eGpmN2dPR1hFcUhSQXBZZGZ4Vlh6RnJEcHBNM1ctNHBuZU1pOTlvOUktcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T10:45:53+00:00",
-      "summary": "OpenAI now says \"entirely automating everything is not the future we want\"  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI confidentially files for IPO, a week after rival Anthropic did the same - Music Business Worldwide",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeWhaT290MjdPcGk3UVFLOEFsMjhVSW5HYVJzZUVoblJoaEljNmM2Zmk2bVF6SjBtYml2YUhkSXdMVGNNUWpPT1EtRXRyTWNUTnV0ZUJSLUxxd01FaEZpV2RyNXdZckI5OVJrc2pqU3FJSFZ5cS1CUUJaUFhhcXliTTY2OHZWdHpPSGVEQnlZdTQzdEEwb1BZYURnRDdURXFSZVQ3b2N2Um9lUjdkekVPeVNvellSZmow?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T10:33:03+00:00",
-      "summary": "OpenAI confidentially files for IPO, a week after rival Anthropic did the same  Music Business Worldwide",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "‘We expect it to leak’: OpenAI is frontrunning the narrative around its $1 trillion IPO - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5Z2M2TEtwa19zd0JjVlNkeU55UWtSYXNoZEQ3ZXZqM0RPeThkSm1wUUtUT2tjWGpaQlhRWkhRZmp4TWc0M3VCb253UjgyTHZRRlVSMWd6dHVmWUQtRDBJeTNOWGhUblVJa19xX1cyeFE1QjRxeFFGQ1VoVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T10:25:00+00:00",
-      "summary": "‘We expect it to leak’: OpenAI is frontrunning the narrative around its $1 trillion IPO  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "PitchBook: OpenAI Is Going Public as the Worst Value Among Its Peers - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXdOWVc3QjlQVkxiNlV5RkxqZWR1dzg1eTdGWFdIQVdlOGFsOUo2NXBRNWh4amtKaFh3MXk1SVgwMXpvUEFDUDV0aE9WVFNKZzJEZU51c1BDeGRfN29wdWg4MXliZlZIZXhmdF9JcTdnSWlLeEtReG5Na2lPSzl5M2U4ektXb04zUzhzNE94SjVycS1tTkc4UUtFTVBsX0gyaWFvS19Xaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T10:15:00+00:00",
-      "summary": "PitchBook: OpenAI Is Going Public as the Worst Value Among Its Peers  Morningstar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets - Hawaii Tribune-Herald",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUnpPaDd3eFBZWkFLVTg3SGVkWGs4Zy1LUWE2U1B2QVNjRi01XzR1QVhtcjBMLXhiSDQ1R1RaMmo3SEJsSGFsaHhzRkxmNWgwYTNRX3VQdWRuT01ELVBrYzhqbGtpUjh0NGlhVWwwWkNGX1J1UTk1ME92dWY5dmVUX05SbHFFVWVpZWV5SS0wY09tdy1ycEdaXzFOZl9tVnlQQnVkOGJlVUQ3QWZkOFBsdXBDcmMwLUpnMlVNQmNEajdLWS1sU0JDRVBiR0VPdnE2SmU1VENlWTFCQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T10:05:00+00:00",
-      "summary": "OpenAI files for US IPO after Anthropic as AI giants head to public markets  Hawaii Tribune-Herald",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Altman, OpenAI get bogged down in political spending fight - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3JPTnhpa2pKeUxzcWxuYjBfUzNHUDRWQlZ4YmVBNWtqYkstdGZjOXZldUJRVnljTXlLOHV3dWhnaWJRTl9lZFFuMVFWNGV4YkpLdW5GZ3o1akpNdWNVZktSRjE1Q2JpM1dncXhOd1BCOUdycXgzdWEyYnpDNDF3eHBxZUtMNUx4SmliaGNEOGtJQlV5WlBIZDZSbVo4M01aRHVFdXFFWdIBrAFBVV95cUxQQmdZTHZqbGVZSTlRQVAxNE5pSjdfUmo1WWJqWkpkbVBYYkRrMTcxSzg2WVZ3dDI2dS1Xa0VZZ1hwYnBhb3BzMXJZaTJ4THp2YUlUQmNBZDJxMWRPVnRoN2VpMGVUNXdVRDdjSU5DQnJwc3Zza09CTXF1Y2YzemJ1VHVFMnJISWhGVTVDMUZ0OW1fZTBtaWREMm9UNklzTVdlTVUxTW1HZFg4dEQy?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T10:00:00+00:00",
-      "summary": "Altman, OpenAI get bogged down in political spending fight  The Hill",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Neurometric AI & LumaDock aim to slash OpenClaw inference costs - Techzine Global",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTDJkS01rTUpyeGE1bHNlZmRlcjZrclVZd3gwUVpTeUl5UC1QZmNleTZaT1cwYV9hOGZ4N1BqZl9OY1dFWEM2NnU4ZGc3bWZaaWVONE1SSWtZQmVMQ1YwbEJiNC1xNjROSVhVMW9kVUhObi1CM1pjUlBUWDNNenhCS1E3Nk1rVzJXS3FGb3BrVEVkLWQ0emlndzMtX2ZnWVRUUXBNR1AtRVQ2Q1ZNS2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T09:47:43+00:00",
-      "summary": "Neurometric AI & LumaDock aim to slash OpenClaw inference costs  Techzine Global",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRU03NmJ4dGQ1Nzg0cEJabVRKTVcxNDEtejRvb00ydHg3OUZkTUt4eE1ISEszZS1vYXZQSVR2T0JlWFRabXZGTTZBa1V2V01BdUpvZlRHcmJFaXljQi1oZXRkUmJGNWM1Vnc0VFRlcWhVa0lJX2FLN053VkdyWmhoam5wd05jcEhGOVJUeThuSVpDcFV6dkx1bGptSjNNbUNvcUtYYkxFUHRuUmt6Smoxd0pxYXg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T09:35:42+00:00",
-      "summary": "OpenAI says going public is \"a complicated set of tradeoffs\" and is unsure about the timing  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI files for IPO - here’s what investors need to know - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEF5VElzTWo2RDlfamtKLU1VVzdVSHdWQnd6d3hfZmc1aFRKUllXdlFmYUhzajR2TnhsR0RvdkJwdGJoaDY1amJvaElKMGd4WThGa1JrUV9DU0JSdHh5aDF2WmhBWHFvX2YwbUZaTkdhZDRvR1k1Tzl3dG1xZ3E5ak80cS1paEc2MjcxekxCSE5HTGVhOTU5OW5VcmNWY0xm?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T09:17:39+00:00",
-      "summary": "OpenAI files for IPO - here’s what investors need to know  CNBC",
+      "publishedAt": "2026-06-09T12:53:56+00:00",
+      "summary": "OpenAI Joins the Mega-AI Lab IPO Race, but Timing Is Uncertain  Morningstar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
