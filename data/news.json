@@ -1,10 +1,109 @@
 {
-  "generatedAt": "2026-06-10T06:19:42.809881+00:00",
+  "generatedAt": "2026-06-10T10:36:21.077224+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "The All-You-Can-Eat AI Era Is Over. It's Time to Count Calories. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0RoYWR5dEQzMWlfcncwYnYxOTFEUEdEbFFjUFE4RWZHcS1zNDBiSHBKQTVHWDhoUGdmTzVNRHFBWUpvUFdaRGpxeE0xdVU0RjVTcHNtYmJRRjBHcjYxY0ZJaEM4dWV2MExiNW84cnRJa3dpX0FSYTMxcEp4MzNtZkp2NDMwZlV3bmZscDlsOUlaTnVvMGtNQ0tHaXZPblFmWmYwVVBBNWxNV1U0VHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T09:19:07+00:00",
+      "summary": "The All-You-Can-Eat AI Era Is Over. It's Time to Count Calories.  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘Chat is dead’: OpenAI plots ChatGPT ‘superapp’ overhaul ahead of public listing – with agents and coding tools the new focus - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEF4Z050amsxd18wajV2OVZIcmlGNVc4QUUwU3M2SUJWU0VxUDJsM0x2a3VBamNXTmtMeUNwQk1sVWFaRzNERjhST2EweUc0aWVIYTBVUnVtZmJRM2t4R3RFXzVmTjR4RjAzRUZFVzdZU1h6eTBxaWl4aV9PR084VnJBeHB1ck5yR09ETlNnTGdibUdkY0JZblU4MDBLV1hDSmo3QnBrVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T08:15:38+00:00",
+      "summary": "‘Chat is dead’: OpenAI plots ChatGPT ‘superapp’ overhaul ahead of public listing – with agents and coding tools the new focus  IT Pro",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI seeks to expand its AI computing capacity footprint: Reportedly in talks to lease a 10-gigawatt data center in Ohio - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeURxREZiRV9SOTJLLXlUMzdoVnhabkw0VEd2cnhYaFhjSlN2ZjY3cUhiMlAzeEhzZ0ZpNnZpUzV3ZUpaRjlicGNuLUQ4Q3pTazlycGhsSDRDYWxnMlJ1N0xrRWFYMmlsVFpqUWZQa1RlV3VraDNMdE9JYTRTUUE5XzJLaFo1V1ZIVkRSRmZHTmhwTFFlclU5YVNWR3E3V09PRFp5M0tWV1pHTmJfY1RTdA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T08:00:48+00:00",
+      "summary": "OpenAI seeks to expand its AI computing capacity footprint: Reportedly in talks to lease a 10-gigawatt data center in Ohio  Moomoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The MANGOS era has arrived - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qZ1VMMGZGSkwtLVk5cTFnTnAyVUFSZVBEYWdTRjFsRkdQSTQ5MHhUVEwwLXNBWE1Mb1hpMkZTMXNuVXN3SDQzeXFRMlBWWUV5cEk3OVhLUThZLVVQMEo0Uk5DLWRvTEM4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T07:35:00+00:00",
+      "summary": "The MANGOS era has arrived  CTech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reportedly nears 10GW Ohio lease with Nvidia backing, sealing its pivot from building to renting compute - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2F3VnM5Q3JLSTM3UWJBSWktX2NQd0FNNDNST3RFdjRnRmEzRmhiRFJRemlsTEszSTByUWNEaWp5NFl1V3NtRGZnZHc5WEE1ZnJEOUZMSjdSVGJHQnlsYVlPT0t3ZXFWYnF5ZVNReHF6NXV5UVFKYUVlX2RsNWIyQW1JendpWmpYUzZyMHRGcERvUWkwYTVBeFBLa3VTRzl1Z2ZoWA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T07:25:36+00:00",
+      "summary": "OpenAI reportedly nears 10GW Ohio lease with Nvidia backing, sealing its pivot from building to renting compute  digitimes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI eyes major Ohio data center deal with Nvidia support - The News International",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX3Q0Yzd0NVk4X3VEZnQtZkF5QzZ2b1JST3QzUko4UjdmeEUtMFY3TGFBNnUybnpJSFJrbW5UeHhQT1ItSjhwd2Q5bVlDOF9JQVJLTUc3MTAwal96eGhha0l6aTNCV04zYjhtc291ZlJxQVpSbDdaZWZZTXhWckJ6dDFUZ2NFemtRbFVJNXhMMGl1aUVpcXlXWjBncW9YQWFOcUdF?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T07:16:00+00:00",
+      "summary": "OpenAI eyes major Ohio data center deal with Nvidia support  The News International",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Eyes $500B Ohio Data Center With Nvidia Backing - Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX2R6LTA0dDJNOFFZcjVDUW1ZZFM4cTdac3JkOXFMbFgwSFJGNnR1TFVYNTBlRkxNdjFmVUlBVl8xTTN0ZjNWSzJ0WDJIZGZ6V0s3TWFVWjVTTVhvMkZiRThoUk1nUllKa3ZWcUdZdTJ1RlY1NDdwMVA5N1pQdjNDYS1kZW1Oa0Y1ZWY3UGY3UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T07:12:57+00:00",
+      "summary": "OpenAI Eyes $500B Ohio Data Center With Nvidia Backing  Gotrade",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI Agent OpenClaw Drives Silent Layoffs at Chinese Internet Firms by June 2026 - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlJrVEpUTWFnZ3lUWUw3SGFyYXdCRUVHV24zbHpGNW55UHgxZWxqSVVTbzVRWXY2Y05JWnhVTF9xclRQWjFFa2hfLVYxSWFaaHJMYk9LcEdEcnplWGROTFl3YkFpNXJCZFpWekZma2RkWG5ZdEttRXBLUVFaaEFJd2NvdDJlUzQ2S0JzRVhPZExvX29LcjZMVTdzLWw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T07:01:00+00:00",
+      "summary": "AI Agent OpenClaw Drives Silent Layoffs at Chinese Internet Firms by June 2026 - News and Statistics  IndexBox",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "A $7 billion horse race: Goldman Sachs and Morgan Stanley battle to lead OpenAI and Anthropic IPOs - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlhSQm4wTHVoNWcxZTVISXZVX2QtSUUyUjg3MXRIbU02aTRPWEFjcGpYVkNwbEtwVFRhNlpxd3Q1b3VfMGlqbzNzMVN3dFBRRlZGRUZyeHY4czV4cUpTWGdMWE9VV2pTRmxiVnJxZE5aTUp4NVFOMmttV0E4azYxaWlnN0tDYk1sR2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T07:00:00+00:00",
+      "summary": "A $7 billion horse race: Goldman Sachs and Morgan Stanley battle to lead OpenAI and Anthropic IPOs  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "China Inc deploys 'quiet' layoffs as Beijing promotes AI adoption - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRVNwd1g4bTdLclZxRlY0LUlJZ0s4elpVdE9NdzRudEFxXzRoZmdIUWU5R0RRcjZkZjhHbDVYUTl1d2Eta3R3TFZJSElKWHFza2hMbG9PT1QzOE1oWklPaE9EVEEzWTA2eEZSU3RPLWdGYUNmS2l3LU9oQnBKX3lVUEs5SklZalI1TlVPbFR4UkliRWdIR2dVREhSYlRKTEVDNXZVOWduWDhzck9XMHdkcHFMWWxEaUJYQ004?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T06:16:00+00:00",
+      "summary": "China Inc deploys 'quiet' layoffs as Beijing promotes AI adoption  Reuters",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI files confidential IPO paperwork with SEC - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RVGRmZ2FhaGlRc01jaXFHNlQ0NDhOS29aYTl2eDdrdlNselVsbENhUEs1U2dVNmRVTGVTY1JrUEpNOW5uQkdKbVFNekhFcWZ2RHhCX2pjc1FsZUNYaXZyd0t0M284QmxNRUMzR3Y4cmxHdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T05:57:58+00:00",
+      "summary": "OpenAI files confidential IPO paperwork with SEC  BetaNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "SpaceX, Anthropic and OpenAI head for IPOs in Wall Street’s biggest AI test yet | Explainer - Ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xOFNfdEZ6MjBFVjdzRFVIREQyYl9zbTdUS1YzSmp0SDgzVWFncGFxcDRKc1FOUWhxSG56Yjk1dzM1RHE2T0RWdVI2RHBPeEl3N1VXV25vNDlibHR4XzBrUV81UQ?oc=5",
@@ -18,7 +117,7 @@
       "title": "SoftBank shares fall after report of hurdles in $6 bln OpenAI-backed loan - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2FxeXBwbkVRZVpxZlZsdWo1UEN2UXkzbkVtWTdPTWZDWnJ4MUlqamwwM0ltd0RTZHVfSGVUWkFoUndMc3lKWk41WTAyS2xxanFDVlBqek1lVFhzY3V0eDB4VkFTdk9SQUw5WUZMai1DeExGQzc3RTduUmhKc2ZZRTBEQmd0WUUzejZiWWdNYkZqSXJsSE1xMlhiR0o4Wl85elcxbVFGclp1SWxuVnQ0RDNJMjFZUnVZbjJpZVczWDMtMk85Y0Rj?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-10T05:41:27+00:00",
+      "publishedAt": "2026-06-10T05:47:30+00:00",
       "summary": "SoftBank shares fall after report of hurdles in $6 bln OpenAI-backed loan  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -27,7 +126,7 @@
       "title": "OpenAI in talks to lease 10 gigawatt Ohio data center with Nvidia backing- The Information - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdUZqNkdQeE80NE5Xdm45bDBRMnJYeEYtcEZzcW1WM3Q0VVJGYzVFQkZ1ZE10bFFxVFVoQjA3TnFpWjVJeGtyTzJPdDFTYnBOSXNQMmtqanhqazREYlFMYTBmRnVieHdpbXd5b1pZSjVNOXJ1NEE0bWU1WHRjX2s2LXQwdzNJdDE5TU9Jd1hMdnJxZ0lGQ1E1Ml9RUEpiYUNESEFiMTVQLWh6LU05LWZJWEVvUG4wZTZucEFnQ2dWS0xpb283eE9EMXF4NnBDcDg0QWQtVTY5dC1samRBWDBYbU9iSnV6QQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-10T05:37:30+00:00",
+      "publishedAt": "2026-06-10T05:37:53+00:00",
       "summary": "OpenAI in talks to lease 10 gigawatt Ohio data center with Nvidia backing- The Information  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -42,11 +141,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "SoftBank’s Attempt to Get $6 Billion OpenAI Margin Loan Stalls - Bloomberg",
+      "title": "What ChatGPT maker OpenAI’s IPO plans mean for the future - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFBUVmU1TnV6alduUFV5QXFDTFh3UzhZRkFXLUJ4bWVKTm5iWmtHXzI3bTE3dW54M1VEamlVMGpzbGh6UDNYNFFSb0pJeElqeXZYdjJDTl92clFMYmozWUpYeXVqeHBlSjVULXZMamRQN0lpUHEtS1Q4M19GRkh4OGpzWWtWcTVJNEcyRzh2ZllMSzd5NVJ4UUl4azFHdnFrb0poVg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T04:40:00+00:00",
+      "summary": "What ChatGPT maker OpenAI’s IPO plans mean for the future  Los Angeles Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank’s Attempt to Get $6 Billion OpenAI Margin Loan Stalls - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0xpWTBCclk1RGlYR05Gb003bjBnUHVCYU1Ka0dMN3BIYXVHdG9PeV9QR2NSY2JWSVh3Yy1kdDdGblQ1eE5pR1RfckduZUkwX1Z6bEhjb05qXy11cnczOFdvQ2ZWZHBaX2RLbTQ2TnNzR2wybktoZlNvV3JiS2RCcDVZWE9BTWNud1hPekFVaW1hVExKaElxYkZKcHBXVmRfMWVQa2Q2U0o5ZThxZnV5ejZB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-10T04:25:00+00:00",
-      "summary": "SoftBank’s Attempt to Get $6 Billion OpenAI Margin Loan Stalls  Bloomberg",
+      "summary": "SoftBank’s Attempt to Get $6 Billion OpenAI Margin Loan Stalls  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank Attempt to Get $6 Billion OpenAI Margin Loan Stalls - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDl6SmRHX1N2NXAxbmlGNEh3UWg4N2xZRGlmWUFhNHV5cmdQQVVfX2g4YTdldy1jNURtQXluMUxfT29fcnRwbzdnYzdsd0E2b3BfdXh5eHZMYU4xcVQ5ZXYtMnhuQzE4Xy1FdmpEdEtubHQ4Z2tHWklhaGl6bFI1WnpXRzQ4azU2dE9KS2JJcWxRdVp6MmxodU95TjRDSDg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-10T04:25:00+00:00",
+      "summary": "SoftBank Attempt to Get $6 Billion OpenAI Margin Loan Stalls  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,20 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports - WSAU",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2NveHVOLURyQnc0bFloNjJPWXBoMld0UndJQnRtY3FXdTdkRlF1YnlKcmVsMFhfams0QmktQlc3QzhlSWkyQ05PeUR5bFF2ckJWVmZobnBhaXl1c0szeVhOeXBEZUdfZkwzM2g5alF0LUdlUjN6b0hVY25JYjBfam5EUDg4ZkNfN3lOS0Y4dUlZTnRnT0hPa2dPdWI1blNHTzk1dlJkQ0hhTTMxVnNPRA?oc=5",
+      "title": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports - KELO-AM",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd0NRWkNac3VDRGFoLUx2VzAyTEhFWDU5Q0FMYVIzeDZpZzVfRXIxSVlRajhwSkxVWHI3TEtZd2E2WEZZQXRzTjdBbTAzQXVWVWIyRnhlZzJMWFM2V3NaNlNuR2M0V01UREZVT0JzSkpPa3BzNlFBTXFaNzBvVmExX0ZBVktPamhiSndBSFR1SGJmd3F0ekpCZERoaVF0SXVpUjhmV1J4elh2Z3RYbmNNWA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-10T02:54:52+00:00",
-      "summary": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports  WSAU",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0cwZnpJbGdWR0xBeU1KYXdYLW1WX2d6VzJUNnVmWEZScTRXWHNYTS1ka1lWWFo2bVNlaklWV2dhMXlVU01mblJRM2o3RlN6d3pwUjdhR0twRmRsaktIM3hpd3FGRGJXbFA2S0VDNE5lbjRrdzhVN0lZLTYyRVUtcHBlNTFNN0lMaFFRbmFpVEpra1NVUFpUMWxvaWcteERoblF6OHN4eldFZDdMUXV6cjJzTUFRZGs4dmx6YWp4SWg1SXM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-10T02:18:00+00:00",
-      "summary": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports  Reuters",
+      "publishedAt": "2026-06-10T02:54:51+00:00",
+      "summary": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports  KELO-AM",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Weighs Leasing Ohio Data Center With Nvidia Backing, the Information Reports - US News Money",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWWdWRThmYWt4X1RSRXVKa3BwdTN6bldqdGkwdTBJX0F6LVpHZkxQY2NmWm9PamRuZkdGcVN4akpFOE1yNm5ZZTh4Z0g1dS01d3pwbm5OYUc2R3JJanBkdXFlRnBmalFlM1l0Uk5fcTFHRi1OR0o1UEtUalotU2hKaDBocVE0OXZFSTZvc084bHlTM05DY2dXakg2N3Ezck9WdWRfZW9fVi1YT21TUXdUTWtrelBIUnNtZWl6YzBIdHZYRXJ5Q1pSdzZpOTJ0UjB0dEVULXJpSHdZQQ?oc=5",
+      "title": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0cwZnpJbGdWR0xBeU1KYXdYLW1WX2d6VzJUNnVmWEZScTRXWHNYTS1ka1lWWFo2bVNlaklWV2dhMXlVU01mblJRM2o3RlN6d3pwUjdhR0twRmRsaktIM3hpd3FGRGJXbFA2S0VDNE5lbjRrdzhVN0lZLTYyRVUtcHBlNTFNN0lMaFFRbmFpVEpra1NVUFpUMWxvaWcteERoblF6OHN4eldFZDdMUXV6cjJzTUFRZGs4dmx6YWp4SWg1SXM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-10T02:18:00+00:00",
-      "summary": "OpenAI Weighs Leasing Ohio Data Center With Nvidia Backing, the Information Reports  US News Money",
+      "summary": "OpenAI weighs leasing Ohio data center with Nvidia backing, The Information reports  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,119 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI In Talks To Lease 10 Gigawatt Ohio Data Center With Backing From Nvidia - The Information - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeGczcGtmZ0dDU0FnRW5kZjRQZ011Z3RoM3NSRWlxOExTN2ZlRXMxQXoycGhnWXlpLW1xTHpIaDRYaVBPWmtxUlZkYXlxODVCNGJKa3dzbnpQaGFQU20wMUxUZnJCTWVCOHB6QkJUMG1QamVDS2haQkdENTRpRmdZcThSTmdpVlZZdERJcHdrcnF3enlqeWZYMmhveXItd3VlVm1ta3FVR2pDQkR1bU1HdXgyZEtJWFUzVEpXbVM0WHhrdllDU1h0dVFPbzYwajZ4MDd5WDdKQk9KV3lkeHFJcG9GSjhsRmxSQkNRT25OZHBDQjNsSXJj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-10T02:10:16+00:00",
-      "summary": "OpenAI In Talks To Lease 10 Gigawatt Ohio Data Center With Backing From Nvidia - The Information  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI in Talks to Lease 10 Gigawatt Ohio Data Center with Backing From Nvidia - The Information",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTXFHZWEyekM0M1o2QzFzbDdnVWJlS2FGX2p0djlDR2FJdHRlT2RMMGtVOEJTa3R1THQ3YlRkenpGOEZWYlZLdTRnSEluZGJ0dWdxTVdFLTRsUHhBbGtkUjFHSFVMYm9yWi14OUlKZkYtOFB1ZlhpNXlNdk9NYUhiaWNtcVdFS0hSZ0xYUEhFVzhEcnJVTmV0eU9GVTlycHR3ZzQwcg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-10T02:07:00+00:00",
+      "publishedAt": "2026-06-10T02:09:27+00:00",
       "summary": "OpenAI in Talks to Lease 10 Gigawatt Ohio Data Center with Backing From Nvidia  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank's attempt to get $6 billion OpenAI margin loan stalls, Bloomberg News reports - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZmZVYjJBYlcxc0pfclhYVlkzT2l5d0ZKUWhsdDR2YWhmd21UaS1jQW9uN3NaenNybkY4WHU1VTBvLTgzekloSkhUcWZJUm1SakU3bU5tYU5DTXJWUm9jVU1kaE5qSmlpYVotM0JkZHJqQU5BOGxveURYVDUxM1NNRTd1dXA4MVJmcGc0bTgzQ1lPdGRvdGhMckZqdzV3N3Aw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-10T01:56:00+00:00",
-      "summary": "SoftBank's attempt to get $6 billion OpenAI margin loan stalls, Bloomberg News reports  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank's attempt to get $6 billion OpenAI margin loan stalls, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdS1FSmJ2ckNYY1ZyVmtnZVJ4LXVxNjl5OGVySDgyaWxlcTk2MmRWNzI5Q25HbGZXQ3JjcnNUb2VCelA2TTk3VFJxM3ZlbUYyTFhfc3FqSFNKNWxsaWRFQ1NyTzRxQ1ktU0hPWk1heERrYWVqYmRwMzJFakp4NVJCcFA0REh0aE96MElCN3NaRmZDRGU3TTM4dVJVQ0oyUnRnZWg5SXRoLWVvazFvaXBWSHRPbnNEbVFSRjBJaXI3Ni1nUFBLT0RRc05NaEh2R1ZnT3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-10T01:56:00+00:00",
-      "summary": "SoftBank's attempt to get $6 billion OpenAI margin loan stalls, Bloomberg News reports  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, company behind ChatGPT, files for IPO - southernillinoisnow.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSHJLV1Z3ZHlJajlNVTh1U0MyMUw4TmplTE5TVE5TOXZCeGJVMWt5TUc0eGlGYzJLb0ZLM2lwa3pQeGdSd2ZyWXNzTDk3ZFBqODBtckFBVFc5Z3lqbGJwQVRIUlg4QXY0Q1Z0WVVKamVVaTNrM0NKUUhFRUtPOTZQZGVUdUgwN3ZSUkhISFZMOVI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-10T00:13:42+00:00",
-      "summary": "OpenAI, company behind ChatGPT, files for IPO  southernillinoisnow.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "What’s Behind OpenAI’s Hedged IPO Bet - The Information",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTV5bEU4UWk0aTRGSDhNdEMtQU1yYS1Lc0IxSE5aTm53RGtsOTktVGtRQ0RRRlZSRm1YV0pzbHRLS0EtUGM2R2tLSy01Ulptd3JKR3JZUXZKcFRBVjd3dzZOYTVkTXl6cm13SkJkeWJhR2FRekdTbU9kNGp2ejJhaDBUa3pSTDlxSFJyRFh3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-10T00:00:00+00:00",
-      "summary": "What’s Behind OpenAI’s Hedged IPO Bet  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI calls for youth AI safety institute ahead of G7 Summit - EdTech Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEgteXN4dGczTERXZnJMeWs5WmlBdWJONVRMeWNpdDVGSVBQOFVZZEZDOVQzWS1uUVVfTHN3LUsxNzFuVFRKOVRKYnNDWmFJMUpMUExiTzZJaXZPUENhZ0g1clFFaGdrLUhyeXNucC1tcXliRjhmenZNRE10bS03M29XSElsLVFTSGswTzE0Tk13cjJ2d2NpWmxCWUxUNEU1Tnh3cg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T23:15:33+00:00",
-      "summary": "OpenAI calls for youth AI safety institute ahead of G7 Summit  EdTech Innovation Hub",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "What Smart People Are Saying About OpenAI's IPO Filing - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TdVliTGMtMm9aamRWRXU3bW03VDlBbUNReTdzak1XUzFlbDJzZTltTFBOYkExODkzSmtnXzFOTDdjaWJwT1oxNTU4X3p4NFc1eEE3REVlNmk5bDNmQjlqRHdiazZZd1VyMUpV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T22:40:00+00:00",
-      "summary": "What Smart People Are Saying About OpenAI's IPO Filing  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A data center for OpenAI is building its own power plant in a New Mexico desert town, big enough to out-generate the state's largest utility. The people next door are fighting it - Autonocion.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KTVQ1TXhPVzFuM1BPd21DRzF3VTZDbTd4ellSRmpWaWc5NWZhOUtmT21zQjVaS1czeUQxYjJJYmhQcVFiWnFHNDdtd1BHbG1wdGRKUV9fc1N2NGFfQXU5dUIxRkw2aFdKQWwtMg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T22:00:28+00:00",
-      "summary": "A data center for OpenAI is building its own power plant in a New Mexico desert town, big enough to out-generate the state's largest utility. The people next door are fighting it  Autonocion.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Combine AI Products into Desktop 'Superapp' - Campus Technology",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY3VINml1QVcwMXRVY0MzS25aSGptUkZrU0xka0hlbkxGVC0xMFhva3p6LVJxOFZySU5qWmt0Tjk3TEV1ajM4WVpleV9sekVYRU5MbF92ZjRwT0t5aGVYVEJYRWJRT2VNS25weE9oUGJBSjBYN3BmSEhZeUhXZEl2UHZuWWNJRW11SnRwTHFEb1hSeWhyaEhiSDAycTVQSVhhMEFidy05aHEzdk9maGNMMWIzaWxXSWV4RUNZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T21:53:39+00:00",
-      "summary": "OpenAI to Combine AI Products into Desktop 'Superapp'  Campus Technology",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data - BleepingComputer",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcnRTQ3hQc3ROMnp4Tm1oSlZVZW1lbmF0MTRmRjNLREZxQWtUX1VjM0d6dkVmT2tmQUpMaUktMHBOQmFtdVM5TDQtUXpLS0t4bE53RGp3SDFuM2I2NldSUFpJdXRoZF83YVcxZ2d2aWhRNXAyYk45LXh4RFp2dkxPU1dmVzh2dlNBbVAtVjZzZUVfWC05RXRqLWVqaExWR3RsVmMxZ1RXT3lyUVlpWDFHVkZTM0dvbWRh0gG-AUFVX3lxTFBFMTA0eHU2N3A5WWdTVS1scWQxdmRQOEloMTdMZnlVbWRaV3MzbVBZMGdmVVJOUTc3SkI4dTlmSExxaFNPVjRJNS12TTBVY195UHgtZnhIbms4UFhWbEZKSUYzUEtISVkxUUt4R25oVTFrSFBGVG5DVkFlVm5hZGE1bEN4cmdad2VmbWFUa3ZqREZyT1BseHNRTFpXR3REY21PWGFtS0pFcm9odldITjJaeHNVVi1Hc3p1YzU4NFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T21:20:20+00:00",
-      "summary": "OpenClaw AI agent found falling for phishing attacks, spills user data  BleepingComputer",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Why SpaceX’s IPO Won’t Steal the Show From Anthropic and OpenAI - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2dVBaeHlIUXY2cW42VzhHdE0tSFAtdGtQN1Q5bllCLWFlWGtZM3AyM3FEc0t3MklPejZMXzc5OVJDd1BSRFFWeW5kTjRZNnJreER5YTl3TjBHZ3dyc2tfclVmdW5VWC13ZjVNMGtha1V0TU5kR19hRw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T20:29:00+00:00",
-      "summary": "Why SpaceX’s IPO Won’t Steal the Show From Anthropic and OpenAI  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SF jury convicts protester who blocked OpenAI headquarters - KRON4",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzc0LXJqU0ctcnRZZUZNWTRGNFFPMEpsMDhrQmVmTmxIUWNhNGtrVkxhU0NXS19WRFc2eTl6MHFQcV95c1l0cW5TcVBwcEZDeGsyeTVoa3h0TjBLeGFuSGZtYTlGdk52ZDViSkEwdDF0bVRPYkxUZFRQcG9hNnkyZFFzNkh4SGwwWHZJUHQwZVJHb21DT01ud1RWWlktRTVCSVHSAacBQVVfeXFMTTFINVBEOVZ0cG9ySW1WSmRzRU81dVN5UXhlTHNvc0FPbmJKcWhvcDBlbUxGOTNrdnFQcU9PWWVqd0VjZEpDV1VRY3RWalV4RjFNbU41T1VHOTNXMElzQlRmSm9BZkNuWHdHU3JzWGozVnJ2NzlnUE0zMU52YUswMk1lOUJVUnNvbWxtekg5c2pxMmJFXzJnVWh0d2RzY09YREVrcER0RE0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-09T20:15:31+00:00",
-      "summary": "SF jury convicts protester who blocked OpenAI headquarters  KRON4",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
