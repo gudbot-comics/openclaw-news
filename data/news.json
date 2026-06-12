@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-06-12T17:53:22.492316+00:00",
+  "generatedAt": "2026-06-12T20:03:39.662281+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "SpaceX IPO is a model for Anthropic and OpenAI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmJmbWZTUGc2bDFhNGtEdTNIdk92cWZqTWxza3hxVkhDclFIS2dnNG4wdGc0b3QxS1NMQS1MRWJ6OGp2RlFwdXltTVRVS29UYXl6anpEaUFCTWtFUFRsdElJdjVWaWV4VnRvbWFMblVkTDhvem1WdjJmMTBMZWRxd0RlbEFlRVdXUEVOSXdpdmt2d2NyeDBwaEdkZFhnbjQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-12T19:13:09+00:00",
+      "summary": "SpaceX IPO is a model for Anthropic and OpenAI  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SpaceX, OpenAI, Anthropic: U.S. tech to see splashy IPOs but volatility might follow - Investment Executive",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0RJSWJuNkkwY1UxanpmejhBMld0RlY3dlM1YzQ1b0VuTzdYNWo2RnhmYk5LNlN4SS1ET3F3N1JlNUpoZjktLWZRYm5QLVNnM3h2cVdwNEQ2bHNhaDJvWFNpZW4xaDYyMGZYbmQ2MWNMQTRncVRUTnh6THhvSGJHc1Y5R09kNFdQTzY5dnE0LWxjUGpsZk42ZW44dHB5OGVKVmlQcklLcVNDT3VMVzE2OTBqeDRlNU9aeGw2TUhndFQwZU1nU21wTE5n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-12T19:02:23+00:00",
+      "summary": "SpaceX, OpenAI, Anthropic: U.S. tech to see splashy IPOs but volatility might follow  Investment Executive",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What the SpaceX I.P.O. Means for OpenAI and Anthropic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV19JRTlzVG02X0M5VnFRMUtNX243OWpaX3hDWkRtOS1Ldk5JdEN0X2tEdDUtcFlmZnhhUDlnbl9MT0JvUDI4NmZPbU92d2tyNlZZOEFvbnVhdGhDVmFFT1RiM1BTaW9aNDRSOXJJMTNwV0pRMTFxUVpFVFhQMzJocFV2a24?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-12T18:53:32+00:00",
+      "summary": "What the SpaceX I.P.O. Means for OpenAI and Anthropic  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Mother of ChatGPT Victim Sues OpenAI–Chatbot Prioritized Engagement Over Addressing Suicide Threats - Social Media Victims Law Center",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaFJndXRpUGpFMy02REk3VWZZaGNRaTQ5OGpXNy13WkhyT2tmVHFaSmo4UDl0WnprcGJ3MHpVWDFYZnpiZ0txMmE2b19mc2dyT0ZpUkFjVXBEbUVia3Y5Ny1kMGZZcWZmMjdORkc2VTZrVXN4MTVqendRZU9OTGJtWnUxeFJFbjlmdkNaSHhzTWZjajBsOTVsd3d5OXZ5dHNk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-12T18:38:28+00:00",
+      "summary": "Mother of ChatGPT Victim Sues OpenAI–Chatbot Prioritized Engagement Over Addressing Suicide Threats  Social Media Victims Law Center",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘My daughter is gone’: Mother alleges ChatGPT failed her family, files lawsuit - Global News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWlxT0VaNTU0M2t3NmF5Q0RlM3JOMDVaakVEdmhwQmFwZFc3WU9wTlJIb3NURHcySHRVbnFQSy01WFNHTXluckpla1R0N2NEZEE5aVBNOUM5UzB4eC1hSFNFZ2hGRm90SExnNGFuNGlxZ3k5SG15Z01RRDVsVy03dV9VcjMtRXhvb29DMg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-12T18:29:30+00:00",
+      "summary": "‘My daughter is gone’: Mother alleges ChatGPT failed her family, files lawsuit  Global News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDFEX29GYnM1eC1LSW5pWVJ6OTNzaTNReENpS3NHN3E5aThrT1RrT0VBQm0wQTl6SUNXdzQwYUtRWUdKc3BLNlFaNTMtcFVJb0lxSUxWaGd3R3ktYTVCRW9kRUZCS2ZGR3RrNVdIdUFJbVMwZVZ0UEx5LTA0LXZqZHF1SWpsdGNqcUYwSldrMDNVZVZYWG9GSExhYVBFWHlvdUs3NXBtS1dZeTZ6OU5iMWF4ZEVWYzZKRWc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-12T17:40:29+00:00",
+      "publishedAt": "2026-06-12T17:40:24+00:00",
       "summary": "OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Can Upcoming IPOs from OpenAI and Anthropic Outshine SpaceX? - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkNUbk4yUy0yUGNReVo1bVJHMThqMDh1YzhVRGFZeFZHaFhQY1lmcC1FRWUtcEhCZmJWdWduT3VONGpMS2ZNUVRtcW02SEhrMS1DZWxpeHFIdU1kT0JUcmFabUQ3VmRHMnVFeDJNYTdiZFRVaVpDRThadXFhT3FES0t6M1RVbE5KUTBaMFp3elBjYTl4VWZIcmZ3OUZRSC1hdG8tOExIaVhWV3pWRjVVU0VJSGlxZUgwSnZmaW9uVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-12T17:16:08+00:00",
+      "summary": "Can Upcoming IPOs from OpenAI and Anthropic Outshine SpaceX?  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,15 +78,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "SpaceX, OpenAI, Anthropic: U.S. tech sees splashy IPOs but volatility might follow - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSy04X0RKOHBreTFUa1lHS1puZDkxSkZ3NnhmNEF3MmpOeTdHQ1N0MnRza3VuVHhvLTN1ZGxieldROE9BeXg5dzExaVNHMklaakVhekZPOEZXbWZwTTZtejd3Y00wampNVzlOZDMzWVQ3aUx2RXdBaTVPbVBrMlRTeF9lV0NNdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-12T17:12:55+00:00",
-      "summary": "SpaceX, OpenAI, Anthropic: U.S. tech sees splashy IPOs but volatility might follow  Yahoo! Finance Canada",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI sued by mother of Montréal woman who died by suicide - BetaKit",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWczWXhwSEMzTTh5cHl1X29aVmNxa19wcFlJbVNiSjA2YU1aYk9VNF9uQVRwcFkwM3NSNkZxU1ZfZ2hrd0E1X0VkdTkwWlJxZ1cyNkZVNmNGdGJqRVlGZ3VNei1tUVNJMUh0UEo5Q2NZNV9QVWFzenBaeGpERE11SDVqT1hHUW8?oc=5",
       "source": "news.google.com",
@@ -42,11 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Canadian mother sues OpenAI claiming ChatGPT encouraged her daughter’s suicide - The Logic",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BcEhCY2tPMGl4TlhOTEhlQWo3aEVRVy1jYkdOeHY1T2tLTTd0V3VISnFzdTFsb01wNC1xSWN4VzBhczFSblZZSzZJNUREN0FOckVwa2FCTTFKQThBTlhmRVRVcVdKeWxRVTJfcGt4OA?oc=5",
+      "title": "Opinion | Why Big Tech IPOs could be a ticking time bomb - MS NOW",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxWDhTeTJVZk9EYmVUVndWaXNFRWcxdHhwbHBFWUJHSUlmOHA5eUtQWW9zcUYwMjNYY0hhQTg2ZWdPOGNBd1pzR3hEazN0ZTdpM0VNblFscmNrVGdLWUNLVDNQM3ZRdzVlTmpfbU9xT0QteUtYZnc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-12T16:24:00+00:00",
-      "summary": "Canadian mother sues OpenAI claiming ChatGPT encouraged her daughter’s suicide  The Logic",
+      "publishedAt": "2026-06-12T16:30:00+00:00",
+      "summary": "Opinion | Why Big Tech IPOs could be a ticking time bomb  MS NOW",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "ChatGPT Has One Billion Users - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtakU5SkNEZ04tWEFzVllOSTVtSVhrd1Zjd3hyZURORTVGMVJCNUxqVF9oeXRJNjNfODVZNnRTXzkyTW9aNDZxcFNuVEUzQnZYV0FRcjlPd29pZlpteWNkWksteFhJaXFOdW1neE1xWTlLT1FneEx0Q0hlc0hJQQ?oc=5",
+      "title": "She left Google and Waymo because she kept watching AI fail in production. Now Kleiner Perkins and OpenAI just backed her $500M fix - Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMGhhVFdTb3VzU2pFcG1zQ3pzZUV1Rl9HMmRzMk9sNWFsRHlpeTRlT1htR2ZuOVpkNmxKdFIxQjRUSld1eG1CcG96NGtLSV9JMHNNVnpZaGUya3kyMlhfS3l5LUlPaGxyNHBMRVl3YTJRU0RqbmVNZ282YWJfYnNva1dFTDJ5c0NHY2M4dnVLNTAxZ1B0Mm9BYmlOWjgwYTBCNnZ6S2xVZG44YkU2R29HbkVxQzM5VEdkeW5ScFNUY0Y5YzJmN1hqVGRHbmp0UQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-12T14:58:51+00:00",
-      "summary": "ChatGPT Has One Billion Users  24/7 Wall St.",
+      "publishedAt": "2026-06-12T15:08:21+00:00",
+      "summary": "She left Google and Waymo because she kept watching AI fail in production. Now Kleiner Perkins and OpenAI just backed her $500M fix  Tech Funding News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-12T14:14:46+00:00",
       "summary": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SpaceX-Anthropic-OpenAI Is a Cocktail With a Hangover - Advisor Perspectives",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSG9KTkJWbGJPUVI1cEp0WXJ2aE51Z3BHcnQzUER3WGFWVUxaU0Ryc2docmtkMnZxdTg4cGZQdG1DVGwzWkF0R29ER0RoZGlwU1ktMHMyc0ktTDZsQW1wNnctSl9CdjVWeE1aN2lYaG03RnZRbTZMV3VTcVdNSm95NWNaWXBxV2ZnOXQ1ZGxHazU3T2p4NjRlRlJ0QmNXZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-12T14:01:06+00:00",
-      "summary": "SpaceX-Anthropic-OpenAI Is a Cocktail With a Hangover  Advisor Perspectives",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says it busted a shadowy Chinese operation that used ChatGPT to whip up data centre hate (and that a... - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUxsYll4QzZtOEcweDJSWHNVbDdvcTFXWWNZcnYyZzBuMjB4dDJLNkdHdkY3UTFpWWFTcFMtSy1JMGt4SHFJbTB1bjdFb1pMM0JwMHJxODJiT2xEdVNGU0RPQ3ZEcHlJNnBiR0lKSjczb3dzUWdqMUJkTGx1a2F0R0xGY0lGVVZURE1VdFNrV0cxVE5XR0hwRTBn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-12T13:30:28+00:00",
-      "summary": "OpenAI says it busted a shadowy Chinese operation that used ChatGPT to whip up data centre hate (and that a...  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says it busted a shadowy Chinese operation that used ChatGPT to whip up data centre hate (and that achieved basically nothing) - PC Gamer",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZE9RWERWRkRKWWpTZTZ6cnNBUHVfQjFZQ0ZwZFNXUUdLeXRXallyYjhET240aENqRHZ5cU0tUGpuR29Ra1RoaDV5R1M4XzlYTUEzc1BlUjBTRWtrR2phMmNCNEg1aE9pM0w0VjR3WXRSVWhRMlk2eDV2Rk92N0kxejJpYVYxLW5Ca3BHYmc4VktUeElYR001VVJjWWJqZ3djZ19SOWVsVThibGFvekRZemxrOVE1RVRSVjBZUU5VaXktd3NjeTNRQ0h1anlYRWtDYURMbWI1emlrZ3JjRGY4cWJSMFFkVGt4N09Yc19tVHA1X1JLWkE3QVIxVHg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-12T13:30:28+00:00",
-      "summary": "OpenAI says it busted a shadowy Chinese operation that used ChatGPT to whip up data centre hate (and that achieved basically nothing)  PC Gamer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A Price War Is Brewing Between OpenAI and Anthropic — And It Could Make AI a Lot Cheaper for Your Business - entrepreneur.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWFNJb3prY1pZZ2VDZHpzTDF2TVF0dERHZ2JnQUlkVzBfS05uLTlUWGtjTTlhQzBPb19mZUJ0eVNTSmN2a2RFSTE0VlcwY1pTeFBvVGd3Q096R2h4YkIzZkJlVGlJZVJmVGxTeXN6Y1BGektOZ09hU2dWODBRdFdYdTdNcHpWZWQ4TjRDSElORVY0LThNR05HeGxR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-12T13:14:20+00:00",
-      "summary": "A Price War Is Brewing Between OpenAI and Anthropic — And It Could Make AI a Lot Cheaper for Your Business  entrepreneur.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A Price War Is Brewing Between OpenAI and Anthropic — And It Could Make AI a Lot Cheaper for Your Business - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUlXZ3ZZYU9aeGtPUGp1LTVfN09QVVQ2aE15WUJocnNiZVA3R1o3X3c3NS1yS0RHVWZWNURQeDZHYkNUcXVEZTVkajFjOW9tRkFCbnVnQWtVb3lKX1U3blZxTXNtNXFWN2JYRGRGcWx6bHpONUhFckpvWjV1RU1EaGJQMnRjX3FjUHEtV0V4Y1hKS1ZoeVoxTExScXRvUE01dU44?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-12T13:12:00+00:00",
-      "summary": "A Price War Is Brewing Between OpenAI and Anthropic — And It Could Make AI a Lot Cheaper for Your Business  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
