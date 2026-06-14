@@ -1,16 +1,88 @@
 {
-  "generatedAt": "2026-06-14T06:18:56.195103+00:00",
+  "generatedAt": "2026-06-14T09:58:39.092238+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Trump Admin Unlikely To Expand Anthropic AI Export Curbs To OpenAI, Other Rivals: Report - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS19ZQ3ZpbF9VcDcwZlJLeGh3X3ltc3A3cERCNDRZLTZ6MVRkZHp4Q3lLZGVyYUdCZVpaTWIzb0tRRFVEeDZ0MFZpRy1CdW13RHhDWXBDNEFIU05jTEk5UE5tR3I1aDBFYVFNS2ZFcWJoM1FJX0hWdEhmVHVHeTZMT0dMTjZRVk1TbUZVSWxRZ3ZsNmVCVk5aUmdITzEtV1Frejd1YTJydXJVX2xMS1J0VXdYU2xKM2tsZEU0M3B5WFZWeEw4cjFnNzl1TW9ySjdoZjFZeFhn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-14T09:21:37+00:00",
+      "summary": "Trump Admin Unlikely To Expand Anthropic AI Export Curbs To OpenAI, Other Rivals: Report  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other? - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ENkVmNkswcWNpaWJhSGFucVpaM19FOU9pZHd3SF9EYVlLTmxRRUhvcTUtWVNFcmNHdTRickxvaFE1RkpNZzdZRlBmVDB1NVJ4QWcxVEJaZUNuWGRnQVlLcjRyTll4UU9CMEE1VHBnVVVZZVRzOUxj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-14T09:00:00+00:00",
+      "summary": "Claude Fable 5 vs GPT 5.5: Is this why the Trump admin banned one and not the other?  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Endor Patches | CVE-2026-43531, OpenClaw: Workspace .env could inject OpenClaw runtime-control variables - Endor Labs",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TbXNEdDFob1RfRndla0tvWWxGbUtTLVMwN1lvQlJzMUpXYTYtOWt2TmtRTHUwal9MUHhYZmhxQkhFbkdqT25keXFMaTdUTDNvaHBobUpEY2RTcUVGY1RRUGpOYlQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-14T08:39:44+00:00",
+      "summary": "Endor Patches | CVE-2026-43531, OpenClaw: Workspace .env could inject OpenClaw runtime-control variables  Endor Labs",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI carves ChatGPT into the side of a building - Famous Campaigns",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMC13NE9xQmlHYkRQQU1rNnRFYXVOTnlGOWVCQ0NSN3pEV2IyX2dfVzhYQzlBWEFLQ0haM3V5OXFWeGV3SFVncV9aaTJWNkRNV1NtUU5rTmlkZjI4Z1p5bjJqcmhMLXF1MlNHMm9jOFFpdXlGdjhPV3RBTC0teFgwUnl2Y05sZ29kN1phY2pDSEdRcGo4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-14T08:21:02+00:00",
+      "summary": "OpenAI carves ChatGPT into the side of a building  Famous Campaigns",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI: third player lucky as the race gets under way? - The Week",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmlvMzdrSktQR0owRFhXbUZJNzhWTDZlLVV0dWMwT0lDSVBqSU0tRWNBblJRQXhYaVpVZDJQTjFUNFlFZ19mQVZqQ21FS3M1ZGkxMUJwbkRyeVU5YVBJdDdrNElFSHVZRGxQdXE4dEdKT01RWXZSWXk0dU5ybDhEaDdLbW01SHY4bXltcXJEeUFDS2VNY2hHOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-14T06:22:32+00:00",
+      "summary": "OpenAI: third player lucky as the race gets under way?  The Week",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI: third player lucky as the race gets under way? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeWdYQUhibUhGVlFhNkhiUi1PSDlQLXR4RUtsZEJIcGx4YXZscmNqUndIVHZNVFZUWWdGYkNsTm9Vbkc1elpLQmV0NWJnX0NEVVcxOHNMSHdqUnhhODVtYjllZFFMcmJDLTdIOVVBZ193dWpqRFNJOUJUSnFBTkgzcXRrSW03V0FVdmxpa3lxSTE4Y3Qtc0htN001QQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-14T06:20:00+00:00",
+      "summary": "OpenAI: third player lucky as the race gets under way?  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why OpenAI removed hundreds of ChatGPT accounts linked to China - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlBPNE1KMENWWS1OVXY2UF9iOWd6ZGNwcERLRzZ0aGU2VV8yZFF1RG5vRmFGaDdubFFhTVJlTlUtNHpoOU1SSzFDOTRGbFZpNlN4MnVMTzNhWTJXRmtFc1hwMENaazUwUmkyVFFOdlpCRXd5Y25HenZnYmpndzJ0UGlKMkd3alNCb21zLWNnYWc3WXRnbGtWMl9LRm9rZkJLaFBVTWVfQkdwZzRGVUpMOdIBtgFBVV95cUxPcnhVVjFZN3hVOG1JdndielB6ZnBGSXBxZDhmczJYX3JvUXZ1OEtOalFhaWliZnpvMmpRSGhQYjdKcXdnS0ozbzdGbHhvYmd0bkJ4Y1V0WE5DeW5KWEVGRnQwTDVTUlZfZjBPVng5bmpwNXdEaUlobjlTamdFTDNxUXlLSmtiSnVkX3o1eXA0c0xhUUpDaERRZGNtTFBvV1FIeVlnR0lDTjY4T0Z4VGRXc0JjUElsQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-14T06:17:02+00:00",
+      "summary": "Why OpenAI removed hundreds of ChatGPT accounts linked to China  Storyboard18",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdEZRSk8xZTBlUWdNWkd3Y1E3WFV3RHNacVFwRmwwaEwxN3luV2E3a2xlYlNFYnRLcE1DWEZRY3RKS2NydG12Y3VjSzA2SmV3M1ZuczFDZE41RnNncDBsTWs5emRpOFFmMkpZUS1pVjBXSm5ucUdRNmpnS3hXTVl6RU9Sc3VfYl9CYS1QWURISVJMVWRIMVUtRg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-14T05:26:23+00:00",
+      "publishedAt": "2026-06-14T06:00:00+00:00",
       "summary": "SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy?  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SpaceX, OpenAI And Anthropic IPOs Spark One Big Investor Question - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HejVJVnNrNzhkR3BERVMzc3lxYXI3SFMwbjNxTGcwcGF6S0ppd0xUWU5iWmhKZmVIMVFRZ1FTY3NqaUR0aTlrRkZVc0JiM3YyTVJyWGhmX3QzalFwR1d4Umtaa1dqSFk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-14T05:38:57+00:00",
+      "summary": "SpaceX, OpenAI And Anthropic IPOs Spark One Big Investor Question  Yellow.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,15 +92,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-14T05:20:00+00:00",
       "summary": "SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy?  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy? - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmZRemkzN0ROMDBRSDJCZkhyRWdmWVpJaTc0bVhLVTNCSDVaTUZ6WE9oNk42dTNOVW1lVkhZeTZIb05aRDZsYUdrbmZjNXlYTG1WU05PLTU1UVVib1hCbHZRVGRna0ItM21WZ29BLVhZMFFhd3VRelNIaFB3X0hWdllXWkw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-14T05:20:00+00:00",
-      "summary": "SpaceX, Anthropic, or OpenAI: Which IPO Is the Better Buy?  AOL.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +132,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "State Attorneys General Are Investigating OpenAI - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDdPdDNQRGVKMXIxVGNLWURkQjZLZExOZ1JabldULVQyV3lOZ1lYWlhpYzA1eWpCZ2dVNTEzSk8xd2Z1ZzVob2hwVHBJMV9uZlFYcVZWMEVfRFdRWTdhek5ENGMyUjN2NWs1U1FlSXN2Q0RJSnlXZ0NGaS1wcnJqekFsaDA?oc=5",
+      "title": "OpenAI faces probe by US state attorneys general - Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VTHlUUzhXa1BoNGNvY2ZCYjdmUDlfNjdVT0YwMHBNOUdQMmtETUNhaFN1dnl2SFZhWFZ6Q3ZHZnFUV0p2TFRJbHFsV2gzaWRfRHRycDJ3Qm9laTY5VDJKSFlKZ2lJckhBOXVXZkduZXRXUlcyVTBEVTZRSmRiSEU?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-13T23:25:44+00:00",
-      "summary": "State Attorneys General Are Investigating OpenAI  The New York TimesOpenAI hit with multistate probe into possible user harm as its IPO looms  ABC News - Breaking News, Latest News and VideosExclus…",
+      "publishedAt": "2026-06-14T00:39:00+00:00",
+      "summary": "OpenAI faces probe by US state attorneys general  Tech in Asia",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGhMeEdKQkJ5SXgxR2hxM21yOXZBcXlyVUNCSVg5dnVXaFFiWE9nZkEzam55c0xEN215dkFCNlhETVRxTWIwYXlhclFRZUM2VFBwdTl1VXJEWnM2a2t0QVFhN0RiSHB4bkFLaXFBc1oyOF9tVzk3REF1NENaSGx6UFhHamJabmtTejl1ZEFxME1FQ24tekt5eE5kRlFjWWvSAaQBQVVfeXFMTTJiaXhSM09oQk1aSzh2djdrZEx2YThDeE5NenNHZWIzUF9HUXhManFQLW4xWnVNeVQ1LTUtc3N4NjJ2SXRXRFEySkE4NGZ0MFltR0MxemxoNjFJSF9mb0gyYnhOa1JQeEJpV2FZcGdtUUtQVlR1dkNHaUhjQVRNeURCbDdLbnVQQ3UtUzJ1ekxsenBIMTE2RXN4VTVncVBjTDIxb28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-13T23:12:01+00:00",
+      "summary": "OpenAI hit with multistate probe into possible user harm as its IPO looms  ABC News - Breaking News, Latest News and VideosState Attorneys General Are Investigating OpenAI  The New York TimesMother…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,20 +168,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "'Some creative jobs maybe will go away, but maybe they shouldn't have been there in the first place' - quote of the day by ex-OpenAI CTO Mira Murati - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPbzk5WnhMaVJrc3BEdXlBLW52M1oxdXRnOThucml0ZkxLZnowV0tYU05pV29HcFB5VXVLNjJlX2F0WklQWXV3dHlHMTZ4UFR2b29yUy1iN2xtQ2hhYnF3YldRSTlHMjNjWTVfb2dPRGZQLWV4SnhxMWxsNWZ4WTI0c0hvOFZhdTd0WVpCRk9XV21XeFpNME1LZDVrTkVlQ2dKaE14c3hzcFFQS1JkNlhoRm0tbjdjd19Bd0xmMFBLVVNZWTZ6d0dIcmNLTDJ5WWVEWEF2MnBrT2t5cW1jUlpUMTdYOHhTMWdPbjZIQWVNa0RRb2xmM3RBTk5RSUhvbmJERmRzWElpUndCbnFCVjVaMExuM0I1T1FnSk8wOEZLT1YtX1NMam52TmZuQzVIM1dBdjQ3M2ZyWDY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-13T22:00:00+00:00",
+      "summary": "'Some creative jobs maybe will go away, but maybe they shouldn't have been there in the first place' - quote of the day by ex-OpenAI CTO Mira Murati  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI says it's 'committed to learning' as a coalition of states investigates ChatGPT's impact on young users - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1BiRkNFa011NU5saTAzUnBLeUVXR0Q2Sy1paThPMXgzZ1B0d2hBRDA3dVFtTnhUNVZLUGM4NEpPdkJtaWkyRGZUVERSMTVyZ0J4TWhFWVpmbHp1WXpzQUlQYXBjMzA2R3haNDJGcWVpMzVIUjY5Z3BnODN3NnhFcnFYUnFYVFFpZ3pFVHVNaTlvYUpKdGZOZUtPOEQyaFktOGpHN2pFTWMyNDY2?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-13T21:28:00+00:00",
       "summary": "OpenAI says it's 'committed to learning' as a coalition of states investigates ChatGPT's impact on young users  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "State Attorneys General Launch Investigation into OpenAI, Adding New Pressure Ahead of IPO Push - Tekedia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdFBFT2xJYnhwZVdyRnYtakQtUUgwdmJUN09TUExXS0F6Q1JlUVNwVzJHSmxYVDZWTTllRmpnbjZDQjBLQ3Q4MVBnSkpsWEJKaUQweERvcHpXR09Qd0ZtUk9HcFZ6UU16b2hlNzhMNDA2ZUk5NTV4eWhCUzRsOFpEcWoyRndDUUtDWkxjQzZfU0xmMHZDSWJLTnBqV3NSdU11RWtpcEVSS3lSYV9wNHZ6Y1h4SmhfTUtIU1lr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-13T20:29:32+00:00",
-      "summary": "State Attorneys General Launch Investigation into OpenAI, Adding New Pressure Ahead of IPO Push  Tekedia",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,15 +195,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI Files for Historic IPO as Anthropic Faces Model Restrictions and Michael Saylor Warns of Capital Drain - Brave New Coin",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZEVla2lsUTZGaXhXa3BmVWhoMnVnMEZUYkJCUEI0T2hpZnNPaWdyXzJhTHY1WXlDVlBkam1xOVJUcnhkZWdPcGNUNjNqRjRCQ2llYlk2N3otbVYtcnVPdERsU0JjeERaWXhvZ2dCd0tmancwaUVLa2d5MGhHWnR2QVFBZlVqVnVrbl9LbEwtTUN6WWRVbm5IRGk5Z0o1TkdtbHNTbjZiX3RPUjRBTVpPZ2Rfb1I5Q1NDak1LaHRSNTIwZnB2TUQ5T2ZlX2V5eW5IY19nbjFtSDVhVzA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-13T19:20:54+00:00",
-      "summary": "OpenAI Files for Historic IPO as Anthropic Faces Model Restrictions and Michael Saylor Warns of Capital Drain  Brave New Coin",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms - The Killeen Daily Herald",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd1VNcDQwM25wcnlaVExkYnVjQm1LS2pqUEZiVjFfa25SWXFNUnJISHVMWVJQNzl4aGxsMW5Ec211S0VkUk01MkkwWlFCT3FlTXN2S2ZrWFR5b09wM3FLUFhWdGxud2M3dllKbEw4RXNQaHdkcjBhTWU3MW9nc1BwV29qRllmRjVGU2h4cmZ3RU16N3d0X1lVRzE5SWJPMk1obk1YcVM5bUFfRDFLY3Q3OVZhU0JqUDdRX05YSy1oOVpHZllFOWtzZTA5TEJ0V1d6Z3VfbjZGYVFpM2w1ejVhWnNybk9iT3FjdjVFamJhR1kyeHU1LXc?oc=5",
       "source": "news.google.com",
@@ -141,83 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms - The Cumberland Times-News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOUl6QlRaRkZ2UVlYaVBqcmV5T1RTLUZiTEJKU1ZtT1ZPWktiY2Fkb2tTem5UbHZKY01FLUgtbDQtbzlrQ1ZVMkVGbDBaZmpmaWVvSWowcVAtRnF0RGhjYVFMWnZUdFRyX3NsNWM1bGVodXUySE1oSExRSWxkb1lXRkpBQkNPX295eU0xX05mMzV2V2VoM3BBR1BYUVZyMGFHR1lWMjNwMjRvUDBudUcxNk9RR2VjdGdOYmZtUi1UUnFMR1l3WV85RVB0VEZoSEhiMkdyTTBaR3ZQWWZHbU5pbDB5NFhZMk9GVXo4?oc=5",
+      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms - New Castle News",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQ0RtQmhHZmVqa0FEVVAtTVlsMm9XclhBWTVrdmo4NHhvWF9BSndkclEyaGVYVkJ6TGMtSkQ3NkhyM2lNVUpVNkRHb2Q2eDlIeFVFYThpVzlERjhLWGgxX3Y1Sms5WDY4b3RtWTZPbjF5VzBlWlg4eWVUUm9tMTYzNE1UUFVhREpaMXdydFZ5b0xzQkh6cldPRGpjOWtrWGpmVUZBd0FEdHNZdVdrdFBHampEUWltaGxRcWhBQUstR0Rxb0M0MXNrVGlPaXRqV3ZlTHVCTTJ4VHc0S1hXOC1JeDFUREM3aUNBRnRHSjk2SUJNaU8ySXRNaDVB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-13T19:17:45+00:00",
-      "summary": "OpenAI hit with multistate probe into possible user harm as its IPO looms  The Cumberland Times-News",
+      "summary": "OpenAI hit with multistate probe into possible user harm as its IPO looms  New Castle News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Key deals this week: GSK, Incyte, Ingredion, OpenAI, and more (BCS:NYSE) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlVHVWhNc0hWdndHMkFtNUlfQXF2VF9nbkd4LWl3RlBBanpxUU1ybGl5WXV6R0o1X0tabmNGS2dWT3hSalVidnNHOUlBaHRSVzQzRHFmemp2NHo0czZNTThCQXp5c0VJenNyWjNTOHJUcDAtMHZHcVdQMXVMT2FvbXo5TTI4a3V1U0cxMWxkTlpuUzdsbS1GU2tR?oc=5",
+      "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms - KTALnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVdtXzVRX0k5d1RQTkNiU0FraXRRS2ZDNURDS3FDU2FON1A3VTNuMlQ2clpXVGJYQWpLYlV6TTBxSjhwMUJiMnJEMGMwaXRvVU5Zb2J6a0RIMzhOd0NvWFlJb1RkWUxvc0RpOXZBcDFHbmZnQktMSzRvR2E2Um15Ykd1RTg4aHpmYlFkbkVBbmZfWVRFUU1GN0hJLXZGWV9mZk5NaEkwcVp0b2JPd045a2Zzb2MzQkHSAbwBQVVfeXFMT1NnYmloZDRDdGFibFNCX1JNckFOUUlrb0VjT3ZiVTBtOTlVNXpEblhpQjRhd3lkZnUtN1Z6bXI2VjhKVDRzNlBnWktFWWhVMkZVcExENkJXaFQyR0trQTJBRXNReTdBbFBMQWZ3NEcwR3hWNmplUkdpX0pjSWdMQkVWbWNvQk9XSV9qdUx5LXNBUEx3OFNVRUJqSnZBdnhFUDl6Yl9XeGxzcjU1ZWhvRlA2MGhJbmc0S3ozZ1E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-13T19:15:14+00:00",
-      "summary": "Key deals this week: GSK, Incyte, Ingredion, OpenAI, and more (BCS:NYSE)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Visa (V) to Integrate Payments into OpenAI for AI Agent Transaction - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3hCRFhtVFBiY2dXYTNCSmprUTBrNFlkMENnVlh2TW9WbS0wVzhhNVZRMjE5VjZNMTM3OUZBWEIxSnBxQXRNMGk5QkZPblJOWGFNYTAwTzdkNjhTQzVzcXJIRXhtNjNaWEJjOFVJV0hhXzNiS2s1NTNhX2o0OHRiUVRSeGIxVHg0c2g5WVYtSWQzWlM4eXc5ZVhFcm9Fdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-13T17:14:04+00:00",
-      "summary": "Visa (V) to Integrate Payments into OpenAI for AI Agent Transaction  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Their friends are making $100 million. Everyone else is wondering how to catch up. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHhwZ3FnMm5QcDg4WmFPOXpsTjg1S3dhaHlnVUdyODYtLVJKUFJqMkZ5UE9UNzZmWTRQRXNXcGxncHNmeW5IYmFndFBxTk1tcHNMSkZ1RU5fbS1wMzhydjBzSkN0cjhTLWE0MXFtUmJoNi1lVWpiSXhQdlQyeU9hR2FyMEMtekI5OUtUbWRrcERKTkI3aThfbTNzMGs1a1gtSEQxM0ZJd05lSDBHLU5sbjRPME5jTWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-13T17:00:01+00:00",
-      "summary": "Their friends are making $100 million. Everyone else is wondering how to catch up.  The Washington Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI investigated by 42 US State attorneys general over safety and data privacy - AzerNews",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0weW5SRjZsTWRQYkZta0pWcUd5WmFBOW94QzIyendWVm9TbXV1M0FQckdiV2FmTlVNSGJtT2tRLUkyRVprWEI1NW0yN0YwVlNoOVJ1eg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-13T16:50:00+00:00",
-      "summary": "OpenAI investigated by 42 US State attorneys general over safety and data privacy  AzerNews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI faces investigation from state attorneys general - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDRYZW1PWUNBbUJuMWVSUlpUb191cVRVZ1FfbFhoSmFhWURockw1R3hPUlVkQld6OUJqdWNhOURhb1JMdXpGT3JkRmZRNlVsQVR6UFdvaFlIWmF0T1VrVWpVaVJ4YnAyQlNWSDVxNWdMbEM2RzZtRGxJVGgzZGNCT3RxWGNRVGFjeGd0bmZRTFRYeERT?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-13T16:47:18+00:00",
-      "summary": "OpenAI faces investigation from state attorneys general  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A group of state attorneys general are investigating OpenAI - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1SzQtTGZ6bGRLejRMbFl0YndUbTZZTTkwNnduV2RxSFF0azRBVFJCRVo2YUtfemxNcm9CejhPUl9jWDhjbjYwb3V5Ni1kSV9iWmM4OG1CdHNjVnZGUkpFcV9oMEFfTjhiWjZWdXp3VVFsZkNKQmMyRHlLNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-13T15:59:48+00:00",
-      "summary": "A group of state attorneys general are investigating OpenAI  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Wix.com Ltd. (WIX) Named an Official Partner for OpenAI’s Codex Enterprise Launch - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONE16ekhjZ3RoM3E1SHhlbXNzanFOSkVSaktyX0s3YXlpeEthUVNGZE10QUhMdUgyOTRuSlY5TmJCVjl4Vi1COVpFVVRCR18wM0FwcnR4YlRmNDNaYlBDTWFMUGlJdjBkUDh6UjJqZ05xeE5Jd0VlUHhhcUZrZVJ4OGJKdXV3cDlrZ2VRNW01Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-13T15:28:50+00:00",
-      "summary": "Wix.com Ltd. (WIX) Named an Official Partner for OpenAI’s Codex Enterprise Launch  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Kevin O'Leary Says Trying To Pick Between OpenAI, Anthropic And SpaceX IPOs Is A Mistake: 'Buy Them All' - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0RlOGFFUVdvUjdOOXpYeUk0ZXk1TmllaUo5TDhTcEd2OTU0OWFic0tNcVU2eGQzMUlLVG5ZV1lGSUgyN0trUGZyVVhhek1XR0c3UWt5U1NSN21oeW5oQUtmU3hPcFNKQV9BWEpzR2NEUktGelByQ2hBcDU0Y2dMUGtiMm83MUo5MVpidWlPc0p1enR4VDFlRHpB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-13T14:30:45+00:00",
-      "summary": "Kevin O'Leary Says Trying To Pick Between OpenAI, Anthropic And SpaceX IPOs Is A Mistake: 'Buy Them All'  Yahoo Finance",
+      "publishedAt": "2026-06-13T19:17:45+00:00",
+      "summary": "OpenAI hit with multistate probe into possible user harm as its IPO looms  KTALnews.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
