@@ -1,16 +1,187 @@
 {
-  "generatedAt": "2026-06-17T11:43:19.393742+00:00",
+  "generatedAt": "2026-06-17T14:39:58.532665+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI unveils ad targeting and AI creative tools, allows advertisers to upload first-party audience data - Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT2wtOENDTXV4b3VJM0pXNmhxS3NZWURpR3ZpN19Wa2VNUU02TGt2NU9sdlBQdlJlU3g3VzJLM2pZZUZyOVE1Zi1CQWExYzZXR0l2TFFLNWlkTFFfcmxvUFU1Y2dvcThLWWg0OWN3bUdpQnFBdGc2cWVSQlg0b3pkM1NYMTliTURUa3A3aU1xSC1VanFZTzN6TkJZa0FXWS1fdDZXZTJMa0pHSU0wTFVxRmxPWksydFdhSEwwLVpUU3M1RDZWWUJmMjEzREVramZNOWgyRUh0eHNEaEVnekpPVUgwbko5RFFvYjlyetIB8gFBVV95cUxQZHBDeWExNVdkbUdkOFBldmxIeEs4TGhQZVNKYVNMZ3d4LS1MMGZOczhPRzNmeW9WcGJ5dG9iUnRTYXFYV0JjdUJLdmFIZlc0OFdNUWJpRkVrV3dacVV5VUZzZmpXRnZ1dWZNclpiMmd2SGRpYTBZLXlJX2pfejl6UjhfdTZGbWxoU0xSYW91WWVSU3dyTzYzWU4wX2FyaDBxME80MGZQQ0QtaDZKRi11djlaVi1EYlhUQ055WHp5ZXJBb0p3aVVTYVV6NXRpeHlYVVdWWm5xeVpnOG5xd2FOSW1jdG52X0c5Mmh4ZXdkRXhwQQ?oc=5",
+      "title": "OpenAI researchers want to predict how often AI models will fail before launch - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNFdYYVFIejhNSVVWVUFGZ3pPendaSVVrY1dtemlQRWNfbFFobjlLRVQ4bUxnQ3QtTjg5dzFTUUJYUVVEekZPYUwxOGN5M3BscmczeDNkTWNnWTFTQ1hDeC1LMDIyRU5udklRUFhLQzl5ODRlRVN0S252ZGFTTmdyaUk1SUVMRGN4M0dPQ0ZCYU8yakdhanZKdm83Z2lvRVVRMDdtMzhn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-17T11:28:35+00:00",
-      "summary": "OpenAI unveils ad targeting and AI creative tools, allows advertisers to upload first-party audience data  Storyboard18",
+      "publishedAt": "2026-06-17T14:33:02+00:00",
+      "summary": "OpenAI researchers want to predict how often AI models will fail before launch  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic's Dario Amodei and OpenAI's Sam Altman are attending the same CEO lunch today - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWx0QktwY3pOVS1uZDRlanJUZE1WTW9aM0NqTERMdWVUTDE3bUxXWXllZDZfNExJNlUwVm0zYUtYd1duQng3UWZrSkJHdjBmVWdVQkNtV3NZLUhocEtmUWtBN0tUdF9WYThLLWx2UkVvX0k3VGNKemJ1YXVKTHVXMHg2VFVjekpsVEFZWXF2bmxBbUt3d1JZMkNmNW9mejF5MEYyVlhn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T14:27:58+00:00",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman are attending the same CEO lunch today  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s backers spent $7.6 million to destroy a state legislator. Anthropic spent $10 million to rescue him - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVDRSWXhBclNONXpZcjVqTVRya2pwczgtcnI1WE9ZclRvYlU5QVhOa1BHRTA1enZnT3J4NmJTQWMxNnBBdWExVHFLYkdXaEJlT1FnTmNWOG5jRXpiSHJpaG52TmhQMlF5a1JvZDV1TzR1UFpNb0xNMzVoYUZHVDBRLUhTLTd0aU05WnE1bExCaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T14:16:00+00:00",
+      "summary": "OpenAI’s backers spent $7.6 million to destroy a state legislator. Anthropic spent $10 million to rescue him  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Fourth nation partners with OpenAI to shape AI security standards - Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbEZEeXlXeEpVZEw3dmRNV2xzTHdMd0phaTZNT3ZCeTJ4Zk5vbHloUkZSSUxrTk5lOGJwVUl0QXhFOHI0QURZVE0zb050R2ExQnpvQ1ZpSzFjc3Y2ZUI0ZU9qX0hKNTZ3bVR3OVBITUlYMmZwcHNUQjNmM0M2Q3lQVy1rbFNqUnl2amNnSXJzNVg1bWdwUmdjUHlmNFJJUHVK0gGgAUFVX3lxTFBfeUI4Y0lZTlltY1BCNmVHcTYyWkVEeHRQMG9nUWJwVG5uZHU5V2NYSWJQOVZGX1NaSldqNHdQbnpDeWoweEltVWtvd0JwTEsyVEh4Q1NaUWYyZWN2bWNfTVNkaHhTeURJTGgxeF9XRlRQM3BsNktCN1pfamNlaW5GcWFMT3lOWm5vdEFORS1jNkQtd1BlT0s5SWJVempjM0M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T13:55:17+00:00",
+      "summary": "Fourth nation partners with OpenAI to shape AI security standards  Qazinform",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Model Cracked an 80-Year-Old Math Problem and Mathematicians Are Stunned - ZME Science",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamdqVElCNlNTX2o1VUt6TTd3YS1nWkhLNko1WWNsbVNwNEZHcXluTG9UZEpJS1FiVm1rOGlqMjBqNExDUTFtTTFSUHMwZlNKaG96dmJaUkdVeFV6MkNGQTc0NTEyZXhCS1FaMUU2dExiSmxLUmtUQ3pESDN5dHlwZEc0UzV5dDRaOGxHZ29GN2Q5VWdsSlRTRlhQU2lXMEh5NGdLLWJCOHYwbUNPUm0xSWRMRldYMFpDVmwtVnNoYkl1QmNiVnBZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T13:39:08+00:00",
+      "summary": "OpenAI Model Cracked an 80-Year-Old Math Problem and Mathematicians Are Stunned  ZME Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI researcher Gary Marcus sees problems ahead for tech stocks with ties to OpenAI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1V4dXFFX0piT3VDMGZ3bmN0RW5RMUpERFp1djdKbDNLZExxZ2Jwcm5EcVFvdy1oX0xQVEZYdGRmM09uS0R2YlFlaVo1OFFYLXI0QzNlVzRuYTh4cmxXdnZ6THRqZHJoNzJyQUpMUzNUeG9RbVBrTDZJS0ota2dGc0J5alBwMGF3S2Zmc0NOajY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T13:35:06+00:00",
+      "summary": "AI researcher Gary Marcus sees problems ahead for tech stocks with ties to OpenAI  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Cash Burn and Shrinking Market Share Reflect a Maturing AI Industry - MIT Sloan Management Review Middle East",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEVXa2tibU5HekhqUE9uUkZ0bGQzMmRzLTBJN1ZBSkpsbGM4RU9wSS10UWptX1JHVDdKaHVacVVWZy16Vm1GT1Q1N1JmeWI1aGd0bGVBRTA4RFpMY0ttdkZzNHI0eHlUVl9DWjMxWHJGbGZaSjF5VDA2X2s0WXJlc0xUeUh4cjZCbFpudE16OFZjNEtWb2w4MmpLLWpWX3RfSVBYYXc4TFRlWW5jeHBR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T13:33:26+00:00",
+      "summary": "OpenAI's Cash Burn and Shrinking Market Share Reflect a Maturing AI Industry  MIT Sloan Management Review Middle East",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google, Microsoft, and OpenAI join forces to help create AI’s missing trust layer - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1R1NjJPUk5wNGR4XzJxNDV6VWtqR2dqbXMtOWE0NjNHREhGS19ycmdXU2pfTkNOMVJabm5QQjNwblZ3UVloYUZsdEdSVlFkWW9Da1htdWI0d1ZVbExjem9hMS1JYWdXR3dKRnI2aTVwd1JuSUR1N3pOZFBOTWNfVTRzbV8zVXA1Qkp0N2JMWWVVckVvZUROREItc3FTRmFLeGFNeg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T13:32:28+00:00",
+      "summary": "Google, Microsoft, and OpenAI join forces to help create AI’s missing trust layer  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "L’Oréal Partners With OpenAI - Happi | Household And Personal Products Industry",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTktZd0wzek5hTVNPWTRWRHEwWVZIeFhCUERMbF9jVmpwanpFeDhmcXM3am9QSmRRaTQ0dHY3alBwZkxiOFJqZkhRNGxNVlRkcFZmSkhCYVVMVXY3bmNUaVNkNUN4Q2pOSGFuelBRSkZoX09TcDh0OXdMN0ZOdGlEWFlyLTUtT2x3R21nd0x3N2ZZWVhCejUwVzZrMjQ5OXhfc3BZa3RKNWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T13:18:12+00:00",
+      "summary": "L’Oréal Partners With OpenAI  Happi | Household And Personal Products Industry",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Anthropic Tap Salesforce Talent - The Information",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDZ6RURCMDY4Q05HOWN6Nmo5WGV1ZGFtbXI5MXRCdEZiRGE1WmdWekNKVW5PWUh2ZnJyMEM4QVUwM3hNaHdqX1FfQnRJdXN0a1FnTXc3c1lwWWJ5TG1BcVQyeTdpajdJbm1hTDVSYlZiOGRCdkotaFFuSHhER21yOF9wY28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T13:01:00+00:00",
+      "summary": "OpenAI and Anthropic Tap Salesforce Talent  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Hitachi Expands Its Work With OpenAI to Accelerate AI-Driven Modernization and Cybersecurity - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYV9rM0twYVZma09hQjVsTVA4LWdMSzRnWFl5blhZVldISWFJaTFteGlqb25qRTN0SjZYdm5PdXQxZ0ZfY0RFdk8wOVdYU1lpZ1JmcWhXUVNxNmNhRElKSXlnZ2lJb1plQlFYUXp0alVNNWJrRGtULVQ2RnZ6WFpWNWNVeXljTTA2NnpEcU9RMDdVdmx2cW9vY2NkdUxoa25wQXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T13:00:00+00:00",
+      "summary": "Hitachi Expands Its Work With OpenAI to Accelerate AI-Driven Modernization and Cybersecurity  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Hitachi Expands Its Work With OpenAI to Accelerate AI-Driven Modernization and Cybersecurity - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTEpiMTFISjI5My0wdXY5am5YZ1ZfVG10Yjh0dUMxRlZDOEw5MUxWMV9tdWdyTmhfX1JGVHBhaVQ1LWljVDIzTUQ4Z05KUmlGZXdQTTZYX0pXUVZxLUFNS1JTeTZOZ1dveklqbnBzeDN0LTY5MHM0RVpqeDdGX2k4VWVKSi1JMkVUb1ZUZ0N1WGFtejc2bG9TVWZlcDZMT2dLUjVmVi1ZMFp0LXBtMENpNkQxZWhjTlVqb0dyajhmem9lQkVPbzRzNkZiQXhqMHJUdmhhN0pRTWlIVFE3Z1RqY0tUVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T13:00:00+00:00",
+      "summary": "Hitachi Expands Its Work With OpenAI to Accelerate AI-Driven Modernization and Cybersecurity  Business Wire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Burns $3.7B in Q1 as AI Spending Surge Outpaces Revenue Growth - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObTJvZ01kUGJvWDYwVzYxVWdibDJpQlZvcVQyMHJXSTFCX1RMSUhDZHlrWmtSdW01eDBrS3ZfelkwMXZXX1l4ZmpBbkdWMlVXcnRkRWw5eFNaTFlhejM5SHREZm9teWFPNVNoLXVGdG1sc0UxVzhFcVJvUHR0bDlXN0MwZ05fWVU4ZDFVZ2lqVzEwOGI4SmZVSzhTNmFPNkNuUWVuaVVvNjZUUEU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T12:49:00+00:00",
+      "summary": "OpenAI Burns $3.7B in Q1 as AI Spending Surge Outpaces Revenue Growth  citybiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Massive losses and lower prices: OpenAI’s dilemma - Substack",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzE5cDhlRWRtWFQ1eEI3Wmlac3kxSTV3WmNQV21xYUlvYjZ6OWF3V3U1c0Z3WnVPeno3Z2JlLWVEbzczaVE0RHJ4TkV5WFlId2hPdkFMOGhZM0lWa3BKT1dWeDd4M1g1eUdHVWU0cTlrVUdpOWg4TVRFbXNOOUJObHJsclBjTkk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T12:31:02+00:00",
+      "summary": "Massive losses and lower prices: OpenAI’s dilemma  Substack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "5 Fun Projects Using OpenAI Codex - KDnuggets",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JcGZPcWxraUJpcEk0UHhZNmRJMjNjNDNmdnNVaW9qTG5ocDJQeDV6NHNDRjBPM090Z2cwVHBiczhLcVZ1VGVFVV9wb3FEQzJtMnZzY0JxakNTSzVZQkdfYy15bFRfdldrdUl3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T12:02:10+00:00",
+      "summary": "5 Fun Projects Using OpenAI Codex  KDnuggets",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Identifies China-linked Influence Campaign Targeting Data Centers - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1hqV2FLWUxVVjc5NkQ4Rm82V3FoT1dpTGpvS3Y4N2VhUW5CdlJaLW9ORGVia0w0QWFzVUxlSmNHTmpROUJsaFdyNXRJOWJmWVM2NFM0TFpFbnMxSlVCdGhrUG01RTA1MV9TWU1aWlYwMHluX21ETlFwY2xVRzV1aGQzTFZ6WURGM01LX3pwREZ3QkhpdU9ya1c2TTRlUlZlN1Q0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T11:45:00+00:00",
+      "summary": "OpenAI Identifies China-linked Influence Campaign Targeting Data Centers  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Claims Fake Social Media Accounts Make Americans Hate Data Centers - SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTAzX3I3NHFGZ3BYeHp6WXhpZmJHaGIyU0k4MERGMmplRnRGaE02dWdrdkVJUE0xS0ZFeWdIdFh3aWtlbjJaY29zYm1QVzdsUkRoN05aYXREbXJJVU9YM2FncWI5Z19qX1JEbDRoU2JiY0tLWFRKNnRfLWJidHJXQnBDazVrNjhFUUhCSEJTdmdGc0hnVnY1NUk0Z0RpTEN2NkhPSndjd3RLSEpQLXY0RnBkWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T11:45:00+00:00",
+      "summary": "OpenAI Claims Fake Social Media Accounts Make Americans Hate Data Centers  SlashGear",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "L'Oréal bolsters artificial intelligence capabilities with OpenAI partnership - Cosmetics Business",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3Y2eUpucUw0NWlNdFI0c1hpcS1CN1RQbTVDbjVPS0RPeXA5elRSRF9aU3BDb2FSc0dGM2RNVUJQQ3FQZHh0NVBId0YteDNJZjY5VXVHS3AxOFNmYXQ1WTIxekNJNFg5MFpWQUc5Y1BZc2dHVFBJczkyM0dHaC1ITzBWV1A0elZrcUM1eHFoQVJseG82RG9TUWZBQ2pzVGsweW50TEgxOFRFNmFPZmlNamlR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T11:43:08+00:00",
+      "summary": "L'Oréal bolsters artificial intelligence capabilities with OpenAI partnership  Cosmetics Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What does Anthropic do, and how is it different from OpenAI? - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1EzcTR6ajFaWXhHbFgzbUM4UE5CZFBrTGx1b2RYS2tNeUhCR3hGNG1qM05HWXRGaEtTWnZFOHRNWDBac0otbDNNM0hZdTRWSV9aWFJ0YWtEOHpyemRMcERiWjhFOEQ1MmNuaVRzS3M3WkpvWTJ1ekdFRHZvWlc1Ym1UZC1FcFpmbW1pUGtNdl9UQ2Q2UGhCX1VXNDJLVTZFWS1fazlNWl9ad9IBrwFBVV95cUxOanVuRXlISEExd1VDdlpidExzRlloTkhjU0FSWEYwWjJrUEdYcEVRaVJuSE1iYjdpT1RwX2FwYVA3YzB1ejhwdWFhZE5JZjRSZkFwek9mRFlUZ2dzbUdrMHBBdVlNNkVQeWl6Z2VScUpuSi10Vm1ZY0xiYWlVVnBoaGV6WXR5R0xzdWFOUkhNWjFRN2JzdnpNYl9KQW9IM1E0clluRWxFZEJXWnNRNWFz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T11:42:15+00:00",
+      "summary": "What does Anthropic do, and how is it different from OpenAI?  Storyboard18",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Financials Leaked. They’re Not Bad, but They’re Not Great. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYkJmb0NVNWFtMnVMQ1BJNU16VDR6b1JUQk5lNzBjT2o4aXZHZ1k2VjctQ2MtZ2Jwdl9adHRfNWVRVFRheHo3UWRNSlphNWFNeGZhNGxJWlQ2a09pR3AteWdQNGs4cFFXVmt6TGNYbDBHQ21LeEk2dDNpTHFJbGpndjZzUkRybnlRcm8yTHNyMVBSckttWnd3RUgyUC0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-17T11:38:00+00:00",
+      "summary": "OpenAI’s Financials Leaked. They’re Not Bad, but They’re Not Great.  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,182 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic, OpenAI IPO Watch: AI Chiefs Sam Altman, Dario Amodei, Others Reportedly Join Trump At G7 Summit - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXJXWExaLWt1OFZEOXhUR1h6N0hPM3VycVJEcGdONEx1V1d6Y3Ytc2paQlREQl92aGNBNGhrdDdxQ0ZLTUhIcjBkSXl3VjFIa3BvTWV6d2NhbmJsVnN1YXFBak5YNnlqZjZPT1ZNWGVvWXJ3blo0SWhOdlJIaXlTWUd4WDlHOV8wU1ZyTm50TWRQcFl0UFFsZA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T09:57:31+00:00",
-      "summary": "Anthropic, OpenAI IPO Watch: AI Chiefs Sam Altman, Dario Amodei, Others Reportedly Join Trump At G7 Summit  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Anthropic, OpenAI IPO Watch: AI Chiefs Sam Altman, Dario Amodei, Others Reportedly Join Trump At G7 Summit - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQXExbEtROTRlTE9raXY0bTFJYl9tczN6cE5idVpscEZ5N3BGLTVLeC0wMVkwNmF1Q3dPY1ZHZE5XRENQNnZ0NThWVk5GSDBvZTlHNTExamQ2cDQ5UlVBRnJkbHlzdHRSUlpoTS1yUVYxSUptb2lhRVN3MkFOVnE2WmNmMnJ6dUtERkNzVVFyUHIwWTlEdlVKcmxLTFhjWm5OZmtSdHl1M3pDN2FfUm5WeEJ0eE9qWlZLWFNrX2RvY21GdTQ3enpObWxXMWgzLVJVUGtwZUVjdHI0bEp6ak5iclg3NHF5cFVFZW5DRzYybzFqMnl4M3AtNFpGMA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-17T09:57:00+00:00",
       "summary": "Anthropic, OpenAI IPO Watch: AI Chiefs Sam Altman, Dario Amodei, Others Reportedly Join Trump At G7 Summit  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's \"Money-Burning Machine\" Keeps Running Despite Losing Around $260 Billion in a Year - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WTE12RWZQSFJyWGR6ZjdLdjNkZFJzTDlwbE1NWmpMaFV1Zm5CRlVySmdZRHlycm9XeFVQd3Z6OXYzMk1rUlVWY1EtZDN4VXRNWjhF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T09:43:33+00:00",
-      "summary": "OpenAI's \"Money-Burning Machine\" Keeps Running Despite Losing Around $260 Billion in a Year  36 Kr",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Multiple US States Subpoena OpenAI over ChatGPT Safety Issues Amidst IPO Push - CXOToday.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlhsdnlYNWt0eUlfZ2dYRVlMUXM0QjVlSEtYMDdWUGdmbG5laV9XNjlfbHhPOFR5eGNlTnZoSHNpMk5TTlpFSGN6NllpWFBHNEMySE40SURESm5QcXdTY0JEdVc1X3lJWHhPVDNSRTFyZHF1UkpmdjFnMmVEMk9SWWVpRl9UR3loVVZmYWZEeTZqTy13RzFpR1h5N3pDdnBNb0s3Mw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T09:26:45+00:00",
-      "summary": "Multiple US States Subpoena OpenAI over ChatGPT Safety Issues Amidst IPO Push  CXOToday.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CMO Moves—new hirings signal growing role complexity - Ad Age",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDdRb210Z3BWa0VMN0NMTF9iTWRidG1IUnJvZzNyNkFnZ1o1NExpSnYtTG9UQjRnZFZzYzlqUzhtVXdUaVp5Rjk1cElPbzhsUmlZU2RvemZUVF9LT1FCaGY3WWs5TWhlRXN4MGkyb0s2MnJOR2ZnRWJZR0J6MTVwV21RX2QzcWw1SlJRcFRR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T09:10:00+00:00",
-      "summary": "CMO Moves—new hirings signal growing role complexity  Ad Age",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Opinion | Dear A.I. Companies: The Doom Trolling Needs to Stop - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXRrYjV6aURMY01IUk9JaXRnNjg5a0Nrb2ZYNS1hbldaTldDU0pZbWxxYjNhR1hwbmRRYlU4LXpKak10T0tZRUg4OTNUOHlybTI4ZGdGSXZLSmN2LV9WcVNSYzAyNmFHcVVWQUFnUFF6TmExTnl1aEozRDI5T0JRaFh1dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T09:04:32+00:00",
-      "summary": "Opinion | Dear A.I. Companies: The Doom Trolling Needs to Stop  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Hosting Pricing: How Much Does It Cost in 2026 - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94TnhPX2pJVDMxTjlzLVRZeTZBbkJyZ3ByZDFnNEtFMEM4c3dlcTNEdnZ6amRZcWVabTBWdExCTHh6N1JyUkI2UnAwTVIyZTdFZjdfVlJTRnIwZ1pXa1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T08:57:11+00:00",
-      "summary": "OpenClaw Hosting Pricing: How Much Does It Cost in 2026  Cybernews",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Hitachi expands its work with OpenAI to accelerate AI-driven modernization and cybersecurity - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPek1ZbjB1VXFSTGh6LUVVWnc0WkExZlFnUnJJMlhPYV9CWlhxWVdDSVV5MWo3RnlrU1V3SXdaTzRNa3FicWJ6UHhTdE1iQ3phaXRWYm1ZclJNLXZvR2JzS1lwY3RqS0tlbEJNcmhRNEd5ZDdGeTJ1QUtsRVF0MDJidTZMU25GVDJLWE8wU1dJRXhNU1AwWDI4anM5cFF1S2ljTXhQUXFSQVlDWWVPNTVYS3RQLV9qaUVtSTgxaVk2SDJHVXJ1LW5RTE5HaVJVUXF0S3A4VmhLRU9kVlRJX2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T08:55:08+00:00",
-      "summary": "Hitachi expands its work with OpenAI to accelerate AI-driven modernization and cybersecurity  marketscreener.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Visa partners with OpenAI to power AI-driven payments - Fast Company Middle East",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2kzaEtJSWdyT19IeUtxdUtOR3FnX0NOMjB6R216eHN1YzNJME5acmFwVVREeGY3TmJheVB4Q1VaXzhNSTNFLWFqQzF4bGptdWdoRGJjRktKNTlSUldtaDJsbkhQQ25QVVBIdVluQ3VnVXFrTVRDMU5VYTlVQzVtSTVtQmFQeUZfQk02bzd3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T08:50:05+00:00",
-      "summary": "Visa partners with OpenAI to power AI-driven payments  Fast Company Middle East",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "L'Oréal announces alliance with OpenAI - FashionNetwork USA",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUlaaHpEaHN6UHpNeHV0NWJDemZkOE9PdUpnQ1dBSHRuTGlocjFDWUhPTVRMai1UWExBM2VwaGhabVhPX28xMEZPbHhQM0I1YmFpRTdVc3l4ekNlY0d2M0pYdXhuYzN2Y2NCSU4yVm1ndWtGdkUyOHBqSUpUTDZHMjA3eEFNUnVKUHZfMjNqaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T08:42:24+00:00",
-      "summary": "L'Oréal announces alliance with OpenAI  FashionNetwork USA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "LIVE: OpenAI’s Sam Altman, Anthropic’s Dario Amodei and other AI execs at G7 summit - Shoreline Media Group",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcmRLaVRCSFc3M1h0QjFPUUtHekFzSlBYV3BqNGZfclFaN0RNYWV6dWJjR3FFU3p6RDh2bU5SSTlzNE15QlJiSG9NLUJmemtGeDN6Vkg1ZHI4RjBzNUFsWDk3eGk3VW9JYlQ3aEt2Q0FURVVFNGZhcTBnUHJDbHFhNmE3VVNoV091VW1HTndYaXU2VXJxcEE0VTRSOHdsajhvVVEzT1dZd3ByLXZ4LXY2R0pzUm0xblA3ZS1lS3daT1VheEhNZ3gyZDBabXhMN2NvcDB2R2hYZmdudzVIU1Vud1ZUVmVLb05FcUdOVThVOC1kdlUyOEp6UTdKRkYyb1JMZWs2ZHlzNThHcFBsUmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T07:34:29+00:00",
-      "summary": "LIVE: OpenAI’s Sam Altman, Anthropic’s Dario Amodei and other AI execs at G7 summit  Shoreline Media Group",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tim Draper Says The Next AI Giant May Not Be OpenAI Or Anthropic: 'We're Looking Around The Periphery' - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQXFaOHFLVDM4SkZDQ2x0dFg0Yi1mMEJDSTBPbVNQZ2xlRTlqTmpSYkhJUlNhdWVLSWxObWZUVUJNb3JsWlp1Wm0yOVBHNHkyVjhJa3pBcWdESks5YWUxanQzdFVBbHNhaDYybXhtNU9VTHNNMEhJNFpuczNLaGFLWG82V1gxVzdxN0hTSkxnTXlTcWxGT1YtZTBmaXJ5Y2dqNVVDYkdjMzQyZ1lWZEpxbUJJMGZiZGJ1?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T07:10:58+00:00",
-      "summary": "Tim Draper Says The Next AI Giant May Not Be OpenAI Or Anthropic: 'We're Looking Around The Periphery'  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZE9yRkF4ZWRCUXlTM3JoR0RKVDE4Q1VfS2xNdHBZODdUTjNrcF9OVVFlMXpvZHg5REFaYy1IdGxvSkhGTGlkcWU2WjNZWEY4N0VZZWdyNWtDMG5BN3RaamlfcXlEYzl0M1Npc1ZZN0dkYXphQzVrU1RGMFk3ZE92eGZsSkJVMDd3bUJMRUhB0gGTAUFVX3lxTE9QVktTTi1feHFDS21EU2ozTTV1UTdoNS1JdEVJMURhQWxjdVVudnVMZUplWGQ5N21Yd0ZfcFZsTE9JOWxNVWNnT3JlLXRkWTU5T2R2cFdaREgwUlg2MTd3TDJjTXctRVdJRVhsX1h3NHhTYldvUzFRZUh2RUR2THpKcmJndXl1c0hWNHZRblRFVG14UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T07:09:54+00:00",
-      "summary": "'A signal of where power sits': Trump and world leaders joined by OpenAI, Anthropic, Google at G7  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "L’Oréal Is Partnering With OpenAI - WWD",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYkpqQ3ZNZ0duTEwxRXM1WGNITGJueEJ6allkN0pHeFhPN1pnZHBoRmRWUHA3NnV6eVp4eEpGTVhTeUZqUlIzU3I4UXM2UnpJQmZZQTB1Umhhd3ByUERjb3p5MVJ2LUZFcWZ1MVdJTDlOQ05qdEZldjFoOFdUeUNFZ092Z2xqZXR3bWdTZjlraFhsX3JJNGtjSmloUmU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T07:00:48+00:00",
-      "summary": "L’Oréal Is Partnering With OpenAI  WWD",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CNBC Daily Open: AI protectionism opens new front for G7 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmVsSXFpd3BCeGJYckFzQ240ckgwaDNvVTNMZUNCbU81T3NKUF9TRnFDenZ3TGNMRzZ1YUMxVDhuZ2NtdWloVzV0Nlh2bFFzWFZYRkd6SzFRU0JIR0ZIMFJ3S29vWlBXMzNLeVN5bU14U3hrZzJuTVVVVUVSYnhRT1ZuVmFocnotZTRFRklqRU5YNndSWGk00gGcAUFVX3lxTE9hdUhUOWdYeEpYWnNHal9HRzlUeWh0MHo3UEpzTUtpVXNPbURmNlhDUHA2ZW8wYU5xaXdZT1lPQnBsRGVwanVXTWxKOU9YYzdZMmJaMjZpdm1CMTVkRTRvVmZidkZIbUNtbFBCQl81UXJkOVc2UnpsN1RXSTlEdFRadE9NS0o4blRObkhySWpOcDlaWjBKZVpHNnF5bA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T06:10:28+00:00",
-      "summary": "CNBC Daily Open: AI protectionism opens new front for G7  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Tops OpenAI In Business AI Spending Despite Trump Feud - Yellow.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbUhtTmIwTy1yV01nXzRBUkplM2NJTklqSUJDVl9EY013dDJUa0pmQlBkQWdpM0NhWE9kOWN4TWdQRDZHLUVaZkRJOEprcTg4enZmZDlDcnZGU1ZjX1hZanJVdjFMaUlXbFpKczY4TzM2bGdlQXlCdHFCYTJGTmZuT0d5cw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T06:03:22+00:00",
-      "summary": "Anthropic Tops OpenAI In Business AI Spending Despite Trump Feud  Yellow.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45cG5uY3VUejQxZGRHeUpUbm1DeUdqMUtvYkxoZFlqTjhkTUgyWU5PMzVTbFNUYXFHQ3ZmT1ZodFhKZFpGYlZTeEZLTUxFQWpSU3R4bVpKOVIwOG1JWDNJVkx1bWh5OFBNNnF6Ti10N3V0YW8wMEthbA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T05:49:54+00:00",
-      "summary": "OpenAI's Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls  MarkTechPost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI: OpenAI throws in the 'Kitchen Sink' Costs ahead of mega-AI IPO. AI-RTZ #1120 - AI: Reset to Zero",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05dWdjWEk3QnpaYTZMcnpYMGJ5TERpc1dKVjIzb1RWZUdRWG1OWUZIcVZrdnFpQXFyR0VFNUtYRUxzeUswOVpjWTF2OVZjM3lNcWdDRDVIVjhnenhJdlRLWWgwTk5aZFFlems0anczOWRmTk5YRFhpd0xBTjVIdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T05:02:56+00:00",
-      "summary": "AI: OpenAI throws in the 'Kitchen Sink' Costs ahead of mega-AI IPO. AI-RTZ #1120  AI: Reset to Zero",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nykaa shares rise over 3% after beauty retailer partners with OpenAI for AI-enabled shopping - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWnNBU0dob0ZRV1hycnVJMXpoakxkV2VveF9VeWNodndCR200dHRnYmRUXzFOUThOMVE1bFk1QzI1cjVpUVVvZm5seFczXzc4TnBfYlRLVTRiUWJKR1FXaWNZOTFXemhTbG9HUE9lUWJQbDBjVTB3bWg4bG1BcEd5eUhJR0VXT09kY3lKbklHQ1JSUko0cDU3bDJqZk1NX2xTVDN4ZVRHNlZmOEFhbGc2T2RtbkFuNVhsNWw5ZkJCenY2Vk5GZ2wtZ2VOTUdjaUJoQkkzWi1tSFZ6QnZfOUZOZm9VYk8tNFhHSlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T04:39:00+00:00",
-      "summary": "Nykaa shares rise over 3% after beauty retailer partners with OpenAI for AI-enabled shopping  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "South Korea becomes 4th country to forge AI security alliance with OpenAI - Japan Wire by Kyodo News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tNEI4YXZZdU1tNENwTTFsaVdmUWU2RHgwemZGam5BTFVRNVNUTDVjSTBuZlJEUi05S0cycTZlcjVjTDZYVW11M3ZmZmJqS1FUaWpyRTI3LUdXdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-17T04:30:00+00:00",
-      "summary": "South Korea becomes 4th country to forge AI security alliance with OpenAI  Japan Wire by Kyodo News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
