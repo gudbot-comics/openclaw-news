@@ -1,25 +1,151 @@
 {
-  "generatedAt": "2026-06-18T06:26:16.927627+00:00",
+  "generatedAt": "2026-06-18T10:52:44.219751+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Florida Sues OpenAI Over ChatGPT \"Safety\" - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0VNWnRSRmo0RHVUa2lvX3lqUm1YY19pRl9ZVF9jZHFfVXZpZTdGV0F5YmQ2UW9hazdiOHVGMExnMWhSS0JCMkpDMFlaeGhremxNdXROVzJkVWhwbEFDWjdZTFhrb2lnZjNmbkMxbktFVTRkUDhVM1dCQUh5SkQ3Nm9Pei0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T10:22:30+00:00",
+      "summary": "Florida Sues OpenAI Over ChatGPT \"Safety\"  Security Boulevard",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive | The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJ4bWdVcDZ5RHZmbEtLa0NJUGxCdWl5a0U2NWx1SnNaOEJyZTU0VmNaY0VOTGRSRTdOVnlKdHNrUzlqblFKRGdvX3Q3T0ZGVlkxbVNoVk9XWUh2bUtqWVFldWlnR3RETmxVczJULU5WMDN4b0pfak4zUl9nSGpUaXZxVlVqNzBVRzBUNGc3ZldHQU1WRFBkanBSVl8zWnpMcDh4ckVYc2hHOHdJbWNqQW5YaTc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T10:00:00+00:00",
+      "summary": "Exclusive | The $13 Billion AI Startup Betting on Cheaper Alternatives to OpenAI, Anthropic  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google Gemini Co-Lead Noam Shazeer Joins OpenAI—Sam Altman Says It's '10 Years' In The Making - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzRpQmdzQjZsbzgwZkpZbG1Ja2tCZ0l2a2JfdDdKdjBjX2RvMnlHc2FadnlHYXRYTHJvQUlHdWloWDN3bjZoNEZuWnJfZ3RsdThSM0theWhSVDFtejdQd1c1dXFvTVFEMEVKOWJsOTgwemFQQUlFdjJDVzVPam5yZkxBUk1MN3N1bHlFRzREMXJSYTctN1dJSEZiNnhCd0VISmxDUWM2WFc3UDRVRUJXdVhjRnVEVkM5MjIzS3dCUk01amF0VHBYQzJUdjBUYXpGeHJTLVVJV1RyelE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T09:58:33+00:00",
+      "summary": "Google Gemini Co-Lead Noam Shazeer Joins OpenAI—Sam Altman Says It's '10 Years' In The Making  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google’s Israeli AI star leaves Gemini team to join rival OpenAI - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HZGcwMWlRVV9rX2tCRk5UajVmM1Vsa1UwbUNKV3JKQ0t3S1FSMzN6QkQ3MXVOWjY1TnQwTFlUSmsybll2eUg4bmttWkMxQi0tY0RQVEo3eS16MWM0WXo0ZWZ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T09:23:59+00:00",
+      "summary": "Google’s Israeli AI star leaves Gemini team to join rival OpenAI  Ynetnews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t. - AI News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0RCeFNGNzFzcFgtY01Hd2FVbEt6VjM1VTdyTm1ITVdWa3kzZE5LSEtDYkZlSThfVzl5UXdPeURBQ1BkRUNldHhhbnB2WDM0SmYtcUM0bi1hYTBoa0RISHY2ZGx3TFAyRDVDNjRZS2RBVnlBUDVITFVlQ2Y1dnFrTEdNX3ZCU3Y1ZDFKWUx3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T09:03:58+00:00",
+      "summary": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.  AI News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to launch ChatGPT advertising service targeting users in Japan - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYTdONGdHZmJlMzdsOFdsbFg5Z1R6emdMSTdBUjVLZ3l1UWJtbTRWSDJKLWY5VEU5bE13bkdkMERtMjJiMVQ3YXdzY1B3RTRHeVJ6RXVoSVlQR3Bta2VmdEFfbVpEV2w0bEw3MHMycVprTzVZRTFxMXNjSXMwT0RmaGdpT21HTmdMb19ZSngyUDc5SkVaMDhJeGRJZEdMX09LVmx2M3BRbThxaXVsUmtEcmU3Nm92dFBPNDVES1JINW5ma0tWNU5ZLXNJZHZKRGFaeGFR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T09:01:00+00:00",
+      "summary": "OpenAI to launch ChatGPT advertising service targeting users in Japan  Nikkei Asia",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Emerging technology trends brands and agencies need to know about - Ad Age",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWkJKZnhvTlFRRFVUcGxScHV6MG9fWjMxMlZoUGhPTWRVY3JLSzZYUm51ZGhDcG1DaXRJUFAtQ1RmT2hiUWVJeEZSRUJlalJCVGRQSDJfZG5WeUNwcV96VjBpLW5renRYaWkyUHdRaHpFUnZKLTU5TU4zNi13NGFUbW9nMUViUENsTDh0OXlR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T09:00:00+00:00",
+      "summary": "Emerging technology trends brands and agencies need to know about  Ad Age",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google’s Noam Shazeer leaving organisation to join rival OpenAI - Silicon Republic",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSF8wQWdrOGQycnNpVDE1LXlCYnpNVG5qVDQ1N1RxWjZqUEQ1VUdkanNycnhuWkRKU256ai10WnAzWjV3bnZHbzlqVlN5R2t5YUtuQnduZnVtTlN0blBxUUFjYnNpc1ZJNVc0QTJlRkZUUklWbzhEVDViMHFjUm8tRDhaR0NLRWF0RjljTFdjRUJQM1Jqc0VaMGdmYXQ2Z1hUdlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T08:59:39+00:00",
+      "summary": "Google’s Noam Shazeer leaving organisation to join rival OpenAI  Silicon Republic",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Partner Network Launches With $150 Million - Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aY3ktT2JDZGlHc1VPYW5XT051SVMtYkpQSHJYTEE1eTdmV01BTi1FT2pqWmtGX2dLWC1fc1VIcV9TN0JvTWsxYkZ3RUF3VFpiNzNweXVvRGhsellBUU4wQ244Wi0wUDBNRm5MRF9HU09rMkFQZElpeU9n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T08:50:54+00:00",
+      "summary": "OpenAI Partner Network Launches With $150 Million  Memeburn",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI tests ChatGPT for Science subscription - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUFlVDhRbEZDRGdhWXNVUmF4R0UyRDlpNkgzOG5maUxVY0NwZHAxYjljRDBsZHA0MTVFYjZ1dzItUzZnX1czRFU2UDdlR1kzdmFyQ3BiSDA3YmFiZWQ2NWVMempBSXFfejZLYWNqdF92MllyV291MjZiVEtyMk4xSTRqa3ZBQ19KSUZzWl9Kekg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T07:44:43+00:00",
+      "summary": "OpenAI tests ChatGPT for Science subscription  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Welcomes AI Pioneer Shazeer Amid Talent Competition - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzNEVGo5dXRCVG1DXy1fclNMX3RCOWw3ODlqUlp6REVDSlFXMG9UVU11TGtQdDNTTTRGdGptVWxiS0I3ME8zVG9zRXByOXdMaUoyUWZjaTZ5NGU1cldVeE4zOF82WGNDal9nLWFicWJMX0dpcUhIRG94Z0hoRUotN0tXekVIZXJuNjgwWHFadGVtT3BLY1hyMXRJdlN5Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T07:31:47+00:00",
+      "summary": "OpenAI Welcomes AI Pioneer Shazeer Amid Talent Competition  GuruFocus",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Who Is Noam Shazeer? AI Pioneer Behind Gemini Now Joining OpenAI - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWdmR1hTSnhFSm1RVm1GdVdibXpEUS05X1Z1T2REMzJpX1A5Q0NITTI3MjJsRGFXUmFKQXhwZHh2aFMzN01MMWxnaU11aWlGLXNBY1JzTTdHd19KanBSaE03VHptcHR6bXBFclRDWVlTVFMwb05mZkJBUWlKY1NvZjZoYzlNZUFCYlFvUVFMVkoxckNnWV80TFQ4aGFBbWVTcGpEWmRCONIBrwFBVV95cUxPa1p4Q1lqUlJNTXg4czZjYUNFeENweGR4YjFlWXZwdFBKaFh4V0FOMVBwcTRvbzdrcUpHSnN3akQ3enpMMkFyWUxTUUhrUWwtcUZpWVk4WjNzWm9hYUpwVUQ5VnRlUFBZS2hKdHU1azdPbmR3a28xUnZwRFl0c2dZZXZ1WjVfSUU2aVpRQVphdW9saTQ1TkFub3BBWXlrelc5UFRkNFVuWkU3LUw4RWk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T07:26:22+00:00",
+      "summary": "Who Is Noam Shazeer? AI Pioneer Behind Gemini Now Joining OpenAI  NDTV",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUXduOVh4RGRiV2VxQ3E3ZUNxeURmOWpiVGhkTTRadUJWU3NJX3Z0YjJfbnZnYW1SLXI3Q0J1RnowZk90QmVPZmhQV0l5dm8wUVBmVE1saXpaZVJxT1ZBM1k4ZTVuNU45SExVSG55cUt5OWlUMkpDbUc1c3hOeHRkWVJkMU1MSkJCUHJ5RTZNYWRxa2xuZEhPekhBYnpiZWxTSjRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T07:10:54+00:00",
+      "summary": "Google's Gemini co-lead Noam Shazeer joins OpenAI after two-year return stint  The Decoder",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft sells OpenAI models to Chinese firms - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVRtRkw4RDdzU0stTXg0N3U3VzNhWjBTbEF6NExQYXdEWEpOS0w2cXBiMG1TSFRPS1V3bEkzUGV3Q0Q2SndFd1Y2dUZFWUtyN0ZVQVo4MlFNQWtSU1I3SlJKUENMdzVEcl9ya3BjNDczeXhveldGcnpKanNLdldraGtMeklqMFZHTTVYWHlSSjBKZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T06:30:00+00:00",
+      "summary": "Microsoft sells OpenAI models to Chinese firms  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Noam Shazeer joins OpenAI from Google Gemini - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2RLbEs2U2pDTzNJYlR3UWtzVUdQc3IyMnFiUW5LR3lGM2tUSDhGOHZ5VElqQWFWSUlKdWw0V3NiQVlWclY3aXEtdFBuY1FwcTQwMWV6eVNleURsY0o4Skx4UWhaNzdOajQ4aFhUeDgxcG5TdzJrR3l1TERzTDF6TnVGT2lIeklRZnVNYVRVbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-18T06:29:12+00:00",
+      "summary": "Noam Shazeer joins OpenAI from Google Gemini  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Two years after a $2.7 billion return to Google, AI pioneer Noam Shazeer is leaving for OpenAI - CTech",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Qd3BhajRzTVRoeEstZzZ6ZEtMZGlpWElHVUJQUjV1cEVxOEZwQW1oOXRJX2FKSjE1dTRlLVdEbjN1UmRzTFZnTmpmR0VkTlF6OU10NUdBUUJmV0NhNmlSRGxJYnUyQ2cz?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-18T06:17:00+00:00",
       "summary": "Two years after a $2.7 billion return to Google, AI pioneer Noam Shazeer is leaving for OpenAI  CTech",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A Google Veteran Who Founded Character.AI Is Jumping to OpenAI - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnFla01xYk9DOVYtcl9YTUJuMlN3ZV9lQk5CYXZQQlFOZGRlQnQwZDFWclFNR1ZNUG5TX0NnaW56XzZYekxtVHoyTkNXbEpnT2VPcjM3RXEwcXJHaUMwREh5QmFHcVVPcFhhWHItSG1lOU5rWmQxT25VZ0xaU1l0U1h4TmRtV3lrdmNabUNLOXVMejAxZlQtdXhFaFE2T1NhSjNiNmRMT0Q?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T06:11:15+00:00",
-      "summary": "A Google Veteran Who Founded Character.AI Is Jumping to OpenAI  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Hitachi partners OpenAI to target legacy system modernisation and cybersecurity - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0tyMlRLa0NyWEVJSlEwZ1dlNU80bU95THN4SWY0a3g5NjItUmFqQnRvbDRNa1pjYVFrUVQxd0lqb092QlNQUE5VdUFaeXYtY1QyOHo2NENWY2hLVVpGVHZ1TXhPNDhxVmxfakZSVmQxdnFldUxxQTJrM3JMSzVKZzN1aExjN0VlM3B5cG1fZWdYYzVVMjczNUM4akpfUktRNTl6RlBHZ0pLTFpIVFcwUmpFM0VaY29LVTZ6aXcwTQ?oc=5",
+      "title": "Google Gemini co-lead Noam Shazeer to join OpenAI By Investing.com - Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmd4TjhiNm1kd1J6dWhPRzhQSng0TF95bVF1SWFvejlGcEt0TTU4TDZ5M283Z3pYVUw1TXNLMUVnekNob05sX2RFS0MwcTZkWVYtN0J4d0tVQUtrQzF1TVBTODFJNDRyd0VXbExGMUxQdGFBc2xNV21PWVVPNVRKTjFNWFJHM0lORTNWV3N2Nkx0TDU0WDRfZEN0WnJyQnRwRV9Ia2RRcVZNRGRZMFE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-18T06:01:35+00:00",
-      "summary": "Hitachi partners OpenAI to target legacy system modernisation and cybersecurity  Telecompaper",
+      "publishedAt": "2026-06-18T05:51:50+00:00",
+      "summary": "Google Gemini co-lead Noam Shazeer to join OpenAI By Investing.com  Investing.com Nigeria",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,29 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Big Coup: Gemini Co-Lead Noam Shazeer Poached From Google - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZVhtbUtlM3FncE0xUXFDMnF4X1B2ajFLLVlRdGpPQnJUMHlIVktkZXZEMkNaVkpGRXU3UGxxX1dENS1vY0xVMjFheUFEWGRiU09IOVR5aEt2N3dvcFkwYzg5WWNhV2JMdkpZQ1pDRTdoTTN6LWtjWVg3UFczZ0NNSm9Ia2VRN3JnbDB0R0N3MXV1TnVHUUFOa2kzcDVMX0hxVTAtcC1OSFpHbDl6RklZZDBjbjc2TnctcEHSAcIBQVVfeXFMTzF2MFBjZFM2LUhDSDBUVDF2Qk5jcmx5cUNRYzFCZkMxQkd4ODE4c1NQNGVmTG01T2Mwc0QwdXphcThiQjZiZWxDVnp5d21RRlZ5VkxxR3FZQVRvN29HTWY4ZDdOQW1GUHRaNE1Kd2I0TU5IQWd6RVpfVUJyVXVXR0RMM09ta1JNaURPMTJiY0RuREFmc25GalpXNGo0TlppTG45c1lsS0MzcTE0UkZIUFd1cGFNdGdmTU9WdkNJVzNHNlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T04:58:41+00:00",
-      "summary": "OpenAI's Big Coup: Gemini Co-Lead Noam Shazeer Poached From Google  NDTV",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Google Gemini co-lead Noam Shazeer departs for OpenAI (GOOG:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY0xjckVNbmRILU1lbkFDTFRaOXVIRG1WcUY3UC05VHZBYVgwcW1abHVBYk1FTGxVT05IQU4xNUFOWlAwMkI4RmFsSFROZ0RwM0IyZnhFZ1g3NGo4aWNrb2ZreU1Cd2RvY2szZUhXYWowVzlmTjVnd2N1d3VxbVphdXAwaUlZMTljNlAxVGF3YVZJYVd0N2c?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-18T04:14:46+00:00",
       "summary": "Google Gemini co-lead Noam Shazeer departs for OpenAI (GOOG:NASDAQ)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Noam Shazeer joins OpenAI from Google Gemini - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2RLbEs2U2pDTzNJYlR3UWtzVUdQc3IyMnFiUW5LR3lGM2tUSDhGOHZ5VElqQWFWSUlKdWw0V3NiQVlWclY3aXEtdFBuY1FwcTQwMWV6eVNleURsY0o4Skx4UWhaNzdOajQ4aFhUeDgxcG5TdzJrR3l1TERzTDF6TnVGT2lIeklRZnVNYVRVbw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T04:14:46+00:00",
-      "summary": "Noam Shazeer joins OpenAI from Google Gemini  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -110,114 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-18T03:54:09+00:00",
       "summary": "Google Gemini co-lead Noam Shazeer to join OpenAI  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Noam Shazeer departs Google to join OpenAI as IPO looms - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZWliMEpieHU1dm5PdUZBTTBqRUwzNE9IOUlNYjIxckJ6MzlOeEJ4SWU5NzVkVGF5by1uSHI3b2NVc2NsT3RrNHgyZ3BmSWxCQXBpR0RoRmk1dF9hWWNiSGdKM0xrTjdmU0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T03:39:21+00:00",
-      "summary": "Noam Shazeer departs Google to join OpenAI as IPO looms  mezha.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft expands AI model business in China amid OpenAI, Anthropic concerns - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zb3QtNUktaUZjMlBfNGx2c1ZwV2VKR3hmOWtQelNoOUt6SGVfMUFRcXVyYVp1M1gxckRmS19ZNU5IY1NOM1Y1aXVqN0QzdXg5OTJhcnN4aWp2VjhuYnNlQ01VQ0ZLRjh0Z2lPODc0aW5CNmM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T03:37:03+00:00",
-      "summary": "Microsoft expands AI model business in China amid OpenAI, Anthropic concerns  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Google's brilliant researcher Shazeer has moved to OpenAI and is hailed as the 'father of the Transformer.' - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUtfWDV5dVYyYktWVHBoa2FXVHdNckhRekNRdHFNNTFDQ2FXRERkRzdpVXo0aVA5V1pVeHVNclI4VjRIa2NBWGJtakNXZXNaa1hIY3Jzd2VWaHZzMnR5V2s1dkIwOWVRaXVXeDJXcFpmOTlpdV9VMWxwZkNYR3pBYVNtdWh0aWlBdG43Tm5yVDNxYUJSRkw2TF9TcWo2d1ptVWpuU293?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T03:24:13+00:00",
-      "summary": "Google's brilliant researcher Shazeer has moved to OpenAI and is hailed as the 'father of the Transformer.'  Moomoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Noam Shazeer Joins OpenAI from Google - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbmdqT0NLNnJzMWhzQXg3TldyUkxrTU52NF81cVZRWTVXUWVPMFVyVmRUbnVmT3ZtSlZPT0tkN0ZRUzEyaHJDcHRqc2hkeGJvUGpPM3BjbHhkdmdWTDBDQXBoLWRWV3VQaFZodVdyd05EWHpBYWxqdUhrM2kwVFYycmVOa0RsQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T03:21:21+00:00",
-      "summary": "Noam Shazeer Joins OpenAI from Google  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Google Gemini co-lead Noam Shazeer leaves for OpenAI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFk4aXNWVHM1WGRKVjh5a0t6NVQ0bkVrazFyRmZtbTB1cHZrazJMVHV4ZTNHWHc0NVdvb2NMRl9UNG15MDlxblVjVkl2NzJ3SHhkMy02Nk1oMGFrLURGMmNtVzdFQjlMNkdRYWxkRGJtaXJMQW85eF9VRjdOckJvWUQyWXV2NFVDNTVGNy1pVktnUEXSAZgBQVVfeXFMTlo0bGE0T0JyeEJTMVltX3RVdHBFYlB6VGVaSlpHRkdReGs2aHc4eHBvQ2lBb19BNlNSakV2ZmZsMndkcDdBQkRyT2NHNk5fa0E5VDdzSXFHLXZid0cyZUFuRHNKNXozNVFyb3BEcE1nQW5MVVB0aU5rVmE5ZVhXWjhHUDRLQjdSRDdBSFRfb3VPVldESE5qVVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T03:21:00+00:00",
-      "summary": "Google Gemini co-lead Noam Shazeer leaves for OpenAI  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Star Google Researcher Joins OpenAI in Coup for ChatGPT Creator - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHBHVHRDWGo3ZFREdmMyTVRNZzAtRzU0eW9SZ2tYVlVqalcwV0pIUktLMVRURUVreW1ia0Zyb0d0RWw2bTJuWWtzOGtCMUpScWpNQUxBU2FLbXhLVjNQOEptMXE1SHpUeWJpZkpDbFowTjRGV0NYcGxDYVVPMFFCQWFuTDY2R1NFb0pOUzFST1Rqd1duQ0JkaERxMVFSclhPRmZkMTFWbWNucW1sNmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T03:15:00+00:00",
-      "summary": "Star Google Researcher Joins OpenAI in Coup for ChatGPT Creator  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "300,000 AI Agents Enter Workplace: OpenAI's $150M Investment to Transform Reimbursement and Weekly Reports - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkOGdTeTZPWF8yLU5FRTRkdS1wc2NXY0hJZzlIUFVJTWpkR0lmTWVtNjVtaGhwai0taVBEcEhqekhkLWo3VzVUZXBOZGdrNDg3OThN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T02:41:48+00:00",
-      "summary": "300,000 AI Agents Enter Workplace: OpenAI's $150M Investment to Transform Reimbursement and Weekly Reports  36 Kr",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft sells OpenAI models to Chinese firms - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVRtRkw4RDdzU0stTXg0N3U3VzNhWjBTbEF6NExQYXdEWEpOS0w2cXBiMG1TSFRPS1V3bEkzUGV3Q0Q2SndFd1Y2dUZFWUtyN0ZVQVo4MlFNQWtSU1I3SlJKUENMdzVEcl9ya3BjNDczeXhveldGcnpKanNLdldraGtMeklqMFZHTTVYWHlSSjBKZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T02:38:00+00:00",
-      "summary": "Microsoft sells OpenAI models to Chinese firms  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQnNFLTNjV2Eya1l4N0dYWXB0VUlmTzFndV9USEsycFVWa2x4QVZJcHRuVUM1VjZYTExFYlpnRmZHX25jTWhBSGFFdTFsd3dGeXBXdEZkdDVpTW5vZ0RYZTNPZGp5VmtJWWU3V2JNN0IwS2dUUmViSDN3SkllMVZuYUJfajhLa2IxRV9INFlPR0VobE9WLU9ENU1CeVdleWhqMXJCMUs0OWFyZDNkSW9xb251WDFHcC0wOHk1QjhpeWVmYll2b1BNYjd1MU1KMmNTX1N1b0VUX2Q0NDhMeEFDeXRpS3RhVTVHQy1rRjlCaW5EaVRzb2pZbA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T02:28:22+00:00",
-      "summary": "OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric  MarkTechPost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Palantir CEO Alex Karp to Anthropic and OpenAI: It’s not just the man and woman on the street that is unhappy with you, but also ... - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNQzFMVUhuSkdNY2JwbWlLR25YRnNvblFxc0tXdTlWeDk2Z0VIZ0c0UWVMZUhLMXhIcEtHV0JPNjlVVi1LLU1tMzRYdkt5bng2aFdWUjFVMVI5bHVhTTdYOXhnVGdkSkNqZUh1SnNhRXgwV1ZVbnRNUFhJRXFJR2ViX1BCVlFfa1FncnJ3dVBHWkJGdmx6cUY1UEgza0tpV1dDU1RGZDQzbElWY1RLeHQxTlJoS01yemZfQ21WOEdOVGFzZGVaZWkzWWxKVTVCMVlrQnBCXzdHbGI1YjZVQ1drVXpFNmt6SUNrUUE5TDdnYkJ6d1pVTG9lQWtCSmV2d2g3a1JlLWppdUZneUd0VmQ3a3NSbmZ4a3BPMzZhTWxTVHFNY2NnWGJ6RDRCOUNTaU1zMTBN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T02:21:00+00:00",
-      "summary": "Palantir CEO Alex Karp to Anthropic and OpenAI: It’s not just the man and woman on the street that is unhappy with you, but also ...  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI joins push for safety testing of advanced AI models - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iNG1ZOVMtYloxcWNxd0hTMGs1NmMyN01mVE1XVk5WMHZkd1VOaUg4cFlCUHNFWXl2bENzek4xTTA3UVhIeFBHTklRcko3eDRyWXU1UFM1cFVKMTBMLU9WNGY1dlMyVHJ6?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T02:05:17+00:00",
-      "summary": "OpenAI joins push for safety testing of advanced AI models  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Gemini’s co-lead is leaving Google to join OpenAI - 9to5Google",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUi1ucUFTdHFIaFoxOXhraU1SbVNzYTY2NFFIWldaNGNNTnNqampsckpLbkF0M0ZmWndpVUlmdTAydVl5ejdZV3R5WWJKT05udW9zLWZSRVM0bFcwbkprSFJNYlpzTDFweE1TSlNvWnRuYkRJMDBPYzI1M3A5ODZJckM0dG03TGxrbU5F?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-18T01:45:00+00:00",
-      "summary": "Gemini’s co-lead is leaving Google to join OpenAI  9to5Google",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
