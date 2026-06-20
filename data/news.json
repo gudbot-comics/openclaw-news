@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-06-20T00:05:00.720301+00:00",
+  "generatedAt": "2026-06-20T04:37:27.399519+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI CEO Sam Altman lays out his company's vision as it opens a 'third phase' - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOdkVuUVg3VFpJTlNwbUtUb3N6aWtLbEluRTJwUmFERmVHT3hoeEhJaDBDWTV1X3JISVFlQkcxa1FONDVjU2VFQS01UUdMT0t6NUllSFRDUEhwdF9MUmRDdjV3MU1NeTM2UF9hbXQ2TU5MenZ4VkY2X2RqdHJSVmEtekN5eHpTcV9wTGxoNjNXZXpya1A2RURmNzNXTWpacUhMMTh3M0NwYlU1OEdtbzZlM0U3bDcwRTB0Q2JEdDRkOTFrVGQyODVlSnNBNHYxMDlqeEFmdUhrZEVudlN1VUg4aEtmYk5jUm5pQ21Wdm1Ca2FJODRxN0Zkckk0cEFaS0pnYktkVVgzVGVZc1J4WFc1UUVJZUIxNEt5bzI1SFV3cVd3ZUZMRXQybHRTR2JSbGtOdUd5R3F4dTE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-20T01:06:09+00:00",
+      "summary": "OpenAI CEO Sam Altman lays out his company's vision as it opens a 'third phase'  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "As OpenAI and Anthropic Race Toward IPOs, Trust Becomes the Real Product - observer.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMWDZxdF96Rm84S2ZNd3BNQ1FjUmlnYndpLXYybUV2dTJSR05FOTAwc3lfTXpEYzdZMW9rTTVhbi0xY01MMl81S2p0TEV3WDJnOHZkc0FwQ0Z1Qnd6YzBYbzBVd2RlRkNFMXRBTzRhYTVuUFZJaDNxOFgxZEE?oc=5",
@@ -24,38 +33,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Amazon Cancels Sam Altman Movie ‘Artificial’ Amid OpenAI IPO Buzz - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yQk9ybEM3bDJiMHFaeTBvTFM2QnRDdVFfWnFXMTY1Mjd1SjY5M0UzTmVYNzZlNi0wTFc1dDh1bGt3R21IZzY0WnBmbVlmekJiV3VZQVRJVDg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-19T22:17:52+00:00",
-      "summary": "Amazon Cancels Sam Altman Movie ‘Artificial’ Amid OpenAI IPO Buzz  Cryptonews.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Luca Guadagnino’s Nearly Finished Sam Altman Movie ‘Artificial’ Dropped by Amazon After OpenAI Partnership - Variety Australia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzFGX0lfVTRsZDh0VVpXSFpZQy1Pc1A4TE53bzhfRzJlbjdGR0wwN29XVzEyOHNHcS1za3NuRXVqLW56Rm1pZ1M3TzVZbXA3WUZ2bkZzUFM3NURrSFo1LUJxNkkyakZVbmpVbmd2cEt2RHFEdmVSVWY5TllSVTBCdWpRNnFsYjcwSFRmbkxTUDNWd2lyb3p5dHV5OEQ1Tk1aTnhSenBn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-19T22:11:59+00:00",
-      "summary": "Luca Guadagnino’s Nearly Finished Sam Altman Movie ‘Artificial’ Dropped by Amazon After OpenAI Partnership  Variety Australia",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI. At 25 Times Forward Earnings, It's the Cheapest Mega-Cap AI Stock Nobody Talks About. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3F4cHNvZTRUM0stSlkwVlB4YkxLaW1qNVFWbl9iSll6N21xbC1SQjNmYldDbXdNaUN3NWRZbTFoYVNFSGxJa0piUHJXZkxzb3lzeTBYT25FdDFBZUYtcEUwR3pSdGN1Ui1HMlRLdzR6SWJmT1NTYU1UNHRjQXZjelJnQWNjWnUzSFc3NTYzaWJKekp3bFFuZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-19T21:34:41+00:00",
+      "publishedAt": "2026-06-19T22:30:00+00:00",
       "summary": "Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI. At 25 Times Forward Earnings, It's the Cheapest Mega-Cap AI Stock Nobody Talks About.  The Motley Fool",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon Walks Away from Nearly Complete Sam Altman Movie Just Months After OpenAI Deal - IGN",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnlzeGRtMTZrYVAxRXFmTzN1Q051UjY5NDFnLXBuaWM0RUdrbVJGdHZxWTR2UG1pemNZX2NQUW84RGZxcUhSTEJPS1B4c1I0WDlZRmtGdzFldUNtbXIwNkdMU2dJVlgxdEI0YWtjdVhES1ZGNDk5bTlOSm9kWlhxVk5uREQ0Rm1KUnBhLVZ3ZXJvYnZCaGlHdEs2UlpZN2Q0bjdlMFoybHBoQWZsa0thTE4yS1c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-19T21:16:14+00:00",
-      "summary": "Amazon Walks Away from Nearly Complete Sam Altman Movie Just Months After OpenAI Deal  IGN",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -63,8 +45,26 @@
       "title": "Amazon Drops Luca Guadagnino s OpenAI Biopic - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFRRakVsSVBCNzdWeTljOWZxRERmV3pOd0hrWXJoWnI4TjQ3U3BFSllCTnM2ZlFqTy0tY1Nzbkp4SlVVa2hQWEt4OUZBRUJ1Nkd1dHpmUGh3Z3QxY3k4SnVrQmtBamdxRDk1azdzSm9RRjkxT1FDMFIzLWU2ZDE2c2tmNzI3U182RkM1Z0Z3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-19T19:23:59+00:00",
+      "publishedAt": "2026-06-19T22:29:55+00:00",
       "summary": "Amazon Drops Luca Guadagnino s OpenAI Biopic  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI. At 25 Times Forward Earnings, It's the Cheapest Mega-Cap AI Stock Nobody Talks About. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXEyc3Jpb3FtVnNnVF9Nem12WlJqU3hWYjdOeUlWY3kwMFd6Y1I0TTJ2aXpLVGxVQ0hWLWtvS0FUY3UtNkp1NloyX2o2MGNkNmh1MUJyY1FmT25RSnVRbk5Cc2l0c3o1NHpjczJNLWRnRjhKMTVSM3hoUzdNUkN1UTQxV2JGMkJLa0VHb2l1bUEtN1V4aV82eC00VWlDQlhL?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-19T21:50:00+00:00",
+      "summary": "Broadcom Builds Custom Chips for Google, Meta, Anthropic, and OpenAI. At 25 Times Forward Earnings, It's the Cheapest Mega-Cap AI Stock Nobody Talks About.  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Amazon Walks Away from Nearly Complete Sam Altman Movie Just Months After OpenAI Deal - IGN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnlzeGRtMTZrYVAxRXFmTzN1Q051UjY5NDFnLXBuaWM0RUdrbVJGdHZxWTR2UG1pemNZX2NQUW84RGZxcUhSTEJPS1B4c1I0WDlZRmtGdzFldUNtbXIwNkdMU2dJVlgxdEI0YWtjdVhES1ZGNDk5bTlOSm9kWlhxVk5uREQ0Rm1KUnBhLVZ3ZXJvYnZCaGlHdEs2UlpZN2Q0bjdlMFoybHBoQWZsa0thTE4yS1c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-19T21:18:09+00:00",
+      "summary": "Amazon Walks Away from Nearly Complete Sam Altman Movie Just Months After OpenAI Deal  IGN",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -72,7 +72,7 @@
       "title": "Amazon MGM Studios offloading Luca Guadagnino’s ‘Artificial’ about OpenAI head Sam Altman - Screen Daily",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeGh5X2RXcE1PQ0xRNXFmcjdzcjBMNEFNS3VEaHQ5V3RCeHMxS2lsOXdXNzlERVlVeGtXYlFGcEpRZjVfN2ZVXy0xQ3V6c3VnVEdCOEFOWHNTZS01Qm1pWHhQY3dJYmozQmxVWVl4b3owYmRSbUhKMFZVVWhGbTdsWkpKUTJKUnVRTWNiM254c09tTEMxemxNM2x3d2NuNThqaHV3ODdQNUtoaFYwbDlYMDQtTXo1VDRrQVJ1eWZHZWtvS2ZjNmhxYmRpVEZmNElJ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-19T19:18:45+00:00",
+      "publishedAt": "2026-06-19T19:26:04+00:00",
       "summary": "Amazon MGM Studios offloading Luca Guadagnino’s ‘Artificial’ about OpenAI head Sam Altman  Screen Daily",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -87,11 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Inklings: \"Hackquisitions\" Revisited • Amazon Kills the OpenAI Movie • Netflix is TV • Snap Spins Off AI • Trump Mocks His Big Tech Sycophants - spyglass.org",
+      "title": "Inklings #021 📧 - spyglass.org",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSzdOTENhaDhaZGZQejhiN0pSMG42OG9zZ2RFVzlHMzk2MGdXWDVuYWdCUE9obF9HdjJZMUYyU0RDU0NLT0dEWTlqSGpjb2g0VTB4c09tYzBmb0xZM2NWZm5lTEZhaHJ6dDNMeGRjellwLWpXUHlDWk1fNDE4dm5EVGhNS0pFTXF5S0I1dDZaWEhsUS1FQjY4bEJ3WDlkYzVhZjlMZFRERWlxVGRpZmppV2o5SGwtTDlvaWJQOGVNTWRQUjZ2MkRaa3hoeEJGNmMzSVE1bjlnVzBscXl6U2ZpVkdiS0pNLWRO?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-19T18:44:10+00:00",
-      "summary": "Inklings: \"Hackquisitions\" Revisited • Amazon Kills the OpenAI Movie • Netflix is TV • Snap Spins Off AI • Trump Mocks His Big Tech Sycophants  spyglass.org",
+      "summary": "Inklings #021 📧  spyglass.org",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,11 +132,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI movie dropped - NonStop Local KHQ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUNGNW1QeE5wYjJ1MTFVTnRtSE9PZU03bGVuV1JFTXRSNVZoOUZFNHRGQ1NvNzRXQnVFd2lpZVVuMEgxN2JEaDNyaXRnWU00N3k1R1V3RjduZUx0Z25HNnkxV3NiOGJzTVFBVzluMXVDYmwyTkxjS2Rud1kySDJEMlcwOWM2eTQxZElfYlhxaXB2YXdFTl91TGVYUi1OQQ?oc=5",
+      "title": "GPT-5.6 Rumors Heat Up as Users Swear ChatGPT Suddenly Got Smarter - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yMW1wN1lKODdYMUNVUWk3dzlxV0k4TnpUMUE2dWF1eDlQMkFNQTFOaUpzS2hBSmtiYnpHeWM3Y2ZEbmpScEZwZVdMM1RwVHpqS0V1d0RIcVQ5OTR4R2RDeml4aVFySzRDWURpOHpSTi1RaEVKV0V5bloyOA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-19T18:14:51+00:00",
-      "summary": "OpenAI movie dropped  NonStop Local KHQ",
+      "publishedAt": "2026-06-19T18:15:55+00:00",
+      "summary": "GPT-5.6 Rumors Heat Up as Users Swear ChatGPT Suddenly Got Smarter  Decrypt",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,15 +146,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-19T17:43:05+00:00",
       "summary": "Luca Guadagnino’s OpenAI drama dropped by Amazon following $50billion partnership deal  NME",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon Buries Finished Sam Altman Biopic After $50B OpenAI Bet - Yellow.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORDNLSURtcDR3SVlkWjZEeTdsaWtUOVV4NXVkT0N1cHEtSDViUGEyal90SE9pZ0RMM1NCQUZMa2JlbUxYQlJZanNHT2JkLWwwc2d6d0NsS3pzd2ljdjU5MGVkenhJaFB2c2JwSHQ3cmdoOWZHUklyTzE5UHJTamlCYkZn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-19T17:20:42+00:00",
-      "summary": "Amazon Buries Finished Sam Altman Biopic After $50B OpenAI Bet  Yellow.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-19T16:07:43+00:00",
       "summary": "Amazon Drops Luca Guadagnino’s Sam Altman Movie After OpenAI Deal  Vulture",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SpaceX, OpenAI And Anthropic: The S&P 500 Inclusion Question And Investment Consequences - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnFtVjVzWFh6TGN3X2tiRzJibkNlUVgxdmZqUnlwMmNsT244d25vcExBRHdMaEZibGRsa25rZllFOHMzMXAtZkx2cDlxRHVINXNmMnpPdVQyNHFoaDFndnU3Um9rakt1czhDZEFLa2xTZEllXzByTGNSb3ljc2tWeHozbkxWdXhReGJLR2d1TGJHWERHNkJTUC0wMXZGd0t5UXdDakQwUlFPaXRibzBjSEZNWGxSVGp4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-19T16:00:00+00:00",
+      "summary": "SpaceX, OpenAI And Anthropic: The S&P 500 Inclusion Question And Investment Consequences  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
