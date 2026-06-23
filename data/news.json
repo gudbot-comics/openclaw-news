@@ -1,16 +1,88 @@
 {
-  "generatedAt": "2026-06-23T19:26:12.064054+00:00",
+  "generatedAt": "2026-06-23T21:13:27.450819+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI Expands Daybreak With Codex Security and GPT-5.5-Cyber Updates - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1Y3dmptR251ZjhEbnBVUkNoT19tZ29aVG5uU0JUdldLU0JUbVVkbzFCT2JLRF9NVDItLV9RQXZaWWNUN0dfVk84dFpkQXk3VTc4am1wTlkzdnN3R2NUU1BoRk4zQjQ2cVdsTHhmMHFDNGlpNmxxRnBhZEsybFF1ZVQ3RGF6QmRQTTJpb0U2YllTUFhteWlSdDlPNnNwdnpmQVh1ZVdXSGlHdHo3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-23T21:07:21+00:00",
+      "summary": "OpenAI Expands Daybreak With Codex Security and GPT-5.5-Cyber Updates  Security Boulevard",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Expands Cybersecurity Reach, Allows Partners To Embed GPT-5.5 - CUToday",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGJXMjBPdmRzbGprazNaSTQ4bThNeDVDV2tYcV9CdkV3NEozSTFuSUF5c0Q3WEloNk9hTzRhdGF1cTEzRzQxdUwxUGI2ZDVXRXlpc1pGcVgzNGdpU0NaQjRTSTNEY0dhUzRXT1ZaN1B2T1BOdERkVVRTejBDZXktRk9TbXBSR2hXaGFXOV9FWEJ2a0d6bjJyLTlKYm5JMVBzakx2a01VOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-23T20:37:55+00:00",
+      "summary": "OpenAI Expands Cybersecurity Reach, Allows Partners To Embed GPT-5.5  CUToday",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "IBM Brings OpenAI Cyber Models into Enterprise AppSec Workflows - ERP Today",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPamE5NzRrallXUG9EOUVldkRodDNjbHc5SWVJVm5GMHlLQXFzSjFWUVpQVVA1UWFvQ0o5MC1ZOVJaQ3A4QUFCQkd4dXBXckwtLUE1SFRYZGt2TVlqS21kaWNEMWRfT1lsTXprX0tSZC1EOHJ2aVlqdXdEUm5OYzdReGhKSUZGSVFTbFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-23T20:17:59+00:00",
+      "summary": "IBM Brings OpenAI Cyber Models into Enterprise AppSec Workflows  ERP Today",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI vs. Anthropic IPO: Which AI Stock Should Investors Buy? - U.S. News - Money",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUpKY25UNU96ZUpEbFl6LUMyWFlVYXlpTFNvSlUyYk03QlkxeXQ2RlhMcTdUQ29vSERZcnJ0NTFuZHdhRmFqTTBqeFJOOXl5QmxjZ3Q1UGxlemhlRkNXYmlTYzlEalpSQU9RcjZQaTE1ZVJkMTZsbTlpOU5NWWt2NVcyemROWmlRVy1DcW4xRjA1a1EwYlpaTkFKOHU5RXY3VXRfTTJR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-23T20:07:00+00:00",
+      "summary": "OpenAI vs. Anthropic IPO: Which AI Stock Should Investors Buy?  U.S. News - Money",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "An AI price war could steal the thunder from pending Anthropic, OpenAI IPOs - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZFIyQm5tS1paRlZkXzhUMzN6RGVvb1Y4b0REQm9NZWZpTzBIcUtfejNQN3NGbjIwb1M3YWluVHVjRTk2V0ZTNWt2Vkt0SWJWWHcyamJSUzVzbUJDU1Z2bXN4TWZYSkJFV1JkXzF5YnBuZjZCZEkzaGRoOWNHdmp6V1BtQzc4VXRabk5wQTg0czJEZXVBX1RGSzNVSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-23T20:04:58+00:00",
+      "summary": "An AI price war could steal the thunder from pending Anthropic, OpenAI IPOs  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FinancialContent - AI Agents Still Can’t Block Prompt Injection – and Tens of Thousands of OpenClaw Setups Are Wide Open, Claw Crew Warns - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPeWJseEVnS0tVcUtDZDdrUlpmMHdoSFg3SENoaDIxZmtjWVg5YVV0Mm1xeGM3Q2JKM2Z3UjBxM3dvUDNOUkx2UFhIVFUyOGdPYnlJYVJIMGFnWHdNaW1ZR1ZYZVBzLW1MUHVWNW9KVXZaYVJrRFFkUWhmZ1lHSk9TQm0zcVROZjdQS1QtLV9FOVNfVlg2QU5lbVpuUFZNOEUxNUZ5cDFybHFNOTk3TzhCNW8yVUFEWWd6SUNOZGN2dXdiWkpPbHNwUjhkeGpWN1dFVzliNHdZSi1ubHpISTEyUmpqN2s0SnRLTDB3aFBaV2RQOWgwUHIzbGlIMFNyRHVkSjA0cWtfTWptVWlHanprOTNQajVJUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-23T19:42:00+00:00",
+      "summary": "FinancialContent - AI Agents Still Can’t Block Prompt Injection – and Tens of Thousands of OpenClaw Setups Are Wide Open, Claw Crew Warns  FinancialContent",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI opens applications for 2026 DevDay developer conference - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PRGJuZWp5WFVzOFlmalRLQ2ppZEZzRkZqYjVCWl9fMW92OVA4emFtNzZkM1Q4Vm8tbWZyLS1aeGdFUVN5N3ZJZ0puNkNqLXNxbENTYjJSaFdDS2J6NEV0SElsSTFXSVJkOGx5OFBJbHJMeTVmYWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-23T19:18:11+00:00",
+      "summary": "OpenAI opens applications for 2026 DevDay developer conference  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI execs say company 'clearly' in the ad business, give updates on progress (OPENAI:Private) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmpEZ2ZDNHpJZ3FnLUhoQmNVM2ZGbVZsbE0xMVd0bXNBaUZhRXBULUZhTVIweWhTVURXUWhUSkt2QVdqNnAxRE9SZGhKV09TQjZZc1JodFhVaUo1clRfdW5penRqWVc2bEhXSnJEYXE5czVfS0JGaW82ZXkzV2VlSzkwSFY5MFVQNDhOd0RSUlNtbjY2emN5OGNVZThOcXE4RFFtR1BNclFLX2NtZnk5VHdNQ1o?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-23T19:09:09+00:00",
       "summary": "OpenAI execs say company 'clearly' in the ad business, give updates on progress (OPENAI:Private)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "IBM Shares Jump After Major OpenAI Cybersecurity Deal Powers New AI Push - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVk05YXRvazlhRlVhZHBSTnlkQnJmQUw0V2ZWUmFlOWNrMWYyZUJKX3c1WEJBQzhWLUVaZEV0RGdnbmVBem1uOV9BOUJISVdqMVF0M1NVZ0RNeUxLXzFvTlcwUzJGUUdqWkJQYnhvU2gxTTk2UkpNRmFTQmlZaDZBT1Z3cUFOVTB4V0o5T3U3UEx0ZE5QNnJfQkJkeFl3Nm9XLWgxdnVzTzAxamxWd3pGR1RSeF9sMXM5X09yWnBjWjd2TGdkNFREaGtlT0k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-23T19:01:52+00:00",
+      "summary": "IBM Shares Jump After Major OpenAI Cybersecurity Deal Powers New AI Push  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,15 +101,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-23T18:59:26+00:00",
       "summary": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s expenses reveal complex ties with investors and suppliers - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94UmFWMEFJaVdwRXlqd1RhSm5xb3FCc0VaX1VRMHAwWkJWVG1IcGZ0azJvb29uam5aNUh4MXNNVXVGdXZjUjJ1aVd0N1Z4VnB0MHVEU2RFVFl3cnZsSXZJTmVKZ1BCMUd6WEpxWGtUV0RPTVJZc3NJUExqcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-23T18:46:44+00:00",
-      "summary": "OpenAI’s expenses reveal complex ties with investors and suppliers  Crypto Briefing",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,6 +159,15 @@
       "topicLabel": "OpenClaw"
     },
     {
+      "title": "LiveRamp CEO dishes on OpenAI partnership, looming Publicis acquisition - Marketing Dive",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWE1Bc1RIQ2o0T3dvdXNDSnQ2Umc3MUpaNWI2ZHpvaDFVaThDZ1RTdVNHNmptOVdJeFUxSTVhNHJwbUp4TFZqWnRJQ29YeHZlb2VRVDNRamIwMDlQWWxENm1wWDU0Z01uWlUxaG9EekRSbUVIWGRpYS10czRMSEhreGxOQlVuaXVlTzVlT1FxeGUwOGIzSkNNd3JaNUZPU0NRZ2xzcVdNYXFueWFPWWx4Tmg0NA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-23T17:56:31+00:00",
+      "summary": "LiveRamp CEO dishes on OpenAI partnership, looming Publicis acquisition  Marketing Dive",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Execs Tout Ad Progress at Cannes - The Information",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMkNHbjJoOUsyWTgyVExtWHVvRkE3NGMweGZkVVNnOVFRemQwSk9yUThtX2pXY1B1U2JTcjl2TWdrWHBSZ3QzdXp3NFdTRHNaaFVBVjNlWkk3aHRmWlJ6Y1E1c0RCbmtKUlU3X092TTNCN1RlcXpyX053RWR5ZWVqa2RrZw?oc=5",
       "source": "news.google.com",
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-23T17:00:03+00:00",
       "summary": "12 People to Know at the OpenAI Foundation  Inside Philanthropy",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Omio scales travel product development using OpenAI models - AI News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSHV0WFpVYUM4OTNBRHhQQmV4dU1oUk9UbjRqczNibFl0TXNsamZyYUVzMGdmM0UxQXZyZjMwTUU5bS1Jd0NSOWMyN0NGYkpxODlCYW5EZ0Vaa2pycHNBYVdrU2JLaktXTGt2RE0xV0JOMU96dU1STS1KUzhBN3ZlUmNlRzcyM0RrdWlJUDFzaE5GR0FXem9RUnVpYWxFQjFQQnBLUXRUSVZQQVgx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-23T16:33:13+00:00",
-      "summary": "Omio scales travel product development using OpenAI models  AI News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Omio integrates OpenAI models to accelerate travel booking - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXpmVjNrLWRmVWtQcHhqT2lQVEpjQ3hYV00xOUNvdVRLY0VlVzNXd0dKTXdLcG1GMVdJYnpEVkJhNUg0YkJNYTZsS0ZrSjRmN1lxQV9lTS0tNlN0MERtckNWQ2NqeHlUQTE1WmZFcHpBcWR5bE5BWS1ZR0RIM2R4ZFlQM0dBZFloamd1RkppMWZlcV93VlVTWExwa2dVOE1KLVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-23T16:32:28+00:00",
-      "summary": "Omio integrates OpenAI models to accelerate travel booking  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon Just Pulled Something Absolutely Craven to Avoid Embarrassing Its Friends at OpenAI - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdG1CNjR4YVdhWkNteklneGhmV1RtaVpQeFhkY2k1VFJCSk12R1V5dVlGWkktSUQ3N3JUblNGSVppVm5kV1ZYV2FuU2dXNi1HcW1iX1ZvQWV3Z04zN3ZzRTdqSURzenpWcnlrY2JjbVI1V2l2M1dMbXdRc0pjSU1ycENTNWFBOU1UT0lZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-23T16:07:19+00:00",
-      "summary": "Amazon Just Pulled Something Absolutely Craven to Avoid Embarrassing Its Friends at OpenAI  Futurism",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Coinbase Bets on AI Trading With Pre-IPO of OpenAI, Anthropic? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNzd5M1FxU3RXU3ZzendKd3RjUFRZeERicnQ4MHhBeVIwcGF3Q1NfZGhSYVhFc3JyVEM1Y2wwR3JQX1pYTGwteG93VkQ1bERJQTFZMTRGZjVLcWt1RmNBdHRtcUFuZVUyOXBFZ3p0M0xiREJVeGV1YXF3bFd0aV81M0FEOW1nMWJYeWxyNFpuVmJUakZoVFU2U2VHaE0zdWxRaE9rWUtSaXZieTVLckIySmNyaFdkaW8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-23T16:07:00+00:00",
-      "summary": "Coinbase Bets on AI Trading With Pre-IPO of OpenAI, Anthropic?  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "“Making Intelligence Abundant, Affordable, and Available”: OpenAI’s CRO and Advertising - Little Black Book | LBBOnline",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0ydnZ0VkFpeHp1ZUpOanVsVlFyeHZrYWxXcWx2ekpod1lRekdRdlc0ZHhTYTdzNE1YNkNEbG1NdkxYeHd1dnczbG1ZVFNqSHQ1YnRNcVNYdy1MMXpnTEJJdHp0bEJfYWh5MXd0aXowZ0JRTnhy?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-23T15:45:39+00:00",
-      "summary": "“Making Intelligence Abundant, Affordable, and Available”: OpenAI’s CRO and Advertising  Little Black Book | LBBOnline",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Inside ChatGPT's ads push - Sources | Alex Heath",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybHRzcXZIUzdkZ2dqbWphMzA3ZkJ4blFaVzJuWFlmTVAySTJuUmVOZ2FvQnkxRTc0cktaRnV1bmtJeTc1RlVZR25OUXVCc0RSTENIMUVJUjBzQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-23T15:42:07+00:00",
-      "summary": "Inside ChatGPT's ads push  Sources | Alex Heath",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Ventures into Advertising with ChatGPT Business - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUxVSmVNbXhDeXRlOV9kX1pUWmZ5RDFzNURNVGt2N29TNWt6bzlRVG1tdi02TUFUanlhd2hiN21VRnRna0NGWW05Yi1EckJ5M0VuVURuYXFhNGxEWWFoYmpiV1FGYzY2OTYtaVBlQXJNT08xYjRJd0dQb2RzUExkQkFITzlyb3RrMmd3LVVza0JBdWNPSHZXcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-23T15:24:09+00:00",
-      "summary": "OpenAI Ventures into Advertising with ChatGPT Business  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s $100 billion ad bet - Editor and Publisher",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcmFRYnZLRUVxRm4xYkhEOFJzQWd5aFNQMUFsSGNrLUNsU0VLb0x3UFJ1cnpiZmhhMmdFOTNXR1hJOFB5eVlFMmNtTHNwT2VUeEJqczJhdVMzR1E0MTN5NXhXVmJvaFVPejhibnMxbDRVSE9mLW9jcXdpUzFsdV9ja2ZR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-23T15:00:00+00:00",
-      "summary": "OpenAI’s $100 billion ad bet  Editor and Publisher",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
