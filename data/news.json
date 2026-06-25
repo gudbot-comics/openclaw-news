@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-06-24T22:53:43.325942+00:00",
+  "generatedAt": "2026-06-25T00:05:49.413021+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Releases GPT‑5.5‑Cyber With Full Automation for Vulnerability Detection and Patching - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Idnl4Si1Pb0xEYUVJZVQwV2NZNHVfckh6bGdYUXhKZHlQUkpXQzNuZ3BRZndDRmtINU96OU1CN202YTR3UEtIbWhKQWVBVWlmNjA2Z2pvbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-24T23:43:24+00:00",
+      "summary": "OpenAI Releases GPT‑5.5‑Cyber With Full Automation for Vulnerability Detection and Patching  CyberSecurityNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Getty’s Deal With OpenAI Leaves IP Issues Open - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObVlZdHRGVHJCOWc1WFpRU085d3Fia3AxYjFqc3dYUDNxbE9CVVBXaXhVcTRBWlJqYUNkTkxxdFFYTDJkanlHdVk0RnJxQVRnMnczRDF6a3RPRjRaX3g1RTI4QmdCaVZoV2JsOTVNSTh0YU9MUVBsVEhNZ3NRV3NUSC1wOW8wRHNHSHJqVk5reGd3b2VTTi1ZMlBOUi1vLUthb2hIODhZd28?oc=5",
@@ -24,6 +33,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeERob2VfOXFNZFNqbnZRM3AyTWgtdFlfWjl0amlQYWNlNmVnX0VOcHpYb3RNV2ZJNGttNW1TRkNGUmh5ODJ2VVNoTkxGbWRaS3IxVzZ0blRVdUQwSmp4bGRqNjl1VXRlWmFLeUxSRDFGcmZzOEJYdlRzTXlnUzdTbnlMbjI5VkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-24T21:41:41+00:00",
+      "summary": "OpenAI and Broadcom Unveil Custom A.I. Chip Design  The New York TimesOpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'  CNBCOpenAI and Broadcom announce chip d…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI launches AI ASIC chip Jalapeno in partnership with Broadcom - Blockspace Media",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFhDM0ZOdnR4Q1V1MENUbmtOdTd2RV9SWmYxOTE1MzF3bUcwZ3k2ejVITm5pR3duTUl6YVJfNHVjSjVsWGJvMS05YnpwTlk3SVhJR1I1SXNtTUF0RXBCYi1tM29IN1F4UUE1OTJnSFFFUkE0Sk5Lai1nTDRURm96NkxJRG94QnNMYkxGdXBaS3UtcTFIMElNRERMOTBkRlU?oc=5",
       "source": "news.google.com",
@@ -34,7 +52,7 @@
     },
     {
       "title": "Coalition of hundreds of local and regional newspapers sues OpenAI and Microsoft - Insider NJ",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclVQcy1MYXFZc3RJeTA1VjFpbldub08tNGdRS3RacFZUeFhNYWR4YzU5U0ZsN2Ffa2ZmQUk5WGx6ZDJ0cm8yQ1RkVVVVa0xGd080UmZSeDNtdDZRSDEyT0dXUC1jZklZVURrcllHQmVuY1J2RXVHMlhTZ2VmRHZMZXF2QjYzcUp0TURhQ0wySzFMN3NuWkZkWXdqRzNQVmlheG9vRHR3eFFfYVMyc3BUQ0ZGUmJKY1JmR0pkeG1n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTVQMG9ZUmt6YndzTUx1ZlZ3S1B6RUZDbkZtSTJZQlBKODhqeEpZam5ockp2N3BIY3RHc2FXZVRQSEMyaEFOMlhWMDBFckZQejhRZWlubzZsMDIwODBHTVN5S0tKSldEZFVKaGstMmFoT0tCTkhKekd5WkZuMF90aEtTNXhGQm1lM2VnY21EdG90Vmtjc0lCajB0aXgyVHZKRkROQU5ybTBPRXJFNHN4b2tDamZVQy1zc2JiUTd3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-24T21:23:00+00:00",
       "summary": "Coalition of hundreds of local and regional newspapers sues OpenAI and Microsoft  Insider NJ",
@@ -87,20 +105,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Unveils 'Jalapeño' Inference Chip - BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTZweDNxWVhOSWphRFJjYUtWX2hEWmtVbDh2YmRxTWhuY3B6cEszTkNLV3A2cjlZWDRQX3huamlVMUp2SzRsU2J1ZmNfeGFGanVkQ2NSUFJZR3U3TzRzUk5DdXdfQzJsQ1R3b3lMcDdWeEx1WXhMc2FsbEFGOG1FMWRZc2FIdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-24T20:48:49+00:00",
+      "summary": "OpenAI Unveils 'Jalapeño' Inference Chip  BankInfoSecurity",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Enters the Custom-Chip Race Alongside Broadcom - Barron's",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NTjdBcXdZSk1Oa0xoV25RdDBEN2pLQjhib3Rsb3BRMHpGUnFieUlwNUV6eV9CQmVxV2lqY1dPQ0ZjTGVqUEtmbmdqT1BsZkpxdGFyYmtBSEdHTGduQTVpNl9wVUZnWGU5OVREanhPYUc5NklPTmM5NzhXcTZFUmM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-24T20:45:00+00:00",
       "summary": "OpenAI Enters the Custom-Chip Race Alongside Broadcom  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Releases GPT‑5.5‑Cyber With Full Automation for Vulnerability Detection and Patching - CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Idnl4Si1Pb0xEYUVJZVQwV2NZNHVfckh6bGdYUXhKZHlQUkpXQzNuZ3BRZndDRmtINU96OU1CN202YTR3UEtIbWhKQWVBVWlmNjA2Z2pvbw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-24T20:44:24+00:00",
-      "summary": "OpenAI Releases GPT‑5.5‑Cyber With Full Automation for Vulnerability Detection and Patching  CyberSecurityNews",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,38 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Makes Custom AI Chip Debut With Jalapeño As Part of Broadcom Deal - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWlPZklnSHpmZW1PaEkwVW82TGxlYTNBMGIwdEV0a2lGNUFwS3lJT19MdU55S0N3SjhqeWFOaFJscVdUa1FnVElnOFJOaS13NjJZYnJmTWJnaFhySmZSejEyckdzcXJwMlNpTmxFRW9rMWZ1VWJ6a2pFVThzeUpvSGEtWTNzcVNzc2hIRDFBMS1wQ3ZRNHRKVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-24T19:34:10+00:00",
+      "summary": "OpenAI Makes Custom AI Chip Debut With Jalapeño As Part of Broadcom Deal  International Business Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Who's Leading Litigation in Florida v. OpenAI? - Law.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSTRUbUU2ckZ5aWNQWDhOdmdUbFpJVTNjdlZRZk5lb0lGcGZUaFhvMlRsUEtyQ2lCQWJUMXBuQ2VpNTVtZUhRY0Y0SzZVT3RyM0hDRHRzZG5WQWp6ZmVTNEtTeExhUC0wZmtmMlFnRGJuMGNJUVlsM0tkQlY4bWFSVlAteDBQRkdyS3FnRzhwLXc2WlJ3c1IyaFVMdw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-24T18:58:00+00:00",
       "summary": "Who's Leading Litigation in Florida v. OpenAI?  Law.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQdkNkUk5vZC1uekJzTC1Tdlc4MFMyblRLdExBQUdMdXNnVTB6STRoS1FEVFdIUmVjV0w2NjltdGpJckFXUnJSM2V2Zk1Cb1Nzb1hFMXBMekNYOGZFUVgyM2RBdHhGQnctaGV1ZUlTallBaGx5SEVfMzQybVpJbUkzYWpTMGh6YnB2eVAyTENhYmlpLUliME5ncWc4X2lER1RhQnVZQjhULUlfZUs2QVJFNXhFYVFUamo5ZFdEODhrVGlmc0ppSkVuUjkxTmFicTdFZDl2RWhnR2M2RHpOcjdNNEJHSkJvQm9BV1ZDUUE5QVJrMFRsckx4ZW1rRzQ4ejQ3WWdGSURGenJtempRRURKVTBTRDM2TEF5SnZCNHNEVVFyc2tLb1p3ZVB0T2FMVGc5ZDlGd3dyMzM0aC1SeXVtQy1fUkEzaVF5R19tOTBWU3FiSGQwWXpDcEZR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-24T18:50:56+00:00",
-      "summary": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle  Tom's Hardware",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeERob2VfOXFNZFNqbnZRM3AyTWgtdFlfWjl0amlQYWNlNmVnX0VOcHpYb3RNV2ZJNGttNW1TRkNGUmh5ODJ2VVNoTkxGbWRaS3IxVzZ0blRVdUQwSmp4bGRqNjl1VXRlWmFLeUxSRDFGcmZzOEJYdlRzTXlnUzdTbnlMbjI5VkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-24T18:45:05+00:00",
-      "summary": "OpenAI and Broadcom Unveil Custom A.I. Chip Design  The New York TimesOpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'  CNBCOpenAI and Broadcom announce chip d…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman takes on Nvidia with OpenAI’s Jalapeño chip - crypto.news",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xREtrR01wNmR2a3VzWi15NlZWUEFWNkxNeHd1WjFqdG1NYTZlUDkyeFpfRHluTUh3LVpaeTF1TEpKc0RGWlg3MnZrZXRDM091NGRmZWgyR0FqQ0FfUEJvVzhSd0xRdWVZMU1jTlh6ZFV0VWp3M1laT2g2TVBoUVk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-24T18:42:23+00:00",
-      "summary": "Sam Altman takes on Nvidia with OpenAI’s Jalapeño chip  crypto.news",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
