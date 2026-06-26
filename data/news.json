@@ -1,16 +1,106 @@
 {
-  "generatedAt": "2026-06-25T22:55:15.065896+00:00",
+  "generatedAt": "2026-06-26T00:05:53.800895+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOanItU1E3cmxGQnpYdFFSZlRNR3dqYXpLM2R1Z0s4bGRpZ1VMM29kUEk5XzRKZElXNnYwczd2OTM0R0ZpV2tWTVVxRm1wcExjeVNUeVRsNHV1QU8tUUVUSkl6eUtWZHluekJwVzJncFdER2dvZjkwaEROV0psSFNnNGVDdjlieF9uOFNEU3ZZcFAzUXA3V1I2bEtvZWh0TWpqQWd2blZUOVZ3cXE3NDFCODlmM0l5RHR5cjhDbjFrTzVOdEJaSUpHbmVB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-25T23:34:39+00:00",
+      "summary": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Broadcom Built OpenAI’s First Chip in Record Time, but the Money Went Elsewhere - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDlYNTM0dlFoMVkzbmNPR0dLN2toMlAtbTRQSEFUN1dtZk5QYkhuM2kxSUpYVkxjb1NuMkY4T2VYbURKdXdGa2pSWU92WjVjVFlHTjJJM2lBSm5zMU55UGZZMXFabFBaYmtNZGJVNW9XVlVRT2ZINEhiMFR3SHZPYVcwS2ZIN0pSMEFWYjhmLVVCNC1SdG5IMG1FblY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-25T23:30:00+00:00",
+      "summary": "Broadcom Built OpenAI’s First Chip in Record Time, but the Money Went Elsewhere  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Will Reportedly Stagger GPT-5.6 Release at US Government Request - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQem5oRTVUM2lza3E0RVpZczVvTWdIN0VxRVZ5ODQ4dTJSSVBxNEdXMmZPMjVNRS1aNlB4Y2w0VFI2ZzZaN1p0VXkzMk9sRHZFeHJvemJLTm85ckJMR0F0R1FUTXNhcXh4NDg4aFA2TE9QUnFSUnR0V3JORnJ5SjVqTW9LV0NmTVI0QWh1X0N4a2w5b010UEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-25T23:30:00+00:00",
+      "summary": "OpenAI Will Reportedly Stagger GPT-5.6 Release at US Government Request  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Will Reportedly Stagger GPT-5.6 Release at US Government Request - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvbUh0Tk9DTmpKUUw1Uk1BVTFuTGlIb3hNeUpZNDdQVUtkVnFtYWM0ZWxpNmotcXVhZFJVbHNjaE5fMWhlVUtVU2NkUFFzNEtxbmQ4YkVCRlVTVE9nRnQwMFYwX3FmU0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-25T23:30:00+00:00",
+      "summary": "OpenAI Will Reportedly Stagger GPT-5.6 Release at US Government Request  BeInCrypto",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUhiWmVadU9ESy1YQlQ3UjhFYVdibllEajViMFRlRm5BZ0xfTnhreFhISG93c282OE5JNVA5RlpEcGpNa1JUdlJ3anlYTVB4cG51UnBZM25idUFnZEl6MVNUOUl5WlZtc053MmIxWF8xb1dhYVFOSlBTSThKWXJiNVU5NlRwSVRyMDl4VjF5TWhnc0JiS0lCQkdHY0ozdVFsTEpwM2tWbjFTbHZFZkZQVU9uWHp2RHVWejc5QXVWV2RJWnJPZUc4VjUyVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-25T23:13:00+00:00",
+      "summary": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data  WIRED",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Broadcom unveil Jalapeño chip for LLM inference - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE1uazhjaWdCRXA0S1BiVlRtOFNYSm9xSzNzTU51eUM1WndFMWFsVzVlbGpZZUYxejFnTDFDT0c4cFB6aWtBYmZyR2tRNUdyRlRGbEVkbkJHeUFIeFc1VkUybXRENE5vaDlvWklyUVZjajA3Z2lkSHNkc1lvaFdSQ2pCdEx4d3NNTW55cTdIbUNwa0dYdkEwbktCanlUY3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-25T23:06:04+00:00",
+      "summary": "OpenAI and Broadcom unveil Jalapeño chip for LLM inference  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump administration asks OpenAI to limit next model release over security concerns - Axios",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV09fblVJX01hdDI5eXd3VGJDeUtDTDBhX3ZKd1JNSUxHcUo4dHhvbm1wS2pwSmRHQW5fMnA5cUlMbWVHX1BiLUpmOFh6YWlwN19xdzlXV3VPNkFoTzZ3blI2VWJlMWtxQl9UdVczdmg1WjhENDgzNi1RVTdPMk1LMmpfeks?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-25T22:59:41+00:00",
+      "summary": "Trump administration asks OpenAI to limit next model release over security concerns  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI staggers GPT-5.6 rollout for government vetting, eyes 2027 IPO - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODlGRGpfcjAxX2pMeFFDYmVVT2daaUlTdWtHQnJYd1pwNDBObWJrNkNNS29mRGZyMkkweE44YlRieW1BV2NJVjNwTTBpOHVOWE9KVDlmZ1V4X01HMnNXMUY1QzJwcEJLejE5WEtMX1MtWWxodG5XV2kyYk9DNnFvRTRCUUd5bEFsRHVhMXpBY21CYk9ocHM1S211RTlwWTAxaWVZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-25T22:48:57+00:00",
+      "summary": "OpenAI staggers GPT-5.6 rollout for government vetting, eyes 2027 IPO  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Will Initially Only Release ChatGPT 5.6 To Government-Approved Customers - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWtxWXlrUFJIM2ZvUk1WSDFFUnA3Y1lfTjFlSkFySW84dlFIcWhfZHNpQm10cHdTaThKT3VrLTRQMTJCMGk4SVVabUZvY2ZsUFJKNTAtanY1aE82OWhuNk00TS1fMjRURmE1SVRZdk9WNEw1RXh3N05aakd2dHRMUDdDX2JLYmxGcDhMZ2lEWXk0UkxLZE9XbEVGR1Ryb2w4dlJjdzNwX1BIM2c5X0s4RnV1dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-25T22:48:26+00:00",
+      "summary": "OpenAI Will Initially Only Release ChatGPT 5.6 To Government-Approved Customers  Engadget",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "White House asks OpenAI to limit its next model release - CNN",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CRzJxQWZCR2hfaGZlanVOcUg0OTljWm1aSzlvc3htMHRfcVN5ZlQ2QzFGZ29wVTB1T3R2TUVOVFpteDJlSGh1NEUtT085blJJcHNfUnlSTlFPNE5iemFiVHVtclQxZ29RbHI4T2g2cHB3eW1VbV80?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-25T22:40:54+00:00",
       "summary": "White House asks OpenAI to limit its next model release  CNN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "White House asks OpenAI to limit its next model release - KTEN",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV05GQW1mMTZZYU5YNEEyZmV4TjdZMHItMVRBZGFjc3RhVnRMNE1ESWJJaHdScDhCcEdTcVhWaUJBWER2d3dGV29Bckw2djZrMXV1XzNQYTA4cHVJY1RPQlBFVEY3dGl3dFJ2MnJkdTlRa1JLY0ZHRlFpX093TVo3MFhaZ2ZWd0NFQVU3MlM4LVBzRm9mQi10LXg0Qkc3Z1AycjNlWml5X0VONllBR1BsVDRuREJKYzlhYVQ0MUR5bFc0aTFydUlHRldJTVBmZVExdWRkdEdpVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-25T22:40:54+00:00",
+      "summary": "White House asks OpenAI to limit its next model release  KTEN",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,29 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Trump administration asks OpenAI to limit next model release over security concerns - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV09fblVJX01hdDI5eXd3VGJDeUtDTDBhX3ZKd1JNSUxHcUo4dHhvbm1wS2pwSmRHQW5fMnA5cUlMbWVHX1BiLUpmOFh6YWlwN19xdzlXV3VPNkFoTzZ3blI2VWJlMWtxQl9UdVczdmg1WjhENDgzNi1RVTdPMk1LMmpfeks?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T22:28:24+00:00",
-      "summary": "Trump administration asks OpenAI to limit next model release over security concerns  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Mulls Delaying IPO Until 2027: Report - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEg5ek85WmpVWUk4REtQSmdoSEU5ekdNQ3MtRzlWUnVXYWZsS0xrbEFiSHc0RER6b0JyMnZvOTJZN1pHTmpnSjVCVGRyaEJsMFczOWlqY3hrZWlpRHFzUEpDeXNTdUJhSW92ZTAtQXU0cGdzM002aXAwbHdhMjk0eDlXLUlfc3BtNHVsQ2phWkNUR0RFSXdJeFJRYVZvdw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-25T22:28:00+00:00",
       "summary": "OpenAI Mulls Delaying IPO Until 2027: Report  Investor's Business Daily",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Trump administration asks OpenAI to limit next model release over security concerns - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQXpMUmc5Q3FuLTBXdmNZWFdlckJkRzUxN1M3OUJsZUNtN3VZX1ZkM2JhVkJCWTg2Y1VjbGhURWxBV0JuNWRUSzIzUnhEZXNZMHg1MUlLNmFNVnNRWVRJX2huU29RRGNlWTVmS2ZtUG13YV9tbkR2UGVTYnJWY25rMFh3MXdUVm5FZVVMbkxKRG5IbWFzX3hPLWZ6UnFSUWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T22:26:57+00:00",
-      "summary": "Trump administration asks OpenAI to limit next model release over security concerns  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Trump Administration Asks OpenAI to Stagger Release of AI Model - Bloomberg.com",
+      "title": "Trump Administration Asks OpenAI to Stagger AI Model Release - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE5VQW1pUnQyZ29WbDA4U3JSSW5ILXdZcTAtT0d0X0MwSVNXcDhnYkc1OEJXZERiOURVOUZnLVZSUDBudkRNM1hKVjVOQ0ppdmk1bEZiWjB5d3F3ZDVWNXRUTVRTdk05LWtLaTRHSlladzVRdUZYc3RDTzU1YS1TY2x3d196TG9JOFpYUmlBaFVNY2puSXdsbmJHbk9mMzBEYWJSTVZuWUEzNnI0bXhIRjBKdkE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-25T22:00:54+00:00",
-      "summary": "Trump Administration Asks OpenAI to Stagger Release of AI Model  Bloomberg.com",
+      "summary": "Trump Administration Asks OpenAI to Stagger AI Model Release  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI will stagger GPT 5.6 release following Trump administration request for review: Source - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzZNWGQzeFF5N0t6Qy1JNUhISHl3VWNzQXQza2VRckt1SXBleHZkWjhNY2RHbmJfcWs3YzhtQ3RuSmdWVnhSUDk2WENpOVVTNnR1SWlFdW1JM3NMQkVrWEZYWWRCQWQ0WThxQzdwZzYxMWp2aDE3M2V3c2FIV2ZvV1lxclNoQWtUTzlGMWp4SUhkWnkwRi13SGg1end2Qm9qVUxZVnNuUzI1eFk3SjhiNEt6UmtZWHA0TUVBYmRsblhkc24zWWVXSVdfZ2g?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T21:31:32+00:00",
-      "summary": "OpenAI will stagger GPT 5.6 release following Trump administration request for review: Source  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI considers pausing IPO pursuit until 2027: report - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEVrR0tzb0QtTXhVeDZEX2d1RkZqSFcxMUdXenpqbVhaNVBPaHhjajAwYmtZcU9rYk1MUzE2ZTRIZUlSSTZYZFVnbFhNQ2Z0RkVuLUZwaUNJYkZPLTRFWHFydWZHXzRzX29tMFdQWDJYLS1ZcEVPWEhkcFRtQXVsbkg5eGQ3NTBWRW9CMDU5V25UOHI3bE00?oc=5",
       "source": "news.google.com",
@@ -155,69 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-25T21:28:00+00:00",
       "summary": "Arkansas Democrat-Gazette, WEHCO join lawsuit against OpenAI, Microsoft  The Arkansas Democrat-Gazette",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1h6bTA1cUUtN3ZZdWpZcnNZUG5IS2VsekVLdDBkNWpGQjFXUXJaODl4Q3pweU1mbmFjRmVXZTB1ZURPOVhreWpJZnRoTThaV1dsMXNKYVBSR3h4LWJUSUhjYklrcHhPZDk4Y0d5OU84dGNXTklvRUxZUzNDNV9kZWZCbFF2UmxkLUNtNGtR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T20:58:38+00:00",
-      "summary": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Could Reportedly Delay IPO After SpaceX Scare - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95SEN0UEY2WjZSVEwxZW5FUjFvU2dOMUs0aWlQdUZxUW85emZ1YUxFY054eDlfSHVjVGJvcmljOXhZUE9hV3hsbWVyOFNidFQyYWNSV1Z0Slh5VVQtdjROVW80OUhSMkU3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T20:54:00+00:00",
-      "summary": "OpenAI Could Reportedly Delay IPO After SpaceX Scare  BeInCrypto",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Leans Toward Waiting Until 2027 for IPO, NY Times Says - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkg1QVpidFNWaE1oaHhGTkhXQ2hvZUQ0WUlJbUdiOGdkd2tfLXRyWnoxazQ3OHFQcURUR0R5Vm9OcWhnQjdadTI5NTJwbmxJNGJUdVlpcmRINk5rTzM1cmVBWHNuam1wb3A1R0tCdFBYU28yTVhMWDE2aXJjODlpM19XU0V3SGRqanlyUEF0TXB5bzJFUnllUzY5ejBwYjhOYVVFQWpkenNMNE13eWpDZA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T20:51:55+00:00",
-      "summary": "OpenAI Leans Toward Waiting Until 2027 for IPO, NY Times Says  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI may delay blockbuster IPO to 2027 - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnRhVUpwd2NhWmJIY3Qwcnlha2hJUERsMnh4VklDU0xvOU04WVdqc3ZBWFBDYjJBdzVtNnhVLW9Ba0FEVFJDSC1hdkNxRzFTWEZGb3hmRlJpNXVOcWlfZUR4RTBvakY2azhoLWFUTkp2U243QnZ4cGY4dVJiaHRDU3FHRUplMkpTVklSUllIcGpBYV8yb19Vb2Z4cVFTQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T20:50:31+00:00",
-      "summary": "OpenAI may delay blockbuster IPO to 2027  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Trump administration asks OpenAI to stagger release of new model, The Information reports - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcVBzd19FVlR4cml4QVBuTF9fOGFmeldveF9QRkMtUjV4SVZ4REhEYmhaY0Z4WHpYVlZMUnZHWG5hMWVYdXZqaEQ1d1VzNEJTRU1qeVlmaWp5SG1tRVhwMnlKZGNpWDFWZUhGdUVhMTZtdzd5OGl6TDF0dTlNZ2wtTDdqbWhaZHFtRWFucWo4enpSODg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T20:43:00+00:00",
-      "summary": "Trump administration asks OpenAI to stagger release of new model, The Information reports  Yahoo! Finance Canada",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI leans toward waiting until next year for IPO, NYT reports - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdFFFejNIX3BiZmV6Z0swdlRqaWczNWthaHhEeFNqQU1RV0YweURGVm81Y0RsOVlseTZkLVdjMzdNODJnMEhTMUlrakwxWDNfR0FaQTZEWVBXbHh2WFMtc2pObWdmLWJQUWdmRjROQUVQY25nZW1aUkhQOFJWRmlkaFlJNl9LelNnZzZEMGJnX3gtckJsSzVjQlNSM1BXY1BhT2pmNE83ZGJtR2pMYVNMNHZzYkdIdTRGRlo2ZVRScXdfYU9JZ193VlFjaUE4UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T20:43:00+00:00",
-      "summary": "OpenAI leans toward waiting until next year for IPO, NYT reports  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Trump administration asks OpenAI to stagger release of new model, The Information reports - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaVpqSkhvUlRfeERud3VMWl8tQ0lyUThwSUY3S25jSHhiSldMcFl0eDlrMWp1Q28wTWk2VUNIZEg5TmV2bXlDMHpTdURraGdUUDVPYlAySUl4ZUFEVDVhdGN2Z2lGRWtlMDliM1hUWkhaOThrWGdjRzBpUWpVU0QtWmVyRkFfOTBCMk1qcTBpSVBSN3dnc0ZtcGM0NE9jbTJ5bzhxOHdPUnBOWkFkeUhySkJ1UldJU0RhOXBmQUlBZ0lFNTVuMkQ0ejV5c3k2YzU0RlgxZ3lyZVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T20:32:16+00:00",
-      "summary": "Trump administration asks OpenAI to stagger release of new model, The Information reports  marketscreener.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
