@@ -1,10 +1,100 @@
 {
-  "generatedAt": "2026-06-26T04:36:12.917236+00:00",
+  "generatedAt": "2026-06-26T08:17:03.337053+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "NYT: OpenAI mulls delaying IPO over valuation concerns - Silicon Republic",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHVnNkNSakJ2VGJFNmUxUHJSTEhBR0o2SUVmdG10NXlwclhYTFI4RlZySDhpSEJjcGRZM1hSVHBYWHFIZjFXa2dvQmloelZzR2F3amd6VlFBMi15OW9tLWh0UVVISXRrdF9rTHpMX0phWkRhdVlyRl9lRk1aTTdhM2EzRGZNSWxrRTZ2dnhDMk5UUVJFMkRGaFF3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T08:08:56+00:00",
+      "summary": "NYT: OpenAI mulls delaying IPO over valuation concerns  Silicon Republic",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "PwC, OpenAI Prep AI Treasury Agents - Global Finance Magazine",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XbHJtMlllQXVzTkpYQWlYT2FDaFNvM3V2RXNnOHh5QlFWRVpuWlBhazdzTzRhbl9SS2NGcW5sZnhEdUF2bm1mR0dFWDJwSHFRQy1kTlcxUXNSa3hJYW5YX0FZQjR3SHpfSUhQLWdXaDB0dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T08:00:00+00:00",
+      "summary": "PwC, OpenAI Prep AI Treasury Agents  Global Finance Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "European stocks open lower on OpenAI delay, Fed hike bets - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnF1U2tSQ3Y5QWdhLVdUNXgyM3pVTFFzbl82a1h4cUhtM0pLQ3NoU0JueEZlMlBiVjNVT05GUk5WcEZwQXlHNjZxRmxLS0R5Z251WV9MZENZa0JFanpmZjNyTTZ3T2prVGlfZm5VNXJuc3dMV0ZTR1VzZFNTTWwzdTlfYWFrc0VVekhXMEVocHAxZWNEakdJZlhOSHVoSmszd2ZBV0VzODJDcDFuTlpCbEFXNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T07:25:18+00:00",
+      "summary": "European stocks open lower on OpenAI delay, Fed hike bets  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI postpones GPT-5.6 and IPO: why? - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGlfaG5lb0N4Sl9nMUZxdld3U2xENkNCNE43WVdZWFY4N2NLaVh1RDE2UjlRb3E0NmV2RHl3T2t0c3NzaXBGX0dDR1hnZTlWUm51NkVhSm0tNklrOE1kcldTaWwyRmNtbjgzRFZZcTJoOUhlSkNuZ2NiQk9SZVJfZWYwbjVFbEs5TW5jWk9sWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T07:21:52+00:00",
+      "summary": "OpenAI postpones GPT-5.6 and IPO: why?  Techzine Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkhiY2JYcU5SZmRSX1Bsc1p2a3BDdmU5Z3JZQ3k4NWw3YzFjd1dpY0dTRTRqdkFlWmVSODlKOTIxcGtKZG5PeU5mT0FaZm9XQWJEVmlKdEFXb1c0Q3dVdGpYQVY4WGkyLWQyaWFndUJQYV9kVXRyaVBQU21PNjA2NG13WHFCWGNRV1BSLVp0dlMzWGkzZk54QmZ2SFRVNnZjeTZhblFrd05PMEdIYmkw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T07:11:06+00:00",
+      "summary": "SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank shares plunge 13% as OpenAI reportedly weighs IPO delay to 2027 - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlE5dGdmajltdnBZMERmeW1Da0dILXNtcVZlWTd3YXBfQUtyaGgzMUMtcTdxRmlFSFNVY3Z1N1pRNmwyczZXOHlqZFVJR3EyUERHNE9uNXdIT2NIMjZia3pSTVBuOU9IX0NEUnh3OVFPeGVjeTY1eE1ucUtKeE4tRFl4RUU5Z05wYkNTNmpJOWRNTG05d2RhdWZKOU1ETlAyYVZhZ0l4ekdTVzRHcnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T06:39:59+00:00",
+      "summary": "SoftBank shares plunge 13% as OpenAI reportedly weighs IPO delay to 2027  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple and OpenAI unsettle markets - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUWg1TlpGZVFVUHdEYlpOcktSRHIxY3FnOGN3Z2VfR3dsSlhnMjdQUGs5Z25aMzFZQkR6dmFzZEF5NmR5NmdCOHVqdjYzOTUxSzVpQlV3UkxTY1YtNkVZaEoyWXpwTDdodWFOVWlNV2NFMHhONll2TFFTbWNyNEhaR05pYWtCaURMQl9QdF9Gcw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T06:11:59+00:00",
+      "summary": "Apple and OpenAI unsettle markets  marketscreener.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Global markets fall amid AI demand concerns, OpenAI IPO delays - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOODNGSjVsQjNHaUNOdlF6WVpvc3BrWThudmVDUHFFLWxDTkpBUFNCT2xvQlZVeDE5aW5CdGV3NkRPRHV4S3oxa2tqOU5IMnFXS21tS0lQVWNnVmV5SEFIcG9UZGJab2VqekZIRGMyeEctMnF3elBhVjB1bklNUkZTdDdGRV9FQ0lMY0hremdtZVh6ZU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T05:13:34+00:00",
+      "summary": "Global markets fall amid AI demand concerns, OpenAI IPO delays  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank shares slide after report OpenAI may delay IPO until next year - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHlMaHNMUWR1Qk5lV1BWd3RfVE9ScThERjB3QlZvcDF4cDM1MXN6amRpNkkyb0YzUVkyRWVwMXFTZUgzLXRNLU95dlExN1g3ZXFnUGRPMGpGbFRZNUlzZDZyTTBWS3R5T1p4dk16T2lBTnpBV0wzMWQwYjZOMURGeG1keGRoQjdGVXROLU80cFBvQjdtV1hnUTAwa1B3cEpUZDVid1BVbE9MY0YtTHQ4LV9ESXhuZE5nZTFETkUyMHA1alNLN2kw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T05:05:47+00:00",
+      "summary": "SoftBank shares slide after report OpenAI may delay IPO until next year  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Weighs Delaying IPO to 2027 - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3NfcjJWV0dTLTE1b3lCc296REFNQzJodlE0cjRGajNlcGdVaXRVblUyS0hMbXREV2dxYVdXSFU0OUt4eldVNVhUYXpEUkJ3bWNEdGMzMGtRNGJIVHRZTlE4emt5TVNxN01yc2w5TzlLQVFwNnZtSV8zRDc5R2VPYTZn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T05:02:53+00:00",
+      "summary": "OpenAI Weighs Delaying IPO to 2027  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "SoftBank shares slipped over 12% on concerns of OpenAI IPO delay - Nikkei Asia",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaE81cDFyWUFKcEpGZFZlZ3EzemYxQ2J4NEx3S1hid3kzeFFoU1dhdTdFUVd0UE05QXUtVnNtaTFUeVU4dnVobWFjaG10TGF0bDhZZEtIa0ZGNm5KV2pHVTdyYWR6Vlpud1FOY0xMdm8xTWN2Z04wTlBjblBHVjYwV0FKV0JpX0g1X1RUc1U3b25feHUtUUhfc085UWkzTWdiSVpxZWlWQQ?oc=5",
@@ -20,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-26T03:34:57+00:00",
       "summary": "OpenAI may delay IPO until next year: NYT  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s agent tool sees rapid adoption across departments - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTY2ZVFkU1RpbzBwMVJGNENJQXg1Wkx0VnFiWTZRRE1aV2JyNWJaRlpxMHlPeVdWeXNoSWU2c29ydXBvckdvLXlNYllGSDEtaWNTNFNHeHFxalVGeXpHa0c1aC1ycnM1c0syNkFDb0lYYmxkRUt1TFBrc0tLeVpiYVJrUUpsRm1OUXlKTUc5aU5BUWk5UDdhWTM4aUV1cU5WdDlucVZLY09hTHJfNUdiRkxYZHNvMzlhZjhF?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T03:10:15+00:00",
+      "summary": "OpenAI’s agent tool sees rapid adoption across departments  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,33 +168,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The Trump administration asked OpenAI to delay the launch of the new artificial intelligence model GPT-5.6 - Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLVlPc042bkZqTlhuOTBxYkZCay1oVVZ1N1BHbHhVOWdUcDU5N3pBYkdJYklLSldvTXhDMDl5WTFFak9tYmQwSmp3eUpHamdlV3J3eVppcE9DMEUtQ0cxaFJLQmFoT0xxa09YUjhHS215ZEVsMW9QMi1GNXBNaVRaeWpBUVVJdG1UMWdEdEtKRnFPb01GZVpiOHl4em1IdDRrWnJjWjRMZlFzX2JUM3lySEE1bndyNFQ3RnNXYkVUbVhOOUVEVGh30gHGAUFVX3lxTE5PcTdGVWhwN29uLVJMaDRnakZRR0NEN1ZFQmhVdWRaaTZXQ3FyMGRwVVlOYVdKc3ZJU21XZzRJREpWOXl5SzkxNlZLbU5fR0U1alpvcXdJLTY3aEpxT3NxbDBPYkNKOFJqQnBEbHRxZDd5SlAtVmltX202LTcyZ3ptc05vdUx2LURRSzg5LWl0ZzhlejE2NktWZmJwNEc1a0NDZmRoOWFuZmU3OHNnYXZvdnBtOS05cEhvcnNPMk1ocWozbS1wQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-26T01:58:40+00:00",
-      "summary": "The Trump administration asked OpenAI to delay the launch of the new artificial intelligence model GPT-5.6  Українські Національні Новини (УНН)",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkhiY2JYcU5SZmRSX1Bsc1p2a3BDdmU5Z3JZQ3k4NWw3YzFjd1dpY0dTRTRqdkFlWmVSODlKOTIxcGtKZG5PeU5mT0FaZm9XQWJEVmlKdEFXb1c0Q3dVdGpYQVY4WGkyLWQyaWFndUJQYV9kVXRyaVBQU21PNjA2NG13WHFCWGNRV1BSLVp0dlMzWGkzZk54QmZ2SFRVNnZjeTZhblFrd05PMEdIYmkw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-26T01:44:00+00:00",
-      "summary": "SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank shares slide after report OpenAI may delay IPO until next year - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHlMaHNMUWR1Qk5lV1BWd3RfVE9ScThERjB3QlZvcDF4cDM1MXN6amRpNkkyb0YzUVkyRWVwMXFTZUgzLXRNLU95dlExN1g3ZXFnUGRPMGpGbFRZNUlzZDZyTTBWS3R5T1p4dk16T2lBTnpBV0wzMWQwYjZOMURGeG1keGRoQjdGVXROLU80cFBvQjdtV1hnUTAwa1B3cEpUZDVid1BVbE9MY0YtTHQ4LV9ESXhuZE5nZTFETkUyMHA1alNLN2kw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-26T01:11:45+00:00",
-      "summary": "SoftBank shares slide after report OpenAI may delay IPO until next year  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Broadcom, OpenAI deal hit as infrastructure costs take center stage - thestreet.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDZGQk1Pb1NFZVprUjBVdHB4b0h0anVJUjQ2dkJNYlJySzA0eGg1NWJCX2Y0cE4yd0RLa1JTWUlzZm9jM2RHMmVGN1pzRDVaXzAtd3oxZzFZU1VJa1AweC1MNnNQdm54UU1DOWJNek56Wk5Gb3o3cG0yZUduUWltQ2pRTDdtWFlwYXdYMXNWeXJwM1lJRVV0QWlaZEM3NHhtQmhQWlRKZGV6WE5OUlE?oc=5",
       "source": "news.google.com",
@@ -135,7 +207,7 @@
       "title": "Trump administration asks OpenAI to stagger release of new model to vet users - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbExtT0lPSFZvWkZETjlZOWNZX1JIX3N3TzFCa2Qtd2NESHhxLVFNYk5keGJIZlUzSWdDN1Z1S09YdnZsNkRCNDJzR3JneWlNR3ZNbkpYV2RUOUxLSlB5RDJkSWQ3OTdxUHc5ckllNVhkRTRjaWJHQThxdDN3NVhtV19LUUE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-26T00:21:23+00:00",
+      "publishedAt": "2026-06-26T00:17:06+00:00",
       "summary": "Trump administration asks OpenAI to stagger release of new model to vet users  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-25T23:34:39+00:00",
       "summary": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Broadcom Built OpenAI’s First Chip in Record Time, but the Money Went Elsewhere - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDlYNTM0dlFoMVkzbmNPR0dLN2toMlAtbTRQSEFUN1dtZk5QYkhuM2kxSUpYVkxjb1NuMkY4T2VYbURKdXdGa2pSWU92WjVjVFlHTjJJM2lBSm5zMU55UGZZMXFabFBaYmtNZGJVNW9XVlVRT2ZINEhiMFR3SHZPYVcwS2ZIN0pSMEFWYjhmLVVCNC1SdG5IMG1FblY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T23:30:00+00:00",
-      "summary": "Broadcom Built OpenAI’s First Chip in Record Time, but the Money Went Elsewhere  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Will Reportedly Stagger GPT-5.6 Release at US Government Request - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQem5oRTVUM2lza3E0RVpZczVvTWdIN0VxRVZ5ODQ4dTJSSVBxNEdXMmZPMjVNRS1aNlB4Y2w0VFI2ZzZaN1p0VXkzMk9sRHZFeHJvemJLTm85ckJMR0F0R1FUTXNhcXh4NDg4aFA2TE9QUnFSUnR0V3JORnJ5SjVqTW9LV0NmTVI0QWh1X0N4a2w5b010UEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T23:30:00+00:00",
-      "summary": "OpenAI Will Reportedly Stagger GPT-5.6 Release at US Government Request  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Will Reportedly Stagger GPT-5.6 Release at US Government Request - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvbUh0Tk9DTmpKUUw1Uk1BVTFuTGlIb3hNeUpZNDdQVUtkVnFtYWM0ZWxpNmotcXVhZFJVbHNjaE5fMWhlVUtVU2NkUFFzNEtxbmQ4YkVCRlVTVE9nRnQwMFYwX3FmU0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T23:30:00+00:00",
-      "summary": "OpenAI Will Reportedly Stagger GPT-5.6 Release at US Government Request  BeInCrypto",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon dropped a finished Altman movie amid a $50B OpenAI deal - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVZUWE53RlJaeGFlV3NlOV9xUTFGbjR0R3BLMEpGdVZMck5iZ3ozaWVoQXFUQ1JtZVNOUlBPSHBpekZXeXhuSElzdFpaOVBRbjdLbGR3ZG5fZ3JUWHYtOWNLaEpNVzV3ZlA4UHF6eXdLX21jczZ0bWI5SjAxRUtYNk81NjIyY0I0clB5eU01T0FZNkdLNjZQcXFKODlzUDBJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T23:15:16+00:00",
-      "summary": "Amazon dropped a finished Altman movie amid a $50B OpenAI deal  thestreet.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUhiWmVadU9ESy1YQlQ3UjhFYVdibllEajViMFRlRm5BZ0xfTnhreFhISG93c282OE5JNVA5RlpEcGpNa1JUdlJ3anlYTVB4cG51UnBZM25idUFnZEl6MVNUOUl5WlZtc053MmIxWF8xb1dhYVFOSlBTSThKWXJiNVU5NlRwSVRyMDl4VjF5TWhnc0JiS0lCQkdHY0ozdVFsTEpwM2tWbjFTbHZFZkZQVU9uWHp2RHVWejc5QXVWV2RJWnJPZUc4VjUyVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T23:13:00+00:00",
-      "summary": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data  WIRED",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Broadcom unveil Jalapeño chip for LLM inference - EdTech Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE1uazhjaWdCRXA0S1BiVlRtOFNYSm9xSzNzTU51eUM1WndFMWFsVzVlbGpZZUYxejFnTDFDT0c4cFB6aWtBYmZyR2tRNUdyRlRGbEVkbkJHeUFIeFc1VkUybXRENE5vaDlvWklyUVZjajA3Z2lkSHNkc1lvaFdSQ2pCdEx4d3NNTW55cTdIbUNwa0dYdkEwbktCanlUY3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T23:06:04+00:00",
-      "summary": "OpenAI and Broadcom unveil Jalapeño chip for LLM inference  EdTech Innovation Hub",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Trump administration asks OpenAI to limit next model release over security concerns - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV09fblVJX01hdDI5eXd3VGJDeUtDTDBhX3ZKd1JNSUxHcUo4dHhvbm1wS2pwSmRHQW5fMnA5cUlMbWVHX1BiLUpmOFh6YWlwN19xdzlXV3VPNkFoTzZ3blI2VWJlMWtxQl9UdVczdmg1WjhENDgzNi1RVTdPMk1LMmpfeks?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T22:59:41+00:00",
-      "summary": "Trump administration asks OpenAI to limit next model release over security concerns  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI staggers GPT-5.6 rollout for government vetting, eyes 2027 IPO - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODlGRGpfcjAxX2pMeFFDYmVVT2daaUlTdWtHQnJYd1pwNDBObWJrNkNNS29mRGZyMkkweE44YlRieW1BV2NJVjNwTTBpOHVOWE9KVDlmZ1V4X01HMnNXMUY1QzJwcEJLejE5WEtMX1MtWWxodG5XV2kyYk9DNnFvRTRCUUd5bEFsRHVhMXpBY21CYk9ocHM1S211RTlwWTAxaWVZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-25T22:48:57+00:00",
-      "summary": "OpenAI staggers GPT-5.6 rollout for government vetting, eyes 2027 IPO  SiliconANGLE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
