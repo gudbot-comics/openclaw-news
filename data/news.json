@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T14:58:46.051632+00:00",
+  "generatedAt": "2026-06-27T16:09:23.290831+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -29,6 +29,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-27T14:00:00+00:00",
       "summary": "Tech industry grapples with Trump’s AI about-faces  Politico",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Can Jony Ive and OpenAI create an iPhone killer? - The Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR0lEeGxKNTE2c19BWmdTUXVxRHJvQ0NaaWlSdEw0VGZPTGJnQzZYNmdnTTVBNXVtSmFnNEVUY3hPckZqSmhXcjJJcmY3b014V3ZuRE8wR0FlVU9DcVFYcXJhck9vVXdBcE96MmtjNGZuZ0MyZHBXY2JfTkhaN2J0LTdzQWIxQ3otTEptLVZ2ZV9RUE4xWlpV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-27T13:00:47+00:00",
+      "summary": "Can Jony Ive and OpenAI create an iPhone killer?  The Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,15 +168,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Apple Vision Pro Hardware Chief Reportedly Jumps To OpenAI As Sam Altman's AI Device Ambitions Gather Mom - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLWxGVE9nMnlYUGtFTzVONmdOVzFUSm5saGhIdTdqaHdpcm1sdmFHaDhiS0FRQzFLRV9rZGpBQW96ejM2eEFxUmFRMTZUdTkzSi1UcHVHeXpDMWZzMXgwU0FINXNhNUY4c2hfb1N2UXd2NFNVd3B6dTBNVTd0OFZWU3F4RkI5a191TDl6NWlLakV0SlNKMm1LY2RYYWViTDAxZjhMMlI1dmJ4N1d0SnJVNWs4YTNkLWNYaFNtVzVKVjJYSnR6eUtPWmdLaHV3cEdINXZaLWtHNnBTcjRZODFhdjlMd1NjcE1jbmVPc2JUc2VlY0F1?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-27T03:58:23+00:00",
-      "summary": "Apple Vision Pro Hardware Chief Reportedly Jumps To OpenAI As Sam Altman's AI Device Ambitions Gather Mom  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "At White House Request, OpenAI Delays Public Release of Cyber-Capable Models (Jun 26, 2026) - VitalLaw.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMGd5S3BIMTZmV240S0pKQ0hJdVJaRnJFRW1JOHBJajFsY2hlT1RveHp4TlVzMnJjdWpfWUU2NlBEQ2VfSnJiQjlzVHhud2tKN2tmVlpSdkJZdXpISGZ6ZmJiV29yRmxpMzBYVS05aDJkVzBLb2RwYVNYUVRIUHlpV2tQSXEtNlg5VE12MUFWUERPN01OWjZxV1hZV3RVUk5jckdINWs1SkxLeFh0dldPWGlfLVV2TDY0TEQxWFI3RDQxSEt4Q1NETHU5S3lXdUJJUF9QLXJDamZzX1lJ?oc=5",
       "source": "news.google.com",
@@ -182,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-27T02:20:54+00:00",
       "summary": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review  Broadband Breakfast",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Previews GPT-5.6 Sol And New Model Family - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zZTZxLVAxLXVJTW9iVHRQOFgyTmluRmRLNWh1aEp2ZGpaUGVmOXlOQ1dGOElVeTM1OTF4WkxlQ3c4ZWtJQWlUandwRmZVMnpKZjk1WGhRODlqTXNOWjBtazhMVXBaXzgxYVJOUTFldXFfamU0ZUpN0gF8QVVfeXFMTkNQTERMdTdSdGt4bnc1ZFBuUndqUnZiaFF0ZU5ZeDFHSGpnVnJZU1NNcHdmTjlQUGJCUDNYX0hCVC1IeG1JMnQ5WGhoTHZ6dXp6Y1RaQzJWZ1ZFa1BSd2R6bzRTejduSUVhamxZYVN5ZWt5Ymc3NGZ4MUFDWA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-27T01:59:48+00:00",
-      "summary": "OpenAI Previews GPT-5.6 Sol And New Model Family  Pulse 2.0",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-26T23:52:00+00:00",
       "summary": "OpenAI Is Building Its Own AI Chip With Broadcom. Should Nvidia Investors Be Worried?  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s GPT-5.6 Sol sets a coding record. Its own system card says it cheats sometimes. - R&D World",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWtZLUJxZDU4RXNEcW5zbV9jcGRTU3JBUExuQlU2SC04dDk5eDI4aTFUN05FSlRIVzZiaEhlbzRObFFSMmFoNm5PQldNeXRMdk42VDNLOHkycHVsaXRzd3B6YWlhSHBzOURTR1FKcHdJZXlOZGs4TTY2Njc3RGtkOHZIcHVmUmhjOU1waVpuNl9HSnlBUlllQS1xczVSVFFpN29lLWtlXzBUQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-26T23:46:38+00:00",
+      "summary": "OpenAI’s GPT-5.6 Sol sets a coding record. Its own system card says it cheats sometimes.  R&D World",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
