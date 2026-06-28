@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T20:45:29.517685+00:00",
+  "generatedAt": "2026-06-28T21:46:10.225212+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -47,15 +47,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-28T14:49:55+00:00",
       "summary": "OpenAI unveils GPT-5.6 Sol, Terra and Luna  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Codex Lead on the Future of Product Work - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVG1CLTB1dHNKaEpLWkRMM3dlZHNOZ1QzSDhyTFlncjhpcGxJYmE5QjU2SE81TzltWGFqRFZqSmlCaXp3bXIzZ0M5ZGJNb2N4QUltb1paMUt3aVo4ZWhzRGdxdDM2QXNTX2Z5dHFHUXpYNE5aanVVdGxiNWpPdDRpNEQtV3JlakFFWEowZ0lsejRGcnVKbzhnb3E0TWRUM2dNVjl4VHNwcnVjQUJnb29V?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-28T13:02:02+00:00",
-      "summary": "OpenAI Codex Lead on the Future of Product Work  StartupHub.ai",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-27T08:04:50+00:00",
       "summary": "Accenture, OpenAI: This Week's Top Five Stories in Cyber  Cyber Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "At White House Request, OpenAI Delays Public Release of Cyber-Capable Models (Jun 26, 2026) - VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMGd5S3BIMTZmV240S0pKQ0hJdVJaRnJFRW1JOHBJajFsY2hlT1RveHp4TlVzMnJjdWpfWUU2NlBEQ2VfSnJiQjlzVHhud2tKN2tmVlpSdkJZdXpISGZ6ZmJiV29yRmxpMzBYVS05aDJkVzBLb2RwYVNYUVRIUHlpV2tQSXEtNlg5VE12MUFWUERPN01OWjZxV1hZV3RVUk5jckdINWs1SkxLeFh0dldPWGlfLVV2TDY0TEQxWFI3RDQxSEt4Q1NETHU5S3lXdUJJUF9QLXJDamZzX1lJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-27T03:21:19+00:00",
+      "summary": "At White House Request, OpenAI Delays Public Release of Cyber-Capable Models (Jun 26, 2026)  VitalLaw.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
