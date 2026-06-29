@@ -1,10 +1,100 @@
 {
-  "generatedAt": "2026-06-29T15:51:55.564766+00:00",
+  "generatedAt": "2026-06-29T18:05:35.143906+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Palantir and Nvidia Bring Open AI Models Inside U.S. Government Systems - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdHU5MmQzbTY5bkxPRDBLUXlwLXJRaUgwLTRFT1hBMmI2MkJ4b0lORWVsbTlSV2JXNUlnZDRPanpRNjJ4dzM0QTVUTXAyWDRkUnRfM29pSHRhZHZocHQ3MFZ4X3FyTENRZWR3YThlb1g3WS1Dblc2WFQtYmEwdnZhYjlib0NlT0o3SlM4RWFXdnM0X0ticEd0Uw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T17:54:10+00:00",
+      "summary": "Palantir and Nvidia Bring Open AI Models Inside U.S. Government Systems  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Brought ChatGPT Ads to Cannes and Called Its Users Super Intentional - ALM Corp",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEU0dHNoX1VOYTE1cm5mTlIzZS1qODFVVjI4amdxTWNJbmU4SnVtUElBc0FWQlBVcWpfZFRhZF9uRlV4ckFzR082T3RBWVBoVDkybWNyaVBSVzFjeVpLeGp4N042eXhrcTFpR2xwZWJfZmNDQnpxT25RWmV1V1VQWDYxdXJwTU9I?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T17:20:20+00:00",
+      "summary": "OpenAI Brought ChatGPT Ads to Cannes and Called Its Users Super Intentional  ALM Corp",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI teases Codex-branded hardware collaboration coming, here’s what to expect - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFhoNllZR2xXaWZ3dmhfWFRCSThnVXBrQWtyOFRqSF80cUJsRVd2bE8tUlRwc1JOSHBCTGdzc1JRbXlrN2c4dmsyQlpOOTV1Q3NJVG5QeDF0d3BLYm94YkxySWktb1JjcHAwMmE3ejNydW4xUFlFeWF0LXh6UDVWaEN0Q2xDekRlOHR3c1d4RHZBT2V4NlAyNTVMS3BkNl96RTZWOU9yQ0lGbHNQWERN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T17:16:00+00:00",
+      "summary": "OpenAI teases Codex-branded hardware collaboration coming, here’s what to expect  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How Chinese AI could spoil the party for OpenAI and Anthropic - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZXoybzF3a01lSy1pd0o5RVJDbDlzZHcxNjRSR2xXelNvOHBuUl96bTBtY3FRX1VRME84bThLcm00c0o1bUg5UTJlTkdvcGt1aUhESTg2OF8wb3lQUkltN0RWU1lpbWxkeDd0N0UtWnNfNS03ZGg4dERTU05uYmh2dk5hS3E2c3NkWTZ6cWZSSklWOGVM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T17:00:30+00:00",
+      "summary": "How Chinese AI could spoil the party for OpenAI and Anthropic  Finimize",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Is OpenAI’s IPO Delay a Warning for AI Investors? - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTVV0cFFHaE9XdXA0OXZOaVV5RTFwU3huaEJ3U2J6RERPanlBWmo2OGF3TEtrNWpwME0wazdPekZfaktXNnExUkNWUTB5RFVZbnBuR0phR09McUxvUmpJYWIwQjVhZE92Q2dfRnpjM01FRXpaSTNWekJxSXJDdF9sanhhUFlLVHA4NmVZWFFjTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T16:21:50+00:00",
+      "summary": "Is OpenAI’s IPO Delay a Warning for AI Investors?  MarketBeat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Alternatives to OpenAI, Anthropic: With US prime AI off the table, India opts for fine China - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdWRteXctYlB6bmF4NGxPNDctUl9Ba0wybkhLTTBoLVRvNmhzaDBCRzRnNkVjUnJCNEFtMmo3SWJ0N05qZUNJNDdfYnd2ZXVhS3FscGtucy0yUkZ0Q1B3RGNOamthS01ZTFEyMUYyazF2endlc3B4cGdlbzVtSTFaOWhrR0RianpHNTI5WXNWaHNpNV9TVEE0eUEwMTg4QVdDS3FleDg2cXZROUEyOVZGSWpQbEpZRGxnOERQdl94MlZXVHpwWFE2am5abm85NXdDUGFtaTJEeHc5OWFKWXQyY1Q1VUpRM2FGOThqXzE3VHRYcUFkTjZDOUZ5UXU2cENCclHSAYcCQVVfeXFMTl80dlFlN3Q0dUVONVVjNklwY0JNZTJmQlBUOEJReVQwcUExaVNTeUNWVXoxQWxJYXdrUDBHSXNYcGhvT0RGZGZGV0ZQczRUSU94aVEwVVYxX0ZVR09RZXF4ejEzWGhKLUU3WGR1ajhaQmR2VG9INVlHSTJtSmdSUFNfYzdEN2o1aFhyTUpaVmJ3T2F6VGZlZllGVVhsZzZwcGNsTWIyc05zWC1wVnhZWGstTm1ZVnJfVzVRenl5X0RvdnJWc3BTanRpYklIN21COXNqQ3NqV08taXh2YUhuQ3dvSEkyMVMyVllNeE13aEJ0UldyMFRORHY3SXJOMUNRUi1CWFNDWjA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T16:11:52+00:00",
+      "summary": "Alternatives to OpenAI, Anthropic: With US prime AI off the table, India opts for fine China  The Economic Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Metis Launched OpenClaw Summer Builder Bootcamp 2026 on June 29th - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUE5MWUtNeGNhS0pyaUh4NS1HbTh2WWtZM2l3VE53ZjZhZi1ONVlOZ09FUmRzY1Fha2VGa1BFSGljRThpZm5jRTdaMEdNQUpfWjh3eERKRWM3Z0NUSVVQcWtVWDNNYmdYQUp0eHhDZVkwaXZTYnlCLW5rSVF2dWViUmVQTFYyQ1JSRGotQTA0aXF0alNDM1lXYTR3djRIZmpBZUpCMTZVNnZicHl0bzc5OGtoLWw2MWx2TkxnNXl2SU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T15:55:11+00:00",
+      "summary": "Metis Launched OpenClaw Summer Builder Bootcamp 2026 on June 29th  TradingView",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Europe Will Never Be an AI Superpower - Foreign Policy",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0E1VjBhRnBjN0JDcHBJSzB2Q3ZXTWlUOUJvWDJKam9ndG9LWHBwWExZMUhIcmFJeUZMdWtLODR1eDhNMnJRMEpfNmNNaTBnRS00aVFBa3A4SVNJTWZZUlV5cV9EWUZSUDAyakNsVW9nZmYwQk05MWt2bVVwWG9xWE1WVHZNMjYxb1lzQUdWUTg4V0wxWE44?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T15:43:19+00:00",
+      "summary": "Europe Will Never Be an AI Superpower  Foreign Policy",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s GPT-5.6 Sol Was Built To Reason, Then It Learned To Cheat The Test - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PM0dOWkg5WThZUU1MZlZYc3VqN2VhT2dwaTJLTXJ0aWFkd0hMbnNfaksxWlQwaXdER0VEd3dZTVowS25KTDJhSDFUbEEzUWtBS1dKbXBSMGhwaTYxYzVUc0Qwc2M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T15:32:10+00:00",
+      "summary": "OpenAI’s GPT-5.6 Sol Was Built To Reason, Then It Learned To Cheat The Test  Yellow.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "White House clampdown on OpenAI, Anthropic could boost open-source AI - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91c3JmUXRES0xuUXlfRHQ4WDB3S3YtR3NMUEVKTVVhVTU5OTVNQldWWGNiWUlmZVFzTTE0UUlWT282TFd4LXhtVzRXOEplZkRObVpUVmg0aERwSHlBMjRXUFR4TER2ZjJONjMtOXFoNDlfWnl0OVNVSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T15:27:40+00:00",
+      "summary": "White House clampdown on OpenAI, Anthropic could boost open-source AI  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Attackers create deceptive OpenAI tenants to steal company data | brief | SC Media - SC Media",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXAxcEt4QUJkN3gzcEFmRDl6d0ZTeDRDVWhqNml1emFycVA1VUJyZUFRc0ZIU1hrRU5mUzJqWnFqc3VOcEdNR0RXSVpUSTZVMHc1WlVicEJPckx5c2ZuZk54R1pnamJkcjFoS1ducE9QNzk1MTFXOHNCQ2xqUXI1dE1KVmVCd2t2UVU2QTBfMFFnZw?oc=5",
@@ -24,15 +114,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s Wild Week: A Custom Chip, 40% of the World’s DRAM, and a $500 Million Bet to Kill the Common Cold - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWhuRl8ta2xQUXdpMnZJTDk5MWdubE1LMXRxbVpCV3dJZmZOVEcyVnVRQl9xMm1tXzJlRVdXaHhHSVNua2lHaWc5MTlHeE03clRsbVRpUTFGWmQtS3U2dW5xbkJ3ZXpMcWpWR0dOc1ZTYnFFcWJQV1RoeVAtc0Y1akxpVmc2dG9tSm02c2pheklYMHdGV0Iw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T15:15:40+00:00",
-      "summary": "OpenAI’s Wild Week: A Custom Chip, 40% of the World’s DRAM, and a $500 Million Bet to Kill the Common Cold  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Restricts GPT-5.6 to Trusted Partners as US Government Tightens AI Model Oversight - AI Insider",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQal9HVGI4YlJtZ1Z4aHFIUUNqUUdpaVVueWM5SFBkbENzRmlxWHR5VVBlUjBEVTZpbTRwWnN5Z09NanpnMlBleElYMjlTTHB3aTIwMXNWb1VYMWFDVXVQb053UzlKVWE0b1Z4X2c1RDFHdzJmM3JDWTAwcnQ2R2k1ZWg5VWtkQm1vNmUtc3BKUEF0TDZGQXZTZjEyWVJsZHhQRHg1dE95bE01WWM3MndZVkdYbFBfVlJocWlHYk9nOWRLYmVpQkE?oc=5",
       "source": "news.google.com",
@@ -47,6 +128,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-29T15:04:15+00:00",
       "summary": "Apple’s Vision Pro Chief Paul Meade Joins OpenAI Hardware Team  AI Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Google Cloud, Anthropic Pump Billions into AI Deployment Wars - Cloud Wars",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2czZU1BZzg4ZkFmR1Vrc1ZiQko0WTRoUGdZZ2xpRngxWm1hdDdobnladEg3eE1waExZME56RWFVQml0MzRteVdTd0NMZTBuNWl5SWo0Vl9jN01DZk51MXBpV1JqeEpRekxPaEpLTld5M2UyU0xtVTRRYWl6YVJqbkpNR09qcExrTHBOWTBLSUxqSHFzR2toQw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T15:00:00+00:00",
+      "summary": "OpenAI, Google Cloud, Anthropic Pump Billions into AI Deployment Wars  Cloud Wars",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,11 +168,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "No ‘one size fits all’ answer on AI and jobs in Europe, OpenAI chief economist says - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc0MyLVk3U0xUX2N0cWtYNWViUFk1bXFVOV9BdGtrLUFVQmZtTXZTaFU5cnpxcllPVm9ONFk5eTRxZmhMbXZackw2N2t2cXFleUNmb0NaZm1mRHRzWEZLd3M1QWk2QWVacFhuLVpjTkNGSFdodzFUV3F2UVJpQ2U2ZDVxWFJLa29IY3Q3RncyRDk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T14:11:00+00:00",
+      "summary": "No ‘one size fits all’ answer on AI and jobs in Europe, OpenAI chief economist says  politico.eu",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "The US now has a de facto model licensing system - understandingai.org",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFhzM3NyNUlzNEl0U0pfY0NjVTFXRDN3UW1UdGdWTTQ2Z3R4QXJIa2hYNUJOMTdEUWlnOWNRYW9SRUlxT09SN2Y0VFdCNy1Kd0hXcVRPZ1JMbE81bVpKaVJnbDBIUGRpRTdYd2dXQmdreURtUi1NT256MktNSmVIbg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-06-29T14:03:41+00:00",
       "summary": "The US now has a de facto model licensing system  understandingai.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "HP partners with OpenAI Frontier for enterprise AI deployment - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0JXRjZ1TGJHdUw3U0h0WWUtTFZTaUdfNklIMW9VcElfSVZnY1FhdXZ4WDBUa3RkMkVrVVhNdzVyZTNFXzhwNGRSOW9VcnF4VXBaLTQ3Vk1fYU9LclMxRmJqNWFwakJjZlFiRENGYU85d2FMdGdSXzFBR0dVNUZBOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-29T13:55:49+00:00",
+      "summary": "HP partners with OpenAI Frontier for enterprise AI deployment  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,20 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI chief economist calls for tailored AI strategies in Europe - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtUUtzSHczZXlnWnJUYmNqT0QyOWVGNGRRcHRXTzNNMXp1eFpuNU1XeGZHVkViTW9vRHdMM2ZPYXFFU1JFS2RqX3JtdXdsRmxiUnVkYVFQX1h1eGt4am1ob3ZyVjdVNWxCUFlaNXdWTWFBVFFvV1E?oc=5",
+      "title": "Broadcom Stock Is Down 26% From Its High. Here’s Why the OpenAI Chip Deal Changes the Custom AI Story - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpQcy05aEVvNE1BQXZac21DLU00RjA0Yjc1anNFaTBpWExOTC1mLWVpSnJCY1FyOEJvcHozVEZfMF9hZnZuYjFiU2ZGSEdzcGR4cE1oVlpQZ3ZjNUVqQU92U2JDVVEwRlJfaUktYWl6aVc3WVVfd2JuUktwd0hISEc0dng0UlZGd3N3QUwxaEFZM1B6XzhfX3BUUUNsVGZvQTRtZXkybjhuVmNGOHV2UzA3UjZxdWFhSzJtd0t2RTZqQQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-29T13:42:56+00:00",
-      "summary": "OpenAI chief economist calls for tailored AI strategies in Europe  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "HP partners with OpenAI Frontier for enterprise AI deployment - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0JXRjZ1TGJHdUw3U0h0WWUtTFZTaUdfNklIMW9VcElfSVZnY1FhdXZ4WDBUa3RkMkVrVVhNdzVyZTNFXzhwNGRSOW9VcnF4VXBaLTQ3Vk1fYU9LclMxRmJqNWFwakJjZlFiRENGYU85d2FMdGdSXzFBR0dVNUZBOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T13:25:49+00:00",
-      "summary": "HP partners with OpenAI Frontier for enterprise AI deployment  qz.com",
+      "publishedAt": "2026-06-29T13:26:25+00:00",
+      "summary": "Broadcom Stock Is Down 26% From Its High. Here’s Why the OpenAI Chip Deal Changes the Custom AI Story  TIKR.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -119,105 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-06-29T13:00:01+00:00",
       "summary": "Apple’s Vision Pro and smart glasses chief Paul Meade is leaving for OpenAI  MacDailyNews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Booz Allen Partners With OpenAI to Expand Secure AI for Government Missions - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWZqR3hiSU1ZTFpoQU83UUEtTTdnbklfdDlYd3dpQm9jUm9LYk5RZE1HdkxnZWM2cm5HWWtoUE5xMG5lVTg3VG1Ja01xQ3R5eWFWMmtsQWYxUXJSV0FXcUI3dkNpM1AwLTlhM2xWWmZ2NnZTN2E0UmVBS2EwOHZ3UWdtQ3B5amZhMjdMM0hCeDdxMVhrc2oxUlU0SWlVOTN4OFBfdGVzRXdaMHB5bkZFQkF0ZFg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T12:50:16+00:00",
-      "summary": "Booz Allen Partners With OpenAI to Expand Secure AI for Government Missions  citybiz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Booz Allen Hamilton stock rises on OpenAI partnership deal - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ1d6ZmRiQlo2a1V2T2dSaUZ2Y3lJdWtxYWx1Rnh6amtYY0ZWRGt1a1o4eF9FZVZlQ1pxVW9wVmNVY3VDLVpVOGVNa2lZVjhpamZPSFNSNW1oM1J0TVRDVjNMdVJYc2JIVG53ZVk4aHp4WlYycG14VG1GSnpxeDVyMlQxSm5ITEM3QjE2dUdxX0dBOEVvaGtYRzl0bDVKb24wMG11cDVoUjQtRkl6S2stUC1FWjlBU0tRV3JyTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T12:33:45+00:00",
-      "summary": "Booz Allen Hamilton stock rises on OpenAI partnership deal  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Broadcom's Busy June: Record Q2 Results, OpenAI's Jalapeño Chip — And The Stock Is Down 20% This Month - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLTNWdEViNG1CMGZvX2ZGSGxYN2J3NnpIQmJzQ2VnanplU09PLTVfaXh3VDFwVnRzZHU2LUJrLXdsZXI1ZmNIY0lJcWNuZUhqMmlCZlZrXzZnT2M4WV9PSmd3ZW5HZnUxMWFRc2s0QzFPYTQxbnNDX2lVRzhEM0t2ZWdWc25EaldXWFRvRmJHVUlJaXBVQmZORmlFQ0RiSkgwb2pkV0lDWjJGdVhlNEdSaW83bUkzUEx6WVRiMG1kaWtsb1c1ZjN6ZXJUa3N5VVdpZnZfQVRzcG50Wm55VDJ4TnIyVERKQWxvUG9kTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T12:33:05+00:00",
-      "summary": "Broadcom's Busy June: Record Q2 Results, OpenAI's Jalapeño Chip — And The Stock Is Down 20% This Month  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Booz Allen Hamilton partners with OpenAI on AI deployment - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbFZEOHliRFotSHF5YU42SjJpc3FWY1k1UVBmWUstU29BUF94YUM2U240Z1dHbjMzeFYzd3RIajRpMW53ZXBaZGZWaEJyODM4dHQ1bHZSWnF6amJkbFhqaDhKa3FxX0NNc1NTYTFlVDE3ckNhX1k5aWxTYmw0X3ZqeElodkU5Mm5HbldpNnhKNXBoaXN6WWtaN0dBejZ6a2t2S052RnFjQmlEcEtBLVRDMnE3NWo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T12:31:15+00:00",
-      "summary": "Booz Allen Hamilton partners with OpenAI on AI deployment  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "HP accelerates enterprise workflows with OpenAI Frontier - AI News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2tObmZ3alVwOU5HRVRsMjQyWlV2R040Z0JKUGU1cnlwSGdMOUNicVRqUWh5X1dQTGVIanJaQU1lVkdSQlg1bmdZZ09ad3dKYnJuZkx0UDJPRnQ5M2c3alNUUFJjRlpmN1YycUw4RmZtWUdjUHEtNjBVczBFdmkxVHVWUjZoSGJVTmVYSXFHaVM2YkJMZjk0eFRlSkEyazRUb21R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T12:26:13+00:00",
-      "summary": "HP accelerates enterprise workflows with OpenAI Frontier  AI News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Booz Allen taps OpenAI to speed secure AI for U.S. agencies - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGhCbzBMQm9yREdsZG5PVWE4SVRZcmpISnJjb1RXYlM0QjU4RkVwWU5xRVVZZVgwRTBOMkJlSzhrUDZaOUxxa0kxLVJFczRUVlMxQi1LTDd5azF6MEJXQmVadjRjaEJueXJoZ0FmTTJLM2hkNlZKOE1IUU5aVGxuZjlwWWYzRndnUWJ3dVBrVTBLY1pRLXlPNzc3MlM5ZVFqQVRCRGUyMFp0NHly?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T12:00:00+00:00",
-      "summary": "Booz Allen taps OpenAI to speed secure AI for U.S. agencies  Stock Titan",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI ChatGPT Ads Drops Sponsored Label For Ad Label - Search Engine Roundtable",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40YXloRXk2VlltTUwzdENaZ2dtbnIxUnhYclk2c2FPVE1GcmFhR0U3WndlZkpoa1k2ZjF0UG1KZUJ0bVczcERfMTNNYTZYOUJBbDJJUDlBRk0tQldxUjZSTEVZS3NHcG5xWXQ2T2pOQ001V1liR1dXOW5ydHhrQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T11:21:00+00:00",
-      "summary": "OpenAI ChatGPT Ads Drops Sponsored Label For Ad Label  Search Engine Roundtable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Mapping Europe’s AI Workforce Opportunity - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aVXNYOXFWbVI0MWVHamVMTmpjeWlHcVZQX29ITlZpWEFuazdQeDdvVk1oZWx0eHpRTTNubUhfc0VCb0t4aVo5QTdnUTRuenVhSEdWUDVLNUF5UzBrU0NMdm52MFhzdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T10:26:23+00:00",
-      "summary": "Mapping Europe’s AI Workforce Opportunity  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI voluntarily limits new AI models at government’s request - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFY2VzlneDBHSzN5QlBFejN1Nm5ROWw3TmhTdTRHM0pOenJWdjh0cWp3N1ZPOFlJMXVzclRXdi1yX0haYXlNbmJlZDRrbGtHUkwyMC1teENNZmpFbi13dVZySnpkeWNxdm5qRGhBNGdFenZveGQyUWxVYjhVb1FJSUhrMzZkandURXJsWEQ0LXd0cHRYZFhwUFdpRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T10:22:28+00:00",
-      "summary": "OpenAI voluntarily limits new AI models at government’s request  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI limits GPT-5.6 launch per US government request - Mobile World Live",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkFsb2JiYnhROThRdlBEeHJDclkwMGlqd08zSEFiZFgxSFRNTWJwYjd3cnNqQ0ZNLXN6Y3NJaF9lU0JpSVpGdkwtcFRmWGN5X0xkOVl2Q3FhdGQyYkdPWTBtcE9va192T2xHcE1wLXViSWRFc0hZZ3FHenZNQXJ1TThERjFXWGVaOGctNUJIVWFDZUVNM19KMk1SdlI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T10:13:46+00:00",
-      "summary": "OpenAI limits GPT-5.6 launch per US government request  Mobile World Live",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Europe Will Never Be an AI Superpower - Foreign Policy",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0E1VjBhRnBjN0JDcHBJSzB2Q3ZXTWlUOUJvWDJKam9ndG9LWHBwWExZMUhIcmFJeUZMdWtLODR1eDhNMnJRMEpfNmNNaTBnRS00aVFBa3A4SVNJTWZZUlV5cV9EWUZSUDAyakNsVW9nZmYwQk05MWt2bVVwWG9xWE1WVHZNMjYxb1lzQUdWUTg4V0wxWE44?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T09:50:44+00:00",
-      "summary": "Europe Will Never Be an AI Superpower  Foreign Policy",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
