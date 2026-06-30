@@ -1,10 +1,73 @@
 {
-  "generatedAt": "2026-06-30T09:57:55.379273+00:00",
+  "generatedAt": "2026-06-30T12:11:23.062493+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "White House AI crackdown opens door for Chinese model makers to close gap - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93eW1BR2s2ZmN6emZhR3lhU0Fld2pPbnhHdjYwTE0ydlNpLVpVdXQ4bWtQcnJHN3VibXNaTHdWd0dlQmdoTk1RaWR3clFzVVg3bENvbFNtSXJtUll5dFFyanhITUcydHdoeE51bmNIYlZBVUU0MFHSAXtBVV95cUxOb2FoUmJLOXA5RlRJM21Ia3hIbEtRbzktc2t2a0ZIMVByZjhNb3Azem9OU0J0bzlKTXZ2Yy0wc21vZ0E2MkZrMHdoM09QZDBHdDJNZ0lXalhwNEVYaE1UeFpzRkh5eV9WMkprM21PR2ZubWMwZWpiMEpHX1U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-30T12:00:01+00:00",
+      "summary": "White House AI crackdown opens door for Chinese model makers to close gap  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive: Meta and OpenAI alumni seek $400m for new AI lab - Sifted",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZMFZPeGhDSkIwVkt3bFIyWUFidGJJZHU5RWozVmRmeHBfd21uNGxPNTRKbmlrdF9tU09LWFl6V2IyN1ZaRUJienRoNkQ0NXgzLVNGYkRTSE9yMWFQcVJsblVvZ25YTFNoQ0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-30T11:59:03+00:00",
+      "summary": "Exclusive: Meta and OpenAI alumni seek $400m for new AI lab  Sifted",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why did OpenAI delay rollout of its latest artificial intelligence model? - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdF92ZlROanIzeXBxU25zN3dSaDNhTEUyWDd2WDg4aXZfdFNPSGx2NldWOEExUFpUQTdhc1otX21lTHVNcTZGeExBYmdaSUNkVDN1ZkNaZy1sVW5NMmJwMlVsNWlxblB4Q1d5cktTV1c5SzZHaGRuWGZtVUx6SlhHSDdkdDRJajhGYlJ1RnVwMDZkQTBpeXlieHVtalJDLW1EZDJISFU3YUhOSDBheTlEZmh5dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-30T11:44:52+00:00",
+      "summary": "Why did OpenAI delay rollout of its latest artificial intelligence model?  Baltimore Sun",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Released GPT-5.6 Sol With Limited Access and Strong Cyberattack Protections - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42X2dGZHFQU3dDM1Z1NUV2MmloU0JzUjNFU1Q3N2FtQWNaRS1aYUtJOFV4SmFqenFPa2ZmMDAzNUp3S0ZCVklDcTBiUEIwaVRqNW1VN0JjTzRrZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-30T11:35:14+00:00",
+      "summary": "OpenAI Released GPT-5.6 Sol With Limited Access and Strong Cyberattack Protections  CyberSecurityNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "US Government Urges OpenAI to Stagger GPT-5.6 Release Over Cybersecurity Concerns - quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDZ2VDlISllXN3g3NjVTMHdCaGhtS2JlSVdLUVk3SEdMNVVRRFRLZDZWV0xvaTJCX2ZkQUFsd0VGM0JFWDJDZFI3RjFaM0tvRWVtaGdldV9mbW90Zm40Nk8xUVlMZk1Jd3ZpSXhieGdQOTJ6NC16eXdwNmtDT190TjF6S2xkZUlrOUEwTHNLX1hiRGI3Mk5mSDBWUk9BRTBmSGVRcWxHRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-30T11:13:00+00:00",
+      "summary": "US Government Urges OpenAI to Stagger GPT-5.6 Release Over Cybersecurity Concerns  quasa.io",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI explains why Codex burned through credits faster than usual — and says a fix is live - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY28yVl93NnE2Rjh6WVM0RE5STDFROEQzek9Ld0lmcTVNaldIeE9CS2JhV3dFVE9vTC1JSlRJaExRRmp4am5UUjZiOEQxYzZIV2N0cGtEUTBlSndPRzJCckpmRS04Y1Bxa3ZWVnloY09OcWRtY09VSElzNEpCNjNWWDFxTU1ITTdoOVc1YldfZ0NkbmpndkhWRWhNb0lGUGNnZV9VZ3EyVFVPdXFJa3BEREhRcmVYZVhEZ1R5Y011eUFjSFZwV09uTFVyYk8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-30T10:48:19+00:00",
+      "summary": "OpenAI explains why Codex burned through credits faster than usual — and says a fix is live  Business Insider Africa",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘There’s two ways to build these platforms’: OpenAI’s ads boss David Dugan on going the other way - Digiday",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDZrekstNUFNd05fMG50NTFlcXpZTC1UYkJkaUdkN1EtMFlKMUotWVd0S2dhdmxXZ1hvSjlhbVJfRkxwQ0E2T2JPbHJuVy1OcEliUXA4SU9jYWtZSHJ0Y3loYkRfSm80akw2UjRLVmo2QjgwR0JLWkxhZ1JwSlZ3OVlzcEFNa0dQdHZSSzk1Vk1NeE45QWRMZGFpaVpsckZEZC1SZmZVSmFVREFJaFNITmhNdGdfbDdnLVFwTzRiSTU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-06-30T09:58:25+00:00",
+      "summary": "‘There’s two ways to build these platforms’: OpenAI’s ads boss David Dugan on going the other way  Digiday",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "The most interesting thing about OpenAI's new chip isn't Nvidia — it's Apple - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMjZrbE1WTkxfVTlxVjFEVmdtNDFhS1BxdElaYi1INXJBMWc3dU5kNjZXbEI1by1KUl8yOTlfTTdZeS1sM29KeVVyNk0zUzdqQlBWbG5kVG1iYk00Nl9ZMHFQRkVMVkVpUjV5OXJsbTQwQVpsTjZXb0hKX2xRV0xTSTBFTGJQaTRtcWprRl9EV2daenNtYU1pVWdBSUNPb243OFVhOHVIRWphcGVlYVdpTDd1TTZhaHZIekZtTnEzYjByRXlHM1F0QmtmYUJLLWNQQ1c1RGNzQldMUQ?oc=5",
@@ -141,85 +204,22 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI teases Codex Micro input device with Work Louder - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWxIZU5UcEJ1eXh1ZUpxSXRiSjhtbUkzMDlGRjlTR21tRWhTamNDM0dqRldWTU1COExrZjg2d1d0RmhZLXVhWFlISnN4MnFfNUlGUXdiSi1oNGZPYlpnR2pYNjBjTkVKMks0VXVXVzc0TzlGZ2xqdEJzM1hZU1gzNkZHcFlIZXBrejlXRHhQOXdqM2hSWFVjczJOb1JnZw?oc=5",
+      "title": "OpenAI IPO Reversal? SpaceX Surges 7%, AI Stocks Fully Recover, Analysts See No Need to Delay Listing - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMFFyd3dfRnFkNUVOMW5SX2Z1cl9QNjRfX2J0QURzYndxd0F4UWtxeWpSc1JGYjZoNDZXWlpqalA0LW1iYTA0a3JSbGE5RXVsUzE5SkZsZF9jaEhMYjZEQ0NxTHp2RkM3Z2tTeEdQdUxfRDUzMFd2U2lTbkk0TWg4cDJfeDJ5MXpRcjE4SzJ2Wk5WcVdIRWNFSG1RTk45UU5LazR1SlY2Mi1HQ0M4bklzZHQ1TWVva2RqVXpv?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-30T04:41:32+00:00",
-      "summary": "OpenAI teases Codex Micro input device with Work Louder  Let's Data Science",
+      "publishedAt": "2026-06-30T05:57:32+00:00",
+      "summary": "OpenAI IPO Reversal? SpaceX Surges 7%, AI Stocks Fully Recover, Analysts See No Need to Delay Listing  TradingKey",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI ads boss David Dugan on third-party measurement: ‘it’s a natural step’ - Digiday",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmxyenBBeG5iVUl3MzVLVjhERlZ3bkI3bzRqTTVaaXc2U053SWdLQWFaa2wyQTJaQ2oxN0pxVG16eTVlVzBFVERCR1VsRlhoNTNmU3g2Zy1RYkdKV3MzU1d5Q1VteXZNWVdaTy1DdlVqVHJkSjBDM1lSMTUyME82SU0td20tQUZ1VTVjaXdxWHI4UC05U0tLZS04b2R2a0o2UEVkUkF3RQ?oc=5",
+      "title": "OpenAI's first hardware isn't a phone, it's designed for Codex - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQWRpOXBab1NPOTMwaVM1SnBYT0d4dFJRN21hUnQ0RVlxSEF5Nm8yc21GUFFjUmlJdkVsczRFS3F1WWhBT1phc2dLaVRPWDVvSTF6a1hlNFByY1h2a3ZKS3BWYWRVbTRQdDRId1JnUkx6UzFBRXNNZTJYY1hiX0FqaTVVX09Fc29oaUdnbUQ5Yk9YaTRoUlFEeXlzWjFyVXZ3Ul91b1pwd3Zfd9IBrwFBVV95cUxNVEl3Q2tvdXV2ZDNNWjROWGtfMzUxRks4dWxWU3JhQ2d5Q2t0WVl5bFpSZ0hmMDFFZC1GdmllZThEbWpXc0JKdE5FSzZxWmZRSWVLaXROZGNEdU5CemN5a1pxQTI2N2pUa1FwZ0VwLW1RVTdWdGYxYXRENnJ4dW1WWmx1LTg4WWswdURGWWp0ckxMbm5YSmdWRTdJNzc5UnlOU2RnSTl2ZHFKVXljdENz?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-06-30T04:02:15+00:00",
-      "summary": "OpenAI ads boss David Dugan on third-party measurement: ‘it’s a natural step’  Digiday",
+      "publishedAt": "2026-06-30T05:56:41+00:00",
+      "summary": "OpenAI's first hardware isn't a phone, it's designed for Codex  Storyboard18",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Cursor and OpenClaw launch mobile apps on the same day, competing with cloud-based versus local AI strategies. - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3ZROVpvNUxHRXZfM0pIZXR2dXc4eTJXUXQ5Um1KRWpORF92Tlo3bURYc1FhWlY3a19mYzZxOVA2eFBDdTBkVU9yYnhDR2cxTDc4aU5mMUotVGdEaEN0THo3c0M1Q3QyWXpOSXBIS3BxTk5vdVhJTlJfSFJ3RG5JNjF0UTdxUm8yWWFhQlluc0lTRXpEcnFzSnZOZzJNbjFwYy1NVUcxTmdjb185VEpfT0hkdVRXOFhCNzBKR3FhS3M3MnlS?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-30T03:38:23+00:00",
-      "summary": "Cursor and OpenClaw launch mobile apps on the same day, competing with cloud-based versus local AI strategies.  KuCoin",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI’s Codex Is Winning for a Different Reason - Memeburn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsWERPd1lyR2pDX1NTdFlBMG5tZ0p3Y19qTnJSa21VNkVjcmQ5MXdzanB3ajZndF83ODl4cWFqSENTdFhkY1RINXF1QnVfVU1nS1htWjBwY0s0MHVidGY5NW1fLXVacHNveWRJem0xS25seDVkaVBnYQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-30T02:44:28+00:00",
-      "summary": "OpenAI’s Codex Is Winning for a Different Reason  Memeburn",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Simon Says… Buy This OpenAI Mechanical Keyboard Thingy - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFpncmZwWTZOZDFYbk52ZmpqSU9CQUNjQ0RaNm5wWmR6YzRkalR5RExPeERHMXZ4RWN1TGZlNVZkdDB2dTNNVENKQzhwQXlIOVJ4SF9XTko4eW85MUphamhPNjFVVUVzMEZ4MXZWZE9lLUszVFhzWFE5VWVjWW1UT2VYUG90d25uaExjXw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-30T02:34:48+00:00",
-      "summary": "Simon Says… Buy This OpenAI Mechanical Keyboard Thingy  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Launches iOS And Android Apps For Agentic AI Assistants - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFVWU2MtNk5LOVQ2azJ0RlhlUGFrMHI2M2g3QnhwR24ydjE5SW5iM0JfUURGdWdBc1NuMk96MEFPLWh0d244Tm9VWVFIRUV3UG5xV0RiTnJYelFIY3hYSEF5eGNBVlNHaE1lZ2RQSDZkU0cyZGI1TnRjdzVHcmV2NmtiTmNzdE9Ua3oxRdIBkgFBVV95cUxNQUF3SDJQZF9BV09Od3V3MzJOQV9sOGRtWW5XcXRydzg0cE5QVUZmUllMNTFhNnRKYVJzRnVEQ1FadUF4VmJocGdmcTBpc2JVZ09WUVhuaDBpcDRDcllFTzNnM05iRHhKRThFRVN4U1NmbEJPLXFQTldTQklqa01VZVZzV2pOYVdwMXctWWpWbXBVQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-30T01:12:45+00:00",
-      "summary": "OpenClaw Launches iOS And Android Apps For Agentic AI Assistants  Pulse 2.0",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "STARTRADER Launches Pre-IPO Trading Products for OpenAI and Anthropic - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmVOalhxLVk2c214ZUVzSjJpeUk4bmxFNmt1ajNmVjVKMFMxNXNfS1lwRnJyX2pzSzdSajNzM3hMNndhLWx2TkxwRElXV0VQWDVpaDNIWjc4SkNWcjJEZVdOd3JjanFoUFNaY01iWGlIczNIdzNOVm1hUXYzZ3EtR2dpVUtsdk5vR3dRcnNxY09oaGh6MC1wZU9PeFo1M3hidUNyWnIyWEc1Um03ZTV0LXJ2bkVYNFpKZTcxLV8wRHJPODg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-30T01:07:00+00:00",
-      "summary": "STARTRADER Launches Pre-IPO Trading Products for OpenAI and Anthropic  PR Newswire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw App Brings an Open-Source AI Agent to iOS and Android - Tech My Money",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTlmdGtWVHVVVFl0d1htc0dET1ZsZThlTkFWblYzeEVVYzFVZ0xPRlQ1R0tZV2dXTWhvalJNTnhVWGJ0VWx2WjNMdHQ0alE3ZGNscUt1NlVOQ0ZhRm40ZmROX1AwZURGNXBQRzlDczhLS0lUeDZyZVZFMWtsZUt6NWlNcUcxcmdkTUEwT3hjQ2hBc3ROVzJDd05PYjlvclHSAZ8BQVVfeXFMTXk5ZnRrVlR1VVRZdHdYbXNHRE9WbGU4ZU5BVm5WM3hFVWMxVWdMT0ZUNUdLWVdnV01ob2pSTU54VVhidFVsdlozTHR0NGpRN2RjbHFLdTZVTkNGYUZuNGZkTl9QMGVERjVwUEc5Q3M4S0tJVHg2cmVWRTFrbGVLejVpTXFHMXJnZE1BME94Y0NoQXN0TlcyQ3dOT2I5b3JR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-30T00:24:38+00:00",
-      "summary": "OpenClaw App Brings an Open-Source AI Agent to iOS and Android  Tech My Money",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenClaw Releases Native iOS App for Agents - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaTBSREtocnFkREo4NTNwNEQ5MGNWbVZlZkhlRTBIU0xjUmN2RlFwZUdNczZ5NnFiZkVLeE0xNDU1OHUxVkVIOTB6MVhyaVMwRGZRUGhLdWdnSWxNSTJyM201TU13NU9CWnI1Y1ZuMldGVDFhLXgzT0VBd2JCcGdmRHhJeFhvc3huZXVTc3hR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-06-29T23:42:11+00:00",
-      "summary": "OpenClaw Releases Native iOS App for Agents  Let's Data Science",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
