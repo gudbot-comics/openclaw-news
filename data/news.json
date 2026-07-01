@@ -1,10 +1,37 @@
 {
-  "generatedAt": "2026-07-01T10:28:03.753319+00:00",
+  "generatedAt": "2026-07-01T13:17:17.610883+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "'Bruising' film on OpenAI picked up by indie studio after Amazon snub - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOC1zcUQxeWZRUmh5bjQ4YWttVmR0QVZXRHViWVR2SXRLQm5CMmV2NkxvRjRzaTJwNVZPUVNWUTJENG9KaXZCZ25TQ3VZX0tRc1hnNE80YW5aQmNVMFU4VmppaFpEQlM4dngyUDlqeVBUZmtRcHZHNEhneHNpTlRwOEo5Y3NTalJHeDFxZFVEaHRDNHNCY2tmQVBGLXFFREhtOUNNcFZra0tveVhBaDlOSA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-01T12:39:32+00:00",
+      "summary": "'Bruising' film on OpenAI picked up by indie studio after Amazon snub  Euronews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw - The AI assistant arrives on iPhone and Android - Korben",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTUdCREsxZU9UNXlWejVNLXJIUElndzBRMnd5c2kxSjJKWkJHWDhRcU56SVhWN2lnU2xNSmNnM2JfQ0I3NDBGTGVhTEh5bFhTbmkyU0ItSTMwRWhTc2VPVjJxM0dyeW1pdGVZNURiRkIyQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-01T11:33:45+00:00",
+      "summary": "OpenClaw - The AI assistant arrives on iPhone and Android  Korben",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "How Anthropic, OpenAI, The Vatican And Congress Want To Govern AI - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmw5XzJJY0tQNWJib0JxT3pmbjdidTFrWnU1d015XzVtSnhKY3FkaUpaVmlhaUNjYmlySmhsblltUFY0dHU0Qmx0YWozeEhhZjJHZTlLTExCSldSaC1TbFkxdi1ndzQzc0dGRHVPUlZPYV9fN0FiM01MQXhPRlEwRXo4bmZ3U2Z2N05xYW5CWGNvNE00dEdUd3pEbHgzVFFTXzcwOVR2VUVqc3llYUNkZndEYjlZeG8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-01T11:00:00+00:00",
+      "summary": "How Anthropic, OpenAI, The Vatican And Congress Want To Govern AI  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy - The Decoder",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWFULWRvTkFqYTJBamNEWW1icUxOSm9tczhqM052Z2FDSzBCelNKQURsOTBsblFhYllNLUNMLTgxSGxUX3Z1bGRLZ2lXQThzbUFacnlNdmpiUEdPRXV4bkFZdEZCUzZCVURlSzVJZExhU0hDRnpoQ1JwbVpGWUtnb0ZhZnhGbHZuOGF5OENOS0tRX1pMZUk2TmlHVTBKMUxHYmN4N3dzNGczQTJ1SlE?oc=5",
@@ -13,15 +40,6 @@
       "summary": "OpenAI paper reveals three GPT-5.6 Pro models, breaking with single top-tier strategy  The Decoder",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw is now available on iOS and Android, but tread carefully - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55NDBTUWljWGN4VkR5TnpxcHFGRklyZXl1djVjRDJzanlyTC1hUTBFNV9BalhPUl9va3lhT2JacE9xME1ZdHY0VU9tS3dqeVNDcGRRNTVydmpiUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-01T10:02:55+00:00",
-      "summary": "OpenClaw is now available on iOS and Android, but tread carefully  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "FOR INSIDERS: Trump White House holds back new AI models, spurring confusion - The Hill",
@@ -42,11 +60,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI movie 'Artificial' has a new home after Amazon dropped it - Mashable SEA",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmswSDBHbml3XzdlbWY3OF9SMUxidXNyV1NBU0pwRFVCb25ISFZJak9vVEc0QmFQeElfZHdwcnBjMXF0TTY0R3djY05UUGpjOFpFcHJDVW5OR1gxU1IyT1NRZlpNSEt1UkFsYmNPa1o0RU1OdXh2UWNHN0Q1VDUwTmJRWTBtZ1BaUTBTZHF2Q25fNW5xakFSYXVZWF9UWnNsd2c?oc=5",
+      "title": "OpenAI movie 'Artificial' has a new home after Amazon dropped it - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbUxGY0t2d2M4RUR3bXltbXJHYzNqRzBqRGNwalZEUmtfV2xvMUQtVkdEN0tSQndMX2RDOTZwbkloMHRzSFZ3VTQ0ekIyWS16bXNVcW4xR21XWHZDN041dmNlbVBDRWg1RzlWV29QZzB0Z1prbFN2NFRldkYxd2FET1E1ZkV2QQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-01T09:35:01+00:00",
-      "summary": "OpenAI movie 'Artificial' has a new home after Amazon dropped it  Mashable SEA",
+      "publishedAt": "2026-07-01T09:42:45+00:00",
+      "summary": "OpenAI movie 'Artificial' has a new home after Amazon dropped it  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -56,6 +74,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-01T09:10:07+00:00",
       "summary": "Luca Guadagnino's OpenAI and Sam Altman movie Artificial finds a new home  Female First",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Anthropic backer MGX raises one of the biggest AI funds ever as it closes at $49 billion - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHbFU4aXJOSjk1bERSTUtrcXNybi1TZWlvQ1k3YUF2cjZZdEFBYlN5czd3Zm54TzQ3eng5b2xkeFRRVmFyNDZxMXNzU2tZOUllUmN1bFZTMGNDOUpqVHpiX1B6TnNIODFjTVNWRS1lZkrSAXZBVV95cUxNdVhpbEZnVVkwRTFMa0pqNTN3UVlQbGIwdVN4Z0hlUVl5VFp3VkdvVlZ5Q0hSRHVPbmhpR0s4YUtQajMxUVYzTXRGblRzekdyZlVFSWdjUW9Zam5TUTkyWkdDREJqNHhETzR5MGFMd2RueC1acmdR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-01T09:04:12+00:00",
+      "summary": "OpenAI, Anthropic backer MGX raises one of the biggest AI funds ever as it closes at $49 billion  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,11 +123,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI vs Anthropic: The Secret AI Labs War has Just Erupted - Cointribune",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0hTQy1ZUzJIVmVWamVPQ1RfTDJpMTN5Y1BPcDh1cll2b0l3cjNiclgwUFB5ZUZjNWZKVTF5dXB6VXRZLXlPVGoxd2FObVRUa0dlaGpJV1NaT1MwbjhkZFNXR182QTZnaGxyM3loQ0M0dEJXZl83d2M3NTJ0LVd4S3FEX0JOdGNyaUczNmpYVTdYMWZneUR4S3gwRE9ZMjhRMkRGRUhKeWVDa0hmcmpN?oc=5",
+      "title": "Chinese A.I. Models Close the Gap With Anthropic and OpenAI - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-01T08:05:00+00:00",
-      "summary": "OpenAI vs Anthropic: The Secret AI Labs War has Just Erupted  Cointribune",
+      "publishedAt": "2026-07-01T08:00:53+00:00",
+      "summary": "Chinese A.I. Models Close the Gap With Anthropic and OpenAI  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,11 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Amazon joins OpenAI and Anthropic in AI deployment race with $1 billion engineering push - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOF9YMnc5LVZRY1NEWnVTT2JDNGNVYnlPRFVCT0F3MUloVWUzZ28yOHZubW1VMy1oUklKNVJ5XzhnQTVwT0tBRkV0Ykx3eGxnZi1ndW9wbTBFdGktUDJueDMzcUNmQUQ1YzhuYnpnZUduUktUeVlBSlpyRkY1V0thN0xWRFVYLWR3azI5Rjc4bU1yRmczV1AyZkktVHZTRk9pMkNnV3ZrZF9HczY1MXF5YTRrekVEaS1SblktcWZVZS1FcjVaSXFQQ0NWSmnSAdIBQVVfeXFMT2tzM0kydm9oaWNuczBDbEZsYTJqX0RmenY4UkZiN2VEa2JLV1F5X3BENHkybzYzQ3VrbldJZmpuT1EwbWlmejNvQVhwYVBLcGctU1JiTkJFMjRubm1SNE5WX2NrbFo1WWwzdEE3SjZaemlBLVQxajlwemxWLTVPbWpfcmp3RXNwbGw2aFpoeUxKdE5sT0tYbVg4MXNlX3UzY0FNb3d4NU5NWm96REFsY0swY1JZUG1IVWlFUjRyRU1JNmJPUUtxZlRzdEJIUkV4TEhB?oc=5",
+      "title": "Artificial | OpenAI film dumped by Amazon finds home at Neon - Film Stories",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRkVxOG5RNWNDT2Y3QkpCT0F1bDVxckY1U01TVDFZNTU3aklQNWpHaFJrc29HdjF4UDQ0V21yd0tKemJLbV9fak4zSEVlc2NmUHlnTU1aQlRRSXo2U2dqWnZBbDBEVlpNTUZNQkF1TVI3ZG9MdUpxTzFuWmhyajBUYzJrYXJyX1YxMHBKTG5IT3U5cXVm?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-01T06:59:33+00:00",
-      "summary": "Amazon joins OpenAI and Anthropic in AI deployment race with $1 billion engineering push  Firstpost",
+      "publishedAt": "2026-07-01T06:23:11+00:00",
+      "summary": "Artificial | OpenAI film dumped by Amazon finds home at Neon  Film Stories",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -193,33 +220,6 @@
       "summary": "OpenAI looks beyond a single ad format with image, video and conversational ads in the works  Digiday",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw unveils official mobile apps, bringing AI agents to iPhone and Android - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTUZTY0ttZzN5bWhSSjZqaGhDRFg0RTZSaXczSDMyTlUwTXZmOG43WkF2R3JRemQ4ZmdpM0xUOGhEOTRoaFlHRllMc0szaHpCYTYyQjVuVGJXajBYMUE1SFJYSGRrVWFkRjlqWVNqMFdqN1FodFlJT1k1aXVsMnJMM05mYy1SX3dmWVoyTkpFamFOZV85X0tKV0p3cC1abmQ5c1dMUnduWW5Fa3VJeXNyRzdrR1dVWC1rTmRxamJHTDnSAcYBQVVfeXFMTnNlSHk4SzhUZHAxWUJvSXhTU1F6Ung0bl9IMnFkWDc1M19HZ2xwd2tEYWtzRXVDR3c1a0xyNVJ3WkpvMzJSZXFCLVRfeVdidGtDblNyNGh6dlk2NENER3pSQ0d4cnJIZGZVYXM2RkJ0TzhOVkk2V3oyN2xCRFVEb3RDZnRObjI4VWU3cl9XZ080RXVlQ29TZjBDbHBsa0ZfNDVFUUxXdWcwanVDaUlUOWhCZGdDaTh5cy0tTlRiZkF6d291VHJR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-01T02:42:11+00:00",
-      "summary": "OpenClaw unveils official mobile apps, bringing AI agents to iPhone and Android  Firstpost",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "CNBC Daily Open: AI demand fuels investors' portfolios while oil posts biggest monthly decline - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeVFiOXdrc0t2cE5pT3I0dGFXdldQX2dERTI3bmFWOHN2cTBTTjg2NU1lLWR0V0JGMHZDbUoweG5hM3RHelFwNFdZNGhETGRXLXl3NXNsZjBMQWR2WDJUWDl2QTlWeUFQU05ZMVM1bEhxdmVmOFV3OFREcUVZeVlKYzZQZUFnVDdGZVBEeDByYmRqLVRqTDVsd3VTRFRYa2JRRnVxVlVRNHdaOTNLUFFTVGNIYTdnUGJwbWYyajRYNy1fWUxpaW9R0gHMAUFVX3lxTE5wS1dJM3gweGRvX1B4RmYwZ04xcXMyNXB2OTRsYlR0QmFfUDYtRWFFb3JhbkFsNjY4VkFkWExJVEpFTk1YUkZZaU9UMlc5S2FYVkhybFlpS21vVldnNFA5R3E0dzlLU3dYVldvNncxRkVtaUdocmdRUnQ3aTJHRXBneDgxWVRzd1hBYlgyZloxTjVBeWItRWZPeHF4MS1NeUNuMk84bVBBajFZcFV6MG9ISE9VNXgwMWE2QjJnbFR1N19uUHNyV2x0N1lRaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-01T02:22:00+00:00",
-      "summary": "CNBC Daily Open: AI demand fuels investors' portfolios while oil posts biggest monthly decline  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Launches Native Android And iOS Apps For Self-Hosted AI Gateway Control - NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVm9JUHdlb2U2eEVlbjlZZXFnNHR6R3ZNLU50SWRtMm5VcW5XbGFSVFNfWkNYX0VJNGg2N2NaSnFzUW9iM05wLXZLZWNlODBMSDh1bTl3TnpneTJaMzF0TjlwNzQ1Ujh3TGtIWlhfLTZfZGRNZmgyRmhRdlJFcmFiRlAxQnlzaUxaX0duQklrdTBZYWo0UzVfV213OVJDVVVsR1dWdjY1NmxRNHk5VEZZMGZwd1hEcm5iSjJOTVNyQk0xZS1kVXRVakdFWTRlcUJYMlMzeWVDZjBBdGRzV1NSMWZUeDM4NWJKT1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-01T01:20:24+00:00",
-      "summary": "OpenClaw Launches Native Android And iOS Apps For Self-Hosted AI Gateway Control  NewsCord",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
