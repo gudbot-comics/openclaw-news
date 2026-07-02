@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:54:46.792127+00:00",
+  "generatedAt": "2026-07-02T00:03:31.720505+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -29,6 +29,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-01T21:44:34+00:00",
       "summary": "OpenAI Expands ChatGPT Ad Formats and Engineering Hiring  Let's Data Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank (SFTBY) Seeks $10 Billion Margin Loan Secured by OpenAI Stake - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkEzMjJGMlhZajQ5cERzc3NiVm5HdzVaUXJNRDFDa1QtLS10M1Q3MW9WSDdySTM0OVk3QU01ZjlUOGVBYUZDWC1VYWlJVDVXd3NyVWlITEVuaWNzUnM3SWZUeElzcmJIbnB4dEkzeHlMeVlzeGRUQzk4R1NVRDZKVU92YURnTnRDeHVMbGxPbmNrU1l0cWNvdTh6Y2g5N0kxcWVGLVBhS2NQdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-01T21:37:02+00:00",
+      "summary": "SoftBank (SFTBY) Seeks $10 Billion Margin Loan Secured by OpenAI Stake  GuruFocus",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Chinese A.I. Models Close the Gap With Anthropic and OpenAI - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk9RRzFlT3oyWGV2NXBQcEQyWmtFSllXV3dXd1VKVEF5T0R5OHYxaDgtcTgxdWpaWlB3TVlZbG1vUWxxLV93WC1iVnIyWmtYeE9ET25MbDJtQ0JWV1k3MHVYSTA0OURFYy1EbWVaelBUQlV6OTlCNDNIRzFIdWp0a0RlZG5aUTJQYWR3amhHNmZzbklEMVE?oc=5",
+      "title": "Exclusive-SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXFYSS1jSEdkQjZxaGZPNWNuODhpWTBfQXNsMS1YWHp0MTNFY2xRTXdvZUVtSnZiNWNuVjltTlpYVlI5RVhuMzhCMVg1YXEtRWZ3WkJyLW9rSXVVQ01FSFFON3lKVm1TcjNoejJhaU1ZV19WV1FxbzRnREN3dEM2RE9lcGs?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-01T20:06:16+00:00",
-      "summary": "Chinese A.I. Models Close the Gap With Anthropic and OpenAI  The New York Times",
+      "publishedAt": "2026-07-01T20:29:05+00:00",
+      "summary": "Exclusive-SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say  AOL.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-01T18:14:44+00:00",
       "summary": "4 Lessons for Future OpenAI and Anthropic Investors, Following SpaceX's Historic IPO  The Motley Fool",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US) - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzd3MzdVRnNFOGFHZUMzVXlwZEZiaEZBczROU05neVdNOVpCMEVfa0dFOTlTM1JmajRob3hWMmE3XzlIRUxwV1pkcTlEWEd5ekNpcVdhNERmRG8yLUwwN2RDV3pOcHkycDEzUHZCNFJsbzlQUklEaE5valVkd0J5ajhiSmFUbExCSXJ6a041U3FCSG1KNE1uUHNQWTRyNTFPTzdFTVM2RWItaHdxY19jZ0VvZ3BtVG11Tm56eTF6WWhQN2pRRjJNVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-01T18:14:34+00:00",
-      "summary": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)  Amazon Web Services (AWS)",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
