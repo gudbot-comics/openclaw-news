@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:39:05.318339+00:00",
+  "generatedAt": "2026-07-04T19:51:44.114034+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -29,6 +29,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-04T15:51:32+00:00",
       "summary": "What is Mistral AI? Everything to know about the OpenAI competitor  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Sam Altman wants to negotiate a 5% stake in company for US if competitors agree to key provision - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ09vaURSeDZVV05XTGtMVHZ6VzhrcGVObTh5al9oTnBUeWZaQ1h3UjRDS21VbW92bU5XSUFFci1aS3VpQ09KN0taUzViNzkwX1FHR0FrRnE5UXB3WXpxU0hrU2JtSWR2cDgxYjh2cW1iSVZFaEliSFVZX2lMSnF0WkhuMWtpRklYYWlwYWt0QS1pcENUdUpwaVp2Z09JWG5pUk1zeXVtRW1FUloyd3lJRjR0NWh3OG9aX3fSAb8BQVVfeXFMUDd1OEFydXhEc25uamQ5endRQXFXeTM0cEtPdS0xOWw5STE0cUxIckRBRGV4SmhQcU5WaG8wZkdBbHlUZDRnRTZWQ2V1OTRvWU16WFFHeWhWX1NnWjl2WWcyWFFWWVgzcUlWejk5VWNQaVlfbTR3VkVxNzUtOUkzamtJZHVMNUpyekE1Z2x1ZnVBN2IxSERNU2piZm55RkwzeHhaMzlxZk5SR0V5RXhGamV5em5XSTM1N0hZdHo3Vzg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-04T15:41:09+00:00",
+      "summary": "OpenAI's Sam Altman wants to negotiate a 5% stake in company for US if competitors agree to key provision  Fox News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,15 +87,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "After Trump administration clears Anthropic’s Claude Fable 5 and Mythos 5, no Sam Altman’s OpenAI-like go - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNV0JLdDZsY0w5ZWxmeEFaRXdDc3FOajYyR0g5cW9DTFVzSmFlNUZack9xQngyc1NENGFXTXl4RHFRS0RrRm1oZ19QMHRRTWRNWDh3dUc4WFBLdmllTkJGMlVVQWFKRGZGUmFlZzFuNEFDUVNFaHV4cXQtM3RsRFVHWlNSSWVCWEtKdjNQNzVHSWlvTGZDMVNCcTlYVUd5X09HcjRDQkg2QnNXUm1ZTERNVUU0VDJ4Q05UUlctSXY3bHFQQmlLLURJYmxlQkVhUFpDclNISjd6VGhsVVpDZGNmbVBkSWt0cGJidUt0VF9iaE02cnJtd1lORmVTSFNhQ0x3TF9abWVHZlhvUy01RFlMako5MUZCQ0haRWxwcXhTMWE1cXVydmFMY0dLM2p1dWl6QXfSAbcCQVVfeXFMUHRnMG8xbVJvWU5JT2Y5RjFVWW9MUzBOVFJhTS1QeVRmQld0emlsaGJhOWtzd0JaclRxWWVnYVFJRGVvVUk3WlZsc1ZtU0hQZ2d4LXozMFJZQ2J6RmtJU3Izc2xINkNNa3JkbUJEYjNRQVQ1TWtkT0tLWUtId19XMVlDQjBXZmNYZmwxNmV1T2ktbVJUak1sVV9wbFp5b1A3OTY0WGxkWGhPSkh4UHNpbDdObHczbDVIblVHVGJneFNsWG5zOERoLWktekxqU3d2SEVnYkdqOUkxZ3RYSWhjNHgxclVRc2ZPRFpFUXg4bFFzOHZUc053WHh6ckxXUm9UUDNjNWhTbnRWNzlnVFMtT3FpZW1peUZGRXNMbDZoTjlNN2l0VmU1Umx2OGpNaklQSW91bEluOGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T13:39:00+00:00",
-      "summary": "After Trump administration clears Anthropic’s Claude Fable 5 and Mythos 5, no Sam Altman’s OpenAI-like go  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI's Stargate UK project faces scrutiny after site visit failure and hypothetical investment claims - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOGNqM3pwdkpoRUNrNU5uQXFZbS1INnpDTzVrRzZrbzBwRGNZSlRPd2QxUTdSX2I4cklfQWpMbVRCcks0a2U4WVFlVlBNdUFJeXBOQzVkNnpCanJKb21PSXRoUEQ5elFBMU9DY25zYTBHejMyR2drd2JEalJmb090czRPMllXUQ?oc=5",
       "source": "news.google.com",
@@ -132,29 +132,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenClaw is now available on iOS and Android, but tread carefully - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55NDBTUWljWGN4VkR5TnpxcHFGRklyZXl1djVjRDJzanlyTC1hUTBFNV9BalhPUl9va3lhT2JacE9xME1ZdHY0VU9tS3dqeVNDcGRRNTVydmpiUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T09:00:00+00:00",
-      "summary": "OpenClaw is now available on iOS and Android, but tread carefully  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "OpenAI's Landmark Study: The Shift to Agentic AI Is Already Here - quasa.io",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVVqLVNHRGJibTEyQjBsNWg5VHNROHNad2JLQmRVMVVTbVpBeER5dEJ3ZUNBY3JrOG1PYnBtd3JTZ3RtQTlsU3AzV1NsTlEwc21sRVhXYVFyT25wQlBDdk4wc0tLd3hoNE5SVTh4MmZac3NRQ2NjZldITnhZcHJmTmpJSGo0Zi1vekI1MHNNUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-04T07:08:00+00:00",
       "summary": "OpenAI's Landmark Study: The Shift to Agentic AI Is Already Here  quasa.io",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazV3SlFQNmtsMUs0VnBGWjJaUHNyUkJsSkxaNGd4R0FGZFo5RE5rcktkV3FEdUhHWnFMZ2xnTzJndXdpWkxzbDdaMi1UVDFwQ0xDYUdDaW9ZMEpNLS1sNjJaV1V6TlBfNXZVZlVmcDh4SVhWRXI5c3ZBUFRFYUpkR2NpeE1QUThMN2FKRF9GWHd2RnZxQ09GZHg1eHZMbXhkZTdVU0ExWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T01:51:00+00:00",
-      "summary": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films  The Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,13 +168,22 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Venice AI raised $65M to exploit OpenAI’s blind spot - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVZlMGtqRmhqanluRjZuc0NrWUJyb2V1SktPd3hweGFEblR2UVQzaXBVOG5vYV8tVkR2UjFzbzB3S1dpZGphNU1xZWtkV0ZQMnoyYVd6SnRScmZ5dDhndExxZ0dTdnlUQl85VUp6SW1ZYVg5WlBaMGxtaEpjTEdaUFF0T0NfVkVDbC1FNVIxRQ?oc=5",
+      "title": "OpenAI Halves Inference Costs With Software Alone: GPUs Drop to Hundreds - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObG1lLTZIdDBzanFOMnNpNHZONlY2TzUzSXB4dTVFTGJBSXlZMUYwTjYtUDBJWERVTEFEb0pCc2hDRXc3OUptZkRXclYtZlBCQXJEblJ0TGFvS1BaZTh2WHlISDZhUzN5c0o2Tmsxbk53RHduNGxVRDBRZklaR19yVDhBcXFWd0R6QnR6cGtHMTV4RlRxQXlrNjd0ck1hcWllZDl2RjNxUHR2cEdjQUNwTXpOUzBtdzdubXc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-03T19:33:00+00:00",
-      "summary": "Venice AI raised $65M to exploit OpenAI’s blind spot  thestreet.com",
+      "publishedAt": "2026-07-03T19:37:16+00:00",
+      "summary": "OpenAI Halves Inference Costs With Software Alone: GPUs Drop to Hundreds  Tech Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenClaw is now available on iOS and Android, but tread carefully - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55NDBTUWljWGN4VkR5TnpxcHFGRklyZXl1djVjRDJzanlyTC1hUTBFNV9BalhPUl9va3lhT2JacE9xME1ZdHY0VU9tS3dqeVNDcGRRNTVydmpiUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-03T19:10:12+00:00",
+      "summary": "OpenClaw is now available on iOS and Android, but tread carefully  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     },
     {
       "title": "Luca Guadagnino’s OpenAI Movie Went Through ‘All Sorts of Disasters’ at Amazon - Vulture",
@@ -200,6 +191,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-03T16:00:06+00:00",
       "summary": "Luca Guadagnino’s OpenAI Movie Went Through ‘All Sorts of Disasters’ at Amazon  Vulture",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazV3SlFQNmtsMUs0VnBGWjJaUHNyUkJsSkxaNGd4R0FGZFo5RE5rcktkV3FEdUhHWnFMZ2xnTzJndXdpWkxzbDdaMi1UVDFwQ0xDYUdDaW9ZMEpNLS1sNjJaV1V6TlBfNXZVZlVmcDh4SVhWRXI5c3ZBUFRFYUpkR2NpeE1QUThMN2FKRF9GWHd2RnZxQ09GZHg1eHZMbXhkZTdVU0ExWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-03T14:54:00+00:00",
+      "summary": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films  The Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
