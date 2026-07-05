@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-07-05T20:09:57.947461+00:00",
+  "generatedAt": "2026-07-05T21:18:12.207925+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Tech: OpenAI warms up to Washington - Punchbowl News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwbzczQy00Y0FtRGVVOThKZDJERmFfdFRlMjBweDRKeERsbV9JYTh1V19ZNklKZ2hQNWRtWmY2SWVaSnpTdjVDa1JjYWNPaWtiWG1IVEdHbllUY1hVYTRqcnJhdGlXTEhGVnk5cg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-05T20:33:40+00:00",
+      "summary": "Tech: OpenAI warms up to Washington  Punchbowl News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "A ‘mini DeepSeek moment’ for Chinese AI - CTech",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkQjlXcXFlVHdNakFicDBfSnhQZVJnNEZaWE5SNVI4Mmc0Qk1WTC1GX3B4bWVzb1JYZEJkbnRNU1pnYTFlcGhzbGt4aXN2VUNqMnl0OFNMVkdsQlVyNlJ3Vk0wUUV5bGt3?oc=5",
@@ -87,15 +96,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "What to make of OpenAI offering Washington a stake - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcW9NYWR3T0dvaTktelZ6MDFRUHdpV0pjWmtOcmF5Wl8wM2tYenhmb2twWnZwNU4weTl5cWVnWER1dXRQMzlFazU2VENtekZLOTZyazByZHh2Z2ZpLXd2dHVBckdJbXhMc3BqR2k3aFV3b3E1N3pHazc2QXQ0TktCSVI1ckE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T23:56:27+00:00",
-      "summary": "What to make of OpenAI offering Washington a stake  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmxZMmpWUjhSY1RQcnJNV2U2NXFrZkNFd1hWN2VwbURRRVhHOE5uM0ZWanJTNFlDcDRkSUNUNl95TnFsdlc5c2c0MTl6VWdqZkdBVjZfR0hNclJtQWxuRzFmQUFpcmZSRVVQRm9idzY3NXNUUVJULWVmMXRDc3IxMmdFZkI2SVNvZWZmMmQ1eEZUd3JwOHF3Vw?oc=5",
       "source": "news.google.com",
@@ -110,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-04T22:10:00+00:00",
       "summary": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘Artificial’ film paints harsh picture of Sam Altman, Elon Musk: Report - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3l0eF9MTFp2dEU2OE4tYzU4WnlkUXMydVhPRldWYW9lbklWY25ULVhQV0ZMT2xackdMdFJxTkxUZWdwWnBHWjNwTVZ3Qm5hd2o3cmVtNm5mT0dxWmREYjRmNlJ2YjFKVE13eTVrb1ZkUEZ6QzItMHFhaTZKUjJEZlNoQnZFalV2T2wtZktjeGdFZ0hYODExRGZwa1dKbEd1VWfSAacBQVVfeXFMTmRKdnhBZ01BbXFYQXAxQ1dJUnpVQnUwc0N6cDZwWjl5bk5qSEFzQXF6ejAyQTd4TGlEbnFNZ3F3Z2ZKMW5DOEhCXzZORVpVOWNCTEszRWx1VnF0VDVpYVRFZ2VDQzNVblhldDlyTkZpeUJWSzBaV09GRWRfTklFQmtEXzdaZi12OWlOM1pueDBKd05ub3l5cm83TGh2ZVJTN0xiaFBraW8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-04T16:07:27+00:00",
+      "summary": "‘Artificial’ film paints harsh picture of Sam Altman, Elon Musk: Report  NewsNation",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-04T01:51:00+00:00",
       "summary": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Codex Hits 5M Weekly Users, Up 6x [2026] - tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVmRhUXRkQzZibEtKTFduOXNVWTVPcEo4RVE3Rlc0aDNIaDFiN2lHRTZLbU5IaVZYYzB1NFNIcnRPNnVLMVJoWGY2SWZkLUJzY3hMb2NDQ1B3N09wTE9lcXhic3ZsTXZ2Zl82RVJYRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T01:36:08+00:00",
-      "summary": "OpenAI Codex Hits 5M Weekly Users, Up 6x [2026]  tech-insider.org",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
