@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T18:50:24.913629+00:00",
+  "generatedAt": "2026-07-05T20:09:57.947461+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -60,15 +60,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's scaling law found to contain a bug, resulting in millions of compute hours wasted. - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnJmQkpmLVV4SnpsMUdsYW5xS2pwT0tQQVZxTDJqUG1EZGU4ZjBnSXVmNG00OTMwUG5SalRZN0NKYkllVktPdjNpbjMzbWdObEVQcGVZS2o1NXZpZU1oek9raWNWblNJRnM0RW1HTmhlOEsza21EbWlQbndGNUtNRHo2YjE2T0czTzdTSmNXUTQ1X20zMjEzaHJ0N1RzaWQ1U08xc3JKNzBoeDJF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-05T07:23:07+00:00",
-      "summary": "OpenAI's scaling law found to contain a bug, resulting in millions of compute hours wasted.  KuCoin",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenClaw Skill Marketplace: Security Risks and Supply Chain Threats in Agentic AI Platforms - Rescana",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSk1qRVFKY20wVlJkS1ZfSXhydThjSWF4eS0xRHpUd1lDNWdFQS1mbFZ3ZGREWjdVa01TRThSLWluVWFWb2FUakdPWFRZLTdqVDBKS1RoSmk0TXNzdHNzaDlfa0c1ZlQxSjk0RjFXWE1ESHF5aEdPVlB2UE1SXzdLcjRaSmNBZGpmX2hJR211TmhEeTZRVzJYb0FmQzhpQkp2QlVLVXVEYVVDcFBsYjVxaUo0YmJtOW5Mb1pj?oc=5",
       "source": "news.google.com",
@@ -90,7 +81,7 @@
       "title": "The US government could own part of OpenAI — and no, that probably doesn’t mean you get a check - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODMwbzM5RGpzWldDMXdULXlZWkZFSVhKN09zM3RFLTFjVTBSWUpUWGkzbDdwREN0aEV5SEZzcnhtSWdTNXhkanBVTGZBNFpqTEJ6clUzTlZQWWFhdnJpaUcxWXc3bVVqdVFtSEpMS3VOVTl4QUhWWGNmd3F2NVpVUmhiaThDTnVzSk5WRlFyYTdNV2J0Rl8wV2lNWkFCMTZfZk1DeGl3UDhQamNuVVZuaFgxeC11M1JneWFLMFFGbnF1WmlJdDJSRXJhdUNPbFZBWXJ6ell3ejlWOVFmTkhHTXNuZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-05T01:00:00+00:00",
+      "publishedAt": "2026-07-05T01:01:32+00:00",
       "summary": "The US government could own part of OpenAI — and no, that probably doesn’t mean you get a check  TechRadar",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -119,15 +110,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-04T22:10:00+00:00",
       "summary": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Tops OpenAI With $965B Valuation As AI Funding Race Resets - Yellow.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02cVBCZkF5cGZpcTc1SUNiU2hFd2xFTHM4Z0tMMmxrRC1LMWhGRnNEckxmbVFrZ1BPN3dFZFdHT3VuMFJuLVVyVGhnbGxWSDNOLTVKZzlHc3dMNC1OSkNTNjBBVkJmY1N1bUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T19:02:15+00:00",
-      "summary": "Anthropic Tops OpenAI With $965B Valuation As AI Funding Race Resets  Yellow.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +200,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-04T09:57:47+00:00",
       "summary": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazV3SlFQNmtsMUs0VnBGWjJaUHNyUkJsSkxaNGd4R0FGZFo5RE5rcktkV3FEdUhHWnFMZ2xnTzJndXdpWkxzbDdaMi1UVDFwQ0xDYUdDaW9ZMEpNLS1sNjJaV1V6TlBfNXZVZlVmcDh4SVhWRXI5c3ZBUFRFYUpkR2NpeE1QUThMN2FKRF9GWHd2RnZxQ09GZHg1eHZMbXhkZTdVU0ExWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-04T01:51:00+00:00",
+      "summary": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Codex Hits 5M Weekly Users, Up 6x [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVmRhUXRkQzZibEtKTFduOXNVWTVPcEo4RVE3Rlc0aDNIaDFiN2lHRTZLbU5IaVZYYzB1NFNIcnRPNnVLMVJoWGY2SWZkLUJzY3hMb2NDQ1B3N09wTE9lcXhic3ZsTXZ2Zl82RVJYRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-04T01:36:08+00:00",
+      "summary": "OpenAI Codex Hits 5M Weekly Users, Up 6x [2026]  tech-insider.org",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
