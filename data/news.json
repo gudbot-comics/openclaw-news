@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T16:45:57.317981+00:00",
+  "generatedAt": "2026-07-05T17:47:52.671455+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -51,6 +51,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI's scaling law found to contain a bug, resulting in millions of compute hours wasted. - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnJmQkpmLVV4SnpsMUdsYW5xS2pwT0tQQVZxTDJqUG1EZGU4ZjBnSXVmNG00OTMwUG5SalRZN0NKYkllVktPdjNpbjMzbWdObEVQcGVZS2o1NXZpZU1oek9raWNWblNJRnM0RW1HTmhlOEsza21EbWlQbndGNUtNRHo2YjE2T0czTzdTSmNXUTQ1X20zMjEzaHJ0N1RzaWQ1U08xc3JKNzBoeDJF?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-05T07:23:07+00:00",
+      "summary": "OpenAI's scaling law found to contain a bug, resulting in millions of compute hours wasted.  KuCoin",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenClaw Skill Marketplace: Security Risks and Supply Chain Threats in Agentic AI Platforms - Rescana",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSk1qRVFKY20wVlJkS1ZfSXhydThjSWF4eS0xRHpUd1lDNWdFQS1mbFZ3ZGREWjdVa01TRThSLWluVWFWb2FUakdPWFRZLTdqVDBKS1RoSmk0TXNzdHNzaDlfa0c1ZlQxSjk0RjFXWE1ESHF5aEdPVlB2UE1SXzdLcjRaSmNBZGpmX2hJR211TmhEeTZRVzJYb0FmQzhpQkp2QlVLVXVEYVVDcFBsYjVxaUo0YmJtOW5Mb1pj?oc=5",
       "source": "news.google.com",
@@ -58,15 +67,6 @@
       "summary": "OpenClaw Skill Marketplace: Security Risks and Supply Chain Threats in Agentic AI Platforms  Rescana",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Meta says its next AI model has caught up with OpenAI’s GPT-5.5 - Storyboard18",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN09FVTEtcDFBRE9GX0lzaVQtbU5SUVRGclVnTG5YSHBxSXk1OTlKbzR2dkIxcjM1eDlOaEZIbDlETVRQUXBwZk5aVXJHUzFfMW9XWU1TaGxaSjAwbE1tNFN4d3ZpRUl5OW9MVWp2VEZRY0FxSDNpUXFJVjJhRWZFdDdNdDNxOExiWTkzUm5kTTU4SGtMQWlseVJZQnBscTVwaW5zUGNxX1JSeU5LSWFOb1o0eDE5d9IBuwFBVV95cUxQTUNpdHV1a3ZFck1yb2Itc1VJRmVoS2xzV1YtM1h6cUJ1YXpiMGMteEd2WWZKQVlFWGxQc1lKQnlzLWNaQ1VrQk42TWVaMWV6RHdPNENrT0pnV3ltVHJnX2djc1liN3FOanF0eTZYTzVfTWRpWWExZlJ3YXJfdGxoWmtKTk9ZZVozU0lxbGZSRXdXazJGQmN2WkpsYzhZd294dHFfQXRpTnFsczZOMm9TVFZSd0lnZXBEd3o0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-05T05:24:02+00:00",
-      "summary": "Meta says its next AI model has caught up with OpenAI’s GPT-5.5  Storyboard18",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "Uncle Sam Says No: After Anthropic, the US now limits access to OpenAI’s new AI models - Open Magazine",
