@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T14:20:56.831568+00:00",
+  "generatedAt": "2026-07-05T15:44:40.988929+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -36,7 +36,7 @@
       "title": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9pMlVET0JKTHdRRGN3VUVMSy1KZGQyMnRVWGR2eUpONTVmcjd0dHZGcVRTREtQZ3ppalY0V3ZLaVlBaGZoQ3VsRU5rRktFblBGbFV3UkpNdmhiR2NneTJKWTNJWUlYMkNjdlRnZ0VEOHV0c05ETUh1d09EY2hqM2FXTHZEdWRZUjhlREhfNFgxTVdJX1VHMQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-05T09:29:31+00:00",
+      "publishedAt": "2026-07-05T10:13:00+00:00",
       "summary": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX?  The Motley Fool",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -72,7 +72,7 @@
       "title": "The US government could own part of OpenAI — and no, that probably doesn’t mean you get a check - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODMwbzM5RGpzWldDMXdULXlZWkZFSVhKN09zM3RFLTFjVTBSWUpUWGkzbDdwREN0aEV5SEZzcnhtSWdTNXhkanBVTGZBNFpqTEJ6clUzTlZQWWFhdnJpaUcxWXc3bVVqdVFtSEpMS3VOVTl4QUhWWGNmd3F2NVpVUmhiaThDTnVzSk5WRlFyYTdNV2J0Rl8wV2lNWkFCMTZfZk1DeGl3UDhQamNuVVZuaFgxeC11M1JneWFLMFFGbnF1WmlJdDJSRXJhdUNPbFZBWXJ6ell3ejlWOVFmTkhHTXNuZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-05T01:01:32+00:00",
+      "publishedAt": "2026-07-05T01:00:00+00:00",
       "summary": "The US government could own part of OpenAI — and no, that probably doesn’t mean you get a check  TechRadar",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -110,15 +110,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-04T21:07:52+00:00",
       "summary": "OpenAI’s GPT-5.6 Sol crushes Claude Opus benchmark in early access testing  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Altman Pitches U.S. Government a Stake Worth Billions — If Competitors Follow Suit - Lower Bucks Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcEdrN2I5MHV5MFNxMVBNeDQ4NVVNai02dnNUYzkwUUE3Q1p4Zlo1a3NpOTFFb2VqWE9raUx0MWwxVDc4NU5kZEdkYWZOTFFkTjRRMXExZURMaVhmazFzVFdpVkJBdF90dkRXRUZLanNiZTJXNVJwQTNnY2dLdXpaNGI3UWo3S1haTWhlUGdraUJaS0dDQ2U4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T20:27:50+00:00",
-      "summary": "OpenAI's Altman Pitches U.S. Government a Stake Worth Billions — If Competitors Follow Suit  Lower Bucks Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -220,6 +211,15 @@
       "summary": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
+    },
+    {
+      "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2dRS2daZzBwMnkwWlA5QXIxR0xiWFk3Y21OZDV4V0hOeG15LTdaVDVpWDNEOUYzdktib3JVRzdLYXYwSElZRVRuMTVsT182dHBzU0s0VmtDZ3A1dVFOMUxfS2xVN0hKNnZZbjU2WjU5ZVVtdjhmaGlhNllUaTlzNEtCU3BVUllxWTR4S2puRmo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-04T09:00:00+00:00",
+      "summary": "A frightening OpenClaw vulnerability has been discovered  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     }
   ]
 }
