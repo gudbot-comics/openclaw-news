@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T15:44:40.988929+00:00",
+  "generatedAt": "2026-07-05T16:45:57.317981+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -38,6 +38,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-05T10:13:00+00:00",
       "summary": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX?  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-05T08:07:59+00:00",
+      "summary": "Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board  Stocktwits",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -211,15 +220,6 @@
       "summary": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A frightening OpenClaw vulnerability has been discovered - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX2dRS2daZzBwMnkwWlA5QXIxR0xiWFk3Y21OZDV4V0hOeG15LTdaVDVpWDNEOUYzdktib3JVRzdLYXYwSElZRVRuMTVsT182dHBzU0s0VmtDZ3A1dVFOMUxfS2xVN0hKNnZZbjU2WjU5ZVVtdjhmaGlhNllUaTlzNEtCU3BVUllxWTR4S2puRmo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T09:00:00+00:00",
-      "summary": "A frightening OpenClaw vulnerability has been discovered  Mashable",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
