@@ -1,16 +1,106 @@
 {
-  "generatedAt": "2026-07-06T05:38:54.955208+00:00",
+  "generatedAt": "2026-07-06T09:40:39.989603+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Jason Calacanis Says Nvidia Is 'Taking the Gloves Off' With Nemotron, Predicts Jensen Huang Will Challeng - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWXN2dnJwbjBJN29LbFd2ZjhBSm1WbFA4MWFPT0l3RWpqY0s2VjQwWktNQVFqbVY1SkdqZHZ2VE1DX3RVZVVLWnlmMUhSdER3WFpoZ2Z0elJ2NXAwM01ZQkJFWU5xd3lmUWNGYU9pMmlOdlBJRUdBX3NveVJLUkw5bjNSdzJoZzQ5aWw1NVduaTA0aFROVUlxWkEtTnFrelEwUWN0LUZzelZ1TUdjYm93TmRoellxYlBBN3NzcVJnRlg1Rkp0b0tPRXhtRU1TcXVTcC1UTGphYnQ4RVRGemhsNmpYYkpZMDREMFByMGl5Z3pyajRuVlc1LTlGcGRRT1poQ2hwTEdIb2R6UUpfT19RdFY4V0lFRlZqQ3hpR0IxT1Ezekx0SVItd2ln?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T09:17:49+00:00",
+      "summary": "Jason Calacanis Says Nvidia Is 'Taking the Gloves Off' With Nemotron, Predicts Jensen Huang Will Challeng  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why some Google employees are leaving: It's not just the AI boom - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanotcmdLVG9jYmFTMmhuMi0xeUVUOHJWTDlURGVrNGtMWlFtVGFSSi1Ud000RVlHZHJzd2Fya2U4WFFjM3dheTRZNmlzd1RhOHZSU0N4V3BFZFVaelVqXzdqMEhkcU5tVHRuOFdRcjM1R1VRSGpESWs2RC1mbHhNN0w1dlNtMEw3RVZqQUJVbWpWaHdFOER0cUFURzkzemZORm5UQXdJcGs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T09:15:35+00:00",
+      "summary": "Why some Google employees are leaving: It's not just the AI boom  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T08:00:06+00:00",
+      "summary": "Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board  Stocktwits",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI failed to visit key site before UK’s flagship AI announcement - Computing UK",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOV85U21uWXlhNHZnZGYxVG9Jc2x6RDBXeWJoTXY3ZHVKNVd5aDVLcmw1M2VERWRYc3VLMVFXMTBhYTBsdVJENWk3SmhiVmpZaDRRUjJrVE1hY0hpZXRxcXdzckg1TExVbnVuczl4MFhsQ2J4RTdaVWViVGdfOHN3aTRlNUpXUGZDMW9Rdmp6M1AzVF91YVBz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T07:50:05+00:00",
+      "summary": "OpenAI failed to visit key site before UK’s flagship AI announcement  Computing UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta claims its next AI model matches OpenAI's GPT-5.5: report - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHM4bjdIcFpzU0IwdDZqRVpmYlZodnpjM0JtZ2Y5WmwtVXRXVFRVNUFpeE10b1Fsb2EtYlJna3oyXzRIUDJqazQ5Z2dUSk9MYmtpSHItVXlJcWc4Sl83WDlUeGdnaGVzVkZKRERQUHVtQ2xScFhpRFJtVGZycHA3bGpCVElXTjZ2X2c2ZXN1dTZqWHFlMmc3TUtTbXBQaktvRHpNVlJ6akxyR3NlY3JFSmpPNEFpdzZuM0Q4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T07:48:18+00:00",
+      "summary": "Meta claims its next AI model matches OpenAI's GPT-5.5: report  The Daily Star",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI IPO Wave 2026: SpaceX, OpenAI & Chip Stocks Investment Guide - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2UmF6c055NUoyXzJSdEtPWGJwSXpQaVdOMElpdllhWXc1LXVtTVpYRFBzU1NGTDBnemgxb0Z0ZElmN1ZSNlhjUVBqMkE5SlhBRmdMZ0thQzNJemxtc010ZFlNcjBka1ZBeUMxQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T07:43:24+00:00",
+      "summary": "AI IPO Wave 2026: SpaceX, OpenAI & Chip Stocks Investment Guide  Intellectia AI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI sued after man says ChatGPT fed his religious delusions before suicide attempt - TweakTown",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZlhCcU4wOTVHX19FTk1kQzdSX3NtMHJTa3J3LU1HUXRQLWtybHZGcVl1dEN0ekNmWHNQMVh0MGVlbmdWZEZNSTRjdW51RWRsNi0td2lxenhhY2RLbU5iREFUWFBWazJEc1FIS1lrbHFCc0hETVNQa3dXMWVFMEFJZEZGRHBmekNCMWRESEdSMExYR2Z6Q1Y0RnE2Mi1vVzI0aDF5alRNczhXNW5qdTFxLVFoQUtjNEZrRFRLLUgyWVNRNkZlUkpxX2RwOXhSWmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T07:28:07+00:00",
+      "summary": "OpenAI sued after man says ChatGPT fed his religious delusions before suicide attempt  TweakTown",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "State-Subsidized and Dirt Cheap: The Chinese AI Threat to U.S. Model Makers - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1dXS1ducmw5TFB5T3VRSTBNaGhkNnFFN3cwWXUtNk41MVhsUElrazFIb3VtSkROYWRSdFhGRTNZZkc2UWJZWWJ5NmJoWGVtSWQyYUpYMEZiUUpjS3N2TENpRjhYYmhyUTBGckRvTWNjaEFwanUzejh5TG1obW5DMHhxUllCMHBlcTJlTmJfc3NUMTlhS2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T06:30:00+00:00",
+      "summary": "State-Subsidized and Dirt Cheap: The Chinese AI Threat to U.S. Model Makers  Barron's",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "UK Regulator Calls for Watchdog to Have More AI Firm Oversight - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXZBMDZsT3F1c05lUHUzSDZzREN0X2pzSWdGNzRpWnlsMEk0RzhRSm5UY3ZNWGJWNjZCRTM0al9mbXh4c0Fud09PMXkzZzJ2clktVTk2VTdxVDMxbmtZMWhXRDVPVDBnQVBxVnNvQklzQ2NxdlFmdmd5R1A2QWczV2h0WE9abURpXzRIeW9BTUpwTEpXVVdoUTZYTnUzQ3RKNjdUdHBpYWJNaUgzX3hVQTFsLW5KRGQ5NkVLanREQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T06:05:00+00:00",
+      "summary": "UK Regulator Calls for Watchdog to Have More AI Firm Oversight  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI faces suit after bipolar user’s brush with death - Australasian Lawyer",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVk01cEY1RkNRWmZBSHI5TmVmVmhTSVNSVUZwbG5sZld5VG1zT182dkdOYXdScjdjMkYtT0pCbmg2QUIwRkNvN0xUYW5NSjBqdE5INUlqWnFkS2x1dTA0dEQ5ekM1ZjN0NDRuNENKb2tLamdIbVgyRlM5eEM4ZDVZVF9DNFFKV21BZG1NY3U2eGR0Q1hhekJPZEJMRkFENm9NN1dPaHJLTmk2R1FFYl96MXVB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-06T05:29:15+00:00",
       "summary": "OpenAI faces suit after bipolar user’s brush with death  Australasian Lawyer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Joins Korean Academy to Train Social Welfare - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQam9QZ2ZNcjJ3VmZsV1RMQm85RDkzeHpUUmV5dkRlNUNfWk4xcFZQUEpLNENiWGRFZlZoSktRNzh0UkhFdHZjNzYtNl9UdVVaX3NzaWgzZWs4MDFfcE5RUXRJZVlCQWM1RllTZXpydV9SWDhhdjdPbVhjRFYyQmJXUkJZNkU5Sk5lTW8xb2pkZWFiaF9hNzFFNQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T04:52:03+00:00",
+      "summary": "OpenAI Joins Korean Academy to Train Social Welfare  Let's Data Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,6 +123,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Why OpenAI and Anthropic may struggle to float - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHdrUnpBd0c1Z0IxbkFrNUdkM1FJZlFhU3VnSVRCZVVLRU8zRjN2NURBdGxVYXdCQkc1UUthYTIzcHcyU0hkM21DOWpYbjVINUkyRWV6cDR5VGxteUVQazQ4TmhTME1nZHZyenJ6clVOVzBjMFJwS3VtWTR0alhweG9Pc1o?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-06T04:01:04+00:00",
+      "summary": "Why OpenAI and Anthropic may struggle to float  Financial Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Anthropic and OpenAI 'enter' NATO's annual summit as Europe is tired of America asking it to wait - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRzlhdVdGbGpFdVJfWlNWWlg2dGk3azN4V0tXNldXXzFPbFlSNWlJNmtEVVlYbVpsOTl5QVZWakJmNmY1ZlFXVGpPa0dUV0NaZlVseW9URVlmRHl0amdubC00RjdyejFWN2NPRVhETEJNNlBibnBhVkpNWVFvRUExcTFqcTJzV0dmRUx5aTVJeXVQNDI5bHd3M2xLd2RMUWJqaHB1VVRaZF9uWDNPWmNHcEVZbEp3S2hKVUxhQUhrckJUOWxxY2wwMXdqdF90bHJmV1R1b080U2RFaUFkOENoeUo3MWxncWNuVFViQTlQZFY4TkVKRGgzOVl5RUtCOWg3NmxXa25IX27SAY4CQVVfeXFMTjVBOHdOc0VGM1V3VnpMUDF1b0JCeDFYbWNKY05aOEtTLU9NRnBfaTVfQi1TN0RacVlYYmYxOHBIbDZaREhPMkdBSXQ4aVVzRC1yWkw1S3gyX0c4eUJEUGJvcnhRVWFYcU1rVHUtMWJYTWJrT0puX3ZjRUR0RzdlbE5INk53dmpUM2s4cnZIRm1KYXVqbV9FV2w3MnZBMFJBVUJaamVQaFZOSDYzTDlvVXVRVUFoYWdFMU1ucERpckJxZGFFUGRpOHVGcmVobFUzVldkS1lHYm9IR09XMjI3WUxsQ2NqeVNtMVpMczhISXloeXdWd1lWdG5HMkhfbkFmOE01TXZ4YTVYLTA5M253?oc=5",
       "source": "news.google.com",
@@ -51,11 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI joins Korea’s CMK academy to train AI-driven social welfare leaders - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zdEN0QkdXZTFCUnlaSVNMMGloVjZ6UjdjLWdvNVVWZUNlVk1xY09FT05sV21Ya0xMWjdHN0lCMUdHZGg2eEMtTmpQMXp4U2ZLdUI1S1ZjSi1OTlEtdTZtNU9rTk5Md2hsWmN1V2FRMXBobnJWLXlhazVn0gGOAUFVX3lxTE1YQUpVZ3czSnNJUUlmUmJxY0FseGhKZEliYXpjc0ZTT3dsRjhRcHVHMzhQcFc2OGZvOHU1bmd2eFRlM2V5XzByTkM0NUcwT1ByM0V0YkVqX2NlYVpHUnVuNmhrQ1pxRGUyR08tR3BlX1F6UW1PWDBjZGl2UVU1czF2c0lyM3R5bXI1Zm9LcXc?oc=5",
+      "title": "Big tech has suddenly flipped on the AI jobs wipeout scenario - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkNPQnBZbE93MVZ4YVY3NjUwMk96NWFrRmtlQ25wck42ZFZmb3BPZUhyajYtM0QydWxmc29IYkNySEJCdTdMSmliUmhqSW93MGRJVkNyMmhsRTN4eV9HNFpDSlR0LTl4TVVUSF9SWHo2QUc4dzluQmlXOHBSRk1CYkRIRS1ETzNrU2Y4SDFweHY2TDZlU0w2V0x1OTMtOFdxWHRld1ZfMWNiWXVyWm1sZUQ0R2pvSXhzdmNsOVVrOUpob0U?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-06T00:48:00+00:00",
-      "summary": "OpenAI joins Korea’s CMK academy to train AI-driven social welfare leaders - CHOSUNBIZ  Chosunbiz",
+      "publishedAt": "2026-07-06T01:00:00+00:00",
+      "summary": "Big tech has suddenly flipped on the AI jobs wipeout scenario  MSN",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "China's Z.ai a challenger to OpenAI and Anthropic - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdUZJV29HeTZCT25lajU1dXM1Vks0c3BhbFVRNUFLYUNBWjB2enlYbXBwdHlYV0pRbG9yU1IwUWw1SVBjZ2hiQlFQNEtSMGo1a1VjejZWMFJWbkM3WkZxNVFPSENKM0ZtYklUWkEtMURoYnFjdmZ2dk85a2MwOFl4N1F1MzNYVnhEb2NxNUJsdUJ2bldsTFpCanRmWE5BUkp5a3QzOEo5aEpKVzl5WDVJeXU5UjZWTjFGVk53ZC15TFAwaG1mdXVFN0Z3Yk5kV2h4LWhtQXRuekFGZ9IB3wFBVV95cUxNMFUzdGVyUlRDV1R3VkExeGlIcTh0VDNmUlJFZzVlV000ZENRZ2Y4YktWM2ptekZMRlo1NzdVa25JMG9PdXIzSkprUTFlT1NZel9BR1Q3U2EyM19SU0ZBNm1zdnhxa2FiUWJUTlN2R3h2aGI0NnRwdWI0MFZzeURPX1NFTUpoNmtqbnVTekJWMXNRZkowWHAyaXpVV0o5eVFwMGxROUo0MVVlQmJTX3FJa0M1ZnZsMjFhWWZ6MHJnbmZlQjdtWktXRHR1dWN2QURBMExDem5sc21BdDVVU2xB?oc=5",
+      "title": "Tech: OpenAI warms up to Washington - Punchbowl News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwbzczQy00Y0FtRGVVOThKZDJERmFfdFRlMjBweDRKeERsbV9JYTh1V19ZNklKZ2hQNWRtWmY2SWVaSnpTdjVDa1JjYWNPaWtiWG1IVEdHbllUY1hVYTRqcnJhdGlXTEhGVnk5cg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-06T00:11:00+00:00",
-      "summary": "China's Z.ai a challenger to OpenAI and Anthropic  The Times of India",
+      "publishedAt": "2026-07-05T23:43:40+00:00",
+      "summary": "Tech: OpenAI warms up to Washington  Punchbowl News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,15 +195,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-05T22:27:49+00:00",
-      "summary": "Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "QOTD by Sam Altman on remote working: 'One of the tech industry’s worst mistakes' - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQSnU2TEk4RlhwUVBUVnJkVk5pS010QnZzdFBXVmRkY2RTMXhNOEJnSEZvTnVCcDBUMEZIM0Y3YjFyOXRLSm9jUlVENDZEODFVSzB5b0t4R3ZGY0VRVUpEaHJySURRSkRwNDZGUUd5VFFIVmd0TGU2YWxPWXQ1SE5vRDNoRW5XaEZiT0VaM2NMU0hDX0JIUVZIUGtsWlYydnBKaWc1ZG1wN0o1UFRSYVFpOXhRY0Z1MEdnSVR0V0s4RHlkZ00xRjI5X1lLSkc3YnZSTVpPYU04dU4zQ25BTlgyY09kd2EyYW9xSGotYnJwSk9xY2NrZldsaVZzdjQ0VlE2cmFEUUd1MW8zVWljWHBQSHVBa3BYdkVZVmJPQXRWczFKUm0yeG0xb1BhbGoxWW12cFNucm1ha1BINDFCRVhWNmcyaw?oc=5",
       "source": "news.google.com",
@@ -114,11 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Tech: OpenAI warms up to Washington - Punchbowl News",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwbzczQy00Y0FtRGVVOThKZDJERmFfdFRlMjBweDRKeERsbV9JYTh1V19ZNklKZ2hQNWRtWmY2SWVaSnpTdjVDa1JjYWNPaWtiWG1IVEdHbllUY1hVYTRqcnJhdGlXTEhGVnk5cg?oc=5",
+      "title": "Trump restrictions on private AI models turn attention to open source - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3R4SjNhdDktdk9mME91S1JDcnFHWXo5NkVwd3BqNlU3eEdLcFRKQTh0d3phRkJsQnRiZzBSQzJSbmNZMjdkdVV4TWlLLW1ZWkptNVl2M0I1empwajd1THFMRjI2ZEMtVUFjaXdaai10bnhGejBmOUZGN0NvVEJFa1Rzd1gtR1RxLXVfeEItMFhsd2PSAZgBQVVfeXFMTlU3Mk9MSVZGUmdETnR3dm9YWEY2NE5idHBKWHJXbTdiUjRGRnpTV1FYcGNHaDZTRFg1X2xXQUlZSWVvbVg1LS1zM1FYQnBNNmp4NDlHUnhLVmwwREJnVkZicTJCSjNNQmNaUW5nM2UxZmhuVWF2aUhMMEk1anRqek5Uem5QTEcyN0pEWXhuUjM3WEZDVXRXYks?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-05T20:33:40+00:00",
-      "summary": "Tech: OpenAI warms up to Washington  Punchbowl News",
+      "publishedAt": "2026-07-05T21:00:00+00:00",
+      "summary": "Trump restrictions on private AI models turn attention to open source  The Hill",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,96 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-05T18:40:00+00:00",
       "summary": "A ‘mini DeepSeek moment’ for Chinese AI  CTech",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How to Get Exposure to OpenAI Before Its IPO - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMVk5clJ3TFZUMXo4MGpiWVE0WVpNeVQzU0VYU25haUtvUzhEcVBqd3g2N0xGTldtS2UzUklVRjVYSjJkVkFjSG94T0xYeGtmdWdIVURTelVlU2hRZXN4Rnk0QzVtYWZ6N2RIN1VEc3NZbmlFSFJOUXN6WFU4SERQUnBtZHZwcjRIVDd5clZvajk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-05T13:10:00+00:00",
-      "summary": "How to Get Exposure to OpenAI Before Its IPO  The Motley Fool",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How to Get Exposure to OpenAI Before Its IPO - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa3I3dE1haDFmSWtnZWdaQ01MOGdwWFdXTmYwdXpYUFAtRU5iVUQxMmV0azA4UTNXNldNdS1KZ1ROWXRzYmVPQ29yUVVlVmp4T3VDWjZSNllRX0J1UGt5cVZxTGJNejFUN0ZzUUxGd2xPOERFQ1kzUGhaSE5fSDdodkdBTGpteFI3Ujl5d1g5YXlpYXgwNEdrSVl5Y3F6SjV1VUlfSFFlVDJOczlxNzFhRWhvY2g4TFhIUEZncE9pNHZNN1ZNZDdoUnhR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-05T12:30:55+00:00",
-      "summary": "How to Get Exposure to OpenAI Before Its IPO  The Globe and Mail",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdV9pMlVET0JKTHdRRGN3VUVMSy1KZGQyMnRVWGR2eUpONTVmcjd0dHZGcVRTREtQZ3ppalY0V3ZLaVlBaGZoQ3VsRU5rRktFblBGbFV3UkpNdmhiR2NneTJKWTNJWUlYMkNjdlRnZ0VEOHV0c05ETUh1d09EY2hqM2FXTHZEdWRZUjhlREhfNFgxTVdJX1VHMQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-05T10:13:00+00:00",
-      "summary": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX?  The Motley Fool",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjBDZHZzSXItSkJYM0ZaLS10YzVyOU5UZUhTZ1RaNTVHSVQ5aHFOQ3F3aUd4cnZCOGtUWnc4N2ZXLVBJYmF3b3BFbjE0eVBjTDRGaWVSNEtrckhXVE5jTWZRMEFZbjhwRWNoRjc1OGNxWWhBck9jZEVKaFpCakc2cmQwNmdvbk1tcFlkQm5jem1qMXBkbkxB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-05T09:33:00+00:00",
-      "summary": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX?  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Skill Marketplace: Security Risks and Supply Chain Threats in Agentic AI Platforms - Rescana",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSk1qRVFKY20wVlJkS1ZfSXhydThjSWF4eS0xRHpUd1lDNWdFQS1mbFZ3ZGREWjdVa01TRThSLWluVWFWb2FUakdPWFRZLTdqVDBKS1RoSmk0TXNzdHNzaDlfa0c1ZlQxSjk0RjFXWE1ESHF5aEdPVlB2UE1SXzdLcjRaSmNBZGpmX2hJR211TmhEeTZRVzJYb0FmQzhpQkp2QlVLVXVEYVVDcFBsYjVxaUo0YmJtOW5Mb1pj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-05T06:32:05+00:00",
-      "summary": "OpenClaw Skill Marketplace: Security Risks and Supply Chain Threats in Agentic AI Platforms  Rescana",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmxZMmpWUjhSY1RQcnJNV2U2NXFrZkNFd1hWN2VwbURRRVhHOE5uM0ZWanJTNFlDcDRkSUNUNl95TnFsdlc5c2c0MTl6VWdqZkdBVjZfR0hNclJtQWxuRzFmQUFpcmZSRVVQRm9idzY3NXNUUVJULWVmMXRDc3IxMmdFZkI2SVNvZWZmMmQ1eEZUd3JwOHF3Vw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T22:50:00+00:00",
-      "summary": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.  The Motley Fool",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDdyNUI2amtyZ1U1OEk1QUVYcTg5V3FjRlZZdTlXQ2dNMVJnVGNMNjdJcHRaUms4blo2WkRDZ29qdnVUUFVHejlSSk1pVHBRSHR4LWxJeUhuN2ptdVlac21oQXFCVWtMenRlVU52SHVqMGdFejFkMHphTXJHQ0FxOURJVlItN0lBVXVudmZEZEdYTkl1NU4yb0pR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T22:10:00+00:00",
-      "summary": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGFMWVRTUTB1Mm9LMFJBUFQ1RjZ1ckJRSi1JMmtQQWxEVFZNOUlPYW5NYkJmeF9BNU0zaERVdmh1TDVBVGhSZXMwaG5HR0dPeTlmOEt4VE5uNl8weFR4OHlwdlRjNlJBUzd4cWItNGxNWEx5ZHJzc0lUOEcwWmpKbXhpTWlWUENFNVk1akJ1M05hWVhWcUQ2NDZEeXhaaWY5dEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T15:51:32+00:00",
-      "summary": "What is Mistral AI? Everything to know about the OpenAI competitor  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Sam Altman wants to negotiate a 5% stake in company for US if competitors agree to key provision - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ09vaURSeDZVV05XTGtMVHZ6VzhrcGVObTh5al9oTnBUeWZaQ1h3UjRDS21VbW92bU5XSUFFci1aS3VpQ09KN0taUzViNzkwX1FHR0FrRnE5UXB3WXpxU0hrU2JtSWR2cDgxYjh2cW1iSVZFaEliSFVZX2lMSnF0WkhuMWtpRklYYWlwYWt0QS1pcENUdUpwaVp2Z09JWG5pUk1zeXVtRW1FUloyd3lJRjR0NWh3OG9aX3fSAb8BQVVfeXFMUDd1OEFydXhEc25uamQ5endRQXFXeTM0cEtPdS0xOWw5STE0cUxIckRBRGV4SmhQcU5WaG8wZkdBbHlUZDRnRTZWQ2V1OTRvWU16WFFHeWhWX1NnWjl2WWcyWFFWWVgzcUlWejk5VWNQaVlfbTR3VkVxNzUtOUkzamtJZHVMNUpyekE1Z2x1ZnVBN2IxSERNU2piZm55RkwzeHhaMzlxZk5SR0V5RXhGamV5em5XSTM1N0hZdHo3Vzg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T15:41:09+00:00",
-      "summary": "OpenAI's Sam Altman wants to negotiate a 5% stake in company for US if competitors agree to key provision  Fox News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Offer Trump Administration a 5% Equity Stake and Other AI Firms Could Also Follow: Report - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0ptMVpicDJEVlhTbWFUX3Z3ZVZOdVBfTWFaMWJHM1RKNUl2ZVNNSW9yQk1lSmtFcWtTNllxektxQ3JSX09raFNiSk1ROGdzSkhFQnRWOFpzT05ZSmtXVDhiUjBjeFFuS0pGOGhvY2ZEb1d3TEg3bFlsTUxPM09IQUhxSkkzX2lBYWFsbTJDTUMxWDdfQlJVb2U5elRqQVV1?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-04T15:30:00+00:00",
-      "summary": "OpenAI to Offer Trump Administration a 5% Equity Stake and Other AI Firms Could Also Follow: Report  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
