@@ -1,16 +1,151 @@
 {
-  "generatedAt": "2026-07-08T18:39:38.561963+00:00",
+  "generatedAt": "2026-07-08T20:07:26.536192+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "SpaceX launches Grok 4.5 on same day OpenAI rolls out new model - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS0ZLRlVjaUJJakxORk1fVFUwcnNiMURUeWpaRm1yaGI5X3FOaURGMndiZlJ4c0ZTVVpQR2FrOEluN2ItMU1DN2NDbzgzRmlfMzRQNVc3Umh0RnFkdHVBWVR0V1B4bUp2aDJXWnk5NnoxV0lJck5wQzkxTnQzcG1NckpLR1NQZ0xMdG1tSEZYa2h2RmR4U1hn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T19:49:00+00:00",
+      "summary": "SpaceX launches Grok 4.5 on same day OpenAI rolls out new model  Washington Examiner",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s advanced GPT-5.6 models to be publicly released - Nextgov/FCW",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOHZIWEx6dFpVem00N0puZy1YSkRqVzhQRWdXNU5TTDVtd0tEckk2bHh5SzRnc2pJU1JtTWtIeUxFY1VSOGVvRTJENzFZMF96bHF6cHI1LWFKcFk0SU9wN0RvZUVmZ2E3dUhEeVh0dHFtUGRMalZSNF9tNXhDMTJVVm5tb3d0bGFXOWJ2V0EwaFViYzVtOFFyelJRTEs4YlU3c2tzLS1JbjF6X1daY0ZXTXFsc3ctRGxMc1NmOTd0NGZQV2ZiWG84a0ZOUnNPdzRGbUZZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T19:43:00+00:00",
+      "summary": "OpenAI’s advanced GPT-5.6 models to be publicly released  Nextgov/FCW",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI job listing suggests ChatGPT could someday replace junior analysts at Goldman Sachs - The Register",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd2JubmJrWGdYSDM5WkFITVdwem40ekRSWG83RU5ONHlrQnF3cXdfaTZBa0FsM0E2QzB1alBPS3NRUTBVbVJtekRaZndEamxlWHNFcFZSRGMwVFdPZExLUlVpZHNTUm5pR3hseDdCQlhDR2w2S1NaVkpLZTE4UEkwQUdMYm44U3FaNkVHdWpBcDE0NktLeGVwMktFQzNqTWlnNmY2WTFFcGlSaVljQlZvRTM4cWdyUF9yZWI4NWZ5eXNSdjlrN3FMNkdEUk92bGYwRFIxLXItekJiSHFPMldaVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T19:26:07+00:00",
+      "summary": "OpenAI job listing suggests ChatGPT could someday replace junior analysts at Goldman Sachs  The Register",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches GPT-Live Full-Duplex Voice Models - SQ Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42ekxxN1Jtb3I2MFFLYkFzY3AwYjYzMWUyeEttWUxzUF9TRXV2bXVUb09WZVNiUUNnWThqeEdXMXZVMGs5cy1iN3B1ZGJjNnJZdHJn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T19:24:56+00:00",
+      "summary": "OpenAI Launches GPT-Live Full-Duplex Voice Models  SQ Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Introduces GPT-Live - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSU92S0Z4d0NvSkpEVFEtVzBvUFdtdkM0OUdBcjBqRmJCWHJCQjUtTjZ1T2kzMXh4LWZmWVRrNGkwSWZLMHRXSWlsSEd0TklCS2c4LU9FTGxaTERoZHI3Smg2NU1PM2V4Y0c4N2R0Sm9VSUJxUzRFcVV5QUFWVDQ4OVVPVjdYUW5PUXNGV2FjeWdMVXp2WXoxdHBZMW8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T19:19:54+00:00",
+      "summary": "OpenAI Introduces GPT-Live  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "BofA's $520 Million OpenAI Loan Signals Wall Street's Race For AI IPOs - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUG9WUGJjYVFuUU9udTY5RFk3YWdzbFVOOGRlLUEyb2hQcmozdUxfTGo0d0RlYlZDV01oY1pSTUw5QWJDUGxGZmNjTEZieTNKWW5Fdlotd3pnWEZNb2VJMFI5bzJVX2Nma2FpQl96YnFpSXM0cEdtdkZOYnBXXzJaSTlzYTVBYjhXcjFwWURMQU5ETUhlTEd6RGNRSDAzcWFCVFpyVXRFdWl1bkh6UTkzS1ZUS0h0Zi1XRlRUaFNxYVZTMGJ5dFVRVXV5NA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T19:15:36+00:00",
+      "summary": "BofA's $520 Million OpenAI Loan Signals Wall Street's Race For AI IPOs  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Investor Vinod Khosla Explains His Philosophy on Risk Taking - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdFQ3TU9aWlRUVG1xYmw3eUlKYzB0Y1lPOUd3MjNXamJhLVZBV0g3SWdHRWdmdXpvVFRlMVRaeWVOUi03cjh6TXRjZThxaGFEUUdBcWxtOTM5SFphVjdSQnltb1dzcEM3TFBWbjVYMmpsX2JEMkNCanl4NVBrVGJiWXNZei1mS0Y4UWtKa0lyWTY4ZklqZElvVWdHRlE5NzlRcktpazdtUVZNVU5JUEI0dkVCZFRuOHU4WnNhZG14SjFtWWx2RFZiMHFfMlhFWVp2SDZCYmRFUDBhdmxLazhaMjJzZHNWb0p5OVhCOHNHVk1zcUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T19:07:30+00:00",
+      "summary": "OpenAI Investor Vinod Khosla Explains His Philosophy on Risk Taking  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Introduces GPT-Live to Make ChatGPT Voice Feel Like a Real Conversation - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5objVrdGRSM2hwenoyOXFuV2NXekpJYVJYd1REampqV3phWE9MR0JJTlcxek5NSFdiOE50Nl9RRndyRlh4UVc1dkdXR1dNV0lwbFNYMGYwUDhscDZRYlZHUXBkYk4zLWt6UmNn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T19:03:43+00:00",
+      "summary": "OpenAI Introduces GPT-Live to Make ChatGPT Voice Feel Like a Real Conversation  MacRumors",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Opinion | Maybe Anthropic and OpenAI Are Not the Future of Artificial Intelligence - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZlBwMUMwQW5jWWF5MnlWTUVGam51dUd2QlVZa1dsTWJQa2xIajNrMVJoVHpwT29MbU5ORUlVZ1NhcFB5OTBzVDdSTm01aEt2WHAzUlFud0phU3RrSUY5TUhVU25haHpiaFFUakc1WWRsZkYtUkJmNGw2bV80aTl6bVd4QkhvUTVldTJR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T19:00:04+00:00",
+      "summary": "Opinion | Maybe Anthropic and OpenAI Are Not the Future of Artificial Intelligence  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s GPT-5.6 Sol Public Release Set for This Thursday After Government Checks - Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTJfU2NpM1BYSXZBSnRfSEh6UTRPeTYtaktjbDZ3ZElEQ0dEN0JhRjllYVZXMlBCMEY5UUo5QWJOS25SeGNJVFNyUndHcS1hdnRkbTEtU2kxVUZCWnQzcWpXcTdud1FXazE5eXNaUHVxOE1aUVpleGYzUEJuekFOZERFUlNPclJoeXZPdXhXTFFha0FyalZlMVVR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T18:59:28+00:00",
+      "summary": "OpenAI’s GPT-5.6 Sol Public Release Set for This Thursday After Government Checks  Android Headlines",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to release delayed models Thursday amidst a sea of regulatory confusion - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNalRhTFZyNFppWUdDSHBOUG1JSzNPdUNiVTdiUEQ4a0gzbl9GNm5EUHM4ZG5PUTdfRDZxX2NaTUNpRzNXSHdKdTJOVVRKYnd6bnQ0QlJiNUg2clU1blJfeUNUbWNkT3NDOVFENFNoQ3hhQlNyLWRxbWVwdTBxLU5xQVFOS0NNYldXMGFzYnZiVnJxdnNuU1JJMnBBc3VjSXptbGI0UWRhbnVWMkdidmgwRXdUY1JMYWJQRmhQbUt3U0FVSzQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T18:52:45+00:00",
+      "summary": "OpenAI to release delayed models Thursday amidst a sea of regulatory confusion  InfoWorld",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTk1aHBrSTY2eTBpdFhVdERKMUg0R2h4czdXYnp0TExDS01fNDVtWWNSSmd1eEZKNzFULVJGeHZPMEhKZDhVNENGYnZRTHZGVE1xUmg0Qk5lR013YmozYUs0VGJPU0ZxellSN2VZNTJDRVdkN3V6UFNYaFdMSkJSOTZPNGN4X2k2dVp5UHN4bU5xSnh3VHJ0ODNwVnVfRG04M0RNdlNybG1SZWEwQnFMWk9MaTFRSFFoM1Fjc0pVTVlsa1JERXczUw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T18:49:06+00:00",
+      "summary": "OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person  VentureBeat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils GPT-Live Voice Models to Power ChatGPT Voice - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdF9xLXdWd3ZiX09yVnhidlpsVlduZzV2NklqMEVWWEMzeFFrT2c3TGhQM0c0eGs2Y2FkNlgzTE1La0ZtbG0za1NULW1EOTU3VWJ1N3NYNzJpWnNFSGJwdjNELXE5M05xd1lFMjBDX3ZCMmZuaWg2Nk1mMGdYZURnS2lsN1JpS3hIcXZ1SkFocjJDX3BYb0hZS3o5YnJNckE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T18:45:11+00:00",
+      "summary": "OpenAI Unveils GPT-Live Voice Models to Power ChatGPT Voice  citybiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkhGS3lPNldaSFBueUFoZ3hpMUlSS0tLUTVrUWVJekZ3MWdRSm9CTjllVHd3U212cWVTdXE4ZHFWNzJyNVlNcVBaaGp2UWZlMFVTSkFlNUFQQ1ZiOGkwb1NQOU5xTDM0WkJWSTI1Z004ck95UV9vN2RoWklsdmhlcE43WVJDUmM1R3NsYjJ6Tk9jV2xSLTJEWUhfSlVqTTlyeUViUFFld3pveVNaQ0RmZGFQWGZpRDY4Y21UUg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T18:34:43+00:00",
+      "summary": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "GPT-Live, OpenAI's New Voice Model, Wants You to Talk Over It - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lRkRhclhnUW1INHhpQWczZTcwYXREMkwyY0tJMDktdTRQSDFMNThpelptaE5NQzFSTmN0Z01mTmVGalh5Nk84S0o1WHc4N2k3c3Q4Tl9Qb1g5a3JDM2VfY2t3SWtLOEdlOHZvcjQxaEphdE1YUkRNcjhB?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-08T18:29:15+00:00",
+      "publishedAt": "2026-07-08T18:29:48+00:00",
       "summary": "GPT-Live, OpenAI's New Voice Model, Wants You to Talk Over It  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's new voice model wants you to talk over it - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM2lsY1prYWM2elBHX2hNcWdaYjZiQXU2czl5aU9VSDlaRVozWlI1LWtpUzJjSnlaTU5ZcmxYSURxZmx6d1B3cldNaWN5QjEzRFJ2OXQ3WHpiTnBUMnpnc0o1eGdHMFQtQjlZTFpPdXVMbzc1SldZVVFTcmV6bjdwWTRIUUVEdTByS1c2cFFCYjZfeGZUcTA3MWxXSTh0UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T18:29:05+00:00",
+      "summary": "OpenAI's new voice model wants you to talk over it  Business Insider Africa",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,6 +164,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-08T18:18:27+00:00",
       "summary": "OpenAI GPT-Live Brings Search Into ChatGPT Voice  Search Engine Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously - WTVB",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVdKdXBPbGthbDg4UlVYYVZHYjRoN1FlSkQtUWF3Z1hKbjQ1OGFoQU5ieGN1ZDkzWHdWb3hmZGR1cE5TdHo5Uzg2UWt2bGpremZHbWpkVURTTWlXeE1OaDJJa3FOZE5YaWlTTUs0dXUyTHliWU1tM2xjWlE5eU96bkExY1NlVG5wem9RTVRtMVVvaUZrUzdSb3VOWDJhRGhxOUh5WS1UYjg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T18:16:07+00:00",
+      "summary": "OpenAI launches GPT-Live voice models that listen and speak simultaneously  WTVB",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Elon Musk unveils Grok 4.5 as OpenAI readies GPT-5.6 showdown - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EdEtoaEpoWWNvUkpGd0tUOHdVb05rYjVxZ1k1bzNsTFZrYTFieDk5T3lyY0E2ODA2MjNoTlNPSUc3ZGNiRUFobnNCWWdsVVMyNktha0FHaUZjSjlxYTB0VzI3S21tZmxXRDlYcUFlNHJENUFXcWZzcEx1bXczdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T18:05:45+00:00",
+      "summary": "Elon Musk unveils Grok 4.5 as OpenAI readies GPT-5.6 showdown  Crypto News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,164 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Bank Of America Opens A $520 Million Credit Line For OpenAI - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONm8zQzdhTGUxYnFRVy1IaFZ3WGpKajZjUTFNZmlnWVlZWURDR1EwenFURzVWamx4d1N5djNqMkxjU21WZE9OZjV4S1g5YzZkX2lkZ2otMVNBQzg3UkpWUWJibkxOeUZTTzJ4aEJsaWUwbkZHWDh6Y1VvdEVmenNMbS1hWlo3QmF2ZjJwVGM4XzE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:51:01+00:00",
-      "summary": "Bank Of America Opens A $520 Million Credit Line For OpenAI  Finimize",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcTBXR2VIMjhvSkhrOVhka1pzOWhmdEF0bjhtVGphcU45RzdVQ1JlalZLQl9qRzdKTmI5SWtVRXo4T3BQOXhSYlFkU3hEcHhQM25PbUVrc0NBbTBsT0ZfWkpjcEFMM0FZeDJUTWlhR0liaHZlOWVISV9hT3oybGJjdjhtMk8zWnpZeXc2STJhelgycmZBMEtBSVZOQzVxVFdSZld6SWE0Nld6SlhQdmtiM1dZSUhTWmhPZDZiX0xtMlJDZUlIY2l1cG40WlVHZkNlQUVrWGRQTl9tRUdr?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-08T17:42:31+00:00",
       "summary": "OpenAI launches GPT-Live voice models that listen and speak simultaneously  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Musk's OpenAI Fight Moves Toward Mediation - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVFN1ck9vNEVsWGpFTVlkUTRudlZEWUt0dVprc3l5V05PbVVtM0hZeUpYNE5jcF9wVENTV092NklqeVZBeXE1eVFodzMxZHA0UGxsV29FOXdOQVQ3b0pncGZhc0w2VHgtNVVVNVhqZi00eWVJcFhHOUFlTW5pWGVSS3gyVElUQnlmR2RZSGNxbW9CMGpZQ3NkdVpxMGQ0SmpHZ2w5VA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:37:13+00:00",
-      "summary": "Musk's OpenAI Fight Moves Toward Mediation  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta says it caught OpenAI. One thing is missing. - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pZ0dHcjlYZC1jMUN1Y3dkT1Fab2o1bkZwWFd3Q044aS1UOVJrSVpneENpcHFVY2dhN2JMa3hBWTVqX21JOFBpWDliSFczU1BYdGhGVWY2YTNkTVFaX1pLN2llcTFhUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:36:12+00:00",
-      "summary": "Meta says it caught OpenAI. One thing is missing.  The New Stack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Florida’s OpenAI lawsuit moves to federal court — and gets assigned to Aileen Cannon - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazVZbDFvbmkxYklSRmRBN0ZhSTBfOC1xTG5Hb09mS3RRQVJDMzFxSDZDRkhFdExsbmJOQ1lWVm1jVmswTlRpVVQwVGJ3d1ZaelhWNWNib1A3S256YlpTTGN1ZGdxZElZN2g3RllxSnhrZEltaEdHRE9iZklHTGZvRmx6cEZSdWJIMm15VkNSUFVkRWtua3F2YmJKdl8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:35:00+00:00",
-      "summary": "Florida’s OpenAI lawsuit moves to federal court — and gets assigned to Aileen Cannon  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to launch the much-anticipated GPT-5.6 following delayed rollout - The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcU1kTmswdVVmaWRIci1IVkp4MGdlNTVxQUNjTC12Mmkya0dPMDl4RHpaOGJfNTR6UGVQVEMxVV9JVWJPNmc2UUY5STRBZ1NKTmJWQV9lcmltQ1V4cXQyNkFmTmxzTWFYOFdSaWJJVEFULUZCaWEwSWliWjVJMGtmcFpibDcxMEZKZmozZkJiUnZSUm9iSXFmSjRaaXJDQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:34:59+00:00",
-      "summary": "OpenAI to launch the much-anticipated GPT-5.6 following delayed rollout  The American Bazaar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's GPT-5.6 finally set for public release after delays - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83b2JlcGVmOWg2dGVTNFExa1dSVEE3bVhyc2JocVh5ZFN3RTJpU1M5NEdhZ3FOU1lVbzdfYkNwTVlnRzhlbWRueHVjTExUaXlMS2xiQnlVZW1kOWx0ZkF6Z0ZfRzNJdVZGVzJR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:32:42+00:00",
-      "summary": "OpenAI's GPT-5.6 finally set for public release after delays  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Lands $520 Million Line of Credit From Bank of America - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmtlYWJTeGp5eVFBVXZlc0pjOVhWZlJuSlphV1JfTDhtRlc0c291M1NvU3BOek0tOV83VTZ3TW8xa0NuaGJvTkN2eWp5UXNqSko1V09iQ2lKb19nZGQ3OEZBTklVQVhNakJCNTZibnNLSXUxelhoMGFiY0tsRnk0VnVSTjg5NDVqbVhTZzl0RW03MnpyemN4RlF6T05vUFRtSUV5cUdyOXBZMFZtSUJNdG9jNm1GMzN0YWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:25:24+00:00",
-      "summary": "OpenAI Lands $520 Million Line of Credit From Bank of America  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Secures $520 Million Credit Line From Bank of America - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDZ0ZFFnNXNwMU5YbDBwMTVRc3E3aFAyZFkyc0FsOWNpb05JTDNrb0xhT0FPYlpKZDVRU3dJWUtJN1VjUDRWajNYbFVCQ1g3R1NQWDhsYmc4bERMWkMwbVNybEdURGgwdFB1MExLN2VsMm9KbE9QWWpTUlJ1aUZwRHJEcHljTmtZbC1Icnh6UE1KUEZpcmNzNGlmNWpRcm96WkM4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:22:37+00:00",
-      "summary": "OpenAI Secures $520 Million Credit Line From Bank of America  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI unveils GPT-Live voice models to power ChatGPT (OPENAI:Private) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNek1CR1hSblpyMTN2M0ZETm5Qa0RXNDQ2RFE3Y1ZNUnVEMmZkOHBuUnVVZkdoaGxsMEROMXhVdU1Cc1FfRE8xQ2lRWEdXXy00M29oZVd1SEoyUE9rTkxHNmhpeXVhcFp4UTYtOURYdXZUREZYYnBCcUgwMmFiSndOSXcwc19mV2c5VGY2YzZqbV9xd2Q4QkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:18:24+00:00",
-      "summary": "OpenAI unveils GPT-Live voice models to power ChatGPT (OPENAI:Private)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why Wall Street is rushing to fund OpenAI's $1T debut - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxaUpUYUIxZnJFdXdvMHZxN0FTa1F3R2xiTjhVbWQ3QnNQUFNaWWs4MktCVk0yczhXWTZ4U1FzeXFackJyRUowV05reXJObFFDQm44d2t4d1NXVGtIeVFGTjJkWG1jdWxpcmxjWVdQejJ3aU52czBhTUhzQm9Idw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:13:43+00:00",
-      "summary": "Why Wall Street is rushing to fund OpenAI's $1T debut  Latest news from Azerbaijan",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-5.6 Sol, Terra, and Luna with evaluation concerns - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGY5Z2N2OU5hNjdwN3VtczNOOWlzVzE0OWVycHF2VGwzS0tmYjczSkJ0WUZfaUFlaWhSbDh1MWxTNFBmejI3dTV2M2xscUdFY3ZoaGxfX0RidjFJb3dyTDVFbFZmempTUUlqZjVOa0JCNFdZLXEzeTlDQUNOWWFjUVdPazFHV1NkSC16ZlhLTUh1cXZ2NEFILVNqb1NUdWowU1c3Ug?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:08:16+00:00",
-      "summary": "OpenAI launches GPT-5.6 Sol, Terra, and Luna with evaluation concerns  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-Live voice models for ChatGPT - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZl91X2J2bTBSblZzUG9fWng3R3RZVUF6dWN3WmxuRExKc1piQlNCN2hyOVFEU25Xem9DcG1CRm50aWhqN1R3YU1fRFdkd2haYVNrSllrWS1nRXExLUd2RmsyeGp1THZVSEVaVXV0WHpFMzVBem1obFVpR1FHRG9IQXlrRm5Hd1hrMGE2bjFZQWFxd2xXTW5tRnoxS3E3QnBXb05CWS1qem9UajVuQkJV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:06:30+00:00",
-      "summary": "OpenAI launches GPT-Live voice models for ChatGPT  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Upgrades ChatGPT Voice with GPT-Live-1 - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjB3RTZhenBKTElTYnJ5SzJoQWlDUWV0OUgwM0h3aldjY3VnaXVUMU9BTUR3cDI0cjBRYTFzZC1DdVNBdlpHZzJuQVBBNHBQakNpbnRUc2ZTRVFhQ3pTbWk0S1I4VktPUjNSSmxPQm0tQUF0QXAzeXhWY19MRFRJbFcyeU1aR3V2d0VURnNyM1U?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:04:20+00:00",
-      "summary": "OpenAI Upgrades ChatGPT Voice with GPT-Live-1  Let's Data Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI bets voice will become AI's primary interface with new models - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjFjX2Vfc2RrZTNYN2NjZHY2VUUtX2czeUoxbDlpa1E5azVYOGhnaVVLdkNiRmZoMFRiWmRKMXhUb3lseUwtb2lSNlJfVWJhZkhSMXM5TEYteElmYU5SRXo0djhvZGJEQ2RVY3h5NHRsOGJveWJveFVUa2JxaDhGVElaY1QyOEVaZlFFeGhXYmFHT0x4cTExOGNocDVhcUhtWUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:00:16+00:00",
-      "summary": "OpenAI bets voice will become AI's primary interface with new models  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI bets voice will become AI's primary interface with new models - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0k2Z1N0UUVDQmxKdlh6NGQwd0hNRjdVR2RWZnZScWozbVF6Nk51MDA4eDZoam1RSnp1QWZqUUFRclVXTEgtNDJFaVVTaXlLOGZGRWVTRU9ZWVVmMXFCRDUwZ2dHb3lVaEVRb1hycXZ0Rk13QkpBT0hHQ1c2MFVISzZ5bmxMSFdmZ0dPYldHMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:00:03+00:00",
-      "summary": "OpenAI bets voice will become AI's primary interface with new models  Yahoo Tech",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI releases new voice models for more natural live conversations - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWGFnMjFvVFZQejlWdFNQQkdmQ2U3T24xeHd4bFhZWFhBanlnOUxKVzZiei1ubmJTYU9XREU0N2taTjZnbUZBbUw4Q3VkMDZFcmxUT1NlemZobWY5QmR2QVR5LVEyVnhOQ2NSa2dqdW8yZmpKTHV6VkU2bkVWeWVxakdVb2liMG84TTM3Unp3MW5jaVE2enN2eHBrTzVUZXBsaXdwOFV3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T17:00:00+00:00",
-      "summary": "OpenAI releases new voice models for more natural live conversations  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1BXQXFRQ3I1TFVfVFNMTnJsWFdjT1FrYUhMcXBXd0wzLTQwY0xONjFXeFNyWjloNkNtQy1TSVNXY20tZkprQVBqX0FOenY2Q0dvcUFnMHZlMjhmcDd3SEp6Rjd2andoVld6LVNoMUp0RDFtRXNMNlVqUW9xMndnempzYWptUnpONmFNTzBUY3RZQl9wRkZ5VDBYcVNHUXh6X2ExQkNVV2xjblMwc0RuVWlXczlRNUxDRHlQRTdlcTI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T16:56:41+00:00",
-      "summary": "BofA extends first $520 million loan to OpenAI ahead of IPO, source says  marketscreener.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
