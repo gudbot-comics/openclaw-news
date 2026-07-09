@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-07-09T05:21:44.945599+00:00",
+  "generatedAt": "2026-07-09T08:52:16.098032+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "\"Real-Time Conversation Is Here\": OpenAI Unveils Voice AI 'GPT-Live' - Inven Global",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1ROEZ1VHVwS0FyTUZSYjM5d1Rwc3ctb3dpRDBEQXl3a2oyVUVrYUcyQVFHc3V6QktaZElXZE0yZ0tWcDEzcmN5Um9Mb1FrbVh5V2NiR2RZUG9oNXFJV0V2ajRFNl9ueEx2dkFlNUhHSDhsQ3JVdDUtd2FVTUUtUnk1TXhZd0dsZkt1QWd3TmR3N1VHdzFGLU9XQldwdXAxaThsYldjZDFZZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T08:15:01+00:00",
+      "summary": "\"Real-Time Conversation Is Here\": OpenAI Unveils Voice AI 'GPT-Live'  Inven Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI rolls out GPT-Live voice models for more natural ChatGPT conversations - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVVCQkM1ZTdEQ3ZXREZzNlVnQ0JpMXZyRVNXclNnajBOWi1MTlRSRWw1alJETVpoVGdPbmkzZ3Z1WE1PRE5ZRF9VSXVxLXI0TF8tVUJBN0V3REVpeWt1RkZBdmZxbElyTnM4aVdwaFJTTjJNZDZ3aFQ4QmltSDNScHNEcEpQMUh3REhnRW9hOV83b3FJY25jVjZKUWMyTUxDdnhpMmlFaXRTRk05SGx4LUl0UTJJZm4tcnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T07:35:19+00:00",
+      "summary": "OpenAI rolls out GPT-Live voice models for more natural ChatGPT conversations  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to launch GPT-5.6 amid US national security concerns - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWTM4bXZKeGtRdVJuUm1VdjJNNHM5Wl9ESkgwdkVpZE5PbXdLSXBaek1xZEE3dkpZUnRzYW1rUVkyWDZqeVNtNWJwanBnUHVKWDVocjhBQzZZWHBYWkk3SnFWNlV2UXhocnVkei1lWHYxa3NBbHFLRWFxaGNjajdiQ1k5cmxpb19uYXdWTF9hZXMxSEczQjEwMG1zTzBsTUlXX09j?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T07:09:00+00:00",
+      "summary": "OpenAI to launch GPT-5.6 amid US national security concerns  The Independent",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cloudflare Announces Research Pilot with OpenAI - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV3djUmRCa2tTV2tUTUpDY2NnT0FabXMxMkQtNlBXcGc0dkdkSmRWLWg3dlBuam5aT0FhUy1CLUUyWkNjRTNPVHhlVng4elNxSW9lUlVTU2RKU0VRUWc1dENCZnU4clN6ckdnaUJmRHMza1VENzBUNTZKQmYydTRMamVXTHNGNHpJOGVZZXk4RTQydDdy?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T07:03:39+00:00",
+      "summary": "Cloudflare Announces Research Pilot with OpenAI  AiThority",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cerebras Systems: OpenAI, AWS And The Case For A Buy Rating - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZnNfTHpYNzVMWTkxdzdnWGtzczZISl9wYnpaZXVMcGpOY25XcHRKdjVERzlDNDVOMUxGekliOEpBSW9aQkZOYldza0ZwM21lajh1NWt5WjVVa1hpWTFfNTFQTFVHQUhoTTdha2RJbUtVTGFJcXdURGJzR0ZQTFdYYVpQcWxkSkNhOF9YcGREZ0FUT3pLNHp2T1VOSzBEdUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T06:17:07+00:00",
+      "summary": "Cerebras Systems: OpenAI, AWS And The Case For A Buy Rating  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "AI: US frees OpenAI 5.6 vs Anthropic Claude Fable 5. AI-RTZ #1142 - AI: Reset to Zero",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84R1piTEVibVBvRW4yQnF1N0c0MVp5Wms5TV9hVFpqbTQxRTdXN3JzRWFaWEJDYm9UVEVveW9fVDBSQUl6Y0NqSVJWN05GWXpnMDdTQzA0cGVvbWEwU2lfSVhpOHZta2VqRzkyYjlwOWVlZk9EYUhuMGZwUQ?oc=5",
@@ -27,7 +72,7 @@
       "title": "OpenAI's upcoming AI device gets its voice - Sources | Alex Heath",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWGhjWExvZUJycTJHTGpvcXc3MFVRMWdkMFZaT0Y5OVNPOUZYTWRXS0UxTUd4NExsdjM1cjFXTDNsellNN3kzNDN2d3V5V3Y0blh6dVc0QkdDNnNXR0h1LVROTTJYbkF5ZjRB?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T04:13:35+00:00",
+      "publishedAt": "2026-07-09T04:16:12+00:00",
       "summary": "OpenAI's upcoming AI device gets its voice  Sources | Alex Heath",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -60,20 +105,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Expands Advertising Pilot to France, Germany, Ireland - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZjBHcXRRODNLa3FwRmdDbkVPRFp5bHhZbnBlcnRidmt6SU9vX3N2NWJoQ2pUbWlncm5hS0VuaHJnYUxCaDVXMHc5YjBYa2RPYm82ZUcwaVYwWmI1VEJrNk9QZUdxM0lqS1A1amwzR2gwaTZ4YmhoOFBzc3ZFS2ZVaDdydGlob1lRTUg5N2o2RHYyeFBXbnF6NHB5V3ZYYWVic1E?oc=5",
+      "title": "OpenAI launches GPT-Live voice model for ChatGPT: Availability, key features and more - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN3NtR0dkTmp1MHlzbmtVYk11YUVqMHFfVjR3QmxYREtkZ2g0ZWZ3NXMyR2NtNnRFaWMzaVVDOGpUU2ttdG12UFJXWFlTTHpHemJMT0ZWcXRSNi1VQWg2eURuS0tpRkViVXZaSmJrSldiVWNQbnFmd0ZQb3NzNjJaUEt2Z0oteG5yemtDc0hyQzNRT2VSMXllZXZYUE56emptbGtoeDR6RG1VSWFTMEpLYWR3Q1hXOFpSSEhMMWRvNkZXdzBkdTQwcHR2WWd0a2hFVFl0QUxhVWF2NEFNNWtvQ2VmRzgtX0hUbllMeGJvSVF4OWdyS2FMSUV30gH_AUFVX3lxTFBLekVjLWNiUTlzTzVOYVFTcDh1V2MzckNaX2R4VE5QcU1TenZZTktBUUdkRC1GQS0zU2ZxTFhNMGxDVHg3cUNNVXlPbEp6TklLcTFfcS1PaEc3WWhQY2RLbzVlTWZfVkRscm1nc05wRU9sd0pmbVdMMkpkWU9NTkMteXFvMVZMbTNCcUpNUUVOM0ZtLWN6OTZfa0NWUXp0bjQ0WEUwMXdoQXZONjRvUF82TVR3TUZDUEljVjh3ekVUdmZNU21OazRiNDNweGtfSk9GWjFJTVFlcXpPUVJhanUzS1ROUC1Wc2lWUlE1Q3YwNGhYOUpZeVRPYTA2UUkzWQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T04:01:00+00:00",
-      "summary": "OpenAI Expands Advertising Pilot to France, Germany, Ireland  Let's Data Science",
+      "publishedAt": "2026-07-09T03:42:00+00:00",
+      "summary": "OpenAI launches GPT-Live voice model for ChatGPT: Availability, key features and more  The Times of India",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Upgrades ChatGPT Voice with GPT-Live-1 - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjB3RTZhenBKTElTYnJ5SzJoQWlDUWV0OUgwM0h3aldjY3VnaXVUMU9BTUR3cDI0cjBRYTFzZC1DdVNBdlpHZzJuQVBBNHBQakNpbnRUc2ZTRVFhQ3pTbWk0S1I4VktPUjNSSmxPQm0tQUF0QXAzeXhWY19MRFRJbFcyeU1aR3V2d0VURnNyM1U?oc=5",
+      "title": "OpenAI Releases Voice Model That Can Think, Reason, Respond Like A Human 07/09/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2pUbnBpeHgzOTRDNzJ0UGVfdFlwSnBmY1cxMC1PWnF3eHJXeFE4bV9FVjdrRGstWnAzQUhPZmtsX0NJMDNxRVhGRTNOSjBiam1KY2VkaXpVQ3BLakdQbGZ6VGNBMThIWFBnNVd6N1VsNE8tdmxYT1ZhRjdaQjN0QTlIUHJHR2ZaZlZSbGtGNFh1TndEcF9hZm11WGN0NUtWQ05BaVVyR3Jodw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T03:14:09+00:00",
-      "summary": "OpenAI Upgrades ChatGPT Voice with GPT-Live-1  Let's Data Science",
+      "publishedAt": "2026-07-09T01:28:43+00:00",
+      "summary": "OpenAI Releases Voice Model That Can Think, Reason, Respond Like A Human 07/09/2026  MediaPost",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,15 +195,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI bets voice will become AI's primary interface with new models - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjFjX2Vfc2RrZTNYN2NjZHY2VUUtX2czeUoxbDlpa1E5azVYOGhnaVVLdkNiRmZoMFRiWmRKMXhUb3lseUwtb2lSNlJfVWJhZkhSMXM5TEYteElmYU5SRXo0djhvZGJEQ2RVY3h5NHRsOGJveWJveFVUa2JxaDhGVElaY1QyOEVaZlFFeGhXYmFHT0x4cTExOGNocDVhcUhtWUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T22:00:52+00:00",
-      "summary": "OpenAI bets voice will become AI's primary interface with new models  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "The Future Is Always Listening: OpenAI Says Its New Voice Assistant Is 'One Step Closer to a Truly Accessible AGI’ - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDBDSWdNblpaTHpENTI3cG5aa0NYZ0dFN3NUT0lMamNITnBhUlZXb24xSkV2Mk9HSXdOWGNaSHlzRFdGd0xoNTZKd0xqWVdaTmp1STAxWFZKWlNoTnZkMlBGcTdoWmg1WE5fYl9FUzVSRDBoZjA3MEw3dUcwZ0R0Z0VPNlJLM1FNaXk5MGd5YS1mR3NQM0o4NE1GWmJFTHdEYWdLQU5TV2pNQ0NyOHMwSnB6TFVNZlkwVHBCR1ZTYm93bkRQMzNsS0h1WnRDbXpoeDNCRFlBaEp0UQ?oc=5",
       "source": "news.google.com",
@@ -168,56 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDNnMmg0STN0VXg4aUE0M2N0YXpZaGtaRmpMX2poX3JGNkZpSW5VQU1IbldXakRpeGpDa1MxX3I1dm1sZnNjZ1JxOUU0NUtHU0tnS2dFVkhpQjcwOEt2bUhIdGdOQTh1a2VrbGpNOTJ1Znhzc1hTd1dIRWQ3QzYyaWw2LXF4NEozSlFpbklYblNhcENTcE93WU9Nc3B1WDVHR2lONzBISWluYURQQzZvNGs3cERtdUtPWk5MX2JYdnF5NnRLMXNuVExUNHBocmlZNEhN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-08T22:00:00+00:00",
+      "summary": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI  VentureBeat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Readies GPT-5.6 for Public Launch After Federal Testing - BankInfoSecurity",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ000VzlOQjdTM0xXY2RGaEJfWlRUb0F1NDJlbGxQSjJVN2dERF91eG1DQnN5LUxFVl9RSFpkZnFwdXctdktPNW5obGk3bnMyMEZleUs4MW9GUFJtRGIyNnVFcExwVmV1ak41M1FoU21fVjdsdkFINjFlanFiVTRFTHNrTVpNMTV4Qk45N3NNb2czcjJ2X0tNWmlQUWFLa0REU0ktXw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-08T21:50:36+00:00",
       "summary": "OpenAI Readies GPT-5.6 for Public Launch After Federal Testing  BankInfoSecurity",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to release its most powerful model after weekslong hold - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaktIbTk2MklTUGhwZnA0RWxLalc2X1NpQWN6bzR1bGFIYjFCelhqOG9hbm42OGlSMDd3MWw3S2R3ZzlrVDd3OXFRdVZBQjZ5SG1oYlBOOUxKWWg1LVA2MmRCNXdNMVR1aVI0T3l1SlNVcFY0NUppTzBsZVBQcG5QZ0Zn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T21:03:00+00:00",
-      "summary": "OpenAI to release its most powerful model after weekslong hold  Politico",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Our approach to government and national security partnerships - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45RzBJcm9pMTJaYS05MkJnVkh6NmRvamJYUkY4NFlqa3U5SnVYekFSc2ZJWWJrdVhpSXZtRE5ka0RYZ2RiYVNMVzlMSnZ4Mm4tMFJuZUY2V0FfLS14S1JHeWNRTFBabTNycTdkLVJmdHBJTU5RekE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T21:01:37+00:00",
-      "summary": "Our approach to government and national security partnerships  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI retracts SWE-Bench Pro coding benchmark recommendation - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVFiVHpJdm1DUko2c2xETzVaWnFRY3hIeUpVaURQVmRSYmQtby1ramVFNk9xbWFnNHg0S3NyejA5cGJmaUd6QWxxSFJvajhRWFFzM3BGZXQtR2d3aTVlV25rUWlVY3J5UERJSEtOcXZEdEpoN3NaWGdqTUxNdkNXTVNmYVZQZVdGREtMenpqZU5WbkhDMmctMHJYSVNNUGZwWWJ3ZHU1TGhieEVmQWE0NVZPWTJieEFWTjBSRE5ndw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T20:56:51+00:00",
-      "summary": "OpenAI retracts SWE-Bench Pro coding benchmark recommendation  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Releases Voice Model That Can Think, Reason, Respond Like A Human 07/09/2026 - MediaPost",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUprdGRfUHMtemU0bDBiM0cwNnZxdnN4aV81YWJPRkJFQjJoMXlaQjJZRUwwZWFpM1NIQlhjZHZKVThVeVFOQ0M4V1FPQnJwbjZtYkZfLU9KYUx1OS1PaXd0SDRESzZYT1hlZk1vMWlvWFYtbU9JOTNxaHJ4SnV5NnhNaTZIdWlMSUl2WkFTZ2t1UGtnU0RDN1dtekU4RDZiVkRmUWp4azNSM0pB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T20:55:38+00:00",
-      "summary": "OpenAI Releases Voice Model That Can Think, Reason, Respond Like A Human 07/09/2026  MediaPost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "BofA Extends $520 Million Loan to OpenAI - The Information",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWxTWEZaVlI2QjJkeVNFZDFyYUpxeVhUZ190UldoWE90dS0tRFNUaWJmdTFjNWpteHVnLTVIbHFjQ3V1Z29ZQWVMdW9EMkY0UWw2TWJqamdjY0J1bjEzY0tVSHlSWkdEQWNCZERCSzB1WU9qMHZ1cWh6dGw1eHhzbHJRVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-08T20:40:00+00:00",
-      "summary": "BofA Extends $520 Million Loan to OpenAI  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
