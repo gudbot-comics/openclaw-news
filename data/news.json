@@ -1,88 +1,61 @@
 {
-  "generatedAt": "2026-07-09T18:29:34.920077+00:00",
+  "generatedAt": "2026-07-09T20:22:48.068208+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "How did the government decide OpenAI’s frontier model was safe to release? - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnFpcmlGRXYxcU9ycDdZWVZ5Q0Z1MWFTNnduQl9nWnhNTExNRGJSODFTLUVNVFF6cUhYY0JrMWlLakpXdlB4QVROYzBrUDdwWEt3M25vUWN5RU1MVG9HZ0F0bFQ2ZVh5TjZBb09UWlpqYlJHOTMtS1dQUG83N0RxRHliU1Q3eTdLVHR3QkJOUGk1bVpRMVU3b1hDWS0yeUhONUZ5TjJWQjBhSVk?oc=5",
+      "title": "OpenAI, Anthropic Hit New Speed Bump With US Government - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR3drRzdPazVNcUsxNnkxSFhrTjNXUFJ6ZFlDUEFBT2ZFRVFLZndsMWdhR3JjVkVSUXNIcW9WN0FjT2FXaEg1TUFQbUpMVElPXzYwUFUyMkVBMXZwZk1yelhXWEM1SDAtb3JpUTZVbFdueURNOWdzSFlwWERDM3RUbUpmQUxwb0hNNXpTTkwwSTNLYXBJbFJyNE9kYndzVzBCbE9SRWdMRm8wM1QtTmdoTnl1aFNZazZCdThmZkxHV0RjZ0g3OVY4Qg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T18:22:39+00:00",
-      "summary": "How did the government decide OpenAI’s frontier model was safe to release?  TechCrunch",
+      "publishedAt": "2026-07-09T20:03:35+00:00",
+      "summary": "OpenAI, Anthropic Hit New Speed Bump With US Government  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s GPT-5.6 is now live - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qSzF0b3VOY21DNFYyTXNXNUNWeTJ0VV9qLWs5WEFrUXBFY3ZlcnhBTmJQSEN5Z2VCNWQ1VWhja0o4ZjRfZzRYRHZRWXRIZXgzMDV6RQ?oc=5",
+      "title": "OpenAI's ChatGPT Work agent handles 'ambitious' tasks across devices - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUW1DaVYxRW9TZzJTM0JZT0Q0UmFpVnFSa1BmNmQ2aktPNWsxVTZiZkZUSG8xeFkwM1hSRjlZbEczNkt3T1I3SDh5QmtBS1BaYzBvczAyZVAzN2wyNWZEZkdJR3lVRjV1bmk3dXZPWjZGTlRCMkNoQ1lBUEtsbFVmTWpCZ3EtSV92T0JuTW9uV3dFNnlCVFl4OTZSV3E1Z1lrTFE0YmJR?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T18:19:41+00:00",
-      "summary": "OpenAI’s GPT-5.6 is now live  The New Stack",
+      "publishedAt": "2026-07-09T19:54:05+00:00",
+      "summary": "OpenAI's ChatGPT Work agent handles 'ambitious' tasks across devices  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI launches ChatGPT Work, rolls out GPT-5.6 model family - Constellation Research",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVFdjNTRwanJLT3FpNUpmc3hsWnhTUUVrejdjampyeEZFSTR6cDdwVGVtOWduZE8zTjE2X2ZHN0Y2VWlFZWN6VmR2dzEwdldwS09paFQwRzh6VkFTNkV0bVc5dEs3MFhYU2d0aUNYb254OHlWcjNxLWktQklpRG9kc2R0ZklwQVFZTmhubEZkejJTSmxCVVI5ZWF0Z1Z4X3gtNHlzaW1R?oc=5",
+      "title": "OpenAI Unveils Claude Cowork Competitor, Desktop ‘Superapp’ - The Information",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckJmeUdKeldub2txb3hTZTEwWUFxRWlWWlFsejJMeTF1d1RWWnZjUzJhYW1uSTdtclZwNjlMZHRhNXgwTUZRMkpjVHd3ZHZwRmw2ajZQbFRhTTFHOHB1WW85bE12VEZGNFJwbXI2dnVhN052aGh0NTB1dC00MnhqbFQyRE5kT0FwN1ptTWZ0TlFNYlNIUnNYRWd1YzNmUQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T18:09:58+00:00",
-      "summary": "OpenAI launches ChatGPT Work, rolls out GPT-5.6 model family  Constellation Research",
+      "publishedAt": "2026-07-09T19:49:00+00:00",
+      "summary": "OpenAI Unveils Claude Cowork Competitor, Desktop ‘Superapp’  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Gets First Access to Cloudflare’s Real-Time Web Signals by Separating Its Crawlers - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2dWWlVvU1dxSHJCN1dHVi1BcFBBVVhwa1VpOHFxMVBCTHFfUlNkcVpNTzR3M0VJZ1JvbXhwLXphTjN6WkpjUU10ZmVOSXZWZEFENzgzOVl4WEhIVEk5QmpBbDJtdXRMWVZhTW1oQ283eWR2UWZfVlIwQjVfUWcxQkxxSnVaRW5BRWE0bVBPWV8wSDVCcThnTFdsU1pIS0o5WU1RYTZUcmR1M0V3VEVXTldkMGRIN1RxLVd3RlJUYmZ2T1dJWk1XOHo5eWpPenY3VnI4?oc=5",
+      "title": "PANW, OpenAI, Anthropic In Focus — Nikesh Arora Says Wider AI Adoption Needs 90% Lower Token Costs - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNXk2Tk9iRzI3MVVCTk51STBkSmwzcjdOd1U0VGN6QzlMNWZ6MmZiV2JzWHpCMkduQWl6Zm5oZGdvVlIzWUpiaDlMWHhYZGs0MFdHZlpPeEdVOWJHcmtMblpNSzR0bWhWRzc2UmhNUk9sYkp1ckJuMlc4OXdtdGZENFViaXlQRUwyY195a2lfQmZRX0RlV2tOWlJiazhNdFYyZmQ2VExPb0tmRVVMRm9RM0RMZHdWV0M1YkM0dTdxalhpdFpIdjdUSlZiTVJpTlZWdnhGSWdqQTBMaVNpRF9KdzZHVG1Rc2NLQ29kU19nMA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T18:03:42+00:00",
-      "summary": "OpenAI Gets First Access to Cloudflare’s Real-Time Web Signals by Separating Its Crawlers  Tech Times",
+      "publishedAt": "2026-07-09T19:48:00+00:00",
+      "summary": "PANW, OpenAI, Anthropic In Focus — Nikesh Arora Says Wider AI Adoption Needs 90% Lower Token Costs  Stocktwits",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONk8ySTI2ekFib0JOTDE2WW9SN0cwZUplRHJtd05GUExrMmJpd01NTEFGOU9GRUFRVTV2NmxKN2RoZnhoQzdrdExVcE5BRTI0MVhDaGt6WnZabVNuSS1MTUdwbmNVcDRobjBudWx5SXJPMWtSVFlrdkwzaUFQRW5hVUpiLXBsX0R5VFZuLTRTa1JyU3VBMWJ5XzdPSTZ2Tkcyb0V6YUtxZXRLaDBwRFl2OFZqUzJlSzRGeUNEbFc1RFN3QQ?oc=5",
+      "title": "OpenAI Releases New, More Powerful A.I. Model - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ScWRxcUZHcF9BRnY3cDhBdXc1dlI3OTdRLXFpb3lFMmN3a3g3azVCdDhHT290RXN1Mmh3NElzNkhWNDZtN3BwT09tTUhnMzBaSW44SF9qR2FmVFd2NFF5VmlmdU1tMkZOaDN3ZjluLUtFZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T18:01:28+00:00",
-      "summary": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows  the-decoder.com",
+      "publishedAt": "2026-07-09T19:30:19+00:00",
+      "summary": "OpenAI Releases New, More Powerful A.I. Model  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Debuts ChatGPT Work Agent and New GPT-5.6 Models - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqRGh5eDg0WEdUc1RqQWNHVlRSTW13d3NnS0tJMFJYRzVWaFpfLWRWbFVPS0JfX0xzU3Y2U0tVUUxQd1piNDJJTDdPcEV1OHpacXhxU0JsUUY5OGd2dl9xNTNWQ3YxTGNT?oc=5",
+      "title": "Is OpenAI coming for Squarespace next? - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakd3SG53X2phUVpqXy1Dd083YWFIR2dheEhrRXNjeFdVTlBmVTFNWTZ6VVJXbWhnRkFkbVQ2ZloydTAzNFdjQ3lqeF9VSDdTaklUalo5X3Y1VXBxTG81aTJLTnkybEdXaEEtTDdzQnVLY1RWMG9tUjNBTFVMR1V1VEFXWVp3dTgxX2xrdTQ5d1VBQ1JvMzdtWU0zYlM?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T18:01:09+00:00",
-      "summary": "OpenAI Debuts ChatGPT Work Agent and New GPT-5.6 Models  MacRumors",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Announces ChatGPT Work and GPT-5.6 - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYjI3RnF3MnU2S0lxOVNJNFhsRjVQbjBQZXJEYjNmdDdxNGt4UVI0cl9POWtYeDBlVC13ZFpWVnBYWEV4d0Vmd2dIeFd5ZEhlYWp1bk9yaktCLUtBRlZKLVg1c1hMYnZMV25lZHlrN0xFb0RQVDQ4OWx3czd1WEFERjNZTTZLRXBuREpuVGYydDc1UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T18:00:51+00:00",
-      "summary": "OpenAI Announces ChatGPT Work and GPT-5.6  Thurrott.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches both GPT-5.6 and ChatGPT Work today after approval from the U.S. government - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY244dXFhMWVJS2JtQ25PWjZ6R3lpdmgyN19vX1F1TC1xZWNHcUhEMDNQMTBzWHd2YmxTNEp4SVAwdlFyV2pYbmkxZlFhREZHd2o2aXRMYjFXQWRzbzZvN291dkRNMHhwWEFIVDBKdkFfNE5Ea3A4VVZ1SFU1VjExR1hWaWhzOXVxQjJCODA4aTVRXzB0bzlNOEhTaDFJZ2treU1YTUxDWmZHX29DcE9TY0FUMS0yRmxJLW1lckViMlJ4ZTNDT2lvaDhSeFhWQUtCbkdHTGpGZ3dvOFZ2WkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T18:00:18+00:00",
-      "summary": "OpenAI launches both GPT-5.6 and ChatGPT Work today after approval from the U.S. government  Yahoo Tech",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "New York Times-led group asks court to sanction OpenAI in US copyright dispute - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTYxWTEzRzVsSVY1VG80RTRVNUpwekZUV1lkajUzMjYxZVNRb2RkR3NwX3E3Y04yQ2ZaRGtSMkNsMkJGenJnTmRjcUhmNFJnT05kZXJrTVIxX3V1MFpUN29WU1RPTHlxX3djazJ2MS02YmFzZXRNM01FTzJ0cE03dU5GVUFIS2o2eTF1X0tvcDBLSG56NktwTUFDbjV1ZW5mODdmQ0xtcHJfU0ljLW02ZFRaLTZNdVlfV094cW9DOHhpQXM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:56:15+00:00",
-      "summary": "New York Times-led group asks court to sanction OpenAI in US copyright dispute  Reuters",
+      "publishedAt": "2026-07-09T19:28:46+00:00",
+      "summary": "Is OpenAI coming for Squarespace next?  The Verge",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -90,35 +63,152 @@
       "title": "OpenAI launches new system the Trump administration initially put on a leash - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3hzXzRZLXlLd1BTbS1mWWF1SjVUUHZwTkZQcEZyQll3aW15TkVtQ1pHV010X1RORi1RWnZvRUtqbDFZYUJzSGp6b1VuZUdHWVU0ZVFrWkhzNTM0aTZ5RnlPVmpRSXd3bldEOXZxSnliWkZNQ2FBN1NnRzByam9vNVhVZU4zak5FVmlsN2ZPM290cXNUcUN4NG0yazBVbXpNTVY3bFRlYm9tQ29IVnF6Sy1n?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:52:53+00:00",
+      "publishedAt": "2026-07-09T19:22:53+00:00",
       "summary": "OpenAI launches new system the Trump administration initially put on a leash  The Washington Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWmhBYnBfLXg2OGhrbmlYM2FobFBJanp6RHFiZ1lIa1BSSE1CTnNYSExtRW1USTFWbDloOUxIS3FKY2hXbm5ULQ?oc=5",
+      "title": "New York Times & Other Publishers Ask Court To Penalize OpenAI - TV News Check",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTE5mWUNkQVJPY3Y3aGZkOTZ0VV8wZmdiUUxDV1ZreVlXeUpKblRKckRZRFFKa1gzdlg2cFg1Y0hFOEdhRmkxbkxsWURjU2wxXzZZNEQ3YzdPN2twRnBQdEI4YS1hTGp5Uy10aC1LQjd2SWdLcjFNSm9JWUxTbTg5S2pENkRSMmhsVWZIN0xqSktPUGg1RWRXZkpNSTY?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:48:45+00:00",
-      "summary": "GPT-5.6: Frontier intelligence that scales with your ambition  OpenAI",
+      "publishedAt": "2026-07-09T19:22:03+00:00",
+      "summary": "New York Times & Other Publishers Ask Court To Penalize OpenAI  TV News Check",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Launches GPT-5.6 After US Scrutiny, CEO Says \"Made Many Changes\" - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ3RHc0U4LXZpWnJiMDZvUFFTcXdTZUp0Y05mZEQyTklfbHhuaWFicUdfVjRCV0x4RnZiR0E2ZW0tR3RjZ21mOXFIWnNNZlFZUlkxZkhSZmdEYi0wT0x4VkRVdUQwbUtZSnlPN3F6NTB4TmNJY3N3VURVVTZpcWM5QXNCMkVTUE92aG5EaUJsSWNNVEJsWGktMUFfZFZaVFFpS3J2dEJsQm9UaEsyQ2fSAbYBQVVfeXFMUDZhVzIxcGdlQXhmVnJZRjhQLTZnY09Da3NNVURTRnhtNnNtYTl0R19XSktQNld6Q0xqbjA4bkdtd0lfeUNqQWZ4SUZVcU9YMEs2Q25jLUhEZktfNXdsYnMwUlVWXzVjb3hoMHJLRXlnLTVXQ3JFa2JZTW14QmJOeC1ManJuY0dveWRhTlBXb2NaMjJPb3VDUVA0WVJWcGVYYXR6TWZJVTBSOWFfcWJCdkNPZ0ROOXc?oc=5",
+      "title": "News organizations call for legal sanctions against OpenAI - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk5TUkwybS1udlJRY0xYUm4ydjd1UHJvLXkxcDRMakJ6eHdvN1dQV211S2Z3QV9ZVkhPbjhRZS1tRXphTjRLTE96LVdmajZDc01hcHFGb1BWU25LdGttYXlIMGtwR00yWUkzaVlQem5lM1I5bjVpSHRSYmpYZHN2NmFhN1VHRm8yc25lLW03d1BBYlFwSWwxNQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:48:22+00:00",
-      "summary": "OpenAI Launches GPT-5.6 After US Scrutiny, CEO Says \"Made Many Changes\"  NDTV",
+      "publishedAt": "2026-07-09T19:13:18+00:00",
+      "summary": "News organizations call for legal sanctions against OpenAI  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "New York Times, others urge court to sanction OpenAI in copyright tussle - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYnlEd0N6RHFVUG1GdlViRGFzcDgwY2N1eWh0TjZmSThGa1pqa1dpd0lsUm1QZDdPTUdnY2FSOWF1VHNmcHdOQnJDWm1DRXlqZ2l0dmhZRTloSnFLZ1VwWE1ud2R6Y3dtMWVoM2hob1QxdlprRjlHLWthaEw4WDVmOTh4ZjRMb0JIbTRCUlpucXU4MU9zSXVMSDc5SVNMZndvYTZOYURydVpFZ0s1OVE?oc=5",
+      "title": "News organizations call for legal sanctions against OpenAI - upi.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbm9oSnB5QnNWWWlOWVJrbk5CUS1WUUlrSGVpRjhVZ3hha3hvRDYwMERMLUhjQkY0Q1dSb0FfcER5RlB5c21oRmttYmRBNjlrSmNEcFNtMWRDcjRlNGUzUWZnTmc5cHhpZUllM0NCSmU2djl2TVhWOFBRZ3lVUWM3Wm4wSENoQjFhVEplOUJIM245NEhweXdBejcxNHZJZ0hMVzhIdjNPM1F3TExFTjctdmR6cEExSWdNVHMycFNR0gHDAUFVX3lxTFBQaEo2RHBlQ21rdXFfYno3M3ZnVnMwU3M2N2w1ZHFsRHl6MkZPeGtONkhwRXdQNlFJSm5YZU5kWnl4ajhucVkybTRkTUtRY252bkxLdXpxY0o4dFVzMWR0a2RLbVhfRm1RS1lFemlrZGJCNEhMcUUxTk5FRi1yb1U3WlVHS3VJRXVock03ekRHdVNYT1pVbzlJWDB6LVB5dFExOXFzY3g3LVJOS2FvNDRFYVBpNDlZT1RBZTQyaDYxY0Vzdw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:33:00+00:00",
-      "summary": "New York Times, others urge court to sanction OpenAI in copyright tussle  Seeking Alpha",
+      "publishedAt": "2026-07-09T19:13:18+00:00",
+      "summary": "News organizations call for legal sanctions against OpenAI  upi.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Debuts New Model Following Input From US Government - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUmg3UFNqMFBkd1lfRHM2QW93N19hblpsT0VNNUFQcFNaZnA4QXFQSU1pSHppekhXS2JTSDhGRG9QTTl2Y0tOQTVCVXJqY0RZajZuaVk2VG5vcUxBZXlIdVg0eHdOTldQempINHRCOFRTX0tZbi1fQjlpTTdhMWFUNGE5WmhuckpjS2FBMjZyZGJobXdQOFZBM3VYYUJNVm1RMHdqNHVacS1oZGRGRTRDeWNCVF83Q00?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T19:09:42+00:00",
+      "summary": "OpenAI Debuts New Model Following Input From US Government  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFl2Vkp6eWRIWThNRVIyQlZpRnZaNjZuSUUwYVE3dm1qbmtLSHFJaVBORGpRVmhKbmlBbHZkYTcydEEtTzd2UGJmNFBVNzZQeWNGbHhEU1U4VmdlOEpMWXJnUVQ5MUpZalVBX0E5MGJpQjFQaVk1Si11cTJ5TDF6MFJRdkFUME92Q1k3NWl1ZmppR1RHcnBYcjM0bGlYekthaUdv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T19:05:58+00:00",
+      "summary": "New York Times says OpenAI hid evidence in ChatGPT copyright trial  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Just Can’t Beat This TikToker - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9URHZHcU14WUJzZXUwWXI3eHZhV2MyNGZzNUNaQnlYeUI2QkJNTlhHNEpSVUstOEtPcERGakM0czZ3TnpGVVFQTmt3VGxGWEJVVUZUc3JqNXRuME15TFVQYW1jU1p5WTl0WU9yUHdTWExuSVBz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T19:00:32+00:00",
+      "summary": "OpenAI Just Can’t Beat This TikToker  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is folding Codex into the ChatGPT app — and taking aim at Claude Cowork - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13Z3BzaE5WRFFZSjJsYUtMNlE5SUVBOVJvam11Mm9DNFpKb1Z3bTM4SXFrSnd1SG5PV0JlS19ENTN5eE1SNDBFVVJiWFdKNVZxZlFMZFM2dW1yQjQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T18:59:41+00:00",
+      "summary": "OpenAI is folding Codex into the ChatGPT app — and taking aim at Claude Cowork  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI faked inability to search training data, hid billions of logs, NYT says - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXFpTkd2WERrdTR0STd4MGZKQWZFOHByM2k3ZkxZazhvU0QtS19HQlY2a1dGWVlkQ1lQalJyQUhMRlZtUHllNlVfX3JNbzlDbzJ6Q2kzV1cwWE10dndHUG44ek1FaHN2Ul9Cdkpmb2tJd29hSjNBNG5FUXdmZUY2T1lPOHBDblhBZ3dkdEM1WXRuYXE1MjZSNG1Qc2pPU21GejNkOUpxYUVTQXRwSzcwX0FaNGVqT2dFNERoYnJB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T18:57:53+00:00",
+      "summary": "OpenAI faked inability to search training data, hid billions of logs, NYT says  Ars Technica",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta Takes Aim at Google and OpenAI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3VzXzc3aWpIZEdKakRhQVVPWmJrRUxNRHo1eVFnYnAtVGNYNW1qYzhoYlZPNmtDeXByaVlNOVJUcDZ6SklSQnd5cmduOEtEU2hQcE9WRVNFM2wtdl9NZXB5eUFKNjhaWXBlNi1tcWJfQTRCSnVBaENqbHNOd0hLX1ZXR0pVOFQwdmlGazB1cmxHZURFbFg4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T18:56:01+00:00",
+      "summary": "Meta Takes Aim at Google and OpenAI  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTDMtYlI2S0Y2TThOS2FjOFZsbTNOa3g0N3N5a1Z4TENVeDl2RWR1djN1ZFBiaVRfU2k1akpicWtKN2RDS1RzMHM3NFVVMkpoUm1uSmRoQmRURFRONXNuWEYybFdGNkxtZkVySUJhdXJEc01va3hrWHVCOGhKNlZkSzQzNXZfRmdhdFo1NmJfdTM2XzZ5RDI4d3JqdEJCWk10YUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T18:56:00+00:00",
+      "summary": "OpenAI is discontinuing ChatGPT Atlas, its standalone desktop browser  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OTml2eXZ6QXlTUUpBaW81VmtxcmJaa2h4blBYMVJZeTdISU4xYjA5N3VrLS01eEZlMk5hUmxoaHZVam1lN0xiSmJsWUtISUVrQzVqLTVhRFdaTG9MbEZJaHl3aUdhVGJfUUxKNWxWaTUxT05NRmRkWnhMcEs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T18:55:41+00:00",
+      "summary": "New York Times and Other Publishers Ask Court to Penalize OpenAI  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is making its biggest play for the office - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNEMwcXBuNHR0Z05FS1czSjlZQzJEYkdGLWdnQkFaV3g0LXFXVHdmOUJEclQwLU5VU0hWTkhLdFJ3cXoxbGt6Rl9BU0VKMWlrSDFmVTVTUm9HQ0xtVF9qMjhncmk1SG1JdlN0SkQxSWowYjdGdjY1UmJscDR1T0g3Z1M0aERrX2VWZHZZN2NEWWs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T18:54:43+00:00",
+      "summary": "OpenAI is making its biggest play for the office  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Work, deepening race for workplace AI tools - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T18:51:55+00:00",
+      "summary": "OpenAI launches ChatGPT Work, deepening race for workplace AI tools  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Vs Anthropic IPO: How They Compare And What We Know - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUt4VEJ2TW1WeWZaUlNIYWR4OE1xVUhQY0NDeVppOWNwVGF0TEpQdGUtT3JGT1hrMFJlcWJ6ck5TbllTdERMb2ZQamstcnZFVkFjTkxkbGQwZmM5Zmg1bnNaMlRZeWI2aEhraVFhX3MzRkRWdXQ5MHNJd3EtTlc0SU5IYk5DSTJGSU9tdWJ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T18:51:36+00:00",
+      "summary": "OpenAI Vs Anthropic IPO: How They Compare And What We Know  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Accused of Lying to Court in Newspaper Lawsuit - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE5veUNXZFdkek1LWkRzV1BESWdhWHB5akZyNWRDY19MWTlyU0R6U0xxVzB0eUFreFpVMmZWT2VtSEVPNV9KTDBhOWR0QlltajhoN3hwaGRVQzIzS1loSlJaTFdwd0FxZzhTRkJ0cU1UeGJ5TnJEbmZjdkYxa3dkT01sczFxQkJCQW9tRldKZHBwUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T18:50:05+00:00",
+      "summary": "OpenAI Accused of Lying to Court in Newspaper Lawsuit  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight - Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVVJqMldJOUFBb21nS1Zib21kNUNIMjN6RUVKd1FqZFpBaVhTMEJZYy1BVmJjTFMzWFhyUjVmREhRVV9WV2xRUXZDTVJGZXBtQmcyN3N4MDRvS3JjWGo1ZmFYbGZCMHZJLWxhUGhma3lnaFdUZG9aT09LSlJsYUwwSDVRcWd5dDBOSGdRU052UXpyZ2hWVkJCSWRValB3VGhzeWRiQnFSNTJBenB0bnB4UTZRWU1TclNtb0tmUjViQ2N1UDY0SjNsN3M5ZUxGRzdSQzg3WnVUQjd0VndrZFhyZFpCSzk1V2dPcGtBM2N2NjR1UDNMRzBKcFJVcFNpRU1nNWtROS0tVTJ4bzQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-09T18:50:03+00:00",
+      "summary": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight  Toronto Star",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -126,98 +216,8 @@
       "title": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0xoazVFWVdJY21YczhvV3VVQWZnbU5aSG41UG5xalBPekx0eU5zSWJZTFVIMUhZUUZ6Um9ZLUEyNjVZM3paMnNmOGhBdEttMUs1b2stUjJ5cGpZcXBCd2ZiaEM3OXVlajVtLVVvOTB3TkVlS3NaVEJzYU56enIwTjF2bElkRlRaV192ZThaaW5RelNkZWFQSzQ3ZV9IeldaSmNacA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:28:00+00:00",
+      "publishedAt": "2026-07-09T18:45:00+00:00",
       "summary": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight  AP News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches GPT‑5.6 Family Of Models For General Availability Following Limited Preview - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd1RwOV9tTkE3XzY5QVhmR0pxT18zOWxoT3FvMDh1WlYzcDE0VVVuN1lqUkZ5M0s5Q0pkUS1qOU5NOVk2bFNYN3JuT0IxRVJpUU4wZkhJVnZpMzQxY3dDS3ktNXVzd1J3ZE1yZ2pKVDRzbWJybEYyUDcwZFNEV3hMakxLNUgyZ1VUUHVvdEUyRmxkVVEyQi01R0VDU2l1YlhJX0U4R1U4QmhVVFl2YUxqY1Vqek9yaHVIMVFIZ2xFaThQTTNrcHNYaWdRVXB0cFg4S1RWb0xRd0llQktQMlU0c1lnTUd3eHY1WnhWck5xei1DZFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:27:24+00:00",
-      "summary": "OpenAI Launches GPT‑5.6 Family Of Models For General Availability Following Limited Preview  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Releases GPT-5.6 Sol: Here’s How It Stacks Up Against Other AI Models - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KeXg2a3lJMW1zelN5XzljWERvNXd1UFItTThRM3pKQTBCZC1Kd3FiQkt5UEt3RmRiVTdsQVJWVzlYZ2VqXzNTR1ZHYVdtUzhpcG9IRWlBS0N0d0ZlcjRJTndqU2x0ZjdMM1dqblF2aXhZMGxUQVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:24:19+00:00",
-      "summary": "OpenAI Releases GPT-5.6 Sol: Here’s How It Stacks Up Against Other AI Models  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Work By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3RjNlo2NVdlSjl5N2tVVHRoVmtBYUxBUGU0WGg3a0VDNGU5R3NyR2ptbm5MLTEybV9pRTVIVU93ZU9tQS1DNkhiWTBwUjFZV0loM2FubEpYN0ZVc3R0bHJ6a2N5WTJqc1Q5cVpKVUtfV3FsMHBhQkZlY3JPV0R2S3NELXJMQ2tZclZ6eXZ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:21:41+00:00",
-      "summary": "OpenAI launches ChatGPT Work By Reuters  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmZpU1RFUUZUN1dyZEtEZkY1WXpNNmJaODJSdFgzM3NGT3MzN1pJNnVYLVNfRXZIWmJwMVVOWk5ieEJyWW1tdTFZd1AzT3kwZVhHNHMtMmdEaGMweHBLSHFfLTBUemQ0MUVRaWxvbFNkSzd1TWlyamVJS2Q3bzRNZk9BUDRsYWJmSmVsdW1n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:12:00+00:00",
-      "summary": "OpenAI, Anthropic Employees Could Buy Nearly One-Third of All Homes in San Francisco With IPO Earnings  Yahoo Finance Singapore",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-5.6 model family with Sol flagship - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2poTmZGRzN2Qml3WGxNLVlKSkVxVGNtRWd5Ry0xVnFLekRoT3dKTVJjdzdwLXl4cEJrNHRBT1BoZ2JJenR3MUl0V1BSZkhOWG9QT2VUOG5CVFRJX1oxQkZzczhPUlZuVVQxOVF6QWVwNEZsT2diTDRwMVA3QlJ2V1dwbTZZVm5IUFZNTVlHU1pFZEYtOEVfUjloSXItU2JhMkY3WXBFVWJMT1p0bDNHZDhIYUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:11:41+00:00",
-      "summary": "OpenAI launches GPT-5.6 model family with Sol flagship  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Work - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:07:43+00:00",
-      "summary": "OpenAI launches ChatGPT Work  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVC1fZnVoOHMxQlZLMXJ6VDRJeFhlQ2k0MzBsR2lQWmE0aFBQNlM4T2lRT1h3dFl3TTA3TkhPeXZ1R1JHb2swWmItdXJLMy04MDR1blMyRy1FTFBxYzR6T1IwOVJzZGFabHd1bk5taXRTcEJVSC1tR05XMWJfQWJJTG8zSUlfWURwS1VVdzBTUy1Sc2JGSVBvQ3V1UkU3b2VvOEdpSmliSmgwcE0xTkJYTDVkc0JEYWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:01:17+00:00",
-      "summary": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Unveils ChatGPT Work Agent to Field Tasks for Hours - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObDJfUElMZmZ0QmRmaUMyUjUzZ2tHcHpPUjlRcDlVWFNxSTBOcGdfX2VxZjl1bklES3dUS3hGNy1RazBGREpBRmJ3MjYwdjB5d2ZSQTZxYlFHSVRneGwyVmhpb3RhUWhPOGtkakRDcTJKUVA2N0lObnBuT3FuYnBRbnU4YUhRLXlTZjA3R0dVY0dlMGdCemlfcUg1SWdFeGpOS2J0ZGZTbkdrVk1nYUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:00:30+00:00",
-      "summary": "OpenAI Unveils ChatGPT Work Agent to Field Tasks for Hours  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83b0RiMGtsRGtWT3dmRXh5SGNqcVl1STZuRWJTRVZzdEliY1hENDk2VzVSek5VMnVGa2NGTGZyeV9MYjI5M1NmY1YwN1FQdnhvX2YwSGo5VDdVUXJPSkF6TkFhTDQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:00:14+00:00",
-      "summary": "OpenAI releases GPT-5.6 and ChatGPT Work tool  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3ZGNmx6bENBb29ncDV3QzhzVmxqOWtlT1RLSkMxbEo3S3pqT1I5THYzc0twYS1Yb0dQYWFNUGYxODBuaWdFdURSdG1TUzBEWXQ2MFZsa0tGTkNhdUljMW44RzVaOWRKSjRHOHVkRFREeDB2Ym9jYmdvQ1ZXTk4yMlNYSE9CMkYx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T17:00:04+00:00",
-      "summary": "OpenAI releases GPT-5.6 and ChatGPT Work tool  Yahoo Tech",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
