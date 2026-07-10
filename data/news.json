@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-07-10T15:39:50.025391+00:00",
+  "generatedAt": "2026-07-10T17:25:48.127036+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI’s Turbulent Week: GPT-5.6 Launch, Executive Departure, Legal Setback and Product Shifts Mark Pivotal Stretch for the Company - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWXN6V2pEMUxneXRlRngtRkFWWExyT2s0S2FPTlJBbmc4TDBSQzVvcEpDckJWeVR3LWNfQlFaRWNVZ3dGcjhGSzdrTTNPdmgweDVubXdhZEZlcjVSZS0ySWVZUm9LZmZDeXZINmxmRGx4ZGxyOGliOU02dlhteXdiT09RUVZjRmNtMXZ4NFlybGFlTExJdWR6MXNIWHN5TUNpb3BLeXI0N3JaMFlBaFNsQWFWSU5KQ1VqeTBkOVlndzB1NV9TTkdPcjRyaHJ5Y01MR1gyUlZua0QyLXlTM1ZNbDNSOUwwcmRFRWZ6azF6bFY3cGY0dHc2aQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T17:04:10+00:00",
+      "summary": "OpenAI’s Turbulent Week: GPT-5.6 Launch, Executive Departure, Legal Setback and Product Shifts Mark Pivotal Stretch for the Company  AI Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Airbnb Just Hired Away an OpenAI Creative Exec - Skift",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hbTBVbzJaWE1BbGNhbjRKcVJuNmwtQzZPR3pYLWVjZURpOEcyanFOVEZEQkxHbEZ5WFY1QU1TekNUOTFwclQ3djVWMlRMSlFjQnY4YzlGUkRJb1dfLVZFa0RZTXVxV2tfYkFPZ3dTUklDSzRGYUo2aU1lMXRJUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T17:01:14+00:00",
+      "summary": "Airbnb Just Hired Away an OpenAI Creative Exec  Skift",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Fidji Simo steps back from OpenAI—and exposes the fragile hold women still have on power - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb3d0dThhQzRZUE9YMW5mdFZuQWhjX3hkd21ZYjVuUllldVFEX016dkRvYzNjR1dDZzFtYnFadEpZdkFTZXlOcnM2c01QcVFfM082dFpOT1FfMnU5Ry1rSjgzbU85amo4bTF1TXZaOEQyemNLS014SkJxUERVTnI0NWsxX3pKZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T17:01:00+00:00",
+      "summary": "Fidji Simo steps back from OpenAI—and exposes the fragile hold women still have on power  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman’s right-hand woman at OpenAI steps down due to chronic illness ahead of IPO - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHdzYWkwV2c5eHBVUmJDQkJOSXB2bkxNS1U3QjVPQlA3MWpXSUw0b1MxR0cyYXgxeDVDTVcyTlBva24zQVdNX3QxSEZPWVNGQlV0OGZXSkI2R2FkUGFPYjdlN25Tdkc2Z0pid25BU0Z0Qjd6RnhvUlk2N1gweThGVmZOLU9sR2doRjVEOG9KZnVpTnItc0hNei1xSWFYUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T16:26:00+00:00",
+      "summary": "Sam Altman’s right-hand woman at OpenAI steps down due to chronic illness ahead of IPO  New York Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI GPT-5.6 Pushes ChatGPT Deeper Into Work - WeRSM",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VZ2lPbDZPV29rRWlZTEY4amhOS1dyUnU3TG9IUU1BV0FEQ3pUOVIxWEo4cDJfeGwwRm4xUjN2UmtMWVZwVzUtallGTDFIVkNLNl9OTnJCcXZKSUZBaTFfSWlxQ0g?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T16:05:37+00:00",
+      "summary": "OpenAI GPT-5.6 Pushes ChatGPT Deeper Into Work  WeRSM",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI ChatGPT Work Ships Files, Not Just Chat. The Enterprise Race Is On - The Futurum Group",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzBhWmdJMUpiTHQzVk1pSDVkeUJEN3VKWHd5RkNkS3NiVTRuOVJWX3ZqRm1CZDBiYnRRa19RbUlKc29xQ1paVnNqS2hDVE45Sl85YWtVNk12cGVVOFZoNmpNV0lzRGhoOGRhQ1NyMlVnM2pIajZfVHlCblBQRGtDc1p5dFUtQl91Z0JwbUN1ZllMbGtNNGZEVzVkd3FaSzREUjhrZ2k5NWhUQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T15:53:38+00:00",
+      "summary": "OpenAI ChatGPT Work Ships Files, Not Just Chat. The Enterprise Race Is On  The Futurum Group",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "How OpenAI’s New GPT 5.6 Measures Up to SpaceX, Google, Anthropic - Barron's",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1BlT0NwV0FZU0pBVDBhbkNCa185VUl2VFFGVDQyWW44QlhUZThVamlFQm01WWdqaGVpQldydTNhXzFzekpoN0ItLXhYMy1PYjdrZHZzV2pibzFrVGR5QW5mcVF2cUtiSGJELXBpbnFGcUNLRThzNkpfSDNFcU5ZM1FaVVlFUFk?oc=5",
@@ -51,11 +105,20 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "The New York Times and other news outlets are asking a judge to sanction OpenAI for allegedly hiding evidence - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NbE9OamZOZGxncHZRZUg0eUdsSW9Zcl94Y3lzM2lsYlFVaGpRMVJwa0RZcml4ZTQxUE5vNzdQNGZLenRfanptSFR1dzVFek93TllRQnE4WXV0TnRvSXJVeV9lcWpwYkQtbnJ1cEg5N0F2Mi1Na2JuNXAycw?oc=5",
+      "title": "OpenAI, Microsoft & Anthropic agree on who runs the agent. They disagree on what you can take back. - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1STUxXNFJEZ01JNWxETUVfbUV2N1YtVEZSVTZ5Y2JraWFiamdKc1VRNTVPVmZyV21FcXRCSjRXV0Zmc2FSSV9TdU0wOTZNaHBFdlVpYjBqUVVzSDQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-10T14:06:09+00:00",
-      "summary": "The New York Times and other news outlets are asking a judge to sanction OpenAI for allegedly hiding evidence  qz.com",
+      "publishedAt": "2026-07-10T14:14:09+00:00",
+      "summary": "OpenAI, Microsoft & Anthropic agree on who runs the agent. They disagree on what you can take back.  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Mark Zuckerberg Is Spending Hundreds of Billions on AI. His New Strategy in the Race Against OpenAI Is Surprisingly Simple. - Entrepreneur",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY1dfbWw1TmRSc1htLUdaazc1aHl2TGhJT053SjZoeFdlS3hfZTFYbmxpZjFza2xRZkNmcjdLVmY3eFhpYUNEY2M2SUF3OW15ajFJME5jbkI4YkFSTUJEWDJUTm41V3R6WkNsT2pZOXVMTUNoQUJXSGtqcS1QYjM2a2xnbi1kT1B2TE1GTUZzOHRGdVkxOEctRWlLbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T14:02:36+00:00",
+      "summary": "Mark Zuckerberg Is Spending Hundreds of Billions on AI. His New Strategy in the Race Against OpenAI Is Surprisingly Simple.  Entrepreneur",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,11 +159,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The ChatGPT \"Super App\" Sort of Super Sucks - spyglass.org",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfNzM5NWdZTzRBZ1V5MkdhRW5mZFJoTmdDNjhDS2lxWEtVRHp3OGdFSEhmM29QWGVFQWV4UmFqMmZseXdvMU9FUm9wNlN1NVNIME94Xw?oc=5",
+      "title": "New York Times, publishers seek sanctions against OpenAI - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NbE9OamZOZGxncHZRZUg0eUdsSW9Zcl94Y3lzM2lsYlFVaGpRMVJwa0RZcml4ZTQxUE5vNzdQNGZLenRfanptSFR1dzVFek93TllRQnE4WXV0TnRvSXJVeV9lcWpwYkQtbnJ1cEg5N0F2Mi1Na2JuNXAycw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-10T13:08:45+00:00",
-      "summary": "The ChatGPT \"Super App\" Sort of Super Sucks  spyglass.org",
+      "publishedAt": "2026-07-10T13:21:11+00:00",
+      "summary": "New York Times, publishers seek sanctions against OpenAI  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-5.6 Sol, Terra, and Luna are here. See which one's best for you. - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jSXR4dlpaVV85YW9GRE5DN3R1TF80bEpHWXR2c09DRkpPb0ZSZHhtal9POW5lSlpMRmJsUUtNV1RWZWpTdUpLMGl5UkpnVHN3d2tabmxkMXVjVEwyeDNCMHVMc24?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T13:09:46+00:00",
+      "summary": "GPT-5.6 Sol, Terra, and Luna are here. See which one's best for you.  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -117,8 +189,17 @@
       "title": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot - qz.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOQmRnOGdsd2xsMkdXS1A3VzdpUUF6eV80c2l0bU9mUEtzZ0xpM3c0cGdOWVF2ZHVpZTFvS2l5dlQzZ0U2b3F5a3hMVl9nUHUyN0pNeWZfb3gwRXotMU4zcHlSak5MZTVnMmpLb2tkWkxQclVCVHRJblh6RkJOdw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-10T12:28:03+00:00",
+      "publishedAt": "2026-07-10T12:52:17+00:00",
       "summary": "OpenAI's newest AI model is becoming the preferred engine for Microsoft 365 Copilot  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Palo Alto Networks CEO Demands Steep AI Cost Cuts Despite OpenAI Token Efficiency Gains - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdHVGRC1mTVg3dVZfVzJMT1htbFRaejlaQ0NKc2ZkblRiMmtfVm9MTlJSXy1aWExGOVhQajNscmRCTExSWXV1azY4cktWRTlMeDhuQ2xsT2dQYUZ5NVlEcFBsX3QzNFhtNWE4UjFXNWFwWGhmSWM5S2NCbERnQnlwMnJ3Z1FCNFI5YVRobkVGU2tpRVFNU1oyNVl5Wk43YjZ6OE9YNjJyc1NDUXRpRlZIdE54cUVYN0hld19pLVdkcmJZdWhHLUVVVGRNTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T12:40:59+00:00",
+      "summary": "Palo Alto Networks CEO Demands Steep AI Cost Cuts Despite OpenAI Token Efficiency Gains  TIKR.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,92 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Unveils ChatGPT Work Ahead of Potential IPO - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNclhIMTFxbm9PdXlWbGNybjdyeW9XSXBaV3BmTHo2Xy1FVWlsa19CdE9ZYldNZmNNckYxLV8zUzkzSzRqNGV1YXVucjl4eUFNcXM3TWloOXJrMlROQ1c2VlFlR0xfT0M2dDdJSWVwN1pUQkJ6eU1zdHI3V1JvRFQ5TzY2cTMxMVg0bnUxMG5DRG9lZms?oc=5",
+      "title": "Tec-Do Integrates with OpenAI to Support Advertising in ChatGPT - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG9uYXN3ak55d0xCd1NhaHZfZ2pPNTRTakNRVXplMXdSX3dfMzgwQ1F4SHR6SkpON0xLRlpZQjFvMHNHZkJxLVBVRmR1TWF1Sk9keXVZNXJQZGN3V0FJTm1pVnF2Tkt2bTVXTUJfc2ZnVE94dVVMbWxsSi1LT2RIcHZOd1VDdjFhc25GVWdac2xCUUdrYTlzcjc2UG5JaWhWT2duWWRkdXpvYWJJODFmdnlOcGMwZjJfcUcw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-10T12:23:29+00:00",
-      "summary": "OpenAI Unveils ChatGPT Work Ahead of Potential IPO  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Fidji Simo steps down as OpenAI product chief amid chronic illness - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tZTl0V3EyYXVTVDZaYnktZ3ZRYWlWNkd1MXQ1UnNGaDYyWG40ZHBhM2lCSFh4YjhXQ2YyWXNqX0IwWEFCQWl6dVZaM3MtdDktRlJqYTBnNXItdWR3MUlzTHh6TElaTTRfTUs1RnpXYVE3LUZo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-10T12:08:52+00:00",
-      "summary": "Fidji Simo steps down as OpenAI product chief amid chronic illness  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Upgrades ChatGPT Health Intelligence with New Physician-Vetted Model - The Healthcare Technology Report.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjlnbHJvbzJwbmdvQ2JvMS1hOGM5bmtzdXlyY1I0Y000RHhwMmJJZFVPQ0p2TWVOYjBiV0xQcEVaYlBmSUFsSDRzQmNFZXZyQXdxR2RKS1ZHYmtSaTdhcGRyMmdiWWNYck1LLXo3ZWxlenBicmExeExWMXBId1UxNV90MmhNSHRrd256dTk0eFgycmk2Vy1PN3dscVM3aUZ6WHdPS24wMUs4c2FLU3I4a253dG5nVkNGc1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-10T12:01:03+00:00",
-      "summary": "OpenAI Upgrades ChatGPT Health Intelligence with New Physician-Vetted Model  The Healthcare Technology Report.",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's ChatGPT Atlas Browser Is Shutting Down - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeFZLUG9rZzl5UE03UGt4UkgwSVgxSUU1MHk3dF9pUHEwU3pnbjZiaV84blFTVzVFdEpwRnA4NUwzNVpJdXlkdWhva1BDTTJmWE80a2l6dHNkcHdHQTI2OEJRWVBQbWlCT2RyX2FUMVVON0RyZlBjdVdWR3NqQTBvX251X2NjMjly?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-10T11:54:18+00:00",
-      "summary": "OpenAI's ChatGPT Atlas Browser Is Shutting Down  MacRumors",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI top executive Fidji Simo steps down to focus on chronic illness recovery - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGQyWlNzT3dlWjVhSEpNT3JwU2N3ZlYzZGloZmoxVjhtQjlPNEdESUZBdWRFRGtzMHBmUUVBOHV1OThSQ1dKRFh4NHlRaE54eTdVc3lUd0lKZjhoRFRyNWg3Wl9JYWRQQUpkcGFPQWZjMmp5S09oV2VQejRhWG1LUEpjWWJyUHE3Ml81Q3hHdVpqdWtlR2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-10T11:38:00+00:00",
-      "summary": "OpenAI top executive Fidji Simo steps down to focus on chronic illness recovery  The Business Journals",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FT: Google, OpenAI Giving Technology to Chinese Companies - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVdzWE9oc3pOOFFoMnBBNnhOcEpZcldEQnV4WUMzTW1FSXR0TzlUYU1VQUxCcXJqc0dRRm1uRGlLUTM5YUtidXRGQnc5UVFocUlHUWVXcUxIam9BbW94UlJPMXJsaFVJZmFmTzZYUWVjSnZvTHFFcEtOSFRXb2NiRmpCRnBnTExRYVJTLTJMYzctLXVqQ3gyazZR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-10T11:24:47+00:00",
-      "summary": "FT: Google, OpenAI Giving Technology to Chinese Companies  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI exec Fidji Simo steps down - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYl9jYVI1T2dLREE2SUx3WWJ3QzRBMHJMMXFBVnU5LV9xZnJSWXVNM1NhQUVlTldFVXczbUU5TTJLOWJJZ3ZuMFlNR0E0Zm5Mcmw1ZHdsTnpkWC1ZVTltQ1VjQlgzajNicHlPX1BYdjNBSExCMDF6dHRlY0dyYkRJZHRn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-10T11:08:15+00:00",
-      "summary": "OpenAI exec Fidji Simo steps down  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s GPT-5.6 Lands With Work Agents And A Desktop Pivot - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajVnaHpyVGY3YW4ydTU0Ui1HOGJ2U0NNcUFiVTUwM2ctbkp2SHQzQjNwRVpkbi1fOWhNYVdQSmJOeVM1S21Gd1JweHFNejF5UkhiTEVaOXB5SFBUSE5QUndlclBTX0dZWlJkZTU1QVBOSDlFUGU1b1g3MFNXZ3lRRFhZWW9WS1FaUkRad0s2OC1mVlY4WE02OE95clVFaDJvOGNTOUFEQVA5cmlWY1JaOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-10T11:00:22+00:00",
-      "summary": "OpenAI’s GPT-5.6 Lands With Work Agents And A Desktop Pivot  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT Work and GPT-5.6, Escalating the AI Agent Race - Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT1d5dmxoYUc4dDhXbEU1dDRZZFktMEdFcTJNT2ZSakdiOEhrMDhNdnJ1WTdmZjdfOERwT2ptOEQ2Q0E4QWVzeUxzdzVnY1NKdDNQTDR1LW5JM1Y5UEJVWFRPUFVDWXR0T0Y0UnhpV3NUQjNBczFsbVcxdmJZdkFFNEZUajdrUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-10T10:49:05+00:00",
-      "summary": "OpenAI Launches ChatGPT Work and GPT-5.6, Escalating the AI Agent Race  Technology Org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Google Provided AI Services to Pentagon-Listed Chinese Groups via Singapore Units - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlRSOURsZmluSllkYVlXdEJRVjNCV3RuX2hITFRDZThaUUp0TjVRdE1xbTk3b2thM0IwX2VYaXpnMGxLZjM2TkU2VVZCWUZ2eVB1eUVieGI5TDU1NGxXM3VWT0VKSmJoYkNXLTlEZVNsWkFBY1dIWGZteHZGUm1tSDczTGNPWW15NGJ3ejRxTWd3bjNXRXgwQkNETFQwSjA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-10T10:14:14+00:00",
-      "summary": "OpenAI and Google Provided AI Services to Pentagon-Listed Chinese Groups via Singapore Units  Yahoo Finance",
+      "publishedAt": "2026-07-10T12:00:00+00:00",
+      "summary": "Tec-Do Integrates with OpenAI to Support Advertising in ChatGPT  PR Newswire",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
