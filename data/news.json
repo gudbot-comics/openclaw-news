@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-07-10T04:26:43.609850+00:00",
+  "generatedAt": "2026-07-10T07:58:07.031942+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Tenable joins OpenAI Daybreak Cyber Partner Program - intlbm",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFVGVExSWU1KX0Z4VHZXeUNKbWI5eDY4bWVvdkhQeDVXOXI2cmlaVWtsWEw4dUFtRVU0ZHpoYk9uRGh3XzVSMUVJMWpJMDlWTmRCTFJnMW9OOXJYQjRxNkJTYXo2bTctWjNoc3hYcWJOUGxZbmxqeFZmNWh6amt2MDYwSWFBYS0xTEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T07:43:33+00:00",
+      "summary": "Tenable joins OpenAI Daybreak Cyber Partner Program  intlbm",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SpaceXAI’s Grok 4.5 Undercuts Anthropic and OpenAI on Coding Agent Pricing - DevOps.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2ROV2lrT2xTdXFCRkNmcWhYaExiRGVObDJTS1NVaXE2c01MaEt1VWU3WmIxV2ViTFF4Q21QeTgzdEdwYnlHRi1SS3A2M2J5M0tTZnBueksyNkFicFo0U1MtMUNWdUlFcXBmYXc5OXpnWnRoODRaMVNMUmlEaGRiUktBQmxoVUltek9FU3ktRzFVTkMtYjB6Vg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T07:08:55+00:00",
+      "summary": "SpaceXAI’s Grok 4.5 Undercuts Anthropic and OpenAI on Coding Agent Pricing  DevOps.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Google supplied AI models to Pentagon-blacklisted Chinese firms: FT - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ3ZtZmhtZjdyak93cFZZYWlzeF9CQmpRWEduQTdEaEdrUm14UjRxZzZEd0tFcjJRVExlTUxFbnlzdHo1eFM3RjNJeGJucDZ5bXNXd2tOckpLaVVuTUhvMWpMazhHS1NFWDhRVVJKRGVDOF9ySDhGdTFwQlU4bng4SXhCODJBbVFIcmMyNWkzU0VvaTN2VjhjeGxkdERkMzF2UHh5RTIxQ05yVlltbjBpajUxSTBtLU9jT1FXWHAwMkN2VkVMX2VyZg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T05:27:36+00:00",
+      "summary": "OpenAI, Google supplied AI models to Pentagon-blacklisted Chinese firms: FT  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s AGI deployment chief Fidji Simo to step down - WTVB",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcS1PS3hWZzBmOVZvSk9RbG1rYktVeEh2NTBqN0o5aU5EeGRYVWt3MTQ1cXpsZmN6bEh0b19JMWFvazNxbTNDR05MSVM2RWZYblozZ0FHOUZ0aGQxT1k3T1k3RGpQaG93T2F5czJDckFEaEE4MnRMa0tlajl4S3hWdE42SzEtX3dE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T04:30:06+00:00",
+      "summary": "OpenAI’s AGI deployment chief Fidji Simo to step down  WTVB",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Intuit’s Shape-Shifting Media; OpenAI Studies Abroad - AdExchanger",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYVkRkbF90LUhzUUZXWkRUMXNLTHhPU0ZhODluUzNTNGtZTmZxOWxKRUM2eHVBdnpvaU5VTm5ha3FHWktDQVJ3Q1FZQVp1Ym8zcVNVRkJuOEdzd0d0S05uWG5PWUdFWGNRUkt6MjVrN0U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T04:03:41+00:00",
+      "summary": "Intuit’s Shape-Shifting Media; OpenAI Studies Abroad  AdExchanger",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Cerebras Systems, OpenAI Tout $20B AI Compute Deal and Europe Data Center Push - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalRoYk8zQjJMZlVrMzV0OEtBb1VZS3daVGc5VnFEVzN4Y2oxa0owVndPbnl3dmdTc1NGc0ZReUZrSy1FWDc1RDF4bG81STRQTldUSDdEc0lXREt1RWptTUw5SnJTb2RXcFloamViVVE5Uy10UDhvMkhHMmhrNHAzbjJZekMwQ0E0dXljMDV5di1IcThvWGFVV2tHcjA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-10T04:02:00+00:00",
       "summary": "Cerebras Systems, OpenAI Tout $20B AI Compute Deal and Europe Data Center Push  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Google sell AI models to blacklisted China groups - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHA4ZGhDX2txSlRteVpJbTZXWUZRUFpWTURzWTZBeVo2dFBpYU4wOVlPd3l6Zzc2VjNWSFJxajlXaUxnQUFMejVxMmM2YS1TbHRURjJNQzJlU1BFQkdpSzVHOFd0LUliazlPcnp1YXB6cGIzaEZwaklVeldyR0J5VXZGX0g?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T04:00:51+00:00",
+      "summary": "OpenAI and Google sell AI models to blacklisted China groups  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,6 +96,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenClaw is now available on iOS and Android, but tread carefully - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55NDBTUWljWGN4VkR5TnpxcHFGRklyZXl1djVjRDJzanlyTC1hUTBFNV9BalhPUl9va3lhT2JacE9xME1ZdHY0VU9tS3dqeVNDcGRRNTVydmpiUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T01:47:32+00:00",
+      "summary": "OpenClaw is now available on iOS and Android, but tread carefully  Mashable",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "OpenAI’s Fidji Simo Steps Down While Battling Chronic Illness - TheWrap",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHgtUmRKUGhxblQtTm5aN203SFZKTG8taVFnV3JWTnozRG5KT25yUEZteWliNG0xbHVFZ3EzbHozUlNBeGo2aDhnQUI2VEpFOFRIckFLSWd6MnhPWUcwVjRYZy1RTlNaNnZVZVVNeWhaTW1SSnVfcE5iZ3JiNTF0TWlxaElDR25RYVg4bW5qRWtscWZ5QlRhZ1JB?oc=5",
       "source": "news.google.com",
@@ -60,11 +123,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Exclusive | OpenAI’s No. 2 Executive to Step Down in Latest Leadership Shake-up - WSJ",
+      "title": "Exclusive | OpenAI’s No. 2 Executive to Step Down in Latest Leadership Shake-Up - WSJ",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGRjYk9NdENUVFo3MFdZYmNXM3dPMmFwZE43V1VQdkEzTXBlUmRzVG5sTDJiNUxnUXE0X0tWTHY5YUFNb3RkSnpTOGwxYXMwd3NtNDNrYUxJbWlzbnY0N1JxV1lvQnlYT1hISWZwdXMtcnp2VTlnUDZSbTJhUUxOMG84MVE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-10T01:14:00+00:00",
-      "summary": "Exclusive | OpenAI’s No. 2 Executive to Step Down in Latest Leadership Shake-up  WSJ",
+      "summary": "Exclusive | OpenAI’s No. 2 Executive to Step Down in Latest Leadership Shake-Up  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's No. 2 executive stepping down over health issues - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDY3dHJrZkJpZUdWYkNJWE5UR1lxQm4xdW42QXdFYnR6cXo2Z1dEUnk1ZFUtUHk4ME1ELUw4U21NOGlOQWNWRWpGZV9ibGtVcjhwTWlmQlJreW04WnRwZXI4emIzTDFpMDhNRlpTanNYYXk0VlRMM0taSUl4NGx2aw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-10T00:38:24+00:00",
+      "summary": "OpenAI's No. 2 executive stepping down over health issues  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,15 +146,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-10T00:38:03+00:00",
       "summary": "A Top OpenAI Executive, Fidji Simo, Steps Down  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's No. 2 executive stepping down over health issues - Axios",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSDY3dHJrZkJpZUdWYkNJWE5UR1lxQm4xdW42QXdFYnR6cXo2Z1dEUnk1ZFUtUHk4ME1ELUw4U21NOGlOQWNWRWpGZV9ibGtVcjhwTWlmQlJreW04WnRwZXI4emIzTDFpMDhNRlpTanNYYXk0VlRMM0taSUl4NGx2aw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-10T00:35:18+00:00",
-      "summary": "OpenAI's No. 2 executive stepping down over health issues  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,20 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TmpuRTFja2ZaZW5UUzhwc3lrRlZwZnJjMEJfQVFPU1JHSDFPelUtWXNON25GLUdHRWhxNWNCTW1zcXJGWFJfQU1sSjBqbkswWDR2R1dHcGs1Q1dwYTJMZVFaVTJGZHNub2ZIOEJmVU5XdDNobWRpOXN1SXNKSGM?oc=5",
+      "title": "OpenAI number two Simo steps down to focus on health - France 24",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmpJbE96MmE1TkVKbGZFZzFPTXlkRlo2QXJpVnNDd2MwOW5KUlZuQURjemNrd0hGMlhuUTlfNk9ETllXbGtlOEtVeUJHNnBBMW56UkJ3eDJQYXdzLUU2dG1NejhEcm96d1hLRjNwaVQ3NW9BVmY0RUhSRElQakJtMjdYVHVJRllwUUpUY1BVQXVoU2tNLTBCMnB2cGJYeVNV?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-10T00:01:11+00:00",
-      "summary": "Meta launches paid Muse Spark 1.1 API to compete with OpenAI, Anthropic  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Number Two Simo Steps Down To Focus On Health - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObXpxU3hMQUlhdWlQT1VJYTR0SExKZlN5aTNRM1VuVVB3WHctb1Z6bmdmdGhyQklhLUxZNUE3a2g5OS1tdFBKZTFyYXRxY3VXZTdEcVNkZldMUGlHUGxxRzRlbUd6NzNhWHR1b09EcXkxRWhYaUw1amRtdy02bWdVTXF5OG40R1BDNGVwQU8xR0t5ekZy?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T23:54:00+00:00",
-      "summary": "OpenAI Number Two Simo Steps Down To Focus On Health  Barron's",
+      "publishedAt": "2026-07-09T23:57:00+00:00",
+      "summary": "OpenAI number two Simo steps down to focus on health  France 24",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,65 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s applications chief Fidji Simo to step down - WTVB",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcS1PS3hWZzBmOVZvSk9RbG1rYktVeEh2NTBqN0o5aU5EeGRYVWt3MTQ1cXpsZmN6bEh0b19JMWFvazNxbTNDR05MSVM2RWZYblozZ0FHOUZ0aGQxT1k3T1k3RGpQaG93T2F5czJDckFEaEE4MnRMa0tlajl4S3hWdE42SzEtX3dE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T23:39:05+00:00",
-      "summary": "OpenAI’s applications chief Fidji Simo to step down  WTVB",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Fidji Simo steps down from OpenAI’s no. 2 role - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0E2SkZ5bEhBSXVqaEZsUmVfVGpJUlRLeXVtdHJCY2Zfek1aRFlyTW9YblhWVDkwMEdoX1FMNzltQkU1Wk1uekZjamJINjluVDRVT29IR0N4NzRrRWZ0NDBzUXA0c0dWbnJ3QUpVLXQ2WW5pcjBmM1E0MDI5M01lMG16ckhIZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-09T23:38:00+00:00",
       "summary": "Fidji Simo steps down from OpenAI’s no. 2 role  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1p3d09QWlROZ2pud0RuazA2Y2lDZGdGblFXdWNkSTJ2SWdGNDY1LTJJV1dQVHcxUFJqQldaNExIX182MkV3SlZ0ZzNoX0ozNDVqdnlTcnJMTjViUXhVME9KWW5wV3JIMDZIVGRwSm5yNndCSjhrQmdvYkZlUGU3NDBhSDdRdVkzYUhjZDVadzEyc0JUWXVyS3lXNE9CTnFO?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T23:24:04+00:00",
-      "summary": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzZ2YUZyWC1oZ1BpSi14RHVwNFZrMFVncTIySTRNRTVyWjdrOTJWaTJCaXlDTXVEODJZM0JVY2JmcmRxSUNFcXlXSlE0SjRsVGp5cXBNNWVSVE1oT0VMa0RlcDJYYllIYUNaTkY1Qkk5YWhtY2Z4SG9PbzFtM2k3SVljSklWR2F6QUNKbWdhdlZmNzlNdnlJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T23:23:00+00:00",
-      "summary": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Top OpenAI executive Fidji Simo is stepping down - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdkVkTEhNbGJxWVptd2ZCY1pSNG4yZnFobS1NUDNscXhrVGt1NklZZHQwTkdWMVFaVDh6WlpIQVM5NzNmNVNsN1BnQUFmdFVRWDZLOXl5VjhWclpCMGNHV1JXd3pHdDVIS3lGT1g3VFdjQ196TEpfVGVtNEI5Tno2a1BlN0h6NXI3U2p3NkFRdmM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T23:20:00+00:00",
-      "summary": "Top OpenAI executive Fidji Simo is stepping down  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Fidji Simo leads OpenAI’s push to make ChatGPT a profitable consumer product - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oM3JCandxMU5Yd0dmNXI3Uk55bEQwc3hpY1o5SU8yYzgxVG41dmRSdlE1YkJTcVM0MnYwZkxMR0xDOUdIMGk4R09RWWE2a0Y5NkVpZHFGZTcyLVR1LUgzMjVlckI1UVBPNW9tUXBXX0o?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T23:18:37+00:00",
-      "summary": "Fidji Simo leads OpenAI’s push to make ChatGPT a profitable consumer product  eciks.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yejA4UXRic0V1dmFFZHNtRlI1bVJ5MzlCLXZWRXVSdkhjV3h3aElSRmpORnBDdnYwTE5ORl96ZWx2VEt4X05rREhOa3NGM3V1Nnh3TGVQRmpQWWpuWUtnYkttd2QwRURJS1NQNnkyWHppdWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-09T23:13:00+00:00",
-      "summary": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down  WIRED",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
