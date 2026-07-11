@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-07-11T20:32:18.918076+00:00",
+  "generatedAt": "2026-07-11T21:28:34.910549+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Apple Sues OpenAI, Alleging Systematic Theft of Hardware Trade Secrets - La Voce di New York",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQmFRd1J6RTRDcTNQaVdFU3VPZWllWWRzNFpGQS0wcXV6MXRHLTN4R0E3Ym42cHYtZ1VKQ3l0NmU3YWNkdnU0QkNZeHdJakxOZElxcFQ1Q0V3M2FiUXRZLXdKellHRTZxZlBRVS1Iamx3M2dGeUs5Mk1aTW5aQnNjREpSS21ieDdwZ2RTRWRfWlZqd1o1b0YzVUtndHVCSTF2LXd1em52QUlKbE5QU092NFBGc0d2eWha?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-11T20:39:28+00:00",
+      "summary": "Apple Sues OpenAI, Alleging Systematic Theft of Hardware Trade Secrets  La Voce di New York",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple alleges ex-engineer's 'LOL' access led to trade secrets theft at OpenAI - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNREpLZFZTb1RKQjZST1ZPR3BBRXFkSUJ4NW9taTdiQmxVOUNlMEYwMjBDYl8taVAxakNVb19zTFpvQ29yamNyQjRaNkxIMzUzVVE4cG9RVXcwUmo2WlU5T19aQmxKU1AzV0JPSl9zZERLU3ladzl4Y044Tm56UlNpdXo4X0dKdFUzdk9GVVZ0UWhUNkVEbnkzNHo3WExiZVZYOWxwNk1LakJPNGVobUliTFZNN1k0OFg0YS15OXRfcFhFWEt4NWpR0gHMAUFVX3lxTE1aWWdNVkg3dDZMeTV2WDdJOHhxOC1sQlEtZ0J4NmNscGdrYWNiNWhXTFRMNnJIUHZTc1VJakFzenY5eGZ6V01qS3lzeldOZWVUYjlxTTd0eExjMHV1TVNmYmJfMDlwb2I2ZllFUXJoRHd1Z1NCNl9kX3I4OWx5Y2Q0dkhsdDU0d1N3aWVBS2c0NTZ4b3pCTkRnSVMtbDBNb0prdDFJOU1tYzByQkFxVk1reTk3NmFURWE1RTVuanQ1MTFyUXVBSms4Z3dEeg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-11T20:26:25+00:00",
+      "summary": "Apple alleges ex-engineer's 'LOL' access led to trade secrets theft at OpenAI  Firstpost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI and Anthropic IPOs expected to create new billionaires, reshaping capital flows across crypto and equities - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEWnl3ekl6WEpTYU9CcmM5OEtxR3pLY3VrLThJenBlenI2SkhMdGVsdEx0M2MzUWc2Skt1Z1psM3FQRVFtakNNb3RyY3BqdkVQNU1RWGNRMWpBYVpWQ2VOdlpqNE1kSFd1bkdWaTFfRHhGNmp6?oc=5",
@@ -69,38 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Sam Altman Boasts Newest OpenAI Model In Latest Dig Against Elon Musk - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMjRHYWo1ZnpsS19OMkJUSDRjRG05S2FhYXQtYV9IX3lIdzhHaElPenpSYnJxWUxmQ0h1Z2hWX3BtLW9oWllKOEVOM21yc1ZmZjBNb3FPT3hiOWZGMElwWGY1LXJKOXdJTDI5a1VuTGdtTnZRRXlQcmF5RGppdEI1N1g0ZEdjdmZEeHdhbmZCME8wWGhBSUg1b2ZkQjE1Ry1UekdZLWh2bTc4RlAtZVlwRlBnNmFwNGpJUjF4bllwZ0VFY2xSNXRPRHB0M0p0YkhWSmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-11T17:43:06+00:00",
-      "summary": "Sam Altman Boasts Newest OpenAI Model In Latest Dig Against Elon Musk  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI engineer's 'LOL' moment at centre of Apple lawsuit alleging trade secrets theft - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNREpLZFZTb1RKQjZST1ZPR3BBRXFkSUJ4NW9taTdiQmxVOUNlMEYwMjBDYl8taVAxakNVb19zTFpvQ29yamNyQjRaNkxIMzUzVVE4cG9RVXcwUmo2WlU5T19aQmxKU1AzV0JPSl9zZERLU3ladzl4Y044Tm56UlNpdXo4X0dKdFUzdk9GVVZ0UWhUNkVEbnkzNHo3WExiZVZYOWxwNk1LakJPNGVobUliTFZNN1k0OFg0YS15OXRfcFhFWEt4NWpR0gHMAUFVX3lxTE1aWWdNVkg3dDZMeTV2WDdJOHhxOC1sQlEtZ0J4NmNscGdrYWNiNWhXTFRMNnJIUHZTc1VJakFzenY5eGZ6V01qS3lzeldOZWVUYjlxTTd0eExjMHV1TVNmYmJfMDlwb2I2ZllFUXJoRHd1Z1NCNl9kX3I4OWx5Y2Q0dkhsdDU0d1N3aWVBS2c0NTZ4b3pCTkRnSVMtbDBNb0prdDFJOU1tYzByQkFxVk1reTk3NmFURWE1RTVuanQ1MTFyUXVBSms4Z3dEeg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-11T16:51:53+00:00",
-      "summary": "OpenAI engineer's 'LOL' moment at centre of Apple lawsuit alleging trade secrets theft  Firstpost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Apple accuses OpenAI of stealing trade secrets - Taipei Times",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CdXNBQU5IVXptOGlYNnFIbXh4b1NWc21rckdCZkx6akNhdjVtSkhRY2xscXNnRWhVTnUydE04VUFjYzduVkZhbGh5QmxreDRQMDd0WXNrX21mVkktSk9TT0RlRWNfRFppZGRFWEV2bWl5VHpoOFE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-11T16:00:00+00:00",
       "summary": "Apple accuses OpenAI of stealing trade secrets  Taipei Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple sues OpenAI for trade secret theft - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95SmlFMk5RQ0duYVgtRG9ZczN1MjZma18ya1BDTnV4bXp5Ti1DNkl1YU5pRUFEdjNMVFFpYS1LWThhMGFXMHNSSVRlMjJ4RDBURndqXzZCdlVyV2N3SGdRb0otS2FoMHNFbEJuWGQ2NklKMENVWEIwZA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-11T15:46:03+00:00",
-      "summary": "Apple sues OpenAI for trade secret theft  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,11 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekdUWlV4aXB3Umo3VHgwLVdjaUNpWHNvMW5fM0RoYUNnQ1I4amFqZEkyRjlSV2Nrb2Fma0xSNkVrbVFCSExCckJVdVJGblVrWnRnWXpHNGFVWWlYMW9vSUNsalpjUVNjZ1FiRm9IaGo2OVdBcjZ6U0owQS1EbXBtc3hwMzM1N0NSbzZka1NzZnJhbXVoNFlVcmhwTGlqOFU2a0REcG84LWl2X1JJeTV6ZUl0Z2VBZ0k?oc=5",
+      "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10ZkNTb0tGVnFXQVRyMWttSkdNekIwLW4yeWhseV9nVkliZkxYV0JjY29NN2NBX3QxMGdTYURWekFZVGhVN1ZQWHhFd0NvVl81LU1jYmxyb0tKSTZRbGdVdmZ3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-11T13:59:00+00:00",
-      "summary": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple  Bloomberg.com",
+      "publishedAt": "2026-07-11T14:04:12+00:00",
+      "summary": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag  The New Stack",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -173,15 +164,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-11T13:14:28+00:00",
       "summary": "‘Rotten to its core’ — Apple files an explosive lawsuit against OpenAI  Computerworld",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Google AI Models Being Sold to Pentagon-Blacklisted Chinese Tech Giants: Report - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSG1sYXF5S3NYeWQwZnVZd0hmNUNBall3WlRsVld6VW8zMjFTUFcyVG9pclBzbUprSXFuVXF1R1ZSQnlNOHI1QnAwaWhkSXZpR19nYTkwSG1UdW1GajJGUE5EaG0xYkFYLVp5YlZ1cU1nT2l5NTJrRVFmbVRMSkZkOElyczhfclRWR0RhSm94RWlnWUk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-11T12:31:19+00:00",
-      "summary": "OpenAI, Google AI Models Being Sold to Pentagon-Blacklisted Chinese Tech Giants: Report  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +200,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-11T10:34:12+00:00",
       "summary": "In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple sues OpenAI over stealing 'trade secrets' - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVDNtMXlQNlZ0Z0pBcHNGd2MwTm1tM2lCUUc4WE9ZTTdXckVKTnFJZnlxSi1xcW9jTllmQzNBLU81OU0xTDV4Qm8zSWVoZ19MTWZQcmJzd3pucE8zMXYyN2NsbmpYWWV0OC1vN09haHZDX2IxU29MbVF5dFpKTlY3NENwUDPSAYQBQVVfeXFMTXJ5Y3JyWVV0NnVnaHByNnBkRUJpdGF3YXRFZmd5a19BbkJTVXIxQ1VJemhfT0R4TDNRY013WHNTNGtNbWVkSXFndUllYzRrUnlxaFp3anlDR1hDQkxYOEpEUGlrTzkxcGhyalFUTVNMZnlUbTJOdnhyZkE4bnBXSlNsU0dh?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-11T10:09:40+00:00",
+      "summary": "Apple sues OpenAI over stealing 'trade secrets'  DW.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple files lawsuit accusing OpenAI of stealing trade secrets - Northeast Mississippi Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSlpiMXJhQ1ZJazlHamFlQXZaZklYMVRUcDRpUlY4OGlIMHdJbjkzWlpiN29RVlIyZTdyTlA5R3JKTFdNTUZ5clIzTWxVdk0wRkZseEo2NzA5YWd0dGg5a2Z6dVhBc3Qyc0dqUTZyUVlaU3NwMzBWLTBEaG90OXdHVzg2bmhJeUtFTXhLV3VjSlJndlVkZjhSRXJ6b0hoekwyUElJcE81dmNXUWM2THdVNkh6MjduOERGeWxBaEZfbmxTVTR4YmdOb3laRDl6bjM3WmZtdlhwaXVlUGZxR2owRkxVY3Q?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-11T10:00:00+00:00",
+      "summary": "Apple files lawsuit accusing OpenAI of stealing trade secrets  Northeast Mississippi Daily Journal",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
