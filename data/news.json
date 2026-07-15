@@ -1,25 +1,142 @@
 {
-  "generatedAt": "2026-07-15T12:58:29.384864+00:00",
+  "generatedAt": "2026-07-15T14:55:27.427282+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI’s Chat Robot - spyglass.org",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80bDFjSjhhUTFVd0V5MnFGNE9BTVYxWGNUSzA5eWZwYTI0eVFFOWFkZG5rY1BaWS16d19hZ0pFVDVpSXh6eVRqU2lsQ2ZTeUpV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T14:46:15+00:00",
+      "summary": "OpenAI’s Chat Robot  spyglass.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI blames email mixup for why it didn't respond to Apple trade theft claims - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORHB6R2Y2dEJSYTVrbzg0RVNJV0ZBY29xZ2M0cTM1OWZaNGlBdmRnMFZ1UXZVLV9hZFFFUExZaHJGdzRKN1pCblJzMXFlNWw1eFBMX04xRHdXNjBaZTBtQUt6eUlSYmJDeUd4cWtCeGtEUFpja2REd0V5RThiQW15RUtqSUhrWHJEY3hIQlVBQXI3LTJoMjN6azMzVkpTb19HdXRaVDIwRGhsck14N1lYUXRnZUVpenJaeEwteGVn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T14:26:00+00:00",
+      "summary": "OpenAI blames email mixup for why it didn't respond to Apple trade theft claims  AppleInsider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "An email mistake derailed pre-lawsuit talks between Apple and OpenAI - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPem9oM3pRNVY4MEFMUjFWZXFCd01CZG9TMElWYTllM2JtQWFsSGV3SzFDSHp4Z0NmTU1sR1J3a1ZnczlHNEtHSE9vYTFySXFtV3VYbEVhX3J3dmU0UkdYNm0tMlFFQV92cGRmd2hvTlRET1hJOWlkZS1DZG4wOVBSMG1aWW1PUWNSZ1JxZU9nQWxkMnZPcE8zakJEQy1XWmNqVVVQMFJuRzRlampmSUZfYklnYU9wM3JQLW9nYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T14:26:00+00:00",
+      "summary": "An email mistake derailed pre-lawsuit talks between Apple and OpenAI  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is Reportedly Working on AI-Powered Mobile Smart Speaker - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGNDUEpHeEJWZW8xS242c0UtN3lzdGIyLVZTU2ZjdmQxUDJ5RjlIbVQxV2tuckhTWnlBUGhGRTRlTkwxWXdPRGpoa3lpd3EycVFLaEFrLWhsMmQ3c2VPZXl5a0JTb1YwY1dqS3NMdnNoYldHbUx3cGRsMlNpaW84MzJ0NTEyS2twZUJFZ2laUW9tMnU0ajN4VF9GeFdJNjhFcGRDdktyRTJCUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T14:10:25+00:00",
+      "summary": "OpenAI is Reportedly Working on AI-Powered Mobile Smart Speaker  Thurrott.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Hits the Streets with Creator-Led OOH Campaign for ChatGPT Images - Little Black Book | LBBOnline",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOXzNDMFMwaXpUQjRXUHNRZV9TaTBlejExWWNDMVZPYTJ1SGx6azJnZEg4eEhLQkV1R1F1bW95cWNINkk0bGYydzNsdzZCemxCZE93a3lmd285SldnM2pOTEVfeXVPVWR2YmtiUjR6TjQ5MkZ6TlVyaVA2bndtbW1Wbkx1ME44Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T14:03:14+00:00",
+      "summary": "OpenAI Hits the Streets with Creator-Led OOH Campaign for ChatGPT Images  Little Black Book | LBBOnline",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft Gives Salespeople Tips to Knock Down Anthropic, OpenAI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMEljZDVNTS1TRXFsZzdHNC1UUk4tVlVmU1JqN0gwYkFtbHF3YWlIN0JnWDhfWXJmbUVMTlNvMjZpNFE4UnNUOFhORDlqZUZIX090YlV6c2w5LUgxVkZwbGM0N1ZWZnlOOEJtRmZ1TV91WjZPUmMzODQ4ZG1GMlVyREtYUEdGbl8wM0pHVHV1Mno2NkR5aUo5anF5Qk9kbVRuQXV5cW1zU1FrVkcwdGlxVFlnWjg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T14:00:00+00:00",
+      "summary": "Microsoft Gives Salespeople Tips to Knock Down Anthropic, OpenAI  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's First Device Might Have Been Revealed — Here's What It Does - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LZTVhWEJlc01sVWJLVTR3MTl1eHFDYVJ3aE8tRHFLeGF2Z2dKdGdtYy1KU0F0d0tBNFp4dWx6Zi1tS2VveHVQdEVZd2h0VHo0c3JXM2ZuN3U1eUdsbFFMZm1TVFNLaE9hVG9Ia0g2ZDZsanV4ajRpaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T13:45:57+00:00",
+      "summary": "OpenAI's First Device Might Have Been Revealed — Here's What It Does  bgr.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI hits 8 million Codex users — what developers need to know - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uOG9LNm1LYUlzb1BsbFNtcHlyQUdzWFRtQ21OT2ZSd2JWSnE4d29fWWoxblljc1c2T0ZDSHVlZDMyN2pFbXpoVDd0TEc5c2JmQVZWMTc3SjRscGN0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T13:34:20+00:00",
+      "summary": "OpenAI hits 8 million Codex users — what developers need to know  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "The hottest AI models in Silicon Valley face a powerful source of competition - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1hWWUU0R2dWOFBNWUcwRHBZdm91YldIOWV3N1hWZUZoaF9sVll6R1BmVWxrbEhpVjQ1RnRqSXh2b3QzRmhKN25pZFo2NG5mTjZ2SEpfeERZay1lVlZyWmxKay1YTkRmc01lUjJkdkNWZ3RRaWlHaHlEVVJoNWptSVFVS3B5VXBXX2RqRHBxcUY4QVBSNUVia3pDWmFTRVpnYkNkVnhLTW5xYkc2UzJxc2MzeHVxcHpTSURR?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-15T12:55:51+00:00",
+      "publishedAt": "2026-07-15T13:32:18+00:00",
       "summary": "The hottest AI models in Silicon Valley face a powerful source of competition  The Washington Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Inside Anthropic's State-by-State Plan to Ratchet up AI Rules - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHgyNW4yeTVXekxUQkZ0VktibnJFdXpKSFJNSDBRUVVmWkdhaUNGVFhmLUZ6aFdaTVVtNUQ5MlFoM05tcmhUclRsWmtxSDhfUDdIUVVJcHh2MWhPUVBCOFJaNzNmaXBlY080V3ZHY3JyM0xob3F3Y3M2bzNFWVRpakgzRUJXSVhySjBMY0Zn?oc=5",
+      "title": "News outlets urge judge to sanction OpenAI in high-stakes AI copyright fight - Free Speech Center",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjRUVDVmQ1dQZHUzV281SkNZcHhRdlMwMHZLRFNzNXZVY1J5RUdQSXZiZ3p0UzdmZ1NGR3Q4d2JZazlXdGNBT213dWNVY1NOb2pSQkdGbzdLSy1yS0tGMFFOWWZZalYycHFKTmdJNGFyS3l6X25yaE9CSVNVVzFydDIyYlVGejdkRzd6aFp1ZWl6ckZBYm9UMFl1WnhBdzI4aGxtQXJaaklKM3lNQkZ6cTNUV3U?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-15T12:05:33+00:00",
-      "summary": "Inside Anthropic's State-by-State Plan to Ratchet up AI Rules  Business Insider",
+      "publishedAt": "2026-07-15T13:30:17+00:00",
+      "summary": "News outlets urge judge to sanction OpenAI in high-stakes AI copyright fight  Free Speech Center",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's First Hardware Product Could Be a Portable AI Smart Speaker - PCMag Australia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmZQYnZTZW9fazZuNkRVZkxHT01oUXVUaUJCdHozQ3BMMHNQUEhDTGJEbEFxMWk5MFYtR2pTczJYYlU2eUZkNktZQXpyUnFGS3VpRFNaekg2cExZQU1KZnRxb3lOb3lCNVllUkdrdE1Uc1NqVm03R2lkUE9ZSUV2Wk1GUnBOWXBaMTNvWGNyYkdlN05sWll3Vi1OZHA0VTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T13:17:31+00:00",
+      "summary": "OpenAI's First Hardware Product Could Be a Portable AI Smart Speaker  PCMag Australia",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s First Hardware Product Will Be a Screenless Smart Speaker, Report Says - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzV5ZzB2TDRxY0dHTXZoXzdicklkY28xQ05NOXpjMUEzTmpOaTQ0d1EwSUFsb0M3b2hRU1U4eGdCVlR3bmVFM1hmQjFwN05Fa21HYi16MGFEaW9zcU1WWTRwWFluRXFIdUhkUW8wdG9rdnl5Rm9sSElWbnNxYldsYUk5SDZXOE9USVFrLTJTNUVhTTdBR3BCYnhhU3dMdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T13:15:05+00:00",
+      "summary": "OpenAI’s First Hardware Product Will Be a Screenless Smart Speaker, Report Says  Technology Org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s health AI chief: ‘Bet on the models getting better’ - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVlGNkY5RE8tM1NvNTJkN1RPdHVrSzVmX0pkSGtxM3pKekIwN2ZwUVJmbVFpUTdVV096d2tsSlhBaEs0ZTB3RTN1Z0hJNEY2WjZZckVWdl9VaEl2RExXbnhGOW5qZ3poSTNMTDBPc1E3Ulo5enkyU3NLSzAzR0k1MkkzUHJIcWJrRHhuVEVZa05zQkZ0M0w4Zm54SWxueUs3TWZ5YjRMcjl6UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T13:11:44+00:00",
+      "summary": "OpenAI’s health AI chief: ‘Bet on the models getting better’  Fierce Healthcare",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s hardware device may partly compete with AirPods Ultra – and lose - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1licV95T1R3anV3WTVUN1JwR3dBOVU1ZWRmUUtZR2lZTF82T1Z5bUFjLXZSb1VQV1Q5eE1TWmtFWnlyVk4zNFRIOWxoQlN1TGlsdXoxTHA3alZSRmM3Vk9sYm9Tdk41Ung1WWg5RXQxdWJsU1YtT3NlbnNldkoxVTZKSUhiRUh3M1hYRnM1MTJkWHB1dGdwZmlIRm5MYS1jQ0RqbQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T13:02:00+00:00",
+      "summary": "OpenAI’s hardware device may partly compete with AirPods Ultra – and lose  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI loses trademark dispute at EU court - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUWdiV3MtSjVTYUdiZ054LXVXM3I2aGN3RC16TmhxbHU0UHlmaGZyejlSVWthOVV5TnpTdGRkbnlJUU5WdVE1WHFUYU9YOERsN1gzVVZGNjlpZEF3UFBJMWxHSmlTbnlBWTlJWDh2blBmM0ZuRW5Td3NUZ2l4dG12djNERENmeFBrZVE3cDR0NjlzLWl5b3lrdmZBSFRsdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T12:33:40+00:00",
+      "summary": "OpenAI loses trademark dispute at EU court  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -27,7 +144,7 @@
       "title": "OpenAI's smart speaker sounds like a cross between a HomePod and a Furby - Mashable",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ERjM5a1lrRjRLcDBxa2xTbFhPeXZLTGRpYlh1b3hJZDdYUzA5blJDczlqVlNwMEJZZTh6R1dhUEZSamt1MHUybkpWY3ZDUTRqTjRXdlRGLW8zTDVpUU9pQnI5emV3Tjc5RXd3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-15T11:36:22+00:00",
+      "publishedAt": "2026-07-15T12:30:31+00:00",
       "summary": "OpenAI's smart speaker sounds like a cross between a HomePod and a Furby  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -38,6 +155,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-15T11:31:00+00:00",
       "summary": "OpenAI's ChatGPT Ads Get Location & Audience Exclusion Controls  Search Engine Roundtable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s first hardware gadget reportedly a mobile smart speaker - Silicon Republic",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMHduNUcwU0kyeGdvakc4MHlXbm0tc2YxbDRSN2gydnFmdFhGMFFodVY3aGd3NEo5TndES21ETl9tU29qcFA0YmdiQU9ZQnlrREhXZUF0NmdCU21oZ3doTlpiM21Dck5jRWRtRDFfOGRyQ29XeUJCdFJqZmNUTnpmbU9DX1dQX1UzbmtrSjlnWDF1ODA1YU8zT2xWdkxHTzNWS2dweDV2RQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T11:16:30+00:00",
+      "summary": "OpenAI’s first hardware gadget reportedly a mobile smart speaker  Silicon Republic",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,11 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The Race to Stop AI’s Threats to Democracy - Mother Jones",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSzExUWJuZUgwSTc5b21xb1lYYmsyY19FNEVYd1BxVjBZR2VvSVc5YVJMTC1FM0tqZDI2M3IxSHVKNlBnT3N0RWdXV1k4dGE1MmpmMG9pS09vbjM5RUl4LThiMV9mdXZpOThaNWEwbU1QcndzMk1kVjU2RnllQkEwNXhXbHoyTjJIUUtBLU5MNGFfTVBLdzNKbjJ1bXZaQlQ4Vm1oajZvdVhNZElNQm9J?oc=5",
+      "title": "OpenAI Unaware of ‘Any Evidence’ Showing Apple Lawsuit Has Merit - Insurance Journal",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNX0JiVTcyRVFwVmRlRTBvcUE4MnJjb29WQ3dBZS1tZFNldTN1ZFk4eUVQZk1fUVhmX0tsV0NEOFJrLWR1aUhuLW1udHlhVFNQa0liTFJLcnh4bjR4dVZTNXRfb1Q1cjdDNUpsVmhCbUl4ZmR2ZEh3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-15T10:34:55+00:00",
-      "summary": "The Race to Stop AI’s Threats to Democracy  Mother Jones",
+      "publishedAt": "2026-07-15T10:35:31+00:00",
+      "summary": "OpenAI Unaware of ‘Any Evidence’ Showing Apple Lawsuit Has Merit  Insurance Journal",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,11 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "SoftBank expands OpenAI-powered cybersecurity service in Japan - Light Reading",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjZIdjQ1Vl95NDZFY1lNMDVzeTk0YnNyVnF3Tk1rb253UFRQSTF6Zm51bVd3cndwLUJ0TnlHd0RhdWNSbjJfMnRYdlRpMlliT1pCRDFQUmNSUzBISzI3Z3pHVW1zdTJucGF5OWJDNE5HcEthT2c2b2I4SzI3VTl1OTRxamFKTnk3YzltbldSbGNGUVNlQm9rbUlQWG5TbmtiVkE?oc=5",
+      "title": "The Race to Stop AI’s Threats to Democracy - Reveal from The Center for Investigative Reporting",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdEZndHEyZ3Z1U2JneXZGMV9Xd1BuY1lDYnNhNUpFaldkSUtvc0dKZXNmOHJjcWx5VEtEelZ1aTAxVUhCLS1qN2FOSlZWUXQ3UUJxVDBHZThweWtIWTYzQkNuZHg2dUhMQ056eFNPOFlLVnhfanFuTHVoeFphb3Y3RHBjUDlURG1LdTdLODZVRjdxU2lBODVDOG5fdU0?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-15T10:04:11+00:00",
-      "summary": "SoftBank expands OpenAI-powered cybersecurity service in Japan  Light Reading",
+      "publishedAt": "2026-07-15T10:01:00+00:00",
+      "summary": "The Race to Stop AI’s Threats to Democracy  Reveal from The Center for Investigative Reporting",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,132 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-15T09:52:22+00:00",
       "summary": "GPT-5.6 Sol deletes files, OpenAI acknowledges the issue  Techzine Global",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Altman warns of \"hiccups\" with new flagship Sol model - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XeGc3d2N0TVVMZm1Xbmx1Ykc2NkIyVjV5bU1Sb180c05wcldVRWt6bEo0REpQbVpIQ1F0MEFST2d5bG9nMnF1Ujl5d1doaXhfTUtqSmc5U2JKUXQtb0ZmV0pVYlhIUmdUYjdjeG02TlpHa0ZVekxqUml3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T09:42:39+00:00",
-      "summary": "Altman warns of \"hiccups\" with new flagship Sol model  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple's Email Found OpenAI Well - spyglass.org",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSMWY3WC1yRlEyYmFKUTFDeVdCRzhnc0gzQXBuWTRPbVk2SmtIVXNHNWEyME9oWERzNlB3STRLU3F1X2VNbkhsclE0a2lFRUZUZmZSZmtRYmJxNFI5ck1Ecl9YN2NBN1pocWZTaDIzTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T09:11:11+00:00",
-      "summary": "Apple's Email Found OpenAI Well  spyglass.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0pvcFYxQVNQS0VHdzdOeENPa0RxbEExUnVXWlhZWV9nNmFzV052QkhWVHBUSWNHclMwSXBsVV9OdFZNZ0lBejFPOEFZS0ZxU3REZEJjTG14czM4ZS1acDBnMWo3bmVCVnNzVXRtX1JhcE1zLUVoLTVrbEphZjduZnZmV1lsc2xEZGZlLUZOak05Yk5ZdkRiSGtR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T09:00:00+00:00",
-      "summary": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss  WIRED",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A lawyer says Apple wants a judge to open OpenAI's black box - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVdLTlpEbUNQUUNxRHhPZ3FITUUxbmF6Tjh4WWNEOGtEY0J2YmpVT0RuejNaZm5UTEFNc2hGOF9neXVud3FfVUVHdk5vTlVmNVNJTVdVOFFCREFQSGVkdDN0Sy0zYmNTVGptQzRxd3FjaURxNWtoQTd4MHFhc3lFbHVodUc4YWx2NlFRN2p3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T09:00:00+00:00",
-      "summary": "A lawyer says Apple wants a judge to open OpenAI's black box  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's First Device Will Reportedly Be A 'Humanlike' Rechargeable Speaker - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQlR0elpZZHlqUWk5eURPZllHdkVvemFSVmtrbng5NmRDS3JNZ1ZkWm1nWi02c3hWUEMzWUhWcGpFeHdzQV8wc1p3QnZ0RU5QR2pRN0lTb2JxRzlMNGxnV2R5Zm5vQUlMejRDQ3ZPLWhzd3NuclpRdGlwVFMzZlBQRWk3cEhEbmFYa3U2LQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T08:37:19+00:00",
-      "summary": "OpenAI's First Device Will Reportedly Be A 'Humanlike' Rechargeable Speaker  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTEdTZTlWc1MwNnY4eHhoaTZCb29VZ29VLVdxRGNQdGR4T3g1OTdUc1plMnFHYVlWVnVxVnV4VG96aEdqUXZ2Ry1aYUl2U0d4a1BKcndadHFoNEhMR0RwZVVSWlV4dU16VXdaZkJyTzlZUU9WbGhVU3FySEFPdUJ4YjVEX0E4QjVDY2RGaHBIWG9xMTZwNjRZbG96RjBsY08xZDE4SmdmUHJwZG9XMFFWM2E0OTI4OWtyMW14U1h3ekJwUjhjeUVNLTJR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T08:31:55+00:00",
-      "summary": "OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Digest: OpenAI Ads Set to Miss Forecast by 90%; Disney+ Weighs Free Ad-Supported Tier - exchangewire.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3ZzemF4OVhyRGtBZFZvamtpMXNlaGFqRF9sVGpmaVB1Wm1aeUpYekVXWUV2WVVYenNPLXdTY0Z6UHdDNmZqNk5TSGNaX2JhOThsaUlON1ozeGZOMkFkX2dkTGtaZ0pia0hHdjZHUmdiTjRfYmh3aVFlLVhrNHUyZFhDcjFuQjl2NnFOSFo5TDNhS1pVVlhTSUlVTS1seUtneG5jb2lDNWpHVUtEbHNaV01CVnV1MjZzejhBa0o2bW9aaGlHQ2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T08:15:00+00:00",
-      "summary": "Digest: OpenAI Ads Set to Miss Forecast by 90%; Disney+ Weighs Free Ad-Supported Tier  exchangewire.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "No screen, powered by ChatGPT: OpenAI’s first device takes shape - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5leUhKOV9xOHg3TEdBWnlmQUxzZnJfN3pRSGNTNnlpMXdTYWpPNWpUUEl2Y3JIcV84Z19yQ0w2dHpQMmRUdmpBNGRqNHV0QmlpTzhfTTFzR2Vnclk4MUFhVHhyLVpmVjBNUmJzYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T08:04:49+00:00",
-      "summary": "No screen, powered by ChatGPT: OpenAI’s first device takes shape  Ynetnews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcXJCVDNJRlFjVDRhM0xMa29qbmdjSVprOThsYktVZ3Z0aDFGRko0amVZSkNkNEhaN0FhaEYtS3NNX053R0RhMWI2TzM5NFdhX2dZcW5BbVgxQXhZMmJVc2RyZVozSmtseUdHY0UyaE5NUHgxWmhIcmd6REFyeTNzWlhCVXpfcUFEUEQxTkpKaFN3YWYtNXFSVWppeGJmSzZQdWU5a3RDSmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T06:51:35+00:00",
-      "summary": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Don't Freak Out But OpenAI Reportedly Wants ChatGPT Living In Your Home With New Device - Man of Many",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pRVM1N1h0S1NNMFNiZ0hrZUJvSE1iWi1SX1pkSFhxMXh2S2xqT1BsUzZFQzVvaWhscEtSTk5YQV9kZVNJM183NVVaN1dmemVjbUF4WXRDak5uN2FfZGpId2tCWkhCcUVzRklodXJ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T06:08:55+00:00",
-      "summary": "Don't Freak Out But OpenAI Reportedly Wants ChatGPT Living In Your Home With New Device  Man of Many",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, public interest and the problem of tech governance - GIS Reports",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2bkN3REJYMXFJS3R1Mm5UbENpREdUYXBPbG9qY0xwQ0MwZlZzWndvWEFqcGZVdEljU0RSLTBKUkdMVmgyaDZYazlmSmpLS2RTelVwaUM5SjVwTjFrN2lZdjdiWGdYMGs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T06:00:00+00:00",
-      "summary": "OpenAI, public interest and the problem of tech governance  GIS Reports",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Plans Portable Smart Speaker With Personality - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3hvd01ScWtwOExGWG9FbnRIenBlNmdwdWxHVlBfX1ZhYnZzTGhxemRvbHhiN2JQeDJhUDNNSTlQWEtuaTA4YTljdzRveDVmVFRBZFAtT3pYdXZrZGNfaTJVbERaeWNxQjhDOS1fMUJVOGl5cjhQa005WDVZdVBNYi04OVhMdDR6V01rTG52ZXBjcHpSTHY0aGxsbWxOZ1BhdGVGUThjYWk2Vk5PZlUw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T01:44:07+00:00",
-      "summary": "OpenAI Plans Portable Smart Speaker With Personality  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWJnZnZDeWFpVmRkSmpBZkxodDVPT3BiaXV0SmM0NHNnSDJMSjh4cm42bVBETFhfMFFBWE1vZEQzVVJWbVBJNEhiY01qNm0taGY4MXRnQ1FIejk0a3hvbFFUN29wM09LYVd0QjN1RV9na19kT092bURjQzdCTU5oRnh1VW9GcmV1Um5uTDlrLTFRcHhoUno2TGtLRkR3NEg1UlRyTHFBYjRTOTM2TC1kYjZEemNaQ05rdWJTTVR3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T00:27:04+00:00",
-      "summary": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The OpenAI Mystery Device Will Reportedly Be Basically Just a Smart Speaker - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVZnd3Y3RnhPSUUyUWh3aXRSUml5RDVCWFdWenVYOGltOXhCMjBqYUljeGRlaG1yMThpcU5ZVmxFT21rRnZ1TzFUblhya2tON0c1ZVlzc2NqcEtWREd1T3RwT0xuVnlBVFBJemhwMUNEeFZlemdTZ3lrTVk2b1BIek9rMzU4MDhsS1FlODE4T2NRQS1ndllHZjhvai12SW5Bb1lxb012UHo3QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T00:12:58+00:00",
-      "summary": "The OpenAI Mystery Device Will Reportedly Be Basically Just a Smart Speaker  Gizmodo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
