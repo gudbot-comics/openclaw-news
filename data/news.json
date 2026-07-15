@@ -1,25 +1,88 @@
 {
-  "generatedAt": "2026-07-15T19:55:03.888426+00:00",
+  "generatedAt": "2026-07-15T20:55:19.701639+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "AI & Tech Brief: The Hardware War - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTV1dW1fX3hGSm44azRabk54ak9OdktFdksxZ3lrZVRZUmZXYkYxNFNMYlJocjdBVEsxQ28wUmV4THc3R2ZlZGo3RHFCOHMtcVM4YV96WTFNWDVHbFdMZlhfcXRsaE5QaEFCSkg4S3QzTlhITzlmZTFIV2JvekYzZnhGSFVzQXlEeE5rWi1LLXoybGJHU1lHODNvNXdTZTlv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T20:49:35+00:00",
+      "summary": "AI & Tech Brief: The Hardware War  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Legal powerhouse John Morgan wades into OpenAI battle over FSU shooting - Florida Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVU1YZERmdUNpU1ZNUmxYeW43Y015QkhBNXlzcDFfc0N4N2gxV2pZT2xuRC15QV9XdFpISW5WR2dBZXRNQmd0WXlpQUlQbFo3dXc1bFdtX0JJTWtKaWF0OXJsb1c4Wkc3X1kxeEg2RFg0UXJQRHpNNVVmdlZrUkdvV0dLUURjNjRhdl92c3Z4RkRsT3ZSVXpBeFNibXhXMWU0N1RuWmFZOWpoRGl1dHRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T20:25:19+00:00",
+      "summary": "Legal powerhouse John Morgan wades into OpenAI battle over FSU shooting  Florida Phoenix",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's AI speaker marks its entry into consumer hardware - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWxER3hqbDJJQ2xOSWt4QjdfaHAxUlMybUZVTVNZVHZXdUdva3VXZERzTTF5TlVhQzQyT1NxendGZkY3eW1zNnpBcm1CWjBRMnd6VkN6VGtsXzI1YlBidTJzTjhTSmRWbmVRb0hxWTRNcnEzQklKZGFZQ0dubW5YMC14UGNRWWFsbFpsVGNpVzBsQXJ3bXNvV0g4MGx3M21saXhDRDZJWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T20:19:00+00:00",
+      "summary": "OpenAI's AI speaker marks its entry into consumer hardware  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Top AI tools such as OpenClaw and Github Copilot can be hijacked to create new massive botnets - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZkhjWGFnZU9hZ0VzYml0dElibDBQYkcydVdLYkR6VmxvU1lVTXFWaWxLOVhMOGR4ZTBHb0ctQWE2b2xUZTFzLXgzZzZVTXIzMFRWUXdPd2NDS1RwaVA5dThzTTRSdTJTdDZqek9MMzhTZzl5bklaa3BETndhUmc0UFJDaUZCMkhSWEczSFQ0SmlGd0ZJdWEtZ01KRFdhS0tNUzdrdGRORTBmdUtHUEc4eXZxOWhHRFRvcW9lQ0tJT0VVanBiV0ROUHV4OTVJdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T20:05:00+00:00",
+      "summary": "Top AI tools such as OpenClaw and Github Copilot can be hijacked to create new massive botnets  TechRadar",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI loses fight to trademark its own name - World IP Review",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamk0aHU0V1RLd0JyWVZTMkR1b3BOcXN1aVdiNXNSNjY3MTlYYzAwQ0gxcGhncXRSQXFidmdKeVNJYkZ0SEFWLVFBeXo1ZU50aDhLZlVhcjZLbF9YaUF0em9waDFYTzBzTHdHOVZqUG1iQTY1VzhXNUh3NDNRLUttdXN1alc3WlpieUE4Uw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T20:03:45+00:00",
+      "summary": "OpenAI loses fight to trademark its own name  World IP Review",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "PwC to Help Organizations Transform Agentic Customer Engagement and Service with OpenAI - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVWtBbVVHVFYtZ0s4dUJnU1JHTEJGaXdwai1kWlp5czBkcjdCMUVJajViNjNIdzNIbmhaMFFFbUVjb3YyelRkTEJudEFpWDdnTWFDOXFBTjhDV3JpcGV5VTBZR2xJVk92WDh3MjBiTDh3STg4eC1yVnZ2a3ZFaXpqZV9lYUYzT25zVlZxbXRua3R1b05OYVFlS1BpRUJNOVJya0hEZjdsbWh3NTdDUTR6dHVEeFJVcXRQR3hjWjJDS1c5Q2dkYXZseTVlVEloTUg3MDhJOFJmZnpYU3pxcGVBYW13?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T20:00:00+00:00",
+      "summary": "PwC to Help Organizations Transform Agentic Customer Engagement and Service with OpenAI  Morningstar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Opinion | OpenAI and Anthropic Put Prophets Before Profits - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM2I2YVBGR2dfYXZKYkhCemlPZlBvSlVqQ1FZQ1o2OGdsdEQtd1kwNGxLSnFza3o1RTNmSV9ja1VQZ2k3bU1qSjZ0cjYyWG9YOUgtVElZZTNsZkRqOHdXelVOaFlTNGgtcVVrQzZ5dFRkcXJBdjhOVmlVeVRrQnFLRF9rVVhBYWk0LTFycm5n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T19:58:00+00:00",
+      "summary": "Opinion | OpenAI and Anthropic Put Prophets Before Profits  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Bonnell Says ‘Built by User’ AI Will Drive Next Phase of Government Adoption - MeriTalk",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlpGbGpqdUwtZnlXMHBZNnNIdFBnWkRuU0t6aW9JeUsxLUZqOXl6U05GbjVxR1N0N0VOMkVySU5NbjNyVU42djNkN0Fka21WMVloUkVoYm5CYWNpZGM5RURiM0lTRTdhR2FHZ3FRTnpKVnk4RGdPcUVrZGItMy1RRnlwREdFejZneGFQT3dEanVqZ2RhTXVUT1g0ZHBwaUdjT2l1cF9rNERRcUtXay1yNkVIZ3A0SkVY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-15T19:52:30+00:00",
+      "summary": "OpenAI’s Bonnell Says ‘Built by User’ AI Will Drive Next Phase of Government Adoption  MeriTalk",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Strikes Bold Deal With Kalshi to Mix Together the Most Hated Technologies in Existence: AI and Prediction Markets - Futurism",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSTRmdURNZUtiMkNFTFUzU1ZWaWtUUWFFNFpCM3IzOENUNnM4N0l5dHJZcEh5TUZ4R3RCSG9aQ0lxUFJjd0ZZZ0puak53M3YyTXJBdWd6R216U09meVZrOXFmQ3VKUVZVek1reXltMGphSDFNY0g3THlmTUptSzZqQ2tPZVQ0cXFUQ2c?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-15T19:33:08+00:00",
       "summary": "OpenAI Strikes Bold Deal With Kalshi to Mix Together the Most Hated Technologies in Existence: AI and Prediction Markets  Futurism",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI & Tech Brief: The Hardware War - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTV1dW1fX3hGSm44azRabk54ak9OdktFdksxZ3lrZVRZUmZXYkYxNFNMYlJocjdBVEsxQ28wUmV4THc3R2ZlZGo3RHFCOHMtcVM4YV96WTFNWDVHbFdMZlhfcXRsaE5QaEFCSkg4S3QzTlhITzlmZTFIV2JvekYzZnhGSFVzQXlEeE5rWi1LLXoybGJHU1lHODNvNXdTZTlv?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T19:23:32+00:00",
-      "summary": "AI & Tech Brief: The Hardware War  The Washington Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,11 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpxc1NKalFvVmdycXBLRlpNRURvTTNBcEc1REJrTVItcld1dW45TDM4Y25sOU1tOU00OENPY3BhdnBSMG0yM2VSMGZQcDRyNldCVkpxODctb3YwT1prejFFR0UyaVNLT3ZnclBKLXdGZmFhOGIyVDJoWTFKSl9aNFVTUTZFMnB1MVpiR3E1MlZhUQ?oc=5",
+      "title": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent - PCMag Australia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM0Z6dlYxQ0RUV0ZLQkZvMzJZYWsySEtIWWNfU1Vmbm54dlh3OUlQN3hXbUNKdkZucmFwVFlpWXFwX1g4NEdXZkVoQnpjOVdzdlNRWE4ybTBLcTVBODIzcTgwWjFRbTEzOUdWdDg1MHBWX0I4dmVBZTRhWXhWNDNvQ2k0TFJ0NGVWUjNWeV8xZHJWWUQ2akNv?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-15T18:47:53+00:00",
-      "summary": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent  PCMag",
+      "publishedAt": "2026-07-15T18:47:25+00:00",
+      "summary": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent  PCMag Australia",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,38 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Name Too Descriptive For TM, EU Court Says - Law360",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDI0QjV5TlFrdnRLcmtjMjhoNldFSVBBNFJSd2pKSlhwUXJxNjFBdTlQa0hucVR5M1lkVFN3dnEzYk95Y3QyRklwSHNUOWtJRTR0VnZBTGhqSnpyOFItZEFxRXhOTDBtMjdLM055b25xME80TEVRX0ZmQ0U2RHRBVjJlYWpWX2xMNEc5eThRZ2EzUdIBVkFVX3lxTE9VbGVITTRYeDhjd09aZm9BRU1ZRVFzc2Y5b2xyREpkX2o4aGJMVzBCdVhVb3liZ1hTak15UkFBeFFYX1d0YU4xMERDX1hpYzZKSnN2MExB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T18:31:00+00:00",
-      "summary": "OpenAI Name Too Descriptive For TM, EU Court Says  Law360",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Reveals GPT Red for Powerful AI Security Testing - SQ Magazine",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yb0owc3l6bUd6WlJ6WDNoUGgzdGNpY0ctdTk1NENHa1VNZ1d4eXNldWFGQ0kwOGVBQUs4azRwb2tpeGlKVS1JLUxDT2xVQTR6RDNtWGU2amRRWEtleEtub2tvRlB1R2NZWmJpUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T18:22:04+00:00",
-      "summary": "OpenAI Reveals GPT Red for Powerful AI Security Testing  SQ Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Anthropic Reportedly Taking New Steps Toward Mega-IPO In Race With OpenAI, DeepSeek - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zbHNOWF9iaC1RcFFOd2UwaTFocEplQWQwMjIwQklXYlBxc2pOSUpzcUtqLUdDaENKdXctTXhoOG50NkI2YzE4Y2FEU3JtS3RubnhtWVZWQzJNZm1CbE1QbVNQN0N3cWZQQW9wcV9pV2ctbjVwZ25SN2NPSQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-15T18:14:00+00:00",
       "summary": "Anthropic Reportedly Taking New Steps Toward Mega-IPO In Race With OpenAI, DeepSeek  Investor's Business Daily",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft Gives Salespeople Tips to Knock Down Anthropic, OpenAI - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMEljZDVNTS1TRXFsZzdHNC1UUk4tVlVmU1JqN0gwYkFtbHF3YWlIN0JnWDhfWXJmbUVMTlNvMjZpNFE4UnNUOFhORDlqZUZIX090YlV6c2w5LUgxVkZwbGM0N1ZWZnlOOEJtRmZ1TV91WjZPUmMzODQ4ZG1GMlVyREtYUEdGbl8wM0pHVHV1Mno2NkR5aUo5anF5Qk9kbVRuQXV5cW1zU1FrVkcwdGlxVFlnWjg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T18:03:23+00:00",
-      "summary": "Microsoft Gives Salespeople Tips to Knock Down Anthropic, OpenAI  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-15T17:04:33+00:00",
       "summary": "News outlets urge judge to sanction OpenAI in high-stakes AI copyright fight  Free Speech Center",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "University Of Phoenix Collaborates With OpenAI To Advance AI-Powered Learning And Workforce Innovation - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR25lY3lvaktjckFjTW9kRGJNamg5Unk2aHJNbnVnaktrXzNfRzUzOGFvcjNILWhiQzJUQm9ROWlKakJYOW5LRDY2bUsySm5YcDR2amE2QnBodHJxUE9QaXdWR3FQZW9QOFVpcE4yR2VkaDdxWjZuWHpaMnRDUE1ONGJ6VnhrZVdIaXZhdElZZGlLWW92cEVqTnAtdC1sUFg3V1FjQk1zYjBrYlNZNkJsMkRDenR1eFpZaThUTnFmRdIBxAFBVV95cUxQVzRMQ094WTRRSHgzRXdZTFF5dFJkclZzMS1VTS1Wd3FJcWk1Y01iTXJRcHhSTnFWdU43XzNabzVOcE5CV2t1QnZCUjJ4TEdLSWp1cGU4aDJMZm1sZ1pRYmJEYU00RnR2Rzl3Qko5ZXk5aTl5N01PUnpvTnpwT2dxZk5lOHc0YXRyN2E0dW5tQWZPRFp3bFd6MlVhZ1FORjY4LXJJSFB0a3ZJTzE0V3J6TGk0YlBvVU02ZmlfZkdsT3BzNWts?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T17:00:13+00:00",
-      "summary": "University Of Phoenix Collaborates With OpenAI To Advance AI-Powered Learning And Workforce Innovation  Pulse 2.0",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s First Device May Have No Screen At All - cheddar.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeWE2S3hyMllPczczYlc3dTd4R3V6Y2lld0RqQTBISkFPR2Fzb0paakJYRmM2SXBLYkxTemViUEVnQXNySTYza3NjbHlwazF4MG1qb3dHSDVWWkVXTm1tN3JJSklOaXhhQUpROUhPR0lHTFlSVDlzcjY2VFFWZjdXai15WQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T16:38:22+00:00",
-      "summary": "OpenAI’s First Device May Have No Screen At All  cheddar.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI selling $230 Codex Micro hardware product - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWGthZHlicjY3aHV1Sk5iWmFXWUJLUjlDaXBqOWlxcmJmU3FfREFBb19HZW9icV9TR1UwanB3ZHBEM0dISFBqTlRPdG1DTlNnTkh3QWFwaVh3bjJTOVA2MXVwakpxSlFXYWRlVHhtNDlNV1ZHcTYxR0k5NUVtellhc2VFbXdfdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T16:36:00+00:00",
-      "summary": "OpenAI selling $230 Codex Micro hardware product  9to5Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple Sues OpenAI, Here's What It Means for Oracle and Microsoft Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQllGNGFuZDBkRUhEcUsxMlB5OU1CUHFxZHRZQnJldDJUb2d2d1NyNThwRHdFdG1WckdmMTVfNkdHWWh1SGc1dFlyQnNmbnRkenlDM2VXSHFGQ2ZWZUJDdEpoTlJWM29qd3I1UHl4MTJfUmh6cURtY3ZGMTR4UnBRVF9ldVdmRnpsZGJ4RWtEQUdjQmNPYlVaYmpB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-15T16:26:00+00:00",
-      "summary": "Apple Sues OpenAI, Here's What It Means for Oracle and Microsoft Investors  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
