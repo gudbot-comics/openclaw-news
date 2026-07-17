@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-07-17T18:15:24.830185+00:00",
+  "generatedAt": "2026-07-17T19:34:36.195593+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "‘Who Asked for This?’ OpenAI Is the Latest Tech Giant to Get in the Merch Game - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkFES3lyanF4d3FtTDNNWGdsc0piR3NmM1kycW5zSzRfMTQ3RTkzMkdpcWFzWEkzV3VOd1I1dHhRYmRXV2dyeHpnd2RlbTVhOFVITU53Z0NpQVpLSm5sTlFlcTFDLWRiaWRBSGFiM3dweUN2VzRpVjJ1VjJrTUluNHVEQmJKVG5sUzFXQjJIckNlTnpjM0VfN29fNWZsSjVUQUg1Z1g2WkpLMWNxX0J3RFVmMUxDYkFWNjVxTEx1TQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-17T19:21:02+00:00",
+      "summary": "‘Who Asked for This?’ OpenAI Is the Latest Tech Giant to Get in the Merch Game  inc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Starts Cleaning Up the Utter Mess It Made of ChatGPT - Daring Fireball",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IRnFfNEdySU9RWFB0bDJWT0tYMlBRRzBOdnEyT0NzNUdIRTY2X1JOa2Nmd1owVnBlVV9PUlNqY2dFejFFUm5xZ3BscGZoU1hZaHJjZnlzdEJaTXlJSGxXZU9tV0NiQUFQZURhZGdDbW92dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-17T19:13:29+00:00",
+      "summary": "OpenAI Starts Cleaning Up the Utter Mess It Made of ChatGPT  Daring Fireball",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Legal powerhouse John Morgan wades into OpenAI battle over FSU shooting - chronicleonline.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPT3hiVy1kaURUX25OYzAwc3FRT3diZ1lSRUoxYk9qd08xSERBc0ZVNmhEZUszaUR1UV9hSHBNOV9DeUxQNmF5bUQySFNfd2hIbFBBZXA4dkVOM2lRWmx3RVliUTM3VXFDNTJVN0NIVVRILTMwM3IwV2J1N25OMnRGSV9jdnpqZWxobXpzRUpIcjZjcU5hM2syV1lUWXFoeUdnVE1tbmh0NXd6dVNvUEhnZy1jRURpTjJOdGZWajhaMV84alI3NDg4dmRUeDlGcmRXdGZhNHdNXy1vM3JfQ0ZmaDhqY3NxcUZkWE1MSS1BMUtGbFZwSnF3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-17T19:00:00+00:00",
+      "summary": "Legal powerhouse John Morgan wades into OpenAI battle over FSU shooting  chronicleonline.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s CFO: 4 questions that reveal if your AI spend is paying off - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcUlLbFFETFYxSDJLYmYxZmpvSEVhdERWWDJra0NDVzVpQ01VbG1odzBrSW8wVGprNFk5ODA3WVFxUUFXdTZfakxkdklrQTNXZGZYYlVWUUtibTk2SHg0VXlCc2FscFRwSWNRZFZEeFJHMFhwRFZqMWJyOWlwR25BRmJPcTNxUmpzTC1PR0tYNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-17T18:37:00+00:00",
+      "summary": "OpenAI’s CFO: 4 questions that reveal if your AI spend is paying off  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple vs. OpenAI lawsuit: What happens next? - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NdlZvNkFOTEdBczFad3NjY1otRXB5RUM2ME5yMTczS25rejk3N2RBQ0RyWWtoS2NyNFYxV3FPS0pkUkU4WVpmZHpnR0xoVzhqMlF3YnJXMzFnYVMxVjdRU1pEQ2Q3SUpaWllkaGVuVXk4LU1ycC1PaG9tdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-17T18:36:48+00:00",
+      "summary": "Apple vs. OpenAI lawsuit: What happens next?  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Expands Hardware and Merchandise Push With ChatGPT-Branded Basketball and Apparel Line - AI Insider",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPblBZazlDUUJxc2lad3BSMWo0ZkZrNGp1b05DdHU5MGdHeDYyRTN0VjBzaHlNU252ZzhfLUNKRzdtdVFlTlZHSnBVS3pQTE5UNktCWmtSSS0xQ3B0TFVDNjJvNGoySFdZQlNGVUtBOEZkaGxIMVByOHI0RzlQcnkwMmxwaC1MTHRqWXhhSVk5bDJaa2xCS2NJb254U2hmVG5zOTQ4M1VfNGNKdVB1SnUxd2phX0Z4OXdnVEVpMjdFNTBPTkdlMkUzWm5xNA?oc=5",
@@ -24,11 +69,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOGdRNWp4OWtaMElvZHp5SnBjVldEVzJMY3FjQmRCYl9iODhNc3pWZHZpQkNLdlZ2ejhnVEVKMzJMaEN4NTA0T0liRnhseGpzOV9kOUN4US1pSFBmdm9ydjN3TUt6UWZRZ0FoUzhxX3BYV1R0REVYZGlhc01RTlVPVEEyWEx0aS1YTkU1bFpUNzBzOWNrNHNlakpKcw?oc=5",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmcwTkJ4SzdyRmptcl9aWlo3Z3JFSXczeUVrM0tyUDRRdmR1VnBjdjhXSnZsWWJPRnhyT2t0NnFCWV8xeDhhYktaZ3RlSjhBc3oyOUxwTUFpNWpCTnNiS2V6VVVteVR3aWs3bmtBcG9wYW1ueE1mWjJHMklIalBxZnBCQXpQVWZWU0N5Ug?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-17T17:45:46+00:00",
-      "summary": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans  Yahoo Finance",
+      "summary": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple targets OpenAI workers over trade secrets theft lawsuit - Silicon Republic",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQelRSRTBRMzhPc3hqNy1pcV9mU2RIM0FMa2RDMDlFRGZpeG5wTjU4QjVNcmIwRW1GaWlHendOVmVOSHdQaEJHWG5VYnpFc2FaV0JZX01OM3UwQjF0WkVkMVZTSkdZRTRlRWpyMGxHbXJKZ29FS05GT2VpdG1ORXpLWGhZN3U4djlDcnVJQWhWYUJUTjZrT0djV3JZamlzMGR1WkVjTg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-17T17:17:55+00:00",
+      "summary": "Apple targets OpenAI workers over trade secrets theft lawsuit  Silicon Republic",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -47,6 +101,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-17T17:00:27+00:00",
       "summary": "Apple sends legal letters to dozens of OpenAI defectors, report says  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRRWRCTzZXLWRlVV9jYTRzN3ktc1lFLWExbVlPa09HSVEwR0VyVWhxYkcxNG5mRUVHcDdGRVFaQ0hoOU95OHQ5ZmtRWkYxcnh6Z2dkYUowZ0FmQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-17T16:53:04+00:00",
+      "summary": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic  BBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple Is Coming for the People Building OpenAI’s Future - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQjl1aGI0QlhrMF9BU3VwelNseUpZNV81Q2gtY1dWX2pvZDJNSlJERkFFMHR1OERtNUh4dWZBa3NZMEdjNHFyTmNxUVQxaVJHOV90MHA4ektCNVlHX01XMnFtTHp2Z1N5V2NfWU9DdkNXeGM0aXMyRXlsd0tIUk5hYXY2dm9WcFBFc3UzeTRR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-17T16:35:04+00:00",
+      "summary": "Apple Is Coming for the People Building OpenAI’s Future  Gizmodo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,47 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Builds Red-Team Model to Stress Test Frontier Models - Security Boulevard",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHdGa3MwaGU5b1pySWRTd1RaWFZDTHJnSkpPanZ5MHB5MXdDaWhzZGF4XzJYRTUxYmk3MlJzd2dvRXdMUnp5VERpSUFxa0hVd2ZrQWZVb21hT0FOOTFreDJub2poZFRJOEt4aW5lVEN2NGp6UHJDcHhQTXFNTzVoMGxMenFmb2wzRmRtbzc0ZmZCSVFTZkFvOTBxLTRKTDg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-17T16:05:30+00:00",
-      "summary": "OpenAI Builds Red-Team Model to Stress Test Frontier Models  Security Boulevard",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s $70 ChatGPT basketball sells out despite online mockery - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzdidFNwcEFBU2VuX0JlX2ozcVFnTUllMHBhQ0lWUVZHbXNtekJ0T3JyWVVVbGFyRGwyR3BQYjVJZF9xcmpVZUdUamtlQk9PSWhiZGliN0xlQUdidWlERWN1Tk16cUdMdTNnR25GMmdPS2VUdEo5QzdQQUxnZ1lkTlBhWDh1OG1tenYtRndQQUZFQm0yNWZR?oc=5",
+      "title": "OpenAI’s $70 ChatGPT basketball sells out despite online mockery - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUxTOWlnemlkUVJQTmZxSjhFbTQtVFMxTW5OTXVueEFCcTF2NDI1UVBDbENPYVU0OWI0YjVDMEM5LXNBSnJGZ25oYXI1cF9HWE5zT0pKbC1IOXdhS2tkQUUzSk1CaEFYaS0xVW1XNTdjbWwtZFJuOHktdXBIUFg3anZNNzRENndGLTlF?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-17T15:46:00+00:00",
-      "summary": "OpenAI’s $70 ChatGPT basketball sells out despite online mockery  Yahoo Tech",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "China closes in on OpenAI, Anthropic with the release of Moonshot's latest AI model - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUlRYTdDd1o4dnN6MzUzUm90dG4wWVVlSFhkZ25yR1h4TUtaOE1sa2pSU0tlTFFWOEt6dFprbjB1Q1pMc1plLUtwZUhpM0dVOEU4R3RvVTF2UW53d05GRVBRX052S09PR2NJZ3A4eVNvcmx1dVJGRWgyaHBISHhReWcxNVEtUkFVZkZxZ0JvTG5XZmhwQmVydXRwWVNqajVYZWRLTi1JNU1hMDZoYjllVjh6cXZLdDlYa1N6OFZIY0hPWV9hLS0wOTZR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-17T15:40:36+00:00",
-      "summary": "China closes in on OpenAI, Anthropic with the release of Moonshot's latest AI model  Yahoo Tech",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple hit by lawsuit that has nothing to do with OpenAI - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzBsVjlSeGludFMwRzhJTTNKeEFYYVhHRFNRWG5XOWlTTGE2RXc2YnBrMkRDc0dQeXRGWWx6bTBWOVUyMkZKR214NzM1WTN4cEg4blAzQk1PNHNSLTA5U0FRamVDWEVwMzBUX0ZrN3hjYjdFWmVmcC0zb2I3SWdjTTBRSjRCVG1ONlRydno1UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-17T15:34:45+00:00",
-      "summary": "Apple hit by lawsuit that has nothing to do with OpenAI  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple targets OpenAI workers over trade secrets theft lawsuit - Silicon Republic",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQelRSRTBRMzhPc3hqNy1pcV9mU2RIM0FMa2RDMDlFRGZpeG5wTjU4QjVNcmIwRW1GaWlHendOVmVOSHdQaEJHWG5VYnpFc2FaV0JZX01OM3UwQjF0WkVkMVZTSkdZRTRlRWpyMGxHbXJKZ29FS05GT2VpdG1ORXpLWGhZN3U4djlDcnVJQWhWYUJUTjZrT0djV3JZamlzMGR1WkVjTg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-17T15:33:45+00:00",
-      "summary": "Apple targets OpenAI workers over trade secrets theft lawsuit  Silicon Republic",
+      "summary": "OpenAI’s $70 ChatGPT basketball sells out despite online mockery  Yahoo Finance UK",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-17T14:20:00+00:00",
       "summary": "China's Moonshot AI gains on Anthropic, OpenAI with new low-cost model  Nikkei Asia",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple Demands Documents From Former Employees Now at OpenAI - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGlMQ1NDa2tmNVZkMXFVcXRjdy1PS3g2bS1QMThBVkd6REE0ZFRqTUR3aGl4RVh2Z3Q2OUNPVHBFUWdud29wRlR0U1ZYUWJqOFZMcmhIdVg1RTNHam0ydXJGSzNvbGNTeV9wdzc1SUtnSE5VMHJnaWt1UjQzMDJuZnJ5YkdJUndDS3F0NG13YkY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-17T14:02:10+00:00",
-      "summary": "Apple Demands Documents From Former Employees Now at OpenAI  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple sends legal letters to scores of former employees now at OpenAI: report - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGlGV2ZsMmwtT016YVAxVF9oYXRDWEMtaVN5YjNEc205eC1TYkhIOG1nM004RzBYX3M5ZHowWnJHdkFJNmlacWVYV3M5OWxVc19qbzN0YnRkLWJGSjhUWEJrT0laSTNNN1RDMXkySjE0R2hEakNmY3RmUXI4XzEyaEFNdjREbHNRU2M5YXVhcTJtUWZqQWZGdDNjZVBZYlUyWWduZVI3ZUd0QTNFdTBhczhQWTk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-17T14:00:30+00:00",
-      "summary": "Apple sends legal letters to scores of former employees now at OpenAI: report  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI updates ChatGPT desktop app with sync features and mode consistency - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vTWdoVkFFQ3BWLWJ5MXl6SVhDcVVuTFFQcmlvYVN1RWxYOHdDSHdCR0VRUkJ5Sldpb282dGZXci1LejBfcWV4d0xNRmRlT1NRTzJDVFFjOWZlZjQyTnBsLS1CVkdDWFVuMUo0RWtqOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-17T13:41:13+00:00",
-      "summary": "OpenAI updates ChatGPT desktop app with sync features and mode consistency  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive: OpenAI's CFO pitches a new way to measure AI's value - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QT08zNUlmQ2ljMHF6ZEQxQTZQZGEzcXZlRUNJX0h2Rk9pTUdYa01LWEVhY2dTSFhvTXp6UUUyV1J5eUZYcUx3dlJicm8tVWszd0ZKZWhKQUNHREpUUFhHSFF2YWllMTdqbVN3dQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-17T13:39:44+00:00",
-      "summary": "Exclusive: OpenAI's CFO pitches a new way to measure AI's value  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
