@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-07-18T09:11:05.148509+00:00",
+  "generatedAt": "2026-07-18T10:42:03.745157+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "I interned at OpenAI in San Francisco. Here's how landed it, what it was like, and what I thought of Sam Altman. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXQxeDBGenJWbExUdGF0b29EWVdVWWtTcHF2Yng0b01SMmZ4RUxPeExIeHJFTGU5VjlGU3Mxc2Z5dF9TOUx0X2tPbHFnc0I3Ynh5bmVKU0NPbXlRczc1d3lZUUtFcDV2Y25kNjl5U1dBbW1DdHFlU1BGbVJ0Zmo4Q0xXalN2VVNSSnl3WmpDMjJsM0p2OFRyVg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-18T10:21:05+00:00",
+      "summary": "I interned at OpenAI in San Francisco. Here's how landed it, what it was like, and what I thought of Sam Altman.  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "France flags lock-in risk as OpenAI, Google, Anthropic hold 84% of AI agents - PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3N1SU1KWUtuc2hicnIzTUI1bWwwdUlRMjRCMll5aEFqeG5ieFlueVpJakd2Vk85d3pvQkJJUzJUNXpaazluMTZOYjhKV2JVbVhCanZvUjBNTWc3ZndsS1h0Q0NfeEhuZWtiWFJtNjlGemZmWVAyVTQ4N0M2dkREYlF5cl9PV1NRbHRzQ08xQ2lVVE11UUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-18T10:04:24+00:00",
+      "summary": "France flags lock-in risk as OpenAI, Google, Anthropic hold 84% of AI agents  PPC Land",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Apple sends legal letters to dozens of OpenAI employees: FT - Cybernews",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwbEo4Wll0Q2RuenBhSFk2bGExRzY5cEtabTM1Z05ITkd0QVNaa0QxcUwtZTZOZWtjUDc5X0VfQ05ENU1qUXBaRV9SWDYyMXdGZGtLbGxPSGQ3aE0zdkJKeTdYZzJzUTlpT2kxbWJ6STNpQQ?oc=5",
@@ -38,15 +56,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-18T07:00:25+00:00",
       "summary": "OpenAI’s Atlas Browser Retreat: Why It’s A Security Win For Media Companies  TV News Check",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Merges ChatGPT and Codex into One App After GPT-5.6 Launch, Introduces New “Work” Mode - quasa.io",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHFCblFSQ243UFVTSFdmeUt4U0xZSWJhLVpNNTZ4Z3JreDFybVNTVEluZnMyNzJERjVBbEcwSXBvTnF5YlN2eVU5cFU0TkhMZ0Q3b2xyZUIzUHBGd0doNFpZdlFCanFnSm9iX2VzclJyWWVaeE5UTzAxaWJUakdTT09wblFydkRrSlF3MlFBSHVBUGJ2NmZYZEVlQ1pnVDczYTdmMVFxVnJxRkotZXoyYXcydw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-18T06:39:11+00:00",
-      "summary": "OpenAI Merges ChatGPT and Codex into One App After GPT-5.6 Launch, Introduces New “Work” Mode  quasa.io",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -168,6 +177,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Why OpenAI Is Selling a $70 ChatGPT Basketball - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGlSN0E4N3Z0SDluZllSRktQcGwtUDlXa0dWckc4X2paaFNKWFJVVGRSRGhCenRPZUEwVDQxajNsa09wX0FsX0x4ZHNmVEhPQzkwUnc5Tk5BYk9oajVqZ1J2N2Q4eVBRSFJySm9yOENadE9vOFktMWxqRnZqM3BJR0tWVG1POU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-17T20:55:48+00:00",
+      "summary": "Why OpenAI Is Selling a $70 ChatGPT Basketball  TechRepublic",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Warns GPT-5.6 File Deletions Stem From Full Access Mode - GovInfoSecurity",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRWRhU0ZhZFVVOVN1YWM1T21ZT3J0SkkxSWh1Y0NoaTJTNS1FQW1BUzV0SFpQaWlOa3lxYWFQempYVVZHTkZZdVgzd0RlVWYxd3FUWm01aUhsYmRGMUQtQWpnV0lYbTRUZXVzblI3bGxoRHN1Rld0ZUJPWktSQlVtR3RsNGdScV9TcWdPVmRPdk1qQ1cwVDQ0SExZSlYzTW1nVmFv?oc=5",
       "source": "news.google.com",
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-17T19:34:20+00:00",
       "summary": "Exclusive: OpenAI's CFO pitches a new way to measure AI's value  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Expert discusses Apple’s lawsuit against OpenAI over trade secrets - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEYyZ2Vkb1lVSy1Ic19xbDBMeUt5bzJfaGJwcTdyaWl0TXAzT2k4S2Q1aER0SzBWbUtZTy1TTzVsZS1jTkdPWUdGNGJwMHUtRks3cWJtTWd2MGFCZXJoaVZJbm1tc1laQTBkQXFxUFQ4VExZckt3M3hOYVNCQXV2TUdjd0FqdF9McWRCdGRqMlNPbUxDeE53aUpEWmVNdXBEWWoxMFlKZUpxLWs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-17T19:19:00+00:00",
-      "summary": "Expert discusses Apple’s lawsuit against OpenAI over trade secrets  CBS News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Starts Cleaning Up the Utter Mess It Made of ChatGPT - Daring Fireball",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IRnFfNEdySU9RWFB0bDJWT0tYMlBRRzBOdnEyT0NzNUdIRTY2X1JOa2Nmd1owVnBlVV9PUlNqY2dFejFFUm5xZ3BscGZoU1hZaHJjZnlzdEJaTXlJSGxXZU9tV0NiQUFQZURhZGdDbW92dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-17T19:13:29+00:00",
-      "summary": "OpenAI Starts Cleaning Up the Utter Mess It Made of ChatGPT  Daring Fireball",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
