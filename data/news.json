@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-07-20T10:32:35.707663+00:00",
+  "generatedAt": "2026-07-20T12:36:07.694066+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "China delivers a one-two punch to America’s AI dominance - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTQ1UEdiYk1ZdGlvRkVOMjJaV083RVhycWt5bUJmMndZczJTY2hzeHIxX05fOUg0SkhCalhCaDBUcFRsN0dfMEVwaTc5bE9UaXUyVHJLLS15ZkY3bS1icGh5T3F6Y3hjZHFLejZXMVFHRFExb1dzVl9HQVFxLVJqZF9zVU9tVm5ONnB0cDVrZkVNcElSRGYzSXRGYi1STlFJUHNVNl8xUHRwekU0VUdTOE9xU2JaX2tSemc?oc=5",
+      "title": "I recreated OpenAI's Codex Micro for a lot less - and mine is more customizable - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2wxTkE4SDdpenA2dVNIOENHVGFaTld0dERqSmtKSS0waDc2VXM0UTdHMjUydkJkdDhIY20zVDByb3lEM0xSR1FKQUVkV2RsUy16WDZTY3hWTVBFX0tVRXF0RGJiYkVndkZFRDl3TWotY2pMb2RhYXBkN045dzF0TFFsX0k?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-20T10:16:33+00:00",
-      "summary": "China delivers a one-two punch to America’s AI dominance  The Verge",
+      "publishedAt": "2026-07-20T12:12:00+00:00",
+      "summary": "I recreated OpenAI's Codex Micro for a lot less - and mine is more customizable  ZDNET",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "xAI appeals to Ninth Circuit after US court dismisses data center trade secret case against OpenAI - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY2VWRWZDTVNJWnRLR2VtZUU4RUNUWU5OellaVUlZODZ0Q24yaUFsMklXSEZPZXB3cnBlRW1mcTU3c1FvZTFOZnJYV1luZDN5ZUQwdGdIRm9YTElVREQtY0NGVlpienlVZ3VXS01hLXFtbG01X2RvWTdRZUJUNU5heWZnaVlFYkU3V3NfX1lRNDNORVBrYV9Db0Nmc2xIaC1HbTJ0X3lGT215UXk3ZmxHR3B2UThzck5IQ1RsMEhReklEc29mYXRfZTNxbmRYS1oxZFJQZUJDTzBidw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T12:00:53+00:00",
+      "summary": "xAI appeals to Ninth Circuit after US court dismisses data center trade secret case against OpenAI  Data Center Dynamics",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why this venture capitalist is bullish on Anthropic's IPO — not OpenAI's - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTjhPanVCb1lSZ3ItNWZyX0xjRmlmRktiVEE1VkNWQm4tZFBkMVcwbTVLeGYtamJ3OXN5ZXhwd0QtdXRRWG9NREVUWFNvMzUwWlpNSXNSZUl6WlNhNVFOTUVyZDUzbE9ZdlUzSmFma3djbl8wVGwybGQyWVBBSmRzMDNBMTlsUUxMekNzemt1WFpkdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T12:00:00+00:00",
+      "summary": "Why this venture capitalist is bullish on Anthropic's IPO — not OpenAI's  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI ChatGPT Showing Two Ads - Search Engine Roundtable",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Vndwd0kxM2NRTzFRWlpZdWVQZ0l0ZnJDN3dhUjhPS3BJWndEd2VHc29xcUhfNUlmSnQ4bmNXejJRd29kY21jaklBQ1JKMEJKQkM0UUJwbG5hb2VhQWFhSU9fLTdLT0hnUXk2LWxzZWY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T11:31:00+00:00",
+      "summary": "OpenAI ChatGPT Showing Two Ads  Search Engine Roundtable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump administration is seizing control of who can access frontier AI models - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kN3FmM3NyOGxMSzRFZjZ6dEJXMmxQd2pWazRwMjZ5Um5rZ0NGR0Rxbm1EbjNpQVhJekdvdG5oaGlYRG9MNVlKR1NUM1ZLQ2xlS0JRM3N6cU5IbWkwWmJ2WXlXMWdzcllxRGh3TnlqUVhsMGcxZHowMTJhTjg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T11:26:07+00:00",
+      "summary": "Trump administration is seizing control of who can access frontier AI models  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Moonshot Narrowed the US’s Evaporating Lead in AI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUFQYVJtWlRRNmRIbC1abkpiUDlRVkNTbUs3RU1ocENfb0VUVXAta3hlLUhYeVJSUERIRXU0aVNEcWlZXy1aUldiRnRLNGxQQlVVWU9hWnpub1NKRm1lYkcxRUQ4LTMwZGZFY1d2TGVmT2E4RGRLZGxtaFpfZ2tlVlY2X3M3cG9wTl94Mk5VOHFVOXdSa0xUWE1WT0JHbnlBSjM3YnBkejZGa2RGamt2T0tod3ptbnBiS2JyU1ZhTG16UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T10:30:02+00:00",
+      "summary": "Moonshot Narrowed the US’s Evaporating Lead in AI  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,6 +141,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI appoints Uday Ruddarraju to lead compute infrastructure as CTO - ETEnterpriseai.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPemZFdEstdzNhYXdERDJHam1ZWTFoVEdkNUxUbW04VGFtb2lEdGM2ZWNfbWc0SmpyeTJOTTNhM2ZQQ19TQlJMZm01MzJfbUFhNXpmR0VzVlc5T0dpTk5jdGNoVW9MOXF4ZTFncVp0Y2s4NTJlQ19Bb3dsRzVhNEt5ejN0RHYwRXpoLUhrTUVWaWZ3QW9icFlCWWpOUWlUWjNYS1MzQl9ZRHU2aFJBSVEweTlQOHdvUUtKa3lrV2p3QWtuRTdSUUZ3UjJIUzVwdXFoWDljVnJqdWcxdDZDaF9QMnc2c09FVXpaN0HSAe8BQVVfeXFMTWVWWTE4bDhuUzFPcDRranRPd3o4R1J6ZGJybFRGV3Y0N1JUcHJucnU2ZGJQbmVfQjZ0LTlWMjZ6RXlIYWI5aU15QnZBUW5yaUJvQU0xM3dkUXZKZGNfQ3FuZnpMOUhONS1oUnhpUmhUcTN6YkYyNFJ2M3FVTGs4d2RNUkJPcmZGOEUxZmpQUWpQbl94YndDWV9wVUFpTXBPS1lqVVJjVXU2T0ROY21ycFkyb2t2bTdGelZJRnRKSU9ZNXN6ZEtFb2o0VV9NYWtNaUtUQXVpN2I2SlBBd05Bb1k1SmtLaVJZZEZFSWszUGs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T07:28:09+00:00",
+      "summary": "OpenAI appoints Uday Ruddarraju to lead compute infrastructure as CTO  ETEnterpriseai.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Nobody is asking why Apple filed its OpenAI trade secrets suit now, weeks before a rumoured public listing — and the answer sits inside a screenless device shaped by the more than 400 ex-Apple hires OpenAI has quietly made - Silicon Canals",
       "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNakJFenFpTlNyODI3Q2RDUVpSMkE5Z1pWSEtOSWZyMmFNX29rQUp3T2d5UkRFWkdxWWtWMG0yejBVT2NrbHIySGZGMzg0Mlg3WHNYb0xma1ZwdFVmYk55NmVWalprYXkyUldLWGs2MzR0Z3FEQmxsemItRDhVa0hiMXdIbW41LXNNRVcybzN6TTB6VWNxNV9sYXJwZm9tZzkwRThDNV8teVFuaWREMDlFdWpaWEJEN0pqMV9WLWwzV1MtZGx0V1ZVb0RQNS1VeGNhNng5R2F0M25WX2s4REZzRXQ3cnFUbk1lbDN2Z1Nld2E1NTVObWVzVUh2QU5yZ0xPb3J0Z0ttX0dWZ3ZjNmQyRFJZNUoyWC1ZRS1UZlNCVFNuUVBfQXdERGVUZFk5SlliY21Jeno1LXc3MU0?oc=5",
       "source": "news.google.com",
@@ -132,6 +186,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Apple probably won’t name Jony Ive in its lawsuit agains OpenAI - Apple World Today",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXEtRGdWVUx0d0R2VDdDdk1FSlBtQWMwWTNfeG41aENpckxkRlRUZ2lzOGJWWUl5U1ZtNUdacF9XaktqVGJjZjVydURTZTd0OHVDZTh1Q2F5dHotdmNJZHNlVUR6OHhpOTVlZXVWd0VBczBWaUQ5emNSa2lYdEMzbm1SNzdIM2NjNnMxeHdLaWt1ekxuRTBUU3dVLWU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T06:12:00+00:00",
+      "summary": "Apple probably won’t name Jony Ive in its lawsuit agains OpenAI  Apple World Today",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Has Seen a 'Resurgence' of Interest in Secondary Markets. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3QxeFBnWGk3aFhyVllwU1RFcU5tX0N3OFNDQzY4bDQ4QmJMVXlBd1lhNUhrOVJLNmtrMFpad0dDRTNtZExkZjZUMXhTZ2JpLXJHcFVBNm5ZUHZPWlctUGE3UlFUNFAwd0NqYmd3MHlCV0hsMFNLR2xYWW5fVDFyTjh0WFhyNHE2b3RwQURKeXlnTGVBR0dXRkg4LWNQbE9zQnc?oc=5",
       "source": "news.google.com",
@@ -155,69 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-20T05:36:06+00:00",
       "summary": "OpenAI elevates Uday Ruddarraju to CTO of Compute  YourStory.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Silicon Valley is freaking out over China's open-source AI strategy - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbktnY2YzZ0NUVENLNFZJeUcwSF9temhDeWt0UHZKZWFZNlRmRkZsNTdoOTJ5aF9laDFHTzBVU0k3UWRoaVVGcVBiX2tIRnV5X041RGxpb09mdS1UZHBwRjgxbERWaHpEQnFYanExalNEM0NQUklpbGlQcmlVUEdSVmlEemRpZEVpLXFiNlpXS21RaE9HMkh4SFhGR3YyZlVIY1Fqdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T04:41:00+00:00",
-      "summary": "Silicon Valley is freaking out over China's open-source AI strategy  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Commentary: Apple sues OpenAI, but Trump holds the whistle - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMVpxQmdxaVprRVRlenY0WHRXQVF3Tnotc00zZmxCTjNRbURCRUpTeHN0QU5HelhKY04yWGNsM2dhQkxGN1V3cFhmNWxGUVlybW1FRGRsb3FyZWFnMTVGWG1DajJ0TzNPZTJaeVVpdlJ5YW9RRUJ6aWdua0FVU2ZXYU5iM0F2b3VWOTY1QlVldGZuNGMy?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T04:35:01+00:00",
-      "summary": "Commentary: Apple sues OpenAI, but Trump holds the whistle  digitimes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Indian-Origin Tech Executive Uday Ruddaraju Named OpenAI's CTO Of Compute - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkFuek52bWRqZUJub3plNG5JcVBEcUhVY21kUzlGYkIyZlZ5ZTc0OXRaZmJZSGxqXy14STBuNlZIaVl6clNTLWE2eHc3MHdBd1BsaGYtdk5SZFQ4WUpOci1wZXd1OXhPSzhCR3V4S2JWMjVJOU5BUWdBWnp1Tl9uVXZ2U3BjLVlqSUhLQlNraGhfcVJwaDc3RDBQdUpIM1B2VGE5VjYtX1BSTmhxazR5cmZpQzNUemdHTm9wMGl6T1B2NVdS0gHMAUFVX3lxTFBkandTTGRXZTg2Y0Y0UXpoNGJzYVZVcXBTX1d2NVdyNzJKaVFXaW44Z3JDS3pLQUR6UUZkTmNqbXA5clh6U3RhN203ZGtVeVVnamhGcGdkX0s0S0NrQlRRUWtTZUxlS1hFSndLdERsUS1BX0NMTDNVQXZEbE5kbkR5MWNSR0NzenQ2MVpzeXRVNGJJSlZDSkpNdEl5X2RvczZiR2JpYkxYd19IQXJ2dmt3S2loNWtnRzhJVnlERlh4QnpHbVZxU3U2ck1reQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T03:44:01+00:00",
-      "summary": "Indian-Origin Tech Executive Uday Ruddaraju Named OpenAI's CTO Of Compute  NDTV",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple Sues OpenAI: Alleged Trade Secret Theft – The Unraveling of a Once Close Tech Alliance - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SYTJJdFY2bjdnc1BXR1FsOGdrZ1VGUjdjU2dXbnNnVmFhYkpuYThKVzI4emV3TV9LdHdvTlhrQlpYbnZPNmc2Ujh6bkFWQXg4ejRJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T03:33:14+00:00",
-      "summary": "Apple Sues OpenAI: Alleged Trade Secret Theft – The Unraveling of a Once Close Tech Alliance  36Kr",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The European Parliament’s answer to its AI worries: More AI - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0ptNjlTMUh0UHhaenFodUlLMm9RMzc3czNiakR2ODZOUlRuaC1uRGVPbWhKQ3dWRWtQR1lUUnZIWjNDMmkwX2R2S0ktV0NRV000Q2Z1MUowQ003YlNrVzlTbGJLSHpEbUVnV3QwZzRQXzJsV3Zmak5lLUdRLUs5cTVvUFMza1ZVOFBtQWJxMXZHOGNj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T03:00:00+00:00",
-      "summary": "The European Parliament’s answer to its AI worries: More AI  politico.eu",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CFO Sarah Friar to companies questioning return on their AI investments: Don't rush to the cheapes - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxObG1xQnFJeldYeGJjM0VEYlRuVndhQ0h1MlU5amZGa1ltRlJzMlQya2loN2Z3Y05fY256R2htcTNfWFZPTXVGcGg0a2k5MHJkU2JyU3hidGRITHd6eWJRVndnSzc2aVVSenZlQkl3U2ZCaWlRN3J1UTdWTHNCRXlrUW1hVjRsRXlNajhrMVNpNERaUHhQdThibE5Mc2p1d1c3WlRTczktc09YTnlEdi04Sk16UjRFeFlSS1NCd2phZFFUbEFtZ3dfX19QQmNEcE9VUkR1TjRXUVFmMWdFV2VkWlg3cjBwdTljNlpTZmp4ZF9KSGUxR1RQUW1PcDQ2WUZnNUJrU2drRmRxMnFxdkJxazBTMlJGdERXMzlSa0R0Z2VYb1R2UVJsR0VLVmQtbEdWRE15THpUb3lrYzjSAcACQVVfeXFMTXk2VEEyZ3YycmtoNUl4dFZVajhHckJpRndxbUl2Y0wybFV0a2FQckFkb2RkWXFOT3JUZTNCakZucGR3anNxZGJJSXNkY2xvalVFMmZoMmFhaDBiaXBiZ2xQeTFlVThVdjE0QTNEZDM0YjJENlY4X1RiRDNmczVsNi15NGlKUExtLW85NjhBTXhqZTlqWDFNY2NEaW1SYlh6UVJ3V2F0eDRWcTR2cFItNjlQT2RkUTItU1V3VFhfbWQ4d2o0Yzg1Rk5rUmYtZlAzRW1fSDZVeFpYYk9XTnR0WVhJSDB2aC1PRkpwZ3Z5QkpPdmRrM3E2OG9xdjF0LWI3QTNydndaTFBWM2VicHpaVkRQNGJ1YlVZR0F0NEs1bC11emNnb1Y4UzZsRnQ3WWwwVDFfZVpQSlg0c1M0M2g2Vm4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T02:23:00+00:00",
-      "summary": "OpenAI CFO Sarah Friar to companies questioning return on their AI investments: Don't rush to the cheapes  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ReliaQuest and OpenAI Announce Partnership to Accelerate Agentic Cyber Defense for the Enterprise - The Malone Telegram",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOQVR2d0FuZmczUDBPUFhKR0pST0ZCNmFjbUJIQjJ0V0Y2RnJFSm5TMVhFNWh6SmM3LTJnQThmQmFSOU9aNWVITl8zUllldDNvSkZWNmYwSHhRcERSWjAzQjFmaUJGVEl1aVZObGRJN0E4bG9KbHMtTnQ4RHhYR0FTY1VSWDdVYkVSUlhvYTlrOUY2bDVZY0U5ZGZQZHV4QUNfTjdpWUdWN2c0c25icjRwR19IdGl2RXJoTFpSVTVmOVRhYW5SWWZTS2FManUxeUNISFlJMmtlSmRUWjR4aHZsZDE1R0xQb0V1V2gtZEI1a1paaHhGWjEyWklMcm0xeFhXWXNGN3NxeVgzY1dfSUJsNHJVaHAzb2JkTzFDN0tiUG1LZnAtVl9WT254cDhaOGt1eGtLV0pn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T00:00:00+00:00",
-      "summary": "ReliaQuest and OpenAI Announce Partnership to Accelerate Agentic Cyber Defense for the Enterprise  The Malone Telegram",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
