@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:25:36.908723+00:00",
+  "generatedAt": "2026-07-20T23:29:15.101295+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-20T22:14:29+00:00",
       "summary": "AI & Tech Brief: The open-source debate  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Weekly Recap: OpenAI stake financing and AI customer-service rollout - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQW8tcVpvdTAxLUpZWGdyUGRza3l6UG9wbGVoek40UEtOY1M1YVA3MnhYRFpDSVgxbm4wRXNFQm5STWM0ajhVSmppUmJCNThEd0hmaEZ3WTFvOTA2VFNNVjBmOURWLXpOcEdVYkdPdEtXQ0g5eUhHcVg2REJFYmpmMzFRaDRaUGNHSHdPclZhcjZydXd3OTZMYmJid1BOWFNrQThBdC1FT01Hck5zazNRbjZzSHlXVnJVd3BHX0FxQUJZdy1NSVFSOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T22:14:27+00:00",
+      "summary": "Weekly Recap: OpenAI stake financing and AI customer-service rollout  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,11 +123,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Video: Apple Accuses OpenAI of Trying to Steal Hardware Secrets - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE9WLUM0SncyZkNRZ1I0NDhuRnExcHlxRGxUZjhVRnY0dFc1VGpIY3VTM19mMmFuYnhJUFAzcEs2bWFiRms4U0h6OGNWRnE3a2s0bG1vcFVhWjE1NTJhMGNoUllUa3l5UEpvYy12TzBtSTFSVTZCTFU2SmIySWRhNXZwX1k2TUtuZ3g2TmZRZjhJV1E2cC02d3lTazI3dU1URmZGcXFrMWxuZ2hLWkdOdHNKU0FPRk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T19:08:51+00:00",
+      "summary": "Video: Apple Accuses OpenAI of Trying to Steal Hardware Secrets  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Appoints Hyderabad’s Uday Rudraraju as CTO of Compute Team - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSGtlSDI5bkYwRnp1RmVpVTF3d3VBdXlTQTBrTmw5amd6NEdCb0xoN0xuZkFaNmVicVlNMHJIb0xVNTBxc3J0bVZiRzhmUmtMQTdlcWJSMGtsYTNzNWRpU093ckpUYkpSSVVZbUxOVHQtV0tnNjNCNWloWWFXOV9nd1ZMYUFMVUpDNmt6d3ZXdXpRbHlERVNRSXhHaWhEcC1KTVotUTZXOVpJNVhzRURnNFVyZU0wbmIwWHlBTEhMamg4S1lXeUxQMXNHMUo5TEhLMzZrTE8tekfSAd4BQVVfeXFMTTVFdXVmVVZ1enN5aDNxTFc0aGQ4cEZyOHRZMW1aSnZ6bl9pLVFMZ0JFYVZzQ1dqZGh2dFNKUTQyN1paZmd5Y3ZnNTF3MmFVaUpfNjlacVBwMDRCLVNtVWhBLU9rTHFIVjJkbHhaaWVwZFllUG54WWdMaVdoLWhuVTVIbDFRbjFTWUlFd0pLUXhmMUpnUEJlTmJNQTllSF9FbjJfOUp1ZWxDN3l2ZTZNbTN0Yk1PX21ENTNfczNnUnY0RFFEV0M1VVU0TnQzQ2dXUjh3X0dIbmxyVE4yRDFn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-20T19:04:00+00:00",
       "summary": "OpenAI Appoints Hyderabad’s Uday Rudraraju as CTO of Compute Team  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI admits ChatGPT has deleted files without user approval - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOendkeXgzVXl1MHEwekdIUlpCS2Q5Q2U3ejl4cjVmckF6QlU3b1dCdHJPdlhSNXZ4NnZBN0ZJYTBtbHNQV3NpQUczQmpISnowODNkTFRPOWlIaFpCR0p6SDNzWTJEVzBtTzd3YUVmdGxJWTlsQ1FTdVpVb2lERno4Z2wxQ0NwU0UzTmNCT0thc3M0STJNTi1kNjFmYV9qVHdYTi1jRC1RR1VsSWd4c2J5dlhqQnI0OUx0VHdXLXpR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T18:55:01+00:00",
+      "summary": "OpenAI admits ChatGPT has deleted files without user approval  The Daily Star",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -137,6 +164,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-20T18:45:02+00:00",
       "summary": "OpenAI restricted internal use of model after it found ways to work around guardrails  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Legal Letters Sent by Apple to Former Employees at OpenAI - ilounge.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2Q4VUQ4d2NyN0U3UGJWcEt5V0Z1b2xMUXRDUzAweGMybFYtMnBYa2YxMDk2b0dVc0JTY3pTUUhQaEtKOVhpTlBsOENINkNGRmJCcFVBdWFJY1BoV1JidFc3dE5JRlJQNVhBVUxCMlMyVFdjV0hsV1Mxc3Z2eGtHWE1mYTFRNjZEWUdzNmNfOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T18:43:41+00:00",
+      "summary": "Legal Letters Sent by Apple to Former Employees at OpenAI  ilounge.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-20T17:48:09+00:00",
       "summary": "OpenAI Exec Laments That China Is Giving Away Models So Good That For-Profit Companies Won't Be Able to Compete  Futurism",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XaXhxNTV2VUx4Mm9hcEpjUU9hSC1zcHZOc1R5VU91eDhlZkJxNkdvWlMzb0Q4WjlFbHA1NkZCUzAwUU41cTJqRGlnM3YzaE8zRTQwYTZMTG1QcHlGSExMTjVjRmhxVTlMQ0VPWXNnaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T17:19:41+00:00",
-      "summary": "Safety and alignment in an era of long-horizon models  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank Seeks 60 Billion Bond Sale Amid Nearly $65 Billion OpenAI Commitment - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUkltRXVvRzJvSlFvdERsU1VWWWxhRmdOazQwQzJaUGd4Q0JGVGtYVUU2ckpEQ1BpeVczYjVwM1gwNFBUdmlkOVdtdHFKOFZKWThnYU9zVzZlUWx0Sm5uYVpzalFwcG9WMG5tS2k4RlBGdkZiMkgyTW5lSTVaN0VoQmoxODBzaFhIVVIxLVNxaE1JeFpOWWdxRXBGVGpjX2t6dWw4bTFPWENkNml1ZllDeGV6Z2hnRVB2dEU4SGRMbmduTEFjLWhoVVpUR0VSYW14UEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T16:55:15+00:00",
-      "summary": "SoftBank Seeks 60 Billion Bond Sale Amid Nearly $65 Billion OpenAI Commitment  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026) - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUkk2dm05WXdpMVpTVERTZUJXSVU4SG80MkItY0E1Zzh5bk1fbHpSTU8xdjNHZndkSTJ6YXRpdEFCUWo1TFFoTnExbzJlc0owd1JUb1l6MHlqajF4NW1CNS1fN0N1UDY0RXE3a0V3Nm9SWGhjQU1BcWxFbGVGVWV6eVJJeUJxaGQzNVpRUFgzOW5iQkNjc0hWOS13SjY5YnFNQmVERXN4UXd3UE9TQmVOZ2FjcWRIV21wVUpFNklGTV9QMHp1NkVJX2ZtZDFJNi1yeFgw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T16:37:34+00:00",
-      "summary": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)  Amazon Web Services (AWS)",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Poaches XPeng’s AI Infrastructure Chief: Report - eletric-vehicles.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkw5ODhLTnBIZTJUYUpRd3pEV3lnWFd5ZkZDSFJQSG5YYzBWS2hWWU5BUjFIRWRDcklLbXktM3g1dWk0eDVNZmhpTHpfTTBDMkpaM19qalNpeC1BWHRkRlRiQ3BzOTlvTnRmZmVjOWdtR3MtRWJjSFpwSWsxampXVzVyS1RLcHNxWmlfcFdKbjl0Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T16:36:27+00:00",
-      "summary": "OpenAI Poaches XPeng’s AI Infrastructure Chief: Report  eletric-vehicles.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
