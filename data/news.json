@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T21:19:39.449444+00:00",
+  "generatedAt": "2026-07-20T22:25:36.908723+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -9,8 +9,26 @@
       "title": "AI & Tech Brief: The open-source debate - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnNaNFpvWEY5d20tdXVIZDVXZGxWRkxubFlsTFNFMkctSUVfeUtJX0d4VXlOcjhDZElLY3d4dWN5SUE4eFVrak1RQl9ya09CNEhTLTJUbzlKcUMzYjRQVUNmZTVhZHhsWThSQnItcGpwNFFnV0NubThQX21paHRBOWVwNE5kZkowVGFmZUlLZTFvVXdnMVoyam04cklwT2Rnc1JORWdaRVY?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-20T20:44:29+00:00",
+      "publishedAt": "2026-07-20T22:14:29+00:00",
       "summary": "AI & Tech Brief: The open-source debate  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI: AI Trained for Long-Running Tasks Can Drift Into Rogue Behavior - PCMag Australia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdGxyRmROdktTdlpfLXV6cTg0Zm5ZZ3F2b0dLRVpmUlI0aWRrYjVTNkhEQ2F1bjBlRUVDM1ZPWHJSUV9sY0NYV1dmNDByTERSTFF5RDJkNzZCZlNQYUlnR0RlcFU0azVRV21qSUIxSFk4OENEb0hTZ05BU0NSN2swZmdKX1JoaFZ2LXkxNkJnWmFrY3dEYVpMT0NXallmRmstYUIw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T21:25:19+00:00",
+      "summary": "OpenAI: AI Trained for Long-Running Tasks Can Drift Into Rogue Behavior  PCMag Australia",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple’s Lawsuit Against OpenAI Could Be the Opening Move in the Next AI Hardware War - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXBHUl9GcGIydi1rMXdmbXFwTHJlR1oyS081RTY0UnNqSmN1NFM5aHFIUkVMNWlaU1Q4aDZhODNOemFyVnMzQmNQRWwzYnAtN1Jfc2VzcHJfRFlQTHhnRG5vek1tTEZKeHZaQ1F1WFgweWs1Qkp0a3MxU3ZLSHp3N3FPRnI3NzRudjZiRDJjMV9iSEkxaUR0Ujl2SGhuUUZwYjFCXzZuY3JLMG9KNzExWTRnMTdhMFNlZHoxREhhN0JFcWdQcEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T21:21:28+00:00",
+      "summary": "Apple’s Lawsuit Against OpenAI Could Be the Opening Move in the Next AI Hardware War  24/7 Wall St.",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,6 +38,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-20T20:26:39+00:00",
       "summary": "OpenAI Warns Autonomous AI Agents Could Learn To Bypass Safeguards  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reveals long-horizon model bypassed sandbox during tests - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0ydnkteHdTb21SZzk4czVQXzZ5Sm5WVkZ0Ym5Vd09RTVNVV1JFbk5LNkQtUmU0UDNHZ1VzLThDaHA1MW1iU2wzYlJBNFJxVndvbWNRVi10TFd4LWlDc21tWERhMlpReFpwOG9rU1JlZmk3c2M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T20:26:21+00:00",
+      "summary": "OpenAI reveals long-horizon model bypassed sandbox during tests  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple’s Fight With OpenAI Reveals a Risk Every Leader Should Take Seriously - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMG53RW9lMlpWVFdiZ2tsd1VJbUN3WC1SU1NwU25lOFc0UFptSE9oWm96emVLX1g1WDZyZEVQSktLMkRpWVZDOUQ1b3E0NzR3blN3ODZQNEJmOU5yN2VuNXhzOHczVC10WG5hNnowSW1WV1N0c29JMjZVMTFSbmVKVlNxX1Y5NG5jYlNSdk9xTmN5bHMzbVBhVVh5cmQ0REl5ZUEyWEdVS2d1Q1ZDSklSbFY3SQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T20:25:08+00:00",
+      "summary": "Apple’s Fight With OpenAI Reveals a Risk Every Leader Should Take Seriously  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-20T16:36:27+00:00",
       "summary": "OpenAI Poaches XPeng’s AI Infrastructure Chief: Report  eletric-vehicles.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Chair Predicts Companies Will Stop Worrying About AI Tokens - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTzdjcHE5Vjl2bGJSOGV1b1lrWU5MWnR0ODM0RUpwWUQ2UTRaT1JseHhYemwtUjRhYkFRenFKSUM0NkRvT3d0dG94TW5DWjlkWUplSXBTMFVNYTZJZ0ZsVngyRUlGb3kxNHhXYUNfbXJIWFNNdDRLeF9nQ0pkYU9mSks2Tl91Y1FFT1ZFem9wRnlnNWFzWW9ZZ0VqOW5QREFTZFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T16:26:47+00:00",
-      "summary": "OpenAI's Chair Predicts Companies Will Stop Worrying About AI Tokens  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why Jony Ive is missing from Apple’s OpenAI lawsuit - Cult of Mac",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfQ0dJMVdUazZvazBvNGNHQVpGSUtHc2lpOXNWX3FSOEdNUjlzdGhKQjFaLTdwVGtyVFliRWI3Q1RId3ZrenRxNnNySDFMT2ZGNG9JV1ZBd3NNMDIzNENmT0xwOGhlcWdhU29UY3QyckVkOXBxUkdPM3ZXdjF5QVk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T16:25:38+00:00",
-      "summary": "Why Jony Ive is missing from Apple’s OpenAI lawsuit  Cult of Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple’s Fight With OpenAI Reveals a Risk Every Leader Should Take Seriously - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMG53RW9lMlpWVFdiZ2tsd1VJbUN3WC1SU1NwU25lOFc0UFptSE9oWm96emVLX1g1WDZyZEVQSktLMkRpWVZDOUQ1b3E0NzR3blN3ODZQNEJmOU5yN2VuNXhzOHczVC10WG5hNnowSW1WV1N0c29JMjZVMTFSbmVKVlNxX1Y5NG5jYlNSdk9xTmN5bHMzbVBhVVh5cmQ0REl5ZUEyWEdVS2d1Q1ZDSklSbFY3SQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T16:14:06+00:00",
-      "summary": "Apple’s Fight With OpenAI Reveals a Risk Every Leader Should Take Seriously  inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "When the Chatbot Reopens a Closed File: Nippon Life v. OpenAI and the End of “Final” - JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWC1vR0p6elY4ckhyWkhhcGNxc082M2t1X0pDRk5TT2NjTVJldHdsdHc1Y2tnWURwbkdvYVpvVUZOZ2owcVFwcjFnR05aalZUU3Mzd29XYzdJTHMwYll0ME93N3ktYTRKeWp4VXZVT2xJLTZ5ckIyd3NockVZdk53amdMYVR5dG9r?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T16:03:40+00:00",
-      "summary": "When the Chatbot Reopens a Closed File: Nippon Life v. OpenAI and the End of “Final”  JD Supra",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
