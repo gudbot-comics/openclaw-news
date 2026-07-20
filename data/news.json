@@ -1,25 +1,142 @@
 {
-  "generatedAt": "2026-07-20T18:26:59.898241+00:00",
+  "generatedAt": "2026-07-20T20:06:00.175641+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Video: Anthropic’s New Ad for Claude Is a Mess - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSkVLckJISDF1cTlVSWJHa1JsTGxibVk3T1I4Z24zdE82SV9XMWZvRnpYSXR2QVYwd1hHN1hxUWk2OWhBX042UU5pODdCT2QwcVp5Y09Ua2JEZHVNSnJMZnlBMjM2eVoxWjIyMGNsM01LeE80NllKMEFxS3ZUdVAxNFNoMGJHdTctZ3JNSEUzeFg3WHBYelllb1dPM1dHWjg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T20:02:01+00:00",
+      "summary": "Video: Anthropic’s New Ad for Claude Is a Mess  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Promotes Compute Infrastructure Leader to CTO Role - The National CIO Review",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkxpNk1MMHZLbUppeEFzbGRsY0JQRXk4ekI3bnE4T1M0VFNWRFVZR1c5REhlTWhsQnU0ZWd3UndlZ1V5cE8yNXY2cjNuZnRHVDcwM0xBOE1nc2VidVJzeUJSRldYdjdydHE0aEdLTEpiYjhaU0w3VW1CUF9pX0wyLXRaVEZMZ2J6aWJLOUVQNWdjdjBDQ3czd0JUWHJFR0cwWncweldDVWI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T20:00:28+00:00",
+      "summary": "OpenAI Promotes Compute Infrastructure Leader to CTO Role  The National CIO Review",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI & Tech Brief: The open-source debate - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnNaNFpvWEY5d20tdXVIZDVXZGxWRkxubFlsTFNFMkctSUVfeUtJX0d4VXlOcjhDZElLY3d4dWN5SUE4eFVrak1RQl9ya09CNEhTLTJUbzlKcUMzYjRQVUNmZTVhZHhsWThSQnItcGpwNFFnV0NubThQX21paHRBOWVwNE5kZkowVGFmZUlLZTFvVXdnMVoyam04cklwT2Rnc1JORWdaRVY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T19:48:11+00:00",
+      "summary": "AI & Tech Brief: The open-source debate  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3hjQzBSOEdMZFQ4bUxMNG5PeUZ0OUNvYTk1WEZaZFZSNVhEa1NDTUZ4YU90ZHVEWnBZakV2TVFTRlpZdHJ6d1g5Vlk1ekkwQkRBNm1vMTBmTGRVTTFySXdGYnlIRUVlSWRUZjBkZi1Ja1k2RmpDQkZqQUc2cV84cVFnb1dJVnZrZTBGSy1sRm10dC1weFM1emxnRUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T19:33:25+00:00",
+      "summary": "OpenAI is scared of open-weight models. Should the US be?  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be? - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVQ5WFh0T2YxcjlNUVlfN211RkE0VXRwQTdCR0pKdGZDQ1VBLW5EM0JIbFdGMkttbEtSeXRjR3FrQTFOazJ1dld2TDB4MnNDTl9QM1dEeDZzdGxTeHBNaFl2X09POG9PZm9YUFNaOWdCWjdza05DcElSZG01bVl4WGZ2a3pONmVDeE5NQ2NVbFRQTjdN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T19:33:25+00:00",
+      "summary": "OpenAI is scared of open-weight models. Should the US be?  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "BSidesSF 2026 - From Assistant To Assassin: Weaponizing An OpenClaw Vulnerability To Achieve 1-Click RCE - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaWtCaHluaGJDcWh0c3ltQUFUR0tBeVlKeHZCbTNiWF9wbGZOYTY2OUt4aTRSNU9PYzF4cU1RWmdzRUZPTXA3cGx0V2w4eHpEeVJGMG5OS095NjN0cHpqS0Etb1JlUk9sVzFzQnBRV3k5elVSZjY3YWpGeFZieUhocDM0UzFsbTlzYkZHa3hhX2dvTHRENkpjalJGdXRnMkZVM3pHYjZBNGFiNHkxVHJmbVA4OEYyRDZhNlN2V2t5NXJFYTBINXBHeDNZN3M3cW9qUXB3VUR5dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T19:24:35+00:00",
+      "summary": "BSidesSF 2026 - From Assistant To Assassin: Weaponizing An OpenClaw Vulnerability To Achieve 1-Click RCE  Security Boulevard",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Video: OpenAI and Anthropic Are (Still) Beefing - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNczRINHlHOFg0Vm1ab0tQNVo4WXNSdW5aZEFDaVdFTGthaWtDUUtPUHlEeEpTSDhhbW9NN0pfN21SaF9HYk1pU3NwN1hVZ2F3UjFwcjRzZmxPYVE3SllabTNtNzJKS21HY3BJU2JRVjRHcWlxeFp3bDhMMHNNdkxOcDE5N3VtZEljUldWTzBabGRCMUxiYlY1RG9IaEZUdVU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T19:21:21+00:00",
+      "summary": "Video: OpenAI and Anthropic Are (Still) Beefing  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI patches ChatGPT desktop after user backlash over its recent redesign - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2oxRllYVTd1WkNCbUNUSXl0N0NLZUNqTFd1LXd0ZEZ1MTE1dkRHcHFoSXlBdW9WVU1KNG50M1B4TFVSZnF5ZXI3Y2ktLXNrQmdUUC0yMHZJT3JEWjYwQWhaODFDX0NUaWhiWmJnLVpHSTVheWNmdFRnVFBwOEJGZXZ1N0p4ZVBuMjJLSEo4Q1pTdzUtS3F0Yg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T19:18:03+00:00",
+      "summary": "OpenAI patches ChatGPT desktop after user backlash over its recent redesign  Yahoo Tech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Opinion | Powerful AI models are being given away for free. It was inevitable. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T19:14:53+00:00",
+      "summary": "Opinion | Powerful AI models are being given away for free. It was inevitable.  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI admits ChatGPT has deleted files without user approval - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOendkeXgzVXl1MHEwekdIUlpCS2Q5Q2U3ejl4cjVmckF6QlU3b1dCdHJPdlhSNXZ4NnZBN0ZJYTBtbHNQV3NpQUczQmpISnowODNkTFRPOWlIaFpCR0p6SDNzWTJEVzBtTzd3YUVmdGxJWTlsQ1FTdVpVb2lERno4Z2wxQ0NwU0UzTmNCT0thc3M0STJNTi1kNjFmYV9qVHdYTi1jRC1RR1VsSWd4c2J5dlhqQnI0OUx0VHdXLXpR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T18:55:01+00:00",
+      "summary": "OpenAI admits ChatGPT has deleted files without user approval  The Daily Star",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI pushes new yardstick for measuring AI investments - CIO Dive",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1naThneFRNdHlNbDdZR3NMbHpYek42dHllNGJReXoySE9mbWNmSG5hZ2toS2tldnU2VEVOcGJhZjBQWmhQcTBfM2JyRmM5SXFqby1qQkZHZEMxcTdnU2tlQ01lZmJVZnFkdVA0MlVBMHpTY01lWm5R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T18:49:55+00:00",
+      "summary": "OpenAI pushes new yardstick for measuring AI investments  CIO Dive",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI restricted internal use of model after it found ways to work around guardrails - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2VfSGxTMS1FdTlZd3RPSGpKODZrVEdxMXYyalRUQnhOZVVSelFyZFlMWDBvYk0yTjJrek15VXRWTHEzd1M4ZHB6b2ZtR1RsV1dHajNnUmc0Q2FiVEFhSk91cW1iN1VfQy1WX1ZsdTYxclBZbDhDTEJZSUpocU9PRVUwWUE2LTRYckRVd2MwRDk0ZWZ4a1U4bWNMbjBqN1JBalNiS29XejZJYi1MZ0lnNDJINXBGNzhJRkpKRHZhWlI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T18:45:02+00:00",
+      "summary": "OpenAI restricted internal use of model after it found ways to work around guardrails  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Legal Letters Sent by Apple to Former Employees at OpenAI - ilounge.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2Q4VUQ4d2NyN0U3UGJWcEt5V0Z1b2xMUXRDUzAweGMybFYtMnBYa2YxMDk2b0dVc0JTY3pTUUhQaEtKOVhpTlBsOENINkNGRmJCcFVBdWFJY1BoV1JidFc3dE5JRlJQNVhBVUxCMlMyVFdjV0hsV1Mxc3Z2eGtHWE1mYTFRNjZEWUdzNmNfOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T18:43:41+00:00",
+      "summary": "Legal Letters Sent by Apple to Former Employees at OpenAI  ilounge.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Appears to Be Missing Its Sales Goals by a Vast Margin - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDZBS1hqNkRhWjJzd0R4MEdVYWd4ZEtDcDNCQ1Zxa1N2bmxoRzR4QW8tSnQyLUplYjAtbkIzVWZOcEMxTjFBOF9lWlp6SXZsQnljS2NRYXBHZDhDbFlZbnVjVHV1T21uSWVZX2tLQkpXRk9MdDZnNjJva1h5ellsTUN6RG9XalFjQlR6Q1JqQzlCbm1NNU0tZkVpSVVSVDA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-20T18:30:59+00:00",
+      "summary": "OpenAI Appears to Be Missing Its Sales Goals by a Vast Margin  Futurism",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Names Uday Ruddaraju New CTO Of Compute - IndiaWest",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VZk9CYzR6Qnp4R0tvQ0ZoN3cxYnh0ZWxfMU42YUNnSUNhSUU2S0x4QnMwcG5wMWh4Qk5zeUo5T1A4eHhIT0lFa2UxbTNET2dyX0t1UWxDM2NQUi1JLTE0d1BBVFFDRk9qOGVmWkhTYmdXQk5lLXFlZg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-20T18:08:13+00:00",
       "summary": "OpenAI Names Uday Ruddaraju New CTO Of Compute  IndiaWest",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "5W AI COMMUNICATIONS: CHATGPT RECOMMENDS OPENAI 2X MORE THAN OTHER AI ENGINES DO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXZ1WHhoUmZhYTNRMkhqbmFiRlA4SWdOX0VTRkMwakliTXRsUy1PQ3NvdXV1NmNyN3ZxUThQd3N5UnNMOHlXdlFKV2NMN1JwZzNOZWFKUlpKUW5JUlJOUEpkWEdIOVI3TjdVRmdKZmh6VUYzWkdmSENHZUVlRFJ4VzYzU29IQlYtSGEwUVJEeGFoSFUzWWh6ajdvYWJ0V0NPb1dZTHRR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T18:00:00+00:00",
-      "summary": "5W AI COMMUNICATIONS: CHATGPT RECOMMENDS OPENAI 2X MORE THAN OTHER AI ENGINES DO  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Opinion | Powerful AI models are being given away for free. It was inevitable. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHlUS1laU3VseHk2MnRaREdWLXgzRWo1alVmTWdZZlRWWkNtUTVLcDZpaEt5RU9VUWJPVzNVSUJaeENLbEtBX3dpMHFyOGlRb0xVbHdxd1o1cmJjUlU4bXl6MVZnaVotcjNpN2stcllxVXktVm5wT0JWaXVTQVNKbllDbFFNcW44ckFpc2RLR09QSDZTMzEzVjhMUU1VazlLc0dRbQ?oc=5",
+      "title": "Safety and alignment in an era of long-horizon models - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XaXhxNTV2VUx4Mm9hcEpjUU9hSC1zcHZOc1R5VU91eDhlZkJxNkdvWlMzb0Q4WjlFbHA1NkZCUzAwUU41cTJqRGlnM3YzaE8zRTQwYTZMTG1QcHlGSExMTjVjRmhxVTlMQ0VPWXNnaw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-20T17:42:25+00:00",
-      "summary": "Opinion | Powerful AI models are being given away for free. It was inevitable.  The Washington Post",
+      "publishedAt": "2026-07-20T17:19:41+00:00",
+      "summary": "Safety and alignment in an era of long-horizon models  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -101,123 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-20T16:14:06+00:00",
       "summary": "Apple’s Fight With OpenAI Reveals a Risk Every Leader Should Take Seriously  inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "When the Chatbot Reopens a Closed File: Nippon Life v. OpenAI and the End of “Final” - JD Supra",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWC1vR0p6elY4ckhyWkhhcGNxc082M2t1X0pDRk5TT2NjTVJldHdsdHc1Y2tnWURwbkdvYVpvVUZOZ2owcVFwcjFnR05aalZUU3Mzd29XYzdJTHMwYll0ME93N3ktYTRKeWp4VXZVT2xJLTZ5ckIyd3NockVZdk53amdMYVR5dG9r?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T16:03:40+00:00",
-      "summary": "When the Chatbot Reopens a Closed File: Nippon Life v. OpenAI and the End of “Final”  JD Supra",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple’s OpenAI lawsuit sidesteps Jony Ive: The personal and practical reasons behind the omission - MacDailyNews",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQejhpVGZMeGpJNEFKZXVxeWQwVjJWcTRzRVkzLU5ybGNYb090am8wcTFWLUNGS2hxckdFY1dETm8wU1hQTTdUakpsWVZ3VnFYMWZIZ0pKejJJTGZBQ1JrVHB4MFRXY0xjb2F5UGFrZzdxQTNWQk9vdXZyZnJjdWJwazB6V3dBdV9MWmx3YU1KY2ktRTBoWWNVV3AySEQzUS14T0N4OEkxQXZ1dzI3YVlMcnNGUXRJcUp3WEVPbTRWaHh0TjZKYV80YmtZcHrSAdIBQVVfeXFMUFBfbE15Q0xGNDA3SmtsZWZTc2lqY0YyWDJZczJrM2ZjUEszcWtOaWlCdlhEelJYS3pzX3MyZHR6OWxIc3J6UHRsdjRKTjBNRnFqV1RVS01VVGdxVzczRExDcWVmbW40dk1oaWV6SGdESV9TaTdjZ2pVRXlqTGJUbTgyLTQ4RTVhQU9aTHlZWmZOZUZVcTRDOUZKSjYtY1ZjeHl1eVltdzdhQW12LXNMNGhEeWxBdmE2dk8zWWtqOTVqTXpxZEViejF5b1ZjMlRUMFZn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T16:00:49+00:00",
-      "summary": "Apple’s OpenAI lawsuit sidesteps Jony Ive: The personal and practical reasons behind the omission  MacDailyNews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Bain & Company named an OpenAI Elite Partner - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXBrX0dKb08xRFdsb1FJVHh2X1FndTZXUnBFRVk5ZzlLZ3RkSzhOWmw4UlpqVElMdWhweDJTa0huekhyc19BeWlSb1I5b09Fa0ZoY1VPOWh1bTA0WV9HLUVvTVFlUUFNYmtjNF9BMlplSnd3T1B4UHhvOGlQeEtFLU9OdWFzZUVYbTVsLUJVcFo2WHhnbzNCYjF2cGg4Q1NW?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T15:55:00+00:00",
-      "summary": "Bain & Company named an OpenAI Elite Partner  PR Newswire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Scott Galloway Predicts Sam Altman Is Out as OpenAI CEO Within 6 Months - Apple (NASDAQ:AAPL), Microsoft - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQmFHMWd0Uy13VXlGbHFGR0RmYWh1aDdnM1kwbmdzTVpXTHRua1FXbjFqM29tdEJsTWFlQWZlSENQcnBGNEJ1Q0ZhRWpfSjJsclV4MzMweXBIMFljMElwMmY2UUs4S3diMFN6b0lQekpFclljUEhha2sxZlcySUxXbVdxc0lBNzBoXy04NmJhMGtXZ3djWFp0ckRHendzN0ZpaEtTXzlFVXZzaXBHNzlEQnpKSUQ3Rm9kNElTZnJ3NHFKbEo1WVRmYWNNbWZsUHQ0MHMyYmNFd2s2RDlaVDd2OThXR3RpemxDTUVLQjg3SXlYQjJtTFlEMXdVLVBjT1Nt?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T15:51:00+00:00",
-      "summary": "Scott Galloway Predicts Sam Altman Is Out as OpenAI CEO Within 6 Months - Apple (NASDAQ:AAPL), Microsoft  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Kimi K3 Sparks Open AI Fight After OpenAI Executive Warns Of Risks - Yellow.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xNEtaSkJMZU9FWmNHdXJOQ2VYcHF3WXhod1VJUkdYN1kxMldpVGM0cTJBMk5ocnJDMXR2ZmpkWFl2Q2RUaUVyQk90VDJhSmd6NVRtUUNTQWY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T15:48:27+00:00",
-      "summary": "Kimi K3 Sparks Open AI Fight After OpenAI Executive Warns Of Risks  Yellow.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Chinese Moonshot AI Kimi K3 Is the Biggest Open-Source AI Model Ever Built – Will it Rival Anthropic and OpenAI? - UC Today",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSV9feXczd3RybFpIM0x1UUJWeGFZRjNzeWExOVRyd1gwcjVLM1RxSEJWTWc2am5IeE4zN3ljMmtKWUZHYXdVcm1RSmk4cmRta3hPQ01XWU43X3FrQWRYbk5BZnZYREVGa3hQcEVISk9MaHY1cy1CaEhTaFZoQUxpa3JQSlBoY2ZsbVF6N0VIVEFkZXMzeHRTaGtxblI2VzIzb1ppNHB2NzJmZDZKTTNuR1dyUkZaWWI0UWNuMzVyS090YnZsRXpWcF9oSDhCdTZQUnRpZ2dDUGNjS0kySFYzamRHeHliTGpEREI1djBFNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T15:40:59+00:00",
-      "summary": "Chinese Moonshot AI Kimi K3 Is the Biggest Open-Source AI Model Ever Built – Will it Rival Anthropic and OpenAI?  UC Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Alibaba Stock Climbs. China AI Models Seen 'Narrowing' Gap Against Anthropic, OpenAI. - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFpiN0NJbUROVGk5N0dZMktBYkJUeVNqNDBtWVdDNnZ3VHBTQjVtZlZuVU9icmotZkdZTGZ2ODUtUGpDenF6dDRKRy12ZDNPcTZMNENsTzZsdk9YazlWcHRZcHlOeldZWjB3eVJmUzF2QWNmdllGamJOYzYxd0k5MzU3MkxiRUU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T15:38:00+00:00",
-      "summary": "Alibaba Stock Climbs. China AI Models Seen 'Narrowing' Gap Against Anthropic, OpenAI.  Investor's Business Daily",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaWg1aWRZV3ZuMkNSSE5XbUhYeGVwMkVzcy1BSnVCNmZDRS1veHl1LVhYNmVLb2JjZnljQzBzNEIzVlRQVUhBS0J4NFB2Ul91QWcxbHNoVUxwR2N0MUNGNU54SGdhTjVxQmk5c0xnZlpqWWRhbFZQdmJUZWJnVTB5OG5JTFN6WjI4eXY0QnJlNHl6WVlwN084aF94TFRUNmVoMnV6eTBkd3NVQUl5YUVPRjBQZ1VhdE55VUt4cmt2cUg1XzA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T15:15:00+00:00",
-      "summary": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Xpeng loses AI infrastructure chief to OpenAI's robotics push, report says - CnEVPost",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84SnpaS2pOUl9USlpONHA2c1RuRFFKTzJZN1lkdTF1VVExeUtTenhHR3A5dG9WZklZZ3pZVnBLUVI3UzAtbFBpTDNTM3ZLZVROdkFoRlc0bWtTcXNUc3M3ZURaUnZMbWRqX1dqbzBpUmNVN1hXY3Vzbg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T14:31:23+00:00",
-      "summary": "Xpeng loses AI infrastructure chief to OpenAI's robotics push, report says  CnEVPost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hyderabad-born techie Uday Ruddarraju named new CTO of OpenAI Compute - The South First",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNODNTWUY2QmRtMTFHQTViYkMtUFFtMDluaEl5Rko1S3JRMWVCRS1QaE5BMUN3bDd0dnRWRXJZSVF2a2xfbEItZnJxSTZIVnlxQ0kwMFpxUkgtOFd6Mnlvei1sWjA1R1ZYWUV2MktuRWpsMEVjOURWandWN09QWUQ5aG9ndThGdXlfb0Qza3ZjcHdNTU5CX21sSXVZbkFxM0lzMEJz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T14:25:32+00:00",
-      "summary": "Hyderabad-born techie Uday Ruddarraju named new CTO of OpenAI Compute  The South First",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Researchers Build WordPress Exploit Using OpenAI's GPT - Infosecurity Magazine",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kVVZyd2plYjE5QVZfYTFwUFFENWRDN1ozVmlkNVJFVHdFc2lKX1pleS1rZnRUQkdKZ0RVa1k3WGZNdmdTOU1PV3NVYkEzcUZ5cWppRm1HdlNPaTFIbjJhVkhqNXYyNGNLUW1IQ2RxWWV2bUU0aUN2WXFiNlhDZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T14:00:00+00:00",
-      "summary": "Researchers Build WordPress Exploit Using OpenAI's GPT  Infosecurity Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Uday Ruddarraju named OpenAI's CTO of Compute - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdVNQTTU3RUhjNW91TnVIQjlOVXUyMFpkS2tjZkhQUm1RQ0JELVV3N2tYWGFrTjl4SndKemZQTVF6d1Q0QnZrZmVRSnVWN0ctc0w3dHBjY2FRbTNZWWVDWV9BMVRYWFNNSlRrRG5xTDZOeEZPRmgzVTZDejl6N1NLZmxTUjZSS0xqZXJDRjZFTDF5QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T13:51:03+00:00",
-      "summary": "Uday Ruddarraju named OpenAI's CTO of Compute  Data Center Dynamics",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawsuit Alleges That ChatGPT Encouraged Suicide of Woman Who Walked Into Traffic - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTEZUUnk4QWtmajc2ZzA1TEQ2eDJvUTdBWmlNOWx2a2VYNjhFRnFEYTE0cTVnZFdMc0YtLTl0QmtoU3RnVEh6YURuLW43bG45c1RVVEZGaGhMQl9ZZTllMlNfajBFSENJc3JRZVlTazRpdzljRkFIVlZlbkItWkhkUW9hRXhJc1RZdHh0cXVrR2NOM01pUzZfaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-20T13:34:20+00:00",
-      "summary": "Lawsuit Alleges That ChatGPT Encouraged Suicide of Woman Who Walked Into Traffic  Futurism",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
