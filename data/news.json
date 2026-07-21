@@ -1,10 +1,82 @@
 {
-  "generatedAt": "2026-07-21T21:43:25.963371+00:00",
+  "generatedAt": "2026-07-21T22:38:05.868516+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI says its own AI models broke out of testing and hacked Hugging Face - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3pOR3JHTEdnVUZ3T1VFcnQ5dFhmR0h5aklzM180cDN6OUw1WTFMZWtQcWc3b0xRdmcxelFyZW5WcXVvVDVGZ2NVWUNVeU5IVXB1bzRzaTZ1TUpadUFfbnFxSjlwOFJmdkE4SDRacktmY2RoMGl6Wl91SWR0T0c5Z1FEZjREbzVMV0trbk9LSC13WERibWRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-21T22:23:32+00:00",
+      "summary": "OpenAI says its own AI models broke out of testing and hacked Hugging Face  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says models went rogue and breached Hugging Face in tests - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFJZR1VfTG1fZU1fNG1yVHFWMjZOSlpQSGhBdGJvU0FoYXVxcDlDUV9MdVVNWWxhSUlNSE1NOVd6OEVTM3RvNEZqcDVESFZvb1FkVEV0Z29VSlNIdDlCTmZlZFV4WHB3ZGRhaGxnMUdsRWtjVEtkYzhabGFoM0c0N3pCak9pcmlGRG15M2tuOVFCUTZGY2ZYM28xX09ZeWU2?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-21T22:16:00+00:00",
+      "summary": "OpenAI says models went rogue and breached Hugging Face in tests  Interesting Engineering",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Adds Financial Veterans to Dual Board Structure - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFV5cFdOVlIzclR4ejNhWFV6ZGU2N0ZETTdTcVpSdDZUQkRwaTdwRDFoWGY1VjJ1VWFWVzlHOThNYS12TTJsV3ZFcG42SlJPdXl2c3ItamROd09YaTJXR0RiUjN2MzRxQXBsdVlVNmRHQ0Racl9DUk9oenpSeGxkbFZ6dDEyR0lsVGxqOE1tQjg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-21T22:12:00+00:00",
+      "summary": "OpenAI Adds Financial Veterans to Dual Board Structure  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says Its AI Broke Containment, Went to Internet and Hacked Hugging Face - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkVkWFlGWGdwZy1vVDFjbzFRN2tyQzZqakgyaTR4ZWdxQmFGNTF2ZVVsRGVxb3lrQmpsTmNqRVM4ZTdlYW1yQy1UQUVmYlpzSDhUYTllZEZOSWRadTlrRkU5MlZfdENTWWJLd3dyTVVJd2ZNVVI4MjJzQktEMmVjX3pJMFpGREhlYTY2d2doZXF5NV94cmNtV0oyQ25FdnA2bEdncFcxeENmVWM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-21T21:49:00+00:00",
+      "summary": "OpenAI Says Its AI Broke Containment, Went to Internet and Hacked Hugging Face  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVBIaHVOZXpRZlctWklBSURocDA0N3pIYUlTSTJjbk00d0VBaWxpeVRyWnoyNmdwbmFFa2tybkF3ZE1vUm1oQzlfRzJGamt4MDE5QXBDbWZUY0FJcDdEcFZNS1FEeUxVQV9Uc1NJVzhKbU8yZkJ5NjUxR195cS0xMWNMOVo4UGNJWTgzRGdYTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-21T21:48:54+00:00",
+      "summary": "OpenAI says it accidentally hacked Hugging Face with a new AI system  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Models Escaped Sandbox, Breached Hugging Face - BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlRweVFCZzdQYUROM01CWXNIcUhLYXR4ZDhmbjBlYkZVYi1OMGl6ZGJUdlBQVjB6OE1IbHpodE55N3hzRGF5cE1lOG5FaVRTcHRkLUxTeXJGX3lOOW0ycmcwNnZHRXVzaDNZdlBpRFIzVDctUGVCcG94aUlWaGtCZEg3ZVdsMXVhQlBSSERhemc3eWlIZGpv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-21T21:44:28+00:00",
+      "summary": "OpenAI Models Escaped Sandbox, Breached Hugging Face  BankInfoSecurity",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI: Oops, Our Models Went Rogue, Hacked Hugging Face - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVjB1X2tIUHU5c1dVT1dkU2N0UUVXUnBTZXhJaHVYckJ5Y0VoemlXUXJjSE5uakJoSWN2QmNpVW5wcXlPUFNqUHBqeldwTm4zM2xEcThWcUFtVGMyLTgyajd1UkpKd0MxSHdTdUJ5SlRvLWRjQjQ5c3pQZnQ5NVZ5bmJuaDhqbjA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-21T21:38:16+00:00",
+      "summary": "OpenAI: Oops, Our Models Went Rogue, Hacked Hugging Face  PCMag",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Adds Nubank CEO David Vélez, BNY CEO Robin Vince to Board as IPO Expectations Build - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGlKcjZtOUlvMm5BRi00VUVfRlM3QzVNcDBydDRGeThUZEVUamx1b1JjUWVkQ3lhX2FoQjBxak5jcXpQejFLSnNoTFFJWHFOTWFvNzlfa1kwQ240Sm1kbGl0V21HaWZLVXNrdTRfeHIycmxSZmtORWFGR19fVGpseW92em1qR0FFdW81YmYwVWFZQ1RXZnhuaGZYMzFCZXAxQnRuNzFMaGUwcFRwOTMxajhkUngyVnRwT281ZWthV2xFeXNDLVRR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-21T21:37:49+00:00",
+      "summary": "OpenAI Adds Nubank CEO David Vélez, BNY CEO Robin Vince to Board as IPO Expectations Build  citybiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup - NBC News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHhPdV9LUXlBaDlRWkxIay1RMkxOaDRpYllraUFyaXhHMHpXeUM3T1oxZTlGRWJUZmF3M2ptQm9uLWpfVmdtM29vSkhrX3diMEtKdE11ckNRM2x2NXdGS014Q0htT1VNU2hnZ25BXzB1ZldGeTFvd2RXajljUlU0RmJURnoyT284bWlKS3JXZTNZcEstYkNjcUNxd2Q1UG43RHFrd29VUTZTWmRNUEg2ZWpfTXhLY3hyczBuTA?oc=5",
@@ -15,20 +87,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw?oc=5",
+      "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNekw5Q0ZCYW5GdWxHLTEtUmRnWnRFRGhLVF9JaDlWbUVabVVxb1hMMEg2Y25UN3cyZFNCeE55VExZT0xhRHY3Y0F3WTBwYVJyQzV6QTZIalVNTU9mMGU5VHFyYWVRQmhjTHJvMUVOQjMtOXQ4N0doY2h1Z1RoRDFRRUdUYmFRVi1IcHpjeGJSWjJmQ0QxVnp0aUdTX1JjR2dVelE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-21T21:31:43+00:00",
-      "summary": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup  Reuters",
+      "publishedAt": "2026-07-21T21:29:03+00:00",
+      "summary": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark  Decrypt",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI: Oops, Our Models Went Rogue, Hacked Hugging Face - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVjB1X2tIUHU5c1dVT1dkU2N0UUVXUnBTZXhJaHVYckJ5Y0VoemlXUXJjSE5uakJoSWN2QmNpVW5wcXlPUFNqUHBqeldwTm4zM2xEcThWcUFtVGMyLTgyajd1UkpKd0MxSHdTdUJ5SlRvLWRjQjQ5c3pQZnQ5NVZ5bmJuaDhqbjA?oc=5",
+      "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVkt1alQwY0x4OVQ5c3dZRlNjT2pLNXRnclRuTFI4aktrdm5PZHNpeklrMFNDdFUtcS1ZSldEcFhUc25VQWxMeFBXZVpBTTBVMHV6Z0Z4NjF5SHgweHF0TldaUHNmOGJ6RzAxcDBpUWpCMWt3ZWZlMXVaNm93N2FnSUR6ZzNCM1FsX0tZN296RHBJX084RXFadF8xcGFuUlJEY013NkZQSWFhTEJST1BiLVNWUHFhQlNkVUhVQVdyamtuMk5Na0RTQlpGRk92RlkwTmRYc2VOMy1GeGs?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-21T21:25:16+00:00",
-      "summary": "OpenAI: Oops, Our Models Went Rogue, Hacked Hugging Face  PCMag",
+      "publishedAt": "2026-07-21T21:28:13+00:00",
+      "summary": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup  marketscreener.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,11 +132,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Says Its Models Broke Containment And Hit Hugging Face - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDVYVmRwU3hXRnl6M3lNeDI0Rm1YSEFFLWpycERwbXZGV3hQVUxkcFA3NjIxeHkzR2t4X3B6dzFOU0t4UnFQaC1sU1VLMVcyYVJuamxtNWQtY0RFNGNfNWc4cjdpWVhXeTdRNnp4V3I3ekJhRzhndmNCMDhCMGM2Vy05eFFLbFMwQ3J0N0UzXzFReHhC?oc=5",
+      "title": "ChatGPT accused of encouraging Alabama mom’s suicide in lawsuit against OpenAI - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xU1R0Ulp6WXlWczJ6dHpEc3djNWp3RHZGMEMwRFRoQVNFZmVtMGJHbHB1eDh4N3hST3hiTjVYVHVQdkxuUUxNc1VrMF9HakRhd29sbTBRQ05TV0dzV3lNZ3loYTJ6NzY1LTVIaEFoNHo4UkdjSEMxazNR?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-21T21:04:39+00:00",
-      "summary": "OpenAI Says Its Models Broke Containment And Hit Hugging Face  Finimize",
+      "publishedAt": "2026-07-21T21:03:18+00:00",
+      "summary": "ChatGPT accused of encouraging Alabama mom’s suicide in lawsuit against OpenAI  Crypto Briefing",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-21T20:12:34+00:00",
       "summary": "OpenAI says Hugging Face breach was caused by a combination of its AI models  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI AI models breached Hugging Face in internal test - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQREQxdzFzWTY3b3pjUjZRVS16VHo3RHJYMmhWRzY4M0phVVo1T0VqbUw4amxMT1BEMDJXcURyVWxELWlMSDJ3emU2eXJPNDg4Rk1MWUFUNzVPVVRDUlRES2pVelRMc1RYME5pUUVlOUEyZ0hEOHI4OTkzNm04aE5GV0JzSVp3ZV9CYXFjX0szZmY1RFFOV2N3N21JS1daNWxPUXlvN0ZjU3lsLXlQT1RPTWpaUF9JWVlz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-21T20:11:09+00:00",
-      "summary": "OpenAI AI models breached Hugging Face in internal test  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-21T20:10:21+00:00",
-      "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, xAI, Project Prometheus Fuel $463 Billion Venture Funding Surge - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa0hKZzVMRXBJdFhXM0ZuRWRJbDZIRTRYbm0wRDIyR2JETzFuWWxmcUtxU2hCdGw2SVphNTFfandWd2tjS0dGVHB3QXcxSXVDZEhTeHI5X1BxdmI4X2RYb2dfYllQU2psaUZJMW9XS2J0RTBKRGJlXzlNWWxtaW1ZVm0xdE0yNGZfbGhjMEVJc1VnbDFycExJTDBaU3gxN3BIdEppZi1lZTFHcHJmRVhWajBCZ3pSbm82eENBVWczYm9qdm11bkFOZmE0Z0Q?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-21T20:10:19+00:00",
-      "summary": "OpenAI, xAI, Project Prometheus Fuel $463 Billion Venture Funding Surge  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Names BNY, Nubank CEOs to Board Ahead of IPO - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjY4S0loNU5uSWdsOC1aX1dzanloVzJuc2hZbG5zaEFDdVYxMXdwd1h6bHNPa2dIM3Zfd002ajdnd3laV29wS0Y5TVhEdFlZZWp5WkhIRVlpY0xBRGR2amY0ZzJfdlBHWlhvdmtJcGJNa2gtRWZ6aDc2ZXZtNEdlZUx1eDRiUVdCdlNSdzJzNVJGeVBzQlAzMXpBMEZMWkJOdWlN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-21T20:07:29+00:00",
-      "summary": "OpenAI Names BNY, Nubank CEOs to Board Ahead of IPO  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Says Its AI Used for ‘Unprecedented’ Hugging Face Breach - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2dIazBHT3lxakdkc1BhbjFLZ3BJVEJpOWNGQVBoYklXOUVvS2ZpR0EyTVYxaEZsV2I0b0VJYkItTDdUQ25XYUxRT0dhZG4zNjVEUi14cmJLRG9xYXdFX2h6UXJ6VVIzSEFiVDZSd1ZwMWowYUJCR09vdHVLTFFmQkRTZ0l6Rmx2VVkxcWJubmk5MEZuV25wTnROTWJ3UV9uSXVhc0NFYWJ5R0ttZU1wOEJ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-21T19:51:28+00:00",
-      "summary": "OpenAI Says Its AI Used for ‘Unprecedented’ Hugging Face Breach  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI adds two banking executives to board - WSJ - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUlNWE5NNkVPWTVWSEl1MDFIakNmeWJUbjg3U2N2R1luOHc1Y1IxRDl5NXZlQ3pFdVNuQ3czeXRJVW9pNmozRFo2SjhtTWcyUVJUbHBVLVhYdkQ0dklySHZjQnJsREFqbGdBb2p1UHA5Rk9TdUlJQmE1bFNwWWlrNHYtSTlldk5hb3ZMdTBBUS00WXFQTVVZMXoxV3JUT0dXT2RNMkRyR2RldkdlbE4w?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-21T19:51:22+00:00",
-      "summary": "OpenAI adds two banking executives to board - WSJ  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hugging Face breach: OpenAI claims its models were responsible - Axios",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDFzbkE3eUtUalJjekRpVEJmVEV3LW1mSktHeXNlTjBabkNWOVBPc2FkdlVSVFRkRU41Sy1taDJQN3FPcGtMY0ZsX1hCUzUxU1lYZHhVdHJMdi1YV0JzMmFPdTk3LWJvc3lGak1wY05sckdqeTVKcUNaWGVLLW8zUHBVTjJWbVJUV2xmTExGZmxLalE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-21T19:48:04+00:00",
-      "summary": "Hugging Face breach: OpenAI claims its models were responsible  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman to brief Trump administration on AI safety - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHV2dfSWFHZENtTkpnVzc3aFN0ajZpNEhiUjJ6UmxEM01RWUswYy1oU0N1MmVENVNHX0tINllzeHAzbmhraFM1RHZQcjVLUVQ3bi1nVTlMQzlnTDJ6c2JCRHdIT3ZXemxoZVNnOWN6OW1xQmQyYkVTaDZHM1ZRMlk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-21T19:46:26+00:00",
-      "summary": "OpenAI CEO Sam Altman to brief Trump administration on AI safety  Crypto Briefing",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
