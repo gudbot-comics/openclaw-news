@@ -1,16 +1,115 @@
 {
-  "generatedAt": "2026-07-22T23:43:45.701471+00:00",
+  "generatedAt": "2026-07-23T01:15:28.482254+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI investigating after an AI model escaped its test environment - CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HUVRnZkNtUUU0VkFMSTJsNzZoZTZCZHZrOXljN3lNVEluVnd0eWtBa3JVYmZHQUtZaWdvblFfQnZ3TERZWmt0S2tORGhoMlpJYURDLVJTYVpQX2I1VEpTcTBRdjBZV1JpNGRFVUdQR3pCUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-23T00:57:22+00:00",
+      "summary": "OpenAI investigating after an AI model escaped its test environment  CNN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces Presence to help enterprises build AI agents - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWFRcDNZWGhTOWtRaVJxRGI5TlA1bmJyQXRFdjlfeTFhbXQxWmZtRVktUC02OFRQNTNXeHg4MDBCdDlYMG5LWWVmYkdWRmNGdlhjekMybGNDd1FYNjl3ZDVFTWZNNzVJdVJUa3B2M056VFpSbWtLUWFnRTd0RndMXzVsTUNRRENVS1JFZVRNc29GTFFHMEVMbnN4MXo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-23T00:54:33+00:00",
+      "summary": "OpenAI introduces Presence to help enterprises build AI agents  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘Unprecedented cyber incident’ blamed on AI models going rogue. Here’s what you should know - Las Vegas Review-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPUV96alRLTllzMFVCMlU5SV9MaktXdHZkRFR0RnRESU1TU0ZBS0owZkRRS1NqQmxvMTNVOHZsNXRvbmVUZ1BNR1QzRmE4a0R4eTRvaXlVQU5EdG1qR1RLbG05NFJXZVVqQzBaZXpxYnRFcEhFNGx5TlprUlBiZlJ1bS1SOEx6emszRkY2T0J1S3lkcnJ1R2FCdzQ1UnJGcFVlbFZzZGtZdnEwajU4YzY4ajE4YV9saUhKZHJkY0ZPSlBiTHlsMjZDS05jUU5DbjBzSHJpZzZSS3FnX2pBZDdfSS15a0Q4RGV2NF9YdFhwRGhWRlpqM2YzMzVBU0p6YTBpN2tZc01TdURhZzNkY2s2V0loMWNtaEYyckoxLWo1Rm10UTZvN1pGYzRWTnN6V3hKT2hjd09sVTdSRXQ2bjlzS0tZMTBJTHNmUU44MGQ2R3VnQUliN3VKM3ZFUTVSdjJQT2dTdTk3UXd0VWcwWDM4eHNMY2xMXy1na0Zvd2xWYU9oM0NEQWhYZVJDN1k2ZVhSVTloRERwTzR1ZlJORHBYWTVCRDNkX3EtbUtzajB2ZkNaQmgyWlBhOENheGZ2ZTh3X2RXRDhRbVNrMTNfR3lNUXRiTzIxclF4dFhnS0E4TU1Rd19jYUxSLWttRzR4dF9qN2k5UEV0WDdNUEFx?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-23T00:45:00+00:00",
+      "summary": "‘Unprecedented cyber incident’ blamed on AI models going rogue. Here’s what you should know  Las Vegas Review-Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEFVb09KSXBaVVVVNGFyM0tDck13X0JTSy1PS25MWXdTV0Y2elFIY0NhanJIbExISlFpdm03OVoxZkFSN2haZU9LZUVvaUdpa3JEYTg0RGZQSkNQalJkMlVGVE9uTFFHbkl6bWliSVo4OUl1cl9WVWh6bFZzNVBmc2J3NA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-23T00:07:08+00:00",
+      "summary": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims  CBS News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida pastor sues OpenAI over dangerous medical advice he got from ChatGPT - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX3JFMjl6OUVOTnZ6M1pPTUpNQjRnNGFVWVA1S2pRSDM1Z1V0SlRGVjg0WUdPYk5BZjkyYW44S1ZqaVRTVnpmZi00aU5mZWJKNjZxUnV6WkVzWlU1Q0dLWmxkb3JyZWp5Y0p3R01xQk5WbkhDeEYzWlBtRHRqajg4d2l2dk5YN28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-22T23:54:12+00:00",
+      "summary": "Florida pastor sues OpenAI over dangerous medical advice he got from ChatGPT  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZEFoRGs4RmIyb2U0c3ktNlBRdHJEcEVDQU4wTnpLOFQwcUJ0R0R1UmpJcDFzR3hpSjNfTFlCNk5aMVA5dlRPMGtDRTV2bk5TOHlJRVdWTlFTUWE1SHcwSTc5c3R3UHZGRTZsZVBTZ1RQbWRmRk5pcWdyTzJOOS14YnJlOTh0OUI4TlkyQ1l2OVo3NFRDeVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-22T23:54:00+00:00",
+      "summary": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI plans $20 billion data center campus in Effingham County's Savannah Gateway Industrial Hub - WJCL",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY0VKVTZwQi1INy1oY1lkTS1OeFBPUDJsdVZMZ0g5c0xocGhQdU13TmIwYmxYWDk2OVRxV19LY1lmTDdqa2R3QThKaTU2LXZjSk1ENGJ6cUZvNWpRZkVFMTFwSzlZbTR1QWlzU3V4ZmJBMWQyeDBnTHdvOTNZLVZVeDRjZGZJaVp5N0EzeDIxbkdCM2ozUHloa3p0VzJLN2E4SmIxdjhOZDIyMkRodVNyWU05ZWVHc2ZZM0QzQXROWWc2Z09YXzVDRTlSVFpiZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-22T23:50:00+00:00",
+      "summary": "OpenAI plans $20 billion data center campus in Effingham County's Savannah Gateway Industrial Hub  WJCL",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s models broke free and launched a cyberattack. Congress wants new rules before it happens again. - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVBiMDJ6bVBicG4yNHRjMFNTM01QWGx4Wmdpd3czNzFvQ2t4cE5UeTMzNGRUbW5pcEM4T1JNdGMzQTJibi0wR09qaFdvVENkZUF6a05hWDJ4ZVFNdjlIV3JoTjQtTzZEU2ZsRWx3cVNDaFZramotbWh2U3JzVmRCSlZjY0JCM0JhSUFLQlFNalU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-22T23:45:00+00:00",
+      "summary": "OpenAI’s models broke free and launched a cyberattack. Congress wants new rules before it happens again.  Politico",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s new model went rogue and hacked another company. Why it matters. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMm13WUZvQTJHc3NuUTRxajJKZnNIUkhJb1Bad1djQzJEbndwbVYwTkxMRkh5VTBPQVBIY05GR0E3dm5nME1pRE43dk9NSnZNRjhRQzJqaTV0ZTBOMlBwQ2pqdDNRUmktV1hNNnpKekVkdWRVU3QyeHRtZF9GdjgzMENLUXFZT2g3bU9waEc1QlA3MlpHcElhRk43ZU13aG11Q2d5cHB4ajU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-22T23:35:46+00:00",
+      "summary": "OpenAI’s new model went rogue and hacked another company. Why it matters.  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Texas politicians call for AI guardrails after OpenAI security incident - KXAN Austin",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2Jpd0ozZFRLaVVXWE1zZ3lVbkhoRVBVVENWQlRXc204bHlpQjR1RUlsSjY3X2d0dS1ILU93Nnp0QTlwRWdmZ3k2NEVmZmdwdmswcFZtSWZrSGNnQVlVZjlSZjdMbGNVSmRrNVpUTXRwdVpWX042M2czaFk0eDVMckxXRWFUTlBmWHVldUlLWlgxWTlVQlpUeHhBOWNoZ1JEM2txWWlPRlFBdWV3bmtNS0hmONIBuAFBVV95cUxQUThSWjFLVEhNcVEtcW0zczZGZ3FTbzllcUh2SkVSSGZKbTk5QXpXa1JkaHIzX2FzYmh4NUlMZkRuVDZIODd6N0dFZkdsaVdKazM3Vy0wRXljT0RtNU83dFA4QzhURUFIdmE0Ymw1VFdPSklOcmJ3SmxITnI4RDNPRkY5ekc5Y2lLRzdFdm5ONVNKai0teDh4WDRLMkhQUVZPcEk0bGNzeXNlZWIxRHFWLVBmWEFFZ2xE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-22T23:28:37+00:00",
+      "summary": "Texas politicians call for AI guardrails after OpenAI security incident  KXAN Austin",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Unveils Product to Hone AI Voice and Chat Agents - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDd1Z3RNYXZrdXpyUmZVRmJESm9nalI0b3RfeHE1TFpuVDZiTDlkcTIyU25rSWpRNVpnZVFraXBpWUZiNkJNNm1iMk9QNmtRd1A3N1JKaG9CcU9naTBqOG1CanRtaEhtdldleEgwWkVONGpfa2dkbmtoNzkybXc5aVNIZENVa0ZPbERFSnlNeWstbGFxZHE0SXJwUGdqN1k4R0lkOHhDWmJhZFFKSnloWVBDWQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-22T23:09:40+00:00",
       "summary": "OpenAI Unveils Product to Hone AI Voice and Chat Agents  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "EXCLUSIVE: OpenAI's Australian data centre drops water recycling plan, testing a drive to curb resource use - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb0xYem0zU2NrRk5YM2xMb0NCVzhXMUVHblM2OFVjMGZaMmpUTmxPQU84dm9MR2ZRUmgwOEZjWXI3LWEwclhIWTh6bVBuZ2xfVjhkbmVlWFJNWEpva1ZZbUpjcVljY2RFMmk3cWpvR1Q4d0xNV1BpdkRJcWNTX3pCMFVhUEpoTFhWVzBIOV93OUxnSExqVVM3cHluZmZYMkpFcnZUTlpHM0Z0TVJBOElncEZQTWh4Q0ZxUWNnbkJaai1GWXZ6LUxn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-22T23:09:22+00:00",
+      "summary": "EXCLUSIVE: OpenAI's Australian data centre drops water recycling plan, testing a drive to curb resource use  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,6 +123,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Model’s Autonomous Hacking Tells a Larger Story on the Future of Tech - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVEpqVG9FdmhQOTZ4aHRPTlZKZ1EyN2c0TzQtX25yWXNsQ0JtckhJQ0hERWNOUDVReVk1TWM5N3doWk84YXJzS2ZfQ2Job1BrQW5hdXdBOVZXRGo0THAtZ0xZWngzZ3ZoaE9kSXVsdzF3dmdWRGtMbndrYnRxZXZZYk9pZFB3OXlZeUlYN0xDVXpHTkNaOVowWHBsTnBtcTlQTlRVS2IzRmVWWlpTZzNYWVpTVXlQV1RXSWNzd29mY0o?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-22T23:00:04+00:00",
+      "summary": "OpenAI Model’s Autonomous Hacking Tells a Larger Story on the Future of Tech  inc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Who got hacked by rogue OpenAI models? - GovTech",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1FSeHZXYkpHeE5aWFJ4Ui1pUkQzWlUybkgzeERMNHpSN1Vua0R1YXlnVzd1S0NFOGgtNU5ibVVZVEVqOEpYNGlGWTdmdWk5eG9EeHR1Q3hqbDVkMkFIYlhJZkEwZ243M1ZhWTA4TzcwMm5Pam1pVlhRdG5XLUVHN0NEa0FoYUE5?oc=5",
       "source": "news.google.com",
@@ -33,29 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Machine learning professor breaks down OpenAI model's hack of another AI company - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSHpxR2FFZF92WXJvODF5aGVHb3FiZzV6UXhMQnNsRmFaVjd4SlZWenplSUg0RlNFcEpoM2p4YjZrM05BOW1uUGVRcmE2QklWRDA0QTRuTVJQREhGMjFGZ2NJMVJKUkRjQ3V6VmMwM0dCS2V3UHFwWkJRX0l2RERoTGFrWkIxY3dmc1p3VjhZdm0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T22:48:19+00:00",
-      "summary": "Machine learning professor breaks down OpenAI model's hack of another AI company  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Cybersecurity expert says OpenAI hack on Hugging Face is \"very alarming\" - CBS News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRkUtMmtLb0lGN25IMlR1UkQxc3Noa1hjaVl6cmVKNXdIODBYSDlYWjgybnpRWktuM1VBOGJrNURYUTVKbFB4X0JhY2xhR1BvV3lpVENEQ09ydi1kcVkzTGp3MWVTVkZIR0YxdmhVdTVKbnE1Q253R2xfNnF5Z2I1TQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-22T22:45:02+00:00",
       "summary": "Cybersecurity expert says OpenAI hack on Hugging Face is \"very alarming\"  CBS News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s new model went rogue and hacked another company. Why it matters. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMm13WUZvQTJHc3NuUTRxajJKZnNIUkhJb1Bad1djQzJEbndwbVYwTkxMRkh5VTBPQVBIY05GR0E3dm5nME1pRE43dk9NSnZNRjhRQzJqaTV0ZTBOMlBwQ2pqdDNRUmktV1hNNnpKekVkdWRVU3QyeHRtZF9GdjgzMENLUXFZT2g3bU9waEc1QlA3MlpHcElhRk43ZU13aG11Q2d5cHB4ajU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T22:32:18+00:00",
-      "summary": "OpenAI’s new model went rogue and hacked another company. Why it matters.  The Washington Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Model’s Autonomous Hacking Tells a Larger Story on the Future of Tech - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVEpqVG9FdmhQOTZ4aHRPTlZKZ1EyN2c0TzQtX25yWXNsQ0JtckhJQ0hERWNOUDVReVk1TWM5N3doWk84YXJzS2ZfQ2Job1BrQW5hdXdBOVZXRGo0THAtZ0xZWngzZ3ZoaE9kSXVsdzF3dmdWRGtMbndrYnRxZXZZYk9pZFB3OXlZeUlYN0xDVXpHTkNaOVowWHBsTnBtcTlQTlRVS2IzRmVWWlpTZzNYWVpTVXlQV1RXSWNzd29mY0o?oc=5",
+      "title": "AI agents breached Hugging Face via loose credentials - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2U0RTFOeXVPbE9BNzZDaHgzY1BrSWZhUFZBanpWQzJEVEVnWUxTYmxEaE9EZlhwdEc2QTcwekFXR29uRFRvblY3N0p3SmROMFdRejFLMENqRU1uaEszRFR2MkVsWENZbThodG5zaEtnakhtM3NFSjVaNnlzaUR1cXppbU5lQWFPVm5lLXE1SWRfQkJGTTdUTDBFR1RBa0pleG1qVXdpWEZZNDVXWHk0UzQwSm9GMzZkbmJFNEVjcDBZXy1K?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-22T22:05:58+00:00",
-      "summary": "OpenAI Model’s Autonomous Hacking Tells a Larger Story on the Future of Tech  inc.com",
+      "publishedAt": "2026-07-22T22:12:14+00:00",
+      "summary": "AI agents breached Hugging Face via loose credentials  VentureBeat",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,6 +182,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-22T22:02:56+00:00",
       "summary": "OpenAI model goes rogue during testing and hacks startup  ABC News & Headlines – Australian Broadcasting Corporation",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says its AI models went rogue and hacked another tech company during test - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS0VJUjY5UTlnRDFJRlhWbVNOa3FuTjBxdE5xUFlUTDRQVkR0eVNqR2F1Vi1DODV6U3FBRy1hUjJWVHd2bHdXZ01XSUJZcHZGT2c0VW1HUVBMb2JUX3FZcXBRdnpidEJuWHRJdTIzUEd0dFpTWVBoN3dBZXZFNVpIWEpicTJyT25yOFR2aGZrUjA5a2ZvVGFDTEt1SHhETlZyNnJNVGo3elBxYjBELWM5T0REU2VUcThJdnNtdEwzbUU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-22T22:00:21+00:00",
+      "summary": "OpenAI says its AI models went rogue and hacked another tech company during test  NBC News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -121,105 +220,6 @@
       "summary": "Machine learning professor breaks down OpenAI model's hack of another AI company  CBS News",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Do People Want OpenAI Shirts and Basketballs? ‘The Numbers Don’t Lie.’ - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBya0ZOUUJVbHhqQzdDRUVUelVxTVlRMEN3eWFLc0h6ZlBuT0MwdFBIdWZLOUVVQmpKMmZLQW5sRDZQbERkWnM0ZnUyM0dHSThUOXdtY0U2aURndlAzMUJYNGdEOW9vYVkwQTNsTUkyc3h4N2o2Sk1MYjY0SGl2MjA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T21:18:00+00:00",
-      "summary": "Do People Want OpenAI Shirts and Basketballs? ‘The Numbers Don’t Lie.’  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI agent went rogue, escaped, and hacked Hugging Face - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YTlh3aFc5cDF6UGhsQkREUk5mQ0ZjNUtqMHZhcFFUc1ZFc1hUWjBBc0hhNkc4UGMtLXFPbmpFRDVnQUpXbXNuN2VUSmNjSWdCblhlMlZYMlZQTlI3SlpuZE1XOXJtYzU2SlI4MWFDYkJtMzlkOGpNZ1I2LUc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T21:16:12+00:00",
-      "summary": "OpenAI agent went rogue, escaped, and hacked Hugging Face  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - Inquirer.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1lHTzN2bHVKeUwzWXZ6VThieHJSYTk4dTRlZGNKTlRaWTNQUUpLY2IyVzdKSFhScXg5cmVnY1FxZ19JSkp3RnhHNHZiWk1LLTVQQmZNRXpPT3dvN2JybEliOF90bmRtSDhhVUotWlJkSVB6VHRxWW5yeHFPOEpGSTZBaEVFSW12SE5uaWZfUGJJMnpERUdnVElXSm82RnBX?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T21:14:02+00:00",
-      "summary": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know  Inquirer.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc3A1dmg3STNoWjhFNGZEXzJHOEJGSE5MRVFKbzF6aFVKdlI3cjFCaE9sZV8wekh2dFg4cVR2NDh4dlVZQ3ZxMlptOFNQVWpKSDVQM1RXZDhEZTJjZlA3U19PQUhaTDdsaTBBX0l2X2Z1RnZlYlpTV2dNcnFueHFKWnNJLUZoSEx5c1kxT3RfcF9kZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T21:12:00+00:00",
-      "summary": "OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Southern Co Unit Signs 25-Year Power Deal With OpenAI - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFdRaTJaMWRuMzdXLTg1dWZGTzF2TkJ3ZHFzR25DaE1jNzNaNHgyczFHSUJ2eFN1VldhYjlWM0hMOTMzMXpabDNQSTVDTGEycW9TNEZrSEctZm9UQVdYR3hSRl9tc2w4ZDZLX1NoeDRHN1hBck5VN2ZlRVBPc2VMbHB0VVNhUW1xVEhnZA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T21:02:44+00:00",
-      "summary": "Southern Co Unit Signs 25-Year Power Deal With OpenAI  EnergyNow.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Most Shocking Part of the Hugging Face Breach? OpenAI Says Its Own AI Was Behind It - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ204NVRjUU00ZHBWV1NNa2tZTHktSnNQcGlmMHgwZlhHLWhWTlpEa0R0V3pMWGNYR2ttVE9VaXQ4X3FYOEswaHc1Sm9TbnRuSlNZcS1DRjlGaFFzaGQ2R205ekRMWjN6NXdkc1NvaUZ5cFlnb3FWTDY5dTZMOUdGSUItMTU4QXpYX0xDcG91ZWtEazJzck9KNjYtVjVLaFNTNG1MRmpwTVU5MGMwdGdHNVVDb1l4cmE5Ukktcy1qM0FGUkQzTWE4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T21:01:55+00:00",
-      "summary": "The Most Shocking Part of the Hugging Face Breach? OpenAI Says Its Own AI Was Behind It  inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT's advice kept man from seeking medical treatment for dangerous condition, lawsuit claims - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEdtSFVOd29CWWpkdXhuTXRzSWZpcXRnc0xFaEZRT01uaDU1UWpJOEJSbm9sOGh2dHczNmFHY0tnZk1CTk9EeVJ3TlVlOExiejBiNGdjMzRQN19UdjJrU293LWs5SDhZOXNkOGpvM2JnSGNnbEZ5SGRHZ2xmcFJxT2FJT2duZF9fMG92ZzktMlVTSnkxaS1ORU93WThpa1NSVk1mdi1YRHljOG5GMkNGSjNtOGZSS085QXRwZFFyTC14ckZjMm1XWm9tNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T20:49:15+00:00",
-      "summary": "ChatGPT's advice kept man from seeking medical treatment for dangerous condition, lawsuit claims  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says its new model hacked another company on its own - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaW91WHhhR3dwSGwtbUx5MUJBQ0VZNnZVckVFeTZ1RGhOaUdRUmhVVEtPem9wQ1pEMExrVVdxa09XUGpGaDFmUzZPZjRZaHFZTFZZVlZSZjVST0I2b05GbXh6NEN3eFYzdjd2TGNmUERnVDhOaTBRMFFaaElQQlowdHRMdDctZWZL?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T20:48:00+00:00",
-      "summary": "OpenAI says its new model hacked another company on its own  CBS News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Video OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NVVU3TmZiRVJoRGJnRWxQejQ4Q1lWVU5HVE9PaEZOSUJHcVJGa2p0NUdfaUljNi1wU1BHSE1CWlNrcnc0RG9nelBKYWU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T20:46:43+00:00",
-      "summary": "Video OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach  ABC News - Breaking News, Latest News and Videos",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEFVb09KSXBaVVVVNGFyM0tDck13X0JTSy1PS25MWXdTV0Y2elFIY0NhanJIbExISlFpdm03OVoxZkFSN2haZU9LZUVvaUdpa3JEYTg0RGZQSkNQalJkMlVGVE9uTFFHbkl6bWliSVo4OUl1cl9WVWh6bFZzNVBmc2J3NA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T20:45:33+00:00",
-      "summary": "ChatGPT's medical advice nearly killed a Florida man, lawsuit against OpenAI claims  CBS News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw security best practices for CISOs - TechTarget",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdG9aaF82QWlIMVlpa010ZXlXZ0Rpa29TVXFHT0MyMG1pWDRtRkNCeHdxUThBWGxvTWlTbVpaT0lFWXZlRUhYY0FTa2xDUDF3eERpb1gwdHhkeUl5b1ZfeDJmNlQ5Ulh1UnNaVHlJc3JKbkVVZGtQR0c3Z1FtNHFuOE1SR1YwYXBQdHJ6d1pITDJuZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T20:42:42+00:00",
-      "summary": "OpenClaw security best practices for CISOs  TechTarget",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
