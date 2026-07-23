@@ -1,16 +1,43 @@
 {
-  "generatedAt": "2026-07-23T04:37:20.406714+00:00",
+  "generatedAt": "2026-07-23T07:15:07.328482+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRV9RRThqbWI2TGNZd2VlLUVlWVB5LUQ2Njg0VzZ5d2t5Y0RJQlI1VzZ0YTV1VVV5RHFmNFBsQkswdTRLbTZiU0VMSURsX3dyRVJTZTdfNGxuWVgyUERvZXRtR0JwbHFKWjVIR09pUXFxVGdza2xUQ2RYRkVvZVBUZnh2bllCZzFrWTNRWUhfWEJNMXc?oc=5",
+      "title": "Why highly advanced rogue AI has experts scared - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXFHSnphTVgtbVRBdm9SUUdFS2YxWEEwa2lfX25OdUxzZFBXUGdWYzVKVG44VWE1cHlrc0hhb1N5SnBmMjctQlBBNFlGNUZuOUFjREUtVDJLQnpoTURFZVA2OFQwVW9COC1hSWMwZ3BtbXhFeDdZemRCNk1qYUVnMTlQUnpqdnRxMUxkMVR3XzZPM2JF?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-23T03:21:00+00:00",
-      "summary": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know  Yahoo",
+      "publishedAt": "2026-07-23T05:07:41+00:00",
+      "summary": "Why highly advanced rogue AI has experts scared  ABC News & Headlines – Australian Broadcasting Corporation",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Models Hacked Another Company’s Systems by Mistake - Claims Journal",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QRWNSWlJETE9oVWFsenN4VW0ydUVSQjRCR2drbzdoaEFyWEt1aHlSVk96dVFIWTBfcFAwekFPLV8yLWxucUU2elBNOXVLejl6RHpCZ1BKQnV2MFc5U3BrNDhtSmpvWFVoYUkzdXNza21RQXM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-23T05:00:55+00:00",
+      "summary": "OpenAI Models Hacked Another Company’s Systems by Mistake  Claims Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Developer of ChatGPT, Says Its Models Hacked Another AI Company on Their Own - People.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTdBaXFyc3ZEMzl2VVdJVlpRUzlnQ3d6dzd4aHdBVEc1RUNyYzYtQkJsQzQyTWJmQloycHVMcU11S2wwTjlVUnQ0bmktZHNwOWtzc1p5MnEzYTRhZlRRRG13anliUlNycnpSR3g4ajl2a1R5MjZ3V3BYMDVObmhtQTRNRXRUNDRfeVljd0ktSFhUaS1hdEdhWDV0VUNiLWlNd3lOUG9fLVl2QTRLWWdN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-23T04:59:15+00:00",
+      "summary": "OpenAI, Developer of ChatGPT, Says Its Models Hacked Another AI Company on Their Own  People.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘It didn’t know right and wrong’: AI expert on OpenAI model hack - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEVhMFo2UUhDWW5PMGxtaTZiSTVRVDVYZ3Y4WWhVWnRfR3dLMnZPSDFUZUVZb0dVY3FKdFJrOWNTRnJoUDlBSDZzel9ldVhhd1F2V1VlLWFBNGY5eE9JS0JRMUhhbEJZNGFJY1YzTmNoR0RlSTM1cTBEMDhvVUpVa9IBhgFBVV95cUxPR002QXUwX2VHRGJaOGl5Q2luT0ZtRFY5OTNoUlBvTGdRSWwybmNQQUVxNXU3dV9ZSlk2R0F1NVBqS1Foek1oWGtfenJiOXUtM05aYldPRy03UkxuUGdnWFZlX0tPZE42b2pBVUZWVmhsSzV0UkV0N0N0VzNNWGdDbllGVzV1UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-23T02:56:28+00:00",
+      "summary": "‘It didn’t know right and wrong’: AI expert on OpenAI model hack  NewsNation",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,15 +56,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-23T02:15:42+00:00",
       "summary": "OpenAI model hacks company during training  WBRC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Critics question OpenAI security after its AI models hack startup - KTVU",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRU5tM19Nd09rTTlYQ2w1RUNDR0VOcEhIUjZpU0F6TkRVY1d5MmZEU19KeF8zeEpEOHdtSGdtUmVrTndmaW5QQkp1SVQ5cnZMd3QxWWRkYlhNTWvSAWBBVV95cUxPcWYtZ1lPX3FJdTduQ3A1aUh2Z0JBVi05aElTZ0tXSjhOWlpsdmZyd2NZaWRzXzd0YmktaWtJQkM4ZWdMbmhsQ043SlU0eWZvdlNVWG9ybGNXcmhRU1JBWHo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-23T01:13:26+00:00",
-      "summary": "Critics question OpenAI security after its AI models hack startup  KTVU",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,15 +83,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-23T00:54:33+00:00",
       "summary": "OpenAI introduces Presence to help enterprises build AI agents  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "‘Unprecedented cyber incident’ blamed on AI models going rogue. Here’s what you should know - Las Vegas Review-Journal",
-      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPUV96alRLTllzMFVCMlU5SV9MaktXdHZkRFR0RnRESU1TU0ZBS0owZkRRS1NqQmxvMTNVOHZsNXRvbmVUZ1BNR1QzRmE4a0R4eTRvaXlVQU5EdG1qR1RLbG05NFJXZVVqQzBaZXpxYnRFcEhFNGx5TlprUlBiZlJ1bS1SOEx6emszRkY2T0J1S3lkcnJ1R2FCdzQ1UnJGcFVlbFZzZGtZdnEwajU4YzY4ajE4YV9saUhKZHJkY0ZPSlBiTHlsMjZDS05jUU5DbjBzSHJpZzZSS3FnX2pBZDdfSS15a0Q4RGV2NF9YdFhwRGhWRlpqM2YzMzVBU0p6YTBpN2tZc01TdURhZzNkY2s2V0loMWNtaEYyckoxLWo1Rm10UTZvN1pGYzRWTnN6V3hKT2hjd09sVTdSRXQ2bjlzS0tZMTBJTHNmUU44MGQ2R3VnQUliN3VKM3ZFUTVSdjJQT2dTdTk3UXd0VWcwWDM4eHNMY2xMXy1na0Zvd2xWYU9oM0NEQWhYZVJDN1k2ZVhSVTloRERwTzR1ZlJORHBYWTVCRDNkX3EtbUtzajB2ZkNaQmgyWlBhOENheGZ2ZTh3X2RXRDhRbVNrMTNfR3lNUXRiTzIxclF4dFhnS0E4TU1Rd19jYUxSLWttRzR4dF9qN2k5UEV0WDdNUEFx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-23T00:45:00+00:00",
-      "summary": "‘Unprecedented cyber incident’ blamed on AI models going rogue. Here’s what you should know  Las Vegas Review-Journal",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,15 +132,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s Autonomous AI Agent Escape and Attempted Intrusion of Hugging Face – and Why it Matters to You - Vorys",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jME9OM3lBdUxHLUxVNEhnQ2pvNThDNDJ3R3BvSURHMjF3bXhVbWZBZXBpdHlERTZ1bjl4cVdQN0Zsb1B5WS0zQ0h1a3Y4cG1BdTQ0ZDVJWTRNUjdPWDJlYnp2bw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T23:29:36+00:00",
-      "summary": "OpenAI’s Autonomous AI Agent Escape and Attempted Intrusion of Hugging Face – and Why it Matters to You  Vorys",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Says Its Technology Acted on Its Own When It Hacked Another AI Company - SFist",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVExQUzhUNTJiOVVMM3lFWS1rbXZ1NHlTTF9yMVVDZEgya3hJU2h6NW9xODBadi1VNmNQclVYSVRsTXJxWFR5LXlZUHZqZFlraWlLa0dlS2dfMXVTSnNXY2p2STItc0Y3eEpNNG5QTmhFNlFRdkk4V0VLUmh3WElneDJSc1JJMUFCcWlYX2ZhYndyLUdWUUF0MW4xVDJ3UjRaZ2V5SlJDdw?oc=5",
       "source": "news.google.com",
@@ -155,6 +155,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-22T23:06:00+00:00",
       "summary": "EXCLUSIVE: OpenAI's Australian data centre drops water recycling plan, testing a drive to curb resource use  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Who got hacked by rogue OpenAI models? - GovTech",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1FSeHZXYkpHeE5aWFJ4Ui1pUkQzWlUybkgzeERMNHpSN1Vua0R1YXlnVzd1S0NFOGgtNU5ibVVZVEVqOEpYNGlGWTdmdWk5eG9EeHR1Q3hqbDVkMkFIYlhJZkEwZ243M1ZhWTA4TzcwMm5Pam1pVlhRdG5XLUVHN0NEa0FoYUE5?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-22T22:49:01+00:00",
+      "summary": "Who got hacked by rogue OpenAI models?  GovTech",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-22T22:15:35+00:00",
       "summary": "OpenAI hacking incident exposes mounting risks in AI arms race  Financial Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI model goes rogue during testing and hacks startup - ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2w3OGgxMEhiTjF6WnE4emJieHlXeC1heGt0T3VLTERHM3NxTDZkRERrSkpsNDJTNEEza3RyVk5OUUhsZ3lia1lXSGsxUHVIWncwaUJhcUhLR1FROFVYeXVlVVA3bFlyMmNDRDRoa1pFeENWX0YxT3JyYmR5S1BrSkxoYm9mdUpXQkxJVmQzTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-22T22:02:56+00:00",
-      "summary": "OpenAI model goes rogue during testing and hacks startup  ABC News & Headlines – Australian Broadcasting Corporation",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
