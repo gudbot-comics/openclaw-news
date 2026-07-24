@@ -1,10 +1,73 @@
 {
-  "generatedAt": "2026-07-24T11:17:46.461956+00:00",
+  "generatedAt": "2026-07-24T12:48:44.095106+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "How an OpenAI model went rogue - CNN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHRrT0VOeUZyaVJySUFfYTdPMlJJVk1MWlBJX09rSE9IVUlwY2RjSGlaa2ZMcmRBcVNRRElVQjd2TjlKMjhMYi1VMWJoSHR4SXBheFBZWC1yZ3JWbVZWUktKYWpvc3pOb1BwbmdDaVczY0drNEpGaGQzSGJTcmEzckZxaUFHTl9sSkVzREFROWh1TEJlOTBxbUNaQ0JpTFA3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T12:37:00+00:00",
+      "summary": "How an OpenAI model went rogue  CNN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "When is an apology not an apology? When it comes from an AI boss with an out-of-control chatbot | Marina Hyde - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2tSa1NaalFSck5iUmN1UWZ5djZmSEl3aDdZN0k2WUF2ZUFnemszampDN1lzaDRYU3JLMktoUmplanFMT1RZdi04akJIRVRNYllNNjF1OVNCZnVWUmlDTW5jMDBFekVmR0FyeWRHMVp4UVoxcnVHRS1HMk5YU3loOG10bXYxbnJ1UnJPR0dkZUxLVGlaVGlyZHllNUxFaEZ5WGhSMzFYQWlOZEdOYTRF?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T12:36:00+00:00",
+      "summary": "When is an apology not an apology? When it comes from an AI boss with an out-of-control chatbot | Marina Hyde  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI makes Health in ChatGPT widely available, moving deeper into consumer health - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVYtYlNaYWlCZmgzem9oajJHN2xwN3Q1Y2NMMXZWRnhON29lUXZRZGFiTG9kSnhKWFpUVFIzNzJralh6YmhDQ3hJRERRSkR2eUF2V1BjamN4b3dmSDNjRmJSU19wN3AySmY1SzZJeEJRUVI1ZnVYRGZqSmVCVHMxc0Y5bGUwV2dpcU5QVlg3NzgtUXBqSFBmQTBveFNlVHBSeWtHaTJ0VWpQTnVtNWwxdU01RWlqbGV3MFRFMTlNN2FnaUY3QzZ2T29UOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T12:00:00+00:00",
+      "summary": "OpenAI makes Health in ChatGPT widely available, moving deeper into consumer health  Fierce Healthcare",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Greg Brockman suggests AI labs are struggling to control models in wake of rogue AI cyber attack - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMktNMko4TElEUWVKLThmVGN0T1I1VVc2N2UzSko3QjYxMW00MDJLaEJOSTZVQWV4NzZLdXBvZEFSTnFWZ05QVkQ5SHZjVURZbVZnYlBuX2tCZmstVldpU3o0S1BCZE5JU2s1N2ljcEdLMG5JNXZISUp0MlFJSzhrUG1uN1djSWhLWmdUNzZjUmhVbWV2eHBVLTVnWWdIa2IxRFV6dHpNMkhBb0JTRndidEJiU3hyZEZHZ21GaF9janJ5SjZmLUpETUZrMmhxa3FlYWlKRHhQZURNNVJHeWloYkRDYkZ0UXI0VVAzRkYwVlJ0WDBsTUFLOTJ2UkM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T11:49:00+00:00",
+      "summary": "OpenAI's Greg Brockman suggests AI labs are struggling to control models in wake of rogue AI cyber attack  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Hugging Face OpenAI hack: Agent went rogue, escaped and hacked everything in its path - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YTlh3aFc5cDF6UGhsQkREUk5mQ0ZjNUtqMHZhcFFUc1ZFc1hUWjBBc0hhNkc4UGMtLXFPbmpFRDVnQUpXbXNuN2VUSmNjSWdCblhlMlZYMlZQTlI3SlpuZE1XOXJtYzU2SlI4MWFDYkJtMzlkOGpNZ1I2LUc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T11:26:13+00:00",
+      "summary": "Hugging Face OpenAI hack: Agent went rogue, escaped and hacked everything in its path  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What the OpenAI-hugging face breach reveals about AI governance failures - Tech Xplore",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9veXZxVGlXUWZtakNQWGlZUUY5ZHpOT3JpbnlKNEpDQXI2NVdwVjNtS3dXbEIwbFduTUMwYmQ1ejZuVFNqRnV4NmFaR0dLWFlCQjRsT1NXLVZYcFM0NjNFLWtVU2U4RnUxOWo2RG9Od2pUZHZGQjB2ZnVnUkMxOG8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T11:20:05+00:00",
+      "summary": "What the OpenAI-hugging face breach reveals about AI governance failures  Tech Xplore",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AMD's Anthropic and OpenAI Deals Power $2 Trillion AI Ambitions - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnRmLVN5Y21CeFpqWlhhOERVZDVYeHkwdGdib20td3Y4NG5paU5XVEJkX3NlSmk4b2ExUlVocVUxMDhHR2ZhRTZTdDFlNW5POGFOeHhSYlBJeVRCdi1OVDE5NmV4aXJwVHpxVDU5S2NXQUxvZ1l0bVNDWFJQWTRnODJwTDhGX2pUUk1VbU1OdDB6eDdnNm9rRXF4MzFWbV9nRGxJbHpQSWoxLTUyS19Cd2prYXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T11:12:03+00:00",
+      "summary": "AMD's Anthropic and OpenAI Deals Power $2 Trillion AI Ambitions  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "New tariffs on U.S. trade partners and experts divided on OpenAI hack: Morning Rundown - NBC News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM21uRi1Tc2pwQThnRmVFSzJSdjR1aWhMZTRVeVIyM1Jwbkl2dWxUdEhBMzRVanRBUnJfQWM2NWVkdEk1TzFJZk1uajlCazljWkVnRE1HenBSTzNyUVhiVFdqcUJha0tOeGNnNmlxajJJZ2M3YjlQZVZTRndhcXJyOUwtbHhIRnYzVnJGeXFnbjVlTEJrRkF5TkkwVW1iOGpyb1dJVmp3?oc=5",
@@ -29,6 +92,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-24T11:00:01+00:00",
       "summary": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI did not violate Indian news agency ANI's copyright, says court: report - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHRnRmpGejhWeHg1THNQUVRrX0xKaHdDX25Gd21Fdm1XTXVfOFhjdUNCSnJPWnA4RUh2bEJsVlk5SjVscnpRbEF2V2RyRmlybXBuZWh3M1hXUFFjUmwwMzl2NkV1Nnd1T2RXRGtSVXlqVXJmc1R4eU5TeWotdnNDV2dNSFE1c2YwVlg2SHBYRk1CNVczQ3NuMFcxcmtGUE9Hb2VkcTg0eHY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T10:57:34+00:00",
+      "summary": "OpenAI did not violate Indian news agency ANI's copyright, says court: report  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "In Big Win For OpenAI, High Court Rules In Its Favour In Copyright Dispute - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWW5qa2ZvQkR5YWhIRWtwTmRJNnNITHFTN2lDbUpFQjZ3YjJjZDItRUk0VUhmUnRYcHFMcnR6YmgxNW1mcFRINklobHpZQjhYdTBjby1zMkZYUnZtM1dsYkl5MzJOLW5OcE1sOG9mWExVNVMzSVM1bXZnd2RjR0JIdzh5eFREV1U4dnVvaFlqQzBQNEljWWNXYm1Xc1ViZFdnY204V1VyUTlTb1lpeVdRc003VWFadVBJdHhhUU1UcENPWGVUazc2c08tQXdXQdIB1gFBVV95cUxOMWZGajVXdkIyMG93Z3BVc2x4YU5EOWlzWXJjMVVrY0ZWc2N6bHVMVTFFT1gwLWkxbTlyNW1jQmNQOGREUVkzNkthOXhrdHpxYXlRRFpNYWE1ekt2YkpidW9sb2Z2NXJCcmxSWHJMWjJhR0FvMk5JY0JEczFWY054UW1QRXYzOHJTTTJXS18yTGxweGdFdlRfVWtkTnZORGNHZWI2dXZpY2Q2VnpLaGdIUzRMaEZOeV9qWUFpRUJOeWRnQlBqNl9zUi1NazdKSENNaUdSN0R3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T10:39:38+00:00",
+      "summary": "In Big Win For OpenAI, High Court Rules In Its Favour In Copyright Dispute  NDTV",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,6 +150,24 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Hugging Face Warns 17,000 Attacks From Rogue OpenAI Model Changed Cybersecurity Forever - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tWDFRbHZvSU53bFBfUDZ5UlV0bjBjYkdMYnpNMGZEX2tkMzBsVnhYQ1g2VmRpcFVzOHBEWWctZExPVXVtZk92blQwaFUxR2xqVDJTVFB3S243YzIzUE9DM19iYUQxUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T10:01:26+00:00",
+      "summary": "Hugging Face Warns 17,000 Attacks From Rogue OpenAI Model Changed Cybersecurity Forever  Yellow.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Indian court rules in favor of OpenAI in copyright lawsuit brought by news agency ANI - The Mighty 790 KFGO",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZZZnFRYmVuRktBSmZDX2FlTm00VkEwT19LRDVFdTFwNmNSa29OVWtRd3VUNzRFVXJ6eGRnazRoRVpSaUhoQWtjeVE5Y29wczBRM25ONjlXbGVIQVVBelRIV2pmcWd4NGZYdUxDUldGbnVMMmlnQkNQcjFBS09TZWh1anVsa3Vsc3lWZE1OXzEwS2NxWEFXOEhvalBNVDF4TDc0N1VLT0hRa0t2cTJMVVM4YmE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T10:00:30+00:00",
+      "summary": "Indian court rules in favor of OpenAI in copyright lawsuit brought by news agency ANI  The Mighty 790 KFGO",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "‘They wanted it to happen’: AI expert says OpenAI hack was no accident - NewsNation",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMERSS3M2dVF3WkFDbVhSRFNnZTR4SExia09IemU5S3NGRW43Tmk2V3ZxSmduY3Zycmk2bW14V0tldHMyT0tpTUtNemg1V1RFTG1ibnl6MkdLdmFldVlETEYwbkgyYlVxM3d0bzk1SjlkT1ZLTWxnYmxEcmUxUDlub0dBRWVKMzg1RU4wY3Q4UHd4aElucmfSAZsBQVVfeXFMT1UzYU96MW5Jb2taNmRWMGZBM1E5UEpKZWJPWFo3anhBQmhqZ1ZObk5JQzVLczVVXzVpTHh1aWJqM0gyUUhMdkJvd1dLNmgxMW5mOGVjUFJSdFluWjIxTXRLSk9qTG83djlYbGZoNXRLdVJpbGdVM1psZlV6R2JnbXJRLWtEWTRQU3VqTkdIS3ZpNzBXd0I4ZlhfMlU?oc=5",
       "source": "news.google.com",
@@ -91,7 +190,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdG9Yb2NLUnFQU2RVQXl5RHdPMXcybkZWVFlZUWFLNUFaR0pzOEhmZlpvVzNCNjZwQUhpdlVPeWZqdFJqNnMyWVlFQUpHTGJDUUl2R3F6OE5KdVJLc21vLWpMazV0aW9ObzNQQkxpc0lRYnVtNHp6V0k3Q2ljU2NvaXBjeHU4T1JtMm8teUlYaFB0bktKam4xUFdjNmMxOVcyX0JlUkpKRVM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-24T09:00:00+00:00",
-      "summary": "A rogue OpenAI model hacked a startup, and some experts worry that’s just the start  NBC News",
+      "summary": "A rogue OpenAI model hacked a startup, and some experts worry that’s just the start  NBC NewsOpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress  CNBCOpenAI’s breach of Hugging Fa…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Presence sells enterprise AI agents with engineers attached - AI News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGFnSWl2VEFhM3lxWkZaQVlPRHY0WVAycGVlX3hUNV9oM1BHNTZSTmk3NnhjSzdOeTNNZjJIeEcyaFM0REVKb0lRQ0JjUDJubWYzVFlXaWFmQkhDRUlLazdSOHdZczBTSC1OYTZPcHhJajFtQ0tROFBjTTY0YjA0dkhIWkV0NHRqUHUzOXRwVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T08:06:26+00:00",
+      "summary": "OpenAI Presence sells enterprise AI agents with engineers attached  AI News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -110,114 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-24T05:00:00+00:00",
       "summary": "Karen Hao: AI Doesn’t Have to Be Built This Way  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk said helping create OpenAI accidentally accelerated the AI race, which ‘wasn’t really’ his intention - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZW54Mm9nSUZVbFdNVEpSa2g2X0lWb0lJckQzZG4xTHpaeUR1N18zQkxyWXRsN0V0MkJxNFdveG4xd0VscnJUVVhBU0g5bG5zOFhKZzhfand3Q0g3eFJwNGxjQ0p5M3JGSzhzX3otMHBpWTE1dTg4cTJpZk5UMklNNkt5QTJtVUpBZU5Wb0RzRERna2gySEVITWoyNkhBZ2lGWmZtdFNKVE5ydw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T04:01:00+00:00",
-      "summary": "Elon Musk said helping create OpenAI accidentally accelerated the AI race, which ‘wasn’t really’ his intention  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hundreds Pack OpenAI Data Center Meeting in Effingham - Statesboro Herald",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjFXRjZKNk4ySzh0ZUdiQWVhOWhwOWRUcERWeEIxNW1aMWQ3d0RZZmd5RU51a3ZKajhkRDA5VlF4OGpWTVNtdFJJWDJPUzcxbzNaUEMyOUg1eGJlRHFuYnpqOUFUX2RVTE13WTA3MHduNjlTX3lfcmh5b3h3MnFScW9UT1ZVRUUteGdkTlhlTU51aVM1TjRZbQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T03:56:01+00:00",
-      "summary": "Hundreds Pack OpenAI Data Center Meeting in Effingham  Statesboro Herald",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s July ups and downs: GPT Health rollout, hot IPO anticipation offset by rogue AI hacking, medical misconduct lawsuit - HealthExec",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR1FBX1owTXJtSzY0WXl0clFNYWRia0IyZjZ0dkZEdE4yYVNBdExycmFZZ01kNjd1NjhCcTBFRkxvSTlIOFN6UE5rU3ZnSFNNN0lfcnlwb1VCcDBqT2s3Z0FVZlNfWGNhaDVYbFNMM3FaZzktejRsRTdJMjhfcDdpTXY3T203dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T03:10:21+00:00",
-      "summary": "OpenAI’s July ups and downs: GPT Health rollout, hot IPO anticipation offset by rogue AI hacking, medical misconduct lawsuit  HealthExec",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI data center project sparks outrage among Effingham County residents - thecurrentga.org",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajBxQm5DOXhncXBpNlVRM0MyYWE2RjlmQUI1Y21EWmoxa1ExZWR2MWNsUDdMU2wwb3ltSWlBLXU0TWxaMk5jYk5QR0ZDbEdGZDhhWWFNVUJ5NmpPRk1GcjFGOTdrZjVDaW9FMzQ3U203UlR4bVRzM0VOUnRNd1U3bVdyMUNBVjN6ZURkOThhdnRURW5YUVJfQ3NWY2dUR2lWaWhoTGlWZEt0aWRTWFFpag?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T02:24:12+00:00",
-      "summary": "OpenAI data center project sparks outrage among Effingham County residents  thecurrentga.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI claims its artificial intelligence gained access to the Internet on its own and breached a ‘partner’ - HealthExec",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVm82T1F4OHhJT3pSeW1rLUxwWVFKQTdwdlhDUjh2YzFMUFFSSGF0SHloY01Td1FWNFpvLTNWLUhyZm9MaldWRllSNnJZcHFob3lKWHY4NXR6SllILTZmRmFSbU1WN3c3a0tBUFYwS3VnY01lRjRxYTZzZW1MQkxQLVEycUlZSDVOV3pyQjlDX0tIdHd6X29qQ2R0ZHB4ckJpTkZzZFZFSUtHT3huRXg0UmxWdjdFUWhQcWJFN2hPYWNNdHRUQ0taTmNDMHRJQ2J3ZkFvVVk1LUtRT1RkN0RoZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T02:00:02+00:00",
-      "summary": "OpenAI claims its artificial intelligence gained access to the Internet on its own and breached a ‘partner’  HealthExec",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple’s trade secrets lawsuit against OpenAI reassigned to new judge - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczd0RUlDWGI5V0o3R2JEM25JOGZiZTdmWHFwX0lEdDdsRmNjOUtRVnpNemdKNk5kWVJJZ0N6Nnd2ZHFjMGNaZmdTQ3NuTTZfcUlHMGxrR1JkR2lOSE5BWDhiOHN3bGlWR0tvM1ZOWmpoWUNvdVZ6ekVmSVpyNDdtczVUd0IwN3ZCOERzdGJmT2thWDRiTHlQWjFucUtyZFhz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T00:33:00+00:00",
-      "summary": "Apple’s trade secrets lawsuit against OpenAI reassigned to new judge  9to5Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How the Futuristic Hack by Rogue OpenAI Models Unfolded - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2pxTHgxM0g2S3laMTNMR1AzRlJDaWhjbnBtOFV4NG51cTR2Ni0xaFFIbG9ldXZzVThGMlF2UTFUbWlBYl9SMFRWSmRjVHdBb2FveWZpWFNnZjJaZEk1T1BxaU1Cd20tZXpQZ1g5V29Ka2toQVRkWE9xT1pSX2VNbVBFSkl0a0VDR1NwN1NDSGZCVGxjMlNR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T00:00:00+00:00",
-      "summary": "How the Futuristic Hack by Rogue OpenAI Models Unfolded  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be - The Register",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdm9PMTdiZlFhbUdoM3k3d3pFUHZBdUhyaEZCMFl5czJxX0NQUEpIVUwxQS1RVFE1dC1ZZlFtM2s1QWRrVGo5VmNBYl95dHppTXBtLW5CZ0tYbHBnbUJVUnRwUTRnaHZuWFVJbVNyY0hRT19oTXlQZm12NWdCR0ZNMEw3RzJQTUt4dncyTkVkWklqYzNKaUwzX3h0SVRUTTltRkNENnZ4NDdmVk0zS3VoWTY0ek1KTWJtcFU1Zjg0NFl1VTlUV25mZWpmejRNYVU4LTVJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-23T23:51:28+00:00",
-      "summary": "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How OpenAI’s Models Escaped Their Sandbox and Slipped Past California's AI Law - KQED",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGt0V1NRMDlpQ3hOTF9Zd19uaUpzbUxlZV9LeEVmLW1tLS1uUHBkekFtb2V3bk5VblExOENsa1VyRkJmb3F1QktCRnROdGNVVElvdDdVUWNVSTJvNk5PVzVBY1c2Q2dUMXI3cmRsSWFaLVlyWVFTSzQ2Q0ExYTBRRFBBdmdNWlpXVGE5NmU0bE1vNERENmhqcTZBa2xvbXM3OXUyQXRFMTJwMFpPZE9oRw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-23T23:47:00+00:00",
-      "summary": "How OpenAI’s Models Escaped Their Sandbox and Slipped Past California's AI Law  KQED",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI hacking incident highlights new era of cybersecurity - KSNV",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbERVbjRZN1NhMWZlVlkxdWd6bU1lbU9FMUpfSEc5OW0tM0cyb2s2YjJBdkxnLWZrYm82QzJGOE4yQmVDSjRNMklKenF5U19mTXBmUnYwUFp1OHRBQVVhMnAwZFdDSDcyb2NyWnVzTHBfZjVZd1lqeWh6ckZnOFlwLTFrWlhTVERsRHZqQWJ0V091R0hm?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-23T23:16:05+00:00",
-      "summary": "OpenAI hacking incident highlights new era of cybersecurity  KSNV",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI formally launches ChatGPT Health feature for US users - FirstWord Pharma",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CYWc1NXlXUjdwMEsya25ySHZGTkNHSU01Z0ZTUFU3c3lpYnpzOEZ2MDdzdG9PVXpOaW9KN2ZoM3N0Z2lrNmpyUHI5MWxnMzEyYWNz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-23T23:09:42+00:00",
-      "summary": "OpenAI formally launches ChatGPT Health feature for US users  FirstWord Pharma",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches Health in ChatGPT a day after lawsuit seeks to block it - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGtpeE5XMWMzbEp2VjJuMDl6dWYxZEFRRzhzZGVxNHNuajBFTXNCUXpmRDdpSE1JYzl2NHhuZlllRV9MZ05XSnRpX1FEalJRc0xTUnpLRENmVDVKcmp1Ukwxem5MZmtRRUt6NVRvM0ExSTE4SlJLZ1kzZkVUMVRta1NhTGdoT2l1UTFmREtnUHdPdW93X1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-23T22:59:50+00:00",
-      "summary": "OpenAI launches Health in ChatGPT a day after lawsuit seeks to block it  SiliconANGLE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
