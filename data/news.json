@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-25T18:33:09.552009+00:00",
+  "generatedAt": "2026-07-25T19:49:52.762872+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "RingCentral (RNG) Taps OpenAI And Expands NiCE Tie Up For Enterprise AI - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcm44cDNERlVMclJ5WlBFVEg2M0dfNHd6YmFabTl5T0ZuSkJFTC1SdzVvaEdDejJhWHVwLWk2STBBYkVUaGFJaGdibWhxU1oyMXBRZFJ1UVVnQUZGTkI1OXppcC1XRFNLYnV6MDg2eTlMQVJha254NU1SOUpudFRXdWVVQVBOWkdBWHBfUQ?oc=5",
+      "title": "RingCentral (RNG) Taps OpenAI And Expands NiCE Tie Up For Enterprise AI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUm90M2NLdHJPYkxmemtKTWJUdngzb3V2S1hKM1lRcV9wUGMyZW02RV91UXJ4RHFzMm5CSnZNcXFjY2FPZGtMLTg5MjRMRlYyejZUQmloRDhOcGZVcklGamh2X1pobHNzb3l0N05uN2w3SF9UeWJ6YTFsWkVrZUZDN3VWWmE4dldTSzdHUUFhS3VxSkprU3ZCQkNGbDctWFBs?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-25T18:10:02+00:00",
-      "summary": "RingCentral (RNG) Taps OpenAI And Expands NiCE Tie Up For Enterprise AI  Yahoo Finance UK",
+      "summary": "RingCentral (RNG) Taps OpenAI And Expands NiCE Tie Up For Enterprise AI  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,15 +20,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-25T17:58:28+00:00",
       "summary": "Risky bet: The winners and losers from the OpenAI-Hugging Face hacking mess  thenationalnews.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMzJkQ0NsZEowOGNPMWZnRmxYd1ltQ1pHWk9JS3ZTWTlDcnEzUTdkbWllQVZlaER4YWo1cDhKR3hWV3k4Y2lEZmY2TmlnZ3RmY1RxV3diQ2VpT2ZQNzVMUGxBdUp4N2pHZGFsajNHSWtHOFpZbGw0Ty0xNW1IR1d1bkViUmhOOUJlOUhwbGlRVDFwRUZwaFVucmhMSDZmS0FmVHUwQTV4dDlrMXVYNGY3dk92bzItbWVmMGJPdHFuNTRlTmRlM1FMUGJ1dHZQUk1Vbll4MWpmbUlRRGtWWlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T17:05:00+00:00",
-      "summary": "Did OpenAI's models just breach its own risk 'red line'? Outside safety experts think so  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,6 +56,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-25T13:48:26+00:00",
       "summary": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Open-weighted AI can 'strengthen safety and cybersecurity' and 'accelerate innovation', Nvidia says in an open letter backed by Meta, Microsoft, and OpenAI - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdi10ekF0MnFpOWUxZGFheDNMR0dBWkxOaWsxTG9wTHJHTFVoRE1iUXpKOFp5UTJOcWRSdUIxYWxQbG52YWNWSE4tS2FiYlZnVGlVTEFiU1VNcmpVMTdibFRNNWZQZmx5UmFpalVKTTJrUG1VaHIydzF2RWtadWh1WDlQVjJkN1JDVGxQcnVGUmZpWUltQkw3ajNpU283MkQ0dzhrWGVBYUZnX0RwU2h1VmliODRNajlzYU5ULWdLanhTWUp6WFBXSzRHa2NnRTJXUjFhVmVNaW8wLWRJMENJLUFoUEYxLUlDbWNjSHVIQkkwUlJQem1UWVphTTJyVWZNd3pGUWY3S0JaZnZwVmVOWVJmdE9ORDRIZ3hId2NhRW5MRUx1UnhSZTkyZV90aFNfWlY2aEJVU25jTVZzOEtfS1NCNnlWdTBUMHd1eVRmcVRtRUNMUktNWUxpUXhuUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T12:30:00+00:00",
+      "summary": "Open-weighted AI can 'strengthen safety and cybersecurity' and 'accelerate innovation', Nvidia says in an open letter backed by Meta, Microsoft, and OpenAI  TechRadar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,6 +141,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeS1aZEstOUh6eHd5TEZTU2J0Vy1iRnNnR2E1VllEVC13QjF4LW14VnMybElwR1FuUzNoWE9UVTRDdUlLMlN1VDM0UWJtaUVJSy1qd1h1dWplS216R20yUmtOVDNuWF9ScVVpVHpQZVFxeHR1cHdxaC1jQ1lzcjNYOTRteGlHQm4xZ0RYSi0zZXFyLWd6b0FrZFVMTXZYbDJNSlFHbFJweWk3d2I2SnhiMFBzSFFxRll2VzlfZFpnS3BBSWwySzZ2UFJhUFIxWlFy0gHWAUFVX3lxTE1UT1V0bW5hTExiNm83bHBHU1F3cFNPOVgyZHhVSmIxWjhXeGpvSGk4cm13SHlvU3lfX09ZMVBuMDJuMzV6azhVYlVhVzNxZnV5aV9KYmpnaUMxb3ZONHVGdU9MSGVTbnFfWENiOXJEWmFseDA4MGRlOGFLLVgwU3NhR2h6eEQ5T3NOZXQ5eEdvMWYwWFFyX2JWYjRUUVBQQXBXb2JyY2tDekVfVy1GaEZzbFJXeHpDSGFfSTUwdTZjM3Nhbm1pOHY5NUJheFNuZzJ4dnQyRHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T09:03:27+00:00",
+      "summary": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers  MarkTechPost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI - Fortune",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3AwZjBweUo4bXlORWxSYnY3Tnc3aElhdy1VTVcybDhxcmtPTzBuOUNEWVg3b3pfazRoeVY0VnZ2WG5IdWJMQi14ODRkaHJiLVVRNVQwem1nSFNQaTVFQUM5cDRQdzBDemVTZ2J0elJQc0w3Y09PSnhFVU05dEp3MDU2UFVtRFpRYkU3RDZJcEFpS0ZTbFNZVnVZbVhMUEVjMzNJXzVJcFN6NkFRaUJGbHZ0aV9oN1lxcFVGa04xZGZNVm8wN3FVOFREZFFvSm5ZMGRrdHB3?oc=5",
       "source": "news.google.com",
@@ -204,20 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5M to buy land near nest - Los Angeles Times",
+      "title": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest - Los Angeles Times",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWhWcFpRTDNrNUw2TGtjSGcySF9LWkFFZWcyRzVSeW5tc0dNb3R1VmFDQXRtWkdQNkJFZkVmdC1WYTVjOEViaE9SNGhNUUNfWVVneXMwWjk5eXVsOW0zcWtiZFV4b292WVotemxOeU1yZ1cxMTA4SnVvM0t0ZjhQdGt1MTVKOUtIRkJvQjByS0ZWU25uLUZ0X1ZwUDZhcFdPQ3psblZCVGxhVTZUelJBMEt0U1NjWTF1Ml95YUt5Q3NKZXNoZnc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-24T22:37:02+00:00",
-      "summary": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5M to buy land near nest  Los Angeles Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia, Microsoft urge US to avoid broad restrictions on open AI models - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmxBWlRDQmpQMWsxVFNxY0MwZjFTcVY5cy1hS2ZjaVh3dU1LYnJzTElRdGc0M1doWTQyR3M3SWtuQUp0RC1Gc1BoUm1BQlgxWmRLWHNsZ0RSSDZmc0k0ZDh3c01uZGpSSnNjNlBwQ0hXY3JUdXNFdG1ncC0yNEdIZ0JoemhZamxmRklISy0wRndweG5qclkxV0otOFlvbTVTbDdTV3l30gGrAUFVX3lxTE9FWV8tTVR4eGJMNlNsVTZScnNFSmU0VFRSdjBCTkdxMGx1aUZ5QmVFZTJkVXRpS1lRdFhONHR1QXZpUTBnakN0RVhmZTktTGFkaFZZY3R4RGpkQ0UtaUYwc0w3TGdqYmotU2ZoX1ZxYzZ3aWQzMWNJTkZwWGVydGtoMlJRemc0SVFlNXBIZXpQY1VaNmpHSDB0UjZIN0xjeXhaU3pOaUtSX1Utaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T21:14:00+00:00",
-      "summary": "Nvidia, Microsoft urge US to avoid broad restrictions on open AI models  Fox Business",
+      "summary": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest  Los Angeles Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
