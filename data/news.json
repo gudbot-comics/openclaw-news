@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-07-25T11:50:05.775739+00:00",
+  "generatedAt": "2026-07-25T12:48:58.485213+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Is ChatGPT down? OpenAI restores function after ‘experiencing issues’ - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkpzQXhzYUlJSzkwc2pxbEFWU1VzcmtYendQeDhxVjB0UXBZcGRnLXVhemJUQ05Pdl9WX2ZVdGl1VU5wYk8tQ3ZJNWhvRXA5SEhlWUxNTjJuNy1VamNyV0wwZjVPbWVrWXY1cHBvelA0T28ydTdzMmp1U3ZHNGdYUDBnRDNZMl90cUt4bUxfNzZkUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T11:29:07+00:00",
+      "summary": "Is ChatGPT down? OpenAI restores function after ‘experiencing issues’  Yahoo Finance UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Risky bet: The winners and losers from the OpenAI-Hugging Face hacking mess - thenationalnews.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWpVZTB1RFM0N2dYOW52cEtzMEN3UEtHdHBDYkxfTndOLUdqN1BWMXNNc3VIOWNPdzd4NFlhTTFPQzBVLXpBMEk4WThZQXRHalBNRFRKY05rby0tQjVZaHcydl9JSWxTLXN6VmlLZWdYUEU4RWpLNzNwNloxMmNoM1B0VW15Qjc1eHRib2cxRGVlVGs2RWp4WnhlcFh3MjdTNGZxMkgyWWRfazc0Slp4Y3MtRHh0RFRLQzF0bU5IUWh2ZEUzN3I0MU9SUTk0b2JyOGc?oc=5",
@@ -15,20 +24,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Rogue Agent Went On A Hacking Spree That Lasted Days, Reuters Says - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3dheGFSdFkteWhIa3hhS1FpVlVQSVpXcV9VLXJqZHZQY19CaTJhNF91VGphR1U3VlBMMnFiN2dQTXAyRGo0TldWV1JHMDFhdl8zcHg3MzBLTE9Ya1dnanNVQjVlYUVNZktFVWdpR3BLZDRJUlBtZW03UUk2NlVDZkpNam5fQQ?oc=5",
+      "title": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened. - Live Science",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcVdPWUdmRUFvQjRla2xDNEhQVldiT1V3Q2YtcUd4TjUyU0pzOHZyR0xjTjJnOVh0WmJqT21xVmV5MHh1ZEktcXJLWkhSMDBNMGkzT0Q4M2ZLYTROSkVXSWZGVTlUV3hPdW5EY1N0TEdEMS1fYVg3T0E5WXgtWGVJWDQ4WjBrWmJNLWlBZUYwVEFTV0FlWXY1akllZ0RnRlhjRV9QVWV4TjR2djhLTC1RX2R5c193TnZGTWpaNGlkemE2WUhwNlZ5VnZFd0JNeThZSW1La0piSVhzM3RMMGl6dWxlWlA4MDJS?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-25T11:15:05+00:00",
-      "summary": "OpenAI's Rogue Agent Went On A Hacking Spree That Lasted Days, Reuters Says  Engadget",
+      "publishedAt": "2026-07-25T11:00:00+00:00",
+      "summary": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened.  Live Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Is ChatGPT down? OpenAI ‘experiencing issues’ with some users unable to log in - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkpzQXhzYUlJSzkwc2pxbEFWU1VzcmtYendQeDhxVjB0UXBZcGRnLXVhemJUQ05Pdl9WX2ZVdGl1VU5wYk8tQ3ZJNWhvRXA5SEhlWUxNTjJuNy1VamNyV0wwZjVPbWVrWXY1cHBvelA0T28ydTdzMmp1U3ZHNGdYUDBnRDNZMl90cUt4bUxfNzZkUQ?oc=5",
+      "title": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjN1RTBRekZaUlVuVUtzZVlhSzJkVmY0NG8wMHlxU05hcVl3UEdETFVhR09FY09PSHdfZUNCaW9QQ1hwYUwtazBkWVpoeVZtNkY2NkJwd1hodUQ2UFN2MTRDRlpmcFZ6ZkFablktOTJTOVhCSXlzQXNuZTBDNGVxNURyMENuSUFacElGUnRMVXNoVU5RSUQ1YmtjaEdOTzBWTllZV3NiN2tCZkxKUklIbExUb2hKem9lNGh0WnpEaTQyWHBfMDBneGFrRU0?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-25T10:42:22+00:00",
-      "summary": "Is ChatGPT down? OpenAI ‘experiencing issues’ with some users unable to log in  Yahoo Finance UK",
+      "publishedAt": "2026-07-25T10:30:00+00:00",
+      "summary": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days  WIRED",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,6 +60,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Confirms ChatGPT is Down Worldwide - The Mac Observer",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXVsMUVDS01FNGo1eXVrWUtNNFo5b1Yybmc2QkFQWkxtWnhUZDZBM19SZk4tdXJXQ2xIQUY2Sy1mVk81YkNKLUtJejBTNkpWazFnYnlVLXRrS1doc3BTSG1BRVZZUnVibGpXdk4yUW14c3VQVy1ZNUlVQkZyZmlLTHJaVDZULU9nZTFld19EYnkwc2pQU2JZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T09:42:09+00:00",
+      "summary": "OpenAI Confirms ChatGPT is Down Worldwide  The Mac Observer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "ChatGPT faces lawsuit, security woes as OpenAI pushes toward GPT-6 - Northeast Times",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNE9va0ItREdROWNKVml1ZjE5V1N1d3RwaGFtZTVDb3NJSThpcU9rWVg0VjhBcjAyS2JoV2x5Qlp4YlJvbmVBLUtoUEozQWZxeWRYUzlPNjNTbU9tZUxQbHhiT1pNMU5CU2RUSEt2SDVnc1o1VkctQXp5QW9BVVE5SjM1NklQTE40U1N1NWFyVk40Z0JKUEZaN0Y3bm02REtSRnZGT1VJcw?oc=5",
       "source": "news.google.com",
@@ -69,15 +87,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeS1aZEstOUh6eHd5TEZTU2J0Vy1iRnNnR2E1VllEVC13QjF4LW14VnMybElwR1FuUzNoWE9UVTRDdUlLMlN1VDM0UWJtaUVJSy1qd1h1dWplS216R20yUmtOVDNuWF9ScVVpVHpQZVFxeHR1cHdxaC1jQ1lzcjNYOTRteGlHQm4xZ0RYSi0zZXFyLWd6b0FrZFVMTXZYbDJNSlFHbFJweWk3d2I2SnhiMFBzSFFxRll2VzlfZFpnS3BBSWwySzZ2UFJhUFIxWlFy0gHWAUFVX3lxTE1UT1V0bW5hTExiNm83bHBHU1F3cFNPOVgyZHhVSmIxWjhXeGpvSGk4cm13SHlvU3lfX09ZMVBuMDJuMzV6azhVYlVhVzNxZnV5aV9KYmpnaUMxb3ZONHVGdU9MSGVTbnFfWENiOXJEWmFseDA4MGRlOGFLLVgwU3NhR2h6eEQ5T3NOZXQ5eEdvMWYwWFFyX2JWYjRUUVBQQXBXb2JyY2tDekVfVy1GaEZzbFJXeHpDSGFfSTUwdTZjM3Nhbm1pOHY5NUJheFNuZzJ4dnQyRHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T09:03:27+00:00",
-      "summary": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers  MarkTechPost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI - Fortune",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3AwZjBweUo4bXlORWxSYnY3Tnc3aElhdy1VTVcybDhxcmtPTzBuOUNEWVg3b3pfazRoeVY0VnZ2WG5IdWJMQi14ODRkaHJiLVVRNVQwem1nSFNQaTVFQUM5cDRQdzBDemVTZ2J0elJQc0w3Y09PSnhFVU05dEp3MDU2UFVtRFpRYkU3RDZJcEFpS0ZTbFNZVnVZbVhMUEVjMzNJXzVJcFN6NkFRaUJGbHZ0aV9oN1lxcFVGa04xZGZNVm8wN3FVOFREZFFvSm5ZMGRrdHB3?oc=5",
       "source": "news.google.com",
@@ -87,11 +96,38 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI's Sam Altman Is Betting Big on Nuclear -- Should You Follow Him Into Oklo? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOExYelVPOVpNWHFlSmNKRlZyUU0wbTFHTTlWV2V2S1VOZ0oyRkgtVm9kaTllQS1lWlA5cnFBdFdCNl92OFY0WC1wYktyNFpfd2xZU2FCNTBFXzJrM1FQNEN3Nnp4ZVBaQkZvZUtQZUVjZHZIdVp4QlBNWGNXUWVJWUtibGZYMXdUZTQ1Ujl2WS1sT0FSaXVZSA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T07:05:00+00:00",
+      "summary": "OpenAI's Sam Altman Is Betting Big on Nuclear -- Should You Follow Him Into Oklo?  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI launches Codex Micro hardware for AI coding - New Atlas",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84c3g3a2hDclJ1YlZGenJmbi0tMEhscG1DSUdLb0Qyc20tSHZZdmlBdmw4cDF5YnJnTmZzRWZ2OFJOMkdvOC1NZV92Q2tTYTFXQ0NHNG1ieE13TTBIaVNPQTJVb3A4SlZnNzJV?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-25T04:08:59+00:00",
       "summary": "OpenAI launches Codex Micro hardware for AI coding  New Atlas",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Effingham County manager details OpenAI data center process - WSAV-TV",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXdHYUlJNWZDc2dURlM3VlN2RGJXMDlQN1Fvam15U0czcDlHV0tpdDY1c0hkdVF1ZWlyNHdoeE1QNFNGd1dpS01mcDVvdE5fc09TcDZ0bEhyMWpUWHdkV2VlLWEwYjg2eXBoOTEwcWZJc1VGczR3c1QyM2VrTHM1dDB1bm9QQkxhcWNmcGpoVdIBlAFBVV95cUxQbGYwaEo5SkNtQ2c2Q2V0dVA4dnAwQ3dWdm52OVdzVVdsZkZmbTJDT2dWOTZJUkZkTDBwU1VQbnNEcTkwN1J5MkVSSEdjZDdKTHlXLXJsWnk5ekM4VkNDSkhYNUhHTl9mS3RsaGtCVWpNWE50ZnRjbEhOVWwyRkFSbXVhdEM5OVk1WGNOb1FPVmhQVWM3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T03:06:01+00:00",
+      "summary": "Effingham County manager details OpenAI data center process  WSAV-TV",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Silicon Valley CEOs take a stand that helps their Chinese rivals - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGlQNF9QRFVZd2NBR3BUTHd3SmdVRlhzUWE4Z0hVVElHV0Q3VS13MXNzQy1LdzRvQnNIaFoxNWJGRFQwTlNUMFFjUkhpdkVUNElWVzNQS0o0TVFZRUdXSmN2M2ZvWm9yS0pfdlM4MVI3cExtWjRKWUdtWWNUQkJhUk1weG1ZYmJ6Z2ZTMC1fV0VTQ016VDEySWl3V0V2OENIZnpkOWpuS3luUkJKTjAtdGlB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T02:57:30+00:00",
+      "summary": "Silicon Valley CEOs take a stand that helps their Chinese rivals  The Washington Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -119,15 +155,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-25T00:38:00+00:00",
       "summary": "OpenAI rogue incident a call to ‘do more’ as future threats loom, says Catholic AI ethics expert  OSV News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "I tried out OpenAI's new AI keypad — which will be fun for some coders and slightly mystifying to everyone else - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRVpYeDhuTjJZSWI3VTF6eWxTQzFoQWE1a0pPMzhWbGp0UkppWFBsM2RWS2dkOWpnNGp0Z3daMmFyQU5aVXRTcVVGcUxEY2d5OGp6MHlkYlRkWmFIQWpCenh5dnV0cGsyaHlzLUw2bXdHRW9Xbjl2bnZpSm85RjQ2ZlFiYk0xcUt6ZHRhUjFqYnRlSTZFVjBUTi1kLXlzNElER25CR0hTbnBraERQb1hFa0pSdEVHSVh1UGFsNnVxdDB2REJ4akZicWVyMFZ3aWdKYTVfdA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T00:23:11+00:00",
-      "summary": "I tried out OpenAI's new AI keypad — which will be fun for some coders and slightly mystifying to everyone else  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-24T20:52:06+00:00",
       "summary": "OpenAI co-founder, wife donate $5.5M to save Moon Camp, home of beloved bald eagles Jackie and Shadow  KRON4",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Hugging Face breach stokes fear on what’s next for AI - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1FIX2lQM2pneXllR1BJdnNLWEF0bHZKSXRMNnNPUGhTOHZuQnJxV3R1dkhMWTRoTk54SHFOZm0xVHdaOEhhR2tTX0tEdTB3WVBIUkRTcXlqLWxCcDJ2amp0UjBmeHlUay1EZ2R5bktMbGZqcmpvS25Rb2M3LTc0bC1fV3lGZ2I2elZvcjhIV2twZzFFQm5IOHlyaUEyemxLNm1oR1ZPUENxU2Y1Uk5scNIBtgFBVV95cUxNMHczbUxMaWxvTlYtZXFXbXJUOXJOTHN0dGRLOEJiTVNBdE90RTY5MnlPQWtQM2xrUDlfUlVGbTlxM2FZZy15cEFpekM2TEI1YlRsT3BzbC1pSlRJaHVTSXphS2xxUm9mQ0ROV3Z5YlVISFBOQ1FvdFVmenFCeWc0Wk00bmgzMS1RZTVNZ09CeDNLeGJSNElHVkJxSEtoRVVSalN3MFlucGY4Qm95NGFESVkyVHhUQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T20:48:00+00:00",
-      "summary": "OpenAI, Hugging Face breach stokes fear on what’s next for AI  The Hill",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Rogue OpenAI agents forced the ‘AI Kill Switch’ bill. Here’s what it aims to do - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWg4WURhTERIRURFZjE5S2Fjdi1yaTlBS2tkdWFzaVR0TmZhUkFYTVFhOG1VaVlSaTdtYUdfXzlLekVrZ044QjM1dzJQS3ZBQUFwS1lQRzc1WE9pbThMWkdtSFM5bzdPbHcteGc4NU43a2MtbVFVd3U2Yk8wWHBMdlF5aE44RmJuSmtYQ3JvODkySThFckdXeF9UT2lJbV9tM1pTWmJ0Qjlpa2txQTNVeHh3VQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T19:28:47+00:00",
-      "summary": "Rogue OpenAI agents forced the ‘AI Kill Switch’ bill. Here’s what it aims to do  Fast Company",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI executives demand OpenAI release more details about how the Hugging Face hack happened - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEFMTEcyNkZVVlVLUEVZYmlXNGk4MkpudVJGajdWbUpueFptWWkwX21qbG1FSjcwY2lyNHh6eHVVZ0JSV2hYTnBoR0FuMTU4bXAtcTFMMEhEOFEwVjAwYkw0NUpueEY4elB5MjNDZnlPTWt6Zk5wb3FpNWY5aFdscjRQYXJpenFNekYyOTZzWjZrT3NXeThBWDBCNWV3ODFqMWI5bkN3dFhiOUFjOXFwLU5JVllWX0U2WjZPYnJn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-24T19:27:00+00:00",
-      "summary": "AI executives demand OpenAI release more details about how the Hugging Face hack happened  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
