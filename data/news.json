@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T14:21:39.713354+00:00",
+  "generatedAt": "2026-07-25T15:37:10.845437+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -20,6 +20,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-25T13:48:26+00:00",
       "summary": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T13:00:08+00:00",
+      "summary": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -56,15 +65,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-25T11:00:00+00:00",
       "summary": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened.  Live Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjN1RTBRekZaUlVuVUtzZVlhSzJkVmY0NG8wMHlxU05hcVl3UEdETFVhR09FY09PSHdfZUNCaW9QQ1hwYUwtazBkWVpoeVZtNkY2NkJwd1hodUQ2UFN2MTRDRlpmcFZ6ZkFablktOTJTOVhCSXlzQXNuZTBDNGVxNURyMENuSUFacElGUnRMVXNoVU5RSUQ1YmtjaEdOTzBWTllZV3NiN2tCZkxKUklIbExUb2hKem9lNGh0WnpEaTQyWHBfMDBneGFrRU0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T10:30:00+00:00",
-      "summary": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days  WIRED",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,29 +114,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeS1aZEstOUh6eHd5TEZTU2J0Vy1iRnNnR2E1VllEVC13QjF4LW14VnMybElwR1FuUzNoWE9UVTRDdUlLMlN1VDM0UWJtaUVJSy1qd1h1dWplS216R20yUmtOVDNuWF9ScVVpVHpQZVFxeHR1cHdxaC1jQ1lzcjNYOTRteGlHQm4xZ0RYSi0zZXFyLWd6b0FrZFVMTXZYbDJNSlFHbFJweWk3d2I2SnhiMFBzSFFxRll2VzlfZFpnS3BBSWwySzZ2UFJhUFIxWlFy0gHWAUFVX3lxTE1UT1V0bW5hTExiNm83bHBHU1F3cFNPOVgyZHhVSmIxWjhXeGpvSGk4cm13SHlvU3lfX09ZMVBuMDJuMzV6azhVYlVhVzNxZnV5aV9KYmpnaUMxb3ZONHVGdU9MSGVTbnFfWENiOXJEWmFseDA4MGRlOGFLLVgwU3NhR2h6eEQ5T3NOZXQ5eEdvMWYwWFFyX2JWYjRUUVBQQXBXb2JyY2tDekVfVy1GaEZzbFJXeHpDSGFfSTUwdTZjM3Nhbm1pOHY5NUJheFNuZzJ4dnQyRHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T09:03:27+00:00",
-      "summary": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers  MarkTechPost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI - Fortune",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3AwZjBweUo4bXlORWxSYnY3Tnc3aElhdy1VTVcybDhxcmtPTzBuOUNEWVg3b3pfazRoeVY0VnZ2WG5IdWJMQi14ODRkaHJiLVVRNVQwem1nSFNQaTVFQUM5cDRQdzBDemVTZ2J0elJQc0w3Y09PSnhFVU05dEp3MDU2UFVtRFpRYkU3RDZJcEFpS0ZTbFNZVnVZbVhMUEVjMzNJXzVJcFN6NkFRaUJGbHZ0aV9oN1lxcFVGa04xZGZNVm8wN3FVOFREZFFvSm5ZMGRrdHB3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-25T09:00:00+00:00",
       "summary": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Sam Altman Is Betting Big on Nuclear -- Should You Follow Him Into Oklo? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOExYelVPOVpNWHFlSmNKRlZyUU0wbTFHTTlWV2V2S1VOZ0oyRkgtVm9kaTllQS1lWlA5cnFBdFdCNl92OFY0WC1wYktyNFpfd2xZU2FCNTBFXzJrM1FQNEN3Nnp4ZVBaQkZvZUtQZUVjZHZIdVp4QlBNWGNXUWVJWUtibGZYMXdUZTQ1Ujl2WS1sT0FSaXVZSA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T07:05:00+00:00",
-      "summary": "OpenAI's Sam Altman Is Betting Big on Nuclear -- Should You Follow Him Into Oklo?  The Motley Fool",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -155,15 +137,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-25T03:06:01+00:00",
       "summary": "Effingham County manager details OpenAI data center process  WSAV-TV",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Silicon Valley CEOs take a stand that helps their Chinese rivals - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGlQNF9QRFVZd2NBR3BUTHd3SmdVRlhzUWE4Z0hVVElHV0Q3VS13MXNzQy1LdzRvQnNIaFoxNWJGRFQwTlNUMFFjUkhpdkVUNElWVzNQS0o0TVFZRUdXSmN2M2ZvWm9yS0pfdlM4MVI3cExtWjRKWUdtWWNUQkJhUk1weG1ZYmJ6Z2ZTMC1fV0VTQ016VDEySWl3V0V2OENIZnpkOWpuS3luUkJKTjAtdGlB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T02:57:30+00:00",
-      "summary": "Silicon Valley CEOs take a stand that helps their Chinese rivals  The Washington Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +191,33 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-24T22:37:00+00:00",
       "summary": "OpenAI just disclosed something genuinely alarming  thestreet.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia, Microsoft urge US to avoid broad restrictions on open AI models - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmxBWlRDQmpQMWsxVFNxY0MwZjFTcVY5cy1hS2ZjaVh3dU1LYnJzTElRdGc0M1doWTQyR3M3SWtuQUp0RC1Gc1BoUm1BQlgxWmRLWHNsZ0RSSDZmc0k0ZDh3c01uZGpSSnNjNlBwQ0hXY3JUdXNFdG1ncC0yNEdIZ0JoemhZamxmRklISy0wRndweG5qclkxV0otOFlvbTVTbDdTV3l30gGrAUFVX3lxTE9FWV8tTVR4eGJMNlNsVTZScnNFSmU0VFRSdjBCTkdxMGx1aUZ5QmVFZTJkVXRpS1lRdFhONHR1QXZpUTBnakN0RVhmZTktTGFkaFZZY3R4RGpkQ0UtaUYwc0w3TGdqYmotU2ZoX1ZxYzZ3aWQzMWNJTkZwWGVydGtoMlJRemc0SVFlNXBIZXpQY1VaNmpHSDB0UjZIN0xjeXhaU3pOaUtSX1Utaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T21:14:00+00:00",
+      "summary": "Nvidia, Microsoft urge US to avoid broad restrictions on open AI models  Fox Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI hack has cybersecurity experts concerned about the future of AI - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlFfcTJvODJMd20wOHNZZC1tVFBNZGVRN1hCXzNfUW9yY3IzbDFaLVBFTzlVUzJLRnU0bkV3ZkM1NmhEMnlYYnJYd0FjWFpfV2ZLcmlLa19ad2F1ZXFnY0xiNnQ4Zll3bThOdGFnSGJFYkJlRjl3b1FJaE9TVHR5b0x5amI5OHNKX3FleXBRWnRIRkttYTdWYTZRcnVsZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T21:14:00+00:00",
+      "summary": "OpenAI hack has cybersecurity experts concerned about the future of AI  Spectrum News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is ‘Very Interested’ in Building Out ChatGPT Integrations for Wearables - CNET",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVnRrZWFsc3BtYVRseURlVzd1SGlDY2xUT0k5Vy1lTWNxQUZwcktYS1FRTXRuWGNEbmdRd3FtUGNaZkd6a3RMeTBlTnk4NUk0bnVMekJyMmFYSEtWeFlkV0NCd1pjQVhMZHNtQkVDSWgwdXhXenB2TEFOSXB1LWszenduZkRRd1VoT29kdmNHYkZnZE1ySTRTSHhxYWxmVGpUb3FEbXhyd2dVbUJKaXRJV25hUi1PU2xuTEl3UXFrcFlUQnM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T20:59:08+00:00",
+      "summary": "OpenAI Is ‘Very Interested’ in Building Out ChatGPT Integrations for Wearables  CNET",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
