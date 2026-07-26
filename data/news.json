@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T21:32:36.103417+00:00",
+  "generatedAt": "2026-07-26T22:37:09.752786+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -55,7 +55,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YTlh3aFc5cDF6UGhsQkREUk5mQ0ZjNUtqMHZhcFFUc1ZFc1hUWjBBc0hhNkc4UGMtLXFPbmpFRDVnQUpXbXNuN2VUSmNjSWdCblhlMlZYMlZQTlI3SlpuZE1XOXJtYzU2SlI4MWFDYkJtMzlkOGpNZ1I2LUc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-26T16:45:31+00:00",
-      "summary": "OpenAI agent went rogue, escaped, and hacked Hugging Face  MashableHugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack  TechCrunchOpenAI didn't realize its agent was…",
+      "summary": "OpenAI agent went rogue, escaped, and hacked Hugging Face  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,15 +74,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-26T13:37:00+00:00",
       "summary": "The Day the Bots Broke Loose  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "It's not just OpenAI models escaping and running riot — experts show how Claude Cowork can break its bonds and access Mac files - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSm1IUi1QbWt4dTNzdjJNak9fV0ZVMXdSVmREZGZSVmFmUGo1ZFpKS0pvOXMzaWdXaUhFU3c4YlRpT0kyaVB0NTAwbDR0bVpVeU8xWXY5ckk3VE1MU3lJcDlxUnRmbS1ZOUNvWERhX21Ib244c2t0SGJtb0ZVMFFpYVg5ajRENk5NdEFyVWw4ZkYxeGlTSEhHejJqdG8zN3p5RGdLNW1tb3hiMWs2Y2tqeDNJV21xRjNCQ29USGk4aTdyZUVNU3Q3T3pzRTFjRXR1SDhuTzhOYy1SaFhRdjJFOFJ4clV4bGt5ZzNPX2ZZUU5qWDBUcFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-26T13:10:00+00:00",
-      "summary": "It's not just OpenAI models escaping and running riot — experts show how Claude Cowork can break its bonds and access Mac files  TechRadar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,15 +105,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Sam Altman says humanity already in the singularity, warns of AI authoritarianism - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNFo0SWxVM2I0RTVvVDN3S01KOEE2ejBDR3hmQzJuaTB1a3U5cVp4UmMzc1o5MG5WYXN3bXNVOEo3SU14ZVk1OVg1NHlPNmJodEFvVjZ3Wng4d2tUcEVTNWtyVHlGcHVwWmMzYWxUdThjbjBuQ1FQajdhektfS1Ixd2pTWmdaZEwyRmk5VzgwaFhSSVNkcHpTNTVxV1JKeXpZMl9NclZHVTBhaXhQV0Z1aDNhSGtuckpwQ0hqcHVGNHM0Q0pLQzVFU0hJZzNrTEZFRzRR0gHaAUFVX3lxTFBEUzVHcVUyN3hNS1lGMm9YUkpRN2p4UEQ5WUdVdFhTR1U3ajVHYVhUaFFVNXNIZ0RCWWtiVmpIczJZeUxWZ2tPMkM0d09UZ3owdWktY21OQnl6OWkxaXJsMFoya2FvQkktQUVlMEx5ZERIUFo3VG02UmlRZWtDREx3R3FjakdmZmZrMTE1R3d5R09CdFMzVHRIRmY0VlFLaTNvUjRCdnBwUjA0cEhJLW9TYmRYMkRZMEhqSFpEVjF5VllCR1JQUXBNTHh0M2VCQ3JVb3RJX3JnV1Vn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-26T10:57:06+00:00",
-      "summary": "Sam Altman says humanity already in the singularity, warns of AI authoritarianism  The Indian Express",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "A runaway experiment in 1988 built an institution in Pittsburgh. What will this one build? - Technical.ly",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb09vMHoyYTJkeWlYY0FvalRERDAwMFFSMDBXd0lWd1gzNmlCTnN6bzJsd1BLTjh1WEtzR3hYaWxIa1Qxdzl2eHFRdFZuajM2Q2hqVmgzbXUxdUItVU14Slg2S3lMSEJ5d1A4UEpRNFpuaFlSVFhlYWVfQ1V1eDl5Vg?oc=5",
       "source": "news.google.com",
@@ -132,10 +114,19 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Retires GPT-4o to Launch Enterprise GPT-5.6 Suite - Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CM29MZmxzMWU0X24xazlCeTJjMEhYOEd2ZXRWT1k2MHZnWGZuMFluOEZqdmdNMGw3U3lWVXZERXJjLWdKclhla2t1amJfSmRRQ29Db1BOVmxyQmFuT2hwdHlkTThDRmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-26T10:03:08+00:00",
+      "summary": "OpenAI Retires GPT-4o to Launch Enterprise GPT-5.6 Suite  Geeky Gadgets",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "A former OpenAI intern shares 3 tips for breaking into AI - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjN214NWFpZE54Y2lkVGVWYldUSkttWi15dVBLQ1lFUE9xVDRUa1c0dXVwSDhacWtVNDZaeWhxRGk1X0J4cnhBUUd1UEFQWXJwU3ZTZFlKdk1hUG1pRXlPX2xuTGpWQWlSWkVPQVY3Y0N4RXhpS1dTNHMwUG40WWM?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-26T10:01:02+00:00",
+      "publishedAt": "2026-07-26T09:59:00+00:00",
       "summary": "A former OpenAI intern shares 3 tips for breaking into AI  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -195,6 +186,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Microsoft, Meta, Nvidia, OpenAI, and Palantir have a message for Washington - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRU9HcDZxSU13THpkYncxR0VweGg0dUEwYjk5OUZYd1RDWXp6UV9IYXcyc1liSk54WTdRWm5TNWNpVEhaX1Q5Smx6cW9VREs0TzlyN3VoTVp0MDNGdFlVekVXQ2JKVExhQ1VrblhZaXlOWWJYVGE4dE44bnlzMm9zb0VpRElOWlQxUTU4bTd2V0RKb3hPWXBGT0FTNXVrMEYxVG9wLU9zZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T15:34:00+00:00",
+      "summary": "Microsoft, Meta, Nvidia, OpenAI, and Palantir have a message for Washington  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI releases health bot one day after a man alleges ChatGPT almost killed him - SFGATE",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fcm5wMXk0TUVTdkZ3ZEdrRUdEcm15VlV0NzNhcDZGMHIwdVIzM0x3Z3p5MW1sTVRibXZWWkRzNGktaEw4aThXdGt4UVVmU1h4ZHdRblBVc1cya3dfbXk2Q1d1X1NUX2ctWUJfcXNKekF2blAydnZ5WWNoZw?oc=5",
       "source": "news.google.com",
@@ -204,20 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Open-weighted AI can 'strengthen safety and cybersecurity' and 'accelerate innovation', Nvidia says in an open letter backed by Meta, Microsoft, and OpenAI - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdi10ekF0MnFpOWUxZGFheDNMR0dBWkxOaWsxTG9wTHJHTFVoRE1iUXpKOFp5UTJOcWRSdUIxYWxQbG52YWNWSE4tS2FiYlZnVGlVTEFiU1VNcmpVMTdibFRNNWZQZmx5UmFpalVKTTJrUG1VaHIydzF2RWtadWh1WDlQVjJkN1JDVGxQcnVGUmZpWUltQkw3ajNpU283MkQ0dzhrWGVBYUZnX0RwU2h1VmliODRNajlzYU5ULWdLanhTWUp6WFBXSzRHa2NnRTJXUjFhVmVNaW8wLWRJMENJLUFoUEYxLUlDbWNjSHVIQkkwUlJQem1UWVphTTJyVWZNd3pGUWY3S0JaZnZwVmVOWVJmdE9ORDRIZ3hId2NhRW5MRUx1UnhSZTkyZV90aFNfWlY2aEJVU25jTVZzOEtfS1NCNnlWdTBUMHd1eVRmcVRtRUNMUktNWUxpUXhuUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T12:30:00+00:00",
+      "summary": "Open-weighted AI can 'strengthen safety and cybersecurity' and 'accelerate innovation', Nvidia says in an open letter backed by Meta, Microsoft, and OpenAI  TechRadar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI's Rogue Agent Went On A Hacking Spree That Lasted Days, Reuters Says - Engadget",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3dheGFSdFkteWhIa3hhS1FpVlVQSVpXcV9VLXJqZHZQY19CaTJhNF91VGphR1U3VlBMMnFiN2dQTXAyRGo0TldWV1JHMDFhdl8zcHg3MzBLTE9Ya1dnanNVQjVlYUVNZktFVWdpR3BLZDRJUlBtZW03UUk2NlVDZkpNam5fQQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-25T11:15:05+00:00",
       "summary": "OpenAI's Rogue Agent Went On A Hacking Spree That Lasted Days, Reuters Says  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened. - Live Science",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcVdPWUdmRUFvQjRla2xDNEhQVldiT1V3Q2YtcUd4TjUyU0pzOHZyR0xjTjJnOVh0WmJqT21xVmV5MHh1ZEktcXJLWkhSMDBNMGkzT0Q4M2ZLYTROSkVXSWZGVTlUV3hPdW5EY1N0TEdEMS1fYVg3T0E5WXgtWGVJWDQ4WjBrWmJNLWlBZUYwVEFTV0FlWXY1akllZ0RnRlhjRV9QVWV4TjR2djhLTC1RX2R5c193TnZGTWpaNGlkemE2WUhwNlZ5VnZFd0JNeThZSW1La0piSVhzM3RMMGl6dWxlWlA4MDJS?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T11:00:00+00:00",
-      "summary": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened.  Live Science",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
