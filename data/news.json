@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T19:36:48.962199+00:00",
+  "generatedAt": "2026-07-26T20:33:49.264222+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -60,29 +60,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHc3T0pmQllYYXZONzRuNF9nOG5td0FYWC12S3o1YlM4RVk4b0lwdjdfNjFwdkE5U3JmMWVScGw3bjVXc0h6VmUtQzgtTWdtcC1LbG5STVlpa2gwOXgtRzZCUlVhYlJPZ2xwekVCZ0ozMEFCenpWV3dqSnFQNWNqQUhFX0xiMzd5c09FNGI5dlVGVjdla2hRQ25yXzEwOTBBdm93eWF6TkRDZk9GaGZERUw1dXE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-26T16:33:13+00:00",
-      "summary": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Consumer AI Hacking Market Hits 63% on Manifold After OpenAI’s Hugging Face Breach - tech-insider.org",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zNUhISFBzZzVzQ3ZaMGViQWdic0I0cnVZSmVWbjc1NlBJTE5YaXJlcGxrb1hxTEU1Ry1wWlpuMFlyS2hVS2xod1l4VGdSb1hSUHRROFItZnAxbjBlakw2ZmgyZjFSMHlmSVNIS0VHeXYyVTAxR1Y3UmFSa0Q?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-26T16:09:50+00:00",
       "summary": "Consumer AI Hacking Market Hits 63% on Manifold After OpenAI’s Hugging Face Breach  tech-insider.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How the OpenAI-Hugging Face Hack May Affect the Geopolitics of AI Governance - Tech Policy Press",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTy1zZmtKSUFHbU5iQ1luOVdzeGJQV3NRbmF5RHFnYXBURjRFdlRNMWR2R2YzNUF5c2FCeWZCQkF1Z0xCMWtvcjhsSW5kd21MQzRia21OXzZkVGNsYVVSdE1nSTVqZ0dzVnVjOTBkX1lNbDZndkZYSWtUNmotQ21ja1dxRTV0eVUwbFZFMlVXU2dubFpZb1NpN0hvN3EzcTVVaVVN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-26T13:42:57+00:00",
-      "summary": "How the OpenAI-Hugging Face Hack May Affect the Geopolitics of AI Governance  Tech Policy Press",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -153,7 +135,7 @@
       "title": "A former OpenAI intern shares 3 tips for breaking into AI - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjN214NWFpZE54Y2lkVGVWYldUSkttWi15dVBLQ1lFUE9xVDRUa1c0dXVwSDhacWtVNDZaeWhxRGk1X0J4cnhBUUd1UEFQWXJwU3ZTZFlKdk1hUG1pRXlPX2xuTGpWQWlSWkVPQVY3Y0N4RXhpS1dTNHMwUG40WWM?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-26T09:59:00+00:00",
+      "publishedAt": "2026-07-26T10:01:02+00:00",
       "summary": "A former OpenAI intern shares 3 tips for breaking into AI  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -218,6 +200,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-25T11:15:05+00:00",
       "summary": "OpenAI's Rogue Agent Went On A Hacking Spree That Lasted Days, Reuters Says  Engadget",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened. - Live Science",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcVdPWUdmRUFvQjRla2xDNEhQVldiT1V3Q2YtcUd4TjUyU0pzOHZyR0xjTjJnOVh0WmJqT21xVmV5MHh1ZEktcXJLWkhSMDBNMGkzT0Q4M2ZLYTROSkVXSWZGVTlUV3hPdW5EY1N0TEdEMS1fYVg3T0E5WXgtWGVJWDQ4WjBrWmJNLWlBZUYwVEFTV0FlWXY1akllZ0RnRlhjRV9QVWV4TjR2djhLTC1RX2R5c193TnZGTWpaNGlkemE2WUhwNlZ5VnZFd0JNeThZSW1La0piSVhzM3RMMGl6dWxlWlA4MDJS?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T11:00:00+00:00",
+      "summary": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened.  Live Science",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjN1RTBRekZaUlVuVUtzZVlhSzJkVmY0NG8wMHlxU05hcVl3UEdETFVhR09FY09PSHdfZUNCaW9QQ1hwYUwtazBkWVpoeVZtNkY2NkJwd1hodUQ2UFN2MTRDRlpmcFZ6ZkFablktOTJTOVhCSXlzQXNuZTBDNGVxNURyMENuSUFacElGUnRMVXNoVU5RSUQ1YmtjaEdOTzBWTllZV3NiN2tCZkxKUklIbExUb2hKem9lNGh0WnpEaTQyWHBfMDBneGFrRU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T10:30:00+00:00",
+      "summary": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days  WIRED",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
