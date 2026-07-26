@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T11:05:32.927930+00:00",
+  "generatedAt": "2026-07-26T12:12:15.276453+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -78,15 +78,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's own AI agent hacked Hugging Face and the company didn't know it for over a week - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObVFielV6OXVvSVFhcEFqdW1IUkctQnlGbTBFTnRXbDRQYkVsWTVkVmxSTDA0ek9GcFRPaW5PM0dTSFBoN0hkaEdJM3VYWmtNYkFGYzdNMXhVWnV1b3FZVlprRVlqUFdGLU9YRk96OVdkV3hzQjVXZHBocFVzZFR6YkN2b2Y5RllKQmFMZkRTam85T0pOcFBSTEdZNS1EenhncnhTV1F4cEFpX1FxNG94V1ZLNXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-26T03:02:29+00:00",
-      "summary": "OpenAI's own AI agent hacked Hugging Face and the company didn't know it for over a week  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Chinese Open-Source AI Repels Rogue OpenAI Attack on Hugging Face - Briefs Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVk1LcGVwX0pzU2wwaDdSNm1YenJ5N0JZd0Z0LTlhd0RkRFZBcjlicGMwWG5lRmhPdGIwTGRJTWoyQTRuWlZuVHp0QngwYk9iUS1YN29keHgyU3B2dW5zenRudzF6YVNabDNLTnIxU1pYdDRHSVFadVNLLXduQmhIQXNxdFV3cFpmdTFZVzR6T2JJZw?oc=5",
       "source": "news.google.com",
@@ -105,11 +96,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI didn't realize its agent was responsible for hack for a week: report - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGRBakFaZ1VrUmFtbE4tWE1senhyNDBWdmZTSTlxMWFIeTRLVERrZFliYWZUekFLUHJXVWpfeFFUQWdOMEdkWFdnQVgzN090dWgtbVJQWko0NUUzVlkyUUptZ3dkTmJYVDRaQ2NYVlZfWU1fdWlYa2xNUllDVDdvSXVvS1FOYWFJQmVYdzd0N2k4LXVzS3fSAZsBQVVfeXFMTlhKVWY0SUw1dWE0YmM1ZFpWR3JIQmtSUVVUU1VvRUlyVV9lWTJ6UGJDbzlRRDQ2VmJSNXJSQjVJWGdlX0lrRjh4UEdUeE9BOGNQQ3NERG1uZEJLZWpqLVVTUjhPTmRLN1Q4RTNqTnEtd2ZOdG9UUmJRZW5KQ0xHbGNVOGVhek83aG5WT0c4LTg0TlhTTVVZR0lodlk?oc=5",
+      "title": "OpenAI models reportedly went rogue, fueling push for AI regulation - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EZUR6cDFEUzdiUndPaWZzN1JtaUlQd1d2OXEzckxYYTZSNFFCZERCS0MzMGRaQ2VYSExJLTRRQmZneFVHU0JXQVFwaTJaRktITnBvN2t3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-25T21:26:00+00:00",
-      "summary": "OpenAI didn't realize its agent was responsible for hack for a week: report  Fox Business",
+      "publishedAt": "2026-07-25T21:16:46+00:00",
+      "summary": "OpenAI models reportedly went rogue, fueling push for AI regulation  Fox News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -119,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-25T20:21:00+00:00",
       "summary": "Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T20:07:33+00:00",
+      "summary": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,15 +150,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Southern (SO) Secures 25 Year OpenAI Power Deal In Georgia - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3k0QS01RU9fM0hGUUxnWTU2QTlaY3d1cUFmQXFXYzdhX3NybnpnZ3FnZFFiZ2JGbi1tMm5IblVvQ2RLajFrZFAwXy15bG8zcGlVV0paNXRZZzZwbUMtTGFtRWJkTVRaNUFXR05mNm51VlJEYmhXdWZvMGtwUlJmNDdzTnA1VU5rOXd2d3FoeDNURjA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T16:08:51+00:00",
-      "summary": "Southern (SO) Secures 25 Year OpenAI Power Deal In Georgia  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Microsoft, Meta, Nvidia, OpenAI, and Palantir have a message for Washington - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRU9HcDZxSU13THpkYncxR0VweGg0dUEwYjk5OUZYd1RDWXp6UV9IYXcyc1liSk54WTdRWm5TNWNpVEhaX1Q5Smx6cW9VREs0TzlyN3VoTVp0MDNGdFlVekVXQ2JKVExhQ1VrblhZaXlOWWJYVGE4dE44bnlzMm9zb0VpRElOWlQxUTU4bTd2V0RKb3hPWXBGT0FTNXVrMEYxVG9wLU9zZw?oc=5",
       "source": "news.google.com",
@@ -177,29 +168,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGg1N0lvWXlpTm43VlhleE5IZmNpNDhTTWFZbzBnV1lUY1FCa212cl93ZkVtU00waTNFMnhib0RnaFl1MVBvZEpVbVVwUmlod1FMTV9Qazh4NjVVNThXTnZXN3U0RFBXU1Rwd3JLcjNPSjYxN0gzbzR0bkdUMmg4NElGRVVHZzdDSE5N?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T13:00:08+00:00",
-      "summary": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Open-weighted AI can 'strengthen safety and cybersecurity' and 'accelerate innovation', Nvidia says in an open letter backed by Meta, Microsoft, and OpenAI - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdi10ekF0MnFpOWUxZGFheDNMR0dBWkxOaWsxTG9wTHJHTFVoRE1iUXpKOFp5UTJOcWRSdUIxYWxQbG52YWNWSE4tS2FiYlZnVGlVTEFiU1VNcmpVMTdibFRNNWZQZmx5UmFpalVKTTJrUG1VaHIydzF2RWtadWh1WDlQVjJkN1JDVGxQcnVGUmZpWUltQkw3ajNpU283MkQ0dzhrWGVBYUZnX0RwU2h1VmliODRNajlzYU5ULWdLanhTWUp6WFBXSzRHa2NnRTJXUjFhVmVNaW8wLWRJMENJLUFoUEYxLUlDbWNjSHVIQkkwUlJQem1UWVphTTJyVWZNd3pGUWY3S0JaZnZwVmVOWVJmdE9ORDRIZ3hId2NhRW5MRUx1UnhSZTkyZV90aFNfWlY2aEJVU25jTVZzOEtfS1NCNnlWdTBUMHd1eVRmcVRtRUNMUktNWUxpUXhuUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-25T12:30:00+00:00",
       "summary": "Open-weighted AI can 'strengthen safety and cybersecurity' and 'accelerate innovation', Nvidia says in an open letter backed by Meta, Microsoft, and OpenAI  TechRadar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Is ChatGPT down? OpenAI restores function after ‘experiencing issues’ - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkpzQXhzYUlJSzkwc2pxbEFWU1VzcmtYendQeDhxVjB0UXBZcGRnLXVhemJUQ05Pdl9WX2ZVdGl1VU5wYk8tQ3ZJNWhvRXA5SEhlWUxNTjJuNy1VamNyV0wwZjVPbWVrWXY1cHBvelA0T28ydTdzMmp1U3ZHNGdYUDBnRDNZMl90cUt4bUxfNzZkUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T11:29:07+00:00",
-      "summary": "Is ChatGPT down? OpenAI restores function after ‘experiencing issues’  Yahoo Finance UK",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -217,7 +190,34 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjN1RTBRekZaUlVuVUtzZVlhSzJkVmY0NG8wMHlxU05hcVl3UEdETFVhR09FY09PSHdfZUNCaW9QQ1hwYUwtazBkWVpoeVZtNkY2NkJwd1hodUQ2UFN2MTRDRlpmcFZ6ZkFablktOTJTOVhCSXlzQXNuZTBDNGVxNURyMENuSUFacElGUnRMVXNoVU5RSUQ1YmtjaEdOTzBWTllZV3NiN2tCZkxKUklIbExUb2hKem9lNGh0WnpEaTQyWHBfMDBneGFrRU0?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-25T10:30:00+00:00",
-      "summary": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days  WIREDOpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress  CNBCEXCLUSIVE…",
+      "summary": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days  WIREDOpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress  CNBCOpenAI di…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches Codex Micro hardware for AI coding - New Atlas",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84c3g3a2hDclJ1YlZGenJmbi0tMEhscG1DSUdLb0Qyc20tSHZZdmlBdmw4cDF5YnJnTmZzRWZ2OFJOMkdvOC1NZV92Q2tTYTFXQ0NHNG1ieE13TTBIaVNPQTJVb3A4SlZnNzJV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T04:08:59+00:00",
+      "summary": "OpenAI launches Codex Micro hardware for AI coding  New Atlas",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI rogue incident a call to ‘do more’ as future threats loom, says Catholic AI ethics expert - OSV News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODU3S0ROaERPenhjSDBCOWNfYmhUbXNtU2lGT2Y2RW5taU5teVlDZGZRS29jcC1TQlRVV0VVdTJ1QllVYWVtcWdzQVBtNmtRU0VJYjE0V1QwTmJWaklpU1dDQnVXaHRBTkI5R0VFRDBGUXNGT00tV1JPMTIxX0Fsb3RwTEkxVFd0UjhyaUZ2RWxOcHlhTG5kRDc2YW9wanFMSGhFdnBwR281TzNOUXdGTWM0NnVheS1Eenc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T00:38:00+00:00",
+      "summary": "OpenAI rogue incident a call to ‘do more’ as future threats loom, says Catholic AI ethics expert  OSV News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-24T22:14:00+00:00",
+      "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
