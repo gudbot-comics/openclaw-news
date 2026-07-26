@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T20:33:49.264222+00:00",
+  "generatedAt": "2026-07-26T21:32:36.103417+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -15,20 +15,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Sam Altman says we are in the singularity: 'This is the moment' - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmhxWXJfLTZiZElFRUdkWEhxUXZ5UVExYVdTZ0xQOUZHaXlxS3dFNGhWMDZpblVvcHBJWldrV2w3Q0x0T2htQjMwTEN4Qkhnb21Pci1sSTY1bldwQW1CSThUN01TakZZTjQ1RkV5cFVKVk1Bc0w0RlYzLWtmSENfZHd1SlN1M0VURHpMQW5faGx3QTc2dV8xZ3NRUlY3TmFfYlp2UE93cw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-26T18:04:22+00:00",
-      "summary": "Sam Altman says we are in the singularity: 'This is the moment'  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Nvidia and Microsoft push Washington to protect open AI models - calcalistech.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrN0E0NHI5bk4xb1ZLTHUxcGdDVjA3bXJuZ2VPRGFDU3hxQkpadmhxbTdGc1BEaUhyTFRNeXEtQUJvTmtGUjdHcFR3YkFqNExZTlRyZFJ3cHdLZENoNkN5blpkbUNkOElX?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-26T18:03:00+00:00",
       "summary": "Nvidia and Microsoft push Washington to protect open AI models  calcalistech.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman says we are in the singularity: 'This is the moment' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmhxWXJfLTZiZElFRUdkWEhxUXZ5UVExYVdTZ0xQOUZHaXlxS3dFNGhWMDZpblVvcHBJWldrV2w3Q0x0T2htQjMwTEN4Qkhnb21Pci1sSTY1bldwQW1CSThUN01TakZZTjQ1RkV5cFVKVk1Bc0w0RlYzLWtmSENfZHd1SlN1M0VURHpMQW5faGx3QTc2dV8xZ3NRUlY3TmFfYlp2UE93cw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-26T18:00:00+00:00",
+      "summary": "Sam Altman says we are in the singularity: 'This is the moment'  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -55,7 +55,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YTlh3aFc5cDF6UGhsQkREUk5mQ0ZjNUtqMHZhcFFUc1ZFc1hUWjBBc0hhNkc4UGMtLXFPbmpFRDVnQUpXbXNuN2VUSmNjSWdCblhlMlZYMlZQTlI3SlpuZE1XOXJtYzU2SlI4MWFDYkJtMzlkOGpNZ1I2LUc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-26T16:45:31+00:00",
-      "summary": "OpenAI agent went rogue, escaped, and hacked Hugging Face  Mashable",
+      "summary": "OpenAI agent went rogue, escaped, and hacked Hugging Face  MashableHugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack  TechCrunchOpenAI didn't realize its agent was…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,15 +87,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "What OpenAI CEO Sam Altman will tell the White House this week - Axios",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2S3B3VmsxZHFGb0w0OHRUOEh2ZG0yNTUyeTh2ZzJHT2lNTVdsMW1ZblVKbUE4WnYyYnlLR3Q5dEVmM0JFRnlvSUQzRklXMXdmRWRuU29hdnZaQlZHM1lmZS1zUlJlaFptd1dyckFkSXNrU3hRRnhXNVpGeXIxRXM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-26T13:01:53+00:00",
-      "summary": "What OpenAI CEO Sam Altman will tell the White House this week  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Agent’s Hugging Face Breach Turns Autonomous Cyber Risk into a Regulatory Test - EU Today",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BT1pQLUJsZnEwQWt5RUhBVDBnb1U2cGlSTFpXOWVMNGpxSFZPVkhCeXZKT2dSa1Zna3REb0U2SUFzMTdzMERGWVhJbDRfYmFXRC1QbDF4X0g5UzhPdWloa0VKbU9tYWt0Sk9fck9uWmM2QTFkR1E?oc=5",
       "source": "news.google.com",
@@ -110,6 +101,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-26T12:40:54+00:00",
       "summary": "What is the AI Kill Switch Act proposed in the US and how will it work?  Al Jazeera",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What OpenAI CEO Sam Altman will tell the White House this week - Axios",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2S3B3VmsxZHFGb0w0OHRUOEh2ZG0yNTUyeTh2ZzJHT2lNTVdsMW1ZblVKbUE4WnYyYnlLR3Q5dEVmM0JFRnlvSUQzRklXMXdmRWRuU29hdnZaQlZHM1lmZS1zUlJlaFptd1dyckFkSXNrU3hRRnhXNVpGeXIxRXM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-26T12:39:50+00:00",
+      "summary": "What OpenAI CEO Sam Altman will tell the White House this week  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -195,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI releases health bot one day after a man alleges ChatGPT almost killed him - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fcm5wMXk0TUVTdkZ3ZEdrRUdEcm15VlV0NzNhcDZGMHIwdVIzM0x3Z3p5MW1sTVRibXZWWkRzNGktaEw4aThXdGt4UVVmU1h4ZHdRblBVc1cya3dfbXk2Q1d1X1NUX2ctWUJfcXNKekF2blAydnZ5WWNoZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-25T14:01:45+00:00",
+      "summary": "OpenAI releases health bot one day after a man alleges ChatGPT almost killed him  SFGATE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI's Rogue Agent Went On A Hacking Spree That Lasted Days, Reuters Says - Engadget",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3dheGFSdFkteWhIa3hhS1FpVlVQSVpXcV9VLXJqZHZQY19CaTJhNF91VGphR1U3VlBMMnFiN2dQTXAyRGo0TldWV1JHMDFhdl8zcHg3MzBLTE9Ya1dnanNVQjVlYUVNZktFVWdpR3BLZDRJUlBtZW03UUk2NlVDZkpNam5fQQ?oc=5",
       "source": "news.google.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-25T11:00:00+00:00",
       "summary": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened.  Live Science",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjN1RTBRekZaUlVuVUtzZVlhSzJkVmY0NG8wMHlxU05hcVl3UEdETFVhR09FY09PSHdfZUNCaW9QQ1hwYUwtazBkWVpoeVZtNkY2NkJwd1hodUQ2UFN2MTRDRlpmcFZ6ZkFablktOTJTOVhCSXlzQXNuZTBDNGVxNURyMENuSUFacElGUnRMVXNoVU5RSUQ1YmtjaEdOTzBWTllZV3NiN2tCZkxKUklIbExUb2hKem9lNGh0WnpEaTQyWHBfMDBneGFrRU0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-25T10:30:00+00:00",
-      "summary": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days  WIRED",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
