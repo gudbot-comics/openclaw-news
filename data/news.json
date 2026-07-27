@@ -1,10 +1,118 @@
 {
-  "generatedAt": "2026-07-27T16:31:12.600643+00:00",
+  "generatedAt": "2026-07-27T18:09:37.677400+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI and Nvidia Discuss $250 Billion Data Center Funding Deal - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUg0WkV0SDlOY2V5eTRidC1USEZ3bk5hQUdHSktZWGtoZkFMSGRaZ2tiLUdVTXBBZE5QdHpMRFZtTTBTaWhEblJPdEloUnphOEVKQ0VKQzlsR05NQjlzeGJJZllONmpmdXRPdkY4M05xY1kzV0RmX2xPTzNQWk0zUjRBNzIxXzRyWUFROWk5UlpDcUZKLTdWQXVfTk4ySlhRYW1XWHZ5YTZSc202MDBiQU1KZjEzdkZQNnFxUA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:46:34+00:00",
+      "summary": "OpenAI and Nvidia Discuss $250 Billion Data Center Funding Deal  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "NVIDIA Stock (NVDA) Opinions on OpenAI Financing Plans - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUQxcFNJTFluSmdRYjNLWjN2MHJPR2U5R1BUemN5SW8wQmxmQndrcWw5U2FxcWhUVU1GbnRQdlBwTnlKSjlVSTljYVNDOGpwWVAxUER6NEhrZEJuSUJLODQ2X2pmemswMlpmbUZvVjlHVzk4VnVxV0FxejVWM2ItRzhFeHNDTGd0dUdTQi1rWnpjdVlqREE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:33:00+00:00",
+      "summary": "NVIDIA Stock (NVDA) Opinions on OpenAI Financing Plans  Quiver Quantitative",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXFNTG1IS2JkSThkaWkxX2N2UVIyM2RqTEhkQjAybnVVUmRXSER4SkxSRi1PZWtueEpSQldBd0xpbzdqZzUwSkpuUU9YTVJFUnBkUTJUbG9KeXlEajNkd2NxV1pzSTVRbV9PVEVxdTIzeFJkdFEwNDlDQjJNbzBpckp5Sk5nMEdZdHplbXNFalFDbE1pMGxSbG50N3F2aGtndWx1TEN5WdIBrAFBVV95cUxNeGlpWjRLQndUSmJ4VjdQTGFtSVFCOVZKMzUxTVBWSGhtdXQzeGR6Z2RTSWtpcVJDQ0V6QkVDUElzT2sxYkQzYzkwUmpaZDBLckhvYWdJZW1PWHgtLUhCN1hVWWE2MnNHVzNFNlBvZWFUQ2tuMDl2dzVSekVRTmtTREVnY0hvbW5XbWVaVDM2Rm11WU1LRnZrN2Q2bEdvQ204TVF2Q3ZlQjk0VXBo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:32:53+00:00",
+      "summary": "Nvidia and OpenAI in talks for up to $250 billion dollar backstop to fund AI infrastructure plans  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches Health In ChatGPT - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yQ0lfZ1F1T0cxLVphTEhHWlBIM0RENzVPSGluWUJnZkVybjhGcGhyUC1xWndmbTJYa1RBRTkxalNOSTROaGNudkhKT0YtLTFPcHVzSVNZQXdCdlhwUzUtX1dqa9IBaEFVX3lxTE1RZjRuQ2YwRzFuUTl0UFBDczMtbVRONzFiUlp3Q3hNSWRNeFhmNVRBeEl0ZUt5cU4zR3E0T2pqWk5oeVRmNzVRUzlPMWhLN2pSVGtfd0RyTjFPWUJsQjFJcWJqdnY3Sl9j?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:32:41+00:00",
+      "summary": "OpenAI Launches Health In ChatGPT  Pulse 2.0",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Autonomous Attack Marks New Era of AI Threats: Fortinet - Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSUFtV1dNd056ejFmUlEtLVpndFpaZElOYVJ3QWw3WWF3RmtFc3B3WXpPUXZxVThWYVdMNndCN3JvbHR5NW1hTW9CcnRRakJCdkdWejVnWGg5MnVXbldCS2E0NXJWMEpqQ2xHVHN3aHB6eUZSLVM1XzZmcjFfOTZDaEhFRndEdjdKZW9SZUNwTEFkQ0FTdjhKVlhjWl84RWloal9ERDZMY3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:30:22+00:00",
+      "summary": "OpenAI Autonomous Attack Marks New Era of AI Threats: Fortinet  Mexico Business News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sources: OpenAI didn’t notice Hugging Face hacking for days - Lee News Central",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLVpQdzdHSXdKTFM4Q3FNTXlvb285cUZONDdKSHhHYkEtWk91YW9CR2trcGc1QlB1d21SeGNGYXhkRmRXYVhoN3lNZUVHS2MtUDhfS25LWE4xMmlOUklYWXltb0ttOVYyMDlQQjFTVTlydTkxbHRlV2VZU21MTUwwYXF6Tm9yZFp0ckxYeUhKSjN2aEw1QWp2QnptN01CTTBuTGFQSV9iM0lkUlNTOFNSTTBpNmtFa1Z1RDB2YW1aZDRDMW9XRDdNY1hHeWdZZXhYS1p1V2Y4WE5Dc3EzUU8xaWNlQzlQcGdGNVVGTg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:30:00+00:00",
+      "summary": "Sources: OpenAI didn’t notice Hugging Face hacking for days  Lee News Central",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sources: OpenAI didn’t notice Hugging Face hacking for days - Arizona Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRno2U2pMS3FvU3BkVV83OFVnSUVPR3gwWHo2VTZtTUo1emt5blQwdVpTQUM4aHRyYlQ3TVMyVHhrQi1IUmxxY2ctclFtOTM4b1JMWUVLczAyYnUwQVhFSnV1MDRsMUc3Q3QyektWWGtuTUFrS0NxNDQ2SGNmajFsSW5BLVluUDlQeEhYSGR0UnNhVC1zOTA2YmJqaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:30:00+00:00",
+      "summary": "Sources: OpenAI didn’t notice Hugging Face hacking for days  Arizona Daily Star",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI singularity is here, OpenAI's Sam Altman claims: Technion expert says that he may be right - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUtrNFJkc0t4dmdZYkticEtTUGlxWFkxbTM4dkNqMzlRUGNvaUg0cGk1S2hneGxkWjk2TVY4TVc5Y2Z4aDB2R3BrNllIdGVrYUtCLXYzQVpBa08zLUs0Sks0MWFlN29hUWRhNHRNMnBILUl3OVdWTUlrTURtN0JxeGJTNHZuUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:28:47+00:00",
+      "summary": "AI singularity is here, OpenAI's Sam Altman claims: Technion expert says that he may be right  The Jerusalem Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman claims AI singularity has arrived - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelU4cDRWSmdDVFdIYXJXSjItVkZtcTRjLXhmSDB5YlI3LVM2cTUtLWtETG9VV3ZiYkJMR2M3VEZid0NZY1lSUFBDS3M1YkJZYjJkYi1uR2NuT0JJZHB4R2I0OXpEQmtsOEFMZFpBSE1OaHBlTFFwR0F6c2tGb2dNN0syQjFyUFdsNGpBR19TTkdWc1pxWFRHVG4wdGJfQXFy0gGmAUFVX3lxTE1DMTlTbUJYTUhfeUZLVlVTLTYyeDltS2IzQ1d2dVNjN2JGdnFHYTZWaUdOOXNNUzloMEhZdXFBNnpIS3dWcXlaLTNaa1VONHg0TDJNR1djTng3LWd6T2hSbnB6aEluX2d6YnhKd3BZRHlpTk03WDdaSnEtM3lraUdzS1RZaDh5dTc3VXpOeVZTN2QyMFdEMmRGaHFKdXRaWndLdWZyZHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:22:07+00:00",
+      "summary": "OpenAI CEO Sam Altman claims AI singularity has arrived  ABC News - Breaking News, Latest News and Videos",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to build massive data center near Savannah - Gwinnett Daily Post",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUXAyZmNzNkNCZ2REWTFvdHh5UDdDS3V6SG92eEZ1RG91bVlIN2l3Q1pkQW5aZ21vY1JHbjM1azVfMHBPMU9nWVZpcUk2SUxqZkw4MndjbG40V3N2V2tDa1ZSemRPZVNFOEVKWkc5TS0tQ1Voa092cUxaTDM3ajktVWg3NmxKcHlNa0tvNHlVZmF3QUt2Y0lXU2MyamFQVjF0bkZldVhfVG5OSEhfMkZGbm11cnZVcXpvdjZHYW5hamxYVC1oanIxUUNtdndzZ05Gb21mOQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:18:00+00:00",
+      "summary": "OpenAI to build massive data center near Savannah  Gwinnett Daily Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Will OpenAI’s $500 Billion Data Center Be The World’s Largest? - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUFlQ0I0aFRmNHBXTnVTbFBZcFdSNFIyZndXdW5MaEtKbnFvLTBRUFJ2aG1ENjd1OTVIUzZUcTk0RndxVlQ4QTRfekwyR09RS2c1Y1BKVjRTMlZjd3IxWU1ZaWE2MzVieFY5dlhOM3dfWFdTQ2licUpTMl96eXVmV1lnUUR0WElUUVJrSkw5Y1liMHlIU0xmR0dKOG41djdXU29aVnpQTlpLekFDVFItWEJ1OEJRd25fOHdjcm9wYTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T17:17:00+00:00",
+      "summary": "Will OpenAI’s $500 Billion Data Center Be The World’s Largest?  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The AI giants’ new problem: open AI - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0t5UEZhbHNyTG84LW1obTh2VFFRNHlYRUNyQ0h4V3RFSnBzNTd4ZjFvYUIwenZKa0FnMER3ZVhWMGczdUwyTzk0VnMyMWxMcXo5anM5SC0wUktjNlBkNTZtb2JTcTI3dDRoamFqVWJIaG02NHpZeHNGdmtWZHc0VmdvNjRoRHIxWGxRTEhnZG9hdzYwTUdqX1E1MVJTdzNtV2ZDRDhxYTA5WkpETDJsMnFn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T16:51:50+00:00",
+      "summary": "The AI giants’ new problem: open AI  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Tech giants link hands to praise open AI models after OpenAI - Hugging Face attack - The Register",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcHFsVHFiVFJtMTVNdHZHZURmT3VkckpDWkYzenVXTXNuVzdab0liek1jSDV6dEFiUWNqcTVNRk9mSUV5TDJKQWoweGZSU3pPTlhFb3lOSFJDcFZyMmtuRVdtOHlCQ0MybW5hTjJqUURUbm0yekR4OVBZSWkxb2tFWm9hWi1nc1JUYTd2Z2lpVGsxWlo2RUh4WWpUZ0Z2aUdOUHhSSTVNd0wyWldfM1k3dXh3VDhqclU3ZEZZTFJBRUtZSjFtREZUa2pma1dCaFdhejhn?oc=5",
@@ -33,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Sam Altman claims AI singularity reached, Technion expert says it is possible - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUtrNFJkc0t4dmdZYkticEtTUGlxWFkxbTM4dkNqMzlRUGNvaUg0cGk1S2hneGxkWjk2TVY4TVc5Y2Z4aDB2R3BrNllIdGVrYUtCLXYzQVpBa08zLUs0Sks0MWFlN29hUWRhNHRNMnBILUl3OVdWTUlrTURtN0JxeGJTNHZuUQ?oc=5",
+      "title": "Nvidia reignites \"circular\" financing concerns as it weighs OpenAI deal - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXFqemdvNkN2SkhMVEY0bTNCb2VUSGRRZjhIX1N0ZV9JMXZRX0k4N2VBYUc3UnI3bl9hTjFsSV9nQmdnOG5VVTVlTGlsd2p2NTlIcklZekJfMElMRVJhOUM3MFNOSlRnUEUwcTJiQWVCLXVGbVloUmIwSGVDbWk1UDR3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-27T16:07:58+00:00",
-      "summary": "Sam Altman claims AI singularity reached, Technion expert says it is possible  The Jerusalem Post",
+      "publishedAt": "2026-07-27T16:05:10+00:00",
+      "summary": "Nvidia reignites \"circular\" financing concerns as it weighs OpenAI deal  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,11 +159,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI Stocks Crash After NVIDIA Plans to Finance $250 Billion OpenAI Buildout Are Reported - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHdnbU82UC0wUWNSbXZac1g3bkEyTXRkSm8xVjdieXlSTXBxa1JSSHQ0aGF1TGZjdkdXRTFvdmFTbFJvRUo4c19pNlJsSmpoSUhYNHFRaFFtWWFIRklMUllXSVZGVlhWdVNDc0FYRFVJeG8yek1kRlFtQmVPeDBYakE5SS1GT0FKYzBLWURLNEtnWW9IZk5Mbw?oc=5",
+      "title": "Decision Tree Research CEO Gregory Allen on cybersecurity risks following the OpenAI hack - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbG1ERC1WVzJWcUlZajg3azdoSXNTQnNlYjBfRFZ2SmJVOHpyeDFTZmQzOXVQUTBVUTVEb25OZEMxYTJEcHRFUUhDMVhWdy1CS0dCNDljSFJzOE1GZ3k2RjFseU1TczlxZzFaeUVBYnRVMzFnTWtGTHJLT05pb1RNb0ZtWUd3RE1CVm9SZGM0X09nQlBNOWhBbnQ4eVdSVDJJZW93NUljMkZTUkt3QzFFZ1pYVTctUQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-27T16:00:49+00:00",
-      "summary": "AI Stocks Crash After NVIDIA Plans to Finance $250 Billion OpenAI Buildout Are Reported  Yahoo Finance",
+      "publishedAt": "2026-07-27T15:52:16+00:00",
+      "summary": "Decision Tree Research CEO Gregory Allen on cybersecurity risks following the OpenAI hack  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI announces new EU HQ and 250 additional jobs in Ireland - IDA Ireland",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmtLaWhqNngwWVRDQzJFY1FGdGhGQmh2XzFOc29nWHZwcFhDOTRUYmtydHBndHdFWE1GVTRwa1hXYjNvY2daWGYzOUJpVUF2aDcxYkMtWmt0ZmFKRlFINlozaS1leHZIbW1mVlZnbG5PbzN3Z09kY3h6MWhmQk1XZWxTQS1JMTVJOW9Yc2ZqM25QMGZEQWdPaXVJMEl2YTlJX1dIYVZn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T15:46:59+00:00",
+      "summary": "OpenAI announces new EU HQ and 250 additional jobs in Ireland  IDA Ireland",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,20 +186,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Sam Altman to meet with Senate Intelligence Committee's top Democrat - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1psLUVxRzNrMTdGYk5zVGJVZ21NNmd5d1BTMkc4UDltYlhzUlpnRXhocDFHZUdfbzBCcmpmUTJYTHJ1cmNBQXk4cVFJbjFnTGN5SllmdXUzSGJXY3ZuWU92UVU2eHpJUTRSaDB0YU9ueFFObHdPQm5FT1VxRDBPXzR2aWgtQQ?oc=5",
+      "title": "OpenAI expands ChatGPT Health to all adult U.S. users - TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOXNjaVIxYVhSVlR2LU1kc2tOakxITk8za1VteENkSkxJTHYxZ0ZBUjVfTWFYNTBWRDFKaTBpNEpudGp0UGpFRUFnUE5rNk5sMzRGS3BJdWkxeno1LWtvd0dvY2tBRGlMM2tmQUtVMFF6UmZtXzU5RmhCTWJxalJUNm94aTJGNDlZcXVsZkpRblNPcEwxYzUxT2JrazFBZlBQZnh6dU5ncHR6ZGRWOUJpcQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-27T15:46:06+00:00",
-      "summary": "OpenAI's Sam Altman to meet with Senate Intelligence Committee's top Democrat  Yahoo! Finance Canada",
+      "publishedAt": "2026-07-27T15:45:00+00:00",
+      "summary": "OpenAI expands ChatGPT Health to all adult U.S. users  TechTarget",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI expands ChatGPT Health to all adult U.S. users - TechTarget",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOXNjaVIxYVhSVlR2LU1kc2tOakxITk8za1VteENkSkxJTHYxZ0ZBUjVfTWFYNTBWRDFKaTBpNEpudGp0UGpFRUFnUE5rNk5sMzRGS3BJdWkxeno1LWtvd0dvY2tBRGlMM2tmQUtVMFF6UmZtXzU5RmhCTWJxalJUNm94aTJGNDlZcXVsZkpRblNPcEwxYzUxT2JrazFBZlBQZnh6dU5ncHR6ZGRWOUJpcQ?oc=5",
+      "title": "Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakZzU2xndmtLSzM5eU9TYjl3M0txbnNVNnVPNHdrRDhSVWp4MmlCd2liOGxrVVAxaWRjTDVjemtzcC1TaHlVbWdjWWZRVERxcGZ6Q1J6VjQ4T1FIU1FINnNVWFdFMjRJYndEeGdsTHNmT2I5WG4wMGpOVG9WOE5Sdkw0aFRQeWs?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-27T15:43:41+00:00",
-      "summary": "OpenAI expands ChatGPT Health to all adult U.S. users  TechTarget",
+      "publishedAt": "2026-07-27T15:43:00+00:00",
+      "summary": "Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock.  Barron's",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,128 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia Leads Defense of Open-Source AI With New Cybersecurity Initiative - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPajJwVi0yQnhvbWlIdEswc2tQM2twOFZqZUZGNHNWS2d1enUwd1NWSEdkcUU5MGY0cEhWcHJhTGR3NGk3aXVsYmthdS1iT0gzVURQajRHT0R4RkRQelhIdElTVkxOZEgzdXhmdVFsOFU4UGd1YU5wV3MycVA3dk5aRmY3YzVwLTQwTW02SkhyaGpsMHFpUFZQU3U2NUlDWWFUWnE3Z3RkRXhac3RzQWRTSFFLQ0FuQlRuT2htTDlFNA?oc=5",
+      "title": "OpenAI CEO on AI surpassing human intelligence: 'We are now in the singularity' - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUUwwcWU0b0g5WXdSQVBuMVB5SGN6dmZrX2ZuSXlWSVJmV2loQnl6czRSbjAzazJqMEZWY1lrOVVXdGVKZzdxWFBHQ3FlTXF1ZVJlR2RSY0kzbmp3MmVjcWhVVzJzSlNJQ0F4cUZYNElMRC11V1dWWGpFand0NkNMRTA3TDBHTzc4TW00U0ZpUHVOSDEwWHlxdllwUkZGaTdNQmlHRHhRbEpMXzdHcS1OdmkwY2dJX0xwRndsU3RmLS1VY1I4Sy00d2cyMDZxbXY2VmFIZkNVOWZVS1BkWVlsMmRhclltR0d0d0x4Vkk4Y1lhLW5EdDNlQV9kMGRydDJSYnpPX0lUYWs?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-27T15:30:54+00:00",
-      "summary": "Nvidia Leads Defense of Open-Source AI With New Cybersecurity Initiative  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tech giants form alliance to put open AI in cyber defenders’ hands - Help Net Security",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UOFJxWWV5YXVxdzlpMXo4ZERrbTdaakYzei1NMTR5YU1fcTNidHZLU2FYSkVBZWdpSm4yTmZxZE9ucEpzNERoSTM4YlMxRVdEXzZLcjhSNEt1dDdBeEw0QUMtX2t6ekJlTkc4Mkx1bHZwN0dyR3pFeEJkS21XNGM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T14:43:10+00:00",
-      "summary": "Tech giants form alliance to put open AI in cyber defenders’ hands  Help Net Security",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iUFV0dFc4SG92VDZ2QXgyenpqWUV6blU5RFB5NWpZRnUyY0xDRmZFa05MdHg0d0pWU2VlSkVRNkhPVXk4dWx0anhHU3BYRFJOV1pYbUJLVEtuZFdmNFU2QXNKNDZ3eDV1SG05R2p0VGU0N2dpcUxKNTZ30gF_QVVfeXFMTjM4TFdCdHRJNGptTXoxYnpoRmQ5WjJFOGdpZkpFOW05aHd4SnFoZUFSSUl0cmUwVGtlaUdKbzhkRUcwZExBdHNaTnJyeDRkOEluMjJJWjVZdjk3by1yZGlldUpKUnNRalgxQ3ZCMF9IbmNDWGFmVS1lQVgycDliQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T14:20:15+00:00",
-      "summary": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Is KimiClaw a Useful Tool? - KDnuggets",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aYW8zV2pmLWpsVmtGZDRYMTRpQzBCQlIyNVJsb2Rfa2JsMmJmeVlGbW1SRmVqcFc5cF9ZbmhYOXl1emR0NDZLRmtEZkFfTGxrdFJqMkRqMDRSSV9Md0JqQw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T14:12:20+00:00",
-      "summary": "Is KimiClaw a Useful Tool?  KDnuggets",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Nvidia Forms AI Safety Alliance Following OpenAI Cyberattack - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONE1wXzFMbTZ3S2RtNXVkakIwaHdyWDZCRHUwQ2J4elJ4dVNxajQ4T2JRX3ZYazZvcHBzRFRBamppdHFHdXg5d2pDemVoWjhheTBoNnZNRngyZGZtNmtvcktXdWViSWdURlVCWHZSMGdYSXVFT0tkYUxvQWgydVoxeHFqTUprbnpSclBoazJIUnpGVUdoMFJNSHFoM2lpSGlpX3pTcHl3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T14:01:33+00:00",
-      "summary": "Nvidia Forms AI Safety Alliance Following OpenAI Cyberattack  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakZzU2xndmtLSzM5eU9TYjl3M0txbnNVNnVPNHdrRDhSVWp4MmlCd2liOGxrVVAxaWRjTDVjemtzcC1TaHlVbWdjWWZRVERxcGZ6Q1J6VjQ4T1FIU1FINnNVWFdFMjRJYndEeGdsTHNmT2I5WG4wMGpOVG9WOE5Sdkw0aFRQeWs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T13:56:00+00:00",
-      "summary": "Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock.  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "More Pressure For OpenAI, Anthropic, GOOGL? China’s Latest AI Sensation Kimi K3 To Become Open-Weight - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTUdLQmxWQTZJVHNGMEh3Y2x4b3J6UFpjYVZUXzlreE01Q2Z2S0F2WmZLMFQ4aFN2MUVhRGJJUDVVMDFrdVlsSW5qVG9sTEpEb3g3WGNnWGV6NFd5QlFuckNiVERlemJmbk1xbV9iS2o1bmE4Y0twazNYZWxEeFI4ZklHWmpQZXcwbzVqeVA1UWtJSDd0RGp5T1JIMzhEd1lkdlJwVUdoZjFfeFNkRUJYWS1kZC1jVTV6TkdfZTRwVnptUEU3T0Njc3JvOVh0RTZaSHExa0dSWHExUmswdWM5Vmo5Vk4tbVhGOU8tam9rY2E4dFU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T13:43:55+00:00",
-      "summary": "More Pressure For OpenAI, Anthropic, GOOGL? China’s Latest AI Sensation Kimi K3 To Become Open-Weight  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI picked up a Morgan Stanley MD, for private equity things - eFinancialCareers",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HUWJXMGdOakg3V2dXbXhKZTdreU5BZlpEbHRpZmpVenFjQkRxVjZFaFRzQy11c0ZXSzU5blhpM3RabVEyWG16WjN2Z2Z5MUpxamxRVVQ4VDZhdi1WcFJkcG0zVUJZMXRT?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T13:38:20+00:00",
-      "summary": "OpenAI picked up a Morgan Stanley MD, for private equity things  eFinancialCareers",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia Forms Open AI Security Group in Wake of Hugging Face, OpenAI Incident - Security Boulevard",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1ZKSnJGN0VKZVl4Q0JNLUc3RXh4N0I4Q0lRSEtrUVBFSWh5bHNxbDVHRU9WOVo2dmFYS3dzT2p5eW1KZ0QwTlJibUFTYWZRQXQ2LVI3d3ZxRjNvUGlPNmtGYUQ4QjlQTW5nRHg5NWdtcEpWYUpvbE9tNHd3UlRPbjNKeTB4VFBiN2Voa1p6M1VndUNPTGd5Y0tpU1J5bzV4VnJOMkxBaWZiMGVzai1jQ3JzR1Q?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T13:31:05+00:00",
-      "summary": "Nvidia Forms Open AI Security Group in Wake of Hugging Face, OpenAI Incident  Security Boulevard",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUQ0ZF9NSGRLenFmVnJSSUVGcFFpRDZHR3JITXc0RkV2cVBBOXBYUGRUd3JFelJDa0ZPX2hrTEx2Uk5tVUhqNmJBR05pRzZtUDEtRWZ0R2pJUXhjaEc1Q2NDaWluZzNZOGY4WnNDaFNrbEF1U2xJTVcwYUVVc1EyY2ZMOTh0Q1JqazN1eVl4S3JDNTNfMVB0cTkyc1hjNExfYXp6b0ZxemV4eG4zdGMydFpMcGJrS3hSNElF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T13:28:54+00:00",
-      "summary": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google  CoinDesk",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CoreWeave and Nebius gain after report links Nvidia to major OpenAI infrastructure financing - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzhRTjRtOW1FT3dlQmJDN0t1dGJNTDdCVU9naHRfd2p3LWxMaGJtSHIzN2h6Uk1xUHg2OVlFQm43cEhTQ0EzX01jOG1BeEVUSWUyNGZkMF9PeE5qZl9IdDRZYlVEVF9DclRQZlZjODhaWTZzdUM4ekNyZXhPaGtITlpEdEhvcFVoR3VwNE9IYUVIOXNYRVk2cFFmVE9yc2s?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T13:27:11+00:00",
-      "summary": "CoreWeave and Nebius gain after report links Nvidia to major OpenAI infrastructure financing  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CRWV, NBIS Stocks Climb – Nvidia’s $250B OpenAI Guarantee Is A ‘Constructive’ Signal, Says Analyst - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUZQWmFQeUFjSDJCUkRQUlEzLWwyN0hhMWUtRGdNNHNTcVkwUVRHUEpUZXAxUG5zS2YzQ0FERTdtTXM0SnE4NjM1QndheV85a3NZUEFBT3FBVzEzV3RUTG5id3ltZ3hWX1NTdWtQdWkwdmlGckZuTzNiM18tV0dhNzhhUjZUTHoxbUZrQ2RsSDdJUTBlUXViSmNtNjIwaHBWS1lRYzNwMlI4cGFKOFdzN2hnUEdxUk9pWXVVeHhXa1Q?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T13:26:52+00:00",
-      "summary": "CRWV, NBIS Stocks Climb – Nvidia’s $250B OpenAI Guarantee Is A ‘Constructive’ Signal, Says Analyst  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia negotiates record AI financing deal for OpenAI data center - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYXhJUHRTVE5kV0tLR3BGSndWNWZEdVVORnpMY3Nna1hJeDZvbkNKTGlhdE9TeXlMczY3TWE0aTJCcS03Qm56TWtpR3JqVHhoN1NZbzhLcHZJMUlPRUZsOVM4elhETndaOFBiVjNRNDZyLTJKR3oyaXhLYnlzYWtTTzZUcWVuQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T12:55:00+00:00",
-      "summary": "Nvidia negotiates record AI financing deal for OpenAI data center  The Jerusalem Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "News | OpenAI takes one-time TikTok-favoured Dublin offices for European Union headquarters - CoStar",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0w1bWl0UnMxeHJnZW5tLVdUc0ZRN2pZX0FkZ201ejBCcHctMFNpNmlJbHAtRndFZVpMRkZEX0JmVTMzYmJhXzJVQjFLb2VkRHV2cjZtZlNiclpDb0hmZG1TeDAxUC00c2ViR0dTc1pPVXNPTjZnS0w3c3FjcHNtSTNfWFRxZ094SEM5ZWJ1eVJGZndiR1lYTXFlSV9oSExzSFFSX2RSSEtYRDVrdXgxVzJaYWF0aXcwaEpPRDFfR29LVWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T12:41:50+00:00",
-      "summary": "News | OpenAI takes one-time TikTok-favoured Dublin offices for European Union headquarters  CoStar",
+      "publishedAt": "2026-07-27T15:30:00+00:00",
+      "summary": "OpenAI CEO on AI surpassing human intelligence: 'We are now in the singularity'  Central Oregon Daily",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
