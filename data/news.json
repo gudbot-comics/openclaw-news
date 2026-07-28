@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T04:07:11.151822+00:00",
+  "generatedAt": "2026-07-28T06:37:17.085474+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -9,8 +9,17 @@
       "title": "OpenAI is already building the org chart of a mature ad business - Digiday",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSVFGdE9Za2R0TGJmXzltM1FSY2dtbm8wQUI5Qmdnc2NVVG1OLWFrTjRIWmJ3eF9ja1hydDg0RjZzWURXeXNhUFBQZDVCSWQ4WkZaNEo4NW1LZEZhQ2FZTkhFQ2lidWhKcFhpTUh2RUFsMDRGNnRzSDdoUFJrZDFkRWUxS18zQXY4NjNlQm1KZDd0a0lKWVZXY2lIZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-28T04:02:36+00:00",
+      "publishedAt": "2026-07-28T05:25:35+00:00",
       "summary": "OpenAI is already building the org chart of a mature ad business  Digiday",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI picks Israel's Sheba as first hospital outside the U.S. for healthcare AI - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ra1RydXlmY3VNcms3Q2x4NF9rSE5RT0NtNm9MenRxYzhZaVI1TFJTNWItLXJYTHdXUzB6dk83dkNyeTRuR2dKLVdYN3dXZmNZclp6WnNycUxYR3VvcEpueE5BWllRM0NE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-28T04:09:00+00:00",
+      "summary": "OpenAI picks Israel's Sheba as first hospital outside the U.S. for healthcare AI  calcalistech.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,6 +29,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-28T03:49:23+00:00",
       "summary": "Sam Altman Declares \"Singularity\" Achieved Days After OpenAI Models Escaped Sandbox  SOFX",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Close to Landing $500 Billion Data Center With Nvidia’s Backing - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-28T03:08:44+00:00",
+      "summary": "OpenAI Close to Landing $500 Billion Data Center With Nvidia’s Backing  The New York TimesNvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans  CNBCNvidia form…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,11 +60,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Tech giants launch open AI safety plan following breach - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGtpdjkzZWJaWEdMZFFaSGxjWUZpbmlhbWg2ZzZRaUswc0dteFJkbVZ6dUY5dTdoT0JUanNnQXRiYi0zNVYyVU1naV9yTHY0eGxhQVRBY2NJOTlBdC1XTXQ3QW9udEtOcGtVYnlFU0NCa0VsTHo4T1NMVS01TEs4WmZMRFFGRjdUTko0REVJR0FDbFlMcjQteUNIRG1xa2ZJVW90N9IBrAFBVV95cUxQdGNtQmpuWHE0elMtZUk4aWtHdFdUc2pJR2I4LU94SHdZRGlqYVVlVmZCaVozX1hWZlJMU2UxVDBNQnFsUThFSHByVDlDR1Zib2VKdWNUS3luQXl2eHlKRWl5NVRPUjJQTm13Qlp3V3JvTzI3dWhNaG1YYXBmdW9CMC1zSzFOSWRXMy1aU1ZGNHJmcUYxTS1DOVBKUm1EMEJKcGdMdDB2SWlsQ01o?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-28T02:28:47+00:00",
+      "summary": "Tech giants launch open AI safety plan following breach  NBC Bay Area",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Nvidia in talks to back $250B financing for OpenAI data center campus in Ohio - WSYX",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcUcxRWpaNTNENkVEWjVmMzBhTmhtTlJyN2RPSWR6YVpQb24zUEVUWGtvRmhDYzlTX0ZRZmxhWnpiREZJdElNbmdPTjNHbVlDd1JjdzZyUy16U2ZaZTU3Qkh3aE1NM2dJNWdQVjc4Y0ktZElNdjhGcERIWGFqYUxjMW5DVGFIUHdJSk1YcTdGSkVILWJjR0poZWwzSnppa0FqdmRrdllISHl1M3FwTzBmdElYalVibGpKdVluMnN3MXY2ZHRxQ2w2SFpuS1Ffc3ZpanFELWktZDhyUEl4VFlDS3d4TlNlNEM1TElkVHBnaXNxemJfUHYzSDFR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-28T02:28:30+00:00",
       "summary": "Nvidia in talks to back $250B financing for OpenAI data center campus in Ohio  WSYX",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Rogue AI attack a ‘wake-up call,’ company cofounder says - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekJ3ZWZWY2tmYmpNZnNCNjF2Y3lyOHNhdUV1RzBwaDIyRktoYWprY0FGT1ZZcDlaQjJZUl9qaU1uZnEybjBLazJUb29wVzNLd0FWRFZWeUI4aDF0Z2tGUjVYVzY1TWFfcF9hdlI2blM3VXBnTlhDVUQ0TlJXampWRTNybHh2cU94MXfSAY8BQVVfeXFMTXVPOWFwNnE4LWNmU1RNeV8zREpPRnlTV1RiR1hnQVpqeDZpeVc3MG5HRnpjV29BRWFmc0dGenNpWVhIa2xBSWtTOElSQUdSVnUtUTFJUXotRGVTbDg5cl8zanZTNGVQVk1ZT1VjVFkwVVBrUkhRUU1GWVVIM1FNVEZzSHZEcGo5SUVqbmVwbFk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-28T02:24:47+00:00",
+      "summary": "Rogue AI attack a ‘wake-up call,’ company cofounder says  NewsNation",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,24 +96,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNBSmE3VDNINUgxdnVXVjFIVGNGX3F5ckZSSzE5UHd1WjFpbW5ORzc5NVRwUTU1eWNIelBmODFtWFE3cW4xd29oZl9ucWJEeDZUUVo4LTVOWXFTSVZsQXhDWU8yVjRJemVCal8xZ2dkV2RWTzczUlk0Z2dhR2pLSExR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-28T00:58:50+00:00",
-      "summary": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia  The New York TimesNvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans  CNBCNvidia f…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Rogue AI attack a ‘wake-up call,’ company cofounder says - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekJ3ZWZWY2tmYmpNZnNCNjF2Y3lyOHNhdUV1RzBwaDIyRktoYWprY0FGT1ZZcDlaQjJZUl9qaU1uZnEybjBLazJUb29wVzNLd0FWRFZWeUI4aDF0Z2tGUjVYVzY1TWFfcF9hdlI2blM3VXBnTlhDVUQ0TlJXampWRTNybHh2cU94MXfSAY8BQVVfeXFMTXVPOWFwNnE4LWNmU1RNeV8zREpPRnlTV1RiR1hnQVpqeDZpeVc3MG5HRnpjV29BRWFmc0dGenNpWVhIa2xBSWtTOElSQUdSVnUtUTFJUXotRGVTbDg5cl8zanZTNGVQVk1ZT1VjVFkwVVBrUkhRUU1GWVVIM1FNVEZzSHZEcGo5SUVqbmVwbFk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-28T00:46:41+00:00",
-      "summary": "Rogue AI attack a ‘wake-up call,’ company cofounder says  NewsNation",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Nvidia Throws Its Support Behind OpenAI, Open AI, and… Super-Closed AI? - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ21lVWNRSVRndHp0UFBaOGNac2VPLUJrSzg1RXhnU3lVRVc1dm9uSG5xY0w3SGc1TEIybUhVVHZGbVJadzlFVEltZkpnaGtjM21JYVYtUVVMVGQyTmhVRldCRFNscHpQZnMxaWFaSkxwVzRjckItS2Z3RzJyc2prQkVBTnl3QW5MMWhtYlJOc2ZHOW40UllWaDZPZ25DN3c?oc=5",
       "source": "news.google.com",
@@ -87,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI, Io Settle IYO Trademark Lawsuit Following Injunction - Bloomberg Law News",
+      "title": "OpenAI, Io Settle IYO Trademark Lawsuit Following Injunction (1) - Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGplRFotQ2g5RV9oQ25GYW4tNE9saGdyS2RCa3ZTUmJiZW4xVl94WWQyRC1WY0dkQm5kRzhVa3h6ajIwNGpJVC04Ykhqa3BwVVZLRllKR3Q1NDRTVmUyYWZnc0hEUmRFTEQ1TzVCUGpZRndVbHFkanRDTnFLN3hwaU5GVU9WaHVIX0RlaUM1Yjh1Mk5wOWdYckhLanQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-28T00:17:00+00:00",
-      "summary": "OpenAI, Io Settle IYO Trademark Lawsuit Following Injunction  Bloomberg Law News",
+      "summary": "OpenAI, Io Settle IYO Trademark Lawsuit Following Injunction (1)  Bloomberg Law News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -108,7 +126,7 @@
       "title": "OpenAI targets funded US research labs with new higher education role - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkxwVWNMc0N2eEZqUVhuODV5aDJOTk8wM3FjcFcyR3VVVVp2cjBfOGlZd25fakxLUGZ6bGJ4WDZxc3kzS2J4MVdSVDExaHExalU4WHdTZTF6Y05BeWV3ZEdhZGU1YnM4bjFBWll5MkloRFptek9TRm1iQ2otcUtQM04zU3JVRFpqU2dRaHFNby1HbE1pSnpxOEtsSHFBWUFYUzFjU2tzNE1LSVIxZVQw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-27T23:06:43+00:00",
+      "publishedAt": "2026-07-27T23:01:32+00:00",
       "summary": "OpenAI targets funded US research labs with new higher education role  EdTech Innovation Hub",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -150,15 +168,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI CEO to push for new AI model approval - WFAA",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOFVPMk0zSnQxTGo3OUVCYlVKQ0syNUw2TEFDMm1pX0NyV0RIa0d2bnlkaXJCRG8ySXJRdmJzbFc0MWtteC1MNkpvQ0NiZzdheUVzMEZJc1J6M013Y2V6X0RoWGxRZjB3X3FRLWtxYnZyYlNiWW9wT0NlNWF5NEVtZzFHWE5SQ1NGVEpkSTlkM0tBRTFRdkpwSkVJYkpxVU9tU1MxTHM3cHlTazFtN19Yb0VKdk9qa2Zr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T21:59:00+00:00",
-      "summary": "OpenAI CEO to push for new AI model approval  WFAA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "News | OpenAI takes one-time TikTok-favoured Dublin offices for European Union headquarters - CoStar",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0w1bWl0UnMxeHJnZW5tLVdUc0ZRN2pZX0FkZ201ejBCcHctMFNpNmlJbHAtRndFZVpMRkZEX0JmVTMzYmJhXzJVQjFLb2VkRHV2cjZtZlNiclpDb0hmZG1TeDAxUC00c2ViR0dTc1pPVXNPTjZnS0w3c3FjcHNtSTNfWFRxZ094SEM5ZWJ1eVJGZndiR1lYTXFlSV9oSExzSFFSX2RSSEtYRDVrdXgxVzJaYWF0aXcwaEpPRDFfR29LVWM?oc=5",
       "source": "news.google.com",
@@ -186,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzhES1BqZV81UjAzZGtjdGg5YkZ1NmxQOFlHLUFUSk5SaGN0T3VjSl9fZ24xdHFLQURIX2ZMd3dsdkdmNDlkc2NwaThUaUc5UF9GcFZuRGQzaldSV2t2Y1RyTGQ5T0h1YTV6OVhJNDBvMmFTYm9WUkEtYVFhSEU4WnRHUmxHUDM5ZnJNRW5lcDFCNVI4TTYxRUNHWVdtdElZck5GUDZUdHJmME85U0JJR3FEdzJfeGto?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-27T21:32:13+00:00",
+      "summary": "OpenAI's Sam Altman, Nvidia's Huang to meet with Senate Intelligence Committee's top Democrat  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHBtbkJMQmdyblQ4Y2VTTURGQW54RzRiR3JRUEZVNzhpN3pfLVJveTR3a01WZGNkOVFYZGNHLXNwOUFWbDA4aHJ2cG16ZXB6dFNRQ0ZLUExFT1RlLUI1U19QQWxMM1hCdDlUTDVSTGdCV0QyaHQ3cnZBUEJkSzBxQkRKZFVxcG0xV2htSzBEVG1jem13RW1vOXhTRkNmcUZYX2FBMDJDOXpSbGdyalhFcNIBtgFBVV95cUxQc1QweFRsTzBsZGNNZU5OWUdGYjRIOVM2akNnWTdlVC1wQVBFT1Q1NWcxWC01ZXlHcE1lRHdEXzZBanNULV9WdFpyWE5jOFJNVWJ1cGdFdEVSd3RBUzBQQmZENTRHcDFHZ2tKdlpsRmc3RFBNU1cyVXN2cGFWZ3hmWTNoYm1mNFl2eGVrelVCenEtNFFCUFRSY1E2U3pDci1xcW5sc1VQX2tBblFWU2J5aTZyLU81UQ?oc=5",
       "source": "news.google.com",
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-07-27T21:10:00+00:00",
       "summary": "OpenAI CEO Sam Altman heads to Washington as AI policy deadline nears  Politico",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia reportedly in talks to finance OpenAI's massive Ohio data center - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbk9qd3VscmhoWXo4Yy1IckNUSWdGdk03N1dHSXhPTU1TRnJIR0djRE5COVF1TUdRa3oxdFVsTkluTVFicEVDckFaclJ0c0tHQjg5R2xaNWl4RC1tRmMtaGl2ai1ENjVHLWJ2LTRsYWNsS2c2Q0ViSnpFaHI5VnVsMUhUVTZqYS1YdllyVTFpNFJCYTNRQU1TbHVTeldMS2p3MHpPSGRtTWd5c3RfaDAzNVRiemdSWklN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T20:46:40+00:00",
-      "summary": "Nvidia reportedly in talks to finance OpenAI's massive Ohio data center  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI hacking incident is ‘warning shot’ on cyber security, Microsoft’s AI chief warns - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlhIRzlNaExQQTdlTFlKZlBlSk5iTkZydEp4MmhqX3lyODA4TThheGJGbEZNSThCVzFHdWF3cUxPUnhXbE9ZVUNFRVZXT2xkV0RrNTdScFktaVpyS3NMYkcyUDB2SVVqTEpEMk0tRDZiUzM1RERlMFA1elJsamZQaThINWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-27T20:44:09+00:00",
-      "summary": "OpenAI hacking incident is ‘warning shot’ on cyber security, Microsoft’s AI chief warns  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
