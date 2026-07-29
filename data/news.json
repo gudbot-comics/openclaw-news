@@ -1,16 +1,97 @@
 {
-  "generatedAt": "2026-07-29T09:58:49.093954+00:00",
+  "generatedAt": "2026-07-29T12:04:38.712319+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Cognita Reply Named an OpenAI Advanced Partner to Accelerate Enterprise Adoption of Frontier AI - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNjJ5cVZnYldIQ0x0X0FXTV96cnFabDlxTElVeEhmTnVoVlBRSFd5ckFXT2F3ZE1pZnU3VlIxQ2ZveHlXcmxhU1dZa1hnLXdORGdoWHNMSFh1aW9rMEk2by15T3dNSmJmVG9xdWpYMHEyUEE1THdlVjctU2RnMVJlT0llOTBBUE9MSmpTMk1pY29EREc3Y08wT01ocHpkMk9aWFNCQkJqWW9XS1lWVmk1VGozYWM3WUFXcE5oNHMwdnpNM2puSFJBSEFrR3FtNXI5d3N6NmYta2FmekFHZTBOWVBNM2l5RUtJZjlNOTFB?oc=5",
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQXzR0bXFYR3o4Z3FTbUxhb18yck1ZZXB4Y1hpMzUtVS1HVXVzR3BOc0ZoQ29IWFB3UlRWTGF6OHczNThOVG5VZ0ZWUTR3VVNVa2wyRVRtUjh1UzhUM3puWExPVVJYZHkyOE5ONi00aDRkZmNYVEp5cWtYNzhsUm01cEt2N1NTbWpOOG1IU1hFOE5UdE9UT295Z1FKQ2wxQnVxTXJTU2FUWm5jZ0VTRWNv?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-29T09:41:06+00:00",
-      "summary": "Cognita Reply Named an OpenAI Advanced Partner to Accelerate Enterprise Adoption of Frontier AI  Morningstar",
+      "publishedAt": "2026-07-29T11:54:29+00:00",
+      "summary": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQlBSTmxlRWdBZ3VwaGl3anZHZFN4YWw0VXpvNDFsY1pEUEdwbW5jQlFWa1liV3FRcGdoaXJrMWlLeGZXSThfYUp6SzFtajFrTXdFaDZSaXB6ZEhfYW95UEF6OTk4ckZmclhhWGkyXzQ4LVF3dDJSdVo5Vk1mYm9JOTJIQm01SDkxQlZqc2xSZmFXVXdiS0FYNGZNOWJxUlhsQ3hKZW5JbEE2MEJoTUxhdzZBaWc1NnJHQ293bG43MFZnd0IyRjQ4S21DRzJ0Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T11:53:28+00:00",
+      "summary": "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI AI Model Used JFrog Artifactory Zero-Day Before Hugging Face Breach - Security Affairs",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY29JR2VLdnFFS2RfQUV2c3lXLUs1RFVkd2VpMG5OVHRXbXdKblJOTENrQzJiaGV1NFN2NjdPamJzV2ZFMFpVX2paY1dLdm1XQUUtZEk1UGtwNUVTZjBJa1h3eW9NRnFOcXpZWUlkYVNtVGY5WktJY1piSkhXNVdkSVRLdk9iYW5RUU92QVl5YkFPcmRvZVhRTVVMblhQQVhwMGZ4SHA2Smk0Xy1OWXhJTkctal85TEtLeE5obWtLRdIBxAFBVV95cUxPU0owcnIwc2REVlpKMmpVR3p6YjNPckw1Rm5pQVltVXdfWklkYlJsbUR2cGFWTW5fNTZnLVBCMlgwaGtDd3NYU1pRZ3RNbnJOeWI1Wng2OGhjZnZaeEZxMHV4b3dIZDlmT01qcXpNN0ZocVdXTTRTVXdTTTJ4cXdpMEJieDhMRkVIMWZQSG84ZjVFTFVhYVR6Uy1JTXFWU3BoRm1PS0xmaFNiUVpJZUlGVW9DNFBDN0dPNnhTNlhoQnNUbFNE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T11:26:15+00:00",
+      "summary": "OpenAI AI Model Used JFrog Artifactory Zero-Day Before Hugging Face Breach  Security Affairs",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s chief economist says copying successful people’s careers is bad advice - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb3NvaUhiX3o3a2tKRXdCUHRtalc2bThiQnAtUnNzU2JJNWljZHFVemlCOFoyNy1wcjFoazY4emZFMGZ6Z25vZ081N3BENUFPQ052dXc5c1k3dk1UTDRkdWZHTV9xSGtRa09XTktjeFNxd2RyV18yenZCazYtblgyRklMLS1rSDRtX2M0RW9GSkpzSXhWNnQ4VFhnUVFiX0QzYXlBZg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T11:24:51+00:00",
+      "summary": "OpenAI’s chief economist says copying successful people’s careers is bad advice  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's rogue agent compromised a customer at a second tech firm - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WVnpzMUdtRzhTRGlwTUNERUVWeThyUXdmdDdHb2p1UVhZT1pzVEpWUS1GWmI5MDBNX1dtX0N2RDdRVExWVUZNTHVkZmZwZG1lR3Q1QWtHdVVWdVZE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T11:10:52+00:00",
+      "summary": "OpenAI's rogue agent compromised a customer at a second tech firm  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says AI agent breached multiple online accounts - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObE9RWTZ4OUhnbkNBVml3ZDB3NWp5WVVKbEEtdlJLZXFnaVZsRGdrQWo3TGhJdUQ5TG5wRExJV3lmUzg5MnlyTFFzWHpIalZvRXpWMjhKcm1iYnBjV2JFS01YdURESEE3UXNFOFhNNU1WTjFNMG95WUJMRmNPaTU4Wg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T11:07:07+00:00",
+      "summary": "OpenAI says AI agent breached multiple online accounts  Latest news from Azerbaijan",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Seven controls enterprise teams need in place to avoid another OpenAI-Hugging Face incident - SC Media",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN0pkTklfNERYamphbXJ1RmRYcXBSVEpuQm9SZ2p1Q3pxUzkyRzdRTl9ObDNmNDk0VXg4TmlmVVRFdS1Db1c5cmsyLUdvR2hEZEFXMmNOUGhZTTFMV1E0djR6WHdxR2N0ejJNRVJrY29nXzdTTWpjQWhtQ3VUbjFFUGFaSjhYSkJUcEQyOXcxbWZzdElxVU9UVFR0X1dvUmFuRnNaaWlUUlpDSzZ5TEdzbzNxU29rNlJibEJDQ0ZXQU1FQlhqcmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T11:00:00+00:00",
+      "summary": "Seven controls enterprise teams need in place to avoid another OpenAI-Hugging Face incident  SC Media",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's runaway AI agents also breached a customer at a second tech company in a week-long spree - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmhMV2lyTFpMbGhxT2k1MWN2RzlidUNyX3NNXzhGelNJSW54bWNkenhRWGxMcVJyc05MOERZam9HVUlZakFtV0NrWlNUa2tRSWNLaFJjN3k5Zmc5TGc5bkh3YURlMVhPU0VsenB5eDdhNXFpSmlqVExzUnB5ZmoxanVxZF9IaGRLLXlmTVYyTnFjTTVjTlIzdWxjTFBiR1BRTmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T10:47:00+00:00",
+      "summary": "OpenAI's runaway AI agents also breached a customer at a second tech company in a week-long spree  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's rogue AI agent hacked multiple 3rd-party accounts as part of hack on Hugging Face - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSWdCT1kxY1dyZFFqNnJ4ZmwzV21nZUowTU1uUmtvWWlTNkV1cjZmdk1wZXpidEMtempEUEFneXFWUkZ2UUJHeHFhQ24wU0o1alVpS2J1c2tLU0NNbnJIbFFoZjNYVzRJZFM0akwwa2J1TndtNlVRQzB4T0d3MDN6NzlyMWJkaWRCdnRIdjRXcUMtVk5HNEZENkpVa0xMWDRKQlRHMEg2Wkp2NFVGSzVmSFFsd0lUQkVPSDE1REE5T1NsaEY0UEUzb1VwX2M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T10:40:57+00:00",
+      "summary": "OpenAI's rogue AI agent hacked multiple 3rd-party accounts as part of hack on Hugging Face  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says experimental AI hacked additional online accounts during security test - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdy1FZ2NMSmZtRkJoUW1LQnphRXBjTFEweVFqZzk1bTJIdk9Rc0NIWnhiUUM3OWJtZjAwZDZ4eEJrSHl3OTkwVnlNSDF3dXJUeHkxM1BnUXp4NHl4YnhwUWxWYktsclVEY2g5b0VoWnRieWt6cy03TjhkWVZWNTVFMTZ1Wmt6X3B4YklkSU5aNTExeE9wV1Y3eG5zNTRianJPUGRCVHhtbm9vdUNSQUxIck42cGtwNUN5MlpVQzV3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T10:34:20+00:00",
+      "summary": "OpenAI says experimental AI hacked additional online accounts during security test  Anadolu Ajansı",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -18,8 +99,89 @@
       "title": "OpenAI, Anthropic ask U.S. government to consider slowing down AI - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1FRWDYxejU1Z3BFTVd4b1lKc0UzaEprOHpyU2pJTS1jamVvRVBLV1BIUW1sTGVfUktiZmNVenlqY0ljQlpKSUR4Z1FOeE5Hd2FlZmZlcUlDaUVxYlB6NGI1YXp6aUowa0o4TXJKeFNTMllEV25weHFRRE5pY29pMXE1WHRfUEc3M09BbHJCbGpjajJfbm9KdXVSM2N4Wm5oQ1dOT3k3SUpuNGEzQ3pCTA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-29T09:39:22+00:00",
+      "publishedAt": "2026-07-29T10:32:58+00:00",
       "summary": "OpenAI, Anthropic ask U.S. government to consider slowing down AI  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Models Used JFrog Artifactory Zero-Days to Escape: Patch Now Available - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDhaQS1yQXpldGFPU1pMRkJwZ3R3c1dLUWQ1NkZoWVBLNmU3V0NsbE1obi1yU0loQlFSalQ1bklJempkSFI5RWV0UGFnWWIzd21kVzdaWTNjeF9pYlNBMU1OZ1RGQzlOd1pHZElPYXF5SEZmM3pYdTlCRDZlQVVsMWlQLUNkNnMxaHNOaDhDZWJ2bXdtZkd4R0I5cEJTNmotVTV2d2VURXhXLW5hME5xYkhnSXc3bmdoRGh3SjMwazViTGJ0TEd3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T10:16:08+00:00",
+      "summary": "OpenAI Models Used JFrog Artifactory Zero-Days to Escape: Patch Now Available  Tech Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Agent Confirmed Hack at Second Company After Executing 17,600 Actions in Four-Day Breach - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNXzJnT2ZjLWVlajZrMHRPZ1lsMzQ1Sk9ycGl3VTM0UDhHODVGRWpRWmxUYktCdGZtY0ZqTlVBc1BnbmR3VmFJYkQ4djF2QlNlZHlENXJfdzRyXzFhcFk0ZmM0cFFMU2dIZTFMTk1DNmFXYU5yckhERW1ZTFBkOXZIbWxtejgtU2dwNUEybURnS3FtQmlxdHNPWWN4UXhfR0ItWDRfQkJBcGp3Y2s0NjZpcVRXeHZnZ05UcHlYMkFweC1NTEFoeXc5MUxSdWhPTHg0Y1JZNmU1QmVjalU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T10:12:43+00:00",
+      "summary": "OpenAI Agent Confirmed Hack at Second Company After Executing 17,600 Actions in Four-Day Breach  Tech Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI rogue agent compromised second tech firm's customer in hack - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45TWtrWC0wZ0NpZ25TVXdHSDBhc3JjZjdibGFPZjFBeks5eVAydkRLdi1MUnhKZ0VkX0pLcmZ5SVhoWmRhRXpRVHVxSVNtUUllU1hmS3lvRGh2elc4WGtFOFJaaEZ0M0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T10:07:31+00:00",
+      "summary": "OpenAI rogue agent compromised second tech firm's customer in hack  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Insiders knew advanced AI models would escape the lab and wreak havoc, former OpenAI board member confesses - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHY1a3VfYjFEMEFMQTA5ZUFlSDhNUmRmcERaUldhYzRuTXZBR1VrU3JIaDVNSUswLW16YkwzZFNVdFpUVmpZZ2Q1TnphUVh2bGxyS2JDVk1keEZhd1RjcWpUbnQ1WjlQN29jMnE3LVIwTmVqZV96Z2c2cFI2dGJoS1F5LXhRYnVuY3o4Q1c0dTgxdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T10:03:00+00:00",
+      "summary": "Insiders knew advanced AI models would escape the lab and wreak havoc, former OpenAI board member confesses  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s rogue AI agent shows why we need federal rules for autonomous systems - CyberScoop",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CS2xvUHpmQ1c1Sko0NzJDWkNxMC11TTMwTDBqUUYzX0IyS1VGa1VFcUtFMG8tYjRfQ0hqYWpUZ3l6aFJYS0pZRG01d1RIUldJcm1QUmhTZ0NyWU5obG84RTI5QXFKMXkxMlpGbm5pUDBHQkVNaDk4RXRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T10:01:15+00:00",
+      "summary": "OpenAI’s rogue AI agent shows why we need federal rules for autonomous systems  CyberScoop",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI bot’s rogue attack rattles industry leaders, policymakers and consumers - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRHBHUzZwN2l3Qzl5R3otVUQ0QjZNMHl1WjlMVjJXNGRReXMzMVhFNlFyVFc4WWdhaDdmZ0xWX3h4MG9WUllWcU9LbElXZThXUlNlX1FvX0h0OFZsYVNySHJnNkEyS1owdkV6LXd6UV9rM1dFNE9CS1lRejVTYkRHZUJMT3VNZ1M4U0lyc2liOFdRY2FEX3F4S2pHNDBVdDk1VEJpdGJZd2hZeVlveU5JUWE0RHVWeE5EcDlqaXFPaGY3cTExYVNhRnhR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T10:00:00+00:00",
+      "summary": "OpenAI bot’s rogue attack rattles industry leaders, policymakers and consumers  Los Angeles Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI bot's rogue attack rattles industry leaders, policymakers and consumers - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODNUNDhtaFpSaXRlNFRzOV8xUHd4TVFwYjJsR0Q1Wk9aZU1GUC1TN2c1MldnWHFnQU9aOXlPblRDV21mZnppWVdXNTJqdVNBdTc4d1JEckxzUG9HbGZCSVlTREc0RTdBbXpJNERfRWZvdS05djBhVjYzazBseTQ1NEdsZkhBdU5MRl9TMjF6Nkx3OEIxR2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T10:00:00+00:00",
+      "summary": "OpenAI bot's rogue attack rattles industry leaders, policymakers and consumers  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's rogue agent compromised a customer at a second tech firm - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGZQbjgyeDFkdTdZWE5ZSzY3cWJNeTZ2RzJQYU9KeU9hOE8taU01a2JaeTdFS3JaVDZjbm9QYlFreWVfMTlCTFBtOG5pbV9McERYN25NVEx0Z1NXYm5henRHNU0wZWxKbnJ4LUd4OWhOZE45QmNyOHQ4Y3o3aUFDUnd4VGQ3MmY3OVVsT3lUZDBBYVZV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T09:54:19+00:00",
+      "summary": "OpenAI's rogue agent compromised a customer at a second tech firm  Yahoo Finance UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cognita Reply Named an OpenAI Advanced Partner to Accelerate Enterprise Adoption of Frontier AI - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNjJ5cVZnYldIQ0x0X0FXTV96cnFabDlxTElVeEhmTnVoVlBRSFd5ckFXT2F3ZE1pZnU3VlIxQ2ZveHlXcmxhU1dZa1hnLXdORGdoWHNMSFh1aW9rMEk2by15T3dNSmJmVG9xdWpYMHEyUEE1THdlVjctU2RnMVJlT0llOTBBUE9MSmpTMk1pY29EREc3Y08wT01ocHpkMk9aWFNCQkJqWW9XS1lWVmk1VGozYWM3WUFXcE5oNHMwdnpNM2puSFJBSEFrR3FtNXI5d3N6NmYta2FmekFHZTBOWVBNM2l5RUtJZjlNOTFB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-29T09:41:06+00:00",
+      "summary": "Cognita Reply Named an OpenAI Advanced Partner to Accelerate Enterprise Adoption of Frontier AI  Morningstar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,182 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Autonomous Agent Exploits Hugging Face Data Pipeline, Exposes Credentials Across Four Services in July 2026 Breach - Rescana",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcGhOQ3l1S1JJU1dseXlsdFZzTXliV29RTHhkSm1tZ3I3Zk1ueUw1b1ZvZzRRMWg1REdXc0FXTVRnc2JsMDcyMXM4VmlxN1FNeWZPY29scldKVEVOdk9tUlBvZV93NmxBSHhNYzBvRzgzZDY2LU54N2JXUUxzdm9SRmVTT3NUZDVQcHRlU2pLYnV3VHFZaGw2dmVQNGRYbnllM25WOXlNVTFuOE5IQlpYbktvNWx2OFNBeFFibE84d3k3U0Nsem00RmxoQW1NakJZT3Z1bzBLczV1amR2QUdndzRzaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T09:04:42+00:00",
-      "summary": "OpenAI Autonomous Agent Exploits Hugging Face Data Pipeline, Exposes Credentials Across Four Services in July 2026 Breach  Rescana",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI pledges $71 million for Georgia college students to use AI platform - AJC.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcW1lNEpXejNZbDhGM2tseVhTXzl4RWhLZTVDTEVpZlZlV3pqRGVBYmlFcG82S3NjMEhjQ0N6bmZxWmVLU0E5eVM4SnJHQzJhWDlTRG84d201a1hTQ1lma3kzNTl5blh3LVV1UHM5aDZBYnlVb21JRDY3SXVIX2htZWtiVW5Hc0stSW5WQmRqNWRLZFY1dEg1ZmtocExwbDdOQzhPZjd2ZmZaUEpKQ0otWHdn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-29T09:01:43+00:00",
+      "publishedAt": "2026-07-29T09:32:43+00:00",
       "summary": "OpenAI pledges $71 million for Georgia college students to use AI platform  AJC.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Says The Rogue Agent That Hacked Hugging Face Also Breached Other Services - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY3YzYWpHcWhxY0c3OU5VdGVpZi1lRUtpYjk1c29sVzR6SURxdGJDcHBhQ0k4bWpoVW5oTkZvSzlucDduYjhhUWhWUVJ5UDlxSUdiZ0dqR3lrNDBDdmlVSU1JVWYzc1gyT0docndqUUVIVC1oMHQ3TVFEWE8xb2hlWHktVEdDUTNpSjVlQmdyeUZxaGRrdWt1SzBEdjM?oc=5",
+      "title": "OpenAI Autonomous Agent Exploits Hugging Face Data Pipeline, Exposes Credentials Across Four Services in July 2026 Breach - Rescana",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcGhOQ3l1S1JJU1dseXlsdFZzTXliV29RTHhkSm1tZ3I3Zk1ueUw1b1ZvZzRRMWg1REdXc0FXTVRnc2JsMDcyMXM4VmlxN1FNeWZPY29scldKVEVOdk9tUlBvZV93NmxBSHhNYzBvRzgzZDY2LU54N2JXUUxzdm9SRmVTT3NUZDVQcHRlU2pLYnV3VHFZaGw2dmVQNGRYbnllM25WOXlNVTFuOE5IQlpYbktvNWx2OFNBeFFibE84d3k3U0Nsem00RmxoQW1NakJZT3Z1bzBLczV1amR2QUdndzRzaw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-29T08:40:56+00:00",
-      "summary": "OpenAI Says The Rogue Agent That Hacked Hugging Face Also Breached Other Services  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "\"OpenAI used zero-days in Artifactory in its attack on Hugging Face\" - Techzine Global",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVJLQlVxNGxaYWwwS2NCR2RlYXlOQ1U3bm1TYzYtNlBzRzlBWFNySkVtVk5ZdUl1UWVnNkZwWDZRVzFSRzRRSzhzek5YOXlSUW1sdjRrUFc5NDlWWnlFUFdTVF81eWMyMlUxSFZIUHNDVjl3Q3VkNDAxWWNXMVIzXzQzU3ctSWZkcFZ1NWVKR2hYRVVIQV96MXFBZy10LXVUel9EeDBrU1B2b2hUZTJsVXh3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T08:30:12+00:00",
-      "summary": "\"OpenAI used zero-days in Artifactory in its attack on Hugging Face\"  Techzine Global",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Rogue AI Agent Compromised Second Tech Firm’s Customer During Hacking Spree - Arise News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3psNERnNGdxQldTUERnZXhEcXlJV3pBcDJxMVdTTFBYMDZwNXM3M0lxNDFIY2dWZXJnOEpibzVYRzFnQWxFcEFGZnJHMnRnZXFqeldJcHcteXRMcmRvWFBsa3hBRkxMWFlWZkVJQ3M4T0ZwSGg4eHJCSkxSVVQtS1lYeTRpNXdySFNmSWJiSVZLbXZkRFBvY3FvdFhMdnZoWG9hSXlMdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T07:51:01+00:00",
-      "summary": "OpenAI’s Rogue AI Agent Compromised Second Tech Firm’s Customer During Hacking Spree  Arise News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "IAG partners with OpenAI to explore agent-based voice solutions - Reinsurance News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnR6ajBkYW1yQ0JLcThoOC04OTltVUdzSlFuX0NKMzdCWGhtZnNXbnN5ZFAxNTRMcWk3WVlCRDRFQlBHcHdoRHowc1loYUltWVRpdkJaUlRNSVVkd3kwTUVLZFV6cTlTV0JqN0V3VXY3RXgxR1lWVElQNHBoR3pwbHVjUXZ6Zk1BWmJfWWk4ZGVfNUk1bGZ0Mg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T07:34:57+00:00",
-      "summary": "IAG partners with OpenAI to explore agent-based voice solutions  Reinsurance News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s rogue AI agent breached second company during hacking spree - calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FRXc5UmJ2LW5hVWpEYzkxTmJHOG5jQzBfczBxUDhHTHRGV3NmQWFaOEZJOHVKd3VMeXNkYjdUUVJTNy0wbzlIbkZWTFBBUEU1MW5Fdnc4MHFBRE15c21zTjRkdHFkcE0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T07:16:00+00:00",
-      "summary": "OpenAI’s rogue AI agent breached second company during hacking spree  calcalistech.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI agent strikes at a second tech company following the Hugging Face hack - Techzine Global",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3cwRFRDUi1kYXVSNUU5ZnAzNl9DS3BtODJzLU5hYmRxVmpYcXhMN2JQZXRURm9ucFRRWkpQMG50TXIxbnRJdGFTZ0NVdWItVEpPSjZVYU9saDQxSTc4NDg0dVRaQ0YwaVhBdUhjYnNRSTh2NVdaU1pBaXpTeHRKdFZ3NUx1UkpTVnNaLXpHZGxodzVreXRzdHE0emdwNXBpdzh2TGZGZU95VGt6ZEEzZHk0czV5UkJUVmllcHJmS20?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T07:12:41+00:00",
-      "summary": "OpenAI agent strikes at a second tech company following the Hugging Face hack  Techzine Global",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Rogue Agent Also Hit a Customer at a Second Firm - Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3lJY1RUTU13bjJwM3RQSTlWaTBmLWFkMENSZFZMRVNqbEoyVGpFcGs4WUUyR1BGVGZsdGY0RV9NNzdlRTZnZk8zS1N3RFlGbFBvMlphZnBNRmFwc1FLOVFrN3NrQ0hWLW04bG9yX3B1WGpJTmEyajlsRy1XREVvbg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T06:48:15+00:00",
-      "summary": "OpenAI’s Rogue Agent Also Hit a Customer at a Second Firm  Technology Org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEwzdWhXVjUxNHZtMkszdkxRamZPOGYzY1EyMHZoU1ZlZlBMOVFZVjBLRE81QVJzZnFpZUJsSDI0RVNzb2x4OU9ZWTNvLXltQWNRNVQ1bURRSDRDMm0zQVdMNWdMWTc5dEtYNGt4WUZQU1VJSVNSdkFkcHUxM1JkRXZB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T06:45:00+00:00",
-      "summary": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach  The Hacker News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "1,100 Employees at OpenAI, Anthropic, Meta, and Google Call For AI Slowdown - trendingtopics.eu",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXJidW1MdEpRR0cxMGdoVnFxYXJPUnRhUDhxeWVuSVJTSTR5THhnTm1zcG53Sndsdy1KUE91MFZmeThtOG82aDJ2Y0themNsY1haTmNZb2FJdmU3SWNMRW1TX0h3dHZJSEpaOS0temVOOWJOOFJBZlhTejlHMHltQjJmVzVNbzFETTdLeDU4cW9HVFp5UzNKUFNBZG85ZlZzMnliSA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T06:27:24+00:00",
-      "summary": "1,100 Employees at OpenAI, Anthropic, Meta, and Google Call For AI Slowdown  trendingtopics.eu",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Models Compromised a Customer at a Second Tech Firm - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ1c0Q2QUZSUWZKRUlMbE0yVFJ6MjZrQWlxNzF0NDNmR1lGZmg0d19BeDBGODVmR0lGLU96NlZwLXcwX19HTWZIR2FKai1yazZsN3hBS3R6cWdkTm5VWDM0cW56NWRTZGdIaG5PVUxDVUF0cGVWWjU5dmVyMUhFVzc0aEJ2QjVHNllUZzJXVzNXbnFrYlZaQm1ubzFER0FCVzdENVRaOVExNjIwMmF1b005MWg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T05:36:00+00:00",
-      "summary": "OpenAI Models Compromised a Customer at a Second Tech Firm  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's agents hacked second account during model testing - Axios",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMm12SVRVVUtNQnRUOHpfTS1xYXEtYUszQ1N3MEFsWGxMRFg3LVl6NU1YckRlOE1qVjd0Z2RsZ25nUWlWamtzeV81cjNjZ2tMY0paSW85YVprWEM1R0tZT293ZHp3TGptX3NLeUh4WWJickhRam9v?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T05:31:45+00:00",
-      "summary": "OpenAI's agents hacked second account during model testing  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI resets Sol usage limits and fixes the efficiency gap that caught power users off guard - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdFF3UDZ4SlN4NkVEblZRN3pyU3luajRXWlJyY2MxbzNpLTZ6dTM2aVBUX050c2hTcEVSQWFyb0dwbmo3aGs1N2s4a1diTmRBejViYW1DSDBDbXU2MkJ2SjdCRmwzdV9VOVJlRk85M2JhLTNzWnM0bzktcEdQSkE3a2RGVGR3YnZkTVNGcHdXT0pBaVRlOHJNRHVIWHlpN05OY2c2b09XT1JvTi04N0ZYa1JKTXhZVmw2RWhEbUFR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T05:24:26+00:00",
-      "summary": "OpenAI resets Sol usage limits and fixes the efficiency gap that caught power users off guard  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI calls on students to apply for first ever ChatGPT and Codex focused Campus Leads programme - EdTech Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYlE1RGQtalBhZHpPby1UY2RXLUNlTHByR1prcFRvU1V2bzF0NGVKZGtCSUQ1ZkNWOHpzdjJHcFduaTAzd3dGZmZkaUp1NkZ1Ymh2enEwNDktQzlnTmhLamJzdFN3UXlFTndDQzNwY0pZb2p1WHZyUnVkbWdSUllyNkRCcFZaMy1wMXllUG5ITG9NZm9Ea2VrbnhiVXJJOGFQalBUTnZkaUU5T2ZFTmh3OXBzS2VDWWJoY1BRekVNUjdSNVZNOWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T04:52:38+00:00",
-      "summary": "OpenAI calls on students to apply for first ever ChatGPT and Codex focused Campus Leads programme  EdTech Innovation Hub",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s ChatGPT Nears 1 Billion Weekly Active Users Seven Months After Target - The Information",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXcwVHprdElrb1ZtbVBVZF9hR25sc0JSak5qSDRxRl9LdWQ0OU9iOWR1Q1RDSkZLVGQ4MVNpYWxSbUZ1TElsTF9lRUU0ZjdfbHRaRXdoSG1rT1VrbUJBRzl3VVVVLVRsQUs2TWktdU5NTHlqUVdQZ25KOXhpTEI4d2ZuOEl2VmxoaElIeS1lSFRReFhGSGZadGpwSlJSbzUyZl9qc3hUOE1HVVB6UTV2Ng?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T02:36:00+00:00",
-      "summary": "OpenAI’s ChatGPT Nears 1 Billion Weekly Active Users Seven Months After Target  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Anthropic Are Writing the Threshold Their Rivals Must Clear for Launch - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXRsOEYwSEFySlVrZURqZzNHNDhYZklXME1Xd2dmVHBMNHpKQ0R1VlJqVmlIS1ZSN29taUVRTG5nWGNBcTlJSTZvUDA3UlRPbGJpUFh5NUVXOGlOeFAyLUhNNER0ZUY4dkVjN0NNZVRTOEhyMWtzVjhqSHhyTzI3b05JTXJ0RGJDem5mWGJqWWY2NUJZOXhqMGw5YkNYTzhhSzkyMGRDdndKU1JhUXVCZVU0THFUdFNzekVHbWlIcWhIZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T02:35:02+00:00",
-      "summary": "OpenAI and Anthropic Are Writing the Threshold Their Rivals Must Clear for Launch  Tech Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How OpenAI project moved forward without public input - Statesboro Herald",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaFJDXzFFNUxzNGpacTVJb2dIMEM3YVUyNkJVRVVDWW9WWU9LYW5vVHRHczJMSTlITmZ5NHotd2tCdk5Md1Jtdk1jM2VBY1RYQS1lVkJiRFl3M1pHWThnTzVnYkF5UFJybG1wWk5MNnhLcl8tdVhSMGpGakYzTmFGaGZVMEpxRzR3VVBkU1RIU2hVYWpTb0RodQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T01:24:44+00:00",
-      "summary": "How OpenAI project moved forward without public input  Statesboro Herald",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing - Axios",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBodGRmd2V3VXpxOTFaaEtqU0ZiR2xPQkM1a29DZlhDRHZTLWxQOHB4OVBOckVwZnBTai1aSmhiWTZYaGNtRkI4eVpsLUZQa1poTk5waW8tSjBwdFNESWkzelBYWjhET0VsQ3l0Q21vbWdnRm9RdGZYVm8ySnU3eDg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T01:00:13+00:00",
-      "summary": "Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's First Devices: Speaker, Smartphone, and More - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yOEd2eExFdGwyWDk4ZVB3MjJFczB6OGZld2VZOTc1bGIxQTJmdGVkZXlaa2E3NFdwX2dqMXpXWXRPTEJQeThESGt3LXUzbXJ5NkNCTU1IS0JpeDBCN1R0a3g5Q0tOTDRZMUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-29T01:00:00+00:00",
-      "summary": "OpenAI's First Devices: Speaker, Smartphone, and More  MacRumors",
+      "publishedAt": "2026-07-29T09:04:42+00:00",
+      "summary": "OpenAI Autonomous Agent Exploits Hugging Face Data Pipeline, Exposes Credentials Across Four Services in July 2026 Breach  Rescana",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
