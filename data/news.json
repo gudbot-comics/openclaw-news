@@ -1,25 +1,70 @@
 {
-  "generatedAt": "2026-07-30T14:40:32.349654+00:00",
+  "generatedAt": "2026-07-30T16:15:34.913694+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Reco Joins OpenAI Partner Network as Select Partner for Enterprise AI Security - citybiz.co",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDJXVENGUmVsemJmVkJaRnZpd2VLM1hycmFsRXJxeERqbnJVTFN1aWctZ2FsN3BGdUhoQjg1djNFbXFlaHNiRlJzb1lJRGdfM3dUTjVLeHFkVU8zS2hHdUE4bnNNd2d2ZjJNdlRLNUV3OF9CbkY4LWlmWURTWmdrVE1aRzFXNjRjTWRCQVJ3OWdyZkEtYkdsRDdMSzVLMU5sZ0pHZEhVQVl4S2thRGJ5bGQ0SERxOFZx?oc=5",
+      "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNakk0U0h4VFFUTlY4Und1ckIyMERYZ0JKbHZabHRlOTlFT3U3aEZaVFMzU19KaktQRzFXa044blFucWVUZVgxN2pwZ1N5dnpJUjFhQi1nR05wVlYxRVdQT3ZfcUJwdHloQndUU2NDMGlJWnV5VnRobHo5dzBNTEVpT0JlSUc4U1M1UmpBQkg4eUd2N21fN25xWGlCaEhWYUJueUlWUlJDR2NISzBPbktYT1RRaDU5VDFwMjlEbEVqbmVPR2RH?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-30T14:35:33+00:00",
-      "summary": "Reco Joins OpenAI Partner Network as Select Partner for Enterprise AI Security  citybiz.co",
+      "publishedAt": "2026-07-30T16:02:32+00:00",
+      "summary": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock  Amazon Web Services (AWS)",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Trump eyes more AI restrictions following OpenAI’s model going rogue - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXg1MzFYUHZOSjZ4STdlSTd6UENLMzFuRTJ0RFNGWlBpMml2czlhOVFmOEt3VGxqV2h6czJEWnpSWXJSbXNaUVhXVzViaEtxX1VscjRCVFh5Q1RPVFhrYTV0eHQ5M3daYnAxVDlHY2szY0xjT3dEb2dsaGdTeEpPTkhxemdiLUFtTFVMamdrdXZXZC1pNFVDeXlXYm1VRFRNaFlGMVE5MDU2YW1vckFn?oc=5",
+      "title": "Inside OpenAI’s Hack of Hugging Face - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzSnVfdklSQmtTZTVVQzN5WnozOG5zVVVxLVdoYkgzejlGSFMzTzF1UmV2enp2OGRsUHM2X3k5U3JveU8tdzFyT3h5SERwRWlOWFVtbnZDWkQzZFZGdHEzbWctRHpObjFCNXpja3ZINVpkRHQ0NnBxblhucXNXSjA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-30T14:25:00+00:00",
-      "summary": "Trump eyes more AI restrictions following OpenAI’s model going rogue  Semafor",
+      "publishedAt": "2026-07-30T16:01:36+00:00",
+      "summary": "Inside OpenAI’s Hack of Hugging Face  The New Yorker",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI finds users venturing beyond their job roles with ChatGPT - TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXh0bTk2RTNyZy1BOXBzbzBPOHZmSmp1WDVOcEI5N3FnR2RQTEthRDlWd0QzOUNFSVdIQV8zdHVRSVh3VUZIcWtCcDEtdzQ4bjZCWWctNUs5eXc2Qm44VUg2X1Z0eW8zdzJQRHlYUGVPeUFmRTVjcGZUT050cTZNZm5MbjV3YXY3cWNTUkdOSWpBNGRY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-30T15:21:03+00:00",
+      "summary": "OpenAI finds users venturing beyond their job roles with ChatGPT  TechInformed",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Inside a cyberattack launched by a rogue AI agent that escaped containment - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWxOLW9VTjNZWmVXR2tpX0hsUmliY3o2VE42U2dSdlV6TTdzYndqVldVa21nX1owcjBrakxQTVdld0tlR2VJbjlJenhHQmVFcEpBTFZUU3RTUFVKa0QxdTEydFlCQVo1T2FleDJ4ZFFoVjdObDBvZC1aYy05Y0FIMVk1MHVpcXQxMXlEcUQwYmhrMmFmYzI1bjhoS3JzbHZtSGJVOEpJcFdsSEJ5dlNYV0JZTVFpTU5faEw5NlVhZzJXY1RpSlVIcGhDVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-30T15:02:04+00:00",
+      "summary": "Inside a cyberattack launched by a rogue AI agent that escaped containment  washingtonpost.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTkyN0FyMkhwM0tqcVB6T3VfeXlNN0VDeWRqUmt5ZTBzUGlqY0JXdzFSc2ZMT1FiMFcwc19KNEx0X3dEdVNQbllmYm9jNjhFNkFGWHdOUHd1QkVacVZTUUN6ajVHTDg1VWR1NlQ5azN2SWo0ZnJ5SHd6NkFVemg5TEZfRzk1d3RVVW9wQlJsVUlRbU9Nd1VMaS14cTd2emI1UUdHNkdwUmFCSk5aLXREbXYydFYyZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-30T14:48:32+00:00",
+      "summary": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Reco Joins OpenAI Partner Network as Select Partner for Enterprise AI Security - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMDJXVENGUmVsemJmVkJaRnZpd2VLM1hycmFsRXJxeERqbnJVTFN1aWctZ2FsN3BGdUhoQjg1djNFbXFlaHNiRlJzb1lJRGdfM3dUTjVLeHFkVU8zS2hHdUE4bnNNd2d2ZjJNdlRLNUV3OF9CbkY4LWlmWURTWmdrVE1aRzFXNjRjTWRCQVJ3OWdyZkEtYkdsRDdMSzVLMU5sZ0pHZEhVQVl4S2thRGJ5bGQ0SERxOFZx?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-30T14:35:33+00:00",
+      "summary": "Reco Joins OpenAI Partner Network as Select Partner for Enterprise AI Security  citybiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump eyes more AI restrictions following OpenAI's model going rogue - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeG9pYzlZSlQtY3lLQ1A5Q19rN243Q1ZkVWRaVjBwenJIZ2h5WkdZYmNZMEs3cjg2bGtrdUlLNm5QcVlEcDBPQU8tdUdzbHgyYmdkWXBUMERRX1Y4Z3UyTWNzS1F3a3pQZC12TTJJNGtvMUtQOHpnVE9lX3kzdDlDLWNzMTdMNzNsRW9paFR5MEFubVlOS2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-30T14:25:56+00:00",
+      "summary": "Trump eyes more AI restrictions following OpenAI's model going rogue  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,11 +87,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - stocktwits.com",
+      "title": "Mark Zuckerberg Blasts Centralization of A.I. Power - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rd0Z0Y2F0eFhzbWZ5Y19YOXY2aTBaRW1LQjlIU0gwWkNabktwdEhZZWJYM09KUGh1NEl6QWhXQUZHSnhycm9CY0ljQjVpWFByQUtIdnd2akxGRjhGWFE2Z0FMNVVpN0ROTWFzdE4wbF90XzlCbWFiU2xpT3VXblU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-30T14:08:00+00:00",
+      "summary": "Mark Zuckerberg Blasts Centralization of A.I. Power  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-30T14:05:07+00:00",
-      "summary": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup  stocktwits.com",
+      "summary": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup  Stocktwits",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,11 +114,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The OpenAI–Hugging Face Incident Demands Urgent Congressional Oversight - techpolicy.press",
+      "title": "OpenAI Arms Users With Insights to Manage Personal Health in ChatGPT - Cloud Wars",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUFGVHVDaEo5V2Z0bVdQTF9qOG5VYVE1YTVaellDU3dLTVh4dzQ5a3VWeldEYW1jZHFKMFhYSU9DQVExUnVnRlJvcGUyZ2NkNS1zZVFkSjVMNXlSbmdpcjNmdllmZFlUVVY5Slg2WnptWmE5YUt4eUVhZFd2MXNfNS1OY2ZGV3JwNU1HM25OcWVaYkhtMWVqQ3BELUhXbG5VWGNscA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-07-30T14:00:00+00:00",
+      "summary": "OpenAI Arms Users With Insights to Manage Personal Health in ChatGPT  Cloud Wars",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The OpenAI–Hugging Face Incident Demands Urgent Congressional Oversight - Tech Policy Press",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWxvX05xV0N1VGZNTjh5TWlJYk1mVTF5TUl4eGRranBwY2J0TGpsbm5yWWEyVVA2Q3BHMllURE1fMjBXOHlwX21sSzJ3WkRBb2lLQ3NNanlKZGhmOUFFOUtQbTFLMnBnRlhZZ1JhX19vM2dVdndPWENJekdhMTBDNXh4Y01ieFF3NFpqenlJbERLWmMtMk0xb2Vqc2Y?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-30T13:52:30+00:00",
-      "summary": "The OpenAI–Hugging Face Incident Demands Urgent Congressional Oversight  techpolicy.press",
+      "summary": "The OpenAI–Hugging Face Incident Demands Urgent Congressional Oversight  Tech Policy Press",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,29 +141,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Breach Puts Every AI Agent Deployer on Notice: CFAA, AB 316, and Four-Company Liability Gap - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQUduVzVULTFTQzllRk9tVGhGRUctTmw1aGtiWFlhRGNqdzM0eTNIVmdnLXNxZ3lZbGRtTW12aFR5NG9yWnZydXI4S09PTFYzcUs1R2V6ejhGZXhvZE00YWdreExOUS14RUFmam80Qmo2Sk1GZ0J3bkFuWVZFSnYzQ2pNRjMzSHE3R3MzMEdveEN3NGlyQjdiXzM1QlVvUTRDclFkSWlhZVVKbE56Z3VFZlFXdjZkeVBPTFdLLU5HdVB5ZVpYZjNqcFNlRUVFeUJWekswa19uQ1dhd2c?oc=5",
+      "title": "Apple’s Suit Against OpenAI Signals New Era of AI Trade Secret Litigation - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazhndXJUaFBzNFJVNHdBWFhYMkIzUTRCZjJJZFg4MzF4SGRKVFZUdDFTemNqR3FOY1lLNTVvVXo5Zm9xelc4dkpNbGU0MHdCQzhfa1htZUo2d09Vd0g0YUNyT3FsbnBVd0YySU9BeGJEUVpsX04zYkVVMVNpeDlDUExwX2pZUTRWQW9IVVJWa01KTXplYW9xcU9vaWgzZklKeWJsNHZibW5WTllhUGdrMnMzOTMyUXhf?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-30T13:45:57+00:00",
-      "summary": "OpenAI Breach Puts Every AI Agent Deployer on Notice: CFAA, AB 316, and Four-Company Liability Gap  Tech Times",
+      "publishedAt": "2026-07-30T13:46:00+00:00",
+      "summary": "Apple’s Suit Against OpenAI Signals New Era of AI Trade Secret Litigation  Law.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Inside a cyberattack launched by a rogue AI agent that escaped containment - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWxOLW9VTjNZWmVXR2tpX0hsUmliY3o2VE42U2dSdlV6TTdzYndqVldVa21nX1owcjBrakxQTVdld0tlR2VJbjlJenhHQmVFcEpBTFZUU3RTUFVKa0QxdTEydFlCQVo1T2FleDJ4ZFFoVjdObDBvZC1aYy05Y0FIMVk1MHVpcXQxMXlEcUQwYmhrMmFmYzI1bjhoS3JzbHZtSGJVOEpJcFdsSEJ5dlNYV0JZTVFpTU5faEw5NlVhZzJXY1RpSlVIcGhDVQ?oc=5",
+      "title": "OpenAI's Sam Altman meets with key White House advisers to discuss AI development - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2d3WU5HNlhTeDdqUjVUOG43b2owLWlCY2hUOEo4bU5lSTlaSnU0TmhKSnRubzAxN3l6NnVBRlhjNDVvNnpQRGVyNE4zczFPdmZYcmpVN05MblFnSGxiT1dlbmo1cGE0dm5qT3ZmZkZfWmd4akhLWGdURWpaS1ZvQUlWVTJYWlNjTjJxZGpWV3pCbjNVWjVUYnRJaGdCY0JDd2Z6OUlCM1hWUFlhRjBYdA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-30T13:34:24+00:00",
-      "summary": "Inside a cyberattack launched by a rogue AI agent that escaped containment  The Washington Post",
+      "publishedAt": "2026-07-30T13:45:00+00:00",
+      "summary": "OpenAI's Sam Altman meets with key White House advisers to discuss AI development  CBS News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Reco Named an OpenAI Select Partner - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTV8zNkVIQXZ5Z2N1SkJnY3czajJrM25IMjVBTmo0MHVtRGpaOGtoZUg4QlQzRmJaZmx3aldTSThtc2tMV2JSTUtHQlRTcU5ldXVTbWFwT1EyTEVzeUZqRlNiby1SaGJHVno0Nm82eW40eFFRRDdBalJ3V2FGc1hkQ2lqV1p4X25j?oc=5",
+      "title": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Xy01cWIxa2IxbHlaV2xsTVR0dDFnNkxVZTJxVmlhQ3RCOWFaQlpuWXNrdXZrY0xLUEZJU2R6aFZ1WWtueEcyOUZ3bThSQ1hmMmFfWlg5SDNWcGV4S2hCR0oybzl4YVlNbmNLRS1COHdHaTYtZ0VxTdIBfkFVX3lxTE5zRmxpSEtjaDZ3Z2VwVTNDdzg0cnBRZmVIOVp4cjNEUmN6MDJOZG9UVGd1YTNlMjdjS2w0NHlCdmZwNGhJSndtRzhDZ0FieWdaVmlld0pGRWQ1TmR1NEg2Y3hvX2ZIVGxabDl0M3RYcmpNcUFwOWVXQUFSaXdTQQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-30T13:03:00+00:00",
-      "summary": "Reco Named an OpenAI Select Partner  Yahoo Finance Singapore",
+      "publishedAt": "2026-07-30T13:22:36+00:00",
+      "summary": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy'  CNBCOpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face  WIREDOpinion | We Need a Better …",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,11 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI agent reaches Modal, Minnesota water systems hacked, fake Russian companies steal real money - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3dWNVNjNG5vdmwyNXRERTFDTzhhWVNrbElmVndFNTl6b2EydXgzVzRrUmt3VmpqckMwbGlmbWNQR1h0ODh2UV8ybHk5UkN0b01WN1liUjREVEYtdVJwOWlvaW5RZ1VMeUNuYmxDUkNZa0lOX2JCdFgwOGZHeENUUHpPcFZLSkFRdWZUY3NENWJXOE1fZU1uOU9nekNwc1ZM?oc=5",
+      "title": "OpenAI Recommends Two New Models for Live and File-Based Transcription - slator.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84TlhBTURNRDBNWG9ob3E0T2xuWHR6RVhMSkJzTVZoRmROVzFhNzFoVlYyemFOUkRfWlRzOUlDSmc5TWlyZFFEclRRY21teG5OTHVFUDdLS3cwM21SaU8wa0xzS1lXZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-07-30T12:58:45+00:00",
-      "summary": "OpenAI agent reaches Modal, Minnesota water systems hacked, fake Russian companies steal real money  LinkedIn",
+      "publishedAt": "2026-07-30T12:58:15+00:00",
+      "summary": "OpenAI Recommends Two New Models for Live and File-Based Transcription  slator.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,74 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Elastic and OpenAI Collaborate to Bring Frontier Intelligence to Unstructured Enterprise Data - Business Wire",
+      "title": "Elastic and OpenAI Collaborate to Bring Frontier Intelligence to Unstructured Enterprise Data - businesswire.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRGY4eHJpSThRbmZQTldhWHR6dUoxbm8tNlc3dDRYbFU4N0ZDOUlHVUliTjFYUm9DMGhnVE9VTGJXTDFUMFpxc0pyUEVGdHZfRFJGczRta2paaWlvZGN5ZWJzZk9pRjFPZVZNc1pkeWtDX1FNLVE0SmY5SXJBdmQ1X0g3QU1VR1V6dy1JVEJKeHpzNm9sVTdISG9NaEFJc0NFS3dZRGtUTGN2MXJYMTB0OVRhT1B5WEczOWVsdGM5QU5LUGFDWmxybG9LWEppQzhEWXdWNWxmeGZBVzJIYndybHdGS08?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-07-30T12:00:00+00:00",
-      "summary": "Elastic and OpenAI Collaborate to Bring Frontier Intelligence to Unstructured Enterprise Data  Business Wire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman is briefing senators after OpenAI's AI agent escaped and hacked Hugging Face - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1adS1TQ0drMXBzWXg0SDRfSERuYkYtWlV4VWZLbFJNOUFqTUVmS1J6Q1NEazZjMWk1WENXRW9tdTdMcnBWTzBOem1URWpGaENjYlhCaXo4WXRKbHJ4MERhQjRkSXNfcnloaWZvYUkxT2NIcXI4ZVhFSFBfTjdGdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-30T11:48:45+00:00",
-      "summary": "Sam Altman is briefing senators after OpenAI's AI agent escaped and hacked Hugging Face  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CFO Sarah Friar says Q2 ARR topped in July 2026 - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VZzk3VW5XaG5qY29UaTd0X2lFdHlqdGE5UnRRU2d4bzR0eV9ZS1hRdTRJWk94eXRrZWhfX053VXl2Tm0yOGk3S1A2bDgtR2NFSEZiNzZBbEVoMlAwQllxWnE3WGZ3QkJwRGpfSGRSSFVaQjZ6QW9J?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-30T11:46:35+00:00",
-      "summary": "OpenAI CFO Sarah Friar says Q2 ARR topped in July 2026  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tredence Named an OpenAI Select Partner - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGdGaDZENGJvS0Qzb3Ayd3NDUjk5UjZBLWNwVXkzTG1ZbjRJcFp4WmVxYWdrdG1QTWV3OVlPRGRsNDF0VmI0RUw1MmNNVTQ1Qm5fLWZrZDlsZjhNOER4UWZjc1JmSU9BdHFIaFBtTjJ6cU01WEFDTDhTTXBqdzVTY0lsWGxHcXNHck8teVFNY3FIakFMVnJBTWtPUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-30T11:30:00+00:00",
-      "summary": "Tredence Named an OpenAI Select Partner  PR Newswire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's $150 million enterprise push puts forward deployed engineers inside client operations - MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRi1kZF9wMmZlLVZ2cE9CcnN6ampTWTY3VmZCQy1NRkZITUNFaXdMM2FTc2wxZHRJVzRZZ1lWTUhOMTg3NmlnLTllZ1dpVkFXN21yNmNhOExEVXBQRkFVN1VOQzB2Z3FJQjFyVzRfWG5PRzJkdVo1a2ZlQlRKYVppeGpabkJmd0VpYjVKX3owdUhWbjdPUmphbEpxaVFzT0hlcUpwdVJzMm00ajdfMGdIMnVDZ0JRdHVxdlpVNmFtanF6YUJ4OVVDQkhETHFMUmFlOV8yc2JSeU9RXzgxYzFZTnJSZVdMR0RaZVpV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-30T11:27:37+00:00",
-      "summary": "OpenAI's $150 million enterprise push puts forward deployed engineers inside client operations  MarketScale",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive: Mayor Lurie pitched OpenAI on a major S.F. initiative. The company turned him down - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU3F3RkV4aTkxWXFLRnN6blhKdzBMUmZJSG9Kdm5ZTTR2bkhmdWE2aklVWmdCT2F5ZEhYT2ktcExhLW9xTEJXWDc3akJNaDBqZjVJUm4zUTdCS2hMZnNUVlpUYXV0VGZtTm5yWE5qVFV4eGMtTjR4SGVsUm1vaFVRZFdTSUJ5YjhxX1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-30T11:13:14+00:00",
-      "summary": "Exclusive: Mayor Lurie pitched OpenAI on a major S.F. initiative. The company turned him down  San Francisco Chronicle",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Jony Ive’s first OpenAI hardware device sounds rather like … a HomePad - 9to5mac.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdzhxUTlFX05OeXU3aEkyNVp1MGJraFNTLTdFM01MSlBqWmwxcWN5RkNqS1pBcktrSC1jVFJWOGd6UENGT2NPSDNmZ2ViRVluQ3RCMDVBa3ZxcVh0QWdReEozZXgycnVCOEdZczFjTnVnNGpHYU14X29OQnlPdGlQYnByUU91UGIwVEJRZldqSFJySE1jV3Exa0J4TlE0ZGpE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-30T11:13:00+00:00",
-      "summary": "Jony Ive’s first OpenAI hardware device sounds rather like … a HomePad  9to5mac.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI investigating virtual lab leak after services, accounts attacked - kvue.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObW1Vb0RPaGw5UVJEeHVkVzl6eE5EZV9pWlEyMHN4VE9nQ21Xd2RJZGM3aTY3eDd2bDBfanpBVlNiNnhhUjd3aEtCVzZVcWVUemlsU1JqUjdsNVJqUjdWanVHbXFwNkktUzJhTzVGczVwS0syMGtZU2pvM051V2xkZHAxZFpxUmEtQTJaV1A2M0UybmdWUnA0TU1tYzZCdkUxM1h1RUh6eDA1NGQ3RVZ5NGhXakxyeWNtUVVLU1UxNFNlbmJmYTY1MQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-07-30T11:06:00+00:00",
-      "summary": "OpenAI investigating virtual lab leak after services, accounts attacked  kvue.com",
+      "summary": "Elastic and OpenAI Collaborate to Bring Frontier Intelligence to Unstructured Enterprise Data  businesswire.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
