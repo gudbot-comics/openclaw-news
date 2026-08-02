@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T11:13:08.169545+00:00",
+  "generatedAt": "2026-08-02T12:16:10.341507+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -36,7 +36,7 @@
       "title": "OpenAI in Georgia: How $20B data center plan secretly took root in Effingham - AJC.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0IzRkxPYXdYWG1qcmhkN1dHR21EZENFMWxPUkZQNjRKMGZub3dzN2dyVzc2SThnZ2NVdlRDeHY0d3hCcXBySUdLbXI1X1dmVXE0MjRuU092QldFeDAzYTc0RlMtQ09fNXVvb2RwcVlpd3VYMkJlUG83c0cxX2dLVVc5akFiOTFJbWtUTUY4bHlaVWk2b3AyR0paUzdKSU83c2lQaWVPT1VLMHd5?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-02T09:32:29+00:00",
+      "publishedAt": "2026-08-02T09:02:29+00:00",
       "summary": "OpenAI in Georgia: How $20B data center plan secretly took root in Effingham  AJC.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -54,7 +54,7 @@
       "title": "At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGVQSTFFQzNPYVN2S3VmamlwN1ZqTHF5UDI0TEtMUGZnRUpTcDhnUzNBYjgwbUhwOUhUT3FlM2VaWUZXaVNKczR2VWd4bTJYbFBrWFQ2cHpVNlNnbXBOeUpjSHlqMDkwMlo1RlItZDhEZkVVRG5oQ3hlczU1TG9UVzgybUlVQkVZTlY2c2VZT0VoT29mQ0RJa185RUkydw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-02T09:00:08+00:00",
+      "publishedAt": "2026-08-02T09:00:00+00:00",
       "summary": "At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck'  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -65,6 +65,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-02T07:52:24+00:00",
       "summary": "D.A.D.: OpenAI Says Its Next Model Cracked 10 Math Problems That Stumped Experts for Decades — 8/1  Buttondown",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Astra Solves 10 Long-Standing Math, Computer Science Problems - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTVydHg1cVVnQUY1U2RxR2l0eWtKOXkxdVBoMVU5YXhNczdEazFNbFJyRVJxYW5hVnh4cUc0aHN3QTB1MGFZTW92RGNtOFdveVJwdmt3MFdPWmJ3U0J0cXR1Rzd2cE95bjdJaVAxeE9jdUIzWVNxSmtXMWVHcWVTLXR4N0g1NGpv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-02T07:39:11+00:00",
+      "summary": "OpenAI's Astra Solves 10 Long-Standing Math, Computer Science Problems  조선일보",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,11 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI Models From OpenAI Just Went Rogue. Here's Why That's a Potential Threat to Crypto. - The Motley Fool",
+      "title": "AI Models From OpenAI Just Went Rogue. Here's Why That's a Potential Threat to Crypto. - fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlN6OE1hSXBLaG1kaHJDRU1uVUplckVmRUc4dFJLS2JBWkFKWGFVb3RMenhLNjFqZU5wa25KYUVRTVRRMENSeVBzS0RfQlFGMGs4cWFmVHN4Z3VHN05DbDNrWjNDQUEySllpcUh1aXRONWNCbkVuSzBmcmZ2V0dUWFdWQnRJSlFUN2xRYWJMTHJoMUVpSWlzNA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-01T17:34:00+00:00",
-      "summary": "AI Models From OpenAI Just Went Rogue. Here's Why That's a Potential Threat to Crypto.  The Motley Fool",
+      "summary": "AI Models From OpenAI Just Went Rogue. Here's Why That's a Potential Threat to Crypto.  fool.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -171,7 +180,7 @@
       "title": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back - WSJ",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPektzS3JzanYyeWtKSFpFaVJ4VFFBUGJNOEkzTHdYSVdtcXpzclZJaDFyNV9HcjcwN3F5OEN0U3VUVmhMMnpqeDRpVnlGanRseE0yczFHUER3ZEljRFZ2NVVzSkN1VmJZU2R1TjgxRmplUFZlWWVucGN6SGQ2TmRBU3pJQ09PZWphRUVSS2hJYkVGYUxSUXAzcw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-01T14:22:05+00:00",
+      "publishedAt": "2026-08-01T15:31:29+00:00",
       "summary": "How OpenAI Lost Its AI Crown—and the Fight to Win It Back  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-01T09:33:21+00:00",
       "summary": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RnNOUnNIRk0wb2FJR0ViSElsc1c4UTRQX2Q5M05SbU5vbF9HQUItbktGNWtVaThGLURGWlBQenlEWUpNeGRQak1OblFZZHdtVngzVkd4ZWNRSnhydHEwaFFGZHdOYll1N2xleEtRZDd3VW9jd3Z0c3pKSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-01T09:30:00+00:00",
-      "summary": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier  WIRED",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
