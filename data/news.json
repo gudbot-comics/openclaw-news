@@ -1,25 +1,88 @@
 {
-  "generatedAt": "2026-08-03T18:22:11.198445+00:00",
+  "generatedAt": "2026-08-03T20:08:42.734262+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "More on the OpenAI Agent’s Attack on Hugging Face - Security Boulevard",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORGpwNDZlc0FHN0tjS0VVemUydno4RlEtTXd3d1VjeEMtNWhWTDRqdmZpSkxKcTN5b2VTR1VuRDkyOFJCOGFIWUFvZzIxckRMOFh4WTZzYlNuWll0XzhGd3FkUENNUFBzSE0tN1Q5eXdVZzdXSU1NajdTMXl1RHhtUzFBQ2VDRFlabU9vU1N6UlU?oc=5",
+      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeElRRk9QY09IQTJvbG1sU0VLSlM2TmY4VWV5bVlsdS1vTDRqVDRFb18zVTRlSU5IT0NxV3EzVkVLdlAxaDVNcE1OaVFqNXZzd3J2M3g0UVBtZU1lcVdHNzBnd1RJTW44X1Rva0h4S2lObl9pbEQ4dmY1Y2VBTGRvanlkbnJ0TUx3SDAzLTljSmNRclRIdzZsVUNLUHJjbDZyZVVneUNzREtaUnBKdmtrNkdKUDExcENoSFE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-03T18:19:13+00:00",
-      "summary": "More on the OpenAI Agent’s Attack on Hugging Face  Security Boulevard",
+      "publishedAt": "2026-08-03T19:45:35+00:00",
+      "summary": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Hits 1 Billion Active Users, 2 Million Businesses on Its AI Platform - TechRepublic",
+      "title": "OpenAI’s not the only one with rogue AI: Anthropic Says Claude Hacked 3 Organizations - Mix93.3",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcDA5dzFRT0ZTa0NtdkhPSk5JY1VVek1CejVGRUU1RVZfZGVOWkphSnFiWE9FcGtTaVNZb2g3QVhyWm1RbjlPa1kydjhReUwzbkJZZDBRcXVuYzRZZzdrMlJ6SU8yQ01iNGRFVW5NX2cyTDJJM2UtY2s4SQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T19:38:21+00:00",
+      "summary": "OpenAI’s not the only one with rogue AI: Anthropic Says Claude Hacked 3 Organizations  Mix93.3",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Former OpenAI exec Fidji Simo's healthcare company has analyzed 3,500 vials of blood with AI. - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWhnYnprYTVaR01oZDV0am0wbXdyNzQzek9oc0hHVnAzYjdOVUVSc3Bua2ZVTVFncF91cFhtVGJJSmJBeDB2ZXVfVzNFWExrem91dnFSWE5idWxBVVk0bDROVHdUbUJJQ0w0TUFRdEdSbzNoZFhpU0R6OXp3VHAyYzluV2RqeTNfQmJlY1JKZG9FenM2QTkxMUVFTnVCQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T19:23:00+00:00",
+      "summary": "Former OpenAI exec Fidji Simo's healthcare company has analyzed 3,500 vials of blood with AI.  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google to Join White House AI Safety Meeting - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3hBOWtTak5hM3JQdjc2Z1E1anpYS0RtQW5Razg4UXdNdmNpeGN1UnVjMzRJY19IdGY3VkVOUC1JSWsxYno3ZlRXOEtDYm5wNmU4c0ZyT0dwUG1yYS1YejZqZ2hYbENNc041REV2VldRc1p2V1c1TXdvOURmOUZQaDFJY3luQTRGNEt3eFR1cTdHdzk4aVhvR2R3WW5CRkwtbDVNR0llRS1sRHFEd2hGNE5n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T19:20:24+00:00",
+      "summary": "OpenAI, Anthropic, Google to Join White House AI Safety Meeting  Bloomberg",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGx2bE9JMlVEaHV3X0VSWkRraFMtZng0X3A2SW1hN2syblFOVDZsOUVRN194SzVpSkluZ2J6TDQ0cVJNSlBjbUkzNERrb1AyM1F4UF85N0FoNG9HN1c2a28zVGotS24xNnZjeC1lWVZqdlZqSWQ3WmJYZTI5VEY2eVl0dnNzM1RranFjcHRxeVEtbERBYlZKckRUZzFNdXRhNmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T19:09:56+00:00",
+      "summary": "Influencers draw backlash for attending OpenAI’s first luxury trip  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "White House to meet with top AI companies ahead of first big regulation push - edition.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2lEeVVGU2ZIaWt1ejhNRHJUUlhWaDlhTnVNQUhVTi1QWlEwU2tqS0dGR2xUZ3ltSGwwbnA3RmRLdVk0Y25sbENtZ2phdE1vU09aZGhET1pLbldyc0pDTU1WR2wwNUlUSjBtU1VnM0ltdWpiR0J0Z05idXZ1aDhxT3VGNkJRNFFkdW0wek50aVNmNmVVSGREQ1JKMVRSaXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T18:51:01+00:00",
+      "summary": "White House to meet with top AI companies ahead of first big regulation push  edition.cnn.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Offers ChatGPT Go to Revolut Retail Customers - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDlrMFZJbkxCRzlQV2RSVGR5NWxkeG1ZSllrSmdxOUJpajBWX2dmMXNHbU04d2Z5T2dnNjEyNFVLempOYjJJM3VYXzRMdGtPYl9TY3hTUkF6WE9tQy1pTG1rMXNuS0UwMmcwTGt1RUVHODlsWjdrZWF1a0txTWJpVy1LOThqdUNjZTc3UzU2Qmh4b3ZoSEU4UmpfZmFjWVF5azVPd2xiWTRkeUtqY2pv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T18:43:16+00:00",
+      "summary": "OpenAI Offers ChatGPT Go to Revolut Retail Customers  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic, OpenAI Face New EU AI Crackdown as Regulators Gain Enforcement Power - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRWRKazR6bmVPQ0hmakk4LW1DY01qOTItc0Raak5DVWxzV0w2Vmx2Z1phTmJWdHNETkdNLWp4MEpmNDhNT0JKWXJZNmdMVGdYcHRLaG5IU25aMEw4VW4xQm1zQ3lZMDVtS3V4a3FRZ0lGUDV3N0ZoM0oxc1VEcElhQUhRM2t4Mkh0SVZTVFZWNnZhcU1paURiOUYwcUpoaVJ6ZllZNHBWVnRWdWdVNUFyTEY0VEU4NGVoeHVYTDBHU1VLZzRqVzM2Yml1aGNZUGF2Yk9pSnc5RnAzdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T18:39:07+00:00",
+      "summary": "Anthropic, OpenAI Face New EU AI Crackdown as Regulators Gain Enforcement Power  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Hits 1 Billion Active Users, 2 Million Businesses on Its AI Platform - techrepublic.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2ejI5SnRrWjVHVW1pQ0piN04xOTdGQm9NcjFVUkVST215WENna3U3OFJBc1NwblZoT2hFU1lyMExKTXQzWU04OFcxdC1Mb1hIdV80dGZNcXNiYW8wYlU5ektteWdaSzFseGRlTzNBZEQ3Y2M?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-03T18:14:04+00:00",
-      "summary": "OpenAI Hits 1 Billion Active Users, 2 Million Businesses on Its AI Platform  TechRepublic",
+      "summary": "OpenAI Hits 1 Billion Active Users, 2 Million Businesses on Its AI Platform  techrepublic.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,15 +92,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-03T17:41:00+00:00",
       "summary": "AI giants Anthropic, Google and OpenAI to meet with White House to talk regs Tuesday  New York Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "GOP AGs warn OpenAI's Altman to preserve records in AI agent hacking probe - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYW0yNHVOd0haUi1IV044NjE0b1hTdHFveXRGR1pWSzRTMWQ1VElaSU9fdjJmZ1NtOXU0UEVCcldNa2NCTy1WLThtd2ViSmZfc2xkX2lTMmdCWFYzSWMzZVlMa290VjVHWVktdXIyVXBNVHFMel8yZlN2MF9LUTZkX2VMMTQyV1dWcll2U2lGRXBPSE1PVkFLUTFVLTBsSC0zMVU2N2RHQVPSAa4BQVVfeXFMUEJSMlJnSjh5YXdNRmpUUVFoTVBjWHRKdk9BTWdWM0ZTTDRwdzF5c1RzTGdNeWcwMEJxTndid243eUpFaHRremJtMXdvUnBCQzl6MUhWTzNYVlVjV3hpTWRteGxvRXhFQ21HTFg2UkVGel9FcmVWNGlvb2JIOVRBWEJycHNrYkRGdG1kczhQR0dZNW82NlI4LTU2V2ZQbERmalZpWXQxWWc1dlJuZ2Nn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T17:38:00+00:00",
-      "summary": "GOP AGs warn OpenAI's Altman to preserve records in AI agent hacking probe  Fox Business",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,6 +114,24 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Hugging Face CEO Clem Delangue: OpenAI hack was preventable; engineers make mistakes - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXpmbklXM0xPVEFQVGJfODZuUHRqbF9IQTF1SXNlb0FvdnNVQjVPVTM4Y3FrM1J6SXhidUxMdkdpNEZ2RWg3dU1sTUdSSFJhbzJSVm9lRGpZazlCZG9Qby03YXZVTGkwenZIck9NZVJZZi1RYmlPeEQySXYwVXh0M0VEZGJrRHpfSDR2MVR4ckhtQTlQQTlwXzZHTEpmUGhUZzNzZ044RDlUX2JsOFhLV2phc21QQ2twdU5pZ0hheHNvUXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T16:42:18+00:00",
+      "summary": "Hugging Face CEO Clem Delangue: OpenAI hack was preventable; engineers make mistakes  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Creator of test at the heart of rogue AI hacks warns ‘there have likely been more’ - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN3RmNDdqNER6SVdJaTFqZW1WaHpvNDJZLUhxS3A4RFJBZjVjdS10YzhFRTFDQW94Ykd2ZjQ0VUhCUXBTNUJCTnpyQVJTUk1xWlVrMGxFeEZ6UG1UVUp3ZXRZSk5KZWpmRnp1em95MDMtV2tBSUNRMk15SU10aU5rMFEtQTJIZEZlS24yLW1maHVCaTBTOWFFY3FyaTNNNkl2eTJ6R2lRUjVYUmtPZlcwZg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T16:30:12+00:00",
+      "summary": "Creator of test at the heart of rogue AI hacks warns ‘there have likely been more’  NBC News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "White House invites OpenAI, Google, Anthropic to review AI oversight framework - Firstpost",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN2I3b1RPNVJOVWxPWHdGT3pZQkE2ZlEtYWEzV1RHbW1xTnlPRkFtUGZBU1d4NmRSLWo5UzJndzc1SW84UHljVXlhVGcwblM3WVBSenducXpGQ2s3WDJnWlZnc1d3bVpQU0pTb08yS0NqYVd4OUpLQmU2a2pvdUtPaGpmSVFPN0xvRkFBd2h4WG4zajhOY0gzcE12MENKbTNoY2RTNmpnaHZBcjNiYzQxN3d4Zml6TDZVLU1TT2x30gHDAUFVX3lxTFBBX0dacDNNVko0dlJpTGVMVllwQkhZS1lsOFR4Q3U1a3RjOGJQelZUWV8zT1lSaVdYYjZfbjlqQ0ZBNHU1TzRtRkdsTXFiMmM2OXNDUm4xOTBaREVwZ1dMS3haR21lWTlDSnlQb3Nmck9GbnloR2hBd0VtcDB4REUybUxSUFEzcnBLNllwUktvMGFxTXJmNGVtNVRDbWU2Mkk0TkdkZ0x4MXUtVURiSDVaZXMzVGRWeDVpcjFldjdTZUkzNA?oc=5",
       "source": "news.google.com",
@@ -74,15 +146,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-03T16:16:44+00:00",
       "summary": "OpenAI announces solutions to 10 longstanding maths problems  New Scientist",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hugging Face CEO Clem Delangue: OpenAI hack was preventable; engineers make mistakes - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXpmbklXM0xPVEFQVGJfODZuUHRqbF9IQTF1SXNlb0FvdnNVQjVPVTM4Y3FrM1J6SXhidUxMdkdpNEZ2RWg3dU1sTUdSSFJhbzJSVm9lRGpZazlCZG9Qby03YXZVTGkwenZIck9NZVJZZi1RYmlPeEQySXYwVXh0M0VEZGJrRHpfSDR2MVR4ckhtQTlQQTlwXzZHTEpmUGhUZzNzZ044RDlUX2JsOFhLV2phc21QQ2twdU5pZ0hheHNvUXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T16:12:17+00:00",
-      "summary": "Hugging Face CEO Clem Delangue: OpenAI hack was preventable; engineers make mistakes  cnbc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,20 +168,38 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's AI Hack Was 'Unprecedented,' Hugging Face CEO Says. He Is Calling For New Rules On Autonomous Cyberattacks - International Business Times",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUNlMm1WaExXanhXN3N3SFdjZGI2VGtncGdyT2dERnh5N1FfUFluSFpTcW9WMndHQXJyNjVTUV9ZZTVxeXU2amw2elBSRUxoMld6V1lfNXI2LVNEM0NRQkRYZ3pWejhSUFdKVzdIVEFTWkltQ3l5QjB4SXZQZnU5dmpMNkJhVTRBb3hjSkJUbFlHR0x3dE5lcDZoa2NyUWxyZ3Rldy1pYjFqX0NpLUVDV09nS3Vqa1dFdmJN?oc=5",
+      "title": "Hugging Face CEO says China is winning the AI race and dominating on open models - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEdhN3psNkdrQ09mOFh4dU5Zek1FZFF4OU5VZl9iR2M2djJuRFFSY041ZV9yWFZHbnBIdDFHM0lQNXZJVmZmdDhXcTFNc0w0bG1WZ1lqQ19uRGFaVzR3QjA1dU1oT1ZiUGNrT0c2MmV2MWNqRXdFYkFyeHBheTZKNNIBhgFBVV95cUxNNFg3UDZnOXVtWjFkdHpjWnFNTlYxQ0lROEk5aUFSdE0tbEQ1VVk4STFfMnE1VTBZc1hoQktSWHVOanNuUU54bkwyUUdKX1h6WXk0WkJhMlM2VjU4aHZsd2U3cFY0QnFCS3o0c3F5UnM3YXdLdWx0WmVwQm1mbkxUdWdfRmpvUQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-03T15:41:41+00:00",
-      "summary": "OpenAI's AI Hack Was 'Unprecedented,' Hugging Face CEO Says. He Is Calling For New Rules On Autonomous Cyberattacks  International Business Times",
+      "publishedAt": "2026-08-03T15:49:38+00:00",
+      "summary": "Hugging Face CEO says China is winning the AI race and dominating on open models  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Sign in with ChatGPT Launches: What OpenAI Retains Is Not What Gets Shared - techtimes.com",
+      "title": "Manus AI, Agent Skills, OpenClaw, and more: Part 2 - fm-magazine.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYTFWZVMwR01TTUJuX1FNODdNRG1KemxnWkZsMFVwOFlHWGswVC05MlRsQXo0MnVxYzJMQlMwUGV6Q1c1MV9wMEFNdUk5TXRnNnRwMkMySlhYLWV2dFlvRWJ3Y0x4UGJhWmd6Y3hCMndVOWEydTR1ZkhOMGF5aHVUb0VMWWdZZmUwRGR2X1dqQUNqNjVWMUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T15:47:38+00:00",
+      "summary": "Manus AI, Agent Skills, OpenClaw, and more: Part 2  fm-magazine.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI's AI Hack Was 'Unprecedented,' Hugging Face CEO Says. He Is Calling For New Rules On Autonomous Cyberattacks - ibtimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUNlMm1WaExXanhXN3N3SFdjZGI2VGtncGdyT2dERnh5N1FfUFluSFpTcW9WMndHQXJyNjVTUV9ZZTVxeXU2amw2elBSRUxoMld6V1lfNXI2LVNEM0NRQkRYZ3pWejhSUFdKVzdIVEFTWkltQ3l5QjB4SXZQZnU5dmpMNkJhVTRBb3hjSkJUbFlHR0x3dE5lcDZoa2NyUWxyZ3Rldy1pYjFqX0NpLUVDV09nS3Vqa1dFdmJN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-03T15:41:41+00:00",
+      "summary": "OpenAI's AI Hack Was 'Unprecedented,' Hugging Face CEO Says. He Is Calling For New Rules On Autonomous Cyberattacks  ibtimes.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sign in with ChatGPT Launches: What OpenAI Retains Is Not What Gets Shared - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXBSblFLWkJJbnJTY1YxYW5Ed29jcU9sdHJTeWV5M2lQMU5fcXpGRGpQemNOZ2Z5Yk1DX1FHaDlqMl9PeWxRNm9PVFZPaXdRTUVzMkJjX2pub0E4eTN5OFBheXBPVFlYZDJLcG45TVJWQkFVWl85elZieVBXTUdVQkdwVTdlS1hfY1BJWFJ5RUt0Z2dmN3YxNEl2dUJGTi1Xd25pLTZfUEpqVU54Q3pRUFhLbVJuWnRo?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-03T15:17:17+00:00",
-      "summary": "Sign in with ChatGPT Launches: What OpenAI Retains Is Not What Gets Shared  techtimes.com",
+      "summary": "Sign in with ChatGPT Launches: What OpenAI Retains Is Not What Gets Shared  Tech Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -137,87 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-03T15:08:00+00:00",
       "summary": "Sam Altman reveals the investing advice billionaire Peter Thiel gave him that's led to a $3.3 billion net worth  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Confidential Apple files followed former employees to OpenAI through iCloud - AppleInsider",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkVZWDNfX3NRXzAzdjNMSjVtX3FQaGZQdEZ5ZUJZQktGdzRUSE5YSnBURW9fdk1ZVmhZVEdWbE1tUzkwMmxlVHZUeXlCVE1jWVhmbG5icU5tVTVKdHZ1aVl0XzE2eHNkMDBvZUE0TjJrNExJUFM2NmVxM1BERGVMaVduS19LNkxnRWxadndqUS1kZ2RabU5nVUhZNXQ4THZvSUY2azdBeFhQbjRQbTF6ckl5dDRlX2p5Ymc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T14:45:00+00:00",
-      "summary": "Confidential Apple files followed former employees to OpenAI through iCloud  AppleInsider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "White House to Host AI Companies on Tuesday to Review AI Framework - The Information",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRjQ5ZnY2ZFM0aUdxSjhQQzFlbXBaNGlFT3ZhdGpiaEh0MlMxYUttOWpLY1FBRkphS1cyYzlSUFJSYjEwbFhtZHlBYXhYVmRYZDIyUEl4bWFmT3c5U211NUF3NUFtbkQwQ0Zad3hNX0NsVl8wbURwdjNHanV3NTdLdnpfUDZjdXpxTDZJcnNDT1ZkcHJ5UktSTmN4QzY2Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T14:24:00+00:00",
-      "summary": "White House to Host AI Companies on Tuesday to Review AI Framework  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Here’s How China-Based Alibaba’s New AI Model Compares With ChatGPT And Fable - forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbEt4eWd5SmIzSnZKSElsd0JCZ1hzQk4xUEFNVXFqLUNMWTVNcTc5Q19sYm1uak1zTVF5UzFudEM3cGUxaUxtQUhxaHFrRFhSNTFmNl85NjFobVZIMkJKMDcwMEtBNDFuRjJtT2l6NHM5YVhBSFZxTWR6bmpzemp2NW5FMkRhbVRLMV94clA5X1prVGtKeHBURkd2MFJ0R3ByV05XMkpzM3o2Rkp4eU5tZG03ancxYi1XdVRLcTJzeVltWjIxdTJmd2tqaTdEcUlnSVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T14:09:32+00:00",
-      "summary": "Here’s How China-Based Alibaba’s New AI Model Compares With ChatGPT And Fable  forbes.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Alibaba Stock Pops on New AI Model but Here’s the Bad News - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUlFUTYxRGZUcHhtd3daN0ZsV2U1U2ZvS245NHBjUW1FbXV5MWRxOXZxRGdiM1RTeXlFOHpSdVZLZ3Z5NEE2czhMZ0t5UjFxRTcyVW4yZ1ctbEhub2VQRzhNX0ZoLUstUWZYRTZBaGxKQnB0NVBNa1ZVckhiWW1CZ3BmbFRRaEFyaVpBX2VCWFA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T13:57:00+00:00",
-      "summary": "Alibaba Stock Pops on New AI Model but Here’s the Bad News  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How OpenAI Announced Its Next Frontier Model 'Astra' - AI Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOekdvVEVnYlN4dVpGTE1VTWltLVB3SDJRS0hXdERDU1JNS1hhcGh4TzFUd3A3ZUNxdW13MU9IY1BNRzl0TFpjRUFUR1BoU0ZnUUNlRmo1cDlMb0VyendSaVozZXZURkVfMklFaVMtcE1Ia2ZzdWRqaFJkbHJ3YUlKNmpoRV9rU1kwUUVFUWtNWmVHNExB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T13:49:41+00:00",
-      "summary": "How OpenAI Announced Its Next Frontier Model 'Astra'  AI Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hugging Face CEO called OpenAI's rogue AI hack \"unprecedented\" and wants new laws - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnVWa2RNOVMtUmhYYzU3NU9xWU1LeUIzTG5DVm5JYjB2T2N4WnJDU3JiRWR1a0ZIRGVVUXJraTVSbEhSMnMyZjFxbFlRQlpQYWhUclRRM3I2UllxYlNZaHdkZEd1UWVHandBWFFuZ3QtMzZvbEJIMkhQRklxTzN5Y2NUSDA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T13:25:41+00:00",
-      "summary": "Hugging Face CEO called OpenAI's rogue AI hack \"unprecedented\" and wants new laws  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s AI broke out. It’s time for digital disaster planning - PCWorld",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdzJobUMwOEJ3eFRPZS05ZS1ubTdMZzFSNFRCaWVmSGJpZ1dlWlV6c2NtamhrdnZsOTFjTTBHUmtvdDdYU2ZwRVRkSDVrNC1mLW5LR1lPemhSVFg0eEtOXy1lRG5welZobUZnQnpBdHhaSDhEMUh6aU5mWWhJSnY4VWxJZ1RvZmJYUVBvYXg5cU9ZWHcyaWpxeWZFWWNoTkhzTmlXdnRYNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T13:06:52+00:00",
-      "summary": "OpenAI’s AI broke out. It’s time for digital disaster planning  PCWorld",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How an Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Suit - The Information",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXJwdmVDVzlnekNjdWNQYlpKeHE2QjdGeFQzb2tVNjdFVFRLa3JycTlKNnNFOGdkT3dnRDk2azFzMUs3R2M4djBfNUUzNm03Uk1Uem9fUnB2MzB4VFhUbXZOd0lQQjRZQW9lQnpHYjZmb1BiWkprbkc0WVRFeXVDNk5rc1JlamdEQk0zVG1XS1JjNTZSbUlKaThRYVJuSG4y?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T13:00:00+00:00",
-      "summary": "How an Apple iCloud Policy Fueled Employee Leaks Ahead of OpenAI Suit  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says its next AI model Astra cracked ten long-unsolved math problems for roughly $2,000 - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sa1ZiZW8zT3hNcXVsYnR6am9vT3dqU2RrZHI3cFdEd25jN2VLemdhNHQ3MEpoV3BpU2NfcTI4YXFCOFNvcmNRMTFjcVNMdHNFRDlZRElscml2R2tLZzVTYWtMcWw3cE13Q1JkZ0pGMHJrTl93?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T12:49:42+00:00",
-      "summary": "OpenAI says its next AI model Astra cracked ten long-unsolved math problems for roughly $2,000  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
