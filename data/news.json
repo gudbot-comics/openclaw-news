@@ -1,10 +1,154 @@
 {
-  "generatedAt": "2026-08-04T09:48:23.681969+00:00",
+  "generatedAt": "2026-08-04T11:50:48.035323+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Strikes Back - spyglass.org",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lUHBmZTdILURfVXpya1hNOEdXMC0xWUtHOVlwV2VjVkNCWnVYUTc3OHJnX2g1NXBUR3FzSTlHN1VRa19yMTFPcEptdVBGWmRJY3VJdnFxaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T11:49:49+00:00",
+      "summary": "OpenAI Strikes Back  spyglass.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajJfdzhTb0Zia01GUEZDdmg0ZmZOTVcxbEx3S0R4Tlp3S3BKbWpRU0Jaa0QwUFNrcXlOYmFnT08xbDNGSk5HWnd5UThyWURXZTFiODAxQktfN3Y5U2ZRRHJUdWJoOHZ1cmtGelZPYzZaZEc1aFVoeHhhTEZqRTQxWmZkRVhuaEVMOEFodUJ2OU1fbl9zVUdoajYzdkFVQzJEYWRmYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T11:27:55+00:00",
+      "summary": "OpenAI drags Apple’s lawsuit into the court of public opinion  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GOP AGs Demand OpenAI Preserve Breach Records as Litigation Threat Mounts - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS1VJSlJnaS1ERURocUxkbnd4dTg4SllOZndPRzA0LThncXBnV3hMc0J5TWtscVNVRndRTTJza3Z2dUlLTDVrZHFnbEtjeG84bFJRcG1ycnBkYXR3ck5rb1RGUDE1aUNsMktHN3VxNjBoTlJfcC1hYTZ0TVpHMk5lVjNkOVp0VDhsWmUtVkpsQlp6MzBtOXFmY0hhNDVyRjlSRmhJbERreS1yVWtMNW5QSVc4RjU4S1U0U3JZWVlnbzBST0k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T11:26:36+00:00",
+      "summary": "GOP AGs Demand OpenAI Preserve Breach Records as Litigation Threat Mounts  Tech Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Congress spends 88% of its AI budget on ChatGPT - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdVZMWnp0Rk50YnFHdjlEZXJqX0pSdXdhbmc2cWZFZVNNek9Zc2NWOUZNMGd5cGh4bHJmaFlCLS1iWU53bWhlUXpLYi1LT3RMVVl2ZFNrM01jZDFrV1ZPd2FlYTZnTnhqa1BkNHNWbmlTR3ZYUUQzU3dUZzV5NlVLeDJZMktsZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T11:15:38+00:00",
+      "summary": "Congress spends 88% of its AI budget on ChatGPT  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "15 Republican State Attorneys General Issue Preservation Demand to OpenAI Over Hugging Face Breach - forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUFuZE93RVlkVGZXMTRURllWMVc0X3d4aFJla3hwd096eE5Ed0tGZEFDa3RWN1VHRkRwWG1ucktjVERxVENHejNReEhGV0MyZ0xacnl0a1VQcTFsenJNQ0dDUjBKbTFKTnUzRXhEdXBVbHY4MjF5VEVqM21KSU84dmMwRExWeDlvNGo2eW4wdUlwU280c1UzRGRzdXVpUEhPaV8xZF95WWJYcVBianU2Yk9SOW1tb1BFekZHaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T11:06:57+00:00",
+      "summary": "15 Republican State Attorneys General Issue Preservation Demand to OpenAI Over Hugging Face Breach  forkast.news",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Clearlake Capital Partner to Accelerate AI Adoption Across Clearlake’s Portfolio - Clearlake Capital",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSnljNkNqZjhDOUZhcUVaVlVUU0hhRzR2UDZNendaMVJMYlZ5T3NvTnJsQTZTdTVJTmR1QmhycUNjMUxsRHYxVVB2Z284OVZVeUMweWJoMnpJZHdVS0hqdDRVN3kxNUJPTEt2Uk5sd1dnc1pVOGJEenNPUkhMU1ZzckEyZkZCWVpEUW5EamNfaWkzVnQ0WGpfRkVhYXN1MnhyNjhWREFwN3FTeF9zZkRDWXJubnA3QVU2X0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T11:05:40+00:00",
+      "summary": "OpenAI and Clearlake Capital Partner to Accelerate AI Adoption Across Clearlake’s Portfolio  Clearlake Capital",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI agents within OpenAI access the internet independently during test - kcentv.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnpEU0trZ1dOT0luN1p1NWt5N0VfTFR4dU9QMEhKbWFGM1J3UEgwN1NiYWdjUW4tWXJ1Wm9KampiWVZGWEZrNWVlcDMwSWxLRk9FVDJzV2dFd3Y5TjZRVEQ4VjRVUVFzYWQwVlg1RWpjZkpQczAwdGh3bDQzVWNPVVpBNDFZdHk1aEp3Y3FOTkhBSEZPUE53b3Zta3I3bEtPQ2lqRmhBclB2TmxkbWNsVmFoZHRBY243UmdLWE51TkxjaWx3eHNScWtKSXAwSGU5UWVIcWVOLXRKZjZUaVJFb1Jxc25Nd0Nt?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T11:00:00+00:00",
+      "summary": "AI agents within OpenAI access the internet independently during test  kcentv.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Responds To Apple Lawsuit—Says It Doesn’t Have Nor Wants Trade Secrets - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORkNzZ0w2YXY1Y0NoYlQtNWJmU2dnUmJWRE9uRm9XVjFYR1d5b0hMRmdqLWVCMFVaRk96V0VzbE5oOEtQZHdxYlNFYUljZHBSTXlnOHNqTnhwd1VEdFVSSERucDVYQW1KdjU3dkRLU3JDM19lMGQ3OTltb2F6MDYtR0d1WU9WanRpTFdSQW9ibjRrMG1uWGpSM3hsM0V3OF94Mmo3TXRpSHBUekRYUUJaVUV1aG9jck1sZEhKMG5sbHFMVi0tbFZqM3N0VjAxYkR0ZVZZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T10:45:10+00:00",
+      "summary": "OpenAI Responds To Apple Lawsuit—Says It Doesn’t Have Nor Wants Trade Secrets  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman’s OpenAI publishes brutal critique of Apple lawsuit: ‘Apple is getting this wrong’ - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHRvSmJ0d2FuenYzRG9abTJ3WXN1eUtkaWwteEhoREtubWpHUTU3SnotaFN5ekFMR0ZKSWdib0x6TDJlMG5Sam91LS1CNDZvTlhlWDV3NFN3TWM3MURLRjV3d25DSnIweTlNRmFYdHpaOGk3ZTNpendvLVBFZVZKblpTXzA4bXlhNTNOVEJn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T10:40:00+00:00",
+      "summary": "Sam Altman’s OpenAI publishes brutal critique of Apple lawsuit: ‘Apple is getting this wrong’  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTRDRm4xdDRqMERmaENHcDBtcGZrNkNNRlZ5VmdPdUZZRmZMNWZFZW4xS0syTDZqQzdrZEtXTmZoZ1plaURDUlpxa21BX3Ixb0NHc1dOdElWSEQ0dERoeXJmOWVacVZkekYyQzd3MDdkZHpZUGhUczZoaGFvRmZ1WTBQWV8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T10:31:00+00:00",
+      "summary": "OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight  Financial Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa0F4T1k3Y2VVVm9RWnpaZE9kYTRoR0JEbnUtT2lFSE81YjdVWnc4QU5qRElPcjBxUlFpc19zNVczRkdBanZoTGNjTDBwSXdfV1B0SUo1RGozSUlPd2huMWZkWndwLWdLZnNIeXMwakMtNC1XeG04aFBJZjRoUWRMdVh5ejRvSXBhRUxycEc5N3VYQnh5MzUtOVp6VmF5czl4S1g0S042YV9HdkkzaHFYUVR3eTRPTGdHVGs3SDgxeHZrTURXQngtZndjX3p0aklRLUJxV1dTV3ROb21sUjBnUEln?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T10:29:56+00:00",
+      "summary": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "State Headlines: OpenAI Transparency, Bird Strike, Missing Man Identified and Iowa Sales Tax Holiday - westerniowatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODN1U1l3eWFsaEsyRHNQdFoxb0dJVXBldjhrRGpfaXdZakNEQ3B2Vk94T0hmRTR1YmZWc3hUZGlfWmRyNGxLYVZReFd6YTY3TWJ2WEVoeU0xZVhVUGVyYnlZVmJCNE9WRE45VHM3Ui1NclNXVGtub19VNkpLdzkwRHZHSnZaXzduVWI3TGlXMk9iVWlPbHRxRnVjT1BKVW5MT3FJVTFpNkNhR1ZZaHNMMVVpcExmMldwMnJVZFlWR2RHckNXd01KWU5pcENuUEo3WWRDZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T10:18:04+00:00",
+      "summary": "State Headlines: OpenAI Transparency, Bird Strike, Missing Man Identified and Iowa Sales Tax Holiday  westerniowatoday.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "'I'd Be Petrified': Steve Eisman Says Cheap Chinese AI Models Could Wreck OpenAI and Anthropic's Valuations - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNODl0a2t4d3VUUWVzZ0E3Q2lQVGVaTllhRUwzWVNQcERRZjY5Q2pDZ3lKcklNUEV0R0lVbmwwMG9nU3pjb0stNkhObXBVc3diX3pRMlBlVVppcjdOOXpsMmVNalhBcVZva3I4cmp5NVNpczVmRTAxSDhfMUxBSkJWT2dZLUVuZFM4WDAydnZBOV9qV3VsbTJVMnh6RlJFRWl6SkVCXzQyUHlWTU1RTUl1TWVsREtnVFVvVUk2ZFFNODE2QlNkLTF3MzJ4TkM4UTFhV1paVDFWcWdjLVVNLXJZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T10:08:20+00:00",
+      "summary": "'I'd Be Petrified': Steve Eisman Says Cheap Chinese AI Models Could Wreck OpenAI and Anthropic's Valuations  24/7 Wall St.",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Traders push GPT-6 bets into the autumn after OpenAI names Astra - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzJzeU83ZGo2WWswRWJiS2FLdEZWdlNkbGw2MmpmVHpNQlp4Y3p2ZEVXSzRTd01FX2l0Z0RiZmdqOHpmeE40c2JlZ1FMOWpNNHpEc1BUWGZ6M2dYUjRtRmNaY3VBN20wc1NvaEt4YWpua19xT0V0WjJmelQ3RjJaN1JGQk1KY1YweFVWYllGYzgwcXlHSk5seFFocmswTkJYcTQ4WDhuRmNkNWp0cnBWQXlLU0tzV1VKUDlBTjdJdExTbE1FY0dITVNwTEdzejY4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T10:07:30+00:00",
+      "summary": "Traders push GPT-6 bets into the autumn after OpenAI names Astra  Proactive financial news",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI has hit back at Apple's lawsuit — with receipts - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVk2UTZSN3c2bDl4ck4tN3NhLXlScmhxbks4ZXRONUlmaGtZVHBwdExOZzQ4UlZmX1dOTEZkVm1KczRnWjlORmdqZkF4Nm1LSEVmUTctanlsblV3NDlnQlB2b3N0V2c4QjlLZzNSQWdUT3hicVh5WGtlSDJmek9WeHFhN3RmUHhfZ0g0RnpmS2hNa2NCVmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T09:51:25+00:00",
+      "summary": "OpenAI has hit back at Apple's lawsuit — with receipts  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "White House To Discuss AI Safety Tests With OpenAI, Google, Meta - StratNews Global",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTF9yUUIyaUcyV18wUlpZQVpPdFJub3hJN0Y2LXNsMDFjWk5rOUhhTDN1dVA3MHBfejBYR2JVQ1JkYUZjVUl3Y1FwbXZmVU5EVVFoLTRhejJ1ZUk4LXpBYThxMi1lUnZVNk1sQ3djSVNKTDBlTjAxNEl3SFhWQ0JUV1FHTG5RN1BUaF90XzRFV29OaUphNHNuaVdzd1piQTZPTld4TA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-04T09:48:29+00:00",
+      "summary": "White House To Discuss AI Safety Tests With OpenAI, Google, Meta  StratNews Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Will ChatGPT’s First Summer Camp Be Its Last? - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkl3bzF4TFlxRjJvOUZabHZ4TkhJNTZWdEc1YS1rWElaamE0QW9JaUlpMWZCWjdQdk1kbldRNUdnU09rN3BDdzJjcExnZnlCcUNHeGQ2ZHNYdDlZWFpPR0g4Yi0wcTdRVC04UUpxTW1hemtsZUdxT1B6S2VGcWlEc2FTam9IMkRCMDg3eGhYXzhVU2hHZEFsM3VkVURYdC0tMUtxYWljRk4yTElORVBGQ0haSVQ3bWM?oc=5",
@@ -24,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Creator and influencer trends brand marketers need to know about right now - Ad Age",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMm1LcUFsTnlvQTVWbmtPckFLXzhYV0NTYWNXTktFOWFDUkZScm1uSkszcE5JY05PNzBJc3poVHNocHZzU3RjY2QybGNHVzNrRVc0VGd5ak85STY0b290d2Fhd3JLa1k1a3U3RnpCdnBFUG5DVW1kTi1EOHl3YkJKczJ3?oc=5",
+      "title": "Apple’s OpenAI lawsuit just tripped over an embarrassing wrong-recipient email - Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDRDNDJTcXB1aExsamR2dDU0Uy1JVWw5S2dhODRRTDJNai1INzFWbzhZQnZrUW9HNHpMUlNZdlhSLVRPdEcyT0NTVG9CVV90d1Nxc0JTOWJfSnpQeVdLcVBDVk5YVEFyVFZ0RTJobHNqOGZpLUZHaHN5ZGY0VkI4TEJWUzNZZlUwSkZKRTh6dk1SaXZWaXBvRjh3NzI0ZVJyUWI3NE9ESXRuellkZ1MtSk14Rk5nbl9QZFE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-04T09:05:00+00:00",
-      "summary": "Creator and influencer trends brand marketers need to know about right now  Ad Age",
+      "publishedAt": "2026-08-04T09:04:22+00:00",
+      "summary": "Apple’s OpenAI lawsuit just tripped over an embarrassing wrong-recipient email  Digital Trends",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI to Host 'OpenAI Game Builders Seoul' with Song Jae-kyung on August 31 - Inven Global",
+      "title": "OpenAI to Host 'OpenAI Game Builders Seoul' with Song Jae-kyung on August 31 - invenglobal.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRU1zcGhGSm9sVDAzRHJ5Wkt2RUJoMHJtc2xjMEFkNVFwOUpJd0JCWF9QSlJFMXdtWjEydEdyLWxwWXI5NWZvUnpVemt0R1gzcExOZkdudFRRNWQ5RzZkdDFQVUdLLXZxZHRGXzlmSzgwbkd6R2g3cTctcVYtUkhiVkM1d2ZjR2p6ZC1NWGlpNkJmLUFFQkVscWdUUFQwdmRSOU1oRFhFcmFES2R1bFptOUJVWWdtbVBI?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-04T08:06:35+00:00",
-      "summary": "OpenAI to Host 'OpenAI Game Builders Seoul' with Song Jae-kyung on August 31  Inven Global",
+      "summary": "OpenAI to Host 'OpenAI Game Builders Seoul' with Song Jae-kyung on August 31  invenglobal.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,150 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-04T07:37:24+00:00",
       "summary": "Apple seeks injunction against OpenAI in trade secrets lawsuit (AAPL:NASDAQ)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Greg Brockman gave $5.5 million to protect the home of an internet-famous bald eagle named Jackie - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjNMZ3J4WTVpMHZfQzhGZm9HZVV3QmhZZWI4ak9STHQzaDVVZU51ZVRGTWdCTlJmV29aSGQxWTAzWXI2bmNvbFNQRUR5WVFSUTBRNjR4NEpBX0VZNFdRRmxBa29CS2dGNExPWk11MFhSMC1KRHhObEx4ZzctZVZuLVBWYWV2Q0l3TUVIV0JaLTMyaEhxc19TNHB6VTd4WUFfbGVyTnRRMkU4d28xNHhwaUU3c2doUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T07:01:00+00:00",
-      "summary": "OpenAI's Greg Brockman gave $5.5 million to protect the home of an internet-famous bald eagle named Jackie  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face - infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wTWQxVmttc1BFVUl6OHdLS3dzSmJCTTdNSzBrektJNy1qNVlvQTRrMnBEWlAwbFZ6UHhwY2JubnpSS1VGZ2FGMkx2cUZHSmtGUlNiQWZqSC05UHZ6OTBWUkdyODJEX2Etc3NwSDBB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T06:42:22+00:00",
-      "summary": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face  infoq.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI hosted influencers at a luxury retreat with beekeeping. The internet backlash was swift. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaVMwUFJXaG03LXg4YXZJWmhZT2pPdzVWWlpTQ1FDTGRYRG4xVEhkYTgwdFVXNzV5V0ZxX0VGNHhpQlg5bU9LLWxLRFUzYm1sS1AtcW1ZdV9qbGFPeUxncGN0a3l5VXVmdHg2V2hIbmgzSS1uR05KWWktbXRtdkwwanNmU25hWWZhMmd4aFg0Qzg0UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T06:11:20+00:00",
-      "summary": "OpenAI hosted influencers at a luxury retreat with beekeeping. The internet backlash was swift.  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI rebuts Apple trade secrets allegations in new response with receipts - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTTJtcVc2aEYyRDVMbjkzbG5wZ1pyYmFUZUpKQ2VEeXpZWDRMYmZ3cHQ2UER5ajdyRnpsTXk1VC1jSm9qYzg1Zmdfc3VYcnp4NGRmeTQySElvdlFNTXhybU45NXRDQVo2alpfTEE2bl9sRDJaT2JhbG9kY29qMGxuUWR6ZGdweG1vUmttUGp4ZlNZSF9mbXNlMWY5UExvM3lhRXdHdnh4TXI3UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T06:05:00+00:00",
-      "summary": "OpenAI rebuts Apple trade secrets allegations in new response with receipts  9to5Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUxSNUIwOXpQcmNEWkp3ckJYUUVuaExoTVlHbWNEaUp2YVVfX2Z6NHRyWkJZOHAycXZZTlduWkIweHpmd25mblFaYU9EZnRXS2FqYkNsSDBJa2FjZThqZ2c2eWp5OVNKcEhvUmxVT3ZseXZyRnpFT2JjR05INGJWdkIxWGxITUdOXzRyUnNtSWp2MVhOR0tkTjU3THctbjlHVVJTQVZxX01tdFpPX2lrcFFSX0dwNkR3eVA0Z2Jn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T05:57:00+00:00",
-      "summary": "Apple seeks preliminary injunction against OpenAI in trade secrets case  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "15 attorneys general have instructed OpenAI to preserve all materials related to the Hugging Face hack - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeldFNjRUeEFKT2RKUGVpWWVJRUVOUHU5WkxDNWRObjNnZFBVeDlrNXJ0QXB4V01ITFNsekNOaEQ4SzhKT0NMRHctNG5fWGxIQThCM3JvNUs5aWFUdnBvVHNwbXM0cHBnc0pNUkVxQVExVm5XbVg1MU1mUV9MYTNxNVlUZV9jVDFXQ2JtWlp5ODBfblYxckF5czItNTJlTnM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T04:11:00+00:00",
-      "summary": "15 attorneys general have instructed OpenAI to preserve all materials related to the Hugging Face hack  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Watch: OpenAI Faces Online Backlash Over Luxury Influencer Retreat In New York - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWJGc2hJSUJIemk4VG1rTTZybW82MjJTLXN3S1ZEa0Y4OEpNWEhLd3ZwWTQ1RHBrTG82ZERyR2tLVjlTbWk0NGRQRHltTGJzdHlrM3ZhTVR3TmRiamdsaUF2N3A4M21mT0NUZURNNFdnc2ZDc3VqWnkydF9EQXgwWmMwYjI2OVkzTDJJZ0xnOFBMT0daLXQyQ3ZDcnhleHpDdzdSU0RRU1ZtRjRCNGfSAbYBQVVfeXFMTnI4OVA4Y1hXY0hmNUVSN1RDYnVxQjFFdHRaSmxacDFWTHhoTGRPU0pFb1VVR2l2ZU5TbHN4M3ZSQTNZRko2NXFyeUpLQjNYSDNKTXpySDVNMjNaUkZJSjV1enRXSmFRMHk4QzdLTm9DR0JVTnBrY1ZEOXAzQTg0YTdlY0phTE5pV1ZEbmNqMkt6elA3clBTRzRhZllLbDZpektDVEh2TlJUbzVjYUVxNF92TFRWTmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T03:29:31+00:00",
-      "summary": "Watch: OpenAI Faces Online Backlash Over Luxury Influencer Retreat In New York  NDTV",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "House Cyber Panel Leaders Seek Briefing on OpenAI’s Misbehaving AI Models (Aug 3, 2026) - VitalLaw.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ1BVRzd5NG1xT21KMUxGajl0dl9DS3VLZDRkR3NTa2FRQW1vTWZEeEJhaVNjVlBtai16TUV2dDlla1loLVpCem90ME9JZVpNVFNTdDhaRnh3U2pVc0d1eC11WnQ0YWVlR09QbEdWamg4OURQTGs0SlhxbjlzT2JUWFd3MHFSTVpRdjN0NDhaSkk2UFpTS1NRUDkwMzBRbEFRRVVPbm9LVDlEdjVaT29ZQmxzUHQ5RVVtV3lQM1M4VXNlMVhvU3ptdXJGUEEwOUN2RnNEd2kyRUwyQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T02:25:15+00:00",
-      "summary": "House Cyber Panel Leaders Seek Briefing on OpenAI’s Misbehaving AI Models (Aug 3, 2026)  VitalLaw.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Republican attorneys general put OpenAI under the microscope after hack carried out by its own AI - voz.us",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeDlBcGE3LU1VdGNmMHNXNDlmTVZ2UnVYYWpqVm03dHp1aUFPbHdJeFFpMGUweEJueWpnOTZPT0dva0ttbmZtbkhmX1lONWVDSEhYRWNmRGF4aGhwTnVRcGMxZWlVZzhLSGNza1FjeGtrVzZFLTF1R1BjX25CUEFnbVFNLUF4TllfX2ZCQ1N3Z2NLTWM3UUpaSlJ4UWJWN3c5Z3BwTWhnVGt5WHJ2bW9ZMkdCVHBNM1J5UU5DNVdIZ0ZzdzA3TVVTYkl5NHNYUXdRQTUxaUxSWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T02:13:32+00:00",
-      "summary": "Republican attorneys general put OpenAI under the microscope after hack carried out by its own AI  voz.us",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "After OpenAI models hacked into Hugging Face’s network, its CEO sends warning on Chinese models to Americ - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNcDJmM3ZjQkhMeDdvRm1ucEVETWJuVGlTR2V4N1NPYnBaQ1czNjczc3dTRGV3RHJERk9LWEdoc0hYakR5MU04TmFEcnhpSnJGSXBuYVYyWm5kdUQwVG9HOE9SZzFsVUdaVlloX3h2OHJIeURReUpoTWpBcFFYSzJKNU1hakk1ZEhIVVA4LUEyQW12UVV5R0JHd0tVb3lMXzJnZ21kZTMyY28tVHRpbTlKMGpfZFBpVHUzUm54TlZhQ25PUVZRWTJ1bDhnaG1HSm5EVW5nWGJGQ2NfZThPWWI5SlRlakYxRDR6N0tiS25uZzBrNTdWRW9DYU5nMUhoS0h1N2UyMnN4M09rZmp6d19jaExfbGl1TXhLd2E0M05EalUzdTllaUJoT0JUdW53VF96SFFCQVZUelNTaWFDX1hMQmlqd0thUGhOVWtITklsblFYaWFHMlFBV1gzVmx1bHIyZER6OFRNcjZ0NnJwcmJ3OFpWdXFjOGRia2x5T2FjejBYU3VzeFHSAYsDQVVfeXFMTXB3N3ZoRGZZX1dvOUZrczA4QTdxWEJKbkYzdzV6SDhzMUlYZUg1U2VCQW1DOWNhTmlnQ1FxQ1Qwb18yMURXTVp0S3Z0dUt6UjdWSGFzUnZiMXNMdndRcmw4UmwyT3VSOXJuZ19YYW5IZ29wLUMtUm9iYzlxdzBKT2JIVUFIby1SRDZTMU9fUmxIY3dyRGcydnRsZ29OTms5dDJEblllVk5JeWZPWThYRmpGQTJpWXUwNGcxVEVXcVFNT2FfRlJkVnZUbTFiUFBhc1hXSmszb2RBMTFHNUp6T0JubGQxRllheG9IM0hWVHpfZXlZMDhPUmxRaTFTT3dzdmRQR0JJbEpzYlluNEsxLUdhMjduRFF5Rml2S3Qta2lKaEhXb2tZVFlyWFVSUHFfVmZFMkIxN2NZRDdnTmtHXzg0OHhPRlgyOFgtVEhvWUZkTzk3WTZTcjc2QjZWRW1hdjM2MjJ4UUFXWXh4LXdhQVVhRnNxTmpaMGQ5a3JSaDNZMXh4R1lVVWlCZzQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T02:13:00+00:00",
-      "summary": "After OpenAI models hacked into Hugging Face’s network, its CEO sends warning on Chinese models to Americ  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "US House panel seeks briefing on OpenAI’s AI agent security breach - 104.1 WIKY",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3FHcTlad3VNaXBkYmRZaXd0bTBpaG1WRVZoSFM1N2xHMTllNXBodlZub01jQjZObmk3S0NxZTRxMnh0SlRJR0wxbG9uXzdEaF9KQWxLdDcwbWNSSWtDWFB4TmlLT1o4VUxRdjM5d25JUVVfWnJYbVp5TTE1OWdoRnh5RXBybVhjZ3U1NF9WV1BhdWxtcHBKWFVR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T01:30:00+00:00",
-      "summary": "US House panel seeks briefing on OpenAI’s AI agent security breach  104.1 WIKY",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Astra Tackles Mathematical Invention - Substack",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xczRtOHZhQ3c4bFpJWWNpODRZbE1iX0JFMmdxWndEd2xOUDV4TF9GMTUweHR4a3B0RzBGM1lYN1pLcEN0aUNSSHhIMFpyQlhuVU5EdE1OZzlmMWNHZDZuc1A4WlVZRF9IeGI4Z0dmNV80TkphSXlTX3ltWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T01:24:14+00:00",
-      "summary": "OpenAI’s Astra Tackles Mathematical Invention  Substack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI announces solutions to 10 longstanding maths problems - New Scientist",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZEtBYVBSNVZyeU9DTTRvbHBnTm1FUXdiX1NUTUZ0QThycTlBYlhxZm1lYmRPUzc0VjgzQXZETjgtX2V0TERJMlNmcFI5ZHhzZzlYMnBmVEJLbENFeFB2eDJsSm9vWWVzWTFwWFJJMGNjUmZSaEJIc0hSUENaNDlxSlFVLVFSSzdpX1NQMEFfa1dmRTRjaUdNYkVhaFF5RlNFUUFxOGEzU2J0dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T01:19:57+00:00",
-      "summary": "OpenAI announces solutions to 10 longstanding maths problems  New Scientist",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s luxury brand trip for influencers blasted by online critics as ‘dystopian’ - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZS1wZ091dlpoRVZLbFlQRXhCci1uck1xSlYzSnBxZmZtQjdGdlBNYjk3VDBDM05ibmV3Uy1abkUyb0o1VGdvdk50cmpMdmZfemJORDZleGxRajY3UWdLeEVZVTJUZFVxRzFzMnZ2SkF2bkM0Yk03S3QxQWtzUE9UWXpSZ3dWMjUxVGJYVjV4WXQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T00:42:00+00:00",
-      "summary": "OpenAI’s luxury brand trip for influencers blasted by online critics as ‘dystopian’  NBC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI tech companies now selling high-end merch - KTLA",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YWUk5R3BiZEFCVzNCLUpTSnpZeEUyQUVSRzZiUHZRa1lqc24xcjR0cDI2RENOSUpScTctQlY2OFZHZTRlNks3MU9vck52MG1fX3BYN0ZxMnVlZlVJRW5YQXVmQWlTQjZMa0ZlUVF3WW03NmhET2fSAXtBVV95cUxOYkZ2QUNjZFlJcU9BdVN6em9SSm5JejZKSUN3RnZwR01LRmphUjR4WG15dFFZR1o5LW82NVJ6UG9UcmhFRlhON1hTY1BKdU53Z1hLcXNUbEhPbGxuREktQjY2RFR4QUlBUUdtZ05rYm5oVVNQbTc2YXRVTTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T23:49:28+00:00",
-      "summary": "AI tech companies now selling high-end merch  KTLA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-03T23:26:37+00:00",
-      "summary": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
