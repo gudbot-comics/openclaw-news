@@ -1,16 +1,88 @@
 {
-  "generatedAt": "2026-08-05T06:25:12.247289+00:00",
+  "generatedAt": "2026-08-05T09:17:34.420750+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI has reported 2 more incidents of rogue AI agents, this time during third-party testing - Business Insider",
+      "title": "AI kill switch bill reignites debate after security incident - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NVERzcllyemY0MHJVZ1lsOC1IeUp3NnhHQjlsc01Jc1pERVZ2Yy12MndiSVZEZUtvcDlPNVBuN1psdE9xQW1nV2k2TmNuaTdWc1B3RnBhcWxQVWlZYnpnYkhMWjZTcTZFaURj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T09:00:22+00:00",
+      "summary": "AI kill switch bill reignites debate after security incident  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Agrees to $3.2 Million U.S. Hiring Settlement - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wdm16RjNkRlNmSGFRczNVOG9DVXVwanRoZmlqWGR3ZXBkNUVFSjhMd1V5a013aUNMckRLUjNNa3lGemZhZU9jUWVfd2dsa012WWxrLTI1TWJpZWZXTmg5end2anFreEphODNoVjhWY1hILThoVF84ZEVSRXRPX2s?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T08:45:00+00:00",
+      "summary": "OpenAI Agrees to $3.2 Million U.S. Hiring Settlement  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Anthropic models ‘went rogue’ during UK cybersecurity test - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dmZ3FReWJ6X0p4TjQ1dEVrZ0JHd3BKdDl3VjJULW1NVGxCV2pDaktaZHVHQko0WVRoQV9lb2FUSC1RdG1YZVhPRUhQZHlKTGtqZUp0YkQzcHp6ODFfbURCR0M2LWJuUGo1cUd2RXA0Y0tOR1hwNnpvWEJldWVTWEVyV0w0TUtuSGNGT1dEVzRjT1RhQlBkak9wdlhWZnFfU1czNzNqcTk1UmFPRVZlSjNXbTVOLUpmNkZTZE5hNHlMc19u?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T08:40:00+00:00",
+      "summary": "OpenAI and Anthropic models ‘went rogue’ during UK cybersecurity test  The GuardianOpenAI, Anthropic AI agents implicated in new security breaches  ReutersAnthropic's AI used fake human profiles to…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Anthropic incidents put Israeli AI security startup Irregular at center of race to safely test AI agents - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43eHJjaWIxeDJaNXUxLUt3RFVzYXljYk5lWEtSNDBzLVJMZmxSTHAwMmZmS1NzcFZuX0pMVWQydXcxN0VPTzZpaXg5cTV3bGh5Y19JNFFWb1lRc0VxeDljYUtPSUVIOTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T08:13:00+00:00",
+      "summary": "OpenAI and Anthropic incidents put Israeli AI security startup Irregular at center of race to safely test AI agents  calcalistech.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Comnexa named OpenAI Select Partner - channeleye.media",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zUlJ3QlVOMGluS012V2N6TUFuampTSHhUMXZ5b3R6NzBIZHBBMHRQc1BiLXFqTmhOOHgwaG5EenVUaFRKdk5Qd0xuUDFyaFlxVkNrMHVNTVlOMTR6aVhyTjZOeGJ1YzRHS1BhcnZn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T08:00:21+00:00",
+      "summary": "Comnexa named OpenAI Select Partner  channeleye.media",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Anthropic agents carried out independent hacking during tests - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORXd4b1hLR3VadXJfaGhYVUlsbEw0U1dpbzhNNVFCY1I5YVNtdmpFbkY4clE3MDQyYnM4aGpaS2VCbF93dW42TWtTR1BBMHBCZXFoUDl3WGlQV3pjTVQ2b3ZNSnRRcjdCVEtHWU13QXhlX3hBeFI4dWtwVm9wMUgxSGt3VlN6T2VjbTlOdEhJYm1NN0w3ZEdaT2FqcmlrdG84RGF3cVBicFR3QnZuOTBQT0FJU25uS0tyWVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T07:24:34+00:00",
+      "summary": "OpenAI and Anthropic agents carried out independent hacking during tests  Techzine Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple files motion for preliminary injunction against OpenAI in trade secrets case - Jurist.org",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUYtenp3TzBIaVg4ckVXS0V0MFNVdzZXOVo3S0dBXzU2LTA1NGNRZnlVZ1ZqRkFrcHRoSDBVdnJYWmcyRjRva0hLMDFiZU5Fd3pyZlhjYTJzMS1ScWZ4RjhkTHA1dktueDJNa25uRmZqdVhHR256YjhuUmQxM3VyblpVVzV6LW94RmdtenhBVWlCb2doRFhkVDhLSUxoWVlIbEk4Skl1a2FOd3cxSTcxZ3o1Z0Qyb2ZvaTQ4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T07:04:48+00:00",
+      "summary": "Apple files motion for preliminary injunction against OpenAI in trade secrets case  Jurist.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "After OpenAI-Hugging Face, how do IT leaders need to change the way they think about AI? - itpro.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbU15YXd6UE90REh3MzlkZEgtRkxSSkp3YzhMWmdmTnNjR1JsbkdpNHFhV1hPckh1czFVNnpHWnkxMlhhSEhOVEItQlNyejZxZXVrb0x0N0x4eDVTUnRobWI3Um1SdC1DYXVGZWZEZDdhOFAxeU5zdElvR3VzSnE0aUpEamVuRUNHOUtZR0JTb1BRV2xaMnplRHU3RDVSOFBkOE12MWhfTW96bEgxOVhvMDJ4Tm5MTVFHblVyc1BUUHR3dHN1dUFaUU9CVFc2djA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T07:00:00+00:00",
+      "summary": "After OpenAI-Hugging Face, how do IT leaders need to change the way they think about AI?  itpro.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI has reported 2 more incidents of rogue AI agents, this time during third-party testing - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3FhODAxZFlWd0lNdEtNdTZOOFUyczVzUHNubWhscENmQXdEWmNtbllWT2d4VTVGN2RDVi1uQ1YxNTZoa0U2R1lNdG5zdGlyZU1EWWJfa01GenlEdU41YWx6NTFjVGQySGJPYjhiVEVoblVTN2FXRmF3WW5kckE4OHJuZV9vX1RYQldoN1duRkxqSEtHUmtKejdibFIyRW8?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-05T06:13:20+00:00",
-      "summary": "OpenAI has reported 2 more incidents of rogue AI agents, this time during third-party testing  Business Insider",
+      "publishedAt": "2026-08-05T06:14:01+00:00",
+      "summary": "OpenAI has reported 2 more incidents of rogue AI agents, this time during third-party testing  businessinsider.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,11 +114,38 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Trump Administration Won’t Safety-Test Open-Weight AI Models as OpenAI and Anthropic Raise Cybersecurity - benzinga.com",
+      "title": "OpenAI, Anthropic rogue AI agents implicated in new security breaches - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbVhaNUdUMk04NjZQUEJVTUJvT2ZGOWFIaTByZC1DVFphbnpsWHg5VVkwUUpfV3FKZUd4NUJ0VkNqMjhySDJGVlpPalNGNXJ6RXhXYnRvemk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T04:20:09+00:00",
+      "summary": "OpenAI, Anthropic rogue AI agents implicated in new security breaches  TRT World",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI agents fake identities, target real people in new security incident - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRy1kMlN3OGN3MGJXWllocTc3MUFNNmpKRjd0MUVjcHNYbUtWWlNhMUp5ME5YNHZBVjVoaWJHWHlXaGlkcV9icFlvOHhKVVk1QzU3b2FVbW56dHNDOUI0U1NGRjd2U0UtTENzajdidWNjOHVuQmlmRzAtZlpsWmw5d3lXX2VQNFU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T03:56:00+00:00",
+      "summary": "AI agents fake identities, target real people in new security incident  CNN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft cracks down on tokenmaxxing - Sources | Alex Heath",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tYTZ0RnlqcmpIU25jWENEVXhTMm96cnpuRGRMRG95b0lpLTNhZTBlaDVMQkRMX1dJZ2VUeUoxZXdoVlFkSk1FenJkVTFTWVMzcV9QWkp0Rlg2OGwxeUVaVlo2TmxSVWlkczR3NQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T03:32:44+00:00",
+      "summary": "Microsoft cracks down on tokenmaxxing  Sources | Alex Heath",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump Administration Won’t Safety-Test Open-Weight AI Models as OpenAI and Anthropic Raise Cybersecurity - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGtoOUxKMFBHcFEwQk1sTVpweTRhalNXaFhueXQ5RTMtNGxidkNycWNoX0p2cDN6cTlvUWIwTVQzcHFuUWRNXzhIaElmSXpsQ2dpcnV4MXNGdkN2OXZFYVVuakl4WExyVi1OOTM1ZEV5aC1vbFh4ajBwLWJXSFU2NWp4bzBoNC05MEUtNjJ5OXVFUGJNdmx5bkZZdTZiLTY0eW5LZmxrSk9xdHhGSUxxODVB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-05T03:18:42+00:00",
-      "summary": "Trump Administration Won’t Safety-Test Open-Weight AI Models as OpenAI and Anthropic Raise Cybersecurity  benzinga.com",
+      "summary": "Trump Administration Won’t Safety-Test Open-Weight AI Models as OpenAI and Anthropic Raise Cybersecurity  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -81,44 +180,8 @@
       "title": "Project Camellia: Effingham Plans OpenAI Data Center Forum - Effingham Herald",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmRiYW9aS2pDOG1JWFJNeWRfWUE3SFN3NEVmVnM0NVBxc2tGR3BDbGFOWndxVkM2di04STBHWEtGT1JTNGgyM1BOZ1p0aWRiNHFFalQ4aWNsTDBmdjVYYm9HNVZVVFlGT3E1ejlGd2VlTXhVVnVmZUIyNHZIamI3TGpNWFotcGFIXzdmUXZDZFY4bjBud25lR0JCM3ZZd3hTb0haRENrQ0FvM1BUT0FMdWFvUFp3WWZ6cWc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-05T00:50:05+00:00",
+      "publishedAt": "2026-08-05T00:52:34+00:00",
       "summary": "Project Camellia: Effingham Plans OpenAI Data Center Forum  Effingham Herald",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "U.K. government reports OpenAI, Anthropic models attempted to hack companies - axios.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCQ3RLbHlKZ2VuWTR1X3hKMlUzVFQ2NS1YZDVSQjdwZl9hVFNiMlZaYzlEQ1IzY1Y1WDB6M1NwTjFJcEdtYV9zZ3JPWDJ3Z0VENmNpVWR4Uk1Ld3NRSk5zLWoxSG50LW5qVkV4enA4TWR3ZDdqZTN3RnRjYTg0LW8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T00:49:05+00:00",
-      "summary": "U.K. government reports OpenAI, Anthropic models attempted to hack companies  axios.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents implicated in new security breaches - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWV8xZWZ4U0Q4bHNDelZRb3BZSUF0YW51c3NaMXh0UUNyY3lLd0tUYmUySmZyX1hlRlRXcHMwU0h2QVlLRDlMc3Q3MUgxUzIwZ0tySG51ak9Lc29BRkRjLUNXYlRZcnJtVjg1X1VtZHpQQnFEaHo4Yjl3TGU2VGNKUlRzSnd4S0szM2gxTEd0T3VUYUdvZWcySnQ3NDFKUTJmT0Qya240eWNQVHZScEExdXlGd0pta2Q2aU50OF83aHBNZlVCY3JDaG4tclVuMFNiY2p0cV93b0puWWxNVEFiU2FjX0pvLXVtUTR2Nk9ZaUZYU3Mx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T00:45:59+00:00",
-      "summary": "OpenAI, Anthropic AI agents implicated in new security breaches  The Lufkin Daily News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents implicated in new security breaches - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T00:41:00+00:00",
-      "summary": "OpenAI, Anthropic AI agents implicated in new security breaches  ReutersOpenAI and Anthropic Model Tests Reveal More Hacking  Bloomberg.comAnthropic's AI used fake human profiles to trick people in…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to pay $3.2 million in settlement over hiring foreign workers - sjvsun.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGNXdzhyc3NfcW1LU0d5NVpjZjBHdFBkRHJaM0ZWWUFVUlFZT3NYZ1lRUFR5MDVoME10ZTVCS0h5M0VBZVdaVm45Zm5OcDZIX1RsY3B0clc5ZDlWS2JLWk5zQWlSRjhfUEQ5ZlRkUFVFdGlMcnhQdXl4LU9DUmVXNnpEdVpzOURCTFF3UjY5ekhjQ2ZjVmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T00:31:16+00:00",
-      "summary": "OpenAI to pay $3.2 million in settlement over hiring foreign workers  sjvsun.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,6 +191,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-05T00:24:00+00:00",
       "summary": "OpenAI, Anthropic Model Tests Reveal More ‘Unsanctioned’ Actions  Bloomberg Law News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Anthropic Model Tests Reveal More Hacking - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVVyNVl1YW9KaVBnVFc2bjM3ZFplTG44YW1WWFY5YjVGMlJQNFRweUhfWFZETWpDLWJ6akczMERNR0E2ZDd4Y0oybzlTejFFU3NWV21vQlg3TW9xa1dRUEdQekw2bkRuQUgxZUdIR0lzc2xGYkpRSk1jcGE0a3hlaTBjSkJfbEN5VHhGRzdVY0Y1NThxSTJ1Wk9jTElONUZTeFJCR0lqaElWZVVmOUxuSTlB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T00:24:00+00:00",
+      "summary": "OpenAI and Anthropic Model Tests Reveal More Hacking  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-05T00:01:49+00:00",
       "summary": "OpenAI, Anthropic models targeted people and organizations during test  BNO News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests - BleepingComputer",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdF91czRsSXp3Umk5UnFTa1g3bE9XcEdWM3hHaW1KdTdUdUNzUU9VaEJZaUk3TS12NGQ0VWFGWEttYWFXSWFmOEJLaVVYS01GYVpfNXJub3lGT3ZGcUowbnFueXEwREhOREpEVTJ0MVR1LUVBNEVxNTBrUXhnZ1lrZnpEX0YxRGp3S29jdlctd0hRUVhZRWlmejRab1JkY3ZrakhqWTFqTTkwZEtYMmJYWDN1X1ZncUtUOUt6elhEc9IBxAFBVV95cUxObi1CeDhtZXE5a1BfSG84MjRnRXN2MlVVSlBBb1pyTWRyZkdKWlIxN0hJdnFvUWZvZm1UM0N4OVlNMC1vXzcwdU01OFdvY2ZRQXlXSC1VSWlvSFM4OVhaX2JGMFh6S3dzR1QzR282YlJ1Y0hjZ294TzQxNXFNc3d2amtsWTBpc2R1X0FubFVTTUJOM1owREJxZFlXY3dwZXVsN1FJOTcwbWk2N2VaYlNPUjFXTkhXWWpaNkdMRzI1dHFWSTlP?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T23:39:59+00:00",
-      "summary": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests  BleepingComputer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Biggest Questions From White House Meet With OpenAI, Google, Anthropic - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0JwU0VnZkVUckZlVVRqZldXWS1CbHpFNWY0ZGhfVW53NW5ySVlxeXhBNDg5cm40SEFNMU1XNTNqQS1Yall3REstNlNFUkhNRXYwSjhGQW4zRWhHTDJfLV9uTFFqOUJJU0dpeTZnU0VaaUNGVDJwak1JV0pna29SX0lOTjcxNlFMLWdGVmFIb2hsMVVDb2xZZE53aGoyQThna0lzQ3ZVaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T23:26:00+00:00",
-      "summary": "Biggest Questions From White House Meet With OpenAI, Google, Anthropic  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Trump advisers tell AI firms they will not safety-test open-weight models - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T23:03:04+00:00",
-      "summary": "Trump advisers tell AI firms they will not safety-test open-weight models  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI publicly pushes back against Apple lawsuit after new filing - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbnhiMU0wZmQ2ajBPaDRHemo4YzhBSHUxWEFpeERDQVhWOGlKZU5fRWxuT1pkRk5YWjJJRzN0SDA3N2lubXNucGRzWldIYlpCUHJXR2dZamNUQk9QejZ1YmVtOXdraGRESnZtQTlvZVhWWnJfOV9hS3ZqMXNVaE5QVk1IeFNXZEMtTjdqMzlRTEtvNGM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T23:01:37+00:00",
-      "summary": "OpenAI publicly pushes back against Apple lawsuit after new filing  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "‘Baffling’: White House won’t publicly release AI model evaluation framework it reviewed today with OpenAI, Anthropic, Microsoft and others - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWlcyMlRoSEdoMWV5QjZBeXRGenZEeHVSeV9NMzFRajlpX2xITkNiLS14TjJIcVhtYWExY2VaNzltV3F5TmgyRnFjdFBuTmozWWdsVm5mX3BIUG51eWNxQnBMenJCOUtYeUE3RlRhQV9DLVo4RU53U0lGNTdjTGw5NWVNeG11SDRQT2oxeWFMTmJIZ2I3RzBOSzRsWEctMFRKWFY5R21aS1YzcktXSjRubzVqM2NlTHVRcjBRYWV6WmlTbHBwblVfa0RIQUlLX0o3WE9Sa0NqV08yRGRDX2ZKdU1aV1JSeDNCRGVKd0NrV25TMDhNNGRPNQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T22:53:00+00:00",
-      "summary": "‘Baffling’: White House won’t publicly release AI model evaluation framework it reviewed today with OpenAI, Anthropic, Microsoft and others  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AISI, OpenAI report more ‘unsanctioned’ model hacks - CyberScoop",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jTGp3LTA0dExsYzJPWVRYOUFtWDlfajVRNFVLandETW94Y2xiYkJQVVZPQWJOeUdhNFlzc044X05fTmN2SzQzRjVhd0ZraEJiUjl3TFFGalh4dm1ES2JkLXA4NW1rNVdjNVl6a0NoMVhqc29KMVFzaUpR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T22:48:28+00:00",
-      "summary": "AISI, OpenAI report more ‘unsanctioned’ model hacks  CyberScoop",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Texas AG Ken Paxton Joins Coalition Pressing OpenAI Over Security Incident Involving GPT Models - Dallas Express",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORnU3eVpVM2ttdnRneTJvOW5IWi1UYzBnX3FsQnk1eVU2WGgxck55cGUteEdoQWVGWmNOOFVRUnNHSmhuYlJkWHRrdkZOUUl2YTFYci1KbFRmZ082bkVyWUlLd243dkcyeFBlNEQyWnhmREF1MkM3UDVIOXNVQWxkOV8tVWVKSS1QM3FrNVUzS2VGSktlajlSZmtOT2VON2xSRGdrZkgwSGY4WEh6NXdxY0FiajA5MmZBY2pick9RdXpfbldkdVB6MlVYenhkb0hxMFhnM2t3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T22:46:02+00:00",
-      "summary": "Texas AG Ken Paxton Joins Coalition Pressing OpenAI Over Security Incident Involving GPT Models  Dallas Express",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Called Apple’s Lawsuit ‘Oddly Personal.’ Apple Says the Real Issue Is Stolen Secrets - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnZJbkRRX2hyY2dOTWhzSjJ0eUVFS1c1bHZYVkp0R2xYNnJfOTRhLTV6WDFJU1hvMlBXRjdlbW9vVUpPMDhRUG9pRDlpSUQzdkxJaHd3OFhMQzItTE0wbi1oaWlnOHFkaUZVc25UOV9RbGNreWRGNXVCcGluT2Ywb0xrSThacFVQNGlGZ2p4dUtMbDdiWEtCWTg1b2E2T09JUkhvc2VyZlhRZXBKUVJfVGE2U1BiWDd3czRPRXlGaXhTVDNPN2txSF9B?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T22:34:00+00:00",
-      "summary": "OpenAI Called Apple’s Lawsuit ‘Oddly Personal.’ Apple Says the Real Issue Is Stolen Secrets  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
