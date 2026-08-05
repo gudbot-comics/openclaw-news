@@ -1,10 +1,55 @@
 {
-  "generatedAt": "2026-08-05T20:16:25.951257+00:00",
+  "generatedAt": "2026-08-05T21:35:50.679751+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Meta takes on Anthropic's Claude and OpenAI's Codex with its new coding agent - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcU90czRsTVlMbWQ0VHVpbnByUkZua0Vtb09qa0dmbjY3TVNHV2x3QW1nMFc3UEN5V0RFak5la2FDcUtCYkt4SHFMSmN0Si0tTk9qNkRVcm5lSlljM29rOTljaHhQdEc0dlRVcFlGOXlELTV5bEg2RzNVVzQ3SmhoVGR2YXprcDVUbDctX0o2OHB2c2ZRSDdPNm5aTDA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T21:32:15+00:00",
+      "summary": "Meta takes on Anthropic's Claude and OpenAI's Codex with its new coding agent  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWc4dFlEakduTGZhSFdGRjh3bjd3VzZKQ3RxT0xIVWw3eXItZTd2bzY4VThXYWttX1JuOV84dWdnT2lBMGtmVjdhb3J0TEFKbEo1TURmUWxrNlhIRmxlOW4zU1hNd2V4S0tKdVhlSUZGZXJmeFdJNHNRUlRIY3dOVFU3N191dHAzTThhelJLdk16djR5ejdRRGFzQ0R1dlpITVl2ZGR6NWo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T21:05:37+00:00",
+      "summary": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Rejects Apple's Trade Secrets Lawsuit - BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZ4VEZqdkxjcGk1SFd0QkdocVpMNjB6SzU5akY5VE9vTG5BRGN4R2VZRmIzZW1adGNNU182SVBLamRyOUd4NlBhVlJlS3lYeDgyQzZldEtEWkNZa2FKMjktYWI2VFI2bmI5allaSFQ0OGJWLXMzN0lNV0kyVFBGczZGdHF0SjRDNEZLeA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T20:45:14+00:00",
+      "summary": "OpenAI Rejects Apple's Trade Secrets Lawsuit  BankInfoSecurity",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEw2WnJIN09TWkotREpmdFROMDdMQmtlUVNYcWhZbmQtUDdvVlF2dmVvckJuXzRrWm1LYmlxYlRaVGRpWm5SUmJ2V2JGV29ncnVNSk56cDFoM3Y0OWVrTEVpSEZmYnVkMTB2Z1JodFF5UjRwTGZZZ1ZiSjd0bExWWVhFVTlmTGRQTmJfQnBIZE9PUGh1dGEyNHR3a20ySEFhOUQ5V25tYVF6ZElyNG9Ca01B?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T20:33:34+00:00",
+      "summary": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Researchers watched OpenAI, Anthropic models take extreme measures in hacking test - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGdxMnViZzRydUJsTDNnUVJWdmRCUG9XRXQ1eTlDUUVhdE90MWdBWk9kRkxFNm9qSVlKQlBGMWg4MS12QzRDTkx5cUZJTmlnWnFCUmp5cnZHZjk4dTFXV2NCVEtDQnZaYWtubkZudmFYSGY0WldaTGUxVWU1QjBfbzRPdzhUdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T20:33:06+00:00",
+      "summary": "Researchers watched OpenAI, Anthropic models take extreme measures in hacking test  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Microsoft Mandates OpenAI's GPT-5.6 as Default for Devs - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2pnWk82WW1uMERkMnJSaWt4NW1leXZndjJBd242bzQtZ2RmcEE2bDR4UTJtemFGQ0NpbENmbUszZ0g2aFROY1JlamZRV2RKY1hOcTI5SG1WOU5sT2VFM1Q1Ukh0aE9mUGloRVk5aDcwR1gzZ0hXckZibWJqeGRuVTdtcGNTbXZVbmptZXFEdGZDdw?oc=5",
@@ -33,15 +78,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The House's Technology Spending Had 2 Winners—but They Succeeded in Very Different Ways - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3Zhem1DVXh2RWpjLWZHOFhxWXo0QWxneGZadEZLQWxCMmNfSjVYdm9JRUtGaUJZZV9VLXdrbGxKNWZ1VnpJeTlxR1BxR1lYeTVibV9JdVZIT181LVhFQ1J0dzV5dkpzd0dnelhiWWZJOFZxOGlMR0dQajdjSUN2VzVZTHFhb1Fvb3gyODBnRElWb3JpR3hPM0c1RWdoX3hxa0tFdF94ZXd3bVY5TkhvbmFR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T19:18:45+00:00",
-      "summary": "The House's Technology Spending Had 2 Winners—but They Succeeded in Very Different Ways  inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
       "source": "news.google.com",
@@ -51,29 +87,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes - thehackernews.com",
+      "title": "Exactly How Many Days Did It Take OpenAI To Detect Its AI Agent Had Become A Hacker? - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdFpvR3VLWVlYLUhpNVZMUWdKQ2pkV2taVWEyWlRkNzc4MGdIemk2MnJHTERfUjZvX2pEQUtWUVAyaEJyak5wTGoxSlNrZUtVTDZVeGJUckxXUnI0VURHdXJQeVU2dk9DYlpicnFNOUhCUDlkak5OMENCMWo4ckRFRHRNVE1fcjYyc050SnpQdkoyY0k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T18:42:25+00:00",
+      "summary": "Exactly How Many Days Did It Take OpenAI To Detect Its AI Agent Had Become A Hacker?  Yahoo Tech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes - The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PdXhkcElRMFEzdWMtWDd4NjlEV2ZjMzdOZFpGc0s4bV9nVWJ2UTVnYU9fcG1XZV9GcWMwZk9NaGJmYTlIXzdFVU55STE1eHBPc0hPOU81dFFJNUVRN1pMb1NGc1JXNHkxSl9PMGpHV0NIWFVtaGRoeHB0UEJJUFk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-05T18:33:00+00:00",
-      "summary": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes  thehackernews.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Likely Responsible for 70% of Microsoft's AI Sales, Bloomberg Reports - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2NjV3lDN3daOTJhRXpVckh2NGprdkVnU2NLZFpzZi1qeko1cV9pVEpndTk1M29aSHVaMlFqbHJXUFZORGR1TUp6Vi1GTmx1RXcxOHYzRVBRdHZrZ1Z3TE0tNWpDN2pwTE16VUE3WHBFMFpINlNuYzl6ai1YTzc2djBfRmtOVTBZcTcyVWZDS0ZxOTB3YmVYOXc1N0ZoUGlSaDNiZVp2c0tqSVRFWE5rZE9aUkNKV1dPWnB3clhsczFfQXJETEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T18:16:16+00:00",
-      "summary": "OpenAI Likely Responsible for 70% of Microsoft's AI Sales, Bloomberg Reports  marketscreener.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjk4SVQ1eERVM2drNWNDNU1ScGItTmFGNlpXN2d2RjZfemI1SnNsQ192VXV0THBJN3VWakt3MlczOXhZNTNiUGxIWVJDNHFSbTIxYzZtbW1fWGJTSEtIZ0IyS3pxbjE1ZndxbW0yZG9zT0RtYTU0WE4zWEVxbnpJOUVMQVJmVEhfUVpTZFlITXVxYU9IaHRlR04wRUFaS09uNC1hcENuN3Z2SG9Kdkt0UUFB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T18:06:51+00:00",
-      "summary": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT)  Bloomberg",
+      "summary": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes  The Hacker News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -81,8 +108,17 @@
       "title": "OpenAI's Sam Altman Says the AI \"Singularity\" Has Arrived. Here's What That Could Mean for Nvidia and Microsoft Stock. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczhMTE14SDY4NHJxX05CRC01ZDFhWWUzMFoxcnhwN2xoVU5vTV9GQUdob3JVeElMTHk1M2dpaWJqZmF6UjdhZjR1dnBMSXYyamJLdGtHc0dHeXA5Q1lBSkFwYVZXQlNkWjMzbU9yVjFFdUJKd0JtbTZ4enFYM2FJcE9wV0xlcEhWNjA5bXhSeGVEVGl1MWh6Ug?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-05T17:52:25+00:00",
+      "publishedAt": "2026-08-05T18:30:00+00:00",
       "summary": "OpenAI's Sam Altman Says the AI \"Singularity\" Has Arrived. Here's What That Could Mean for Nvidia and Microsoft Stock.  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT) - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYjk4SVQ1eERVM2drNWNDNU1ScGItTmFGNlpXN2d2RjZfemI1SnNsQ192VXV0THBJN3VWakt3MlczOXhZNTNiUGxIWVJDNHFSbTIxYzZtbW1fWGJTSEtIZ0IyS3pxbjE1ZndxbW0yZG9zT0RtYTU0WE4zWEVxbnpJOUVMQVJmVEhfUVpTZFlITXVxYU9IaHRlR04wRUFaS09uNC1hcENuN3Z2SG9Kdkt0UUFB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T18:06:51+00:00",
+      "summary": "Microsoft’s AI Sales Mostly Come From OpenAI, Disclosures Show (MSFT)  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,6 +128,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-05T17:50:15+00:00",
       "summary": "Anthropic, OpenAI models used fake identities to plant malicious code  13wham.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Anthropic agents participate in new 'unsanctioned' AI behavior - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnBONFVaU0V0YUx6UkczMWRfbG1nX3F1Wjd1OGVxSTlGREpvZ3IxamFiVkw3aGNTWmRHS3lkX1VIUDh3VWxwc2VNR0x3cWZRbkFKelZnaTBnaGFEbEE5MW40d194Tld0ek95Q0Z1WXlfSkM1ajIzMWlYV2JpQ3BvLUJTTTc4UzhNc1ZqOGwyNHhscVluN1hGa3lIX0Z3dlQwQUVUaG9TbkFfZDZpNGxN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T17:42:26+00:00",
+      "summary": "OpenAI, Anthropic agents participate in new 'unsanctioned' AI behavior  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,6 +159,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Reaches $3.2M Settlement With DOJ - News Radio 1190 KEX",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGNycHVhbUtGUU1BZ2lVUmtlZUJ6YllfZFBwVG1fU2NMMUJWX241VkdxLXZQbktLa1BrOFpON3dJc0wxS0l5WVhWM3BFRUQyUS1RU042ODgxb29xdGVsXzJ1aU4tU25JaU9GLU5PVnB0RU1lZU8tT1EwV3otenNHLWtZR3B4Q1dfSWdlNThR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T17:31:00+00:00",
+      "summary": "OpenAI Reaches $3.2M Settlement With DOJ  News Radio 1190 KEX",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "UK Watchdog Says Anthropic, OpenAI Models Targeted Companies, People in Tests - Security Boulevard",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeXNLUEt6LWl0Nnk0eWV0cGotU1ZZX3hTbks2QmpZU0QxMFlJMkprUkJKQjF3RU9HWGgzMFdpX29nZ2dBdDNtaXdpUEJRU29TYVQ5d1R6bDZ6dGprTFA2dHdwcjFFakpHY3FIamp1M1Q1UUZXLXcwRnlpd0RIRkNya0xFZ1FzbnZLY21Jb19KUFdzR3d6SjhUd19mQ2RVTGxLMU1GZl9vYzg4S1FtTmczWC1xU0w?oc=5",
       "source": "news.google.com",
@@ -123,11 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI, Anthropic agents participate in new 'unsanctioned' AI behavior - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnBONFVaU0V0YUx6UkczMWRfbG1nX3F1Wjd1OGVxSTlGREpvZ3IxamFiVkw3aGNTWmRHS3lkX1VIUDh3VWxwc2VNR0x3cWZRbkFKelZnaTBnaGFEbEE5MW40d194Tld0ek95Q0Z1WXlfSkM1ajIzMWlYV2JpQ3BvLUJTTTc4UzhNc1ZqOGwyNHhscVluN1hGa3lIX0Z3dlQwQUVUaG9TbkFfZDZpNGxN?oc=5",
+      "title": "New California AI law goes into effect - SFGATE",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jbnozOGpiOUNoTV9pd0JzVUhYa1pjdlFTMXBRaWlJQkVCcndWa1lDbGRURGM5N2txeEdzTG1Xd0JwRzZZbk1XN0NTdjdyWjhXbUlwOTAwWGptNl9qODJvYXh4T0xXYmlBVDdlV1d0ZWo2c09hU19BVFdR?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-05T17:12:26+00:00",
-      "summary": "OpenAI, Anthropic agents participate in new 'unsanctioned' AI behavior  CNBC",
+      "publishedAt": "2026-08-05T17:09:52+00:00",
+      "summary": "New California AI law goes into effect  SFGATE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,15 +195,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Researchers watched OpenAI, Anthropic models take extreme measures in hacking test - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGdxMnViZzRydUJsTDNnUVJWdmRCUG9XRXQ1eTlDUUVhdE90MWdBWk9kRkxFNm9qSVlKQlBGMWg4MS12QzRDTkx5cUZJTmlnWnFCUmp5cnZHZjk4dTFXV2NCVEtDQnZaYWtubkZudmFYSGY0WldaTGUxVWU1QjBfbzRPdzhUdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T16:26:32+00:00",
-      "summary": "Researchers watched OpenAI, Anthropic models take extreme measures in hacking test  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Anthropic and OpenAI Agents Accused of Social Engineering - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWkxdjRDZnk1UU44eXY2ejBMeDZEb0ZVdGxnQm5aeUR6VXNMNHpjbjl6d1liOHdaQmlFamJMX0RtMzE3dk5rRVM0SWs4QkZqN2dOZkozOUNSZkRBdmU3WnFTWS05V2RNakx3Tm1BMS1RMWl4TXJPQkRSWVhIRTlETUhUVWNKY1Fha2dkZ0JmSTB3cjBta2hkdjQ3b21uR3RzeGJLSlczV3NsYXFD?oc=5",
       "source": "news.google.com",
@@ -159,11 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Watch Cybersecurity Concerns After OpenAI, Anthropic Tests - Bloomberg",
+      "title": "Watch Cybersecurity Concerns After OpenAI, Anthropic Tests - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZElzcFpiSjRTcEZldW8zS1FvUnVTdHluOFp5QmFUMXBEVXA5UGprSzJkRWltOHFBWlp5UEZJYkgzclJlRjlPX2FMamxJUE1FcDBJcmNVWGdpeUtTN3gtQ3NQejhxZkhzQ3huNVJuTkdXaENMakktZUZ2Yk85U0U0ekdPR01haUNtRWMwT0xWeHNtRFloZ3h0N2lPSTlLQ3h6bFdsTHpyazd1QQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-05T16:19:06+00:00",
-      "summary": "Watch Cybersecurity Concerns After OpenAI, Anthropic Tests  Bloomberg",
+      "summary": "Watch Cybersecurity Concerns After OpenAI, Anthropic Tests  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-05T16:17:15+00:00",
       "summary": "Anthropic, OpenAI Agents Faked Identities in Security Test  AI Business",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to pay $3.2 million to settle DOJ visa hiring discrimination case - The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSEpIVnJ4REwzdHB0aGpfbXJJTmxjR1VZN0p4NElDX0pGVXd0b01VU21qS0lySmxFbGlTV2FUWjFVQTI0X1NiRFpmMk54Vm53ZHVEZFpTQmgxa1ZfLTFCaDMtUzVhaGxDU0ppQ1h2bGdPd05uQ3N4a3oxRVpRQW1icV9BWnk0bDFac25lcUU2bTkxVjE4Uy1LemVDM1NCa0FVVlowVG1kR01pQl9tUHdyNFhCbmtONHM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T16:10:10+00:00",
-      "summary": "OpenAI to pay $3.2 million to settle DOJ visa hiring discrimination case  The American Bazaar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI settles worker discrimination allegations with DOJ - Staffing Industry Analysts",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblp1RTlmdGlDaXBlbDF0X3ZvcGZqd2RCeHBmVXJkVUFWZDNyYUVRQWw5R3FlLXhGRFBwellVa1QzRHR1OVM0cWtKQndGWHJKckZUQVhTTjh5TzV0VG4xZHpLbFVTQTFNOW5fREpycFpOTm4xSWlfOEFCc09odTA2ZnFqMDE0dWs2eWdoa1V3amtkdUtVaUlCWU84bFdtQjdCNU1DVWFFTWY1X0hNVFZuWTZEdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T15:58:17+00:00",
-      "summary": "OpenAI settles worker discrimination allegations with DOJ  Staffing Industry Analysts",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "An AI agent faked identities to plant malware. The same day, OpenAI disclosed two more of its models escaping tests. - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDhlMVVoMWU1RGhUandpTDBpZEFiWjU4aHB2U2EwRHdkSkstNlFackcyTzR1MEt2T20tQzFyNmFsdWlfRHpIQWdLbDN0RHRBMEVfNEtNVjZUb21FcE1RZkZ3OEJLenRhX0h3NGhPOVprZGNsY2hXYmRremxEbWZVdkNLaHFtNHhWYzNLN1NR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T15:44:22+00:00",
-      "summary": "An AI agent faked identities to plant malware. The same day, OpenAI disclosed two more of its models escaping tests.  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic and OpenAI AI Agents Used Fake Identities in UK Cyber Tests - UC Today",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0Q5RGxGTDJFMUgxWGVGUUxuVTZ4alN4SXp4di1KaDFyRDFmemV0eXZGM0VaaFVkSS1pak1kUUhlSk96U09wR090QXI4VDY5MnpHZFRqdlZLX1hRenNyRWt0LUxscGpaOUJWd2ZZRUlGSXJHS21YUklBME5RVWM0SmQ0Z2JDLVJvbHBKaklzVVg4Q21QU09zVVA0U1Y2WDl5VDdReUdn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T15:37:18+00:00",
-      "summary": "Anthropic and OpenAI AI Agents Used Fake Identities in UK Cyber Tests  UC Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Anthropic models went rogue during testing (again) - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGsxVmpUMjZpYUYwVUV5b0taRUZ0YWJYVmtad3l5b2lFczMxdjFBZ2hhYk9WN1hYN21mbWxId1g3NWx4eHV6TldsVDA5MVRBcUlxbHBBTGRYN2U4QWx5Wnlaa2hnVUE1bUxjcjI0RFdXWVBMb2hONmFjSXJycEFEcnNhRUVsRE9DQVcycmtYN3p4SU1JMmN4MkY4RlNFOE9yM3dzajBqMHBKZDRK?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T15:25:24+00:00",
-      "summary": "OpenAI and Anthropic models went rogue during testing (again)  Yahoo Tech",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
