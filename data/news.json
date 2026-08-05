@@ -1,31 +1,67 @@
 {
-  "generatedAt": "2026-08-05T03:55:58.141556+00:00",
+  "generatedAt": "2026-08-05T06:25:12.247289+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Trump Administration Won’t Safety-Test Open-Weight AI Models as OpenAI and Anthropic Raise Cybersecurity - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGtoOUxKMFBHcFEwQk1sTVpweTRhalNXaFhueXQ5RTMtNGxidkNycWNoX0p2cDN6cTlvUWIwTVQzcHFuUWRNXzhIaElmSXpsQ2dpcnV4MXNGdkN2OXZFYVVuakl4WExyVi1OOTM1ZEV5aC1vbFh4ajBwLWJXSFU2NWp4bzBoNC05MEUtNjJ5OXVFUGJNdmx5bkZZdTZiLTY0eW5LZmxrSk9xdHhGSUxxODVB?oc=5",
+      "title": "OpenAI has reported 2 more incidents of rogue AI agents, this time during third-party testing - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR3FhODAxZFlWd0lNdEtNdTZOOFUyczVzUHNubWhscENmQXdEWmNtbllWT2d4VTVGN2RDVi1uQ1YxNTZoa0U2R1lNdG5zdGlyZU1EWWJfa01GenlEdU41YWx6NTFjVGQySGJPYjhiVEVoblVTN2FXRmF3WW5kckE4OHJuZV9vX1RYQldoN1duRkxqSEtHUmtKejdibFIyRW8?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-05T03:18:42+00:00",
-      "summary": "Trump Administration Won’t Safety-Test Open-Weight AI Models as OpenAI and Anthropic Raise Cybersecurity  Benzinga",
+      "publishedAt": "2026-08-05T06:13:20+00:00",
+      "summary": "OpenAI has reported 2 more incidents of rogue AI agents, this time during third-party testing  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "White House will exempt ‘open’ AI systems from security review - washingtonpost.com",
+      "title": "New security breaches implicate OpenAI and Anthropic AI agents - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5aDBxbm1pbS1wMzVBdHl0MnNqV0l1VXNTR0J4TVBSU3dNOXpBSEQ5UjZJdFZ5RXBXbkE3Xy1FanBRZjB0MzFrUDBLZ0t0clZfYktGVlRVcllPSDR3YVdvWVc3XzA2ZjJ4V2VvTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T05:47:57+00:00",
+      "summary": "New security breaches implicate OpenAI and Anthropic AI agents  Ynetnews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "White House will exempt ‘open’ AI systems from security review - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2FLWUNZSExUajNLYzYtQzh2aVNJMkhsNlBJcjBZY1dEd3JFSXg1OEI0Nk9VM0NIRVhhb2J3c2VUSFpFaVBIQnk1aEhOMGpZWTJMazUxR3Z0YTEwRlEzUExuTHlzZkN2NUU5cjBqX1EwX1pJOHFVNWVObnk0YkVNTWhNNkJGNDFlRndnSnV4M2l0UDZrcmV1N2UtSVJoSHNJV0htMlg1T1g1VTg5eWc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-05T02:59:15+00:00",
-      "summary": "White House will exempt ‘open’ AI systems from security review  washingtonpost.com",
+      "publishedAt": "2026-08-05T05:27:35+00:00",
+      "summary": "White House will exempt ‘open’ AI systems from security review  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Settles Worker Discrimination Allegations With DOJ - Claims Journal",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YdE5TY094NUxMQUJVQXRXT1FzWHNtR0N4TFNFQUpNRmFNM1V5dHpWaElFTWdlajhHWk9zek5JblhuZzFVRVNLMWFrSHEwaFViUE1MVFhvWm5SV0pNMkVmaWxuMzNWeTVGSERNLTVzNWZHOFU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T05:00:52+00:00",
+      "summary": "OpenAI Settles Worker Discrimination Allegations With DOJ  Claims Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Trump Administration Won’t Safety-Test Open-Weight AI Models as OpenAI and Anthropic Raise Cybersecurity - benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGtoOUxKMFBHcFEwQk1sTVpweTRhalNXaFhueXQ5RTMtNGxidkNycWNoX0p2cDN6cTlvUWIwTVQzcHFuUWRNXzhIaElmSXpsQ2dpcnV4MXNGdkN2OXZFYVVuakl4WExyVi1OOTM1ZEV5aC1vbFh4ajBwLWJXSFU2NWp4bzBoNC05MEUtNjJ5OXVFUGJNdmx5bkZZdTZiLTY0eW5LZmxrSk9xdHhGSUxxODVB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T03:18:42+00:00",
+      "summary": "Trump Administration Won’t Safety-Test Open-Weight AI Models as OpenAI and Anthropic Raise Cybersecurity  benzinga.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUFh4R2tCZU4wRFJjSmhLWUJKclduSFFBaVdCbW9LTnE5R3U5NGxXcDV2QWtJX3ZDZkpnU0k0cmNLd3o5ZXFWelJIZHZpNTFMS2t2MVIwRXUwSUliczZlLXRtWXFwQjFLOVRkc0piUjJVSUFSdDdfSWtra3RlVU45SmtjZVhLdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T03:00:00+00:00",
+      "summary": "Anthropic and OpenAI models tried to trick humans into poisoning code during safety testing  Politico",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI to pay $3.2 million to settle DOJ allegations it favored foreign workers over Americans - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUlaQVh5QlR5VzNFU0VLRjhzZklNWkVwWTRTNi1FMWw5RGxTVHdtbzRheDBYTjZ5aHAwbVhRMFZjTHVRT3lBMmVNcUtqMnZaaTRnV1B6Y2dONXU1eWJpSi16NmdyZWlVa3k3QmdJc2RDM0g0X0ozM2tacWJ2a3BFU0Zkd1pDM2dOXzl6akFpT1FPSEViZ3Z4blRUc2g0eG1CN1B4ZW5yTzgwV0Ztc0pjTHg1RnRub2RWT3VISEtnV2g?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUlaQVh5QlR5VzNFU0VLRjhzZklNWkVwWTRTNi1FMWw5RGxTVHdtbzRheDBYTjZ5aHAwbVhRMFZjTHVRT3lBMmVNcUtqMnZaaTRnV1B6Y2dONXU1eWJpSi16NmdyZWlVa3k3QmdJc2RDM0g0X0ozM2tacWJ2a3BFU0Zkd1pDM2dOXzl6akFpT1FPSEViZ3Z4blRUc2g0eG1CN1B4ZW5yTzgwV0Ztc0pjTHg1RnRub2RWT3VISEtnV2jSAcYBQVVfeXFMUGE1cXd3MmY4dU85X3lzcnNLTE4wc0Y2MVRrOWhTRHp4b1FVSlZBTTJJSGxZcllmdGpBUmtmLWlYME9kR2dFMHIyMURqVS1XaGRGeDFLS280UFRKREFOTG16YlRlbC1fNnBzM0hhYmoyODh6RnRFQzJTZDlwRTU1QURreURGXzFjUWxmQVBKRHNtaHo5M1JUM0I5dlZtcEhNSDBpT01mb3VuaE9EYXhvNHRueDZodWtFeFFzc0pwZ0NnenpGbEdR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-05T01:44:00+00:00",
       "summary": "OpenAI to pay $3.2 million to settle DOJ allegations it favored foreign workers over Americans  Fox Business",
@@ -51,6 +87,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "U.K. government reports OpenAI, Anthropic models attempted to hack companies - axios.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCQ3RLbHlKZ2VuWTR1X3hKMlUzVFQ2NS1YZDVSQjdwZl9hVFNiMlZaYzlEQ1IzY1Y1WDB6M1NwTjFJcEdtYV9zZ3JPWDJ3Z0VENmNpVWR4Uk1Ld3NRSk5zLWoxSG50LW5qVkV4enA4TWR3ZDdqZTN3RnRjYTg0LW8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T00:49:05+00:00",
+      "summary": "U.K. government reports OpenAI, Anthropic models attempted to hack companies  axios.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI, Anthropic AI agents implicated in new security breaches - The Lufkin Daily News",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWV8xZWZ4U0Q4bHNDelZRb3BZSUF0YW51c3NaMXh0UUNyY3lLd0tUYmUySmZyX1hlRlRXcHMwU0h2QVlLRDlMc3Q3MUgxUzIwZ0tySG51ak9Lc29BRkRjLUNXYlRZcnJtVjg1X1VtZHpQQnFEaHo4Yjl3TGU2VGNKUlRzSnd4S0szM2gxTEd0T3VUYUdvZWcySnQ3NDFKUTJmT0Qya240eWNQVHZScEExdXlGd0pta2Q2aU50OF83aHBNZlVCY3JDaG4tclVuMFNiY2p0cV93b0puWWxNVEFiU2FjX0pvLXVtUTR2Nk9ZaUZYU3Mx?oc=5",
       "source": "news.google.com",
@@ -60,11 +105,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI to pay $3.2 million in settlement over hiring foreign workers - The San Joaquin Valley Sun",
+      "title": "OpenAI, Anthropic AI agents implicated in new security breaches - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczA3WWo2amR5TUgyLUNXYnNhSVFJMjlFX1dpbjhPN0R4anhTNkJNYzBseVlNbGdCa0E3ZWU5aXRfaEZWaE5OT1hSb0NCRmlJS2w5OGNMbWgyZ3hnOUNieHFRaW44b3JmMm42SVpCb1d6dVF5SG9yR0k2UndzMGs2aGVaZl9NRmIwaWd3T0RvTkh1c0xyQVpoOVJyQ21aMWZmdE1VQVJUZVZIQ0l2azhzZ25n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-05T00:41:00+00:00",
+      "summary": "OpenAI, Anthropic AI agents implicated in new security breaches  ReutersOpenAI and Anthropic Model Tests Reveal More Hacking  Bloomberg.comAnthropic's AI used fake human profiles to trick people in…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to pay $3.2 million in settlement over hiring foreign workers - sjvsun.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGNXdzhyc3NfcW1LU0d5NVpjZjBHdFBkRHJaM0ZWWUFVUlFZT3NYZ1lRUFR5MDVoME10ZTVCS0h5M0VBZVdaVm45Zm5OcDZIX1RsY3B0clc5ZDlWS2JLWk5zQWlSRjhfUEQ5ZlRkUFVFdGlMcnhQdXl4LU9DUmVXNnpEdVpzOURCTFF3UjY5ekhjQ2ZjVmc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-05T00:31:16+00:00",
-      "summary": "OpenAI to pay $3.2 million in settlement over hiring foreign workers  The San Joaquin Valley Sun",
+      "summary": "OpenAI to pay $3.2 million in settlement over hiring foreign workers  sjvsun.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,15 +132,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Trump White House Readies AI Framework to Review Security Risks - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T00:17:54+00:00",
-      "summary": "Trump White House Readies AI Framework to Review Security Risks  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI publishes 10 research advances generated by unreleased Astra model - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWZwMVkzMklyX2VhT0trZFVlR1lXajFHS2M1MXZidGc1aXY4UjRTYmRCcThSR01Oek5xblU5dmJsMk01X0k3ek1FWlVBR0F6dENxWDBjZlQ2Uk5GMGwwczNScWRUd0VGLXFyMHFReXNXSEFsWUJiQlNUSklzNjBMSHVkTmlmanJaMzM1NkN5VUZMYUVmcFZ5SUZEMnVkWE5IbTAxMFF4dnpwclcwSjNtaTNZRGY?oc=5",
       "source": "news.google.com",
@@ -96,19 +141,10 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic's AI used fake human profiles to trick people in safety test - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05cW1FRW5ELW1tV0ZySExSZG4zek5yT3BaZVBJMDdBYms0Wk4ySEQ1YjVNVnp6X2RGR29ERG9OakpRQlpRT1JvTXhtZVdMTWVIV1JxUFdUQU9GUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T00:02:18+00:00",
-      "summary": "Anthropic's AI used fake human profiles to trick people in safety test  BBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI, Anthropic models targeted people and organizations during test - BNO News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjlrUk5qQm56U1l6QXRaVXN4dFVBQ2NfcjFMVU1aaVV2Y1hlaFRla1htM0hfMENJa1YzYjQ5LWVtUUVvSjcxOEVodDZESjdseU1LUXNRVXFpVWRQeE9TSzJURGRpaEM2NjJrU2d3ZFRzbkk1TDhPamhHcDdHT3RMQjlHTVZWR0ZPSkFPSFdTVFVxbkE3UUVFbDB3NFNyWkgzeFdrNUxFMFNUeGJDMy1lQzd2SWVFSElSazNxQQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-05T00:00:41+00:00",
+      "publishedAt": "2026-08-05T00:01:49+00:00",
       "summary": "OpenAI, Anthropic models targeted people and organizations during test  BNO News",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-04T22:34:00+00:00",
       "summary": "OpenAI Called Apple’s Lawsuit ‘Oddly Personal.’ Apple Says the Real Issue Is Stolen Secrets  inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "$3.2M Settlement: OpenAI Accused Of Blocking U.S. Workers From High-Paying Tech Jobs - Dallas Express",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2JINFNyWHNTZk95VlBZNGxaYk1ad0J5dWJ5eDBEZ09mZ01LWjJxS29OajN3dl8xbkxRRFZRRnQzUlZsbGxCREdxTjZQd2ZIQ09abnVLWng4YTV4R1VnLUZrQ1ZsQVFXdWN2dDhKTDB3eUhRVWhzcTl6eXgzdF9ORUZOejZTaUVaLUMxcW9iQjhJZ2taTWl5OXY3ellyMkxrVTAtcnpEMkwyTDNlSGo5dy0xcDVhNHRNWW9lLXJWV0llOW8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T22:21:02+00:00",
-      "summary": "$3.2M Settlement: OpenAI Accused Of Blocking U.S. Workers From High-Paying Tech Jobs  Dallas Express",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI models breach boundaries during recent cyber evaluations - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQURnUFNjN0thb1ZiZUVKNV9yLXZ3NFJEbE9zZTJReVR1LURfWGxFajNab2VVekJLNWRPdUVEek9nd0hHUzNYc3N5N3J5QkZrTy1WUlRza3A4WXRHaERPWlppV0Q2OVVBeGpjOGI1cElLTXpfOXZPYkpuLXJ5Z2JxeFVqZ2V0QTdoejg5eVk1UER4d1ozeU11WndqOUVhT215NXN3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T22:17:33+00:00",
-      "summary": "OpenAI models breach boundaries during recent cyber evaluations  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI settles claims of discrimination against US workers for $3.2 million - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXFHYUlhNnN6S09IODhSM2dKX0owTU9KNGVmOHd0dkFZRWd3WWJiVVRBMUxFMl9zWXE4NXJ5R3lxbGhyV2N6d09Va2o4MGV5ZFV2YWU3Vm1UUmZqdkpQb3AycVVpdHcwZldsVmdTZm45MlZvZ3g1dk9tZEFkNDEtX043UU05TmRZQmxucktoNEs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T22:14:00+00:00",
-      "summary": "OpenAI settles claims of discrimination against US workers for $3.2 million  Politico",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzljVTVSUVRxaUJweXNMdlBxeHJ0TGs1QWdHeS1sUzl2V1NCWlZLYXlxT21NOVVjZUFxVHN6N0N3QjBKVnVNWUNib09aTHYzZVVCdjRINUZ1d1dvT1dqekJMNXk2WFVObE13N1Q1LXVCVXR5R19ZaXFVMzhfWFRtamtXd28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-04T21:46:13+00:00",
-      "summary": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
