@@ -1,61 +1,142 @@
 {
-  "generatedAt": "2026-08-06T01:00:31.212970+00:00",
+  "generatedAt": "2026-08-06T04:25:00.254645+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Black Hat 2026: OpenAI reveals agents planned ‘collective attacks’ via secret ‘message board’ - SC Media",
+      "title": "OpenAI, Bellevue subsidiary pay $3.2 million to settle with DOJ over hiring practices - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTd4Sk11OXNPRmVfbnB4TzVXT2NlN3hBaDJwUFh3d3ZEWWFJMzYyUVE4VlhlUFlJYk5vZzZod2dqTENJZHk1c0c2S0dlQm1SY0pMUWZaOTFQUXVVcGROQ2lieXBHVi1waWhDSmllQ0ZvbFR4dEJpaHNaVTR2OWhIRVVrT3FWMURZMkFkQ1JHYnFCcVZqdkxZNFVrOGtIOE82WE1hVGpveC1tVXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T04:04:00+00:00",
+      "summary": "OpenAI, Bellevue subsidiary pay $3.2 million to settle with DOJ over hiring practices  The Business Journals",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI brings product carousels to ChatGPT ads - digiday.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRUphbWlUTjVKT2FzOVJkSnJtaTFSeTVDZFl1d0h3VXk1Q25hd1JSaUZKRHJKMnhJZFBPWmRaSmhETUdWMUcxdjZ6bkFGUEZVVlh4MzRnU0w0S3JCUG5RX3NOUmJfUUhXUmp4Wnc5ckptWWJCNGN5NGhXRWRwR1RweTF1MA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T04:01:50+00:00",
+      "summary": "OpenAI brings product carousels to ChatGPT ads  digiday.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta Joins OpenAI and Anthropic in AI Cybersecurity Scare After Model Hacks Third Party: 'We Are Currentl - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYW1PZTVkWVBOeDRrU1JZaWFnVUhyMGQwWGl5aGYzRTR3aEZ2M2FQQWswM2FFMWJFTWZFSlZ5SXpqSHpINUx3WFhjdzdkYWxaRGxfQzNyczRyVzluT1FBa0xLTzBCMEVYTHJORDNDSWdiVF93VjBzM2JUUWNhSVltZVNYYllFdTRWRjZPWEdrY3JPVGEzUXlXZ2hQbnNmZzJaWk5udQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T02:10:55+00:00",
+      "summary": "Meta Joins OpenAI and Anthropic in AI Cybersecurity Scare After Model Hacks Third Party: 'We Are Currentl  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach - Politico",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY2RqUWNVMkhVcXhLNjUwaXg0ZG1odGtUR0xVdHdQTU1qQ0RrRU9ZZ0xYSlBPaEF3WWE4ZndxcHpER1RFZ0F1SnZZSHlyZy1hcmcwWHQtY2NIWGdpM2wwYkpzeEtsekRlVEF1bmVYNllEQnZ3OFVFVF9RNTJ0aGQ2Z3ZnOUF6TVRHN1AxdEhjOFN2M19WNC1YZDdIcVBqd1JvME9FUno2QU9JWVJiOEdCRlVob3Q3SF9YX19STFBxcHdERWN1?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T02:02:00+00:00",
+      "summary": "OpenAI’s models shared hacking tips on a secret messaging board before Hugging Face breach  Politico",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta takes on Anthropic and OpenAI with its first AI coding agent, Muse Code - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVXlyLWVNUVVnOGZkbnNjNGMzS3VnRHh3VWRlbXVWYkVyMFM0VjBNSXhFUWE0S3VWNXFBdzFfaWd3ZnJndk9DZzFUVVFUcjBCV09Uc1Z0NnpJNS01VU40RnA1cXBGZFdTMjIzOHdQUzU5RmVNTmF0WlpQdWltdy00UzlMR3dscS1hVDBSUVpPS0FoQWNETFpjbXJQOEU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T01:52:45+00:00",
+      "summary": "Meta takes on Anthropic and OpenAI with its first AI coding agent, Muse Code  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The OpenAI and Anthropic Incidents Mark a Turning Point for AI Governance - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkhoS1oya3V2RVU2Rk5NU2pWbVRTOThRaVduU3FQRHFNd1hUVFhvTDhXNzVvY05BWXhNLU9aTzh4NVRrd3l6aktqc2pkd2h6NnBrN3RWSVE0Qk5PLVhtNXFvZEgyLS1sTHpTblROZW1yZU5ENWVoNlctcVFJVUlYaDUxQlAtVXVNV1Q0dDV1NHdBdUFxRHdPYm9tTW0yalhodjZMY0JQVnAwUzJCdUNrT0t3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T01:49:11+00:00",
+      "summary": "The OpenAI and Anthropic Incidents Mark a Turning Point for AI Governance  Security Boulevard",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Models Joined Forces Months Ahead of Hugging Face Hack - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXJWM1ozdS1tQlB6bTF5R2FGeDgwNTVHT1d4Z0U4YUFaTER0MDFDY3ZfMzVRTWh3N3NNd0dWM1hSUGlrX2tEZEVzanFFY0h1dUVkeHpGZndNOEY5TVBhTHhua2R4WFhsZ3pGc05oU0E4NjBDNktnR19YMzUxRkszSFV2SVJacXloMEdoWndic19qRzhKUExQaTAzTWhDVk9JVkpNaHhyOTVwcmtHeUtJTzJn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T01:32:00+00:00",
+      "summary": "OpenAI Models Joined Forces Months Ahead of Hugging Face Hack  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How OpenAI's agents broke out of testing to hack Hugging Face - Axios",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QNW5EMlBhN0N6SlRwVkRkMWhCQlVjbWZWX2JXSDZUdHRKVV9Ua3c3S1JFZk9GYnNyUlQxVWxKQ29tQ1VmQVNpWU5ORFZueFNCek1zU09wMmpyV2F1aUhVM2N0V0lQV20td0V6Zk5PMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T01:24:26+00:00",
+      "summary": "How OpenAI's agents broke out of testing to hack Hugging Face  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Black Hat 2026: OpenAI reveals agents planned ‘collective attacks’ via secret ‘message board’ - scworld.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlJsX0lJY0lQY25fSjdTLXBZLTN0aXJRbTV6TDBFVXdWLVFMYVNER3lwSXBqLURSU2FlSURIVUdfbTdjMWlld1RkaFNGTzJSVDFMaGFzRDNOb3J4T1BVLTFXRlo2R2hxdEdaZmUzbnlsamZEZXdSOF9mSWs3aGVmOXBmMHRlVXZTV3l5OFRTT0FSRlVqZ1NWckJKUlpOdDg3dUhsTEZ2djZEWnB0QnFhempVRUhPSEdS?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-06T00:26:36+00:00",
-      "summary": "Black Hat 2026: OpenAI reveals agents planned ‘collective attacks’ via secret ‘message board’  SC Media",
+      "summary": "Black Hat 2026: OpenAI reveals agents planned ‘collective attacks’ via secret ‘message board’  scworld.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Google Shifts AI Power to California in Race Against Anthropic, OpenAI - bloomberg.com",
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - wired.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T00:15:00+00:00",
+      "summary": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree  wired.comOpenAI, Anthropic AI agents implicated in new security breaches  ReutersAnthropic AI agent fakes ident…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQllBYmI4a3FyQjZmT20yRGUtVjVBa0pzMl9YMUgtS2hmRUJ2U3lmSmtHazl0cEc2ZXY1T0xJRnZ5WnlTaWY4enlmNWN1T09UVFhfR2NYdzFrZVM2ZU1Sd3djLTV1MkZfMnpMRTRsTFpQOTVtSWlWODhna2h2STNYdUNBdXZqcTQ4RVM0RTBzMnRLdDM2TWJyZHBlelFCN282SnZUSlVsRzFtY3BFMzM3SGZFWUctM2p4VXhLdA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-06T00:00:00+00:00",
-      "summary": "Google Shifts AI Power to California in Race Against Anthropic, OpenAI  bloomberg.com",
+      "summary": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts - WIRED",
+      "title": "FPT Named an OpenAI Select Partner - businesswire.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmQydnVNQzM0V3F0MFM2Wk0wcE1famc2MUd5Ujc4WlVDU0M0Tk8ySjRTUElxZnpUaFlRcnlzcEdGOThuR29fb2VEaEU4djJHV19QMzhyMFVfNnNSaW1jMWg4cmE4U2pGckpXcXNSMjNYMW5VaDBaM3hEZ1c4QlRGem5zejF5ald4TUVuQ1ViNVc4YS15c3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T00:00:00+00:00",
+      "summary": "FPT Named an OpenAI Select Partner  businesswire.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts - wired.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2Q0b3g1Y2N6SDdxZFVuQnppYy1GaEJEYnh0MFRidDVKcHZ2dkhtVnozdzRTaGloc29taFVocGFnWWdfdnFnSVJ2UXhLNnBya1lUWTJMM2dkVGJVbmFVdmN3Z3hHQU5RTnRlbmYzRjFTdmZaM3dBNFM2RmFUMHNSU1JLdkFxYUNkRktDbGFtRUtmOUVuTXdaLQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-05T23:30:00+00:00",
-      "summary": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts  WIRED",
+      "summary": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts  wired.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI models are behaving unexpectedly. Experts warn of \"a really bumpy road\" ahead. - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGhKem5ucDVtWndHN28tSkJaa1JRVzZjWnN4Z2RNRnNRYnFnUFRxUXpmN3BlMkdCQmExWkZ4aFBNUktFV0RfSFNfdUdwUGs1RTk0MFBma1p4RlBXTkd3UVpkWUk3UzlITk5neW1HVzlhaXRpSU5DUFU2UlRCNUdrRWxLT2M?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T23:21:00+00:00",
-      "summary": "AI models are behaving unexpectedly. Experts warn of \"a really bumpy road\" ahead.  cbsnews.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AWS partners with Anthropic and OpenAI to bring Continuum into coding tools - siliconangle.com",
+      "title": "AWS partners with Anthropic and OpenAI to bring Continuum into coding tools - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYUJLMXJNdTh5S3BZZklGc0xFT0pOcmF0WkNmOUVGNHdZelBINTBFS3NibU9FejMxMkVTWXlRdEszRjhYRGNUTHhLVWVjTUlEbm4xYnJXTGhHdVRCeE16T1BEeVZhVmxsZENaWS1LNmRsRTl6M0dEVGFSUmZLcVdZWjNVMGwyR1BteWpod2E3cFU3TnQ2YjJnanNsYw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-05T23:06:26+00:00",
-      "summary": "AWS partners with Anthropic and OpenAI to bring Continuum into coding tools  siliconangle.com",
+      "summary": "AWS partners with Anthropic and OpenAI to bring Continuum into coding tools  SiliconANGLE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI agents rebuilt internal message board in lead-up to Hugging Face breach - Nextgov/FCW",
+      "title": "OpenAI agents rebuilt internal message board in lead-up to Hugging Face breach - nextgov.com",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd01IX3Fucm11RFBxR29mQnF6YUt4dllsNnNXUVVFSjhodW9Tb3ZWZ0Rja0ktXzVXcW1tcDdRZzJvN2hHdmNhS0N3LWFHTEJRa3ZJZWE5bUQ0NS1yeFpzVFdxeUJ3VGRaUXd5NTlPYjBrY3pfTmlKRDhJMlJsS2dkcE1fY1JlT295NEdmUGRQdXBZWXZJb1ZLLVU5U2NRSWhXMkZTcU92SEhJbHYyalcyaG4zQzF3T2diNHVhT3NDQl84TVF0OTZIWlJpbGJZV3hmWmEtRmxXNGhSUjN0ZGZFM0VqWGlhaXV2ampLZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-05T23:06:00+00:00",
-      "summary": "OpenAI agents rebuilt internal message board in lead-up to Hugging Face breach  Nextgov/FCW",
+      "summary": "OpenAI agents rebuilt internal message board in lead-up to Hugging Face breach  nextgov.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,29 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Details on Anthropic and OpenAI models reportedly creating fake ID's to target real people - cbsnews.com",
+      "title": "Details on Anthropic and OpenAI models reportedly creating fake ID's to target real people - CBS News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGlvZUZzNVRTNDRkenJNc1pFeWZsaml0bVAwSkUtS0tuSGxoaEJLVWZVaEs2cDZNZzUydmRkT0VHZ0JyVkoteHJ0R3BoUmFWNVg5ZUp0M1FTYVR0TUNZeFZpRE5WTkdIZHdOZDRQeWxuS20wcE5kU29jMUJ0akREYzF4ZndUa2YyUXhMWUl4eUNoaThkdWlVOVo1eDdJc3pTOElMU2VzeWs2aHduU2JqRjNxNnp2SG1UamRMSw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-05T22:14:00+00:00",
-      "summary": "Details on Anthropic and OpenAI models reportedly creating fake ID's to target real people  cbsnews.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoFi Democratizes Private Equity with New CAZ and AngelList Funds Featuring OpenAI Exposure - FF News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmFxWGVvYjhoMFpsRzJrTktZaWdRYXRHcGxmMGU4LTExYjZPTkVxN0s2Znd6U3NmcUV3a2ItRmUxM3BCWFcyTVk3ZjJHa3ptbDdVTkxPOEhNNDRkX09Tb3dLaU5FVkVBQmlRU3hHemp0V2cza3NmcmtsbE5maWFJZnJ2UzNpdEpKcXBFcHp6UTZsSEFoMTZDOTNxTTRLRmtDbHR0eWh5YkRJWDZVeTNqdGhZamVjQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T21:45:00+00:00",
-      "summary": "SoFi Democratizes Private Equity with New CAZ and AngelList Funds Featuring OpenAI Exposure  FF News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcU90czRsTVlMbWQ0VHVpbnByUkZua0Vtb09qa0dmbjY3TVNHV2x3QW1nMFc3UEN5V0RFak5la2FDcUtCYkt4SHFMSmN0Si0tTk9qNkRVcm5lSlljM29rOTljaHhQdEc0dlRVcFlGOXlELTV5bEg2RzNVVzQ3SmhoVGR2YXprcDVUbDctX0o2OHB2c2ZRSDdPNm5aTDA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T21:36:25+00:00",
-      "summary": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent  Business Insider",
+      "summary": "Details on Anthropic and OpenAI models reportedly creating fake ID's to target real people  CBS News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI models used fake identities to trick humans in cyberattack: Officials - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkVvbk9ob3JSTkNGZERRNjQzWnpZc2c2VUVDbUZuT0xnNG14Wmx0MlBrYWVhLVMyUFp1Y3NfaXlYQWpuM0lIWGE1bzVnSVZrdUdGSWZFbWlzX1Rnd1RrN0R2ZmpLc0xzZlRmNWd4cXNsczBuT19kaTRMVDVXOF9pX3ZrTmp5UGVIN2k3WmhrcXFkMzAyX0RrUTgtVHBTNFJYRElscTh1c201UXRD0gGyAUFVX3lxTE4zUHUxRHVEdnB4QzRMSmY0RW9Yckl2bUFtRHE0UnU2S1Z2UW5oNE5pRF9EVUhzMENiSnJPcC1EVk5tdksxUXltYVpVTFhhbnpDT1dDR251UktWV1N5am5peVBkRnpmR2ZMT0lYeUhMZEpkTHpRVjRNWGhHb3VLWHVjTzhIbjMtbWVtSlRQTjBJdUxERjI5RzdBQ0NUa24yN01LMUxMYXdCMEhERUxvNlhCQ1E?oc=5",
+      "title": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcU90czRsTVlMbWQ0VHVpbnByUkZua0Vtb09qa0dmbjY3TVNHV2x3QW1nMFc3UEN5V0RFak5la2FDcUtCYkt4SHFMSmN0Si0tTk9qNkRVcm5lSlljM29rOTljaHhQdEc0dlRVcFlGOXlELTV5bEg2RzNVVzQ3SmhoVGR2YXprcDVUbDctX0o2OHB2c2ZRSDdPNm5aTDA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-05T21:08:49+00:00",
-      "summary": "AI models used fake identities to trick humans in cyberattack: Officials  ABC News - Breaking News, Latest News and Videos",
+      "publishedAt": "2026-08-05T21:31:00+00:00",
+      "summary": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,74 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Rejects Apple's Trade Secrets Lawsuit - BankInfoSecurity",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTZ4VEZqdkxjcGk1SFd0QkdocVpMNjB6SzU5akY5VE9vTG5BRGN4R2VZRmIzZW1adGNNU182SVBLamRyOUd4NlBhVlJlS3lYeDgyQzZldEtEWkNZa2FKMjktYWI2VFI2bmI5allaSFQ0OGJWLXMzN0lNV0kyVFBGczZGdHF0SjRDNEZLeA?oc=5",
+      "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE1OY3Z5ckczdXRoRTFGakxFbjRMaHg3akQ5eFZfU29LaVVaUEJETVQ5QjdwY3VSV0tMNXF3ZGFfY0RPYkNESWtCUlpMVGx3aWd6eUdNUEdJWnE2eFJ6aEFNemx1Vk1hQlA4VzFqVzNjUUoyQndVY0UwQmlEdTJXMzVKOG1aTjl0Ti1pUm9LZUVScml0WWxVVUdKSlIzTjh1OTg2SC11WmZQQ3JyZ0tkVFlyTm43eFhVWDNERnNFSU9VckE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-05T20:45:14+00:00",
-      "summary": "OpenAI Rejects Apple's Trade Secrets Lawsuit  BankInfoSecurity",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEw2WnJIN09TWkotREpmdFROMDdMQmtlUVNYcWhZbmQtUDdvVlF2dmVvckJuXzRrWm1LYmlxYlRaVGRpWm5SUmJ2V2JGV29ncnVNSk56cDFoM3Y0OWVrTEVpSEZmYnVkMTB2Z1JodFF5UjRwTGZZZ1ZiSjd0bExWWVhFVTlmTGRQTmJfQnBIZE9PUGh1dGEyNHR3a20ySEFhOUQ5V25tYVF6ZElyNG9Ca01B?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T20:33:34+00:00",
-      "summary": "Meta Debuts AI Coding Agent in Race With OpenAI and Anthropic  bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmlYd09FV3dTUTFSdzlrWWhEWHhLcVo3SjVYeXdJbmhqUG5oRTB4SUN1OGIxYUZ0MWNzVGZMOGlHVjhUYUNXVDRBaHhRVFZsbjNWcGtrNjhRQ0pEeHdrZlFPeGJEVlF6Tk9mNEk5andRZlhaQk5GWWdQblVrVkRsbzhKQUFXalAtX0ZDb2tEaHpPd3dPNzN5cmhENnkzaHVhUXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T19:48:13+00:00",
-      "summary": "Meta Releases Coding Agent to Compete With OpenAI and Anthropic  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta releases AI coding agent Muse Code as it looks to take on OpenAI, Anthropic (META:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzdZNEQtenV0MHM3YmRRT2J0ZEdvWlZLVlgyY1BTM29DYWlucFdCakVNZnU2T1FxTFo0c19yZlFNY0gya25tdTJfbGdtQjl5X0g4X3V4Sl82eE1WNW1Ielhoc0p6TGFyZ0JJSV8zQjJxLWFRTy1uMEZCU2JHbUF0NzhoZzF0SzhBZzNMY1lhR3RjN2YxR2JxazVPX1d2VkRubVpaQnpRRUFJX1hzYlA2LUxBdUc0eEV3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T19:32:13+00:00",
-      "summary": "Meta releases AI coding agent Muse Code as it looks to take on OpenAI, Anthropic (META:NASDAQ)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeW9ZMU9abUU2NDRxamZJdHhLeVNGcDRWdXNpSHpYVFJaN2NmUTBjNHFuM2dMT2JUSEd6TmJkZFFNM3o0UGdHek8wRWZKU1FyRVZXM3VxVUFFdEtQRHFrcDdVbjlOWUduMDYzbHdoQXExS3dWYWVOcnJtZHVUem1OeW53OGFzYk5pd2xzaVdaekhlQUpDUW9hTTRaa3Bkdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T19:11:23+00:00",
-      "summary": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T19:00:17+00:00",
-      "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PdXhkcElRMFEzdWMtWDd4NjlEV2ZjMzdOZFpGc0s4bV9nVWJ2UTVnYU9fcG1XZV9GcWMwZk9NaGJmYTlIXzdFVU55STE1eHBPc0hPOU81dFFJNUVRN1pMb1NGc1JXNHkxSl9PMGpHV0NIWFVtaGRoeHB0UEJJUFk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T18:33:00+00:00",
-      "summary": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes  The Hacker News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRaTDJiVUZySHRRRngtZzBySk5NYmgzNGVSdVk5cDl4QmVwOUdzZ0dBVVJDQmdFajNWYUt2OXppb19vaDh3Vnh1d0xoYkZKM002TlV0bXBxZmhONWlHZzZfb2N0NjF5VXhZV0ZZMnBEMTBhT1RLVmVqTGh5X19qUVlwUE9JbTk2eXZISEwwWWpMRGhFcWcxUlRYVFlNTE9MWWphdVNnNXNMVUl1OFFOYtIBtgFBVV95cUxPWEd6YnZNSnE3Z0ZLdk0wN2FGSFdIYXF5QlpJVjRBX0FzRmVqdTA2Qk4wMUE0aWZRdzhIQmVHbFVGc1k5NVYtakh6b3owcjQ2QTdWd1FmaUJ0aFRDNExnTS1mY0dsMkdXekhoZTRTV19KOUUtLUFqRm9yeWRzYzlmeEQwRlJmMVNtU2ZpanJXWG1YWjR5NjctV1dDYktSZzBhVklUcmZtVXotNUN4a0pjMy1HM1VXUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-05T18:31:08+00:00",
-      "summary": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push  CNBC",
+      "publishedAt": "2026-08-05T21:00:11+00:00",
+      "summary": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows  Amazon Web Services (AWS)",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
