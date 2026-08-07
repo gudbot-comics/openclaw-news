@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T05:06:17.134631+00:00",
+  "generatedAt": "2026-08-07T06:15:21.695190+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -45,7 +45,7 @@
       "title": "OpenAI Aims to Redefine Smart Speakers With First AI Device - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUN6XzNsOHk5Y0Z1cWl0WWI2ZkE2R0w0LVZ6MGt1dGE1aGowUVo1cUV5U3loeFQxSTRLTS1qcDQ1X0VzSjBXLXM5LTRYdnk0UzQ2TzVwOVljRlVMMzBvd04tbzhFWXk0NlVPZmtYV0dUbEgwLXR6Nk9yQ1J1djg5M1VDY1k1NzRCaTFOdEh2S3lXMWZsUkQzVkNZUTFNeEd6aUFIRGtmMEF0cXU0NVJZM2oyMlAwZGI5?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-07T02:15:17+00:00",
+      "publishedAt": "2026-08-07T02:19:21+00:00",
       "summary": "OpenAI Aims to Redefine Smart Speakers With First AI Device  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -141,15 +141,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenClaw use cases: 25 ways to automate work and life - Hostinger",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBubFFPaXNWQlBoYTZGaEpGeDFQbUluYjUyUzFUNXZjNEM1Sm5wcGV6czMwaXBVU0kzZ21ReW5XbVFYdWpLcUREY2xEcTRnb1E5OUlZaVV6V3NCT0NDN2N4SDNhOExUUDFSYUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-06T21:39:56+00:00",
-      "summary": "OpenClaw use cases: 25 ways to automate work and life  Hostinger",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
       "title": "OpenAI eyes 2027 hardware entry with high-end smart speaker, Bloomberg reports - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdmRXUlhTYUFIaHhBZkxtQ3Q5WHlNamNqUWxINzVadGRrY0IwelZUYU12ajlwamg2UlE0cGxtcXZKbUFfWkxTcUtEVGtNZ19NLTdpVkZvRHFZUGZPdVNDbEJvaVQ0RkVkUUJLc1ZielNxOE43RzJOQmRpbVA2SkVqa3RXNXdGUVU?oc=5",
       "source": "news.google.com",
@@ -195,11 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Google’s Shake-Up Complicates Race With OpenAI, Anthropic - Bloomberg",
+      "title": "Google’s Shake-Up Complicates Race With OpenAI, Anthropic - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEJfcTJVc1Zwdm9Oa0Z3ejB2cGVQbmZkN2JGcmhjbU82Zk5QcDdrUFltOGZkeTM5UnhDUDZuLXJmSDlrOGE5NFZSNFlkNnJObEVyUVUyc01hNEl5cWdIN2ZtUGFjdVg5YXNDdHh2YlhxTkNxQkRReDNxb3NFUEI0REh5WERKX3hsUVY0MkxQUVdXYS0wNThIb0EwZ0F5eDhXaGtMYWd3LTFLNHMwelE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-06T21:00:01+00:00",
-      "summary": "Google’s Shake-Up Complicates Race With OpenAI, Anthropic  Bloomberg",
+      "summary": "Google’s Shake-Up Complicates Race With OpenAI, Anthropic  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-06T20:54:59+00:00",
       "summary": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU00xVHVXaHNWblBGZ0h5TzRJRkN1cFF4dHhRekRGNGU2ZlNtamhqWnNmVDVNZ3VhTmt5VXlNQ3NwMzJVNlplVkVjWXJCWFhQX0Rud0NCeUVXN1pHYkFiVHdPbWRZbFdfekNmMlJ2ZFZUdVFfVjFmT01aMjVfaTlFWm1aQ1luWVV5SWRVZ21mZWpEMWxpRGdhelNWMzdqNTR2aFdoQ29TT0M1ekw5QjZidERYc2JFc2VKWjg1LVprY0pJNnhS?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-06T20:45:22+00:00",
+      "summary": "New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls  SiliconANGLE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
