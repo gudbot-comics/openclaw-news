@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T10:46:33.797877+00:00",
+  "generatedAt": "2026-08-08T11:12:11.273378+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-08T10:04:22+00:00",
       "summary": "He joined OpenAI. Here’s his advice for those who want a job at the lab.  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "He joined OpenAI. Here’s his advice for those who want a job at the lab. - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWRPSjNrNFJLQTZjdjN4SU4xV3RweDc3ZnBJVlUwWEdjZ1BxeTZCeWdKTjJ0S3VXODBBbnFIOFFra0ZLeU9DWUVLZkd2ckR1WEQ3ejJYZEtSMXN0eGRTMzMwMXpmclpCdHlQS0tvR0hIUFlhaERDWGpSSTBWc056ZXdJWUxCTmUzYTRrM25DRkYwZ2s?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-08T10:03:01+00:00",
+      "summary": "He joined OpenAI. Here’s his advice for those who want a job at the lab.  Yahoo Tech",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,11 +60,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities - SiliconANGLE",
+      "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities - siliconangle.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDFrajlxbE5tdThDa3dvVEpkcjlhM2JKcThWTnRhMGVudVctNlBHdWJacVdqV0ZBcS1zNlhsaFhmOFcyZHlmTDRIam9KM2lEYnl4SDJIcHpRbHFaX2tfRXJPVTFRUmxodjltbkpaQWI1LUlOUWhJVEM4aVNJbWtZQU1KYkRKUFVlbWcxdXFXd0dNSEVqeU1tMDMwbmdGVzh0ZjFWVlRyNGlrNG1hYlFFcTRpMzE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-08T00:58:53+00:00",
-      "summary": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities  SiliconANGLE",
+      "summary": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities  siliconangle.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,6 +74,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-08T00:25:55+00:00",
       "summary": "OpenAI's Astra pause  Sources | Alex Heath",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Open AI is unveiling more advanced versions of Chat GPT | National News | 2news.com - KTVN",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSE5nS2d3bEpqemJUd2tNdHd1ajlkRU91QTBjZFRSc2RDSTBaeldvakhael9paDEzMWpuMFNMVkVWWnNaVkQyeXVMcDVYUlh3NFFGcWJWb2J2bFVtVjFPTzhsa2tOVHhtZ01fWVpkMHpVam5ZbHNXTUNXZDY3Z3dVYi05c2dQaURDakxyOVJBZ2U5Qk4wRkZjd3dobG5LRUliQjk5X3BQb29VM2ZCbzFiM0F4bnhNVkdpMUN0Q21UalFENEI0SXhWSFpVazkwYV9MVkFHVFpn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-08T00:01:00+00:00",
+      "summary": "Open AI is unveiling more advanced versions of Chat GPT | National News | 2news.com  KTVN",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Several rock trucks driving through downtown Temple traced to $470 million OpenAI data center project - kcentv.com",
+      "title": "Several rock trucks driving through downtown Temple traced to $470 million OpenAI data center project - KCENTV.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVTVWbTc5SkxyVXl2Um5aczNpODhUZXMyQU1ZQ3pxZUc5R3NYcHJFZzNQdHd3c0l4b1c1V0YtQkM0NkxUSXhwdl9vb21xdGlZY1VsWDdHLTJQYUdvLXpWdURCQ1dyU3pPWEx5TW9NRVZLLWtwOElmLVNENTRIb0VuX0NHeEJ6Sk1oODZldG1QMmJRMjVKMEZKdWlkVDkxanNEOWFQQ0dEcVVBUThOYTVldUJmUHhHcm0xY2lUU2g3LWZxMF9ZVkZrUHJGM013Z3prd3c?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-07T23:36:00+00:00",
-      "summary": "Several rock trucks driving through downtown Temple traced to $470 million OpenAI data center project  kcentv.com",
+      "summary": "Several rock trucks driving through downtown Temple traced to $470 million OpenAI data center project  KCENTV.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,6 +168,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Influencers criticized for attending OpenAI retreat in the Hudson Valley - WAMC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDJGdFYzRHBQT0xQa3pUSmd2MHJMbnIyaFlKWDVRZ2IxOGJXdTlJOEZfQ0NpLWVzcnFvMzZNdVBFRHlSekVfLTFLUUVMeHpyVVE2RGh2SUE4b25GNnROcHhKWlpUejlfd21RbC16aFlxQzZTOUJESDRoMV9Sd29qTUhIUG9HbXlVc19tZVBjcDRZeF9XQXd1M0kzMU1kd0lWeWlTRFY5d00wRzM2a3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-07T21:20:00+00:00",
+      "summary": "Influencers criticized for attending OpenAI retreat in the Hudson Valley  WAMC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI offers to strengthen Michigan cybersecurity after water infrastructure attack - freep.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm8zYXNPUnduZjJ4SjRUejcxR1R3WWtkUThCcHNsV3lKUTJjU0pfX3I5SkFlX3hhcmRJZWxLcUU0MXp1MFdYVENHNjBUbjliOWFuM0xlaVdSTWlLQ05HaU5OWWRLejlYTzY5VE5pTVI3YUZBN191UFU0LXBaRGpoMEtmQTNwdTFLYzgwT0NNa1VHQXhkeExuVzBvOU9JYmJzWFNEOEhkMFR5UQ?oc=5",
       "source": "news.google.com",
@@ -177,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The AI model OpenAI won’t release yet — and what it found in testing - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94VXpBWTNaVXlfcmZIZFV1WkM2RWs1VHl1bGNOVDdiRFpQZjBsb28yZ3V5UzQtSzh1RTRxUHhtTk5YZHJfbldVcXJyV1dEQW5VV3laSGNvVW5LZF95VndianNvVDFka1U?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-07T21:00:16+00:00",
-      "summary": "The AI model OpenAI won’t release yet — and what it found in testing  The New Stack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI settles DOJ allegation it shut US workers out of lucrative jobs - HR Dive",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzJBeXBnQmctTy1kMVd4UDgxQ3JPTVBBZWsxazFCbnZvMzlldng4LVlDRDVwM1BJXzRhVE9MWjh3MXRjaEgzTUgybzBmQmRCSVg1R1QyQkRvSi15amstaEYwNVRxTExLX1RyV3dYZEV5QnFnVzhWNGJxUmo5YW5xcmdDZjE5T3Y1WDF6QktQMVQtelJwMXJMTWo3QkxGazZPUUR3dGM3ZnUyZw?oc=5",
       "source": "news.google.com",
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-07T20:20:00+00:00",
       "summary": "OpenAI developing $300+ AI speaker to challenge Amazon Alexa  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI set to get into the smart home sector with $300 doughnut-shaped puck - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPakpUWExmcnppbExQaUEyYTljT0Q5MDZ3YUtXeW5ZOWszTWV5bU5lOVR0VUk3VTA3OWVRTkhhdF9GNUd4aDFFYnVOQ3hrTmRqaS00dDdtNjBUOVVEaGluSTVNelJNUktYZG9QbzBmTnNiT1QzXzc3bWpiclo0Mm0zeFY4MHZmbTExUlcxOE02Tm9Qazc4R0RxREF5N0I5dEZIZ19VZFRpN0JqRzJYQS1lSDRFcXNza01ZWU5WUEZVWGlGdEFXVnQ0QzI3QTdjOV9q?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-07T20:16:00+00:00",
-      "summary": "OpenAI set to get into the smart home sector with $300 doughnut-shaped puck  New York Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Flags Critical Cyber Risk in Astra Model - Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc2NBeUpyY1hsX0VsV2VkaW5TUy12S0dDaGJKNENqQ0hhcHZNdFREei04WWtjNWpiX0hvVllDN3p5LVlLVTVKbjk5bDJHRFM3NkJ2WWd0UzBLSzJwODJhMll0VGFmTlFGMC1sRURGam85MHBUaFUzQnJkUEFwOGlNQkZkY0I3VFlPZXJn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-07T20:02:26+00:00",
-      "summary": "OpenAI Flags Critical Cyber Risk in Astra Model  Technology Org",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
