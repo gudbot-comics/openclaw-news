@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T15:39:47.536363+00:00",
+  "generatedAt": "2026-08-08T16:00:57.190239+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -33,11 +33,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default - theregister.com",
+      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default - The Register",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVnFrWkZJdVpXcDZPVTN6d2h2WEp5LWtsOVl4eENvUGY0ZGhpcWYtbXdpTWs5YkVhMmFtY01JVTBuT1pjcVZxbUVBQ0RUZUFYdllRWG9oRHNoeGdMeDYtQW11QTJkVUpOVG1jQnZtcTB2emMwR2YxS2dmVjllTDBwR2FTQ2xDUzNvRzVEUVJ6cTdsekR3WWtPOTdvQWtWTkwzZlNOUGQ1YmRrVDZETTNyWmQ3a3VFT2RsdUhaLURPZXVyNEtwU1NQMVFJVnp3UDZ4RjdCag?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-08T13:00:00+00:00",
-      "summary": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default  theregister.com",
+      "summary": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default  The Register",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +69,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "After Hugging Face hack, OpenAI pauses work on Astra AI model over cybersecurity risks - The Times of India",
+      "title": "After Hugging Face hack, OpenAI pauses work on Astra AI model over cybersecurity risks - timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVE0zeEdLWUNBcG9MVUpBZ1FpdDRJcms2RzhnSE9NZjc5Y09rR0ZPZTROemhWQWwtaW1wN01xVnFOMkFIaUI0Ui1ST252UmxyLU5UYzVMYlBka0I2QTg4WVAtcFRRc1BBYmtjNVJ3NkZxcF9MQVhJbktWVWRidzAyMk1HeXVmMHVCN01HZkFsZWZzOFYzeTQycUhTVi1DVG1NcF9rckRfbng0Wl9ZUkNnNHpaX1J5SHEzeEFfcFhBdVZSS3FQUW1CcWZCSkZHSDFVVFdHSWtfZDBSQk5YenZpOXVzRWdENHl4UEFtNHp0THJaWEo3QkFReGhIaDPSAYICQVVfeXFMUG9VS2E3el9nVUs5dGtQZzJ3c1U1WlJlZjZQMzFIUmJiRGlua3d3LXJVTm5mV2xiQUtMdktIb2c1bWdHQkl0S0NHVUxDMWhZc2UzZFEtRGR4SDB2NHdQZ2E2R3k2MlEzU21DeTVxaXVPdGFjVU15eXlHVzNVck9FUS05elI5WWdJdlhfeDJrVUlwUlVGcVJiR2JONDJ2SWg0WGlya0oxY2NQOHZsRzU2TDVCUmIwY1NDM0ZmUTV6ZG1sSnRvZU9UMk5NTFRtYVY4SjJoYUtPbTNBc0NSanFMV1JIOXdPaHRFRXE0bHNUQlR2RUV6SElxbFVmNXVJNFVVcE5n?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-08T10:50:00+00:00",
-      "summary": "After Hugging Face hack, OpenAI pauses work on Astra AI model over cybersecurity risks  The Times of India",
+      "summary": "After Hugging Face hack, OpenAI pauses work on Astra AI model over cybersecurity risks  timesofindia.indiatimes.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,6 +150,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI's Astra pause - Sources | Alex Heath",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fQWR1bHhKU3R4UFE5YlozNy1EUkEyM3ZVQTZCMXd4Y2ZTX0hPUEhqZGdPMmhUT2VTSzhfN1dDMklaNE1zOHpSNEJnZ3Q4WmEwZDAw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-08T00:25:55+00:00",
+      "summary": "OpenAI's Astra pause  Sources | Alex Heath",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPclZWUTkwSW91QURONk1YRTV4aFhrbXlUUVByd1doNzdFQXpncXppdDdVamFMU0wwQXB6aDAtMjJaTTF3TkdpWERTX0dzMnVSS2NISUd1MFJaQzBpZy1YekJKSlZ6X0wzZ01Sa1lPaU45WjNJVUdzclU1LVg3R0hnVnczd2NvZUhVaG50RS1VUWF3Sms2bkNQYjljSGk3dGt0WllYMDFrUHdtVTVMeTc3OGxSalV3UkJFenlXa3JZYlNCb0JmekZxRWpaeTdwU3dQTFVF?oc=5",
       "source": "news.google.com",
@@ -159,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash - theregister.com",
+      "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash - The Register",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeTNZYm52T1Z4akI4NHhscUZSWGZWZkVNd0VlRlk3WWhXQk9xanUtck1DV3BnVF93SHNnUnNtZjdmRUVHM0x4ZmdpUmtVeTgwSEJvTWZRVDRISFhybGtiSUY1N2EzSXBfZGZkWENwWVdrWXdTVWVzczFmUnhZakNZSWNpN2l4am1FX2w5eUFSSk9LRnpSOHRJNEEzRHhyWHFfdmhmbGYxMzBNbEdwN3pialg5MW13U05CY2tVVWNoT0V2Mm90bnc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-07T23:41:07+00:00",
-      "summary": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash  theregister.com",
+      "summary": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash  The Register",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,15 +191,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-07T23:12:34+00:00",
       "summary": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-07T23:12:19+00:00",
-      "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
