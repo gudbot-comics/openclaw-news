@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-08T03:45:08.698857+00:00",
+  "generatedAt": "2026-08-08T04:40:03.153716+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Says Upcoming Astra Model May Reach Critical Cyber Capability Threshold - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWTBTQUM2WHNaVHIxUzJnRlR6dzJsX1BpWTRTSEpYQV9TalM4OXR4TFBmM25USVh0RHlIUk0tUU1fVjBubzduUU5KWHdRVVJLa2lkQXVBcGR6OUNIay01LUJNTk80OE0wcGtiaXBzbU9aMzMxdGtzdk9LbmxBTl92X3RFcnBFajl2ZDIwX2FWMkl1dG40bHBiSFpGN3ZDam_SAaQBQVVfeXFMUHFTZmt5eUZMdWI5cTlTekNHUjdKTjNLMlZsU2JRYXpXcnd2NmRyOGZ0cEZ5UW42VGZoNXJkTW1UTzdpNE5Lb0FYMmxERl9JQ09MbjVaM1RZZHUxT3ZzREFkNzRUMlJJNXJEbE9TckFxV2I2b1hsWWpKLTV3WGdmOGdoeFF6LUVLR3pzQTh5N2hvdWVGaExmd2oxV29RMzZ0VlVXTDQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-08T03:42:04+00:00",
+      "summary": "OpenAI Says Upcoming Astra Model May Reach Critical Cyber Capability Threshold  Pulse 2.0",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDFrajlxbE5tdThDa3dvVEpkcjlhM2JKcThWTnRhMGVudVctNlBHdWJacVdqV0ZBcS1zNlhsaFhmOFcyZHlmTDRIam9KM2lEYnl4SDJIcHpRbHFaX2tfRXJPVTFRUmxodjltbkpaQWI1LUlOUWhJVEM4aVNJbWtZQU1KYkRKUFVlbWcxdXFXd0dNSEVqeU1tMDMwbmdGVzh0ZjFWVlRyNGlrNG1hYlFFcTRpMzE?oc=5",
@@ -42,11 +51,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns - bloomberg.com",
+      "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHp6aG5OdGNBX3MyblBfOUZwQlpKX2M1QnZoazdwWGg1VGRHMWxpaHRja2V6YXBPNVJLeEkzYmdPRTNKRGwxM3RzMUtKN1BueFNyaVVPMlJuWWdtbTI5MUNpV2lodHBGVUQ1aHhqNkVYN01PcDJEbWRFUm12M0Q2X1JaOTBTRDRJVmo1cG5sUGtUZTdCd2V6VV9LYy1uWEk5OHhHYlMzNnRZUkxoMVBpUENLOA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-07T23:12:34+00:00",
-      "summary": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns  bloomberg.com",
+      "summary": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -56,6 +65,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-07T23:12:19+00:00",
       "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI flags critical cyber capability risk in upcoming ’Astra’ model - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXJUekgweUswa041ODQ1NXA2Nm1UM3pxRVBkNmRSMEpXNE9qNUtOVXVwT0twcWVJcHpzeWVxa19uOWt3WkJxOHcyVzRkaUk2dGJEeUlVbVFhWnduc0ZTVm9CV1JJbVp1aFE1MnhhN0xZd0cyWHI5S3FudWxIY1hSWXJhbXpScGNUNy1KY0tBY2p5SjF6OWZ3SFpVaDB3ZlU3X2J4cVFPRWQ2ak1laHpmcmJZUkFaRHBsbl9OaVhocXZSQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-07T23:02:02+00:00",
+      "summary": "OpenAI flags critical cyber capability risk in upcoming ’Astra’ model  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,15 +150,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI locks down Astra after model raises first-ever critical cyber capability fears - Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRk5NSGw0UkViUnUzTlBZc1p5QTlNZElYbjRrUTRlT3JmOXAtXzNNM1F0aTJiZEM1RTlrcnh2UDVrbVNRTVlsZFBfcDV2NEFzNmVKa2UweDBFM0twdmNfaTltaGtqYWdtcmlJWXVaRFZVUE4xVVRqYlprODFCNlA1UVQ0VFpxQ2oyUTF3Zmw3RTQtMHVadGFJVWZPVzJLV1RUN3pSQk91b3puNkhRZjVseGxjWk5zbTA4VXBOTGJoeldTYnZ5RGE5MVNJSHU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-07T21:01:00+00:00",
-      "summary": "OpenAI locks down Astra after model raises first-ever critical cyber capability fears  Interesting Engineering",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "The AI model OpenAI won’t release yet — and what it found in testing - The New Stack",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94VXpBWTNaVXlfcmZIZFV1WkM2RWs1VHl1bGNOVDdiRFpQZjBsb28yZ3V5UzQtSzh1RTRxUHhtTk5YZHJfbldVcXJyV1dEQW5VV3laSGNvVW5LZF95VndianNvVDFka1U?oc=5",
       "source": "news.google.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-07T19:05:14+00:00",
       "summary": "OpenAI pumps the brakes on new Astra model over cybersecurity concerns  PCWorld",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTROTmJrS2xkRmpKem5rTV93eWc1UTNvbUU1R0ZDUTVjdjdfTVowUUhZUDVfcDdJcXVCbDdmdnRfR2tNQl9MREVfNlBIc05fRmNxU3ljYnpjeUFqUUdfWjhVb0RCd2d5X19FZ3Z5ZU1oVFhpb1NnNHNiWTdleTMtTDltbzloWkJnRm5jUU9JX2p4N0FOdURiektLZXpubG5ScXRIanFxMDZBVy1nYjVRUg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-07T18:40:34+00:00",
-      "summary": "OpenAI puts the brakes on a new model because it’s supposedly too powerful  The Verge",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
