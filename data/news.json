@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-09T10:48:02.808582+00:00",
+  "generatedAt": "2026-08-09T11:14:53.589880+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Apple's OpenAI Lawsuit, Earnings, Senator's Stock Sales and more - Apple (NASDAQ:AAPL) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHpuc2lqeklGX0RGTDF4Zl9KTFpXd0VvdDlMMTRCMnRrSVFNYnhTNkdralozYVZCTXNsLW1OSWdQLTc1RHhfeGdiaU5RRUtBRGJ6dGt5TnVnUU4tNWt1cFhWNzd5Z2MxQ3NlSUVKQ1hWcTlPdXVWNzhXdjFoYnJMcGlSVEZqemhrNlhUaFpES1dicFplMTJlLWdrNE4xMzgzb2tZZ3YzVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-09T11:01:13+00:00",
+      "summary": "Apple's OpenAI Lawsuit, Earnings, Senator's Stock Sales and more - Apple (NASDAQ:AAPL)  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "I Got My Hands on OpenAI's Sold-Out Codex Micro. Who Is This $230 Vibe-Coding Keyboard Even For? - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWU1sWWRSTklQMkxNX3VYLTFVVjROa2xJR3FkTnJTRi1kdjQxM2ZIb0R3ajJMbHBwUFF2TzZQdFFveUVubllrM3Zpdy15MkR3enNBZXZaMXRrTWhqNXptNmNRR25NOXZqQzNmaXU2T3FfODJ2dy0wMXJPbndlY0JydmgwRkpOenc0d1E?oc=5",
@@ -132,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's AI smart speaker will reportedly be shaped 'like a doughnut' - mashable.com",
+      "title": "OpenAI's AI smart speaker will reportedly be shaped 'like a doughnut' - Mashable",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVDRxQk9ZdGgzNWhMYzFDY1FWMWtqekVCUVBobzBGcmlNNVdWVTJrelJwamhMdE1IMDU5SG41dktadFFJZTdrRWVrdDl4VTd1c19ESzV0NzFuMldpMmVOcFFBcmdzQ19vWWtXOXRXQTRfcUdWRFJEOVl6b0syZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-08T16:44:20+00:00",
-      "summary": "OpenAI's AI smart speaker will reportedly be shaped 'like a doughnut'  mashable.com",
+      "summary": "OpenAI's AI smart speaker will reportedly be shaped 'like a doughnut'  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,11 +159,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default - theregister.com",
+      "title": "OpenAI Astra: The mysterious new quantum math-solving model - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zdDNjX3BqbW52dzB3X0hCU0NqUEFfR0F4ZEtvVVF3UW1NNWw3dG1JWWRCS1VJUnlIZWF4a2hvb25SQncwa0N4TzN2WWQ5UFVXQllQaE1FcVZqT1JjVWdCbTJ0Wm9mNjJJUEotSnBpTUwtTFk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-08T13:39:47+00:00",
+      "summary": "OpenAI Astra: The mysterious new quantum math-solving model  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default - The Register",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVnFrWkZJdVpXcDZPVTN6d2h2WEp5LWtsOVl4eENvUGY0ZGhpcWYtbXdpTWs5YkVhMmFtY01JVTBuT1pjcVZxbUVBQ0RUZUFYdllRWG9oRHNoeGdMeDYtQW11QTJkVUpOVG1jQnZtcTB2emMwR2YxS2dmVjllTDBwR2FTQ2xDUzNvRzVEUVJ6cTdsekR3WWtPOTdvQWtWTkwzZlNOUGQ1YmRrVDZETTNyWmQ3a3VFT2RsdUhaLURPZXVyNEtwU1NQMVFJVnp3UDZ4RjdCag?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-08T13:00:00+00:00",
-      "summary": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default  theregister.com",
+      "summary": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default  The Register",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,38 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities - SiliconANGLE",
+      "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities - siliconangle.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDFrajlxbE5tdThDa3dvVEpkcjlhM2JKcThWTnRhMGVudVctNlBHdWJacVdqV0ZBcS1zNlhsaFhmOFcyZHlmTDRIam9KM2lEYnl4SDJIcHpRbHFaX2tfRXJPVTFRUmxodjltbkpaQWI1LUlOUWhJVEM4aVNJbWtZQU1KYkRKUFVlbWcxdXFXd0dNSEVqeU1tMDMwbmdGVzh0ZjFWVlRyNGlrNG1hYlFFcTRpMzE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-08T00:58:53+00:00",
-      "summary": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities  SiliconANGLE",
+      "summary": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities  siliconangle.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash - theregister.com",
+      "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash - The Register",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeTNZYm52T1Z4akI4NHhscUZSWGZWZkVNd0VlRlk3WWhXQk9xanUtck1DV3BnVF93SHNnUnNtZjdmRUVHM0x4ZmdpUmtVeTgwSEJvTWZRVDRISFhybGtiSUY1N2EzSXBfZGZkWENwWVdrWXdTVWVzczFmUnhZakNZSWNpN2l4am1FX2w5eUFSSk9LRnpSOHRJNEEzRHhyWHFfdmhmbGYxMzBNbEdwN3pialg5MW13U05CY2tVVWNoT0V2Mm90bnc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-07T23:41:07+00:00",
-      "summary": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash  theregister.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI offers to strengthen Michigan cybersecurity after water infrastructure attack - Detroit Free Press",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm8zYXNPUnduZjJ4SjRUejcxR1R3WWtkUThCcHNsV3lKUTJjU0pfX3I5SkFlX3hhcmRJZWxLcUU0MXp1MFdYVENHNjBUbjliOWFuM0xlaVdSTWlLQ05HaU5OWWRLejlYTzY5VE5pTVI3YUZBN191UFU0LXBaRGpoMEtmQTNwdTFLYzgwT0NNa1VHQXhkeExuVzBvOU9JYmJzWFNEOEhkMFR5UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-07T21:19:00+00:00",
-      "summary": "OpenAI offers to strengthen Michigan cybersecurity after water infrastructure attack  Detroit Free Press",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZTF1QlBHTXRSd21LRlpHMGVlQlBHVXl5a2R1ZWFpazJQLVBkcG9LVHhpVGpwUnRobER0S3RPWEtvNDduUDVJdTA1UTBuc0FVVVppQ1Y5WnhhU2hnbnhEUjhTUUVleHE1NG9PcDd0UEVoaUo5ZTlheEhQN2wxQ0YzVDBXQ2sxX2J2U09VQy0welEtOEIxX0hDQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-07T21:17:00+00:00",
-      "summary": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns  WSJ",
+      "summary": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash  The Register",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
