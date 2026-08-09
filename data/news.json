@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-09T22:14:11.006774+00:00",
+  "generatedAt": "2026-08-09T22:51:59.431885+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Halts New Model Rollout Due to Security Worries - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWjAwQ1RpaFA5QUlhN01jcTlzaGF0cHJxa3pfclozZVdzaV9UTkdZWW8td09hNUd6TkpVbUllTHVCdmtQQ19BaUkzVUJXUnZqNVdqMlJPZ2dTekRGN2lwa3hyUzNhVTFQTHZaeUtTak4wbTg3dzF6S0ZyNjdnZ1dkME5PZUZMSUFpZzlyWHNxNXZ2RlZ0U1A3S0Faa1l5MDJGZ0d1QldaWS1KZUhKVU92V2xn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-09T22:20:56+00:00",
+      "summary": "OpenAI Halts New Model Rollout Due to Security Worries  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "The OpenAI-Hugging Face Incident Was an Identity Failure Before It Was an AI Failure - hackernoon.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0dWc2loUnlKLWQzdFRodzM5aGFPcDlOdTY4RUlRTUtpSXhEQmd5T1VkcTgxV0x0RDAwSldvRmNIRDYtT1laR2xjb2JQN0xSWHJvLXN0OHd4ZnUySjJLLTJqa2RiSDJEckZwWm1oVjFVUERHdlIyY1o0akJuM0Q1bGd3eDBaZjFVbF9Dbi1aSGRWVUFqNndzTE5SMjFPOFp6OTVhd3dpS2pnV3M?oc=5",
@@ -51,11 +60,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Fields Medal winner Jacob Tsimerman warned AI would kill humans 'as pests' — now he's joining OpenAI - uk.finance.yahoo.com",
+      "title": "Ty Geri always tells ChatGPT: \"Please impress me.\" \"You shouldn't have to,\" said Geri, a product manager at OpenAI. \"The models should try to impress you regardless.\" Geri joined OpenAI last year after working at Google on AI search products, like its AI over - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2VKVS05RDUtR2VyV0FpNkt3MGFtT2QycmUyWkROMVlaVHBCc3dHMEtYcGhCaVk5VE9FWGRXRzZfemZweHNVMlJwakV6aTlYS25XckIxTVNNLUJ0ZU9QNHRUbk9FeGZmbFlwS2dEZTVLUkhRMDBDQ1RoeUpfSkpzRjJlMW5RX01ZdHl4WFNZV2ZnRkZyVnBPZUFlMmJnbVNkYkREbmswOURfVHVYN2paUWJscWI3X3Iwc0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-09T16:30:09+00:00",
+      "summary": "Ty Geri always tells ChatGPT: \"Please impress me.\" \"You shouldn't have to,\" said Geri, a product manager at OpenAI. \"The models should try to impress you regardless.\" Geri joined OpenAI last year a…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Fields Medal winner Jacob Tsimerman warned AI would kill humans 'as pests' — now he's joining OpenAI - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRUI1VEU4RXc1dWFDQ2kwcTdoT3M1RWd0NlFwa0pFSnZPcUlEak1yS2dNdHp2RUZuOHZ2LXlGeDJ5NEs3WW1rUDZIWW9QWUpodnVEejNpTGg1WkZVRTdpNjcxTkRuWGRHaGc2RmYwTGhVRFNNcGdGb1FTYWZMNWZ4RW5SV3hlaHhIWkdXeQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-09T16:30:00+00:00",
-      "summary": "Fields Medal winner Jacob Tsimerman warned AI would kill humans 'as pests' — now he's joining OpenAI  uk.finance.yahoo.com",
+      "summary": "Fields Medal winner Jacob Tsimerman warned AI would kill humans 'as pests' — now he's joining OpenAI  Yahoo Finance UK",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-08T20:35:47+00:00",
       "summary": "Monica Barbaro Teases Luca Guadagnino’s OpenAI Film ‘Artificial,’ Addresses Timothée Chalamet’s Ballet Comments  The Hollywood Reporter",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0ZQNkkzNmZqS00yNkN4LUtIbGxzSEI2ZzYzek5kWk5RNnVWWHc1djE4cXRGdkU2N0Rha3VySlZTRE0yZTZFY1M0UFFBcVBFS2V6MVBuT2U2Q21LX0pjQS1uYk9TWnNiaHRPeXpDNm9zdHZDa1ZPUHp2SlVKZ0s3Y1FQWXpJVjlJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-08T19:41:13+00:00",
-      "summary": "OpenAI acquires presentation startup NextSlide  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFNrTmZZTTlEY1hoYjdEUDRyZHQ5MEN3dlVaanlnSTRnbm9xOWNoRGJLVWMtbE9pbFp3M09NZk15RUFUVF9BczJOblBDTlpySXRlbHdISkxJM1pWMnd2WWdHYjhVaHhrN1ZsS1lfcWNqZkowZUdxaTljQ0tIdTFMN0xuSlJyYWtsZDlQVk9seHFMb0NuZXBUc1VYQjA2V0RidklvOF9xMEw5OExjb2RZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-08T19:41:13+00:00",
-      "summary": "OpenAI acquires presentation startup NextSlide  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
