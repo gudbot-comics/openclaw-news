@@ -1,16 +1,97 @@
 {
-  "generatedAt": "2026-08-10T09:46:01.879071+00:00",
+  "generatedAt": "2026-08-10T10:49:00.576116+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Insurers thought the threat to cyber was bad from AI. Now even OpenAI is scared - Insurance Business",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTGo3X1ZFdE9LWTRoVThyanhUTFRhcGdzNFFwVFNpN1Q5c3RkS1ByeWIwcE1wdHRKQWZTbXFic3M5QWFfU19jczlYeUk0WkNUS0xTaHZXdzRsSWJKNVhERmtWdUlBYmpnWTBEYXFQaU81aklScDhOSEQtd0xFQXBpVlZkWVI4ZGQ4YVFDdWlmWGFmRktFaXJscGFMSVZOeGlrRWFmVlhfY1g2aTAxYmRxaXBtTWJweDRRa3lfaktOTVo3aFItX2lBNUFMNFBMZGphYmdOZDdySTBka1hWZGFZb2g5aEY?oc=5",
+      "title": "OpenAI tightens security for future Astra model - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0E1OUFKYlNsOTRRSVkxaDFiM1dLWnVPbXFQM1poSUhhUlFSQ0t5R01qX2ktR2tjTnNlbWZHaEN0YURpNFpUeVQtN0kyTVBLVmgyWmtLVnhTWXhzZjdRSDI2djZZSjdnNlNabUl2YzhiSU9hV0NyN3VIYy1odnRvQ0RYVWZsY2k2QnpXaGtkME9wWUxqRzBQYw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-10T09:42:23+00:00",
+      "publishedAt": "2026-08-10T10:40:27+00:00",
+      "summary": "OpenAI tightens security for future Astra model  Techzine Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "A gym goer’s AI agent hacked the booking system to get them a spot - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ2g5aHBYMUMyNDZrN0toSXFYLVNQTmVLTURNbHc3VkF2ejZMUlVyVXUzNGNKMUtTRFJsLVlIUHloeXVXemlXT1BialppOEJVakFRQnlJV3hPRFhxclplVjdtSk1kdFY3aDRkazRlZVpFZ1ZnV0F0RGZBQVNFZHA2Vno5RzRUNTZQRTQ0Q0VOWmMwb3loWjdMUWItdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T10:26:00+00:00",
+      "summary": "A gym goer’s AI agent hacked the booking system to get them a spot  The Independent",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Palantir CEO Alex Karp says OpenAI, Anthropic are trying to ‘drug addict’ businesses to AI future - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOczhhWUxubnRfY2VkZVlqaTk0blBrUGEtOUVZZnJUaHhLMTBkZmZ5b2M5ZEZQVnFaM3ItZ2dCd3ZQSW9WMHlteEZSVlVXRDVIbGZCd2xHSkhzX0I0a21uMzkzRm9oVm5FektVTDhJZVJBNUlqbm5tTlB6N01ZMzJabTdCSUhyVll3OTAyMlItbFA5ZTRycDN2VTJpV0F4QWtDbU52WkxramFZZHo3b19IUHBTSTJ2b2g3S3ItaU5RbVp0Y1hGNWN0akV2VDRCdlg2Zm0tLV9B0gHbAUFVX3lxTE11X3JZSnZkNUhQX3hrRXlLa0MtSlRjbDYza2p5SnBQcjNJRGJVNzB3d1Jkb1REdkNNaUZDSlgxQkItMFdneG81ajc2TzFEcFpUX1g5WHVXOWhoVVdNbndoUjJ2NlEtaXFZX1kxTklTVEREbzNDQnhoVVpQSFdrNDV2T3MwaWMtQ1hNMGRVQVVOa1RBNzNZM2UtVi03eEtRQ3lYRnRvUFpZV0JGSVhQSERqeVNOb0R5MVhyb25JQzl1RHBYMFU5S1FHRTlwTDIxTGNmTkU0RUNxendRbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T10:07:48+00:00",
+      "summary": "Palantir CEO Alex Karp says OpenAI, Anthropic are trying to ‘drug addict’ businesses to AI future  Firstpost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "🧑‍💻 AI in the workforce | Morning Newsletter - Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnpPc3Vkc3VCTDhpUVBHZG92MXV4NGZJZVotcjlkZll4OGpfNHlZVVM5bWQzS3o5VDFhaEhSRTRseUNGS1FzN3ZCcUdEcTN2dGR4NWVlZ01CMFpTNUg0U0NVeGtONWNBSWNIaE5EZW0wUHhGM21HajJiWmhKX3JpUnRaY0tVc2syeXdDUVlUemZDOV85Rko5NGpnOV9QaHhBd3l1Ul9PQnYxUVAxSHBWVU40TWVXZUtNbEZvRlc4dnBsZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T10:01:00+00:00",
+      "summary": "🧑‍💻 AI in the workforce | Morning Newsletter  Inquirer.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive | OpenAI risks White House relationship with hiring of 'nuisance' AI policy executive: sources - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUFrYkRuZ2dBclI5U2hOcmtGaUY0Qk1McDFqdHB6a0dqOVE3NlJKUXVxZHhjZ09fVV9wX09DdTQ5UVBNWjZ1cmRYQ0I3MmVQRHRyNEcxaTZyT2xqbWlna3FKa2VfWGZxbXpvYWtITldKZDJmOVZUM2F2d2U2MEc1LXNLWlVuQjhOOERhZFJzVWZ2T2Y1Y1NvSm9vTm4yWlgzX0tMV0tadUdmUzBtV08tVjI2VTJKbENDbVJqV3dCZUdBY0dFLTVmOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T10:00:00+00:00",
+      "summary": "Exclusive | OpenAI risks White House relationship with hiring of 'nuisance' AI policy executive: sources  New York Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cybersecurity News: OpenAI slows Astra, Irregular won’t talk, Senate confirms Cassady - CISO Series",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX052SUFtZ2ZuVG1oVk1SMlR2SHpqMjVwQ2dvVG12b084YU9Sd1pqQk03dU9OUzFXRHFXaWpyUEdMSlpmX1RJelY3cXIzaEYtLS10V2dCU25vTnZBMVRYUUxwclFObW9EQS1Uai1BWjF3eW53eTVsTlUyR2VkRWF6YTJBMFA3Yjd0NUFQUV80Q0ZDaEpfWjdfMVdNS19nSW84TFNUMzZMYzE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T10:00:00+00:00",
+      "summary": "Cybersecurity News: OpenAI slows Astra, Irregular won’t talk, Senate confirms Cassady  CISO Series",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI warns Astra could reach ‘Critical’ cyber capability threshold - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFVfZDhrSno5Qk9KNWJrTkxjOE9UUUhva2ZUaW92MkRKekllZ01nczZublpsdFk1UXlNZFpxVUEwc3M1eXJfb2RsM2xnRTc2SzF5dU1Gc05YdFU5OU1NUGNJLUEtVGhwYnUzdzNhME1CSm9uSjVBY0NMQWE1ZTdJM0hJZjZWc3ByY3ExWlNEbEF4STBCQ1R3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T09:55:22+00:00",
+      "summary": "OpenAI warns Astra could reach ‘Critical’ cyber capability threshold  Digital Watch Observatory",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Responds to the Next Frontier of Critical Cyber Capabilities - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0RlWWg0RDJjdndVV0pBWU5ua0JXQXZtLWpUd0ktVFJKQlJ4cmVvLWVsS2ZOZ2RBUnFnMXFFdFYwaUVZdmxaakJVQkstYUt1a2wyNE9XSzU0YXRROHRueFVwVTZDa0J3VllFTUxwS0tkUml0Wlh5Z1gtdTJ6amo5R1FuQnJmQ3RNaVVUdS00enlJUEFxWmNxdjZ1STQwUTR1OEtrdFhZeUpmQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T09:46:38+00:00",
+      "summary": "OpenAI Responds to the Next Frontier of Critical Cyber Capabilities  citybiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Insurers thought the threat to cyber was bad from AI. Now even OpenAI is scared - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGpyRFlBdlFwU1lwbGVmbENiWmNMSzRmVnBndTdhcUVHNGxqVTV1b1FFa1diVHVTVkFsRm9ncUtVUm1ueUU2NGRtcUZHRDUwMUt6VUI3MFJqVlgwWFp0UUUxOVF0MmxFRXFQeDJxZWFnSGV3M3ZGX3dKSjVHRnJUcW95WjRWYmdZOU5GMlBzbWFpV0xFeW9sTjYwcV8wbUc2SEFaVGNqdTBXYUNURUlZZUx3TGE4Q3lRazRyaTVENEZxOFc1OWZndE5SOGY2UEhJU1lUZVFtekg3Yk1fT0tHOHc4UkI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T09:41:38+00:00",
       "summary": "Insurers thought the threat to cyber was bad from AI. Now even OpenAI is scared  Insurance Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI acquires NextSlide to support ChatGPT development - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHY0cTloM2Y1blQ4U0tWZTRlU0RPR1gwVFdjenpXMHpFNkJWN19GQzZQcFJCQkd3a243YjdMdklFQUt3WXJFRkdMUnFfVXRGN2REUGktdFBqcU9MNmRiak00by1DNDBuMEEyR2VWOGlDUTVna1llRFFMUUQwMWRpaFhtRkZfX0M0cXN1UWJCRlpGLU9MZ2h1eHlRUUNsbTlacXBoMWJMNXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T09:34:11+00:00",
+      "summary": "OpenAI acquires NextSlide to support ChatGPT development  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,24 +114,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Next Model, Astra, Expected to Launch Soon - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0tybWlmTkpZVXVfaDNpZWNsMllvUEFzNFVNcjNjSDFMMWxENVlYUWR5UkMzRnViZXM0ZkNWc3FDV1hXQm1SdGdQY2ozdHdGXzVwM0pRUVJhcnQ4RlJfUWJjTEFrbnVwLUlCaElmNTFuaUNlWXMtU3dKZmNGdTRVaDFIOWMwRENrOTNoanF2NTg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T09:03:10+00:00",
-      "summary": "OpenAI's Next Model, Astra, Expected to Launch Soon  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "They said they would build AI safely. Then it went rogue. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblV0SVZlUENpeEhqYnplRzJBaGRtUVJOWVg0UGlIQ1R4VkpRblpPczh6enZaelJXX0h0SE9sTEI3Sm5PTVpYSFlGTkFhdnM3bm1EbXE2WHpMeEpONEhSbF9XemJ2VlNCNmU0REIxdTQ3eE1rZjF4LUNDTlgxcVhqdk5FcGRZZWRqVFNPWWt4ZHpQbjFPcTdUSHllRjAtbDhpQm1DZTVGR21UMVBTVHkzSg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T09:02:09+00:00",
-      "summary": "They said they would build AI safely. Then it went rogue.  The Washington Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Suspends Unreleased Astra AI Model After It Reaches ‘Critical’ Cyber Capability Threshold - LinkedIn",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeG9UUXhEcDZLZFB1aU9wWDdtall6Tkx2Tml0MnF2blhZcTdqbWdvOFVrQ3diRFB0SnpubHN2c2JPRlRnQVpybG50WmdHSXBwa2h1UVZTUy1IaThhRmI2Q1UwczdQb2FFODlETmNqa0FjR0xJdWt6Q0ZrNHVwQ1VSWk12R0xxTzlRWGt2Mw?oc=5",
       "source": "news.google.com",
@@ -69,11 +132,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI paused Astra development due to a digital threat. - root-nation.com",
+      "title": "OpenAI paused Astra development due to a digital threat. - Root-Nation.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWR0UUxXUFpwZlZCZlVOZkF4WHc2Q2RObG9KQk96Yzd5R1JXS3NUWUktMWx6V01TZllmMnhsQ2ltZXlxUGJVNGNPU1VfRVZqSkN5RUpwdC1ueXRHd0dseGNkVHh5RE16MHB6ZTRlWGQ5TTc3ajlyUHlBcndHT0ZiUUlmYjRtWFBpdGVpMmRiTkhwWkprTnc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-10T08:13:01+00:00",
-      "summary": "OpenAI paused Astra development due to a digital threat.  root-nation.com",
+      "summary": "OpenAI paused Astra development due to a digital threat.  Root-Nation.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,6 +204,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUk1TmNlQ3lxLVljTnlXM1BSYWpNZTNpRjFBRXVNYkJ4M1VqMmREeW5xUnNyUU9pa0JRWHhoZ1lJb0k3OUJ2MW9OdGI3aG1tMmh6ZkRfMzM2YU01U1BoWjdjSlhTNlB6ck1vYUZTYVozSTRCei1CVzBrblpEQW1lbzc0ZjY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T05:50:00+00:00",
+      "summary": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause  The Hacker NewsOpenAI says it slowed Astra model development over security concerns  TechCrunchOpenAI Paused Ast…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns - Insurance Journal",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WcGhQeE1SaGVyYlBoNEdxSHI3ZXBuMDA1a194d0pQU1NsaTF2TnZfMkFUY1ozTkZnOWRURjhCVzQ2OGZtT1RPdDBxSEhuODNHNU03VHlRcG95S2hQZHpuS0tvVFN2M08wdnMteEhFa3NZcnBKTnpr?oc=5",
       "source": "news.google.com",
@@ -148,78 +220,6 @@
       "summary": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns  Insurance Journal",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Melbourne man asked his AI assistant to book a gym class, and it went on to hack the gym; it is the assis - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOeW1Hc08tSWVaNFZDTjA0WGQwRWFManVSdXBHTm9YWFNZQ2FuQ1pJLW9xaEE5dDJFbU44aHNjRlNRTU5HY2k4ajROOTBlQTdBVlVramtMRl9OVUp1WlM5RWQzR1FqNkpQcVlBVVpwQ251YWpQQVo3V1dIWDhtQTdBVnJiVTZOdUg1V1JNYjNXNnhlN0FITHZFN0k3NGtDMkV3aTFTSzhZanVuVzBKaG1XdTZ1cTFhSVdpUElBcW5QY3JVSnUtUGJCZFZLU1paLWhjSGhLTkdTeXZ4MjFUNENxTW9nUmFOLUozMVlwUzQ2MXN2ejk2TEdfMzdUM19WTmQtYVBGcFd0R3VFNE1tdm9CVHJyRlVwRDZMejh4VE9KblFLS0NCMW15OUZ5bXZhcFJGV1F6cEJrc1M3NVFGcVBqcEk5X2hVUjVVUEZyTdIB0gJBVV95cUxQUFpvWjVRNy0yWDNsM0Y0UTU5UVFTbXZpczNqTUg0dzUwMURkVDZQeUtjVUswMC1CYXpsNjQ3Snk5WndsREo0QVVwODVmWVlwWXpzNHR3TE53ZVlhb3ZrVTVjdFZ2OXg0N0tFTllDZmRWQy04Sm5oUmg0UkhOd3Q2U1VTSVU5ZTY3azdSSEVSNG9wZ3dESVY4Q2ROWFdCWkU5eklyWm1fNkQxNmwzSXRvM3d5Y2FKR0YxRjRDbFY5b184Zk9xRG9mZlRONUl2aWx5LTNqaW9nVkE1RkFBZFo1YlJ6VGhGelNPalQ1d2hmczZXTGJXUld1bVdmU0k3c0dNNXRvSVp6cURCSXl6bDRNSFZDV2lvNHhPeVNScTN2SXZfSGVyWm9Ed0ozejJUWEotcVNmWUFha3AxZHdic1oyRzRZSkNfRThCZS1DNzluS0ROQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T05:46:00+00:00",
-      "summary": "Melbourne man asked his AI assistant to book a gym class, and it went on to hack the gym; it is the assis  The Times of India",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0aEVENWFmMDlmdlhpWmc5LVZRRmtuREs0UHZRZVZCRVZ0bWRMSWdNQlNtUGVId0k2cmJxTVpBelNyWmRmc2ktVnk1RVNIZ3hzeUhlZlZrVWR1UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T05:00:32+00:00",
-      "summary": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week  BBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Paused Work on Its New Model After It Neared ‘Critical’ Cyber Ability - SOFX",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZW1jOVNfci12YWtpQ0k3RnpDdDNITVlUZE50TjNZV3JybExVbTVIbVBzWVd6eFBaSGlaOE01cWVvVl83bzk0MXNZY1JISkFlM2VGREVkS19xNnVOaTJFU3VUSk1DUU5IMGNlSXpaTGhyNFRIVzByZUpJYzBfNWRIT1VDQldCRVdEVVNUemVCUTA3Yl9HN25mRGxxV28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T04:40:56+00:00",
-      "summary": "OpenAI Paused Work on Its New Model After It Neared ‘Critical’ Cyber Ability  SOFX",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is coming for SMB advertisers - Digiday",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRcU5qcHdodXphS2hUejlZY2tzQmlWX2EteTNMOXB6MFlmY01adUlleHFtZG56OVFUVWs3RmNXZ2d0UEpKTzlmT2pmaVY2eE5aUFRTVXNXX0lBaE5zMW1DMWQzMS0wYzBpLXN6aW1NTVYxRlBYa2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T04:02:41+00:00",
-      "summary": "OpenAI is coming for SMB advertisers  Digiday",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sophos teams with OpenAI to support MSPs with frontier AI - Technology Decisions",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd293eHp3QlpVTDd6dVpsSWpVTUl0dTdjS3R4TFZwSnpGSDFLT0RrOTlFVmlNNG5rdGROdXIyZjZDUjJTeFQzRWJsWEo4RjlvRHBoVUsyZjdyWmx2dmNPenZhRGtlbi1XYm8wT3VrWlNMX3NBM2ZJQ1FtY29OSkFRSDlEcmRHRDE4aUE1UmxxaERobmQ4czY4UkQwYlIzZXBjNDkyOVdiOUFYU0t0LUx3WC00VmRuV3ROMDVTWHdEMFJseVJGeW9YRA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T03:39:01+00:00",
-      "summary": "Sophos teams with OpenAI to support MSPs with frontier AI  Technology Decisions",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Cathie Wood Says Open Source AI Is Making OpenAI and Anthropic Richer, Not Poorer - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNE9QR1JoRU0tU1RaQ0xRNmtxWF9TdHhFZy1PN05vY3JvNmFneWdLNzVISjlId2lqQzU4cWZJY0dRNDRHWWk5dHZNMWhPZnRudWpCM1V0WG1jUEhHT1BVR1FIY1hkQURxMmZ1MjhvRk8yTmtOeGw2ZHlyOHZxc1V1OA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T03:37:00+00:00",
-      "summary": "Cathie Wood Says Open Source AI Is Making OpenAI and Anthropic Richer, Not Poorer  BeInCrypto",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI puts Astra work on hold over rising AI cybersecurity risks - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkNmWXloeFZiV0NWRFZ5ZHotUVlIRWJiT195UzlWZk9aUjZNdGRVTzJnWlRkR193WEQtaVNnSzZPVjdCQ2FSbENsai1GRXZzQjBSbG9DZEV6alhFUm54dEVIZklMWDUtdnpyM0h0WVh0VzRtQjJubTRrNVM5VmZpMGVEVThkWTdKdXFELVpqdW90aEg3eldrTVRUbERYZGxRVWVJcEVXN3F3U2NqbFZv0gG0AUFVX3lxTE1idElZOHZjdS1OelY3dUpjeU5aTWIzUXhVREJzQkcyZmpaN1NvQVU5SnhnZjg5WDlERkRoNXVXOEc0VkhXRFdsOUY4VFRZWlB1MDRNUWduU1BFeEhQWHRzSjV4YXpDaWtxbkIwVEg5cGR1aGZpMXVRMzIxV1lxX3k2OG92RzRlVDNTVWR5b09zY1pzY2VZNy1TWDg0aU1uR0hUN1Bka1V3RXZBMHI3TDM1MlQyYg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T03:30:18+00:00",
-      "summary": "OpenAI puts Astra work on hold over rising AI cybersecurity risks  Firstpost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Claude-Powered OpenClaw AI Agent Exploits Gym API to Steal a Workout Slot - CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ieXh0MHJGTTNIUEJVM1NaRkgxbEdjWTVWS1B5VVFLclVHS1FCS2luZjJtY1U1WnFIWWJKdk04YVUxTzU5ZllVVWh1eTVSNVk0d2Mzb201czBGbHE1c01sbm9VTnR4cERJT2x0MdIBckFVX3lxTE0yRXVsVTIwQk9NYVFpR3NxTU40ekpxbm1NRlE3M0VyQklKaUhlRzJ4ZmFabC16bzJnYzdPUDJNRGFXQUdob01jVlRwN1NQaUptTWZLRTBnUnljQVFLYlNjNU11eXlYQkNaQkpPQm1BQnIyUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T03:26:18+00:00",
-      "summary": "Claude-Powered OpenClaw AI Agent Exploits Gym API to Steal a Workout Slot  CyberSecurityNews",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
