@@ -1,13 +1,58 @@
 {
-  "generatedAt": "2026-08-10T12:28:04.040077+00:00",
+  "generatedAt": "2026-08-10T13:56:06.940419+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI Slows Astra Release After Critical Cyber Risk Flag - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDhqUjRtTktvaDJ6R1UyNUdFMHg2bnRNZnp4T2RVbnh3N0s3SGtHWUhnVEc5NGx2cldwa2g1Y0t2dXQtSkMzaWNIdGIxQ1N5aFVrdnIzbWtEd2xwX0FpMmwtLTRYeHNZV0djQU9TVFVvc2gyc0dydEY2MHI5TTVRMVE5NWg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T13:27:07+00:00",
+      "summary": "OpenAI Slows Astra Release After Critical Cyber Risk Flag  MLQ.ai",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How OpenAI Agents Plotted and Breached Hugging Face - Cyber Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0lVUEt4dEJmU29KYlJkNjEzMWEyZGNSR3NwSWFXanhHSU9Xb3FJOU9UeGx0Qm5nQ0c0RVJkUC1iTEp5eS1STkM3aVowaEc5M3BiNDVweFBtWW00Q1NYQjJYZFdKOHpDR0Z0S1dyd25Ycnd5RHlVY2JQczVBWG53bVYwcjFnWldZaHZCQWdueEk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T13:03:51+00:00",
+      "summary": "How OpenAI Agents Plotted and Breached Hugging Face  Cyber Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Artificial Intelligence: the hype, the dangers, and the resistance—Part II - mronline.org",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZERBVXROOGRmUndSNHJUaU1BSUxoZmxNQ2d2X3JkNFZkcUhKclFKaVU5aUQ0U2ZDNnBOQkJKX1ppel81dVE1dmVaWjFuQ3NGcV9wMkN4ZHhDUG1oRTRROEFZck1mdDUybDA5WE5MeWhfNHNBWlFuNXB3emdZZ2JiMTlQeFFsQlVGNWgxWTR1OU14SDVadnFVNFFGVTl1M3NsNmp1aUhnQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T12:52:54+00:00",
+      "summary": "Artificial Intelligence: the hype, the dangers, and the resistance—Part II  mronline.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Stifel reiterates Datadog stock rating on OpenAI spending analysis - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVpFci1wQTRaUUh5NHZNdzhNMEJFczhYc1EtVWtnOEdTS2swX2NYRjh6WlJTX1Zld1NUZkFfWTB4Xzdfc2YweHVTNFZWZHFiT2Rvck16RE80VlB2Wkc4NHJ1YkVlSUVZM2NLaERaVUZfN1RSeEhNOW41dzVnSWtGVnFYbzV6SFBZcVFhYllzRGJKXzZLT3czSVlVa0dZOFBhYXJyb1dWUVhjWW05ZlBFQkJHM2YzNTR0MkZQd0gzbjcwUU8t?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T12:45:36+00:00",
+      "summary": "Stifel reiterates Datadog stock rating on OpenAI spending analysis  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why Meta Is Betting Big on Open A.I. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YUVlQYTNMRHJfNXFHYVM1TGNLTWZBcnpPbXNhbFd1TTQ5cmtrSWYtRFpKNUVlc2o1aU1UdWN0dktmY3ljdXV4Q09iVnk1ak50cktBdUVsZG12RGtGMTJSNjdEYWFlSFFjTkJiT0JKNFJ4ZVZkTm13LWpn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T12:43:02+00:00",
+      "summary": "Why Meta Is Betting Big on Open A.I.  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLdIBfkFVX3lxTE1yT2pVb3pXZnpWRnVFeTliT2paa3NzNkNJX2FiS2ZMZXcxS2FtZ2wxdXhHYUlETVpocWFJTHZkZWJ6dEtzMW1rVF9sTTRkNWtDMWhEeHhYNVF6QVk3X29SU2xPQ3VxT21HX2tWaXN5Yi10OFhIUTVfUWltZ2dxZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-10T12:23:11+00:00",
       "summary": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic  CNBC",
@@ -33,20 +78,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "House Democrats want OpenAI and Anthropic CEOs to testify on AI hacks - qz.com",
+      "title": "House Democrats are pushing for OpenAI and Anthropic CEOs to testify after AI hacking spree - qz.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY0k4ZTZtc2ZMaWJqNHJtZzdOM2psNUlCZWZpU05xVHViOHF0QWdMYjN3YWVaWC1SLV9YM2F1bHJ5Q09Ob2VLeHVzYV95VEJWaDBSS2pSbmhDQWRiWDV6Qzl0WUtkRG5YbmhibzF3SnVtdkxzOFNmbjJIMU5rZkthWlI5aENzQQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-10T11:52:16+00:00",
-      "summary": "House Democrats want OpenAI and Anthropic CEOs to testify on AI hacks  qz.com",
+      "summary": "House Democrats are pushing for OpenAI and Anthropic CEOs to testify after AI hacking spree  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Pauses Astra Model Over Critical Cybersecurity Risk Concerns - Security Affairs",
+      "title": "OpenAI Pauses Astra Model Over Critical Cybersecurity Risk Concerns - securityaffairs.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdU9faFdjci0tNkxqVHV0bkNBZnpWQThJS1VWcjl6YkJQdks1bHIzbl9qNDdVdGYyUHZNeEpvcXliVGE1Tk5sdXNaUnV0bEpoQk1mMWpjeUFzTUhWWDVZYTIxT3k0bUpRaDZsYU53ZjlteUNvNU81bDNuNXczOXYzUjNoeHZRbFNidWstTlhtTkFNQklScktGQmMzQlJHdkFQR3F0REQ5WnR1OE04VG9B0gG0AUFVX3lxTE5jV28xVFNVQ1d2WmVFR2dHZEFXNHZscThzMGV5bTFNQmkycU1yM2ZDQ19PNWZZTmZxWGZUZFplMzI1QTltWnZSRzFpWV9WbENJOW11cW9jalJiSzhGaEh1aThQa1FuQ3ZVYVJENHpta09EaXllb3VqWkNMOWNCSnh5Ym5yTlVsTnpfQ3M3d1ZrN1hSTWRyNFlSb2hreTR6azhBLUZKeXoxYXBHd01ILVUwVEo3Sg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-10T11:37:30+00:00",
-      "summary": "OpenAI Pauses Astra Model Over Critical Cybersecurity Risk Concerns  Security Affairs",
+      "summary": "OpenAI Pauses Astra Model Over Critical Cybersecurity Risk Concerns  securityaffairs.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,29 +168,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Paused Astra Over Cybersecurity Fears. AI Hacking Is Here To Stay. - Forbes",
+      "title": "OpenAI Paused Astra Over Cybersecurity Fears. AI Hacking Is Here To Stay. - forbes.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWFhUzRVSzY4aVIwRng0LW9nUnJlV2ZjSE8td0NaclBmZ21CdmZpNzA1SDMySmgxT0ZtMFp1QjlHWUlyT05XSnVacXhHSVZtZmNrdXMxWFd3WVMySGFocGRtTnJHWU55ZFBfUlJVcm9LWHlKNFJ2b3gwVHNzTUFqNlB2ak9OT0pzLXlybklQZzhBUnlMQ0JjWHJfUlhYQ1c4RkNvUGktNThEeHgtUU40OEhDWFJFMVpadGxzdzBENFY?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-10T10:00:00+00:00",
-      "summary": "OpenAI Paused Astra Over Cybersecurity Fears. AI Hacking Is Here To Stay.  Forbes",
+      "summary": "OpenAI Paused Astra Over Cybersecurity Fears. AI Hacking Is Here To Stay.  forbes.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Cybersecurity News: OpenAI slows Astra, Irregular won’t talk, Senate confirms Cassady - CISO Series",
+      "title": "Cybersecurity News: OpenAI slows Astra, Irregular won’t talk, Senate confirms Cassady - cisoseries.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX052SUFtZ2ZuVG1oVk1SMlR2SHpqMjVwQ2dvVG12b084YU9Sd1pqQk03dU9OUzFXRHFXaWpyUEdMSlpmX1RJelY3cXIzaEYtLS10V2dCU25vTnZBMVRYUUxwclFObW9EQS1Uai1BWjF3eW53eTVsTlUyR2VkRWF6YTJBMFA3Yjd0NUFQUV80Q0ZDaEpfWjdfMVdNS19nSW84TFNUMzZMYzE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-10T10:00:00+00:00",
-      "summary": "Cybersecurity News: OpenAI slows Astra, Irregular won’t talk, Senate confirms Cassady  CISO Series",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI warns Astra could reach ‘Critical’ cyber capability threshold - Digital Watch Observatory",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFVfZDhrSno5Qk9KNWJrTkxjOE9UUUhva2ZUaW92MkRKekllZ01nczZublpsdFk1UXlNZFpxVUEwc3M1eXJfb2RsM2xnRTc2SzF5dU1Gc05YdFU5OU1NUGNJLUEtVGhwYnUzdzNhME1CSm9uSjVBY0NMQWE1ZTdJM0hJZjZWc3ByY3ExWlNEbEF4STBCQ1R3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T09:55:22+00:00",
-      "summary": "OpenAI warns Astra could reach ‘Critical’ cyber capability threshold  Digital Watch Observatory",
+      "summary": "Cybersecurity News: OpenAI slows Astra, Irregular won’t talk, Senate confirms Cassady  cisoseries.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-10T09:19:11+00:00",
       "summary": "OpenAI Slows Down Astra Development Due To Cybersecurity Concerns  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta, OpenAI, Google and other AI companies are learning from your chats. Here's how to stop it - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNOWN5aTIxY2NxdHdMZl8ydk1DanpoVk9xclRHUlRDMG9ZZEJUZ3VPcFdWejhsQVF4cFItckoyZThNeG9FWmtyNWR6dlFPRGhmZlp5YkNYSUZxQ045ZDZQUi1SX0p1dG5WUVVVS1NfQmp1UGtzMXR2dWFlSkxQTGh1Mk5TeFRXbkZhQks4dDluTEFaaDlQWGVHMHVWZzdnZ2xYOGlJZ0hnV3YzX25KYnFuSndtanhhNy1LemF5TFRHYnU4Mk9MNlFZTS1jbEdfay1SbkYtSWM1d1FEQlZPN2o3WFdvZXpWRDVtSVBKZkNZNnRDOTlUczJrcV85RUV1U0FHcEdSUA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T09:04:00+00:00",
-      "summary": "Meta, OpenAI, Google and other AI companies are learning from your chats. Here's how to stop it  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Suspends Unreleased Astra AI Model After It Reaches ‘Critical’ Cyber Capability Threshold - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeG9UUXhEcDZLZFB1aU9wWDdtall6Tkx2Tml0MnF2blhZcTdqbWdvOFVrQ3diRFB0SnpubHN2c2JPRlRnQVpybG50WmdHSXBwa2h1UVZTUy1IaThhRmI2Q1UwczdQb2FFODlETmNqa0FjR0xJdWt6Q0ZrNHVwQ1VSWk12R0xxTzlRWGt2Mw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T09:00:15+00:00",
-      "summary": "OpenAI Suspends Unreleased Astra AI Model After It Reaches ‘Critical’ Cyber Capability Threshold  LinkedIn",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "When Asked to Book a Reservation, an AI Agent Exploited a System Flaw and Deleted Another Member's Booking to Jump the Queue - XenoSpectrum",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12ejZ6M3JlZ1NLVE9vUm9QT3VFWkpHbHJJdzFQeU5sNnZycWVSZ3pYQXA4REduRTk0OTRXcTVPaDlEZ196TWJCalhMbkpOVWtjSm9UcWVBSDB3ZnY1MGRPTE9iU2ZwM0wxeVlJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T08:53:32+00:00",
-      "summary": "When Asked to Book a Reservation, an AI Agent Exploited a System Flaw and Deleted Another Member's Booking to Jump the Queue  XenoSpectrum",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "How Israeli startup Irregular was linked to rogue AI hacks at OpenAI, Anthropic and Meta: report - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa01laGtaT0dSc1o2ZDhxVGRYV19XeU93Y0RsTTc3YTFMZ0VlVGlzUkpaUTlQdUI2Q2dPVjdmTEJaUmZaY2t4X1l2dWg1akxvcHo4UE44TmlZc2J5eTlqd1Q0aWpRS3B0SnVjX09tVlN4dThUT1JJNk1qcmlWMll1UWd4OGJ0NW9vS1h1enhFck1sSE9SLVdKR05IYXEtNGpLY0o0T1FtVVBYWEMxSlZzQXhkVC1XMmZybXl4ZUxxbzZVVGpieG5ublp3NGo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T08:29:52+00:00",
-      "summary": "How Israeli startup Irregular was linked to rogue AI hacks at OpenAI, Anthropic and Meta: report  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
