@@ -1,10 +1,109 @@
 {
-  "generatedAt": "2026-08-10T18:36:08.781045+00:00",
+  "generatedAt": "2026-08-10T19:37:03.444208+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjBTTmRucFJKQjdLTGxGT1YxNGY3WUgxeFEySDhpNW9nTGlmNFVIX25iejhxbTlmX2tlbVFqelB2SzFrVi1BY29EdHh4Z2hKM2RvSmtXcHNPZWI5dXgyZzIwSUdCeGhTelc3SVJDTDhYVnl6Q3Y1Skl3UXBSbnhfZml4R2dhTEIxVUtTM1F2WXZ0RW8ydTk5Zm1DME1zU3BqbFJKRUJ1SDBQeHE0WHdkMTJB0gG3AUFVX3lxTE5DaENVRmc4QlVHVGVJR0oydDBPc1pObGxXT3JFak1LclBXUEFVcGluNWVHSnBpeEVnOXRyaUhPSXk3cmlZTHZPWUJEZUZjRkU2c0xldnlQS3MtTm9POW5iZFo5aC1vcVVjcGZGMlRNOXFBcTZMcVdwSDJtS21jMXVLcmZMekdCVVY3VHZZSnI2M3N1YVVKQzN4am5GaFpQTnNTU1QzZEhMdkgyT0ZlT3hmd3JTc3Nkbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T19:24:40+00:00",
+      "summary": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users  BleepingComputer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils Two-Tier Daybreak Access for Cyber Defenders, Launches GPT-5.6-Cyber - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa01BQmxmRi11S1A1eDNiN1RTOXZsUzZ1aldYYlBnMzNYSjBmV0UtcWpsdWg2NW5XVlRZUjlKNm1UcEtsVFdpaVg5Yi1uVGF4TTFlaWI4UHlLUE1Fa1VPaGFialdBTVJVa0xLR2hBcUJuaE05YWxhZFpHWlhYVDBlMjJwWTVBWmZXQ1BFU3NSSzNoVlBNNEwzcUpsV0tqTHZXSWlZZW0zMVY1VUdfZTEwcnM3endHS2x2OGZQeTU0aUhFc1JXdWlLWEdRNGhmd0dW?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T19:08:27+00:00",
+      "summary": "OpenAI Unveils Two-Tier Daybreak Access for Cyber Defenders, Launches GPT-5.6-Cyber  marketscreener.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is hiring a power trader for its data centres - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82WFFoUG9yU0NMTUR6dlk4bkc5UGJiZjBGRUNPWVNqOWpWSmFBeE5idVBzTWFUZExPdmxDckgxbFljckhCc2lhQ0hGeFlncDJvd3FKbEpsUE1lemJjT3kzODdFRjgzc0VpM2RvN3U1NkRkTm9uaVBNZUNPaTcwUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T19:07:59+00:00",
+      "summary": "OpenAI is hiring a power trader for its data centres  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Bernie Sanders asked the leading AI CEOs to pause development. Read his letter. - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTVB1LWs0cGN4TG9taGZwMlJQV2ZwbUI4aXVBby12OGlNNUx1OXl4N1hLcFllX1JRZldZTmpKZUE5UnpqR2F3SENJVWJHd3J0aDVkOHpvS1hNLVZIaVBuS1lCdWllUG1sWjRZaTg5VEJEVmt6dzEzdUhoU1BTWHp5dE1QNTVyNi1oVUdmVFFMNS1aSW9iTVdrMw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T19:06:13+00:00",
+      "summary": "Bernie Sanders asked the leading AI CEOs to pause development. Read his letter.  businessinsider.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI announces premium business pricing as it seeks to increase revenue ahead of IPO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTF9GdjBsRlRsc2p5TGQ2YXYxSjRNUUJiWlV3MTFESkpmLU5TQXI5TUtjeS1rQUJZUUhIdm1zVF8tc19rcVAxbmQ1VXdNMkNZajVzMjNwRHZUVzNqOXRsVVEyTEJWVndMSE1EM3h2UzNKcjhFZkRYZE00YjNFRm1QME5fNjFfRGtOT0dNTFFISnA4Uy16S1l2R0JkdllRQ05JaWh5SzlESEpaNXN3dl9xZmpXUExPM0xRa0tMeGV3YmpaUGhaOTczZmZnTV8wcVM0bFhUaW92WWV1TWxaVjNB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T18:46:54+00:00",
+      "summary": "OpenAI announces premium business pricing as it seeks to increase revenue ahead of IPO  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘Slow & Steady’, the New US AI Speed. OpenAI, Meta & Microsoft. ARD #137 - AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4dFZJdlNCS1dEcFNTMkRiV182RWV2aXlPWEtnV0taaFBVNjdad202T04yLTdxQmo3S2FaVjgtV3VVX0VjWVJIUGJlbDdtc3JvZzhZV2FSZ29pZWdnQTNvVTF1QlhZY3AzaWR5eXZoY3hFZ19hbG94QWw5WmE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T18:42:02+00:00",
+      "summary": "‘Slow & Steady’, the New US AI Speed. OpenAI, Meta & Microsoft. ARD #137  AI: Reset to Zero",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches GPT-5.6-Cyber and expands Daybreak with Red and Blue access tiers - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUW4xVjdHSHB3WVBkY3UtZFpFWnhYeGtCdDVIRlFHNVBabi1Eak9takh2V1lWMmtkQ1NGMnRVYVJ2VjZFUU5aSllaV1phcDNYN3V2QVdWWF9zdG53Rkg0SVpucWdVNEdfeExGbVFCdkwxb0t4LVU4TmFXYU9rWk1Gdlk5YnNGSW9GZE1BeFdtMHZjOGFjX3VybGdCMVNGQlRUNWdnOG5ZRHhYd2s3YkHSAawBQVVfeXFMUEJYUU1IdElyUllfeHBZYW1Xekd0QW5oMFpBdVdPMU92c0dPRldGSVhlMjRnVXdDODMzdVRsejRXUHU1TzlqUnFLTlZMbkRSTS1VNl9ORXptYU5XdzhjSEtkbEwtTG0yQ0ZOWXhHejB6bUdYa2ppVjJqSUJIcFRxSEE2aWNuZDFCd2V4QWtNdWw2WndCWlkzbzZRSGlDa2VSdWFrTVBrQ0hzWFdGWA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T18:40:57+00:00",
+      "summary": "OpenAI launches GPT-5.6-Cyber and expands Daybreak with Red and Blue access tiers  Neowin",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Bernie Sanders warns AI labs to pause development or face Congress - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRG1mWm5XeUVMVkNZZC1uV3d1SzJVOE5pb1pKSmxQbmR3eVN3VnU2MDd2U3FpQjV6dDFUQWs5M0x1UlJFaE9zeFJzZTRIVVFGVmxHTHBYelA1a3BEaFItT2NZMm9qdDlWUVl3eWlfc01zZXBDb3pUVjdqUV9BREFUQg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T18:39:02+00:00",
+      "summary": "Bernie Sanders warns AI labs to pause development or face Congress  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is Hiring a Power-Trading Lead for Its Data Center Portfolio - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ18zbnlzSVFUSVhvNHgwbXh6dG1fcmJMREFYVTBSb2hrZUxxQWJ4SHlVVU5iODA4SXJPVW4zODdQTVc3aU40cHZWbDg4Z2QwbndGaEpfVE4tajdNUTlHbXozZkg4VHJUMDA5VWNYdlhrQ2ZObFM3ZDVab01rd1BOT0U0WDl4ZEZwNVRXNTh5a0ZJUnJvNDBYT1Fna0hYdGdvbVQ2RjJCb0poajJGTnNkNS1tVHN5Ri1QWnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T18:38:13+00:00",
+      "summary": "OpenAI Is Hiring a Power-Trading Lead for Its Data Center Portfolio  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDc1WXZaYTRHSnRZZkd3T2JMUGo5Q1JrODl6TWNkV09pX2ppcjFVZkNCUTBrLUZPU1ZLOWJVRUtHMm9YWUl1RXRmNXZfYzd1WExZMU5qa20tQmFKVFFoX2N3VFdPemNlWnRocDBrT250b0tscThGWEloeHI1ZjVRVzJMTGlEaWJWRWl6WHpUWmIxNjlBNVpXQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T18:38:00+00:00",
+      "summary": "Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHhOZWxZTjFGeVhORk1uYkFLc2tpM2d1SmxadExqMU1KM1lrMmt3VVh2SXpFZ01GRGFBSWJYcG1NSU02a1ZLTFEzb3hwd1VJcUt6bk9oam9ZYXZLdFZBTEdveF9SQjl3Z1B5Z3JlOS1uN2pnd1JTclY4b21hREdzUmxSOFZ1alE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T18:33:45+00:00",
+      "summary": "Expanding Daybreak as the Cyber Defense Window Narrows  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Sea's AI Push With OpenAI Could Deepen Shopee's Competitive Edge Now - Zacks Investment Research",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkFKcTMxdEJHQk1ucmJ1SnBEYkZlY1ItSnloRGxYUVI3cklyRkQzaG1ZN1R6ekdyT0VjTUN4LWNnV3NBSTc4VkhWNTdFN2ZMUGpSbjRqb1lVZHMtcE1rRlpEbGw3M2NUckg5NG1JUWJjZjlGYkgtWkVjRDItVTJ3THN3RjVvS1pJYXJPTnJnbzA4c0xsSG5lbS1OeXNxQzk3cTBoV3gxbEJ0TFk?oc=5",
@@ -24,20 +123,20 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "The 75% of AI Workloads That May Not Need OpenAI or Anthropic - DigitalOcean Holdings (NYSE:DOCN) - Benzinga",
+      "title": "EXCLUSIVE: The 75% of AI Workloads That May Not Need OpenAI or Anthropic - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMndBaTBveThzS2hTdVN3dXlldHVMMHF5cENPRzdhNm5YM3dHN2VLQ1diQTFaWVRObmFQNmUyblRkeVBOc28yWkh0LWVBRnVoUWZOZ2h5YTB1UVJuUEJFQXpYNzZKY0Nnc0o1U3phcXVNVk9zdEhiTGFvSGgweWZmLTdyM1Bib3hCSVNscWFqM1lvNjdZeEwtZk1kdTB1bDhE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-10T18:21:13+00:00",
-      "summary": "The 75% of AI Workloads That May Not Need OpenAI or Anthropic - DigitalOcean Holdings (NYSE:DOCN)  Benzinga",
+      "summary": "EXCLUSIVE: The 75% of AI Workloads That May Not Need OpenAI or Anthropic  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI ships GPT-5.6-Cyber, a model trained to refuse less - The Next Web",
+      "title": "OpenAI paused a model over cyber risk on Friday. On Monday it shipped one trained to refuse less. - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzFyTzkxNlRBM2VZMDE4MGtEWnIwVk1jeUZndW9mNnlURXhwVmp6NlFWVTJvV3JJTWpiS0RYc2xwdHN4N3JYcHUyNlFoT1dWUUFJX1ZOWFVTMFd3cnZ0dXNnV21Vakp4b1p4SktrdHJfLUVxSzk3NlN2Y1VWTTNjOUFJbmFrQjA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-10T18:16:22+00:00",
-      "summary": "OpenAI ships GPT-5.6-Cyber, a model trained to refuse less  The Next Web",
+      "publishedAt": "2026-08-10T18:16:13+00:00",
+      "summary": "OpenAI paused a model over cyber risk on Friday. On Monday it shipped one trained to refuse less.  The Next Web",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -72,7 +171,7 @@
       "title": "Sophos Working with OpenAI on security from AI, with AI, and for AI - Sophos",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxWlhTRjJiVVZDc1NGejBOWXZ3ZldmSjJaaEdwR044d1VYMDhPZFFaUHhCZ0NxTzIxeVluQmhCcVdJY3E0dHp5Y3lnLU9RaThYdTBMbHlqNmRKVkk1VHhDNnlFSkp2MVRXaEZHVw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-10T17:37:30+00:00",
+      "publishedAt": "2026-08-10T17:48:27+00:00",
       "summary": "Sophos Working with OpenAI on security from AI, with AI, and for AI  Sophos",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -96,128 +195,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Meta CEO Mark Zuckerberg Just Published a 6,500 Word Essay Taking Direct Aim at OpenAI and Anthropic - The Motley Fool",
+      "title": "Meta CEO Mark Zuckerberg Just Published a 6,500 Word Essay Taking Direct Aim at OpenAI and Anthropic - fool.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcEpuVUFCdDR1Slhjc3JQbXp6YU40T2lOeElxaVRKUDlwbFhHODBuOFhvdmhaN0g0QVk4eHFHd3UwNXdCZ1ZmVEpFS2VNNmZRdkstd1BGSTktb0FaQ1dxSjE1R1RwVzQ4NHlRRVdteHBIellDd3ZNcXZJTmN4SW9ZOVJkVzlOMkVfU19hUXJGRlY2RWd6U3poT18zdHNIQzJpZG9IRl9BZ3FadGNQTDBpU1lydy1uTFNIX1JWSHNTX19nMXhvQ2R0amdrbmZiRkMxUS1hR2h1UHRNbWs?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-10T17:10:47+00:00",
-      "summary": "Meta CEO Mark Zuckerberg Just Published a 6,500 Word Essay Taking Direct Aim at OpenAI and Anthropic  The Motley Fool",
+      "summary": "Meta CEO Mark Zuckerberg Just Published a 6,500 Word Essay Taking Direct Aim at OpenAI and Anthropic  fool.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI hits pause on new bot testing over 'critical' risk concerns in latest AI cybersecurity incident - New York Post",
+      "title": "OpenAI introduces a new cyber model amid fears of AI cyberattacks - Axios",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEx3dTFaeDJuXzJTOXRxYmtxYUFlYTk1UTVxX2F3RVg5c2lncFZHQm5TS3hvTEJaUzFZUk4tU0ZKNUtSZy1aU1dSY2JaYkRDQ05aSDNOUTZOeWVpUG1ZNjJ5a3lqLUF5VUZ4b0JQcWRIVzFCcGVCTm5GbzNkT3p6eXZPSHhCZHhrWWNCM0I1MUo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-10T17:00:39+00:00",
+      "summary": "OpenAI introduces a new cyber model amid fears of AI cyberattacks  AxiosOpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies  cnbc.comOpenAI expands…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI hits pause on new bot testing over 'critical' risk concerns in latest AI cybersecurity incident - nypost.com",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYWVxZjlvYzNrNkt2am1pVDVyZXJZd2lxYkc5aGkwcHBWVWNpMTJ0UUhiVTdKRjNub2FNeHUtY0V0X1FBWVdnaW1xa1UxRnVMT1pPZllOVW1MdVQtWjB6aUxLZ2xlb2pYYmRmMDBPVTFJcEJtdHowNU5ocmNVdU4zclJ5d1lsbmFWSFpXaHRlV2tmYXpPdVR1UDlZYkxQaFM0U2lYZTF4UEdqU0VJbEVDWHdvek9yVVN5RGRsWGRQOUlzclJxUlVjcEJacU9UaGF3RmhWRnJfQQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-10T16:59:00+00:00",
-      "summary": "OpenAI hits pause on new bot testing over 'critical' risk concerns in latest AI cybersecurity incident  New York Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta CEO Mark Zuckerberg Just Published a 6,500 Word Essay Taking Direct Aim at OpenAI and Anthropic - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcDN6MkJzcUtQX3pXbUt0RnVid3kwSmdscFY1LTZYYnpTTkdmalBhNmNsQVVxTktyVWZSXzR1cHB6bzEydURqM3lVWGlvYVlTTU8zbGlQX3JuVnM1bEtJQ0ZrRVIxdEdZSUExRXV6UHd3QWJyLW5wM3I5NVg4NUU0YThaNnNpZkdleEpRekpUOEZEVEJHTDIyNg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:57:01+00:00",
-      "summary": "Meta CEO Mark Zuckerberg Just Published a 6,500 Word Essay Taking Direct Aim at OpenAI and Anthropic  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches Premium tier for ChatGPT Business at $125 monthly - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcE5qMVV5SjQwQXhFelNUOFk2Snk3LUVOZGJXOFg4TXUyR0hMY1dTMDhSbEtYbk9rOGdaZlQ2Zl9lclVLWlZSU2FjTkx2WWthVVdEbWNSbTl2anFEUlJ4OVlBSFF3YU5vZjZveWNSZnhNcUtVTU5VRGxyV0ZtVW1zaG9zMmd1RmU5X20teTNqdGpjVVRQQlNmejBpSW1zSHFHUDVzSXZpUDc2VDNzMkJVOUphWU82MDBDNDZ3WmVZcjRGSTdn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:56:04+00:00",
-      "summary": "OpenAI launches Premium tier for ChatGPT Business at $125 monthly  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI announces premium seats for ChatGPT Business; cost USD 125/month - Newsquawk",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWjBhV3RRa1VuM1lLMF9qZW9GM0tQd1JhOXdpRjBxMG9jRGRDSDEzTWpLeEYxTFZ0dThIdEpyTVZRTFpaQ3FYVmZiZFNTcGRoUTlnS084dE9QUjh5cW1ZOEJBSExTRGJRT1ZGQmU2Q25YSDZ4ZC1PZnNTOGM5LUlTLWpQWlJTTXZQLWE4SE1zS29oOGEtaW9BVEJ5NUxVdkE0Z2FpN2hxcmZWdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:52:39+00:00",
-      "summary": "OpenAI announces premium seats for ChatGPT Business; cost USD 125/month  Newsquawk",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI pauses work on ChatGPT update over fears it is too dangerous - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT25UMXdLZEJNNk94d1NUWmVGY1oySXJzMjN5SF81S0E2MkpOS2NkZUh5RzQzTVRnZE1xUnM0X0pRTUFLMEJZM0g3d2ZfdDBfa0JFN3BmOUllemhNbld0OXFIZHlSYlJYQ0VoUkRwYklWaklTUjNWQTM1cExaV2U1V2RWWHQtWE1nZUNCWmNqTm9pVjg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:39:00+00:00",
-      "summary": "OpenAI pauses work on ChatGPT update over fears it is too dangerous  The Independent",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "What building an AI-native finance function taught me - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rVm95c2RPQmxkQnJFOC1kYWdHc04zRUoxVXFaQ3YzdnJmbDd0TWNwRW1LVkJRS1ZMNE1vLWJDNF82dFg4WVpPOTlHQVlraUpfcE1HeUMwZ0pGXzNyZVIxY19uOENnTEJacDV5VHR4LTRoQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:30:39+00:00",
-      "summary": "What building an AI-native finance function taught me  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "NextSlide Team Joins OpenAI To Help Build ChatGPT - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Z1pkdGc2ZWE3N0s1ZEJiSXB4S0QxYmZGdjJVdmRtUnNPRHpEaXZWM25TSHBaM3E5aWJIZHBDb2Y4bGpfaWtES2t4eXNPbDBpS1NPSjlCN2E1RzIzejFESzZjMFJwZ1g3dkxSeHRzRUxrd0ROSWEtNNIBfkFVX3lxTE1FelNuN20yQ2dCSzhvTFJaems4MDlWdFNVWFl0dHN1YnBfZ1VmT3UtZnBhUWNpNkNOUm9IMWNHSjZLWXBZblF4UzZrWkhYU2tFRHAySjdfRDEtNDdPTjFjSVdHc3RSWFdzYWV3NmZFRjJycF81VWdsTEF1a0twZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:19:18+00:00",
-      "summary": "NextSlide Team Joins OpenAI To Help Build ChatGPT  Pulse 2.0",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "An OpenClaw agent reportedly hacked a gym's booking system and kicked someone off a waiting list - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeUFvazE3SVVfbFdlb1FFUlVEX2Z2d09VY0s1ckxzWjJYc2lOMmx2Qmp0amFSV0NTWHRQekg3SGQtSElET243MVBZTW5JMjRON1VUTjV6Q1dFYUJ6VUtIekFqM3NIQWtRMkZQTnMyaTlQZVpUV0h2MDU1cU1yVFVibXc1T1BBRVFlVmRrX19sNlV4RkFySHZmTDJWYlhud0Y3TEw1SlU0Rk5rU2dIQTFDU09xN0tabmZKX1pESWkwTDc4OWZELTl3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:18:14+00:00",
-      "summary": "An OpenClaw agent reportedly hacked a gym's booking system and kicked someone off a waiting list  Engadget",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Illustration shows OpenAI and Anthropic logos - The Daily News | Texas' Oldest Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVdIdTlISXo3QU1fTEJIZ0EyS1NTWnRkZC00d0FwQ2JzS2NVMEJIX0w5QlU4ZWdrWmtka0RNekVQNjJYOUpqblZuYlB0eW1uWjdYaVdWTktxci1DSEphM29pbXl6cVBFeTJZMURmWXYwVS1VOWo5dXJ6MEVUdi1tTmdQaHk0aGtIRVh5cWgtVkUzSFJvNUJCMFBjOHltRnJtWk9qYmpNcWRqRWpGMlR0d25KOE94dmVVSU10R0E1NlZOMjczQm5SRTlPOVRjQTZOTnpTdG9KVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:13:33+00:00",
-      "summary": "Illustration shows OpenAI and Anthropic logos  The Daily News | Texas' Oldest Newspaper",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FILE PHOTO: OpenAI CEO, Sam Altman, arrives for a meeting at the White House in Washington - The Daily News | Texas' Oldest Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVllzWWc4eUQtLUZudTdHZVpzMWVpY1ZOYXF4S2YyUHdMWmRuUVlEZF9Uby1Vd0ZkSE9tczBlQ3pvNnYydmVPMm5QMHJwLTlvU3J3UUVZeThnRG9ybjF3b0o2RWRDUGdOZ3JzTi1xdjViN3BuS1o3ajh2UDQzOUVvam9fT0RRSS1jZGVkTXBxd2p4dm05elowdTVMeWJlMTRES0NnZ2Z3cG5uMzNZT0VCblM0WFVYazdaU0hKMllnNUh3TUNtQmJlU0x0dURUYUNPbHEyWkVCUHREQWlCNVlLY3I2emJUU3owT0dLTmVXVVJ6OGhoaHE1ZFhHUWtWcGZJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:13:33+00:00",
-      "summary": "FILE PHOTO: OpenAI CEO, Sam Altman, arrives for a meeting at the White House in Washington  The Daily News | Texas' Oldest Newspaper",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "QUICK SPARK: OpenAI Acquires Presentation Startup, NextSlide Founder Confirms - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVXhlazBEUVZKT002NlhtSlVZZ2JfcDkteDk3aUUzT2tJQ0ZCTU1mUHFyeXcxUFd5eTFPUkRLQnh5QnFLSm5mOEVsNjZuTTRwcVUzLXpvaU9ZdXJtWmdocUFaVDk5elU2b2UxVTlDUko2ekozZlFoWHdmNDBRTUIybXhuTVBmTmVrZHZBd1ZJNXNXcktudzM2Q2JwWjdfNDFrUGRoU0lfTThCOWF5bERraVZiUUdDWFk5UkpRb1NlaVJLMktuQ0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:11:50+00:00",
-      "summary": "QUICK SPARK: OpenAI Acquires Presentation Startup, NextSlide Founder Confirms  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:07:16+00:00",
-      "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents  reuters.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1BWX0FWM2ZpQ0FCQUppQlpkNnlfR3laYjhyQ3hSYnh4c1Q3dDhKMm12aFlHY0xUQ0QxQnRqXzlMSzhRTnpWMTZyc0h2dXhWMHlHSzBDME9FT2I3Mm1FazJzT1RpeS1adlkzc1hPQUVSVDFkWDZlTUt6VC1XM0c2NTl0Yll0R3JJSlRyMTUyaC1aZTRhcTFDQ01wa2pPeWp5Mmh1ekZpbkhFendqTjhKdnN6V3VKcWs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-10T16:01:29+00:00",
-      "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents  marketscreener.com",
+      "summary": "OpenAI hits pause on new bot testing over 'critical' risk concerns in latest AI cybersecurity incident  nypost.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
