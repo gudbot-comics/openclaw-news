@@ -1,16 +1,88 @@
 {
-  "generatedAt": "2026-08-11T12:06:47.563004+00:00",
+  "generatedAt": "2026-08-11T13:36:25.611944+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Straiker Named an OpenAI Select Partner - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa1BUeVpsbmNpekJKNXVNbWYwMUN1Zjcza2cyQUhmTXYtMENaZ29tdHJ6XzBxdWJJcnUwb3JoZzcyNlJsZnFwdWpObUZuSkF3TmVUcGhCMzN0dlJYa1FLUGJ4VkZXSkEydzVRRzBaWW5ZT1ZURGlrZHBKaWhTZkMzakZETGxUOUw5RTlSdGYyRVlya2MyMXMyYk81QQ?oc=5",
+      "title": "Sandworm’s poisoned VPN, Royal Navy drones phone China, OpenAI loosens cyber limits - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1pyNzZTWmY3Y25Pa0I5ZW1ZaWNSN0xHMk9WOWpjdWZPZEw4aXpfVFoxNjl2dHhGZVkxd2Z4RTRlR243T0F0V0Q5SVh5MU12Zm1YWXBFd3FKWnI0aHZiUVJ2aUZWbll4UTBhdFkxV204dUtMZVZ2Wjg2c1ZLX3dTYy00cmx2em51aEhKeEVKOVppYlNfTU1qTm1uZXk?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-11T12:03:00+00:00",
-      "summary": "Straiker Named an OpenAI Select Partner  PR Newswire",
+      "publishedAt": "2026-08-11T13:31:37+00:00",
+      "summary": "Sandworm’s poisoned VPN, Royal Navy drones phone China, OpenAI loosens cyber limits  LinkedIn",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JMy1VR3BSZzQwb2Fmak5IdldCX2swa0paVHRVYlQ3M0N5X0R2bXM5TXV0ZG5GRnJEVmNvbU5oX3I2TnJwSHJwWVRtc3R1RUJWamV6U2pTYWhJU3FQank4NjZRNjN0RjFCSWVhcl9sRG1kdWM3NXhWazlubDU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T13:11:00+00:00",
+      "summary": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development  The Hacker News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Expands Daybreak With GPT-5.6-Cyber as Autonomous Threats Grow - UC Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1cxc0NZZHJJSF9CZ25fQ3pJX0M0R3g4eVJHR1V2c1kyQ0NRQndWZ2IzSVZiTnZYUEh4RVhVT0M0Y0IxVnFlRS1wNGVhdGdzRlN1RjlLUE9PZXRKQU9IMlNyMlBTQ2VRTWtGb0VHbmhKYXBQSmctRUpuaFhzRmZJRGJ2UzVmb0VQcnRRU09TRVNFaExCNFFVMXUwRzNCM19hYlNFckR5a1lDTDV2TmgzWlVOWE9jWFZrcHZF?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T13:04:16+00:00",
+      "summary": "OpenAI Expands Daybreak With GPT-5.6-Cyber as Autonomous Threats Grow  UC Today",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Ruddarraju: OpenAI stands ready to work with Texas - riograndeguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0tURHVZSW1WcUdVWkMwM3RWVjNiZjhINjdCM3ZfLXhYM0VfTFdRVjZieTVIQVhydTNybHlvX19aSkNoRWJsSmlTcmJSaWhRN2tHVWllYUFDVmdfYktnVEc1eXdzZDhGNjZTNkNNb3NjSnJMQTJTdUdtWnpmWWVCU3pyYVVnYzlDbUtFZjktaW5obnpjdmI1ZA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T13:01:43+00:00",
+      "summary": "Ruddarraju: OpenAI stands ready to work with Texas  riograndeguardian.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta's Open-Source AI Bet Threatens OpenAI, Anthropic - Meta Platforms (NASDAQ:META) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFhOckpaSmtOX2o4a0I0S0tXSVZDYkdrSWk1QkE3U2RyM19uWThIRlFYalpPemx6U3RUcE5VOXR0dXZpZVk1VWpPWGthWEdqcngxZHFKRFRrUGFmTDJGZWZhUEozbnRsUnlfTk1reXh6b18wY1BmazByeUNoNmNiSFBqWWVzNjZObG5oQ2NBdE9LYWQwakZHX2NRNGMzN1FPNUFSTGFUb0VocHlZejlKajJtM05mNW5sQ1ZWUWJoVmNwT1Q0ZVBYeQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T12:49:35+00:00",
+      "summary": "Meta's Open-Source AI Bet Threatens OpenAI, Anthropic - Meta Platforms (NASDAQ:META)  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Straiker Named an OpenAI Select Partner - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2s0SV82amRYM1dvZHNRWkphTFg0eWN6anpJYnRVeUk5NXY2MG9Rb05mSkVLNXBDa2Q0NTNDbGZOZkh1YjQwZHB2Q2VRaUI2OXRJNnlzcXpfYmFRMFo3MGhsWUZwTFlQbFZWamVHWXpsQ19BZVhkWjBzMUl3RnhFVWFIMkJxVWd2aXlqbExTZWdQTG0xSDdTRzdBa1Q2NFJxVnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T12:25:39+00:00",
+      "summary": "Straiker Named an OpenAI Select Partner  Morningstar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why Did OpenAI’s Head of Ethics Chloé Bakalar Leave? - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3pwS1FFUHpxaXhMYjM2d2x2Qkh1R09iTGlYLTRxY3JpcmNTNFRTMmZtNHM2SGxidER6RWdxZ1laM2xiZkt3NEx5bXRFb25RcUFNMDc1bTVjWnBOaEFVcDhHMlZ4THhPa09aVnc1M0JQY3ZaZE1nSGprVVVURUYxQmtGOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T12:22:22+00:00",
+      "summary": "Why Did OpenAI’s Head of Ethics Chloé Bakalar Leave?  AI Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Completes $7 Billion Employee Share Buyback at $852 Billion Valuation - citybiz.co",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnFHY0VqNFpKUjZLWlBKTEhtSEtteW5kcklKQTVBaDU2a3hyNEN1RnBEUlhwdm5EeDdyYVh0MnM5N2NYREItZ3NiUFlvTzdRZDFBRXVkQzQwNDNGeVlUbUtZZ0tid2xjSkIxRUxQVnNFMnlTeFA4c1FZS3FucDd2U21sUFhua3dSNjBKNm5ENkY1RlJ0SlplNFA1UU5CNE9XODVSWjNjSVZSLThvcXMyZ0RvSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T12:12:13+00:00",
+      "summary": "OpenAI Completes $7 Billion Employee Share Buyback at $852 Billion Valuation  citybiz.co",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "EXCLUSIVE: Meta’s OpenAI Push Puts Pressure on Private AI Valuations - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZXhKNzA1cjV1QzRmd0lBenN1ZEdWal81YXhPS2NFQmlfX2VQZFVER0prOG0ycHpPeHlUWFhJcGpLdXVQMTdwVGFqNGpkdHIxQzk5TEVuaFNwVkdjVEM1V0NaMXV4VFNqWk8xTGhsYjJzVHBzcXlQN3NwNDJ4WHdGS0Vpb0x1WkFBMmxFVFRlc3JkUHdzS3ZCMEt5czlkTV94cDRIRkkxUDhxQUNCeFFnbnJ0eGNqbjJzNjNCN1E5YnIzbGZpX3pyMWZn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T12:01:13+00:00",
+      "summary": "EXCLUSIVE: Meta’s OpenAI Push Puts Pressure on Private AI Valuations  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,11 +96,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI launches GPT-5.6 Cyber for advanced security research - Digital Watch Observatory",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZYTBIYUw3Q2MtZkJTbjIzSjNPcEFPRDR4TzVIRGFZTElBcWZ2cC1OUEYyTXQtb0lIUFcwZllFb3hkRHV5ZmhVZnppS3dZWW9tT3pXYU5KZDhlNlpNZ19KWkpra1ktY1dJa3cyU3RONTVTOF9XdUNtQ2xiSkJaZw?oc=5",
+      "title": "OpenAI’s CFO insists AI won’t replace judgment - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYm5EeHlBTGRkMzg4dGlYZFVxbmtSanFVUXJreEZqNklWX29XNjNDVzU5WlZwazlWMUhtTTR2ZVV3ZkFSY0lleEduY2pBS2MzNHYxdUxLbnFTOW9aV01rYkVHYThyVzk2QmtqVGVBSlktTXZRSTc3Z0x0dXBoOE5GRA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-11T11:39:48+00:00",
-      "summary": "OpenAI launches GPT-5.6 Cyber for advanced security research  Digital Watch Observatory",
+      "publishedAt": "2026-08-11T11:34:00+00:00",
+      "summary": "OpenAI’s CFO insists AI won’t replace judgment  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,20 +150,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI puts frontier cyber AI in trusted partners’ hands - Digital Watch Observatory",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tQ081VFFiOFBHVkFoNjhac2MydXNrYmlTRExDdzVLcEpBX2FmTGNaN21selFWbE5kSElXY2k3YmVwYXVwOUdRN3R4MFZqeE1sT19HeHZMaHJPVWphc2t4bmJEejVRak1TQk5TQTZVS0xQdnhOQVBZcFM2Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T11:00:20+00:00",
-      "summary": "OpenAI puts frontier cyber AI in trusted partners’ hands  Digital Watch Observatory",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Courts Business Users With Premium ChatGPT - pymnts.com",
+      "title": "OpenAI Courts Business Users With Premium ChatGPT - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHVpOEtzYjJyc1BybGZMcDM4dW9kd2l6OHloMmdWcmdOeF9pNGhielNLU0R6eV90THN2YnZ6MnpENy1SWTlFY2V1SXlOc0Y0TlhjdTFFOGhQR0szM1Z1UHlKNF9HWE15ZklFUng4R3J2ZEJac3BiczI5OVFhMkZRY2VXWjgzRFVVd0JDUWdQZWtqOFRWblRvdTVjMHVzcW0tSjRkSzFsVWtQNms?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T10:47:53+00:00",
-      "summary": "OpenAI Courts Business Users With Premium ChatGPT  pymnts.com",
+      "summary": "OpenAI Courts Business Users With Premium ChatGPT  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -155,69 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-11T08:47:05+00:00",
       "summary": "OpenAI to launch Premium seats for ChatGPT Business for more usage  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI Assistant OpenClaw Hacks Australian Fitness Club’s Booking System - ForkLog",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnpMb2ZMc2doRlpBVkkzbVJTNHlyTGpETHFuNVkxUVo5RlhqaXFGZUNrVklJc2xvOGs0RzVSZ09HMm5uZE8yd1IxRVVaNXQ2RFVwdmh4b2NwSDFFcnZqU2xuenB2eHBpdlp2aXNCamlMWGhxUDhUUGV6MkJsWmJFaWdBX2hFYWJydmY3TWZsc1lUQU5vQUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T08:03:00+00:00",
-      "summary": "AI Assistant OpenClaw Hacks Australian Fitness Club’s Booking System  ForkLog",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI brings Apple Health to ChatGPT, raising new questions for clinicians - Telehealth.org",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR21RTkMzcDQxeVhGTGJ3RGFTdDlEY0dwRFJUWGJtT2pNTmNNclFHeVpyN1QwUlNtbWdCQ1RKZnBOZXhPck1tZm1pal95WUxqVjQ0NTluMEY5ZlI4MXYtMTdjWnQ4TnpyZ0Nybm5VdldsdXhUZTkyM2c2US10bmRTcmVDUnN3QURwcEdCeEFJa3dfNVBSOGhrQk5URERrLWY1dzBKZnNR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T08:00:00+00:00",
-      "summary": "OpenAI brings Apple Health to ChatGPT, raising new questions for clinicians  Telehealth.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw is available on iPhone and Android — set this up first - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNzdUZnh4WDZCQmJ4eTVDWXJhdHVsS0JWOGRnZWZtNnRid2MzS3JlT0JKNlhlRkwzX1dIODZ6NUtUTHozSnJpVEpTcGxsaFB0RWZLTXRtSlNwWjFNT0t0Z0h3cXl6OG5URktMakJRVk9vTW9HdF8xOWF3bl9LWEZQYWdKVVN6NGxSQ0lPT2JTZktLR1ZtemV4V0RRbzlJNkpaZ01VR1JnSEMwdGlCZEVGbWhJUWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T07:30:00+00:00",
-      "summary": "OpenClaw is available on iPhone and Android — set this up first  Tom's Guide",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Took Awhile to Realize AI Models Went Rogue - Newser",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3gzakF1TWx4Z3NwaUE0Mnp0cVpvMmdLSDdiZGs0eEFlNjhjMTh1OEtQaEh2WXlSSVhDZkFvVm5WcExRUDFNMV9KQWRROTNRdjVWTmx4SURzNEtqTHdXQnl5bnVmOWw5aWwyWlFrTGRydV84MVRsSF9uTVBNdWxnN3Fqd1JBa08tSWYyX1FDbXAtbmpKdFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T07:00:00+00:00",
-      "summary": "OpenAI Took Awhile to Realize AI Models Went Rogue  Newser",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "GPT-5.6-Cyber refuses security researchers’ requests far less often - Help Net Security",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UVnJ5QjFJN1VocmpCM1BDcThTMER0Q3k4dG9ZdDJVVHRKbnJFcWtnWDNMV1dFZHNyeTZ4NFJkb0xZOXlJUlRWQVpONkx2SFpDUkh6UHdZc0k5eDFuWUlRM29panowWEltUWIxM1RZeUk2amV0X3lWRE9n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T06:32:38+00:00",
-      "summary": "GPT-5.6-Cyber refuses security researchers’ requests far less often  Help Net Security",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elastic (ESTC) Is Up 11.0% After Deepening OpenAI Partnership For Governed Enterprise AI Retrieval Layer - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTE5PLTM0Q2pkZ0NkYlpvOGg2Qk9CMGVwNV9QQ3JpeDNPd2poc3FwQ3RIS09yVWlUZHRNWXE1SGNBWlBNYk1NaGN3ZDZKN3FIRG9haUMzSjJ4N0UtaFZtejRWdW5PZUZmWXdBblg1WXNVVXlHM0w1aGpYRlA1dTl5dk16OVJGVzZnMjhlaGtUVHg3RFdnUV9GNDRJWjZfSFZPQTB1S2ZQVFhpZDRZVUlZdl9WRkJNX05tUnJIXzhEbHlEQdIBxwFBVV95cUxOY1Q5bm5nSi1XMjhkb2VZb3NpOGpMV2dRVUlLY1J2QlBwVklmU0V6Rk81eHpyWHoxaGVkSDljVm1admE4RTV3OVE4OGZYc0FGSnJneGc1SkZkOUtsZG5wekdYR2lIXzZQRXJfWnRULW5EYm1KWmRYWFNSbU1ZcWRFc2V0TW1wU2Q3Mm9oUXVSbE5DT1BlSEhZeTRjc3dhVHZ3Z3VmWmkyTG5HamhMYWVnb0tnZkgxWE9xb3lVU2NyZGkyQW1DaUtR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T06:31:29+00:00",
-      "summary": "Elastic (ESTC) Is Up 11.0% After Deepening OpenAI Partnership For Governed Enterprise AI Retrieval Layer  simplywall.st",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic, OpenAI Said To Be Racing For Public Markets: Reports Of Pre-IPO Moves Tell Very Different Stories - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemVFbVRGTDl4RTBwOUxoaDRaRGtOOXc1amVmTksxWnE2ZFlNS1IySkpORkpncDZpYjRKS1pPQmFLYlcwZU9RMVdlRTlLb2NPeWdEclBjNi11N3NTU3NnNGhXLUdKTzRPQ0ppTHVvTUU3WnhSNlVfVDRLVmpLX3BCNXk5aHUxajZraTBCUnpsbTJlWVVUUkI2SC1Kak1TYktQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T05:01:44+00:00",
-      "summary": "Anthropic, OpenAI Said To Be Racing For Public Markets: Reports Of Pre-IPO Moves Tell Very Different Stories  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
