@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-08-11T21:13:01.167789+00:00",
+  "generatedAt": "2026-08-11T22:06:47.972441+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Daybreak models are now available on AWS - openai.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45SU9RVTVwLVo0ZVNlYVp6Mkd2TGM1dEc3eUtwRHJuQ3ZHeXZqbTd0SHZkZXZsRUhObWd0d2t2WlB3YWUyTVJfdTlNVlpUbkJONGc3N1NqR2hLQVc0N1NIZTlCQi1UOHlwSTJlTjU4TUFfSGxt?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T21:50:32+00:00",
+      "summary": "Daybreak models are now available on AWS  openai.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Daily Digest: OpenAI's $7B local injection, Anthropic's Texas move - bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaEhKU3lIeDVpcXViREpscy1zcFJpc2daMG95RWw2XzVNZ3ZtVk9nZFBPc0ZtZG9WZzNmcEk2OEhsOFZFQlUxVGJfZUFhVEhpTVQ2bVVwRFlYUURRcDJZS2NsWTdaLVNqX1k5OThXZDZIRTlTSzN5XzJMQ01tdzFESV93NWVVc29GQWhqcDRVNkE2Tnk0cm95akNIZG5SR3lDOF9TQk1qTE5QZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T21:09:00+00:00",
+      "summary": "Daily Digest: OpenAI's $7B local injection, Anthropic's Texas move  bizjournals.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI head of ethics Chloé Bakalar departs after brief tenure - The American Bazaar",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTFWVHF4eDRsNW5fWEcxVnAwbVlDVzRFbHFPZEh2eVF2NE9ZbjhLSW1vQl9HaHBHVFhlRzZ4Y1FKd2FERWM2WUdkd1Y2bGVNdXVTR09qb1JxeHhJOGM1TDFWZEx6QXRzTmxBZ3kxNWFsSFlsMmVQbEhCVjJEbm1Wcm8weVgybDRjcGpBMjBjTGpLSWVjZm5rSmNtNWtuTnFwUDhDTzJubHl5NVJiQUN0WVUxRUc?oc=5",
@@ -20,15 +38,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-11T20:00:05+00:00",
       "summary": "OpenAI Launches GPT-5.6-Cyber As AI Arms Race Reshapes Vulnerability Research  LinkedIn",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT and Gemini both just passed 1 billion users - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEdzTkFtVkZiVHVUMF9rQ3gzNTJickYzYllkSWNfTkl0TFZvQXNWc2xPRE1BdUZwTWZ5VVpNM3E1OE9QbEZKdVFZQUlwQ2VDcnR3NHByU21JNGRuZDdTdEdmOGRYOVN3bnFTTm1CYU1Oc3dtOG0teWlScjZDSDNKdElPU3Rxbl9kQmtLYW4wMEZieVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T19:41:42+00:00",
-      "summary": "ChatGPT and Gemini both just passed 1 billion users  The Verge",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,15 +69,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "'Stop Stealing Our Future': Students Arrested in Protest of OpenAI's Lobby Office - Common Dreams",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFNzVYRzhnX1dDdjhWQmZuVWFuWUVYRl84SDZBV2FhYUJrZ253RE5hSTNMREg2bW5OT0RCMEZMZFFadTM0TGtFeF9CVUxUX0l1c1N1NF9FZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T19:18:49+00:00",
-      "summary": "'Stop Stealing Our Future': Students Arrested in Protest of OpenAI's Lobby Office  Common Dreams",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI launches ChatGPT desktop app for Linux - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUNZR2RvNEZJMGJXLUtEbG1xMkFHRV9PRTBTTEEzdlpnY294eFlRT0Y0OGw0VEc1TjF1aUJvUG5scjZxc3Y3QXlKVG1tYlZoTUZlY0xGd1Q0Q05jUEtpQ0Y2djFfVjExaFphcWl5UW1OdG5tbWhEbUViVFVYa0txZzRMOFhKYTg?oc=5",
       "source": "news.google.com",
@@ -96,11 +96,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down - The New York Times",
+      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DUGxJazdMc09lbm9YMHMxMktYU0NYWGtoX0cwSVczNW9udHFsWEZTMWVVUG41WTF3Tnl5czN5TTdaVlozczkwVlNVZjNZR2ZkS3RSY2Z2OC12V1NOcWdzb0tkeUpzcHdOeXc1Y0h0UjFibXRIeld0Y2tHZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T18:39:16+00:00",
-      "summary": "Brad Lightcap, a Top OpenAI Executive, Steps Down  The New York Times",
+      "summary": "Brad Lightcap, a Top OpenAI Executive, Steps Down  nytimes.comOpenAI Executive Brad Lightcap Leaves to ‘Start Something New’  Bloomberg.comLongtime OpenAI executive Brad Lightcap leaves as shake-up…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,6 +114,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Runtime: How DataHub adds context; OpenAI expands Daybreak; AI heats up - thestack.technology",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbWxPdVIyaDZna0x5My1IT1FLMkxfdFBUVUpaNTNPbVlvamxSVG1wd3J5a1Byc3JGNHZmcDBCdy15cnBiMDYyWXNWLTkybEY1Rl9rdEpTVHdFRGZEcldpTFAtYVF3Y2FUS0d5VUVBalotaUlQdnk3ck9fWl9NOE5fUm8xZzQ5NjAyZ2pqSmhyWThCc0FSXzI4eXpKX3N6RjNKVUNn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T18:35:13+00:00",
+      "summary": "Runtime: How DataHub adds context; OpenAI expands Daybreak; AI heats up  thestack.technology",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Brings ChatGPT and Codex to Linux - Thurrott.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTENJU0I5RHFjRUppZ1hXTE5IRlpKeUtTMmNiTlgwVVVMTzNzaHg5b3haRVFoTkxjTk51RmlZY0QxX2NDOG8wa0NqdDFQV1hLdy01dUQtZUZtMURIZWVEYnZlVHRRNXRzT2pJbDc3amU5YTZJSzNWV2tBV3lHUFpyV0YzejBzckhNWDZmU0Z5Wk8?oc=5",
       "source": "news.google.com",
@@ -123,29 +132,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI gives select tech ‘defenders’ new AI to stay ahead of hackers - san.com",
+      "title": "OpenAI gives select tech ‘defenders’ new AI to stay ahead of hackers - Straight Arrow",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2U4ZFNDMW14WWt2SUFERlVGa3NQbDVOX19WODlQUzdXbWZCRk13M1FsaUVTYURfaG12Y2d4S3gwa3RoU2NDaUc5RjkxQXRZZ3BtdGFqLTBFS0U1ZVJHbzZESlZGRkc1al96YkZqei1RWnlTd1F1Q0NkdE5hQW5IRURfbEZQYTBDRWNiMWxIZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T18:30:00+00:00",
-      "summary": "OpenAI gives select tech ‘defenders’ new AI to stay ahead of hackers  san.com",
+      "summary": "OpenAI gives select tech ‘defenders’ new AI to stay ahead of hackers  Straight Arrow",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Protesters Arrested After Storming OpenAI Lobbying Office - futurism.com",
+      "title": "Protesters Arrested After Storming OpenAI Lobbying Office - Futurism",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbnJFcnBLQmVQOVNPbUtHTDZmZm0xSGNVbEVFTjVaTThVREUxdW4tbTVPbHNPZXdyX3FhYWs2ZjAwTHBnMGZIdkN5UDZwNW1GVlNQbmJ4dGFvTnZZcnhpcUt2aVFUajRwSTZXMkVzTmZsY2dHQjF6bmdrMVRjQ1hkZ25keFVuM21EemN6cnRMbXg4SU1paFVDeg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T18:28:50+00:00",
-      "summary": "Protesters Arrested After Storming OpenAI Lobbying Office  futurism.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Expands Daybreak Cyber Defense Service and Completes $7B Employee Tender Offer - AI Insider",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGFtN2lKUlhxWkw0NEVaVHU4VHN5M2hRSVFOTnpuU0dDUi1ua3FLbUQ2MWNKX2NDYWYxN3BOejM3RFlUTzI2SkpMdWJ0NVA5dXhoQkRueXMzUW1GN0dXOVhVZ0xpRXNJcmZsWWtKZFFTOTRpUUxTdG9XUnhNbG0zMHVuTUNVcVphdHhPdEt3b0t0Y2NRRzBmdENuX0ZiODJqck5Jd040Nmh6X3JvYURGenRvUEdXVXpINlJVM3VoYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T18:22:35+00:00",
-      "summary": "OpenAI Expands Daybreak Cyber Defense Service and Completes $7B Employee Tender Offer  AI Insider",
+      "summary": "Protesters Arrested After Storming OpenAI Lobbying Office  Futurism",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -177,15 +177,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Launches ChatGPT Desktop App for Linux in Preview - SQ Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoR1pmRDkzLWljNkFhXzd5bjVlSjVMeEpxbHl3V0VKV013ZXR2T1VCTXoyb1VFanh0MHA1Vmw3ZkNuRkdtdGlhQw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T18:05:22+00:00",
-      "summary": "OpenAI Launches ChatGPT Desktop App for Linux in Preview  SQ Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI lets employees cash out another $7 billion in stock - the-decoder.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUlUUnRhcmhTSGp1cWZMQVE4WGxsNUhLM1lSZXh2ZjloeHFLOENndUh2ZmJEQmdWNFBab203Y1ZXczhYZjViOEhPQTAyU3QycDJIR0FCWElzOHJ6Um93dTBneWhtNzdqNkYtTDJWaVNVUGtEXzZTU0dBN05mb0FFcDczeWhGOEpNa1E?oc=5",
       "source": "news.google.com",
@@ -204,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Long-time OpenAI exec Brad Lightcap is leaving the ChatGPT maker to ‘start something new’ - Fortune",
+      "title": "Long-time OpenAI exec Brad Lightcap departs to 'start something new' - Fortune",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMS1kaUVlaGhMRmxyMkVEVUQwdVYwQklLdjN4dC1sRDBlcUt2ejN5X1B3REhzVG1PQzlsVGFrRVZSUUlMcnRFSjZWWUhnUk43RUk2M0VaS3NyNmlSQy01YUJJQV8zZGN2a1N0X1V5bGFYcVgwRU45a0kxWVBheEVHVGxWd2otVUZPNmp1LUtB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T17:56:00+00:00",
-      "summary": "Long-time OpenAI exec Brad Lightcap is leaving the ChatGPT maker to ‘start something new’  Fortune",
+      "summary": "Long-time OpenAI exec Brad Lightcap departs to 'start something new'  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-11T17:50:01+00:00",
       "summary": "Another OpenAI executive takes off  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI loses another top executive, as Brad Lightcap leaves 'to start something new' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXM0RUU2Z1BRUXBZSzNyX0w0TFdqV2g4aHNaUGlPSVdDa1IyZ0ZmalVBWThBZ042bkZFTFZ2T2s1OFZvUTl1dkN1bHRqdy1QeWdIbkRIUGxXSEVHZldlVURvUDhyTEg0R2xSdkMyRExaT3Y0QTVSRE16TUc5dU9uQjZCYzJkejBZZFFUQkRVZG1BQjFiQzFPRTBUbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T17:43:00+00:00",
+      "summary": "OpenAI loses another top executive, as Brad Lightcap leaves 'to start something new'  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
