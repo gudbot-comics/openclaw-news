@@ -1,25 +1,43 @@
 {
-  "generatedAt": "2026-08-11T13:36:25.611944+00:00",
+  "generatedAt": "2026-08-11T14:39:52.761395+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Sandworm’s poisoned VPN, Royal Navy drones phone China, OpenAI loosens cyber limits - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1pyNzZTWmY3Y25Pa0I5ZW1ZaWNSN0xHMk9WOWpjdWZPZEw4aXpfVFoxNjl2dHhGZVkxd2Z4RTRlR243T0F0V0Q5SVh5MU12Zm1YWXBFd3FKWnI0aHZiUVJ2aUZWbll4UTBhdFkxV204dUtMZVZ2Wjg2c1ZLX3dTYy00cmx2em51aEhKeEVKOVppYlNfTU1qTm1uZXk?oc=5",
+      "title": "OpenAI has paused work on its Astra AI model after it passed a 'critical threshold' in cyber capability – but it’s not the one that breached Hugging Face - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVlpLZmd5NWpMV1Bpc0FEd3JHZXRFV2lUbXlOb0xFaXdFSmJLcnJiZ2EzdjFkV190VURtb25ETF92bmp3c01LYmo2OEp0akNRMnJPcUtMd3dzelFFYTZyYjZHbURYQVJfbGJmZjM3akhOSVVGOXRHZHNMWTBEeEpHZU93ZHdiemQ4dzcwWlM5WWtGUFhYcGp6Sjl1ZFh5bkRLWmMtX1lsUHJ4QTllNHlzcGYyRkR1cUw3d0xySnYwV0VvOXllUnJHbHlmQ3BCOXBQVFRRWEtSbXZVTXBvUXM3Yl9rZUR5NzA3WGVxeGxYdC1tZ3ZEMEtqRkNhMFFkUTZCejJ0c2VSRzVSUlk?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-11T13:31:37+00:00",
-      "summary": "Sandworm’s poisoned VPN, Royal Navy drones phone China, OpenAI loosens cyber limits  LinkedIn",
+      "publishedAt": "2026-08-11T14:28:15+00:00",
+      "summary": "OpenAI has paused work on its Astra AI model after it passed a 'critical threshold' in cyber capability – but it’s not the one that breached Hugging Face  IT Pro",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JMy1VR3BSZzQwb2Fmak5IdldCX2swa0paVHRVYlQ3M0N5X0R2bXM5TXV0ZG5GRnJEVmNvbU5oX3I2TnJwSHJwWVRtc3R1RUJWamV6U2pTYWhJU3FQank4NjZRNjN0RjFCSWVhcl9sRG1kdWM3NXhWazlubDU?oc=5",
+      "title": "OpenAI CFO touts move toward ‘zero-day close’ - CFO Dive",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkFRZDVxQXVLVEpVYWQ5akY3am5QcDdSWDBwbEVhQ185eGZUWmwyVkJNT1RDQ0E5cHJBM0FubHhpb21TUnZLelkzTVNOT2xFd3lPcXc4SjlLZEdDYjJwOTk2ckRqZWI4OE1JT0pCb1dDTXRRREhuRnYybTRxRHhvVEFpeEg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-11T13:11:00+00:00",
-      "summary": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development  The Hacker News",
+      "publishedAt": "2026-08-11T14:18:22+00:00",
+      "summary": "OpenAI CFO touts move toward ‘zero-day close’  CFO Dive",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Ships GPT-5.6-Cyber, Its First “Offense-Grade” Hacking Model - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3o4eTlBa2pGMnNrN1p0QW9Zekk3d1M0WmJfQVphU3BYRVBGNWl3NFBDZnF5cXhkc2FFQWxqRVRja1FGRmNpVXU3TU1sQTB1WUd0M3JyRG43MEZhQ2xWWWNSa0lGSGVFNTBHWVM3U29mWTFZS2h4dzBaRFVCeVoyVlB6MVQ3ZEVzR1dxMlNEMFNzZWdGU2FIandBNlBBQWY0ME05TXRwQ3FFaGtNZjRILWRXWWU0dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T13:57:02+00:00",
+      "summary": "OpenAI Ships GPT-5.6-Cyber, Its First “Offense-Grade” Hacking Model  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI extends 'Daybreak' security project and reveals new cyber model — but for approved users only - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaEYxQnY0OWVxUnp0eWMzcEJtZkJkTHdYYXpKdWJGUWlsanVveEtqMlh1ZUFEVVdnN3Q4N0RKUmdBWndBR2RKR0dmbk5MdmFRbk4tanRkU0hiRXh2SERKV2FYekJBeEs5YU5rR1h4a25DX0RtZHRUdXM0NlEyWkZyZFBndnpsa1RVVFRiMG1YX2gyNnJwU2xkcW5uR2tMSjBZUTloSFQ5SjNFVUkteVFMU2ZCZ2xWUGhUZHNVdk1JR2c1dHlpYWxfX2hPUmtENE0y?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T13:20:00+00:00",
+      "summary": "OpenAI extends 'Daybreak' security project and reveals new cyber model — but for approved users only  TechRadar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,11 +51,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Ruddarraju: OpenAI stands ready to work with Texas - riograndeguardian.com",
+      "title": "Ruddarraju: OpenAI stands ready to work with Texas - Rio Grande Guardian",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0tURHVZSW1WcUdVWkMwM3RWVjNiZjhINjdCM3ZfLXhYM0VfTFdRVjZieTVIQVhydTNybHlvX19aSkNoRWJsSmlTcmJSaWhRN2tHVWllYUFDVmdfYktnVEc1eXdzZDhGNjZTNkNNb3NjSnJMQTJTdUdtWnpmWWVCU3pyYVVnYzlDbUtFZjktaW5obnpjdmI1ZA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T13:01:43+00:00",
-      "summary": "Ruddarraju: OpenAI stands ready to work with Texas  riograndeguardian.com",
+      "summary": "Ruddarraju: OpenAI stands ready to work with Texas  Rio Grande Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Completes $7 Billion Employee Share Buyback at $852 Billion Valuation - citybiz.co",
+      "title": "OpenAI Completes $7 Billion Employee Share Buyback at $852 Billion Valuation - citybiz",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnFHY0VqNFpKUjZLWlBKTEhtSEtteW5kcklKQTVBaDU2a3hyNEN1RnBEUlhwdm5EeDdyYVh0MnM5N2NYREItZ3NiUFlvTzdRZDFBRXVkQzQwNDNGeVlUbUtZZ0tid2xjSkIxRUxQVnNFMnlTeFA4c1FZS3FucDd2U21sUFhua3dSNjBKNm5ENkY1RlJ0SlplNFA1UU5CNE9XODVSWjNjSVZSLThvcXMyZ0RvSQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T12:12:13+00:00",
-      "summary": "OpenAI Completes $7 Billion Employee Share Buyback at $852 Billion Valuation  citybiz.co",
+      "summary": "OpenAI Completes $7 Billion Employee Share Buyback at $852 Billion Valuation  citybiz",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-11T12:00:00+00:00",
       "summary": "OpenAI targets heavy users with premium ChatGPT Business seats  cio.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI expands Daybreak cybersecurity program, launches GPT-5.6-Cyber - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9udU51ckpwZ3pKNjhGdWVYNkNlNm05dXZPTGY3Ty1MMFUxcjRWcW5QVjVqZ19VVzlYc0d0dlZldW1oSkdSMXVkc1FKbWJuckZmczFNZ0M1LXBmbFJNeENjMmF1RXJOa19zRnd1VVlBUGdlUVBWYjRfM1pn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T11:56:29+00:00",
+      "summary": "OpenAI expands Daybreak cybersecurity program, launches GPT-5.6-Cyber  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenClaw AI Agent Exploits Gym Software And Cancels Another Person's Booking - Dataconomy",
+      "title": "OpenClaw AI Agent Exploits Gym Software And Cancels Another Person's Booking - dataconomy.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSWcxM1hVeFphakNjcWl4Y1BlQWxxSDFKQlFRSktBNEtQTVVRYnNBdEdMejhRaEk5OWxRSHg3RHRHcDB1Z01GRTlROENuVktTNl9NTGdNT19TNEdZcEF0S3NKTm45UHhJRnkxX2otR3RMdzlTUHJYdmdfY0dnUGM5TUx6cExvd3RndVdLRTdlb2U?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T11:08:45+00:00",
-      "summary": "OpenClaw AI Agent Exploits Gym Software And Cancels Another Person's Booking  Dataconomy",
+      "summary": "OpenClaw AI Agent Exploits Gym Software And Cancels Another Person's Booking  dataconomy.com",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
     },
@@ -168,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI loosens cyber limits, Sandworm’s poisoned VPN, Royal Navy drones phone China - cisoseries.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVNhczZPekx1N051aXdaRmRWT3RncFJGaUQ4Sl9CbzRZRHJVcXRacElfdHByZ29TLTRXT0cwMkhsdW13ZFc3MmgtNHUxczJrX1p5aTdoQ1UtRlF4WU9KRXFvU3RCSmtfRDBOR1NBSV9CdExXUHR4aVAwaUVldXpZWWRqZThKZkVPSjNRaEpIeWlfVkFmS3ZNcTl5aVdvSEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-11T10:00:00+00:00",
+      "summary": "OpenAI loosens cyber limits, Sandworm’s poisoned VPN, Royal Navy drones phone China  cisoseries.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI pauses Astra work over critical cyber risk | ETIH EdTech News - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVhEekdEdTZMWUNzLVN0a0ZkSC1Cc0h6MnNoUGRyS3dvZjlxdmQwUW1zTEZhRk9tRjN0aHJHSGlqeFczOUpsUzloUWZnbWEzeVg5WmhmV0Zub0FSQVl3Z0tRSmRoMmRfVEZDVVgxMEJLd2hUbXh1WTdoVmstVnlXa1VOVlczeV82YkhNZ1JMZkdXMzZmVUw3Q0M5dzduVHh3Y0pQWVBUMmNBU3dnU2pmYW1JYmJjYWhicTItQ2ln?oc=5",
       "source": "news.google.com",
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-11T09:40:15+00:00",
       "summary": "OpenAI Gives Daybreak Partners Access To A More Powerful Cybersecurity Model  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Only Ethicist Reportedly Left Last Month. She Wasn’t Replaced - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2Mtc0NSQnBRVjVCOWZJMk1vLVBrcm9zRm5oQTk1RmtDcEtSaVNDbnhndjNNZ2xGX19oQWljYldpSUd0NjhoNGZoUmtRcGJaMjVpT3VaVkEyWHBSejU5eWJWSzdHQjQ4aUlzYkFJX09nRUowbkRUZ1RZZWFUcmpoWEx5Q0VQbldYZ1psYXIzYXVVSXNOWENZS0JvWFllOG8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T09:30:13+00:00",
-      "summary": "OpenAI’s Only Ethicist Reportedly Left Last Month. She Wasn’t Replaced  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Concludes $7 Billion Share Buyback Ahead of Potential IPO: Report - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmQxM29tZ0pBZTFyVDF6UXNsY2NxaWU5NXNzZ3o4dUlNWlYzWUpQc2RRaWxQQXpxbzFnTWNSa0dHY3J6dDBwLW1sRFJGRnRZaEY4bUtyRk9BWjNNQ21jQ1J3XzBlLW03QmdYTktWOWZvYnNNNFdTWG42TW9CMUtfSDJnbmF5R2lFOHp3a280RTNDeUJUdW82NHQzdXZwNWxMbFhJdDllM2RMZnBRdk5jN1UxSkxaNnJxTVg4Zks0VTlkbXd0eWt1LTNBeTA0NlU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T09:18:52+00:00",
-      "summary": "OpenAI Concludes $7 Billion Share Buyback Ahead of Potential IPO: Report  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Pauses Some Development of Astra Model on Security Concerns - Infosecurity Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSk1nZVFCUjdWZS1OYkNuMmk2NWtidFh4Q1ExeUt2S1dtekdiS0poWDVoNTVuWU5ZZzBzRGd4bHFmb2JmSHJlX0FvS3VSNmFJQ1hManp6QzJIalpPangwVXNqbDlBX3hkZGZZU1VvYVNTcFN4eWdsdFA3VWZjSWxWVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T09:00:00+00:00",
-      "summary": "OpenAI Pauses Some Development of Astra Model on Security Concerns  Infosecurity Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to launch Premium seats for ChatGPT Business for more usage - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQVFTd3dKTjZ4dllLWlVUbHAxT1o0aEhwdHItcWZValJrN0dheDNHQ1lvVVA4ZEhzM284VksxaWh5UEt6bUJkS1pZQlJyVFUwLUh6b1Z3QzlSM1VLRVFWSDRfSHVwNFl2V1NGRW5jNkVfak5ERVJFaDdCMnFlbWtmaG40eUJZcTZ0Q1c5Q1ZtdjBuMVNvOXVlS0ZORm1DRlJXdnV1MGIyaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T08:47:05+00:00",
-      "summary": "OpenAI to launch Premium seats for ChatGPT Business for more usage  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
