@@ -1,25 +1,88 @@
 {
-  "generatedAt": "2026-08-12T00:43:19.737486+00:00",
+  "generatedAt": "2026-08-12T03:12:26.852222+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI Daybreak Expands Cyber Access for Security Teams - Channel Insider",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5b1NlOHRodExuVEt3UG9obEhnck4zaWp2cDlmS1Q5UThhV002NEhNUDVLT0dnZFhYLVF4RXBVNWJmUEYxMVRoX3J3aG9xbFB0VFNybk1YOHJ6bEFzcENjZXZHQm9haFdIODl6VDEwX1pZa0thMEtLNlVZMG5JTk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-12T02:37:30+00:00",
+      "summary": "OpenAI Daybreak Expands Cyber Access for Security Teams  Channel Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI COO Brad Lightcap Departs Amid Leadership Exodus - Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX294T3Fsd3JYRnFXd1VrYURRc1ZheFRRTDhhaFdnUWpJLXVBVHVRU3RSN0NYR0lseHhUNXUzLXBjREsycnFBcmxLYlpRVzF6VF9kZXE0Y2dqcVN3N0diSUhIRFN4bHFtdFk4bFJlOWZrWnhSMzQ0WUgzZW5WZk9DS0Q1cVNaQnpOU1BWdV90VnJfdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-12T02:24:15+00:00",
+      "summary": "OpenAI COO Brad Lightcap Departs Amid Leadership Exodus  Briefs Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Huge pressure on OpenAI and Anthropic to continue spending as they head toward listings: Expert - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelNDcUVyMjlNWEVNUFNpck13T0VLWU1uYVZicGdiMm1DR2JEVEF5VTU5cmZSLS1hT2lRendXWXVTQzZHa3ZsT0J1SzF1d0s4TDVfNkZBU1A0YWhmZjE3bmIwMC1NYVFMQW5pYXlQZDZvdUtqaWVZNUV0Qm45Qk1sbEl5Q1h0djNVRE1aQzdpY1hWOThBRGtsWVZDNnRGQ1NOZjZ1OXNTbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-12T02:15:51+00:00",
+      "summary": "Huge pressure on OpenAI and Anthropic to continue spending as they head toward listings: Expert  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Catching up with OpenAI! Gemini surpasses 1 billion monthly active users, becoming Google's fastest-growing product in history - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzhIdXBSZnVsTzN0SWI1RXBVRzBjdEhQVmhxU3BleHFhR3htWEsxUUxjTDVwODFyQlZkSXVRX1dUb2tDdzZBOHExRWtVTFgtSnJMVjY1SFlkZWJ3V2hyUTZOMWI3THN0QXh6X0wxaWFpaTYwUk9YSU1DQTB0ZmJickVJZmhpOUs4SVRxbHM0WkpXaUVUT2FyR3FrcDFWZ2o3di1lbHViS0FKVWM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-12T02:15:51+00:00",
+      "summary": "Catching up with OpenAI! Gemini surpasses 1 billion monthly active users, becoming Google's fastest-growing product in history  Moomoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils GPT-5.6-Cyber for Advanced Cybersecurity Research - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94R3liOUc3ejJCVmRPaHBjSndPYzdnemYwd211U3QtWU1ldnJ3ZnExbUtPV3NoQ0ZzZnpBN0UxemJkaFl1UWFnQ3lkbW5HUFdSN3dMdWhRQUJkN2szVmpDSTVqYjQ0eDQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-12T01:29:59+00:00",
+      "summary": "OpenAI Unveils GPT-5.6-Cyber for Advanced Cybersecurity Research  thelec.net",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "XAI Fights OpenAI's $1 Million Trade Secrets Fee Bid - Law360",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnd6UnpfUy1zX1NEa3hIRlQ0TGh0YWI4WldhcG9EWkRIalRDN1g0TG1FY1pRNXZKenFjMzFFMEtiQVlNWmhjYmxfbUpwZVVMSV9GbklKNUJySEZldGVuUlpVc2NBRXJQNkhqZUR1ZlJYOUs0SzE1LUIzV3pUUlZXRVhGRmJjdllLMlVjRThzNUJtTEZWSFHSAVZBVV95cUxOX1J2Sk91ZXJNOHVwak1TWVB3VGNQZGdZeTNacElBZHJYa0ZTRF9BR0h0SnNENEkta3V2c2VfY2dwVlA0TEtfeHZxeVIzb21YcHpKN0tDQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-12T01:16:00+00:00",
+      "summary": "XAI Fights OpenAI's $1 Million Trade Secrets Fee Bid  Law360",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI exec urges companies to take voluntary safety measures as lawmakers lag behind industry - Politico",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzcwVG1mNnZmZkdvdXlVWTVkTlJIbUI0ZFRFN0ZiWmd2VkFJN1REUllRa28xY0o2clZnaF9BYU9YM081dXBiTzRzdkRySkNVU0Nrc0twWWRsNDhYd0ZDeGR3SDVsTHNKX0xrQWhGbGNuYVMxVHlzV244Z2dTc2NOOWw5N2R4ZExicWZPVGdjUElRNWV2WjJOa285MFBVVkR3cGN3a29kSkdrbld2WnhoX3JUejcyTUc5Nl9faVpSeXI5U3VBejFrNGp0SlQwMUVPOEthMVR1V3I3WXJY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-12T00:35:33+00:00",
+      "summary": "OpenAI exec urges companies to take voluntary safety measures as lawmakers lag behind industry  Politico",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman’s Sister Fires Back at His Claim She’s Mentally Ill in Court Battle - TMZ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaFB3bkNpRXpNTGVsbC1TY042TjJhcmNlQWpUbWwyZHpDeGpEZVVUVXhFaHFnTV91bEdnaXBMNlN0YzNTNnVibl83QnhJX2xTRkZKNUdscjJNVGZCQjZ6dEZMYmdHRW05d2c2NTlIQjA5Qml5R2FoaFlJUWtTTzNJa094c0xYcHFnNnVsdjdkRGhWSE1rdWpPZA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-12T00:10:40+00:00",
+      "summary": "OpenAI CEO Sam Altman’s Sister Fires Back at His Claim She’s Mentally Ill in Court Battle  TMZ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Here's How the AI Trade Blows Up (Hint: It Has to Do With OpenAI, Anthropic, and China) - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVUkzbUY0STZZOGNDVzlZRW5HZ0poWTU2emVRNlI3cENrWlh5UVRFdF9hcjkwSkhncTBlOWF1S3RzUjF1X3JpWnZ2U2RkNC02dzhHY3RuT2ZQLXJOQVAxQkZtSllmTERUempiWG5URGRQUE9oV2NpQXZ1ek9heFZMbm1GNXRhcWdjV0VyVVZiUHdNVGtlSXpn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-12T00:04:49+00:00",
       "summary": "Here's How the AI Trade Blows Up (Hint: It Has to Do With OpenAI, Anthropic, and China)  The Motley Fool",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Here's How the AI Trade Blows Up (Hint: It Has to Do With OpenAI, Anthropic, and China) - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWkZsdi04NXA3TkhkLWZQbWZNWlFpakpwWWQ1aTJVVEdoazRxaVRIa3JKVzh4dHh4V0lXeXBfbFotWFhzbEpUSXR1OHZIRFQyLURfMkgyZ2VteHJzN2pTYmpCSjh4NzU1dlBGRWJrWU1LYzRCS3pPTVliT3dPeEFXNVM1bWstaEwxNVljYWpwRlkxUkU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T23:50:00+00:00",
-      "summary": "Here's How the AI Trade Blows Up (Hint: It Has to Do With OpenAI, Anthropic, and China)  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,47 +96,47 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "'Author: OpenAI': Metadata contradicts Missouri lawmakers' denials about who wrote their AI playbook - KSDK",
+      "title": "'Author: OpenAI': Metadata contradicts Missouri lawmakers' denials about who wrote their AI playbook - ksdk.com",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNE4zUTFtSE1EdjFDdFdPUnNld3AzYVFzbWJNX25DdVFKcHh2MDB3S21ROGJoaTdZSS1FWEgwRVJiQ091MkY0bUFTZm1oOXFZbTA5MHZjRXJTeUVIS2VWYjdNVExsSl85dEtwNUNfNy1KQlhoWFdvVk9kS2FBRDFJaG5ka1E5MC1VT2dsNGc3TW1qcll4QVQxM2ZUTjdDVXZsMVNTQ1VyOThRYjJIYUtMbmMtZWFsNlpNRHlLQzJLWEFvdnoxb0h2MzJZYjN3NzdqV1F4WmMzbUY2Y3V2SWhiVXhyd0dWU2wwVk1IbFZyVms4b2pNX2VrLTVOVVVvbHNVTkFjanFB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T23:23:00+00:00",
-      "summary": "'Author: OpenAI': Metadata contradicts Missouri lawmakers' denials about who wrote their AI playbook  KSDK",
+      "summary": "'Author: OpenAI': Metadata contradicts Missouri lawmakers' denials about who wrote their AI playbook  ksdk.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "When OpenAI employees have a problem, they email this special address to see if Sam Altman will solve it immediately - Fortune",
+      "title": "When OpenAI employees hit a roadblock, they email this address to ask CEO Sam Altman to solve it immediately - Fortune",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTVSYWRSczcxTm5sZUdRTm5FWi1KRDI5MmtzVWdIMnBuWmh3QldOMHhRSjB0VklRSTR3cWtjRDl3WE9wcUNmc2IwQzFwSTROVFJQZHB2dEFKMzI5ZHJWbXJZRVdzWjN6MG10OGo3NXM4MEE2a3lJXzBvR3NmZkpkanhMR0pPRGd1YmVER0N2QVRKVERfR1hRaFhoTWo2S19GbjR6VnBxTnhqSXh1Qm5fZmVaQ0tWanZKMlVsTg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T23:19:00+00:00",
-      "summary": "When OpenAI employees have a problem, they email this special address to see if Sam Altman will solve it immediately  Fortune",
+      "summary": "When OpenAI employees hit a roadblock, they email this address to ask CEO Sam Altman to solve it immediately  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI: AI policy will still be made in the states - politico.com",
+      "title": "OpenAI: AI policy will still be made in the states - Politico",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcGd2OW9seUdCNVpvejVJWi1DOUZEa2JUaXlQRms5c3QyMjdDRjNHaHZERTMtTWNoNGN2N0JwWXpWYUNMNHplcWF3WDdYbFRtQXVGXzZ5TnpjbC05cm9wbVVyNE1DMEk1M1AxM1d5RkhodjA5ODBrNlkzVl9OdC1uMWsxVGtsdUNocXdsQTBtZGd6LVBBMHhFOHgxTQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T23:05:00+00:00",
-      "summary": "OpenAI: AI policy will still be made in the states  politico.com",
+      "summary": "OpenAI: AI policy will still be made in the states  Politico",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Top OpenAI exec: ‘We have real work to do’ on data centers - politico.com",
+      "title": "Top OpenAI exec: ‘We have real work to do’ on data centers - Politico",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNjNLbmRfM3pKLTYzUlpNYU44ZWJtN01CbUMxcHRCQmpVRHlmbkxibVBzNG1mUFZuV3dOdTQ1RHRMUjA3SFp6SXc2UVJ1YzR2em5GMk9wY3l1WmVWbE9PTEdlU2FUYlZLQVZQYXR0d3VxdW1JeW5XbmpVeWRXZVR5cldJWjJpZ3FIYXVJcA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T22:54:00+00:00",
-      "summary": "Top OpenAI exec: ‘We have real work to do’ on data centers  politico.com",
+      "summary": "Top OpenAI exec: ‘We have real work to do’ on data centers  Politico",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "More OpenAI executives exit - semafor.com",
+      "title": "More OpenAI executives exit - Semafor",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91ZjdZU19QTnBFUlRHZWg2ZEI2UklpRUdjZDBKR2I5MGxZc0hKQVl2TF9Jdnk1a0lIeHhNdWZlSEQ5Z00tUG9ROFJuc0NsMlFiNklISE01bW9qaVhEY0IybHhvTjAxSTdhSHB6eW1yVkl2Q1djTnk0N1Bn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T22:28:00+00:00",
-      "summary": "More OpenAI executives exit  semafor.com",
+      "summary": "More OpenAI executives exit  Semafor",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,11 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Ann O'Leary: 'We have real work to do' on data centers - politico.com",
+      "title": "OpenAI's Ann O'Leary: 'We have real work to do' on data centers - Politico",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2pIU292ZDZoeUoxQkVGSm5hdi1ZcWZ3RGd6V0F5bERrYjVLaU1PdnJpcEhIR2lWYVdTT01BNlBKclBGNVpMZV90ZHplU1hXOGZuRkprLWZTbUV5ci1VSE1GSU9rYVV5ZjhockFFX3BOcGQxTldJdlFvM1ZxcDRnbFJKT282U1pXWG51VDJXS1VBT3UtdGZHQ0dtY09lUi0weWZHVmJGVHlldnJz?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T22:20:22+00:00",
-      "summary": "OpenAI's Ann O'Leary: 'We have real work to do' on data centers  politico.com",
+      "summary": "OpenAI's Ann O'Leary: 'We have real work to do' on data centers  Politico",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,11 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock | Amazon Web Services - Amazon Web Services (AWS)",
+      "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock | Amazon Web Services - aws.amazon.com",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbDhpYTZqLVQtYzNhZFpzWE41ZGEwNUJsNU5jVTI2X0F4SF9DSS1HZzNZMlVJRVJkeVBOMDJjRHZGVmJwQlJBeDNwSU9VaWVJOVNGWUFNTlpWaGp4a2pwWWtmdk9kUW9VUnZtajdNOGU4WF9Oc0dGelVNWTF3VmRfRV9mQlBLTnpUeHJMM3lXbmJZbGI3VzVGSFlXMVA5Um9vMVpsQUNOVG5aVnhWM1RSSDRIdjlNcjdrd0VKbHU0bDJxZ0RlajBKWDJNTHp0dVRFWDhlTHVLT0tHdnFDMEdlc3hlZGlRcFVYZlRqN1RNNjhNRVdJYXBQeXNwcEl3SVZ2RlE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-11T21:38:06+00:00",
-      "summary": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock | Amazon Web Services  Amazon Web Services (AWS)",
+      "summary": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock | Amazon Web Services  aws.amazon.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -135,7 +198,7 @@
       "title": "'Big Short' trader Steve Eisman: Future of hyperscalers hinge on bet OpenAI and Anthropic will succeed - CNBC",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnpZd1FkZ1E5dDN2bUdJcl9lNE41dTVyOE15X0JaUHBNc0d5SzRxTjNGMExadlRjRW1yd2hGSVhKNl9HVkpKZExDYjdkVnNFRVZWOGZYdkppcEtSN0V6aS15b2RqUS1sNVRLVi1Za0hyNDJzdEVhdXJERUJJQWRhdG0zVGkwODRmbjM3Ym5iTS1oU3dOdE43YUlERmx0cnJPa19vQUJ3QS1iN3hBNDdWVENZb3dfbmdZdExHSWhuSC1PdTI3T1VTTW5nRUJkakhDQmZGS1NYZGFqdw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-11T21:22:27+00:00",
+      "publishedAt": "2026-08-11T21:22:28+00:00",
       "summary": "'Big Short' trader Steve Eisman: Future of hyperscalers hinge on bet OpenAI and Anthropic will succeed  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -155,69 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-11T20:59:39+00:00",
       "summary": "OpenAI head of ethics Chloé Bakalar departs after brief tenure  The American Bazaar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches GPT-5.6-Cyber As AI Arms Race Reshapes Vulnerability Research - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcVp2c2dLNGJQRG1pNmpIb2xteUwzUzA4SVcwckNGSlVIRzdadTF3Qmp4NXlIV2M3Sk14QUR5TUwyb2RNbFFPakZxcWlGQ0tMYXJQMkxVdmFFWnpOQng4ZnJmLU1zNG1uNVFCZGtNQ2MtYUFCdkpMOUJuelJELU0yUXZMTW03bGpELVFQRkVoc1Y?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T20:00:05+00:00",
-      "summary": "OpenAI Launches GPT-5.6-Cyber As AI Arms Race Reshapes Vulnerability Research  LinkedIn",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Former OpenAI executive Kevin Weil has sought a valuation of at least $750 million for his new AI science startup - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTHpvM1d0Zk04MXJwdWthcVkwempzQVF2Y2g2WnQ1RlkwXzYydFJHcnFoaWZTWnc0R3hGWWpfYUYxT2JnODRVejJGLWpIX1drajBtMmlqU2xRQmQyZHh4b3E4N3RHdV9hX1pjOHctaEVaTWZEU1FrX3V3RzBTMGE1M1RJcVRUQmYyUG9vLTRZeEEzQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T19:39:42+00:00",
-      "summary": "Former OpenAI executive Kevin Weil has sought a valuation of at least $750 million for his new AI science startup  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "'Stop Stealing Our Future': Students Arrested in Protest of OpenAI's Lobby Office - Common Dreams",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFNzVYRzhnX1dDdjhWQmZuVWFuWUVYRl84SDZBV2FhYUJrZ253RE5hSTNMREg2bW5OT0RCMEZMZFFadTM0TGtFeF9CVUxUX0l1c1N1NF9FZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T19:18:49+00:00",
-      "summary": "'Stop Stealing Our Future': Students Arrested in Protest of OpenAI's Lobby Office  Common Dreams",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT desktop app for Linux - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUNZR2RvNEZJMGJXLUtEbG1xMkFHRV9PRTBTTEEzdlpnY294eFlRT0Y0OGw0VEc1TjF1aUJvUG5scjZxc3Y3QXlKVG1tYlZoTUZlY0xGd1Q0Q05jUEtpQ0Y2djFfVjExaFphcWl5UW1OdG5tbWhEbUViVFVYa0txZzRMOFhKYTg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T19:15:35+00:00",
-      "summary": "OpenAI launches ChatGPT desktop app for Linux  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Top OpenAI Executive Leaves as AI Musical Chairs Continues - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xTXhDMTAxeGNGWDVxdi01ekpYZ21uUGxLQmpXdGg0WE1CZS12ZUptZFd4STJDdkptY2d5Y3hKR195RFJRUGVxR01YRDJCWnFfdlBoSkV3X0dSRllONUxKQUpRYWx5LWkzU3BKRm92UDI1QkM0NF81X3AwRmI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T18:41:00+00:00",
-      "summary": "Top OpenAI Executive Leaves as AI Musical Chairs Continues  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Brad Lightcap, a Top OpenAI Executive, Steps Down - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DUGxJazdMc09lbm9YMHMxMktYU0NYWGtoX0cwSVczNW9udHFsWEZTMWVVUG41WTF3Tnl5czN5TTdaVlozczkwVlNVZjNZR2ZkS3RSY2Z2OC12V1NOcWdzb0tkeUpzcHdOeXc1Y0h0UjFibXRIeld0Y2tHZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T18:39:16+00:00",
-      "summary": "Brad Lightcap, a Top OpenAI Executive, Steps Down  The New York TimesLongtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues  CNBCSenior OpenAI executive Brad Lightcap to lea…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Brings ChatGPT Desktop App To Linux - Phoronix",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZUEtITGlGb0ZLc2pKQXprUm5IMnVuQ1lNX2xyY3RwbG5mTVRwSEhrclJRY2ZXdmdVamJlMW1mU1ZUOFhwWHBOb1lkODhkVFFyMEw0eWVrSkJVYWVxUjdCbmEyTEF1LUZ0OWNB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-11T18:37:00+00:00",
-      "summary": "OpenAI Brings ChatGPT Desktop App To Linux  Phoronix",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
