@@ -1,10 +1,37 @@
 {
-  "generatedAt": "2026-08-13T05:10:13.035460+00:00",
+  "generatedAt": "2026-08-13T06:43:33.793204+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Wealth managers cut fees to win AI’s paper millionaires - AFR",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkdIdjdoOVo2M0xnWXJ4NWZSTUhfazlGZVZQcGZnazFWeTBpSklFaE4xNVZFcUp6RmM3bUhlUHJoSER0SVVfOERfMFV1VVZiQVhwVzNzTVBLUDU5cGlvTE40U0JPbkpPOXlrOE96U3Rndjg0b1dGLWUxb01VU2ZueDQzX2RvNG5rTllaR1pnUUpOTzRVRmcwTW8zRHUzYnZVR2JURS0tU1hIRVVzSVBHYQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T06:04:00+00:00",
+      "summary": "Wealth managers cut fees to win AI’s paper millionaires  AFR",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "297-Day Post-Launch Recall of OpenAI's Atlas Robot: Key Shifts in OpenAI's Product Strategy & Future Development - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15UlMtQTBLekNpNW45b0YzZTBSeGlDdmRjbnk0RWdVQVgtMWVtWVpKdDZxREgtc3Qta2NXM3ctYnBIbU9aM1NOZHd5c2VEVGFJdDU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T05:31:34+00:00",
+      "summary": "297-Day Post-Launch Recall of OpenAI's Atlas Robot: Key Shifts in OpenAI's Product Strategy & Future Development  36 Kr",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Brings ChatGPT and Codex to Linux - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTENJU0I5RHFjRUppZ1hXTE5IRlpKeUtTMmNiTlgwVVVMTzNzaHg5b3haRVFoTkxjTk51RmlZY0QxX2NDOG8wa0NqdDFQV1hLdy01dUQtZUZtMURIZWVEYnZlVHRRNXRzT2pJbDc3amU5YTZJSzNWV2tBV3lHUFpyV0YzejBzckhNWDZmU0Z5Wk8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T03:32:21+00:00",
+      "summary": "OpenAI Brings ChatGPT and Codex to Linux  Thurrott.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Employees Are Cashing Out as the Company Buys $7 Billion in Share - Memeburn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNG5RLTBZNHB4YThBeVk2OGlKNFA4TXAwOFhic2lvM1B3SXU1dTNqcGdhS0k5SGNhV1ByOW1mTWZubmVoQzhjVVpKcjJaX1FUMXE4VlBhazUteWllYkZPTGFFNGJlQ1JHb0ptaTF6TkFoOHhpUW9XMmtVVGVoZHVwTzBYemV6NS10ejc5X19zcVVFRTVZRmkzcQ?oc=5",
@@ -27,7 +54,7 @@
       "title": "Google falsely said Sam Altman was dead — and suggested vandalized public sources could be to blame - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHhxbHhJcGxhS2Z3aUZxYzI0ek1VQTB5SUtrbnFmcXZlbTZHU1AxUE9zNmQtUGFmSTRSajFTc0Y3WDE3UWVxWmFHVGJfQlZsMVpzSXpQTk5pSWYwZFpBck8yMmpJYU9YVDcyVjFTR1F1ZWVUTGxqR2xtWG84ZTdqc21nVmczZTM0OERfWVo3SG1FVUlRR3kxRg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-13T00:58:00+00:00",
+      "publishedAt": "2026-08-13T00:39:35+00:00",
       "summary": "Google falsely said Sam Altman was dead — and suggested vandalized public sources could be to blame  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -38,15 +65,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-13T00:28:31+00:00",
       "summary": "OpenAI ad service can bill customers for up to one day after they pause campaigns  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Brings ChatGPT and Codex to Linux - Thurrott.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTENJU0I5RHFjRUppZ1hXTE5IRlpKeUtTMmNiTlgwVVVMTzNzaHg5b3haRVFoTkxjTk51RmlZY0QxX2NDOG8wa0NqdDFQV1hLdy01dUQtZUZtMURIZWVEYnZlVHRRNXRzT2pJbDc3amU5YTZJSzNWV2tBV3lHUFpyV0YzejBzckhNWDZmU0Z5Wk8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-13T00:22:30+00:00",
-      "summary": "OpenAI Brings ChatGPT and Codex to Linux  Thurrott.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,15 +92,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-12T21:55:08+00:00",
       "summary": "Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development  TechRepublic",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple v OpenAI: A strategic pleading or a procedural misstep? - World IP Review",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemVqNE1NeDJIdlVTUFg0R1c2S3Btb1hmRUdNLU1HSE12d2Vmd3NvMDF4S3M5NFhGNDlNa25KNmFkaE5fem54Y29INTBEVlhTdXg4LTJweldRcDdpR2UwOTJ5MGNKTHV6WnlYVF8zT2c5T1dvR1FIWFg3c2xOSmhZajBkSUlpVlRNd0dzTXJ6d1A2SENJcTRmc2hzc0pQQUtNblFzUUtn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-12T21:23:43+00:00",
-      "summary": "Apple v OpenAI: A strategic pleading or a procedural misstep?  World IP Review",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -119,6 +128,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-12T19:30:00+00:00",
       "summary": "A Top OpenAI Exec Just Jumped Ship to ‘Start Something New.’ He’s Not the First This Year.  entrepreneur.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVl2RDBnUlRLYWwtMGk2Nm12c0kwUWY5Nm9rUV9YbVpKbkhsRGI4Ym5laDVpcnBWU1R5YlJob0hwVGdMalktTEx0ejlYZnhCcmFzcUxLZ19VSGpjSWtsVzBFc0RrcWxrUU44aWtmU2FSUnRPNGlPZFpSM2g3b3lQcGQ4U2dMdks1WjBOUlZlM2F5cDluYU1vMk9OVy0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-12T18:34:57+00:00",
+      "summary": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-12T14:13:00+00:00",
       "summary": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Kevin Weil raising $150M for AI science startup after OpenAI - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xUlI3NmV6UHV5Y09tREZPTFByY1Y5QlBMLWJ5dFJESTVDdnVjVzFReEVNRmk5UlNhM1E0cTU5WEVWOEpOYS1DX2NCOTkzNkk4WFhtc0swWW9fWF9EdHFRa0VNUF8xN0RBSmZJWDdpakxCeVVZaWdnd09n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-12T14:00:51+00:00",
-      "summary": "Kevin Weil raising $150M for AI science startup after OpenAI  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Finds a Crack in Anthropic's Business AI Lead - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTdHQ1BndlBUQ2lIcGVjQTNweWVGQjZ0bTBpVkdrRGpfUUhfaEUwNjFLUmxvU2FrVF9sMmM2MFZEQUcwUXc0LUJ5MTBmdXU0WE02WHd0N0NrNUJmbURHQ0pBOGRGbUYxU21mYmhwdldRNzJ1ZjhFdkhMX1RoeU1pQWpLV0RibWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "summary": "OpenAI Finds a Crack in Anthropic's Business AI Lead  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
