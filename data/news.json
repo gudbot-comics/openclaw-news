@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-08-13T09:21:23.230203+00:00",
+  "generatedAt": "2026-08-13T10:34:21.627520+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "U Mobile taps OpenAI to embed AI across its operations - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWVZaDBkZGk3Z1JPVEttMktoZGRjQzkyV1oybkZUd3UzaXUxa3hCRlFBV19JX1JweTVCekRhMGpGRVlvdWFjTVJwTWc0cTBjdDdsYkRzX0JmZm5PcDFoNHZFUXhSbV9Qb0lFYkJfa3B2WHVlUWVKdXFOdUxLX2hkcy1XS1RZcG8zLVRTQngxR3FkVnZ6R01wRHJHZEwzQQ?oc=5",
+      "title": "Musk and Zuckerberg claw back into AI race with new model momentum - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkdHFCTFNvb0d0RkhFdG5palVLck1JbFlXOTV3d3FLSzdYbnl1YzVfMGJhMW1tS1I1WVhmQUhYN29wdzlxbThRZFRyR1UzeTVJVi14Uk5yWFlPLTdNam5kd2N5Mm9IeG1nNWtkWThJLW1LckZRZlJnYjdn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-13T09:02:49+00:00",
-      "summary": "U Mobile taps OpenAI to embed AI across its operations  Telecompaper",
+      "publishedAt": "2026-08-13T10:04:36+00:00",
+      "summary": "Musk and Zuckerberg claw back into AI race with new model momentum  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "IBM and OpenAI form enterprise AI partnership with GPT-5.6 integration - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeE5lY1BNaEhrazU1aEJEelVhWEV0NkRjelM1SlU3WHEybS1Zc1J5UFg2anlSOEJIUXk0XzdrX2lXT2FxRm03RTFqc3YtRHNsYWVObkpzWFRYRklMZEN2ZXRoZW9EMWJJNTdiVDdqUzhMTFFzY19EdWpCcDhuNVREY1MzZDVlU0lHbkFVb002VUZxV3ZWbVFYbTR2Szk5TlVDNzBIOGkzYU5FS0ZSY1RNd1QtaUlQQ29UTFB3Q1J6dHRHWkFab1hMTw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T10:02:44+00:00",
+      "summary": "IBM and OpenAI form enterprise AI partnership with GPT-5.6 integration  StreetInsider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Axios Wants to Save Local News with AI - Columbia Journalism Review",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGsxU0xyOHJQUTB2eWVRZFg5dVFMNW45WXlIQkRZMHptUG56N09OU0YyYjhzcHg1cklsS3lfaUFZclNPS0NfdHFNT0FkTEVLSzN4ODVDR0YycXdfVm5WNGoxbHo1Mmc4VTFvOU9FcllkY2RCVUFCY0QwT25jZjk2SllMZnYwNlQ0SWNCN0RzWXZzV0tYM3VfNE9iS3VDeTZ5Q3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T10:01:13+00:00",
+      "summary": "Axios Wants to Save Local News with AI  Columbia Journalism Review",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRUdMTUw0N0RqUHZZMGdBVURSYkZTeENQUndLME91cDk4X2g3aXY4REFRdVRJZWprNFAwTDlVWi1wZVJoSnBVT0RoSzNOYk9aN3pTRWtyUERObGRqZFVzNEp5Zkxjd2F3MC1hbDJ3TU4yMEZYZGh1UjNiRUNPV2ZfU2RrM2I1M2NsWG9QeDlrMzFZNHlFWGJCblFBQy1NbC14aWFyZnZrYnNZaFFJQ2ZQVUZEd0JDbFJfR1lBNWdPTGhLZFc4TG1KT21kVUU4VmVHdHgyTzExcUVyZjdlNXRKRHhMTVZxSWtOeXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T10:00:00+00:00",
+      "summary": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations  PR Newswire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdExnOTd0MXRydGJsQ2NjNW5LeXN2MnV1UTN0SG12aDBXYWd2bkYwWlJJMXJuRVhGVzQzczl1cThvZ09HRU10RVFtampvNUsydk5pYUtiaVE0aEliQ2o1Z0hfZDFBeUROeExyc3kxMU82czFNMXpJazdKaFM5dkk1eFdvVE1nT2dFMlhiaU5jeWFGc3k5QWhLeg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T10:00:00+00:00",
+      "summary": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations  Financial Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SpaceX New Grok AI Release Ramps Up Pressure on Anthropic and OpenAI - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZndfNXBLckVYUDVORVU2SDN3cE9sWmxJMldPSklQSGpGT2xmWERYZEJMVDF1ZnAxRllONklYVGNqQVdVb3J5Sm1xZmNReDQtajY0VTd0UDZiXzVPenhCWUIxMGJRU3BTWm9FSDVOcjBEM0l5MlVqZmx1T2thaVFOaFdwd2NJQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T09:42:00+00:00",
+      "summary": "SpaceX New Grok AI Release Ramps Up Pressure on Anthropic and OpenAI  Barron's",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Liability for AI companies could help rein in unsafe AI - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVhXWnhEX290bUlDcjh0UlpyRjR4cE9KT3BhQVZtcXJMNkpRdDdEME5hLWdWVlJ3Ti0zeHBQbkdicjJ6SDlUTGlkYkNVaWdYRjBSSktMTEplZE9pSXpCS0ZJTUVRTXBTYWRkY2pyeUJpX3NRSDNmM0VPMnZDdnFCRmJ2Q1BIUE5k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T09:20:18+00:00",
+      "summary": "Liability for AI companies could help rein in unsafe AI  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -90,7 +144,7 @@
       "title": "Google falsely said Sam Altman was dead — and suggested vandalized public sources could be to blame - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHhxbHhJcGxhS2Z3aUZxYzI0ek1VQTB5SUtrbnFmcXZlbTZHU1AxUE9zNmQtUGFmSTRSajFTc0Y3WDE3UWVxWmFHVGJfQlZsMVpzSXpQTk5pSWYwZFpBck8yMmpJYU9YVDcyVjFTR1F1ZWVUTGxqR2xtWG84ZTdqc21nVmczZTM0OERfWVo3SG1FVUlRR3kxRg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-13T00:39:35+00:00",
+      "publishedAt": "2026-08-13T00:58:00+00:00",
       "summary": "Google falsely said Sam Altman was dead — and suggested vandalized public sources could be to blame  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -132,15 +186,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI, Anthropic Fuel Lightspeed’s $600 Million Secondary Push - benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcS03a0s1VXNfQUUyNzVlSUdoNEN5aTI0MkJmdzBER1lueGRxMk5FSGJjWjAybnpiOVNENjNXaUVpLWNkN1czcWVMTnJPZWxtamx3YkJVVDNZZGlWczgxUGJJMGhaMENXbE8xRUE1YkhvTTBORHdlT3d0SUVtSmc0NmFUc1VKNmhucXRvd2s5MmV5ZVNnLUc4X2FBMEliaE56TnJYbldCRkQyRTB0SUVCOHJIb1ZDQmVuMUhFbTlScDZxdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-12T20:51:30+00:00",
-      "summary": "OpenAI, Anthropic Fuel Lightspeed’s $600 Million Secondary Push  benzinga.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI’s “Head of Ethics” Suddenly Leaves Company Under Mysterious Circumstances - Futurism",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGR2ZVhoc2dEN3hsQ2U1SDJrbXVSazVKQ0RZUmNadjRST1RnYU1tOEN6SlZZdk1tVlQ3YUR2VV9Vc21ZdHJyazBDbFhtVldmVUtmd01WTEMzNlRadDk2S190TWdHajFIRVBRTVlOUzJhYXBPZ0pHNDdxbFczQWdKanNIZ3dDbHg5U1E?oc=5",
       "source": "news.google.com",
@@ -168,56 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNVl2RDBnUlRLYWwtMGk2Nm12c0kwUWY5Nm9rUV9YbVpKbkhsRGI4Ym5laDVpcnBWU1R5YlJob0hwVGdMalktTEx0ejlYZnhCcmFzcUxLZ19VSGpjSWtsVzBFc0RrcWxrUU44aWtmU2FSUnRPNGlPZFpSM2g3b3lQcGQ4U2dMdks1WjBOUlZlM2F5cDluYU1vMk9OVy0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-12T18:34:57+00:00",
-      "summary": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Amazon (AMZN) Is Powering OpenAI’s Cyber Models, So Why Is The Stock So Cheap? - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVkpYVUlXaW5NLUhiRUNQcmRLUTBKUUlKY0RadzdfMlRUWTU4bDM3b0QtNlY0bGthUkFablJDM1p2cE1jc0VoenFRaThjdlFEeXR2Z1ZjdlpZYkJBOFBuN3BQcEtRT3BjUTVIVlBmLXZ3bXdESkZqSHc0eHBCNmtidXFXUVdKeVpyeVE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-12T17:56:57+00:00",
       "summary": "Amazon (AMZN) Is Powering OpenAI’s Cyber Models, So Why Is The Stock So Cheap?  Yahoo Finance UK",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWloUTdtYTlOZTdjeVZ5d2tFd2wxbzJzWlJFR1R5Y3hURjVzQk1zaUE5Z2dOdFNtN0k2V0VOREpFeVFYeFhwMVFXVWxiUzJ1Zm1WbGRETFdZcXNwZll1bDBNN2pGQmZEMENSczhfZU1XcVlGY0o3UVJXWmlnVi0wS3MxNHJ5bE9ZN3VuN0dMX0h2YmhtYldrSVAtOE82RmNlUGNsN2Q0QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-12T17:41:29+00:00",
-      "summary": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw went rogue and attacked a website to perform a user’s task. - hi-Tech.ua",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb3ZZd3MtRHk1Zy1odXUxam1KckpGR3pTVW1XbU5LTG9wWU4zVWx1cktWaUhpV1B6WVpKWW80ODBMUzVVMktwZFd1NXdxYjhzaWRYaG5YVXFEWDAzZUs0cTRUazlGMldNX3NjQ3BnVnA3WjVxaFBCTzFaMGFDQ2ZsNFMxQkxTWGVjWEY1QVRzbFNhd1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-12T16:07:03+00:00",
-      "summary": "OpenClaw went rogue and attacked a website to perform a user’s task.  hi-Tech.ua",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI Allows Some Health & Finance Ads In ChatGPT - searchenginejournal.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVUhUR1VlT3pJQkdaNmRsUDhkaEtGVW1UYUZZTllLYy1ydklYUGFDcHVDYWNtX3kwaHFpQ2g1NHpmcGNwaWk2MTI1N3NVWkk0bE1ZVUpIYzJtVGI3UnNPUjZlcUlvSU5RV3E3WjVCUWY1bDFERmkta3Q0RGVvZVVEVW5mUC1hWWZKTEEtRUU0RVJkUmJoN2d3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-12T15:14:23+00:00",
-      "summary": "OpenAI Allows Some Health & Finance Ads In ChatGPT  searchenginejournal.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia's $70 billion bet on OpenAI, Anthropic, and others could pay off big for shareholders - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZGFBZjRFYm11MUdiT2RFTjB6aEFjR1RtbUM2VVNpekhYM1Y2ZlBsaXF2VXhYM1p0bExGUnpBR0VkdlpBVGZUUzZDam83eTk0M0ZtSDYzMFNXQkF4TEUzZENMQ0lYaFNJVGJNdU5yb2NmRmd2UkVSRWdSbFVuZ1JnRVduNjY0YWNoMWhnaW1keEJHclJZanlkQ3F0TDc0cEVjWVdWdGp0ak9FVEswUFlpLWxaWkFtXzlHdVFhcWF4Mnl6TXNZREtGV0Y1R1hxR2ZpaV9NT0VoV0JZVWFKWDdQdlR3am9wM0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-12T15:00:39+00:00",
-      "summary": "Nvidia's $70 billion bet on OpenAI, Anthropic, and others could pay off big for shareholders  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
