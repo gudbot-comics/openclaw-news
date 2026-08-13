@@ -1,8 +1,225 @@
 {
-  "generatedAt": "2026-08-13T21:07:38.330387+00:00",
+  "generatedAt": "2026-08-13T21:58:55.412814+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
-  "items": []
+  "items": [
+    {
+      "title": "OpenAI, Anthropic Tout New Metric to Better Gauge AI’s Cost - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEczb1FycUlJRHU2cmNucm9xMTJfcUE5UnlTd01fZlJKc3BlaE9sNGMyX3dnWXdma0U5Qjhic2pFM05hQnNkdDY1enFpZzhhTnhXRnNObGtFNWtDNDVtNG84RUx6X192SVlHSjZiU1NzT2p2ZnZwVE5HVUI0MlBqdWJzRXVwWXlERGN4ZGg5WkVGTTZYSG9pVXhheWNnXzJ4OHNQcVZLR1FMTGQ0S2lZd2dR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T21:39:11+00:00",
+      "summary": "OpenAI, Anthropic Tout New Metric to Better Gauge AI’s Cost  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFBTR1VKWUlRMkNjY2g4YUU1M2Ruc0lIQWdEUklmb2x0VmhPbEgweWdweDBwWGNPX0FDZFhHcEtuWW41NnQ2cDRVV0lUX3JtS0FmV3NoTVZuQW5BN2ZSMGViVG9Xd0JJN3pScHA3b0UzSzBFUUVBWDZRV2lVMVpwU1ozUlRrMkNadTNKVTg3SGl2MGduajJnakVLb2hkQWlxSG9xaW1Cc18?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T21:36:04+00:00",
+      "summary": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Influencer Retreat Flop Is a Warning for AI Brands - DesignRush",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUGxoOXVTZHMzSlI3ZnNXOF9aLWhoa2NqUGJkUTk5dUM2dFB0YmRPQkpWRF9sUFZ3UUc0Y21uaHlmMkdHS0xGQUpGVWV5RzNnV0s3aFd3MGlSWGptWHVfMmlla3o2eXI0bDExcHNHM0VkUGVsR2gtUFVPVUNDbFBKeQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T21:16:23+00:00",
+      "summary": "OpenAI's Influencer Retreat Flop Is a Warning for AI Brands  DesignRush",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanpyWG9TUlY1bmUyNnZOR3lBdFBoYlVpYWYwYXdNd0ZaZkxWaEJSaWNSeF9idVI1RVF6YzBrRy10UUVOSnBDcUtZN09qZWpqcVJVTGVFQzFobk9PZlRCNWVOTU5aeThhb1BZbE0zcmgzN0Q2SHhxTF9vdWRWUUxDZHJhdlplS1NCWldmTWRWaFF1NV8tU2pj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T21:15:40+00:00",
+      "summary": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Chief Revenue Officer Denise Dresser Steps Down, Replaced by Dali Rajic - ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzhjMUNUbTB3Nm5nQXdLNUhBNHZTa1dJb3NtOGt0T2dvZHpJNk1uWHVUc08zZU9jNC0yMnVHeFI2d2JIMzZuMWlUTHB3OGppZldMbnhBOVlrdGVrU3BFWkt1elJHbW02Y1pmTi12engwVlBkNWlpSk4zZ0RaQkFhNmVZMU1ZZm56eTZwUExBUGhrR0ZSbDZIeS0tTVRuUC04RzBxS3pwTU93RG8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T21:05:28+00:00",
+      "summary": "OpenAI Chief Revenue Officer Denise Dresser Steps Down, Replaced by Dali Rajic  ADWEEK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Models escape sandbox, hack Hugging Face: Why AI coordination should worry us - Aloha State Daily",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNekNFYzlNVUJGLWtXMGVnZlJHUDZlc2tMX1gySnVVa0pWVzVfRDdCLTJGNEt4VG1tQ3VlYlVZUGUzOUJGY2VhZ3k1MERBVkdRSHJQUDk3YmpWZnhldmRHa1dHQTJjbnprTy1QYy0yVDJzaHFtdnd3c2txQ1BxUHJsZnRBRkRtMnNwbTlvX2NZc1lTV2V1T3RTd21za1ZKUHR6SEdnRkhsTWs5eXJmc0pJVlpQY2FTRHkzdmFIQzNBVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T21:04:00+00:00",
+      "summary": "OpenAI Models escape sandbox, hack Hugging Face: Why AI coordination should worry us  Aloha State Daily",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI revenue chief Denise Dresser departs – latest high-level exit ahead of blockbuster IPO - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd25memJGdXMzVjI2QS1lT0ZsQ3luR0ZQU3FJTXlST1drQTRmdFB5RU5JZ0txOEo4TkI1TUJDWG8zc1NWMGRDdG5KbzZqdDBOeWs2V1UzNUFoWWtkd2NNcU1GXzdEYWxCMXYycVpzQWwwQ0E0QjJEX0U1YVBSSzFFcG9mYy1KYjloUHlNMUt6YkYzYXVDS3NoNXJKNjBoTkFLTHJUdEFn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T20:44:00+00:00",
+      "summary": "OpenAI revenue chief Denise Dresser departs – latest high-level exit ahead of blockbuster IPO  New York Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "IBM, OpenAI strike deal to deploy AI services - CIO Dive",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15YjVad3J1TVJLOXJ3WUhwTFRvX0Z4Y3hOR0dMaUo2NkdoZURpWFV5cUd2R3VONFR2YjlPSG95WXprNFFRVmVPa0MwSnN2S3Rsc2RKaTRsczY3NlpTN0h5ajU5eXpTalpSbDhUNnp5cjVNUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T20:36:14+00:00",
+      "summary": "IBM, OpenAI strike deal to deploy AI services  CIO Dive",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb1p5a2tCRDBUSmRmTFMtTFBYT0dDOWNNTjlORGNndGJjUk95dGNYQ05CS0xCQVJNbS0yOE1GS1N2eUlSMV9RVWtLSUhhUVo3Z2pCQVR0YjV5RUU0OW1ScTFkTV9wTkZ2ZHZZYmp2OFJZSWhVQThzS010UWNqR3Rfa0F1bW5ObFhra191THVHX1hYSU1NWGs4VzhsSEFHS3hkdmdUZVpNUDRjVVMtQ0I4aHhWVGxSUEJCV0gtWg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T20:28:00+00:00",
+      "summary": "Buried in OpenAI's latest research: No correlation between AI use and revenue per employee  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's New Revenue Officer Comes From Alphabet's Wiz 08/14/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUFVNlpaMEtad1JYb25xUU11NjRqVmhWSXU4eFZNeGo3cmxmRUFqbHVyelJKM0phMFVrSHN3Z2p4YVhqTE5kYTIyS1FucTk2OXFxbllrNXNSaTlwcklZN3RSUUJQNm4zSklidWNYdDJ6b0dSci0xX3M5VG12VjQxa2otVUxOMW1lZDVLaFBMSFJUSmZzeU9FRXRpbEc0VzdiT2NjMmlrV1Y1dkU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T20:15:09+00:00",
+      "summary": "OpenAI's New Revenue Officer Comes From Alphabet's Wiz 08/14/2026  MediaPost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Names Dali Rajic Chief Revenue Officer As Business Customer Base Surpasses 2 Million - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXVlcHpSWlRyUExGd2ZFVTl3WU5vZWJYQzhvbGV3Z3VMVFpya0pJLXFZSUNQYzZhdVAwb19kLUtpc1JNMk9vU25sSG95VmdNV3RQaDRDWHBUNW9hNXAyeXNoN0QzZk1Nb25aZ0JYLUVndjFOaElLdTFvWkxxbGd6WDFjRm5kUUY2cFVXSGJiUFZYYXp4ZWRWSjVUSjRyeko2b0Jsa2xjeF9NbXlFeVFPX9IBtgFBVV95cUxQX3o5ZlhqWlJiS1F4RUlqd3NVUzJpOWlrSWs3a2xyeGNWT2xXemt3VkhSQjJjNWFXLW1vT2lWT05PY3otUk1iN0FRdEVmWnYtbmZoTi0zQk5sbUZaQTlSd3hFOWdkSENlTlFHOUxPdkxscEo4Njg1cWRkbkhQeFY1dWxPZUtKam5VU3A0bGJmRWg3VU1Gb0lybHNjMk5qZlExTFVqMmxiWTVfS1U4aHpNMUNseG5Wdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T20:13:10+00:00",
+      "summary": "OpenAI Names Dali Rajic Chief Revenue Officer As Business Customer Base Surpasses 2 Million  Pulse 2.0",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Foundation commits $100M to boost hepatitis C cure rates - MobiHealthNews",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkFrYkx1MUdZY29Zc194MVNsRDJLUS05T282aXI4Wnh1R2VXUmcwS0N0R09WV3RVSDdoNkpKSUg4YW9zNHVYQkUxRkVUeDQyeHBibG9QQWYtZ2l5RG44VTZQOFNKNml2MjJUTEczT2lTYXczb0x0WURWd3RtaUxjb3ZxQ0hpM0FWTExiTk9kaS1GRG16VHJVZUY3NA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T19:56:14+00:00",
+      "summary": "OpenAI Foundation commits $100M to boost hepatitis C cure rates  MobiHealthNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Common Health Coalition receives funding from OpenAI Foundation for new initiative - American Hospital Association",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXN5UDVubVJ2aVdLcml1aW4yNHRnZVh2WHZhRmxFWV9IUXAydFlKQnBGVUZoMWNsamFKV0hTRW0weFdqOXZLQkFJYUpudDA4NThaRmRVREpraW9wVm9RMUZQd1AtQmtydEhISHFwaEhMQU1acDVCR1hOT1piUEM3bWxpUWNRNnBmanQyZlYtUWRJMzFVTTdjYXhsakxKMlFnUHMzVGFmbzRKWHhBSWl5RkF1SktXQUk5bFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T19:50:57+00:00",
+      "summary": "Common Health Coalition receives funding from OpenAI Foundation for new initiative  American Hospital Association",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUnhqSmYxaDIwRURoN192ald3dzFXa2ZNV0g1QVJwclVmd0QzUVpKRGhUVk9Md1J1S25Lc3VFTzVrQnNOdW5pV2RjRTZzM21rVEN0a2tfRFA0UE44VVdjcTFEVGJGdDVxWUVqUWNBOGdCTEdvTEREWmR4OVc0cE5kbm9YeHBycDB0aFB2TFdKaDZFTzlzOGxENldvT0xQT2tRdXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T19:29:44+00:00",
+      "summary": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS0NlejBFSHVGS0Vnc3h2b3NhV2llTnpWc2dNNFZUQ2hkOTIwMTlvM1pZSW83OEprenVTZERCZjQwZFFYVGhVODhEUkpyVHNlN3ZEYWVEZkRZZkdYQVNDRUFSYmpQODNBVTV2TW9pUUd0RjJyenQ4SzFjSUJoTnRrY0xhbGtlMjVBYmtnSHpiNWhoNXAyd3l1bUlDTmdKbUJuSHM2aC1NcVpPNlVrWFNOWE5TVlNQS2plM3M0T1Q2SDBtbjlkV0ZpRENxMEwzZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T19:28:53+00:00",
+      "summary": "'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade  Business Insider Africa",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is losing its second executive this week - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUQzSmUycU5qdnJ6QURNbVV6TlZoWlFwT1FTdDdOS2pZeTQ0Ql9XeFlJN3dtekt3ZlpQVkhEVlljNjEwdE1PWHZmZmxYQ3kxa19yalNxbDRFcFE5amU5YUZ4WnY4eTJwMVBRR2o3ZlpIWWJvQUhYeVZEdWFIMWxFbWNTbTVRbWlPQmIzbFhkUHZvU28tZDdnRlBUS1ZTMkRESXB1TS1lWDEyQmM3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T19:28:39+00:00",
+      "summary": "OpenAI is losing its second executive this week  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSTRCMWtyLVBLbG1KMnBvRnh6SWtxWWhhVDZTSkc4RGNMZ1c2VkozUGtRRGFtblJQMDVINGIwOVBwczA3SGV5aG8zeGFMWEdHTmNiSHF2Q2EwTmVTam5vTTJSRXNWNUJVaHN3X1N2WFdTMlNUaG5ZUjRNaFdqeDE3VFROM013RUJETUNaTTA2X2tXOWZELVBzNkhJZTZ1SzF6TFRNeXoyUFRqTG83TTlqQ0RDekt2a3F3eHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T19:22:40+00:00",
+      "summary": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Revenue Chief to Leave, Marking Latest Exec Departure at AI Lab - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2pqOGNyVi1ORDFDODQtUmJQNzJ4MDdQWXdzakY5VnplQ3pocVYtSFRuQTlLeUgtMXdxbHNpUERhVkhhdG14RHVRdkJ4WkpraFRQZVZnTmYyVE5RbjFoVHNrX0pjdVU1bTZTVllac3VZcnlHMk5vREZZWURqQld4QVpQUlpzM0VfTWtfUHVsVUxSbFpmdEV1b2hnQ3hFcVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T19:22:40+00:00",
+      "summary": "OpenAI Revenue Chief to Leave, Marking Latest Exec Departure at AI Lab  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUs0MGRiMjY0Z2YzbGlPQmJweVlRWjNZRlROT2lRd1NWbHgwOG9HMFhGdkJZTnlqbkJMUjVabm82bno0SmFfYUgySmZ1RkxDTTlMT3NKanRpV3JoME1YM0FDbVR5NndGOFlGRU1ueTdlTXVsd2xiWVVjWDYyNjAxWlc1dTZWSU1KOVB4eWpIZTJFcVU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T19:19:49+00:00",
+      "summary": "IBM partners with OpenAI to bolster enterprise AI push  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Replaces Chief Revenue Officer as Battle With Anthropic Heats Up - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUdmOTZhcndtRUNOYXBTNVB1alpKa3JtcXRiWTVPMFFNT0Y1MEhTeEVHTGl1Nlg2UjZ0YlpwellXTkViZlV4UnYwbnVqek1pV2dsM2s3d0xicEhRdFdTVXJrc1ZUeHNVeWJmR1lDWV9YNzBVWEdCc0dHX2pSNWhwU1VvRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T19:17:00+00:00",
+      "summary": "OpenAI Replaces Chief Revenue Officer as Battle With Anthropic Heats Up  Barron's",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOamxRcFZEcFNVZ0JCLW5TV2xVOVFZdFo2eF8tRS1RRDFRWU5LcUszS1VaQUJUZmUyQ3lXSHhoMTgxYXRRNTFlWDUxVTl5Sk1MOU8wZ3VpcHkzZkxFemRxVF92Q3hkZm5lZDc4UWxiVklGSUpHQm1WUjB1b1IxZmlmYTRyNVJXUnVDeDNnbHVuQjTSAZgBQVVfeXFMUDk0elRfbTZOVzJ3LWNSZlo4TTgtSXhxYnhWY0VjUWtWMzlBVFFsbm9RZ3dZLWJjSFczUUtwOGdTTU9wdUpMQmhiY0Ztb2lubUFZeGFOazRFMFNjQmlqNllNdFUxdG5YUzBWRW5DallkVE4yaF93bE9MUkJkNTRQVEJISm1ZemlpOGJHZjNtbW5WbmVJcWhLcFo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T19:11:03+00:00",
+      "summary": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only  Decrypt",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Intelligent Agent Named an OpenAI Select Partner - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTTFXSHkxejZLd1NwVXM2YUMwY2ZMdHJkX1dUUTFud083RzlNblRXYjNHdUd3Y1lkTTQ1am53QUliMFBNaWctcElQY1VEZkZvdVVaRHBzcmdCNlMycWw5Z0hwb09XM19helNOWlBVREFPYjFKQ1NDVXUzeENyVkdtU2dKQk84bGZhQ2lkUHl1MXpjYmM3YkhmcW1waVVyMUtnb2ww?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T18:45:00+00:00",
+      "summary": "Intelligent Agent Named an OpenAI Select Partner  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft-Backed OpenAI Names Dali Rajic as Chief Revenue Officer - moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGxHWmJESlNDWFFOX2xsRGFWSUVUWTlRWVZOazl5eG1xS2FkWmMwanlrUFBKdUFoOWs5MllwQ2RMNU4wM1lFMk1wRUhpNExXVTI0YUxsd0prM01LdGtfbVJ5WHRHQlRaOVFJQXRYMDFqRm5HNjB2T0RkNXRPS3p5QmFkTWlCdTJIV291V2ZIbjc5UTlnMmJHSV9yNF85Mmx5djQyT3FRRTZqcm8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T18:43:22+00:00",
+      "summary": "Microsoft-Backed OpenAI Names Dali Rajic as Chief Revenue Officer  moomoo.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cerebras says it's powering new ultrafast tier for OpenAI GPT-5.6 Sol (CBRS:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY3RRLWZPT09qcTBiUEdKRkJKWGRGSE91Z2NBeUR6N21wdEU0dkszdU1ZRW95aG9EN2FiZ1ZCYzRVaG9KdVpDYTRSRUYtWk5JMWRHZUowSXF5aENCUjVZY1p4UndzMkp2ckstQkNPQ0M0SnZoQkNIQ3pVZktCU1BNTHo5b19GWHBVeUZpMDY2dUFpYmRoMkotZGRUUV9LRktiSnFaRWpCM0w?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T18:26:54+00:00",
+      "summary": "Cerebras says it's powering new ultrafast tier for OpenAI GPT-5.6 Sol (CBRS:NASDAQ)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    }
+  ]
 }
