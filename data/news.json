@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-08-13T17:38:15.102512+00:00",
+  "generatedAt": "2026-08-13T18:34:32.932380+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Musk's Grok 4.6 Jumps to AI Frontier, Matches OpenAI at a Fraction of the Price - benzinga.com",
+      "title": "Cerebras says it's powering new ultrafast tier for OpenAI GPT-5.6 Sol (CBRS:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY3RRLWZPT09qcTBiUEdKRkJKWGRGSE91Z2NBeUR6N21wdEU0dkszdU1ZRW95aG9EN2FiZ1ZCYzRVaG9KdVpDYTRSRUYtWk5JMWRHZUowSXF5aENCUjVZY1p4UndzMkp2ckstQkNPQ0M0SnZoQkNIQ3pVZktCU1BNTHo5b19GWHBVeUZpMDY2dUFpYmRoMkotZGRUUV9LRktiSnFaRWpCM0w?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T18:26:54+00:00",
+      "summary": "Cerebras says it's powering new ultrafast tier for OpenAI GPT-5.6 Sol (CBRS:NASDAQ)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI revenue chief quits after less than a year - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFNlZlAyVzRTRVNqeXd3enhxWFgtQ2VtenpNU3FtTjZwUC1sNmdmdTh6TUtMWU10RjlHNEpKcGFPbkJ4QWpiU1E2MWJFZUNyY2RzZXJzbFZOU3RrWUpqbkhiR0cxVnEzWlIwczE3cWJldnU2alFoT1pxb1F4WUlTdG9lZ3ZSM1E2NDdZNEt4LVRfejMwSHdlNDZqdmg2X2VSMkRFeWJ3bVJodw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T17:59:47+00:00",
+      "summary": "OpenAI revenue chief quits after less than a year  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What's Going On With IBM Stock Thursday? - IBM (NYSE:IBM) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWxjYkhWRTluWVZ3V2tjRkZIeGltV09aSU9EVUVsZVI5S1E1Vm45TmduTFFlVGd6ZzV2cEFDamxuVC1valJlcVgtT3E1TEFZVzZ1UkdQQ1ZnbWwwaWU3MW5UT0tOYXlxamEzb3VyckZ3Skt6ampMNVU1RjhDbXYxV3l2LUFfOEhobFY4OXFubmxSXzVXZTNMR0o5SF80Q2s2RG5pQURZSXRkNDE0c3VmS25GWHZpankx?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T17:55:57+00:00",
+      "summary": "What's Going On With IBM Stock Thursday? - IBM (NYSE:IBM)  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI shake-up continues with second major departure of the week - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3lTUS1VQ0c3bnl2UEp6NjJodHBVYVBvZFMyUWVSdUpRbVhMRmFzdHhFa0JpWDE3RG00SWFXcVpMbWs2OXNmaV9BU2ZLQVVrdG8tTl9hRXg4SlZNOE8tQVB1aTlwQ1JHdVp0emV3RW1mOVZUak54ckJFZzRKRmpOdUJnNV8xZ2hFMl9PN3k5OG12bmJWckRlMg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T17:50:51+00:00",
+      "summary": "OpenAI shake-up continues with second major departure of the week  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI recruits Wiz's COO to lead its next phase of growth - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KNDRaRlJjTVFsVTVwbmhJUXRkTHZwYjRYSjdjRGtNTjZ6LUdKeXNweHY5Ukt0akVuVXlNVjZIbE5oMFNCYnlNMlJjQThESW1OZ3VETkpEb05HaHdOaWNqNEwwV2FFWnY4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T17:49:00+00:00",
+      "summary": "OpenAI recruits Wiz's COO to lead its next phase of growth  calcalistech.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI accidentally makes attack bots - FlowingData",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ad3hTSGQtZWJJbVhyRHlkQjcwVDFmb01kYWRFMThkM0tFWmJWcGo4VXBGR2JoZVktejdEenR1VGZIZHU2bFFyZHRUdXc4Z0dkbGhacWQwV2ZuVVMzSENFT3NJUWhWODlGY2ZMbnVkcjAxUUVHN1FvZWZNSE5nUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T17:46:45+00:00",
+      "summary": "OpenAI accidentally makes attack bots  FlowingData",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk's Grok 4.6 Jumps to AI Frontier, Matches OpenAI at a Fraction of the Price - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZkdjVXlLQTUxSlVWa1VXUHZvUG45UHRkU3laeVY5WFBYLUhXYkZ4Ujc3bUhwd0Z0LWlXcTdCLVZWZTU1TFA2WjhPZDVyYVlxQ2Nhb0NtWVBZdmJQamp3b2dvb2FrVWhrYjA1VnF5ay1vLVpDaENYcWwxYU54UGFKYndMUGh5ZDgyOFk1NWp4RXFFenRUcGs5Z1ZlUTBVVEwyT1phZURB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-13T17:23:22+00:00",
-      "summary": "Musk's Grok 4.6 Jumps to AI Frontier, Matches OpenAI at a Fraction of the Price  benzinga.com",
+      "summary": "Musk's Grok 4.6 Jumps to AI Frontier, Matches OpenAI at a Fraction of the Price  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,20 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI replaces revenue lead as Greg Brockman builds his presence - Axios",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNell4Y1RVeF84QkQxenJ0WUxvZnlJSmxNSGQzaEJFOXB0LXN1bGRGRnVQNUNjMkNfQWJ4NmFzOHdKWGo0V1pzX1B0NFBtVmsyN3JnT3NKUEJJdllKTHk4UC1JVV9CTmpOYzk5a1p0alRUNXZpemRveDhwb2xfbU42RWhGNkV4VklTSnRMeg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-13T17:12:35+00:00",
-      "summary": "OpenAI replaces revenue lead as Greg Brockman builds his presence  AxiosOpenAI revenue chief Denise Dresser leaving, second major executive departure in days  CNBCOpenAI Chief Revenue Officer to De…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Cerebras Powers OpenAI’s GPT-5.6 Sol Ultrafast Mode at Up to 750 Tokens Per Second - Quiver Quantitative",
+      "title": "Cerebras Powers OpenAI’s GPT-5.6 Sol Ultrafast Mode at Up to 750 Tokens Per Second - quiverquant.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeEhvaEZWVXVLM3diRjl3cnlJeVdWOVMzd3p6aDc2OG51ampBVmZJUTFaTjVFTjNOMEJTbUx5MGl4S3BPNkxpTlgtOEtLTU1jR2U0c3JMcHhIbFN5eUd5ei1FZ3RZSmtqY1NvdkF3MjU4QWdiLWp4ZVNKMTJGY3psTEtmQk5YY2o3Vl91RzR5dEhhUVpNV0E0cVNDeWlfWEJ4VlZ1cFZRRlJpb0NIOUhIcUVyNTZrcnZCcGZhY1NZRTA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-13T17:10:00+00:00",
-      "summary": "Cerebras Powers OpenAI’s GPT-5.6 Sol Ultrafast Mode at Up to 750 Tokens Per Second  Quiver Quantitative",
+      "summary": "Cerebras Powers OpenAI’s GPT-5.6 Sol Ultrafast Mode at Up to 750 Tokens Per Second  quiverquant.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,6 +141,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI replaces revenue lead as Greg Brockman builds his presence - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNell4Y1RVeF84QkQxenJ0WUxvZnlJSmxNSGQzaEJFOXB0LXN1bGRGRnVQNUNjMkNfQWJ4NmFzOHdKWGo0V1pzX1B0NFBtVmsyN3JnT3NKUEJJdllKTHk4UC1JVV9CTmpOYzk5a1p0alRUNXZpemRveDhwb2xfbU42RWhGNkV4VklTSnRMeg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T16:57:47+00:00",
+      "summary": "OpenAI replaces revenue lead as Greg Brockman builds his presence  AxiosOpenAI revenue chief Denise Dresser leaving, second major executive departure in days  CNBCOpenAI Chief Revenue Officer to De…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI's Chief Revenue Officer Denise Dresser e... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE44RjZDQlFVWFhYUnVRWXdrZmx2dU1fdDZuVV8zVlFwY0todVNOLUhHbURtQW1pVEZKYlRwQXpkV2swSGNrVnY4bnAwM2VleTB5ZXJ0ZHJYaDVWLUQybnk4eUdKTUJIcWVHaks1NExrYVJ0NjVDU1g1NjEyYVRnMVJrRzNPdldJ?oc=5",
       "source": "news.google.com",
@@ -123,15 +177,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTVZFR1JqNmstUHdFLWxJemJjeEY2X2FCY1R5bnliV3o0Z1hSQzJPc2xZWEtTNmk5d0xCOS1mblllLXdwQTVSanAxUGptLV9WV0JNRnZWZG53d2p6M0daZXVVWGNBVGUtcjhIUWVHb2VUa1FRLXpndFJsNW4teUhtbjRrVjlpTFU2cS15TnZoeXQxN2xWWDRqNkZzNjVWaXo2bzRjZVVyMG9fQkMzQlFZOW0xVlpINkJMdmJDenp4MjZhS0lWUEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-13T16:25:42+00:00",
-      "summary": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "“It Absolutely Guts Me”: Patriotic Developers Forced To Chinese AI To Protect Bitcoin - Bitcoin Magazine",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdlc2SnJxTFlyR0FUZE5LVVNuMFFUTVNwTFpIamNIcEYyb3VpOWhKUHRIcGtRTk5FU1BrQmtmSUd4R1NyckpDaFRENDVXT3ZMSEEyWXVOZ243MjNrNTM1VEhkTDN4WG5qNEdUd1dYakZ2SWVmck5QdlhXNkhmNzJmSHNERDFQZV9wNGFHNFcxUm4zZDRDTWZfMWdlaFhkbm9oSkI0Z282bWtER1o1M3lEZVZCdkxoaHJNdnlhN1QwUmVMN0Zxbk5vRA?oc=5",
       "source": "news.google.com",
@@ -150,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTVZFR1JqNmstUHdFLWxJemJjeEY2X2FCY1R5bnliV3o0Z1hSQzJPc2xZWEtTNmk5d0xCOS1mblllLXdwQTVSanAxUGptLV9WV0JNRnZWZG53d2p6M0daZXVVWGNBVGUtcjhIUWVHb2VUa1FRLXpndFJsNW4teUhtbjRrVjlpTFU2cS15TnZoeXQxN2xWWDRqNkZzNjVWaXo2bzRjZVVyMG9fQkMzQlFZOW0xVlpINkJMdmJDenp4MjZhS0lWUEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-13T16:01:18+00:00",
+      "summary": "OpenAI revenue chief Denise Dresser leaving, second major executive departure in days  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Hires New Chief Revenue Officer After Less Than a Year - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVEJmT0pZQ2VMODVNNVdTQ1g4VjJUdVlMV2xLUFl4Um9oNjg4STQwSjJRaWhYT1FiUzJDd3pON3VJVGNPVm5OTWNHd0gtY2pjWUFJVkg2MmNIdzNHcnVpMDNFNUtRV04tUVFPeTZPeEVfUXpTeWdPV0gyYVg3bkFOWWM1SE5DbEduS1V5TlZCeVhMMER3ckJYektBbHFPczgycXd6MEI0emlpbkJsSlljWkRn?oc=5",
       "source": "news.google.com",
@@ -164,60 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-13T15:55:22+00:00",
       "summary": "OpenAI Hires New Chief Revenue Officer After Less Than a Year  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Foundation pledges $100 million for medical care - Chronicle of Philanthropy",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLXlURGZBdTdDeVA4V1lXSTFrR3VqQk5vcUQ3ZWFHLU1PTEJWSHA3dk5ZdnR2Y05WLWx5V19BQmU0QkllaWxQTXZqcy1tVEJBRTdmeDAxWDA3UkVqMEtNTGZNbVB1cUtyc2NQVDZUZ2p3alFONUJDRDFrS0NVMFprcVRYMkEyZkR6QWc4bkJUN0JZRjA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-13T15:43:47+00:00",
-      "summary": "OpenAI Foundation pledges $100 million for medical care  Chronicle of Philanthropy",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "IBM partners with OpenAI to secure enterprise AI deployment - Fierce Network",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2huQjgwV0p4OTZ2czJjRXhSM3ZCbjJGZHl0a1lpSEh4b1o2MUtBOTlNbUF0NVdwbG5qM3lWQ3RuejJQVzFib09MT0JNM21TZVllTExlV3QxR2k1SEdnNXBJUWlyR3NHaVFUOTBEMXhlRmxBTENIWDY0RTJLR3pfYUEtSm04RGI5Y3lRQ1ZJTDFueloyZUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-13T15:36:24+00:00",
-      "summary": "IBM partners with OpenAI to secure enterprise AI deployment  Fierce Network",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Transformworks Named an OpenAI Select Partner - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHRUT3hDeUJFYmxCQmJCWHdqTU03aWQ1eUJ5RS1qeUFSOVJ1c0Q5Z2daUmgwM0U2VUFXZ0dIRFhhbHdmRWZWTk16b2RsN0R1WE5lSFVsc1JIck5URWswNnVhdWdSalpfU1N4NGRVN3hia0hzSGxrY2dNNDFYTk9jSVJ6Nlg5VTFPQmpEVG5CNjNWQU93V2xETXIwZ21SeklvNk13?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-13T15:18:00+00:00",
-      "summary": "Transformworks Named an OpenAI Select Partner  PR Newswire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "XAI Grok 4.6 is Third Place But Close to OpenAI and Anthropic - NextBigFuture.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajNicU53NENNSGZhN3ZIZnFqbXlpd0xEb3dOWVVDTUN4WXh5OTJhTlJYbVlvT3NFMjVFc1gwOWY1Y3haRjJwSW9iWm1Pai1mdExYUVRTZjh1U2dFbmxaNl8yM1c3UldDNVZSeEpVbHBjSVRYOEYyS3lvRE41LUI2WGk3Yjc1cWpoeG1lcDE4bDh6Z1NmUVpjTGRjdEcwRzZjU25iLTV0NA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-13T15:05:20+00:00",
-      "summary": "XAI Grok 4.6 is Third Place But Close to OpenAI and Anthropic  NextBigFuture.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "zeb Named an OpenAI Select Partner - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTTFSbXF4ZUdyR3RnQ1gyWWNOZ21YWDdWZHpPelVMZEJyWnRLdEhyOXdZcTdzUURoUnlXSl9TbGZGR09nNzduVnJKTVlUNEdLNUN3ckxGSHB4aEkwdEJDWldkbUw2RkpkMFo3TFlvSThRQm4zZ05IN0xXZjM4YVZHWFNTNkd0OWRNMWdpZnNzWEFKTnZtYWNxbmtaRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-13T15:05:00+00:00",
-      "summary": "zeb Named an OpenAI Select Partner  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "zeb Named an OpenAI Select Partner - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEhNR3dKVjRVci1wRlpTTFBVeXgxUWdCRWlmdzhxX2NWNmxyZ254NFdTLWRLNzJjQVZpRGUxTlpwcGdFc2FSRDc2ZTR2YkNaVTVuMDdzMUExTmMybDB4YndxRjlSYkY4UmZrOGRQS2Nwc0F2S2lMYWxjaE9LcmthR1Z1MS1FdUVROTF3cWU4X2doQ1lr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-13T15:05:00+00:00",
-      "summary": "zeb Named an OpenAI Select Partner  PR Newswire",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
