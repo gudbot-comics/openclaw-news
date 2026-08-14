@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T19:28:01.557508+00:00",
+  "generatedAt": "2026-08-14T20:02:57.106180+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -29,6 +29,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-14T18:52:01+00:00",
       "summary": "IBM Stock Drops Despite Major OpenAI Partnership  Yahoo Finance UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "IBM Stock Drops Despite Major OpenAI Partnership - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN01PWlR0OE5LZnlmODBJUE9nUm56RHBSZTNYWnpWR3NWX1piSHZBQlVjek9xUzR3TnVqTEQ4RUxfVXlPd1NVallQTzFHLVNWdENkU1JCSllXc3N0Z2dHelFPMEw5MUJsV3B6MzcwRXBGV25pSV9vYnM2ZlRBZFJ4ejRteWZieTZCTGZ3Q0Z6c2ZDYVJRRHcwaWxZMUg3Qnp2OVZmbU9LTmpnYUxB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-14T18:52:01+00:00",
+      "summary": "IBM Stock Drops Despite Major OpenAI Partnership  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-14T13:22:02+00:00",
       "summary": "OpenAI loses its AI ethics lead  Computerworld",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "‘I’m not the one that should be in jail’: OpenAI protester, 69, turns herself in - The San Francisco Standard",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWC1tTWU4VE9rTVhPdk9TeWg1XzFUZjc2ZXREUXNIVFM2WmtZT2hxMXozanBTNUVneFM3a3RZcnlxY012ampMX2NWYjFDU0RvZzhxT0d3dnVGeHhac3U1MWdnODB5M2R5RWJXYmtZRnRCWVBMRm00NWU1RnBkNkpqZVhQa29YNVNlbWs0c2Z3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-14T13:00:00+00:00",
-      "summary": "‘I’m not the one that should be in jail’: OpenAI protester, 69, turns herself in  The San Francisco Standard",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
