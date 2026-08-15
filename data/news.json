@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T14:34:09.334361+00:00",
+  "generatedAt": "2026-08-15T14:54:19.592184+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -24,11 +24,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia OpenAI backstop halved as 13F reveals its stakes - thenextweb.com",
+      "title": "Nvidia OpenAI backstop halved as 13F reveals its stakes - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UUGZtWjBUb2xIVVI3ZnVCeVlSNVdoZndZRkxQZjNpaG9waDRDTEk2cGdocnc2T3ZpLWF0Y1EyZjlSeDNsam1YSWpKWEJhZy1zVVd5eHExTDVFa2U1bTM4Vmd0amNfMUdWVzlUM3JkTzZMT00xdHBVMktQWkotYmM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-15T13:39:11+00:00",
-      "summary": "Nvidia OpenAI backstop halved as 13F reveals its stakes  thenextweb.com",
+      "summary": "Nvidia OpenAI backstop halved as 13F reveals its stakes  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman Says 4 Years Is Probably Too Long for College - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVZpSUJPemo5Yl9uZE9jU21WY1hTY0tzdlM5U0hVbTVGdy1WRTEzRW5teUR3UnFqSUpKc3IxVU42QWZBOW9teF9NYVp4TWl0MERmZVhUYS1RM3o1U204dGMwZk1xd0ZTVDVOYW5aQmJ4dS0zME1iMXY2TEpiWThGeXMwOU80NTN6?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-15T13:31:52+00:00",
+      "summary": "Sam Altman Says 4 Years Is Probably Too Long for College  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,15 +105,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Sam Altman Says 4 Years Is Probably Too Long for College - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVZpSUJPemo5Yl9uZE9jU21WY1hTY0tzdlM5U0hVbTVGdy1WRTEzRW5teUR3UnFqSUpKc3IxVU42QWZBOW9teF9NYVp4TWl0MERmZVhUYS1RM3o1U204dGMwZk1xd0ZTVDVOYW5aQmJ4dS0zME1iMXY2TEpiWThGeXMwOU80NTN6?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-15T08:46:00+00:00",
-      "summary": "Sam Altman Says 4 Years Is Probably Too Long for College  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Seeds | OpenAI Expert Launches Startup, Raises Hundreds of Millions - Gasgoo",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMHRrQzhYeEdBM2RuOWpBLU95Vjl4ZHBzTm95dHd5V2VaT1FHOTBVblFldHVBcl9rc3JseUZKeTNJWlFMbzYzQTZ0TkxPVFJvZGZKdkQwVUNDTWFBU0VldEVXQi1WV0ZHZ3NlaUMtYkVRdTVsQzdCdVhxT1hJMDR4SlN5ZlpMUjJTck45cUcxYjB6Uk1nTEFmZmw2aWtQOE1LaXpXQUJfRmtINExWellrMEZ6dlJ6UEc3TC1TdjlzejBWbU13?oc=5",
       "source": "news.google.com",
@@ -141,11 +141,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-14T23:44:00+00:00",
-      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports  Reuters",
+      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports  reuters.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -204,11 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI - Detroit Free Press",
+      "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI - freep.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekpYMnJzNV8tUXhUWVAxRThSYkhXaFBnT0xxMFBwLTlwZTVLZzZENGxoN0s3b25HSmhLcWkwNWZMQUYxcEZqU1E1ajhvQUtWWTVnOUZtTldTbTJTcjk3di1Bd0FDQURaRG12X1dzOGtNRnFKbWQzR0E2MEdkU1pqOG1IU01JQkZocDl5NGtrVV9hZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-14T21:40:00+00:00",
-      "summary": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI  Detroit Free Press",
+      "summary": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI  freep.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
