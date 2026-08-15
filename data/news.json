@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T06:54:01.291944+00:00",
+  "generatedAt": "2026-08-15T07:25:34.435159+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -20,6 +20,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-15T06:27:03+00:00",
       "summary": "Seeds | OpenAI Expert Launches Startup, Raises Hundreds of Millions  Gasgoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "U.S. Man Arrested After OpenAI Reports ChatGPT Murder Plan - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2hCdjNiNWtJWkFNM0s0UmVZLWFKejZjdzNLaXAtVDJZdkkwaXpVSjN5SVNGY0J3WVlKc2YxOTJZSGxRbGV0QlVaTDRlNVNjS3VQaEhEdGR1Nm5aaTh4ZEhxdWd1VzFuNDg4WEJYVk1PUGVManAzN19vQ0Q0NFRiUUFmYXl6QVRL?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-15T05:34:59+00:00",
+      "summary": "U.S. Man Arrested After OpenAI Reports ChatGPT Murder Plan  조선일보",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-14T19:00:31+00:00",
       "summary": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84MTV1bUJwTWVaN2NLQndhOGQwT1I5ZUU0aVhYOTJtRmpydWt4N2RTRVlGVmtnWVB1VmNaNDVXZmNTcGRLRlhTbG95UGJlWU9MYkZZaWNSMkI4a21xR0lGV3htYmpmTHI3ZjJScU5ZWDlWX2h2bk1mM2dOQdIBgwFBVV95cUxQQ2NWcG9YSHdpOWNzbVZhV1MtRkFEYXY0Nk1jRmdybjkzQWFtcUxuU1lScHJJdEgwOFZIZEVXWVUtMUpBanBBbVdEUmVuYkZDT1JhWUthNXpub2tEZGowNGNEamlHaGJxbXFWNktFSHBKOW9fVGJpSW5WaFVuTW9mQWVpZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-14T18:31:03+00:00",
-      "summary": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack  Decrypt",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
