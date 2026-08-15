@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T07:25:34.435159+00:00",
+  "generatedAt": "2026-08-15T07:51:08.390183+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -42,11 +42,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
+      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-15T04:00:31+00:00",
-      "summary": "OpenAI upheaval mounts as Sam Altman readies IPO push  Financial Times",
+      "summary": "OpenAI upheaval mounts as Sam Altman readies IPO push  ft.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -103,15 +103,6 @@
       "summary": "8 best OpenClaw hosting providers in 2026  Hostinger",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Nvidia Close to Deal to Guarantee About $100 Billion in Credit for OpenAI - The Information",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONVdEZDIteGxJU2tFTHZYbDNfRU9TaUhTMjFhQmtlR0c5RmstWlVKVDZUVWs5UXhMTEtONzNGQ2xlUmdub0lxOGZWUDBkU1owOHR4UEV4Q1NEWG11NV9RY1lZV2xmQVRjMnhYZnB2akNvNFkyUDZXUlhWaEM1UVFWNFFBdHUxQ3FpWG04SEN3Vmt2M0wwbU84NTQ2ektiaDZRUDk5Rk9CdEFJaF9zQkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-15T00:01:00+00:00",
-      "summary": "Nvidia Close to Deal to Guarantee About $100 Billion in Credit for OpenAI  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     },
     {
       "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-14T19:00:31+00:00",
       "summary": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84MTV1bUJwTWVaN2NLQndhOGQwT1I5ZUU0aVhYOTJtRmpydWt4N2RTRVlGVmtnWVB1VmNaNDVXZmNTcGRLRlhTbG95UGJlWU9MYkZZaWNSMkI4a21xR0lGV3htYmpmTHI3ZjJScU5ZWDlWX2h2bk1mM2dOQdIBgwFBVV95cUxQQ2NWcG9YSHdpOWNzbVZhV1MtRkFEYXY0Nk1jRmdybjkzQWFtcUxuU1lScHJJdEgwOFZIZEVXWVUtMUpBanBBbVdEUmVuYkZDT1JhWUthNXpub2tEZGowNGNEamlHaGJxbXFWNktFSHBKOW9fVGJpSW5WaFVuTW9mQWVpZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-14T18:31:03+00:00",
+      "summary": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack  Decrypt",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
