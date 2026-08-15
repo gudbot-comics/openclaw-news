@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T16:17:40.345689+00:00",
+  "generatedAt": "2026-08-15T16:44:36.953602+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,15 +11,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-15T15:45:29+00:00",
       "summary": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic revenue surges to over $11.5 billion in second quarter - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVOU3cyY0NpeTY1ZHJia1FPdEpGaEhFX2ZzdnNDY2F3ejN6R1YtbTNSUWEyT1MzaXhiS2VIb1ZQb2JuNXp0UTN1aFZIaGM2R0ZQMEJhNXhTaHV4VjlQTFRWbnl5VS15MTFPcVIxTTZCYXJCNGNlLUQ1QXkyYnVEeG14cjhNUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-15T14:52:00+00:00",
-      "summary": "Anthropic revenue surges to over $11.5 billion in second quarter  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,11 +33,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Influencer Melts Down That People Didn’t Like Her Being a Paid Shill for OpenAI - Futurism",
+      "title": "Influencer Melts Down That People Didn’t Like Her Being a Paid Shill for OpenAI - futurism.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMktyN3lLb29rajU5clh3RDYxYmQ1Skk0ekRRd3VMNVJWVUljRzltRXJNdFZoLUlSRmttLXJlRW1IUHZUQWdiMVJsWGtxMlVDUEdzZVd1OEVzWWNRWTdmQ0NXWFRiQ1ZxTWZjTVpUZnFHdWJaNjRXTDh1VDNGd3kzeExTenhrOERoTkZFMQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-15T14:01:00+00:00",
-      "summary": "Influencer Melts Down That People Didn’t Like Her Being a Paid Shill for OpenAI  Futurism",
+      "summary": "Influencer Melts Down That People Didn’t Like Her Being a Paid Shill for OpenAI  futurism.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -204,20 +195,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Speed Becomes the Product as OpenAI and Google Sell Faster AI - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2R3cGEzZ2IzQ2tJbnZoN0FDRFJtc0ZqUS1NSmNYQnVWaUVGSEp0SGZwMmxBUVE2b2pGektzTmt4am1rMGFSNVhPUDJuWjlYZExiYlhiVU84LVJGQ18xRUtlYmMwcmlYSVlxVl9ncmF0Z0d4YnlkcHN4Z3MwckVLUzlmUEhRSUxoMzR5YVJxNENuZmRlaGFCNXRxSXdpaG1xZHh2TzB6ODJaeENo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-14T21:50:36+00:00",
-      "summary": "Speed Becomes the Product as OpenAI and Google Sell Faster AI  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI’s Chief Revenue Officer Is Leaving After 8 Months. She’s Just the Latest Executive to Head for the Exit - inc.com",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYjBuTk9sOTBfZFpjVGRrLWN4d3ZoTXpEaVl6WVVKQWo2Y1BLUmVudm1JSUlWNmg1LW4xQThhcFNnXzNUMTNaVGxnRS1tQWl6QndQbUJGdFJHYnlETnVfYTM1T2IzTG5CVThqZFZlS1FpQUZuSGlEOFFhalE4d0l5SjF0bG82dF80YVdsdXNHMzBPUG1URk9jNHg3aU1qT2hWeWhDcjlQSjFwdVpLanRtVmRBX0RoNmZnX3BveFRFbHdmTkdrWWhnWDBuRXZBVmFRVzVHWTVjdDhmRGRPQzBLNy13Zw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-14T21:50:04+00:00",
       "summary": "OpenAI’s Chief Revenue Officer Is Leaving After 8 Months. She’s Just the Latest Executive to Head for the Exit  inc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNekpYMnJzNV8tUXhUWVAxRThSYkhXaFBnT0xxMFBwLTlwZTVLZzZENGxoN0s3b25HSmhLcWkwNWZMQUYxcEZqU1E1ajhvQUtWWTVnOUZtTldTbTJTcjk3di1Bd0FDQURaRG12X1dzOGtNRnFKbWQzR0E2MEdkU1pqOG1IU01JQkZocDl5NGtrVV9hZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-14T21:40:00+00:00",
+      "summary": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI  Detroit Free Press",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Appoints Former Wiz Executive Dali Rajic as Chief Revenue Officer - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmxTc19HMTRzSmRJbmhtYW5JT05PQ3dJZTJ1b2N6SmZzeTE4QUJ6UWd2UVNyQ3ZZdUt1SlZNLXRfdk1nVmxWRklQenZTS2pnT0VKcVpxem1QOTlRZWdHbmIxY3lOak40UUdlZl9FNmZidmMtUV85WG95Z2JGeUdmaDg2MV9XZlo1U1lTWlNtdzE1WVQ0Qk9mNHUzVV9BbWU1N0xkUndOc3BCQ3hT?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-14T21:20:36+00:00",
+      "summary": "OpenAI Appoints Former Wiz Executive Dali Rajic as Chief Revenue Officer  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
