@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-15T13:07:49.097737+00:00",
+  "generatedAt": "2026-08-15T13:40:14.473127+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Nvidia OpenAI backstop halved as 13F reveals its stakes - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UUGZtWjBUb2xIVVI3ZnVCeVlSNVdoZndZRkxQZjNpaG9waDRDTEk2cGdocnc2T3ZpLWF0Y1EyZjlSeDNsam1YSWpKWEJhZy1zVVd5eHExTDVFa2U1bTM4Vmd0amNfMUdWVzlUM3JkTzZMT00xdHBVMktQWkotYmM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-15T13:39:11+00:00",
+      "summary": "Nvidia OpenAI backstop halved as 13F reveals its stakes  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI’s $6.5 Billion Bet on Jony Ive Reveals the Skill Technology Can’t Replace - inc.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVZibkwwSTRGeFBuc0J6aHc5bHlhbVM3ZE5TV2hhTzJpOUFINjJDYkNXRGVWc0hGUmxFbG9fcFhjTEhQRC1TdHhkbnNQaHNMY3BxQkREQmRIT0tNemtfNllXMlAtdFpQbzd4MklYdXd5Uk5GOHlZQ0xNYUpvUzhlTEV1STZsaHpUQ3lDNHpzckVTMGdJLVRhMVViOTRiOFJHQ1Q1bU1JR0Y1eHN4QTVVTGxBTWlpVnV1VnRV?oc=5",
@@ -78,20 +87,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Man Arrested for Sharing Murder Plans with ChatGPT, OpenAI Reports - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2hCdjNiNWtJWkFNM0s0UmVZLWFKejZjdzNLaXAtVDJZdkkwaXpVSjN5SVNGY0J3WVlKc2YxOTJZSGxRbGV0QlVaTDRlNVNjS3VQaEhEdGR1Nm5aaTh4ZEhxdWd1VzFuNDg4WEJYVk1PUGVManAzN19vQ0Q0NFRiUUFmYXl6QVRL?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-15T08:28:21+00:00",
-      "summary": "Man Arrested for Sharing Murder Plans with ChatGPT, OpenAI Reports  조선일보",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia Reduces OpenAI Ohio Guarantee More Than 50% Amid Risk Concerns - Yellow.com",
+      "title": "Nvidia Reduces OpenAI Ohio Guarantee More Than 50% Amid Risk Concerns - yellow.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04MHZSdXdKV2hndDlSaGczTGRRVThDeG5fMGVWRWlCZWN3Y2didVVCcWNGMkVFLVVZRU93TVVjWDIwRjI2dU9JN29TUmowQ3N2MFNLNnpvYTZaV0pKQ3BVczE0R2Z3TnpnQ0tPRGg2WGw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-15T08:19:37+00:00",
-      "summary": "Nvidia Reduces OpenAI Ohio Guarantee More Than 50% Amid Risk Concerns  Yellow.com",
+      "summary": "Nvidia Reduces OpenAI Ohio Guarantee More Than 50% Amid Risk Concerns  yellow.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,28 +105,10 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "NVIDIA Halves Financial Guarantee for OpenAI's Ohio Data Center - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0JLZXMtZGY4LWxpY0hPYmRqWEZKRUlYd2QtbHlXZkdKa3djYTBHaHFmNmlYTGk5aDctc0lLSU9WcUlKbm1yUVNFOU9SdGRKMFppWnNFaS1BU1Zzb1UzZVhMNUNIY21kek1iaWRBRmFJOHZWV0tWS1c4RUpRc09UZ1JFTlY0cnJV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-15T06:23:43+00:00",
-      "summary": "NVIDIA Halves Financial Guarantee for OpenAI's Ohio Data Center  조선일보",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia cuts planned OpenAI data center guarantee to below $120 billion - WSJ - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX0F4OVVubTVYb29xaWx3NXl3VzZ3X3hyR2lucTZRMDF6OXdXVU9mREs3UEJwMkZOMG5XR3FyR1FyX0JXMkl4cjhZMENLMUhFbDdkZFNmWWh3Zjd0aVJfdTZ4Vml0U2IyOE9zbi02VTNjanJ5eXh2WWM2TDdpeHFSR0lNbmlORlJvcm1XQzVmeWdwTHQydkRLWlBwLURfNnVJVjRrZFAzOEtZZE9Na0l3djZsYi1oNjRKMlJRQUI2QVM0ZVdW?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-15T04:41:38+00:00",
-      "summary": "Nvidia cuts planned OpenAI data center guarantee to below $120 billion - WSJ  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-15T04:02:14+00:00",
+      "publishedAt": "2026-08-15T04:00:31+00:00",
       "summary": "OpenAI upheaval mounts as Sam Altman readies IPO push  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -168,11 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - wsj.com",
+      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-14T23:29:00+00:00",
-      "summary": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center  wsj.com",
+      "summary": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -195,11 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Speed Becomes the Product as OpenAI and Google Sell Faster AI - pymnts.com",
+      "title": "Speed Becomes the Product as OpenAI and Google Sell Faster AI - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV2R3cGEzZ2IzQ2tJbnZoN0FDRFJtc0ZqUS1NSmNYQnVWaUVGSEp0SGZwMmxBUVE2b2pGektzTmt4am1rMGFSNVhPUDJuWjlYZExiYlhiVU84LVJGQ18xRUtlYmMwcmlYSVlxVl9ncmF0Z0d4YnlkcHN4Z3MwckVLUzlmUEhRSUxoMzR5YVJxNENuZmRlaGFCNXRxSXdpaG1xZHh2TzB6ODJaeENo?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-14T21:50:36+00:00",
-      "summary": "Speed Becomes the Product as OpenAI and Google Sell Faster AI  pymnts.com",
+      "summary": "Speed Becomes the Product as OpenAI and Google Sell Faster AI  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +200,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-14T21:40:00+00:00",
       "summary": "Florida man told ChatGPT he'd murder his ex. OpenAI alerted the FBI  Detroit Free Press",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Appoints Former Wiz Executive Dali Rajic as Chief Revenue Officer - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmxTc19HMTRzSmRJbmhtYW5JT05PQ3dJZTJ1b2N6SmZzeTE4QUJ6UWd2UVNyQ3ZZdUt1SlZNLXRfdk1nVmxWRklQenZTS2pnT0VKcVpxem1QOTlRZWdHbmIxY3lOak40UUdlZl9FNmZidmMtUV85WG95Z2JGeUdmaDg2MV9XZlo1U1lTWlNtdzE1WVQ0Qk9mNHUzVV9BbWU1N0xkUndOc3BCQ3hT?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-14T21:20:36+00:00",
+      "summary": "OpenAI Appoints Former Wiz Executive Dali Rajic as Chief Revenue Officer  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply - Georgia Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHVQaGVybXdEdVdWM09WdnRJZXJpU05fcmt3VnFxNFRIYUotNjFQZDJNTXI5aXR0NG1DSHUzZ0pnY0pST214QXY3TUFrRUt6ZEdEQ0FzTUJXNUkzcXZtNDNuODhfUmxFZ1FibUpsaGVEWlNJZnBOdHAxUDlCSGZvdlFTREx0UmtSb2dZOUllMUFoNWxLREdJSWttSVRkSERjNTVXZThuUE1jdGo1UnNpTUlLU2tfc3RXQ3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-14T20:51:00+00:00",
+      "summary": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply  Georgia Public Broadcasting",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
