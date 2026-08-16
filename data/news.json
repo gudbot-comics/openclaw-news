@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-16T04:08:55.336720+00:00",
+  "generatedAt": "2026-08-16T04:47:55.856492+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Someone built a free tool to scrub AI watermarks from OpenAI, Gemini-generated text and files - Currently.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGhpWUE5dUhNeldENkp0dkhDVXYtckZ0cXo4bjdxbTNxSDNSU3J5eFp2Q0hKXzZ6RXIwRWFQbHdrbVN1dkZwd25DM3NrUkpiMFgwR3loeldXNHBTQS04d1hLcEhtdEdzTnNmMTBmUVJVSnRHWVp6MW5YNS1iNll4ZTRmbENWa1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-16T04:13:00+00:00",
+      "summary": "Someone built a free tool to scrub AI watermarks from OpenAI, Gemini-generated text and files  Currently.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Anthropic Posts First Profit, OpenAI Enterprise Sales Surpass Individuals - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSnNrS1RMbllKNkRsTGR4dWtTVWtiQ2tuSGJKY1F0UWZOdVdSNWJwTnBneS1ORlI3RG96d2Z2emhab1FUSFZLOGVhNlotREYzQ3VDVGk1T0VOUGxSbmw1eG1pelRMbVJGcENrYTN4clhpQ1pXeWlpUnZjM28zMTN3dW9zNEp1YUlt?oc=5",
@@ -105,11 +114,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal - The Information",
+      "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal - theinformation.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkdfbWl5THQ1b0hjNk5zS1EyYU9iUXJQXzR1YVE3Z1dxTU9yN1JlX2wtNXZUV3gyVVBndUlzYXNnZ3A1TzJBcjZ2UklCY3Mza3hoNXcyTGl3c1ZNNVd1aTc1YUlfVDEtVzdfMDNyb296N1hGaXNqSE13YnRYaDhsOHNLM3MwWWRPU3c1blJxMFZfVUlmcWdlbU12MWxaQmxRRWppVnFpZHlCRDhk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-15T19:12:00+00:00",
-      "summary": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal  The Information",
+      "summary": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal  theinformation.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -168,20 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Seeds | OpenAI Expert Launches Startup, Raises Hundreds of Millions - Gasgoo",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMHRrQzhYeEdBM2RuOWpBLU95Vjl4ZHBzTm95dHd5V2VaT1FHOTBVblFldHVBcl9rc3JseUZKeTNJWlFMbzYzQTZ0TkxPVFJvZGZKdkQwVUNDTWFBU0VldEVXQi1WV0ZHZ3NlaUMtYkVRdTVsQzdCdVhxT1hJMDR4SlN5ZlpMUjJTck45cUcxYjB6Uk1nTEFmZmw2aWtQOE1LaXpXQUJfRmtINExWellrMEZ6dlJ6UEc3TC1TdjlzejBWbU13?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-15T06:27:05+00:00",
-      "summary": "Seeds | OpenAI Expert Launches Startup, Raises Hundreds of Millions  Gasgoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
+      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-15T04:02:14+00:00",
-      "summary": "OpenAI upheaval mounts as Sam Altman readies IPO push  Financial Times",
+      "summary": "OpenAI upheaval mounts as Sam Altman readies IPO push  ft.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -195,29 +195,29 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-14T23:44:00+00:00",
-      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDczTGtXVlBJQ3hQdHdzRkdweXgyWEloWUlpYVFaWVBKVl9aMUJsOWRaUjRGQXVUYkJ5LWlTU01fNjVmNV9lX1NuNlMxY0g3NFBsMzFBejdNOHJvbzN1WExlRFlwSHp5M1pRZTVPZi12U3cxaVpmNzVHUm5EZ3MtNXNxNWRCTUhPZGJrcDhpSVM0Mmxxa3N0NWN3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-14T23:43:56+00:00",
-      "summary": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports  Yahoo Finance",
+      "summary": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports  Yahoo FinanceExclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center  WSJNvidia scales back fu…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ?oc=5",
+      "title": "OpenAI Appoints Former Wiz Executive Dali Rajic as Chief Revenue Officer - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmxTc19HMTRzSmRJbmhtYW5JT05PQ3dJZTJ1b2N6SmZzeTE4QUJ6UWd2UVNyQ3ZZdUt1SlZNLXRfdk1nVmxWRklQenZTS2pnT0VKcVpxem1QOTlRZWdHbmIxY3lOak40UUdlZl9FNmZidmMtUV85WG95Z2JGeUdmaDg2MV9XZlo1U1lTWlNtdzE1WVQ0Qk9mNHUzVV9BbWU1N0xkUndOc3BCQ3hT?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-14T23:29:00+00:00",
-      "summary": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center  WSJ",
+      "publishedAt": "2026-08-14T21:20:36+00:00",
+      "summary": "OpenAI Appoints Former Wiz Executive Dali Rajic as Chief Revenue Officer  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply - Georgia Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHVQaGVybXdEdVdWM09WdnRJZXJpU05fcmt3VnFxNFRIYUotNjFQZDJNTXI5aXR0NG1DSHUzZ0pnY0pST214QXY3TUFrRUt6ZEdEQ0FzTUJXNUkzcXZtNDNuODhfUmxFZ1FibUpsaGVEWlNJZnBOdHAxUDlCSGZvdlFTREx0UmtSb2dZOUllMUFoNWxLREdJSWttSVRkSERjNTVXZThuUE1jdGo1UnNpTUlLU2tfc3RXQ3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-14T20:51:00+00:00",
+      "summary": "Georgia Power cedes more time for state regulators to review OpenAI contract for huge power supply  Georgia Public Broadcasting",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
