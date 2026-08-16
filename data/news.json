@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-16T11:15:22.181318+00:00",
+  "generatedAt": "2026-08-16T11:37:02.891151+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Nvidia halves its OpenAI backstop to $120B as Anthropic’s revenue laughs off the bubble chatter - eGamers.io",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS1lxSkd1MnNremMwUDN5UklvV0R0dnlFRVcxbWVZeVBDRUFiQ09jcW12Vjd5WlpWcU93d0VzNnVWU0IwN1ljaWhoVjNiU1hJbzR1ajZGTVlhSnQ3bzlIN1hoQ2E5Y3BVY2sxM0JGOENGZUotZUtKa0kwVFpweXJrLW5YcWhkSkt2RFJtNFMxcGIwbVlvX2NYMlFpb3pER0V5OXF3a0p0aTcwbGFVWS1LbmNoMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-16T11:18:56+00:00",
+      "summary": "Nvidia halves its OpenAI backstop to $120B as Anthropic’s revenue laughs off the bubble chatter  eGamers.io",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Axios Partners With OpenAI to \"Automate\" Local Journalism - Futurism",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44c2Z3Tk9aelFEWGxOcERIWWFSZzE0QjdGNDkwcGVwUHc2UjlBb3lXSUxqcFBGY2MtMG1yVFlySHdDeElEQ2VwU1M2RU5zSjFpdjAtcmctaGdqQnhlRlhoRnpBYnN6S1FGb1JqSDR0dzB4cXRPV3pnWTFRN1NMY0U?oc=5",
@@ -20,15 +29,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-16T08:13:46+00:00",
       "summary": "OpenAI Major Personnel Shakeup Unfolds As Highly Anticipated IPO Looms On The Horizon  36 Kr",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Faces Major Leadership Shakeup Ahead of IPO - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYl9va3lOOFpISmRIOVRWZzFQNUlQVzRXT1h3TnpsNlVvc2J6d0N3d0x0LVZzSmVrRlBUWFk3VE55XzN6YnI2NkhKQndncHVZU1JidEFhS2U5eWlxV08tdENaTm8xd0VXdEdNb2VoRmduUnlMa0RSRTlINzJIU04xWnpTUnRmdUVWa1hYSA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-16T08:13:33+00:00",
-      "summary": "OpenAI Faces Major Leadership Shakeup Ahead of IPO  KuCoin",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,6 +69,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-15T23:33:33+00:00",
+      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI's GPT-5.6-Cyber Found Chrome Flaws and Now Demands a Hardware Key - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0FiUmhTblpJWUxFLUljVXR6UEpOQ2FFb2Frd28zMHo0cThVN0g1bVhZaWZfVkh3bmh1ZGdVSUVFc0xfelNwSnlBYllyaFhyZnJUUWZ3YTdaa2JJSzNjTTVHT0ZUVGpCc2J5Y0JvVEhiS2ZXeTU1MTdkYXp1THpORVYxakRFaVhmaDROTXRua090ZE1OTzF6N2w4Tm9CYkk?oc=5",
       "source": "news.google.com",
@@ -87,11 +96,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Safety testing was an obscure part of building AI. Then models went rogue. - Politico",
+      "title": "Safety testing was an obscure part of building AI. Then models went rogue. - politico.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-15T20:00:00+00:00",
-      "summary": "Safety testing was an obscure part of building AI. Then models went rogue.  Politico",
+      "summary": "Safety testing was an obscure part of building AI. Then models went rogue.  politico.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -119,15 +128,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-15T15:45:29+00:00",
       "summary": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "NVIDIA Stock (NVDA) Opinions on Reduced OpenAI Data Center Guarantee - Quiver Quantitative",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmkySWx4NzBNeGNfTG9FdkxIS0U5STRDOHkxZlRMckcwRWNnTlljeVRiNmxlbGV0WlExVFo0NXh5VUJIM2VkSWhtUUZKNEpfclF4ZzNlcVhpRzY4eXlrRFpjNEJhVnlMNWhpV2s1SmxWcFctRGl2enlTOWhtNzR1Nm4wczJydDY2SmtpdWkyaE1ZRFhwVF9McW1BVVN1OHAzR0VYNTcxYTU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-15T14:06:00+00:00",
-      "summary": "NVIDIA Stock (NVDA) Opinions on Reduced OpenAI Data Center Guarantee  Quiver Quantitative",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,15 +186,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-14T23:44:00+00:00",
-      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDczTGtXVlBJQ3hQdHdzRkdweXgyWEloWUlpYVFaWVBKVl9aMUJsOWRaUjRGQXVUYkJ5LWlTU01fNjVmNV9lX1NuNlMxY0g3NFBsMzFBejdNOHJvbzN1WExlRFlwSHp5M1pRZTVPZi12U3cxaVpmNzVHUm5EZ3MtNXNxNWRCTUhPZGJrcDhpSVM0Mmxxa3N0NWN3?oc=5",
       "source": "news.google.com",
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-14T21:50:04+00:00",
       "summary": "OpenAI’s Chief Revenue Officer Is Leaving After 8 Months. She’s Just the Latest Executive to Head for the Exit  inc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Appoints Former Wiz Executive Dali Rajic as Chief Revenue Officer - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmxTc19HMTRzSmRJbmhtYW5JT05PQ3dJZTJ1b2N6SmZzeTE4QUJ6UWd2UVNyQ3ZZdUt1SlZNLXRfdk1nVmxWRklQenZTS2pnT0VKcVpxem1QOTlRZWdHbmIxY3lOak40UUdlZl9FNmZidmMtUV85WG95Z2JGeUdmaDg2MV9XZlo1U1lTWlNtdzE1WVQ0Qk9mNHUzVV9BbWU1N0xkUndOc3BCQ3hT?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-14T21:20:36+00:00",
+      "summary": "OpenAI Appoints Former Wiz Executive Dali Rajic as Chief Revenue Officer  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
