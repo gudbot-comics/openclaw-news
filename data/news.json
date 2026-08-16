@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:01:23.181046+00:00",
+  "generatedAt": "2026-08-16T14:34:09.932822+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -177,15 +177,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzF1UkEwTVVBRzVjWHM3VnZoU3dyMDVNMkVmZGtoRjVtZnZiLTJnb3hhRGNNMWo5V3UtVm1FZzQzOVBLYWNDS1FXVzlwMmdtZndOcmNTQzhXYlNZblZlMWo3Rk9aTHNLM1dKOGNDTGl5RlpfV2F4SXZ0UzljMDNDN2c1Mjl0M2lkOFV2UWJUTkNCRm96Y3ZkWWxYU0RSenEweTFxck0tdXlVUEFZQUE4NzVvZG96U3k3YWtiMGM5bm0yc0MwMWdSYg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-15T15:45:29+00:00",
-      "summary": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI’s $6.5 Billion Bet on Jony Ive Reveals the Skill Technology Can’t Replace - inc.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVZibkwwSTRGeFBuc0J6aHc5bHlhbVM3ZE5TV2hhTzJpOUFINjJDYkNXRGVWc0hGUmxFbG9fcFhjTEhQRC1TdHhkbnNQaHNMY3BxQkREQmRIT0tNemtfNllXMlAtdFpQbzd4MklYdXd5Uk5GOHlZQ0xNYUpvUzhlTEV1STZsaHpUQ3lDNHpzckVTMGdJLVRhMVViOTRiOFJHQ1Q1bU1JR0Y1eHN4QTVVTGxBTWlpVnV1VnRV?oc=5",
       "source": "news.google.com",
@@ -220,6 +211,15 @@
       "summary": "8 best OpenClaw hosting providers in 2026  Hostinger",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDczTGtXVlBJQ3hQdHdzRkdweXgyWEloWUlpYVFaWVBKVl9aMUJsOWRaUjRGQXVUYkJ5LWlTU01fNjVmNV9lX1NuNlMxY0g3NFBsMzFBejdNOHJvbzN1WExlRFlwSHp5M1pRZTVPZi12U3cxaVpmNzVHUm5EZ3MtNXNxNWRCTUhPZGJrcDhpSVM0Mmxxa3N0NWN3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-14T23:43:56+00:00",
+      "summary": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     }
   ]
 }
