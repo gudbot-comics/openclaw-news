@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:34:09.932822+00:00",
+  "generatedAt": "2026-08-16T14:54:51.902196+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -15,11 +15,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Design Head: AI is an Incredible Product Des… - StartupHub.ai",
+      "title": "OpenAI Design Head: AI is an Incredible Product Designer - StartupHub.ai",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkFQUVNDZkIzVG8zV01kdXJTYlhkRE81TS14Q3N5eWRqX1ZpeXBhWC1CQzh5VUxsSjl2WjdvcEFGRWVhSm9hNEh0Mi01TTQ1YlY1YktPWVY4aWpvZ2NPY3VmdGhVQmN5ZHpoZzNWbEx1bDFaQS1KRC1ZR1BYZ1hJd3NrbGd2dEpBSzE0SENVdldjdEMwS1JjczNRRW1uUUNqNTJ4RzU5UmdtY0JMZS0za05rbzQzNmdONFE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-16T13:04:47+00:00",
-      "summary": "OpenAI Design Head: AI is an Incredible Product Des…  StartupHub.ai",
+      "summary": "OpenAI Design Head: AI is an Incredible Product Designer  StartupHub.ai",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,15 +29,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-16T11:59:14+00:00",
       "summary": "Nvidia scales back OpenAI data-center guarantee to less than $120B, WSJ reports (NVDA:NASDAQ)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia may invest $3 billion in a data center for OpenAI in Ohio - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUGxxSFNlSGEyVEZZVGlQSWwyakQ5R3Jlc2w2NzM4VVhybVVaTlRFMkdZSV96Zm5wWVR3ekRuWVBpS2ZudzJOSjJUZnROTHc0MTFwRVhlZjhZc2NNeE5INktXVVdDV1pOUW9YOFlzeEs5US1zSGlMd1F5aHR3ZmdhZ2N5S3lVMGFRYllOd1lkWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-16T11:45:07+00:00",
-      "summary": "Nvidia may invest $3 billion in a data center for OpenAI in Ohio  UA.NEWS",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-14T23:43:56+00:00",
       "summary": "Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-14T23:29:00+00:00",
+      "summary": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
