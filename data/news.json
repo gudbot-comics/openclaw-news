@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-16T12:29:13.729564+00:00",
+  "generatedAt": "2026-08-16T13:10:10.215244+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Rogue AI Incident: OpenAI's Autonomous Agent Breach - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtU21WX2RsUzNIU3BXNmF5WTdYcC1YSlp6Yzh4UUlQakhTcWZwaHRXeXNWb3RWQ2hOOVlNc1cxOWpJV1RNWUliRmtjRzFMY1VuYnhRVy1EZmNMLVFJUk84ZFl0SjRlcmthQ1MxS3ZvWWNrZXQ2OHdqYjJn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-16T12:10:03+00:00",
+      "summary": "Rogue AI Incident: OpenAI's Autonomous Agent Breach  The Cryptonomist",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Nvidia scales back OpenAI data-center guarantee to less than $120B, WSJ reports (NVDA:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWWZkOE9BSUpHX0ZHQ0tqVzBsS1B0Y0dkRVN0VThNZnhBdUJ1bloyZ1hnYWNmZzJod3RJUlVTNWVHX3ZCR2JRNWZKby1tVGQwNUhQalVueV9mWnFQa25CUHBpaDQ4bjBkMXA5UmpYdW1KbmVCMDRYM1hHLXFsNFdtVFNIRjBpT2lhcjRJRFBQX25vT09OaDRwUXpyXzh2dTZGdDFnWkZteXNWVVpGb3RDSzN0ejI2Zw?oc=5",
@@ -33,15 +42,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia halves its OpenAI backstop to $120B as Anthropic’s revenue laughs off the bubble chatter - eGamers.io",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS1lxSkd1MnNremMwUDN5UklvV0R0dnlFRVcxbWVZeVBDRUFiQ09jcW12Vjd5WlpWcU93d0VzNnVWU0IwN1ljaWhoVjNiU1hJbzR1ajZGTVlhSnQ3bzlIN1hoQ2E5Y3BVY2sxM0JGOENGZUotZUtKa0kwVFpweXJrLW5YcWhkSkt2RFJtNFMxcGIwbVlvX2NYMlFpb3pER0V5OXF3a0p0aTcwbGFVWS1LbmNoMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-16T11:18:56+00:00",
-      "summary": "Nvidia halves its OpenAI backstop to $120B as Anthropic’s revenue laughs off the bubble chatter  eGamers.io",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Axios Partners With OpenAI to \"Automate\" Local Journalism - Futurism",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44c2Z3Tk9aelFEWGxOcERIWWFSZzE0QjdGNDkwcGVwUHc2UjlBb3lXSUxqcFBGY2MtMG1yVFlySHdDeElEQ2VwU1M2RU5zSjFpdjAtcmctaGdqQnhlRlhoRnpBYnN6S1FGb1JqSDR0dzB4cXRPV3pnWTFRN1NMY0U?oc=5",
       "source": "news.google.com",
@@ -51,20 +51,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Major Personnel Shakeup Unfolds As Highly Anticipated IPO Looms On The Horizon - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YLThPZnYyWnZPM0ZvWWE3VTF2SExUblJfWm9lX1gtZDRJSUFKb1pjSjNvdHJjaTRGRkVHMTRBNHRBbTE3bU5SUGJCemk2VlVUNG1r?oc=5",
+      "title": "NVIDIA plans to invest $3 billion in SB Energy, a subsidiary of SoftBank, betting on OpenAI’s Ohio data center project. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVpYQUh3OG01SEdHbHoyWkZWUV9TU1NsU3QydzJBMVVMV0JVZW1hNGZnYzlPM0pZeDI1aXpZYTc5akJMNXAxcXhkbFh0Q1MzR2RfLWEzWVpEM1B2V3h5M0wzZG81bkl6UGZFVUxSUmxqODVxUnZZN1RXaXRDQkdfejg5R3E2VTdoMUI2eTEtSWZEY0U?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-16T08:13:46+00:00",
-      "summary": "OpenAI Major Personnel Shakeup Unfolds As Highly Anticipated IPO Looms On The Horizon  36 Kr",
+      "publishedAt": "2026-08-16T10:13:15+00:00",
+      "summary": "NVIDIA plans to invest $3 billion in SB Energy, a subsidiary of SoftBank, betting on OpenAI’s Ohio data center project.  Moomoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - theguardian.com",
+      "title": "OpenAI Major Personnel Shakeup Unfolds As Highly Anticipated IPO Looms On The Horizon - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YLThPZnYyWnZPM0ZvWWE3VTF2SExUblJfWm9lX1gtZDRJSUFKb1pjSjNvdHJjaTRGRkVHMTRBNHRBbTE3bU5SUGJCemk2VlVUNG1r?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-16T08:13:46+00:00",
+      "summary": "OpenAI Major Personnel Shakeup Unfolds As Highly Anticipated IPO Looms On The Horizon  36Kr",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’ - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOblN1a1dNemtqcTAySkU3dGlCbkJybWJxckRTaXk2Z0VSTUE0X0hxbEN2ZWdaR3VfTUN4WXlIWXhtMUZ2d01BTXY5eklOanRHTFlmdXdRaTNLR3E5MDVrR2xRUFhwTnAyZWJON0hMMEVYQ2lBNFYxSGI3X1J4bHpoS1d2d0xERGNwdzBjVU1aa2c0Zw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-16T08:00:00+00:00",
-      "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’  theguardian.com",
+      "summary": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’  The Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,6 +101,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-16T03:47:00+00:00",
       "summary": "Nvidia Eyes $3 Billion Stake in SB Energy as OpenAI Pushes Massive Ohio Data Center: Report  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-15T23:33:33+00:00",
+      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,11 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal - theinformation.com",
+      "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal - The Information",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkdfbWl5THQ1b0hjNk5zS1EyYU9iUXJQXzR1YVE3Z1dxTU9yN1JlX2wtNXZUV3gyVVBndUlzYXNnZ3A1TzJBcjZ2UklCY3Mza3hoNXcyTGl3c1ZNNVd1aTc1YUlfVDEtVzdfMDNyb296N1hGaXNqSE13YnRYaDhsOHNLM3MwWWRPU3c1blJxMFZfVUlmcWdlbU12MWxaQmxRRWppVnFpZHlCRDhk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-15T19:12:00+00:00",
-      "summary": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal  theinformation.com",
+      "summary": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -177,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - ft.com",
+      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXcxN1ZMZG0wZzNlYWtTUVRkS1lJeW52eWh6clBCRWxNWkVXdmlzSHdZQ3lxc1o1a0t6VllWbURuYzNSOUM2ajRlQmVWMUZ5b0lRV3VRV09pNFdWSDdRNEtjUWhDWDBRWDA3WVNyN3hEQVJKdzl0dFAzdzcyOVZMb0VqR0M?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-15T04:02:14+00:00",
-      "summary": "OpenAI upheaval mounts as Sam Altman readies IPO push  ft.com",
+      "summary": "OpenAI upheaval mounts as Sam Altman readies IPO push  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -195,29 +213,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-14T23:44:00+00:00",
-      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - wsj.com",
+      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-14T23:29:00+00:00",
-      "summary": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center  wsj.comNvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says …",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Chief Revenue Officer Is Leaving After 8 Months. She’s Just the Latest Executive to Head for the Exit - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYjBuTk9sOTBfZFpjVGRrLWN4d3ZoTXpEaVl6WVVKQWo2Y1BLUmVudm1JSUlWNmg1LW4xQThhcFNnXzNUMTNaVGxnRS1tQWl6QndQbUJGdFJHYnlETnVfYTM1T2IzTG5CVThqZFZlS1FpQUZuSGlEOFFhalE4d0l5SjF0bG82dF80YVdsdXNHMzBPUG1URk9jNHg3aU1qT2hWeWhDcjlQSjFwdVpLanRtVmRBX0RoNmZnX3BveFRFbHdmTkdrWWhnWDBuRXZBVmFRVzVHWTVjdDhmRGRPQzBLNy13Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-14T21:50:04+00:00",
-      "summary": "OpenAI’s Chief Revenue Officer Is Leaving After 8 Months. She’s Just the Latest Executive to Head for the Exit  inc.com",
+      "summary": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center  WSJNvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says  CNB…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
