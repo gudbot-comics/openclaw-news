@@ -1,19 +1,10 @@
 {
-  "generatedAt": "2026-08-16T17:30:34.320513+00:00",
+  "generatedAt": "2026-08-16T17:51:35.447007+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
-    {
-      "title": "How OpenAI's and Anthropic's AI Models Went Rogue - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMnN5eUxnUDExY29ZcXVZbkFjTGFhZEwzcVlQTFpaQlBkcXhoaWpCZVlsZGx1WDVoQlh6RVVRT0NoSXdtVG5OTF9VQWRfUW1RUkEtdkczRWVzRmt5Y2N4VFhZV0NkSU5GdnlkdDJUSzVBQU5pUFNoUC10T3dmT0NVVDlUMkVWZnZiNEs1M011clBsaU1UUHA0endTN1pTWGZLTWRLa20yc2JpYzByR0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-16T16:05:19+00:00",
-      "summary": "How OpenAI's and Anthropic's AI Models Went Rogue  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
     {
       "title": "How AI Models From OpenAI and Anthropic Went Rogue - WSJ",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5",
@@ -159,15 +150,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Someone built a free tool to scrub AI watermarks from OpenAI, Gemini-generated text and files - Currently.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcGhpWUE5dUhNeldENkp0dkhDVXYtckZ0cXo4bjdxbTNxSDNSU3J5eFp2Q0hKXzZ6RXIwRWFQbHdrbVN1dkZwd25DM3NrUkpiMFgwR3loeldXNHBTQS04d1hLcEhtdEdzTnNmMTBmUVJVSnRHWVp6MW5YNS1iNll4ZTRmbENWa1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-16T04:13:00+00:00",
-      "summary": "Someone built a free tool to scrub AI watermarks from OpenAI, Gemini-generated text and files  Currently.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Nvidia Eyes $3 Billion Stake in SB Energy as OpenAI Pushes Massive Ohio Data Center: Report - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTlNPMTdRSnhsNUV5MFZHeEV5RlZrcWNERzhhS0tBeUJhQkxsWUVaX3Z6Rm1sMldFZ0NNcEpxbUtXb0VLaU9tTDk3NWx2U0N4YlhjTXhScmFUd0pCMTlwZG9UMF8zQTFnNUpEWjNQM3Y5N2d4RXBwcnJqcDdfM2RHNlNrV2paRjkzSWUtOFNFRmgwV3VtanZtbHFCRDVtMWdFSFJsZGw2Mm1meFFYdHRFMFloa0VBRmswTHZ5YUtGM25hY1hHMDFTX0Nqb1BjWHhzdXZEdVctUGVoRG9BanlLZUZ3?oc=5",
       "source": "news.google.com",
@@ -177,11 +159,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI's 612-megawatt facility, ranked among the world's biggest AI data centres, abandons plan to cool s - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQTWFPclFvWHhyUzNTUlk0VkJiOWxYMEo0V0ZuNDJiUHZmZ0hUeGUyVWhkeHFMUWQ3Y0JXYVZoVmhGT3hDbGp6SG93NU1TdVoyd2doM3pNa3YwZ1dSQVp4RXd2SU4wZVdCTkJXRXJ3SE5fcnZoNmxGS0NfOWFvc1dJSFVXcWxUa1UtclBCLVlaRWRISS0wQl9SemFlVFZha2dyaDhQU1NxTnpENHdUZjlGMXpwOWw0WTk1dE96YnhhcDR5eHRYM3FjZW43REYxd1c2LTN6elNGSUtZenRtbjFFdEJVX29vdFRqb0dMbUxoNzdVenNtYTNHXzVoVWplRlVlVV9Icm9aQVIyek1NMVpiWTdZQU1VbG9mNkluZTZoenEtR1pGclFTcVF2d044ekZiNUp30gG4AkFVX3lxTE5iN1hkUm4zU3ZYWXdpR2VNN21hNjc0Z29rZWtrR192YTdLWTZPdm9hVFZEZFExUUlFV0JXT0gzMVU1UnJRclFWbm9yai1Ed1Nvd2FFamdKSlYyRk5vcWpNbk1UUGdKOEpjdFkxUjNvQ1ZyNTA0NzcwYXpiWl9xNTEzMTF1a2dXOXNFczBTdzdmN1hsTTE0MkVjMFVwN3hickxZb2ZRTEQ1UVM3akJkMEtjekhfcTdxaUhzd1N4XzBIYjgtcFN3cDFtdmV5aE1MTXZ0a0VCdUZKOHVMa3Uzd1pfRHhuR3ZnTWlrdUlfVGw0T1hmbVFGVDdGaU1tOGttUGJBLTlwUHN5R01jd3dzaTdxNXV6RWFubTZoNTJ6c2NybzNERXBKV0d3RG5JaFAycU1qVjhJd2tHYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-16T02:39:00+00:00",
+      "summary": "OpenAI's 612-megawatt facility, ranked among the world's biggest AI data centres, abandons plan to cool s  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-15T20:16:56+00:00",
       "summary": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Safety testing was an obscure part of building AI. Then models went rogue. - Politico",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdVN4elg3T3hlZW1JNVpwN0tBWklxNlV6aG9pM21ILVF5MVFDU3d1Z3c0QU1OeTdXTkpoMU5rWFppVlQwSWd6V0NLN3pmeGNHSzhzTjJnbnFFZTE3Umhfd1R4ZXFtRFBMVzA3NEpCODR2VEFDQXR3bTA2alFCMHFIaWl3dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-15T20:00:00+00:00",
+      "summary": "Safety testing was an obscure part of building AI. Then models went rogue.  Politico",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
