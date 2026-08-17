@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T19:49:33.579644+00:00",
+  "generatedAt": "2026-08-17T20:09:52.912381+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-17T19:45:58+00:00",
       "summary": "News | OpenAI, SB Energy, Nvidia team up on one of largest planned data center projects  CoStar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTlzVFlXVzF6RDJvMzhtMDB6Y0hGQTZ0NDQ5Q0w3UmZGZmRXLUwzeEY1YUpXM2t0VGV5T3hybUNXb1B3ZFhGZDVhc2EzcjhySVZ6aF9JMmptTmkwTnFDcHZJaVpyOFJ0clg3RzVZSktTVHpQWkRDX2tqaG92Z2NDcTZmWC1MTTNuMkNpNEdwX1F0cGZsWGdmWFFud21RSGg5ZVhybjJaNkV3dVJfaFRyT3RlN3hTZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T19:43:59+00:00",
+      "summary": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,11 +42,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Rogue Agents Are a Normal Accident - The Foundation for American Innovation",
+      "title": "OpenAI's Rogue Agents Are a Normal Accident - thefai.org",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ib0ZCU2hZSVlRR0hEMHVWNHFnbkZrRGN6TkI4NlJLbVFleFh4eE81aWFDQWFfX1N0ckN5N3dOSkR5NXd2Wm9fMGwydjhrdHNtQ3VyYl9tNHctXzN5NHoyWGs5cGNubHA4cjZaYVc4NE42QkUzQTlKbnBnMUk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-17T19:22:12+00:00",
-      "summary": "OpenAI's Rogue Agents Are a Normal Accident  The Foundation for American Innovation",
+      "summary": "OpenAI's Rogue Agents Are a Normal Accident  thefai.org",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,11 +69,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Highly unlikely predictions: Infinite scroll bans, Facebook's comeback, and OpenAI's ad ambitions - eMarketer",
+      "title": "Highly unlikely predictions: Infinite scroll bans, Facebook's comeback, and OpenAI's ad ambitions - emarketer.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWktScGlhR21lSThLaDdKS1pIVGFNX1FOTUp1TXZDWG1XTWdKRDc1VkFjRFJ6NkdVZlp3X1ZWQktmQjJEU3d2RG9hcjBMM1h5ZW4takMxZUdsWE9zaVBrRjRUV1dYdDM0MmNrNTJGUC1MdHdaSGNNbmhqQTVWb0pXQ0NweVNiSUdJV1VFSXpTdmwxanZKQnZSWXkzMVZLZ1QzT2NYdGV3a2trb2t0b01VZFFTZlAxYnA5aTcyLUF0eGdLd0lDSVE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-17T18:45:00+00:00",
-      "summary": "Highly unlikely predictions: Infinite scroll bans, Facebook's comeback, and OpenAI's ad ambitions  eMarketer",
+      "summary": "Highly unlikely predictions: Infinite scroll bans, Facebook's comeback, and OpenAI's ad ambitions  emarketer.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,15 +83,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-17T18:33:00+00:00",
       "summary": "Nvidia’s Huang Says OpenAI Data Center Could Generate $600 Billion in Revenue  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTlzVFlXVzF6RDJvMzhtMDB6Y0hGQTZ0NDQ5Q0w3UmZGZmRXLUwzeEY1YUpXM2t0VGV5T3hybUNXb1B3ZFhGZDVhc2EzcjhySVZ6aF9JMmptTmkwTnFDcHZJaVpyOFJ0clg3RzVZSktTVHpQWkRDX2tqaG92Z2NDcTZmWC1MTTNuMkNpNEdwX1F0cGZsWGdmWFFud21RSGg5ZVhybjJaNkV3dVJfaFRyT3RlN3hTZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T18:28:41+00:00",
-      "summary": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,6 +132,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI staff are cashing out millions before the IPO because they're 'burnt out' and 'frustrated' - moneywise.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcEtUWkQwNGl2ZXRjcjJ1NjJ2d1lsN29saTIzMVpmc21ZWFNLcHB0UWplQ3JINUtmaWxTTlBvVUI0Sm52SllOTUlpVnZCRUl4NTZpbmRWMURUeThqUUIwUmFpazMzUkgxNnFJdXl6TFh6XzRnQ2hlTnBSMU5keEtCa2puVG1oTktUVktaVA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T17:44:29+00:00",
+      "summary": "OpenAI staff are cashing out millions before the IPO because they're 'burnt out' and 'frustrated'  moneywise.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV21oUjRuVXdHME9CRklXR2RFM3Fad3ZYSnVLYzVVaFd4eGFJOHBFaTNmTkIxNDJ0Z1hSSW9LczZObEl5SFF0NnNKSmV5MDFSX1gwVC1GTzVXb1lJYVFoY2hCV0ZPNk9rWHpjYm5GdWxmVThaNW9lb1V1emlPTnlYV1I3dnU2OUhQ?oc=5",
       "source": "news.google.com",
@@ -159,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia-OpenAI Deal Isn't 'Circular Financing,' Says Jensen Huang, Sees $600B Compute Opportunity - benzinga.com",
+      "title": "Nvidia-OpenAI Deal Isn't 'Circular Financing,' Says Jensen Huang, Sees $600B Compute Opportunity - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGFvbHlxeS1zOWZaNEtueExRRjRIS0VPUkpfQzZyQmxXbG9ZVHluNy1ITTdKeEhuVjNmenZxaGJjdFR5SVNGZTZKcV9EQVhNLUVuTTY1djNwV254VjVNaXFTU0FkUXk3QjZUelJGa2wyYzlfN0JoekJILW1heGtIM2g4dlV0a3U1djBvYVdPMS1TV2xmUXZXUzkxLXhyRVJIZGJQV21kMA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-17T17:22:04+00:00",
-      "summary": "Nvidia-OpenAI Deal Isn't 'Circular Financing,' Says Jensen Huang, Sees $600B Compute Opportunity  benzinga.com",
+      "summary": "Nvidia-OpenAI Deal Isn't 'Circular Financing,' Says Jensen Huang, Sees $600B Compute Opportunity  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-17T17:05:33+00:00",
       "summary": "Nvidia to post $105 billion for OpenAI data center in Ohio  upi.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI commits to massive buildout of Pike County data center campus. - The Columbus Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYV9wY3ZKSGc0c2tLTWNpdFVlWXBrYk9zWnN4MFpuY2Vrc25HakYxZmdWdlBwckV1U19Ec0dnUGd2cWJSQjRLUXpkTFJuNTgyQ1J5c3pwVUJveW5qZWxJQTNmY3lXd1pNZTZ5NnBCcHVfZ0RDZDMyQi1PY0J2U0RzXzk3TG5vOFp4OUVCRFFjYl9nUDZoOVJUWXBmcDBrdTBZaHY0c1B2VXVMV1pNZWZoNjRMT3JFX2NZTW5pTHJod3JGVHJJNEFaaHQ4MnEzc3RqSlJIajFGcHBsVEFfUVBzZjFyTnBCWVRjanRlSTFB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T17:05:00+00:00",
-      "summary": "OpenAI commits to massive buildout of Pike County data center campus.  The Columbus Dispatch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
