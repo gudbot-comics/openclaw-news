@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-08-17T11:48:43.485412+00:00",
+  "generatedAt": "2026-08-17T12:12:58.271288+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Nvidia cuts OpenAI Ohio data center guarantee to $120 billion - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UM1Y1dGM0YmRGN2pOYk82MElYWDduX0k1X0JCZzdySHUwNDJfeFBUY00xODZ0OWxuYTlJNVlvZ2FwV1RlWmd0aDhocmZHcGRQVExoSkd1eUwtemZyYS1xemhzSVhySUt1ZDNKc21R?oc=5",
+      "title": "OpenAI Foundation pledges $100m to boost hepatitis C cure rates - pharmaphorum",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcGRJMEhlWlRKUjlXZWp1QjdRWnV2eGpqNEdVdExRaG5pUUg0c1ZSTUJaS2llQTRLZGZzNjB2MU5NNHo1dms3ZWJuNzFBWV82SzgxaEtmdExPX2lRdTlITUxJUHJ0OEtITFZaT0FIVkxFamdzdlp3Rm05U1VaUE5GNmxUZU1FMkdmWTJfaDJUSjhxck0?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-17T11:45:44+00:00",
-      "summary": "Nvidia cuts OpenAI Ohio data center guarantee to $120 billion  qz.com",
+      "publishedAt": "2026-08-17T12:06:19+00:00",
+      "summary": "OpenAI Foundation pledges $100m to boost hepatitis C cure rates  pharmaphorum",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cloudways launches managed AI agents OpenClaw and Hermes - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0hzMnlUX3BJSll6bWtyV1pxQ2k5alduV19XbVlpbHJ3ZW1QcXcxcVR0bVNQMF9sNGNIQ1ZlV1c5ckxYWGRyUWI5eWNYUG11WUd0LTZrTnRIRHNGbGFNMDdnU1FfN0JwUFo3YmdOR2ZYOWd6ak1HLVlTSVBrQzRydU50Y09jRnNSZ2NBcy0weXNGUzJ1MTZRYV9ZYVNWV3FSTzgweWg3N1ZnREh6N3VmOEJKc29Ydw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T12:02:08+00:00",
+      "summary": "Cloudways launches managed AI agents OpenClaw and Hermes  StreetInsider",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Rhythm Systems Earns Dual Directory Listings from Anthropic and OpenAI - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZGxTaDJlZ09kbWZQX29xZUlUWnJpODBzQTA5SFlTYWs4d3dIV2ZvYS10bmVpZzFTTkkzUVJGZnRFTGZxTFRHRm5xZXlWZTRUS1pnYVRVbm9DTmI3dmdHbFd0cHRzaWdWWDdWWTdYRDNVbEFFWUQ5NFc5OVhYdXl1bzEycjRvVktiUTc5c2NyRFlDbGpVYmNlNGxsLTdqbXhHUGdPWk5SQ280UmtONl9zNjF3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T12:00:00+00:00",
+      "summary": "Rhythm Systems Earns Dual Directory Listings from Anthropic and OpenAI  EIN News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cloudways Launches Managed AI Agents With General Availability of OpenClaw and Hermes - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWWdnNVM2dk41TDFZeUlXNFNDYmNlMjJxUjhoQldMTktwQUhNRDJmSmVFNUExaXJVYlBTMzFnTEpMWHlXVy01VVFucTlvWHk0Y3dkS3U0b1FVY19sM2hKOF8waW1nM2tJQ1lpNDdiWGpQa29QOEVpRUwtdUw5UVE2QzhZSC1IS2NYOTRpOWFqSlVGTUNzeDhTdk9fcEVMSzRqU0NBYWFZVVJHS3JldzFHVFg2UDVNVnFpRzh1eEQtQlRwN2x3SVZBbnZUZzdaRkxMWktmMUROb2lnZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T12:00:00+00:00",
+      "summary": "Cloudways Launches Managed AI Agents With General Availability of OpenClaw and Hermes  Business Wire",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI, Anthropic Revenue Boom Offers Clues on Mideast AI Payoff - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0pWWUlodk83WE5vcjQyS0hJSG5jWmNvNm1ELU0xRWVWN2l6ZktNYVFZdy1laXBNLVMwOTNmaW9GSG9mby14UGxqSTFSak9iRlozbmRwdTg3SnFXbWlZSG4waUVaSlpCcXRTT05GQVBSTklBc0tpT1BZV19fNWU2cjY4YTY4LUhaTWlkY082Y3dtRzB6NGJBQml2VVZpRGVGdHlKZlgzZndkX1ZUMFdZY2l4SzRVZmFUMmhpemZJbk9iUUFGWHVzNk1FQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T11:55:29+00:00",
+      "summary": "OpenAI, Anthropic Revenue Boom Offers Clues on Mideast AI Payoff  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cerebras in focus as Wedbush sees 'progression' in OpenAI deal with GPT-5.6 Sol news (CBRS:NASDAQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUHpUdFliNVRkOGxCMWlEN1hDTkUyXzJ4YXVaYktsZ1JfUGJiNldhcVpSc3pWdWE5d0g5enplZ1dGcnlocHByREFxeUp0M2Y0N2hPMU9nZkl4VVpIUW9Nb1ZSckVjaXF1NVBPMzR1LWx4d0JQNzF5MF8zNFBYOXpJTFl6XzMycnBEUVFYRE1yM2lHWWNUTUZqb1YzbWVqT0dOazhWb1BYQTI0UXJWVHVWWEM3WFNNTmhjbkZVNHpzRkt4WVFkeUdXS3NXdlgxMXU5UmIzVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T11:53:06+00:00",
+      "summary": "Cerebras in focus as Wedbush sees 'progression' in OpenAI deal with GPT-5.6 Sol news (CBRS:NASDAQ)  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -135,7 +180,7 @@
       "title": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope - AJC.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFNRX1RSQ0RpYlhud04tcVQwR2IzMlZhN1N2dk1LMzYtRlRzRTV4ZEoxWU5tanRxY2ltLXEzWGM1THU1VXk5ek1GVTZXVlVpRVdwclUtSjFrcnI2emlhS0R6MzA3SVl3c1FFR2JIMWdTNHlGeFR6dDFPbWNkcTMwbU5WeWFPTTU0LTFvcG1wQUc2aEg1aGk2SXlzb1FTUnZQT3RneHo0WmdlQjRSZG1hNDZNTWtVR1E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-17T09:03:07+00:00",
+      "publishedAt": "2026-08-17T09:03:08+00:00",
       "summary": "Georgia Power deal to serve $20B OpenAI data center goes under the microscope  AJC.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-17T08:00:44+00:00",
       "summary": "Nvidia Eyes A $3 Billion Stake In OpenAI’s Data Center Partner  Finimize",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Disbands Risk Preparedness Team: Report - analyticsindiamag.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbHdTclR0Z01ZSHVzWmlRUTlOSXRkU1R6OW5uQzBqaGdvd211T1NTUjFWUVdoa2FOcHdHdHpiYmN0d3Rna1A1Tm5XVEhwRnpWb2JKQjJ2NjJWMjVOSHVkUmhXRFRnMEVJWVhVN09wdE9DbHdaeUtHMXJMSy1EZkxiM3YyYjVlZUFwZVo0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T07:37:08+00:00",
-      "summary": "OpenAI Disbands Risk Preparedness Team: Report  analyticsindiamag.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI disbands team tasked with preparing for catastrophic AI risks - calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5dTVDemdEenVhTkxBR21iTDlOVEZsUTZHOTZ5MFZUaDNPdmJKcDRzQ0ZzZlZNM210Sk9oTmkzR2dyREg1ZFBWLTJwbEVfdzVlWFNSWVM5UXF3clZDbzZ2RzBkX0NhZzA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T07:26:00+00:00",
-      "summary": "OpenAI disbands team tasked with preparing for catastrophic AI risks  calcalistech.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Brings Computer History To Mac, Storing ChatGPT Memories Unencrypted - Yellow.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02RnB3Q0ZtcmMxVjZKWm9OUTZmZGFOR3Q2NklvLTBKODdQbHptRC0zbU9qU0FNQlJmVGo3TkRaRkRXQ2VBRC1hMjhOeGtOWktJSmlUeFQtaGZNWWJVbXlOOW9LU1JQd1hsVEJmemZCSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T07:21:51+00:00",
-      "summary": "OpenAI Brings Computer History To Mac, Storing ChatGPT Memories Unencrypted  Yellow.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CloudNSite Named an OpenAI Select Partner - 24-7 Press Release Newswire",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjFNX3RaOEYyNzBwRlh1cVQxZEFHdGFDMWJvaFRkRGEySHNFRmpqdmlKWDcxOHNSaXFnMVNLalJzMnloZGRlem9FeUE5OFdVQW5vcjJzRnJzSGpoLUtkbFJ4RnVzMEtKQkg5ejBsa2VfSXNNZ1lNaHIwUmlQUFFpaTc4Z1lYWHlQWXQ4bmthcGpkQzZfQmtKbzZEYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T07:04:48+00:00",
-      "summary": "CloudNSite Named an OpenAI Select Partner  24-7 Press Release Newswire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Reports Florida Man’s ChatGPT Murder Threats to FBI - MediaNama",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLTJkSTEyWnhDdVoza1o5MkhlMVpBS0JWU0NfYlZ2R2o3UUhrc2M1V2g4VEk2UXNEeWZ4RzlwRHFhTVNoZ0dRTFlyVGhIOFVPamh2ZWN2T2ZpS2wyQi1MVjNPeVd5U0x2VmhldDR4a3Z4anJXTjdmV2RlNTgxdkF5RFBtYS1xdEZrVFlF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T07:03:40+00:00",
-      "summary": "OpenAI Reports Florida Man’s ChatGPT Murder Threats to FBI  MediaNama",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
