@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:01:41.848181+00:00",
+  "generatedAt": "2026-08-17T23:32:33.275788+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-17T22:51:00+00:00",
       "summary": "Nvidia to provide up to $105 billion backstop for OpenAI data center  Semafor",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR1dWeWdrS2RhZ1V4MmhHZm1lbl83WjhudUxZSlRNZ1ZsMjFGTHY0bThZYUlIc19iN2Vlekl2SERNZzFSbEhla0V5Zk9jWXZoYjNlY1lKcnhVa0Vla1d1OTdralZSOFlOS0s5c1E4ZXlLb212aEdqYmFRek4ybVVQNXJkNVZsMlRJaVQ2YlJ0bk1xRFFZX3UwNWFqaWpHN0F6SlBwN2JKQWJVN1ZlVkpybXVoTllxSXktbC1RX0VHT2dsMHE0MHpfTDhYdTlmQm1vV2tWZWlqRnJzSDNlaFB0dk1MRk0yOFdZX282WkF3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T22:17:56+00:00",
+      "summary": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors.  The Globe and Mail",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,11 +51,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI blamed a hacking event on its AI models going rogue - koin.com",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue - KOIN.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVBNLWlFREtpMXd5ZmhpY0FvSG9qTTk1a2ZpNjBjeGNmVlNGczBkTjBFdTdaNl83SFg1TDFMcWxkTkpzam9SblRTb2RvckMwbmdhNFVUdWZlbU40TFVubURRd2h2TFpvM3RXMGhrSDg2MmhqR18zYUR5dVFRcjhGRU1QR0pISjI1d01NNWpadndKU1JXUTZselF4Yw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-17T22:06:09+00:00",
-      "summary": "OpenAI blamed a hacking event on its AI models going rogue  koin.com",
+      "summary": "OpenAI blamed a hacking event on its AI models going rogue  KOIN.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI to lease massive new AI data center in US, backed by Nvidia - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDBvTWZWcVlTNXZZeDd4QmhmSU8tUjZPSWU3bkU5T1VOSXpNbkJ3eURNc2c2SmVLbWN3WThsN1MwT292UUxNdkNjbTdGdl9VLU8yWVVPQzVTMlZDdWVXYlZSV2dZM0lIdEZlSmJxTnlIQVgtOFVDcGY2RGtXR3hKS3pXQy1Wb1hYWlBmQVcyN254SGVKMVFR?oc=5",
+      "title": "OpenAI to lease massive new AI data center in US, backed by Nvidia - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVJqLTdobjdsNnBna1lOamlhQ2dLVUdaTTFrYjh1OWR6VHNoOEdXTzhxbVZxWE5ZbGlfMHlYMGZ5d3RNUkFHS0lnNldkZW1GTlRBYzNlb1VqelpXZWV2MkNfRGxtclZrUlNZY2s5LWxPTzdfeUl3Q1VtMnlXdkVIR0l5amZOcmZVN2VuNldVbWg5Mm9WQ2RmMmoxYUVpZ2IxVlZNVmxrbUI?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-17T20:59:13+00:00",
-      "summary": "OpenAI to lease massive new AI data center in US, backed by Nvidia  Yahoo Finance",
+      "publishedAt": "2026-08-17T21:00:10+00:00",
+      "summary": "OpenAI to lease massive new AI data center in US, backed by Nvidia  Digital Journal",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,15 +195,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T19:36:14+00:00",
-      "summary": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Textbook authors file class action suit alleging OpenAI stole hundreds of academic volumes - amNewYork",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RRDVvZFU0MDJWMXJ0LTNsVVktYi1zdk9OMl9fNzM0UFpEZHZ5ZllhTDI3RUV4WXdBR01iT09lZEFCTjBEelVtd1JiT0xsWVY3Zi1zamdiN0Iyc0pTSFlndFRCSQ?oc=5",
       "source": "news.google.com",
@@ -213,11 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia provides $105B in financing toward OpenAI’s massive Ohio data center — will be one of biggest in world - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdXFNdWxhRFFFekdKU1FMRzFuVFRHMlNjdUxRb3FLU0xBNnRzTWRaTFhjaFRnZ2dZWTU2VlhLRldoQVhSREprcHZVTVBSVk5nSmtLLVB0OTl6ckNuUGhzcEFKb0dIVzJ2bndjTzBFTU9WSmhxenZvMDJvTFNCcm0xVjduZGhFUkxubS1EMnZpeGJaLTlqcGJYdHcwelJtQmhxd0ljX3ZveHFSRnI5UmdXVFQ5OA?oc=5",
+      "title": "Nvidia inks $105 billion deal for OpenAI data center - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXg3Q211NEx3dVNvUVBBSm5BbzJkRzg1eXZDbWZrb2RoUTFONGQtcjJETE5OTjloVmZYRVFXcGRPYldQMS1MSmhUeEE0cU5OT1J6NVl6aDMzX0piXzNqTnhmb3FITjhER0FwUVRtUGtVRHVIOFlrVTFRV3E1bXFVU001U3hLUWE0c0VzTUQzRWJWTWkzT0lFMHVGalhjMDMxcnZSaG1oSkZ0LVkyQ0ZFdw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-17T19:05:00+00:00",
-      "summary": "Nvidia provides $105B in financing toward OpenAI’s massive Ohio data center — will be one of biggest in world  New York Post",
+      "publishedAt": "2026-08-17T19:05:24+00:00",
+      "summary": "Nvidia inks $105 billion deal for OpenAI data center  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
