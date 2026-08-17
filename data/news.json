@@ -1,43 +1,88 @@
 {
-  "generatedAt": "2026-08-17T21:06:08.197515+00:00",
+  "generatedAt": "2026-08-17T21:35:56.578000+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI to lease massive new AI data center in US, backed by Nvidia - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUlTSWxweEVTelI5bzhVbVF4RnVqZXR3Z1ZUc3VzWXNrLWZwTUVZX2R3MElDYUJkNEZOT0lQZWY1YXM1WkROX1QwR2xvTGtGekc4enFqY00wMzRjU2N0SWxtS3hLNmdKWXRRbUhnMjVkUUNtamMtUWZtQ0RLNGhwSzdfTQ?oc=5",
+      "title": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTlzVFlXVzF6RDJvMzhtMDB6Y0hGQTZ0NDQ5Q0w3UmZGZmRXLUwzeEY1YUpXM2t0VGV5T3hybUNXb1B3ZFhGZDVhc2EzcjhySVZ6aF9JMmptTmkwTnFDcHZJaVpyOFJ0clg3RzVZSktTVHpQWkRDX2tqaG92Z2NDcTZmWC1MTTNuMkNpNEdwX1F0cGZsWGdmWFFud21RSGg5ZVhybjJaNkV3dVJfaFRyT3RlN3hTZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-17T20:59:13+00:00",
-      "summary": "OpenAI to lease massive new AI data center in US, backed by Nvidia  Yahoo Finance UK",
+      "publishedAt": "2026-08-17T21:19:02+00:00",
+      "summary": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Chipmaker Backs OpenAI's Ohio Campus With $105B in Credit and Hardware - briefs.co",
+      "title": "OpenAI leases 10-gigawatt AI data center campus from SoftBank’s SB Energy - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ29VdHp3dVplUUxXejdmcUJ5RnFOdGVYOVcySUQyTUpfY3hKNVRHcGpVbW15Mll0MG1rbF9UakZGWWRVdE84SWxuMTZFQmUyX0pWclM0aFpWcWQ4VFJNSUNRdG1GRkZNSnpfd1dFZXdUTXJtUkJOTUlzRUl0MW9ZbkxjQnRXcFBNOGpOT2lsZ1NkVWN2ZjRMelhSa2JDQlFlVW9VRHVRUDNKSVRFWnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T21:12:00+00:00",
+      "summary": "OpenAI leases 10-gigawatt AI data center campus from SoftBank’s SB Energy  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iSnBXWEFaa1hJVXNlT3YxM3VJalNlaEhTMGtmeUVXMUotcTJ4bzVRbWJIcDVjS0xMZVpEY2hZdTJhZjdtcUd2RHpRazJvRGdPNGlfTFhUc29nZkV5aFk2VXVSclI4aDl5WlNKa2VyTEdISW1TLVdyQ0R3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T21:08:30+00:00",
+      "summary": "Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today’s Market - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yVGVBNlNXSmlqbjR1LTBGR2c2MXhyVE5lWXVhVThiOVlUdlJCU1RKZG83RENSbk95MTVHbXRPNDNQeXpiM1duVGtHUDVzUllwZXhnUmJpdW80T20yX3hEWjNtMEQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T20:52:00+00:00",
+      "summary": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today’s Market  Barron's",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Chipmaker Backs OpenAI's Ohio Campus With $105B in Credit and Hardware - Briefs Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVDlxVUF0ZFF6MDFSWlQydVoweXBSS0VoWjd2aFpaUEZEMEFXUzUtOXBDb05PMlBUcURuc2hGZU1xNVljWnpuVHZoa0lyOUZQNkdfYk5GSlNHdnNZeXVWSk8zMUVDTGJueTI1ZGJPLVJPT3lzcU5NaXhSN3BqYVE0ZGFEZ3ZIbVZrSlpFRE5CQU1RUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-17T20:28:20+00:00",
-      "summary": "Chipmaker Backs OpenAI's Ohio Campus With $105B in Credit and Hardware  briefs.co",
+      "summary": "Chipmaker Backs OpenAI's Ohio Campus With $105B in Credit and Hardware  Briefs Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI President Says Departure Coverage Is Overblown as Revenue Surges - briefs.co",
+      "title": "OpenAI President Says Departure Coverage Is Overblown as Revenue Surges - Briefs Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeTl0N1IyMnVqb0hONXJ6N1FOVmpYNXUtTEp6OHFfYklGMTlGZGR6LXE3S3lUTWh1NEtEYkNxSnZwb0RRZHIxaGhVOFA3VllfUkpPSF9KN3Bld24zSjlPVUhkY3BvaHA1UDlxeUR3d013RnVsdmtHRnF1bW5yMDVXaHFzZTZwMGNNMkxhSG9TbTB2QQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-17T20:27:56+00:00",
-      "summary": "OpenAI President Says Departure Coverage Is Overblown as Revenue Surges  briefs.co",
+      "summary": "OpenAI President Says Departure Coverage Is Overblown as Revenue Surges  Briefs Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Workload Identity Federation: Aembit Brings Secretless Access to the OpenAI API - Security Boulevard",
+      "title": "Nvidia to finance $105B for an OpenAI data center: What to know - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3g1aXFJb1UtVERWN255bnFGeXdrYnF3YnVsQlphc2ZUV3hTMUJLM2Q0bDI1RmpUTnUzd2xqOE9iNVNYZXUzVFA1YU9QNlNBRFZMVGdmbHkyem1hamJNd0Z4SFZMWjZjeGdYLVZCOTY1VjMyS2JkQkNQTXg3RFUxY1A5bmg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T20:25:33+00:00",
+      "summary": "Nvidia to finance $105B for an OpenAI data center: What to know  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Workload Identity Federation: Aembit Brings Secretless Access to the OpenAI API - securityboulevard.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnV6NFBUeXBrUEs0N1RiOGFQLXFSck9CSFVpOU4wb1QzOW5LYTdKbllCcUdrbThMeWlkQjB5eTQ1UWFtdFN2NnFha1Y3WG9PQVJYdWJ2WVlBeERqZS00QTg5cjUzVUg1bzgteUU4eEgyUkdPZFVmaEh3WmJUZ1hXR284aDdWV1JLaGstMVAwVG1aSVZZTHY2SEdNR1hjMnEzeVllYU5fQm9YZEVTQ0R0MDg3VXJPLWU3MC1BNUVvd1NyUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-17T20:15:00+00:00",
-      "summary": "OpenAI Workload Identity Federation: Aembit Brings Secretless Access to the OpenAI API  Security Boulevard",
+      "summary": "OpenAI Workload Identity Federation: Aembit Brings Secretless Access to the OpenAI API  securityboulevard.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vWmNOY203TXdBUTBHM0xVS2lZX1hobUVIaHMyU2VmLXdNTVNDR1lkUDJadlNOTVZjQnN1elg0b1BlN3BGbGlBbVRHS3JyWHNibENUZDhMbVF1NHp6WllQYmJYeVlqRzYtcDhRMzFiS2FfMmJQ0gF8QVVfeXFMUHZUbC1SSzRwWDN0UFNGR1doOUFFWGVJQVFMMzAzaWlTeDR1OUo3cEE2RmpUaWk5WlhieE0tZWc3Tmp3MW94Z2ZxOVpkY3BZSVpIemVjUHBmX2xYcjFOclBIVFhfVm1EYUlRYWZnS1E2ajUxV0NSWTNId1dIeg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T19:59:18+00:00",
+      "summary": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less  Decrypt",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -47,15 +92,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-17T19:47:39+00:00",
       "summary": "News | OpenAI, SB Energy, Nvidia team up on one of largest planned data center projects  CoStar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTlzVFlXVzF6RDJvMzhtMDB6Y0hGQTZ0NDQ5Q0w3UmZGZmRXLUwzeEY1YUpXM2t0VGV5T3hybUNXb1B3ZFhGZDVhc2EzcjhySVZ6aF9JMmptTmkwTnFDcHZJaVpyOFJ0clg3RzVZSktTVHpQWkRDX2tqaG92Z2NDcTZmWC1MTTNuMkNpNEdwX1F0cGZsWGdmWFFud21RSGg5ZVhybjJaNkV3dVJfaFRyT3RlN3hTZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T19:43:59+00:00",
-      "summary": "OpenAI Wants ChatGPT to Learn How You Work. Its New Mac Feature Raises Privacy Questions  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,15 +123,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Nvidia inks $105 billion deal for OpenAI data center - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXg3Q211NEx3dVNvUVBBSm5BbzJkRzg1eXZDbWZrb2RoUTFONGQtcjJETE5OTjloVmZYRVFXcGRPYldQMS1MSmhUeEE0cU5OT1J6NVl6aDMzX0piXzNqTnhmb3FITjhER0FwUVRtUGtVRHVIOFlrVTFRV3E1bXFVU001U3hLUWE0c0VzTUQzRWJWTWkzT0lFMHVGalhjMDMxcnZSaG1oSkZ0LVkyQ0ZFdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T19:05:24+00:00",
-      "summary": "Nvidia inks $105 billion deal for OpenAI data center  Yahoo FinanceNvidia backing $105 billion in financing for OpenAI data center in Ohio  CNBCNvidia to finance $105B for an OpenAI data center: Wh…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Nvidia provides $105B in financing toward OpenAI’s massive Ohio data center — will be one of biggest in world - New York Post",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdXFNdWxhRFFFekdKU1FMRzFuVFRHMlNjdUxRb3FLU0xBNnRzTWRaTFhjaFRnZ2dZWTU2VlhLRldoQVhSREprcHZVTVBSVk5nSmtLLVB0OTl6ckNuUGhzcEFKb0dIVzJ2bndjTzBFTU9WSmhxenZvMDJvTFNCcm0xVjduZGhFUkxubS1EMnZpeGJaLTlqcGJYdHcwelJtQmhxd0ljX3ZveHFSRnI5UmdXVFQ5OA?oc=5",
       "source": "news.google.com",
@@ -119,6 +146,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-17T18:45:00+00:00",
       "summary": "Highly unlikely predictions: Infinite scroll bans, Facebook's comeback, and OpenAI's ad ambitions  eMarketer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia to Back Phase of OpenAI Project With Up to $105 Billion - news.bloombergtax.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUdKRzhHRXREVkQ1WjZZY1BRc01wQVRmcWxndUcxODFBelJjVDRCM3VuZ0NWLXdoOVROQVJCaGRTRVVSaWFHaTdCVWZNRTRJcDVjMmhLb0dJWUJJSS1GaXJQLW1qQzZwWFljUGlLVmZFQzd0a2dISTdhRnp0V1VDT0pqLTJneHU5dUxaYzV1Y3N5NERxcmlOVzZEU0xhR2ZaUkFTcGtiZ1JQXzFpTjVtOGREbHJ5NkQ0VGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-17T18:40:00+00:00",
+      "summary": "Nvidia to Back Phase of OpenAI Project With Up to $105 Billion  news.bloombergtax.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-17T17:48:57+00:00",
       "summary": "OpenAI Launches Computer History for ChatGPT and Codex on Mac  TechRepublic",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI staff are cashing out millions before the IPO because they're 'burnt out' and 'frustrated' - moneywise.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcEtUWkQwNGl2ZXRjcjJ1NjJ2d1lsN29saTIzMVpmc21ZWFNLcHB0UWplQ3JINUtmaWxTTlBvVUI0Sm52SllOTUlpVnZCRUl4NTZpbmRWMURUeThqUUIwUmFpazMzUkgxNnFJdXl6TFh6XzRnQ2hlTnBSMU5keEtCa2puVG1oTktUVktaVA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T17:44:29+00:00",
-      "summary": "OpenAI staff are cashing out millions before the IPO because they're 'burnt out' and 'frustrated'  moneywise.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Synchrony Works With OpenAI to Advance Agentic Commerce - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbnFUVUNfQnhNV0F3OGlSNVJJcHJ6VVlhTW1IclF3R3NxOXNkZ3lIMEo1QjE2V2kyTy1KS0FpVGsxelJkcmd2QXRUNHFFQ3ltS1Q1bVVoOFh0a3VFMURjTkdqZVdFbWQ3Q2t5RXZjMVowdkdOalFuc1VCQzFsSzdYdlN4MThBUnFYY0QzT29SZkJEWE1PV2NGMmhB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T17:30:52+00:00",
-      "summary": "Synchrony Works With OpenAI to Advance Agentic Commerce  citybiz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia to provide up to US$105 billion guarantee for OpenAI’s Ohio data centre - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkYwRFd2RDd2dzR6VmlTQncwdXkxUVYzSXlRTGVpY3ItSGhac2ZQb29FLWVaeFJFeHBrMUtDMU5LRWtjb045QkJWaWc1d2xqR1dUTDRna1pYUkdhdTd1WFBXX2ROWXVaUjU2ZmpvX2xoOWdSdmZFWFM2RVZNRjhnQVNjYVZFeWQwYnRyUWpJMEgxRlBsRENvb2tRbG5ZMVNLdTB0WjJ6Q05leVlMVFNISHE5ODLSAbQBQVVfeXFMTTV3LXE4ektEWWdfRW1CbGJiVlVKRGRSQmJVbjRCNUJWaW1ER2NjUDJ6QWdsWkhiT0ZyZF9nNTlXcHFyYmxwUWZHcEZpdWNsQ2Fhek02QlBCTWVjS1lhRFp6SGZ2M2V2aDdMUnNFTWo3QnVHR2EtVjRsRElQM3U2X0RrejVzNHMteFFrTHZEdkpweUZKNjlVZUFSSGNVbFotemVJRTc1LXAyWUNHUEN3YkJNLWhm?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T17:30:11+00:00",
-      "summary": "Nvidia to provide up to US$105 billion guarantee for OpenAI’s Ohio data centre  South China Morning Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia-OpenAI Deal Isn't 'Circular Financing,' Says Jensen Huang, Sees $600B Compute Opportunity - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGFvbHlxeS1zOWZaNEtueExRRjRIS0VPUkpfQzZyQmxXbG9ZVHluNy1ITTdKeEhuVjNmenZxaGJjdFR5SVNGZTZKcV9EQVhNLUVuTTY1djNwV254VjVNaXFTU0FkUXk3QjZUelJGa2wyYzlfN0JoekJILW1heGtIM2g4dlV0a3U1djBvYVdPMS1TV2xmUXZXUzkxLXhyRVJIZGJQV21kMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-17T17:22:04+00:00",
-      "summary": "Nvidia-OpenAI Deal Isn't 'Circular Financing,' Says Jensen Huang, Sees $600B Compute Opportunity  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
