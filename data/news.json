@@ -1,10 +1,37 @@
 {
-  "generatedAt": "2026-08-18T17:10:47.004386+00:00",
+  "generatedAt": "2026-08-18T17:46:05.417979+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI rolls out teen-specific version of ChatGPT while lawsuits dog tech giant - Straight Arrow",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR1hFSFJzWjhieExTTC14aGVMLUVHWXlvb0djS3lYelNOUHZWeHdZQmFwRmNMaXhqVjZIQ2dKMFV4R3gtbUhpQ2J5MFBjX2VpS2hmVEQ1V2NSZFoya2M5ZE5PYl84TzY4YWVHQnJPbmptdjg1bVdCeXE4QVNpdXRSbkd1RkFXbXV4NGJ2WW5Ud0pTRTJ1bEZueEpUUkM4WWs2?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T17:38:09+00:00",
+      "summary": "OpenAI rolls out teen-specific version of ChatGPT while lawsuits dog tech giant  Straight Arrow",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches ChatGPT for Teens - Thurrott.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNT25MbE14WFp4WTRMR3dhVFo2ak1QZzBNQnp1cGJkMGNrNHNacUcyLXV6S0x0UUh0LWJyQTFrX1U5UWRSbVhXRWF3VGZRQm1lUXl2by1INEFMWmJzaFRJMTZkY2I0c3dCblRVTjd4Wms0U2IyOW9xZQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T17:32:48+00:00",
+      "summary": "OpenAI Launches ChatGPT for Teens  Thurrott.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI builds offerings on consent as it expands ChatGPT ads to Europe - Digiday",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaVVCYVV2Nl9qVERFZGZHVFBiTXhkdHhzYlhIVklDczJpODdvVmZvSloxQ2RKTEE1U2RDblZvX1NrZGdkT08yQUlXczlfSW1PUjZDRzZ3WmhGeXgxc2lvcGhWWmluV1RiSmhseENhaGVfc0FSaEpyQkhPYW0zeldvREx3ZUpfbTl6US14SE5jaUpNZmVGY0FGYkE1X0JrX3dEOUJN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T17:12:08+00:00",
+      "summary": "OpenAI builds offerings on consent as it expands ChatGPT ads to Europe  Digiday",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "ChatGPT for Teens, OpenAI's new teenager-friendly version, ships with a much less 'human' approach - PC Guide",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakFFZ2ZTYjdQczRSX2FMSlZ1Zk5CRmNzbmdtNWxJUHJSWVBKWnpIU1NkRHJ0TXB2N1hTa3BEZlRKWUp6WUlMaUdyRV9pZWFiNW5Ldkg1aFM2YmZ2Y1hGSFllSjEzd0tDd3RhR3RSQVU5Rk1OV3VCUGJZS3VtWDVoVXVuR0RLdTBVWkNyVElvN0NuLVFWVmtabFFoMkFSM0trZ1YyZG5KRTlzSG0xYUZDOV9GMW4tMktmdVEwSVFYOHo?oc=5",
@@ -29,15 +56,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-18T16:38:00+00:00",
       "summary": "Anthropic’s $65-billion revenue surge turbocharges IPO race with OpenAI  Los Angeles Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VRkpodGV2X0h5U0hRTWxfUUh1em1LdURWdWtHZHpHTko5TzdmM1o5R1VZeDFhREtTaU02M2RVYlVTSEs1RWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T16:27:45+00:00",
-      "summary": "Asana cleared 5 years of engineering work in 2 weeks with Codex  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUtOeEkwdjF2eXhNNHU2T18zdGZWSkZWb2JSS3h0RmZKVGozT3ZoRE1UTnY5NVpPOUtCZW05VVdqbV9XVHZSclVsbFNjc2t6bVNrRkVDZDBPNmdRXzVIUTNiZmNTdjB6OTdJOVFwTTUxX3BTR0JuWE9pUmp2YUpHb0JicmltZG1Ba3liMnlLVmxHX19IZlBSY2o3R1o4NGJYc1J6Mg?oc=5",
+      "title": "Synchrony and OpenAI Partner to Drive Growth in Agentic Commerce - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUndEaG9NaFpMdzNfaHpxWEN4MVZfRUtObURocEUzZXEyRnEzUTFBY3FjQVlCdHdzSGlGQmpFNFpXcWZxemt1RWtSOFNCQ2lFWFBTZ0t6Q05rTmh2dEtxMnFMM2lNcnVuY0lWOUVZNmtyajNYMXlwaThnUS13Y0l0TnByUy1oOVVlbXpKNk5uRTVHN0s4ZUVkWUxSUEVkQ1BERnpXWjJBdzh2NXhUODlZTlRaSnE2N05jWFJoVQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-18T15:13:35+00:00",
-      "summary": "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount  The Seattle Times",
+      "publishedAt": "2026-08-18T15:08:00+00:00",
+      "summary": "Synchrony and OpenAI Partner to Drive Growth in Agentic Commerce  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-18T14:18:26+00:00",
       "summary": "OpenAI vs. Anthropic: AI litigation risk compared ahead of potential IPOs  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJ2TnN5Q1VTNkZRdjd2VU0ybFFEcHZQaG00d3NLTDRoaE5aT2xKbHFXX0wzbGxnRUxMRGZORUpHVm90MHJuTjVLN3FqOVUyOFRpV1c1cG1Vbm9udlMwVDN3WFMwUnRBTGl2Tjg0b2VFaDVJUUNQSzV6TGl4MTJVcg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T14:14:55+00:00",
-      "summary": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow  The New York TimesOpenAI launches ChatGPT for Teens with stronger safeguards  The GuardianOpenAI introduces ‘ChatGPT for Teens’ experi…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T14:11:39+00:00",
-      "summary": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
