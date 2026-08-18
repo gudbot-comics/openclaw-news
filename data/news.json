@@ -1,16 +1,97 @@
 {
-  "generatedAt": "2026-08-18T12:15:10.372543+00:00",
+  "generatedAt": "2026-08-18T13:10:21.281897+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Caw?oc=5",
+      "title": "OpenAI Unveils ChatGPT for Teens With Stronger Safety Controls - Dawan Africa",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3JUa0JNQ2RQbTkxd0JNSUZLWEx2eFMtdndSZmxFcUItN0dCb3VQcmZzbVg1STR4OTlLQXFyQTJfb1lNeGhQMFVHWnVKNXdhQzRhbXNBS2RKMWpyY3ZWaVpBSUxRc0pYZHhYbU1Na1JKZHUxT3o3SmlyYS04dzNpcEY2OWxSUUkxbVFzaDNvWE9aNGpGLVpR?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-18T12:00:05+00:00",
-      "summary": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu  South China Morning Post",
+      "publishedAt": "2026-08-18T13:08:34+00:00",
+      "summary": "OpenAI Unveils ChatGPT for Teens With Stronger Safety Controls  Dawan Africa",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI debuts 'ChatGPT for Teens' amid mounting legal complaints - Daily Sabah",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXFFbDNoNXZXQk9WSWlqUC12d1lLS1FlY2JlZ0Q1SUNiTVF5M0JnZzhYV0F6ZGh5WjFZR1Y1d3lhb3p0RHFNTzBoalczb0JPSmNNZ3FCOXhQWWplZHZFV3BSMUh3bUJGQ3dKV18yVHdJRl9Qb3NMNXE4bEdkMlpyWkk5SEVueU41dG00YWYtSjJKLUc5anQ2UWx3bFAybTh2T3ZEd0dn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T13:00:11+00:00",
+      "summary": "OpenAI debuts 'ChatGPT for Teens' amid mounting legal complaints  Daily Sabah",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Exec: The Solution to AI Doing Bad Cybercrimes Is Even More AI - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcGc3cnU3ZDNKb0dpZjVuTHQzTEpoeG1qN0FtaWNIanJQbDlIZ2tHeDFkU3ZQWFhxdmpHRnhjb2FidzRUOURpNHdnMFF4SkFiNXpsLWNwLXJrOVBjbWNTaDJUbFdpUW5rQnRuUWNGb2ZhRlJVVEVPX0kwM2dsMGFRdEtrd0Jlb3VGc1VvVzAxa2RSWFdZRjRsN0p3eC1JNk56?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T12:45:05+00:00",
+      "summary": "OpenAI Exec: The Solution to AI Doing Bad Cybercrimes Is Even More AI  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches Ultrafast Mode: GPT-5.6 Sol Runs 14 Times Quicker - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONTBDbm9pZ0VpQ0pJUXNhUjV3VTBwV2xfcE9wTnd4Wm03NHRqaWN2ZXpkR042TWRXN1A0OHVibUZObGJBRV80TVVjaHZ1Y3NMSmNMY0dqUTNhTUZ3OHExMjljek1IaFN3MDVJaTNzUDJkMXIyOEswaW91cEFubFZvSzFqSXhpT01jNkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T12:41:07+00:00",
+      "summary": "OpenAI Launches Ultrafast Mode: GPT-5.6 Sol Runs 14 Times Quicker  Technology Org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for Teens with stronger safety features: What it is and how it works - timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdG1qTW1oaHdZaGp3UFhUSWYxeHFTMWppYVFuOHFfZEZXUXpTNm5jQ29lWW1HazREU3hOR20tdi1IOVZhNjJQdEY0cjRmUWdjQzFISGY1akxKYXNKZUVnUUg5UUFCQ0l6Q3c3U3BtVkZWOTNnaGJ5RjNlbW9aMm4tdnNiZXJBdHNUbWhLVFdyeHFFTHBJb0xPMl9reXZuejhFUGFBcGhfX09Ob0QtZHc5TmJveUNVNVlteXRfTTRtM1RBemZBbE95OHhLaEtOWkszdk52SUdpYXc5NkJQd2s5VjAyVDdBeUFDckhTRzFtaHZsR3dUb2tzNkVpUXpRQlB2NXFYStIBigJBVV95cUxQaDlEbkx0Y3JPalVXMTZ1eWNvQ194WkVQY2VvTlRndkxsanhyTlNaZkdpQ0dPX2ZfMUdDOEhVbVc1ZXhROG82NmtUS2J3QkN3bmt1X1pybkxPeEtHMmRKQ1U0R1FTdlpOYzVSaHN5a0lBZjBDSldiSFJIVGVlTjBFTk5rVmtQR3BrdGVZbzdpWlZoWjFFaDhoT2lLanpvZnl0MFNVaTBlRTlEeDRNZ2EyUExQQU5kTkF6TXVKdnAzRDktbG5jS2tHRzI3U292RU9lODE0alhBZVF6ZktCRWluM0w4Z1dwV2tTMUVYaklQdzFtVGdaWnozVlA1Y3RjZ2VGWktZOXpqSDlHdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T12:36:00+00:00",
+      "summary": "OpenAI launches ChatGPT for Teens with stronger safety features: What it is and how it works  timesofindia.indiatimes.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches ChatGPT for Teens With Expanded Safety and Parental Controls - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk5qVGU3TGRKYWIyNjFIckxjTmIxTDRwQlRMU2w5b1NCamQ1MTJOdEdWOGg1bkRyS281RFdqOW0tUDRvMWhpaVdzQ1FWT1VoT0t6T19SX1dlZld5N1pJRzU1U3JrZ2RhSHBFVThaRS1aLXY1eXZuUGRaeXpBVG5qVUZfWW0xMVoyNE5YNWdpVzAxaHJSSkR4YXVsNk9Ma2xSOVJmWmFzek1Vak9mcVZyNEhuaFhkdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T12:34:18+00:00",
+      "summary": "OpenAI Launches ChatGPT for Teens With Expanded Safety and Parental Controls  citybiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI unveils new ChatGPT experience for teens with built-in parental controls - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SRU9udU4tYnlHaVMyVnlQSVQ5NkN5Z0o4c0UxR1Qya1dqX3pHSkV3TUhCbzgwNHZXY2NOclN6UjhWWW9USFZkb2xPMm9hQ2tzc0RzYmVUNHBaQ1U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T12:31:25+00:00",
+      "summary": "OpenAI unveils new ChatGPT experience for teens with built-in parental controls  Fox Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI unveils ChatGPT for Teens as scrutiny over AI risks grows - Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYjlJNjNQX0dQRWtfNDVlU3dSVEdmajV2YnkxVHdEWnZOQ0lZOE9xMjY0Q1pwTnc5c2NTZTJ1cWlWY0w2MURONzFEb3ZJLTZOWDJUdVVOdmhPVHBqc1VDM0pIa25jNWM3ZmpHZjNyYTBIczVEV0hzVHgxenJabXdFM2FkLWY0d05qdWU0eGxn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T12:27:12+00:00",
+      "summary": "OpenAI unveils ChatGPT for Teens as scrutiny over AI risks grows  Latest news from Azerbaijan",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI unveils ChatGPT for Teens with more safety features - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzNqTDhaS2tjNjlIdVpUZ1VkRW1wSWExZ2cyc1gteUtMMEU1OXMtdktYbVZJQ0ZQcHVlRG1lTkRTMDVFOXNnLWJpUm5KRE5KemEzY1lGZ0lwMmFkdWhxbjhucWxwa19VeHdFYkRHTHRwOWw5cHpzQW10ZFZhdU9RYXBubk1DMkZJaUk0WlBMT2UxYlRKS3ZzWmY1eDE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T12:10:34+00:00",
+      "summary": "OpenAI unveils ChatGPT for Teens with more safety features  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces ChatGPT for teens, puts safety controls at the core - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlFJemZXaGxXSm1HYURsYnhzT3JDdW1aaUxEczUxRmFGTXBxTDFncVUteW9FWm4tcEdDcmhrZ1kxZzdnbjNRN1ZsZER6dzhHSTdzd3NUVVZsTkNVdXVjSThlX2prM2F5YkZ1QzdXVXdHYnpRS3VfZVJNUWN6V3E2R1NZNFJCTm9yVlhFVmNtX3I1SDAyeTFuSVhfSlY2Rzl5bDA3WHNyYXI0eGlac3lrRkZ6S0FXSmvSAbwBQVVfeXFMTXVpM05nSFhKc1NDWWNzeWkyMWFJUlBheXNyZUNtSEtxQ3AxQ1ZGODZacVhJSzMwclRTaUMxZF9KUXlCSFNfX1NXblllQTNyVE1RdDR4bm91cVlPV3UySHpZbmg0OFN4aExKWWVKY3ktUmpKLTYwbl9TR3lWeHFUWVBCQTNSS0tiZDhTbHpMc19aMXRoU3RhOVR6UGJTQTA2YUF5NlRjQW50VFZfRXhyLUJIbS1vSXFsbFhycWk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T12:10:05+00:00",
+      "summary": "OpenAI introduces ChatGPT for teens, puts safety controls at the core  Storyboard18",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -18,17 +99,35 @@
       "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:54:34+00:00",
+      "publishedAt": "2026-08-18T12:08:09+00:00",
       "summary": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Ohio data center project to have 8 GW of compute capacity - Interesting Engineering",
+      "title": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu - scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Caw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T12:00:05+00:00",
+      "summary": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu  scmp.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Nvidia to build massive data center with 8 gigawatts of compute in Ohio - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSldONGdPTTh4ZVBQSS1PanpNT2Nsb3BEUllNQ1Fhb3I0VFB3bTd3SW1QUVFEQTRDS0hKMnVzeFFkM2tIODBPckxRRzRyeDNGNkdmOFZuVXZvdmhENUZjLWI1UXZ2TXdGN3Y5bC1RT1FzN01KV0VaZ1BvOU5NNGtvNA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-18T11:51:00+00:00",
-      "summary": "OpenAI's Ohio data center project to have 8 GW of compute capacity  Interesting Engineering",
+      "summary": "OpenAI, Nvidia to build massive data center with 8 gigawatts of compute in Ohio  Interesting Engineering",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for Teens with stronger safety protections - bestmediainfo.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR2FueGl6V1RaOF95eGtJbmtLOUdTbGJqaHowN3pNOFhNZ1ZqTkJqRzRVXzZBMmhoc0xDcEhOMGlvNUN3a1g1NzYzdklyWV9tUkJPdWwtYXBibjYwdGw4UFppaHlJQzAxejlRdC1SUjhNanZtRHhRaHZsQmRYRnhHU3ZIdGN2VzVCdWNfQ2NqNUVqMTBTalBpeWtwRmR4RGk0b2oyb2V1NDFTN1drZGMxQkV3dDBIelJpMmdRVjhiZ21LWXNLNDJUMNIByAFBVV95cUxOR2FueGl6V1RaOF95eGtJbmtLOUdTbGJqaHowN3pNOFhNZ1ZqTkJqRzRVXzZBMmhoc0xDcEhOMGlvNUN3a1g1NzYzdklyWV9tUkJPdWwtYXBibjYwdGw4UFppaHlJQzAxejlRdC1SUjhNanZtRHhRaHZsQmRYRnhHU3ZIdGN2VzVCdWNfQ2NqNUVqMTBTalBpeWtwRmR4RGk0b2oyb2V1NDFTN1drZGMxQkV3dDBIelJpMmdRVjhiZ21LWXNLNDJUMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T11:48:43+00:00",
+      "summary": "OpenAI launches ChatGPT for Teens with stronger safety protections  bestmediainfo.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +168,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI lays groundwork to compete in Brazil - Valor International",
+      "title": "OpenAI lays groundwork to compete in Brazil - valorinternational.globo.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFdWRk5YazJRN3J6bzk0a1hvYkoxaG9jZ091UFVYQlFiUW03LUdGa1ZsdjZDUVJMQU5IbTBqQlJpMWR6T0FZZ18zVXJ2cmNBQ3A3OUk2NnZacmt1ZVpWR0ZpM3dZUU9vMnh4LXplTFI4ZHVnT3VvQm9zaEFVRE9XeDFUNjRZQXA3YVIyUjZVTlBONHNRRzc4NlRIemxrRkFpQTlIaG90Z0d2NWVhVlVMatIBvwFBVV95cUxONXBVSF80eEhmVWYzeDB0UFppU0t0Q1lEV0pmcnk5TFgxXy1BMzBWSE9taXlKUGI5ZzRGMjV6aGlOblR6R3ZKU1B4Vkx4a0NxTHdmeTQ1dDMtMS1hSVdSaExNV1dtUGdaLVlFWmFWMDRvekhIT1dqUXNTQkJWUERreTNCa0FIRTdPQjNGS3pvX3pNdjRBbUtYSjFKenM0VTFEUnpZNW9qd1NpM2JhYV9HcGNqVWlRQjhuNWlKeUVzSQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-18T11:26:30+00:00",
-      "summary": "OpenAI lays groundwork to compete in Brazil  Valor International",
+      "summary": "OpenAI lays groundwork to compete in Brazil  valorinternational.globo.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80TVVGRkNWTUE5UG0xUEc1OFY2NUNxdERyYjNvbUpONTlBcjRSTHAxNWxGcWFVYTNQNmNWbXlFNElfejhLV3pfNm1FWmJ6Nzh6dFNVWWE3cU5zb3Rf?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T11:26:26+00:00",
+      "summary": "OpenAI makes ChatGPT less 'human' for teens in new safety update  BBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety - KRDO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0F0QjFNd0J1V05iZUVIZTZRbmZRa3U5QmtqNXVkNUFReVdoRlBSQ1QydW4taDRkbHE3M2pBOFFlNUxPMWFMaXpLZG03UlM0cVlLUS1pMHpPa2ZZeGFFRTlvcWJLTjd4dDIwQm1PaFRad0hqa0RDNTc5SDY3OFA0d3c5RWRDbmRWVk9NQV9LaVBlUDFFMFR5WGM1aXh3SUxtZ01pcXJEREdfY2NVaFhvRC1ZVE5jNFRYQzhQOE92NzkwMzFKS0Y3M1pGZktLYjRt?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-18T11:17:10+00:00",
+      "summary": "OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety  KRDO",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI introduces 'ChatGPT for Teens' amid legal pressure - CNA",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkMzcUkxd2ZwOVpDbVFQMWN6cV9TYm1oLWpyaEZXb2Z4TjV3T3dibTZhamQxbl8weUZLZjZIU09uTTk1RjZnYUNfRklSSjhUc08zc2FBa1FRUDV6WmV4OEp1VnUwY1FmWllMNHlkWldUQjVRcnpQU3laN25QMllsNHBLckVJLXU3SFd6TlE2NVM5dGozQXpzQ2hzNG1FZw?oc=5",
       "source": "news.google.com",
@@ -96,128 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI introduces ‘ChatGPT for Teens' experience amid scrutiny over child safety - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU1HdUpzY3pjT2J1alBPUVZ0ZGNtNmZSc2xuSEdQMjBsUFMzeXdRNklubENrSzUyd0U0eEhwREZybGJPWndYMmJET3pIMU05Q1ZFeE9wY3ViSlE5dks4UjFrY1ExVjNTX194QU5iUFQzbDJERlRDMFY0WF9RZE1LLW5RdHg2TkJuTFJTMXZUaG1OTkJiVlBrcTZ3UFk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:11:40+00:00",
-      "summary": "OpenAI introduces ‘ChatGPT for Teens' experience amid scrutiny over child safety  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI launches ChatGPT for Teens - Fast Company",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xaWJaZXZvZVd2enJhcmVQVkxnLUs3TXlZZjVsN3hwVW81RmdXbVg5dnM3TS1rTVB2ZUNQcS10b3NoZW04MWxmQ1d0ZGtOVTlqdWhvNUxTbkRJbXhwcnpwRGY4VnNudW52Znhud19rWXFtQ1YyLWdSdk9R?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-18T11:07:55+00:00",
       "summary": "OpenAI launches ChatGPT for Teens  Fast Company",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxUXRfSV9kTlJXUk02dl9WR0Q2MWtkSTVSb1FBcnN4Y2NmZEFOS2U1UGlCYnBlUTlEM0Z0Wk45c2MwQTZHYnFBWmI0UDRseVdlV2UyRkJoa19OaEFw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:04:30+00:00",
-      "summary": "Partnering with CodeAI to prepare the first AI generation  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot | National News | 2news.com - KTVN",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdHdYT0p2Z3dJczNuSnJrbDNyN1poYmt0UHM4MVEtRWJ3UnFmbGd6cGkxeEcxaGxGaXQ3V0R3aG11Q2tuOUMwN3dUbndiZlJhYkZwelJNLUhvcVdlaVJYenl2YTVjLXhCNkUtcEppMU5JREhKRE9TZExTanUtRF9IYmFzMDAyZjZlbFh5ZjVFenlrRHNLdVhyUTl3ZmJiOFFocDAyOVB1Ymh5M2k3cGpPMnQ1WndWRlBrY1V4TmJZWVE3STYwU2JmVEE3YUFTejlsS0RBeF91ajhQNWdLQWNaODJYLWR1MUdySWNtS3NJRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:56+00:00",
-      "summary": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot | National News | 2news.com  KTVN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - Ottumwa Courier",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTDVvMU1CNUM0dU90MnVXcE14SEg1YUtVUHlmNXZXNzlHS1E1UGRudml6cGZ4ZHl4NC1iTFdYMHZld1E2UVVaSmRaYUg3OGZyd1FHeGo1YkhOYzR1UnNjbl96WDNXU1k1MVhkWklabkVpWDMzS3NpMkUxT24yc1BZWHBwMnVqSEUxdGZ3cF9OOFdCeC1SLXkyNXpwelBqeEl2Z1FoUzZKUVB3Uktkc0QtTmZJT2IwODdzN1Z5R2xMTm9wMV9nMXZYeThKSVFuazBrYXIzV1gtaXRUbDNTUHFsZVhBdGwtby14NnpQRWE1Y3ZhWVcwMk9SSF9RZVl5QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:56+00:00",
-      "summary": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot  Ottumwa Courier",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - Star Beacon",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN3F4MnVFVlJXaktTQ2ZOMDlXMHZMNjA0VHhROU9nM0owNlVTYjdlSVl2TXpfN3ZzY3NjSWZQV2JYZkEtTkN2d3lQazRmUEprT0NWN3Z0X2tVaTJiR0tfYnJoUVA3VTdhSEdiOU1WVllIankyaXF4UUF1ZVJPMzVONkRJSjFRZHU2YVluSVBXOWszTko3OUFhZmVRT1c1eXZ3c2VZWlhmV3VxOXFFSDZfV2tXREozYnFWUnJmZ1dRNW5MX2dkZWVDX3QwOEMxdW9mSGRiRnF1VTRObWlHWHY3VzBnVzRXNFpEYmVkNWlsYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:56+00:00",
-      "summary": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot  Star Beacon",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - dailyindependent.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNEFWRHI5ajNESkxtY3dNX0d3emV2NUVRejR0MGVZdEROd2FmMDN3cjUwS2p2c3lncWlSZlpXcURfcmM5N2JGZTJaYldmX0h3aklTcW1vYUs2dHRmRVNmWVBUWUhFaDViNEQtQ1lQNlNmNG5VcVdlX0w4T1prakFDa0FDREM2dVBzdlpuZEQxbXAtWlNvVndDRFlTZU03cDJSQWFHeGd2UzVHYnNMby1EZzhiNFJkd1Z3d09RbFVCWUJmQ2tvb2Vmbl9uVklybS1kbmxUd2twREgxSUZMQ0wzLW1IODN2eTZCZmU1SzFtWmpLeldLbk9OY21R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:56+00:00",
-      "summary": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot  dailyindependent.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety - AppleValleyNewsNow.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSVkxOXFyZE5WcE5KMHRQalF0bUFJeWFaZEJRbDB1aVd1MHN3R1hQS1FzUHF6bHFEUFBjeWtBRXVHZGNpcHk3THdydDZnVDhKdUFHRGpxME1nV01EUXBlOEZpVXJNSGYyQ3ZfMUZ1U2R0QlZlVXN1THM4cjgtRGZ2dEtpZ2xGa2w3U3UxZzhLbUhqOVIxSk4xTm50T3I2dXhNNTk0UFVQa0VYYUFhcGhTcHVxYzFOMzhiQ0EzbzJWN0VYVVRCbElGZE5uRXZIZi1XMDNkdXRZYTNKX2g0c0xBRjZxZDNIckxzTnB6REdxMjVmXzNLenQ5WFhDVVhOSDky?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:29+00:00",
-      "summary": "OpenAI introduces ‘ChatGPT for Teens’ experience amid scrutiny over child safety  AppleValleyNewsNow.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJ2TnN5Q1VTNkZRdjd2VU0ybFFEcHZQaG00d3NLTDRoaE5aT2xKbHFXX0wzbGxnRUxMRGZORUpHVm90MHJuTjVLN3FqOVUyOFRpV1c1cG1Vbm9udlMwVDN3WFMwUnRBTGl2Tjg0b2VFaDVJUUNQSzV6TGl4MTJVcg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:06+00:00",
-      "summary": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow  The New York TimesOpenAI debuts ChatGPT for Teens  AxiosOpenAI launches ChatGPT for Teens with new safety features  BBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI limits teens to dedicated version of ChatGPT promising more safeguards - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOWVIZS1aZVE3Tm9nWVR6Sm9WczY5X2JsOFVyT1Y3MjE5QW1PQlgxQVVVX3RnVnhDU2g3cXpjZFc1cGJoRm03VW9CY1Flc1FKX04zTGdYQUVFcjljM1RlR1JJek9IUG92WTdFQTJ3cmxTUUhnUUFRQ2Y4MnJvdkhyNXlvU0k?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:04+00:00",
-      "summary": "OpenAI limits teens to dedicated version of ChatGPT promising more safeguards  Financial Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches new ChatGPT model for teens - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2QzVjc5bmQ4Y2VCcTJTN0hVUUV4ZHl4YkxHbHFpRUh3cU5kZjNqZlZ3RkY4WDlfWkV6X1FoX01aU3dsRUtCTEFTc081RmpZbHdETVRmWGhod1FCdW5yTnh2ZUhyeklVVUhpaXFKYWUyUkh2ZWtVLXcwM25JZmQ2MU9kSVFvTDhHb1hF0gGLAUFVX3lxTFB4Q1hSNjYyQ2tOd0ItS0xzNVpHd2Rka0FRbng4UUFVYU9QalM4TFQzWVFzUjJBMGhwVndoVDVRVVl1OTQzZERFR0pfWmpOVUdxRW9LY3BVdlZCeUFmMTNOVUFhS0MwdXJ3cE5pTTRaU2NZZHJ5emc2bjBySElfMUJCYkRaYjZmSm1VOGM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI launches new ChatGPT model for teens  Sacramento Bee",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "What Parents Need to Know About OpenAI’s New ChatGPT for Teens - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tZjNrZDQwQUQ0U2UzMjVhb0NWaE0wZl85T0RYcmN5b0ZvNTlmY1lRU05ad29XdEplS1paSTFVVUVvWXdVZ1Jac1JHZEdPN21sODctbFY5WXNvT29WQkNxT0loX28yVmVuUFpXRVBXN1V6R0M2S0dqODhoRGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:00+00:00",
-      "summary": "What Parents Need to Know About OpenAI’s New ChatGPT for Teens  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for Teens - Mashable SEA",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xM2tpbDN1RDYwNEM2WEljSW01ZlJGOGFxRjNoODJjbjhQcnZFdkszVG9HVkdKYWlOemJNa2cycUpIMk1VTHlJZGRFbl9XVmczVHlVWG9GdWxMQkRvU0Q5TjJRc2dtb2RjeDZjQkp2NVJ3bkw1X3hwZA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI launches ChatGPT for Teens  Mashable SEA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s New ChatGPT for Teens Has Safety and Study Features - news.bloomberglaw.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0NzOENlVU81cXpuWDVOLThLSjFLT2hLRHdac04tZEF2YlgxcVpGLTJNQmpCSXNfSV93VDl4US11bi12SmhrbUp3QnJMYzJ2NFAwaDJxdUtTX1R0NEp3bVBRZ3ZJYUYzU1FVcndmR2RXWkVxQ0FRdUdXMXN0U0FjbFpVOGxkWGZTZFozMzE3NlR6S2NFdENfNjZGT1ByR1dqR2REekFSalhOQm9zdWdwWDc1cGZabmhlVEhOSTFfYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI’s New ChatGPT for Teens Has Safety and Study Features  news.bloomberglaw.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
