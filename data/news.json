@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:15:24.364660+00:00",
+  "generatedAt": "2026-08-19T05:48:10.273704+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -15,11 +15,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s ads business hits Europe at the six month mark - Digiday",
+      "title": "OpenAI’s ads business hits Europe at the six month mark - digiday.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDlKc1dhaklUd2o0bzVGbnhOd0s0RlBhMS1xY3RBR1l2Q05QZTJSU0IwemtjSmtEem5xYVlIS3RFSmowSG5mVnJfT282TnhfSnZNb3kzczcwWkVSRmVQVnIwTGJvSWtYaExDY295U3FhendrRUZXaGlnQU5aRGFob3FteDZOWlM1bGRVRWZR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T05:02:17+00:00",
-      "summary": "OpenAI’s ads business hits Europe at the six month mark  Digiday",
+      "summary": "OpenAI’s ads business hits Europe at the six month mark  digiday.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -38,6 +38,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T05:00:00+00:00",
       "summary": "OpenAI Is Taking Its Ad Business to 31 New European Markets  ADWEEK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI has officially introduced \"ChatGPT for Teens\"—a new version of its chatbot with enhanced safeguards, including stricter content filters for self-harm and violence, as well as parental monitoring options. | via ANC 24/7 Full story link in the comment sectio - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUk52eW12U2htZGdPbTZiUWtZdDlIaG9pUjBkZVcxa1ZmRmZTOFdNVF9oTUtHNkJ2ZVJPYXFuX1pJcGRwTHNzSkxBd3JxWUVIcGswRUZXckY1eFFLVTNxOG02TUtkeTVpUFNSeFVHMWVhWEF1UjlTZ3N6a3hBZ09lLTJXb3ZOUEo2ZGJnRmJfLVo4SVZ0Z191X1d2N1Jlci1kNGYtVkx0clhXdGI0T18xeDNoYzNZUGlqd182blNoYm5UM1JXNVZJeThfSFE0WkN0WEdXQkRaTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T04:55:02+00:00",
+      "summary": "OpenAI has officially introduced \"ChatGPT for Teens\"—a new version of its chatbot with enhanced safeguards, including stricter content filters for self-harm and violence, as well as parental monito…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot - tricityrecordnm.com",
+      "title": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot - The Tri-City Record",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0dURTJJUXF4MEdaT21MNDNOVnlhM3RKRzduOTFXVkpydlhmWXB0NElGaU9vTFh0OFREOVQyNEFWQWMyUnFta0tudHdOU18tNml3UldVbmh2M2p5X3loTS05YWNvUlBrVFRmSzlqM1JwTG54OURTMWpuZXJVVFlmRlBuMC1Xam5XT2JoU3JOVzVqbkd3MFh5Z0x5Vm1hell3cDhJY3FMZFBPbkYwQ0g1WFNKQTNUMG84Y2c?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T01:39:05+00:00",
-      "summary": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot  tricityrecordnm.com",
+      "summary": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot  The Tri-City Record",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T00:34:32+00:00",
       "summary": "OpenAI Launches ‘ChatGPT for Teens’ Amid Lawsuits, Protests  SFist",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Beats OpenAI in Revenue for First Time - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUVsYVRndVFzaHVBMEI2Z3pFQ2RZbElxMmNRSXZETlZraUx4VE93dkpIcHQtc1ZITXpSTVAxNGtEYWN0bmRJeWhCc1ZzSW8wZ01BY1JPMTkyOFY1amFoMS11YnNBY0k4Uk82VjF1R2k1M2NDd0YzT1B5RkZsNEkzSkM0M01wTG1fYzVhTFl0aFJvSllBTWVBZFV3NG1CRXJXUGRlTGMxMG43Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T00:31:37+00:00",
-      "summary": "Anthropic Beats OpenAI in Revenue for First Time  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
