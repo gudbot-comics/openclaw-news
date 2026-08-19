@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-19T07:09:11.345852+00:00",
+  "generatedAt": "2026-08-19T07:51:54.820897+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Florida Goes To Court And Asserts That OpenAI And Sam Altman Are Legally A Public Nuisance - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOUhGZ3luZ3VweGVWbTZydXJKdnFxX0d2ZEJIamw3TFlGU1g0RDNBczV2SDZWX2ZWM2w3Q2RRMHRlMFZvQWgtaXJrQndxekhXRUk2a19vR2lacjNER0FyOEhGTUY5Z2RGeW1JYy1EVXRSTUNnTVBINnVhUEFsMnFTeDc3aDFqSWhiLUFqcVJuekYzcTY4NkJlbVdJYm1IMUdqclRyOVR5bmNjSllfcUIwWU1nQzItN2JWYmh5d3hXbmppV3Z3OUxGb3pIbXNhcWg3VUhzR21MdTFnQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T07:15:00+00:00",
+      "summary": "Florida Goes To Court And Asserts That OpenAI And Sam Altman Are Legally A Public Nuisance  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI launches ChatGPT for Teens - Qazinform",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yWHM2U1JaQ0liY2xzRndiTmpwUVExdUZ4aTh0RTlJTzhpdGpNQTZ6eF9FRGpaU2xnYlR3cWEtSHdwV3ZCcldNUnllQ01EaDR4RUZzOWhUX0w1Y2cxdWtGa3paVXNpR3ZZVmIzenFLamthckJHUVHSAXZBVV95cUxPeXhUa3k0N3VWNjVudkpRNjRackltRjBBa3hMZlpRQ2xPTlo4c1lpbUZOT3hfT3hrWHpORzNJeWxBd3BzSnRGeFFpcnBZN2tGdjF1UUFwM0tHZnFWUzdocXdMWUtkM0wxbUV3UndDZmt5MDdBa2x3?oc=5",
@@ -15,29 +24,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI tightens AI security after Hugging Face breach - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuMlp1TlVhSGdnNzA2TzdDYXRxeVF1VHpubFlQM3NiVV9SenhiSkY0OVBBVnZZYVVKQXBMZWxtN3k4bHI4alRwZlBaZWtPREd3SFNXbmR2TzhxbzhheVI0VV9KTU9qbkdDNHRieUxfcnJNM3JoT3pnX2lLV0sxUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T05:56:06+00:00",
-      "summary": "OpenAI tightens AI security after Hugging Face breach  BetaNews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GUVF4RURYUkduX3BKdnBlX3RNQzFVcEdwTzFUNENENjZueXpTNzY0eXlqcTBKdUtjQzIyN3k2d0MxcXllODRLN3JLOUVEcUJHMUgwNU96WW5EQTBDZ3c1LTNxeHAwRmNmbVEw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T05:04:16+00:00",
-      "summary": "ChatGPT Ads expands across Europe  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s ads business hits Europe at the six month mark - digiday.com",
+      "title": "OpenAI’s ads business hits Europe at the six month mark - Digiday",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDlKc1dhaklUd2o0bzVGbnhOd0s0RlBhMS1xY3RBR1l2Q05QZTJSU0IwemtjSmtEem5xYVlIS3RFSmowSG5mVnJfT282TnhfSnZNb3kzczcwWkVSRmVQVnIwTGJvSWtYaExDY295U3FhendrRUZXaGlnQU5aRGFob3FteDZOWlM1bGRVRWZR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T05:02:17+00:00",
-      "summary": "OpenAI’s ads business hits Europe at the six month mark  digiday.com",
+      "summary": "OpenAI’s ads business hits Europe at the six month mark  Digiday",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,6 +56,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T04:55:02+00:00",
       "summary": "OpenAI has officially introduced \"ChatGPT for Teens\"—a new version of its chatbot with enhanced safeguards, including stricter content filters for self-harm and violence, as well as parental monito…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Rewrites Safety Framework as Astra Model Nears ‘Critical’ Cyber Threshold - SOFX",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3o4ekMwV3Btb2hXS2UtT252c2RnM1dCcUZGQ2s0WG1qSHhuVC1rMnJGYm5wMk5QaFk2R2xFcS15ejVQSGp5cC1tQThobEtQVmV1dm85d3JmdHVPYmFSTk1oMjFjNFJIbFZ0WGtqUklmRnYwc3RhRTZ4MzRTY2c2MlFUSjAwRjQ4QXJmTW5jVTVlaS11Yy1nOWFpSzF2dWUyUGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T04:27:42+00:00",
+      "summary": "OpenAI Rewrites Safety Framework as Astra Model Nears ‘Critical’ Cyber Threshold  SOFX",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,11 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI Inference - Yahoo Finance",
+      "title": "Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI Inference - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTd0VkZvbnl6cC1DUVI3V3FmcG5DLVpGZXR0MDN2eE83NmVnS3BoWWlnWHRodzMtZllWVjNlNEhVNThkTHRxOGMtNnBWUU1BdDNjVXhyVTZHYTBFbmtvT21PU1FPWWN3eEtzYWd6eVAwTHdPWXBNSFVJejNybFRkanVRbE1nWXRiazBkUXpjQXNUUWR3V1Jr?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T02:02:00+00:00",
-      "summary": "Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI Inference  Yahoo Finance",
+      "summary": "Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI Inference  finance.yahoo.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Restricts AI Models After Unauthorized Actions - Briefs Finance",
+      "title": "OpenAI Restricts AI Models After Unauthorized Actions - briefs.co",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbm9XUW1sU0poa3lZQ2hGeEQzTTJLclVXc0ZnNkhMdktjdEZUWlltelc3OGs3VmRuZW1vUWt1akt4SlZjNTN0NU5rbHExa3BiQjN2NFlxeVlxVjBqSVpRdUJWN0F1NHlWQ0FoTU1xNGdPSGU3a3BvTWltbmxsRkNRcVByT1BFbW9obHlEV0FBT0xoUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T01:51:40+00:00",
-      "summary": "OpenAI Restricts AI Models After Unauthorized Actions  Briefs Finance",
+      "summary": "OpenAI Restricts AI Models After Unauthorized Actions  briefs.co",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -168,15 +168,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot - The Tri-City Record",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0dURTJJUXF4MEdaT21MNDNOVnlhM3RKRzduOTFXVkpydlhmWXB0NElGaU9vTFh0OFREOVQyNEFWQWMyUnFta0tudHdOU18tNml3UldVbmh2M2p5X3loTS05YWNvUlBrVFRmSzlqM1JwTG54OURTMWpuZXJVVFlmRlBuMC1Xam5XT2JoU3JOVzVqbkd3MFh5Z0x5Vm1hell3cDhJY3FMZFBPbkYwQ0g1WFNKQTNUMG84Y2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T01:39:05+00:00",
-      "summary": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot  The Tri-City Record",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI integrates AppsFlyer into ChatGPT ads, giving brands install and purchase attribution for the first time - MarketScale",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN0RjTEdiNmJjbC1FODZzbTdwb3c5Sms5V1FvMTkyMTJIOWV6TDR0OU05VmZGWWlWRjh4YUQtS01XZlhkRHVUelhUUTB3emQwZkhpY0tzbVFhMTBTdklZUWRoU1JIZ05FdzJOSC1ia2xQSWNTa3lFSWlzbWhPbjdPTmhRLXBtc3A1NnU1LW81elNnQ2QzM2tjUC1KX2RkVjRPdWlHcUtxUjJ3UGJpWGlpTEhyeUZhMDNCUnNNZE9VankxNjcyN2NONjBUS29Fd0JtZXh4VWlQbUx0djhVTmVBYjhXR3Y1OVpOUlpvVHllcTFjdkRkU25n?oc=5",
       "source": "news.google.com",
@@ -195,15 +186,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Halts Its Largest Frontier Training Run, Turning Pacing Rhetoric Into Operational Reality - forkast.news",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWlmX3lQajhySDFFai16TGdtZ2N0NlNIdWFWdGwtZVM4LTl5b2lndmY3VERRcVpjRmQ1aXNJSEtKR0xxV2FLcUZmamxlV1laQXpybndfSVVEd1J1UkNYS3NDMkctLUJrd2ltR0VDTFVWcmQ5MEpOdGlTQ0hZQ3hnZHkweUxaemxGRXppZWQtM1lPS2xpVWtYa1prWEJ0ckJidW1jQ195a25DcVNYSlNsaWxsR29ZeDBf?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T01:19:00+00:00",
-      "summary": "OpenAI Halts Its Largest Frontier Training Run, Turning Pacing Rhetoric Into Operational Reality  forkast.news",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Cybersecurity concerns prompt OpenAI to pause some AI training runs - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjltZFEzdEdTNmZnN1lpWkRjcVY5V19KR19CMVRXZFR3Rk1fSHBqVVZfTVVUTnZhMHYzUnVSbXdQUDVFa3dfUEdaV2txbVF5eWpHUFNiY2hWQUc4RnFHOVBKa2ljRG9TUHpsaXVyQlhKUmNZbl9GWmVzZTNHdEhicTNrSmFqZG1TUmM0QUpaakc1TGFPSGxuZDJ6TkV2SkNvYVE?oc=5",
       "source": "news.google.com",
@@ -218,6 +200,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T00:35:53+00:00",
       "summary": "OpenAI’s Q2 revenue growth lagged Anthropic as losses deepened, WSJ reports  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches ‘ChatGPT for Teens’ Amid Lawsuits, Protests - SFist",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHYteXo0ZUxyVkx3LS1McnhQVUlkVVBsRFhORko1U0c1d3M5NEJSaDR1VXAtUlZ5ZkVOd2d2aThPMnVyS1o2eUxqVk85QWlhUFhNRTJZaTRKblljR1c2SmVacF8xSWhtQzk5Yk45dzdCVldIY0JNZkcwVS1NRlpRRzNsT3V3TTA1Zm9KSlUwZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T00:34:32+00:00",
+      "summary": "OpenAI Launches ‘ChatGPT for Teens’ Amid Lawsuits, Protests  SFist",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic Beats OpenAI in Revenue for First Time - pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUVsYVRndVFzaHVBMEI2Z3pFQ2RZbElxMmNRSXZETlZraUx4VE93dkpIcHQtc1ZITXpSTVAxNGtEYWN0bmRJeWhCc1ZzSW8wZ01BY1JPMTkyOFY1amFoMS11YnNBY0k4Uk82VjF1R2k1M2NDd0YzT1B5RkZsNEkzSkM0M01wTG1fYzVhTFl0aFJvSllBTWVBZFV3NG1CRXJXUGRlTGMxMG43Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T00:31:37+00:00",
+      "summary": "Anthropic Beats OpenAI in Revenue for First Time  pymnts.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
