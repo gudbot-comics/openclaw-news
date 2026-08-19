@@ -1,10 +1,91 @@
 {
-  "generatedAt": "2026-08-19T00:57:37.824581+00:00",
+  "generatedAt": "2026-08-19T02:18:19.698788+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI rolls out 'ChatGPT for Teens' with safety features - mediaselangor.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sNDQ0WVo1RkQ5NkxWUDhpWFN5dm9IcGloa0dFZ3p6TV92dkxXOUF0SDYxdkhRSFVubERSTUp5VGdVMGFEZEpaNHJiSy00X3dMakZhQ2xB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T02:09:23+00:00",
+      "summary": "OpenAI rolls out 'ChatGPT for Teens' with safety features  mediaselangor.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Reportedly Just Gave Investors Bad News on Eventual Profitability - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcm4zUzdndEtZbnNPNnVZSk5pX3NQZWtqRkpwTFVSekJYNUd2LXo3anY1X2JWak00WnVHdnFuaGhCZ3pjWjk4cm13UER4QWNfYVJmdTh4YkpIckpxeXI4U01Cc3EyUmI3QnByQmZZU1pGaTYwM05RbGFfN0JhRmZFa3FENk1ONTVLTFdXcmNUX2ZkQlFxbGNKVjE3Z0JQdkdEZ21XMGJR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T02:07:02+00:00",
+      "summary": "OpenAI Reportedly Just Gave Investors Bad News on Eventual Profitability  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Restricts AI Models After Unauthorized Actions - Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbm9XUW1sU0poa3lZQ2hGeEQzTTJLclVXc0ZnNkhMdktjdEZUWlltelc3OGs3VmRuZW1vUWt1akt4SlZjNTN0NU5rbHExa3BiQjN2NFlxeVlxVjBqSVpRdUJWN0F1NHlWQ0FoTU1xNGdPSGU3a3BvTWltbmxsRkNRcVByT1BFbW9obHlEV0FBT0xoUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T01:51:40+00:00",
+      "summary": "OpenAI Restricts AI Models After Unauthorized Actions  Briefs Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s junior version of ChatGPT with guardrails has launched - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObHlfWFRrNGlEcTROMnlNTnZCS1FKWW5qbUVJQkNMQk8yNkk4bGI4VWhDYnJOcEdScmZrMHFXUVhsZmhZRjNtemdreGo1T3drd1FYN1ZEY2tEQW81aXJBbE5tXzlyc1BrNHZGUVdQNUlqWHdacTdqNVJ1ZkRad0YyajRmRzlNdy0wb3J3aHF1Sm5DVHNFR2VwOFVIZUYzZDhB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T01:43:00+00:00",
+      "summary": "OpenAI’s junior version of ChatGPT with guardrails has launched  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot - tricityrecordnm.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0dURTJJUXF4MEdaT21MNDNOVnlhM3RKRzduOTFXVkpydlhmWXB0NElGaU9vTFh0OFREOVQyNEFWQWMyUnFta0tudHdOU18tNml3UldVbmh2M2p5X3loTS05YWNvUlBrVFRmSzlqM1JwTG54OURTMWpuZXJVVFlmRlBuMC1Xam5XT2JoU3JOVzVqbkd3MFh5Z0x5Vm1hell3cDhJY3FMZFBPbkYwQ0g1WFNKQTNUMG84Y2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T01:39:05+00:00",
+      "summary": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot  tricityrecordnm.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI integrates AppsFlyer into ChatGPT ads, giving brands install and purchase attribution for the first time - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN0RjTEdiNmJjbC1FODZzbTdwb3c5Sms5V1FvMTkyMTJIOWV6TDR0OU05VmZGWWlWRjh4YUQtS01XZlhkRHVUelhUUTB3emQwZkhpY0tzbVFhMTBTdklZUWRoU1JIZ05FdzJOSC1ia2xQSWNTa3lFSWlzbWhPbjdPTmhRLXBtc3A1NnU1LW81elNnQ2QzM2tjUC1KX2RkVjRPdWlHcUtxUjJ3UGJpWGlpTEhyeUZhMDNCUnNNZE9VankxNjcyN2NONjBUS29Fd0JtZXh4VWlQbUx0djhVTmVBYjhXR3Y1OVpOUlpvVHllcTFjdkRkU25n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T01:29:00+00:00",
+      "summary": "OpenAI integrates AppsFlyer into ChatGPT ads, giving brands install and purchase attribution for the first time  MarketScale",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI falls further behind Anthropic, with disappointing revenue growth and mounting losses - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZWlqbE40em5vR0FjUDdMWTE1dExtc1MydFFsZ0J1Sm1QVjFXbmk2SHBQVXh6aFQ3NkxrWUV4bFJndUlfb1NuU1Y4RnBMQlY1dXphZnU0N2lycHo5c1JnZmlfWnpWc1JxSkY1UWZlVTFtMzd0d2tXVjJqZWlQZlF3NlNtWThDMVBhWjdxTVdzNHpjQ2ZZaWNKZkdKN2M3aWVxYzRzZjNrTFcwVTBOdWt6Q21xWHU2S2xmTXRMSmxQX2wtZ0QzMEpz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T01:25:00+00:00",
+      "summary": "OpenAI falls further behind Anthropic, with disappointing revenue growth and mounting losses  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Halts Its Largest Frontier Training Run, Turning Pacing Rhetoric Into Operational Reality - forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWlmX3lQajhySDFFai16TGdtZ2N0NlNIdWFWdGwtZVM4LTl5b2lndmY3VERRcVpjRmQ1aXNJSEtKR0xxV2FLcUZmamxlV1laQXpybndfSVVEd1J1UkNYS3NDMkctLUJrd2ltR0VDTFVWcmQ5MEpOdGlTQ0hZQ3hnZHkweUxaemxGRXppZWQtM1lPS2xpVWtYa1prWEJ0ckJidW1jQ195a25DcVNYSlNsaWxsR29ZeDBf?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T01:19:00+00:00",
+      "summary": "OpenAI Halts Its Largest Frontier Training Run, Turning Pacing Rhetoric Into Operational Reality  forkast.news",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI paused some AI training runs over cybersecurity concerns - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjltZFEzdEdTNmZnN1lpWkRjcVY5V19KR19CMVRXZFR3Rk1fSHBqVVZfTVVUTnZhMHYzUnVSbXdQUDVFa3dfUEdaV2txbVF5eWpHUFNiY2hWQUc4RnFHOVBKa2ljRG9TUHpsaXVyQlhKUmNZbl9GWmVzZTNHdEhicTNrSmFqZG1TUmM0QUpaakc1TGFPSGxuZDJ6TkV2SkNvYVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T01:18:00+00:00",
+      "summary": "OpenAI paused some AI training runs over cybersecurity concerns  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI’s Q2 revenue growth lagged Anthropic as losses deepened, WSJ reports - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTnBaLXhPT2stb3R2XzlINHpiRXJzMUZBMkVGN0dqekFwN21lY25PZ2hXd3Bocmt4RkRIRmVUeFVXSG9nMEFGcHo2RGJjSXhMbGFWSWU0MXhaeU5Uajh5RGZJQjZFdlF4azNzR21mU05aXzhTVWNMcGliVDFLcnFzSElPNVpGVy1rM1JENndvX1hCZUVHaHZ6OG11aUJJZjgyY0Jnb1BSU2Q4NFNSR2JwRk5ldzJuVmlaWDkzczVvSjFHVE5BSkNYSmhB?oc=5",
@@ -51,11 +132,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed - EdTech Innovation Hub",
+      "title": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed - edtechinnovationhub.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3BoOXZuLWtVWkxHd2p6Z3JzSVVXZTZlT19wd09PMGZLQ2FEYWJROFhjNVNUMDRsenZKWEJxTXhBeXNNaW5MbVFNdEhLejZsSUNraWJYOTNlX0ZPOWNqYXJhQ2tVZmRPVVRMeENvTnEyazNqRG5HQ29WbW9QemktXzBKRU1OVE1xN2N6SGFwZWdSYk02bTF0QjkwRkp3LTVmY2doaGZBLVk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T00:01:09+00:00",
-      "summary": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed  EdTech Innovation Hub",
+      "summary": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed  edtechinnovationhub.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI offers Ohio students $84 million in Codex credits | ETIH EdTech News - EdTech Innovation Hub",
+      "title": "OpenAI offers Ohio students $84 million in Codex credits | ETIH EdTech News - edtechinnovationhub.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEpmMU41OVdWV1NGajJmMDFHS204elBaTFhPb0ZwM1BFWWJDdkgwZzdpTVhTSHF0MWFRSnVSQ2cxeDhQaUFWZjNZcUFCamQxMVdSTnNxa1RzRnRmSHYzRHFoNTNTZUdmTExrei1UUUttNzZ0R1IxVmlsX1kxNFZqcmZ1M3lySFJ2bFBwUmlNaUxKLUJrSFRkMFVabjFNSEZVQWtGZXBGSHNCU3hmckJvbWVscUhvS0NWUGZoZWlFWXRweEU?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-18T23:17:01+00:00",
-      "summary": "OpenAI offers Ohio students $84 million in Codex credits | ETIH EdTech News  EdTech Innovation Hub",
+      "summary": "OpenAI offers Ohio students $84 million in Codex credits | ETIH EdTech News  edtechinnovationhub.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -137,87 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-18T21:46:05+00:00",
       "summary": "Video: Opinion | The OpenAI Hugging Face Hack, Explained  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is rewriting its safety rules after the Hugging Face breach - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVJhZ3BNZzlaelBuNkV4MzdlTzBrd3o0T1ROTUhiaG1SNHR6LXAzZE12RXRxWjN2cVRMZ2hjX3lyNUR3ck5ueGVFTGpUeWdBN2pfZkVTNG05RkM3cnpxZTN4YXVfdDRwRlZxS3ZkSF9kVi1sRWVxaDBSS1VmcDE5NGlUeU9wNzhrTVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T21:41:33+00:00",
-      "summary": "OpenAI is rewriting its safety rules after the Hugging Face breach  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says it will expand monitoring of model testing after hacking incident - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2t1WHBwRTFxYUh3OW9iVlE4R3R4ano3QW1NYzJnajdoU0hFQjFRcGFfbGR3WlNaSWRrOFRKYzJuUTVaVll0eF93M0xTQ2Q0MV9BTHZ0YmpicTJEaGI5ZkhXRS1hWUZDcWZrR29VcW9jdHR3endveWJ1cDZobUdVVWlHM1Y?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T21:33:27+00:00",
-      "summary": "OpenAI says it will expand monitoring of model testing after hacking incident  Financial Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAi introduces ChatGPT for teens - ABC Columbia",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQk1KTVNhLWJGYVdJMmNxNEFtYXp3ZE9fc0M2aFNEeUwtdEFMYmgydWtweXFXZmRvZWRWc3RoS2VkcmtLRk04bEg0b3hKVFkxcUJKVEpWM1pnREJIOEpZOW1ZWjZVd3JycXRXaVlWMzZUT3dlMHd5TnlTR1FUUERabw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T21:30:52+00:00",
-      "summary": "OpenAi introduces ChatGPT for teens  ABC Columbia",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI rolls out new ChatGPT for teens - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZXF5LTVlLXpnZW43bWZ5aUZSTWJnVWZFcmZiUmlUT3RpaWtSVHZSRVJTbnUxZkI1TjB3WDZyUUFyZlFVZFlUeEUtRUtzZzVJRGk3Q3lMaXM3aVlraGlZMEhyUHBxaWh3T0FoWVl1NEtzWnAtbEhPMXR5aDJpeGplMQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T21:29:00+00:00",
-      "summary": "OpenAI rolls out new ChatGPT for teens  CBS News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT experience for teens - thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZDVETGhiSEx6V1MyVUx5MWJ1dzZVWDFOMXBDX01JUHkzbGdoRkhIRlNCSE1INlN0M1VKS0dCLTBFa2wxRzFTbnNWLVBOQjhNVjJZUDU2N0xkNVkwZ0daNFE4UVFGMkNrek5NVWdMTkJUUWE4R0E5ZS15bzg3cm1scFhWc29qSXRqRmQw0gGQAUFVX3lxTFBfTUZvSDFVbV9sc3JRUzhyQkg0VFFiQW02dWx2S2lRR0s2TE5Rcm5oYW9vMEwxbnFzVXJSUUg1QjItdEFTdWtGQlM5OEZ0MUVWdXdoQlBYbkszZ1dNYWk2aVB3UVRSZk9xdkJ4RDRIOEU4dHQ0eGxTbFZSYmloaGRkX0o4YWdHOWx2MnN4NUJTTA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T21:24:00+00:00",
-      "summary": "OpenAI launches ChatGPT experience for teens  thehill.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for teens 13 to 17, claims improved safety features - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemxGUmxhNklGOFJvM0p3NWdFQkRyZG1jMWIwUjRxVE15Rk0wZEJTOTYxazN2a1ptRHVyekZYOXFIY0hWZzZNYzZaeGVDdTA4NG9TSzJVeTQ1OTM4QVhqQ3BJMExoTElpQ01pTE9YMFJIelpQWVI5Z3diVWxIb2w4OGlLOGdnOE1TdmZRSE43MnA4ZUtzckZKNnhxZXBiQnVCYjhfaW5Tamc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T21:21:00+00:00",
-      "summary": "OpenAI launches ChatGPT for teens 13 to 17, claims improved safety features  CBS News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI sets stronger security safeguards after hacking incidents - KGW",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTWd2ZDJ4dWNSdDJ1RjM4d2p6dlQ5YWl1OWgzWXBrV09ZcWRZMGRwbzVfX1NaY2NuQjZMMFBvdEVJTldYVzRUQW5FX1lPU0RiTmlkY05hRWdCRUYySTRCUkJ0V3I0dW5zNFZYaVZ6LXVDelZOUm1VLVVlVlRBaURlV21BNVhVWWFsUE1jOU5kS3NaN3ZwSzI2aUdFRWo1RmxGX1BmbUUwT3gzMGJJMzhjRDRSQzFWWHI0MGdzV1F5RVlUc00xa2Zhd3FTU1RqMWFOcGFFaU1FU1pUYU1lb3RV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T21:19:00+00:00",
-      "summary": "OpenAI sets stronger security safeguards after hacking incidents  KGW",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - WPRI.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFU4UE92Ti1Wd1g1OXEyOEszeFU2c2h2bl9pMVpsU3FhYXZLVmNQYVJISU1veDgzaldHc3REbGV5ejhKdjRBTGo0bDI0NFVERUdLWDNUdWZOVWNwcXdkRGlsNHd4QXZMWHhvSDVOZVN6bzhkVjF4b3BaWWFjbkVBT0pra0p4VE40QVJsaURoZlNtQ2w1RDZOam5IaHVzVUFxV3dzOGUwY0FwNGlIM1p6cw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T21:13:37+00:00",
-      "summary": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot  WPRI.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI rolls out ChatGPT safety features for teens - The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEktdXlLQXA3dzM3U21uaVd6V3VKakFSV2o5TWtRZE9VRC1pZ1FwVTRKS1haRGhua3NZYUFNc0tFRXZ1RnVGOVFOYjk5UV9Rd0xfNkZGQm5jR2dKQlBTcUY2bFV0aGE0MHBCc2Q2WGhlMlg3UVdrUTZBVmZMTVF5NlhrdkxZZERVUjBjaGtNUEdLTGs1N1VZdEsxNTkxOEFETUdZeA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T20:53:23+00:00",
-      "summary": "OpenAI rolls out ChatGPT safety features for teens  The American Bazaar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
