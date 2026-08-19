@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-19T21:57:54.533937+00:00",
+  "generatedAt": "2026-08-19T22:26:45.914266+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE1RX0FaeTZ4N25BV05ZYnhqS3I3bVd4aHB2WWI2QUhCV3czRmh2UGxWUjhKNDB5OWNoUldnd002WWFidk5QaXhtVG1Kd29UX2JaR2FxcWNIbGVCNndVVnhRYkF4UlpHejZRTWFVWXdvR013dkU3TWFzbjJIbG9sbDFHYTI2S3I3bFZaQkJTYXg5aVhoMHVtUHVYSHB1dExJTTUzN1poa2I?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T22:10:46+00:00",
+      "summary": "OpenAI seeks to one-up Anthropic with new customer privacy protections  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Scales Back AI Development, but it Could be Too Late - AI Business",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZBbVR0aFJ2M0dPTjdSVHBqVzR1UlFKam5UQkV1WmxWaDRidkFlemNLdnRYWVEzdkZDZXdJVHpvM1dlZ3FFVTFwaXpNZWNDQ045dUlnQU45dDkzdjA3T2c2Tk9yMnpGOGFtRFNKZGIxZFBiRUJGa1V5V1M3SkRyTG9wWVk3dFR6TzFDSVk2US1Edw?oc=5",
@@ -87,6 +96,24 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Says It Will Be Public by Next Year As AI Battle Heats Up - barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcjVqRWFQaV9oUlVUS1UxMXZqbTBybVhfYmRPdDBEMnFDLXg2QVZTV0l4cFFIdzN5UU4tX2gyWlRSQXBmQWtZbFVvRzRkOHRwUDV5UVgyQlhqU0RQRzJVWHNCeEQtcUNUY0lmbU1BbDNfandUU1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T20:59:00+00:00",
+      "summary": "OpenAI Says It Will Be Public by Next Year As AI Battle Heats Up  barrons.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Plexo Capital's Lo Toney weighs in on OpenAI lagging Anthropic in revenue - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdDBDTEtzZWdTV3lRT0QzZHpqa3ZQYVhDWXU0cV9wbkphVW1qOUlKY042QW1NRTA0VE84SzZ2TXpvUVFWbzFQd0xlVm9aSlUyeEt2QWtqTDd4MUdqNUY4UXNRQVhnaVlpZTZZS3VyMTRvS1U1bm5lQmVIbWk5V2VOekRvWk4tb2gxa2lreElRQlNfVXZSdlhOcTI5ZURGczlyb2Q0R2h0Y3RiTjFONGVucFphNGpKQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T20:58:11+00:00",
+      "summary": "Plexo Capital's Lo Toney weighs in on OpenAI lagging Anthropic in revenue  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Why I Wouldn't Bother With the Anthropic or OpenAI IPOs - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHNaTUdFellBOFg5aFltSEZLZldxMGJuOFBCaHpJTjhjVzUxcVVQal9mTlFiRjZRTjQwUnBLMS1LdVl5TXhTUVUtWWxBQjVpOUpPMTJ5SDFHdHQwZmVKSDdaMEFyWjJsQ2ZHcXhaM2RxbkNxQ0I0NVpzRGJ2TXRJQjljTHp4RThvVkhZc3VBZjc5cWRud2pv?oc=5",
       "source": "news.google.com",
@@ -101,15 +128,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T20:46:00+00:00",
       "summary": "OpenAI introduces new ChatGPT version for teens  WFSB",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Hit the Brakes on AI Training After Models Went Rogue - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekkwODhldlhSZ1ZXRHBVekFJSXFkQm93Smh5OFkyYVphTFlZbE9lU3gxOXpld2tkWndNbzRkNjJOeDg0c0tSaEw3NFh3RWVPclI0a0F6WnJ3WnFpemhqVllCQzRJRW5mZHpoYldVRTZKUE42U3QwZ3N5RmU2eTZpcDdwa0hZVlFjaGRVa1A0VlhSOEFCLW1FVHk2V3NoMkROOXFiZlA5eUluU28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T20:42:00+00:00",
-      "summary": "OpenAI Hit the Brakes on AI Training After Models Went Rogue  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,11 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Says It Will Be Public by Next Year As AI Battle Heats Up - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcjVqRWFQaV9oUlVUS1UxMXZqbTBybVhfYmRPdDBEMnFDLXg2QVZTV0l4cFFIdzN5UU4tX2gyWlRSQXBmQWtZbFVvRzRkOHRwUDV5UVgyQlhqU0RQRzJVWHNCeEQtcUNUY0lmbU1BbDNfandUU1E?oc=5",
+      "title": "OpenAI announces stricter security on AI testing - CNN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUDU1YUg3MHBUVGgwWUpqc3lWRHl0YVo1ektucVhhQk9UNDJvREctNHczSWlxQzladnlOZE1PNXI3aHNYcGZ5WjFuYlg0SXNwbTk2LVVSMFIyZ05HZVhGd3BMUUxaTUQySlVaWDdfNnF2Q0xDOUN4c2YwRjZNM1FSWlRGMGpDemZhaU43Z1VPNGVhZ3ZrQzZJa0VBSVg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-19T20:32:00+00:00",
-      "summary": "OpenAI Says It Will Be Public by Next Year As AI Battle Heats Up  Barron's",
+      "publishedAt": "2026-08-19T20:38:23+00:00",
+      "summary": "OpenAI announces stricter security on AI testing  CNN",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,6 +164,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T20:29:00+00:00",
       "summary": "Daily Digest: OpenAI reels in AI training, Oakland Trader Joe's plan changes  The Business Journals",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObE93ZVZCeFdEbzNUZE1SamxRX2hrV0tWemVFSlRVWWItQ3JXdlRZMEUwbnpTYlBoTkZucVZsUEJpY3NUX2w0T1ZxdU5ubFhud1JMb2p1dFNXY0dQNC1zeWk5Ni1nMElqSENuQkRkdjJ0bE5sZ2ktVlNtMzVnTjgzeUVOWllUR3hkXy1KWWhXTlZTVHFkSzNuY3ZWMVRPS1BXNTNWdFpR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T20:04:12+00:00",
+      "summary": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T19:42:45+00:00",
       "summary": "OpenAI is losing female execs. But data shows women in AI don’t even make it to the C-suite  Fast Company",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94QkJmU0lSZG9WQ2xIeVMxWDhRaHVTZHFzRzZvd1E4WmpCRlNOaVlLNHhNMi01UEVuZHRFVlBwMVh1bHV6bG0zdk9kTU9RTEV3NnNvZkNoTjl3OW1rRmFiQTBGRVZ1UnUzTy1naXFNcmpOSEVGUmpYTE5ZV3l0c3M?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T19:38:46+00:00",
-      "summary": "Offering Zero Data Retention for frontier models  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T19:23:36+00:00",
-      "summary": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI introduces ChatGPT for Teens, promising more age-appropriate chatbot - PinalCentral.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWVNBVkxiN2J6Q1VaT21qamlOLTBIYTdKSlN4V3B1cDNmRFFLUkxZMlp0OWVTbGNCTVNnRU11dnBFck9fcHczTFQxZXNBYzZBY2RsR2tfQV9MRGdwYk44eXVTcWZVYzVKVWFlSURmRHB5WXRnZkpfRjVWMzhvWWhleUpUTk04dGRSYTZPXzdXM1Q0QUMyblhPTF9nZTZWalVPSmxTcVJRYjYyblM3ckFNclY3WHZfOUFPSno3c2VVNmgxSEVoVWJURmhJVmQ4WFZHTHhOUVdIazBsNzdBc3dnYzJNUnB1eEM2R3RIZXFRSTZfZHlRWWUxc0NpajVlalFQaGNUMjF1RGM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T19:17:35+00:00",
-      "summary": "OpenAI introduces ChatGPT for Teens, promising more age-appropriate chatbot  PinalCentral.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
