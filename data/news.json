@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-19T17:25:04.299216+00:00",
+  "generatedAt": "2026-08-19T17:48:39.338365+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Hermes Agent Is Now Four Times Bigger Than Claude Code on OpenRouter. Here's What That Actually Measures - Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTZMNk1zWUZYLXItdjItOWpobUliakh3T0oySTR4N21Tb09DcVpWZG5oNnhfa0RzaWFGVGw4Z01yNWhGTEF0Nlg1a0Q4M2ZCVmdoZER6R0thdzJUNTNiU2ZaakdEYW50UlFJams3X3pnMFpVUVVVYWNiMHJzaGhQU0FLNXRyOGIxVkJ1ZjZZZDhHUG4wa1ZGTkNlSzI5S2ZOeUJtVTBsMG94ZnZFck9jeHdjOUpqMnpqQ0JMWmEzRVBtQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T17:31:00+00:00",
+      "summary": "Hermes Agent Is Now Four Times Bigger Than Claude Code on OpenRouter. Here's What That Actually Measures  Memeburn",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
     {
       "title": "OpenAI is launching a new version of ChatGPT for teens - kyma.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2g3cUhod3R4NWNFcURURTRqZEd5bDFndTdyQVlqcTMySGx0aFVlSzhoU21DcFVuNzFkR3dfejJvaGhRdUVqLVhuZ2wtVDFpZzRiR1ZJeTgtYjJEQ0JjOGQ3aXd2eHhGSXNlLTl6T0lJV3Y4OVE0SzVtWmhKZ3JRcFJYY0ZoVG0tclBiSXgydTdhS2M?oc=5",
@@ -22,6 +31,15 @@
       "summary": "From OKE Alerts to RCA Drafts: Building a Guard railed OpenClaw Incident Assistant on OCI  Oracle Blogs",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI hit the brakes. Now what? - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVBpOGVMWlVRLTRvMkhuWndIZVBLRTdISmxRNXpQSk1kU0RHNWswNjVfeER4LS1JSkRuTXQ4T0FZQ1QwRzBMcG85TE5kNjlJcXBUM1QyYU1oMmtHS2RUS2RQaUxoS0p4YjhlWGM2VVR4aHBWVUdhUEtrZERPazBNb0NWSzFDZldieGc0Ul90bzVHUFoxM2hwZVN3QU8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T17:10:09+00:00",
+      "summary": "OpenAI hit the brakes. Now what?  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
       "title": "OpenAI’s safety monitoring adds about 20% compute overhead - The Next Web",
@@ -47,15 +65,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T17:00:00+00:00",
       "summary": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Gwyneth Paltrow Draws Backlash Over Alleged Private OpenAI CEO Dinner Invite - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbi1OZWtVX2NHSFNGTVo1UV95aTI2LW9xV0FMSlhLWi13OE5ZdTZXZS1iRjJWaVpnRmI5M29QQk1yVnlnd2NUQVRQNDBpb09oZUtXMzQyOTlRSjdGZHBONjhfbDA0WlRmNFUxSDFvNGtSeEZOVGMtZmR1ckttc3k0alRQWWxxS3dLazBPVk0yZjZLWXhqU1NQUk53Tm9SbEp1WGtjQlZuU2E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T16:43:43+00:00",
-      "summary": "Gwyneth Paltrow Draws Backlash Over Alleged Private OpenAI CEO Dinner Invite  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,20 +105,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Pauses Training of New AI Models, Citing Cybersecurity Worries - CNET",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONlZvbzB6clc5bWZ0TFRuNE5xcUt6ZDA2YmQwQXdQVGFvM2J3RlRtWjRWUDFNeWIxTDNRTkxYZ0QxVEJoVWVwU25sOUlUWVFXNUp6RWZMdHRHN3YwX2Yxek53OVIwNmJINFFtdDJZbjVZM2s4WHdzVXZXMnhOTVk5NXhvTEV6Z3RKczNSSVhrVFh2bXJzRHEtZC15OFJlSWJOZ1hpVFJsSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T15:29:49+00:00",
-      "summary": "OpenAI Pauses Training of New AI Models, Citing Cybersecurity Worries  CNET",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI has teen-friendly ChatGPT responding to instances of self-harm and suicide linked to chatbots - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkhGZGw3eFQtUHFUcVBzSHc5Y2stQl9zcUFua013a2kyRzgxeE1PZlFlSUhFODdyMTM4Rm9lNjRCUU5ESTZkN3ZqMm1vOHR0RXlFeVBuVHp3YWotZHozYVo3dXpfSnRKVEZYLWJrclhTSWQxckwzWDhKcXBPT3ZFakxWTnhlU3psUGEtR1pEck1PUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T15:27:50+00:00",
       "summary": "OpenAI has teen-friendly ChatGPT responding to instances of self-harm and suicide linked to chatbots  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI pausing some model work over safety concerns - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90QXRlYnVPc0tNTmR2TGN5UFRHR1dMaFp6ODdOS1RvTVRvdV9TZWFJVDRUNjBjbTlqM0RfQjlRYnJqUWs0ODFndmNOX0JyQm5tZVZZSmtFTWZnOWZ5eFFKVXdlM25jZG4wMVgwSHY2RVBNYU5xY3c1LXpfWGbSAYIBQVVfeXFMUFV3M05sSDhkQ1pOSWFSaHN2TmwxXzNWTmQ5cEhwb05lUmhKWkJQSTZLSktGRUJlRE44aFRGb3RpTFF2bWIwVklheFREWGRXcm5BZXFuemluWXpkUXdvdmJ0djFPd2xhMUV1bVEzQkVmaF8taFBjbXhzYjV4RDE0YTVodw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T15:22:00+00:00",
+      "summary": "OpenAI pausing some model work over safety concerns  The Hill",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,6 +137,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T15:05:20+00:00",
       "summary": "Verdict Capital’s Michael Fertik explains why he believes OpenAI may never go public  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches teen ChatGPT amid calls for greater child safety - Silicon Republic",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzZkaGlsSEJhdlpSd2tjdTFJT3VaYmU2S0FJRDB3WmNuam9xa1hnTV91dHljLWZzYkl3OHZPeERrV0twNmI5ZHlIbmRZLUU5QmhzNGJXQ0VoZ1NoXzlVM0VrVERjVGdFM0hkRS1BdEp5a3dFU0ZNV0xOblM1S09DZ3NCcVNNenBDRUZfVWhqZVRHYWx3VmZVcmVqdmM2U0NwcmV4NDh3Y2dBRm03anlDMUhqSTh0UHRnbmJfb19WNjFwclVIR1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T14:44:48+00:00",
+      "summary": "OpenAI launches teen ChatGPT amid calls for greater child safety  Silicon Republic",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI has teen-friendly ChatGPT responding to instances of self-harm and suicide linked to chatbots - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU2ttLW1xWG9LZU1LcmczUjBudk1BdUE4RWpBZUFDZFNfQllZTG5hNmFydy1ENE1FS3hnRXBlT1hsQ2s2MlA2QndjUzU1aEZDRGpJRExiSDFkclNuUmhpVUhfdTJwak9ORDRwc04tRkxHN19pejhJNmc4LW9wM2VxNGpPd1VXa0VLSk5F?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T13:35:00+00:00",
-      "summary": "OpenAI has teen-friendly ChatGPT responding to instances of self-harm and suicide linked to chatbots  CBS News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "\"What Happens If OpenAI Dies?\" Here's Why Ed Zitron Thinks OpenAI Is Running Out Of Time - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQempDYVJoam12SnF2MzNQeVlwblFpM3pSNFNOLWxvaGNrVTE5OVhwbFBTRmdXVTFYX3JnSFhtNXRfby11SWNPRjVPRG1xblNLVTNuY1ZIT2M2UjYwR2duUnl5Q2gxNENJcUxDOHNKOVNNaldJWnliNzFTbmNQeHl2cXM3R0EtT3FCNzAwLWxqOVl3R1NEWEV1V2dDX3ZPM3RsWXZSeWlub2wyeXk1Wkw4RnM5Y2dFV0Z6THpCMEtWOVlNQm5mTGJ3?oc=5",
       "source": "news.google.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T13:00:23+00:00",
       "summary": "Synchrony expands AI strategy with OpenAI collaboration, names chief AI officer  Hartford Business Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT Ads to roll out in 31 new markets as OpenAI heads toward IPO - Marketing Brew",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWF9NandBaDVKWXZoNE0wb2pTT05vejl4a3NSR1ZRRV9pcGs1MzBuSWt2cXdnTGhtQmV2NWZLcVV4TVZrSWdmUEs3V3M3SnU5OV9IbXgyclpQZENQNF9sbUd4STd4RUd3Y2hQV2ZCYWQzQnBMcFIybnJxQTdyR0FWdGtKR1VfY3hQSzlGcXg0R1RjR3JMQWdHb19KNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T12:51:55+00:00",
-      "summary": "ChatGPT Ads to roll out in 31 new markets as OpenAI heads toward IPO  Marketing Brew",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
