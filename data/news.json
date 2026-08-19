@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-19T04:01:14.823159+00:00",
+  "generatedAt": "2026-08-19T04:47:25.704616+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI Slows AI Development as Safety Becomes a Business Constraint - Times Square Chronicles",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWVIWHUzNEJqNTQ5aVhyOHJoSm5sanlENi1lVWF4b0w1MGtRcEZDb2I3a0RBZjdSVnNhUXhoMnZmSVcwbkExaDRlaE5oLWpKOTYyY0llRUhpS3BKeUtkSkNSdGZXRkhFS3BmWHdfWUxLbDJhblRSSU0teDl3M0ItNGRGUEZpbmVLUWpUZTV1ZUQ1UmFq?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T04:00:55+00:00",
+      "summary": "OpenAI Slows AI Development as Safety Becomes a Business Constraint  Times Square Chronicles",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Elon Musk Warns Nvidia-Backed $105 Billion Ohio Data Center for OpenAI Will Take ‘Much Longer’ to Come On - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzR4cml0YzExZlZRVGszdzVLdm5WNDlhWlN3T1c1Q1NuWG9FbEVvdEZNMm05a2pkOUk0eUJiTndWZjN4a0lRRTJxcTdfRUUwSy1vY2xfQzA0RkZWZWZUalNTWE5hSW56TTNheUpHUTZSblU2cEM3MzIwMWVtTGZWYU9ySUU1RUx0SHNsbHNfR0ZwVU9IZUZmallENmp3SlZfZTVXVG9DZVdCYURTQjlRSg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T03:29:23+00:00",
       "summary": "Elon Musk Warns Nvidia-Backed $105 Billion Ohio Data Center for OpenAI Will Take ‘Much Longer’ to Come On  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains Over Reliance on OpenAI. Here's Why That Matters for Investors. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3hmbXlCZm8ya3JPUnBGY2RkV0w3Z0h2SC1LVTBWWFFRM0IyUDdmaXpHU1FqS1U2cjRjMHdSUXdTVFZZeGVoWGROMzlPUzJFX2xrcjFLanZiMi1xMU9IZERYaU9WR19pOUsxQ1l5RldQY3BYTHdaclY4Y3lfS2NEaVEwSl9SSWdIbnJVdlpNUi1WZUhCNFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T03:18:13+00:00",
-      "summary": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains Over Reliance on OpenAI. Here's Why That Matters for Investors.  The Motley Fool",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,11 +60,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Reportedly Just Gave Investors Bad News on Eventual Profitability - gizmodo.com",
+      "title": "OpenAI Reportedly Just Gave Investors Bad News on Eventual Profitability - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcm4zUzdndEtZbnNPNnVZSk5pX3NQZWtqRkpwTFVSekJYNUd2LXo3anY1X2JWak00WnVHdnFuaGhCZ3pjWjk4cm13UER4QWNfYVJmdTh4YkpIckpxeXI4U01Cc3EyUmI3QnByQmZZU1pGaTYwM05RbGFfN0JhRmZFa3FENk1ONTVLTFdXcmNUX2ZkQlFxbGNKVjE3Z0JQdkdEZ21XMGJR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T02:07:02+00:00",
-      "summary": "OpenAI Reportedly Just Gave Investors Bad News on Eventual Profitability  gizmodo.com",
+      "summary": "OpenAI Reportedly Just Gave Investors Bad News on Eventual Profitability  Gizmodo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -92,6 +92,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T01:51:40+00:00",
       "summary": "OpenAI Restricts AI Models After Unauthorized Actions  Briefs Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI halts testing, slows development after model went rogue - ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUtfdGk5UHVIOWF2aDJucXhrdUlnR2M3OTI4ZG9GQnFucUVVTlU5ckxBTHVSTUpuamIzY3laM0xvcWFvT0l0M25fTXpmZmZDWDl4eXdlMjVoSTdQVGhyV2lWam9xcTExbjJHWGZaeThrQlhUcWNqMV9Ja2l5YnJrLWEwY3RYNU5TXy1oQ21HOW5DbTk4Q1hobE94N21oaUJFVFA0QU44MWNMVWtHRzRxMW1R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T01:49:10+00:00",
+      "summary": "OpenAI halts testing, slows development after model went rogue  ABC News & Headlines – Australian Broadcasting Corporation",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed - edtechinnovationhub.com",
+      "title": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3BoOXZuLWtVWkxHd2p6Z3JzSVVXZTZlT19wd09PMGZLQ2FEYWJROFhjNVNUMDRsenZKWEJxTXhBeXNNaW5MbVFNdEhLejZsSUNraWJYOTNlX0ZPOWNqYXJhQ2tVZmRPVVRMeENvTnEyazNqRG5HQ29WbW9QemktXzBKRU1OVE1xN2N6SGFwZWdSYk02bTF0QjkwRkp3LTVmY2doaGZBLVk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T00:01:09+00:00",
-      "summary": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed  edtechinnovationhub.com",
+      "summary": "OpenAI previews Ultrafast GPT-5.6 Sol at up to 14x Standard speed  EdTech Innovation Hub",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-18T23:36:36+00:00",
       "summary": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI offers Ohio students $84 million in Codex credits | ETIH EdTech News - edtechinnovationhub.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEpmMU41OVdWV1NGajJmMDFHS204elBaTFhPb0ZwM1BFWWJDdkgwZzdpTVhTSHF0MWFRSnVSQ2cxeDhQaUFWZjNZcUFCamQxMVdSTnNxa1RzRnRmSHYzRHFoNTNTZUdmTExrei1UUUttNzZ0R1IxVmlsX1kxNFZqcmZ1M3lySFJ2bFBwUmlNaUxKLUJrSFRkMFVabjFNSEZVQWtGZXBGSHNCU3hmckJvbWVscUhvS0NWUGZoZWlFWXRweEU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-18T23:17:01+00:00",
-      "summary": "OpenAI offers Ohio students $84 million in Codex credits | ETIH EdTech News  edtechinnovationhub.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
