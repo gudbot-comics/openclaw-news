@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-08-19T16:56:35.276086+00:00",
+  "generatedAt": "2026-08-19T17:25:04.299216+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI is launching a new version of ChatGPT for teens - kyma.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2g3cUhod3R4NWNFcURURTRqZEd5bDFndTdyQVlqcTMySGx0aFVlSzhoU21DcFVuNzFkR3dfejJvaGhRdUVqLVhuZ2wtVDFpZzRiR1ZJeTgtYjJEQ0JjOGQ3aXd2eHhGSXNlLTl6T0lJV3Y4OVE0SzVtWmhKZ3JRcFJYY0ZoVG0tclBiSXgydTdhS2M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T17:21:57+00:00",
+      "summary": "OpenAI is launching a new version of ChatGPT for teens  kyma.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "From OKE Alerts to RCA Drafts: Building a Guard railed OpenClaw Incident Assistant on OCI - Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR3hmM2VMU0ZyUjc5eHBvNWFtYTdYb2Y5X04tc1FWbm5uYk9RdlNqRVJqZmZrenAtdDRteEJqV1BDYk1zVGlCVzItTVlCTFdGQ055LUtfLXI3MTNOZGpRSkdXcWd2QW1MNXlsYm1MNk5Ma2FBYmhXSzNiazB1R3FpWC1ucm41a1ZRUXpLSmxINjdpZXRMdTR0ZXR3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T17:15:00+00:00",
+      "summary": "From OKE Alerts to RCA Drafts: Building a Guard railed OpenClaw Incident Assistant on OCI  Oracle Blogs",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "OpenAI’s safety monitoring adds about 20% compute overhead - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGdHWXUyaENsdDFPbGMyVVp2ZHBfc185VFFTN0dpSUxzQTdFLWEzU2trSXhoWUQ5U3c1X0hySHRQSG1rcTdVcjh5bkREaGxRMWZHa3pkZDZGRmFMejRSMUxqcFNubS02Z3UtX0t5NlBYSXh5R0xrSHdLNWFwNlk2NUppbmJ6Tmc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-19T16:48:49+00:00",
+      "publishedAt": "2026-08-19T17:02:42+00:00",
       "summary": "OpenAI’s safety monitoring adds about 20% compute overhead  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says it doesn't need to store customer's business data to keep models safe - Axios",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkZwYlJQTThwMTRUOHBRTE1uNDJ5eXhQdGRhbnZSdGp2YkZsd2dvaXFsMU9nSkpsTkROTmhqLTFqY1ZSdmxPTTFHU2VjV3FQNm1LSzZsZEZkNTJqZEZBbTd6eGNsUHgzWWxhWExtbjhNSlhMdFp1b2hlQ051eGNBengwdEVMWTFLdnFJb1JrbzZKSnZoSmhYLWNaaHg2ZjZFZUJFN2h4ZEx1MUNVV0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T17:01:07+00:00",
+      "summary": "OpenAI says it doesn't need to store customer's business data to keep models safe  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXB2SWdWeFJfclV5dWJ1bFpJdXlFeFlLMVhwREtoTjJXazlUcEFndjAtN0ZVTVEtRkxTVTBwYmxVc1IycTNPUFRxWDBMTHlOYW9YLXk5LVg2QkduNFVqZGNCQ2RiS2NaY0o4ZGZOUi1BcU5iTmpheDA3djRzODVaN0JuaDFyeWIxcV9MOXNnR0psTWkzNlV0NDRtZTFEcV9sQjZXaFpLVkhuVTZkeDJR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T17:00:00+00:00",
+      "summary": "OpenAI’s Latest Bid to Fight Anthropic: A Promise Not to Keep Customer Data  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Gwyneth Paltrow Draws Backlash Over Alleged Private OpenAI CEO Dinner Invite - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbi1OZWtVX2NHSFNGTVo1UV95aTI2LW9xV0FMSlhLWi13OE5ZdTZXZS1iRjJWaVpnRmI5M29QQk1yVnlnd2NUQVRQNDBpb09oZUtXMzQyOTlRSjdGZHBONjhfbDA0WlRmNFUxSDFvNGtSeEZOVGMtZmR1ckttc3k0alRQWWxxS3dLazBPVk0yZjZLWXhqU1NQUk53Tm9SbEp1WGtjQlZuU2E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T16:43:43+00:00",
+      "summary": "Gwyneth Paltrow Draws Backlash Over Alleged Private OpenAI CEO Dinner Invite  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,15 +132,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI launches teen ChatGPT amid calls for greater child safety - Silicon Republic",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzZkaGlsSEJhdlpSd2tjdTFJT3VaYmU2S0FJRDB3WmNuam9xa1hnTV91dHljLWZzYkl3OHZPeERrV0twNmI5ZHlIbmRZLUU5QmhzNGJXQ0VoZ1NoXzlVM0VrVERjVGdFM0hkRS1BdEp5a3dFU0ZNV0xOblM1S09DZ3NCcVNNenBDRUZfVWhqZVRHYWx3VmZVcmVqdmM2U0NwcmV4NDh3Y2dBRm03anlDMUhqSTh0UHRnbmJfb19WNjFwclVIR1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T14:44:48+00:00",
-      "summary": "OpenAI launches teen ChatGPT amid calls for greater child safety  Silicon Republic",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "News | From OpenAI to Exa Labs, storied San Francisco building remains a magnet for AI startups - CoStar",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGFhNXAtUlRCV3VnNmhWaW5VSktxUEJmeUxYM2pjWEUyUTBzVkV3SUdWa29PZVAwSkUwd0xKV1JobzZsVUpHVnZ4d1hqSlh5YVAybUhaVGFtQzVLOHFlbk1reE9sS1ZuVkREVDNDRV9kSFJYMUdMVFdpOEdEazR0Ri1NOUFoRENqUnZPT2p5bzc5SEhkN1dYSXM1RGh4eVhYWFM5UVNzRE50dFVETkZEOTVqSDVRMUZXeDB0TlBURXkxZVc0elhJ?oc=5",
       "source": "news.google.com",
@@ -168,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Rolls Out 'ChatGPT For Teens.' New Safety Features Include Breaks And Quiet Hours. - International Business Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX2dpUE9pUHJOeTl2VndXOFV2VEhjc1hWcHJObjh4ZGhjekNKaERFeWYteTZQWHk1b3BIcllnTTFzU0hnb0ZZcGxqWXR3SGI4d1JhTDN5cjB5dlYtUVBvbTZkNUYyQ29TQ1NwYXBEYXJSRGNfNzlxVHJJTTJBYUo1c2NPeTEzc1I2NlRIckgzN25ObW5jRDhfVDNSSkpMTkNzQnF3ZU42RkM0SjJXWnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T13:19:27+00:00",
-      "summary": "OpenAI Rolls Out 'ChatGPT For Teens.' New Safety Features Include Breaks And Quiet Hours.  International Business Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Synchrony expands AI strategy with OpenAI collaboration, names chief AI officer - Hartford Business Journal",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTFmWl8zc21SQVloRzJNVUpPSG9VejduektJRXhIc3BrU1Ftb0Mxam5vUzc5ZVhZQlc0TS1XMWNaT01qdF9oZ3RnV3RfT0oxYndadUxYb0dpNW50ZEdNVGhiNi1XcC1XU2JHbjlzSWRaSjZaUnVobFM2ZjAxcXR3N2pFbFdFVzJhbF9mOGpKZGpNZmlJdDU0ejFteXFsRGtuRDNFZGVXaEQ3aXBpc0k1cTd1YkM3Skk?oc=5",
       "source": "news.google.com",
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-19T12:51:55+00:00",
       "summary": "ChatGPT Ads to roll out in 31 new markets as OpenAI heads toward IPO  Marketing Brew",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT for Teens - WIRED Middle East",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15ak1CY2ZTSjZfcGhrZ3VTYnBKaXExSnRwWTVtZjF1bVJfWVU3YkdodjgyT3VVdTVsOWFKbnZXaGpGNW1KaTNlSkZJT3ZhYi1fSlNGQXRVeERRQjkwMTlvb1hEeHUzVjUtNWhvWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T12:48:00+00:00",
-      "summary": "OpenAI Launches ChatGPT for Teens  WIRED Middle East",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Hits the Break to Fix Hacks and Realign Models - AI Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObE13Vy1ycXJQRzJueTdQX3Z1UFQwMllERkdWVGF1N2xXUjdfbGQ5OERXYnhuMXJIRGFPb0tyR1B2N0dmTHNzUDU3RTEwVC1sTzVkVmpwZngta0l1Y285M3VsR1prX2s3WlZNZzQ2NGZRenluTjluNHF5S25OU0lXcnZNV21Gc1JS?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T12:36:22+00:00",
-      "summary": "OpenAI Hits the Break to Fix Hacks and Realign Models  AI Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "India Startup Aims to Compete With OpenAI in Crowded Voice Arena - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnp3SGh0VHhrQ0hXTE5XWWc1aHpvLWEzcU94R2UwcGlXTmJaRkx6Yk9PQk1ydWdpR1EwTTBOdGJxSTdjU1hlMU1SQktmXzVtT0N3SmNVdVRzdEViRGNJWUJtMk04ZVVQVHI0ZXNsUHVUMlkxZlUtOERhdmgtSE5PYUdDRzd0ZUNGLXVtRlFZZXhDcmd1eFc4Z3V5ZkZuZmdHb1lrS0VDZThFd2Q4cExhMm80YmF3QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T12:30:00+00:00",
-      "summary": "India Startup Aims to Compete With OpenAI in Crowded Voice Arena  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
