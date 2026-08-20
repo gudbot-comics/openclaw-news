@@ -1,10 +1,37 @@
 {
-  "generatedAt": "2026-08-20T00:00:50.367646+00:00",
+  "generatedAt": "2026-08-20T01:47:21.699479+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "ChatGPT Down: OpenAI Confirms Login And Signup Outage — Latest Updates - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmd4V2FlSTZRS3BEZjFzeG16c0FQYzE0TUFlaWtQRXNLUDJsdGZSMGp5TVNRRHJIR3dzTWprbEtXbW1JcGJ6RWtESmsyWTZaLS1aNHl1ajJkdHY5dVJjQU5pbEpuWHJCRWwzdF82TmtmbnpTOGlVRkV1M0Z1c29PNWhJa2VLV09OTXhXZHRLZWs1ekE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T00:24:21+00:00",
+      "summary": "ChatGPT Down: OpenAI Confirms Login And Signup Outage — Latest Updates  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI confirms ChatGPT is down as logins and signups fail - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1dEWTkweThZSS1DdzNoVVhQWlJwbHBlMFA2T1JGR1Q2b3VkV0QySUxfWXBnQXBBNzhRcUFaSnA4RGhjSTQtUzI2RU5zWkcxdGZJSFRsbHBUTEJidXYxcGNCZFFlT1lvdjB5YnFtMFNVY1BWdi1rRFRySVJLWGtBSURkenNSWGhUcVFhVFBDaHpUSjRlejdndmlDdjRfME9FeGtXTmJCMXhiclpHZXFybFBhT0RMQmEyLWczd25B0gHDAUFVX3lxTE5UR2FZZGE2R2pka1ZOU2Npa2ozRnN2OUxWb1RFTmJUdlNkOEpiQ2hUZEYySkNFTWpiZkltZU45ZEdKbFgtOHNZWkdfSktlZTRGT1k5VkZ6dXRnUnIwMWF4UkdXYktabjZOS2d4M29GWXI1T0ljdW0zTy1XdVBYZkhzeHZkWjFrQ2dfTnRiS1pSX2NBTHRwN2haZEl4ZWp5dzlySHVYc24yLWJoWlRBQUxiVGo4STJZWjdvWDVUQmlHd3dTYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T00:20:55+00:00",
+      "summary": "OpenAI confirms ChatGPT is down as logins and signups fail  BleepingComputer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI ‘temporarily slows’ scaling efforts, also promises zero data retention for select frontier model customers - Computerworld",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUVp6Z0RqT05ZaE9BdEhnZzdpQ3RmajFUSWU0V3NWWHV3bng5NFA1aHhab1hUUUtWUWVWaEtVVTVGeGVtSko5N0dKb05PVDBaZ0g3a3A5NGF0OGh3aHY0QVp1N1FpY2RLU1JMR2xQWk5PSzBiZWV4TXBPcGsxeVNtVWpacXJib0ZNbC1uNk9yR3duck5IZ2FCZk03RDVzQlJMSnhsX0puekFldHZHUlliaGJuZU9MSFhNSktRbldSTXdqQlRpaFM2UjA5UjEtYUpUcTRvVWdQR3l6SnhLVTNkakxqa1NGaGVxc2JISW4yTF9TZTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T00:10:20+00:00",
+      "summary": "OpenAI ‘temporarily slows’ scaling efforts, also promises zero data retention for select frontier model customers  Computerworld",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Naomi Bashkansky leaves OpenAI for Conduit AI research role | ETIH EdTech News - EdTech Innovation Hub",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3NfcExTXzhtWEpELTJhbGdiU3BkaXZ4RFR1NG9WOUNWbFhhbTRPSW5UcGt6UGtZR2t6d19OREVXcThibXZwZGNlcmV6VTY5Y2hpMGpQQmlSZDZKcThqendTTTRjMHgtc04tSjEwU0xTQkRidEhQS0RZenI4cUJaaFpiaW1oMGdyRzBEUWotR0F2RkhRVmxGZXNaRGRkdktkMjBsMkR2UzdlbzFvbXNaNW80RQ?oc=5",
@@ -15,38 +42,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Targets Public Market Debut By 2027 While Dismissing IPO Race Pressure With Anthropic - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUmtQWDg0M0s2LWpoQlJrMmdKTzBPQTYtbEgxdFNaMTVDby10bElSc1JuTW9CRWJid3ZPczJ1OVlrZlhFb1RXbDdCZGZMWG5NQllUMjhPRFNaVF9RTzFUY2xEeGZ0R3YwVVJMSmkxUHFwSTZ3aUR3bm5NeVFKSVBtd0h1Yks1dGtKVHNUTFZRUjNacE1vU0NLcXlPbjRJeFVJeHhrXzAycHA5MlgzanBCdlNiTVdDc0FMcnVRaVNEV3h6WU9YOWlLMng5OXJYaTM1TnFCang1djg1djlmR1MwMEZnZnlzX1Ns?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T23:39:16+00:00",
-      "summary": "OpenAI Targets Public Market Debut By 2027 While Dismissing IPO Race Pressure With Anthropic  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI tightens AI security after agents hack into Hugging Face - ABC10",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQTBQUkhNQm9XVWxnbDVUeGlkWTVWbEFIajdOamRuZGVLbHhOLUdqR01KMVBrMzJsd25NTk1qTFVoeXVpVHhERkgzTmZBUGc5cVU4RUQxb2FxcGt3N0d4ei1LdGRZUDRfd1lhMEFEa21IS3ptVGk0RDNjX2ZBV0xBaDloT3lwWDJuTDdWaFpGbUZuZlRKbXF5VzZCR0R5RjhjbGVUT0VMZTVUaGxEaVNMREl3dVZXdGdZaVhUREJ5OERqeGNZS0JwZnNfRGNBWVRFYVZ0Wi1VM2JJZS0tZFhGNVI4TUs?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T23:20:00+00:00",
       "summary": "OpenAI tightens AI security after agents hack into Hugging Face  ABC10",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to bring ads to ChatGPT in Europe from Aug. 24 - Türkiye Today",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUxlcGppcW9lakpWcTZyQ3l5WXFxQm9nYXlmcklEdG1XblJrdEg4QlFHbm1manhsZGFHaXhROGwtcExpOGJVaGlUdm14U2lhUm9tUUlUTFBoZm5NdC0xUVdmLUttOUh2UzVOcE9LQ2szMXhWMUZaSVBpdmRhQTRTQ0ozUl9QTExrbkVFU1BJdUF1VmZFRlZaanM1VVYzRXBU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T23:07:44+00:00",
-      "summary": "OpenAI to bring ads to ChatGPT in Europe from Aug. 24  Türkiye Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "TCAI Guide to ‘ChatGPT For Teens’: The good, the bad, and the law - Transparency Coalition",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGEzLXNvQ3p1QldvQ0p1VUpjUmJPTWtFbUhwQmpCRVdlMWtsVklpSFk2Z2x3cUdTVlhMb2NUMDZFdTFuM2tWUXBwUUdIbkYzZnE0N1U1Z1B1cGgzSm5UMmIwbVdvVkZpVE0yMUIxTUduSTlpZGRSelZNOHo1QnJzLU1EMDZVSFdQeUdLdUQzSFNVODdpYkpIeWtnYW4yZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T23:02:27+00:00",
-      "summary": "TCAI Guide to ‘ChatGPT For Teens’: The good, the bad, and the law  Transparency Coalition",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,15 +87,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1hlckx5ckZLaDBjd0w5MU5jMlhtTWtnMkgwZ3NUVFpBdGtlSHR3VTJIZmxLc2dHYUJsMndfREhpd3FjaDdLN0lOdkYwdlhuTVFlNFU4cjhXcVRoMC04WUJkS3NrZjMwLWJXY3FCeTlnVWVEcmdJc2pCTDJCa19nVXV0SDNRcDdLVEI2bjh4aC1hVXRWRXB2V0xPWjlHQmlmdnRTT1lR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-19T21:51:23+00:00",
-      "summary": "Cognition CEO denies report that SpaceX tried to acquire the startup  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Scales Back AI Development, but it Could be Too Late - AI Business",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZBbVR0aFJ2M0dPTjdSVHBqVzR1UlFKam5UQkV1WmxWaDRidkFlemNLdnRYWVEzdkZDZXdJVHpvM1dlZ3FFVTFwaXpNZWNDQ045dUlnQU45dDkzdjA3T2c2Tk9yMnpGOGFtRFNKZGIxZFBiRUJGa1V5V1M3SkRyTG9wWVk3dFR6TzFDSVk2US1Edw?oc=5",
       "source": "news.google.com",
@@ -123,11 +114,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI to lease massive new AI data center in U.S., backed by Nvidia - Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjN2NzRWT3dIMFpQQVZtd1VkN0RlSjhMNFFzSXlFTzRwaTJZWTJfNW9yWVdxLVZIcmlxN2ZPWEhrQjJPblZZaERzNU5iRXpYLXdCUjZoZ3NIZWNnM2pSWXlsZDBuSDRSYTl0OGpKN21oelpXWjZQdmZ5OXFVbmNnYU9IS0dtWWk4M0k4cmNOSVAtLTBwWl9OX3J0RDlfMERaejN2ZA?oc=5",
+      "title": "'Fast Money' traders react to OpenAI's latest financial disclosure - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3UwdGdQWU0zMnFEYkxhckNNVzBNSmVDWG40UlJ2YmpxbXZ3MmRFR0dpQ2RlNGl1RTZyallGZkN4bllNSklLVmtiZHJXRkJDRGdiNTQyOGtrTXQtdHJjMlFPZXhNOS1UWE9BY3ljZmdDdkt5WFEwR0RSa3N3ZTJ6SHQ4TWJ6cUZLWEtJYnczaWRsdFNJZHd5QkZTRXphb3JEMS0zQVRrRHFRZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-19T21:36:28+00:00",
-      "summary": "OpenAI to lease massive new AI data center in U.S., backed by Nvidia  Japan Today",
+      "publishedAt": "2026-08-19T21:43:36+00:00",
+      "summary": "'Fast Money' traders react to OpenAI's latest financial disclosure  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "'Fast Money' traders react to OpenAI's latest financial disclosure - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3UwdGdQWU0zMnFEYkxhckNNVzBNSmVDWG40UlJ2YmpxbXZ3MmRFR0dpQ2RlNGl1RTZyallGZkN4bllNSklLVmtiZHJXRkJDRGdiNTQyOGtrTXQtdHJjMlFPZXhNOS1UWE9BY3ljZmdDdkt5WFEwR0RSa3N3ZTJ6SHQ4TWJ6cUZLWEtJYnczaWRsdFNJZHd5QkZTRXphb3JEMS0zQVRrRHFRZw?oc=5",
+      "title": "OpenAI Launches ChatGPT for Teens but Parents Still Can't See the Chats - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWlWSzQzWGRDQktKRTVLUlhyd0JMWFdxQjBhaFJoQl85MHBJQXZCdWU4Q1JoS2FMTThKUlJpTjh1dm5XTG1jTFZKQWJoV0daN2R1dVlIZ0IwT1hsUThjMnRFcWREV0FBSGJXeEFpZEVERzUyOHVQNER3VGF1Y19TdkZ2MUNQd0U5Q0VNR256RHJxUHBQdlZiN045ZS04Uzg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-19T21:13:36+00:00",
-      "summary": "'Fast Money' traders react to OpenAI's latest financial disclosure  CNBC",
+      "publishedAt": "2026-08-19T21:24:02+00:00",
+      "summary": "OpenAI Launches ChatGPT for Teens but Parents Still Can't See the Chats  Startup Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -177,6 +168,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Plexo Capital's Lo Toney weighs in on OpenAI lagging Anthropic in revenue - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdDBDTEtzZWdTV3lRT0QzZHpqa3ZQYVhDWXU0cV9wbkphVW1qOUlKY042QW1NRTA0VE84SzZ2TXpvUVFWbzFQd0xlVm9aSlUyeEt2QWtqTDd4MUdqNUY4UXNRQVhnaVlpZTZZS3VyMTRvS1U1bm5lQmVIbWk5V2VOekRvWk4tb2gxa2lreElRQlNfVXZSdlhOcTI5ZURGczlyb2Q0R2h0Y3RiTjFONGVucFphNGpKQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-19T20:58:11+00:00",
+      "summary": "Plexo Capital's Lo Toney weighs in on OpenAI lagging Anthropic in revenue  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Why I Wouldn't Bother With the Anthropic or OpenAI IPOs - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHNaTUdFellBOFg5aFltSEZLZldxMGJuOFBCaHpJTjhjVzUxcVVQal9mTlFiRjZRTjQwUnBLMS1LdVl5TXhTUVUtWWxBQjVpOUpPMTJ5SDFHdHQwZmVKSDdaMEFyWjJsQ2ZHcXhaM2RxbkNxQ0I0NVpzRGJ2TXRJQjljTHp4RThvVkhZc3VBZjc5cWRud2pv?oc=5",
       "source": "news.google.com",
@@ -195,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI launches ChatGPT for teens: What to know - Central Oregon Daily",
+      "title": "OpenAI launches ChatGPT for teens: What to know - centraloregondaily.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLUl6T0VHOHJmQmdlemlXZkNzRXgzR0lEWXNvelNoYTVsYXF1LTZMbXNvY3NEdXgyMm1QZnpVYnRZRmtXTnpCNG52T3k0MzhEb1ZhcXBHZnVRZG4xREtTeDViR0lOeUtDWWxRZGI5Znl2VzAxb0tJMjI3U0w2Rl9fYWdIOWdrdXNkQ3lBaDVna3RKdEZuV201SUExRjVvb1F1QS1rcEJ3Z3U4a1k0em8yNVlPU2dkR1JwSTFXZk5DLTlDNGhxZjZCNHBQd2Q5VG82RGZWZUVXMHBHbzR2LWxNTA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-19T20:45:21+00:00",
-      "summary": "OpenAI launches ChatGPT for teens: What to know  Central Oregon Daily",
+      "summary": "OpenAI launches ChatGPT for teens: What to know  centraloregondaily.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
