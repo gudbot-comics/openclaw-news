@@ -1,10 +1,73 @@
 {
-  "generatedAt": "2026-08-20T19:48:06.577706+00:00",
+  "generatedAt": "2026-08-20T20:11:12.959016+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1ZIWUR5V09teFBRejJEN25keDZyaXpQVHhVdVVYSDlZRXhJNFNXNXR0bGwxeWd2amY4cXVGbjZ3Y1VRdEdUbDVKVnRKSm43U1RpVks0UGh5dXY2RVAwaGFtYU5ZT2Y1clVQdVVweUpFaUFSXzhnUGk4MW1RaFR2Q19TbFFjT0YzQVJmdFNpQnF3c0RfZy1pODJKYmktT214MkdocFhVVi03OVow?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T20:00:01+00:00",
+      "summary": "OpenAI, Meta Seek Help to Combat Data Center PR Problem  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches ChatGPT for Teens Amid Wrongful Death Lawsuits - ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qN3RocF9WOE9YbUlVV3pPZ0JRZms0TU94U1dOSGVEbWFROWNhNGRGak9MTHpuWmcwOUxQZ3plY0hSQkdtM0xwLTRpUXZUenVzYkMxeHpWRlpzWVRmaWgweDJCLXYtMGpzNk1IT1dLaTUxenBGY0dsaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T19:51:00+00:00",
+      "summary": "OpenAI Launches ChatGPT for Teens Amid Wrongful Death Lawsuits  ColombiaOne.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Challenges Anthropic’s Data Retention Approach With a Privacy-Focused Alternative - Channel Insider",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3VaejAzbVVXZ2VIbE45Q0Zod3lrVkZCcVJyX181elBLWnhrM3JhYTBEUE1xVTRsbDZINW5xZlhETEhYdjFZTGRDYjBpNmtKbkltaHVJdEtFQTF4aEhRR3NkY1hqd0tYLVJBTXl1aGVGcnBLY29ZRVBWMlRkUm9LYkhCWXpaWXFoSFRoNU9yX1J6ZkdRcl9tM2dwOXBhQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T19:50:15+00:00",
+      "summary": "OpenAI Challenges Anthropic’s Data Retention Approach With a Privacy-Focused Alternative  Channel Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's model slowdown offers CIOs a lesson in AI planning - Information Week",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFZSZENmNFhYQkFheDQxSndWcGNXSWJ0ckU1OFhXQlZRcDVPSU9zbi14LXlERlJKY2owMTlmNng1YXllUTFhY1lvOWhNRXlTcWJ0eWQzNjZjcG9tSjRqZUxSNHZ4YkowdEdtV3VYdjZYcG55dmd1Ql9uUnU5b28wTWZvY05YT3o0ZTI5NmJHSkxnUnVYbTd3bGstcDlWcGtQbWVlLXcwbVQ5NFhwQm0zNg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T19:48:40+00:00",
+      "summary": "OpenAI's model slowdown offers CIOs a lesson in AI planning  Information Week",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Eyes Wall Street Debut by 2027 - cheddar.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YNWZsdHEtOWY4U2lySXk5U3lQeTQ1TjVJaU15UHNxeVR1T1JBSHRfYnBDZGI4bmJuMWxOTVc2WlRuM0hpQmQ5MmRtQ2JvRFhKUzhmUzBfY01CM0dxdVlCck9xRlRNVGsxdDBUbDlBTHh5UlhiQlZ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T19:43:23+00:00",
+      "summary": "OpenAI Eyes Wall Street Debut by 2027  cheddar.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Experts weigh in on the market's ability to handle Anthropic and OpenAI going public - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa09tWTI3S3gydmpxM3RWaDFWdXdjUkFMMHNxUjA4REVveVJOQVJCcWZTdHBoOGJQM2ItN0tXRkJnNEZVdTFXbkpUQW9MalVFZUhlaUZYUDQxNGRtUUoxRUFrMHlzZlBpNzZibTJ2VE1vR3dRcFF1V1FWTzVheEx2VkRSRXBiTFEzb2JnSHlPbVJMVWs1ekx4Sk5UQW5MVXM5ZUxmYnl1cTljdDY4V09qeEFwY2Z2LWYtSGprUjh3VXd4OVct?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T19:42:54+00:00",
+      "summary": "Experts weigh in on the market's ability to handle Anthropic and OpenAI going public  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Introducing AI Futures - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZlh4LWwzcDRQZW1LZHFOeDdkZ0h2aFFVbmF1U3VnRzN3NzR6d1VBZjZBODBfWVlId1BQOFR2anNwVWxCd2huNDBTdUNFaVBBSzA5Rm9FYnhIY0NI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T19:41:32+00:00",
+      "summary": "Introducing AI Futures  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Coding Test Shows Chinese AI Narrowing the Gap on Price and Performance - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc25Hc0lBcTYwOG5lWDAxZ1pKT0Z3TG55ZC1PRXRKV0cxcm81b083RFp3SmN6U0JGaVdEQWxBLVlvNjhqWldXU2hOTVVXSkp3U0w5ekYwWmMzbUJVd3lIclUtZmxIVmhRLS1UalkxcEJ3LWROTFRxTjd3Z1dsVk5DZ20zelhKdUc2RkhxUmVtcWhScUp4ZkVCb1IxYk9ZMUlRM1RUcTRKa2xaa004RFdVakdFcTc?oc=5",
@@ -87,15 +150,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI unveils privacy tool to counter Anthropic's ZDR gap - BetaNews",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TVjBhQ0FOczY5dDBGeFg5dm9ubklKN2VLMVpLMS1tRWZzOWZieVYybGFXR190eG85MmxveC1yTFYyVXpJcmJTY3lBVjlnMHlkUlhobGwxb2s5V0hydnZ0a0tPdExuVmt3MTBJcDlyNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T17:10:16+00:00",
-      "summary": "OpenAI unveils privacy tool to counter Anthropic's ZDR gap  BetaNews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Faces Access Revocations in Cybersecurity Program, Unveils New Privacy-Focused Safety System - AI Insider",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX2Z3RjVVTnpCWngwM21lazNMSC1CSGNlc0U1eGU5LW1DV3RqNGE4Vm1uYmttLWltc1BsSW43S1VsMnRYOF92c0hJb0tLSllWY3pyRS0yWjhHbUdOaU9Qd2kwV21XMWxSOGFYU0FNTEJiVVNCZXdMX0tKZ3FDTFpJdkcwSmZlekRWeFdGLWMwS3dvSmZneFh5VDR6TWRZMm0yWGk5TnptbWRZbk1aMFRHc25aa1kyU2tncjd5UTRoaFBCclpoNzZQeDN2UEtEWTl2aFE?oc=5",
       "source": "news.google.com",
@@ -164,60 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T15:00:47+00:00",
       "summary": "OpenAI ‘will be a public company in 2027’ or sooner, CFO says  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Slows Research To Fix Hacks and Focus on Alignment - Cyber Magazine",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTTZiOEFJWkFmaGY1LWM0aERKMG1WblVtdXM0UXE1RXdBTUFMaVlzNkxNbHpBbTczSFZuOHh0ZXBKbHNyekNzTGw3RDAwbXBuUndrSjZxSVdBZGhBRUJuSkJUc0xNbmtoLUFUVHRWa2tvS3Frc1RDVHQyb09pTnVyT2EyOWh3LS1MYXBQTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T14:29:48+00:00",
-      "summary": "OpenAI Slows Research To Fix Hacks and Focus on Alignment  Cyber Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic and OpenAI Split as Massachusetts Pushes Nation’s Toughest AI Safety Rules - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZUJmZHp4ckYtS2gtV1pVRDdOSjkwWUxTOWlzYmxpbU9rbUF4UDVTdkYtd29MRmNkZVc4SFNXZENGcVY4ck1YcjJUM3lUdG1OcXZ2XzRTV2FjMVJfZHh1X3RFWlhqa1ZLY2lpbmpJNTRtcnlEQUhwa3puUVkxSGo4Q3JoSDlyRHR6QU5xS3Q3V2ZMa2FTTkZzRkFxc3FVUFNpTU5YekFvWWUtNzZ1SGxjUFo0dVRmMTlYNDRWYXRCLWpzTjlrVFh1R1ZfN3NBTlZOTU1GbXZiTmw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T14:22:11+00:00",
-      "summary": "Anthropic and OpenAI Split as Massachusetts Pushes Nation’s Toughest AI Safety Rules  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Developer of controversial OpenAI, Oracle data center buys golf course next door - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWlwemFnaGM5cnZPaWVXb0Q0YTUwTjdON3dwVXJOQV91b3U4VDN6UWNJN0dnZS10Z2V4RnZSSHFpYnEtX0JFQTd4SmNZTW16YzNOR2lKRGpFYUpteGxUV1dUc2hVd1VCR1BURE10VkY4dHR5VXhUYU50VTQ2SW9vNTRiZ3Bnd3IxTFZFNGtxbldyVmY5SGp6cjZmU3J1ZmxtbHVyejVzUEVmdWd2ZXZnWFhQMk9hRVdzNVRUM0I3LXNUNjBuSUxjSNIB3AFBVV95cUxPREtNd0k4ZzJwMEZXRlJpY2FOM0xQdndPZmZOX3hrTFBvV2FKSERCOTh3LUpTNmdvRHhYM1JqNU9DSHpidzNrbkU0NVBaejNkdkpmYlVkU2c5ZGl5SnhnbVVzSkdSLXpiOFdVNkowUC1KTWRVLTlCd3JQa004dnlzNl8zRXRqT1Bmb2RnQVZLekdibkg0RjRoRHM1cWVzaV9pYVM5OWNhZmhxVklVa0IyNmFHN2xkQkRxakg4dVhWY0ZMbzVLaVlyNUs2ejRZcC1uZDFSLWszSVRSalZo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T14:16:00+00:00",
-      "summary": "Developer of controversial OpenAI, Oracle data center buys golf course next door  MLive.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Scaling the data platform powering ChatGPT - Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Vai12V0JnODN5cU1KQUdVYUxFS0dNbk0wUXdhZnZMRVdzNkVtOS05MzdDTEFlMWVBU2NVT3ZUQ2YwcGt1WEZhcjFtM25MbjFZY216RURB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T14:00:21+00:00",
-      "summary": "Scaling the data platform powering ChatGPT  Databricks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Is Burning $12.3 Billion a Quarter and the Rival It Created Just Passed It - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3hXdzRWZ3BydEJ5MUlZTHpJU1FIRklCQTh2bHJMbGZ1Nnh4UGpZTVViaEdybjlGb3o0RWpnemNSUjAxV3U3NXR4UDVWQmx6UlRUMlVZd1VxTlYzOFZ5cUl3MEZWOW5FbTFsQlBCWFVEWUFFcXNUYjRwcUVuNVdqQzlyT0d5Q1lTX0NCbmUwNGtncHowNjJINncwWG1YUTBMOEZZbjJJQ2hvb0ZTc2VlcW1yN3JyVUlUbExRRFF4MmZrZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T13:55:16+00:00",
-      "summary": "OpenAI Is Burning $12.3 Billion a Quarter and the Rival It Created Just Passed It  24/7 Wall St.",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Is Burning $12.3 Billion a Quarter and the Rival It Created Just Passed It - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0RyYnM1ZUd0bHhzVlYxdUN6LUR3UkxZcGZQZW1iVUkzRjBicVpRblM2anhQMzFNRkcwcTRmcmdUcVFyUlRmWFdEVzNTR2RDbExHTzcxSTRwbXY2NHJlNG5DM2huaEVmNUZ3U1FxZkxNS0tZT3JYRDZ3c05UbjdWRGhkUFhPQWdneVFudTU4cVkxdTk2Nnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T13:55:16+00:00",
-      "summary": "OpenAI Is Burning $12.3 Billion a Quarter and the Rival It Created Just Passed It  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
