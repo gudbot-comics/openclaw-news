@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:35:08.723248+00:00",
+  "generatedAt": "2026-08-20T23:54:57.234070+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -20,6 +20,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T22:36:37+00:00",
       "summary": "OpenAI is gaining on Anthropic with business users, new data indicates  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xTb2FDbkVPSXdPNDRzZGVIa1pKYXRnNHJqX2ZkemVKUFpHbEtFcWt6bV9hYkVUY29adHdRS2RQLThKa2c3bGc3NzJOWkNfb25FOU1UdlVnRDFCRUhZUUJjZEFUNUw3bllZdXZyVHJjMXVwOFFrcTctX2dtbjFncVVwY09kdXpsWHpyUGp5c3RZRjN6Y0ZTOHRNaXZVS2V3WkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T22:09:51+00:00",
+      "summary": "ChatGPT can now send texts for you with new Apple Messages plug-in  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,15 +96,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Challenges Anthropic’s Data Retention Approach With a Privacy-Focused Alternative - Channel Insider",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3VaejAzbVVXZ2VIbE45Q0Zod3lrVkZCcVJyX181elBLWnhrM3JhYTBEUE1xVTRsbDZINW5xZlhETEhYdjFZTGRDYjBpNmtKbkltaHVJdEtFQTF4aEhRR3NkY1hqd0tYLVJBTXl1aGVGcnBLY29ZRVBWMlRkUm9LYkhCWXpaWXFoSFRoNU9yX1J6ZkdRcl9tM2dwOXBhQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T19:50:15+00:00",
-      "summary": "OpenAI Challenges Anthropic’s Data Retention Approach With a Privacy-Focused Alternative  Channel Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI's model slowdown offers CIOs a lesson in AI planning - Information Week",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFZSZENmNFhYQkFheDQxSndWcGNXSWJ0ckU1OFhXQlZRcDVPSU9zbi14LXlERlJKY2owMTlmNng1YXllUTFhY1lvOWhNRXlTcWJ0eWQzNjZjcG9tSjRqZUxSNHZ4YkowdEdtV3VYdjZYcG55dmd1Ql9uUnU5b28wTWZvY05YT3o0ZTI5NmJHSkxnUnVYbTd3bGstcDlWcGtQbWVlLXcwbVQ5NFhwQm0zNg?oc=5",
       "source": "news.google.com",
@@ -150,20 +150,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Pushes Judge To Throw Out Privacy Suit 08/21/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1M4dFctUzNicWFOWUlhTFZfcUFjLUxYei1pVGVTLVRZalJjN1lKN0JQQm5GalVENF90RjQxekI4M3FEQ0ptR09ZMTdWRW1wQWNQZWJJNkNIbEx5QWlWcHJKdDZFaUlaWjJtVkh1VG5NbkFSMXpOTFVaNUw1NlVOQTFaalJYamhBY2QzOE8taS1nZEhzYVRsejB4QW9JUFBHaHUxdEZNYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T17:40:36+00:00",
+      "summary": "OpenAI Pushes Judge To Throw Out Privacy Suit 08/21/2026  MediaPost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI’s plan to go public: Here’s what you need to know - CNBC",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczBLQVdjTVdPLWZ5SUVydG9rQmYyUHJLbElhVU0wWGQ3RHY3YzhjZGJZbUVjZlpVNEg1X3N4VE5vcWlIeVVGMnAtZGZlSFk3c1lLWmxHUFVQMV9RUjVfV0RteEdfb2tJM3h0Tng1RFZ6ZlFlU014VVlsY2d2WjNtazVQZUhtWGNaUHRnZGlibGZ4Tnk4djEwajR5bGk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-20T17:36:28+00:00",
       "summary": "OpenAI’s plan to go public: Here’s what you need to know  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Pushes Judge To Throw Out Privacy Suit 08/21/2026 - MediaPost",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVml3QXVYNEhPZHg5Y29Fa0d3dEptVmhFd29VcnNzLTJId09fWEV4MmVoaUUxaEhEM3Y4a184bFhRMDVOVUlYNGdHNzVhc212bUhXZW4tX1NFVHh0WEZRRDFNbVN5SHRDNlpEWFE5WURsSUNLdldmVTdfMFhsTURRZzc0bnJ2T3ZyR2YxWjNES1ZIM0oyanBUSWZ6eFNKcU5aVDllbUZFTURmb1VKNjIwdmZacU1HUTZsQjNn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T17:35:36+00:00",
-      "summary": "OpenAI Pushes Judge To Throw Out Privacy Suit 08/21/2026  MediaPost",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
