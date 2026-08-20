@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:54:41.092396+00:00",
+  "generatedAt": "2026-08-20T18:31:25.862154+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -25,7 +25,7 @@
     },
     {
       "title": "OpenAI Pushes Judge To Throw Out Privacy Suit 08/21/2026 - MediaPost",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1M4dFctUzNicWFOWUlhTFZfcUFjLUxYei1pVGVTLVRZalJjN1lKN0JQQm5GalVENF90RjQxekI4M3FEQ0ptR09ZMTdWRW1wQWNQZWJJNkNIbEx5QWlWcHJKdDZFaUlaWjJtVkh1VG5NbkFSMXpOTFVaNUw1NlVOQTFaalJYamhBY2QzOE8taS1nZEhzYVRsejB4QW9JUFBHaHUxdEZNYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVml3QXVYNEhPZHg5Y29Fa0d3dEptVmhFd29VcnNzLTJId09fWEV4MmVoaUUxaEhEM3Y4a184bFhRMDVOVUlYNGdHNzVhc212bUhXZW4tX1NFVHh0WEZRRDFNbVN5SHRDNlpEWFE5WURsSUNLdldmVTdfMFhsTURRZzc0bnJ2T3ZyR2YxWjNES1ZIM0oyanBUSWZ6eFNKcU5aVDllbUZFTURmb1VKNjIwdmZacU1HUTZsQjNn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-20T17:35:36+00:00",
       "summary": "OpenAI Pushes Judge To Throw Out Privacy Suit 08/21/2026  MediaPost",
@@ -54,7 +54,7 @@
       "title": "Apple to OpenAI: Go to your room - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSDhhdDNla0pnQ0JNenNnaHl4RWRXNDJENzVtdkgxbGhkVXZkR1hwM2l0TFRxWTNCN0V6clNHMElsdTlUc2gyeXJHWHFNT21Tb0lpVC1HZGluOXNUckdDdmFQZFppNDNWODZJSTJKV0pNbU1LWE1OTE1xc3ZVbjJCN0Ria3RvUzNjZXc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-20T17:21:40+00:00",
+      "publishedAt": "2026-08-20T17:22:14+00:00",
       "summary": "Apple to OpenAI: Go to your room  Computerworld",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -168,11 +168,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI rewrites safety rules, US charges 17 Iranian hackers, Defender crashes fixed - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckgzU2JQWWc3T0lIaVBPR25mZWdqeG9GZXpDbzVKRkVTVlRyVU8yN2pVV2VuSGlEdHkzNnN4bXR2ZlpoZE9nNElZdUJDVFVUeldZSjQ0V0UzTjFOdDJfdUJZWlkxX3Fqa3IyaEE2TzJtZl8xdkpJeGRJZ1lkanRab0RfZzljNnJWQzVPdEp6TDlIWVFiV0hpM1BtVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T14:05:00+00:00",
+      "summary": "OpenAI rewrites safety rules, US charges 17 Iranian hackers, Defender crashes fixed  LinkedIn",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Scaling the data platform powering ChatGPT - Databricks",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Vai12V0JnODN5cU1KQUdVYUxFS0dNbk0wUXdhZnZMRVdzNkVtOS05MzdDTEFlMWVBU2NVT3ZUQ2YwcGt1WEZhcjFtM25MbjFZY216RURB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-20T14:00:21+00:00",
       "summary": "Scaling the data platform powering ChatGPT  Databricks",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is Burning $12.3 Billion a Quarter and the Rival It Created Just Passed It - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0RyYnM1ZUd0bHhzVlYxdUN6LUR3UkxZcGZQZW1iVUkzRjBicVpRblM2anhQMzFNRkcwcTRmcmdUcVFyUlRmWFdEVzNTR2RDbExHTzcxSTRwbXY2NHJlNG5DM2huaEVmNUZ3U1FxZkxNS0tZT3JYRDZ3c05UbjdWRGhkUFhPQWdneVFudTU4cVkxdTk2Nnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T13:55:16+00:00",
+      "summary": "OpenAI Is Burning $12.3 Billion a Quarter and the Rival It Created Just Passed It  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T13:13:33+00:00",
       "summary": "Anthropic, OpenAI Clash Over Strict Massachusetts AI Safeguards  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI bets zero data retention can survive frontier AI - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTRQRXhLMTQ4eUMzc0hMalRMbjVlSDFxUEdfZFJLUjVnSWtWV1c5SEV1VGQ1UlhQZkdFZzFpWkxfRVctVlZqVmM1ZFlwUWIxeUZWVFNhMjdVZEF3czc2Wi1Tbk5YcmRzMDVINHluZkplUE5ZMWlFa2FnMUdDbTBvV3IyTW1LbEU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T12:59:34+00:00",
-      "summary": "OpenAI bets zero data retention can survive frontier AI  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI ‘will be a public company in 2027’ or sooner, CFO Friar tells employees - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWV9ycnlMcDRKXzdDQ2VPRmN4cElwbXMtMTE0XzJlSkw2U3dScjdpLTNCNkpuVnFCOXJPRE9kZnlzYVE1UG1ia0Yyd0Y2LWR6V1BvanRDNkxzSmZLT0VWR3JLXzNZV0JVNUV5aTRQTGpYclFtZ0tmcmhkT1BLdDMxX2I1d1hSZVVGXzBhbTZjNFZYT0tyMXpuY2xsaVFfZG53TnJ1elVyY3NIbnJWdmFEWXdOaWd3OG1OM2JvaQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T12:14:01+00:00",
-      "summary": "OpenAI ‘will be a public company in 2027’ or sooner, CFO Friar tells employees  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
