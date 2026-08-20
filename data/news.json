@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T20:11:12.959016+00:00",
+  "generatedAt": "2026-08-20T20:48:24.364277+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T20:00:01+00:00",
       "summary": "OpenAI, Meta Seek Help to Combat Data Center PR Problem  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI chases Anthropic's biz customers with zero data retention pledge - The Register",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUUdJNGtGSUx6Rk5UVEJxVFhVVnZqbWJycjFwOU56aXJSbk0wV094Tk91VGIyclYtdFA2czBzME1TVHFYbjlwNjRHNVJjbUNraEYyMHBXekZrcURKV0hiWnBheHhNRzBreGExdUx4NFVxRnNyVUNBM2xiLW5hbVBVSWZ2MUNIUkdTMGE1Skt4THgyTkhfX3VYS2ZSOE55ZjNMWlFBSFlmRGRXTzVvbXhwcUo1UXY3VHpQWW5SY2ZMSUxqN1QyRVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T19:59:53+00:00",
+      "summary": "OpenAI chases Anthropic's biz customers with zero data retention pledge  The Register",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T15:13:30+00:00",
       "summary": "OpenAI Wants Enterprises to Trust Its Frontier Models With Sensitive Customer Data  CX Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI ‘will be a public company in 2027’ or sooner, CFO says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEN4T3Y5WDlTMnVIVHFUNzVpRXhQVnNVNFVuM2VFRGFoU2RiNm5OODdfcHRrY1dSbzJNOEZ5TzhjbkMyUFNNSVpJZHUtZG5icjFtcW9yYVpSMGI0WDVBSllZdmFhbWxUWnRraXpDUDAyalQ3M21jY3lYdkNFOUwxZC05WHFnc3k2alBtTlhjZlkwTW9wVXVqc1pWRHNoOEpsNmkyUFV3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T15:00:47+00:00",
-      "summary": "OpenAI ‘will be a public company in 2027’ or sooner, CFO says  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
