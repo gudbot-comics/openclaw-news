@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T11:50:44.740092+00:00",
+  "generatedAt": "2026-08-21T12:36:20.491296+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -29,6 +29,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T11:00:00+00:00",
       "summary": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount  Florida Courier",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT will now text your friends for you - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ENHFBNUx1bGhOX2syNi1Wc3ZtUU42dF84WWxHZFVMeDNYUk5KbFlaODNGZE5PNVgycC1sSURHWGpEYkxGRVFZbVZodENVckotR2pwX0t4emFCYktDN0Q5cThZaFI1YTZnN2VHYU8weDBUMUlzcl9SdE5ZUG1sUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T10:35:53+00:00",
+      "summary": "ChatGPT will now text your friends for you  Yahoo Finance UK",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T21:32:01+00:00",
       "summary": "OpenAI Is Burning Billions as Token Prices Plunge – Time to Panic?  MarketWise",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why I Didn't Put a Proxy Between My App and OpenAI - HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwODNMdTBEMENXbXk3eTFsdWNIWnU5MDJxUjFsQk9uYVdSdTFqUzkyMHJsRUVKX1FpVE5NYkRvYTUtNjNDTGlrc0Rjc3MzX0JxQUg5V3JjNklpVVN2eWpmeUxCYkQtZXNrakVkVXNqb1FHNk1STlNhMXpZN2Q?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T21:01:36+00:00",
-      "summary": "Why I Didn't Put a Proxy Between My App and OpenAI  HackerNoon",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
