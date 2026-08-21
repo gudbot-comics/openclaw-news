@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-21T08:33:58.010636+00:00",
+  "generatedAt": "2026-08-21T09:17:17.962996+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI releases a new feature that uses ChatGPT to answer your iMessages for you - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rQ3lsNDJYU05lN1NYOVhsMGpUR0FnX0lYeW9qTFdwRkpYYjJYS0MwUnktemtUOFlXRjMwSTlxVG5XT3dnaHg2d2hqVzc5UVlxc3h0YktNMkhIamVCQVN4WGJveHI1SEo1?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T08:24:30+00:00",
+      "summary": "OpenAI releases a new feature that uses ChatGPT to answer your iMessages for you  Cybernews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1ZIWUR5V09teFBRejJEN25keDZyaXpQVHhVdVVYSDlZRXhJNFNXNXR0bGwxeWd2amY4cXVGbjZ3Y1VRdEdUbDVKVnRKSm43U1RpVks0UGh5dXY2RVAwaGFtYU5ZT2Y1clVQdVVweUpFaUFSXzhnUGk4MW1RaFR2Q19TbFFjT0YzQVJmdFNpQnF3c0RfZy1pODJKYmktT214MkdocFhVVi03OVow?oc=5",
@@ -47,15 +56,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T05:26:48+00:00",
       "summary": "Will Anthropic slow down?  Sources | Alex Heath",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT can now read and send iMessages on your Mac: How OpenAI's new feature works - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbktoNnBhVE1YX2R0Q1NNQkJXdGxfaFBVQWRWSUFXaGJZTHV3NEdsQWZySGxVekFtYmlkbmNQanRQWkQtVkVTS3k4NmVuZXg1dDNsZWhoc1drZGE2cWNYUC12aTRldWNfMTVGMzFUbE1aWmsyRGNWZ01paEluOWx6cHhFdlpmSk40WDg4MnFmUVgtSGY3b3l2MnpUQ1lXX0dXanV6aE5COTZ6S3dnamlZaUpPOENzY0xwRmJwUTZyVFpLb2FP0gHKAUFVX3lxTE00cnVaZkMwOHE5WWFMbEV1UmMzSTBBajcxQ1A0bWdHY2Q0ODhKSFpzdXdab2lnWGVtSV9zSjJ0RDdwSEZNNDh5SU9LQzNUOWtVSlc5Q1JnSEhVY0dXV29SVXUtTGxpRERydVBRdDlWREpMdFZzbmQxcmtRdFVHQTV0eGdXZUNhck1mQkVaTUs0LXgwOEloMHNVRHpXVFBGSmRwQzFFWkZYaWg2RmxJWFladXMySWN0U0RDZVBJSS1TRUdjMmZYcFE4NGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T03:00:30+00:00",
-      "summary": "ChatGPT can now read and send iMessages on your Mac: How OpenAI's new feature works  Firstpost",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -195,15 +195,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Rolls Out Deeper Integration With Apple’s Macs: ChatGPT Can Now Read, Draft And Send IMessages - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRnZybTJRcF9kRTQ2b2QxY1RSRzNucUZpdDJsUlRmZ0paemRKRDVuSEoxRGQ3QUdZRUp4SW0zN2NfUURYc0ZjNGc4RmpueVN0SFlrblVxcnZ6dEQ3REVsenljNnh5N3ZSYkphOXVKMnhXaTJYSWIwMFpUQkNES2dNUGd2bVZUZk1LZmVmeVJBaVRUS3J4WE1mOFFMbGZtQjQ2LS11SVZSd0F3QzlmS00ybVE4NEJNLW05cnVILURVVkc2U3NUV3lyNGpYWkRvelBlSWYtQTB0c3pzTXpNdkc3TmFVZmIxR3JtSnJwYzdqOFYxLUFlRXFTYy1R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T18:54:29+00:00",
-      "summary": "OpenAI Rolls Out Deeper Integration With Apple’s Macs: ChatGPT Can Now Read, Draft And Send IMessages  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging - Futurism",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUVVKREVBczZfRG1iREJhYVNKZDZDQ0FheU5qTUw1MjhFY2NfSzh5bGUtMDZlRVhvUzZFU2F3SVVQQmVINllkd3FxbHBPUzFNNnFwdngtUGNjdlQ0Wm9TblVEeFd3YnJsdzc1bVRzQ0MwZHBuUjdtVl9BZEZVdnQ4eGRRNXhCYTBW?oc=5",
       "source": "news.google.com",
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T17:48:58+00:00",
       "summary": "OpenAI unveils new safety system to prevent misuse of customer data  The American Bazaar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s plan to go public: Here’s what you need to know - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczBLQVdjTVdPLWZ5SUVydG9rQmYyUHJLbElhVU0wWGQ3RHY3YzhjZGJZbUVjZlpVNEg1X3N4VE5vcWlIeVVGMnAtZGZlSFk3c1lLWmxHUFVQMV9RUjVfV0RteEdfb2tJM3h0Tng1RFZ6ZlFlU014VVlsY2d2WjNtazVQZUhtWGNaUHRnZGlibGZ4Tnk4djEwajR5bGk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T17:36:28+00:00",
+      "summary": "OpenAI’s plan to go public: Here’s what you need to know  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
