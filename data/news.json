@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-21T10:23:59.405090+00:00",
+  "generatedAt": "2026-08-21T10:56:03.585247+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "ChatGPT will now text your friends for you - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ENHFBNUx1bGhOX2syNi1Wc3ZtUU42dF84WWxHZFVMeDNYUk5KbFlaODNGZE5PNVgycC1sSURHWGpEYkxGRVFZbVZodENVckotR2pwX0t4emFCYktDN0Q5cThZaFI1YTZnN2VHYU8weDBUMUlzcl9SdE5ZUG1sUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T10:35:53+00:00",
+      "summary": "ChatGPT will now text your friends for you  Yahoo Finance UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "ChatGPT On Mac Can Now Read And Respond To Apple iMessages - Engadget",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56Zno2X2Uwd3ZQV0xBRlNsR19tQld4WmxkSkgzY0U1SEJwb29DWjQyQl9zWUhMeFFFa3BDbFNSTnNmUXFFN1FEN213NFNILW5LWWVvNDJ1b0NZMk92N0QydFJuM0p3SjZJQnhleVM4QzRnZ1pwTGpYUA?oc=5",
@@ -15,11 +24,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "I worked at OpenAI. Here’s how tech companies can prepare for a slowdown - The Guardian",
+      "title": "I worked at OpenAI. Here’s how tech companies can prepare for a slowdown | Miles Brundage - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1FuS0ZpTFcxZnl2MGU3SF9XcEhhOGd6M3FnLVg3emZ3VFhjeTgwVXdyMjZlRkNDbkpuU1lDRkpjVG5tVjkxczdtbVhOeUR2S3NjVDQ4RmF6RjM2TWpKR3FsVmlBaXROX0RmeDZCNnI0OE9QN2pLRDdsRkNOQ3E0aWVEcFM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-21T10:00:00+00:00",
-      "summary": "I worked at OpenAI. Here’s how tech companies can prepare for a slowdown  The Guardian",
+      "summary": "I worked at OpenAI. Here’s how tech companies can prepare for a slowdown | Miles Brundage  The Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T19:48:40+00:00",
       "summary": "OpenAI's model slowdown offers CIOs a lesson in AI planning  Information Week",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Introducing AI Futures - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZlh4LWwzcDRQZW1LZHFOeDdkZ0h2aFFVbmF1U3VnRzN3NzR6d1VBZjZBODBfWVlId1BQOFR2anNwVWxCd2huNDBTdUNFaVBBSzA5Rm9FYnhIY0NI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T19:41:32+00:00",
-      "summary": "Introducing AI Futures  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
