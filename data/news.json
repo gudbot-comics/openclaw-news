@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T07:02:59.805583+00:00",
+  "generatedAt": "2026-08-21T07:52:47.899932+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -9,7 +9,7 @@
       "title": "OpenAI ships a Messages plugin that summarises who you talk to and what about - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWaHVtTkFpcWlBV2MyUFp1emlRekhxT0FYWV9NUzdhSE1BSzY4RElNTDhvUnJmWjUwX2RwWktTZ3ZOM0NMWjhTeHVGOHM2TjBtU1MxOWJpd2JYTURyVXlaa19KOUowUF9aampNOHJVeXpHNDQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-21T06:52:18+00:00",
+      "publishedAt": "2026-08-21T06:51:55+00:00",
       "summary": "OpenAI ships a Messages plugin that summarises who you talk to and what about  The Next Web",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -87,6 +87,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGJmajZkeWM5S2ptNElzb25JeVc3Qm1Ic291SXFRSjdBNWtmY3E2Mkk5MENZS3hYWi1HMUQyQ3FOWnhqSllGYlhEMmtXVjVZWGJiUTRyUS1CamJhazJNem9scU5oMHNSSWF2SVdiSlVUNEdOOC1Vc1JYN2Flazl2RURzelJUWkc1dTlzT2hrRGdSQTFZVWJJN3NYalVfM3YtdkZ6cGRuaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T22:36:37+00:00",
+      "summary": "OpenAI is gaining on Anthropic with business users, new data indicates  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "ChatGPT can now send texts for you with new Apple Messages plug-in - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0xTb2FDbkVPSXdPNDRzZGVIa1pKYXRnNHJqX2ZkemVKUFpHbEtFcWt6bV9hYkVUY29adHdRS2RQLThKa2c3bGc3NzJOWkNfb25FOU1UdlVnRDFCRUhZUUJjZEFUNUw3bllZdXZyVHJjMXVwOFFrcTctX2dtbjFncVVwY09kdXpsWHpyUGp5c3RZRjN6Y0ZTOHRNaXZVS2V3WkE?oc=5",
       "source": "news.google.com",
@@ -105,11 +114,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI and Anthropic Clash Over Massachusetts’ AI Safety Push - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWFaYVFFMkRMak5kYXl5NC1tdzF0VlBOdUxlUzNnNWZMUzcyalhjcjB1bU9JVXJIMHUxS0FtTFBIWmdCV3J1SlFRcko2VFNrM2JnMld5MnlwdTEwU1hEdzBId2dMTkxYLWxrTlZiWURmYlZVUFVpOFVYUl8walFfVVZXa3Z5LVhCQ2JNZWc0R0hQSldpaFBPNkxld1VVWjMzREVuUkRhTkdidy1hS1BaXzhMNlJvcnJ5NlRpYmowT2lNQQ?oc=5",
+      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFAzbUgyY293ZV9uTEdfaXJhcGwydW4xMXZmQ1J4RkxLVTdxR2J5MnhxbklrUFdmd0xOMzhsc1hJR2hiVktDWGFJVXlkVnBTblV4Sk4zcEpLbEdOSVFzWnExM1h4alo1eXE0RHV0WldxVUFmYzRDTy1RcFN6TXdiam9TaUJ1OGtyNTctdTBSbE1OM0x4MEV6Sk4zVkJtUHdoakc0ZU9Wa243TjN5dE5HRVlkVmx5YUI0RzJjYzZTM1RLQ2M?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-20T21:38:36+00:00",
-      "summary": "OpenAI and Anthropic Clash Over Massachusetts’ AI Safety Push  Benzinga",
+      "publishedAt": "2026-08-20T21:46:03+00:00",
+      "summary": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock  Amazon Web Services (AWS)",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,6 +137,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T21:01:36+00:00",
       "summary": "Why I Didn't Put a Proxy Between My App and OpenAI  HackerNoon",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmJTdG02MFkyLUt3TWZGSFBTSG5hMm96SEo0Z3dwRWlILXg4SVBxVFhHODNEZVltR0c2LUwtWnNqSkR4LU1LSmpPZVgtVnpqZU5kbmhuX29BOUM1bWREbk56RlhVa1RGdDZ3NnRQbTdNVjExVmE3akxJQTd5RExsUmxqclIzbjFVZ1Z3enBzV19HVXNBdjFJV0JtWTNQa3hRX3BSM01rR0F4WUN3UWZCQzJ6OFRvek9RTGV1TGlPZjRmVEVJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T20:56:33+00:00",
+      "summary": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -200,24 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T17:36:28+00:00",
       "summary": "OpenAI’s plan to go public: Here’s what you need to know  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple to OpenAI: Go to your room - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSDhhdDNla0pnQ0JNenNnaHl4RWRXNDJENzVtdkgxbGhkVXZkR1hwM2l0TFRxWTNCN0V6clNHMElsdTlUc2gyeXJHWHFNT21Tb0lpVC1HZGluOXNUckdDdmFQZFppNDNWODZJSTJKV0pNbU1LWE1OTE1xc3ZVbjJCN0Ria3RvUzNjZXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T17:22:14+00:00",
-      "summary": "Apple to OpenAI: Go to your room  Computerworld",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XYTJZcnp3a2JjdXJmcjFvdFRQQTJKV2hKOE9KR0ZBQ19qV09WYjVENXpKdzdQTkNPQ0VoSXdzc1lNZlFFWjI2dg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T17:05:15+00:00",
-      "summary": "Stampli cuts launch hours by 68% using ChatGPT Work  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
