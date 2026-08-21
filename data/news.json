@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T01:00:35.111725+00:00",
+  "generatedAt": "2026-08-21T02:35:04.204101+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -9,8 +9,17 @@
       "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1ZIWUR5V09teFBRejJEN25keDZyaXpQVHhVdVVYSDlZRXhJNFNXNXR0bGwxeWd2amY4cXVGbjZ3Y1VRdEdUbDVKVnRKSm43U1RpVks0UGh5dXY2RVAwaGFtYU5ZT2Y1clVQdVVweUpFaUFSXzhnUGk4MW1RaFR2Q19TbFFjT0YzQVJmdFNpQnF3c0RfZy1pODJKYmktT214MkdocFhVVi03OVow?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-21T00:30:33+00:00",
+      "publishedAt": "2026-08-21T02:00:33+00:00",
       "summary": "OpenAI, Meta Seek Help to Combat Data Center PR Problem  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Gwyneth Paltrow Responds to Backlash Over Viral ‘Off-the-Record’ Dinner Invitation for AI Billionaire Sam Altman - People.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOE9fMU5kajY0UU1GYmNDeDVacTd5OHppZmlEcGJmbnRxVUg1SlpCWlpZLXJ3dVdHcXpzZlBiQU5QSFVxLTNaMkZ3OTFvLVZvTG5hdGV5cUxzaER4T0JhZUxHd2YyaGR6d19obGZEaFBUbnlXRnRkT1FqcGt2RWEwWGpZUkI5bjZyd1BjLW9XWDZPdkFQdVhxWWFDTXZJQ2F5YnVlSEdTUkZIWTVRUFI3NXRFalE4aF9OM0NPVWh2aGtJeWtXMmVfNkJQc1ZzTm0xN2JqOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T01:40:49+00:00",
+      "summary": "Gwyneth Paltrow Responds to Backlash Over Viral ‘Off-the-Record’ Dinner Invitation for AI Billionaire Sam Altman  People.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,15 +29,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T00:13:00+00:00",
       "summary": "Alabama lawmakers react to launch of ChatGPT for teens  WSFA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's $7 billion payday just hit a costly tax snag - Currently.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkhPcDRlMHNrcF81MG5YQ2dqODVfQjFSdjBqWF95ZGxmSlU3Ul9ZOHlqdHBSMXNLOXVTUy1FYktzbUxKYjJwdTBLRGdZbHQ5MVpWQzFZbXp4cWxSUWdiODhLUEVuYXgxTzVvOEtCZlJWeTVldDRuam1STmdoVGhsNk43ZG5FTmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T00:03:00+00:00",
-      "summary": "OpenAI's $7 billion payday just hit a costly tax snag  Currently.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +69,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI and Anthropic Clash Over Massachusetts’ AI Safety Push - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWFaYVFFMkRMak5kYXl5NC1tdzF0VlBOdUxlUzNnNWZMUzcyalhjcjB1bU9JVXJIMHUxS0FtTFBIWmdCV3J1SlFRcko2VFNrM2JnMld5MnlwdTEwU1hEdzBId2dMTkxYLWxrTlZiWURmYlZVUFVpOFVYUl8walFfVVZXa3Z5LVhCQ2JNZWc0R0hQSldpaFBPNkxld1VVWjMzREVuUkRhTkdidy1hS1BaXzhMNlJvcnJ5NlRpYmowT2lNQQ?oc=5",
+      "title": "OpenAI and Anthropic Clash Over Massachusetts’ AI Safety Push - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHhUdGNPTFl3eDBCVmdwR3NVaDF4N3QtaElNSldRZElLd2h1NlBKX0VURmNTMmxmbV8tSmRCLXZUblQ2VDhZanpfNm9lcmx5S0VsS1RuNzNRc2d2ZjZQSzFHWlNQMTZNdU5iTGYxOG5fZmsya0xmN0x3N1lWbFZabFYtNjVFbEJDV2NmOWpHd3ZOVzFfaDhvNHkwdk1rUnFyY0E4?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-20T21:38:36+00:00",
-      "summary": "OpenAI and Anthropic Clash Over Massachusetts’ AI Safety Push  Benzinga",
+      "summary": "OpenAI and Anthropic Clash Over Massachusetts’ AI Safety Push  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -110,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T19:59:53+00:00",
       "summary": "OpenAI chases Anthropic's biz customers with zero data retention pledge  The Register",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Challenges Anthropic’s Data Retention Approach With a Privacy-Focused Alternative - Channel Insider",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3VaejAzbVVXZ2VIbE45Q0Zod3lrVkZCcVJyX181elBLWnhrM3JhYTBEUE1xVTRsbDZINW5xZlhETEhYdjFZTGRDYjBpNmtKbkltaHVJdEtFQTF4aEhRR3NkY1hqd0tYLVJBTXl1aGVGcnBLY29ZRVBWMlRkUm9LYkhCWXpaWXFoSFRoNU9yX1J6ZkdRcl9tM2dwOXBhQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-20T19:50:15+00:00",
+      "summary": "OpenAI Challenges Anthropic’s Data Retention Approach With a Privacy-Focused Alternative  Channel Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T16:09:52+00:00",
       "summary": "What to make of OpenAI’s pause on its march toward superintelligence  Fast Company",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Anthropic Fuel California’s Record-Setting Investment Surge - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWnJHTWx3NUJDM1NNWWlQY2JoYUxKUm52RlI4SHVfdU16TGZESWdCLVpobFdING5xV0JiRlBDQk0yTHZvYXdCdHVkUGpTdjAyanV0MEdLdjJzTXZBZE8yS290ZlRFNm5fYlBqUndncWdsYjhyUFh5WGxKbXFreG1MMWZWY3MtdThQdTBfRnlFeV9tcEpuY0FIazVydEVud3REWTF3UHpjV0RLODlvWjJtVUUzVkNQRFpVTkI0Y3doRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T16:02:11+00:00",
-      "summary": "OpenAI and Anthropic Fuel California’s Record-Setting Investment Surge  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
