@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-08-21T13:29:14.375702+00:00",
+  "generatedAt": "2026-08-21T14:07:03.242100+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3V2NUpuTnpmZndzZFE0LTF3Y1dzM05ZLW1SM1I0UTVpV0dsYktwWHNldFZaZ1NMa3otTGE4SkJWLVpJZmx1dkhyU1NZM2tMV1dCcUl2RFhDRGpuemhYdUlVS184ZHloTmtMTk1BV0tYRUs2VEc4RDJFSWhNbmZvWFVVMUZ6YXVCajRsbUVfZjNUaVE5Skg1VnZJaGFINE04MzJ1NEhvdUViaWRoU2ZTSHkwakoxTUVLSURBeEExaGRBZ9IBwgFBVV95cUxPemJYVXlXZ3R5TUJYbkRkV2NmaWN2cUJ5SGxtaHlsSTV1UFJwdVd5R3hKck9hZkY5aXgySVczWldwM1dpS0taOW03OHAxaDE2clF5ZEJ3LXJEX3ljUzhKQ2lOUExNclVSbG5FQ3VmMndsWTE3anpnaG9fX3IyRFlaRms3VXkzS21mb3JjMXFaTE5rQ1h1Z3VzNC02cTNOSFhabTdiQkg0R0Q1RUNUTmNUZEhRcmprTl9MNmEyUHUzTkVfdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T14:00:10+00:00",
+      "summary": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model  South China Morning Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s training pause is convenient. That doesn't make it meaningless. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjk4VmhNNnNlcmtzb1ZpOXVLdGtzUU5hbEdIRGN2LW90NGJaRmZvT1ZPZC1URXpxREU0MjhzZ05BMm0yTHFQY2dUcmxBYmx5SG8zVTQyS0ZOdTBqNXR1Z1FQbTBONVRpbFlRS25GalBhZDVWWVF5ZS0ySWVuUTRjQ0Q1RnFFUHh1T1lkUXhqMGU5eEtudHBj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T13:55:08+00:00",
+      "summary": "OpenAI’s training pause is convenient. That doesn't make it meaningless.  Business InsiderOpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging  FuturismOpenAI Adds Controls …",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "The Department of Know: Living off Azure, OpenAI's \"defender window,\" and AI-driven PLC attacks - CISO Series",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPXzJ4WlZnVEkyNVA0bDQybTdDa0wweldJNWROenJ2Ny14bS02RzhZYzR2bE91RGNIOE13ZU9mZndVN0F0Z3c4UHVLQjRSUlVfdWdBVkNtakk2NlRhNTBBcE1mTXlVb0d6S1pzYVBWc1pxZTZobFZRT3h4NVIzRS03bzFkRmowNjR5aTdLSHJWaXBLeEVnc2hMY29KcW16TkpvazN6S1ZEMGowQjVmX1RkWEpSVQ?oc=5",
@@ -47,15 +65,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T11:00:00+00:00",
       "summary": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount  Florida Courier",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT will now text your friends for you - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ENHFBNUx1bGhOX2syNi1Wc3ZtUU42dF84WWxHZFVMeDNYUk5KbFlaODNGZE5PNVgycC1sSURHWGpEYkxGRVFZbVZodENVckotR2pwX0t4emFCYktDN0Q5cThZaFI1YTZnN2VHYU8weDBUMUlzcl9SdE5ZUG1sUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T10:35:53+00:00",
-      "summary": "ChatGPT will now text your friends for you  Yahoo Finance UK",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -153,7 +162,7 @@
       "title": "OpenAI Rolls Out Deeper Integration With Apple’s Macs: ChatGPT Can Now Read, Draft And Send IMessages - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRnZybTJRcF9kRTQ2b2QxY1RSRzNucUZpdDJsUlRmZ0paemRKRDVuSEoxRGQ3QUdZRUp4SW0zN2NfUURYc0ZjNGc4RmpueVN0SFlrblVxcnZ6dEQ3REVsenljNnh5N3ZSYkphOXVKMnhXaTJYSWIwMFpUQkNES2dNUGd2bVZUZk1LZmVmeVJBaVRUS3J4WE1mOFFMbGZtQjQ2LS11SVZSd0F3QzlmS00ybVE4NEJNLW05cnVILURVVkc2U3NUV3lyNGpYWkRvelBlSWYtQTB0c3pzTXpNdkc3TmFVZmIxR3JtSnJwYzdqOFYxLUFlRXFTYy1R?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-21T03:00:04+00:00",
+      "publishedAt": "2026-08-21T03:03:55+00:00",
       "summary": "OpenAI Rolls Out Deeper Integration With Apple’s Macs: ChatGPT Can Now Read, Draft And Send IMessages  Stocktwits",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -182,15 +191,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T23:26:12+00:00",
       "summary": "OpenAI Land Sale Could Bring $38.6M in Effingham Tax Relief  Effingham Herald",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGJmajZkeWM5S2ptNElzb25JeVc3Qm1Ic291SXFRSjdBNWtmY3E2Mkk5MENZS3hYWi1HMUQyQ3FOWnhqSllGYlhEMmtXVjVZWGJiUTRyUS1CamJhazJNem9scU5oMHNSSWF2SVdiSlVUNEdOOC1Vc1JYN2Flazl2RURzelJUWkc1dTlzT2hrRGdSQTFZVWJJN3NYalVfM3YtdkZ6cGRuaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T22:36:37+00:00",
-      "summary": "OpenAI is gaining on Anthropic with business users, new data indicates  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
