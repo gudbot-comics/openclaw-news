@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T14:07:03.242100+00:00",
+  "generatedAt": "2026-08-21T14:49:49.601703+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -15,11 +15,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s training pause is convenient. That doesn't make it meaningless. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjk4VmhNNnNlcmtzb1ZpOXVLdGtzUU5hbEdIRGN2LW90NGJaRmZvT1ZPZC1URXpxREU0MjhzZ05BMm0yTHFQY2dUcmxBYmx5SG8zVTQyS0ZOdTBqNXR1Z1FQbTBONVRpbFlRS25GalBhZDVWWVF5ZS0ySWVuUTRjQ0Q1RnFFUHh1T1lkUXhqMGU5eEtudHBj?oc=5",
+      "title": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1FuS0ZpTFcxZnl2MGU3SF9XcEhhOGd6M3FnLVg3emZ3VFhjeTgwVXdyMjZlRkNDbkpuU1lDRkpjVG5tVjkxczdtbVhOeUR2S3NjVDQ4RmF6RjM2TWpKR3FsVmlBaXROX0RmeDZCNnI0OE9QN2pLRDdsRkNOQ3E0aWVEcFM?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-21T13:55:08+00:00",
-      "summary": "OpenAI’s training pause is convenient. That doesn't make it meaningless.  Business InsiderOpenAI Halts AI Training on Advanced Model as It Detects Dark Signs Emerging  FuturismOpenAI Adds Controls …",
+      "publishedAt": "2026-08-21T13:52:00+00:00",
+      "summary": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Pushes Judge To Throw Out Privacy Suit 08/21/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTG5leXI5NGdpb2F4RlBhQk51S1IyRE9sTC1XZVAxUmNYcWJHOS1qZkxUS29FbWN5ZXVtOFpLNzVWR1VkcWFpajhLandzT3BJWWx6a19kNzZybGhQWGIxTVdhY2IybWRwclQ0dEpSN3Rvckh5TklpUDdPQlZjZTYxLVFpeENqZzRndFhISnpvZFBURTBvYy1sMFkxb3hsUWlNcjduRlFySmtXaW5ocEhhb3pyT3lYc3I5QTRj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T13:34:31+00:00",
+      "summary": "OpenAI Pushes Judge To Throw Out Privacy Suit 08/21/2026  MediaPost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Adds Controls That Should've Been There Already - Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNUk2a2ZORWR0SU9fSVA5YkJ2Y0YtWk5lcm4yczV3OVUtNXRyaWRoaWo4OEJGQUQ2c3hoM1piU1Z5S3lZc2VfS2tPQ2hwOXJyVXJidDlsOFQwSG9LS0Joc0N4ai1UYVZZMHR4TXRKYTRQcWo3QmNIcW83TkxrQnBQdkFMcw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T13:31:09+00:00",
+      "summary": "OpenAI Adds Controls That Should've Been There Already  Dark Reading",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,15 +83,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T11:00:00+00:00",
       "summary": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount  Florida Courier",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "I worked at OpenAI. Here’s how tech companies can prepare for a slowdown | Miles Brundage - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1FuS0ZpTFcxZnl2MGU3SF9XcEhhOGd6M3FnLVg3emZ3VFhjeTgwVXdyMjZlRkNDbkpuU1lDRkpjVG5tVjkxczdtbVhOeUR2S3NjVDQ4RmF6RjM2TWpKR3FsVmlBaXROX0RmeDZCNnI0OE9QN2pLRDdsRkNOQ3E0aWVEcFM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T10:18:00+00:00",
-      "summary": "I worked at OpenAI. Here’s how tech companies can prepare for a slowdown | Miles Brundage  The Guardian",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,15 +159,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Will Anthropic slow down? - Sources | Alex Heath",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lemhLWkdOMnRQTXNNbHphd2N4YkFJeElaLVFNZGJ6Slh6c0NBM29aSlZKNjh0bnhCYVM1N3VDUW01M1pfU25XaXd6TWlfU2Jvc0xEcnRTZW5zeVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T05:26:48+00:00",
-      "summary": "Will Anthropic slow down?  Sources | Alex Heath",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Rolls Out Deeper Integration With Apple’s Macs: ChatGPT Can Now Read, Draft And Send IMessages - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRnZybTJRcF9kRTQ2b2QxY1RSRzNucUZpdDJsUlRmZ0paemRKRDVuSEoxRGQ3QUdZRUp4SW0zN2NfUURYc0ZjNGc4RmpueVN0SFlrblVxcnZ6dEQ3REVsenljNnh5N3ZSYkphOXVKMnhXaTJYSWIwMFpUQkNES2dNUGd2bVZUZk1LZmVmeVJBaVRUS3J4WE1mOFFMbGZtQjQ2LS11SVZSd0F3QzlmS00ybVE4NEJNLW05cnVILURVVkc2U3NUV3lyNGpYWkRvelBlSWYtQTB0c3pzTXpNdkc3TmFVZmIxR3JtSnJwYzdqOFYxLUFlRXFTYy1R?oc=5",
       "source": "news.google.com",
@@ -173,6 +173,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T02:13:20+00:00",
       "summary": "NVIDIA Backs OpenAI's Ohio Data Center With $105 Billion  Memeburn",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT can now control iMessage, potentially raising Apple privacy concerns - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTzNuRXppRlY1cmRoUlh3TXQybHZhTnJkVFBoaktMdFRyS3JVbXVtS3FqUUlObXAxaEVYeTllT0R4SGpnMUwyaUc2dFFhdmpveFI1SlZLWVRZbEtxZ0lOaTV5U2ViOS15OG1lTjB4aEY3Si1NNVoyNTkzZloyS2NEMGdTYzFHMU1raUlNaURn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T02:04:00+00:00",
+      "summary": "ChatGPT can now control iMessage, potentially raising Apple privacy concerns  The Japan Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-20T21:53:24+00:00",
       "summary": "USC among top college users of ChatGPT, renews OpenAI contract for $2.5M  South Carolina Daily Gazette",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock - Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFAzbUgyY293ZV9uTEdfaXJhcGwydW4xMXZmQ1J4RkxLVTdxR2J5MnhxbklrUFdmd0xOMzhsc1hJR2hiVktDWGFJVXlkVnBTblV4Sk4zcEpLbEdOSVFzWnExM1h4alo1eXE0RHV0WldxVUFmYzRDTy1RcFN6TXdiam9TaUJ1OGtyNTctdTBSbE1OM0x4MEV6Sk4zVkJtUHdoakc0ZU9Wa243TjN5dE5HRVlkVmx5YUI0RzJjYzZTM1RLQ2M?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-20T21:46:03+00:00",
-      "summary": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock  Amazon Web Services (AWS)",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
