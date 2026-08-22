@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-22T19:20:45.446313+00:00",
+  "generatedAt": "2026-08-22T19:44:18.812563+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Calls For California To Strengthen Its AI Safety Laws - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUktSRUZlaXlGY0cxeHZJT0ltazNHUV8wTlpBQVJfckQyZW9yOVpKeHgwenNvdXlydEZhSzBOSXJPcHJQRzc2dTRaS05lRU9ZXy1pRTJRc2pZdlhKVWZpZFpqVzVrdVhUN0FlLUpyUlc3S291Y19ndGVEY3prWV8zMXN6NjlzUVhyRkMzc1NYLWZIRDBJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-22T19:27:04+00:00",
+      "summary": "OpenAI Calls For California To Strengthen Its AI Safety Laws  Engadget",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOemw4clFhZFIwSksyVXJnZ2pjYURuQXBncnpNVDZRb05ucVVqZjJFdFNaTjUyZUFQdTctRXlqcEFMWC1MeDhvSEpFSDFlRXhOMVdWakFOSmFKQ0dGUGdNX0dqS1JMMEpxZHpyMXBUTEpoNGNPZ2VkNFhOc3hkUXJoWGk5cHJ2WWdhQnpFVDFWdmNtUWZ5cmhhSXo3bzQwTXM1M3l0UUJrNmxVdHpQNzNBUTktTllpSkFXNWNwNUVsUTcteFdNLXdpR3FIc3J2dWcwY0p6OU1TQ3JYdEN0VGQwSlBZc3BBZ19HYkE?oc=5",
@@ -211,15 +220,6 @@
       "summary": "I deployed OpenClaw on a laptop and learned exactly where it hits its limits  MakeUseOf",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Exclusive: Key OpenAI Sales Executive Kaylin Voss Returns to Salesforce - The Information",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlBqOHQ2WkFMc1N2MEtRd1luMmYxZEU3OVo2VDJIQTJMdkRjRWRqck9WamdWb1pSQWZBLWFBVUtzdUNvMkI3RWNONXZBNFI0a3g0LVhQUGFlTUNLalZ4NW5qdmYwckhVdmt1eXdaVHNfZTlmS0dlMkRsbmdQRHFmWWl5S0dxRm9RXzl3R3Q1SVVlZ0FvbWZWdFF3REFvQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T19:20:00+00:00",
-      "summary": "Exclusive: Key OpenAI Sales Executive Kaylin Voss Returns to Salesforce  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
