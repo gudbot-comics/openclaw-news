@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-22T16:43:31.324888+00:00",
+  "generatedAt": "2026-08-22T17:01:42.515295+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Reverses Course, Now Backs Stronger California AI Bill - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmo0ZEVkVzZBZDVETG12RGtfTlBCRUV5TlFueWVhODFWeHJCZGZUa0pRWnlUVkVRbU9QQWtLcE96V1d5dlh2ZnBCeS03R0FKNzUyTDU0dGNlM29zV0N5U0k1Tjd1bGRsQ2Z1NGJBN3VRRHk0ejRseXptSFZCVjZZZEdObXpGN0d6V3NUVmlZcnJ5eU9uM2FzUg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-22T16:45:00+00:00",
+      "summary": "OpenAI Reverses Course, Now Backs Stronger California AI Bill  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI says California should strengthen its AI safety bill - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEtxYVJNZVpadnhFd05FSUowYlhmaXhHN0pZWUhUU3dCTnFyZVBZM2JsS2NxcDVkNUJ0a2NocGd0UlZpaGlNNFBFWlNEeGZBaU5ibFd3bXh5cl8zNFJVZDJYQkZ0SE9INkpoN0N5VGhEOXoySzdUNXhoY0lxelRWbXRaTkl1dEM4S2tEOE5HbXdNYUVXZ3lSRkd3?oc=5",
@@ -65,6 +74,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-22T09:30:50+00:00",
       "summary": "Why OpenAI just cut GPT-5.6 Sol developer prices by more than 20%  Latest news from Azerbaijan",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The Brains Who Powered China’s Surprising AI Leap - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-22T08:24:13+00:00",
+      "summary": "The Brains Who Powered China’s Surprising AI Leap  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -202,24 +220,6 @@
       "summary": "I deployed OpenClaw on a laptop and learned exactly where it hits its limits  MakeUseOf",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Exclusive: Key OpenAI Sales Executive Kaylin Voss Returns to Salesforce - The Information",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlBqOHQ2WkFMc1N2MEtRd1luMmYxZEU3OVo2VDJIQTJMdkRjRWRqck9WamdWb1pSQWZBLWFBVUtzdUNvMkI3RWNONXZBNFI0a3g0LVhQUGFlTUNLalZ4NW5qdmYwckhVdmt1eXdaVHNfZTlmS0dlMkRsbmdQRHFmWWl5S0dxRm9RXzl3R3Q1SVVlZ0FvbWZWdFF3REFvQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T19:20:00+00:00",
-      "summary": "Exclusive: Key OpenAI Sales Executive Kaylin Voss Returns to Salesforce  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI hosted an upstate retreat for influencers. It did not go over well. - Times Union",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTR3Vjg3WThoRlJBZ2F4X19waGdxREE2Q3RGMVJEdHVFRHlVdGplVTIzcnI2dE9OTXdPaWtBMmw0VFI3MEFjN3RtY3R3MG9qOWVzWm5sRWdmMnRqUkd1U0s0S203NGE2Wjh3bXNQSzZZdFVhZEdXNktid1dNdU9DNEpuR1FZX2NfVXR3WVZ6UEI1MXJ0TmNRX0VFU1ZfZDFYODZXb3NqVWFtMGtpZF9EYQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T18:33:38+00:00",
-      "summary": "OpenAI hosted an upstate retreat for influencers. It did not go over well.  Times Union",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
