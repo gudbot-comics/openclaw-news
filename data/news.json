@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T15:54:49.250022+00:00",
+  "generatedAt": "2026-08-22T16:17:28.518989+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -38,15 +38,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-22T09:50:00+00:00",
       "summary": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable'  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why OpenAI just cut GPT-5.6 Sol developer prices by more than 20% - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd1hCWGhKZVdOR1pNVVVRdXU3aUptQWlMNTJaOFV1dFhKQXNrLTR4WHhVa3RRMVdWdXF3TTRlVnBPTmZoeC04R3VvaXAzVWNnbEhjejJwekh1d0hMU2Zsc2N0d0c1Nzh0clN5LWY4Q05CQ1NxVklPbm1FQUd6QWJyMHhfR1h6RE90UVhkTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-22T09:30:50+00:00",
-      "summary": "Why OpenAI just cut GPT-5.6 Sol developer prices by more than 20%  Latest news from Azerbaijan",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T17:24:59+00:00",
       "summary": "OpenAI introduces ChatGPT for Teens. What do teachers think?  Northeastern Global News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia scales back financing guarantee for OpenAI data center - Network World",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenFIcHVpc0dKamEyb01mdmNPY1RLSWZxNm1zUEtuUDdhRTBYa1lsOENRMUFjWHc4SHlnSkVCd2JSV25ZVjV2OFBCQmotYm1EODNrRzFGTDVDSnhrTFJaNW9EM1BLbXN5M3kteEkwYjdXa05XeWRVU3NxRldIYWVRVnlKRUZlWEQzMFlFcEtSV0ZWeFNOeWdaeDY3NnZCTGlwcHBGV1lnUFNnYjc5dVF3ZA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T16:14:10+00:00",
+      "summary": "Nvidia scales back financing guarantee for OpenAI data center  Network World",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
