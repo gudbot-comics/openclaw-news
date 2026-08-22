@@ -1,19 +1,10 @@
 {
-  "generatedAt": "2026-08-22T03:26:47.736830+00:00",
+  "generatedAt": "2026-08-22T04:05:30.651001+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
-    {
-      "title": "Ramp's Latest Data: OpenAI Gains on Anthropic in Business AI - Briefs Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRG5TcFc4b2lxSU4zZWhlRUt6a3l4S3FqUzdMRGIwbi0xRFFkYXlCUFNScXdoX2xMMmxrSDhOcG1ZSzNlVzVUMmZ0VjV4OGFCbWRmc1NienBVNXJOSjN0emM1NDR4akpuZm1LanA3dFE2ejE4U1Fsb0VTM0E2VHUxc0ZmcGtlemJ1alJ0VzRGT04?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-22T02:56:12+00:00",
-      "summary": "Ramp's Latest Data: OpenAI Gains on Anthropic in Business AI  Briefs Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
     {
       "title": "Anthropic’s Q2 Revenue Overtook OpenAI for the First Time – And Reached Its First Positive Operating Income - forkast.news",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFdtX0NJLUg5YXZvcWJZVzZnV29sMkxZLWVYSUxaOVdMSThtcUV0Qkd6a1B3bnVuc0lpOXhiRTFLdTJJYldpb09SX2RzV2FCLWt0bm8xTE1TdEw5WkNhR2pMbUZXSW54ZzV1b2pwSUJ0VWhuT0VESElFaXZlUGl3N254VjVCa3p5RnRHSjExRi1SRDdOUU5pU0pSeXFlOTdTb011SzRDUDN1Ylhxdk9VaUtpQ0FXbnh6c2IwbldqTU1JVHpH?oc=5",
@@ -51,6 +42,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Ramp's Latest Data: OpenAI Gains on Anthropic in Business AI - Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRG5TcFc4b2lxSU4zZWhlRUt6a3l4S3FqUzdMRGIwbi0xRFFkYXlCUFNScXdoX2xMMmxrSDhOcG1ZSzNlVzVUMmZ0VjV4OGFCbWRmc1NienBVNXJOSjN0emM1NDR4akpuZm1LanA3dFE2ejE4U1Fsb0VTM0E2VHUxc0ZmcGtlemJ1alJ0VzRGT04?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T22:56:12+00:00",
+      "summary": "Ramp's Latest Data: OpenAI Gains on Anthropic in Business AI  Briefs Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI calls for stronger AI laws in California - Politico",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2JQdDFETkdMaENPNG1fVmE3WnpKbnlLLXVSZmo4dXBEZWVsM1pZNXpBWWJmVmNISzlrS01PREF1dDBXYUEtNkZ5MExXX3hHbzBYTzJYVFlxNGtuV2pIMnJ2V1hMdnp5YTd0amt5aktKNFNZNmp6c3VVUEs5V3dwNWlOMldQNGVJbGFJZEFlMlE0SDlZSHpVM2F6VEwzdw?oc=5",
       "source": "news.google.com",
@@ -78,20 +78,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI launches AI Futures blog exploring power, governance, and freedom - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RbkxpSTBkX0JqQjRabmprbFdOb0ZwVFNSY2Y0MUxjVllORWxPYU5TQVpWMHc0WTJwNVBaRUwwUm90QVgzUzliY0pkaWR2WjlhVHdIa2ZYRnJLRmlWLTZEOEJNQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T21:38:10+00:00",
+      "summary": "OpenAI launches AI Futures blog exploring power, governance, and freedom  eciks.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-21T21:30:13+00:00",
       "summary": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVlR1bDczSF9fWXlWT3ZIOGdKM3NVeVJ1V2NGSkhUSTM4am5INlJaVGZpaGVLRk05QnNDWHd6ZWppWmFMRUxWTjM0aFVEb0JiS0xCNTRER2pKZU5McHN2ZHc4Ymhlc1ZpR3A3TnZQS3VSdnNXeHBNcGlKZTV6Y0F5aEFOZUFTMl9LdHlZbElYRFNCN25nZUZPRGViYlotbTc1WmNZb3NnTTFWemFMZ0RxSnEyNTFLTzIwSWJ3V0tZOXdONHZ5ZnE5Wk9PUHFSTkdLWDlSNGx3SURkRzdZNW5PSkFrQlhSV3ZyaUpfWW5CenowSDJEQ2p3U2FhWk85S3RNS096QUo4UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T21:29:39+00:00",
-      "summary": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%  The Lufkin Daily News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
