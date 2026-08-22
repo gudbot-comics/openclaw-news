@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:01:39.054784+00:00",
+  "generatedAt": "2026-08-22T01:46:22.627220+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -29,15 +29,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T22:29:00+00:00",
       "summary": "OpenAI calls for stronger AI laws in California  Politico",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmhqVFB0UGlCem4wNXJMbGF1OU5BRndtbzBvQXRMeThGZExjR2dOV3RwQzR0b01Kc0hqQXdKbEtKN1lBd3lTcTdRbmdXQnZJU05pZkwtNWQ5dDRDU0ZCVmpyX0VBSVRkcWw2cWxkVHRJeFVlRVBZbVhsT0dURUZnMlBOdkRCMzcxaDZ1dDN5aDhwcmNtekJsajRwVVJBR2xVWHNYbnNnNWNzbHFBbjBBc2ZzQ0o5OWtuSUNCNi1maktkOTQ1QS1DSHVtVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T22:07:30+00:00",
-      "summary": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% By Reuters  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,15 +96,6 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "Techlusion Named an OpenAI Select Partner - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRzVZQXVWM0NfZTZOOVc0emxzRWU0WDZpT3N5dnNzeGx1cE1hM1hqUlpNdmRMak1iakhiZnAtZl9tSkFIZVU0Skx0YzZzRE5aVC1ZV2ZvblJUSmJadEJhUWNPYWhrYUd1T2o5VlVMc0FZVTRJQ01KRG9fa1Q4b1BGZlZDSG1OZVZoVzB3aElZaXY0ZTJGR3pvYi1odlk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T19:53:33+00:00",
-      "summary": "Techlusion Named an OpenAI Select Partner  StreetInsider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Anthropic's IPO could come sooner than you think — likely beating OpenAI to the punch - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2MzTTlXQnRNTDcyekp5VDREUVJkcnZ3ZWJ2RVN3aENpZ2YxZFlhTnUzNy1EbllvM25xcUsxaWZ0YTN4MmFvZVZqbk1UZ1B5M2g3OTc4Z200bElvajlERlZfdmFzdkcxa3ZrRm4zWkp2QXg4MWVtUVF4V3Yzd0lRZjRCdTYtdw?oc=5",
       "source": "news.google.com",
@@ -132,11 +114,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Exclusive: Key OpenAI Sales Executive Kaylin Voss Resigns - The Information",
+      "title": "Exclusive: Key OpenAI Sales Executive Kaylin Voss Returns to Salesforce - The Information",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlBqOHQ2WkFMc1N2MEtRd1luMmYxZEU3OVo2VDJIQTJMdkRjRWRqck9WamdWb1pSQWZBLWFBVUtzdUNvMkI3RWNONXZBNFI0a3g0LVhQUGFlTUNLalZ4NW5qdmYwckhVdmt1eXdaVHNfZTlmS0dlMkRsbmdQRHFmWWl5S0dxRm9RXzl3R3Q1SVVlZ0FvbWZWdFF3REFvQQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-21T19:20:00+00:00",
-      "summary": "Exclusive: Key OpenAI Sales Executive Kaylin Voss Resigns  The Information",
+      "summary": "Exclusive: Key OpenAI Sales Executive Kaylin Voss Returns to Salesforce  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +200,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T16:06:00+00:00",
       "summary": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Wellington’s Matt Witheiler on Anthropic and OpenAI revenue: Appetite for AI is unprecedented - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYVN0Z3ZuTE84V29mMzVSZnBTYTNBT0hTQkpoNjBWVlBYNVhWTWpUOWh2bFZOcEFraXhJdWZ5WVNOdVBjRDRUd0lsY1A1MlNsNFB3MlFMNThQSzYzRXpBYmVWY2RkUnVBVC03OHN2SFQtZmVkay12TTZORXZwc3ZzVmd5RzNOZEFRb19vQmV1T0c3SndVTTBfbkVHR1NoNERYQ3pFbTUzM25jT1BUYWpDVWxWSDB2NnVMcGJFbWxRc2UtcmhFN1RVbDdqNElSa210RXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T14:57:59+00:00",
+      "summary": "Wellington’s Matt Witheiler on Anthropic and OpenAI revenue: Appetite for AI is unprecedented  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3V2NUpuTnpmZndzZFE0LTF3Y1dzM05ZLW1SM1I0UTVpV0dsYktwWHNldFZaZ1NMa3otTGE4SkJWLVpJZmx1dkhyU1NZM2tMV1dCcUl2RFhDRGpuemhYdUlVS184ZHloTmtMTk1BV0tYRUs2VEc4RDJFSWhNbmZvWFVVMUZ6YXVCajRsbUVfZjNUaVE5Skg1VnZJaGFINE04MzJ1NEhvdUViaWRoU2ZTSHkwakoxTUVLSURBeEExaGRBZ9IBwgFBVV95cUxPemJYVXlXZ3R5TUJYbkRkV2NmaWN2cUJ5SGxtaHlsSTV1UFJwdVd5R3hKck9hZkY5aXgySVczWldwM1dpS0taOW03OHAxaDE2clF5ZEJ3LXJEX3ljUzhKQ2lOUExNclVSbG5FQ3VmMndsWTE3anpnaG9fX3IyRFlaRms3VXkzS21mb3JjMXFaTE5rQ1h1Z3VzNC02cTNOSFhabTdiQkg0R0Q1RUNUTmNUZEhRcmprTl9MNmEyUHUzTkVfdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T14:00:10+00:00",
+      "summary": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model  South China Morning Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
