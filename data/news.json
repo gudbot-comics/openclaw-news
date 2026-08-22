@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:28:26.342890+00:00",
+  "generatedAt": "2026-08-22T20:49:51.595343+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-22T19:45:19+00:00",
       "summary": "Inherent claims Faraday outperforms OpenAI and Anthropic in scientific research  Межа. Новини України.",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Calls For California To Strengthen Its AI Safety Laws - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeGJVQzl4Q2FoOXdsUnZPc2cwTEx0MDV0ZjM3bXFOVjRTTkJHcGpiMVBrOGdiVUQxRG9wMjdQYVEwdjF2VnN5a1pOMGhicTV1OVNJcU1Xbi1SVFRwVldqNDFPZ0Utbm94Tzd3bE5udTJ0Rk1KTnhMM2F3eWEyVGdncEdDYVA4V2xVamdaNkZibnRjMGZHM21wWG9CNWV4Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-22T19:27:04+00:00",
+      "summary": "OpenAI Calls For California To Strengthen Its AI Safety Laws  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,15 +132,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Cuts GPT-5.6 Sol API Prices After Holding the Line for Months - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTF9mM0RrcnFVdDhvQ2VTNXpzR2VWNW9kU1pmTXQ2N0hlS0czSl9MZGMwMHRORUhabkhRcGVyVm8ydzRDWVg5dzFranE2WERtUFYtek9WTEQ4eEFXaTlVS3BQdkxhNUtGa3hMbU5zOHBKTEJ0akNoVnlxOGJoZG5UN3BVU0xKajY1Z0FSMzJ3c3kzc2ZvM1FZVnppdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-22T01:35:01+00:00",
-      "summary": "OpenAI Cuts GPT-5.6 Sol API Prices After Holding the Line for Months  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Exclusive: OpenAI Explored Stake in Stargate Power Developer Lancium - The Information",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1daRnVKNlJVZWVFdnZRSWxIUHF4QWdmblhmdjVsam5iUTR3QmsxVUNoNkc4V3VTSHd2eGlxNmg4bjRuSnV2alo2YkFyOXpqYUIxMHNkWFg4Q0dHOEhFYVAxeDBCQXRGaGFrVzBxOXFjc2VuaEVpeUlNYmlTTGJBV3V4cTFVMGRxS0NOdEVWXzFUeGFrV1FCRUlJZVp3VEF1SUlqNzY1anM?oc=5",
       "source": "news.google.com",
@@ -141,29 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI vice president of sales Kaylin Voss returns to salesforce - The Information - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcXBiYlFGcnpFWVc5WjZlNEJlRGEzVjlJRktaRjdibTVIMGF4LTV3eVBjWlhUM0JfNFVMYlpYdkVtN0ZjRTNXTUNxRGRfWF9adHY5VV9qTUE2X1pCSmV5eEotSE1ZVmhZRlVyOWMwcFI4bVVRMVVBRmZxU2t3QVU0U3hTN0ZVMk5naFVfb3Rqem1RQTdRaWZ3NTRFQlBfUndHUy0ycXBwMXdZakFINUpXdVVxcFJ6cURvbFVLeUgyNmc5S1dRUTdGN2ZCOG94RlI5M0hacDIzVldzbDRnS1RIakZOUEI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T23:05:27+00:00",
-      "summary": "OpenAI vice president of sales Kaylin Voss returns to salesforce - The Information  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Ramp's Latest Data: OpenAI Gains on Anthropic in Business AI - Briefs Finance",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRG5TcFc4b2lxSU4zZWhlRUt6a3l4S3FqUzdMRGIwbi0xRFFkYXlCUFNScXdoX2xMMmxrSDhOcG1ZSzNlVzVUMmZ0VjV4OGFCbWRmc1NienBVNXJOSjN0emM1NDR4akpuZm1LanA3dFE2ejE4U1Fsb0VTM0E2VHUxc0ZmcGtlemJ1alJ0VzRGT04?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-21T22:56:12+00:00",
       "summary": "Ramp's Latest Data: OpenAI Gains on Anthropic in Business AI  Briefs Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "“Use it only when you accept that risk,” OpenAI says of the setting that lets ChatGPT send texts as you with no review. Full article in the comments section below - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLVVWZ3V2cDFwalY5OFVJSmMtN09aR0dQM3dJOHhCNjlmQ3hOV0luQVVGZlFkQmd0Q3UtQjBxU181S0RnajNDZ3VYdnRTelNFV19tZEVZYUprenlYZV9PSFVFT183Z2hWNTNLOEJuRTd0R1NZVlI5dW01YVNBR253cHNvUEVvbFh6Qm9zbldMZXRadlBPRU9zMkxONmVwQUxXYy1aZEFEUGtUVDJKZ3dxQ2VqVzRmcDJyQ2ZVSGwyNGY1Ny14ajRYUk53LUxpWm5CUUtwLUJCMXZWcmxPSXBwbFo1VQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T22:30:06+00:00",
-      "summary": "“Use it only when you accept that risk,” OpenAI says of the setting that lets ChatGPT send texts as you with no review. Full article in the comments section below  facebook.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +200,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T19:20:00+00:00",
       "summary": "Exclusive: Key OpenAI Sales Executive Kaylin Voss Returns to Salesforce  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI hosted an upstate retreat for influencers. It did not go over well. - Times Union",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTR3Vjg3WThoRlJBZ2F4X19waGdxREE2Q3RGMVJEdHVFRHlVdGplVTIzcnI2dE9OTXdPaWtBMmw0VFI3MEFjN3RtY3R3MG9qOWVzWm5sRWdmMnRqUkd1U0s0S203NGE2Wjh3bXNQSzZZdFVhZEdXNktid1dNdU9DNEpuR1FZX2NfVXR3WVZ6UEI1MXJ0TmNRX0VFU1ZfZDFYODZXb3NqVWFtMGtpZF9EYQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T18:33:38+00:00",
+      "summary": "OpenAI hosted an upstate retreat for influencers. It did not go over well.  Times Union",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces ChatGPT for Teens. What do teachers think? - Northeastern Global News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2dVNxTmN0bzJsc2RlXzFkN2pNSk9ib1ZhX19vZ09HM0tHMzZmY3VSa3JYRC1kZThrWnFlWVFIeDB4bllhQWUzNHZzZ3c5d1FwazI5WnM2WXRmVGR3V2xWdUs4aVJZdTVkNzhXT0ZnazItMUE3bVRuXzBoMHk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T17:24:59+00:00",
+      "summary": "OpenAI introduces ChatGPT for Teens. What do teachers think?  Northeastern Global News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
