@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-23T23:31:16.341220+00:00",
+  "generatedAt": "2026-08-23T23:53:01.671170+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Exec Tells People to Expect Routine AI-Driven Cyberattacks - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2NJbFF1QnB3UDJnM20zQ0NaTTB0X0V0WVhwVzNCekFpbzhBbGJnT2ZudFJnay1IckFhNFkzR2o3OWh5TTJCMXBtTHhvV1I1MnlKcGxvZlZkc0dBSnRadFM5aTdvamtRUzhaQ25NSUZyczFfUFZ0QUNZdThMQXpFenhhakplb1JJek9faVZhVWVkUWlCbWxyclhyQlFNZGJCWjA2RnNxTmVCOE5CU1dFU3AtcUN0VU5qZVQ0Q1ZFbUY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-23T23:51:27+00:00",
+      "summary": "OpenAI Exec Tells People to Expect Routine AI-Driven Cyberattacks  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Sam Altman says he's worried about AI being controlled by a few powerful players - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0bkJfQTFGdm9XZG9NM2t1ZXNBRUo1TzB2OFhYSGltWFhPc0V5Sjc3NVc0MXlkRkVKNTlDMW1pXzlqeE41T1g4REtyU2RkdDVIbUxuUmR2bzN1ZFA0T2QwNklOa3dRRXRzeG84YTRSS2FpSWc?oc=5",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T17:24:59+00:00",
       "summary": "OpenAI introduces ChatGPT for Teens. What do teachers think?  Northeastern Global News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nvidia scales back financing guarantee for OpenAI data center - Network World",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenFIcHVpc0dKamEyb01mdmNPY1RLSWZxNm1zUEtuUDdhRTBYa1lsOENRMUFjWHc4SHlnSkVCd2JSV25ZVjV2OFBCQmotYm1EODNrRzFGTDVDSnhrTFJaNW9EM1BLbXN5M3kteEkwYjdXa05XeWRVU3NxRldIYWVRVnlKRUZlWEQzMFlFcEtSV0ZWeFNOeWdaeDY3NnZCTGlwcHBGV1lnUFNnYjc5dVF3ZA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T16:14:10+00:00",
-      "summary": "Nvidia scales back financing guarantee for OpenAI data center  Network World",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
