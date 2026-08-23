@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T23:00:27.058846+00:00",
+  "generatedAt": "2026-08-23T23:31:16.341220+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-23T21:41:01+00:00",
       "summary": "Sam Altman says he's worried about AI being controlled by a few powerful players  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Chris Lehane warns AI hacking is turning into a permanent threat - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk5YOFNuRnRmZm1qQm5FNUNxQjFsWG9qWi1KZHQ3empjelVFWnBvZmgtU0hwTzl5aUVLUUpiUmp2S0lUbmVUd3FLa0g0Y2V0UmRsVG9fcHZOTE10ZWRVMVdLRkpqTTFHZ0ZGS25fcGpKM19BRnpOQVhRR0xDS3lZcXVNSXU0NVdyeVVwQWVYYjNuWno5RFBHb3JEM2xha2ZGd2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-23T19:15:04+00:00",
+      "summary": "OpenAI's Chris Lehane warns AI hacking is turning into a permanent threat  Startup Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +78,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI IPO Odds: AI Panel Vs Kalshi Timeline - OddsShopper",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16bGhrVjJhTDhhUFFlODZoR1hlYTBmTHpHNVJhMFJLVGs5eW5wdVFzMXMxN0c4N1NhTXFBcjlTMWhNQWlWMWxQRVIyOGlwX0VJaHo3aTJ3N1N3TUNucXJ0X0tBbnpQVW8tZGJNd0JUN2RCa29lMEx1RUx5aw?oc=5",
+      "title": "OpenAI's AI Models Broke Out and Hacked Hugging Face, So It Built Daybreak - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1Q2aWRnUjhOUDE3WVFndkhCaXB6Q09kbjFDb28xXzdxdEVYNWZVdk1fVnJXZmZFN3QtaTRPM050eVdkVWttSFZfcTJRdWNnSFRMUkFSUHZSMUVzc29wNVUzSHhaN3RrcjBkSnZXOEN1ODJ2LXk5UWNabU5pQm5JeEo0ZGExSTJRRzVvdEkzWEQ3RDQ5QVBObnVNeG1YX1FSb1E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-23T05:53:34+00:00",
-      "summary": "OpenAI IPO Odds: AI Panel Vs Kalshi Timeline  OddsShopper",
+      "publishedAt": "2026-08-23T10:05:23+00:00",
+      "summary": "OpenAI's AI Models Broke Out and Hacked Hugging Face, So It Built Daybreak  Startup Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,15 +137,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-22T09:50:00+00:00",
       "summary": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable'  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Hits the Brakes on Frontier AI Training Over Cybersecurity Fears - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb2IxbktZcmFRZzlhcmFpOVBJNklSSDduNkNVNGZsbUV0YXBTQ0c5bVZYWllsT3JNQ2Q2LUNFZ25yYTRENFNzVVVkQXhzTU5ObHpTazEtQ3dpUmNtT2RvS0V1czA5SzdVbjhhWVVmVFc0TFdyRjVYdWptcU5iNFQzOWdZYUZLdThnczdzdHZMWnE0ajBMUUlRQ2Z3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T22:31:42+00:00",
-      "summary": "OpenAI Hits the Brakes on Frontier AI Training Over Cybersecurity Fears  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
