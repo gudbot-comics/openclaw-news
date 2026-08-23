@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:15:51.706319+00:00",
+  "generatedAt": "2026-08-23T22:40:36.280052+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -141,15 +141,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Hits the Brakes on Frontier AI Training Over Cybersecurity Fears - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb2IxbktZcmFRZzlhcmFpOVBJNklSSDduNkNVNGZsbUV0YXBTQ0c5bVZYWllsT3JNQ2Q2LUNFZ25yYTRENFNzVVVkQXhzTU5ObHpTazEtQ3dpUmNtT2RvS0V1czA5SzdVbjhhWVVmVFc0TFdyRjVYdWptcU5iNFQzOWdZYUZLdThnczdzdHZMWnE0ajBMUUlRQ2Z3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T22:31:42+00:00",
-      "summary": "OpenAI Hits the Brakes on Frontier AI Training Over Cybersecurity Fears  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI calls for stronger AI laws in California - Politico",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2JQdDFETkdMaENPNG1fVmE3WnpKbnlLLXVSZmo4dXBEZWVsM1pZNXpBWWJmVmNISzlrS01PREF1dDBXYUEtNkZ5MExXX3hHbzBYTzJYVFlxNGtuV2pIMnJ2V1hMdnp5YTd0amt5aktKNFNZNmp6c3VVUEs5V3dwNWlOMldQNGVJbGFJZEFlMlE0SDlZSHpVM2F6VEwzdw?oc=5",
       "source": "news.google.com",
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T17:24:59+00:00",
       "summary": "OpenAI introduces ChatGPT for Teens. What do teachers think?  Northeastern Global News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia scales back financing guarantee for OpenAI data center - Network World",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenFIcHVpc0dKamEyb01mdmNPY1RLSWZxNm1zUEtuUDdhRTBYa1lsOENRMUFjWHc4SHlnSkVCd2JSV25ZVjV2OFBCQmotYm1EODNrRzFGTDVDSnhrTFJaNW9EM1BLbXN5M3kteEkwYjdXa05XeWRVU3NxRldIYWVRVnlKRUZlWEQzMFlFcEtSV0ZWeFNOeWdaeDY3NnZCTGlwcHBGV1lnUFNnYjc5dVF3ZA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T16:14:10+00:00",
+      "summary": "Nvidia scales back financing guarantee for OpenAI data center  Network World",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
