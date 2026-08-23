@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:29:42.920795+00:00",
+  "generatedAt": "2026-08-23T13:11:06.936694+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,15 +11,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-23T11:32:53+00:00",
       "summary": "News - OpenAI Partnership Gives Chip Ganassi Racing a New Tool in Pursuit of Speed  Chip Ganassi Racing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot - Toledo Blade",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMDcya29EME5pVlZtcHpPaDhPTHpQYnZwcVVHQ2psZUcyRXR6WEctOE9DWjg1bHQtbmQ3RDM5NFl1ZTVOTG5OeVRTNzZOT3JxOHFYal9od3FLS0NlelpHb3Fsc19DblMxQU5LcEgwOTZraWkzZUJWdGhDUmQtNnVYaFZxTm53X21JX0NvTGoza2lRRy1rdlFwUng1NHpxNEM5VUVDVlo1T0FjRzNrSG5Hb3ZKYWRvVHJvX1Z1TVhjSlo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-23T11:03:23+00:00",
-      "summary": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot  Toledo Blade",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,15 +114,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Joins Forces With Common Sense Media on a California AI Safety Measure - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ09iSldRQTBybEhWaGR3cVVhMEN2ZTg4YW51Wi1hMlpXVmpuRW03M2gyRlkwYlRlRGItZUc3S1dzRWpBMFZ4MDU4M2lrTVFaZ3lJMVZLcFEtWDB5UjI4Sy1iQkZfTEdvWHNnNzFFUm5lS1k3WTdPZVAwTzRUZnVCLVZUaVJ1UE9HTFBTOTMtM3BGR3R6c3c2SDlqLWQ1ckxMNVNTQy0xYzU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-22T18:16:22+00:00",
-      "summary": "OpenAI Joins Forces With Common Sense Media on a California AI Safety Measure  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI says California should strengthen its AI safety bill - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEtxYVJNZVpadnhFd05FSUowYlhmaXhHN0pZWUhUU3dCTnFyZVBZM2JsS2NxcDVkNUJ0a2NocGd0UlZpaGlNNFBFWlNEeGZBaU5ibFd3bXh5cl8zNFJVZDJYQkZ0SE9INkpoN0N5VGhEOXoySzdUNXhoY0lxelRWbXRaTkl1dEM4S2tEOE5HbXdNYUVXZ3lSRkd3?oc=5",
       "source": "news.google.com",
@@ -218,6 +200,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T18:33:38+00:00",
       "summary": "OpenAI hosted an upstate retreat for influencers. It did not go over well.  Times Union",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces ChatGPT for Teens. What do teachers think? - Northeastern Global News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2dVNxTmN0bzJsc2RlXzFkN2pNSk9ib1ZhX19vZ09HM0tHMzZmY3VSa3JYRC1kZThrWnFlWVFIeDB4bllhQWUzNHZzZ3c5d1FwazI5WnM2WXRmVGR3V2xWdUs4aVJZdTVkNzhXT0ZnazItMUE3bVRuXzBoMHk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T17:24:59+00:00",
+      "summary": "OpenAI introduces ChatGPT for Teens. What do teachers think?  Northeastern Global News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia scales back financing guarantee for OpenAI data center - Network World",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenFIcHVpc0dKamEyb01mdmNPY1RLSWZxNm1zUEtuUDdhRTBYa1lsOENRMUFjWHc4SHlnSkVCd2JSV25ZVjV2OFBCQmotYm1EODNrRzFGTDVDSnhrTFJaNW9EM1BLbXN5M3kteEkwYjdXa05XeWRVU3NxRldIYWVRVnlKRUZlWEQzMFlFcEtSV0ZWeFNOeWdaeDY3NnZCTGlwcHBGV1lnUFNnYjc5dVF3ZA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T16:14:10+00:00",
+      "summary": "Nvidia scales back financing guarantee for OpenAI data center  Network World",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
