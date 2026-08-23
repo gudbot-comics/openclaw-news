@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T03:32:01.722281+00:00",
+  "generatedAt": "2026-08-23T04:18:57.534628+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -20,15 +20,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-23T01:28:29+00:00",
       "summary": "OpenAI Is Adding Business Users Faster Than Anthropic. That May Matter More Than Valuation  inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta Platforms (NASDAQ: META) Launches Muse Code Agent With Pricing That Undercuts OpenAI And Anthropic - foreignpolicyjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd2pJSWppR0UtdnVtaGdFaHdCSDBWZG5rZktjbDZ0c0UwWWtFM0lPSW9NaHhkS3pTMy1jM3k1cUFnQzRhR0pQMmtITGZuSFlaS0VjZjV6eERLYm5zNWpPZFVLTkZldVUwTktCazFxakRXNUdhbHdVTXAtZXFlUUo5YjZaOVBDd2F6dHB6Yks4WjJYZE0wd1FPUFB0T3FjbGZSWmJSME9NNWtrN25qOWgta010Vjgya2xjMUNFN2JkN2JLMS1zTjBGSVpqUW5GZW1ldV9VQUs3aWQzN19GUmFDSXd6aw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-22T23:24:00+00:00",
-      "summary": "Meta Platforms (NASDAQ: META) Launches Muse Code Agent With Pricing That Undercuts OpenAI And Anthropic  foreignpolicyjournal.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,15 +114,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s ChatGPT for Teens Refuses to Do Homework - Movieguide",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOckRZcWhZYWFYMnNFTGstcng3eFBjWTNmc0pNVnA2SWM1MHp5aWg5UWU3dU5ncmNCR0hHekxRVWVCRWFFaGhWaU1Qdmg5LVV0a1lqajc0aENtaFFLWXhmMG5obmFmaVpra2NqbE5QWkpuTGFwU0pLRm5WRlJDWXVnZGN1eWlLaURETnVnVHpWcThOUWxYY3VqSkR3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-22T04:03:20+00:00",
-      "summary": "OpenAI’s ChatGPT for Teens Refuses to Do Homework  Movieguide",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Exclusive: OpenAI Explored Stake in Stargate Power Developer Lancium - The Information",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1daRnVKNlJVZWVFdnZRSWxIUHF4QWdmblhmdjVsam5iUTR3QmsxVUNoNkc4V3VTSHd2eGlxNmg4bjRuSnV2alo2YkFyOXpqYUIxMHNkWFg4Q0dHOEhFYVAxeDBCQXRGaGFrVzBxOXFjc2VuaEVpeUlNYmlTTGJBV3V4cTFVMGRxS0NOdEVWXzFUeGFrV1FCRUlJZVp3VEF1SUlqNzY1anM?oc=5",
       "source": "news.google.com",
@@ -218,6 +200,24 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T16:14:10+00:00",
       "summary": "Nvidia scales back financing guarantee for OpenAI data center  Network World",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Gwyneth Paltrow responds to backlash over reported private dinner for OpenAI CEO Sam Altman - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm9TS01ZekRyNnJwVHdqOFlOQmNrZHgteldtN0owc0hsSEU0V1V3SHgtaFpBenlDT0Y1aDRKSzdHYXNfaFFFZHhXcEg5WGVYZXZmNkwybFZaOC1SYUgteFFwSzM1TEllbU5WU3loaWY5RDJtYTViUFNkNVlaQ2d1NTZtUzlIS0M0ZHF2WGo3ZFR3Q2pnWWd4U2dOT3d6V3lRa0xzX1ZLQXpoZnph?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T16:07:11+00:00",
+      "summary": "Gwyneth Paltrow responds to backlash over reported private dinner for OpenAI CEO Sam Altman  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Florida seeks court ruling to officially classify Sam Altman and ChatGPT as a 'public nuisance' — OpenAI fights to keep lawsuit away from a state jury - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVGExTm9OY0FwSzBhdVhnUVVSNF8td3ZfVHhZdlhEcU45eVlpckdqUFh1aVlheG5jRDRtRW9JaktkZGNTbENubFg1dzRfOHhGNnVLcVFfaHVKa2JrTUVjdmFCbXFUMHJETDR1RjgxQjZvejgwdWhBeTl5MWdkakU0Uk4yYmIwMEZoRXhnMVBDNUtCd0dJZkFDRE5JM05PVlFnRXkzX09veXVGLXJKQ1ZydzBEUHJXdFg3NnhxbThyanFzS1FlNXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T15:11:18+00:00",
+      "summary": "Florida seeks court ruling to officially classify Sam Altman and ChatGPT as a 'public nuisance' — OpenAI fights to keep lawsuit away from a state jury  Tom's Hardware",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
