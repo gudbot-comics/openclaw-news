@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:11:06.936694+00:00",
+  "generatedAt": "2026-08-23T13:47:09.091899+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -74,15 +74,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-23T02:08:00+00:00",
       "summary": "IPO Fever Heats Up for OpenAI and Anthropic  The Motley Fool",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Preparing for a Role at Anthropic and OpenAI - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGx3aDBCWU81Nm1PN2JrUmhCSlRQZDduT0swNUg5T1B0YW9mN1NDdzVOWmhSNFJjV0JJdk92TUFTMHZlVWsySmFBRGpBMVlFSXJxSTY0VTZLYTdXZzREY3Y1dDVqQjBIQWM3aU8zcklLNVpjYjNQRkZYSF9vb2d6am9SUE94cFQ1ellHMGNaZFViOHo4UmE1NWhtT28wdWd4cDFwRlp1VHJjNzg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-23T01:32:09+00:00",
-      "summary": "Preparing for a Role at Anthropic and OpenAI  StartupHub.ai",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T16:14:10+00:00",
       "summary": "Nvidia scales back financing guarantee for OpenAI data center  Network World",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Gwyneth Paltrow responds to backlash over reported private dinner for OpenAI CEO Sam Altman - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm9TS01ZekRyNnJwVHdqOFlOQmNrZHgteldtN0owc0hsSEU0V1V3SHgtaFpBenlDT0Y1aDRKSzdHYXNfaFFFZHhXcEg5WGVYZXZmNkwybFZaOC1SYUgteFFwSzM1TEllbU5WU3loaWY5RDJtYTViUFNkNVlaQ2d1NTZtUzlIS0M0ZHF2WGo3ZFR3Q2pnWWd4U2dOT3d6V3lRa0xzX1ZLQXpoZnph?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T16:07:11+00:00",
+      "summary": "Gwyneth Paltrow responds to backlash over reported private dinner for OpenAI CEO Sam Altman  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
