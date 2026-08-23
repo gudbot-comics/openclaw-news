@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-23T08:23:01.708626+00:00",
+  "generatedAt": "2026-08-23T08:56:00.239460+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Anthropic, OpenAI Build Chips as NVIDIA, AMD Develop AI Models - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZC1Ja1dicnplRVVXV240ZUZUSjd4cjBESHhJLWI3ejI5UFVlWHl5S2FnM04ycXBYdjk3NUxvZm9QZFoxa2ZhM19FdFlWUHZyUmpMNl9aNFhyQzhhbmN1azBWVDdGZWotTkhMcXRIRTlHNzZ2cEFuOFc5WTIyZ21IUjRNc2pzWXk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-23T08:13:02+00:00",
+      "summary": "Anthropic, OpenAI Build Chips as NVIDIA, AMD Develop AI Models  조선일보",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
@@ -60,15 +69,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Lowers AI Model Prices Amidst Competitive Market - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZHBwWGNCamRxTk9fT0txTGM0cUxyNmcwV0k4dkd3a09NOXpBTk1TWmNwek9OUjBGRGFCcHFfVTV6eDM1MXVkQ3piSmdkRDRTN1R5Sk50T2VYS3gxOFVrbXJtUHZScG1HenJfZlpOQW5rZEd0b2Z5cmVpWk9Cb09ETm9Rbk41TExrMjRyWmVUUDl1ZThFa0wySTVn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-22T22:17:24+00:00",
-      "summary": "OpenAI Lowers AI Model Prices Amidst Competitive Market  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Calls For California To Strengthen Its AI Safety Laws - Engadget",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUktSRUZlaXlGY0cxeHZJT0ltazNHUV8wTlpBQVJfckQyZW9yOVpKeHgwenNvdXlydEZhSzBOSXJPcHJQRzc2dTRaS05lRU9ZXy1pRTJRc2pZdlhKVWZpZFpqVzVrdVhUN0FlLUpyUlc3S291Y19ndGVEY3prWV8zMXN6NjlzUVhyRkMzc1NYLWZIRDBJ?oc=5",
       "source": "news.google.com",
@@ -119,15 +119,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-22T09:50:00+00:00",
       "summary": "OpenAI's chief economist says researchers on his team need to be 'comfortable with being uncomfortable'  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Hits the Brakes on Frontier AI Training Over Cybersecurity Fears - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb2IxbktZcmFRZzlhcmFpOVBJNklSSDduNkNVNGZsbUV0YXBTQ0c5bVZYWllsT3JNQ2Q2LUNFZ25yYTRENFNzVVVkQXhzTU5ObHpTazEtQ3dpUmNtT2RvS0V1czA5SzdVbjhhWVVmVFc0TFdyRjVYdWptcU5iNFQzOWdZYUZLdThnczdzdHZMWnE0ajBMUUlRQ2Z3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T22:31:42+00:00",
-      "summary": "OpenAI Hits the Brakes on Frontier AI Training Over Cybersecurity Fears  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T16:14:10+00:00",
       "summary": "Nvidia scales back financing guarantee for OpenAI data center  Network World",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Gwyneth Paltrow responds to backlash over reported private dinner for OpenAI CEO Sam Altman - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm9TS01ZekRyNnJwVHdqOFlOQmNrZHgteldtN0owc0hsSEU0V1V3SHgtaFpBenlDT0Y1aDRKSzdHYXNfaFFFZHhXcEg5WGVYZXZmNkwybFZaOC1SYUgteFFwSzM1TEllbU5WU3loaWY5RDJtYTViUFNkNVlaQ2d1NTZtUzlIS0M0ZHF2WGo3ZFR3Q2pnWWd4U2dOT3d6V3lRa0xzX1ZLQXpoZnph?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T16:07:11+00:00",
+      "summary": "Gwyneth Paltrow responds to backlash over reported private dinner for OpenAI CEO Sam Altman  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
