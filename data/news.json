@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T17:43:15.080097+00:00",
+  "generatedAt": "2026-08-23T17:58:27.435053+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -29,15 +29,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-23T15:29:00+00:00",
       "summary": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Can parents trust OpenAI’s new ChatGPT for Teens to keep their child safe? - CTV News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlpETmhDU2ptYjFUc21OVmFsdlVtazlVUHhxdVVjLVZCdFhSa2RVSHBhR3lmcFNCb1VHR1FueHpkNl9MZHVHZGZGX3NmUFBmcElKODRMWERZbHRtRjVCYjhDVzdkc3RIOFUxSHRncUM5SlRBcnR2RXM3MUwtX1N6OXNOUjA5cjYwcG5OUXllaGJzeVZOY2tiaW5ma1luX2lCWE5NRzlkN0pmbXRlOEZiUEw2VQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-23T15:12:10+00:00",
-      "summary": "Can parents trust OpenAI’s new ChatGPT for Teens to keep their child safe?  CTV News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T17:24:59+00:00",
       "summary": "OpenAI introduces ChatGPT for Teens. What do teachers think?  Northeastern Global News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia scales back financing guarantee for OpenAI data center - Network World",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenFIcHVpc0dKamEyb01mdmNPY1RLSWZxNm1zUEtuUDdhRTBYa1lsOENRMUFjWHc4SHlnSkVCd2JSV25ZVjV2OFBCQmotYm1EODNrRzFGTDVDSnhrTFJaNW9EM1BLbXN5M3kteEkwYjdXa05XeWRVU3NxRldIYWVRVnlKRUZlWEQzMFlFcEtSV0ZWeFNOeWdaeDY3NnZCTGlwcHBGV1lnUFNnYjc5dVF3ZA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T16:14:10+00:00",
+      "summary": "Nvidia scales back financing guarantee for OpenAI data center  Network World",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
