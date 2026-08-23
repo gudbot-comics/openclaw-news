@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-23T13:47:09.091899+00:00",
+  "generatedAt": "2026-08-23T14:03:43.964010+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-23T13:56:00+00:00",
+      "summary": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "News - OpenAI Partnership Gives Chip Ganassi Racing a New Tool in Pursuit of Speed - Chip Ganassi Racing",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmQtZlZ4cUp3amFqazNGUEF0UUc2bXJ1MUtETklNTmZmZU1OcGNWTmxNQzlIc1RXZThjV2xPU2VRX09INWhnTWRDODhCRVlsOEp4N1N5SkY5YUVHMlRvdGZVZ2Q5bEFiRTB6cllILVVzMGRwaE9xTk5sN1I5RnBkTG9JTVUwWGdYSGVCNHp4dG03MHFQYzhHdEZ4d3hGeTRROGVmN1FZT09la0ZvWTZn?oc=5",
@@ -24,29 +33,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It - MIXED Reality News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSFQzaGtMMXZJVDlBSVFQT3duOGZKWXpmZmJnVU56MzJVZm1sZERuT3hUZjMwYXZVcU1Bc3ozOEROVWM2N2wyN2tJZEtLOVZrNG80LWN5YlRWZ2c3elpXWjhfdjFMSVNZdGY4VGI0Q2h0Tm4zdWFUYUdiandfTVFJUWVBLXpVUXk3U3c5S1UwV2xaMDBoQ2tQclJXZkdhdE9LZVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-23T10:06:02+00:00",
+      "summary": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It  MIXED Reality News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Anthropic, OpenAI Build Chips as NVIDIA, AMD Develop AI Models - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZC1Ja1dicnplRVVXV240ZUZUSjd4cjBESHhJLWI3ejI5UFVlWHl5S2FnM04ycXBYdjk3NUxvZm9QZFoxa2ZhM19FdFlWUHZyUmpMNl9aNFhyQzhhbmN1azBWVDdGZWotTkhMcXRIRTlHNzZ2cEFuOFc5WTIyZ21IUjRNc2pzWXk0?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-23T08:13:02+00:00",
       "summary": "Anthropic, OpenAI Build Chips as NVIDIA, AMD Develop AI Models  조선일보",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-23T08:02:00+00:00",
-      "summary": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It - MIXED Reality News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSFQzaGtMMXZJVDlBSVFQT3duOGZKWXpmZmJnVU56MzJVZm1sZERuT3hUZjMwYXZVcU1Bc3ozOEROVWM2N2wyN2tJZEtLOVZrNG80LWN5YlRWZ2c3elpXWjhfdjFMSVNZdGY4VGI0Q2h0Tm4zdWFUYUdiandfTVFJUWVBLXpVUXk3U3c5S1UwV2xaMDBoQ2tQclJXZkdhdE9LZVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-23T07:49:12+00:00",
-      "summary": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It  MIXED Reality News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,6 +132,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Exclusive: OpenAI Explored Stake in Stargate Power Developer Lancium - The Information",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1daRnVKNlJVZWVFdnZRSWxIUHF4QWdmblhmdjVsam5iUTR3QmsxVUNoNkc4V3VTSHd2eGlxNmg4bjRuSnV2alo2YkFyOXpqYUIxMHNkWFg4Q0dHOEhFYVAxeDBCQXRGaGFrVzBxOXFjc2VuaEVpeUlNYmlTTGJBV3V4cTFVMGRxS0NOdEVWXzFUeGFrV1FCRUlJZVp3VEF1SUlqNzY1anM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-21T23:32:00+00:00",
+      "summary": "Exclusive: OpenAI Explored Stake in Stargate Power Developer Lancium  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI calls for stronger AI laws in California - Politico",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2JQdDFETkdMaENPNG1fVmE3WnpKbnlLLXVSZmo4dXBEZWVsM1pZNXpBWWJmVmNISzlrS01PREF1dDBXYUEtNkZ5MExXX3hHbzBYTzJYVFlxNGtuV2pIMnJ2V1hMdnp5YTd0amt5aktKNFNZNmp6c3VVUEs5V3dwNWlOMldQNGVJbGFJZEFlMlE0SDlZSHpVM2F6VEwzdw?oc=5",
       "source": "news.google.com",
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-21T16:14:10+00:00",
       "summary": "Nvidia scales back financing guarantee for OpenAI data center  Network World",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Gwyneth Paltrow responds to backlash over reported private dinner for OpenAI CEO Sam Altman - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm9TS01ZekRyNnJwVHdqOFlOQmNrZHgteldtN0owc0hsSEU0V1V3SHgtaFpBenlDT0Y1aDRKSzdHYXNfaFFFZHhXcEg5WGVYZXZmNkwybFZaOC1SYUgteFFwSzM1TEllbU5WU3loaWY5RDJtYTViUFNkNVlaQ2d1NTZtUzlIS0M0ZHF2WGo3ZFR3Q2pnWWd4U2dOT3d6V3lRa0xzX1ZLQXpoZnph?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-21T16:07:11+00:00",
-      "summary": "Gwyneth Paltrow responds to backlash over reported private dinner for OpenAI CEO Sam Altman  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
