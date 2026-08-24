@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-24T19:38:12.840222+00:00",
+  "generatedAt": "2026-08-24T20:00:04.114584+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "WikiHow sues OpenAI for copyright infringement over AI training - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-24T19:35:46+00:00",
+      "summary": "WikiHow sues OpenAI for copyright infringement over AI training  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent - The New Stack",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wUzM0V1V1aXk3R3ltUnRadFRUUHVQMF9lUWpzeEhYbDRycTJudENYZ2JkRVNQRzNEN3R3ZWdfLTEwQmJBbGgybjRXbEhPTWFTTDNhbzZvcFQ2ZlpXTm5LcjlfcnRldjR5ZXJTZEJDbw?oc=5",
@@ -78,20 +87,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Alabama attorney general subpoenas OpenAI over Hugging Face incident - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVdSQzJiNFlaQTQxTTNqUkVNemkyX0RBemJFeHVDVWZmQWJCdlA2cXdmTlpra2tkTm9fUE12TzFBd2hBSkVyU0Nsd1lOekpwWHVPNWlybHk2d1VUMUs3a2FhWGpxb1h5b3BocUZHeUlhQU5yeEc0a2o3NkdNbnBvMGd1OXEyUdIBiwFBVV95cUxOZ2Y2SWRBbXdHa0JVM0xxWnpwSnZacnBGSG5lcDRYZnpPU3ViUDZRVEN3QW90QjhYXzFONEVUWWdCNjEtVjhEcUVRRm5SZFkwWHMyTkw1eTZnOGdna25MRW45T1J2NjJiblBleGVDeEp3ZE9ObmlKSWJBZEpaeTFHWEZuMWdvWG9lazdB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T18:44:00+00:00",
-      "summary": "Alabama attorney general subpoenas OpenAI over Hugging Face incident  The HillAnatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities  The New York TimesOpenAI subpoenaed by Alabama attorney …",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack - ABC17NEWS",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTjRNMmx3cWdmOVVuc1lDbmNrTmJUX3RVMV9pd01EOFJlV09JY3FUVHB5UkJpY0VBd2dCdlhBX1NyM0Nvb2ZuV1NheThaTlI2alVvaERlckdqN2dyMGhqdEFSN3dzdXRXVE41ZHVfSG1DdDhyWGd1N1pZV2diX2hnNUdjNVozS1JrVlRhY1NXbkR3VVA5TVI3N1RmRVI5TFoyZ29qa2lsSFhTZnYzWTZOWElYV1Mtem5lX19HUDVsa0hBVVh1cDNDWGp3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-24T18:43:11+00:00",
       "summary": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack  ABC17NEWS",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXAtS1RCcGV1bHZxRGdjNmtlT2dRcmFJLUpmcmMxZVE3ZzNLNW5iNl9aeHRkWGhETjdHRUQ5aHk4RUZPWVVCS3lMU2xQMmpOaUFIS1RNbTdZZWxZazBRcmVZQTh3RGFYbE5WVHdESWlDUTA1OEUwY2M2X0RXQnVTeTdndUc5R2p3S3VoRVZXTU9RUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-24T18:09:15+00:00",
+      "summary": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,15 +155,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-24T16:44:04+00:00",
       "summary": "Prof. Balázs Kovács Named to OpenAI’s Inaugural Research Cohort  Yale School of Management",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CORRECTION – Algosoup Named an OpenAI Select Partner - Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNai1FNVBjaVVmRzhVVVd4N2F2cFZNNHViMXNUdFFXRUNuWVlBaHlicTVGNUthazlNeldjcElHZkNWcVhua1AxYUFPaGVZdThuckM1eEVrU0R0NEVZdTNQS0lsLWtOXzh1UVdWNlFqQktDZlFnY2pCTzBtam5ybG1KcktUS05Sa3lPaUlfM29wTGw5UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T16:22:00+00:00",
-      "summary": "CORRECTION – Algosoup Named an OpenAI Select Partner  Yahoo! Finance Canada",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
