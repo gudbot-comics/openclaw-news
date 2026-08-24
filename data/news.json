@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:09:58.700496+00:00",
+  "generatedAt": "2026-08-24T05:51:58.085952+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -20,6 +20,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-24T04:21:55+00:00",
       "summary": "Nvidia Is Coming for OpenAI and DeepSeek With $6 Billion Poolside Deal to Build a Powerful Open-Weight AI  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia Is Coming for OpenAI and DeepSeek With $6 Billion Poolside Deal to Build a Powerful Open-Weight AI Model: Report - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkJSZjh5eGFZYXpkR0xmeUtqQTBpa1hlX0ZjSGtBQWhhS3ZRS1ZQOUIxNEZadjM4VGlxYnZfbzdXT3FMTWZjS0g2NC1HaEFqVjUxWmhKbFZyM2dtdkdhcG5mRmdmWEFVRlhKSy1OVl9TbmdaYV84d3ZrX0dsTnNaTk83b3dkc3M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-24T04:21:00+00:00",
+      "summary": "Nvidia Is Coming for OpenAI and DeepSeek With $6 Billion Poolside Deal to Build a Powerful Open-Weight AI Model: Report  Yahoo Finance Singapore",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,15 +200,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-23T10:06:02+00:00",
       "summary": "OpenAI Just Unveiled a Powerful New Cyber AI, But You Probably Can’t Use It  MIXED Reality News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Fears of AI-induced armageddon are overdone - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjNNSnVoYWRCLU9fQll6YXA2SzBpNFU4YXpIV0d1UDhPNmRjTWw2RWtkeExlWmpsQ3IzZDBTT0VWTElzT3RwT3kyX1pmbllNZHpYTlBTOHc1SE12YWFqVzgwRVE5Sl82c25OM19YT3hodEpMZGszOVBqeUxFWnhmdmRPWDZsRU1JcXhZSUZWWWFjSDNyVnl2eVln?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-23T08:53:02+00:00",
-      "summary": "Fears of AI-induced armageddon are overdone  The Economist",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
