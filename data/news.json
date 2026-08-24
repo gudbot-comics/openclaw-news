@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T08:28:49.016584+00:00",
+  "generatedAt": "2026-08-24T09:24:24.520630+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -96,20 +96,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Meta hires OpenAI veteran Luke Metz - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VjNSRXExSEgtMXVkMzJySkp0bkxvT0RLUi0wV0pqSC1sSi0xYzlCbUxvNVFDdXpCZUppeGpYUG0wSDVfNkkwZEI2ZjQ2Tno3S0Z4QVl6NnhjMWphODRELTdvOHJaei1oeTcxeQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T03:54:24+00:00",
-      "summary": "Meta hires OpenAI veteran Luke Metz  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Meta confirms hiring of OpenAI veteran Luke Metz- Axios - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3pPUXA3N3czbDhIQjVXaE52NnI0RWRzZVJoZW1iZ1JkSkVIY21RZ1Q3cUxCVnpraHpBMkNIRTBoQ0pTa28wSGxwLXNRZ052ZWMwTkc3V0xxbzlIY08yTk5SUUJ0a2tFd0ZhM0FwZVFOeG95Vkx5RnpCa0hBcjEwS1VvQm11Ujdvb1lCRnJLemREYTEtOU5wN0h1enZ6VUswNjJYRjNMZHM2VnhjOU1QalpKN2JnYTMxTHhROGtVcDhvUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-24T03:16:00+00:00",
       "summary": "Meta confirms hiring of OpenAI veteran Luke Metz- Axios  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta hires OpenAI veteran Luke Metz - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15VjNSRXExSEgtMXVkMzJySkp0bkxvT0RLUi0wV0pqSC1sSi0xYzlCbUxvNVFDdXpCZUppeGpYUG0wSDVfNkkwZEI2ZjQ2Tno3S0Z4QVl6NnhjMWphODRELTdvOHJaei1oeTcxeQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-24T03:12:16+00:00",
+      "summary": "Meta hires OpenAI veteran Luke Metz  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,10 +123,19 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Tech Bytes: OpenAI slows frontier AI development after Hugging Face breach and cyber capability jump - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUw4N1laZC1pZ1R6VFpRZGpHaGItRnNKOUpFbHo1YUZvMWJMaXg2VTR4WVFES0ZxXzB3WTA2ZG1yWFZJYVpNeWg1eGpMQzhzUlowRy1wZGpIS0duREc0Z2VieS1kTEdlV0lxaUJiNkZIc2F6MVByVmF6YjN2MWVWMmxCOUc2Q0dCZkhzTUFESWhRWndFek1SUjd3OTJzOTMzREdTZXdBaDJ1YWI1dk1MTU1kVnpoUWkwd0dYQTdIN21UYnNrVW5qY0E2Z2FRUTNDOXU2cUhsZjZFSE5MR3pMMGhObmZRODlBVTRSZzRpT0RZQjczb19fQ2dHVjdocXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-24T02:48:48+00:00",
+      "summary": "Tech Bytes: OpenAI slows frontier AI development after Hugging Face breach and cyber capability jump  Proactive financial news",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Unveils Harness Post-Black Whale Launch: Competing for Dominance in the Agent Runtime Space - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xYkdpalZzTl83OUNqNFJSUlhYTnNEeU1ZZHFlN3p3ZXZsRk44aUZRX3J1Z25lNld5QngtUFNyOEZsLUR1dU1lUzJob2o0RUx2Uy1z?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-24T02:33:59+00:00",
+      "publishedAt": "2026-08-24T02:33:42+00:00",
       "summary": "OpenAI Unveils Harness Post-Black Whale Launch: Competing for Dominance in the Agent Runtime Space  36Kr",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -135,17 +144,8 @@
       "title": "The End of Mathematics: 40 Top Mathematicians Gathered at OpenAI's Secret Meeting - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KZVpaVW52NHNoRmRHcm5vR1RRNVZnaC1SSWc3bk5VaTctYm4tRW81S3pzcDNGb081R0FvVTVPcXZYbmhkSjBkcE8yYlBxX2diSDl3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-24T02:33:55+00:00",
+      "publishedAt": "2026-08-24T02:33:42+00:00",
       "summary": "The End of Mathematics: 40 Top Mathematicians Gathered at OpenAI's Secret Meeting  36Kr",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tech Bytes: OpenAI slows frontier AI development after Hugging Face breach and cyber capability jump - Proactive financial news",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOUdPcVBfaHRfd3h6bWJrVDJESlBELTZRVW1iREZHaXU2dGVSVy1yOUx3S1VuTWYtUW1QZjc2SXZjVFhkQVotSUhYMjRveTFsLUFXeExSb3JiWkkyMDhIWWlNVWo2NlNfQ3V2RVFLWWE0UnU0b3Bnd0p2NjA2VkpYM2VUNTEyQTNMdDNrT0VfUi1FeklaWC0yamNGekNwRi16MVdqSVlqbzEtejhqaVctZFNyY1d4bjgweWpkT1JuNDVrbmc1cTdUd2JZaHJyQVRlWGJuTEpTanVCemlqZ2puZTViSE5WOWdDd2xfUDFmLS1HUnRsNEUzSHdwYnV2LVJiNzRr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T01:54:00+00:00",
-      "summary": "Tech Bytes: OpenAI slows frontier AI development after Hugging Face breach and cyber capability jump  Proactive financial news",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -213,13 +213,13 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "News - OpenAI Partnership Gives Chip Ganassi Racing a New Tool in Pursuit of Speed - Chip Ganassi Racing",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmQtZlZ4cUp3amFqazNGUEF0UUc2bXJ1MUtETklNTmZmZU1OcGNWTmxNQzlIc1RXZThjV2xPU2VRX09INWhnTWRDODhCRVlsOEp4N1N5SkY5YUVHMlRvdGZVZ2Q5bEFiRTB6cllILVVzMGRwaE9xTk5sN1I5RnBkTG9JTVUwWGdYSGVCNHp4dG03MHFQYzhHdEZ4d3hGeTRROGVmN1FZT09la0ZvWTZn?oc=5",
+      "title": "AI agent hacks gym system to move up waitlist - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUW9KN1dEYzRuYzhoRzhtTEdjZzBIU1lmWk5tbWZaNmFSckZpNDhXWU1xSUxQVjc1WXBEaFZNOG11dExHeDlIQ2RDNnFxcThmTjAtQV85NFZydUlWWmVYQXhlRjk3YXpFc0NCd3VHR2JyZ3ZBZERuNmk2ONIBgAFBVV95cUxNTW1ZRzZOT1h4Z25Sak9TOTZiMDRZckgzZWdfVEtCM0xPM08yemx3cXNsbm1SMjdzeTQwQVZoMEdTUHM5ZndWWVl2UUJ6R2RhQWRXb1lzRUpabHpCSmlFeEtoemEybGdwN0Zia2VMZVpjZ2R0ZHNkR2c0RzBBb3BIQg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-23T11:32:53+00:00",
-      "summary": "News - OpenAI Partnership Gives Chip Ganassi Racing a New Tool in Pursuit of Speed  Chip Ganassi Racing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
+      "publishedAt": "2026-08-23T12:03:07+00:00",
+      "summary": "AI agent hacks gym system to move up waitlist  Fox News",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
     }
   ]
 }
