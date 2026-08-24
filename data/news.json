@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T23:22:22.605997+00:00",
+  "generatedAt": "2026-08-24T23:44:44.246919+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -141,15 +141,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlJMVFN0ZmZTc3A2ZUMybzdGZDdMN0dveXpYbXIyU25qLVRWdU1NSF9UV1NoM19jUmZPUjBoVE1wbTEwV2NYaEpydFNOYUxia0ZCZXJqOEVydmpuQ1E5a09vaWVIczM2YTlxMW01WHVmR2lfX3RULXBqZjR5QjRaRG5LSlVVUG9weWM0Rjg1c1ltQmRVY2YzN1ItUDh1bHVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T19:58:17+00:00",
-      "summary": "Alabama launches investigation into OpenAI’s hack of Hugging Face  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI adds plug-in that gives ChatGPT more autonomy on your Mac - News 5 Cleveland WEWS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdHFsQWlmSHNsTGhJMENlVWVlb080NUY1RXVJWjVoN0E2QlVGWDNJRUZlenhJRGFGbWxWdjdOSnVoNjc5enM4SHI0M1lpMEhZQmRfM3NhODZGTkIzNzdDaktHRFV4Vm1naTJtSU9PMUhPR3hMUTY3RTBZX0x6YmxNb0tSVnJjTFQ3TS04MmZOc3ZIYU5MWm1vOEhGRU4wLXhnajJwa0ExRE84MGZt?oc=5",
       "source": "news.google.com",
@@ -204,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Alabama attorney general subpoenas OpenAI over Hugging Face incident - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVdSQzJiNFlaQTQxTTNqUkVNemkyX0RBemJFeHVDVWZmQWJCdlA2cXdmTlpra2tkTm9fUE12TzFBd2hBSkVyU0Nsd1lOekpwWHVPNWlybHk2d1VUMUs3a2FhWGpxb1h5b3BocUZHeUlhQU5yeEc0a2o3NkdNbnBvMGd1OXEyUdIBiwFBVV95cUxOZ2Y2SWRBbXdHa0JVM0xxWnpwSnZacnBGSG5lcDRYZnpPU3ViUDZRVEN3QW90QjhYXzFONEVUWWdCNjEtVjhEcUVRRm5SZFkwWHMyTkw1eTZnOGdna25MRW45T1J2NjJiblBleGVDeEp3ZE9ObmlKSWJBZEpaeTFHWEZuMWdvWG9lazdB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-24T18:44:00+00:00",
+      "summary": "Alabama attorney general subpoenas OpenAI over Hugging Face incident  The Hill",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Sam Altman admits he underestimated how slowly the economy would embrace AI - calcalistech.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84b2JEVGVFY25Qc0o0VmQ1NHRJWk9DY29ONFkxTXJBZmxtV1QtZFhnTm00cHNiNXRvSzFMS2t1Y3ZHWjhwSkQtYnVoSzdIaGxaLU81enVGNDU4NEVNV0kxUWFQb0ZlS2s?oc=5",
       "source": "news.google.com",
@@ -213,11 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "1 in 9 businesses OpenAI recommended carried a wrong claim, audit finds - PPC Land",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnNtSlhoellFNk5KVDdsaTl0eHB6QXhoWHlxN0d4T21QWGRnMHdHTklCbURTb0M3bnpTRHloaGY4WUxiVGo3eUhSbHF0SWF3ZGczOWlfWkREaTRiZklrdnhWVUswOVp3WXNUWFM3WVpFZ19nM09ORUljb1pBZGFERjF2QkJhSWVsY0VsNDhEc1JSdw?oc=5",
+      "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUlqNnp0NDlHNU4xMHZra21JUG9yR3F0SnV0Z01qSVVrTGtTU3RWSTdWUXVYZnNNb19Yc1J3SmxGMmtfa3RaeDJySUZXRkdtaHowb1BFZzFWbGxKQm4xa2N2TDlGTjVNZnpENXRVdUZVQ2hfSHlaVGJMbWtsRGotSHRHd2V0MkVEY2JCcW13?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-24T18:06:42+00:00",
-      "summary": "1 in 9 businesses OpenAI recommended carried a wrong claim, audit finds  PPC Land",
+      "publishedAt": "2026-08-24T18:07:41+00:00",
+      "summary": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
