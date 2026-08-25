@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-25T20:10:04.281918+00:00",
+  "generatedAt": "2026-08-25T20:44:09.219509+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "The ’Need for Speed’ in AI Inference. OpenAI, Nvidia & Apple. ARD #148 - AI: Reset to Zero",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pcjQ2M1k0cXRMYVpfb2FOdWV0OVZvR1B0eXB3MTczMFpaVUZUbTdIVzRsSmRicjlLY19RSFBnNW4xc3FUN252ZlItaDdLci1HNGNNblpfNVZENWdhbjRpQ2s4aDJtbjB6V0lBRXZBN1JqZmJmcXNrX2pndw?oc=5",
+      "title": "OpenAI's buildout chief is out as leasing comes back - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVVnNXpGeEFBeDZhclFiNDVTVm5zMWFpa3RWYUxJUFZBUXBEQWIxcDRsOS1vendJamJKTUpyM2tiZVNOMnhOQmVob3p6QTJlQmRIOXJZU2x2RzkwaWtLT2wyVnF4ZDZHcUgtcVRKa0dpMHRhY1ZLY3FMSHdMaUdsWGRka1Y?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-25T19:59:39+00:00",
-      "summary": "The ’Need for Speed’ in AI Inference. OpenAI, Nvidia & Apple. ARD #148  AI: Reset to Zero",
+      "publishedAt": "2026-08-25T20:18:57+00:00",
+      "summary": "OpenAI's buildout chief is out as leasing comes back  The Next Web",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -18,8 +18,35 @@
       "title": "OpenAI Data Center Chief Chris Malone Departs Amid Executive Turnover - citybiz",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWlk3UFVYSllTZkhvek5hTDhmUk5NdE1wUGYzQUh0anhYOFBsZU9TaFFHQm40QnB1b3ByazhZODBnajFpWXRBMUl3WnRyOXdnaG1fTU5hWTNwY1kyX2ZUZXhuSWlhbklaVUlIU2R4bmVBcTJ3Z3pta2hibmhQdXBVOFBxNjgxV1VKbEF5M2tRWmE1X25GTkduZHZDTG1qMWVuMmx3X2tPQW16c3do?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-25T19:57:59+00:00",
+      "publishedAt": "2026-08-25T20:15:00+00:00",
       "summary": "OpenAI Data Center Chief Chris Malone Departs Amid Executive Turnover  citybiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw - Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHg5elNDbmZueC12TGU3dlFadHhBaUhGdXdSdGhYd2VydDBEMXRqYm1hMzhZRHhHQzVJeF9FU3BZbzl0ZjdCUVIteGZlUldabzZpNWZnT0lsb19ZT2d0Y1FCSm14TEViVVozemdMM0tEbnlHOEp1NDJsMGVoWDhHTXFmMVdraVdKaWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T20:13:23+00:00",
+      "summary": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw  Dark Reading",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Data Center Head Chris Malone Leaves Company - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzlLNTlwS1lmYUVHcTAwQnhkdFlCaUc2cml0RXoxRnRrcnpZbVhfT1V1SFRnLTVmNldYcV9zWnFlRVdPSW1OSHhzN094cUs0Z3E0RFlRZlYzM1JlYmd6Z2NINUFNRmVpLU5wUWd3ay0wNDRrNkdseE10c2Rmbks4V3dFN3JCRldNUnhQYjhIandYZU1ybThwM0ludmd4Y0NDZDBQNFVINA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T20:02:56+00:00",
+      "summary": "OpenAI Data Center Head Chris Malone Leaves Company  marketscreener.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The ’Need for Speed’ in AI Inference. OpenAI, Nvidia & Apple. ARD #148 - AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pcjQ2M1k0cXRMYVpfb2FOdWV0OVZvR1B0eXB3MTczMFpaVUZUbTdIVzRsSmRicjlLY19RSFBnNW4xc3FUN252ZlItaDdLci1HNGNNblpfNVZENWdhbjRpQ2s4aDJtbjB6V0lBRXZBN1JqZmJmcXNrX2pndw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T19:59:39+00:00",
+      "summary": "The ’Need for Speed’ in AI Inference. OpenAI, Nvidia & Apple. ARD #148  AI: Reset to Zero",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,6 +132,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia? - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjBLWkdFMzJKR2ZpdDRBSzBHT3FmS3N1OVlkTno4OVBKbnVLQm9kRk1ZZXNSZlVkVXkxQ0ZVSEdQOWZuRnVySFNpdXFqb3FqTGN4aW1HNi10SFdqTENBMFNieTQtbG9URzZ2cUVSS3JiLUp0WHU5UjJVMFNMVW45aFVrUm4xOENUS2FTSzJFMTFFWTEzNmZ6S0tWSG5XcHJUX05J?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T19:00:02+00:00",
+      "summary": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?  CNBCOpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests  Yahoo FinanceOpenAI Jalapeño: Better Th…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI asks for more regulation after its own cybersecurity incident proves AI's hacking capability - Fortune",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ3hEdUhxOE9RQk5LaEJtcjlRbU1FSXJ6RnRvSUZmd3o3TFBxYVAzRzVwZTJVZUdRM29tOVhDWmc4UkJONFQwb1FENlJxM2Nvc2dQajdzdHNCZXlheld1cXVQTHluV3pyNEhydDRrRVF2bVlWdk9vV3NCVHNOZ2VWb0lvUWhOZkdrbHBSS3M0YTQzdGFTMjlEN1ZKdm5PeVhaaGVRNVU2UW1OWHFaRVdtZ0NRejIwNzBWeVFzaERnSDF3RWlrcm1JZ0lZdUt1cHNjcXdNVXhB?oc=5",
       "source": "news.google.com",
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T17:43:03+00:00",
       "summary": "OpenAI says its 1st custom AI chip surpasses Nvidia systems in key tests  Anadolu Ajansı",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Blocks Russia-Linked ChatGPT Accounts - Caspian Post",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFBCdUlwVkZlYk45ZHVnbGgxQW9kSTF6Q1dFSm5xVkdfYnN2VENoWTZ5cjJiYnB1NVpPanFBblJsck0yczcyMWxxdjJ1eDVmc3hRTmZyWnJxd2UzbXlEbl8wSzhhU2ZNUTJtQy1RVzlxM011dU9LaWhTNG5EUHQyWnBDNVc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T17:27:06+00:00",
-      "summary": "OpenAI Blocks Russia-Linked ChatGPT Accounts  Caspian Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Jalapeño AI Chip Outperforms Nvidia Blackwell in Early Tests - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1hxY0FSdjFicGZ6M1FSdVBIclBWLUFYTUFMRW83UTlqWENqaUc3RUxoX3BWSm00ejMtWUhTVlZCUi1SQU1LME9rdTdPMzdnTmhqQVZQaDZnRFREY3VfQTQ4OFl2aUxBYXJnSkdaazA5NWdSNWxXSjgyQWVidmhIQVRMQ0NtX2FYX1VIU1JZb0JBY3pTaXlfMWR5T3dKMkc4TVNrSjRkTU0wUFk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T16:36:56+00:00",
-      "summary": "OpenAI’s Jalapeño AI Chip Outperforms Nvidia Blackwell in Early Tests  citybiz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0xINWRaSDFhQkxzcWtKd3Q4ZmNhUndScGdaQWl4U0J6dURXY1J0UmJ6aE96ajBIdzZHa3hGWUE2dktKYjJkdE44N05YZ1E3MmR1WXJ5Wm1xTWNFQW5oUHl0bEZXZklvd1RhaFFTSFBmcXFNX3pFYWRkLXpIQ1FleW4xdlhmTXcwdUlCQUZkUFpYWl9mSnA2cTFGWGtsT1Jad1RsaGRVYTdyREpiSUtXemx4djJHNkhrS1lUMw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T16:19:39+00:00",
-      "summary": "OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests  BloombergOpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?  CNBCOpenAI’ Jalapeño: Better Than …",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why Alabama is Probing OpenAI Over Hugging Face Cyber Breach - AI Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVUwQVhBdFpYSzc3aXQwRFIxTW5PNnByYW9ibktEbEY0MjdFekpPRDJkTjR5RFZvX0NxOW02cUtwdnZ3N2xOcElEUlpVOWM0dFR0ZnJubHBfSmVXV1luajJjY3ZCSE52VWxBSGRVOS1OWFpDNXRBdzBHeGExNjRuQWR1YUtfUVZocGpkTjZZVm0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T16:09:54+00:00",
-      "summary": "Why Alabama is Probing OpenAI Over Hugging Face Cyber Breach  AI Magazine",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
