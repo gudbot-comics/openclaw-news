@@ -1,16 +1,79 @@
 {
-  "generatedAt": "2026-08-25T06:01:18.077957+00:00",
+  "generatedAt": "2026-08-25T07:03:48.134618+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI adds plug-in that gives ChatGPT more autonomy on your Mac - News Channel 5 Nashville",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzRkRlR1bGpIbmV2dkhydk5fd19FNnJwM3dSOHN4SHNqWEs0RkxkeHMycFZsa3E5Nm1uMmdRakFiZW4tNUlfX1NlUFNFczRJQ3hBOEdpVTBOR1AzeDlaaGFwdkhHdzJVUzJyS2lGbjJaQ20wVy1rdTAyeWxDcXZPME94LTBMRTlmaHE3UEJEc1dXQ0ZOYlZfSklicjVoeF9xSXZtbUJyRkI2Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T06:34:58+00:00",
+      "summary": "OpenAI adds plug-in that gives ChatGPT more autonomy on your Mac  News Channel 5 Nashville",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft’s AI Business Is Concentrated Among Tech Companies - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0tYUzVFcGR0WWR2ZFdsSjJwQ3E2NU4ydWNLbmVWSG1FVTZSclhGUjVzcUVuT3BickM0bEZ6VDhCcmR5WHhfNjQ2SFlSQzZuY0tVRDdhYndUTkFLWThPMnVpVTNNMUpNaU5Ra3YySTVlamtVVjJNZk5FOWQ1N1MyVzY5OXYwa2JuMHNmSkdYZFRiTHpOcXAyRkpVbmhUc3VvOVlBVktfTXE3STlLSHRJUE9MOVZnUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T06:33:30+00:00",
+      "summary": "Microsoft’s AI Business Is Concentrated Among Tech Companies  Bloomberg",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Alabama Launches Investigation Into OpenAI’s Hugging Face Breach - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmRhV3NLWW1ZWm11TE1YNHNsTzRjQkJRSVRoa09zVUN3TGpZZ3hYbHR6ak4wZklUWHFTVDB0aHp2MjJJMHljbnJZZk5XdmlobE1MNFl4LWh0QklSMzEtRmhrVVdzUFAxcjNFbkJNelVsOE5pbUY1b19ST2tOeWtkb0RQUEdienBSTFVWQ0xRLThNM3V2a0VqXzQ2WGhkb2RCeHVjV2lFRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T06:26:41+00:00",
+      "summary": "Alabama Launches Investigation Into OpenAI’s Hugging Face Breach  TradingKey",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic (NASDAQ:AMZN) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFN3SlpYOWFJZHhZM0U2N1VCQXBvT010YVJ3R0MwM0M3dEZPSWhva2VaVS0wYWxTUE1DSTFSdWNxZzJENUJLTnpMcjRSMVdmZEpPOUJpdU5uY0lCNnp5RmVvZ0VVSUxtUHVmSDMydGpSNE5HRnlTWjNwczdDWnJVLWFTbDhBTHNmZXdSd3loS0ZjdDRNWXBJcGl3OF93X2NyUTRuaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T06:24:32+00:00",
+      "summary": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic (NASDAQ:AMZN)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "US state probes OpenAI over rogue AI hack - ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYkE0SHF1OWdaT2FOWUhVUVFHaDN3ODE5S2tHSF9YdFFjcGdBSWs4RzBzaHBJWng1UC1FelFqdkJrdC02SktiQXFZTk1aazJaRjFrcGdxQmlnb3R2WjhNbzUwa2pVdWczVTlGcHFYMUNZRklyajRQbm43NHduMU1ocVNvMGpfbm1VbWxnWmI2dDFBem82UWhETEZOTVA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T06:19:29+00:00",
+      "summary": "US state probes OpenAI over rogue AI hack  ABS-CBN",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Alabama Subpoenas OpenAI Over Reported Hugging Face Incident - findarticles.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaF9CYjFNekJGbWVjdkxWRHJTaUw3QXVoTGRyMDhXOHFnVE5wTGhock1EUzFKeDFyQWlueGpCNjVwbFJXRVR3eGNzTmRKclFieXNmUFZPWDJDTHcwTGlHSm1wNHJaQW1FdS0tR202UldiRlA1dUJjVmMzQjBoaWFxMkh30gGKAUFVX3lxTE1zeDdOWDB4Z1Z5SEYyOFRBX3hlN1loVTNQRmx6cU1BX2dxT2Q5SUxLTk85RzZ4ei1ORjBEekVYQnNrVGZRTGdFdWhGdnFkZlpaaHZqbi0zdWpQMGpyY0tOaG5MRko3RVl3cmFPdl9lOUZSMkJhaThZVks0NlBhWE5DZkhNTC13aVFpZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T06:02:53+00:00",
+      "summary": "Alabama Subpoenas OpenAI Over Reported Hugging Face Incident  findarticles.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "AI: OpenAI Consolidates under Brockman, pre-IPO. AI-RTZ #1189 - AI: Reset to Zero",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BS0VaR1VKVHhaRUVnWTZDaF9MWnFBQ2xUay14dEdaSnI2cXhZejFLVENfRlJOejdGMmZkSk5OZkJ6a0hJWnNzUmNLTVNWd2ZPSFNxZWtlQ0xlVGdQeW41V0N4bE91d05EdXM5clN3QnZ1YTdPeU1mR0N3T01oYk0?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-25T05:03:33+00:00",
       "summary": "AI: OpenAI Consolidates under Brockman, pre-IPO. AI-RTZ #1189  AI: Reset to Zero",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Restores 5-Hour Codex, Work Limits For ChatGPT Plus Users - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVBINHh0RDdLb3o2ZTQ1ajNVRGNialRsVFJyMEp4MUVGQk1ORWpPTV9zTVBiRFZQb1MtQWkzazdDbGxISWNZR2JpOFZ3ZUxMNkFHcnJJdkhLS1BjYU15ekZaY1pyZExBNi1uVlN1V2taaFpCeVBwVVhQZFI1Y1RjLTZIaVEwTTVHLWlsb2cwQ0ZrdU1OQ1ZwY3A3eW51UmJId1Z4RGkxeWp1Q2VONkpr0gG3AUFVX3lxTFAtZDQzR0ZYc0VhdjF2S3ZZbWRZTFFyV2syTE0tNTVEQ2p5MGYtVGxlcjEzdzB4d29DcGNwcUtiazVvWGQ2WHV5NzVoUlZqS25CNld5eFBnWHpvZFVUZ2FtbHh6WkpsTFE5aXJ3ZHZHQ082WUdCaXFpMExwMjRBNEV4VWNFeDJzek9WSExUTm16OGVGZjhSN0ZXNVVhWnVzU0kwV1pOQ0J6Y2FHYWFaRXNnVEdkb2hHUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T04:11:57+00:00",
+      "summary": "OpenAI Restores 5-Hour Codex, Work Limits For ChatGPT Plus Users  NDTV Profit",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,15 +123,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI narrows gap as Anthropic's Fable 5 loses enterprise momentum - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFlpcmYtR3NTc2RNMnVGWEdjWC02UTFwT29YUFZCNGYzSFJ4aVRDY0ZmbEpmcmVxdExCRmpONE5ZOElxRVNaUEZmejJxV1pIeXdKR1NobUdUNXBJM2R1b2ZSckdQSEtyWUkzbU5MY3FOMnlFSV9EU0M4ZWMySzIxa01fLURfUmYzR05EQUxHTndNZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T02:03:26+00:00",
-      "summary": "OpenAI narrows gap as Anthropic's Fable 5 loses enterprise momentum  digitimes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users - 9to5Mac",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDJGQkN6bDdDT3hpWm1NTXd1N2VLYUYwcmRyWEFrNHVCWFBYV3JBUk1kU2I0UmZOV25DVXBRZWNKU2VWYkxkdDFsWWE4QXNuQnVhSm05bWJLZ3pwa3BiNUxuZUVWWFRod1hiWXY2ZUtMYkpGY1NZeUZUdVlBZzlBMlY4NVB0Ti01ZHVSMmhpMkVLQmpMWFpycGhIdThaS24x?oc=5",
       "source": "news.google.com",
@@ -83,6 +137,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T01:36:00+00:00",
       "summary": "Alabama Attorney General Subpoenas OpenAI, Sam Altman Over Hugging Face Security Breach  finance.biggo.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Alabama launches probe into OpenAI after Hugging Face breach - SRN News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN1BieE9jUDZCNE1ZZDJRamtpV2k1Smg5UWJSYWNzSFp3SUJlS1hidGoxTV9HamgzR193S2NIT2tfd2ZkVlB6bWdaZWdMVzBtSDBGRWlxdjJ1Szg4X2daVTZGYUxUVWk5SktQbjJta0tobFMyR1BmWUZNa2Nfd3ZrX3pTWGUyeXpS?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T01:35:05+00:00",
+      "summary": "Alabama launches probe into OpenAI after Hugging Face breach  SRN News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -110,6 +173,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T01:02:52+00:00",
       "summary": "SpaceX Raised $86 Billion and OpenAI Is Next. This ETF Owns the IPO Class of 2026  24/7 Wall St.",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SpaceX Raised $86 Billion and OpenAI Is Next. This ETF Owns the IPO Class of 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFlEenFJbV9WUWxoZEdXRFdwS3lRcDA5ZV8xNGdta1R4Rk9hUnk5eVpTeWdRNmpwemJDbTdnMVlEcnBfSk5MQ1d6OTFJbTd4UGp1ZTh2NWYzNHhqTEdoWjJ0aURLa1U2YUxnbUo0THFNUWVyRk9JX2hwUzFiNWdiYVR2MktQOXlwOGVPaGJRMGwzSmNBaDhZNjJOM1U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T01:02:00+00:00",
+      "summary": "SpaceX Raised $86 Billion and OpenAI Is Next. This ETF Owns the IPO Class of 2026  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T00:13:20+00:00",
       "summary": "OpenAI adds plug-in that gives ChatGPT more autonomy on your Mac  NBC26",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Kamilė Lukošiūtė joins OpenAI Foundation to build cyber resilience workstream - EdTech Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHI5dDZmMk85c0o4RFNPYklueGxtOW84QU5JU0laSmFhM0xPcGwyeW5QOUNDVUJKdWpkbzY4RTZGZkEtR3J2aS1OVDh5NXlEdXZsUkZEWjdybmwwZzc0X1RuSHZtUHp1WThVODV5dFYxbmRfaGhaX2dBZnBhdVBHV0ZMZ09SSVFCSHctWDZLWWgwM3ltdUFfM3BEeFZSMTRyQ1cwZHdrYm9KbEJKbjBva0dhSFY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T00:00:14+00:00",
-      "summary": "Kamilė Lukošiūtė joins OpenAI Foundation to build cyber resilience workstream  EdTech Innovation Hub",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, SBA, and Labor Department Launch Manufacturing Jobs Expo for College Students - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnQwOE5KcGM3dGRSdEdUbUt2SGw0enpMZzBkNFJvZmZyNjNXa0FDcXBmT29TUkhLUU9pWHd4Rjh3Y2lkQVBkLTMzUzJqcWVHZnR5N2xhN0tMaUMyRTk5M1VtZS0xRE5QTTNGTVpMLTd6Nm8tNHZrRlRlWVdJQi14RlRvaTZQYmlkMkJjX2dTQng2TWhWcGl1Rzg4bjdscFpkSzYtMGtvclJUYks5aWF4S0daNUY2b2RGTHNlakRRQTVDVWs4a3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T23:56:15+00:00",
-      "summary": "OpenAI, SBA, and Labor Department Launch Manufacturing Jobs Expo for College Students  inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman's Sister Fighting 'Unrestricted' Medical Exam Over Alleged Abuse - TMZ",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakJnV1RHdU1JT3ZFcko3cUZ6eW1ORDdoM0NfY1FzWUFqR0FZUXdhM0ZNRUw5MzMyRmtlZzNUNUUtQTVlaENGUXgzR2s1ZWZkU2JLZ3JsNllqXy0tUDZ4SjhNSWQ2WUpoUXVLWDk0RERUSjlRMUlBNll4SVJSTkF1ZUxWOENKbmdnb0tNZXZjR1hhZlcxY3BGRw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T23:00:59+00:00",
-      "summary": "OpenAI CEO Sam Altman's Sister Fighting 'Unrestricted' Medical Exam Over Alleged Abuse  TMZ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI adds plug-in that gives ChatGPT more autonomy on your Mac - KMTV 3 News Now",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSTVMNHRhVVZ0bkpmZXV0ZlBhUnZZZkJ4WjNBM1VyMjlJQWpfNGluSkgxNGhsYjladU9xUjNTRFIyYlQwZUFIRlk1LW9hYVJzYjU1X2M4ZHRwUC1jNzVHQXJXaFdCZldIU2c3ZWlZbWJMbWp5MDlxVGNoamFsa2VSLW43WXh1TDUycUkySDYtX2prMTczQ0lnTVBTclFNLVRIWmxJUw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T22:59:58+00:00",
-      "summary": "OpenAI adds plug-in that gives ChatGPT more autonomy on your Mac  KMTV 3 News Now",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks - The Information",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZYOUl0UTBxU19NV29QQ1prcUFCZXhvemE4TU85c0VOTnAyRFFEWVplVjVqVkE3YmJwYTJKdTRjbXR5WVh6VC1oNmE1LUhEODV4WHJTZ1FJSHF1alNKVGFqYmNBZlgyeEpqS0paZEdRVC0xcjZLQ0MzY1huN0VqX25hQXFoU0hyMGZURXdFZTJscmhtdXlnS1d3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T22:40:00+00:00",
-      "summary": "Meta Plans to Launch ‘Hatch’ AI Agent Platform in Coming Weeks  The Information",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Perfil sues OpenAI, Microsoft over unauthorised use of journalism - Buenos Aires Times",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVAxLV9TQkg4eWw0VGxudi1mR0NaQ2hTNVJwZ0lXdXJWVDQwejMxQ3Y3RXJSR3RwcTZ5MXltaXJvMmVOQy1tdzdaWU1ESk1taUZ5YjVuQzM0VXVQZnVDemxDSFpKTXZsWUhvbzM3WTJiRXhGa2FGUmZOc1RWYko4NzR5LVdtZUNhUENCQW5sQVppT29zUFg1ZWZkdDdpRXpXNXBhMVctRTZQd3VoTXFJXzdBRVBxNW1aSUhCdTMxenAtT0tOa0p3UDNn0gHPAUFVX3lxTE9JaVJCOExCS0JyeGctYkx3a2ZvMGZTVDdOeVVIOWRBUzV1Rzc3OEFrRTBGRHRzV0M3c284WVdBWTFYemNZWFN2Q0xOZkx4cDdMUUV0TjRHUVVVdWdORndUSTE3SVNuSWpCNkY4Qmx0alZ0OXJOSEgtVDhGUVRyUjZMdFhCaEpSUnBCSE05TzRVampPMHJxVWFGNnhhVFFBZU52VklvYjExQWt1RC14Tzc2cndXb1RrTUlmOWdiLW1mMVVYbkU5NzBmQU9VVjhuYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T22:23:59+00:00",
-      "summary": "Perfil sues OpenAI, Microsoft over unauthorised use of journalism  Buenos Aires Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS2JXWTJtSDJ5LVllZEo3SWNnV0MySkJrMVJBd0FEb0pGYzByREd0UGQ1eTNLWU9BTzlpUGNDQzVRVGw3cHlXbV9xTG91TDQxM19WQTYxQ0xpTGdEaWxaOFQxX0RKTTkxMDZ0dVdCRlk0NXVsWF8wSm5HNWNZUFBhaF9xR2jSAYwBQVVfeXFMTnlKODkzVFFnbkVXUDdSdF9qZ01CSFhST2h1Z2pTVjJhUmN4akVuTVJwY3ZPdFhLeDR5R3E2Q24wNXdONkt2ajBTWHFYb182MmxrYWRWSm81VDcyNjJBNXhTSEhvUV9tMUZTR0V5a2pqRUNUUUpPRGxfNUxZb1NRUDFfeDV6cUctUXdkWnE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T22:16:04+00:00",
-      "summary": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "WikiHow sues OpenAI for copyright infringement over AI training - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-24T22:00:45+00:00",
-      "summary": "WikiHow sues OpenAI for copyright infringement over AI training  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
