@@ -1,16 +1,25 @@
 {
-  "generatedAt": "2026-08-25T10:58:20.030298+00:00",
+  "generatedAt": "2026-08-25T11:31:22.276908+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Microsoft’s AI Business Is Concentrated Among Tech Companies - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0tYUzVFcGR0WWR2ZFdsSjJwQ3E2NU4ydWNLbmVWSG1FVTZSclhGUjVzcUVuT3BickM0bEZ6VDhCcmR5WHhfNjQ2SFlSQzZuY0tVRDdhYndUTkFLWThPMnVpVTNNMUpNaU5Ra3YySTVlamtVVjJNZk5FOWQ1N1MyVzY5OXYwa2JuMHNmSkdYZFRiTHpOcXAyRkpVbmhUc3VvOVlBVktfTXE3STlLSHRJUE9MOVZnUQ?oc=5",
+      "title": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1doUkxoU0tsZWdKS3pSZm1mYTBTazcweVc2U2xXZV82OXNtcWQ3MkdZQ2F5LWlCVE0zakVpUGNYd1pQTF9DQ1lhMk9VLTNpcHRPTzJrSFpwMFZOQUNoQjl0OUo5aWRFZlczU1lOdFhHVlpnM000VDhQUVBjaVlBc3pkd9IBiAFBVV95cUxPcEJkWVhZWXUtUlRTczBRU25JLVpXeFoxamhNa01ZUTRUbjZWY05rdGE3aS1hWnd0RnB1RFpaWFp3TWhBVFloV2ZFVnppZ0JWV3daalVVUW5qS2ZmSTQyaWhBeHQ1czRkdmRER1J1UlY3TUZSNVpUT2Q4Zjc1Nkc4WGlvU2F6Q2py?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-25T10:46:52+00:00",
-      "summary": "Microsoft’s AI Business Is Concentrated Among Tech Companies  Bloomberg",
+      "publishedAt": "2026-08-25T11:21:09+00:00",
+      "summary": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Announces New Security Safeguards After Internal Model Crosses \"Critical\" Threshold - CPO Magazine",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1lTdmpoZ0RoUS1YMHR5ZWhOS2VRd29xQWc2QzZkSWc3QVVOZUNvZGplYUJxVWYzZF9tbHdWY2hEWWl1aVByVU1zcFlxbjdGcWFyN25LM0sxcldidEhaZHNDZFBVN2hyQTBlVW96TWNNaGp4elZQNTg1OEctLVROMW5JWXk0aU5JdHpRRXVPcHZDNEZlY1diRFUza2VMcmR2eGZEZk5GREtqM2NJRktkNmxXZktua2laSEZ6bC0zc3BzLWl4enp1QWY5TkU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T11:00:00+00:00",
+      "summary": "OpenAI Announces New Security Safeguards After Internal Model Crosses \"Critical\" Threshold  CPO Magazine",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,6 +69,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Faces Alabama Subpoena With 16 Requests Over Hugging Face Hack - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkbm0tUUVkUkJaZF9Ibm93b25JOFhxZVFqcERiWEtBUmxaUEFGZjRxd2oyLVlhUnNTbThvUkMxWGstV0NLVmRSaU5KUWh3cGhvQzVFcjdtcnF5WW9HbU1PZEQyTk1GR3FVZnVN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T10:21:06+00:00",
+      "summary": "OpenAI Faces Alabama Subpoena With 16 Requests Over Hugging Face Hack  Yellow.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "The OpenClaw Effect? Apple Reportedly Rolling Out Surprise New Mac Mini Line, Possibly Days From Now - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnZhTE9jX2kxc0dDOG9Ddk9VQUxEbER6a1A2ZXhxNkk2MF9DbkFTOUw0QjdwNXg1REw5ZC1QOG1OMDk1YXUwLTNtV2tGdzUzbElYVUtWRVBFdjdycFptQWN1aHJwZTNvOXJpRHZYSVpuTThXT0FsZ0tzNDduYkR4ZHByeUN2aHZmUnBVODdyUkItQWRteHEtUFd0SFVPUXpyUVJSakNmNjhtTXR6ZmhyVFUxMUwxUmV2SUFGVzlLbzdvaURhVE82OA?oc=5",
       "source": "news.google.com",
@@ -78,11 +96,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmRubHJOT3Y5akdJRlhsQkVTZjNmSEp1czMyOXVQeTczTzloV0dQODBzbW1nb0plZkEyRW1LMXRBWDlLVTJHMzJ0UWgwU2dtSEp6dk1zRnhkWnR0Q3pVT3JlbUU5b3ZBOFJ0Q3hIYy1LZFduMkpnc0dyYU9FQ3ZEb0VrN0NxTUtZLU9La1dmR3c2X3FsWUU4V1ptU3ZDOUE2cGZIS180UE56Y1dlX2tzczdOd29vOTBp?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T09:15:03+00:00",
+      "summary": "OpenAI subpoenaed by Alabama AG over Hugging Face hack  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Crooks push Mac malware through fake OpenAI Codex ads - The Register",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOE1FRlJGTy0zbENISDhVYzJ0SWJvMF85cW1qeDVFMlJ3azNjQmhBcHpGZGN5TFlwSmVPei1wQldvV3VHbXV0alhOQi1JWTc2T2E2X2lCNXNUbjMycTN4emVLZ2ZPMnkyUTVJM2xGUzk3QXdPQXl6dF9WQmZBN2hudjVmQTBzUGRiRkkxejBfTkxwbEFIUi1iWkVtRjB1NUxJTGN3SS1yRDR6VnJRdGc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-25T09:15:00+00:00",
       "summary": "Crooks push Mac malware through fake OpenAI Codex ads  The Register",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Disrupts Russian Influence Ops - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdy1hQXZpOGN2Wk5KVkF0UUlEbHJXWElQbzVUeUx4WlNUdGpGRTAzcURPRkJwOFVObjhVQnhQUW90T3VjaUhESDA5b3YzRVIwNFJ1dmxZYXQyd1BYcGJVVDZlaXNkamVrbGY5WnZyV2pwWk9sYWdES1dOb3hkYUhKQTBsT3J4Wnk5TEVLeEwxaXdDM2VzOFcyanFxNGRHNkh1UkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T09:04:34+00:00",
+      "summary": "OpenAI Disrupts Russian Influence Ops  StartupHub.ai",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,15 +150,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack - KXXV",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU5kQ3ZPUE9pSzR1bTRZUFVmQXk0YXZ1c2tWZm5pdUlMUTAweGtjelVyenpHcnQ3UFE0YW5CZ3NReV9MODBfeHh3YmFRQWZjNHE2Qzd6RTBzVTUtbXZjUlRRZmxEeEI3WDFURHBIR3A1anJINWJXM2luR1habGFxc3NsSmo0QWNNcXBKN29tTGYtaVJ0d2w1cDZmZ1d5dWlRYmZvZl92bWpqa0FWSXdibENFMWt0dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T08:45:32+00:00",
-      "summary": "OpenAI subpoenaed by Alabama attorney general over Hugging Face hack  KXXV",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI exec says the boundary between Codex and ChatGPT will vanish entirely, with Personal AGI as the ultimate goal - finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIeWRib1ZZX29Xa0NPREJEUU51UkZoMElKUGVIRU84MW1Zb0gwR1YtaUVjR1dXaTRMVWZZMm9YMlp1Q1d1LVI4ZjRXMVI3X1NTTVhTMGVDYl9TU3NFZlhXNzg3OWpyWTk4dkY4Q2xIejJ0ZllnWHc?oc=5",
       "source": "news.google.com",
@@ -137,6 +164,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T08:07:55+00:00",
       "summary": "Disrupting a new covert influence campaign from Russia  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI has reinstated the five-hour limit for Codex and ChatGPT Work in the Plus plan - Mezha",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wdjFrLUZvWmhFYjJ5dlJ6dHBrOVY5dENXMXVxWE42S056RVZ6enNaeUlYOHdRbE1SbDEzdlY1T2NIUjQtYlZpTjVCNWpFRWNLM0ZQWVFBbjczazl6TFlZVHpkZTjSAWpBVV95cUxOeGtPLXE4UWNpTnRIeTdwUUJXaEhvR3l2dU5LR2VKRy1nUlZzOElGd3VaeHJIUU12MHFESTVEQVJLTW01WHN4NmFLclFPRlVKVDVEVXdTb1IxbzE4b0RPcGJlT1R6RHNnUU1n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T08:01:00+00:00",
+      "summary": "OpenAI has reinstated the five-hour limit for Codex and ChatGPT Work in the Plus plan  Mezha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -182,42 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T06:32:06+00:00",
       "summary": "Alabama Launches Investigation Into OpenAI’s Hugging Face Breach  TradingKey",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic (NASDAQ:AMZN) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFN3SlpYOWFJZHhZM0U2N1VCQXBvT010YVJ3R0MwM0M3dEZPSWhva2VaVS0wYWxTUE1DSTFSdWNxZzJENUJLTnpMcjRSMVdmZEpPOUJpdU5uY0lCNnp5RmVvZ0VVSUxtUHVmSDMydGpSNE5HRnlTWjNwczdDWnJVLWFTbDhBTHNmZXdSd3loS0ZjdDRNWXBJcGl3OF93X2NyUTRuaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T06:24:32+00:00",
-      "summary": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic (NASDAQ:AMZN)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI: OpenAI Consolidates under Brockman, pre-IPO. AI-RTZ #1189 - AI: Reset to Zero",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BS0VaR1VKVHhaRUVnWTZDaF9MWnFBQ2xUay14dEdaSnI2cXhZejFLVENfRlJOejdGMmZkSk5OZkJ6a0hJWnNzUmNLTVNWd2ZPSFNxZWtlQ0xlVGdQeW41V0N4bE91d05EdXM5clN3QnZ1YTdPeU1mR0N3T01oYk0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T05:03:33+00:00",
-      "summary": "AI: OpenAI Consolidates under Brockman, pre-IPO. AI-RTZ #1189  AI: Reset to Zero",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Alabama AG Subpoenas OpenAI Over Rogue AI Agent’s Hack of Hugging Face - SOFX",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOenozeGJ1RzRCNm5EY1ZHeEtNM3hHVmhPWWIwTUY4UnhNcTVoelV2MVRmZnIydjliTTRBQVVBSnpTQjJXd2pKVVlXTHBTWF80aS1IT2JsRnpCaWgybFBPbFVzNEVISXZxd3M0OXhiT1ExN2FrQ01seDdFMFM1M3c1MlRKNFVCc3FiRmlEeHp3S2labDVSQkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T05:03:32+00:00",
-      "summary": "Alabama AG Subpoenas OpenAI Over Rogue AI Agent’s Hack of Hugging Face  SOFX",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Restores 5-Hour Codex, Work Limits For ChatGPT Plus Users - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVBINHh0RDdLb3o2ZTQ1ajNVRGNialRsVFJyMEp4MUVGQk1ORWpPTV9zTVBiRFZQb1MtQWkzazdDbGxISWNZR2JpOFZ3ZUxMNkFHcnJJdkhLS1BjYU15ekZaY1pyZExBNi1uVlN1V2taaFpCeVBwVVhQZFI1Y1RjLTZIaVEwTTVHLWlsb2cwQ0ZrdU1OQ1ZwY3A3eW51UmJId1Z4RGkxeWp1Q2VONkpr0gG3AUFVX3lxTFAtZDQzR0ZYc0VhdjF2S3ZZbWRZTFFyV2syTE0tNTVEQ2p5MGYtVGxlcjEzdzB4d29DcGNwcUtiazVvWGQ2WHV5NzVoUlZqS25CNld5eFBnWHpvZFVUZ2FtbHh6WkpsTFE5aXJ3ZHZHQ082WUdCaXFpMExwMjRBNEV4VWNFeDJzek9WSExUTm16OGVGZjhSN0ZXNVVhWnVzU0kwV1pOQ0J6Y2FHYWFaRXNnVEdkb2hHUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T04:11:57+00:00",
-      "summary": "OpenAI Restores 5-Hour Codex, Work Limits For ChatGPT Plus Users  NDTV Profit",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
