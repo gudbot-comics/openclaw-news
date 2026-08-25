@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-25T09:54:31.960441+00:00",
+  "generatedAt": "2026-08-25T10:25:36.880979+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Microsoft’s AI Business Is Concentrated Among Tech Companies - Bloomberg.com",
+      "title": "Microsoft’s AI Business Is Concentrated Among Tech Companies - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0tYUzVFcGR0WWR2ZFdsSjJwQ3E2NU4ydWNLbmVWSG1FVTZSclhGUjVzcUVuT3BickM0bEZ6VDhCcmR5WHhfNjQ2SFlSQzZuY0tVRDdhYndUTkFLWThPMnVpVTNNMUpNaU5Ra3YySTVlamtVVjJNZk5FOWQ1N1MyVzY5OXYwa2JuMHNmSkdYZFRiTHpOcXAyRkpVbmhUc3VvOVlBVktfTXE3STlLSHRJUE9MOVZnUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-25T09:33:32+00:00",
-      "summary": "Microsoft’s AI Business Is Concentrated Among Tech Companies  Bloomberg.com",
+      "summary": "Microsoft’s AI Business Is Concentrated Among Tech Companies  Bloomberg",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,20 +51,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "How Do You Safely Test ‘Superhuman’ A.I. Models? No One Really Knows. - The New York Times",
+      "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-25T09:02:40+00:00",
-      "summary": "How Do You Safely Test ‘Superhuman’ A.I. Models? No One Really Knows.  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "By Opening a Model, a Chinese A.I. Lab May Test the World’s Cybersecurity - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjdBMzBkZWNObjNqUzhDbXN5VTZtTkpOeXNyd2RmN1BaNHQ5S2ZCLXBhNGswZzBodUlFNTJVWW13VVFsdnE2bGxFQ3BUQW1ZTS1mYTlDU3RxbkJBbkhDRk9hbmhZSFNCaGM2eE9ULVRQTlR4QlBMRUI1S2J3cElDVWdiOU8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T09:02:37+00:00",
-      "summary": "By Opening a Model, a Chinese A.I. Lab May Test the World’s Cybersecurity  The New York Times",
+      "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T02:43:41+00:00",
       "summary": "OpenAI adds plug-in that gives ChatGPT more autonomy on your Mac  KTVQ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDJGQkN6bDdDT3hpWm1NTXd1N2VLYUYwcmRyWEFrNHVCWFBYV3JBUk1kU2I0UmZOV25DVXBRZWNKU2VWYkxkdDFsWWE4QXNuQnVhSm05bWJLZ3pwa3BiNUxuZUVWWFRod1hiWXY2ZUtMYkpGY1NZeUZUdVlBZzlBMlY4NVB0Ti01ZHVSMmhpMkVLQmpMWFpycGhIdThaS24x?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T01:47:00+00:00",
+      "summary": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users  9to5Mac",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
