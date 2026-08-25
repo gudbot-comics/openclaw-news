@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:51:26.823663+00:00",
+  "generatedAt": "2026-08-25T17:26:22.077456+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -9,7 +9,7 @@
       "title": "OpenAI’s Jalapeño AI Chip Outperforms Nvidia Blackwell in Early Tests - citybiz",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1hxY0FSdjFicGZ6M1FSdVBIclBWLUFYTUFMRW83UTlqWENqaUc3RUxoX3BWSm00ejMtWUhTVlZCUi1SQU1LME9rdTdPMzdnTmhqQVZQaDZnRFREY3VfQTQ4OFl2aUxBYXJnSkdaazA5NWdSNWxXSjgyQWVidmhIQVRMQ0NtX2FYX1VIU1JZb0JBY3pTaXlfMWR5T3dKMkc4TVNrSjRkTU0wUFk?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-25T16:37:22+00:00",
+      "publishedAt": "2026-08-25T16:36:56+00:00",
       "summary": "OpenAI’s Jalapeño AI Chip Outperforms Nvidia Blackwell in Early Tests  citybiz",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -96,11 +96,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Alabama attorney general subpoenas OpenAI over hacking incident - AL.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnpWT2xYZ19aU2xzaGN1UkxzS3EyY2FrR1VURkFTc1RLdlk3RWF1TEVIUS0ycEMzRWM0TWZ4M0IybHl2VHNvQ3M2YXFhZVBHX3pkdXdjX3NkTnRieDhYd2lCLXFmX0NRejBLZmFKamVoNk5JUWd3VTdzcVdjRk1Nd1VQUkg0WGsydGtVazFDSG9NSzBQVVlmY3pyYWhZMHZiTnfSAbYBQVVfeXFMTTFsWkVLQzFRdUdtMElObkUtSk9NQlNQcXZnRVdWazlDZ3B3Ym15enhwX3lsLWtiZVNic2xiWllpalRXbjZvX096eW51XzdDUVhvM3oyejVReEJKa0tsVE1hVE1sUUxrcl9iLVZ1c3JJUUswT3M0LVhWTkpwQTU2Z19YVjh1NUtBVi1nVS1VSzFPOHl4QzAyU002LVRsSXk2emRUTVh3dUYzRWc4VF9xOWI0Q3NTeEE?oc=5",
+      "title": "Alabama attorney general subpoenas OpenAI over hacking incident - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUI1anhTV2pROU5mNWUtOTNkQ3BzQlk5anBCU0JINW83YmZxZkplVjFGWkU4Wkk1YlYwTGo0UEhmWVpDWUhhbmRVOHNfaV9RU2FPLWNMY01VMi1fc1ZXd3JQQ2VSUlJWbmxZS29leHNlamM5aTJNbnpQZGdJdXVSQzI5aHVCQUNQcXVZNnJmdi1xQkU3dk1ZNVU1bw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-25T15:50:00+00:00",
-      "summary": "Alabama attorney general subpoenas OpenAI over hacking incident  AL.com",
+      "publishedAt": "2026-08-25T15:51:04+00:00",
+      "summary": "Alabama attorney general subpoenas OpenAI over hacking incident  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -110,6 +110,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T15:39:00+00:00",
       "summary": "Sage IT Named an OpenAI Select Partner  EIN Presswire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Alabama Probe Opens New Regulatory Front Over Containing Powerful AI Models - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVB1R1FpSlJ6SFBpNEhrRVI3V05mbWViY3IzZmVDM3B4cDdKQzhGbHhLbjFmdjJsRExLLUg4d2xyVFhGU3ZDVU9iT096bGp6dHhGdTNlbFhBaFNOd3I5ZHdDSlR0c1hQdEpvZ3pWSUNncVdveHYtN3dMb1B2ZHItUV9kMkExRFNqR0doVzhjOWIzNER4b2FQZGE2Q1RqOGhOUXJRZlpxNXZBZWVMOWZveDJPTDMxSThlVzdrQnRXUWQzeFRpVnBHb3pXaWFSUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T15:25:06+00:00",
+      "summary": "Alabama Probe Opens New Regulatory Front Over Containing Powerful AI Models  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -209,15 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T14:28:01+00:00",
       "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI details Jalapeño AI chip, with 700W TDP - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd0I1cEFVYk53RFB0SWdUYTBIdFJ0a1lFTWFUWWN4QlpBNDZPSzhUdEhzb05mb19ZNGVIU004cVNDQ2JuNi0yek9MRlZIMDN6ZnA3RUsxb3R4OEpfZVpJaWlZbHdVcjJrQ1VRZDJUaFg5WWlkNllVUDVPc1hxdUotWERRVlRlRTI2R3NuazZscF9Pc2I4Vk1hUDZB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T14:24:52+00:00",
-      "summary": "OpenAI details Jalapeño AI chip, with 700W TDP  Data Center Dynamics",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
