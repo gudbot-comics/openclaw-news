@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:01:49.283037+00:00",
+  "generatedAt": "2026-08-25T22:39:25.361743+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -11,6 +11,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T21:53:00+00:00",
       "summary": "OpenAI adds teen safety tools to ChatGPT  Channel 3000",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RrUjMxSkNzODB0a3VTU0kyVTZBVktqYUxEdUFKZFBXRl9uUzhnUjlaX3FsWUNfcHozYS1Oa1VKeW43MDM2eFluZlpwMWltb0pXeDgyT2tST0l1WHg5Q0pxaVB5RG9NRmY2aW9rWmE4d3FmcmMwOEp1TVlFeUFETERXVENDVTR5MWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T21:30:00+00:00",
+      "summary": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,11 +51,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s Data-Center Chief Has Reportedly Left — Executive Exodus Grows Ahead Of Planned IPO - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQkUyVHNOVG1ReWJvbzA2amFWNHBVdm5jeEI1ckxJbnVVN2xxN3ZNd3hJQjhMSEpJbTRXSHVMUVJJZ3NjNVhxVGJUMU50YUtNODJuNmM2RURDR0h6OUlFQXE0cVlvZF9JZGEwQS1iYkkxTWJWMFdqTDRuSzg2WC0tOGRhM2RyXzRsQnljRDN1bE5xV1dBSGhSRU5PYUxCZ253M0M0aXFWcFc1UGo5Ri1SamlpTkJFbHJ6dzBrR3ZqMVJ5YVFsUUxiQ25uOGEycHN6azZrSi11Yy1Hdk9iR05rRjZoQzN6dw?oc=5",
+      "title": "OpenAI’s ‘Bel’ Has Over 10 Trillion Parameters, And It Might Just Be The World’s First “AGI-Threshold” Base Model - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGUyck4tR01kS2c1dUxiVVpHazQ0dFktWEloVTdBeGlHUnRhYnhjcVJOeDJVUnFiSWVwTlRrV2QxVkVPLTVneFVFZ21TZGlKOUlBQnRkVU8tWC1DYmRhMzhzMzhUelhQZjlmNmNRRFRRMTd1a2UyOGNyWmFGejVYYi1EdmR0RzhkcEVMYUhfUW5HTVhEYU14RkZZNWVMQ2FBMVRUZzVVaDROX1pUNXZkb2o2UnlHMGxPeW1pQUJYRl8wT1l4ODFB0gHMAUFVX3lxTE5SLUQzcUF3TldfcUFiYTlNaDV1ak9ORGRSaDczbE93X3pwQk55VHZfTElfNE05Rk9yc0tZd2pkQ1pmZUNpbFlWSFFnb19GWTd2SGhkclZ2V1pOejZiR0lDVi0wYlZzV1c2aDhPOGxHT2lZdXdEbVAtZlJwbWZIOVpfc2lpUWpwRHRpSTIwZUctNW1idUdGWGpXa2REOVFvS1BYYVNMSmVheVo0YWczRDZrdE01OUhXNnlPQ3hqeTg4ZUlfX0JHYkhneDVYcQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T21:03:09+00:00",
+      "summary": "OpenAI’s ‘Bel’ Has Over 10 Trillion Parameters, And It Might Just Be The World’s First “AGI-Threshold” Base Model  Wccftech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Data-Center Chief Has Reportedly Left — Executive Exodus Grows Ahead Of Planned IPO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUVFuNFJ0TGhFVWlQZGpfUFBDWHFpb1l6ajhVU29ybjlBcUc4LWVyNG1kMmZta0xTZ1ZXVnc4eEhOd0tSNlpkbXplUE14NE5FTjdLSWl3VWZicmxzaV9USWc1VEZWMm1aREhXZmNkTmJYckJmcVFERlh2Y01CU1FQaWliNHBmRmM4TUNxTTlMZVBXbG1zWGVIaVVXZWhGZklq?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-25T21:02:57+00:00",
-      "summary": "OpenAI’s Data-Center Chief Has Reportedly Left — Executive Exodus Grows Ahead Of Planned IPO  TradingView",
+      "summary": "OpenAI’s Data-Center Chief Has Reportedly Left — Executive Exodus Grows Ahead Of Planned IPO  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,15 +92,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T20:40:00+00:00",
       "summary": "Andrew Garfield Admits He Didn't Love Playing OpenAI CEO Sam Altman: ‘Thank God That’s Over’  TheWrap",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T20:38:54+00:00",
-      "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails  The New York Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,6 +141,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjV5VGt3UVNHRkFNV05tWmZuTmVOSnRiN0FDbWpnME94azFZQjktdC03QjBYMUJpeU16cmJMZm1aSkhrbDRSZEF0NWE2ZXBlTm1hOEpEZ2lMYTctVXowam52aEFWeGp0SEtvelpOM3hYLXhHRVJiYVFoWUgzamZGU1FhalR5ZGVCb1hqWjhRdGM2ZjQ0anhNV2xOM3FzcWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T19:43:42+00:00",
+      "summary": "OpenAI Data Center Executive Chris Malone Departs the AI Startup  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTlGekdBY0h3c1Q3SE9lRzFhUUpFX2N6WEl5dFFQZVUyRXRrdWpSZm9ZbDJuWmh1NUt0TU41c0dVNlVlZkdzWWZfSU9OZ3pLT2lqN21FNjJCdWtRWkxGMjF4c0laMzBTZUlMdXBLbm9seGFNemlDSDd6dnM5T1pSMldPa19SNE1uamsyYm5ULVZPc3BDZ1BoWnFSZk04b21DWkpCVjYtWHMxVlVSc0FDMU9iUC0wZw?oc=5",
       "source": "news.google.com",
@@ -159,15 +177,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Alabama launches ‘Rogue AI’ probe into ChatGPT after Hugging Face ‘lab leak’ - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNU9ab2Y0S3ZfdnpwLUc0SFJOclpxVG81Mlc4RHFoQ19QbWhJem9oZTVOYUlzbkVvd3hJQ3FkM1lxME0wWEJqYWhIeFNPMzZmWFl5emxGWUVGYXY2RmFBbHBOS2NicFJBUGZHMmZGNGtJaTFkNTR1cmZqR1E0TDVEVERHRUZzQVRQSlNLMVRITllzVmpvNzE2c2g1OG1nZ3NoaHB4X3YtbjRKc0xGRG41SUd2Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T19:28:57+00:00",
-      "summary": "Alabama launches ‘Rogue AI’ probe into ChatGPT after Hugging Face ‘lab leak’  Baltimore Sun",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI's head of data centers has left the company: report (OPENAI:Private) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVEhOYjdpanlQdU9KZ2VwbGttdFhCOUthYzVvbmF0MTI1YXpzY2dWbzlmdmhRcWctSU9Id2xyLTBsTi0yWkhGU0NNLXZPUEFBT3haZUhzTG55R040RXdjcW40UG5veDFkNXpQamRWNjZHajhjUHNWZzc1TWwtTTVUTXIwU2FTbGlCR1ZzYV9fVXRuZy1uallmZnRB?oc=5",
       "source": "news.google.com",
@@ -177,11 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Head Of Data Centers Chris Malone Has Left Company- WSJ - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa2pDWWk3cXBYNHBWVUJ4SFV5TWJJdVhmV1FMMlB2VVdTLXlxak5hX2xJWnc1Zml0STdKT2pCWkoxdERwSG9QM3E2VklOYjZUeTBaR3hpMmVBQzBqWEI5NmNPZW9tWWx0UnphQXQ5UFBuY2QwMlhJVjFxY1RrXzJsVVBZWVh3UmNRR2pWVHdTemduc2xTMXVUNnUzcW1qMjROcFRhS3E5Q0lGck9QVWUtN2xMMFRNMHlsRkhpUzNET0ptT1BnMFNadVJFRTVnZw?oc=5",
+      "title": "Jensen Huang Said Nvidia's $30 Billion OpenAI Investment Might Be the Last. Nvidia Just Guaranteed Up to $105 Billion of OpenAI's Leases. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNa0l4ZHpVcmliRHJLYUd4ZVRSbExIWFlpYUlyWFRZTUhDZUlHdVpZTFE2OWVrWjIxX1hoMmU4a3NXZFNxeTR4WVAyalVVcWNNQXkzcG8wTEJTSkx5eVVLSkltTWVVaFhBdThVQ3dFVXNwMWE1cnF4RFdwaHkyTHJHYkRNZFdQdVVZN1pkdjBmWWhTQ0lMZ09EclVFa3IzVW1jMmVCcXg0TmxmTURKMTc5LWc4VWN6aGkzVWgwcDU2Q2QyUFBmUVhSNXdNYmtUNzR6ZG95dEhTQ0xlTmxOQU5wOHFLQkVIS3BCcWREaUtMT0lhemtKOXRLQzdJVWUxSUV0ZEtQOFNqcV9ucjItQS1j?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-25T19:16:58+00:00",
-      "summary": "OpenAI's Head Of Data Centers Chris Malone Has Left Company- WSJ  TradingView",
+      "publishedAt": "2026-08-25T19:21:00+00:00",
+      "summary": "Jensen Huang Said Nvidia's $30 Billion OpenAI Investment Might Be the Last. Nvidia Just Guaranteed Up to $105 Billion of OpenAI's Leases.  The Motley Fool",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,15 +200,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T19:16:38+00:00",
       "summary": "OpenAI head of data centres Chris Malone has left the co., reports WSJ  Newsquawk",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1RrUjMxSkNzODB0a3VTU0kyVTZBVktqYUxEdUFKZFBXRl9uUzhnUjlaX3FsWUNfcHozYS1Oa1VKeW43MDM2eFluZlpwMWltb0pXeDgyT2tST0l1WHg5Q0pxaVB5RG9NRmY2aW9rWmE4d3FmcmMwOEp1TVlFeUFETERXVENDVTR5MWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T19:16:00+00:00",
-      "summary": "Exclusive | OpenAI’s Head of Data Centers Has Left the Company  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
