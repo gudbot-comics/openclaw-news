@@ -1,16 +1,88 @@
 {
-  "generatedAt": "2026-08-25T12:52:55.801219+00:00",
+  "generatedAt": "2026-08-25T13:43:56.375367+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI introducing new ChatGPT feature for teenagers - KVUE",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNDlUazZZNnYtWlRYUkxxc3VuSFVwVFVCRjBpR2V1a2tiSS1iMUFORXkzWGduQlpGVldVR0FCeGNZdXBjSHVKVVVuOEdLaEpPQUxTd1JYaTExZURiS1dBNk1na1dyc2tESVk3TmNlTnBkdGV1bURRZGZSb0JxTDVIdlFqdXRCVlhQRWRlNWtPNUdwd3JvTG5UbWIwdFpUZ1BBQ3hxNnJBYVdubHF0VUNLVlFiWndPWTRCQk9HNU5n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T13:37:00+00:00",
+      "summary": "OpenAI introducing new ChatGPT feature for teenagers  KVUE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "NVIDIA NemoClaw Flaw Lets Malicious Websites Hijack OpenClaw AI Agents - Hackread",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zcDNaZDNKallURU9zUTlVcGQwTDhEVURlbGc2S0dGVDNPYlB5LVIwb0x1d0VYUWZ0ZzM1aTR0MTlQdWlMa016MHV3XzdRM0ZHb1dqRVJKa1dJOUpXZEd0VGMySXlNMFU4cllZWVdDTGJRN0k5UlZR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T13:33:34+00:00",
+      "summary": "NVIDIA NemoClaw Flaw Lets Malicious Websites Hijack OpenClaw AI Agents  Hackread",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Uncovers a Covert Russian Influence Machine Using ChatGPT to Build Fake Expertise and Spread Pro-Moscow Narratives Across Social Media - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmozUUU2cjQ2V0RTenR6QmdsVlpMaUE2c2g2VFJNU0UteDlnMDVMQWxDUnZJdDJLV2VYd0Z3NDgweFFtOUtxb1U4RFRMVDN5TU9UdXN2di1STFQxNDBLWkdGNC1PVUlGSnYzWHQ3T1J1RnZxaUdDb2VIZEt3dWlEZDJBeFdzX255bk1NQnp4NjBZeGtPOWhwdUxB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T13:25:53+00:00",
+      "summary": "OpenAI Uncovers a Covert Russian Influence Machine Using ChatGPT to Build Fake Expertise and Spread Pro-Moscow Narratives Across Social Media  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Suspends Russian ChatGPT Accounts Over Covert Social Media Influence Campaign - Meta Platforms (NA - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNSXZWMHc4aVZVcnJEZEs3NVpCUWNrblBnbzdicTA4ankyRE4yaHJXSWs2NXowZ0hKYkxiSGRpUXJtRVdZVWhwTEdsU3l1QUFvU0hJWXMyOEM2dDBVZFhsMUVrdXJVcW1OLUZkMzRzam5QMHREWjlHb3hqcktQb0JnRVlnU2pvbVoxU3llV205X3JYb3Y4OWl0QlgwNk5vUDVqY0xOb3VTbENzR1FHUjFYZm9JUU5KYUU3OWJEMkw2Zk00SHN0azEya2oxNHRfWTg3VloxYjRIT1d0Nk1iSG5oZ0lWYVpZNExZSXpTQ1diU1J2bHVzZHp5S1ctdWdaUzA0NXZ2emVZdGVKYlFGNU9YWS1lQXVTSFdsdUtUSXJQVDQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T13:25:53+00:00",
+      "summary": "OpenAI Suspends Russian ChatGPT Accounts Over Covert Social Media Influence Campaign - Meta Platforms (NA  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI Systems Are Getting More Powerful. The Ability to Verify Must Keep Pace. - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTdiMmktZTI0TXJ2MUxPWDYxZWVMa2IzaE9RZ1BYdnM2WXhWQWR0LXhQWFI0MDZqQ3QwdzktZ29sYVdMbVN6SmFrQ0xHaU41bnhJc3RBME00dzE3eUo3SW1iY3JReWN0UUhjbDlDZF9NVUhyLUpZWkg0VmhNRXc4QTg3TngzLUk0N1NXWVFfemtsWlRsbEtkeVp1dHBSSUNPb256MVR3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T13:20:00+00:00",
+      "summary": "AI Systems Are Getting More Powerful. The Ability to Verify Must Keep Pace.  Tech Policy Press",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI blocks ChatGPT accounts used in Russian covert influence campaign: Here’s what happened - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOWh4QUV6NkZlZEJGSVBPUURwb0ZkU0l5QUhFcDlZUmtwT01aTHBBVzlhSnZtTFBoWkN1aWYwTV9maWt1TjYtSWtRVU9NQ1lBMk5BQlZJZzFxNWtJbnIxMF8tcWF2ZUJPMTg4NVVpcEw2RDgzcjRTU3hqYWREcnpMZ2ZwcFNXS3M5Yjl2ZlVQVXVyV0xMeFFwQnFudWJmT2ZjTHN4X1I3UTlGZFRJaTRwQnRDSEhUQUdPTHIwVUhMQXFLcTY1UHpFQ1lGcDV6Yjl4bk9R0gHYAUFVX3lxTE5mZE5aUmhPdE5qUzFNY2NQUFZEY0U1czRSc0VqaC03UVRYM2tfT3p1TGt5UUI0VjZ6a0RhRGZOU3VMTkJtaElEV0o5VTNWNmljTTlXenRjc3J4VTJROVZOVmd4YUFneHF1UU1KajRyZlNUV1dZRE90VG15YUdGdEt5d0lKSkl1TWxQcVpzNG9BdGFwMTN6YV9wV1BDaVJiZjdqakEwU1FjcHYtU0NmeEdsM2VaU2hTSFdKSnRjazUzV3NNSnp3OG1URmR1bVFlOTNXOGpzeHpTUg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T13:14:41+00:00",
+      "summary": "OpenAI blocks ChatGPT accounts used in Russian covert influence campaign: Here’s what happened  Firstpost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ClickHouse’s Recurring Revenue Passes $350 Million as OpenAI, Agent Use Jumps - The Information",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYV94LW8zenFiZnI4QjZYd0piT3BCNTBaZVZKQThLMG9DNUFiM1lTaWZmanFBMHJ3LWIyc3BRY2FzNUpvS3JCVUo2ZlVqclBYY0c1bE5LcTNYTWoyVmR2ekxqM0xMWE1MeVpjaXpodk1OT0pwVDNYbGxRdWUtTWhMT0kxdXNTVjFRR1h4UmxFRGdOZmk0SlU0VE1TQmNGZHJ0a3pHam5IQlBRVVd4VUFleg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T13:04:00+00:00",
+      "summary": "ClickHouse’s Recurring Revenue Passes $350 Million as OpenAI, Agent Use Jumps  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Fake OpenAI Codex download tricks macOS users into installing malware - Help Net Security",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVElweV9OOXJVUVQxN0VLcjNfTm12bU5lRUZFNEhCYmxfQnVVci1lQkMxT2NVX0ZPOERaUkNYMG5vcmxha3hMS1JvYnZaVmNxNDFDTWlvX0d5ek5YUmNGOTFrNEItd3BjXzRqY0xnT29RVmFGLWZFOEFhZEF3Wl9DXzYxS2s3SXp1RHc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-25T12:40:44+00:00",
       "summary": "Fake OpenAI Codex download tricks macOS users into installing malware  Help Net Security",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Some Mac users think they're installing OpenAI Codex, but it's actually a malware that can steal passwords in seconds - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSVBzaEpMZ243dVM2Tjd4aFF4RDQ3N0RycnBlTklScjRRLTJjcjFUQV9Bamg5TnNLVWZYbE1FcnJTamZER3d3TjJucDR6cEJ4UzdKSHA2VnMwNFlWTmhrWHZaNFdGV2VBUzhGZVFZVWRQYjlpcVFET0trQlQ1RXpGZ0lLanp1RXJMSlpRaXUyZ2J1cWZUNFlrRmZKRV9tNkllOUFvaVdZN0JQaFBURWhrbHVJOGsxVTBiMnhLM29rMWlkbWFlcV83Z1duR2FJWmVkS3FOb0pnU0xjdlpNUkxrWnFFZ0czNFpz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T12:35:00+00:00",
+      "summary": "Some Mac users think they're installing OpenAI Codex, but it's actually a malware that can steal passwords in seconds  TechRadar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,6 +137,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T11:36:36+00:00",
       "summary": "NIQ Global Intelligence Partners With OpenAI Deployment Company to Further Extend AI Product Suite  Moomoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "NIQ Global Intelligence Partners With OpenAI Deployment Company to Further Extend AI Product Suite - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR005bUdMb2RHVGMxUFprNXgxSUsyVTRfQzM2WkJvMTBJbEZ3Y0htXzNUYlgtZThQVU9VOWw4bjlkLWhiOFY1Q01kRTNMNHhiSFhId3d6eEFmNXQxOGRXSTdaTHRnNkpHejY0WkIwS2YxMUYzZjdpdWJ4WHVjdFdTVldUOHNSdjdtbUVMQ19RVkE4OVA4NlotbFlEeFlpb2JZX3Mta0V1WWMzNkp1bkkxd1dKdWNQcDJKTXFhdHRTZ2REMzB3YlBEbC00MkRWWGJZLVlrYmhvQmE3NTRVNFB1LXc5aWgzdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T11:21:31+00:00",
+      "summary": "NIQ Global Intelligence Partners With OpenAI Deployment Company to Further Extend AI Product Suite  marketscreener.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -137,87 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T10:21:06+00:00",
       "summary": "OpenAI Faces Alabama Subpoena With 16 Requests Over Hugging Face Hack  Yellow.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The OpenClaw Effect? Apple Reportedly Rolling Out Surprise New Mac Mini Line, Possibly Days From Now - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnZhTE9jX2kxc0dDOG9Ddk9VQUxEbER6a1A2ZXhxNkk2MF9DbkFTOUw0QjdwNXg1REw5ZC1QOG1OMDk1YXUwLTNtV2tGdzUzbElYVUtWRVBFdjdycFptQWN1aHJwZTNvOXJpRHZYSVpuTThXT0FsZ0tzNDduYkR4ZHByeUN2aHZmUnBVODdyUkItQWRteHEtUFd0SFVPUXpyUVJSakNmNjhtTXR6ZmhyVFUxMUwxUmV2SUFGVzlLbzdvaURhVE82OA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T09:30:28+00:00",
-      "summary": "The OpenClaw Effect? Apple Reportedly Rolling Out Surprise New Mac Mini Line, Possibly Days From Now  Gizmodo",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Webflow’s New OpenAI Codex Integration Simplifies Site Management - Search Engine Journal",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1E0OTJ0dkp4eTR1RkNlVC1oYmYzY3F5WjJBTF9vZG1LWkxhMGt5Z3F5dVlVcmx0X3dtbEhQdGtDNnhza1hWTVM2Z1NkQmtReEMxR0tLS0pBcTRveTA3Qm9scm1UNmRGcUp6Wlg1cmFqdHI3YW1KbG1JQ19TZVlrTi1CWFFNNmRsdHZkY2ZOWDRvZnJqNzJxT3pHN0M3YnlpMGpjQ3NEQ09jVktt?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T09:17:23+00:00",
-      "summary": "Webflow’s New OpenAI Codex Integration Simplifies Site Management  Search Engine Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYmRubHJOT3Y5akdJRlhsQkVTZjNmSEp1czMyOXVQeTczTzloV0dQODBzbW1nb0plZkEyRW1LMXRBWDlLVTJHMzJ0UWgwU2dtSEp6dk1zRnhkWnR0Q3pVT3JlbUU5b3ZBOFJ0Q3hIYy1LZFduMkpnc0dyYU9FQ3ZEb0VrN0NxTUtZLU9La1dmR3c2X3FsWUU4V1ptU3ZDOUE2cGZIS180UE56Y1dlX2tzczdOd29vOTBp?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T09:15:03+00:00",
-      "summary": "OpenAI subpoenaed by Alabama AG over Hugging Face hack  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Crooks push Mac malware through fake OpenAI Codex ads - The Register",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOE1FRlJGTy0zbENISDhVYzJ0SWJvMF85cW1qeDVFMlJ3azNjQmhBcHpGZGN5TFlwSmVPei1wQldvV3VHbXV0alhOQi1JWTc2T2E2X2lCNXNUbjMycTN4emVLZ2ZPMnkyUTVJM2xGUzk3QXdPQXl6dF9WQmZBN2hudjVmQTBzUGRiRkkxejBfTkxwbEFIUi1iWkVtRjB1NUxJTGN3SS1yRDR6VnJRdGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T09:15:00+00:00",
-      "summary": "Crooks push Mac malware through fake OpenAI Codex ads  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Disrupts Russian Influence Ops - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdy1hQXZpOGN2Wk5KVkF0UUlEbHJXWElQbzVUeUx4WlNUdGpGRTAzcURPRkJwOFVObjhVQnhQUW90T3VjaUhESDA5b3YzRVIwNFJ1dmxZYXQyd1BYcGJVVDZlaXNkamVrbGY5WnZyV2pwWk9sYWdES1dOb3hkYUhKQTBsT3J4Wnk5TEVLeEwxaXdDM2VzOFcyanFxNGRHNkh1UkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T09:04:34+00:00",
-      "summary": "OpenAI Disrupts Russian Influence Ops  StartupHub.ai",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says Recently Banned Cluster Of ChatGPT Accounts Originating In Russia That Were Being Used To Promote The International Burke Institute - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxONi1vbnA3dlpVN1gwUXhac015RklITzdDeVZIOFZFNzZTYXBOcFdaM1VrYW1JZlhQVkc2UHJXTGNWRUlKOHZ6VTJnMXFITmdJX3gtOUNDaE1RSjdEQlRGOE9SS3ZvMFljVzFLdnBWYm9wbW9VOVhBb1VtR18xT24zT3daSmtPSnF1WVRla0lNTThrSzhFMlZ2TnVzeHljc0paS3ZHa2hTd1RubjUwdzRQQUhybmtCMmd6QkQ0TFVvSDlfaGpZeV9WQWUwWk1wRThxV2NQS1ptWnVoSVl4eUhEVlBWcXFvblBOZWhwenQ1MUg4Y3QxUjFnU21aM2pKdlB3X0M1X1FuXzRhdnZ0N1hCUG41N1hjQVZSV3pYc0hRV0k0YVY0R01MR3hobm4wSUpyVDdFSVJvNng?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T09:03:51+00:00",
-      "summary": "OpenAI says Recently Banned Cluster Of ChatGPT Accounts Originating In Russia That Were Being Used To Promote The International Burke Institute  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Sam Altman just admitted he was \"wrong\" about AI — laments that he made the tech seem \"scary\" - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUUVpLTFSVzM3Mm1TMk5SRDJpajJ6a0dMbjJZZ1lsZzU1MU01NnFnY2NJXzd4dTFGX0Z5aFRubEk1T0d1dUxHLTBPU2lBQ2JQUTV6T0JoMDRacWlMYjZGTzNJQm1tR3BRd3JOM1BnTm5taUlfQUxWTGoyWnlGOGhlRlkxXzNZSm0tRElkeEt5N2JtUzZCeHIyM1c2RUx1UnBVZlg1TUVjdS1aMEZlZ1Q0bkNsNFVSaXk5aXY4bXVIVFk2Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T09:00:00+00:00",
-      "summary": "OpenAI's Sam Altman just admitted he was \"wrong\" about AI — laments that he made the tech seem \"scary\"  Windows Central",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Disrupting a new covert influence campaign from Russia - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1kR0RyOTBzSEgxUzhUVHVRUXcxRTdXTmhNSThIUmd4bWlIVk5VenZGNy1xc3ZrakRpSnFnVFJnMF9hU2xSaHVpT2wwelBkZHlYMUNObmVFVnBjVXMxcWUzZG1NeUNTbXl0eDR1YUJTdnZLLWowZjZnYkxuaFFZRzFHcnpnS1gySkVj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T08:07:55+00:00",
-      "summary": "Disrupting a new covert influence campaign from Russia  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI has reinstated the five-hour limit for Codex and ChatGPT Work in the Plus plan - Mezha",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wdjFrLUZvWmhFYjJ5dlJ6dHBrOVY5dENXMXVxWE42S056RVZ6enNaeUlYOHdRbE1SbDEzdlY1T2NIUjQtYlZpTjVCNWpFRWNLM0ZQWVFBbjczazl6TFlZVHpkZTjSAWpBVV95cUxOeGtPLXE4UWNpTnRIeTdwUUJXaEhvR3l2dU5LR2VKRy1nUlZzOElGd3VaeHJIUU12MHFESTVEQVJLTW01WHN4NmFLclFPRlVKVDVEVXdTb1IxbzE4b0RPcGJlT1R6RHNnUU1n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T08:01:00+00:00",
-      "summary": "OpenAI has reinstated the five-hour limit for Codex and ChatGPT Work in the Plus plan  Mezha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
