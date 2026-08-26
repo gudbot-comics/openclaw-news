@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-26T05:03:32.977916+00:00",
+  "generatedAt": "2026-08-26T05:45:33.929695+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGNBOThiTEdqZHNsZURvWVhrZjM0d2NhZXNEYnRIdzJTbTJ5cW1FM2FPaEJJTWRTWldpMFhpYXFKcjljNWVsdDhwNVJ3Q2YzWkZMT05NOExHejhPRERlcllCRnRqQkxSdV83RHdBWHlLdGhDS05BTW5RU2x0aXY1VHlTZ2RkaFY4eXpxN1IyLV8zTEpYYWloTFNfZ3JqbWlsb3JvYkcxNjZTUGlLakdFQkxPQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-26T04:55:00+00:00",
+      "summary": "SoftBank Mulls Up to $20 Billion Bond Sale for OpenAI Financing  Bloomberg",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI loses data center chief Chris Malone amid executive turnover - Adgully.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUpPSmN3MXF2TVJXbGttT3hIQ29lNU9oZGZZT1plSzRTRXI3cHNHRE1ZTnozWU5fM2xWOVYwNElvMkxoUmpUcFpESHNUazdDa1JGOFpZdzJndVJpamJuMU9IdXpxelQ5OENpZ1F0RmdyVGpjVnlBVEFiQTFYMnpkaTJ6RU5sa3gwNVNNLVNnVjZpMHhONVRzWVlEelpTWWlRdG1xWQ?oc=5",
@@ -56,6 +65,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-26T00:45:45+00:00",
       "summary": "OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026  ServeTheHome",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI sales exec Peter Doolan to return to Salesforce - The Information - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRllneVcwYnlnZDJDb2R2RFpZdWY2V0RBRW04QXdDUW5aQzdtTmJGaWtTemhNc3hTVmFEY1V4OFFiQXh0VmNfN2pHQ1dWWG9PTlZsUGpTS043OVppM0pzSkJRLXNrT0hmOUFpV1Z6OHZSMEtIYUxCX1F4YmtNUzd0RTlNVDlqRmFuWHUxS1hMOFNIdVZqR0NndERuNzBIQ2lOdjZ2UWdfTXl2YnpwYTJYZ1pNbkJfNnNzZXZXRjFBVk1zckdFQ2E5WUJSZ3lFM01vamE2LUJDNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-26T00:27:58+00:00",
+      "summary": "OpenAI sales exec Peter Doolan to return to Salesforce - The Information  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,6 +141,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Jalapeño Improves Performance Per Watt - Techerati",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd1MwTjRQbjRPYTZYajVWTUp2U1lDTWFKd3A0RENPV3JjTmp4WU54Q3ZqaWtTb0ozQkI0d2NST1RoR2RoaldsX3FFVTZXdnphVUI4aHlaLWgxd1dETHByUkkwNHFWQzJ5QWVZQld0UEFTMGg2em53cGFzQ1ZreWVLWXdNNURwdzhnWUd0UzM2alB3ZUNrSTI0ZUg1QXA5SVk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T22:04:51+00:00",
+      "summary": "Jalapeño Improves Performance Per Watt  Techerati",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI adds teen safety tools to ChatGPT - Channel 3000",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONGxTeEh0U0Q3Vko2X0xnQ1FYYUhMMEpKUW5YaWplSlBoWkF6cVZPbXhWb0tKSmFwZVgzOHZJdTh6emM3eXVpaGRhOGExRWw5N25qQlNIX3BjczBZeUhBLURXRTBmZXN3UzROQllfN3JKNERoWjFEbzM5dG5oNU1HdEw1b0NncVk5ckduUGpySEI0eEo2UTlwUkczUlBfTGduZEdqVEZJbnNaMkdZUzVEYkpUbkx6QkhlRXlidV9pSjY?oc=5",
       "source": "news.google.com",
@@ -186,38 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Jalapeno Chip Is Outperforming Nvidia, AMD And Google Chips, SemiAnalysis Says - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOck04aXBvNGgwMEhHSlgtaW1NVFBud2NtYnl6REVPVW9RS1djZWZFY05YWERIS29RSHBuYl9kcUxhZ3lnc0hLR1NwTWROVFl4ZlFvd2ZhVGtLbjBVSUhTWk5NSUlRcWxDcUFZZDRfZ25uWmZtdmlrM21vcG1ncmVoX1h4NkxXU3pXLWNCbG1ITklIV2c4S1NRMmdzeC1iSkJWeFZBY1JENzMyQjVzZGVrREN6dklKTk1ySFBYVW84MU0tTjQt?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T21:03:01+00:00",
-      "summary": "OpenAI's Jalapeno Chip Is Outperforming Nvidia, AMD And Google Chips, SemiAnalysis Says  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI’s Data-Center Chief Has Reportedly Left — Executive Exodus Grows Ahead Of Planned IPO - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdGtxcUNDdE9VTDFQb2RSVTliaF9Ra3c4SkV1STRKVHFVdlNpOFFYNllOc0U0cXdUN2gxa2ZhekZOdGRjc1Y4YTRWV3NMNnRid3dfTF8wcWxKVVhGOFp6cHVDZmxYRlM1OG9tU25rRVU4dHk3SG1DeDZ6SjJRUmtibkh6R3E5aXlPTHRxNHF4blh2VEwxejRIbllEUkZpOXI4eEV5Ylg3alA4bzlveko1Ynd6dm9YMFMtVWFlNHR4QTlSc19jRXVySGtRN2FSc1VxUUFwWjNWNDNNU1FyWTJqUndybGJ0akF1?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-25T21:02:00+00:00",
       "summary": "OpenAI’s Data-Center Chief Has Reportedly Left — Executive Exodus Grows Ahead Of Planned IPO  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI announces the Admin plugin for ChatGPT Work and Codex - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmNpajhmcjgyQ05EQmwteEtwd05HSUNHRTFidHVubWZyamJmcnRJSVhQWkVqTlBreUR0OER2YVZ5WWhDU3VxZXhpc3FueHM2SHFtZVBrMVRtV1Y1VEwySnAwd3VqSjRlNFY3NXR4ZGl6VXFGQXFlU0xxVWY0Q2o2VUsxNUJOaFRxb053TlNEbklqeTVvcEdr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T20:56:00+00:00",
-      "summary": "OpenAI announces the Admin plugin for ChatGPT Work and Codex  9to5Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple v OpenAI at a Critical Juncture: A Trade Secret Trial Lawyer's View - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdmxxUWZYNERCQmI5TE83cHRLamlYS3lObHUzbEp6ZXJVYmw5V0d5ZU5zS2YtMGhrS2RqVXJtSzB4XzFnZjAxcnBYcFBwWDFzemZnTHBTX01TaTdleVZRNWRlX3N3NG84andnYmFfXzNUUno2VHZYSk0tQ0xwd1NaTHBQNHNQdS1qUUM2UmJLenNUYXRMb19fRk9zQWlBTVRSTGxSVkdLajNxSmlxV1RpbXVGdXhPUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T20:40:10+00:00",
-      "summary": "Apple v OpenAI at a Critical Juncture: A Trade Secret Trial Lawyer's View  Law.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
