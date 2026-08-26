@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-08-26T04:20:54.515569+00:00",
+  "generatedAt": "2026-08-26T05:03:32.977916+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI loses data center chief Chris Malone amid executive turnover - Adgully.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUpPSmN3MXF2TVJXbGttT3hIQ29lNU9oZGZZT1plSzRTRXI3cHNHRE1ZTnozWU5fM2xWOVYwNElvMkxoUmpUcFpESHNUazdDa1JGOFpZdzJndVJpamJuMU9IdXpxelQ5OENpZ1F0RmdyVGpjVnlBVEFiQTFYMnpkaTJ6RU5sa3gwNVNNLVNnVjZpMHhONVRzWVlEelpTWWlRdG1xWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-26T04:11:00+00:00",
+      "summary": "OpenAI loses data center chief Chris Malone amid executive turnover  Adgully.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Enters Final Stage of Second-Generation Chip Design - Businesskorea",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFbUl5a3B0SjN0Q0lMYldSbzdKbGRlcVNlUlh1eDJ5UVB5cjhuLWRYTTRoU3lia29RR1I3aU8tZ2ZJZHJFdG9IQmdCRlFiTTZhRkM3dEJ4TnZrZ1pYTmI4d2pwWVJWdGpIS1NEQ0pvUVJiNWhI?oc=5",
@@ -47,15 +56,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-26T00:45:45+00:00",
       "summary": "OpenAI Jalapeno Custom AI ASIC at Hot Chips 2026  ServeTheHome",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI sales exec Peter Doolan to return to Salesforce - The Information - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRllneVcwYnlnZDJDb2R2RFpZdWY2V0RBRW04QXdDUW5aQzdtTmJGaWtTemhNc3hTVmFEY1V4OFFiQXh0VmNfN2pHQ1dWWG9PTlZsUGpTS043OVppM0pzSkJRLXNrT0hmOUFpV1Z6OHZSMEtIYUxCX1F4YmtNUzd0RTlNVDlqRmFuWHUxS1hMOFNIdVZqR0NndERuNzBIQ2lOdjZ2UWdfTXl2YnpwYTJYZ1pNbkJfNnNzZXZXRjFBVk1zckdFQ2E5WUJSZ3lFM01vamE2LUJDNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-26T00:27:58+00:00",
-      "summary": "OpenAI sales exec Peter Doolan to return to Salesforce - The Information  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,20 +114,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup - Bloomberg.com",
+      "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTlGekdBY0h3c1Q3SE9lRzFhUUpFX2N6WEl5dFFQZVUyRXRrdWpSZm9ZbDJuWmh1NUt0TU41c0dVNlVlZkdzWWZfSU9OZ3pLT2lqN21FNjJCdWtRWkxGMjF4c0laMzBTZUlMdXBLbm9seGFNemlDSDd6dnM5T1pSMldPa19SNE1uamsyYm5ULVZPc3BDZ1BoWnFSZk04b21DWkpCVjYtWHMxVlVSc0FDMU9iUC0wZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-25T22:04:51+00:00",
-      "summary": "OpenAI Data Center Executive Chris Malone Departs the AI Startup  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-25T21:59:39+00:00",
-      "summary": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails  The New York Times",
+      "summary": "OpenAI Data Center Executive Chris Malone Departs the AI Startup  Bloomberg",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,6 +182,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-08-25T21:04:38+00:00",
       "summary": "OpenAI's Codex Adds WebMCP for Enhanced Agent Interactions  StartupHub.ai",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Jalapeno Chip Is Outperforming Nvidia, AMD And Google Chips, SemiAnalysis Says - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOck04aXBvNGgwMEhHSlgtaW1NVFBud2NtYnl6REVPVW9RS1djZWZFY05YWERIS29RSHBuYl9kcUxhZ3lnc0hLR1NwTWROVFl4ZlFvd2ZhVGtLbjBVSUhTWk5NSUlRcWxDcUFZZDRfZ25uWmZtdmlrM21vcG1ncmVoX1h4NkxXU3pXLWNCbG1ITklIV2c4S1NRMmdzeC1iSkJWeFZBY1JENzMyQjVzZGVrREN6dklKTk1ySFBYVW84MU0tTjQt?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-25T21:03:01+00:00",
+      "summary": "OpenAI's Jalapeno Chip Is Outperforming Nvidia, AMD And Google Chips, SemiAnalysis Says  Stocktwits",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
