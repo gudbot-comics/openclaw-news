@@ -1,16 +1,124 @@
 {
-  "generatedAt": "2026-08-29T07:49:33.288175+00:00",
+  "generatedAt": "2026-08-29T13:23:51.644842+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "D.A.D.: OpenAI Cuts Off Cursor After SpaceX Buys It — 8/29 - Buttondown",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWJ1UEY4NjIydnVGaWFxcXJWUE8wdDY2SktHaVZ1NjQ1OFQtYktaR0xYYnlUMWk1UUNHdERZTnpBLTlieUN6V1I3WTRLOUVJNHVKUWp2MFQtMmdDa1dCOFBac2hlXy16ZmQ2UEY3eTVMZGpGalBDcEwySDB3LTlHY3VRYXE0V25KVldNTHlJdnBXbmVsX3Uxag?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T12:53:55+00:00",
+      "summary": "D.A.D.: OpenAI Cuts Off Cursor After SpaceX Buys It — 8/29  Buttondown",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How Groupthink, Altruism, and Peer Pressure Led OpenAI Models to Hack Hugging Face - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnhQM19GRmxGbF9wMlYxZ3o5b2ZpUW5UaS1Hbk1ELW84WWtFSTRZR2dHMUNBNklDb0VMa2NIQWdGVGlCU2U1MW53a3lFUDkzejRFUGRaUUdWX2k5OXh0Y1V5bWxJeW1abGx3VzMwdWJkNTFjcHJGSWJSMUNLdEJFbVN6TWZ0ZnR4a1ctNl91WnRNT3RBWXVNd1NWbXVMY0ItU1lKTEtFNkV5WS13VlFZWA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T12:00:38+00:00",
+      "summary": "How Groupthink, Altruism, and Peer Pressure Led OpenAI Models to Hack Hugging Face  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "We’re Now Relying on AI to Police AI - Mother Jones",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTDZFZnRHWXF2TFVlSWJnbVhld1pjc2E3M3JWSnJsbFM1VzVOLWt0X1o0X2NGMmpxMXhydWJrU1JteDRCdzNzVWJLUUV3UDR2TDFmNl9rajZHOEVZTmlMRjJhZ093VkExMGw2V3hRS0E2V05GbWJQM0NhZ3pkeXp2aDRfWnVYZkdXU1ljMHp5bjJXa3RCWGNxUVNQMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T11:59:40+00:00",
+      "summary": "We’re Now Relying on AI to Police AI  Mother Jones",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk defiant as OpenAI to cut off SpaceX-owned Cursor (SPCX) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTlpsOU1HQjBkNVFvdGNKU1VJRlEtZlBWZm9iUGJYMnB3cG13elVQY01KT3ZpQkZid3Q3b0h2MllEOUR6VjNudHpLUHZEaW1lZDdIelZCSzI5cDVHU3B4X2FjTDdNXzAzSlN0NHYyYkxhTDRQZVQyOTNaR1VOclQxT2FyM1VzVlVXLVowcjN3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T11:51:47+00:00",
+      "summary": "Musk defiant as OpenAI to cut off SpaceX-owned Cursor (SPCX)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to stop supplying models to Cursor after SpaceX acquisition - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUZ1UmFRcVMydjRKRVJWQkN0d3JfcVRDR1Z5cGFoUFR2M0d6N1lFVGs3YXhmenNlQVJlbnljWTJsTjE1LTNwN0dyQVZaTXFCZzdPay1BcHpNaHk0TTIyckU1Y1RUeS16YTFEMUtrS0NPVGxjYktuUnpIWVBfSXYxb1FyUGlITTRoVmU2Qk50WEYtWTJ4WUpQQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T10:16:42+00:00",
+      "summary": "OpenAI to stop supplying models to Cursor after SpaceX acquisition  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI blocks cyber researchers in these 44 ChatGPT markets, analysis finds - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5keFEySE1VTjVFa3RVS3BrbjY4OVVMTk9ibEZicjZLM2JmeDVfVlhPRzQzX0UzZ3BwZE5ObWpBQURrenBLbENIcTNPaTkyYUt1aW80UHV0M2NPTzVMakd4SmhTZi16eU91UzFxbXduVHpLRlVIRmt0TWtMX1ZpUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T09:46:22+00:00",
+      "summary": "OpenAI blocks cyber researchers in these 44 ChatGPT markets, analysis finds  Cybernews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeU9hNXZXdU1pQ1FleWRXVXpacW90R3NqNG1NVDB6dUNlNzFDUzhyX0RnRVQycG9WajVLS2h0eXFZalVianhKTHRkdHpuWDR6YWdlVHEzUVowRjl0S1hPQ2EtVjMtc3VtdUgwb0tmMEtzamRodFVBOFQxY3dwV3RzRllTbXI5dUZMWFJhTTRCY0lyaUhTdURiZg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T09:40:29+00:00",
+      "summary": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely?  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI plans to disable its models for Cursor following a deal with SpaceX - UkrMedia News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LQnZmSmttV1NJQzFJTEktWGc2SjdKYi1GUFpGN0twejlfQmt0SlEtTndxNzc2ZzZuMEZXYVh0Zm1SS2hZVjk5QzkxdzY4eVlZc0l0bS1abDlkT3dTQWUyUVpTa0otVXE1RXVfQ1lfQzlBbFJOSjNTVjhtTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T09:38:06+00:00",
+      "summary": "OpenAI plans to disable its models for Cursor following a deal with SpaceX  UkrMedia News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSW9DTFA5MnJpYkdwbEhseWZmd0NOR2ZhUXVCWTF3NzJIUlB1S2xwOVVPRlg5bFFrVFNmRXljNktNY0RmVTJEc01xMUFKTHoxRlc1aVE1MXJ2Qlhrd0JTaHB5dk14YWZHVElidmZ6MHNPaVVLUkd0dVFXcjNOUFNLV0xiZm1WeGtaYlRFaWo2YUkxSjNJR2FERk9wdm82SmFadUlZMWdZQklKeFlLbFc3eWR0UkZRZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T09:19:09+00:00",
+      "summary": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why Perfil is fighting OpenAI and Microsoft over their theft of journalistic content to feed their AI - Buenos Aires Times",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQU45VmdGNlRFX3I1cEVGWlpjTUVXRXVQb0c1dkgya05PbENnWkZtajRtQXBrbUR1NUtYNENTOFd5dW5nUVdSeFg4d3lwSFdWYU83aTE0TXh6ekVCYy1XOVBwdWNaMFppNFNoX1pyTDlzVGFLNkdQOGJPUkYweXFHWktCRWVkQlJ2TGs1OXJyM2NaTjJSLUo1MWlyZ3JQaTlxQWdUOEo1WUZCbDhzMlZLbXBYSG9SU19Ec2FZWGZoamRkdUExeGZES05VYnBJdklJSml1TTZCOUNma3FiU1hsemQxajdKYnVFOVdSNHV1XzZBQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T09:04:00+00:00",
+      "summary": "Why Perfil is fighting OpenAI and Microsoft over their theft of journalistic content to feed their AI  Buenos Aires Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI ends Cursor partnership after SpaceX acquisition - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3dBQkctZC1weXFkdzBBZTdCbjYtVlN4Znh0Q2pKalMzS2paMndpaGE5XzJGQjNjaFFLVjR1UFNqOXU1b0o5cWhXNF8teWRQQXFTSFlBMlpBTUZoYXpNTUxMbFFPSFFBeV9MVVpPcERUdl9YaXBKTjhNNXROYUJJY3JmLXNYM3VLX1YweEJlazMxOG8?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-29T07:40:39+00:00",
       "summary": "OpenAI ends Cursor partnership after SpaceX acquisition  Dealroom",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman warns of a ‘critically important moment’ for cyber defense as AI … - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRHV0YmxfNEtWdXN4TFlibWRhXy1vOE9lXy10YTJUZVprVmpBT0Z0ZE9LbjZiZ0xLb1hkVW5OMVFpUFJWblY2RWpjeU82SHpuS1k1Q1EyY2pGeFNpVHY3MlNmZ2ZnNzVWbmhGOHBkYUs2U0VQN1NqX00wRWg5UEF2cjJfMFhueTA5U25mN0hVVVo1OWt0ZWd5Z1BQUk82ZnNWMFljUG4yZXVYMGJVWGhGVU9QRF96SVdsNEtvT1pyVzlDNVJTTmt5alpNNk9mUTAzRnJpam1VVmllaW1zZ2VTTFFJVzg2NTMyX21Pd1l0cHBFaFgtRzl0T3JCcGnSAYICQVVfeXFMTTdDLUs1ZDh0cTJjWHo2MWxxSmRZMFNab3VwZmlHQ0Y1a1hXbDFuUm9EVmNwc1h5TXE1cUlBQVphSUhOeTBsODRWUnl0cnMxY1VLa1hhdExOUnAtbHltSkZRTnFPWmZhOWQ5UFZjYVRJOElpOGphRjU1QTZQYUZoR0J2Sm9PMnQyMW1aZTIzWEFYTzA3OFNmT0xtMnZwc2RaWDJlYUpnb0xPVWJySlFFOWM5NlVYcG9ibTFHVXA0RXNsU0JwdTd2WWQ4ekhqb19xQXlidkxmOWVBaTNHdnZ3S00wRGtPV0tjaTVSeWVfZXpyZFZuRlhya0V6WEU5Y2F3d0J3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T07:38:00+00:00",
+      "summary": "OpenAI CEO Sam Altman warns of a ‘critically important moment’ for cyber defense as AI …  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI cites distrust of SpaceX in decision to drop Cursor partnership - Teslarati",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2hyNmNTcTZ6RGZpSWRrMzZiSGJnSFgtZE9HNDR6dXUwZnEtZDVIWVl1WnAydFoyM2kxYXhoZ3lfTnNzaEdFT09CaDc3aUxTYTFMS0dEWVVlVEVwTW4tenZOcHZkX2pPRmhlUGdQVEczVU5mMkdtcWdSRHlMNE8xMmhRXzdsb1dLd0VINjZfUm11ZmJTdE90eXBvTFVNdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-08-29T07:01:37+00:00",
+      "summary": "OpenAI cites distrust of SpaceX in decision to drop Cursor partnership  Teslarati",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,56 +132,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI to End Cursor Access to AI Models on Nov. 12 - SpaceX (NASDAQ:SPCX) - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORGJvVFpNWkVJcWRqS1R4VkVtbUhCNWQ4NGJlSVVhOF85MUFnSWxmY1E0bk1mSFM0UGVCLWx6SEtTVkRHTnBCU3pxcFFHZmN2QnRSUUZDcVNRX1RQSDFSVHU2N1diSHBwWG5hWkR6Q25WR0NNZ0ZCWnBZTkJqYjhIeTEwcDY0V210YWprZ2dTYVU5SW9wMHlOSXRJay0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-29T05:26:09+00:00",
-      "summary": "OpenAI to End Cursor Access to AI Models on Nov. 12 - SpaceX (NASDAQ:SPCX)  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Elon Musk’s SpaceX Faces OpenAI Snub as ChatGPT Maker Cuts Ties With Cursor Over Contract Compliance Concerns: 'Cannot Be Confident' - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORXBvTEJMd1VOUm1Ka3BnMG9Za2NCWjhQbzB4M3pGVm1MM1dqYzVjUXRCek40VzdvOHFNMlZMbEFxbmVtUXB1VUxZSl91SEtfT3lhMGs1OG9LOWxvR1VLMWtxXzFWZUxwbG5DNFctRV93MWNmTFd6ZTR0MC1FTm9XamVkSF9DT3JVdTBkTEdVZm5LdFBqZ3hPNzNjU3lxbzN6Q0RwLTdocHJJNGQ1YlVYU24yOVFrR0w5WlBGQ0psYkEzdXh2TWRfUGFQRmtGa0g0THNfR2dlM3NHQ3ZEdExnbWU4RHBMdkRtV01XNzRmWXh4SEUxbmFxQUd1VkNjQm40bDdDdHdGdWE0VWpZU3VvWTJmQVpjd3M?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-29T05:26:00+00:00",
-      "summary": "Elon Musk’s SpaceX Faces OpenAI Snub as ChatGPT Maker Cuts Ties With Cursor Over Contract Compliance Concerns: 'Cannot Be Confident'  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI cites distrust of SpaceX in decision to drop Cursor partnership - Teslarati",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2hyNmNTcTZ6RGZpSWRrMzZiSGJnSFgtZE9HNDR6dXUwZnEtZDVIWVl1WnAydFoyM2kxYXhoZ3lfTnNzaEdFT09CaDc3aUxTYTFMS0dEWVVlVEVwTW4tenZOcHZkX2pPRmhlUGdQVEczVU5mMkdtcWdSRHlMNE8xMmhRXzdsb1dLd0VINjZfUm11ZmJTdE90eXBvTFVNdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-29T05:12:38+00:00",
-      "summary": "OpenAI cites distrust of SpaceX in decision to drop Cursor partnership  Teslarati",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI says we're running out of time to act on cyber defense. Here's what you can actually do about it. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXBYb0ZacVZ4eGJJdXIxelM2NDBpZ1drUmxkMnUzN0liSjEzVzlxX2lELXlGUUlMMXF1a1pwb0xwX0ZyU0xaMWZaS2pLcmdCd2NpWm1JNUZtZmRUQlNjbkM1dGUyQjBWZlQxZzVuN3dMeXFRbGRDeFQ0UjktUnJ0WUxHbWxMZ296bXJNekI3bGVhbGVvRS1vS0d0bw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-29T04:02:43+00:00",
-      "summary": "OpenAI says we're running out of time to act on cyber defense. Here's what you can actually do about it.  Business InsiderTech giants warn time is running out to prepare for AI threats  AxiosGoogle…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWU9hS1N0OHNVeU8zNzV6QUtidkplVlhSRzZCazZNT1hmTDR3Vm00TnVfem9FSHhBT0FyZmp0U3lDbTF3SmhJV1JZelFjajJ6MGo3OFdkazNXekstZmlJd1JuRk5TU0NjN1dKNVdOLU5mUDNxaDVDZ2dvNTAtT1FHc2NkS19Dc0hoMmRkLTIzalVCVGd3ZVBOeHI2Vl8tWjBTVENQSjMteDdpdWdoeDMya3Zqb0VqazZHVlM5SzBsOUVCUng3bmR2UGRMcjBrTUpyVHpLZHZQR3JrUjNzNnpMQllCeU16c1M3dEtBVnJWMVJmZEtGQlVrSUh1NTNGVzlCcm9tZld0Rjk5d1VtOFBJWTk4M2Q?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-29T03:45:39+00:00",
-      "summary": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash  The Lufkin Daily News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDJrSTF4N1dNX0paYUVuMmE4dnBQSWlxU0U4bzdJSF9FSG44VExZdktHRDA5RW1BeXE5YmFtQXBxa1ozSVh5aTUydk1xaGFtZkp0ZkQtZk1Bb0VMMDh4SnFqN0V1QmlSUEdwaWZYMWtSTDIyZ2JPOHpBakhJS1I4RlZNdGUycGhnb1JxX1RlQnNULVdha3JTaUJ0ZEdBTFNx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-29T03:41:42+00:00",
-      "summary": "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts  Business Insider",
+      "summary": "OpenAI says we're running out of time to act on cyber defense. Here's what you can actually do about it.  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,65 +159,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Will Cut Off Cursor's Access to Its Models on November 12 - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWkpMR2x4R2Uxd1IwTW1fZ1FRaldvY1FRcFhSb2VxMDVjMV8xNjh3WkNoZVAyNy1oRHRfVWkyYTdscWdLQ3F2dDd4MzRDZUVHdE41YnpTQU5hTHgtZDRBVF9PajBmWmVqZlZPSV9nMm5YSENadlRzRm5nVjVJYndwUzdMeW9UZS1KNW9Jbm9felpkSmpYM0E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-29T03:09:31+00:00",
-      "summary": "OpenAI Will Cut Off Cursor's Access to Its Models on November 12  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to end partnership with SpaceX’s Cursor - whbl.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IcjA0a1FyMGxlM3lCS05vMTlLYjJXQTdiN05wS0ZKWWZIYlR6Z2hiYVo5RGs2MENZVkstMEJNVXo0RVQ0VHlsZVducnpxbHI4UGdjTHZhaEpiRzk1TGJJMjlyVlpLVWk0cVg1REc0d0ZpU1VTN3Qxc0t3aDJDWWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-29T02:20:11+00:00",
-      "summary": "OpenAI to end partnership with SpaceX’s Cursor  whbl.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejhSSDV2SHJEdUlBZ1RtYmZQNVR3TjNTMVkwS1BaLWlLYldadFZ1ZnM2NmRsM01BT2UwdVNBaVJMY1Y1RzEzNVQxNkZDZXFHSjhFTHlLeWxFVkZ6T3o4cVZfem9KS2RFWjNnSGZ2Mk5MU0hVTGJaellRZi1rQnQ4enlpeklTUjkwX29JT1I4ZFNpVXoteDFaRlpSNXFRd210QTBuekw3XzRNdkxfS1pSZnZlcw?oc=5",
+      "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0FpdFpiTHhKTkxIbDVYT0hhc0Y4ZFRseXB1QmtJd2h3QXBmWDA1QWs2VVJOQ1N6NU85Y1pHRGlNYW1lOElmdHdkX3VSejI1cWdPMENtenZfcE5UaW1wUnhndm1Cb201MUplR3pyX3NoNUxJVW92TVEwNHZSc0ZHWVNwZjdQLWRRM0ZYQktR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-29T02:16:00+00:00",
-      "summary": "OpenAI to End Partnership With Cursor After SpaceX Acquisition  Bloomberg.com",
+      "summary": "OpenAI to End Partnership With Cursor After SpaceX Acquisition  Yahoo Finance UK",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Ends AI Partnership with SpaceX's Cursor | Finance News - Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGNIaDI4bzdPTVZ6RFVWMU1JRWhNdDBqNmVkQUQxSndlekprTEIyYl96Z1hCRHdWU3ZlTWdtNDZfSUhSZ3F5VEhZY3oxVHplVlRrR1YxN3poR1RwOEJmUmhmRFFlanNOSGYxNnZaU3NNZkx2UkFRR3BJUHVteTJ0NVpYcWE?oc=5",
+      "title": "OpenAI to end partnership with SpaceX’s Cursor - SRN News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YQlFPbEdTVEY3V2hta2JIV2FCMUxUbzg2a0RSMjFXYjlpY2Q4bjQ5el95RTM2cElPeUNmbnl4QTBFdmVheVY4cE1wM2hObFZnRVEyYkF5YXh6Qlo5dDA2c0t1UTRrMmNFQkVXVUVDRXk3OGFh?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-29T02:07:26+00:00",
-      "summary": "OpenAI Ends AI Partnership with SpaceX's Cursor | Finance News  Global Banking & Finance Review",
+      "publishedAt": "2026-08-29T02:14:20+00:00",
+      "summary": "OpenAI to end partnership with SpaceX’s Cursor  SRN News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI to end partnership with SpaceX's Cursor - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSW51ZkREa2ZZT05WbHItSmllX0lieDdpalpWcXVOakpiQkY5U3JBc3FTS2xmSG45UUduMDJjME9ieXdLQzYxSXVGdENSdzE0eWZuTEViMmRIQlhRRFRkcU10M1dkUTdac3FEMjFKUGRXWFpfb0VyeEg3d2MwdUEzM2ZsR3pxOUFxYTQ2d0lYM21GMWY1MERpdDFxSXNKNERlT19JTzNKZG02Z3pqNlBMODI5d1FDeFpCSHZEaGU0QnJQSVc4bGxDNURZVTVSQlhZSjdEbl8wN2tYbjRzN3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-29T02:01:38+00:00",
-      "summary": "OpenAI to end partnership with SpaceX's Cursor  The Lufkin Daily News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to end partnership with SpaceX's Cursor - Euronext Markets: Real-time Stock Market Data | live",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMV9BYUNGQ283UGZmNXd1d2d1TFBiMUcxUm5fbmVCWGlicXNwMWNWdjdRMUdnalp2YVRwQWpIYm5tNWFkM0hLS3duSnc0eWdIV3FaMDVuV1BvREJwOUxSZE1XdThOX0dQLW1nc3lYZndLcXByenAydi1vMDBWRjc5WndxcnJJanQx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-29T02:01:38+00:00",
-      "summary": "OpenAI to end partnership with SpaceX's Cursor  Euronext Markets: Real-time Stock Market Data | live",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash - Reuters",
+      "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-08-29T02:01:00+00:00",
-      "summary": "OpenAI to end agreement with SpaceX's AI coding tool Cursor, deepening Musk-Altman clash  Reuters",
+      "summary": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk  ReutersOpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts  Business Insider…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -177,47 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Effingham promises homeowner tax breaks from part of OpenAI windfall, but there’s millions left - thecurrentga.org",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXh2bkRudWJqdzY3UUJpU1A2RFVmWGcyVjAxRkstdHF5cGo4SlJNSERvUENWeG1xNTE1MmtxX1hYdHVSOUEtTkp0Mzg4X2J5Q2llMkFsVnJtR292WmxkLVJyMWJraFdETHVnVTFfZmE5VjlFRHF1aGtvQ2JQemdlUG9udV93ZURyeTRyX0hMdE0zdmFlbGJyNmVvSHlGeVI4THdYVHE0a1EwdE5sYm5wVl9Wd3JrM3FBZEw4c0dGMGc5Z01PRXRVOXdB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-28T22:03:03+00:00",
-      "summary": "Effingham promises homeowner tax breaks from part of OpenAI windfall, but there’s millions left  thecurrentga.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI partners with FWISD on ChatGPT for teachers. Questions remain - Fort Worth Report",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlIxMXhvWWtxSnJJZHBlWnhramh0V1M2N2ltakV3aVNkbVNOeHJTb3plc1kyeWVweXBVUHhNV3U3cmVwVTVlMmZ1NG5KR0hPNUxqQ0NEaEFwbkhuS2FIcXN3Z2ZkVVNxWGVhNmpPb0MyMU1EdDQ3VEs1cjZGem5BVEhXYTU2NU5uRlJ6Mi0xeU1qTVpLUjQwcGRvc2Ixeml2SjZTdlN5X1M5VVk?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-28T22:00:00+00:00",
+      "publishedAt": "2026-08-28T22:51:16+00:00",
       "summary": "OpenAI partners with FWISD on ChatGPT for teachers. Questions remain  Fort Worth Report",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Warnock Visits Future OpenAI Data Center Site, Calls for Statewide Moratorium - U.S. Senate (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcXJYUUdMNEQ1SmZyRW5hRjNyN2ZmR2lQUlpjd1BkdlNpQVhCb3BEV2dmWF9OYU5QVHNySnlUcHd0VkJ2UXpZY20wV2Eza1E3SC1ncmJiRU9WU2MyQldWVU8wc056cDd2YXEtX3NLTkJpMVRHM19NNmE0Mm15MkJVSVVrbG1oM1pjdEZGVzdCdXpiOGJXWHZYRUx2bWFzaDNKbVl2TDMySlc3c2dBNE9qNDkyZjZMNlR6c0JYdXVZUGhBaG9mOTRITjFYYjc?oc=5",
+      "title": "Effingham promises homeowner tax breaks from part of OpenAI windfall, but there’s millions left - thecurrentga.org",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXh2bkRudWJqdzY3UUJpU1A2RFVmWGcyVjAxRkstdHF5cGo4SlJNSERvUENWeG1xNTE1MmtxX1hYdHVSOUEtTkp0Mzg4X2J5Q2llMkFsVnJtR292WmxkLVJyMWJraFdETHVnVTFfZmE5VjlFRHF1aGtvQ2JQemdlUG9udV93ZURyeTRyX0hMdE0zdmFlbGJyNmVvSHlGeVI4THdYVHE0a1EwdE5sYm5wVl9Wd3JrM3FBZEw4c0dGMGc5Z01PRXRVOXdB?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-08-28T21:38:30+00:00",
-      "summary": "Warnock Visits Future OpenAI Data Center Site, Calls for Statewide Moratorium  U.S. Senate (.gov)",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers - Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZVJZTG1QcVF6RkRSWmdnQU1RWVRvYUNsYWRDSEh1OUoxOVdBMzBpblhsZFdEV3Nlb0dIVXY1c1hielFwSzVmLXh1eUhWZVBLb2NrMmNublpJNFZ4eTFOODZ6MWhuV0Njakx5QjVWekQ2ZEZvdVpYU3NjTXprVGxPdURhMUQ1V0pFX2JJVHdwNlFra1k2SUdCNjZ1aHF6Y1J1cExOVXJFVjVLdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-28T20:45:52+00:00",
-      "summary": "Hundreds of OpenAI Agents Invaded Hugging Face Servers  Dark Reading",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Georgia Power, OpenAI contract approved for Effingham center - Statesboro Herald",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUZPMDRMTHVJUC0tc0JncHhXR3U5akRRN1pfakhKNU5iTGNuTk0xNFpoWmdwZnZXMFhZMkxMNFZvUDhzTDN4SWJoNDNYYzRPdzVmZlBjMkx1blNjVTdMOTRLVVA5blZMdWZzSlJnRzA1TDRwRDVTNUwxQ0xVZUxTeFFDTTRXRENtNGxtdlhBYUNkbjVBMkZ5aEh3V2o3bTFf?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-08-28T20:16:57+00:00",
-      "summary": "Georgia Power, OpenAI contract approved for Effingham center  Statesboro Herald",
+      "publishedAt": "2026-08-28T22:17:28+00:00",
+      "summary": "Effingham promises homeowner tax breaks from part of OpenAI windfall, but there’s millions left  thecurrentga.org",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
