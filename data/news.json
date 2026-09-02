@@ -1,25 +1,61 @@
 {
-  "generatedAt": "2026-09-02T01:03:12.700223+00:00",
+  "generatedAt": "2026-09-02T05:44:07.816185+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenClaw 2.0: Every Major Change Explained - Intelligent Living",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwaG14ZDZ6ZFM5R2QyZ2tXM0dETTlwY2x5OWpMN2g2a2R2aFJoZk9IQ2pRTGVtNGdqUGZUZWN3SE13UTQ3Rnl0REhJMGJiNnRLSnVVR1hyVFdBX05WTjhHTXNjdk4?oc=5",
+      "title": "OpenAI integrates ChatGPT for Healthcare with Epic’s EHR system - Adgully.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3REU1J1RHc2ejBzTUcxcHZZd3g1bnVMNXpoTUtUcVh6bnV4eXBiRVI4VENHam9Sc3lpWjRqN1RUNGdNdzJ6QlY1QTdNSGVvWHZ0YlFGNHVWTnRYV0xLR1R1ZHV3RnJpamhKYjRJMHFpb3pZSUUwNmt0eVJuS25jZ19seDNlQmV5aFVKcU4zMEFkRzJzSUVYLUdYYnc5dw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-02T00:55:21+00:00",
-      "summary": "OpenClaw 2.0: Every Major Change Explained  Intelligent Living",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
+      "publishedAt": "2026-09-02T04:57:00+00:00",
+      "summary": "OpenAI integrates ChatGPT for Healthcare with Epic’s EHR system  Adgully.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
     },
     {
-      "title": "A Technological Reckoning With No Great Answers - The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWnR5ZTZHdlB3SFBDeFh6ZW56QWV4QUZMLWpvT0M3dHl6RDJhX0FiR3pjTFJza3FfeHhhUUZZV1FhZTVQb1AtWlJlOEJNc0p0cXZtMGdwMENtVXU2ZjJJTU02NlVsVzVQb0xEWklxQWtXZWVzYUNHQ0tPVlYwN3p6dmhTQ3REcmV4aklVanROQQ?oc=5",
+      "title": "Red Alert: OpenAI is poised to cross an AI safety redline. - Marcus on AI | Substack",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LMVdwV1NoSTBFUVBRekhPVS1MakJVb09aZ0lucGdIbTdDaW9ZTHFiNmx5dzhxOXZ6ZEdyeVN1aEp1enNqZWtVUDctS2FNTllqeEJHNG9fQmltSjZsMWlwcFl5aW15MWVUSjVheEpvWEt0eUcxdm5TVg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-02T00:16:00+00:00",
-      "summary": "A Technological Reckoning With No Great Answers  The Atlantic",
+      "publishedAt": "2026-09-02T03:22:41+00:00",
+      "summary": "Red Alert: OpenAI is poised to cross an AI safety redline.  Marcus on AI | Substack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to limit access to Astra's most powerful cyber capabilities - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vUDJSa3pzaldMSHhFdWNtYTE4MW1aSHdlRjlfTjJsZXFvdUZyYmVRNGpWdGY2cTlaY0F0RDQwTmtKeTN3MkVFQ2N5eEQ5T2VPRHUybjlUWG9LUXZvbmIzbVl1eTZFekpyOF9qN3F3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-02T01:32:39+00:00",
+      "summary": "OpenAI to limit access to Astra's most powerful cyber capabilities  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says Astra Crosses Critical Cybersecurity Threshold, Finds 2 Zero-Day Vulnerabilities: how 10 outlets framed it - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYmVNbkRTV1E3Q3hUOFh3ZTRETm1vQ3BtS1k3b1g0UDNEUHBMZXhMY3dPNEl0Rjg0QzhBTlNrdnhwVTF6T3VmcWJpZnM1cmN2U1RnY2tmcGIzMGlJWG5rUzFvd2dwRTJrTEx0dWlTcHpMVGs2QTRSRW0wS1k5aE5oM0J3UEFlOW5mYUxablhoQklsMGZQWFMtdklob3kxMEZtdnBBU2ZMdlphSjYwOVNrU05HYVFDRnF3bVpjcVZ1U2dkWGViSFV2Tjl5SHNfa2IzNlF2T0NTb3NkTV9RXy1ZRDBtUXpjd0VlT0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-02T01:32:08+00:00",
+      "summary": "OpenAI Says Astra Crosses Critical Cybersecurity Threshold, Finds 2 Zero-Day Vulnerabilities: how 10 outlets framed it  NewsCord",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "eBay, OpenAI and TikTok join Asia Tech Alliance - TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWxnaGdyUGFIWWtnRXdra0NvVS1iMzFjZXFZVXpFUDQzb1RLTm5VY1RIaXdKTURDTUd1bkNodWNMWk0yajdSS3R1LWlXWGw5M2tBQlF5SVdZMWdtd3NKaEU0QzN5ZEduSjNyeUhNVURod1VwZVduX2hrV0RRTllvMDVraTY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-02T01:22:23+00:00",
+      "summary": "eBay, OpenAI and TikTok join Asia Tech Alliance  TNGlobal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says upcoming model is so capable it requires stronger guardrails - WTVB",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGt1Q29DZm9wQWJrZE5udktlRVZoemFVVzZ2UkEyZWFNQ0IxWnh0bWNTaWUteGJlWWdYVEZTOF95d2ZRRzdkTEd0VnJsQ21IZEpYam9BaEtoWWxrak5MYTFCOW5YRE04bmVWRmdFOVlwZkxjMVBibGM1cmh6YzV2NTdaZjFKcUtyZ0ctVXpZMUFCODQwZjd3dDJpU0Z2UTZSaUhpNGln?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-02T00:13:25+00:00",
+      "summary": "OpenAI says upcoming model is so capable it requires stronger guardrails  WTVB",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,15 +87,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Apple’s OpenAI Lawsuit Gets a New Twist: A MacBook Full of Evidence - Appleosophy",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFJOVTk1Q3RhQkcyWnc1UXZ5X3ZFX1NFVWhVOVQtNlZLV1NPdFBiSEZ5bEMzek1RWS1NdEFRVmRNbmw0QjFNanEySGNITVlDTXIzR2N3cGNrOF9vcWsxUU1iNjVkNDVyRzIweHlwWUo2aXlKdGdvNkVjanhTeHA5Ujk2SXl1UDQxYlJjcTZZODY0alc0WHlHN2dpY3lBMEt5YWM4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-01T23:00:42+00:00",
-      "summary": "Apple’s OpenAI Lawsuit Gets a New Twist: A MacBook Full of Evidence  Appleosophy",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI to launch its competitor to Anthropic’s Mythos ‘soon’ - Forbes Australia",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2gza0ljNlNZTjl4aXJwWmUwWUtRX2FPOW1WbThPejlKRGJQWVI2eUI2dE13YzlGTm5BYnZqaXdjWkRLMFZOd3ZtbHdDNmZaQlZCdkV6R25MejdiY0prYmkzUnN0bWpzcDdJbl96ZWVDNkVoek5BZGktdzM1U2FGVXZZS1VPUnYtNVlhcWtucUFsUlA3TDBDS3NlUmg2czktNWc?oc=5",
       "source": "news.google.com",
@@ -67,15 +94,6 @@
       "summary": "OpenAI to launch its competitor to Anthropic’s Mythos ‘soon’  Forbes Australia",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TYkE3a2xadWdfVkRpOE5yR1l2VUcwV1pBcUsyaVU1VEVORXVpS0l3YlJyWkp6RVpsSzFVVTJ1RUh4N1RIaW1UTUJGdm8zRUdGSHNaOVlNbXdOa0g1Nm1seDhWSnNqX0nSAW9BVV95cUxPOGZqb1dONWhmMEtpY0lJckNmUlRwSEl0SjYyUU1JMTVBLTVoU0lKVkJXeVR0ay1nSi1rQmVHVXZOT3ZERHlYeTNYN1FTOEtXOThZSnZCYk8wTE9CTXJGejYxT3FfZVZ1dldZcDB2MWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-01T22:16:04+00:00",
-      "summary": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes  Decrypt",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes - Yahoo Tech",
@@ -87,74 +105,56 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI Plans to Limit Astra’s Cybersecurity Capabilities - theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzBVc1pDY1BvYTNlXzhzdXVlSXVGTXM4R0duLUxGTlg2dUl3Z0tPYzJ1ZlNheGh0U0Fma0lNazRpNDgxdmJhWXRhQi13Ti1xbXR0RFNwWkRFX0hNTGpRRmhCaDZtLVRJV3VpaVJqdi0xQXZXTnhpOG5tMVpjYXFkcFFBZ2lIOVFwbzZkZ2taSDV1c0VQeGdRWg?oc=5",
+      "title": "SoftBank's SB Energy Files for IPO While Admitting It Needs OpenAI to Pay Up - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdUtkclBKbC1ZNDQ1Y24zamdDaUFaTXNPN2VTQzN3YWQ3VzNGcjFpZ09ZS2x1XzQxUEpKS3BFSFdxbUN2MmtCU184anhkYU54S09OWmJWZlV0QXhOdmtkNkljVk8wa1pyVlBoeFR5Q1FvRmF1U1hTWEN6cUJHZi11blIycEZsMFVGMnBGLUZ6cXhBdG9zcHJ5ZHU1R1dmYWJhYXA4XzV3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-01T22:00:00+00:00",
-      "summary": "OpenAI Plans to Limit Astra’s Cybersecurity Capabilities  theinformation.com",
+      "publishedAt": "2026-09-01T22:07:54+00:00",
+      "summary": "SoftBank's SB Energy Files for IPO While Admitting It Needs OpenAI to Pay Up  Startup Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI confirms Astra has reached 'critical' cyber threshold, but will be available soon - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KWlBMeEowVHg4LWFva2xzRHE3T3k4R0RnYkRFRTlZVmtPaVp5UmM0R3N3a0Q3R2tBR3VmVFhabHlMT01LUHBRZk1JdWltazZXckFncVpBSm0zVVdsZDJSWmEzbzFZbE9YZXV4VG1fYXQ2YzBC?oc=5",
+      "title": "OpenAI confirms Astra has reached 'critical' cyber threshold, but will be available soon - Mashable SEA",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjBhcUp2dWM3LWlEN2lwTlF5N0REVnd2NjFwa3NoN0plUUpMWW80ZHp2XzFyMmh5UWNnaWt1VWVFTC1KTldBTkZpMC1peEZlU1c0d09HdnVEWHpCTnZkOVNNcUMtblpyMnRmVU02WTlQYzFVdXp6QTZiWTcxakdZeVdreEl5NFhhX1dObUpQRTAwbC1WUHRidmxRVTJOMEREaWdzakROV2V5RVdycGRJMDVpcENaaHRKZ1BiTUZn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-01T21:49:45+00:00",
-      "summary": "OpenAI confirms Astra has reached 'critical' cyber threshold, but will be available soon  Mashable",
+      "publishedAt": "2026-09-01T21:44:34+00:00",
+      "summary": "OpenAI confirms Astra has reached 'critical' cyber threshold, but will be available soon  Mashable SEA",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Astra is a mysterious new quantum math-solving model - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3puSjBhcy1TRmloVzBfNlA4LWlsUEI5NEVzRk41SDFnVmdTS3Y0eWpuVkR5TkFGZ3N2cHYwYnN5WVVncjlhYWNXN1NmZ1ZIRGNTOWFQeHpmVGgxZGo4SGlLekF2MU5ZQUxDV2puZ3ZRY1dhUG5kSmlfYnBCTERRWkZn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-01T21:17:27+00:00",
-      "summary": "OpenAI Astra is a mysterious new quantum math-solving model  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI data center chief leaves the company as exec exodus continues - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkZGT1FPQmRON3pCeDNFYzZCZ1h3YlJOVm5WU19wTmx4em5RRzd4UlBNb0ZpVTdEb0htSUlibm5QRzlrYzNudVN5WkM1b3F6RjlmLXRxcGh5eUMtd09tNEZkNWRDTWFhQjFhdGNBTmx4bXBtVURVMkxmX0VGZjZEWFZSZFN5NHo1dkFuZ19hUE9WNDlyWGJ4X3Qtbw?oc=5",
+      "title": "OpenAI data center chief leaves the company as exec exodus continues - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlROejNrRTg4SEdfeWpOcEpELXJjTTViT1FKUk9ZTVAyQVZhbzdKNGQwRjFqcDVSR0Flc0lCaHlRTVYwakJzZndGNlowdm5sem1ocjFncXZJeWFqWHBSOTloQzNtWXFsWFRMSTF4QTJQZ0NNSWxkTE9MOS0xUW10akotWE52ekQyWmNxcnZCSk1jcTd4cVo5VmdWZVJMTHM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-01T21:10:00+00:00",
-      "summary": "OpenAI data center chief leaves the company as exec exodus continues  Yahoo Finance",
+      "summary": "OpenAI data center chief leaves the company as exec exodus continues  TechRadar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Cursor Pays The Price For The SpaceX Acquisition: No More OpenAI Models - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0NSQ2tucGpQNERScmg1elVlSXdqenVuVmd2dS10TV9vUmJRN0lTYXMtWUl1WDdsbTFzLXFsV2RKSHk2ZXVObk9xNVZOQTdPUnY5dVRfdFdlU2hucnRkOFBTS3YtYkh5dWw0VzVVYi1lSS1fVzJ6WDItQVlXdXBuUE85aE9uN3hESGNRTm9Ya1BVX2MzWV9DWEM3TzJmWjVVQVdtVDdyVVBCSEFLcGNFeWE1YWlPX2xnMjZhNGY4OA?oc=5",
+      "title": "OpenAI Astra: All about the quantum math-solving model with 'critical' hacking skills - Mashable SEA",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnVaSTVrWTV5Z2FiTkU3akJ2Zl9wUE1nd05ZOVhZYmhnX0FtQkFOUmJVNVRfamV4S0dkUEduank2eGo0M0xQN3JsMWNvYXFfZ1RsSmRuUU02R1hwUEt3VXFleHZwYlM1T3BIbUQ2T3c2LTBUQmdFUWloMmJXeExRSHljbVk4Z2E4UjdLTEluNS1vRV9jMWRWbmQwSmNUZGZpMkJLNFdyZlBFSEZnamFFbWRpRkQwaWdTUXc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-01T20:58:46+00:00",
-      "summary": "Cursor Pays The Price For The SpaceX Acquisition: No More OpenAI Models  Forbes",
+      "publishedAt": "2026-09-01T21:08:06+00:00",
+      "summary": "OpenAI Astra: All about the quantum math-solving model with 'critical' hacking skills  Mashable SEA",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI says upcoming model is so capable it requires stronger guardrails By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSlJ5dXYyRUNtdk92NldDbFRqRmZxSW5sTGZWdnZoWWtHQXVUWmxnRS1wbkJZbk9lempQVWJzTWFHbU5RRkpxVDlZTGVKOHhuN21uUW1ScFRueFg5MzQ0STJlSklCNERUOHFkeUljSDk3OUtaeDhCQi1MR3BucXRWdlJDVlFHcWk2bWNQblI3aHZBMmZUUllmaUxCN3FuYW9paWdQZUQ3SE9XWjFRVFlLTjg4QjFXMmlwTTNCTDJzOW1pdw?oc=5",
+      "title": "OpenAI winds up on nearly every side of a data center developer's business - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSlkyTFFPVlRwcDF6S3ZCdU0zSDR6czBsaXUtdjh3SmJldFF2a0FXRnQxY213dEFORHI4cjZDZWp4RTlvOVNwRTBSSmNScW1VWm9hVG1hbUlMVFAwOEEwTGoxTWJ2NG9xbjBObzk3TC1QeXFkc1JvLU55ZkpjN2pVLWptU09JbHVmN21DY1Fn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-01T20:58:34+00:00",
-      "summary": "OpenAI says upcoming model is so capable it requires stronger guardrails By Reuters  Investing.com",
+      "publishedAt": "2026-09-01T21:01:00+00:00",
+      "summary": "OpenAI winds up on nearly every side of a data center developer's business  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI to Restrict Astra Model After Rating It ‘Critical’ Cyber Risk - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXdkUXBFa3JydUV5THN1WFFmQ19KRFdIVlhuNVMteXFURTB3MVF6LXRFa3BRQkI1MUJ3OG5xNUhaaFE2cTAxLWpTOU5PODVMdlA2RUQxMVNiMEtkZTlZdDdyaHdZS2w3ejBlSVZ5czJWdEhpLV9JdFNnaU9EOTIzZ3F1SmpjbVhlQjFQc3NDaFc1V3N1YTRUbUFWenA0dDctYXB5MC13?oc=5",
+      "title": "OpenAI Brings Epic Health Records to ChatGPT for Clinicians - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUx0ME85Ykd4Y3FHTy10ci1UQXl5TnZUUVVxX3pCSXBhbndQT0FKRk5wZlBITncybmxfUnZsd19zS213R2N3bkgxWVNKRjFDX3NQdlF2Z3JIb3EzMTJ0aG9YVDNtS0xtbWk1LWMwaFBBdmtSQVJDeUtHTzNXOU8wM2dJZVMxbW5PZlZRZHBacUdsMUgzb19CcTJabTV3NllEWWJCOGpVZUY3dmVqN092bDFETVRZODJZ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-01T20:54:00+00:00",
-      "summary": "OpenAI to Restrict Astra Model After Rating It ‘Critical’ Cyber Risk  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "War Department Adds OpenAI, Starshield AI Tools to GenAI.mil - ExecutiveGov",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQnQwcWJkdDY4LXdsSHpBNTlCUG9ZV1hUTEhLR0RVNE9LcEd4WC1lLUtUVnNyMEVtaFhYdmZYTmgzWEpEamdHMFc2ZFZfeGJEeE1fajJGdkRrOU1qby1RVjY1dkt1Wll3VW1Zb2NyZVZESm1SaEl4dEVUY2NyVXE0ZWJvbHA4NTctSHlVNGNjMGJ5ZDRuZXJLVUVzU1N0V212VGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-01T20:48:41+00:00",
-      "summary": "War Department Adds OpenAI, Starshield AI Tools to GenAI.mil  ExecutiveGov",
+      "publishedAt": "2026-09-01T21:00:16+00:00",
+      "summary": "OpenAI Brings Epic Health Records to ChatGPT for Clinicians  PYMNTS.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -168,11 +168,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI says upcoming model is so capable it requires stronger guardrails - Euronext Markets: Real-time Stock Market Data | live",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY1dRWE5WQnQzc0NpU2phU083aC1ZUG94ekpaaVFZazFvdkxoZkN2TlVOSk84NWFvT0stOHJsblp2ZmhBckljOUY4QkUzQ0RJY2dpM1NjSVFkdWpoSXJEQm15M3N3TjdURlRta2VFdUVYYndYSF8zbjgySDV1aHVUYlpSemlLdzRSZFBCX1R1TlIzWDROS2c2UDUzbHlmWVpNYXZ5WGdtOWliNHNqeU80YmhYNA?oc=5",
+      "title": "OpenAI says upcoming model is so capable it requires stronger guardrails - 1470 & 100.3 WMBD",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHYwdGZoQ1ItamlFZXF1S25CV0w3TGJGT3Bmd1Zqdy1WNWFfWnVZNDQ1dWtocW5PbUJocFRiaHhOOThHanVsNWt4SERqV1E0TUNDSWkwVFZGbk9MY1lHV1QtendWMlFiMTVDNWU5Sktya1JRUWlJcWVWQ0MzbXl5d1hrRzZDano3dkY5UDlmVVlYMEdsb2ppT21mUFh1Z3Nsc3ZMc1Zmbk5KUQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-01T20:13:53+00:00",
-      "summary": "OpenAI says upcoming model is so capable it requires stronger guardrails  Euronext Markets: Real-time Stock Market Data | live",
+      "publishedAt": "2026-09-01T20:38:08+00:00",
+      "summary": "OpenAI says upcoming model is so capable it requires stronger guardrails  1470 & 100.3 WMBD",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-01T20:11:54+00:00",
+      "summary": "Path to Astra: critical capabilities and frontier safeguards  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -181,7 +190,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-01T20:10:05+00:00",
-      "summary": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability  CNBCOpenAI to limit access to Astra's most powerful cyber tools  AxiosOpenAI says upcoming model is so capa…",
+      "summary": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability  CNBCOpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities  WIREDSecret Technique Be…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -195,29 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFE3NkFwdlQ2WktBelBib0paY3NRUVhCZkRuZF9laks5ZVd5MFhCd0JHWjlqYjF5a1F0WC1GbE5NalgyVEh4REhiRG91TVZFZWs4cUVsWkZBM1hKbnlXRXV1c05NSHVIaGlJUTg4eHpLRTN5QlpXVnpUM2tXY2Z1SWhLSWVzOTROWldMUHdzQQ?oc=5",
+      "title": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDd4bFMzMm1oeFc0Slp0S1ZKMVZEd2Z6azJMTFRqTFl0S056WE51dWk5OTRUYWFsWE5nZVVORXprR2pub3JiRmRUQ3hlc1l2SFVpVlprdGFDX2JpV1RBZGJlLTZ4NEhITTJIU1M1bTJubWhYVV8wWURteG5sejU3OXkzYkVjLUs0aEFwR1NUbFZHbjhhN3FrcF9UbE5Gb3hCRkNLek96NWE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-01T20:00:00+00:00",
-      "summary": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities  WIRED",
+      "summary": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeC1vX2J3c2h2dWhoR2pua1hJbUx1TllLOGZoM1Nzai1VYlBZTU1rY09BY1Z6N0QzLS1vTVJabGY5RjQzTk1yWmpRQkFwSWZjZl9SRkU0dDFKaTJ4Z0NlUkdfbmYwTlVQTmJLcWkzWWpqNk54VzNJeUwzLXBsWEtVRmc2V045UjFfSVJiTk5PZ0NtNU94SVhr?oc=5",
+      "title": "ChatGPT for Healthcare unveils new integrations with Epic, public health data sources - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSTR3YUhxMWZwb1NNeU5xSXUtX2piZndHZDliZ0phWXNWVXhoSWpDc21YSnRxMWt3NkNjMEtEN0toMks1Q2N3Z2JhTEtkRjVqU0U2VVJwS0RlMTM4ZFVIcDY1NjV1ZGJwZWc2ZDd5Rnl5N2M2bUh5Tk81d1NKZzU5WnVkZjNhNllULUJOMW4ySUJxSmkzQmxqM3pwNUlMel9lMUZtYi1vRW50Y0R5SWluNW14N3VLUk9RZlhVR1JiT1BiYWZhX05N?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-01T20:00:00+00:00",
-      "summary": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns  Yahoo Tech",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Fires Back at Apple in Trade Secret Case - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ2tYVzBHdE8yb1BCNFhDX1lUbkJvM0lyandxUnlWVk44eHNhLTZocmk2Tld3bk5NLUZzZU5vWnBrME00OUx3ZEdzNXJaRUx1WU1tenBOZy1TbnhIbEVOMXNDQWhvTVBKOVp0UU1nSWNuYjMycXF4U1ZDdjVJOWNtRUkxd0pSX0lvR0h5OFVMR1B3RU55MGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-01T19:26:33+00:00",
-      "summary": "OpenAI Fires Back at Apple in Trade Secret Case  Law.com",
+      "publishedAt": "2026-09-01T19:50:00+00:00",
+      "summary": "ChatGPT for Healthcare unveils new integrations with Epic, public health data sources  Fierce Healthcare",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
