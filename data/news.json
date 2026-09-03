@@ -1,8 +1,225 @@
 {
-  "generatedAt": "2026-09-03T13:54:42.557095+00:00",
+  "generatedAt": "2026-09-03T17:28:15.920018+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
-  "items": []
+  "items": [
+    {
+      "title": "OpenAI Ditches $1B Cursor Deal Over Musk's SpaceX - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmY5Vy1MSkxPQW9Xdmx3TUo0cFhlQmg3NlVYQ1R4M3paS01JV2stMVBTYnZFSVZNbXpLMno4VkNHZkJOUHhFUkFwTGFmQnJmeTgzdG1SMWFVdjAxUU9FU0NIZUdXUjQ5NzMydE5HWkFydE1BYnVNTTFiTEFVMHVDc2p1a2cyRzRw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T17:14:00+00:00",
+      "summary": "OpenAI Ditches $1B Cursor Deal Over Musk's SpaceX  The Tech Buzz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-6 / Astra Could Launch Today - The Neuron",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MWUVKUHpvX2dwX3lBV05jSzhwQXBKcjBSWEV2aHYtTEtzbVVRMU5ic2daUGVLWHhmS3Y2ZmM2YWJLR1h0cTgweWR4U19sQWd4b0RPX2NoS2RNOWpsZkpiMUlPdl9tWW44WlRVRzA1aElrMG4wZU1j?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T16:59:27+00:00",
+      "summary": "GPT-6 / Astra Could Launch Today  The Neuron",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Major Outages Hit OpenAI, Anthropic PBC and SpaceXAI on Thursday - Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRkRYOEhINzJ3dEdhZmJQUVpUMXFsMS1mXzlSM1NEbE5UZTFKNVpjdmtDbUZCOHJyLTdzX0xqamN3MUlfaFVzMWV5V01qdGpxUUlNX3c2VXBOUkU2bGdFcmFqNWtsQTVHNmpSMVJJbkFhRkF1TDFPYWdPWnBhVG5KYzR5TTNzQWxSbmhhcDh2N1REdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T16:55:26+00:00",
+      "summary": "Major Outages Hit OpenAI, Anthropic PBC and SpaceXAI on Thursday  Briefs Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Are ChatGPT and Claude down? What to know about widespread outage - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMjRVbEsxN2o4a2ZTN3dqQVRYM0JOSThrcHA2UVQ3Z0E3R2JpdTJhZlNJX1ZqelUtTXkyd3pGSUR0OWtKN2VESEVqYy05dnB2NFBoc1hoVGE1YUgzU19OSjQzNHhpOXZrRnQ0X21LbXpXMXJ3V19aZXl2U2dzX0pTREJzeC1Dc3FiTFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T16:52:00+00:00",
+      "summary": "Are ChatGPT and Claude down? What to know about widespread outage  USA Today",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman Says The Next AI Models Will Be 'Sobering.' OpenAI Is Already Slowing Down To Keep Them Under Control. - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN19faGFGTkRGUVNnXy1qa3l0ZlFVQmZfWGlHWU5PTVpNQ1dUbmtZM0RobzhvR3ZMN0E4S0x2N25wRnNzanQtaWhPWFFzeU5MNGwtVHktUUhUb2RZYWV0cVVYT05CZWtKTXpjN09ndEhtSWYtNUwwMzljbmgwblBqR0NLS1dmYlJ4cENzRmxmNndvRExVZjRPOENVaEVqX2RXbWcxZDA4bE92ZzNmbmdZYXQtWHdnTFpjT2ZVdQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T16:43:03+00:00",
+      "summary": "Sam Altman Says The Next AI Models Will Be 'Sobering.' OpenAI Is Already Slowing Down To Keep Them Under Control.  International Business Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "US Government Sides With OpenAI in Fight Over AI Training on Copyrighted Material - Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlZVelJjemx3R1ZSU2VscE1qdDN6MVpFQmMzNmtDcktmZ2dteEJQX0ZON1luWTJJQ2VyTVZybGdhWldpdDlKVnpfSEF4eUtqMG5zTGR6ZE5aZUdmcVYtUFhoMGtFYXdfbURSZEtSTFRMdmJ4WVhaOGJfbUJaTUNiY2Y4VGVDSU9qUXhacHJLSXpFTjNzRHFnT0RENmFVd3FyclhjZUZYVF9zczB6SGNn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T16:23:16+00:00",
+      "summary": "US Government Sides With OpenAI in Fight Over AI Training on Copyrighted Material  Gadget Review",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is Hoarding Mac Minis for AI Training, and Apple Is Quietly Winning a Race It Never Joined - Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFdYLVI5ZDFlMGY5c2VTcGJaaUVSVkpvUnNueU9zdWhNSXpfYVFpZW80Q2dIRTZKY1pSN3N5OEx0ZGZUYV9hUW5mbXktal9Lb2dQb3FzNGhuM091VEFJeWxGeVVFaFdVWXdpbWNoR19ISTJ1YVBNbllrT3ZKTFVIWjdSV3BsVkQ0VkliU1Fid21QMFpKakwzVmFUSl9DaUcxRHVfRW1zOTlQSG5hVjNSQ0tsaHVRYThfV1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T16:09:37+00:00",
+      "summary": "OpenAI Is Hoarding Mac Minis for AI Training, and Apple Is Quietly Winning a Race It Never Joined  Memeburn",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Is ChatGPT down for you? Here's what's going on - androidauthority.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3S3QtRW9TMHFkNmVHUFV4ckt5dmFIaU8yYXRsWDlCYmZkY1N0QWtJWWo3SEZycUt3QVY1TS1mY1FnWWt1UVBkejZ3ZTFDZE1OSmVaWi1vbEQxWHZSTDEwR1BGSHVKZE1zUlVTa2JsNHk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T16:05:00+00:00",
+      "summary": "Is ChatGPT down for you? Here's what's going on  androidauthority.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Investigates Elevated Errors Affecting ChatGPT and Codex Services - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VaVVaaDVtQVZqM1N3c19yMldBZk5TUVMtSDJZaUdUQlRKWVo5b2IyRW5OTUktUjU5UDRjRW1jRUJHX3pHTWtjaURKUHp4Wi1OMmJ0TjZGb3p3Y2E1UmlEVnd5b3Ata0xzZFNPZnA1WDlmYWtH0gF6QVVfeXFMTlJkYmRKOUNzSUlrNzVlTEs1ckdCakp4b2ZSQlZGMkFIV2hpczJBRlowUmJwdkhONWRTUHVKV3Y1blNycHZqcE5pY1k4NVY2czlIVmtVZEFYVk5hbkdvQ3BhaXJrcGRzbVRZaVhWV1lodTNmRmtBQmt0MVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:56:09+00:00",
+      "summary": "OpenAI Investigates Elevated Errors Affecting ChatGPT and Codex Services  CyberSecurityNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta says new Muse Spark 1.3 model rivals Anthropic, OpenAI offerings - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUnZGTmp6a0huTVAwZEp1am5OdWxoTWdUZHpQcUFZODE1bkhYYUNVcGlzaFpxMERvLV9FdVF2NGkza0NfVW1Fd1BETW1RT1FlbWgxTWVvR1NZdi1xbEdxcVJqcVZNUTlNR29BbG8tOEVteHhtUE1Rdk94MFNudTYyZG11eXg1YzEzRzczUXo5XzN2ZG9HNjdIcVF2OWRUaks5RHZRX2w2b0pIeXlWazVzUjBOdmpnMEZIRlpWMk0tZ1FTbjMtbGZZUXhzcUt0RlR4cm5rZGp3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:55:00+00:00",
+      "summary": "Meta says new Muse Spark 1.3 model rivals Anthropic, OpenAI offerings  Proactive financial news",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT down: OpenAI chatbot not working in major outage - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOHo4M24wTkRMWmdDRWVJRHl5T1JDbmlMNFVOYU1BbVk0TzhpbHUxLWQyVVV1eGhlSllPU2pkRDRkb05tcGxJalBTMUxJRDRpLWdYSHFna3hOZkMxd2ItSFI1dkJwYW1RWm5xeUdlTUZYeGU1TWxLQU9NSXdhazNkR0FlTFZwNHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:47:45+00:00",
+      "summary": "ChatGPT down: OpenAI chatbot not working in major outage  Yahoo Finance UK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Rival Moonshot Makes Blockbuster $50 Billion Move - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRndCaHJHMXJORTZWNGVxSG8yaEQwRWdEcE1CV0Q2ZndCTFBEVXkzSVcwWUVUNHA3ellUSTNQN2llVTEyXy1LUktSdE9sMFNfN3NsYi1lOWZLWVpVLXFVbW9WWUlWMmo3VHg1SmhtUXdIdjJsa3NWdmZrblE4WGlJcWhIR1JvXzRpQy1PRERLQTlqOUhSa25ZVUJhbGRfNXgzb1pDWkNVSEFpeGlZclRGSEZOckxpQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:47:02+00:00",
+      "summary": "OpenAI Rival Moonshot Makes Blockbuster $50 Billion Move  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT just stopped working - independent.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa0RtN2R4TWhrRjJRYm5TYjNwbjhod2I0eFJvYk5lNk5mLVJ6NURtUXpBUXJXaVl1TUxZdVpjNUdRQWtuWWwyVC10YjZsbDNBOElGejI1Sno2czQwRTVRQ1FZR255RlFZbDZOTUlTcU5ncEw3RFFjWUsxRnN1Q29sQVZaaWlMZWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:47:00+00:00",
+      "summary": "ChatGPT just stopped working  independent.co.uk",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Astra Uses Hidden Reasoning Loops: Experts Are Alarmed - Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdHdTdlBPc3VibUIyS1lyekhydUh5REFIUW8zckpKQUdHMVNpd3FQYWFIeFpGZTVpZW5PdnNuUDV6eml2a0JaamdlVlJidHZiQ1NhcE5fNEM3am1ldGtiZW01MEotbmVIbnpSaURlQ2UzOTlQQzZ2M1E2YzYtQkF1VGw2TC16Ty1FQ0ZlNllPTGMtVUxq?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:46:30+00:00",
+      "summary": "OpenAI’s Astra Uses Hidden Reasoning Loops: Experts Are Alarmed  Gadget Review",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Astra Uses Hidden Reasoning Loops: Experts Are Alarmed - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQkFYUFpPUzBIX1BrUVhUWnUwaTNnWkh5SC1XbVVCa0dUX0VrUmktZ09naVk2Z0ZldHRjWnhmM3BrNDZLa3l5a0FIWFMxNUxTWGtZbHZ1S00wX2ZSRkxFcUpsU1dfYktKaWoyX2E3eDUtN2FfY2k4TUkyZXp0T1hkNjlUMEdvOTJJdzVXVU5ZbmM0Uk1FSndF?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:46:30+00:00",
+      "summary": "OpenAI’s Astra Uses Hidden Reasoning Loops: Experts Are Alarmed  Yahoo Tech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Astra raises Cybersecurity concerns over Advanced Vulnerability Detection skills - Cybersecurity Insiders",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk1SRUVjUU05c2J2RkFTTU5mQ3NKYlNySm40VU5Ka2NRWUlNeUplZUhPUWNCVTI5a2hiOHE4VEx5MjFkWVp4OTBqTm9QZGsyTmRrRHBRaXFDUnBPNkxzYVdkY0pLS213bjdGdWJidVRvM2FmdkRGVXNTSVFzT0Q5aGswTTlUQ1BUd05IbDFaWV9DOUV5ZkRRNW9teGZvSnFFd2lRS3daQzNZUml2VHdHaEVaaDBsSU5EaFFWN0hfZG9pU2JYV3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:42:50+00:00",
+      "summary": "OpenAI Astra raises Cybersecurity concerns over Advanced Vulnerability Detection skills  Cybersecurity Insiders",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Anthropic, SpaceXAI Hit by Service Outages for AI Models - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHgtQ212elYwVVRndlZ0dGI2bWc0N1NNcUFtbU1ieGxLUHFrMWpwRzNlaDBTcG0zd0NpNXhLakxqZ2xKTWo3OENnaGw5LUNXRGVyeGpiTTVDQm5GdWFzbURyT0Q4bE9nN1kzNF9Rb3BpM3VCZTU4S19IYVZKemt1cER4R0J6WXhZMTJLcHktT0dNTVg5THlfR0hFdmZOX3ZaWm41X3ZMN1ZGY0tOY1NSX2Vmbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:35:29+00:00",
+      "summary": "OpenAI, Anthropic, SpaceXAI Hit by Service Outages for AI Models  bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI outage hits Claude, OpenAI, Grok as users report disruption - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxNGNJMTVOR1pRc0wwb2hDTjQzVFVEaGxKOFNCTnFqa243ZWRIY280YmJWYklveXNWOWtLbDAwbDRLSGxqTUZkV0h6VExQdXRhNnBRbEZHei1fZjZzOWhSaDJjcUx6YUFjRm9OdWJhZnRDdEpiLWxz0gF8QVVfeXFMTUE0MFJtU2hfUUFnU0lrQWlMM19mRUxsekNGRkZ6Y2kzaEMwUHBXS1AxYV83Rm01bXZXTFpLTXpESld4UEhqMmZBN0plRk1lVWxvWHhfZlVMQ29xRWE3NEpDbFktU3E5ZHdyalNsVEY5N3QzUmtLdFlYUUZBMQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:22:35+00:00",
+      "summary": "AI outage hits Claude, OpenAI, Grok as users report disruption  NewsNation",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Faces 30 New Lawsuits Over ChatGPT’s Alleged Role in Tumbler Ridge School Shooting - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUs5ckx0M2t0eHJCdWZ3Z19jR0ZORDBpSm01RU92SDAwVzAzREF6WmdGQl9vN19aVlpBb3llT0tIX2QzX0dSMGRvLWdWZnFzd0hINmxaRXNxQ1dGcTZJZ2RnTVhFX0R1OFd0TkFveW5Sa0NiQjBRMkYtelg2QzdkRlZBUF9XalgwWUstVTZmekJMb19rdEZlRzJtYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:15:41+00:00",
+      "summary": "OpenAI Faces 30 New Lawsuits Over ChatGPT’s Alleged Role in Tumbler Ridge School Shooting  Law Commentary",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOemY0WEdETXpEZDVrRE85UmpXb0pLT2ZOY2NVWUZEZG84MERTdlV5bkYtdm9tZWlOR2h0R1ppejFMa0Z3a050OUw0QUtWalVzeTQ4enFGZGIzRlNPVGl0WXdMSXV6ajFSQXhFcGFLTUI0M25Ld1RwYkI3RGJYd0lGc1NmNGZjUEdCS3dqVk56d25GemJ5NUEzbUdQa1dIbEx2aEMtMm1kZy1rem1QRzZ4QkNRdmx6R2RWMzUzTFRHc9IBxAFBVV95cUxPUFFmTHpKU2NVRFFNcmtVNHJvZllaQ2tjYXlucUFqa1RkdGJTbkhsckNlNXRUWDFmbnQ3dHYyMGsycVVKekxRcVlDZG52akJONGt0UldPV3lHQUZvWTRSNk9sVTJ3OVJra2p6UnV0M0R0MW5BMmZIU2lRSkxqLThJV19YeV8yakpoNGlUZlI3MWNqQ0lhYUFBSkxqRU1JVnpWeUpkVHpIY1JGd184UENQbENyWkhLNXE5WDE2ZWpOV0JBQng4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:13:29+00:00",
+      "summary": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch  BleepingComputer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Down for Thousands of Users Thursday, Downdetector Reports - GV Wire",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0ZPUWFVYmxDWkx3OW9jTjZld1I3NGpDbEQwa2xIRGJVenhTSFRHUkI1WnZmTC1mWVdtdTNudTZXNTVjbTZVWHlZamtoQ252bUhFaEg1ZHJxanNmRTFJSDQ3SjBySkNDSWxaZmFObGIzZHhsVkxiVmgwN3hBSlRFSnB5YUNEeGJ1cnNlbWJkbHBKQXJ1ZHVpcGdkc1k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:06:30+00:00",
+      "summary": "ChatGPT Down for Thousands of Users Thursday, Downdetector Reports  GV Wire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Confirms Service Degradation Hitting ChatGPT and Codex Users - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVFZWT0JYOGNqcFBfZ1R1cThFMjRTOEV6b3ZtcXJmSEpta1pvX0pCa2pvTG9uRGRaMlpKRzhOaW9wMzdROTByOU9nc2pwaHVEMG5Wa3hCQmJrRWJ2NFduQVBDWXBabjMzWkV0R1ozRktQc1NHb2NVTEk3QUQtbG9xNGFIQ2d5aDJOM0ZMWWtiMUcwSFk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:06:01+00:00",
+      "summary": "OpenAI Confirms Service Degradation Hitting ChatGPT and Codex Users  Unite.AI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT hit by fresh disruption as more than 35,000 users report problems - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tVHF5UW5RT01VNE9ZeExITTN1N1JibHZBd3JCYXVJMzZOcUNUMlN3N0V3cFdYYlBSbDdIWmh3alJueHJ6TFVHSno1RHloWXp6ZDZwYU5IbjRoOFNfMzVVc3o5MXd0QlRPbUpUcQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:03:58+00:00",
+      "summary": "ChatGPT hit by fresh disruption as more than 35,000 users report problems  Ynetnews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Has OpenAI Killed its \"AI Superapp\"? - cloudwars.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wRTdzLTlLeEVfWmZ6ekdxX2c1YTlJRlB6UXNuZk1uQktDWFFTV0lmWU9TZlV3M1pkMk5uZHk5MkNEMkVsWGhrenZXSndWOGdkWGFvOXNrYThycDFuYXNUcHBBakVKLXQxeUNv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-03T15:00:00+00:00",
+      "summary": "Has OpenAI Killed its \"AI Superapp\"?  cloudwars.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    }
+  ]
 }
