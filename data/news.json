@@ -1,10 +1,82 @@
 {
-  "generatedAt": "2026-09-04T04:52:50.911534+00:00",
+  "generatedAt": "2026-09-04T09:16:52.433885+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "The OpenAI Agent Breach That Led To Nvidia's $13B Hugging Face Deal — Here’s The Full Story, Finally Told - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlBha25BdnpXNnlWR0NianJKc2EtLTdiclRuQlJRSXpwRUVZWVNXWTNIWUFDOEI4R05hNGgxWmJUN2lTdE4zSzNTYTNlNzFuY0hpcEkwNzFTLVpBS2s0QWkzVFBuTzJQdFhkdkxpYkx0R0lmcjZRWFpZemhTSUVUWkphQ1pVTDdXU3RIWlhvNFg0aGtaZW1yREVKcw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-04T08:08:50+00:00",
+      "summary": "The OpenAI Agent Breach That Led To Nvidia's $13B Hugging Face Deal — Here’s The Full Story, Finally Told  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s new model aces the benchmarks and admits it is better at hiding - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iX3doMjJEQ3llNUgtbzhaemh4eF9hcEVwUTlyWi0waXdTaVBDUkNiV3NTeXl6WmJJQkFpcTNOVDMyTTMwSWZtd2hWeTZXWHpqWV9VOWU3VDlBTEQ1cFBUZm1oNmQyY2RpS1F6X2ZIVC1fWHBoVlVLMmZSTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-04T07:27:45+00:00",
+      "summary": "OpenAI’s new model aces the benchmarks and admits it is better at hiding  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Astra, claims AGI era has begun - BetaNews",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13MXNxZFA5YUJoVW0zUVludFQ5UUFzQ1RzMFM5NU1teVlDNndFTXVHVFRwbXdzSFRIM0NreDhaYXJSQTJQSUtKSFFaZjdFSmNDTWtlNjQ1MjhRU1JNYmVzSXl3Y182YTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-04T07:22:38+00:00",
+      "summary": "OpenAI launches GPT-6 Astra, claims AGI era has begun  BetaNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-6 Astra, OpenAI’s answer to Fable, begins rolling out - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjFuT000U3JhU01tZUtybTNjNERUdVJPcVkwU0ZiVFI3dXpuRzJqVGNBYkh2ZXlQcDJPbjQ4MFdaQk1IbEpldENJdGN2cXNWUHJVVGZrU3JxSzk0WGtaNVAwSkVTcWYxVFVCV3RRSW94dy01S21sSFZtdkVmbC1VdHhDMENHNl85T285c3BEN0R1SERnYzczUHNJbFN0UVk3SW5rNnRkMkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-04T07:13:05+00:00",
+      "summary": "GPT-6 Astra, OpenAI’s answer to Fable, begins rolling out  Techzine Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnlnMTBva2YwLXYzM3RzdFdHY0szU3ByaDRHbGdpeWRGVmhCM1B5bmxwUU5RYVRJTXRSUllPMHpGSnd2VVBmZElzU0FPdzRZSEVNODhXZlBJYjRldXRyRHBzWjB6eGx5MEo3TVlDVWFYVDlzdkxoSEtJOHAzczRnZ2d1VQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-04T06:47:00+00:00",
+      "summary": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests  The Hacker News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI unveils 'world's most intelligent model' Astra with cyber security in focus - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM3pwTFlJR0x2dF9nc2RkTGhMRHM0UnNzb0JmN3JXU2xwV3NyRTYzYmQtaVo0T1pzdW9rTklNWHNQTmFMMjN2d1lTb3BKbVdrOGRXQ1BpUGxjZFpNZmdQOXNCRGNGR05RUHlWSktxRVoySnRCMWRzTFgwU1lmZHhQVDJmQWhJYzY5VjJqVXlDY3hkX3Z3emhjMmw3aE1mbzRqRUJISXB4V0dhMHJKdXVvQTVsZmc5dG9iZXZOUTV4U2xIcTg4N3dLaDZ2eFJOLUdHMDBCcVdpMGo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-04T06:01:14+00:00",
+      "summary": "OpenAI unveils 'world's most intelligent model' Astra with cyber security in focus  thenationalnews.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI pledges $1 billion to cyber defenders, but bitcoin and ethereum are not on the list - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUN6M0ZIUE9OTnNzSzdsVkU1a29ldkd1dWZDV2cyX3pGdjRySDQ4Mld0cUUxY3o5OTR3aThhdG1MME5ybHJjMzVueUtyOXVjSlk0V0VPNFJpclhvaUpKVjdQZ1NqY3BrMGFmODN6Qzg4WFpWaHNqUDdPZUFNcWgxNWdjNUNkR015b19ESnpnQjdIcnNPWnlkV0p5Y0pEd1lLUnp5Zzd5eUFLR2hOYUtpZHN6UmJYMF9nRTgyMUg0Zm5pQkxwYi16Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-04T05:49:43+00:00",
+      "summary": "OpenAI pledges $1 billion to cyber defenders, but bitcoin and ethereum are not on the list  CoinDesk",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says Its Latest Release May Mark New 'Age' of AI - Newser",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkY3RHpwVTBmRFhreXV1VmxlNEFwdlB5Ni1iM1lsMUJTNnNZSEZQY3U5M2JMd2lwMlRLdTJYUHFFSEV1ZmRuMTFBNi1JTVo1SDZ1SkY2TTRZQ0Z0M19EV0FxSW95YVlwZ09rOUtpeGRDbkVNTEdadk1hVG4zbHBqeDRocldITVZSRTVjQWZMMkFNMWZ3YUlDd3dn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-04T05:30:00+00:00",
+      "summary": "OpenAI Says Its Latest Release May Mark New 'Age' of AI  Newser",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI is putting $1 billion behind Daybreak for defenders working without enterprise budgets - Help Net Security",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnBIdTB1V1VFS0hPUGNlNmROWGZsZFc5cWVQNVB6N1U1Y0hrTW9IanF0ZC1VNk9lcUF1c0s5dVhsZU1zYl9kRk1RUU82VzhydlN1TVdXSHZwdkREVm1EaEY4dVgxZ0p2MmxoQWpjNjBYMnZzck9JTVdqMDJGSlY2aVdQUmhDU3h5bjYzb0Vnaw?oc=5",
@@ -24,29 +96,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s president claims AI is as capable as humans now - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ?oc=5",
+      "title": "OpenAI unveils latest AI model amid rising scrutiny and safety concerns - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQk5oaVZYenQzcURybGdyWFZSTnN1SWhYVVJVS1NuY1dxUjhsN3YweU9GSGh2RGMzeEdyR1J4U3I0SHhrMXRaTlFyUU5qMEd3bmxWRk8zSklFTlppMTFzWk11SWJZRzhlcTl5SnJCWXA4QkJhcDdjVllmbXlJQ1BHRHRkNlB5X0N2OHhmRHR2a3ZOWW9Jc2ltVTVzR05OdFA5bDg0?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-04T03:37:02+00:00",
-      "summary": "OpenAI’s president claims AI is as capable as humans now  The Washington Post",
+      "publishedAt": "2026-09-04T03:41:39+00:00",
+      "summary": "OpenAI unveils latest AI model amid rising scrutiny and safety concerns  Al Jazeera",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI begins rollout of GPT-6 with focus on cyber security safeguards - France 24",
+      "title": "OpenAI begins rollout of GPT-6 amid growing scrutiny over safety - France 24",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3R4dkdCUVlrU25KcHBUcWNzQXdYQVlCQXItMnhtaW5SX1djR2xSXzBzNkJQbDdmc2tRYk1kSlFzaUJmWFlNZ3ZOZDNocUM4dzUwcDBGOF9MUFFRblJMWW9KdktLSmZMTFI5NU5oVTVuZmpwaVA2cjdNZzNZSWxvWHA2YXVIalJHYlBIVVpxQ0FRWEQxY0hxZDZXVnBCTUU2Q2JUXzVFY0dOZGlrU2F2Q3FKWjZKVl92Mnc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-04T02:44:09+00:00",
-      "summary": "OpenAI begins rollout of GPT-6 with focus on cyber security safeguards  France 24",
+      "summary": "OpenAI begins rollout of GPT-6 amid growing scrutiny over safety  France 24",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "title": "GPT-6 Astra (openai.com) - openai.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-04T02:21:10+00:00",
-      "summary": "GPT-6 Astra: A new generation of intelligence  OpenAI",
+      "summary": "GPT-6 Astra (openai.com)  openai.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,29 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Why the Hugging Face Hack Should Make You Worry More About A.I. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-04T00:06:04+00:00",
-      "summary": "Why the Hugging Face Hack Should Make You Worry More About A.I.  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOME1hSWlLYzY2a3I4TFBudWk0SkdZWDlVOE96LUJuNFJ0dkc1YVFYQnZBaVRETjc5VHBtUDVod1B1SDhxX0dKMHk0azh2a2stTjAtanNLdjBzLWlNQzFPUGh6TTQzczFzQ1Y5QlNCTlBxelFLVm9yQV9KZ1ZYRFphbA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-04T00:02:47+00:00",
       "summary": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman, OpenAI Hit With 30 New Claims in One Day Over Canadian School Shooting - law.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQmxUY0xFRldBVlpEdV95OWExVk92YWt3WGRTTmFFek5mel9Ic29CdEFCaUxIUDJhM3MwMkJ5NThCOTR2YjV0XzBWQWlsaW5qX3dIUk51VXVWWm5CQlJyNWU4elEta2xBQktmVlRqTmpBenNFRTRHbi1SdFVPUHdtd04zZFBCMFpfSDJIeENGWjBxbXViZnRkZEt2UXEzSmU5OENjbW5KNHRwQ2FwYWRQU2doZjE3TGFycnU3d3BfV2lZR2M?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-03T23:53:40+00:00",
-      "summary": "Sam Altman, OpenAI Hit With 30 New Claims in One Day Over Canadian School Shooting  law.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services - OpenAI",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services - openai.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50NWRBNVBBdWQwaldNTmRJUTVJN0FqNUVRM0ZqVzZKT21ocjlaOUFmUENRRG1PWFIyV003aEdtYW04WUx6VDQ0TzZKMGMzT0RvWFIxSlYtZWhJVkVRdGxrdkc5aVZMcHBsX0E?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-03T23:36:10+00:00",
-      "summary": "Daybreak for Frontline Defenders: $1B to protect essential services  OpenAI",
+      "summary": "Daybreak for Frontline Defenders: $1B to protect essential services  openai.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,15 +204,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI launches plan to protect critical infrastructure from AI cyberattacks - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcnNxdVZfWXZlQklXOW9xVkQ5bE9DRFdXSE9XeU1ndXJfVTk4LVlYNDM3b0dFbWtvREU4NExXT05GS1haN0hjbzM5YkxCa2kycUtJRzZyb3pSMDhHbTZWUXE5Y0V2WExmQ3ZCSHNtTHd0dGxJbzlOVmFSRFNMZnpnQkpxNjFiQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-03T22:52:10+00:00",
-      "summary": "OpenAI launches plan to protect critical infrastructure from AI cyberattacks  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI unveils GPT-6 Astra with major advances in AI capabilities: 'Now in the AGI era' - Fox Business",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2l4c2h2R2JEUTlZSkR4QlIzR1RtN0Q0M2dzMHpGR2o0WGJ0N3hUY0tfZlBZWjk0ZnFtMVFYLUZMVnV4eXpMQkxESWd1cUgyUEFqSE5Vb1RxR2VQaDllOHUyVlpndE1PekZKYTJOMDlWOTBEc0dFMUpUWl9zekhvcUdza1lLZ21wYVNYU2JtY2JuVmljblZQUHdacS3SAaIBQVVfeXFMTlpQdmVJNXpScWN6VnoxTk1fMHctWGpzdC1Ib1FkdVNkZVE1b2RFQ1p0S1lZY18zOHJVOE1IdXVGc01nREQtZlg1R3FhaWRNVS1YRnZ2TXhMYUYxNmstTHVTOC0ySnBsQ1dHc2ZzMDJra1A1RjdmdHB1Q29Ja0tyMDNpZXRUaWR4Q0lnaDdBZlZMMGU5Y01aRzJZTmpyVE95emNn?oc=5",
       "source": "news.google.com",
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-03T22:46:00+00:00",
       "summary": "OpenAI starts rolling out its next-generation GPT-6 Astra model  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI throws Astra into the top-tier model ring - The Register",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdW1NVnJtclZmQV9oSXB6bElWdk44blRKTjFJNWJuc2p0TEhtTHA0LWtJY3JBNXpnbkZWbVlMVTl2MzItT3ZjS0FMMUVOTG4yb21sSlZJTS15OXk4TW82RXljQldUQXA2al9fbllUT3FVYUNxaUJOajJmQmpYQm1wa2lPTl9NcllTX2EyQjFqR2o4R2ZzM2tZdnNBNk9jcTlHcXBySk9iM1U?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-03T22:42:22+00:00",
-      "summary": "OpenAI throws Astra into the top-tier model ring  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI rolls out GPT-6 Astra, and Greg Brockman says AGI has arrived - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2xnd3h3aEJfU0htRDcwUG5Fa196UFp4el8waVhteUxFT1NFY01MdkthWE5yZ2w4dHFhWmRIek5GN29VT2JKNl9qMHY5MWVLMzNGLW1Ud1Y0d0ZBZFhvSjlSbXZVMlpLMmxTOE5IUzVTNENNd3dHYkdud2dDMmxoNjh0U0Z6X1VvdWViOUxobXQ1T1g4X2FraXRnT1F4ZWdwcG5ZUlJ5OGU4djExWnFxYzZGbko0ZkExaVNlWEVRNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-03T22:41:43+00:00",
-      "summary": "OpenAI rolls out GPT-6 Astra, and Greg Brockman says AGI has arrived  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI commits $1B to AI cyberdefense program for frontline defenders - jpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XU1h5V0duWXNfR2tEa1RQaEpaemdqNEV0anJ4UlROLUFjS0NUNWZ4UUJLU2RnMkpPdmlFSDNfeHZYdDR0a3NmQ0w3VmI5bld1V3ZlMkx6Nk5Fb0gzeWZJS3k4cw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-03T22:38:36+00:00",
-      "summary": "OpenAI commits $1B to AI cyberdefense program for frontline defenders  jpost.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI begins phased rollout of GPT-6 Astra model - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblpiRlBJNEZUMzAtcXBsaEhlNFNyWGFmRlJoQmJUbmh1VUVpTW9Rb0taOVV4ckY5OGRfMWkwMDJ5Nnh2YTJrOFktNWpwUVdMUUswZUd1SFdScWJzMHhVYmdSMmNCWThGM2pYekNyaGFqYnFxNl9PblplRU5JbkZQVWdKOEQzT3RMYVllTkh0XzZIRmczYmdz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-03T22:36:00+00:00",
-      "summary": "OpenAI begins phased rollout of GPT-6 Astra model  Semafor",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-03T22:35:35+00:00",
-      "summary": "OpenAI launches new Astra model amid growing scrutiny over agents' safety  reuters.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
