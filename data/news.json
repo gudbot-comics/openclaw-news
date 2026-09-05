@@ -1,16 +1,97 @@
 {
-  "generatedAt": "2026-09-05T05:48:21.110824+00:00",
+  "generatedAt": "2026-09-05T09:27:45.876668+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "Tumbler Ridge shooting survivors file 30 lawsuits against OpenAI - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkNqVGFUQ3hJcXE2dHlvNHg3MDlNcGVDcElCRzZvYXYydEFfNWJ1RWJOOXRGalNIVWUzeVByN25ENm5UMXN1ZkZ6ajQ1UUJLaEJuV3c0ZUhVSndlS2NpSWRmRklVOEFoS0VKRWdrMXotaVJCbTJEelBrNnlDZU9IQkM1QmxVY2ZDVmV1WVFONXVta2dzVThpaExsczBXUDE5Vzk1U0VOSDFlVTA?oc=5",
+      "title": "Sam Altman says he's 'a mega Apple fan boy' and is sad they are suing OpenAI - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUUFDbDlnR0pRbDdOZTd5MnlZUk9jUUg2RnFmN0doMDRHMjRyTmhMMGFvZ0FSSnhkdWlHcWpuQWJJNC1DeUpqRTlfaTc4RHJYMnFCaUc2dm5FUnlFdDVTT2syY3I1LUlpMUNjR0VfS1JFNnlVMC04SjhoU3M3TlJWMWwxSklESkM1MlBZ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-05T03:47:04+00:00",
-      "summary": "Tumbler Ridge shooting survivors file 30 lawsuits against OpenAI  The Seattle Times",
+      "publishedAt": "2026-09-05T09:01:21+00:00",
+      "summary": "Sam Altman says he's 'a mega Apple fan boy' and is sad they are suing OpenAI  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05RjMyVHJhdDZZR1dwZ1JKT2M3akdOQTh4c0w2aU8xRzR2MmR0N2tIWFpIUGVCVjFFUGFQZlJCWDVXcllQQXRWMFdOdGlzbTJXTEc3OHFJWHNuRVlkWUNqS2hza2tkUW1DcmZfNWdlVDdRM0E0eFU3cl9ObEs5UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T07:55:00+00:00",
+      "summary": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel  thehackernews.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcTJoZTEybW1fd0JJN1dXaFJMclJWTlh4R1lUTlZ5QURISmxaZGhaeVpfd1RRNW1jdUhSUDRKU1g3d045amdRUWsxdGNFaWY1V1ZFSFBvTmZ6T05VMWRTWEY4djRsbEgxV3FMMzUyYlVUeWpMbjk4QThadUlMeWlLLVd0ZEJHWDJyZjZnOWEyVGhxZnNXNzdwRWFfakVrOWs4ZEpxNFBoUGhzZi1JLUJhcg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T07:41:39+00:00",
+      "summary": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Which Investors Will Get Rich From Anthropic’s IPO? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTR5VzNmN3BqcWFjdy1mVHBjNzVSYmxwN05WSTlZZ05qa1Joa1ZJalBmYlI3bHJOU3YyVXJ1eDdFR2lsNXFSNEdpbExjSFVtbnE1dEh0ejYwbDVhdEEySVczYTZtc1pEZEZaWlF5clZOTWppWXFNZHo1WGcteEd1YmhEdUVEUklKaXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T07:18:02+00:00",
+      "summary": "Which Investors Will Get Rich From Anthropic’s IPO?  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T06:54:46+00:00",
+      "summary": "GPT-6 Astra: A new generation of intelligence  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Seattle Times, Newsday sue OpenAI and Microsoft over AI training - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHVaaWwzSThHeURhUGNRTXRNMmFQeW5LVXVKc1BkSlZyb2k2R3pTTFpHSWpzd2d2NFdqUG01MGx6aVdvRzlGVmVBOXhmQTJvSjdXV2I5M1FGZG5BSF9sc2w3eWNoLTJaNGxZLUpqTEFPOHpSVm43angzTFBHS01vMjhkRUMwSXBoRjZXODBiNjhja1ctbWZ6bEVuWkIzdUxzYW9WaHQweGtBX0d0T0FFWnZLNFYwUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T06:07:36+00:00",
+      "summary": "Seattle Times, Newsday sue OpenAI and Microsoft over AI training  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZk5QZ2I5NjZwNDhJTGQ3ZFNyd2VaaXU5Z2tTdFZwOVdFeHVOQlVsNW9IRm1ua01TTWZPU1NVOTBXUFRHZ2JkbFczdFRwT3R2Rm1qVzNLUGZKVWxzME81VDAtUk1Fa2tKZXZIVEpVT19rRVE3cVRocllGb1pFRjJZaTBtZ3dwc1U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T05:49:00+00:00",
+      "summary": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring  The Japan Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI unveils major cybersecurity program - AzerNews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80Wk9iOTVfeGVmWDZrU09pM29wakV0TWdBSnRPWHNBZV9rRjRKV2sxbmVzX2JjQVBXUEJxd1hLbThEV1g1SlVxT3JaeTVSUzJqVkJqMQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T05:00:00+00:00",
+      "summary": "OpenAI unveils major cybersecurity program  AzerNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Defenders call out OpenAI defense pledge, Astra release timing - TechTarget",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUUtTEM5RjNXUEFOaDFKLWxhNXFncDI4OWI1VTk0cEM2ZWgxVDJEaHZuVU1UQVZnOEc3eFQtUDhrQnVFTHd5MXJKWmlBdUI1a21zelJacGU0cmJRM2o1Mzd6YzJwcnVQTHFtZXRTcXJ4VTZBVzBGbmpHNTVPSFFLbFA4Yl9jb0IxNkdvX19OMkF0TG5MNEtkd1l0MGRqbzcyWWRDQjl3ZW9VWDRjLTdSLUI0ZkJsQWxRWHRYTtIBxAFBVV95cUxNdWVWSjMybDYwdzl2bjUyNE9HelZ0YlItNkVPWkdhbFlBWGpSZUVyZHJ0d21jb2NRMDg4OVVST3NIT2Y1cEpRTDR1U050b1czajNmN2Y0eGxOaC0ydlBrQ25GTDBYY2I3emxqQVlMR3VtdDZTVGloWXJkdnJXdlpKcTl2QV9vR01fZk9mZFJCZUpkc2cwUUliVXZtSUxJLUdXRUF1dmFpcGJfMVQtNmUxaHMxaTZ3Z25kYy0zOGpWUGgzeG1U?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T04:54:41+00:00",
+      "summary": "Defenders call out OpenAI defense pledge, Astra release timing  TechTarget",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYlptM0JreGIwOUpDYnB3Q0pSa241Vm81MGxqMDNBS0F4TGdMWjFYVnZKWkZtamlEUGpRcGJIM2EtcEZpQUdJVTZYLV9kU1B6SGdVUWxNd2I4a3dkNVQ5R3dkNDhqVlpfN3ZYNThIbGxpdjhHczdpLXMyZ0VNcjBrd2JBZmpla1BfbERQVTdhY2JhSTlNd2t4SFNqWGVjOXNOXzdLOUVLbFkzTGpVUkdZcm5pc0xTYVpoamYyNnpfMGZTa3QyNGdPS0Z0X0dsemVSaGdRMlBFUW84RV96N3h3YnNxMHhUZ2o1R2tZYlY4bnU2WG8xeHJmTG9FVkR4N200S0VoUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T03:15:13+00:00",
+      "summary": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement  The Lufkin Daily News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,15 +123,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Newsday sues OpenAI and Microsoft over copyright infringement - Newsday",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWlFLcGJpV2lkRkN0REw0Z25PdnZFVkFRUW03RkNoRWV4SXJuUlJya0pUaTgyb0xIWDc0MExvOGN0bDZnYUxUUjN6bTZ2b25faDBPOHBjTUVOTktfSEVDdTRqMlM1NzJhVHFDMXFUeERna0pBYVBrSA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-05T01:44:56+00:00",
-      "summary": "Newsday sues OpenAI and Microsoft over copyright infringement  Newsday",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI’s Astra Ships With 100% Exploit Score [2026] - shattered.io",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SRHktQlFRT29SNnl0STNuYllxNVZjd3JBX2prUnVpNGxRVHdSSl96NnZlRERJRGZuSG4zbDdnUHJoVnh4QTBUV1pvSWdTcjNMWDhVSzR6d19yd2FVOWdIUXZJUGJxeFFiY29Kb0dxNGFJUjg?oc=5",
       "source": "news.google.com",
@@ -63,8 +135,17 @@
       "title": "Citizen-led lawsuit challenges zoning for OpenAI Georgia data center - WABE",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUJTRW5fb2JuT3M0UmNUR0hneFlrM3RXVUhUcHc0WmJhT2RKR0cwOGd2ME1DbzItRnNTVHp0RnpXT2lFQmxyRkowSTUzcjZqMlFIZ0x3aFQwQTVLVGlJY0ZUTWFiWXZXbTFFYUlKVjhFM1FNX01iMGxVMkdMeGZPdmtfemxRQWx0a3BpWjdfMjVNY2tX?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-05T00:33:45+00:00",
+      "publishedAt": "2026-09-05T00:38:10+00:00",
       "summary": "Citizen-led lawsuit challenges zoning for OpenAI Georgia data center  WABE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Newsday sues OpenAI and Microsoft over copyright infringement - Newsday",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWlFLcGJpV2lkRkN0REw0Z25PdnZFVkFRUW03RkNoRWV4SXJuUlJya0pUaTgyb0xIWDc0MExvOGN0bDZnYUxUUjN6bTZ2b25faDBPOHBjTUVOTktfSEVDdTRqMlM1NzJhVHFDMXFUeERna0pBYVBrSA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T00:20:37+00:00",
+      "summary": "Newsday sues OpenAI and Microsoft over copyright infringement  Newsday",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,15 +155,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-05T00:12:00+00:00",
       "summary": "OpenAI quietly boosts some of Astra's evaluation metrics, and continues to change others post-launch  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI officially launches GPT-6 Astra: How to try it - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQclRjZ0xlbS1mTGxpUzdrUzljUW9UcnZWNjlWX3lRS3VWb0x6aTJrd2o5WEdGMkNDNVpuR2pDTHAtSV9sc1lpX3hiZGtLNGRCN2VXTjBnY0RXeVg2dTQybWtmV3MzNWVoZVhyeTdVZkF6enZDSTB4LU51ek92dTk1U0wzRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-05T00:05:43+00:00",
-      "summary": "OpenAI officially launches GPT-6 Astra: How to try it  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -101,6 +173,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-04T23:47:06+00:00",
       "summary": "\"Sorry for the messy rollout\": OpenAI launches GPT-6 Astra to most paying users a day after its unveiling  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWFrb0RLWTRnN3AxdElBaGZSRkN3SEZFZzNWQnExc1hPdDJNUXdoNWR5R05BMGxOSTBhTE5sM3ZRUGJKVUpPUmFzdVhNa1gxYklHM3Jfc1g2clhFV3lBU1JpbUFSbEdqeEN4YUE4cENiVndaNXhnd2k0TDRPLTBVa29sVVFkaEdpTWJucVp3OWZTV1NyUkhyOHNMSlVBcEY3V1BINzF1T1QyMHg4ZFFMNVZ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-04T23:15:11+00:00",
+      "summary": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -127,7 +208,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-04T22:46:02+00:00",
-      "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring  ReutersOpenAI agents hijacked German website before Hugging Face hack, report claims  bbc.comHow …",
+      "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring  ReutersOpenAI agents hijacked German website before Hugging Face hack, report claims  BBCHow Open…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -137,87 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-04T22:17:36+00:00",
       "summary": "OpenAI agents discussed ways to escape their sandbox on public wiki  Ars Technica",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Daily News, NY Times want 'fair use' argument rejected in copyright case against OpenAI, Microsoft - nydailynews.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVBwTWdVcGJuWDgtTXh1T0UxS0FwZTREMUFvZDlUY3NIaGZBWkd5Smpwb3NJTXN2VnNaQ0NJM2J4NkZVdVExZ21OS1VOMU1OUFgwVHZpZ2c5Qm9VZG51OFR0UmZPQlR1RkFjMGxrVEo2NmJmMERZQmgxYlFHekFkM1JGZURRWnpxaTNIVl9Ja3VMVUlKTUZxakxYVVRHeXNmZWJVMEQzb3BFXy1qMVdMOENCVDlhcVNuNk44LTkxSEdlbjhYVmU4Rg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-04T22:14:36+00:00",
-      "summary": "Daily News, NY Times want 'fair use' argument rejected in copyright case against OpenAI, Microsoft  nydailynews.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAi’s ChatGPT-6 Astra released - ABC Columbia",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sMFJab1NrMXNnWEpFVVIyeFdpTDFZdDM3dkVSRi0tWEx2MXh6cjhqWDlwLTRPbDZwdGNFejRNM1hBSVpQV1p6RWh3Yi0yZGJ5UklGczdncXJXUDhPZ05JR2VqZlJHdGpKXy1GNEZzaEtyUFhjcWN6NnVhUmw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-04T22:08:25+00:00",
-      "summary": "OpenAi’s ChatGPT-6 Astra released  ABC Columbia",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI connects ChatGPT to Epic EHRs - MobiHealthNews",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RVm5DZjVMdHFkTU5RY29tSG1CZlFQb1Z1aThlVE5JczVMdWszOWpJLWRKRWV5ekxRQTh4R3ZiczdXNGp3bjV6LWtvUmo3OWZtaU8xajFqUkJFd0tITXRNYzRES0xNZHpDRWhzY1l3RC1QUi15Qkt5OQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-04T21:43:43+00:00",
-      "summary": "OpenAI connects ChatGPT to Epic EHRs  MobiHealthNews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Which Investors Will Get Rich From Anthropic’s IPO? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTR5VzNmN3BqcWFjdy1mVHBjNzVSYmxwN05WSTlZZ05qa1Joa1ZJalBmYlI3bHJOU3YyVXJ1eDdFR2lsNXFSNEdpbExjSFVtbnE1dEh0ejYwbDVhdEEySVczYTZtc1pEZEZaWlF5clZOTWppWXFNZHo1WGcteEd1YmhEdUVEUklKaXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-04T21:23:00+00:00",
-      "summary": "Which Investors Will Get Rich From Anthropic’s IPO?  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "California’s Rob Bonta investigating OpenAI over Hugging Face hack - Politico",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhsWmFLekRLdU9CWHdHU1lOeTRQMVU1WnVCb0dXSm56MHFvWE5WQVl4NjFtX1VQcjhRSkF4WVlyb3N3bzlPMkh3Y3BIOWxzdTRjaHRYbXVFaUpKTVhrb2hyOTlzb0I3Y0hMS2EwQlhtVzUzSEF5LXE1SGJFWkI0Y3VqUng5VkVhVzQwMHg2cVRyMDRQdFNxT21HMTNydWpi?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-04T21:13:00+00:00",
-      "summary": "California’s Rob Bonta investigating OpenAI over Hugging Face hack  Politico",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Says Humans Need to Be Able to Monitor How AI 'Thinks.' Astra Makes That Much Harder - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmN0ZEVZRHZRZ0FKTGtuVFRwN094c3JzMGVBclNETUxpUDBEREFOYTU3R3dnNlpMd24tV2dTemtscDFtaGo0UWhzUFpPdnBvcXlLZ0NKMXNlMVFQWVJoY1BvTDRILXowLWxOOGEzOFJOR3RKQWNqbU4tYXUtSmdYeWFxSFoyRl9EWXNveGpqY3ZqZm8wa0ZmZG1vR3RLRkJuRk1UN3RMS08zTVhkaFdUM0otekJwT1JEamxBdVRzUldPcWFYRXpZa1psT05zdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-04T20:55:19+00:00",
-      "summary": "OpenAI Says Humans Need to Be Able to Monitor How AI 'Thinks.' Astra Makes That Much Harder  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, MS-ISAC Launch AI Cyber Defense Pilot - GovTech",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGtZcjYtVTBpM3V2R3hYbU40WDg5MzZjXzBnZVJycVhtWXE3UldBSTNsVG1LSHJ2dzNSdFVud3c1RzBkOXZRdURLY2hoamFxeUdFTklYS0xnaE9abkxvWGtkczAtcFlrVksxbXVDV3JuNHp6WFNkZ1NOTGRBTWNMTXhxQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-04T20:31:52+00:00",
-      "summary": "OpenAI, MS-ISAC Launch AI Cyber Defense Pilot  GovTech",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Report: OpenAI agents took over a website, used it to collaborate on benchmarks - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlJYNGwyaFdYZy13dmxCTmJGRUhtV2xTZzM3VFcwNnU3aGc0SzNYOVlqQlcyY0FYSVRjaHVuNF8yQmxZWTdsRC1qNU9VZGJRcHN3OUpYb0dWSTZNLU82YW9SSlJmTlRZWnJpdllGNEhYdGlkdVM2NmNDdUpsbkdaS2VZOFAzOGZZbF9QN1BSOTRpbDNDMTRyS2dxWkFIUEhMTXdUbDlOWnZSb21UN2lMY1RlS1A?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-04T20:21:00+00:00",
-      "summary": "Report: OpenAI agents took over a website, used it to collaborate on benchmarks  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Denies Coverup After Rogue Swarm of Agents Reportedly Targeted a Second Site From Hugging Face - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3JvMzI0d2xPQzlLRmhjMTF0enAxdlBlZDdSdjA0T0VjX3loUFZNb0U1aURWVVNQNzd2XzBVUXBqc2wxS0Njbk44SU9tcjhMYXBUSGx1Mkw0YXhyUnd2TzJ3clJReG15czJIdkNKamltY3F3bjV6SHVScmZ4WXQ2LUp0S0hxWEd1U3VTcGhB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-04T19:44:40+00:00",
-      "summary": "OpenAI Denies Coverup After Rogue Swarm of Agents Reportedly Targeted a Second Site From Hugging Face  Futurism",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
