@@ -1,16 +1,52 @@
 {
-  "generatedAt": "2026-09-05T15:46:03.868531+00:00",
+  "generatedAt": "2026-09-05T17:42:27.131428+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
+      "title": "OpenAI GPT-6 Astra Hits GA in Microsoft Foundry: Computer Use, Agentic Execution, and $10 to $75 per Millio... - StorageReview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNlZKNFhFMDlsUFZJRzRnbEhsSnJSb2xjV2x3TFdqLWVGcFJfa1B0T0paM3hJM0RYZHVjZzZKeG1TVXhDNnZVbzNLQXo2aUd3VHllMTg0eVJVSnZUejJKd0swRjh6UTdmMW56YmxieUJXbjIyMlpLU094RVM5YmZrM2lOREc4MUVzbnNQYmdwS242MVRzSk8zUVAtM2lRNUpxSFdLaENqcTJLdDlKdnRDX2duOHZENnk1eTZSRC1DaHjSAcYBQVVfeXFMTkd3RDFxajVLejBEaEItMURId21PWktaNFBkOEJyYmtPTElieUJERUgxMmpNMWs3ZTF0UUE1UDRyUk43eVNET1hYNkNRWHN2a2JPeVgyVC1yVmRkMlJGS1BmVFFoTFk3YnBjUmFIcGdKTmJWVGppRWVieE01aUdDbmZYN2lDQ1RldjRtcWZBc1BrdGR2TFdnUVJaS2ZJVFREaVUzWGFzal9fRU9kOHVfLUcxNGtlWnEtUjExX1FrU3ZWWEZFVVBR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T17:13:15+00:00",
+      "summary": "OpenAI GPT-6 Astra Hits GA in Microsoft Foundry: Computer Use, Agentic Execution, and $10 to $75 per Millio...  StorageReview.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Pledges New Rules for Reporting Troubling Behavior by Its AI Agents - The Information",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0RubE5tVjlrRS1MNXJST0hTUDlCRFVlUnFMTFJCZF80VThQM1VfSFdWekYySE1tNVJsMkVEanBXRW85UlI4YXhfNzY4bG5DQ2w4c3NSZFJ4T0RVaFpjZDJIUFp1Q0xsOVF2UGJNc3BuaG5mRGtrWDhUWktZLUhmWkJBU2RjajVNTnBjYjRmY1lJVk84a2N0YXZWVG9DVURQSlRMcW9zVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T16:21:00+00:00",
+      "summary": "OpenAI Pledges New Rules for Reporting Troubling Behavior by Its AI Agents  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says it will change how it informs the public when its AI agents go off the rails - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGtRZzV6QzYta1pUdmdZQjdrcWVybmtjcjhaM1ZkUTZSb2VDZmt3NFlMOWRhMk5lTWVsYTc1cmk5d3RvekMzR0tkeTlBYURYSHp0cUtvTkNMekhGRWRmNW5qal9oWC1NZ1YtT1pxdWNLZ2xaNVVfTUVGQzFLSmUtRXgxSGlNQmdjYXpCNUdLMnRzdHZPZFNXNXUxSE80ZkVwd1I0NXE5U056R1pydzVNZW42NnByY09jOVlvY0swTWdvN2NCTFpBTTRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T16:09:59+00:00",
+      "summary": "OpenAI says it will change how it informs the public when its AI agents go off the rails  Business Insider Africa",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Newsday sues OpenAI and Microsoft over copyright infringement - Newsday",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWlFLcGJpV2lkRkN0REw0Z25PdnZFVkFRUW03RkNoRWV4SXJuUlJya0pUaTgyb0xIWDc0MExvOGN0bDZnYUxUUjN6bTZ2b25faDBPOHBjTUVOTktfSEVDdTRqMlM1NzJhVHFDMXFUeERna0pBYVBrSA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T15:36:59+00:00",
+      "summary": "Newsday sues OpenAI and Microsoft over copyright infringement  Newsday",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-05T14:55:55+00:00",
-      "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior  Reuters",
+      "publishedAt": "2026-09-05T15:28:31+00:00",
+      "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior  reuters.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,6 +56,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-05T14:19:18+00:00",
       "summary": "MIKE DAVIS: The Trump DOJ should withdraw its statement of interest in the OpenAI lawsuit  Fox News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Agents Colonized German Wiki Via GET Exploit Weeks Before Hugging Face Breach - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdXdsbHUzQnhiTFFudnFvendTVDdaVGtJa0NoSWRNa3UwS0UyWUg0b2xHWUxYSVB6UVVld1dvRU1HZmczaXZ6WnI2ZXJRMGhTMGpicy00M2lWZWkxUmtBNXlpaU05LS1MQWtwV1ZGVnQ1bmJER01yQUNLWGJjX2FGd0F6eW5GOXdlWXNvaE41NENvSmFzSGk2dWw5ZjkzRWcxNV9mcUxnWU5Cb2JsNldoOGc3Wm1Fd3YxM250c0UzTkdIbG5RSDN5Z1Y5X25EZFNFbkhDTmRB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T14:03:24+00:00",
+      "summary": "OpenAI Agents Colonized German Wiki Via GET Exploit Weeks Before Hugging Face Breach  Tech Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,20 +96,29 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Exclusive: OpenAI expands policy team amid legislative headwinds - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWcTFucDF6RzNEZ1ZrT1BoajJyZkVlM0FDRDF3dlNwQUtvamFuR3hJOU1QZkcwMlltS3l4V1NTT055dDFramZqbzJVWk1tSHNOWV9nY1dacjh0a3BlaGQxc0JWRG4wcy1x?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T12:43:36+00:00",
+      "summary": "Exclusive: OpenAI expands policy team amid legislative headwinds  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVBYRU9QSWszWHltSXpjQlNQb0FNMUE1cjZib1p2T3RBeGdfcGN3MXJUdzdVQ1VpcmZzNzFDWDBsQXcyQk1uUUdKcG1JRTlxR0dsRWI2bzRXNEdJS2VUV0RhZGpqdWJON0Q4UFdTbTdSRm5FWld5S1NpZDZLOG1hbG9Nb3hJVnJfdnpuZkpybUttaUo4LWZRd3YwTmtpQnppdF9tVV90ck1jWGVfNm5TTTl1cEluZ0lUcFVFdUQwRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T12:42:22+00:00",
+      "summary": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2hDdGZuRTFvS2RaNnJUbk8tWXZlRzRsblFZd0pvc29QNjZzWmw4LW5sTnB1bWp0RjM3NFV5QTZ6NFM3NFcyUWRqQk02c1ZBWlJoR0VfWGRBdHBCXzdaUWtiU0l6R0NuMXg1Y3ZHTmREYk8tRkpvR0hmNDltRV9PdC1QTHpYVmo1cDFlWlNJZEtiajk1Q3c?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-05T12:26:09+00:00",
       "summary": "OpenAI’s $1 Billion Cyber Push Backs Cloudflare and SentinelOne. Which Has the Better AI Security Model?  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive: OpenAI expands policy team amid legislative headwinds - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWcTFucDF6RzNEZ1ZrT1BoajJyZkVlM0FDRDF3dlNwQUtvamFuR3hJOU1QZkcwMlltS3l4V1NTT055dDFramZqbzJVWk1tSHNOWV9nY1dacjh0a3BlaGQxc0JWRG4wcy1x?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-05T12:03:01+00:00",
-      "summary": "Exclusive: OpenAI expands policy team amid legislative headwinds  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,6 +132,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI admits to German wiki ‘incident’ - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXNMTnVsWjBSNmhxZWlUanFZYlk3a2QyRG5CVjhKVllWYmdDeEh5UmVfS0MyLVhZMlRKbmU5RjRzVWdVNE96b0VvVkx1UlV0Z0IxM3F6UnZqMXZDUENvRVkzQWlkUU56bF9FUG8yRHF2WVRXUkh6Ni1zSjNNWGlHWWhqMVBoMmlqcVQwVFVaNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-05T11:15:55+00:00",
+      "summary": "OpenAI admits to German wiki ‘incident’  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident - BleepingComputer",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlpqaVRmQ29qQUtNWUtSZ3g3TTJLUlpKY0VZZGJRTmNuLVVJNjV3VjFIc3ZLUEE5SlNxNV80SjdMNEg2SlFSV2RLeDhPcUlZakwzRlotN3BudzdhSGhqZTRlbGlTRWhnam05U0tmbElkVEREcnlndHBoai1fQlZoUndTaC1UT2ZkSXZJWUYwdUFHNXgxdWxaQndBV2xXVVBobnVSNFF4Qnl5enFiNDBaRjZn0gG3AUFVX3lxTE9rdGZwVlloWl9HMy00NE9ZY1hvUE02Y3pob2lmb1FONE9UZVRuR0lONDdtS0JwZ0daMmpYV21uTkd3XzdqT3hqcHlGMlVWVTkzSTQzUXpaZmdiN3hqZV9Wckg0cHlHZGJQS250a1FrZTdSRXoyMHc3RXNOcFIxeTh6dTdGZVMwN29SWHlvT3NkUFp3QVBTdUFXbzJIRWFYT3l4VWp1d241WndDajFpSmtfODZHMEh3VQ?oc=5",
       "source": "news.google.com",
@@ -87,20 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "1,200 AI-Agents Built a Secret Society Inside OpenAI - Davis Vanguard",
+      "title": "1,200 AI-Agents Built a Secret Society Inside OpenAI - davisvanguard.org",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GS0hkYWxHTXhRZlBCa2FFQUZhUUpaQjN5SmlfT3NTd3ZWWmlBaF9IY0RBSEpCUjFKZVVFMlNSU1pJd0xmZU5XRklGQS11Y2JGM1kxd3Z4X05yTzIwZ09HUXRBWjNBMnBtVzk4WTBEUkVwZ1phamgxNWhB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-05T11:05:00+00:00",
-      "summary": "1,200 AI-Agents Built a Secret Society Inside OpenAI  Davis Vanguard",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVBYRU9QSWszWHltSXpjQlNQb0FNMUE1cjZib1p2T3RBeGdfcGN3MXJUdzdVQ1VpcmZzNzFDWDBsQXcyQk1uUUdKcG1JRTlxR0dsRWI2bzRXNEdJS2VUV0RhZGpqdWJON0Q4UFdTbTdSRm5FWld5S1NpZDZLOG1hbG9Nb3hJVnJfdnpuZkpybUttaUo4LWZRd3YwTmtpQnppdF9tVV90ck1jWGVfNm5TTTl1cEluZ0lUcFVFdUQwRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-05T11:04:28+00:00",
-      "summary": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki  the-decoder.com",
+      "summary": "1,200 AI-Agents Built a Secret Society Inside OpenAI  davisvanguard.org",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -110,15 +164,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-05T10:50:27+00:00",
       "summary": "OpenAI commits $1B to defend critical infrastructure from AI-driven attacks  Dealroom",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Changed GPT-6 Astra's Benchmark Numbers Days After Its Launch - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUZOUGFQdk1ZY1RwNlplWGptMmRuREFZVFBrU2p4cnpVUGs3blNsREl6R2k2bW1VLWdqcF9DekFuTkh4Rnk2cUxXMUlRaVFUWk1LaG0yMFFTaVQwMURsc09qczU0SnBkci1aU2VXZ3k0Mks4ZXJTM3BOU1hhRFBMcF8yNlJnS0xOc3Z5WG1SMDIzaFo2RGRfcjVvOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-05T10:42:09+00:00",
-      "summary": "OpenAI Changed GPT-6 Astra's Benchmark Numbers Days After Its Launch  Startup Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,11 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+      "title": "GPT-6 Astra: A new generation of intelligence - openai.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-05T06:54:46+00:00",
-      "summary": "GPT-6 Astra: A new generation of intelligence  OpenAI",
+      "summary": "GPT-6 Astra: A new generation of intelligence  openai.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-05T05:49:00+00:00",
       "summary": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring  The Japan Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tumbler Ridge shooting survivors file 30 lawsuits against OpenAI - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkNqVGFUQ3hJcXE2dHlvNHg3MDlNcGVDcElCRzZvYXYydEFfNWJ1RWJOOXRGalNIVWUzeVByN25ENm5UMXN1ZkZ6ajQ1UUJLaEJuV3c0ZUhVSndlS2NpSWRmRklVOEFoS0VKRWdrMXotaVJCbTJEelBrNnlDZU9IQkM1QmxVY2ZDVmV1WVFONXVta2dzVThpaExsczBXUDE5Vzk1U0VOSDFlVTA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-05T03:47:04+00:00",
-      "summary": "Tumbler Ridge shooting survivors file 30 lawsuits against OpenAI  The Seattle Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT-maker OpenAI allegedly suffered another rogue AI breakout - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2xwbWlpZXlQMm15NElOc0l3TXA3LTM1c2p1V3BDQTFfdW52cU5QYzBtbUd0ajUwaHBjVmVzdXUxLU91MWZqVHdQRzBuRWRLZkliOUVPZ3RVNmFZMHpTNU4tOU5lZG9seVMzYW1hT1B6ZEFPTWtuTndmN3FvZm9hOEZnRVRXYzI2ejBJamxXakx3V1A1bFJMSHhGUVAwWGRsbzhKZ3Zlc2V6NkJXYjBZX2gtcFA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-05T03:00:00+00:00",
-      "summary": "ChatGPT-maker OpenAI allegedly suffered another rogue AI breakout  The Washington Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-05T03:00:00+00:00",
-      "summary": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTm5HWjM0eF9lNm1wYVcyUFZkS2R4ek1kdmtiWnhTZnpOSWNBaFFta2NLSEJpalZlV2RXVVhaenRubV9heWF6MVRYNDNrRUs2eXI2YnBUQTVUdGtuMDV4NUh5QndZeUp0Zm1DODhDUU02anBGNFVCdUg5ekRaUE81X2UzcTQ2TVdiUkxhZUZ3Ry1NaDRjaWhKSDdIMUFMMS0wRHpZaVltcGI3b1FPTEM0UDU1eWY5eWF1cVBN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-05T01:51:27+00:00",
-      "summary": "Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism  GeekWire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Astra Ships With 100% Exploit Score [2026] - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SRHktQlFRT29SNnl0STNuYllxNVZjd3JBX2prUnVpNGxRVHdSSl96NnZlRERJRGZuSG4zbDdnUHJoVnh4QTBUV1pvSWdTcjNMWDhVSzR6d19yd2FVOWdIUXZJUGJxeFFiY29Kb0dxNGFJUjg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-05T00:54:15+00:00",
-      "summary": "OpenAI’s Astra Ships With 100% Exploit Score [2026]  shattered.io",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
