@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T00:28:32.451630+00:00",
+  "generatedAt": "2026-09-10T05:05:12.420021+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -9,8 +9,71 @@
       "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-10T00:23:05+00:00",
+      "publishedAt": "2026-09-10T05:02:11+00:00",
       "summary": "GPT-6 Astra: A new generation of intelligence  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI claims another huge mathematical result amid fights over credit, ethics and privacy - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjd5aTJDbkI0VGRPZllCLS1VTFVsYlF5Y2hPdGc0VXdTa05mMXIzTXNzWS1uRG5CQTA5LWhzYkdBRG5pdnNoQ1BpYzNLZU9laHF5WUU2b3FIMjdFRHhUdEpPN3hmY1hBUkM5ZXZEakp1VkplZEducjUzN0RhQWYzajVxNktDT1pnN21rQTEyXzNTalBua0tIOGg3bGZYYVFzanNmOTlZNkFSZlNEUjhrMkJDeWZYdXkwbmdMSzVSUW5SZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-10T02:07:00+00:00",
+      "summary": "OpenAI claims another huge mathematical result amid fights over credit, ethics and privacy  The Conversation",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Hugging Face hack keeps getting ‘more crazy and sci-fi’ - AZ Family",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjFKbmoxeXUzeUh3QWxqZzFib1g5cjZjVUZUQWZyeGtCSEJ3RGx0WF9WcHdFNlFuMmtSMU9qeHJ1WmF5WjNPQWdmX19vQ3drbFcxVjBrX09Ic3lBcVlEUWxHb1NCeUNnMnFVTENTc09yZDJBMlJETUF5NGFhWUJaOE1Ka2huT2RvMG5sVVN5RUFhSHJFQzBUYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-10T01:45:00+00:00",
+      "summary": "OpenAI Hugging Face hack keeps getting ‘more crazy and sci-fi’  AZ Family",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Newsom signs AI safety bills backed by Anthropic, OpenAI - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1ZJd0dFaFN5UHJ3aVFkcDFDWnNvSnYtaVY0T0FveE8xZ3hDamtUS3RGUFJMLXp4bUMyTDZaMlU2M0Jzck5OQjdDTklyN2pVY3ZBazJaTkhObE5nQVNHYWh2djlzNW45N0EwYm1SOGVNQjR6bE11NkMzWlpXV3RzV0JfS3FUVVdQcFN3dkI5YlRsbWs0dHQ3dVJlYXFlM3BRT0xkdl9BcHQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-10T00:35:00+00:00",
+      "summary": "Newsom signs AI safety bills backed by Anthropic, OpenAI  Politico",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI pushes for mandatory national AI safety requirements - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSTlvMWltbXZLVnpVVTFIcklpdnNQMmRyLUE4MEVycnlTNmg1MTNNb0pMdS1fU2hIdlpfdmg2MlJHekZ3VHNGclJWYU9EOGdVbWlsX2lTY09QYk96eXRWTHkzNl9wQlFUZ1JLa1VhNzVDZGtoSFpjME1sVDBIUHdEeWdQSG5fSllEYVk3NHdhTVdEeWlXTWJlMXYzcHlsZlBnUWFCYTRDRlZSclR2ZW9WSks4OXFOcWdjNmg1RzVxd21ySS1Qa3NraHJUdXd4Zkd0V3BaY3J3SWhJNlI4WlFwcDFiQ3NIYUVVdkxqaHN6QUw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-10T00:26:03+00:00",
+      "summary": "OpenAI pushes for mandatory national AI safety requirements  The Lufkin Daily News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OPENAI-CYBERSECURITY/ROGUE AGENTS - nwitimes.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjBaTE11NFVKTWxxZDdWT3lDUXdnZlFJaUh4a0RWT2hIN2FuSHZSTEJfdjVUbkNlMExNakV3eTd0S2djeVNBc0FqbWpzbXpxajl3M3pydGlYa1BlMTN0QjNqMUg3WkNVaE9JRUxtSmtFc2VobTRyYlVYNE9zWmJlSWZhQkJ6WnhKWjNJbFFtclB0Tnkza1dMQjhicDZweTNBSl91ZHkyb01BN1FXV0kxeg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-10T00:20:08+00:00",
+      "summary": "OPENAI-CYBERSECURITY/ROGUE AGENTS  nwitimes.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "BREAKING: Two rays of hope - Marcus on AI",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44d0VkanJzekw4NlBzRjJ5akJPZHUxazZWci1ZMTlUejhMM3ZObDloQXB2WGt3cWpmR0RBWGQwWkpkNnJGOTBhOVNucEdQaFRZcmd0UF80YUFVNExxc2JFYnRncWtyVGdvdXRB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-10T00:04:59+00:00",
+      "summary": "BREAKING: Two rays of hope  Marcus on AI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI pushes for mandatory national AI safety requirements - whbl.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnhOYU9hZUhqS1hTWFp5TGVDMmFfUEVHMWkxc2hlWG4xSDU5Y3JiWnpRa2dFeUtNNmJYYnk1S1pJWVZRcUFIN0RlNWJFWUdKS2c4Q1hwWWVSa09zN1J0NUdZOWx1MTFmQ3dVMkhSMmhOU0JfdFpkUDJNNEQxNHJ4R1UtRG02ZXBMRnR4Z2YycWxPZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-10T00:02:16+00:00",
+      "summary": "OpenAI pushes for mandatory national AI safety requirements  whbl.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,20 +96,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI pushes for mandatory national AI safety requirements - Reuters",
+      "title": "OpenAI pushes for mandatory national AI safety rules - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM1BGN3ZBNTNDNW5DeGNuUmhNSnM3M1JfZ1NGaWF1ZFpvNHg3THdibUkzRkNrSkMwX2g2bDRzaUdmcklQNW9tNDZNTWREV2M0c0I1bXlFejQwZkFhTzRybzFjd1UzWS1BbFFyeWoxbzlWMXpyQTN3MF9ydzZxQ0ktYjhLY1dPRlM1alU1UUdGd0psUFBPOE5KU0VNSTdzNWs4RWFRYlpVaHJMd0Nt?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-09T23:48:39+00:00",
-      "summary": "OpenAI pushes for mandatory national AI safety requirements  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Vanderbilt University's link generator that was breached by OpenAI agents is supposed to be only accessible to organizations - channel3000.com",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNbldrQkU1am1ydGhqa1pTVmgyT1Jaa0VtLXhfMWZhaDF4WWN3UmZ4eFNON2Z2UFJVdUlwd2tOLTc2SXc3VjFnQzFQOU1fZkNzMlhLV0dYc21qSHZfUWNvWkdTQ0s1X0RJM3VIV0ZEOGVPR1FLZ190ZzlJMlZJS25hLTVWVk5QeGNHWTJuUmRFQjRPaHB6bTZjOFRJLXRNaHlXbWlYNWh2QWpUNWRDeGRra3U1NmdVSVNWNXg3V2QwZF96TFJTN0JvdFNjQXp5WmhXQVFLMmc3U2lieDViWXNaRHJCU2JzQWJvWW5TOHhRMFRZamJxcVN5UWtYZ3hVekxxRWlkdjBmQ201Sk1SZ01OS2o5aTJRMmFSeDNlNDhVZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-09T23:23:17+00:00",
-      "summary": "Vanderbilt University's link generator that was breached by OpenAI agents is supposed to be only accessible to organizations  channel3000.com",
+      "publishedAt": "2026-09-09T23:47:00+00:00",
+      "summary": "OpenAI pushes for mandatory national AI safety rules  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -61,10 +115,19 @@
     },
     {
       "title": "OPENAI-CYBERSECURITY/ROGUE AGENTS - channel3000.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONWppRUNfWWxkWGh0ZlVZMUFoOFNWMzRHNUw1Zk1LYnNwaVZfVHY2blVJY3o5Wml3NG1kWGR4eUZYbU5YdE9SNndHZnhCM3R3a09NVzQ5VEJuLWZUYkJJYTBzUjNGQTRpc2RDTy1vSmlEVlZGUlZ3aURSc2NNOFZ1ZDVfdkF1SEk4My1xNVl4bUpQbV9GTWJIcE1FQ2dvakZ6VXBuek8xRDFKRE1VWWd0Wm9FdkNQMlF3eTNORWFlVUpCZmthOHZqNEszTzM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNzEwM3Z0TkJVZDJUOVphVHlsQWxNOTZKbXNrZDExYTF4b0lkcjJKNWhmOGdvekJubnR6OWs2S0MydDJYVEpwTF9LdVJyVG55aHZ1NVlRY0prcmt6a3JGRUs5TEtIbEw4RmFuT3ZZWkdGMlBFek0xOWx0LUJPS0NXa0kzYktEUHlyUXV4ckpvYUtmUm1KQzd5S09ybWJJMnBEX05ncWVwelBCcTJScGV1REg0em9YZXBqdDdEYjItWmR1QWo1VHhCTm1MUmg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-09T23:18:37+00:00",
       "summary": "OPENAI-CYBERSECURITY/ROGUE AGENTS  channel3000.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI just showed why one of its former researchers thinks AI could kill everyone - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZi1FdE9DVjBEcHdpbmo5ZHpYUzNGQU4xNGY0OHQwYXZjQlkxaDh5d2tibkZzSlM3TmMyOGRTQ3dsRF9XMW5Ud0NuUlhDNXhvdjZIVmMwT2lMOWNha3hKcDR4cnE1ekdhWDdVNU94aWRvWWJuNFZLN2UtSUtma0piQzVHMkNzVGpyM1VEZGZIYUM2bjk0ZGpLeVhOXzZIQmw4YVNRMVlRbVBIMzQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-09T22:40:52+00:00",
+      "summary": "OpenAI just showed why one of its former researchers thinks AI could kill everyone  CryptoSlate",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,38 +141,38 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Lawmakers demand more safeguards on OpenAI, following cyber attack - kalw.org",
+      "title": "Lawmakers demand more safeguards on OpenAI, following cyber attack - KALW",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazVpaTdHUlp5aHRXLWx2T29WSWx5TXpSVHhSTl9ZUkZtNnFGRTAxNy1wRTF3bTJOcFFrMnNNMV80VXFKb2N6R0JSa3d0SzRCMVhQME90UTRCZFlVbVp1WWxyTGpuM01RZ0QyRDVIRjFpeXdRcm1jUTVZMTRXY2FxZ3VTR2UyalFaSVlwdHFGeE1MVmFock5RT05PSUtTd0FuZTZaaXFneTZkTWFRWHlKUg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-09T22:04:00+00:00",
-      "summary": "Lawmakers demand more safeguards on OpenAI, following cyber attack  kalw.org",
+      "summary": "Lawmakers demand more safeguards on OpenAI, following cyber attack  KALW",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Effingham County students to eat free this school year thanks to $4.8M OpenAI grant - wtoc.com",
+      "title": "OpenAI urges Hill to ‘act now’ on AI safety - Punchbowl News",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Xb0lKLXliYklIbFNTS2VhWnE5ZFlFWEU2czVLbk9xN29yc3ZxYkhjZGFSakkzZFNPclhjbGptOG5UMVZxdDRIb2JjWUNEOWlLTk1GZzNPVHVReHFnV2JyZm4zYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-09T21:57:09+00:00",
+      "summary": "OpenAI urges Hill to ‘act now’ on AI safety  Punchbowl News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Effingham County students to eat free this school year thanks to $4.8M OpenAI grant - WTOC",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajk5LU1DNkVaWUdXYW9VNGE4MWsyNnROUWhxajFMaGY1VXpXb09YMlBhQTJHODZ0RHpKZl9pUmJzWjBVUkppRU1qazdqVWtBMHlOUG4zQVUwZWs1eTFXQy02bE9MVkZGdzhieklBSHFiS2xhT3lLT1RQNU9JYmctaW1vX0dlWlBYQXBXMEZaRDJjSU15aXlfTDNURU50ZjlFYm1ZeVFqTzhFQ3dC0gHAAUFVX3lxTE1LaHFWTHRIbkZoLU91YUVGdXFrenZMYW5LSW1scHZOMlZCOWpVdnVHbFRUdTFPdXJPNTFydjMwRkdvNFJzMG8wMUYwMFhEczRkdnpjYWUyRndOb1prUnRrWkp6NEJfRHNUS2JBVmlZS0NaVmJDZW9FQ2RuVWNwOC1oMld2NWZlaUZmOW9jN1ZpNkphcXlESDJ1ejJ0Q01OMUVXSGI4YU4zbU1SbENWcUNsbEt4eHkwQm80VGZZWlRHVw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-09T21:46:00+00:00",
-      "summary": "Effingham County students to eat free this school year thanks to $4.8M OpenAI grant  wtoc.com",
+      "summary": "Effingham County students to eat free this school year thanks to $4.8M OpenAI grant  WTOC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Sam Altman Gets Hollywood's Mark Zuckerberg treatment - Mother Jones",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSlRLamJXOGNnLUhaRm9pVS1lUzMtbEhFUVphb040REpQM283YUl2b2FUck1Vc0pvWlE5NWFsbkw5MVZPNFE5SjdGMm43TXFVX1Z6U0RTY0M0Ynk5ckZBaTJZbVZjOWFsenBVd1lacVk4aFZGUkRxMW1wcjd6Wjhzd2tjSGNBMnhYelM4ZTNvXzZmaWhLQllQQ0prYnVrb2lS?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-09T21:39:43+00:00",
-      "summary": "Sam Altman Gets Hollywood's Mark Zuckerberg treatment  Mother Jones",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Independent Investigators Uncover Broader Rogue Activity by OpenAI Agents - PYMNTS.com",
+      "title": "Independent Investigators Uncover Broader Rogue Activity by OpenAI Agents - pymnts.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0RlTmtRcVZFd2dDbFJjaDVmczNNQ1FqX002Uk04MWpOUWFhSjV6UnV5Xzg0ZEFkTXhaWnhJVWJENVdlMktia2JGdnRPdThBNHJyX3ZPdTJ5d1RVN3RNLWpBd3lOUmZpSEVuOWY4OG9jVzRDc2gzWWVyTTU3SjhUQXVORUpZYjRqUjRNLUxXeGdybFM3UHdDVVFjZG9Yemt0TWQtempnazlfSVZSbXZibnh5b0l5dGRvek50eUpGOFN3bjZ1X20w?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-09T21:35:03+00:00",
-      "summary": "Independent Investigators Uncover Broader Rogue Activity by OpenAI Agents  PYMNTS.com",
+      "summary": "Independent Investigators Uncover Broader Rogue Activity by OpenAI Agents  pymnts.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -119,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-09T21:33:41+00:00",
       "summary": "Judge Gives Florida a Win in Sending OpenAI Lawsuit Back to State Court  Law.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s rogue AI agents used universities, wikis, and text‑sharing sites as hidden message boards - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWpZUXYtTkdUNnRWRmtiVmQ5YnlaNHBzTTZQSUljem1mLWU5eVJTQTVIRWRYME5XRC1pT2lzUzNQYThXUjZMdlZ0c1NSRk8waUp1X0VuOEF0LTFtUTdaTjJkTzNWaTBkR0lHZHpvZXpVUDVhS2dNQUVJTnUxRHZ6Q3RvRlhCdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-09T21:31:00+00:00",
-      "summary": "OpenAI’s rogue AI agents used universities, wikis, and text‑sharing sites as hidden message boards  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,65 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI restricts rival AI ad campaigns in ChatGPT as competition heats up - report - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZjQtck8tcXZSNWxYcUZ1b1ZQNlBZRUIzdUpWWW1rdTVRaU4tZEhoWW9UbnVPc1gxaXBkQnd2YmI4RTNhVzk4MmI0aFU3akxfZTdBanVGYmo4elQ1QzRMLTdHRHN4M0kxVEZIdTgzdFBwM09jMEVlOGNSdlRLZjJhUmZUNF81bWRpU3VTc0dkSllhNlg0UEVIUWRTSUZNN3M2SllHWDNJZzFHdGxtWW9RbjV3bWNvYXFqQnZaeVdPb2FST3BEM1ZxV0pvRjVCelhmNXlCZw?oc=5",
+      "title": "Sam Altman Gets Hollywood's Mark Zuckerberg treatment - Mother Jones",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSlRLamJXOGNnLUhaRm9pVS1lUzMtbEhFUVphb040REpQM283YUl2b2FUck1Vc0pvWlE5NWFsbkw5MVZPNFE5SjdGMm43TXFVX1Z6U0RTY0M0Ynk5ckZBaTJZbVZjOWFsenBVd1lacVk4aFZGUkRxMW1wcjd6Wjhzd2tjSGNBMnhYelM4ZTNvXzZmaWhLQllQQ0prYnVrb2lS?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-09T21:14:41+00:00",
-      "summary": "OpenAI restricts rival AI ad campaigns in ChatGPT as competition heats up - report  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tech: OpenAI urges Hill to ‘act now’ on AI safety - Punchbowl News",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Xb0lKLXliYklIbFNTS2VhWnE5ZFlFWEU2czVLbk9xN29yc3ZxYkhjZGFSakkzZFNPclhjbGptOG5UMVZxdDRIb2JjWUNEOWlLTk1GZzNPVHVReHFnV2JyZm4zYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-09T21:07:09+00:00",
-      "summary": "Tech: OpenAI urges Hill to ‘act now’ on AI safety  Punchbowl News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Opinion | I Worked on Safety at OpenAI. The Fix Isn’t Hard. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEdBRHNRWVhJNlNYeWFHOUhLMTRIcVh0WERoei1FMjlncl9vR3dTX19rMUpBNUM3OE9tMks4Sk94UFFtZGViUFNadG15YVJGRmNwWEF4MUg4TkM2aXROLU5Ibzc5QkVWS3pDaVJXVkpMYklVcmZ3aGRwQW9JRzQxMUN2bEhlc3BHR3BnS1Zn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-09T21:00:03+00:00",
-      "summary": "Opinion | I Worked on Safety at OpenAI. The Fix Isn’t Hard.  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Restricts Adobe and Other Competitors From Advertising in ChatGPT - The Information",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGJNLTIzM2lQYlRfaElFczdNTmh1bkFYS3RrN2hQdW1Sb1luMk5jU0VNc19MajQwRWFnaXpQbzdMVms2bWZIRzN2c3RuLTRpZ0E2OFk5R0xjYW92RzVBdVdySGNDWWkwdVZUYm5PTFMwWHllVldqTzc4d283RWV0Vkc2VC1ZZWVtMUJscWxpbTRzVVJKNXBnbFFVbkJtZ0tKOGhJNk8tV0Ezdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-09T20:54:00+00:00",
-      "summary": "OpenAI Restricts Adobe and Other Competitors From Advertising in ChatGPT  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Vanderbilt online tool breached by rogue OpenAI agents - The Tennessean",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYTVUeDdWM1FlNVlpRk1XMGUwY3dqQ1hzaUhiR3JScUZxM1pka0dfTVU3YUtwcEs1cFdUVS1sN0NKVGUzeU5kNEQ3dW9YVXI4bEdES3lVNHBDTk9LUjRvNVMwcGpLQzdoYkVLT2FOdkpzS3I0SHQzaldzeUVpNHljLW5maTllVnNJbm5KbGpWZUlwR0F2WXh0R25UbmgxLUh0LUJrV0tXekVZZm54TkJneVZjNG0tczBPd1BuZEVB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-09T20:53:00+00:00",
-      "summary": "Vanderbilt online tool breached by rogue OpenAI agents  The Tennessean",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-09T20:47:20+00:00",
-      "summary": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's new safety hire says losing control of AI would be 'catastrophic' and that 'most people could die' - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnFJeVgwV0V6NXVyRnc0R0JnZ2s1dXRaRmxIYTg1amg2VVJVNWxCZmVTOGNwUXRzSGpfUGIzMXhoTk9Uajh4MzhuckVycXlwaXlhNzdZYkREc1hpWUl3cUxzSGNkc2NNRnBiYi1nSlVLX3VLeFhmOFBKaWtwemQ5eGpQU1dwd3VQOXp3YlFxQ2pOOGVsaUlZeDQ3ckRGNnl3clE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-09T20:27:00+00:00",
-      "summary": "OpenAI's new safety hire says losing control of AI would be 'catastrophic' and that 'most people could die'  Business Insider",
+      "publishedAt": "2026-09-09T21:06:11+00:00",
+      "summary": "Sam Altman Gets Hollywood's Mark Zuckerberg treatment  Mother Jones",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
