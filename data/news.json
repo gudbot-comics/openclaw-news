@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-09-11T18:37:02.133275+00:00",
+  "generatedAt": "2026-09-11T21:16:22.824962+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "title": "OpenAI Rethinks Its Next Big Move - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0ExRnJyRFp3MU42UENOMGVaX0hQaU1oWDhnZXRNa2lMci1ac2RQanJCWUR0aHo3NDczc1AzMnNXZjcwMGxCc3Y2X214UHZja2h0UEFyeTVWaEZXWFBxeXZfc3ZsMTZTVFR5Tm96cWRMbmJwVWdUUGszeDNQLXZPRS1zQnA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-11T18:29:36+00:00",
-      "summary": "GPT-6 Astra: A new generation of intelligence  OpenAI",
+      "publishedAt": "2026-09-11T21:10:52+00:00",
+      "summary": "OpenAI Rethinks Its Next Big Move  Yahoo! Finance Canada",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says It Has Solved a Millennium Prize Problem—a Holy Grail of Math - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOXJPeE95TFB0a2xKSklPb0R2Yng2VG1LQkNPQl9rejZRZjJnVWV6YTY3NTI5dUlVQzNIckJtMDJ2WjZRRWd3UkxtMTViUUpCSXJLTFVRZklzZ2kzVTdrSWxlZ0dGZk5NZVNnandodkp5UG1JeG8teUxNMEdZR1FPbXVidjR6dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T21:02:52+00:00",
+      "summary": "OpenAI Says It Has Solved a Millennium Prize Problem—a Holy Grail of Math  wsj.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GSA, OpenAI Reach OneGov Deal for Discounted ChatGPT Access - ExecutiveGov",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5adVMyMnF4X1YtVmUwbXZGcDEwdzY4Y01fVTFNM09lV3lDem1mb0pDSXY5M3pYN1VwSkVLWFZ2RE16WEhVU2FYT043UmMyMjdEaHpzR092SEItNFJVSnpRaEZ0ZW1ZaldWUmNCNEJkSmpqMGJsdUNlMmF3aGtFQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T21:00:19+00:00",
+      "summary": "GSA, OpenAI Reach OneGov Deal for Discounted ChatGPT Access  ExecutiveGov",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T20:32:35+00:00",
+      "summary": "GPT-6 Astra: The next generation in intelligence for work  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Hawley Opens OpenAI Probe Over Hugging Face Security Incident - MeriTalk",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXRUNkstVGE1QVpPZGp5NVJodlhMMlpDdVJQUlFZOHhsbTdtT2VFYWpUal9IRjBNVVI2cFR2OFVybWlnZ18xbkFCQ29BeEdrZ3lxTmk2clExM2lwX2w2WXNXY016WXlBejJCWVpYeUVvdnFmNzZLUTlRMG42YmJNTkZIaFB1clpSRV93RUN3RDhGSTN6THBfbWJ1Njk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T20:09:35+00:00",
+      "summary": "Hawley Opens OpenAI Probe Over Hugging Face Security Incident  MeriTalk",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Turns to Congress Over Antitrust Fears Around Coordinated AI Slowdown - Northeast Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWwzc2FCZWQ4bW1fS3gwRkp0eHVmYThNajUyU0ZsTl8wbWs0RnJUbUJBU0hTM0pCQXl0SklhWERkQkktUkVWNTBEU1hJOXYzVG43MmpqdGR6RnJ6eW9lTEZqZkVaWDlVMFlBWWs3Z1YweGxGUnlaTjVWSGU5ZlIxZEVoV1d6M1RqdG5pSjhsRGxDQi1ycFhoaFV6bkZQMldHWHkxVFV4Y3ZXOVlzMm00OEFDT0Utdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T19:57:10+00:00",
+      "summary": "OpenAI Turns to Congress Over Antitrust Fears Around Coordinated AI Slowdown  Northeast Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is open to slowing cutting-edge AI, CEO Sam Altman tells staff - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDJWOTJBMTVUeC1BTWg5NEhnNGY3TlJEdHJmM2Mzd19uaE5qX3VpSGlvUXhwdkwtSGNYQ1VCYTNRM1hxdF9STDJWTDFtQzJFcXNXS21GeFZKRDNQV0tEVFN0dDJ0cVRQaWJzZmVfRk1ORGFrcTdTT3dwT0laX29zbEpWU1VQTjBfNzFyY2VyTjgzSjBFWmU0QWRQZWxzVU1McGVTU2dpZzhOejA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T18:44:26+00:00",
+      "summary": "OpenAI is open to slowing cutting-edge AI, CEO Sam Altman tells staff  The Seattle Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,6 +78,24 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1ZRdm1OZXFXSTBMT0xiczQ0cjFfYUh4RDczRU5tZEVOX0pFQnJmd0lKc0YxRnRMemkxbVdQV0RORmRmQmRmMHRxUTgzVlYxS1VpQlZadkxDQ3RYOHFGWFozOHJ4OHhsOGtGcXBFNVFCT1RaSnBCeWYyZTdqUVZfazVxRVAyLVJ6VHh2XzVSaFczeEZzUHZodU9pWU1JSzZQYWhacjdxMFdhNnNjeGstZUptODhyRkhmZmtYTkZkc0VUaTVyMUxXRkVEUE9DdEpaZlJJVHh6dlY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T18:24:38+00:00",
+      "summary": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload  Amazon Web Services (AWS)",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mVkV4cDZkalhuc2t3UW81WDUtMjdDV2pfeWoxZVowSlN5TmRNak9BVExLX2JiX0YtbXJYVFJLRjdxUUdjMFJfMTBvRXhza1JPTm41RjQ0Q3RocEVTQW5SOWZkeGVOUWxBdnkw0gFzQVVfeXFMUHJVNUhKUV91dG45dk5IeTZIcHdtQmVUdzlvb1RFOUVxWWVvVEdrQmRIMVpIbXFQZ1dDaUg5U3V4eDUyS1RUMmt6M3dzZTJINm5Wenh0LU1lRjdVRmVUY0ZjalJMU0JQcDcyZnlveDdsTHk5VQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T18:18:53+00:00",
+      "summary": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal  Decrypt",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Oracle and OpenAI bet that more solar could combat data center pushback - Latitude Media",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWo5eER6eXByOVliUTJnWGdFUWxlZzN3bmQ0U1lXWF9KcWxxOW5Mc1p3UVpseGRFajZZVXY3VGU5eHpwWUdOcjA5Q3lWZVpidXoyZ085eHdWdklock16QzFhekJqQmtKLW5LR0hJWEFTOVBBak95RlZHcHA0SEU1LXM2MTNnMzhJblZlc3hlbmgwZ1A5bW1JMmprV2FyX1JyLUJMRWVUcFFWajg?oc=5",
       "source": "news.google.com",
@@ -33,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Watch OpenAI’s Altman May Slow Down AI Development - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWwwekNUR2JGMmVEWm1aT0FZNEh4VlZzd3cyajdDVndtMmJuOGVuX2lCTFd3ZWdPVFdPemhtMTduNm5rcXhPMVVyWHNRWWxNaGE5MTBUNGxDY1lvMDg1QkI2YzEyN1FKUjRBay1hRHVybDEzeGcwOVZER050T2ZUdS1CXzlyQk9FQV9fVWwzbC1fN1VlRWJTN2IyTnhUS1kx?oc=5",
+      "title": "Oracle Earnings: Watch Out for Massive OpenAI Risk Despite Blowout First Quarter - MarketWise",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkdTB4TURmY19jVURxMlNzLVdvcTNyODcwTWY0cGMtenl1SjJjaUFVZ21TR2tScDNPZThoNHdrYXlzMXotNFFTREE2QXN4b2xiYUVJN1FxMW9zeVg2d3JjNElnM2hkRGQxcWRsb25R?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-11T18:13:45+00:00",
-      "summary": "Watch OpenAI’s Altman May Slow Down AI Development  bloomberg.com",
+      "publishedAt": "2026-09-11T18:10:11+00:00",
+      "summary": "Oracle Earnings: Watch Out for Massive OpenAI Risk Despite Blowout First Quarter  MarketWise",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Palantir Wants the AI Work OpenAI Cannot Touch. Nvidia Just Helped It Make the Pitch. - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGlOU1liY3NKU3c3azhFb0FxT1NzUVkyWWE2TUxLX3duQ3RTYm9fd09wYkVoQ2pobDlqaXh4bE0xYXA1SDMzajhjUVR3QUhMZ1dxSGV2ajBIMEtkMmpmaTNTekVpcnN5WEpicVFGc1ZVNDhJS3R4aFRkM0p6NnJmTHJrdFJTVDd3WWhSYXZmZXZIcWt3VzFsX1Zfa2k2R2E5UnlxNzJiNGpxVGlZUVo3OTdMeGVlcWUzUDJnWm0xekV4OG00TXc?oc=5",
+      "title": "Palantir Wants the AI Work OpenAI Cannot Touch. Nvidia Just Helped It Make the Pitch. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNci1ScVpjUXY0ZWlkcFh0czA1N3hhMnR1aFZUaU01Rk00TVpZSG5CeTYyT2NtY2kwV1NkLTdDcDJWamR5c2lqYkdaMnFzVnhKUTBoZUVCQUVMUHg1NmtzbHlFLWt1U2lXSXdEUHpEdUNvbmtMSGxQY0swOUQ3aVg4YmQ1NmhueW1tWE1LU1JJbjNhYnBTbExZc1VrTQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-11T17:40:00+00:00",
-      "summary": "Palantir Wants the AI Work OpenAI Cannot Touch. Nvidia Just Helped It Make the Pitch.  24/7 Wall St.",
+      "publishedAt": "2026-09-11T17:40:06+00:00",
+      "summary": "Palantir Wants the AI Work OpenAI Cannot Touch. Nvidia Just Helped It Make the Pitch.  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+      "title": "Anthropic researcher’s resignation highlights governance concerns for AI firms’ IPOs - ESG Dive",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEhCZG1VUm1abnJFdHA1NUFUbE5od0c1akNXc01KTlNMQWRwblM4YjEwb0h3bUdFYUQwTlg5VDhnbkNuQk1va05zZjUtejA4NTZidThyc2huOUhfREtBYXE0QkZRQnN2ZV9OdGZxbnBfVzhiRXlnWFFONlgybnFVS2pEdDVfOE5mRjNkMnhnaENoVVVtWUlmTHdfa0FoMmJpczAzWWZ2UTRNMzVHNlpKMQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-11T17:31:24+00:00",
-      "summary": "GPT-6 Astra: The next generation in intelligence for work  OpenAI",
+      "publishedAt": "2026-09-11T17:16:10+00:00",
+      "summary": "Anthropic researcher’s resignation highlights governance concerns for AI firms’ IPOs  ESG Dive",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -118,7 +190,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFNON2QxYTZuOTQ0Q2FvUGI4V0FxblFBbDh4RXZWYXZSMDd6dTJGOEFHUVVTOVJ6SEw3dVdsWGJ4Z2ltb3hsOVZwSU5QSGNSQzlpOUlfWlZYTVVDSlhVWkNVWEstMmlyTFUzMTlCTEUzSUZBM3I3YUlCNl83a09xaFhEQ1EwcjRjc0hxQWxhQi15My1YcmlSNlBhaldid1FFVm9ybTdCNWJpVXNBMUM4?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-11T17:02:17+00:00",
-      "summary": "Top mathematicians are outraged by OpenAI’s methods  The Economist",
+      "summary": "Top mathematicians are outraged by OpenAI’s methods  The EconomistThe Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem  The New York TimesOpenAI’s feud with mathematicians is …",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-11T16:57:00+00:00",
       "summary": "OpenAI has paused its $200 ChatGPT sign-ups as ‘unprecedented’ demand for new model Astra strains its system  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUh3OFBtWU9GUDhsQWF5UTJmREwxSldsNnk1Yl8ta0I4VWpVNEEyQV9RU3B3LTAwcDFGMUhyV09CYnhreF9kSFNHbzdmOFM3ZjV1VW1lMW5TS1RFTDM4OHJFdnVtLTJZekxHMnNsRG96V2ViTTdoZlBobS1lc1ZxNmtBaW85VlN3ejctNzNhOVNPb0tHdVRtUXYxR2g3NVJSbmZXdGluenR4ZGkzN2wyRURn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T16:46:25+00:00",
-      "summary": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CIS and OpenAI launch AI cyber defense pilot to strengthen security across critical infrastructure, SLTT governments - Industrial Cyber",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdDB4VmlsQjJsclBjTUpLc285aFdNVnFESFZ5bFFFMEgteU5fdHZ1UWRYZXFRWVpXbzFhcnEzNmlDVEFQUDAwSFdka2lxMGdHS0NCSzNCdmowNGk2QnpfQmQ3R1R4ZVFwYXNMQkRZV01VaDlYN3FCdXhIRmZUVzVzUnY5SzBsY2hIWmNDLU9weVp6Z2tFMVA2elR0ZVNGTFpMa0xON1R1cGkyODNuTXlNNjQtWlBKN0Z4RmJ5T0owY2dSU0plZ0JFY3dJVUFvRnVCeUgtU0plc1dtWVBSTVJ0bEtn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T15:41:45+00:00",
-      "summary": "CIS and OpenAI launch AI cyber defense pilot to strengthen security across critical infrastructure, SLTT governments  Industrial Cyber",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Former OpenAI exec Simo joins Nscale board ahead of IPO - Mobile World Live",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQnU3YWtmdURoMkVnU1NMRWtOdHR6V3Y2ZVJhQjZGeGtzLVBuelcxZUpFOGpLQlhZYjM5d0s5M0Z2TXBmWHRhR3pELU5KYlZxNzRDa2NuOFBqSzg0ejlMZHVOcGVmWFRtSUdKTmtqZ0t6Q3ZBRmI0cTVzVF9BeklOZHhUN3lseFpSeVRXb1ltc2lyU0VuVDdQekxuZEZCUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T15:29:05+00:00",
-      "summary": "Former OpenAI exec Simo joins Nscale board ahead of IPO  Mobile World Live",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Data Agent as Enterprise Analytics Race Heats Up - HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFlkR1BzamR2QTNlYmRfOXh6Wnk0YVJUeFIzUmpOXzlQcndvOXhCSlI3N2hPLUxTY1Z0TmlWSGtqT2huc0xCclFEQi1xNDFtVE0tcDlTZ2ZQbXI2X2VHcHhNeG9ndkxMZHFjUmU5cE1Ecy1fV2F5aURJak1obThJVnBSMVdOX2ZBR0VBUXM3WUpQUU1lM2lWcW9IeUJ3LU4zbk54WGQ3RXpZMHluR09CMnp3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T15:13:40+00:00",
-      "summary": "OpenAI Launches Data Agent as Enterprise Analytics Race Heats Up  HPCwire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Takes Aim at the Junior Banker To-Do List - cheddar.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDZiTlREZUlIdE9rQ0FwTlhxWXpwWVcxOTZNOVhURHRHZVd5Z1U1MGs3azRVcUlzQ1R5YTVrQmFCaEwzZjZZN2tqZVFBRTctQlhlTTZya2F4b3luNWgyWW9LeWdRakVzVXh4TVlnN1VKbzlQRE1EMEFtR3VUQlllaFEyQWVsdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T14:53:11+00:00",
-      "summary": "OpenAI Takes Aim at the Junior Banker To-Do List  cheddar.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Targets Junior Banker Work With ChatGPT For Financial Services - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnAyREhfaWRJRFpaMkNxZ2g3VjlGOHlIVGpHZmxwN2F0SEczYmhTaTJESmVQVHh2X0NhQnBBV1p6a3FDdXlJSDJJT0JxYnlGY2xfejJvWGphbV9NZzVxRXBfNjF5RWJjWE5udTF6YnR4WHBrM2NjRUt5dUpabkwzWmdVc1R0cWNXaVhXYzFoSjRMTDlvSi10SC1kZ1NBQkVMUXhwVFlkV3ZwY3hVRlhFNEVkTFR1VEdZcGRQRC1DRHVHUnZLOEVqUTBB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T14:49:40+00:00",
-      "summary": "OpenAI Targets Junior Banker Work With ChatGPT For Financial Services  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI regulation calls grow in DC after researcher's extinction warning - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGd0VG54MXV1a2FoakVMYVFNUXVONnNFOXRRYkVRSlVoOXJvT0NUTGdEMjgzczd6eC1sdW5HWHA1cHVpN00tMGppaDRFZHZleHdjaGtRVFU5M3hvUUZkSTJqNmRjd0EyTmJCNTJmUGJJa1lSdmtjbWpxNTlzYldpV2xqTVZ0b2RKZVlNNUFxWThlZHRI0gGaAUFVX3lxTE9OVlEtTk9ieG5NY2Y2Tl8ydlcyY1Z1d2RHclRQRXBkbnNGWXg2TmRHSVlhY05JOHRMZHY2N1VtaUZOMkN5Y0dPSWJpX28tX1FLVC0zemNLTGZodnF4MTdQVjE5aUtxaG1WOFhkMkFuQ0RZdUlYdG5WbjFpX0Y2Slhwczc3ZE9lQTZ2VF9KUVBuajV2RnNSdWpJUHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T13:31:32+00:00",
-      "summary": "AI regulation calls grow in DC after researcher's extinction warning  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Atlantic CEO Nicholas Thompson on working for Laurene Powell Jobs, OpenAI, and making his own videos - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcHIxMjJVRGZFYTc5RXpMWDNtWUR2aGs3Q2k1b1MybExzNEZmTVFQZnhqbDFvUWpNaEZCZHNWU1ZRTGdESjFGcDBIaUktUTNnaTJwcG5Pb1FnZF9rR2w3X1MtVzVCWl8zd09POVpHckY5Mnc2YndIQ3g0VWRuMmtGc2E2eUo4SG9QWWRYQ084ZExLLTkyNk52MnNIVFRoZi1aTXZtVjFHUXlUVWF6V3A4M3J3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T13:24:00+00:00",
-      "summary": "Atlantic CEO Nicholas Thompson on working for Laurene Powell Jobs, OpenAI, and making his own videos  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
