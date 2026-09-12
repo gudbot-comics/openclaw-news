@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-09-12T01:14:02.048049+00:00",
+  "generatedAt": "2026-09-12T05:52:20.251678+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI reveals another rogue AI attack - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaExfMEZCbXlCdjg2Xy1oUnZoOFZaOVhPZDdxMEJwUHBmMi1Ub0xCZG5RSi1YMFBtX0RqbU54eGJEZXJTa3lFRnpkT0ljX3R5UUtNcndhT204WXJNRGhxVGdQTm5zenpFYl92dUFoNGdkYUppbVBpUFFzMTN5WXI2b2dBNXBPOVRCQjBDWVh1a1NCVVhfbEE?oc=5",
+      "title": "GPT-6 Astra: The next generation in intelligence for work - openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-12T01:04:00+00:00",
-      "summary": "OpenAI reveals another rogue AI attack  Yahoo",
+      "publishedAt": "2026-09-12T05:34:01+00:00",
+      "summary": "GPT-6 Astra: The next generation in intelligence for work  openai.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI confirms AI agents disrupted software service during testing: Report - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWFfSktQcXEtM1haQ0FVVEE4UU15QXc2NnZFUkdpcmpELW9qUkNUUFRzeThjcV9uWEZyWVVUZlVhNVhNRGZKNU9nb3VHa1AyX09CdlRiQ0didGVvNHBMbXVHNk50RWZlT1c2VEFDZlg3VmxzR2dLbXZKVFBRUFdXU0lqemZhVjNtT3ZqWFByd3NhbThySDVBWjFYejdLM1BTcTJxWE5GVnN5Z3pVTTg2UXljZ1lWUGROM1p3bHJBa3dvWHcxNWN1MUxISQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-12T04:13:19+00:00",
+      "summary": "OpenAI confirms AI agents disrupted software service during testing: Report  Anadolu Ajansı",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia says AGI is here. How are China’s top AI labs catching up? - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGd1cVAxeDJLVDktY2hsVjZOV1U4YWlQVjdJVjY3ME9PaEdWeFo4WDRpb3BQZVpzbnpaMFJMWVl1NEdZNlZqa2xXbDFiODNWb3VpNFFmNFBlel9iZk1mYmNpQWdtSU15WWdlcFJ0OUZ2dTVVckxzTGdtcWhuR0xiMm53QUktZ09UTVZiRTNWQzhyMUNTek5PdkI5WW5uUVpmM3RLTnRYVWdRSV9yRndWZkg0TXBlZnh1bHg5LW1DRdIBvwFBVV95cUxNNHBaYTJvZFhUVHYzeFF1NHViNTNpZU0tUG53OEtQMzRRNGVsLVkybWZOc3IwbVNxTE83VDQwUlFoeTkySGh6Xy1lVFVDUkR5OXA2cDQzc2VKTWpGc3JodExBaHVKMEV0QkFrRjJPNEpwa3ZXeWxJNGt3Vzlxd2hIcVZ2ZDBnaUxlY0lPcEdIRkp1YWd0RDFDZENDWGp5a2tqNFVXSUIwTjJOakZLWUx5S0RNNE83eDgzZGo0RlY3TQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-12T03:00:09+00:00",
+      "summary": "Nvidia says AGI is here. How are China’s top AI labs catching up?  South China Morning Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems - CyberScoop",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lcy1xZi1weWVGMWJNTmowUVgtTUZmekRPaXY0YkhtUU8zaTNkRWwwTnc0c3NOck80NW85dEdrZ1ZZN0RGbkUxYnllVjJmVmhEcVNkaWRPNU8zb3pBcjVzWjhMbkpxTEJTZkV3SndIdzd0VU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-12T01:50:32+00:00",
+      "summary": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems  CyberScoop",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Researchers link another hacking campaign to OpenAI agents - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWNjc1NvUzJGbi1aZ205SHFjV2hBVUt6LUhhZXpkOUZYQXp4Z19FVWREbUNnZnJyaFVYOEFWSE9Gb3ZBdU5FLUdUTUxSaW9aUldXazRUY2hwdHRYUTdDenQ3RnFoWjhxRzR4QmVNaW0tNkxGZUlCcTAyX2N4OXBhTFVBLW1iMG0yOHdfVU01NWxaS1dDel91RUlZSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-12T01:25:00+00:00",
+      "summary": "Researchers link another hacking campaign to OpenAI agents  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says 10,000 AI Agents Solved Navier-Stokes, Sparking Credit Dispute With Tristan Buckmaster - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYnphTkV3TVJ2c1RablBLdkMxSFFnTXhmWlVqbGpsY2EtTVpIRWlUTm5oMWY5eDBHQTVGZHFyZ1RuOHVMdFhyTEh4eDdBc3JhY2Ezd2NOT2FMc1E0SEsxVUoxcnlleGdMTWVDODhoZ2ZSanJUcFRCWEEzS0V3RnliX0FZVElNdTQ4WlNTSGdwblBTNVVGMmcwWHIxenNkZkxTSVVsaksxdHVLZEU3aUdEWGFiRDhxOUQ0ZHEwR3hzeTdtN1I0UlZpcEQ5enpxNDJzcHkzczlLVGwtOTFiaWJ6cW9xTTFOWDhUbGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-12T01:23:55+00:00",
+      "summary": "OpenAI Says 10,000 AI Agents Solved Navier-Stokes, Sparking Credit Dispute With Tristan Buckmaster  NewsCord",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -19,43 +64,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-12T01:04:00+00:00",
-      "summary": "OpenAI reveals another rogue AI attack  Politico",
+      "summary": "OpenAI reveals another rogue AI attack  PoliticoAI agents being tested by OpenAI involved in cyber-attack on another service, say researchers  The GuardianSenators from both parties question OpenAI…",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI agents hacked another company before Hugging Face - Washington Examiner",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3BoaDY3em5ON2hIdmhQT2NmYzl4NnJISFVEV3l5Z2swZ1VBYW93cmpFS2NrV29sRnk5WDM2bHd3VW9kWDF5NnVvbzZvNlRWZ3lXTkNRQkl1T2lHY1B2aVhieEUzWll6VzYzRTh2VkN3ZnVMamtKcWJKMEpSRm04RWJZbjNsVk94Yl91SV9ESDBaLVh0S0ZhcWU0QnVCdnJWOHYwMFd2MWE?oc=5",
+      "title": "An ex-OpenAI researcher's influential nonprofit is now smack in the middle of AI's doom debate - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQk1LZEhUcjdtdThkMzlySDl4NzdNU01LaUFpUG15eWpBM2VtN1dNZ25hVkdtSUtXT3o2bUE4LVVRMlFicVhRenVYSEF3TzFJaFktOU9jLTViRF8tYkFwSm50X2F0N2NoUl92bnNFSHp3Q0lNa2F1ZVN2OUs1dmVqODhUTm0zNm1MYU40YXRiOVRNZTRFT0EzNlg3cWdsQjZ0R1VEdHdyOHk4MkxPREluQ3gzQTV1NF9aR0steDZXTmtlVmpJVWFncUNwOElCZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-12T00:19:00+00:00",
-      "summary": "OpenAI agents hacked another company before Hugging Face  Washington Examiner",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZKUnc5TTdXbm1ZSmFOMkFkVTlnemdWSjlpeHlXMDdEdlZjeTVWNHVQSVZNUDgwY2sxeHowZEZNOFlCU3BBeFdFOUIwUUREQzA0V0JNVmFZam1KVVZqU1JUYVhwbVo5dWU0N2g5a1Q1VUI0eDdGNFllaTNjSUIyVXVqRk5xTGFuV0lxWXlzaEdqLXJYUGI4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T23:56:00+00:00",
-      "summary": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers  The Guardian",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T23:31:58+00:00",
-      "summary": "GPT-6 Astra: The next generation in intelligence for work  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI agents attacked software service RubyGems before Hugging Face incident, WSJ reports - The Mighty 790 KFGO",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1QT2dvUGpFc1E2c3p1YzhHeFpxMXY0SGZYTUlLSEttZEQ1WFREek9FWXowT2ZvNnRPN25uYWN2QmNYMmQ2b2Q0cFNXWlhoam9uMXljUEpwekNfdUZrdmwwWk1jcTF6VXdqZlRDOHQ4bFhyS09fWXF4WmsyWUJNS3Nsd25UTHBjRkZQYWhNcUVXZDRKTWlRanFybldXVVZWdC1Ha2RkbmVqR05YMXZaWU5CZ2NLTFY1aEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T23:11:26+00:00",
-      "summary": "OpenAI agents attacked software service RubyGems before Hugging Face incident, WSJ reports  The Mighty 790 KFGO",
+      "publishedAt": "2026-09-11T23:01:35+00:00",
+      "summary": "An ex-OpenAI researcher's influential nonprofit is now smack in the middle of AI's doom debate  Business Insider Africa",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,6 +105,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI employee takes down ChatGPT-coded RuneScape clone following Jagex cease-and-desist - pcgamer.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckFPV2ZyczFmam40TzVlVGZwbnlfT1h1eGpNUkpBVmdGR2dBSm9sUkVlejhBTVB4Q2V0VnA5eTNDcUlrY2tobnRZWTFnOFgyd0FyZVZSVFR2VFdHdXRhbkhMazc1Q1BxUmR4MzlMRk9RT09nYUtoVjRYaHo5X1czZ3lrNE93VU5ieFhRb0pzbDI4aW1fVEEwMnRQd2c5QmhiNTd5Q1dtbTVoWjN3bXRxUGFrQmxKQnJNRmMwTF9WVzdnVHh1?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T21:07:32+00:00",
+      "summary": "OpenAI employee takes down ChatGPT-coded RuneScape clone following Jagex cease-and-desist  pcgamer.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "GSA, OpenAI Reach OneGov Deal for Discounted ChatGPT Access - ExecutiveGov",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5adVMyMnF4X1YtVmUwbXZGcDEwdzY4Y01fVTFNM09lV3lDem1mb0pDSXY5M3pYN1VwSkVLWFZ2RE16WEhVU2FYT043UmMyMjdEaHpzR092SEItNFJVSnpRaEZ0ZW1ZaldWUmNCNEJkSmpqMGJsdUNlMmF3aGtFQQ?oc=5",
       "source": "news.google.com",
@@ -101,15 +128,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-11T20:57:36+00:00",
       "summary": "OpenAI’s feud with mathematicians is only escalating  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZW53MEhyU0MyTnZvd0sybFdBSFFfcDBBR251SEROR0NSU3RNT2poZzByRWI5aE1xekJUSHNoZHczek9zS1NlOXVmTmhacmYxNFp5OVRJcTFTbDNveDdSOE16WDF5RDYzODFaQXNXbnZtVjBCR1BUVnZWMlZfOW9kYm9DQWJjdnVIMVcyVjhuWklWQ0xKMlZvaW5yOUNoZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T20:16:41+00:00",
-      "summary": "Former OpenAI Researcher Bets on AI Stocks After $35 Billion Wipeout  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,29 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Turns to Congress Over Antitrust Fears Around Coordinated AI Slowdown - Northeast Times",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWwzc2FCZWQ4bW1fS3gwRkp0eHVmYThNajUyU0ZsTl8wbWs0RnJUbUJBU0hTM0pCQXl0SklhWERkQkktUkVWNTBEU1hJOXYzVG43MmpqdGR6RnJ6eW9lTEZqZkVaWDlVMFlBWWs3Z1YweGxGUnlaTjVWSGU5ZlIxZEVoV1d6M1RqdG5pSjhsRGxDQi1ycFhoaFV6bkZQMldHWHkxVFV4Y3ZXOVlzMm00OEFDT0Utdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T19:57:10+00:00",
-      "summary": "OpenAI Turns to Congress Over Antitrust Fears Around Coordinated AI Slowdown  Northeast Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI is open to slowing cutting-edge AI, CEO Sam Altman tells staff - The Seattle Times",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDJWOTJBMTVUeC1BTWg5NEhnNGY3TlJEdHJmM2Mzd19uaE5qX3VpSGlvUXhwdkwtSGNYQ1VCYTNRM1hxdF9STDJWTDFtQzJFcXNXS21GeFZKRDNQV0tEVFN0dDJ0cVRQaWJzZmVfRk1ORGFrcTdTT3dwT0laX29zbEpWU1VQTjBfNzFyY2VyTjgzSjBFWmU0QWRQZWxzVU1McGVTU2dpZzhOejA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-11T18:44:26+00:00",
       "summary": "OpenAI is open to slowing cutting-edge AI, CEO Sam Altman tells staff  The Seattle Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI halts new $200 ChatGPT Pro sign-ups amid GPT-6 Astra demand - The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUtTUWFOM3U0Qzhua25tUUlLd0ZlMHh2V3VOVWxJWFZ6V1hqYzBOakZhQmoxaVJpdTU1cDNwaXFLZ01SbjFEMEJFNUhzblNGNXZWNTZCdFhPa3E2M28wY3d1OW41R3dIR3NrcERscnRQbVRNVXF1QzJEeXAtb3l4VWZwZHFJcG5oRlBSWFBQX2QwUWlMc1BxWW92WFN6OFBvSVlQRkFUaXBXYzl4bEMw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T18:26:40+00:00",
-      "summary": "OpenAI halts new $200 ChatGPT Pro sign-ups amid GPT-6 Astra demand  The American Bazaar",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -168,29 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Oracle and OpenAI bet that more solar could combat data center pushback - latitudemedia.com",
+      "title": "Oracle and OpenAI bet that more solar could combat data center pushback - Latitude Media",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWo5eER6eXByOVliUTJnWGdFUWxlZzN3bmQ0U1lXWF9KcWxxOW5Mc1p3UVpseGRFajZZVXY3VGU5eHpwWUdOcjA5Q3lWZVpidXoyZ085eHdWdklock16QzFhekJqQmtKLW5LR0hJWEFTOVBBak95RlZHcHA0SEU1LXM2MTNnMzhJblZlc3hlbmgwZ1A5bW1JMmprV2FyX1JyLUJMRWVUcFFWajg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-11T18:14:59+00:00",
-      "summary": "Oracle and OpenAI bet that more solar could combat data center pushback  latitudemedia.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Watch OpenAI’s Altman May Slow Down AI Development - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWwwekNUR2JGMmVEWm1aT0FZNEh4VlZzd3cyajdDVndtMmJuOGVuX2lCTFd3ZWdPVFdPemhtMTduNm5rcXhPMVVyWHNRWWxNaGE5MTBUNGxDY1lvMDg1QkI2YzEyN1FKUjRBay1hRHVybDEzeGcwOVZER050T2ZUdS1CXzlyQk9FQV9fVWwzbC1fN1VlRWJTN2IyTnhUS1kx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T18:13:45+00:00",
-      "summary": "Watch OpenAI’s Altman May Slow Down AI Development  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Oracle Earnings: Watch Out for Massive OpenAI Risk Despite Blowout First Quarter - MarketWise",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkdTB4TURmY19jVURxMlNzLVdvcTNyODcwTWY0cGMtenl1SjJjaUFVZ21TR2tScDNPZThoNHdrYXlzMXotNFFTREE2QXN4b2xiYUVJN1FxMW9zeVg2d3JjNElnM2hkRGQxcWRsb25R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-11T18:10:11+00:00",
-      "summary": "Oracle Earnings: Watch Out for Massive OpenAI Risk Despite Blowout First Quarter  MarketWise",
+      "summary": "Oracle and OpenAI bet that more solar could combat data center pushback  Latitude Media",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -213,11 +195,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Palantir Wants the AI Work OpenAI Cannot Touch. Nvidia Just Helped It Make the Pitch. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNci1ScVpjUXY0ZWlkcFh0czA1N3hhMnR1aFZUaU01Rk00TVpZSG5CeTYyT2NtY2kwV1NkLTdDcDJWamR5c2lqYkdaMnFzVnhKUTBoZUVCQUVMUHg1NmtzbHlFLWt1U2lXSXdEUHpEdUNvbmtMSGxQY0swOUQ3aVg4YmQ1NmhueW1tWE1LU1JJbjNhYnBTbExZc1VrTQ?oc=5",
+      "title": "Palantir Wants the AI Work OpenAI Cannot Touch. Nvidia Just Helped It Make the Pitch. - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGlOU1liY3NKU3c3azhFb0FxT1NzUVkyWWE2TUxLX3duQ3RTYm9fd09wYkVoQ2pobDlqaXh4bE0xYXA1SDMzajhjUVR3QUhMZ1dxSGV2ajBIMEtkMmpmaTNTekVpcnN5WEpicVFGc1ZVNDhJS3R4aFRkM0p6NnJmTHJrdFJTVDd3WWhSYXZmZXZIcWt3VzFsX1Zfa2k2R2E5UnlxNzJiNGpxVGlZUVo3OTdMeGVlcWUzUDJnWm0xekV4OG00TXc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-11T17:40:06+00:00",
-      "summary": "Palantir Wants the AI Work OpenAI Cannot Touch. Nvidia Just Helped It Make the Pitch.  Yahoo Finance",
+      "publishedAt": "2026-09-11T17:40:00+00:00",
+      "summary": "Palantir Wants the AI Work OpenAI Cannot Touch. Nvidia Just Helped It Make the Pitch.  24/7 Wall St.",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Targets the Work Junior Bankers Do - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajhYSWtjaDdHbi1rZzZ6eS03Tk9zamI2U29tbm9JcW92dWYwclBRZUxkVHRqSjBmZDVyS2liV0s2UWtWOHV0VmRRZWRvVzdwN1ZoNG9pQXZLVGFkR2hQcmhSdTVDUUxrVjNkVktFNm9pOTRZYXAxWWY5MW82TExMTndzMlotOUJlTlBma3MtREJ6eV9HNmo5TXlpWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T17:33:26+00:00",
+      "summary": "OpenAI Targets the Work Junior Bankers Do  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says he’s open to slowing AI as safety risks mount: report - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmFxSm9VQVk4cF9zUUJ5Qnh4cmJoU0JJZVZfQU01WUxFWV9La2ItT25MSU9zSFNEYTdCOXhPYWFqczUtMHlUT2x4NHdFY2NKdkNOMnY4dURWMjZzRnJiT2N2dHRmY29HQ2lIOHZNM1ZKS3JqSkdqRUFXSGo2dWJoazNWSTRhclZYdDNobjRVUFNjS1I2b0ZmSzlQWUNERmdoNFB3SWlwaktKS19IM0J1djV1VzVZRU9JSkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-11T17:10:00+00:00",
+      "summary": "OpenAI CEO Sam Altman says he’s open to slowing AI as safety risks mount: report  New York Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
