@@ -1,25 +1,79 @@
 {
-  "generatedAt": "2026-09-13T05:10:44.183526+00:00",
+  "generatedAt": "2026-09-13T10:19:56.262612+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "He was close to a $1 million breakthrough. Then OpenAI swooped in. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOEU2c2tLazZ6eDhNZThjN2dLOTc1VUx6RmpiclRac3YyZU5UUXd2MGp5aVdhdmJHcng0MlVnZlhPdXg2NW84VDZ4QWtfYmJ4MWVrZnNXQ2VjN0QycXR1YVY1VUNWTEZtN2d3OUtQalZ0VWE4bHRJRVZUVDNwcEU2OGNBdjRSWHdpRXBLcC04OUxZTG44UmpUalRnSUpXVlAtM1NZUUw1SjJpWmFjS3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-13T10:10:47+00:00",
+      "summary": "He was close to a $1 million breakthrough. Then OpenAI swooped in.  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI AI agents were linked to a cyberattack on RubyGems before the Hugging Face incident - Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0VpdGZyT0l5MFhkVS1Ed1BhektoMVRQUWZkYjBBRVUyaHFmSW5mSTZhMW9xMV9XcXQtMzR6NTJJSElVZmxPTGZSS2w0SVlRV0g4eXJBcmJGNUM4TlplelYtS3ZoWk85eWtfcllick83RXJCMzhZLXdYNXNFRmtYWHZuX3NsMXlzdGlnd1JvcUdReVVBd2VrdkRVZW4tcEc5ME4tRlM0SDBfMS04MS1JSDdBYXlLWHA5bnNzclhpdTFtZDBpczJBWHltcw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-13T07:42:55+00:00",
+      "summary": "OpenAI AI agents were linked to a cyberattack on RubyGems before the Hugging Face incident  Digital Trends",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkFTZ25QYzR0R0V3UnUteU9DTl9KZzRRd0ZKMjhYS0tqVUFDYjlLaFYtSW45eVpjeGg3Q0EybnlKQ1JLUWZiQ25DTVBYUjJlVEhGeVQtR1JuQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-13T07:06:41+00:00",
+      "summary": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC  BBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI rules out 2026 IPO, calls AI extinction risk 'unacceptable' - news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT2w5LUo2aEFQU2pUWDJjWGFtWkVaNjlwbkdQWXlxZEtZLWtnZnJ6Vm9xbXV3dktQZ25EX3BLaTZxYkgxeTRnaG96czY1VlN2T2JNdUt4T19pUkpzU21TMVQycDlNd2xfcFlaY2h1Zm5ob0VZWnNja0pOa1c3WEw3c05WVVljejdYbVNoanFtUUtYWGJhUWdFZEJpekprbjc4TzRWdnZjQ0VFenQwMWZMWmlEc1lIYlVEbDVCR1Jn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-13T06:46:57+00:00",
+      "summary": "OpenAI rules out 2026 IPO, calls AI extinction risk 'unacceptable'  news.cgtn.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman: OpenAI won’t go public this year as AI safety risks grow - calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdF9UR3NtbW5fV1Q2X1VNbVBzVDl1cXQwcDJTQ21KeVpqSFpUcTV6d0hlTEdmR1FXVnpqZFdIVXp3aHNKVTNYVEFuaUR0ZjRYems0SWZVNFlRQjBFZlVGb2tNX1dKOUJI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-13T06:39:00+00:00",
+      "summary": "Sam Altman: OpenAI won’t go public this year as AI safety risks grow  calcalistech.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI rules out 2026 IPO as Sam Altman flags AI safety risks - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaV85SXZONVdCb1djbmliTEJWeGRXYmMxMDNKOTNsa3puYWlYNzFpOGd4alBndkFmVmZGZU5YbTJFWU5RbTJFbmhmYU0tQ3NKazQ5RFhhLXVqM0l3c0t4VlNnZlBOTGtMUUFrdDBMa2Q2MFRsTTFGWVVmcURQVGl0WDQweXJ0c2VmSms1eGVxamxvLVo1UmdNLWdvS2E3cm9IanpIeVpqTUUtR0xPNnRENkVVZGdaNmw5RTMzUk5XZUc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-13T05:38:52+00:00",
+      "summary": "OpenAI rules out 2026 IPO as Sam Altman flags AI safety risks  thenationalnews.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-13T02:38:35+00:00",
+      "publishedAt": "2026-09-13T05:38:42+00:00",
       "summary": "GPT-6 Astra: The next generation in intelligence for work  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Rules Out 2026 IPO as Sam Altman Says Going Public Now Would Be ‘Ill-Advised’ Amid AI Safety Fears - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSHduLXJ0M21pQUdtWGFhaEJ2TTJPc1VQaVhpM3JqTVFJa3h4QjVTUWc2RElBUFQxRFpnUFlkbVVlZDlfLWVFYUpYSXI0amVpVnZZVUxhNGZYWGVTMXJaNlQ5QWhDQlFhM1FGMExQdXg3RGlMUVllRGIwVzVIQ3haemk4M1ZERC1KcHpzUm5rRXoxZm5VWk1OMDlWdExvd3RMWVUyX1Zland4b1JGTV9GSDBWRlJzQXIzUW9CLU9PTHhod0pSNWlPZWpsbXNUVThIdVNONW80SW16S0tVYUI3TzFTTDZWYzJCMTJHNFBHTEt4cmFY?oc=5",
+      "title": "Altman says OpenAI will not go public in 2026, citing safety concerns - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTZtTkVCSEdvbHZ5RDRFb2FuLWZIaW5iT3BMMjVZNEg0czdkSzMyazB0dUFFWEVsLThNdjV5c3g2STRuR0gzVzNlZURzcDZETGJJQlFpaGo0YWtmLXlrejc4Qi1xLS1jZWs4cTIzNmZRRm82dDRVekkyZHVzSjM0TXpfOGFpUDFRc2phcUNmcThOVnVkMXZIUGd0RWl4c1ZwTGVNdkxxdE5DN0E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-13T02:10:00+00:00",
-      "summary": "OpenAI Rules Out 2026 IPO as Sam Altman Says Going Public Now Would Be ‘Ill-Advised’ Amid AI Safety Fears  TradingView",
+      "publishedAt": "2026-09-13T02:39:00+00:00",
+      "summary": "Altman says OpenAI will not go public in 2026, citing safety concerns  Washington Examiner",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,11 +96,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI CEO Rules Out 2026 IPO, Citing AI Safety Concerns - northeasttimes.com",
+      "title": "World in Brief: OpenAI delays IPO plans; disruption to oil routes continues - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTlaRzNKVjI0Z2x2SXVIbHVqVm8yVHU2S1NiQ0RscWp0aGVuNXlCWXhvVHgwTmtpbG5LY0g4Q29uY1BfWHQ2MFJDQXVwVnRXQ0E5V2pfZVl0YWpHVzBVbUxkUGFlbEE0VGxWM2xIVlhEdHJ2QnNEZmdYY09TN1FhcFd1b25kZ1FtS0Zqdzg1emhRX3RHNkNz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-13T00:00:00+00:00",
+      "summary": "World in Brief: OpenAI delays IPO plans; disruption to oil routes continues  The Economist",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Rules Out 2026 IPO, Citing AI Safety Concerns - Northeast Times",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3RwbVFfS09fUUo2XzJRU3I2X0pnVEUzYnZCS0d5Y3FCd05PeUVHN2JoT2ZMRnM4VEJ4azBSeW9uTW05Z2ZESHhOdmQ1aXdmaVJwRXA1Q0RzTG5XQzFLbm9xUzRlcWZsMUFhY3dVNUp5a3BwblY4Qml1NF94TXJhb0gyaVlDdHNaYTJ5TmtsMjc3NTFNSXhmMnN3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-12T23:54:22+00:00",
-      "summary": "OpenAI CEO Rules Out 2026 IPO, Citing AI Safety Concerns  northeasttimes.com",
+      "summary": "OpenAI CEO Rules Out 2026 IPO, Citing AI Safety Concerns  Northeast Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Unsanctioned OpenAI Agent Activity Targeted RubyGems: Report - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUF0NEI0VmVTZEhZM05QMC0wYnBJZVBTbmdQcUZzaTNkRlltRHh0bWJZWnNXRDNUNlo4dlE5ZnBpbUtDWTQ3UXV1QnFYaFBJU0VDWklnVDQ3NFJyZkdiVlBBYUpCQWQtUkNiX1FBVlVudFJnbldabkxSMzVWbTViUFFnODFNMW1ZaGdPTkUzLXZ3aEpaNGlEVlo2T294bXM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-12T23:07:44+00:00",
+      "summary": "Unsanctioned OpenAI Agent Activity Targeted RubyGems: Report  Security Boulevard",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,29 +132,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-12T22:57:38+00:00",
-      "summary": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic and Musk converge on an unusual idea: slow the AI race - CoinDesk",
+      "title": "OpenAI, Anthropic and Musk converge on an unusual idea: slow the AI race - coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTG9QUHNsbWFDOGVZbVhtUU1XakpmQmlxbEQxZmpyOVRHMDQxUHoyRjRSdGVuY3kyRmc2c2tvM1RlN05peHFMeWQzenBMckdCajhvQm1OdUlROU1fQ2FRY0FMWWFrLWxLc2dubkRhZ2F3Q3dDUlA3MFpJMkltakJEdkhyZmxJVzFEbnVZblpYcVhIZjV2RHpvTEJlOUVvZmZjeXlfU2RVU0dnUjk0THBsUXNxMW5KNjdi?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-12T22:09:14+00:00",
-      "summary": "OpenAI, Anthropic and Musk converge on an unusual idea: slow the AI race  CoinDesk",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Opinion | Don’t rely on treaties to stop the murderbots - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ2xIbmZYMzNGd1R4aGRnV2hJMWJnUEUzNEZPYk0xczJaR0oySW82eEV6Vkota3IyMk5YajNMUEd5X3BkaHpta1VxczBRRm92LW1fOFlkUlZSRHQ1bjcyZksyTzBVcktQTVZKdkpGc2ItbEJGTDJtUmpHU2l5LXZQanpyRGJoazZLRVRmUW85QlY5Z2Q5ZFZUR3YyajhKLWdRN0V3M2U5NC1Ddw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-12T22:03:34+00:00",
-      "summary": "Opinion | Don’t rely on treaties to stop the murderbots  The Washington Post",
+      "summary": "OpenAI, Anthropic and Musk converge on an unusual idea: slow the AI race  coindesk.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,15 +168,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s rogue AI tried to hack another company in May - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0FvUEg5MVowVmJDQzhCTHB5YnMwNVo1ZzhoYUJzcWpISGRhTl9hQWRzR25XNEluY1FZV0VyQ1NTOTVIMGljU3V2NmZ2ckNGTkZPNDlBRC1hSlM1VHJZZWF0R3NDVEwyTW1xWm9QbXA4QVk5X1g0b2hFQzVZN1NmZk5ZdS1HbkxNeWlQZlJ3bTVTazQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-12T21:41:36+00:00",
-      "summary": "OpenAI’s rogue AI tried to hack another company in May  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ - The Verge",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNUsyRzdaaERCOXV2aTgtMllKLUZkUGdfczhvQTQxd2VORE9wUmktY2xQaDNoS1Z2NzZya0xZQ1FzeDJQRThKNDVrRXlCdVJnN3JCU3ZrTGluODhwZGlsVTF2NURhR2RWN042Vl9pRDFnS3daTXJfcU55ZW5lMW1MdDdqaFRTT3FjMy1mLWo1V3dZZTdCa1JRb3N4aw?oc=5",
       "source": "news.google.com",
@@ -132,20 +177,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI IPO won't happen this year, says Sam Altman - CoinDesk",
+      "title": "OpenAI IPO won't happen this year, says Sam Altman - coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1NGNkZiUV9EM25CcFl5RnNkR280OXA4djJLNElPUl82ZU9qTk9ZVEFzZkRQY2hGNTlSbGRrcERhTFRjYWl2MC1YdUg2X2ZxV05pSU5kWW5Rai1pX2NfSkZpQ2M1TmxNLU5Cc1VtUmFKT3ZOenU3VkFkdm9hMUJ1RGhoUmE0QkJQN3d0RTdPSWhxdUNJMmktLQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-12T21:09:31+00:00",
-      "summary": "OpenAI IPO won't happen this year, says Sam Altman  CoinDesk",
+      "summary": "OpenAI IPO won't happen this year, says Sam Altman  coindesk.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic’s CEO Wants the AI Industry to Pump the Brakes. OpenAI’s Leader Agrees. - northeasttimes.com",
+      "title": "Anthropic’s CEO Wants the AI Industry to Pump the Brakes. OpenAI’s Leader Agrees. - Northeast Times",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSEZCd3d2VkFsY05mSWtSUklaT0J0M296MmtxaEd0TUZmczIwQzlyNVU4aE1lbm1QbEdaRVV3VktIOVFPNDJOV1hOT2tnelB3bVdqazBFZHRWY055RU9tX1VtRVl2YVlDMXJYNFd4aDVid2QxcEtQME8zdlVvUjhCSkdtbXJoNU1xNmFzQk85UXlFei1zdldSY3hzRG5zSkZtclR6R2ROTTJDQUFzdk9iUjFnTFJ0ZWFINnc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-12T21:04:27+00:00",
-      "summary": "Anthropic’s CEO Wants the AI Industry to Pump the Brakes. OpenAI’s Leader Agrees.  northeasttimes.com",
+      "summary": "Anthropic’s CEO Wants the AI Industry to Pump the Brakes. OpenAI’s Leader Agrees.  Northeast Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,11 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - reuters.com",
+      "title": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-12T20:38:00+00:00",
-      "summary": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'  reuters.com",
+      "summary": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-12T20:31:29+00:00",
       "summary": "Sam Altman Says It Would Be ‘Ill-Advised’ To Take OpenAI Public In 2026  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026 - techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDYteTJ4VHRtbkNDNEhiVHFralh2cTZ2TUZIQ0E4aVNmcEctV1dxQjVuSmxLZGdrelcweXNvSEphQ1l0bmkzSjdzZC1NeGkwSE5JNmpRY21pVG5reDhwaklRVnFXY2VoYmJuRHBfc2lXVWIwTnVycTBVNFZzdnRjRFFnY2dMb1NSaktMNkdraEVlWlJKYmY3cms3VXVTSzJqa256Q0dn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-12T20:19:16+00:00",
-      "summary": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026  techcrunch.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Agents Hacked A Software Service Before The Hugging Face Incident - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wYUtkUldURVI2UUdDYmZrNVA4Q01oczcwZEYzbGFWc1hiOGNScXBWRzlsbm5VTWpHaUZfeWhOOTVGaVlNV1JaSjJiOGNObXlfVWdaRS04SlJpdHo4R1FXNmV0X1ZZR3pXelpDZTNxV3Y?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-12T19:53:01+00:00",
-      "summary": "OpenAI Agents Hacked A Software Service Before The Hugging Face Incident  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzhjTS1GNC1rcHlXYWQzQ2lZZ3RjWm16N25vNzZXTGZPZHRnM3Z2WndKb2Fsb1Q4VE9ENDdUamR0enFSeUdINWpabW93eDRueFlSYmkyWGtWaFRvVGs3UlR1MXpUWHhYdlFvdWNTTEhUZHRzRllyZ2hjQUFyNTV2eklxazV0dWNabXNtTURUU2tGVEJNTWdfTWRkRGE3MlpGanpqR2JqOHdXQThxRm9F?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-12T19:36:39+00:00",
-      "summary": "OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI IPO Won’t Happen Until 2027, Sam Altman Tells Fortune - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1FpOTJLTGgxcVF4UndsN2pXV2wzNUVxU2NZc1RENmV5UXZISnRiaWx4bW1PSml0aHBqYkl3RHBDVWhra3QycmdsakVoX2pzUE42dHI2TGhva3hlYTZHZHZYTGtyMzYzaDh2RzNya3BzZzVwbWJ4N2N6alRvbG9BSVY4LWlIZ2xpbHBkZEZvalg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-12T19:36:39+00:00",
-      "summary": "OpenAI IPO Won’t Happen Until 2027, Sam Altman Tells Fortune  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman: OpenAI won't go public this year as IPO now would come at an 'ill-advised moment' - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMm5STnhuRG5MT1ZWUjlzeWNqVEFGTjVxaVdkX2hzdjF5VElRajFKd3B2NlkwcWxNSFgwOVczb1l1N284MVlhNTRtMFN4T1dyY1NNVmdFeDBRQVdGWmZmRjdYM0NuTTN5SXhvbi1UaE55TDhCUmdINEZ6c2VobFZQX3ptWm9sTkE3UjB0bDZzNkxlLUxzZHE3N25R?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-12T18:04:00+00:00",
-      "summary": "Sam Altman: OpenAI won't go public this year as IPO now would come at an 'ill-advised moment'  Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
