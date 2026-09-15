@@ -1,10 +1,73 @@
 {
-  "generatedAt": "2026-09-15T05:27:16.054271+00:00",
+  "generatedAt": "2026-09-15T10:17:48.165219+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "One chart reveals how much Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have scared people about AI - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcnB3dDBzWkZiNE41VHJUMjdYbk9nNHY4ZFc4bUtHYVh2MnE5cmlNVEtuNDNKSjF5MXNiVjA0U1hDY25FWEF0c002R1l1WHhOWEtxNGFkN0VueGI4S3FNSUw4cklXaTZCMGpGbWRPeGlDUHpPZTM5My1nUTd3UDB5Q2JFei00eUc2d2ZJQ2lUNnl5dXJXdjBieFZXejE2STFqU0o3dm1iOWdkQ25udG52bVc5a1gydG80YjhyTWU3QTBHcUw5ZzVfSTFBY2xuVFhZSzBUVXI5cFU5MUEyYmZFYklfSFlUQXhSUm53NUVfNVc4R0RhaUc5aWlvemtFMWVR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-15T09:43:02+00:00",
+      "summary": "One chart reveals how much Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have scared people about AI  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says the AGI era has begun. AI researchers aren’t so sure - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORVNwMktRNDBCY0pESE85Y1JIaW5TYzNNNG5LT2NiVFNldzJ0NS05RnlKTlVoNE1vVVBKbFhQblFDc3ZXSkNfRVRVX3VZRE1OWGV5VTBUanIzekR0cFRYcWVjVUVWbTlTd1dNNXREV2o0eHBvYXpZY3hValRvTW5rUV96dExpYzBQUm9FUHNTclh3cS1hNmZZd1VFczYyX0FK?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-15T09:15:11+00:00",
+      "summary": "OpenAI says the AGI era has begun. AI researchers aren’t so sure  Fast Company",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI has tapped a startup to make its AI work for lawyers - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTZCNTBSWXJYYUlJTkJ3R0dNU2RiY1M4WlY4TnhuZk05QWtrMzg4bWtsT3diT3d4R1BFcVF5LXBRX2dSQzhzMl80a25EeXoyUGN3SEt2Mk9ya1A4NkFMd2JEWXQyN0MxX1FPaWhZaW9RR1RIYTgtUXNuTmVDUFM1SHNLNlFGVnoyZnJsaTdyTFBOcmVr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-15T09:00:23+00:00",
+      "summary": "OpenAI has tapped a startup to make its AI work for lawyers  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-15T08:46:47+00:00",
+      "summary": "GPT-6 Astra: The next generation in intelligence for work  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Box, OpenAI Partner to Bring AI and Content to Enterprise Work - MarTech Cube",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTEY1SDBkWi1hVUx2SWxBYWFEVkJIMXdZV3dldVpkbDlRMkgwODFwQnktOXhOcGtPM0lOcFU1ZDNqa2FEUEpmaXRNOTJnRjdMMVYzRFZBNGFycGJmUlRlR01qZUl6VHY2ZjN6dEhjYkEtc0dxRXVFQjAtYlZkai02eTR0NE54dTZrZkpjZlJORjNuR1c4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-15T08:03:24+00:00",
+      "summary": "Box, OpenAI Partner to Bring AI and Content to Enterprise Work  MarTech Cube",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "An OpenAI researcher broke ranks to say that pacing the frontier, as Altman and Amodei suggest, won't be enough - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHhyWjIzVWtQcVZBMzBYTkhiMVdCeFpqeUR5V1hmaGg0Y285N0RSTXJlVlFJZEFKZGdrS3VmWWpOY2FKa1hTZkd2dDQyT1BrNGcxaDhIalVuNVo3dkNocHhqVGduVjY5UnUtdC0zcjdYTWV0dWZaNzJMWGs5Qk56RGljcnVQd3hUTlZUaHlHdDBMMHlQWWlwaThfbHpxUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-15T05:50:55+00:00",
+      "summary": "An OpenAI researcher broke ranks to say that pacing the frontier, as Altman and Amodei suggest, won't be enough  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Said to Buy Startup Glass Imaging for $300 Million - The Information",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzd6S25uZllraWMxVmhnam0zYmRSMlJoRVhIRENTbUR5QjBEaVBMUU8xaUwtSzFSNzVFekNIdDJGNzAyMkZfOHIwczNXQjFrU1RrQ3F3S1pNUGg4VVdNUnlab2w2Q2pDeno4b0hyNWYtVVk1NnQ1bnJmaDVTQlBtWno4WEdNa1RJbU5TeGNpMFdwS09a?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-15T05:12:45+00:00",
+      "summary": "OpenAI Said to Buy Startup Glass Imaging for $300 Million  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Rogue OpenAI Swarm Hit RubyGems, Escaping Federal AI Inquiries - SOFX",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR0ZrM0YxbVlWN0YwU0V3am1DNmV2VEh4NHVPTEhJWWZjYVpjaGN1cFZjNi1PWGtQZmF2Q2RjXzM3cHpXWEJsTW5zcE1jM2ltNG02dERibG92a2ZsU0ZJT0VfR0QtbXBidU9SWjNYbmJmMGtqb3J1Sk45bm80bEpYTENuVmF3TnlyaFpr?oc=5",
@@ -18,7 +81,7 @@
       "title": "Greg Brockman says OpenAI has already slowed cutting-edge AI developments over safety concerns - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUpIa01yaU1OaTVMSXZtOUNGLXJDVlpTd2ZOQUptdFp0UlBMTnRMaWd2TmFXcTR1eERZNW45ZHJQY05QYjF2cUQycXR0dW05RUZTTmJUQVZMaGx5dWRhUEJ4MFRJVVhLc3FrSzhLWGdpc3dWYVozbHRNMWQ1a3VUcHBUSlRhVVNmOUUtMDNDYWNpQVpwRGVicGZ6NkRjMTh2?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-15T04:11:21+00:00",
+      "publishedAt": "2026-09-15T04:11:00+00:00",
       "summary": "Greg Brockman says OpenAI has already slowed cutting-edge AI developments over safety concerns  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -33,33 +96,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown - washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFpkVktGTDVQYlRMQjBkem9USkVXZE9ha3ZOU2l3ZlVWSnNObFJlbGU1TzhFNzRfTGRtSlZDbU14Z3FLWVJlSVFZMlk5N0l3ZG9Pa2tqOHUtSnUwSnp4Q244OVhEYVd0LVBzdjB5bkxRdVBoSGNtSS03V09qVXBTMXEyTzJvSzh5ZFozZUtUVFhyYUZ2WEUya0xhMkN6ZFhrc281Z0NfY0xUd29wb3dPcGpjZk51dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-15T03:17:47+00:00",
-      "summary": "Trump wants to push tempo of AI race, countering tech leaders’ call for slowdown  washingtonpost.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Road Ahead: How Creators Are Combining OpenAI's GPT-6 Astra with Tripo AI for 3D Generation - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaXNjd094TGpnbnYyRjVJd0R1XzFyLTFack92c0Q5MFFzNVc1MExIY3U2bnh1aTF4WmNyRFE0YkJ3N20xbWxlR3RnREFhYWVRYVdVcS01S2tsNFlMSEgwQWpWdmV3bjB0MDRObUtwQnJBQVZoQXF2bEhWZ1g5SzI2T0syUkRvcVdMTWZITlJ3aDUzTndkM2lfUlJMRktTM2I1RFVN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-15T03:15:00+00:00",
-      "summary": "The Road Ahead: How Creators Are Combining OpenAI's GPT-6 Astra with Tripo AI for 3D Generation  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "GPT-6 Astra: The next generation in intelligence for work - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-15T02:46:43+00:00",
-      "summary": "GPT-6 Astra: The next generation in intelligence for work  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "The 100 most innovative companies of 2026: from NVIDIA and OpenAI to Eli Lilly and SpaceX - R&D World",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnhzeWY1YU90Mzd5UWgzQVR1a2xUQTFTT0JMOUtlbDVBTEtrUjBhbXltSFJpWVJncld4c3dFc3FkdDlhbFZIbm5naS1jZFBJaHhFdWg2QmNLMDZ5SmpOeG1rTzU5eTdEeTZDbzZzQTdiMVFqMVJ1cUhvTUJSVTJ3dWJUMEtRaXJYc2ZpUTdoamxfM2dmR2NPVzlZb20tVU1VYWljZlZTZWtUcTUtR0RXSEhhTWRDVVpzTGw4?oc=5",
       "source": "news.google.com",
@@ -69,29 +105,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Webpuppies Named an OpenAI Select Partner - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2ZaemhEQUh1VklvdWIzQUdreTlyN0hUdFd0RjR4czVtV1JUMFBhYTg5N1p3RTdWWGxHUjd5US1PYmtnci03d3dzcTNlQ3VXMWZWVXVLRGVpb0VLSUFpaEFVZEZLU3JwM3FQbjdYVlRRYW5KOVlLc2dub0FlcllOLWtUQjM?oc=5",
+      "title": "Sam Altman reveals the 2 AI threats that scare him most - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNFJRd0ZIS0JGZDFybTBTcXcxblF6QS1aSFBUSC1pYnRPRjQ4alU1QkNfenE0WEV1SzNSNEMwRUJOM3NmYXlKZ203WDU3ZGxjQXZ6WHdfS2pQR1lyODhRZmF6ZDgtckJ4Wk9wcXJmaG83QS1xWmJBLThERkk3YWJQZg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-15T01:52:03+00:00",
-      "summary": "Webpuppies Named an OpenAI Select Partner  The National Law Review",
+      "publishedAt": "2026-09-15T00:07:33+00:00",
+      "summary": "Sam Altman reveals the 2 AI threats that scare him most  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "SpaceXAI Drops Apple In Antitrust Claims For OpenAI Deal - Law360",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzU3MGlDTnlsOXNZSVUwVG1CVHZLRlNBLV9YNkw4ZDU5QzhaMzc1LWMxMTVQMC01MldKMXY4MHRXSDd2MjJYT2Z2UkdCdmlOcW03ZXNiSHFSY2w0anlYS25JakNMc1pGYi1LVWZ6NjBtVy1idWdOd09DcjBfSG1SUm9hYlNCc1dKRDc4MmlRQlVPcndPRXNBLU5HTW1uSXZzeUtTcWFGMTFvUdIBVkFVX3lxTE9rZ2d3TmR4QURva0pYY01TNVJ2SlNwd0ZBWGlNTUdndm9BV0ZuODRKc1V5a01oalRKSWtTTHNacVFZYWFIS2FNb0R2LVVCNm5MVFVZQTZn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-15T00:38:00+00:00",
-      "summary": "SpaceXAI Drops Apple In Antitrust Claims For OpenAI Deal  Law360",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Effingham County parents question OpenAI’s motive behind $4.8M school meals grant - WTOC",
+      "title": "Effingham County parents question OpenAI’s motive behind $4.8M school meals grant - wtoc.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0JtRTdCbkhscTJlMlNOSUpValF4Zlc5bUVCM1I4OTBjTk4zUW5RSzEzZnAyUm5hRzBHbnRFSjQ5OE52YkRDaGFqZzNTX0NXYV8zaXJ5aExGSUZpdWxFVEJJNUpzRmQzaDN4OFFpcTdjSkJlYkc2QmZyd2pxamVJZElVVS0yX0I3c1RETFY2cG1jUThZZ2l5V1lBTXJOZ2N2cm1uRlhjLWRGd0F5NE1leNIBxAFBVV95cUxNV3Q1MjgxcVNQdi1ibnBIU1dTREwyYTNCMllWZXVGNFFLVFR3WG1zd2lWYzlucXg0cXg4TjV4UmdJUEc2TGdzTWpzN3ByYVo1Q2t2cDYyYWJIX0E1dlpYaXN3RFRNQjZLcFJNbkxaajhGYWZXQ2NGaGJFX2ozZV9PSXVrVTV0bnIxakNxRlBRNFVVeUlXMDFxZDVFZUIxandXSUlFMTBlcHNUQ3ZQWGlRMi1makhJQlNoS1pkMU94dUU3N0NQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-14T23:19:00+00:00",
-      "summary": "Effingham County parents question OpenAI’s motive behind $4.8M school meals grant  WTOC",
+      "summary": "Effingham County parents question OpenAI’s motive behind $4.8M school meals grant  wtoc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,29 +132,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Elon Musk Drops Apple From AI Antitrust Suit, Keeps Aiming At OpenAI - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOczVzbzVYWWZ4cVZTOEFLeV9RN3NfVzVscmJDdEhSOFNDSGhlcFBGeFAzU2w5bTVXbHJKci00R2NaNFRRSkVmSW50dkN5ZDFaU1h4X2dxT2Fkc1hsQlJoOFpMaGJtNjQtWmUxMmlXcGFoNTRwMy1aU1d2ekZ3QUY3NzFHYUdva2F3NHVNWU9HSUxNMTZBSERWUUtUb2FPaFdPdzJMQmFBNVpQXzYtM05wNVYzSnh3bl9xdy1GWXRTSkpELXZ5QzlXYllRQUs?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-14T22:23:47+00:00",
-      "summary": "Elon Musk Drops Apple From AI Antitrust Suit, Keeps Aiming At OpenAI  Stocktwits",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "US judge says she will stay on OpenAI case after divesting Microsoft stock - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnQ3Z0dGR2RybDZWNUdpdWNULVRlUGkwRk9sTDhFYkhaS2dQakVSWnhuSnhqdXlvZVFpMmNPdE9NdU1BYThCMVdXOEo4T255MTRwVnFJRzNFeHlpeXlSWHU2NEZTbTB3ZVVyMzFJN3piMGs5OHZ6bjFwdmJid2R4VXpoTG5kMkM5czdXVmxTWUhzZ25LZzl3SXM4TnNPTHZubUxMb1NlalpiLWVaVklNb1dyOEFCSmRjMDQwN29vMEVrUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-14T22:12:31+00:00",
       "summary": "US judge says she will stay on OpenAI case after divesting Microsoft stock  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Study: How trustworthy are Gemini, Copilot, OpenAI and other major AI names? - finchannel",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1JqS0dDWE1XMFBzUlVwQ3FtVkVmZVlUeHhiNVM4TksweGlxRkF4X1dJbzh0VHhFbWdXMElJTVNza0p4aUFGbWxjYjNHLVhnMU5mUVhDa1JJV0N1LWN0anp4emFPaFpTVENuNWJmdUNQQlczWmJSYzNxc0hGU0JTSWhMbEE4alNvQk9DZlYyVGxKRy1EOHZxcVV3ZDNCdnJMM1kxai1yaWhFRFJqOWU2c2NSaHRubF9xTHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-14T22:05:51+00:00",
-      "summary": "Study: How trustworthy are Gemini, Copilot, OpenAI and other major AI names?  finchannel",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,20 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Accelerates Device Plan With AI Camera Tech Acquisition - PYMNTS.com",
+      "title": "OpenAI Accelerates Device Plan With AI Camera Tech Acquisition - pymnts.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM3NUTVF2azhTa3c5UWFqTDhVejJwb2tfRkFXdDAtUUR4QXdWYkVQOS1iM2dyRkJXbmtDd0FXakRjZ05WdVFfRmpzNlpKWHpSVk5rOEFER01FaTJSV0IzYlFvNkE0UWhMNW5WWFBIV2hmQllObTFuUWc2amJ5Z1pZRW1GNW44ZUx6aDE1X1ZUTmlNSDB0VkNLS2xrQ0tudjdMQXZnRlI1SHQ0bVByYkpRTWM3MElOVWI5MW5ESw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-14T21:58:44+00:00",
-      "summary": "OpenAI Accelerates Device Plan With AI Camera Tech Acquisition  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Watch David Sacks: Anthropic, OpenAI Should Slow AI If Deemed Necessary - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVZCRzVvUjhwUFNUWm9HY1JuaUNhbGZ2b3RUcldiams4bkhtZnV3Z0hYbnlXRmxvNlZ1OFA2TGhUd0FuSzRpSkw2VkVMVjJCYnFYa1ZBaGZYelpRQVZDTENIWG9wNXZSOGEtMzBCS3lXd3ZQYW1vWVN1MWppRUhCTTJBSHZQMVVHOW1PajNpQUdoZmJ6RWg1THNTZG1xZXZzbzlmQlhZeXIyd3FNcjBn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-14T21:24:27+00:00",
-      "summary": "Watch David Sacks: Anthropic, OpenAI Should Slow AI If Deemed Necessary  Bloomberg.com",
+      "summary": "OpenAI Accelerates Device Plan With AI Camera Tech Acquisition  pymnts.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -173,15 +173,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-14T21:11:56+00:00",
       "summary": "'Don’t kill the Golden Goose': Trump calls AI warnings a 'HOAX' as AI leaders raise alarms  ABC News - Breaking News, Latest News and Videos",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Acquires Glass Imaging at $300M-Plus Valuation in Consumer Hardware Push - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVpfYnFvYWNPczV6WWFTa1dzOU5LZ3EwNEhnTmxPSjhVVzRiWXVFWk55Zy1JVmVYdHVmVFV6VGRfZTV0VWJkdFR3Rk8ycUhGWk5VRXl6ZEFNb1lUcGp3YW1CX19pcmZxNk1iMkNHOWdKTjRUSFJ6dkJ0VXk3SV9jU1l5NUIwajQ0dE9uTUhXdHJiOGdYZHlBUDhveTZwUnVsSnFyQi1faWVpTF8yVXp6ZUxvcnY3SGhS?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-14T21:04:59+00:00",
-      "summary": "OpenAI Acquires Glass Imaging at $300M-Plus Valuation in Consumer Hardware Push  citybiz",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -213,11 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats - 404 Media",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQendQQ3lBWmhDdnVFMWx1a0VaU25RdXdJTW5LNEg0RnVzR25GOEkzNmFSVnpPZU1RUW9LWlhLN2tqNE9ObW5zUU1fUXl0UjRhcjk3QkZ3NkU4MGlvamhhb1FRenFHYUd4N1J3RGRuXzhFazdDTmF6SHhxZVMwTVlVeWlpb3JaaW1QekE?oc=5",
+      "title": "Effingham postpones OpenAI data center site plan review - thecurrentga.org",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN1JydFFSZ05aSzhqSEhqLWZ4d3FOU1RzSXZ5WXpnRm5vVzlaNmpldDJjb2VVS3dhZTdQZWhtM0ljdk1fZWx2b0N1MEdFSlhPZ0pSU3hhX2pnME90UktqVF9INEJnUDlDNWlRcVJONGgweWlBTE5PaG5VSG1SLWxUUF8wMVAwWlRfbFlneGpyVlVwTnNIRHpTV1NzS3U3SmRG?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-14T20:09:10+00:00",
-      "summary": "Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats  404 Media",
+      "publishedAt": "2026-09-14T20:16:46+00:00",
+      "summary": "Effingham postpones OpenAI data center site plan review  thecurrentga.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown - The Information",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRGJlSmxNYkE0M292SnJrQUgyV1VlMFNaZmdYQ1NWRHVxMXd2dU1kVHctSmJpa3dOdjVTRGtRSHQ1QkVfU3VkVERkQm9zN1hhVDFPRGdWWXBXLUxkWWhQbElZdjhOUmRoWG9oaDA0UWR3WV9QeGx5OGtULVMxM19NOTR4OHVYbkNFbEVQOVpXUTlJTkZjQ0ZGMjRTWkZaNTJkN2R2MFY1Vk9ucldOTWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-14T20:11:50+00:00",
+      "summary": "OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown  The Information",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
