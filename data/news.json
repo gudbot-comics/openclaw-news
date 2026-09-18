@@ -1,16 +1,124 @@
 {
-  "generatedAt": "2026-09-18T19:50:40.766603+00:00",
+  "generatedAt": "2026-09-18T22:12:22.761426+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Anthropic decides to support OpenAI's markdown instructions spec - The Register",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXpMVWpJXzU3TldDNVNUZWhqMzNsbEpodXNSQzhQb3NpRDByWVNOZDNwNVJCOXgtUm1IU0N6NG16S0VIbEd6TzJmWjdqLVIyWEMtYjlWRU90UjFVRXk4MU1TcDhkSmp6eURKMXhSWF9SVW56WXRHeFdOVUMtMWlUX3BGWm5maEdORVFuWkFRX01tT2hac3hOZG1nR19uWHRiWG1ZSmVTaWtuekxfSElLRkdtMXl6aUlkQndkeQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T21:33:16+00:00",
+      "summary": "Anthropic decides to support OpenAI's markdown instructions spec  The Register",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Microsoft knew AI posed ‘existential threat’ to news industry, filings reveal - The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTXJYMm13cjF5MHBObk0weXNWZHpzXzNOZzdiRWU1RWloZkVmWmQzT0t0SEtxN056M0V5RlNxdHE5Q3FmTjFsc1ZVYnByNG5BcmxONzJoSlE2eVB0SktHcnZMclJWS0dxUU1KcUxMQm5wMmpaQ2JTZmRwR01aMjh3aVNQak4xcGU1YzdVbTlzeUJER0k4dS1Lam5qdVdrVlRqLXZsUEt5c01zTlRHelJkRHZVRjc5WXo2YzlxU1NTaWd2U3ZvckQ2NjlaSjZSQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T21:26:05+00:00",
+      "summary": "OpenAI, Microsoft knew AI posed ‘existential threat’ to news industry, filings reveal  The American Bazaar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How Hackers Used Claude Opus 5 to Breach OpenAI Systems - Security Boulevard",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXNiMWdVNVUwU0FQXy1tOHFLNUtCTnVjdEhsc29UdWpIaENrdmR4ck9NUHYzSHZ1Z3h0eVJsUk9OMFo5S3VNVmpyTHNaRV80dThSUFNIc1VjXzBZRTJLZkVOaXRkWVAxcWNwMklHbDVkUkt6SGhBa3IzMmp6WjJBVGgwNzFZZ1hhR0RMQUJ2TGIzVlFVenNlQUdB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T21:20:10+00:00",
+      "summary": "How Hackers Used Claude Opus 5 to Breach OpenAI Systems  Security Boulevard",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI company says researchers hacked OpenAI using Anthropic software - WQAD",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMWkwVVd3SG1LZUFYVjY5YWo3OWJWbmM3OEx4cy1SNm1jaUdFc0Vzcld5NEkzbURHNkJZb1FieHZtQWlhVEJkVzgtVkFXVk9LTkJKM21oMlJkc1FwcEZBSFZ4NjRFVzBLdUZGeW40dUJYTDZQT0toSlB3My1pbkVxN0VRN0N2dTg4QVZzdUdmd2Q3VS1IX1pnTkFmalJSMWVNMEh0THEtU0lHNWlTMjlNNEVNRWFJVFBZSk9qQTBzRzZnbzhudHZIUkVWblhSb3RKcGU1VWpB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T21:19:00+00:00",
+      "summary": "AI company says researchers hacked OpenAI using Anthropic software  WQAD",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFnSGpyQWtoZEdZY3IzTTEzZ2Npd2JTc0MtVUxfMW1LeWgwX0xBWXdXVmNHQ1p0NjF6Y1pPdFl6RnNtZTZjZEZfcW5FX2tWSE1ETHZxTmQyNWFIYzJGWHNoLVJxSFZ5SFFZdklHYWZvd0RMWk4tc3FuelVyck9LWDRzMUFmY2tpNDFlVmhIbVBGV2thR2N5UjlUM2pnMFlYT0FEOWhIVzRTaDRlZnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T20:33:43+00:00",
+      "summary": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI vs. Anthropic: the agent platform gap - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRDhMdkFHeFBtcjltVnA2Y013Y01FLWY0M3NRSzctbjI5LUpESFFHQUZldXk0SW5tM1FxS1Y0bzc5ME5KWnBuZXYtVlVKV1VOZ21sT0dCTjQxN3V6SVByNk8yaFJzczZTSzlDVjNOUnVzRjl0X0padExFbk56N0s3eXhGbWZNWEU4Z2M0ZkYwWTBiMERTaWxrQ1FTclpyVkZ1THFzV0NoUUJsMFhTZDBlUUowajc0a0N4RnpEdXg2S19Zc0QtMFNfVWxtamNaYTAzVWY1dHJWa0xvTkw2NkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T20:27:23+00:00",
+      "summary": "OpenAI vs. Anthropic: the agent platform gap  VentureBeat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why OpenAI’s New Transparency Falls Short Of Prioritizing The Customer - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZm9WR0o5dmhkTVlrdlNnQnA2ZmtqbFUzYzFhVWdaTS1jRU56NURFZmVacmo4OWdLb2ZIQWtBZWVFVnFDd3FzRUF2dXZVY1JScUhhNkJwSkdheVpEc3FGYWl3TlpwYkl0dWpUcW43aTloNE93UVpnQ0VXaG1HaFZEelRHWEpia3IwbmlRdFF5aXVWQVp2UVRSWWlrUjlRYlhfQ0duZ2dUeFFjR2xMZ0gtN255UVlGc09FdXlTS21vUGE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T20:20:42+00:00",
+      "summary": "Why OpenAI’s New Transparency Falls Short Of Prioritizing The Customer  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why OpenAI’s New Transparency Falls Short Of Prioritizing The Customer - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTBpWDhmN2lMUEJ0b1FUWFE2YTdoWDFzejdKV1N1eGFvanVlTWg4Um1qVWtsN2otRnZPc0JDQUNMZ1FpbmlDNjV1WnlVUjBWVDlrZVJ1V3BoS3h2eDFUZF8yVkxHRlN4Y04wTWFDbFdla1U2WWV2dXpuVkYtQzRVYlBMdlNpQkNPVEJtMm94NUluVFFDOTA2TkxVRXMxNExu?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T20:20:42+00:00",
+      "summary": "Why OpenAI’s New Transparency Falls Short Of Prioritizing The Customer  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches Astra for Law With Specialized Legal Research and Firm Controls - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWV3ZjNaYXp3LXBpaFpSQk55aGxQUEM1dThObmM3YWVwX3N1VjJadU4yMGw4TEFOZlZXU3FtV1MxUGpETGNhYmVLQk1YX1VJY1pOTWJaVmUyS3MwRVpHU0ZVZno0V2luNXZXRkF3OV9IZVBGcHEtTE5lamVUZXgzRFdGRFVCdVpVNXRtd2lGTjZUaEtwd3lYdV9TUnkyOTd2ZktXWHdBZUQzV2lKUU5LZVg1VUV2U2NTblE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T20:17:14+00:00",
+      "summary": "OpenAI Launches Astra for Law With Specialized Legal Research and Firm Controls  citybiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Did OpenAI Pull Off the Biggest IP Heist of All-Time? - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaDZUblFtTnFZai1JWDlDT3JyV3FyQldiRDZmcjZJQ1JzX09jWFE3bEVfN3QwTkpNVHh0VmFLMHNkdUFhOE16cUwwUktrTUtOZl94NndPbm9RRi1lNkl6d3JwM0p5aHYwckdQV01UTWpqWDdpZS1nZmZVSmgxV2YtVThqS0FONGZPTlhnR2czR2hhZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T20:07:34+00:00",
+      "summary": "Did OpenAI Pull Off the Biggest IP Heist of All-Time?  The Hollywood Reporter",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Targets Legal Tech Market With Astra for Law - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTlTUUdGNnFzazAtWUNmNGphb2xjTURNSURUN0JDbTRUa0tSRnNmQjZvSkZGX29sTVphdldHSzBseTVvTlRYRHpLdFpUX28yNHFKajIycVVLa0dJZDhHdkVlZnNFdy1qcGFEQjljVlpDZURMTHlGX3JUcU9qZFhPLW8yNkRXb3RGU2RGaFdnRkgyTUl5aU5XTnhpcVdmazdSSC1jVUJZLUJMY3RJbnc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-18T19:46:48+00:00",
+      "publishedAt": "2026-09-18T19:46:57+00:00",
       "summary": "OpenAI Targets Legal Tech Market With Astra for Law  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Rare San Francisco houseboat near OpenAI HQ selling for hugely inflated price - nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVFhsak95MEF0UnJWVzhxYXpuZERsdXpoQklXWFo2Sm96MHNQOER3RTV3Uy04QkhSdGdnTDY5RDFEUndocUNMeEM2cXVZYzh6UWpRejI1bmFteUtJeklxTTBka2JTX2F0ZU1xMVVuLURIOC0zOHhDQ2FnMEVYUVJ2OGlzTDBSaVMzVVQtVi1uNVVnOF9lR2JCWWxtWFRocmZUU2JUMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T19:38:00+00:00",
+      "summary": "Rare San Francisco houseboat near OpenAI HQ selling for hugely inflated price  nypost.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Anthropic's Chinese Rivals Face a Revenue Reality Check - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdG1ReG9VNFlaandoNkp0R0hUcE90VXMySWROTWl4a2xMRk5HR1Uyc01lUGlEeExOUG12SjdkVTZqY1hldThHMXNWQ3JVRzZYY3Q4OTlHWjFhak9rQ1lJcUdpVXlWVHFmTXdHbWl6YU5BQ0lvRHpNVVVOcnJhWEJEQ1lrbXdsQXk1RnFKREFnZkhqdFYwdm9YX0Vna0V2SEFZMlljVTMyVVN5TmJjNTc5UndVUWNwWW1kdXJBclBQZTU4VmFC?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T19:33:17+00:00",
+      "summary": "OpenAI and Anthropic's Chinese Rivals Face a Revenue Reality Check  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,6 +141,24 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Claude couldn’t hack OpenAI. Then Anthropic shipped Opus 5. - thenewstack.io",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2aDRIcTVZZ29Gb0hSa3JyM1JVQjg3dEkxWTFMQzMwQXdxS05GTkdQSDdFOVFCdFNQbXl6VUxGUFk5UXNwUUY1dWgzX3FuTGVwVzRaekl4MUxibGRYNjM5aGdR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T19:00:30+00:00",
+      "summary": "Claude couldn’t hack OpenAI. Then Anthropic shipped Opus 5.  thenewstack.io",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Security Researchers Hacked OpenAI Using Anthropic's Claude - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2pyd2g5d09pbWR2OHlfc24wMjQwSUVpRzlsVmxUMW9SSXE0Uk56d1d1UmhNakhBVk1kWUhkWGttR1lEeVBUZlNjakRrUEtrNnFSVmNnR215YjVlX1BwUFd6dmIwOG9senh3SjBQMzVGeVMwM0NxRms5czBNdkpxLWpFYzJMOW1HTnJGN3dR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T18:43:57+00:00",
+      "summary": "Security Researchers Hacked OpenAI Using Anthropic's Claude  PCMag",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI and Microsoft knew AI posed existential threat to publishers - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX29kU1N5cmgyd0ZGaGlkbDgxVlhvbFBmanAzVnVoWDIxb3k5YWdJYTg4WS1QWVpocW1jRFJBZ1ZScWJMOWV4Vm9ZUng4X2EySGQ2LXJZbEdZcUNzMG9VcUZLeDQ4WlFsbnV6bDh3V3ZMbHBuMlYxWTJKRlJieFVVZ1h2TXJXNjM5eWExcDk5cGxCa0ZG?oc=5",
       "source": "news.google.com",
@@ -42,20 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "What does OpenAI’s blockbuster mathematics proof mean for the real world? - Scientific American",
+      "title": "What does OpenAI’s fluid-dynamics breakthrough mean for real-world engineering? - Scientific American",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZmVMUTU5dDJsek1PMERZdFZhalJtRHMzUk5LQnhzVkdqTU51cjlNbHJoWHZ3bzB4ZWVnc3VMc2tsRzVBQVhTRVdONGNEV2k3Nmd0aDRDSUMwUUgybnNiUmhpODdfWVN0dXNWbDNvZUczZUtqVjhsWG05dGxGb2lsT2J2MVpBMjQyOS1IcUowcFAzdlZLNS1QMG5la0Y0VFV0clBodWxydWxKSlI1OUtfLU9scFMyQ3lBT2huQ2d1dkd4aldkNzR2Yg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-18T18:00:00+00:00",
-      "summary": "What does OpenAI’s blockbuster mathematics proof mean for the real world?  Scientific American",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Security Researchers Hacked OpenAI Using Anthropic's Claude - pcmag.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2pyd2g5d09pbWR2OHlfc24wMjQwSUVpRzlsVmxUMW9SSXE0Uk56d1d1UmhNakhBVk1kWUhkWGttR1lEeVBUZlNjakRrUEtrNnFSVmNnR215YjVlX1BwUFd6dmIwOG9senh3SjBQMzVGeVMwM0NxRms5czBNdkpxLWpFYzJMOW1HTnJGN3dR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T17:59:43+00:00",
-      "summary": "Security Researchers Hacked OpenAI Using Anthropic's Claude  pcmag.com",
+      "summary": "What does OpenAI’s fluid-dynamics breakthrough mean for real-world engineering?  Scientific American",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Memphis Magazine Joins Landmark Copyright Lawsuit Against OpenAI and Microsoft - Memphis magazine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczkwVnZpWUlFU1FsdFY1RS1VUE53RHMtZUpRRHZPRGFsZEVDVFZxQWJBaDB1MjhjeGM5ZXVtd1k0UVllLWplbmdiczFWY3o1QU03eHZpNVB2cVpIVGJDdWg2WUt4c21YNE5jRjJtN0FwZ3M4ZTZ4SnNUV2tra2NMTjJ3TWlpNG05SjBsSkxSUHdMUjVsTzdQbGQ5a1JhZXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T17:31:51+00:00",
+      "summary": "Memphis Magazine Joins Landmark Copyright Lawsuit Against OpenAI and Microsoft  Memphis magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "US judge denies OpenAI bid to review X Corp’s settlement with Apple - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkJWS0R0SnJfTDFlYl9PZGhfeXRZb3NoR3BKaDhoaTNhUkxyTFBXYzhfRjcwWWVTTTllSDdRczM1czNreUxLWVhfMVZpWEVSZXdHMktuQmlTeTZrbXIzUklhcVdob3lNTGIxRnJsWXJUXzE2ZXJkOUhZZERyS2otVWRtc1hRdTdUcVJ4bmYxYnVWX3A4elp6N2Q5bXdPcGp1N2pBRkVoVGJibEtadmJTWF9ia3hmVXM?oc=5",
       "source": "news.google.com",
@@ -87,137 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ0FYWDdCVzJpOTF3S25tMkhkVWZMdHQ4U0NYY0pybk1GT2FjTFNYOHV1NWlNck1ydWl3Q0ZIQ0s2Q1BTM0pVTjZzYXluOUlmSzAxOEhIbWxXcUg4ODAzR2xGZ004OFE0WDk5MHpVVWh6TFlTbkZGVlRWVUhUSHh0LVMxRnAzUEJ6UndZQjNUYlFVemItSXZucHpYOVVCaFIxNE5aNUREbmZGamtsTHl0SjB2VFVoTkxlcEZr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T17:24:02+00:00",
-      "summary": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Memphis Flyer Joins Landmark Copyright Lawsuit Against OpenAI and Microsoft - Memphis Flyer",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMENOLVFXbHhmS2t3bmpncGFMempMaXFOU214Y0MxeE9WeDFaaFZXdk9URy1fTkhNRU1ha1UtSFRpaUlOcW9BNGpOS1NydzRyR3ZmcUNXRWhSRWppakNkUDdqdEZoa3cxRFVKc21fNDFsb29RRmNzLUY0TXlQZlZHbjlLaTBUX0VqYTRQT3hNcS1pcTJRdTNDZjVzcVQ0dU1zQV8zYUxfZnM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T17:23:22+00:00",
-      "summary": "Memphis Flyer Joins Landmark Copyright Lawsuit Against OpenAI and Microsoft  Memphis Flyer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts - The Register",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFYyaElpNmZTT2lVY3l0WlBnVjA2WTg5anBVZ2ZLTDZZeFV3LWItb3JTeFB5X3diRTBXS1haVUxPYW9KbDVqT3ZBZ09HSHhnZHk2OHJZbGNXVElvTHczR3VhTm9jQUM5S29wX3NsZjltdUpwYnRVaC1YZ2VaVVJBR0RGWDBGS2tYaDYzSlU3OWZ6b1VwWGVTMEVlbVUtUkZtRWU2U0FSOERFRWhfX3BBR3h2WTEyWTVtZGtOeGhn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-18T17:16:00+00:00",
       "summary": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Macquarie Says OpenAI Signals AI Boom Still Has Legs - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWgtUVJRTmt5VW9sZ3dJa2QySmJNUU4wMU9VX2k5NHBpZWlSQWF2U1pRdGFhZGE4c3V5c3ZyVXhYTFhZZU9HWjJFVjR2NFV2ZU5jVjZYQmJPODZLY1BSYWJsNXFBQjBnbnlVNW1zTGpxSG9YN25JbzV4VmFDLUM0SElnTW8yakJxUTBNQjhTQkp3SUY4MXpCQUJSazc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T16:51:38+00:00",
-      "summary": "Macquarie Says OpenAI Signals AI Boom Still Has Legs  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "With Siri Recap, Apple threw a punch at OpenAI no one saw coming - Computerworld",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3lWY1diZ2I5dG5aY2NCbGlHVHpSMUxnLWNqM1lEVnpHUDEyQ09HbFE0RVh4ZFFtS0w1T3ZqclItNmhMbkZkcnI3OG85VU1mT19GVl9YaTRHWWpaNDRCMURhRG84ZHl4M01ldXF0Zi1RcTMzem80eGFQeWthOWgwOFc2VG9idVpNUVBiaF9oX1NRdkttVXNVb2ZLOXJJMDliOGE0RzBXcmtfUTZWYWZlNEFqalg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T16:12:45+00:00",
-      "summary": "With Siri Recap, Apple threw a punch at OpenAI no one saw coming  Computerworld",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Can AI solve a Millennium Prize problem? OpenAI says its system just did - The Brighter Side of News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZG5QYk1Zc0xoNVNxc1J4Rjg4WGdyUm5SOW9pV3JGS2d2U3JSbGhFYm5xSEhPU3dfWXVZYy1fSjZQTGdIaDROSGFrTy1qYUlSVDcxUkUwS2JLLXk3VFV4b09NUU5COThiUkZ3QVA0SlduNVZZLXJjZlhRMm1LTkt2alAxZG9jcEZFbXFDMXc1dmhiOXpVU0lCNUkzMXJ5SG5NYlpDeU9tbVJMVFp6TjV3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T16:07:00+00:00",
-      "summary": "Can AI solve a Millennium Prize problem? OpenAI says its system just did  The Brighter Side of News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Researchers hack OpenAI: Here's what you need to know - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qN2RPY0xmYmJtczFnTzhUTGkxUktWNTBHamdsMlhnWU5saWZqWlBDWDF4TzFWTFR0aEpBZ3YyT2RlZ3JRdFdBRmdsZk50SkZoTnl1MUxvV3hBREFFN2xua29LTW42N3N5eml4NU0zcjNCUGJF?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T15:42:23+00:00",
-      "summary": "Researchers hack OpenAI: Here's what you need to know  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI security experts say they used Claude to hack ChatGPT - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNeUo4TFlnSHFTVTg5MlhVZC1lM2FkZER1MHZDWEJQaHp1YVdCVExBTE5EdUF6Tk1ZTmpzQjc3c3JWU3RDV04zWTN0VFNZN0MyUndHcTFZNFh0cFVQMndIMkRlaE8yTWY3WHBIYUk3RjFSWWxv?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T15:31:32+00:00",
-      "summary": "AI security experts say they used Claude to hack ChatGPT  CBS News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Security researchers used Claude to help them hack into OpenAI - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0E3SkFidDl4NTVoOG0tWmtNQm5KMkVzUFF6cE43U0tsbWFGdHFjVjZweS1oTl81LXhQSU83QU52UDF5a3lXYzlCZ0doS1h5UHBPWjUwaXdaeFZnMVloaDVSbkFUZ1AtaDBEOVlHdW52dExrTjVBU2VLZGNsWUc0RkhIbDNiUVExSUlOM1FoOUZVUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T15:30:16+00:00",
-      "summary": "Security researchers used Claude to help them hack into OpenAI  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Solvd Named OpenAI Select Partner To Help Enterprises Deploy GPT-6 Astra And Codex - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1dTdU9KcHpFb3pXLWd1dDc3RzJ3TlhrZ3laZDEybGVqVmpLZ0tWVXU4MzJkWnJURWxpcWVFemJuMEk0ak5Fb1R2a2FTazVpZno5UjhiQnEyc2IxNFpPWVh3X0tRLXctUWpsS2ttcnVtRWh5MVRGRUd2aWlHVllDUkdaMVVCSW1YWlMwTS1OVUFqRlE4Qm5aUi1LOXVHY1F2WG5QU9IBqgFBVV95cUxPaE9nM2V0Sko0Z1RsVjg3ZmhBeXVxLWVyVlJtM2lnOHp4TGZMZ0xDV0xNeFZqVTVjdHJ3bXJaaTJudm5tMll4QXJCNzJzTGZJOVNwTzNZNXU0c281T2o4T3RDTXN1bkpueE1tcjhJaEFzb3dmNFFCZnhaRVBqNE5SNHotOVhZNFlFNjcxNUF1bzlvaUpWZjhhZFkxTDVBLVZBZXduYjF1c0RYQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T15:29:43+00:00",
-      "summary": "Solvd Named OpenAI Select Partner To Help Enterprises Deploy GPT-6 Astra And Codex  Pulse 2.0",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "When OpenAI, Anthropic CEOs Warned Of 'AI Extinction Risk' - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdW8ybDJtLW9wNFNKc3NoZWhXOE0xdFN3V0p2anhYS0JleXJweDRhWm9PMlQzVWgwM2F2MWxWWmhxdFRITUMzUFBrMmZxZzRXVWg1cV93dENtZ1JZZm13QkVKX25Dd01DQUxVSkdGWGJERVg4cUlwYS1nQ0NsZXc2LUt6OHp4NUhCb05NNkZDaHg4Rm56X1NXRk9jRHR5MkVJTGpLT1NmeDNtQ3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T15:27:00+00:00",
-      "summary": "When OpenAI, Anthropic CEOs Warned Of 'AI Extinction Risk'  Investor's Business Daily",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "\"HomeClaw Max\": New mini-PC aims to combine Home Assistant and OpenClaw - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcTFzWHpncHZIZjJGWmFLRkZlcUNkSDc1bjFaUmxYSHZRTWhiWTgxSnVlQWNhQS1sZ0tWaTlMWnJPX3IwZkxCajN0a1gwT3BUVlhTa0NNRU5JUXJDOGJRakNMZGZoQTZZVENwMFF2d2ZCeFcwUnFuUlRsYk9mTW02QTZhVHZ1MkpBcUNBbDJyY055NnVCSzhQZ0w1cXNKR090NVZ6YW9fbTM0czVKb05tWlhLWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T15:03:00+00:00",
-      "summary": "\"HomeClaw Max\": New mini-PC aims to combine Home Assistant and OpenClaw  Notebookcheck",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Video What to know about Anthropic's reported hack of OpenAI - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tUi1pN2lEREVmTElqWUljRDZxVWtfOV94UnJMSTlROWxHa0NPNnZkbFlmS2JBMXNTTkxhbmdjTE5hbTMxY3V6enZRNW4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T14:21:19+00:00",
-      "summary": "Video What to know about Anthropic's reported hack of OpenAI  ABC News - Breaking News, Latest News and Videos",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft, OpenAI workers privately worried their work is ‘largest theft of labor in human history’ - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMFBoMkFCbmlpZXBHVmF6dE4wcDNOWVJKWl9zX1Y3a2Q5d05sY1Fsd3k3RkJGZmhaV21jdEwxWW9nOUVTQVdMcjU0cGJiOGhRMlpnSlZmeTJweUU3TjNIeEFaUWZjU25GUmh6TURMU1BzajZNcjhoel9uM2tLNU04MlRYMmI4dlI3OExaSXBjaTNsVTFBSmdEQ1RZOUUtOGF1ckZ3WkQwR2Y3N3lVcl9fQ0R2S2VzWDJ0eHowdlFHUm1NYjlyelhpbzJtUnBJNWJySUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T14:20:00+00:00",
-      "summary": "Microsoft, OpenAI workers privately worried their work is ‘largest theft of labor in human history’  New York Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic's Claude used to breach OpenAI's internal systems - Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWmlQcE1ZOWNkVDRWQVA1OWpKWDlWN090LUJhQjd4emtWdDRTMGlnSjBOTWVqMDdKUG5DSzFTSjVfeUVJa0kwemNpQXVvcXA3WDVlaC03OGxaU1habXJialZrY1lDRTNzcEp6d0ZfSnZuWmpZeUdYN0RqQTktTmxOdFVhOFFtakJxRWtXdUt2QXNZUTlrNW9lbU5TZ21BV0pBWm9F?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-18T14:17:00+00:00",
-      "summary": "Anthropic's Claude used to breach OpenAI's internal systems  Daily Sabah",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
