@@ -1,13 +1,121 @@
 {
-  "generatedAt": "2026-09-18T00:37:40.838137+00:00",
+  "generatedAt": "2026-09-18T05:10:16.308074+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI Introduces Triage Framework and Case Studies to Report Model Misalignment - infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iOEFwei04dlozVTdmdFdxcGhPWjk0UmhCZTl1dmVKS1pRNE80YkJmbm52c3dBTHNxdTlfOU9femJidkgxSDFlLXA0RVhFejJxMEVtNHItbndfdXhmbUctc3c2NzJvRlJmZ180QkxScm5wTVk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T05:05:48+00:00",
+      "summary": "OpenAI Introduces Triage Framework and Case Studies to Report Model Misalignment  infoq.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI hacked by small team of white hat security researchers using Anthropic's Claude Opus 5 - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVEZZeGktN1g3SEdtT0hCbHZoT1gyUHpnZ1NEMDJaY05pRzdLeDVBeVBKS1dyaVFGUEx1a04tUzFGNWh6MER2SXJpU0hLSGZpQVVmU0g5T29aU1JrRVpnb2hFcElWX1N0bFlta2lTZU5jbnlPbmw1MjVMVUhoUmc3QmFzUVlJU1BzS2s5amFsekFCWC0zUzNSdDRCZzFzVjZyTVVoSmdsNXJwZlBhWDhxbnFTMkR2VXlyZERaYm1yT3QxZU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T04:31:18+00:00",
+      "summary": "OpenAI hacked by small team of white hat security researchers using Anthropic's Claude Opus 5  VentureBeat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft exec called AI the ‘largest theft of labor’ in history, court records show - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5JUWVLTF8yTV9JX2c5eFRtVm1PbE42LTg4eEVLTWRSVkctRUZ1M3l1dDZnYWxfSXdheDRmeWl2VVdQU0JSX1VFeXRqM2cxZVE3T0J0dVpkcGlQVGVYUnZCT1puSTgwUVFSbENObzZ3MjRZX01lM0hIVFl1ZjNodlJHYTUwZUE4eTFYSUNUaUNyRHZoNXRNRG4tTTZQc1AzQkVVVkRqU1ZJMU5iQXFfcDlUS05KajBUcVlkaHdtbzI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T04:16:24+00:00",
+      "summary": "Microsoft exec called AI the ‘largest theft of labor’ in history, court records show  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "King Charles Has the Perfect AI Cops for Anthropic and OpenAI - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT29OQzlUUU91RTM1ZTlCUlltS3VHQ0tpMWdBMVBxMmU3Y2xfYnJBZVljU2dzdUdObHhLVTl4QkVnUzZUdmlQTUhhVGw1UTNndGxNWVZ3S2xYbFhvdDNWbllZamRralZLV1IzUHI2enczREd3alE2dkpaZkJMZV9aNFVyYWhYYmJOSV9OTUNpLUlLcW1NT0dkRnhxbUZWNkhDZTNRMzZWc19RTEUwLUxJc1dGbW4xdl9n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T04:00:15+00:00",
+      "summary": "King Charles Has the Perfect AI Cops for Anthropic and OpenAI  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI breached by researchers using Anthropic models - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHNONlc4OVZ4WWJUbjlZanhNNURqN21yTHRZYlU4SzdIZkhQQ0pacVh2cEpXWENPM0NCbjVwbWNxOTJhWTlHZzVyX1R0M1BqWjFlRzV1QUgwQjJOcTdqRnY5clRycUs2SmtEalBJd2JkLUtORlgyazNXaDJLbW53RV9GaEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T03:31:31+00:00",
+      "summary": "OpenAI breached by researchers using Anthropic models  Financial Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s experimental AI agents were caught being devious again - mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmxQTkFIZzlkSEdPQU0wakNZbGtQejFoLThXVFZGOU9hV2VpNlg5dm02XzV1eW1nS09BWGk5S1p0WTZCS0VTWEZXSE1IaWgwRzF5cm1ORnFZN0laVmE4aWZ0bWNUeUJTNkMtWVBMT09mV09jSzJCWTlHMHRoUTJYNDlzdUU1UFRrTjBqcUVrS3V1RHU0aVBtS3owYTkxcFNQclE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T03:07:37+00:00",
+      "summary": "OpenAI’s experimental AI agents were caught being devious again  mashable.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR05kM2J2OTJxRUJ5VWVGcjNLVGVXODRQWmpOQ2ZtNFU5bTNPc0ZXNk1yYm4xMkdsN0FfSFNQRnNDb3NmdU1rUmJZS0E1NnpyVXR1Y0RYSTBjeFVvZFBTNEstNkQxRDhYQnpCeG1tR0V2XzdYUUNHOVRFMW12V01WTUpZZ3A?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T03:04:36+00:00",
+      "summary": "OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO  Financial Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI discloses reports of 'concerning' behavior in AI models - KXLY.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ2xEMkpSb1U3aEhjNnl3SWpwTjB1a2pwVmRvNVBwU0ZldnUzeFZNUTNyZzdCS01Pa0RIT0FBeWVlSExiWTNqdGZFcENjS25HaWRsY2piYzZPNzFZNjUyRWt6d2g5enMwem1OS0ZKQjNWaUtURDBwcHljQVJGU2JkRnlQLVMwMDVuVHNjYUFRS2NpOWVQTllFeGNNbElYOUVmbWMxN2RXN29aTEdHbEhHam5jRzJHdkY0QWFEUEo2ZnV1ZnVoWUVMWWpxdFExakd6?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T02:57:00+00:00",
+      "summary": "OpenAI discloses reports of 'concerning' behavior in AI models  KXLY.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI won't get to see terms of settlement between Apple and SpaceXAI - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWXFhYUprMFBzQzB5bTVXUS1MY3dHUkw5YTd6bHBKbzVOWnhhUkJsczBKZlpia2NGUGhDbmxDaFFUWGt4bDY3QkdJZktlVjRLaFRuRXlkMU1MY0VxQW84QzRnZkdrZ3U4bmw4LUZkOV95MGk2dXh5WHdKVmlmTjdXaHo4bFd4T01Dd0lVOG1kbU16ZlBjUU83anh2UVJMczZaMVJ6MTJfMExELTNFRGRGVVJB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T02:18:58+00:00",
+      "summary": "OpenAI won't get to see terms of settlement between Apple and SpaceXAI  AppleInsider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNnlsZWhkNWxpVEFlZ3A1ZmJidDJHMW1jVFJobmJIeGp1WGNnRGdWaWh3WW1HWTJVNC1lQ2ZHSW1ING1lWmFjOXA1UVZBYWhMRWlhUG9GWmVPWDZWOUxCTXBTb3hHZmM0TU1Fbk1ySGJVcG82WnBteVBGWHlUOS0wbTYzWTVxWkp6bF9peE9kRkNJSVJHeHAtQXl2bUx6VnkyNGRVMjR3M0NpdzlWRVNlQlR2eWNJYjdzWWF2ckUxVEo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T01:14:00+00:00",
+      "summary": "Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjJISmtEZlhmekd2TjBndTBlcUNSZmR5VjBPaGR1bXRSTU5yZ293Ulk0YUhpdHlHY0hyUTNweTFqSmdMc1JjWVJkQXZ5MmVpdHozLTJQVk5jcVJtN1M1RWc5dFdMZTJrM2hLbnVGemVCX0JtRGRGbEtNZG14cDJtOU5tZmhUa1RlVTlmYXRHMVM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T01:12:52+00:00",
+      "summary": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T01:00:16+00:00",
+      "summary": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Court shuts down OpenAI bid to see Apple’s confidential settlement with Musk companies - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXdXNjRJVWZFbmFmcS1tZmV3d21uY1dJVWQtTXh5Z203ZDNKeE42X1FjdkR5a0M0NGxTa1V2YVV0cDZkeWgtTm5FUlJaaG16VG5oZU8zODM2Y20zWWNhcWVHU2FWZjhlSU92ZXZtZEg1WHNQUE1FRFY4ejBZN3ZDeDVCTXdobkFUQkRLSFB3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fbU13WUVmMVI3VnNHa1JrOTNZTlFxNGo5S1VMc1prSDl1NWhHZVpUbVU5RV9ibnFINGdRbWpnYjJGSHhqLUVsbWpDVmdRNHl5LUJfalhzeWVDVjBpa0ZiakM2endsTXFVc05TZ2c5Szl5MFdCb0dz?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-18T00:26:00+00:00",
       "summary": "Court shuts down OpenAI bid to see Apple’s confidential settlement with Musk companies  Politico",
@@ -25,19 +133,10 @@
     },
     {
       "title": "Video OpenAI discloses \"concerning\" incidents of AI gone rogue - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVktiTXdGQnhRNlQ3MU9hdXhnTllleWJHZUl4bWNRWmVsNXRReGtlbjRwcWhJQWJzNzZhQUJOMWdhVzJydGEtakZTVG42VDZWdXpxLWNPVFlmcVNVZ1FxUHBfVDNzREp1YVZwUDdoWUwtRTRDRGY0WkdmdGdJNHRNUw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hZmpPUlItVFZTTWRGcllUbFhrS2h6amx0TWpYdjVoc044bXRmNGd4S2RZWHVXVWhRdThiX2ljSml1Q0lIR3NXZExRUTA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-17T23:56:19+00:00",
+      "publishedAt": "2026-09-18T00:01:26+00:00",
       "summary": "Video OpenAI discloses \"concerning\" incidents of AI gone rogue  ABC News - Breaking News, Latest News and Videos",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI found more instances of deceptive models as 'kill switch' bill fails in Senate - kgw.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSDJEZkxIelZERFVPY0pMTmxWMElSTFowVWgweXpUX09rX0w2SEpOV1pJcDZHMEVTelhNMklMeTVZVThaRU9VV0FQazFYMWpiSWZpQTRCLWVnbENRSFJYWjRKSVRNWWZSM0RzR256RFVrS0ZSenoxRjRjWjF4TldETnFNWHZBR0JMZlJXd04wbmFWRHViUnRUVUlxc0JWYUFpaTczMVVfeW93aG9tMU1sdEtmZUNGOXZhX2dXMVpaY0pnRkhaR1JiZFpwVlZYR0VFdDhWZDlUNDhKNlNmSGdlVnF5cDNkRUtFYlg0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T23:39:00+00:00",
-      "summary": "OpenAI found more instances of deceptive models as 'kill switch' bill fails in Senate  kgw.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,20 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Inside Microsoft and OpenAI, Worry About Damaging the Publishing Industry - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjJISmtEZlhmekd2TjBndTBlcUNSZmR5VjBPaGR1bXRSTU5yZ293Ulk0YUhpdHlHY0hyUTNweTFqSmdMc1JjWVJkQXZ5MmVpdHozLTJQVk5jcVJtN1M1RWc5dFdMZTJrM2hLbnVGemVCX0JtRGRGbEtNZG14cDJtOU5tZmhUa1RlVTlmYXRHMVM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T23:16:43+00:00",
-      "summary": "Inside Microsoft and OpenAI, Worry About Damaging the Publishing Industry  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI flags concerning new AI behavior and vows to track it more closely - The Killeen Daily Herald",
+      "title": "OpenAI flags concerning new AI behavior and vows to track it more closely - kdhnews.com",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTWk0VWM5aThaeXBMb2xjM2ZHZGhqWVpCYXJzWjdUWndzcWh5eEZ3VnNmS0FlWUU3VWhoYkctSWtwdnhEeEV4d3BLRkFWNGFJZlJxdHdZbmVMOWdEZkYySkhMM1hKV3JnQVlBVUhkVEVJd1F1VS1ZUFVlTFcySENJZG40X2s5ZEtXazltS1dYT0s3RW03REtfd2k1ajlETG5SX2JyOURxQXBPTjJhcFJzWFJHdy13RTFRdFZya3JsZWRzaV96a0YxQ0JJLWNrc29leFlUZ0dhTnhCSUgtcnRZbEpJc3hRR05aSENJ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-17T22:54:40+00:00",
-      "summary": "OpenAI flags concerning new AI behavior and vows to track it more closely  The Killeen Daily Herald",
+      "summary": "OpenAI flags concerning new AI behavior and vows to track it more closely  kdhnews.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,15 +164,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-17T22:54:00+00:00",
       "summary": "OpenAI flags concerning new AI behavior and vows to track it more closely  AP News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users - The Mighty 790 KFGO",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkNlcVdyRGxXaWxpZkdIaVlHODBIOWVjMEs5b2xXcC1zRmdUT1kyYTltdHNGTTJQTkQzVVJva0pubUwyN3o2eUJPYzFWOEQtXy1XOXFYWGZQQTd4NFl4LW1OT1Z0WGxOODR2dVpHcU9TNGdpZUNtNVNjaUxnTmQwX19rNTRlaTJabENtbmxBU2NoTHJZclBXcVh2bXlsVFRJRElfQzhZS2Y?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T22:49:49+00:00",
-      "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users  The Mighty 790 KFGO",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -105,6 +186,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaklBa3l0bXpJRlZHYW5ZUnM4d0tTRWczT1F1MTByOXk5UFBZYmdHaGFhN1d2VUY3OThBLThkTUxpOGJOQTVadzJEazBvSlNzdm0wTURBaFhyUWh1ZVdScmJWZ3p3NUZSVzBCWkt2UEpxUEJjaUxaN2U2dnFpT1E3Njc3MWRsWFpaZTZjekdlN0tUY1pudndlX081Z3k5VlVnLUVvQlVMQXNiS3RCbXVrbVlRWEQ0Q0ltdkduZC1hbGxUR28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T22:12:00+00:00",
+      "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHczYjIxX2dqTUpmMjBubHYzSTZCTVhBdmhHZDdOY1Zia05tQzhzY3hFc0pWR0czakY2c2ROUnlOZm1TbGNyTFk4UGc5REVTYzJmekFoRnFNS2lPeEhKVDctVkJXaHhldkZJanpqenFwZWtVT3JnQ0JYTmVja2ZKcS1EMTMwS0NpNzdVczhhRUVWLXF5aF9qRXBPVFJXSFljQWdwT0FWUjVBbDQ4YkVOdUNBS1ZtR0YzaXM2YnlYQ3VpQmt2YnVqNEEzejM3bjM0cDZj?oc=5",
       "source": "news.google.com",
@@ -114,110 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue - Yahoo News Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcm1rLUEzczZxYUFJVXA5Z0dJNjVjOHczNkRVbTNGeFAtQVpsalQ3cVhIM1A0N0tNcGVKcDRWWGpfeFE1U3JYd1ROam16em5uVl91X1NKdVZadXpGWk9Lc25jRGk4WDZNZFJoS0M5emdaZnZCOFI1dEkwSFlWVjE2c0hkV1k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T21:47:56+00:00",
+      "summary": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defense, news outlets argue  Yahoo News Singapore",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI reveals six AI misalignment incidents under new reporting framework - The American Bazaar",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHpaZXIzS0JGczlPajhHMHd0Z3QtcllhcG8ySGMzMmwzZDNqN2NTVnRBd1c1Z0tJZzBMaXREeDdjMW1wSU9jTG00eDdOeVhlWlFrMjRabHJFVzlSMy0wbjNyOHpOcTNwdmVxTkJxT1h6MDU3WFZyOWZCZWtDVEdac2N5ZURWa0lOMVMzaEdRY0l2dmpvaGwzUWhfSVMxVGNxcG44Z0dIa296T29zVHpuUV9uSmZ2WTRVQm9veTBnRFktWVJY?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-17T21:36:26+00:00",
       "summary": "OpenAI reveals six AI misalignment incidents under new reporting framework  The American Bazaar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Reveals Disturbing AI Behavior & Introduces Framework To Track and Investigate Rogue AI Agents - linkedin.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDhNX0MtcjctMlE3dDZDM1RrRXp6cklZSGxvOHBhbm5oM1UxYUk0TXdRVUNsRTN4cXV5bjNja1MyVllVX2tFR204RnpZa0loVnl2ZzQtaDRwSENpY1o5OWI3SFo5YXA1ZTRzNXVfNTNuRjhwUlh1SlNFRGdKQkNEb2RNX0pTVXUzdjYtUVB3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T21:00:14+00:00",
-      "summary": "OpenAI Reveals Disturbing AI Behavior & Introduces Framework To Track and Investigate Rogue AI Agents  linkedin.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI models go rogue in 6 new cases - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSFRyN211OEhhTnQ2OWt1S1J4U3g4NkZYX2RqM1BBMnZ3dEs1MVNFcm42M3B1UmdHOURPV2ZwQWZHd0ZDbE5DYWJaczJBMGs4QTJNQ0ZBbmFaZGpPbGItX1N3ZmJGSmE0bkR0VmoyUFFfQk13NzhDUllyV3pzc1dwNHRkdVA3UDVTTmfSAY8BQVVfeXFMT0ctWFpmMnNSdDBkRERUUm1PMVQ0cUFsZjRhRkRBNWRXOUU4eVVnWG56XzVUSFI2LTI1NU9vQThIS2tzTlZIVWMzM05nN1luTW9DMEJLMnlNY0ZfaVpmMnlEVDF3cEVnWENxVmlQbGhZbTlzNkpCNzQtaFNfNTFrTmVONllYcXRsanpyUUlGcUk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:56:36+00:00",
-      "summary": "OpenAI models go rogue in 6 new cases  NewsNation",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Reveals Six Cases of Concerning AI Behavior - lamag.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2laVWFYNjhiTTNfTU5rRmJwQ0V6RmpNNjhnbHlSeWx3NGI2ZXJaeWFPM29WWk05em02dmxva0liN3AzQ01tMDk4bjdITGF2Ni1pV0ZVWHFwM0dnYmd6cDZ3aG5PVWdmQjkxZ19ua3JJb19wQUt4SXRqcC1zdW9lNXM1MmVYdmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:53:15+00:00",
-      "summary": "OpenAI Reveals Six Cases of Concerning AI Behavior  lamag.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Nvidia CEOs to attend Trump-Xi state dinner: Sources - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUd1elRCVHBGMGdWT1dMSmh6RGRRM2E3Q2wtWk12X0RUWTJBX1NFUHZjS1NacloxZUx2emJsaU9ubHJwZjZZcldIdFFfMG5hajJWdG9Lc0lrNVZNcE92elZ5UldJSS00ZnZjSDdrOV9ybXVyUjRqUWJFdWNkNGpid3JtckZUMENYdTNDLXJEeVU3aWJpS3BSZkllWdIBoAFBVV95cUxPQ20zd3ktZnFobDJ5czQtSU5ZZkZxNWk1cVkySEFYSjRTdllGNE5jcWdCVmZmQ3RvYjlCQzE0VVkxQlUzeGhhRHRsN016V05PakJVbDQ1N2kzb2J1V0pqc29OQTY5T19zNENxb2hzb2dpR0ZUbUFrQW5LVFNMemhHNTNCc1Bfd3daMTlWOFdXclVZcW9fV196TU14MGRodDJR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:45:08+00:00",
-      "summary": "OpenAI, Nvidia CEOs to attend Trump-Xi state dinner: Sources  ABC News - Breaking News, Latest News and Videos",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekFPOXhiUFNXem5jSFV2VU54TTZpM3JYRThaNDhFTldnMEJTTWdnalFMSzVEaFV2WVBDS2xPMFQzd3lCbk1hbFEzQXAyUDRXTEwxUGhhTW51aWVsRHkyeVpDMGVzaXpxR1EtTmpKc2ZodzFsa0V4N0JNaUZtclpXakRPV1hyY3RycWRPREFDaE1uLXp1NGNrMFppTGxwaFlPS2pYaXRxWF9vWl9V?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:34:24+00:00",
-      "summary": "OpenAI caught its models leaving notes to successors to hide bad behavior  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI flags new concerning behavior incidents and launches safety framework - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45c0pkOWxreGlXdmhxN01kQU9pY3o5c3l0T3dLVmx4cUVOYzc3bHEzdmVlUl9WVDZsbkpPR2RMZHZPTmZRYkZvUkV0b3hfeU8zRWM5bW52MFdma2s?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:19:51+00:00",
-      "summary": "OpenAI flags new concerning behavior incidents and launches safety framework  Fox Business",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI discloses 'unexpected, concerning' behavior in AI models - 13newsnow.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORlRMb3lLQ2lkcU4waTRiNXZ1RkRxVG81eFpaZ2VxVFhXRDVneDI3YzdvYS1tTHRJNmJmVVhfZld3SmpSWmlGMjlhSHpkYTBMNmVpVWE2Q0JuM3Q1UmtrbEs3eEdZMWNnVDlaN0s5YkF0Zl9RRWtXcjNrT3RUNG92Z2JWdXExTWFiWUxtTlE1djhSdVNXOENEUlI2OVFJN2FQREhfUGwxeVNTS2lVVEUzRUVKN01WS3lvWng2M0pMeDlyVlF5YWNLZmxWdXEzLWpiQThCeQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:17:00+00:00",
-      "summary": "OpenAI discloses 'unexpected, concerning' behavior in AI models  13newsnow.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Microsoft Staff Warned AI Could Replace News Publishers in Unsealed Court Docs: 'Theft of Unprecedented Proportions' - thewrap.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmthT3BZZ3ZjLUMyV09YYkhUUWtZNFV6ZU9OalVKMFRMNDB6TnRVN250S09iMGtBVE4yY25lXzlNbEdNMk1BeVJ5QzQ5UmhZd093QjBRTTF2ekZxMFhqSDFCLVdnODVCaTZHTlAzckZsRjJoQUMwOEJybTV6Qmt0SVBJUEpOU0RxdHlfLTlwcWlnRml5X0lZWV85VTlSOVdYVUE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:02:21+00:00",
-      "summary": "OpenAI, Microsoft Staff Warned AI Could Replace News Publishers in Unsealed Court Docs: 'Theft of Unprecedented Proportions'  thewrap.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI introduces new AI model for law firms - abajournal.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUQ1c1ViOGVuck1qZ3o1OVJZM1BMQlFLLTJUeGZ5UmZBeHlnYmE5ak15enltc0J0RzlMckU0LWF6Z1k2emlvc1FfVy1nejgzM3F0a3VuRXAzSEFzWEVKdXFrV2F4Q01MWGpHRVJweldHY1l6SmxucFRUMWJKQ1NVY1BpbmlLbVV5V2pkRw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:00:00+00:00",
-      "summary": "OpenAI introduces new AI model for law firms  abajournal.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Legal-Specific Configuration of GPT-6 Astra, Its Latest LLM - law.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVJUdm8wVUxfRkQxSmsxZGRNbHY0Y0hLOWU1blFuc1pTeGc3X2Q2OTUxTXZOZGE0YWJKa19ma1gyZldMdXdSNHVrVUpvTHVITWdDTTZ3Zmt0NEQ5ajBybHp3X0huOTAzWm1WUS1Mc1dqb0FGaXl3Z3dPZkQxY1pScVQ0UFU3YW4wV0VUUEwyRVBlWC1wMWRndmloSDl0blVEMllLSm5SY0RtQnQ2bGl2ZE9BMGszZ1lpamZfQ1NB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:00:00+00:00",
-      "summary": "OpenAI Launches Legal-Specific Configuration of GPT-6 Astra, Its Latest LLM  law.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI sets its sights on the 200 biggest US law firms - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGYyVVkzNGd6WmdvMmZtMERiSi1zUXV2N2RPSHZKU1Vrb09TakFnVXdiY01STXl6Y3g0QVpmRmRNaWkzR1c2T1RyaHJ6a0FHbjNaT3A3Tk50MlNKV0FMQnpfUG5YR0Jmd3cxRzFqZjh0TXd5YVJuRGFtcDhjUmFqZ3ZjRFJkb01VSzFEeTdud1lybmFyeUt3cE1BTmNwSDQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:00:00+00:00",
-      "summary": "OpenAI sets its sights on the 200 biggest US law firms  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
