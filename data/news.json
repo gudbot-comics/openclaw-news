@@ -1,16 +1,106 @@
 {
-  "generatedAt": "2026-09-17T22:26:54.028325+00:00",
+  "generatedAt": "2026-09-18T00:37:40.838137+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "ChatGPT users sue OpenAI over human review of conversations - Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzJOTWJTNkpWYi10X3NJeU8xSXJIRW1yWnl1ai1wSElTaHRNcGgwR0d3RlUxdWI4UWdpRGhFN2Z2MWZET1B4VWtLX0RtaXR2MlJjX3pjN05ta1hNcUwtT3ZnTmdrVXVsVHI5WHBoOXlVdHBMU3NGSy14dTRaa1JGQUR1dHdZQ2x2R2gwMDFjbUlab0k0S3YwRTh2UmRFY21iQlNJdlhn?oc=5",
+      "title": "Court shuts down OpenAI bid to see Apple’s confidential settlement with Musk companies - Politico",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXdXNjRJVWZFbmFmcS1tZmV3d21uY1dJVWQtTXh5Z203ZDNKeE42X1FjdkR5a0M0NGxTa1V2YVV0cDZkeWgtTm5FUlJaaG16VG5oZU8zODM2Y20zWWNhcWVHU2FWZjhlSU92ZXZtZEg1WHNQUE1FRFY4ejBZN3ZDeDVCTXdobkFUQkRLSFB3?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-17T22:19:28+00:00",
-      "summary": "ChatGPT users sue OpenAI over human review of conversations  Daily Journal",
+      "publishedAt": "2026-09-18T00:26:00+00:00",
+      "summary": "Court shuts down OpenAI bid to see Apple’s confidential settlement with Musk companies  Politico",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Reportedly Trying to Solve Hodge Conjecture Amid Feud With Math Community - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmlTNmdmV1BZYzA1NVJPN0ZTdS1nanI2aHZZM1ZEdGhkZUlKZW9ManVmRnEwZFdNTDNqSDh2NnQ3TFRFWTFoSE9HX1VwQzcxODgxMURKX1VESnc2Tm1yTTVpbmt6RjZuOXpJMFpJWnVubTgwWE92Q29nQmQ5R1kwUU1RUFd3dHhPbWQ4RlBwYzd5UHc1MjdGSFRJX2NET2ZfOXZrdERUM3dscEpqQkRqLQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-18T00:10:47+00:00",
+      "summary": "OpenAI Reportedly Trying to Solve Hodge Conjecture Amid Feud With Math Community  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Video OpenAI discloses \"concerning\" incidents of AI gone rogue - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVktiTXdGQnhRNlQ3MU9hdXhnTllleWJHZUl4bWNRWmVsNXRReGtlbjRwcWhJQWJzNzZhQUJOMWdhVzJydGEtakZTVG42VDZWdXpxLWNPVFlmcVNVZ1FxUHBfVDNzREp1YVZwUDdoWUwtRTRDRGY0WkdmdGdJNHRNUw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T23:56:19+00:00",
+      "summary": "Video OpenAI discloses \"concerning\" incidents of AI gone rogue  ABC News - Breaking News, Latest News and Videos",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI found more instances of deceptive models as 'kill switch' bill fails in Senate - kgw.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSDJEZkxIelZERFVPY0pMTmxWMElSTFowVWgweXpUX09rX0w2SEpOV1pJcDZHMEVTelhNMklMeTVZVThaRU9VV0FQazFYMWpiSWZpQTRCLWVnbENRSFJYWjRKSVRNWWZSM0RzR256RFVrS0ZSenoxRjRjWjF4TldETnFNWHZBR0JMZlJXd04wbmFWRHViUnRUVUlxc0JWYUFpaTczMVVfeW93aG9tMU1sdEtmZUNGOXZhX2dXMVpaY0pnRkhaR1JiZFpwVlZYR0VFdDhWZDlUNDhKNlNmSGdlVnF5cDNkRUtFYlg0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T23:39:00+00:00",
+      "summary": "OpenAI found more instances of deceptive models as 'kill switch' bill fails in Senate  kgw.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches Astra for Law, a GPT-6 configuration for legal research - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczQ0RGFOcFI1eUpLMkxlUFY3WFdpWExrc2Z4Z2dIWEo2WkdIOEdVREkwRDBRMklpZGVtaHJnQ3M5X3pJR1pJS2JnY24wX3dwUUpmUG1pM0sxeXlrbHc0YlNQaVlCWUZfUzRJcDhGMXZjX2FSYkV0NEVpandZVURaeWh4ZE4yZHBrYTRnOUtYenZKQXVBc3FXSFFiZjF6b0tlTTdjbUNYWmtyWEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T23:17:00+00:00",
+      "summary": "OpenAI launches Astra for Law, a GPT-6 configuration for legal research  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Inside Microsoft and OpenAI, Worry About Damaging the Publishing Industry - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjJISmtEZlhmekd2TjBndTBlcUNSZmR5VjBPaGR1bXRSTU5yZ293Ulk0YUhpdHlHY0hyUTNweTFqSmdMc1JjWVJkQXZ5MmVpdHozLTJQVk5jcVJtN1M1RWc5dFdMZTJrM2hLbnVGemVCX0JtRGRGbEtNZG14cDJtOU5tZmhUa1RlVTlmYXRHMVM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T23:16:43+00:00",
+      "summary": "Inside Microsoft and OpenAI, Worry About Damaging the Publishing Industry  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI flags concerning new AI behavior and vows to track it more closely - The Killeen Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTWk0VWM5aThaeXBMb2xjM2ZHZGhqWVpCYXJzWjdUWndzcWh5eEZ3VnNmS0FlWUU3VWhoYkctSWtwdnhEeEV4d3BLRkFWNGFJZlJxdHdZbmVMOWdEZkYySkhMM1hKV3JnQVlBVUhkVEVJd1F1VS1ZUFVlTFcySENJZG40X2s5ZEtXazltS1dYT0s3RW03REtfd2k1ajlETG5SX2JyOURxQXBPTjJhcFJzWFJHdy13RTFRdFZya3JsZWRzaV96a0YxQ0JJLWNrc29leFlUZ0dhTnhCSUgtcnRZbEpJc3hRR05aSENJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T22:54:40+00:00",
+      "summary": "OpenAI flags concerning new AI behavior and vows to track it more closely  The Killeen Daily Herald",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI flags concerning new AI behavior and vows to track it more closely - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T22:54:00+00:00",
+      "summary": "OpenAI flags concerning new AI behavior and vows to track it more closely  AP News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches legal-focused AI platform, escalating race for law firm users - The Mighty 790 KFGO",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkNlcVdyRGxXaWxpZkdIaVlHODBIOWVjMEs5b2xXcC1zRmdUT1kyYTltdHNGTTJQTkQzVVJva0pubUwyN3o2eUJPYzFWOEQtXy1XOXFYWGZQQTd4NFl4LW1OT1Z0WGxOODR2dVpHcU9TNGdpZUNtNVNjaUxnTmQwX19rNTRlaTJabENtbmxBU2NoTHJZclBXcVh2bXlsVFRJRElfQzhZS2Y?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T22:49:49+00:00",
+      "summary": "OpenAI launches legal-focused AI platform, escalating race for law firm users  The Mighty 790 KFGO",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FBI expanding AI usage as OpenAI discloses 6 new AI safety incidents - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmZ2QmZJNEl5a2FPYXhSWThfa2tkalN3Q2VUaHZMZGtBbTN0YWx4V2V4LXpGV3FGdmM3bEI1Nm9aN0U5dndTWGhqZzN4ZzFsYXo5bkpDOXZ0MzZxTVdwWlZiZUxFcVVCSUlJdTlUamxHOTVVODFFdjlqQnJlMkVud01GTlJxXzZIT2Z5bVpyekV5bkdLOTZxb3prTzFVd2NINjVnU1ZvMGpiY2xNYUo5dkE2alU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T22:35:00+00:00",
+      "summary": "FBI expanding AI usage as OpenAI discloses 6 new AI safety incidents  CBS News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15eUFKS0VtaWRRa3NwRWhBXy1URjBWVDR3MWVZSDhVX0o5VUVqYi11cXpTOGdmSWRweG1yUTdlQ0RSSFF2SnhqTmpuMU56bmpSdi1EZTlvSGhrMmZaemdRdGF4Qld5Zzk5NnlRZ2lWcjh6REFXd3BiSWUtemQwQdIBhgFBVV95cUxONFdwUTZGQ0pNX1BXa1c2b2VXT0NQTHQ1TUhrTTZ2VTFBY3FhWUJjN05rVFNpUjY2VmVQY3JMQ3JZbm50aW00TE1hUlNYMmVCT0I1bFlHWVJySWlVcnpRelVKZGRhWmNqUV92eU1pZHN4NktTU0RqVTMwX1JodkRMMl9zaEVmQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T22:31:03+00:00",
+      "summary": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them  Decrypt",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,11 +123,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Reveals Six Cases of Concerning AI Behavior - LAmag",
+      "title": "OpenAI Reveals Disturbing AI Behavior & Introduces Framework To Track and Investigate Rogue AI Agents - linkedin.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDhNX0MtcjctMlE3dDZDM1RrRXp6cklZSGxvOHBhbm5oM1UxYUk0TXdRVUNsRTN4cXV5bjNja1MyVllVX2tFR204RnpZa0loVnl2ZzQtaDRwSENpY1o5OWI3SFo5YXA1ZTRzNXVfNTNuRjhwUlh1SlNFRGdKQkNEb2RNX0pTVXUzdjYtUVB3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T21:00:14+00:00",
+      "summary": "OpenAI Reveals Disturbing AI Behavior & Introduces Framework To Track and Investigate Rogue AI Agents  linkedin.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI models go rogue in 6 new cases - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSFRyN211OEhhTnQ2OWt1S1J4U3g4NkZYX2RqM1BBMnZ3dEs1MVNFcm42M3B1UmdHOURPV2ZwQWZHd0ZDbE5DYWJaczJBMGs4QTJNQ0ZBbmFaZGpPbGItX1N3ZmJGSmE0bkR0VmoyUFFfQk13NzhDUllyV3pzc1dwNHRkdVA3UDVTTmfSAY8BQVVfeXFMT0ctWFpmMnNSdDBkRERUUm1PMVQ0cUFsZjRhRkRBNWRXOUU4eVVnWG56XzVUSFI2LTI1NU9vQThIS2tzTlZIVWMzM05nN1luTW9DMEJLMnlNY0ZfaVpmMnlEVDF3cEVnWENxVmlQbGhZbTlzNkpCNzQtaFNfNTFrTmVONllYcXRsanpyUUlGcUk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T20:56:36+00:00",
+      "summary": "OpenAI models go rogue in 6 new cases  NewsNation",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Reveals Six Cases of Concerning AI Behavior - lamag.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2laVWFYNjhiTTNfTU5rRmJwQ0V6RmpNNjhnbHlSeWx3NGI2ZXJaeWFPM29WWk05em02dmxva0liN3AzQ01tMDk4bjdITGF2Ni1pV0ZVWHFwM0dnYmd6cDZ3aG5PVWdmQjkxZ19ua3JJb19wQUt4SXRqcC1zdW9lNXM1MmVYdmc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-17T20:53:15+00:00",
-      "summary": "OpenAI Reveals Six Cases of Concerning AI Behavior  LAmag",
+      "summary": "OpenAI Reveals Six Cases of Concerning AI Behavior  lamag.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -47,6 +155,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-17T20:45:08+00:00",
       "summary": "OpenAI, Nvidia CEOs to attend Trump-Xi state dinner: Sources  ABC News - Breaking News, Latest News and Videos",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekFPOXhiUFNXem5jSFV2VU54TTZpM3JYRThaNDhFTldnMEJTTWdnalFMSzVEaFV2WVBDS2xPMFQzd3lCbk1hbFEzQXAyUDRXTEwxUGhhTW51aWVsRHkyeVpDMGVzaXpxR1EtTmpKc2ZodzFsa0V4N0JNaUZtclpXakRPV1hyY3RycWRPREFDaE1uLXp1NGNrMFppTGxwaFlPS2pYaXRxWF9vWl9V?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T20:34:24+00:00",
+      "summary": "OpenAI caught its models leaving notes to successors to hide bad behavior  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +186,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI, Microsoft Staff Warned AI Could Replace News Publishers in Unsealed Court Docs: 'Theft of Unprecedented Proportions' - TheWrap",
+      "title": "OpenAI, Microsoft Staff Warned AI Could Replace News Publishers in Unsealed Court Docs: 'Theft of Unprecedented Proportions' - thewrap.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmthT3BZZ3ZjLUMyV09YYkhUUWtZNFV6ZU9OalVKMFRMNDB6TnRVN250S09iMGtBVE4yY25lXzlNbEdNMk1BeVJ5QzQ5UmhZd093QjBRTTF2ekZxMFhqSDFCLVdnODVCaTZHTlAzckZsRjJoQUMwOEJybTV6Qmt0SVBJUEpOU0RxdHlfLTlwcWlnRml5X0lZWV85VTlSOVdYVUE?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-17T20:02:21+00:00",
-      "summary": "OpenAI, Microsoft Staff Warned AI Could Replace News Publishers in Unsealed Court Docs: 'Theft of Unprecedented Proportions'  TheWrap",
+      "summary": "OpenAI, Microsoft Staff Warned AI Could Replace News Publishers in Unsealed Court Docs: 'Theft of Unprecedented Proportions'  thewrap.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces new AI model for law firms - abajournal.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUQ1c1ViOGVuck1qZ3o1OVJZM1BMQlFLLTJUeGZ5UmZBeHlnYmE5ak15enltc0J0RzlMckU0LWF6Z1k2emlvc1FfVy1nejgzM3F0a3VuRXAzSEFzWEVKdXFrV2F4Q01MWGpHRVJweldHY1l6SmxucFRUMWJKQ1NVY1BpbmlLbVV5V2pkRw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T20:00:00+00:00",
+      "summary": "OpenAI introduces new AI model for law firms  abajournal.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches Legal-Specific Configuration of GPT-6 Astra, Its Latest LLM - law.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVJUdm8wVUxfRkQxSmsxZGRNbHY0Y0hLOWU1blFuc1pTeGc3X2Q2OTUxTXZOZGE0YWJKa19ma1gyZldMdXdSNHVrVUpvTHVITWdDTTZ3Zmt0NEQ5ajBybHp3X0huOTAzWm1WUS1Mc1dqb0FGaXl3Z3dPZkQxY1pScVQ0UFU3YW4wV0VUUEwyRVBlWC1wMWRndmloSDl0blVEMllLSm5SY0RtQnQ2bGl2ZE9BMGszZ1lpamZfQ1NB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-17T20:00:00+00:00",
+      "summary": "OpenAI Launches Legal-Specific Configuration of GPT-6 Astra, Its Latest LLM  law.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -81,143 +216,8 @@
       "title": "OpenAI sets its sights on the 200 biggest US law firms - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGYyVVkzNGd6WmdvMmZtMERiSi1zUXV2N2RPSHZKU1Vrb09TakFnVXdiY01STXl6Y3g0QVpmRmRNaWkzR1c2T1RyaHJ6a0FHbjNaT3A3Tk50MlNKV0FMQnpfUG5YR0Jmd3cxRzFqZjh0TXd5YVJuRGFtcDhjUmFqZ3ZjRFJkb01VSzFEeTdud1lybmFyeUt3cE1BTmNwSDQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:00:18+00:00",
+      "publishedAt": "2026-09-17T20:00:00+00:00",
       "summary": "OpenAI sets its sights on the 200 biggest US law firms  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI introduces new AI model for law firms - ABA Journal",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUQ1c1ViOGVuck1qZ3o1OVJZM1BMQlFLLTJUeGZ5UmZBeHlnYmE5ak15enltc0J0RzlMckU0LWF6Z1k2emlvc1FfVy1nejgzM3F0a3VuRXAzSEFzWEVKdXFrV2F4Q01MWGpHRVJweldHY1l6SmxucFRUMWJKQ1NVY1BpbmlLbVV5V2pkRw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:00:00+00:00",
-      "summary": "OpenAI introduces new AI model for law firms  ABA Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Legal-Specific Configuration of GPT-6 Astra, Its Latest LLM - Law.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVJUdm8wVUxfRkQxSmsxZGRNbHY0Y0hLOWU1blFuc1pTeGc3X2Q2OTUxTXZOZGE0YWJKa19ma1gyZldMdXdSNHVrVUpvTHVITWdDTTZ3Zmt0NEQ5ajBybHp3X0huOTAzWm1WUS1Mc1dqb0FGaXl3Z3dPZkQxY1pScVQ0UFU3YW4wV0VUUEwyRVBlWC1wMWRndmloSDl0blVEMllLSm5SY0RtQnQ2bGl2ZE9BMGszZ1lpamZfQ1NB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T20:00:00+00:00",
-      "summary": "OpenAI Launches Legal-Specific Configuration of GPT-6 Astra, Its Latest LLM  Law.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Breaking news: OpenAI unveils Astra for Law - Legal IT Insider",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JNE1rV1Z5ek41SnN6SWE1MF84dkp0SzNNSGY5VWVGSEJRdnlJaFRZWmFYQ2ZCbTdNTmhSa1BUNWJKaVBRSGtGWDB3N0VYSVlJVE9WYnI3clJVaUp0VjVPMVNKd3ZmZTJaV0hhVm9hUXRrNlBXaFdqaHZ0cw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:59:40+00:00",
-      "summary": "Breaking news: OpenAI unveils Astra for Law  Legal IT Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal - techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTnFrTzV4aWZWOXlXamdLXzZUWTZ3MndJeHFGbnZYSHp5X29LTUdPTy0wVmdpYTdhTXBRYXY4TTZsa2JseFNzXzdFelBIcXFWdXBsdmpIdXVzeHExbW50N01SM3p3Mk80dzlfNzNlX3AxVldIWlp3RDdmLWhyTDV3WUFUQmk2cDQ5Q3JYdDlyLVBRUmpvZTVnTnRIbFZxUGtiaVVLZUhKeGdSNFR3M0dBYjlLTDNwdjlENlJDaWl6RmJxU3hzcEQ4QUVNaU9VejFhZHlLa2xGVk1VQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:46:08+00:00",
-      "summary": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal  techcrunch.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI hires Brian McCarthy from SpaceX as its VP of worldwide sales - fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVVISnh0WGtYSnBoR2hGaUd0b3VWdnk4YnZKUTlOZUtvUWRxTlpTS196MnNBQnQzeTkwb3dpVUVpdjEySnJVRHZZVnFuOUVDa0NDUUI5NFZzVnBqZktHRmJuWURDSC1uTjhpMVJtTVlwWkJBaHlnN01wVFZVMEF4Rll0X2t0UmthRXhrVzlIUHhFb1N6ZEV4TnJLZ1hmMjhiRk5J?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:30:00+00:00",
-      "summary": "OpenAI hires Brian McCarthy from SpaceX as its VP of worldwide sales  fortune.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finding more instances of deceptive behavior - WABI",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2xDcjcyV1BjcXBVbGJST3NlTHdrOGg1RVUyNW01TFVpcDdySDF2MlpXYTBRZGJld09sazJFRWthcFFweU9USzd6MncxVFdnY2VlRTJUM2dXSjJvV1U5ZTdLLURrZFN0WmtGQXdNVVdCUGZHcGpFdmdlWHF4UnJTUl90bHFHX25aVXpCMWFPUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:24:00+00:00",
-      "summary": "OpenAI finding more instances of deceptive behavior  WABI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finding more instances of deceptive behavior - WIBW",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3JaVlY3TGlNeUxMRGJsTzFLMGszN3NJNkYtVnoxS2Vib2lmaEFHNjF3dEJ1c25ud2F6VGRSS0w5QThYT1g1UmdTaVppN1dPZzlfdjRuLVNtcmU5dHRXdmY3N2tReTRua1hBOVhxZHh3d2Q5SDBfdjJDQ1BlMVozSThxeEg3ZGZ4V2hEXzF3WHQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:24:00+00:00",
-      "summary": "OpenAI finding more instances of deceptive behavior  WIBW",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finding more instances of deceptive behavior - K8 News | Jonesboro, Arkansas",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEZFWDZqZWhaRHhlRjlnTmplOG1JaEoyUjdJX1F1bDVxaEExOXpBZmttSWszUmpBTzNkd2JBN1Q0TzJjb2owUTh1cnpTbUdvYzRXMnU3UjRYd3lRM3JPay01bFJ2c2I3RW1oWGhJRUVlMkVoU0FfNzZ3Y2VxWlBmTmVWTkl4Rk1LdGthVWJIQUtBZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:24:00+00:00",
-      "summary": "OpenAI finding more instances of deceptive behavior  K8 News | Jonesboro, Arkansas",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finding more instances of deceptive behavior - Alaska's News Source",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXd5WWF0bFltem5oRzkyNlhXY2pjamU0SDJRRUhnQTVWVEZyNHJKd1dtcVI3MjNDbFRwUzBaZlMyUmVzLWNSR3RYbFdFZWlxN2pGTGg2dW4yVDZGVVQtVlJIT1FYbHNKcjhZS2JZTk1SUVNrb0hpcTd0ZjNrQmNJemJ6aXAzY2dDRWlPaHptaG92U3AyTmM0eE1ZQ0lpWkNIR2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:24:00+00:00",
-      "summary": "OpenAI finding more instances of deceptive behavior  Alaska's News Source",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finding more instances of deceptive behavior - KEYC News Now",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ3RORDI5QVgxck9VbW1pOVBScjJwNVZReldIZ3Rzd3IxMGJtVUdZZEtRXzRQY2JIOHBRZ0JScGJNYzRwNWRvMUo1ejlJVmpucE4yYWZ4ci1pbDkwLW0xLU5SXzJwSGc1VHFYOF9ONlR1UUEybzd0Zm9TS0VvXzAwcU9DSlNucDNGUm1YemtCclA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:24:00+00:00",
-      "summary": "OpenAI finding more instances of deceptive behavior  KEYC News Now",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finding more instances of deceptive behavior - KWQC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNUJaVVVuelF5T2NRVVgxYlZ2aGxyUmlZVU1qWXRuUEdMd1dVRlR2TlZaMUdORUt0RmRIQTJQZGE0WmxUVjhienFBclNJSHhfMGxmMGFMcFc0cmVraUsxWFN3MXNmUDBqN1laLW1ZZ2RmWDVTbTkwcmVQNlBBd1dzY3NsaWpJcnJ2ZDhRQkN0NzU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:24:00+00:00",
-      "summary": "OpenAI finding more instances of deceptive behavior  KWQC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finding more instances of deceptive behavior - WAFB",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaGJtRXZsS29BdjFrLUN3NGJlS2g1RE8wY2I0RjFBQW9kNWQ2MkxRM2tPOXdLdkxkcG9UNGx5bkc1QXBGUmxiQ3FFUjkxZDBtYThqVVFzYnY4TUQtcGRmYmpoRXFZM3JRUkZNaGdFeXVUQjRaMS1GcFlJVXZWdWF5a1dUZlNSMzB5R1ctMUpkbEQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:24:00+00:00",
-      "summary": "OpenAI finding more instances of deceptive behavior  WAFB",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finding more instances of deceptive behavior - WFSB",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYnhmWXdlcUxjd0pycWxhRlkwOWZoUVoySy1oR2pEOWJkSVE3eUFZelQyR0JiZWl0Smc1TTFvQ2FRd284bW5yQ093TkZCV1kxTl9peE0yQzNuZ01KSmtFNXNHTktlOVZSbGE4NkM5UEFjU2k2MlAtWVRtMzJiTWtxem1FWXFtWFhReThmekV6bVk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:24:00+00:00",
-      "summary": "OpenAI finding more instances of deceptive behavior  WFSB",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finding more instances of deceptive behavior - fox10tv.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWE9jUkRCVmRkYUdhY2JINXE0Y3NNN1Joamd4QURqeUdJSVJMb1RMSjRIWjdvM1VHV1J5Vm5GdUx6TzJfQlBZbVhEZVE1REZ2LXVSNE5kZklRUkZNZW1CVU1SVjlORjFSdmlVNTVRUnVGWi1OZ0JiQmRnQXVhYkFnVk42TURWVWxwaHJQa0ZzYWpUdE1W?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:24:00+00:00",
-      "summary": "OpenAI finding more instances of deceptive behavior  fox10tv.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI finding more instances of deceptive behavior - KKTV",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWExNZkdhNlBwdXVYOWpyS1NmdnAtTkhEMnM0endUdUUzVGVkcmlvM3ZSdmJTdEZoMlZOMzMxU3dlUWNkeFRCRFBOMTRBM0RCMUFWSGZhT0dfT1dQWTJFbDRWQmpFUjRyWmF0M3F1bXBnQ0twdGdlZXJZQ1FKZnZrbl9MZXQtRW93WVF5NkRCQWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-17T19:24:00+00:00",
-      "summary": "OpenAI finding more instances of deceptive behavior  KKTV",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
