@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T14:01:14.416732+00:00",
+  "generatedAt": "2026-09-20T17:25:32.535812+00:00",
   "topics": [
     "openai",
     "openclaw"
@@ -9,17 +9,71 @@
       "title": "Hackers who broke into OpenAI warn the AI industry has a security problem - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM19yZG9CWkxLRGFEaVVfeGNTMFRZY3h3eW5uQTQ1VThHbmF5TFZSMTBNSWhIRG1ialpDTlVDWW5zZjgwQzNaRkxIZTVTQ2Y5blFWcGpfd3I5dUN5dElTbGt4dEZiQU04aG1fQm9yUi1qTUlOWXA1enBnUmhCdjFhNmJMYjR5NGhUMHBWZm1IQVRKUjI3NkRkdHQtWHBibmhYY1p5T1hVeXBaQllRNUx4WWdhN295d2M?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-20T13:32:11+00:00",
+      "publishedAt": "2026-09-20T16:00:00+00:00",
       "summary": "Hackers who broke into OpenAI warn the AI industry has a security problem  The Washington Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI, Anthropic, Google and SpaceXAI sued over alleged AI development slowdown - firstpost.com",
+      "title": "White-Hat Hacker Breaches OpenAI Internal System Using Claude in Under 72 Hours, $6,500 Bug Bounty Sparks Viral Industry Debate - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13Zlc4X2puLXZER2VJbGxMcU1HbkhMVzZOeWNlOFY1Q3E2c25lU1QtSXp2ZTBmNk9ZaFgxTGh3TjR3ZHo1ZkU5VzdvbnE3LVRiMmFZ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-20T15:24:05+00:00",
+      "summary": "White-Hat Hacker Breaches OpenAI Internal System Using Claude in Under 72 Hours, $6,500 Bug Bounty Sparks Viral Industry Debate  36氪",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’ - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWkxCQWN6Yl9tc3JjbVlLUGg1S1diMFM4RHhTYS1nQkRUTWdxQjloeW1LR2oxY1NUSjFBZkV0WWd1ZzRSV1FJeUltaE5jNjFLVC1UTGhDVEFyc2g0Q0NFaFZBOW9vOHNsVkU3eU1XRU41Z1ViaFhFSkp2YjdXLWhyUEhMVTRLNHlIcHRPS3M4YVJxSVl0R0F5YWhLYmRVV3ZYUzQyQWhlLTdVeUJQcHRBMGVVc0NkbkoyUU1uNWc1cVpuc1FaNHd3d2xjSkdqWjQ5Z2ZiWElldXNRUlQtalJjdk95cGNPM1RyWjdoczdQQlNmaWpkNERqR2p6Vi1KQ2RxZUlLcjJUaVhrSlZzNWtPVmFBbGFwdXFKX0JRUW5oaEFHRWttZDdWZkhUelI4N0R5QzIwNjJLc3F0TF82SUhyX1pCd1FDWVlTWndjcGZkeUtsMUU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-20T14:48:57+00:00",
+      "summary": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’  Tom's …",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkluUjhyUUZTY1BOb2VnYlhpSlBnYVlBNXNoOEotT1lEcUMxRE9Ib0tqcnFzdzZTNDNSamJEY2l2cGFLZENkTGp3cmFNNk9FRGpsNERlYklFZW1BZUdESWtGMlJqaDhkc2dGR0dSLXVacDhIbWw0RndaVE93MzVjSmd6anN0djhLZkJyLUpsRl9oUFJENEFQb3hCd2pKR3VVRHRZa3lQZEVaTTBUd0NxMnJDWnh6ak03Vm5IYWppLTNvSWUwSEtzcTJ6cmhZUF9t?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-20T14:43:24+00:00",
+      "summary": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks.  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWm9fYXl5akgza0paWUFJY2Q3Q0dBdzFTRXFqdV9aQXVyUEVVVWVFWTdTbHo3dWl0NFMyRXpJT0VmUHIwOHowY0NZcEpzRFpJcDNvMHJjdjBHNDhDWkVLUWtKbjJYcEpnZkI4eUROU0xTdFdFcXVwcktvVVBia3lKM2tnUlNPdVR0bEs1dWw2eTZDZlQxc0NtV1BVR3lFamZJdUpzc1I5ZzItT3ZSaUFuX25wYlBSRnFjVndZdlVfSzh4aFVqUkQtaENGUF8zV3AtSTZUQUFHREdSN1VIVEY4dEl2aDhfeVY0cnFLR2dUc3g5ZHlPdmhlVG9aTVdHTHBKUGhJQlRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-20T14:41:13+00:00",
+      "summary": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks.  The Globe and Mail",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zTWxiYWpsS3dDNXJrME5kTVpuYzFlTy1Fbnd6WXdESzFySFl5V3JNdnRud2FuOUwzWC1sWHZXY0pIcVc3YWRZdjA4bU1WWFZ6OW80T2Z5RmRLN1NCNndWYWl0ZE8zWmJGcEhPdkR6OG11ajgzdkZRNXlPRW0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-20T14:40:01+00:00",
+      "summary": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks.  AOL.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sued for seeking ‘safer AI’: Lawsuit against Google, xAI, Anthropic, and OpenAI - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXF5bVhycWNsM0xGbFNrdFVKUFpZT1FmN1IwOWVQdzNPZFJabHpJb0w5SzBMLXREa2tfUXlBTHB2aGxrS2tKWDE4R0oyWDNjdUsxUWxTOE9ueXRxMUtPbTN0NmNQWnowLWNHOVZGemRFSmo5VVpzc2laTmtMQjBmMVFIeFBpTjE2UEUwZ21xaGlINUV4ajZqY2s3SXhLSE1oQmJ0QWptc2ZEVGJtWFFpRktYRlTSAbsBQVVfeXFMUHRTZnUtdkFQbHJTRXJjNnViU2U1VUdmRGVYVUxkVFNodllTTEpVaEtfZW9nNEN0M1VzV09IUks4Mk40d1VNZXV2a0ozX09PajhXc0VIR3h4QUNfa3ZubkNGenlHWThTUWNYTkFBazJNU3M2T2NNaGp1T0Z6TnBIMEN6aktlTkdKTU1kQTk1d09sNXY3VXRDc3VYRkQ4dHdQX1NwakxuQVhTR2x5Uk1vQVVGV1l2ejRTYVhWRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-20T14:03:06+00:00",
+      "summary": "Sued for seeking ‘safer AI’: Lawsuit against Google, xAI, Anthropic, and OpenAI  The Indian Express",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google and SpaceXAI sued over alleged AI development slowdown - Firstpost",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3FXQlExX09pR0Voa2NuZThXcXg4QzdvNDQwOTBxX2dlZHpuSVhTYUtKUVlhOC0wbENsZmNrM0FwQ0xjY0c0ZWpzYUNpVWtsOGJUeHJ4VUJHREtDWlEwSTFKMDZlYmFHWnh6Vy1UWFNrT3dHalpLNG81VXprbExQSWwydDNDOFNlSFZxZE9zWGVMYjREb1psczVtaC11d1g5aHJtWTl4eUZzcUs2ZF80YUxDQVBpQ1ZXRGxPcUlVVEjSAcYBQVVfeXFMUEpPLTYwNFIwal9QZlB2ZkJLdEY4d0twTU02UlNEa1oxNzh0U05ocDhuVHo3WGtfR3M3ZjV0dlF2Rkc0M2dpVmNMZ3lFMVhYWmd4MnNJVlNQZkdpVzdCTFZYaGdqTjZucndnOHZuYW1wczZSeDFHUVNDb01vdEVZQ1AzcUd4amkyVkRfRnEwQjFNUDM5aWhqVy1Zb0JCRGFNbUV5Tks3dHl5NjcwZlBiR0Yzenh5akgtVlkxeUpraUZvUFdHTjNn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-20T13:29:09+00:00",
-      "summary": "OpenAI, Anthropic, Google and SpaceXAI sued over alleged AI development slowdown  firstpost.com",
+      "summary": "OpenAI, Anthropic, Google and SpaceXAI sued over alleged AI development slowdown  Firstpost",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,6 +96,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "The tech battle to build your AI assistant - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSV9qc0ZQeGdsRWhPZW5RSGk4S29MeHAwSl8wX21lb3FBR1hXdC1CTjdoQ3RoT2M1ZHc0NURiU1F6R3gwUW5aR1lIMWhLa0lFV2NtTk5tdnlJZE44aS1jTml6R1djSTBVa2R1cWpfd0MwcnZnZFdsWWluRjdKUGMxQzByYmxvM1dBamc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-20T12:27:16+00:00",
+      "summary": "The tech battle to build your AI assistant  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "openai-losses - Thurrott.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMjlXMEZQSWxyUmo2LWxpcFJMc1kwOWFIbzBYNFJIdWJGdF80eUVSaG9KbTQ5dUhTcWQ4SkljZ3M3c0hPOWw1a00yTVR1NElUWTNoRnZZYjNTeXRNQkw2U0xxVlY1WDhGOExJbjZHOXpBYVR1dDJITzQwQURQQTlCTm1ENzhwZmdkaVdCS09rMXI1blpKTlgtYktfOC1lcTVvOGxUNnROSnpVR0NxZ2RSU3ItV1JOUC1BUFNiNHZCWV9JUQ?oc=5",
       "source": "news.google.com",
@@ -60,11 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Co-founder of robot benchmarks company says OpenAI’s flagship AI model attempted 97% of harmful tasks - The Times of India",
+      "title": "Co-founder of robot benchmarks company says OpenAI’s flagship AI model attempted 97% of harmful tasks - timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNRURvTmtTSzdxejNTODRKVlc0VXN0VWV6M1NMeHJZNV9ZOTZQM1ZJREllakljVU9UbnJUTThfZ3h2VWw1LWpubTRjMEt2SHNsQk1FbVdOZ2lVRHZVc3pVdjMzeFpTeGlLTDhGVEZKTVZPLUNBNkxVOG1nTmdaVXdyeUNaT1lzYjJKVjYzV2puVm9kbGdURGluN3gxQjBmdWFpNF9jalR0dkdBY2ZnZlVTMnJrV1NHX05GSHgzU3RseFQ4WVE1Z285MEhfeUYxeUpfaDdXYkMzVEdha2xRVmhxaVVIdHZSZk1ud0lUdmNIT1cxVlpWOWo3aUk1SFBsYy1uNkRFeUhEQ3lXdk1fX3pJ0gGUAkFVX3lxTE1DQmEtQ2NsakNubVpmSHRJbmYwV0pwNzYwTVpYYmVZZm1lMUVacVJqYnJIODBOczdhRXhqTGZHZG1KNGlteHF1RmctSkNJTmgtZzR2d3FIT0NPUjMzZDFsZGJKd3ZfMFhmZzZnX2hyc0x0bWduY1V3djdvWGRNd201UVprQklUMjRENlRXUnFwQUxsTDJpUzVGb29lVzhMcVAxeExrcmpGNV8yRWE4TWw5S0ZxVEx3ZXhyV01aWFNuTnpuYzF3NWVPYUxVRERLTDJEdEVsTlpMM2FoTEhOdkNuMkU1bWFqQ19PcmlPQjFoeWhZVWRRUkFqSk0wRmQzRUF0eHprWnhwSDhSbzVwS3ZLalNhZQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-20T10:24:00+00:00",
-      "summary": "Co-founder of robot benchmarks company says OpenAI’s flagship AI model attempted 97% of harmful tasks  The Times of India",
+      "summary": "Co-founder of robot benchmarks company says OpenAI’s flagship AI model attempted 97% of harmful tasks  timesofindia.indiatimes.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,11 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI boss named exact date AI 'could kill humanity' - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vajB4YjVYN1NsaDI4SGxRS09nVV9IXzJ0RkY1SmVyODBQYk11T0paZXdDdGgzVFE2WEllbVhZbzdIUG5LeGgxZVFFUDY1NjZpRU5mMkFCRUpVeGtaQWpWbHFGWnBQeG1iNGVxRjB5clBHRWxoX3RVdk1xOXY?oc=5",
+      "title": "Meet 3 Indians who hacked OpenAI using Claude and shook up AI world - India Today",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZmV0MEg3OHJxQWFTcnRaUjV1QVZQelFCMkVBbTVpSC1XZWpRMWtMT3pDYXRFamoweWVFcG55eU9tRFFaRGlBU3JYN1RMSGVaQ2FqVXN5Z0RQLTQyNXJ6bFhmdTk0WlpEUEMxWVNORFA3WFJJOXhjVFZ6d1ZiREYtNXcwOFFYZUItU3hWdUVwVG81RmJfT28wYXY0MmdYd2c2NFFRcVAxeTFHMWxyUHBPZU0xSlRJT3VxQUw5ellka0hCV2I0Z0xrOW5ObGRRaU3SAdQBQVVfeXFMTTJVTXdXblF5MzRHejlLa2dVMklZNk9MeGRjOUhsZmhJaUNHTDJPX0FwTzlqZDZ6YTFiSmZUVjhTM1JJU3REX2pMd3lMZ2ZXSVQyY1VHQ01pZzYxY0J3dFMzNmd5cy1tbUx5VHVnMF9MZUlpMDgtLTVJbVNSdm1kaFhZeHExdHduNjJFZzNrZzBHRGNyZklpeXBIVldlQWhUVDNoaXcyMTlHTVI4VXAtUEhsd0hRRXRZY0xSTkJNZmlZMWRnR1BuN25ObHJkbDFwOGdkRGI?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-20T10:00:00+00:00",
-      "summary": "OpenAI boss named exact date AI 'could kill humanity'  AOL.com",
+      "publishedAt": "2026-09-20T09:52:15+00:00",
+      "summary": "Meet 3 Indians who hacked OpenAI using Claude and shook up AI world  India Today",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -123,11 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "1 in 4 OpenAI engineers taken off work; president Greg Brockman told them, 'All your projects are on hold - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQMEpNTkxvVkRmTXlvdVQwd2RCNTNEeVhURWg1RHV5T0JobWU5RlBDczRZbTlDRWZtQlBQQ0xBcm9FdWwtd3NZUEROMElFaHBubHdXbk5qc0RDbm1mWEo4VXRYRGxidElkdVNnaGpkM3p2OGp4NDJJVWpiYU55eWFvVHNvYzRuemQ1VnBZZ1FndXdWWUlBUjB4Zk5PMWZ6X0lQbWgzT0FEUXE1STBvVnhHUWtjb3ZXQUVIbjctYW0tY0tZbHlReWkwX0xDVFEta3Nud2s5cTFqRWlrR2xjeXJlUDAtUng0QUZrY2Zfc2dhMUJYM1gwekgzZnZ0ckdHY2hDZU5xOEdjT214OHQtYTI4a28zc29JblIxQ01oTV9Ka0E5cHdP0gGqAkFVX3lxTFBFLTUwRDF3amYtNFRfYzB0bTFqb25abHJ5cWs0RmpBLW9FYU85Z29ma1J6Y2ZQLVBpT0l1QmlWemZIT0R4aFJKaU1WQk82OFJSem95QWJheUt2cEZRYldmYUwwR252VHVwVTYyQ1FDT1RlWmRROW9jTWMtX08yR2pqQ1Y4SWxvbXlxZXlycVRlOTdhWF9yQ3JxQ2Q2U3d4UEFZSFVUV2pFTC1aUzlKUjB1eFBQMmswZU1Oazl6TnNBZVRlQW9reENNSmdsMThhSzBiNHBxQVhtQmhnRjdXLW1jbjY3THlmZENJU2VUR182akpRTHNvUDFGbFR4a210QnVsVWRnNGxSbU9GX1pMazdvLWFJOW5zSFhUSkNTaE1hZWFJNWpMWG5Uc2c?oc=5",
+      "title": "Google Says Gemini Hacked Three Firms Just Like OpenAI and Anthropic Did - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ2VfVWt6SHdBZ2xZelRDV2hIYm81OWI4REZLUWxvX042V3R3VjE0b0c3bGlEVHpCblg5ZlV1bENNZTAySjlaZW5FSGU2SWN1QXQ1ODZ4Y0VfM3NucTVpbGhrdmxfX21GTTc0Z09aUWJac0Noc043azhvUnNvcXo5V3V1TjhOUVlDTl9TZHBGNmIwWmVjUXhKdElCbTZZUzVBVnc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-20T07:16:00+00:00",
-      "summary": "1 in 4 OpenAI engineers taken off work; president Greg Brockman told them, 'All your projects are on hold  The Times of India",
+      "publishedAt": "2026-09-20T06:49:59+00:00",
+      "summary": "Google Says Gemini Hacked Three Firms Just Like OpenAI and Anthropic Did  Startup Fortune",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -155,69 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-20T03:59:22+00:00",
       "summary": "Lawsuit Says Anthropic, OpenAI, SpaceXAI and Google Made Illegal AI Slowdown Agreement  Broadband Breakfast",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQXRkTnBOWHdnZC1icnJVd0E1UGtlV1FuN0FFWFhwWV9rRW1oT2M0dE9DYl9ocmw0MHhRZWdFWUtwZ1pacVdFdExfT2dVTnY2aUZrM3lfeWxmTEtWUWRWQ3NzRkd6am1fZ0ZBTHhJcTJEeTlCbzI3Ung0MXprbHZvMTc2Mmk5cUVQbmt5UTQ1YTNmeGp4RHk2R1pLLTVybUZFTy1ySTR5Z1RsV3FCNkF3X1gwZUEyakRwTjVZUnQzNnkyMl9tMzFOeVNWQkNFTTloR0Zj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-20T02:38:43+00:00",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown  Los Angeles Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-20T01:06:00+00:00",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown  CNN",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - AP News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-19T22:05:00+00:00",
-      "summary": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown  AP News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZX1dvRmptbnlMaTVSNXFlaG51TVJWcWZZbWdCdW52a3NrT2pjOWtrQkh6WWVIVEswWm9QWUU1VkhuNlZqVG9jWUR6YkNXMzZsWTVfNEpyaklxdml4NUtwSEsxcUpjQnR0T3BNU0JRRkJpTEJxX1HSAXtBVV95cUxQTFZQVmUycFgwRmNHWUVna0tLQ1B0ZEdEZE1lM0ZEaWJyTThuVTBQNnFlb3ZMb2ptMTFKVHRZU21Id3d1THlaQkZiNFZINUQzVG9CT0hlNUppTVdiRWVxUnBBVXBlanQwQnFsSG1xblhDby12a1c1enFLWjg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-19T21:44:23+00:00",
-      "summary": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live  MarkTechPost",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Lawsuit accuses Anthropic, OpenAI, Google and SpaceXAI of illegal agreement to slow AI - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeHZTeFpScnZCX1lxOFlJdVFacHBuOUFheWtIVGJRWWhCUHR0YjJlTlE0N2RuNmI1NVN1aEhLMlVEaTNVRWkyUHB5aUpqMmRJV1ZELWlNR3RsaDdsRE5GNmR5TDVnTUR6bUxYTlRacmExT0d3eUR2VklPLU84dG8tUGxQZEFBWlM5OFZCZVgzMmtvYW1Td1dReEVXZ2I3VGhfbUpLdW1ucW1YRmJ2cmtYblpWMjVSNWVvcmJR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-19T21:02:00+00:00",
-      "summary": "Lawsuit accuses Anthropic, OpenAI, Google and SpaceXAI of illegal agreement to slow AI  The Independent",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google illegally agreed to coordinate AI slowdown - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVR5Y1BLeFdPZFJXQkZmNXhGbFZPWXBBTGRPU0hhMHhqYjFUTmIwamI0aWNldkRnZ0RPZDl4TzdNeWpxclRha1dCelNCcHN3eUtMNzBRVWFwcUpVZUo5TGhRbTM4Y2duamRIUzdEWGdmQXlkSk9JSDZGczhHQUVHcEk0RmhESFZXTGxIQXVkd1k5MUR3dElSVVNWSkYtSWZiWkRnRjJ3eTk1eUs0WkpDZURyalRWbU00cWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-19T20:34:00+00:00",
-      "summary": "Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google illegally agreed to coordinate AI slowdown  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Inside the Israeli security firm tied to OpenAI, Anthropic model breaches - Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPR1Q3TTZ6cWlTQ0FjZ2RsTXo1MzFGSDlnZDlwUm1wTE5SZm1YekNQajdzQkdmWkl4UW9lZzFpbXJBTXJReUZiZGUydWxpMS0zekc1MlJyaGlERzJhRG1rUmlLd2N1bGNsRUFZRkdmUlFrcEQ5NlU4NXZtVmRFZTBPS0RqejFyb1BHdnppM1RDQ0pFcUNNYTZsOE52SS1uajF4ZXZjUFU1VUNUZWlTSmcyUk1aUkxoQVRFd0JEdmRXeGJ0S0pvQUx1Qllna0NzZEY0aFA4LXh0Y3NoUXEyb0hOSTk5aE5sVjBQUTE1a3NJa3FtcHZQcjNQNzNfRWx2Zkd2dXFDcDJnVngtbFRMV0hHb2U1Uk5PelR6UnNn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-19T19:30:00+00:00",
-      "summary": "Inside the Israeli security firm tied to OpenAI, Anthropic model breaches  Haaretz",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
