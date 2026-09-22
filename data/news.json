@@ -1,10 +1,199 @@
 {
-  "generatedAt": "2026-09-22T11:49:29.052475+00:00",
+  "generatedAt": "2026-09-22T15:45:26.719492+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI AI Solves 100+ Math Problems - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZG1TcVB3WUxmTFMwMjRBX3lBNFplVlRSX3hwaDhOcXBqVkN3RVBkM25kejhKZHNHR09MZG9PYXVYaGR3U1EwOWNIdFJZZkdXUmt0U0lwUGdOdVB0bEo5Z3lLZ0NXZmx5WUdJLXdFc0tLQm53QmpMa0ZkbDFrNFV1VGtBbUJsTUJ3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T15:38:17+00:00",
+      "summary": "OpenAI AI Solves 100+ Math Problems  조선일보",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI calls for international standards on AI that could improve itself - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRFozT0Zjc254QzlOQjJuQ1VnN1ptZHJSTWFXSG1QYjhiYWVNekxmU2tXTzlRbVZrUXhXTTd0Ni1EaHRXUG1ZQUd3Ync4SFIyaU5nRThROWJGNXVwSmhYM0o4M01DOEdjeFBXQ0hNSlFzN2JyWTRkX0JCdlRIek81NEVkOGlyUGRxNXEtUnh2VWNOZGxXNDEtR0NjSTNQUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T15:32:12+00:00",
+      "summary": "OpenAI calls for international standards on AI that could improve itself  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple pushes for deeper access to OpenAI’s hardware records - The Mac Observer",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM000Wi1NN2Q0eU9kSWJKRTFRd3U1dWctdXVvb1dKa1BuLWI5NGtpWFZ1c2wxandIY3cwSjdlYjRBZWRTbmNxek5ONGhUejYzVlZucEJyY0syME1KalNCVktOZ0tuQTUyeXdlYTJBZU9JOEsyb3lNS0prUGw4Z3BhTzN1c0FSRU4tU2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T14:48:59+00:00",
+      "summary": "Apple pushes for deeper access to OpenAI’s hardware records  The Mac Observer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Altman to call for US-led global AI standards at UN General Assembly: report - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVmRFTVB4aGtyUGpZZW02Tm0xTVZvYjVjQzFtNzhDckFRU05aZS1YYWtiaG11UFk3OWRONnpwVE5hcFZ3Q3R4WGh3XzdRdWRTYXNMdERLRWhseno2U0RfWWl2WmVqNExnb19GTEFDOEQ0VVV4di1rUjhNUVFqSnZzdDhTczFWbUNBRjBzYUFKR3lxVnJSMHNZeDBHTkxQa0dDWXFZM21hQWl0MlFsNXhGbmw2LTlMU3UwaHY1OHdR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T14:43:03+00:00",
+      "summary": "OpenAI's Altman to call for US-led global AI standards at UN General Assembly: report  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Big Software Firms Offer AI Discounts in Bid to Counter Anthropic, OpenAI - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRUszQmp3M1lnbDZtR1lySDZ4bE92RS1WbjE3aWZPUnZsdmpWWlNDQmNJa3N1TWk0eTRTWG9jOG83NUk3djBIVWVkV1lpUW9zSERPUjFMRHZPdEU3bFUzcng5eGJtc3Ftb1pMcEpjQnZCb3V6OFBKUXllb0trNUFLNzJHNUczQS1UYTlBYmFLX1BVQk1xT2FkT1RuRG40M2d0S1ZXanhsOXdHejJhUHBpVzdDUXBZb1ZCNUVHSi1odlFJMEk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T14:23:46+00:00",
+      "summary": "Big Software Firms Offer AI Discounts in Bid to Counter Anthropic, OpenAI  marketscreener.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Palo Alto Networks equips OpenAI, Anthropic frontier models into AI defense products - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzRYOElzSDdQVDFzU1JuUkpZWjNLaUdVWGFDVWlySG8tYTlvdWdSNHVMY3pOYXZqUmRsUXdOck1VdDhUZ2MzdHJWR1pxN19LSEtyeENEWW5tWndLWTBaMHl6WjlaajR5QjJ2T2F2c01qSjc1bWpPT0Q1ZUdpV0FYdWhpS1c2UTJBRDNlQ0J5ZFZTVG5qNnR6LVNxemh6YWhtUzBkT3JSZnh3aThvLTFFdGlvc0xaaV8tNHBOMnJB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T13:54:04+00:00",
+      "summary": "Palo Alto Networks equips OpenAI, Anthropic frontier models into AI defense products  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "DeepSeek to brief UN Security Council on AI risks in 2026 - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb1V5S3VxX1lIWF9BdG5EaDlfMk9FN2hFVVgyWUc5ci1ld0lNYlg2dWJjTWxPSEtMNTUyTnRRa3JIaGlfRXhURWNUcWwwblladmNSWERXSUtVUWlEQ0wyaHlBOFlzaG1VRXRVVTBuY2tSNTA1R09sSXRUc092WHVQX0FB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T13:51:43+00:00",
+      "summary": "DeepSeek to brief UN Security Council on AI risks in 2026  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Urges US to Lead International AI Safety Standards - Hungarian Conservative",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVNwV25oaEI3NVUtTWpIbFZOTUhES09TQndWMmlaS2Y5eXVpMFo1c01KT0dOSTk5Y1lUY0ZKZG5aWkI0cHR3Q2ljRjdlMUZRWHdjV2g5YjN1c2dnNWJwdkJVWnRBQ3Y2elJiSTJ5NjJfV25IeVJDNE14b1gwbzhJLVMtY1ZZcDltQ3g1ajhvaDFCMFRSQUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T13:30:00+00:00",
+      "summary": "OpenAI Urges US to Lead International AI Safety Standards  Hungarian Conservative",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AidenAI Named OpenAI Select Partner for Enterprise AI Deployments - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQekVEZVV5YVRSZDFYWGhCRUphcE52QUlzdnFHSER0eUJVTVNFdGRVbE4zdnVZeVRPMnhfeUx1V05wV3NxLWw0UmhwLXZLTkE3enNCcEVLZUJ5TVloTUhwaHlpTzRnRmUwOWNPTVltUXJMbFhfR21KLUh4V0ZrZjFqU0s0MG90MmdXSEY2V2s5aDZtZ2lhalQxWGxtOG9OOGN0bGIxV0pDSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T13:06:32+00:00",
+      "summary": "AidenAI Named OpenAI Select Partner for Enterprise AI Deployments  citybiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Urges US to Lead Global AI Standards 'Now', Warns of a Potential 'Conflict-Ridden' System - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeE0xUGZJU2xkY2xCbGpHRlhEX1VMeHgxRmdQTzR6QWZmaGZuNmlkODNUQmpuQVhsUFZPMGJCX0J6RVU5RmpzVGdMNVRtR25xbUdxbEQzbWYwZDE5eTBXZWhjank3N2t1enhxb2xDaG9XNHQ3M1E2RWphcHBlZzQ3a1FqRGRVemF1aTBJSE5JR3JoX3NJYWxTR0tYUHNZM0o1Vkt0aHJ2bzJpdWtlRlQ0WUN2MFBFSmVIWVlib1pPRkxTOE5YMl9Xc0tWVi11ZXlzbzVhbXNxUjdYLVhHWGFLSGlnU2s?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T13:04:15+00:00",
+      "summary": "OpenAI Urges US to Lead Global AI Standards 'Now', Warns of a Potential 'Conflict-Ridden' System  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "People Training OpenAI’s AI Fired for Using AI to Train the AI - 404 Media",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEUtRVFRci1pREJCMXg5ZjUyTHY1YUpPWFFXOHdFdTZERGxQeTZhb3A2UTZaU01GeGlXQnZpRFRudXRhS2ltS3JWbXVPLXhRQ3MxUHYxX1F0M3FacFJvbVM0NVRBQVo0bTdVZlY3YWFkR3NSRklIblExX0dUcUFVVFFGYTJwUVVwTHpWci1pbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T13:03:29+00:00",
+      "summary": "People Training OpenAI’s AI Fired for Using AI to Train the AI  404 Media",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Software Firms Discount AI to Keep Customers From Anthropic, OpenAI - The Information",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFE0dDlzUktaU2FTcDY5YXFLU0xkZjBhWjJqcmtwQ1lSWjZjVExfanFaaHJlSXktNmkxTnduaU9FYk9FTElGaVV3eTQ4ZUJZQUsyWGRkNm8yb0NoekpZaHBfQUVQazRnZkd6ejVVYXdUUXg2a1NoUHdhMDlBZV9oRWFwSGpXWUhrNGNzWnFnNktaaElfbHg3V2Q0dC1tY1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T13:02:31+00:00",
+      "summary": "Software Firms Discount AI to Keep Customers From Anthropic, OpenAI  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ZS named an OpenAI Select Partner to help organizations scale AI impact - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUNnWlFrYmtROTVoTlYxb3ZDSDhvT01STGRIRi1XYU1GYmhmU0hqQmlQa01KenZleTV0NHlLRDM2Y2ZxR2wwZnZwaGp1amdWa2dMRXFscTJ5em0zZEJkX1JDMXpDZ0tVcmRYTEstMzVWYUVFcHV0c25oblpKWnI3RkpXRTRCMnZpSGdpXzF5cTRQcXdtM2p4UlctRS0zMDgzelFCNFI5SDVsTEpGX2J4T2F5VHB2bEpra2Q4dnhuRlVwRTdidWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T13:00:00+00:00",
+      "summary": "ZS named an OpenAI Select Partner to help organizations scale AI impact  PR Newswire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Is AI getting too powerful? Trump says: HOAX. AI CEOs say: SLOW DOWN! while Investors said: BUY! But what comes next? And who is right in this battle? CNBC-TV18's Dhea Eapen breaks it down. #AInews #OpenAI #Nvidia #DonaldTrump #IndianIT #Stock - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV3NVYjFFajd6WTlqNW1VUGN2S2N0SmN6amQ1eU1VVE9PNUJoNl8tMkFQaU5ZT2o0eDlJUmlRanRKQU8tVklEVnZrUHBRakV3VjdRenFLUHN5LUhaN1Y4eTdkUThmOFNOWm5SZWRWemV3aXRqbG1YbU0weFhUaUxJZzc3bTNzOWUwNFZudkZONzZxMUk1dWd1SFE4MA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T12:58:11+00:00",
+      "summary": "Is AI getting too powerful? Trump says: HOAX. AI CEOs say: SLOW DOWN! while Investors said: BUY! But what comes next? And who is right in this battle? CNBC-TV18's Dhea Eapen breaks it down. #AInews…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Elke Karskens on AI Risks and Marketing with Astra - AI Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2ZhWVh1UnZPQ2lCUlg0TkZnOFlxZ2NGbnFIYWxvZS04eWhwQ0dMSU9NS1lQcHpkRVduVkg2WG5mRDROT2xjSkczMUkyWUcwWmNLbjQxb285Y3pCc0l6VWJiVlhJdTN6QXBqbldpcXBjQTI0TkZZT2NrdlZubl9HSGRCVUxCblg5bHpITTNn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T12:42:13+00:00",
+      "summary": "OpenAI's Elke Karskens on AI Risks and Marketing with Astra  AI Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Forms Advisory Group on Mathematics and Artificial Intelligence after AI Resolves More Than 100 Long-Standing Open Problems - BBN Times",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV3ZRMnNEUlFsaUxqbHktSHNoTzNNNjNZX3NsMGpCdzBzQXJmZV9UbFBsMXlZUWhteG5aTS1SWkZiQnVTMjhWWGVBS0VMUklTd0cwWVVCTjVwRHJmMDV2YlFNc2R3aXBfOGJvbmJwMnBVM2d3VjFJN1B1dHRQOWZZTkRjOUZhbXZxWUdSWFRYLWE2LXREWE5DSnlfM1RhTG9Hel9IMFQ2Mk5CR3pWWlh5bzBzQnUyb3dva2pqSE14R1d6N052Mkl6UnFaVlVsRlowX05nUnhDbVp2RGZwekdLTFpSNnNoYU85TDNnZGtZemp0NzhoeFVncEln?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T12:30:55+00:00",
+      "summary": "OpenAI Forms Advisory Group on Mathematics and Artificial Intelligence after AI Resolves More Than 100 Long-Standing Open Problems  BBN Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s George Osborne says datacentre nimbys holding back Britain - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblQySDBVOEJmQ05PTkxLT3BNUmRjTHBhV3gxVTNSUzhmSWRoTHg5WkpSR056X3hXYWxjbS03RkM4aXhZdjdHbDItdmlpd3lJVXVkTkF0VVdRVlNteW5ES280MndGbjBJN0d3STRFbU1yZFJWRUJqYW1WY3l3cVpSQmRHbXctdVcwYXdZcWNKWVl5aGxvdVBuM1lwNE02NDRETGhHMDY0Mmo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T12:12:00+00:00",
+      "summary": "OpenAI’s George Osborne says datacentre nimbys holding back Britain  theguardian.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "🤖 OpenAI’s Advertising Machine - appeconomyinsights.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWN01XQnA0QnZDWkloMDdOeU11a19Gc21KUkhVa2V0dzVwTWptUnkzY3p0NzlmREp3Y210eGpyZUxfU3gxY0RucmdnTTFYUEtBYlFqRkZROXZodzJzN1RySHAzd3F0bHNDakI0YmNTWHE3QQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T12:02:34+00:00",
+      "summary": "🤖 OpenAI’s Advertising Machine  appeconomyinsights.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Palo Alto Networks Delivers Anthropic's Mythos and OpenAI's GPT-5.6 to Customers with Unit 42 Continuous Frontier AI Defense - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSm5PS0ppY09icUcxckZLeFozMElJT3V5UTFwZkxVbWR5UEhYejE1MVhYamc2M1hoLUtsYlVuVkVibWtRbXBpQnJ2TlZ4cGQzcnVsR3lKdVJUdVh6Wm5iTi1iU1RKVV9GcnVLaEs4OU4tcHNjWFhick8xdnRoV0N1ekppRUVVakREN1YtSmZGUmR2UHJmS2lDeU5QR2VScUtocEwxR2hNejU1UlFiVnlGY0ZCLWhydV9vN1VJZFlSSEcxZEpMYlNYMEVtS1N0RnVwTjA0OEhOYzlxRXhqUzBVc084QUdRaXFSVVJnVmJRWTFyZ0hUMWJPcDhEN0Y0eGdBWEJTUFpzcXVqUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T12:00:00+00:00",
+      "summary": "Palo Alto Networks Delivers Anthropic's Mythos and OpenAI's GPT-5.6 to Customers with Unit 42 Continuous Frontier AI Defense  PR Newswire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Canada’s British Columbia sues OpenAI over Tumbler Ridge mass shooting - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGpCWTlSblNqdVo3a0htMFNXQkxfTXNRQWdmNEVxQkxWajFZd2ZQNFBfNTJuX3NUeWJJc2tTTkZaMkljdE1zbFNFZTFFalBtTVd6M2wxTHM4czE5UGtPUVd3VTZpbi1WV2N5SHg5dTMwZXFfZjBCbVdpenRvNUVwT2ktVDVYUE1fd2gzcm9YeGV4R1k2SFprYzJ3SkQ0bUgyNHd0QXhvdVVDRTRm?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T11:57:49+00:00",
+      "summary": "Canada’s British Columbia sues OpenAI over Tumbler Ridge mass shooting  Anadolu Ajansı",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic and OpenAI ask Australia to ease its ban on AI training with local content - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLXpBWkxodkxfT0xON1llOEJyOTNueDM3QzlsZ3Nsbl9pRENiazR3OEJDLTZxRHlDM0o5NUlEcXd2Rl91bXFDWEFXYWF1eUp0amo4NUdHT2VWakt2bTZsS0UxOGo2UGlTbklqLUVZLUgzODNVVDVfaDZRVlktWngzdFlB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T11:37:30+00:00",
+      "summary": "Anthropic and OpenAI ask Australia to ease its ban on AI training with local content  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI punted. Anthropic stalled. The hottest imminent IPO fits on your finger - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeVN6UkN6aUJJZUZZTkhkN3o5bDQxVG1ERFRRWW5wazQxTWFtUExJR3RsMmw4SXhoejFrZENMY092QmhKaHJPSHRHUzhKVERjV0R1V3VQX3ZXemV5NGxPZ25mNi1ySzNlWllCM1NCeU5LOVRPNGZYbk9HQi1YWXJyUWtLdDdsV0Z3TllwTnFlZW9PemFJR0lRT2I4Q1RQcWdwWVVGejhPaGFPRkNSeFBaVnZUbw?oc=5",
@@ -15,11 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Anthropic and OpenAI ask Australia to ease its ban on AI training with local content - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLXpBWkxodkxfT0xON1llOEJyOTNueDM3QzlsZ3Nsbl9pRENiazR3OEJDLTZxRHlDM0o5NUlEcXd2Rl91bXFDWEFXYWF1eUp0amo4NUdHT2VWakt2bTZsS0UxOGo2UGlTbklqLUVZLUgzODNVVDVfaDZRVlktWngzdFlB?oc=5",
+      "title": "OpenAI calls for global cooperation on AI standards - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jTDhZTFMwMVVmRXBtX3Nab0ZtOGZPZTZSdGw5aWhNcm5BNldSbXBuNjd1T1FCR0xUN3IzRlhyVG1LX2lQeTdfZnQ0SGpzd3o2VS11SC1R?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-22T11:33:34+00:00",
-      "summary": "Anthropic and OpenAI ask Australia to ease its ban on AI training with local content  The Next Web",
+      "publishedAt": "2026-09-22T11:29:19+00:00",
+      "summary": "OpenAI calls for global cooperation on AI standards  Fox News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,195 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-22T11:22:57+00:00",
       "summary": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training  the-decoder.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI Exec: We May Have Pulled Off “The Largest Theft of Labor in Human History” - Mother Jones",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3JvVjlKNEJESXczdW5lc1BOeFZ1SUZyRkFpdnQxaUVOSFZzOHJ5T0psYWJrTkdTcE5kZmk1a1V2R0xFaC1MVzlXMjhSYmgyMEtXMXRjSmhDcURZeTZTQUlqTGJ2cXEzZTVkcGNCU0xtYU02ZTNHTjNGeENKV2FhYzk4RE9SeXloVVd2bGw0Q2pZeG9KdFJLY3Zxc2hSYlZBR21zTHhZNk9EQ0tSQUZ3WVlWOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T11:00:05+00:00",
-      "summary": "AI Exec: We May Have Pulled Off “The Largest Theft of Labor in Human History”  Mother Jones",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI expands on safety philosophy, calls for intl. cooperation to develop frontier AI standards - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQWg0a3ZpZXYtSk5IMjBxOFZVdnE2S0Rrb09mRUh6bTcyVEVWMWxBSTJtZjI3dFBkSE90QUVMNElrM0tSTjRxb1p6WmdPNUplOTBacXIwS2lfenpQcHhSRUVYV3BOTnkzcDJEOUdtblhGXzRIako1VzUtRTdidmNoX3Fzbk5QenRiazZxV2VtenZ6VEtGOHJ0dzNMTU9mYXcwN0lnZTJrTjZjOG1GQWE0OFVmNWZ2SFVVMkI1NFlWbUtXc2g3UGY3Q1N0azZDTUgxR3VaSA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T10:59:22+00:00",
-      "summary": "OpenAI expands on safety philosophy, calls for intl. cooperation to develop frontier AI standards  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "British Columbia Sues OpenAI and Sam Altman Over Tumbler Ridge School Shooting - lawyer-monthly.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEtfSlUtUXB5MnhudjNwZnk5NW9MOUFrVlBnVFJBa0V0ODJQNm1PbEw5TUlCZE9DZ0ptMXNiclRVcWR1aXQ2Szd5WjZ3azd4bXpyYjJWYU11alZES2RUbHZ0VlZGSWE5ckY5VWpxSGNJMzV3d0hJOE5MYmR4Uy1jeFlYSG5zQ1A1M05UQnFuampRN0lyZ2lHcTEwVlVGY0xYR0tFaUZyTG9HRFB0ZHhuSFRIVGtHWFZVbFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T10:55:11+00:00",
-      "summary": "British Columbia Sues OpenAI and Sam Altman Over Tumbler Ridge School Shooting  lawyer-monthly.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Three AI-era giants tower over 45 years of tech IPOs (OPENAI:Private) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0lkUEJHc0ZXSkhwZDN1U25HTnQyRkJDR1JMbHh3STJ6Zm40N0Z1bEZicm5PelJ5Z1hoWXV4RmlMbGRKQlJvX0hOaVlqQ1U0OUZEZXNsNTFPemE2MVZnTzVpWlJkNEZmUjM3Vl9PMDREazRoYXRHcWdrbjRLRlZxRV9GVFFsVVBrU3cwaVJYY2hvckpn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T10:42:41+00:00",
-      "summary": "Three AI-era giants tower over 45 years of tech IPOs (OPENAI:Private)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT Credit Score Tracking: OpenAI Adds Privacy Center - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40RmJRRzRzODFUeHowXzR1UE5ZMmhjV2hUdEdldlJfN1ZVTFJhNUFUb2I1V0dxbzQzdFlWbzc0NTRlZnc3SFlFZ19xYWNYeTBvUThhNGVRSXlydHRKT1AwUmxsTmxxNEFJTXU4b2Jtbi0xWU9ONDhEM2txVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T10:38:49+00:00",
-      "summary": "ChatGPT Credit Score Tracking: OpenAI Adds Privacy Center  shattered.io",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Investigates Elevated Errors for ChatGPT Plus and Pro Users - unite.ai",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNemUyTTMtZ3lTVGlnTmVKUmlsY095RElvVXR5dHk0T1JpdHlLQVBYbm1EUVJ2NnV6WTEzRWdHb0NMcU82eFF1OWZpd0tOQVBsaUFSUUxsSVhKUk56d2VrT2hVYm14LWZQaUdoTzJKaHpaMTA3bzNCYmcwbWpLU1pNVVlQUldYRGZmU21zbFlOTXJDUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T10:28:02+00:00",
-      "summary": "OpenAI Investigates Elevated Errors for ChatGPT Plus and Pro Users  unite.ai",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Researchers used Claude to hack OpenAI - Malwarebytes",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmk0SzgzcFVHS3I2Z0pnUGZORUF2alJxUms2RFJzQ3Joc0E4dnhtQnBsWWt3aTQwOF9VMm5IMlFmeXE3ZWNLbG93Wk9UNWdCT0ZtaC1SWTFXZTgyYWNDT3NIRXBaXzhTQWhyRzY5bWcxMml5V19HZFFab1dPQ1JtNHczZTJWaXE4QVlUS1hR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T10:24:28+00:00",
-      "summary": "Researchers used Claude to hack OpenAI  Malwarebytes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Palantir CEO Says OpenAI May Never Pursue an IPO Over AI Risks - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1SkNEU3RiX291alVRQ1RjNGF3VFYzWjctU1NUUUlEMWpHdEZNZzBkV2ZnOGlQakx6U05iTDFndE5jRm14dzh3MmRDWExObUdJTG5VRml4dmJrRDRqUUFSU3FEekx0NVBEMHpXVWtn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T09:56:14+00:00",
-      "summary": "Palantir CEO Says OpenAI May Never Pursue an IPO Over AI Risks  Межа. Новини України.",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Khosla Ventures Taps Ex-OpenAI Executive Tal Broda for Infrastructure Investing - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUFiNmgwejQ1bkhnQzFrODlkTmNQN29qYmFJZGhqSHNtN2hsREZxLTI2Q0c0ckU4M3BaUEs5cEFuRlg5T090NmFfay1IZkZKTTg1VHZiVlFOS1ZpQmM4ZEFnRUpRTm1ldENzMWFoVnBycTAzVnhqbFpMSlExTFZmQmxlZ1N2VktvVGtIUGw0Wl9ueldFNkZqX3Exa1ItaGtpWmNCS2I1dEdlR3hhU2VnN0gzRm5Xb2h4RFVqbkNRdlpsaGt0QXMw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T09:52:09+00:00",
-      "summary": "Khosla Ventures Taps Ex-OpenAI Executive Tal Broda for Infrastructure Investing  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "British Columbia Sues OpenAI Alleging Failure to Warn Before Mass Shooting - Insurance Journal",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HNmgwMnFFS2ZMOVd2RFdvMlRqSzJHR0dFbGtBY0pvVUFEMFduSWlReTNVZTNpVlBGRERXUS1ERlRZWFpZNnRfdlRCNS1JcnlMZzZJUjBBMDJoRGV4dG82eVdzNGhGcm9OSmlFdGpVcERwOEpfUEg0S2RpRXNkZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T09:45:27+00:00",
-      "summary": "British Columbia Sues OpenAI Alleging Failure to Warn Before Mass Shooting  Insurance Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI calls for global standards for self-improving AI - Techzine Global",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVW9iZVJNdy00VkZqSk43cUtPX2FidkdHVEYzaWhOQ0d3aVJCTmVDdjFEQVpfdU9NSnRTelV5TFdXYnRqNG1NaEZ4WXhmMFZrWkhIOWl3MUtxTEhtZm1NYThBbHF0SklPa3ZMUDBUN1pJbVRIYjB0cXZxLW8yX2lOaVlFNHE1MTFiWWVNeDhxaEhDMk5tUFBpaUpWU2ZqelI5dHhyMnVjSHhSWW5tRWxJNA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T09:44:04+00:00",
-      "summary": "OpenAI calls for global standards for self-improving AI  Techzine Global",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "After telling American AI companies to 'pause', OpenAI proposes standards to the world - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZ0Rmb2sxYko1SGxXaXowMWFJUC1taGk5dkw4UHJhZ3E0NFNwaUhPNEVDV1FBeFY2OE50VnNNNXdNQm1xUlBNX2RjYXJlcGt1LVU2bkFmanVRS2JiUHNiYTZiMk4xSGszeGx2UmVlOVRaVXJjVjdsOXlWM0l1dGEzWGl5aURGOW1qUndZaUdzVUw3cmd2bjJJbTBvZUh2MEJwcjFvUEJPSzJtVUJYdjR1Y2VoOWg4VktDRGc4Znoxa0M3cXN5VUFUMnhYMXdzUnl1RjFfOUM2LWlVRVVqQnRtT2lnelFBSXVSMmV6V2JyeUQxcHpXdURLUHZB0gH_AUFVX3lxTE1UV05VT3MxMEFnRGZRT0c4ZjhacGtFbVI4bkQ2c05UTDA5UUxyQkxjZ3ZVVjE1U3V2WHNiWFhBZTdOaENzaGd4U0hWWGpnYkxHMzM5ZE1sbkYxS0lkb3M1aUtLNWxoR3JwalppTVpOdFJqSjVmMWhXOHhTRFdaNTdUNUxTdjlQLW96a3EyTG41a1RWbnVRZllaa1lGaFJ5SzZ6LVFMWlVsaE82dk1kUGhWV0w2bTJRN280R2dRS2xFX2cxTGIwSnVBN2tscnAtUWVZS2hjRER6eUVudzJPNUVqazhRaHFnQmowNTBOR2o4d2ZQTVZjWE1MZER1THJSSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T09:44:00+00:00",
-      "summary": "After telling American AI companies to 'pause', OpenAI proposes standards to the world  The Times of India",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Anthropic scramble for smaller data centers as massive gigawatt projects lag — 20-30 MW facilities to provide capacity as mega structures undergo construction - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQVVHZWh5SnlEaFlldzBBMnBoOWlhYmR0TVdmeF80cEthelhvamhuVEZtX1NUQXAzZlByWnJMRktGaDNFZGJHajRaR05kVzZ1NlM3Zk1JZXloS1NyUEc4amxOeS1OV1l5VzN6cnNPbTRQZndrYVJpZFIxWUpUanl2Tjk1TEZhZG5OQktncEgxMWE1NGhoWEFiY1kyR3Y1MWp1NWlXaDRqbjU2Zlo1a216TTRUWERBN1d4ejNiZEZXQ3M0allhazRod01VZVhCaEhJSXBtVjdaQU4yU1dkdVlfbU5pRl9JZVBRd1dHY1hkcllUYlVYRFZGX2NFVmN6UXVXZy1fSHFudHo2XzBqTW43Y1prZ3htc1dnMXlfcDlQd2h3bWdseVZfZW15NzVOeEloZTBVaGhqUTBPY1VEX29taC1iVDduUFgtalNWVVF6Z2t6UQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T09:30:00+00:00",
-      "summary": "OpenAI and Anthropic scramble for smaller data centers as massive gigawatt projects lag — 20-30 MW facilities to provide capacity as mega structures undergo construction  Tom's Hardware",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "HP & OpenAI Partnership Shows What Enterprise Agentic AI Requires Beyond the Model - techrepublic.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3RVNnhtR2pBYlJzSlNZZnU2UVhYMU80dFZUcmNxMnN2N096TzR1UmxaM1Frd212bUF5VUZHRVpjeER5czhKNUFQSmxGTzhyMW1HcktjZWhmUDI4c05xWW5MWV9EMGxGMG5VaklBeWFfaUVudm1CbjF1RzNpVHRrTnY1YmVHdU1w?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T08:57:56+00:00",
-      "summary": "HP & OpenAI Partnership Shows What Enterprise Agentic AI Requires Beyond the Model  techrepublic.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Faces Lawsuit From British Columbia Over Tumbler Ridge Shooting - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VdXJpSE9sSFBkR29UTXlTS2xRWmFxLTBraGtTMHA0LUtmeGowNHZoWE5yWVVVMWxWRWFyZjJld1BmeVkwMDE5NFY5X3V5RmJiRUE1OVFuMEQ4c2M1N2tjVnJkb0FaQjVsdkF1ZFNMZWluUVdtdkdiVVNnUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T08:47:27+00:00",
-      "summary": "OpenAI Faces Lawsuit From British Columbia Over Tumbler Ridge Shooting  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Nat Friedman: Meta’s Muse built from scratch — but heavily inspired by OpenClaw - Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlFObXJlYm1yRUxVaUJHWXRSNlVPS0tvTWtRUFVRSmxqbjFtdUF6bkpPVFFLRm8zb2dyaTFwTE1sWjk4N0NMZnhjLXZNdDBPWm5jUURnNy02TnE3Q2NiT0gzR1VWU1o4UF9SWDNCMVVUU3p3UEEwQXlNcm5aV0F6Mk9pN0puaHVNUmxmSFREenNSZlAwSlBqTkRwbHhZYXhHenZiZHMzekJKb2MwOWow?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T08:30:00+00:00",
-      "summary": "Nat Friedman: Meta’s Muse built from scratch — but heavily inspired by OpenClaw  Dealroom",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "UK calls Meta, Google, OpenAI, Anthropic to AI hearing - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXU1alUyck1lUDZwVXotUEFLaDRlaEZfMER3eWwzZXp2VWJ1UUhCWGtidVYwVVd3Q0xyUjV3d2FYOVdFTU1xSzhRbFprTVRWUzFPY2lBSFhNZlhBUzY0VmxRVDhwekdaczBsRDFXb2sxeHh4NnByT3hPWVp2aVhBUlZnaXlLTGRPQm9rNVA5MHFHYjA4SFBqZzB1Ujc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T08:27:00+00:00",
-      "summary": "UK calls Meta, Google, OpenAI, Anthropic to AI hearing  Breakingthenews.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Relanto Achieves OpenAI Select Partner Status - AiThority",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2F1dEZFelJrQ0Q0M3BaRXRWV0d6ZEZoUkFYZDNHdmsteThDaHZJNk5oSlpkMFF3UkZqUmtFanJrc000bWgycHJjckNDaWFwUGNubUY2eDFIalhTTGNDam1XbjQzelkwQ3hLRWlxb2U4Z1NRbzJ0Wjczd2JpVzZoa1c3cm02NU5laDJBUHBR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T08:21:01+00:00",
-      "summary": "Relanto Achieves OpenAI Select Partner Status  AiThority",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic, OpenAI call for Australia to relax ban on training of AI models - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFRueW1Majc4QVM4VzE5R3BRYk1vOVZlWHZFSTNMZUwwSi1aUXdBYjA2ZHJqVnFyam40ZS1QbUttUkpIWW5wT2MwVHVMMjJSV1A4WUZjTUtRVzEzcGlzR1Nxc1V2VnpxZ3ZFSUN0WGxEcTlkb3I0RGFlekt3bTVRa1V5ZXR1QzFCM2o4Ym1BMXJrZjVQM25XYUttSmRDZ3JYcVZiQ2wySWJqRDZ2bXlneVVxdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T08:07:03+00:00",
-      "summary": "Anthropic, OpenAI call for Australia to relax ban on training of AI models  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Canadian Province Sues OpenAI And Sam Altman Over School Shooting That Killed 8 - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNemwyWHBSSnh2RkJzMWpUZmdmbVpDYmxOMkhGc0t3SS16N05uSjZncy0xUDZNX1ZLRnVzclNlMUloWU5iSER5Unp6R2lQdjRCcnI1YXJFaGhDM1o5WGdqaUY2ZGU5V0w3ODhkYm41OGV0SnZKZ3lZNmJHQUl1RVJtQlZ3aDQyZFowcURrTnV5TVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T07:59:30+00:00",
-      "summary": "Canadian Province Sues OpenAI And Sam Altman Over School Shooting That Killed 8  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "BC sues OpenAI: a test case for AI liability coverage - Insurance Business",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEVvWGliaG1kcXh4NU1uUmlmQ3ZPcTlmWlVxM3NaQ3l0NTRGUDh0YjdFY0xOLVFlMU5PMVVmV0lnUmJzNXpKRGVFSkNCb3ZmWE45MEFqNkgxamdiWnhEbGpLTXRRbzZGa0dIZV92T0NSN1pyVW52d0QtUjBCS2ozWk0wcG5oaWNQdXdwbU9KYTZrYXc1bVVDXzJha1ZPdE5GSjBMTUlua3I4N2cycXRveWVkeC1kUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T07:28:08+00:00",
-      "summary": "BC sues OpenAI: a test case for AI liability coverage  Insurance Business",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
