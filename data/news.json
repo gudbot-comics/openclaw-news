@@ -1,25 +1,106 @@
 {
-  "generatedAt": "2026-09-22T22:14:07.752296+00:00",
+  "generatedAt": "2026-09-23T00:38:18.023083+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "GAISS 1.0 – OpenAI’s call for AI safety standards. - The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNE1qdkxXZjRvX051aVZJTzlqTjFXSXl6TVRaUlpMck1ncFRWMVZkZW9KSklBdFB0eDByWlRtbnlsMFpTN1dMZ1h1VmxWMTBsb1h3akJFcktOSHVoVXdHcFlwbE1vM0ZiUVBjbkpkR1EwMjFCRkFKeDVlRDNlSDZCSWhFUXRjZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-23T00:21:00+00:00",
+      "summary": "GAISS 1.0 – OpenAI’s call for AI safety standards.  The Times of Israel",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFd2bjVXZGlMRVdRR1J6OUlqcmtPM3dELXhRT29zeHFvVUY3cjJBNTdVWnRRZWJ3aGpXRVNRcVZySlFWYVFnX0FrVGhZQmZtcDh0YTBtNGRKaDByMVJxZE4tdzJDSElBRDF3T2swTkp0ZFRsc0J3bVQxQkpuNFJTVlB0dTlSdExOM1RZMEZ0Yk50QlNIcGhB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-23T00:17:00+00:00",
+      "summary": "OpenAI wants to consult elite mathematicians about how to not fumble again  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Recruits External Watchdogs to Police AI Risk - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVdvb0xBdlB3bzZKaGlTeWxVMGtiMGs0NUxOMGxHTjBNWkpidlh1VjdoMml4OVFUandoVUctN1IzMm9pSlJ1MlpCTFNUUmI2SmlkZnFQU1p1R1lSNXRYUkg3Sk9GUUEzZ2RBZTZwQ2JVY3dWOGhMbEJ3UHhDcURNcEs4UThwN0NBV2Exd1VmVlk2ajNfMFBZNUstVURiVmh4NGNvTGwtZzJ0dDJ5bExB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-23T00:14:08+00:00",
+      "summary": "OpenAI Recruits External Watchdogs to Police AI Risk  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI executive addresses AI development in Minneapolis - kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV0pZa0l4ZXNJRHQ4M1NKUGtSYzl1WTZTcmtudWJoRkVOSEN4WG52R1kzWUsyOXIxV3FGQkdzZDlUUThhSmNtZ2RRaktBczlrWUQ1RHpTcGtVaWlYQ3gzcGItQXo5b01sSHlyMDJraXZPcV9lOEU4MkdId0dXbTViaWlZOWtaVVlPYTFYUlFqV1piNTdxM0phcWtoU1JBSHFFRmkxOEdoSUNOdWJhZWJOQ1Y4dU10c1BscGUzT0ZNZHNyaG90TzBzSjE1R3FQaE1zWThCTVNadTZGeWI2ZFVEcm5CNnk5REJLNXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-23T00:08:00+00:00",
+      "summary": "OpenAI executive addresses AI development in Minneapolis  kare11.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI protester urges San Francisco to confront AI risks - Diya TV",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUDFab2ZuYlRLZ2liRGFtVmliQjRDZld6X1p5d01Mako1Z3BYbzZhQ2RaQ3pNSnF6WGxxSGR1WlVQRUM4dTlsYWVQeHMtVzJBYURYTzVoT3V4eEVoVGR0SlAtc1pObllvQkdRN1owZ2R2bi1HMDFyZFBjVVVtVnZrZWszT1B0T2s?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T23:04:00+00:00",
+      "summary": "OpenAI protester urges San Francisco to confront AI risks  Diya TV",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTJMZ1lvVFRqajJaWF9udFJqNTktMWJMeE4xemx4S1R1S2xXT21uNnVBV2JJMkY0WXJ4YjZsdFBUbUpjWG1iYjZQRFFzWkhleDdkTTl3eGNOOGJhTW1IRmhucjZaX1hQbnZyWjhDdmVfUEt4RU5pTDBIV1lKb3ZyYmN4Nm9qLU1aaTZZLW1sVWhGY0dkb0trUDM3TE1pNnI0Mm9KZk5YQm1wT2Q2NnFLcURRZDAyVGtMaWdjX1h3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T22:58:00+00:00",
+      "summary": "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Anthropic, and SpaceX valuations could dwarf 45 years of IPOs - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZVB2blgwQ281NDVlamV3UVc2bVhUd3d3dkI2Uk1zZEI1bHphd0RrLXA4OXdOUzNQVS1RZmV2WHZqMGxaVEZkQVRxMmU4bTFTdi1kbktiNmN3NFAxYVZjTHdXelVaTFpoOFhHc0JYQmZHSTRNTTJqa19USFBGVW5xS0Etc2RiNlJOYU5ZOEVYYzlrejIxVXFpUnBmbmMycXU2Snd1MTQtNDRhLUd5N19QTmZtMWRJcjM1cEVidy1aTUxaR2hyeGc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T22:37:24+00:00",
+      "summary": "OpenAI, Anthropic, and SpaceX valuations could dwarf 45 years of IPOs  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic, OpenAI call for Australia to relax ban on training of AI models - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFRueW1Majc4QVM4VzE5R3BRYk1vOVZlWHZFSTNMZUwwSi1aUXdBYjA2ZHJqVnFyam40ZS1QbUttUkpIWW5wT2MwVHVMMjJSV1A4WUZjTUtRVzEzcGlzR1Nxc1V2VnpxZ3ZFSUN0WGxEcTlkb3I0RGFlekt3bTVRa1V5ZXR1QzFCM2o4Ym1BMXJrZjVQM25XYUttSmRDZ3JYcVZiQ2wySWJqRDZ2bXlneVVxdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T22:35:14+00:00",
+      "summary": "Anthropic, OpenAI call for Australia to relax ban on training of AI models  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "In Minneapolis, OpenAI executive talks about need to 'pace the frontier' on AI development - kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQkVBbU02amcyQkMwdDBqMnNhb2RRc0JxcGdNYy1vVW8tdVFLVDhQeW9mcEJwTGlmWmE4YzBQa1hlZzNxb2xScFlXazNBd0pMb1lyZG9xSDBkMDVEQTU4cUZsMnBCcU0tdXhseVdXd0NrWjFjQy1DS196SkFtZFdiaTZUNGYtUkxkQ1pESlBQRFExNlJWMlVDb0pxNjJyTktMU2lIdVhreTdxbGxjRTczWVJtNlBpbVpaRnR2ODloWi1tSllzY1dvWnFIWW5KQTVWY1V1Q3A3VXAwZElOMjY4NmpnOTdFZGhPTlY0cEIyc2R2SV9qMDNFYl9VcmFXQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T22:19:00+00:00",
+      "summary": "In Minneapolis, OpenAI executive talks about need to 'pace the frontier' on AI development  kare11.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Canadian Province Sues OpenAI Over School Shooting - Newser",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXpDZzdXU2NIMXVLMEFkd3FfMU94RzI1Y2szM1I1OGFhWUFGSk5PTkk4cXNQVWZ5ZVFsRjN3MWNJMXJucXk0VXVYT0c5X1NFNW5YdldfcXJuT3FFLUZnWTBId1UtRGxiYnBYbUZ4dXdkMlRjT1BiTTVqM2htZUxHTVRmYmoxcFpvZlJjb0hucjZ4dDE5UXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T22:11:00+00:00",
+      "summary": "Canadian Province Sues OpenAI Over School Shooting  Newser",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnUwcGlFZF9iWW5Zc0lmbDF6ZWdVRFBVbXRvdmZZU2E3RGJFbVlEeExaVzZxazY4eXU1Y0pBSzdBREpjZFVKcFRHMHJ1WUNLTVFIam9RMjlLcnpVYmplTUp4akNFTHh2MjhrN05oSDAtUkw3dnhGaXllT05KQ1M5NDR5clRsLUcxWTI1TWdadVlkdXRrQzE3VHNkQUhqQ2s3VmN5cQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-22T22:09:10+00:00",
       "summary": "OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI exec is ‘cautiously optimistic’ about the US working with China on AI - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGJpaUN4c2NPUGtWTTZTdDZUWWN0T0RIV2I3ekhLR0I1VDRheW9kU0ZwVEFhMDZpVDctd3BYVkFIX3AzcGNpVEhVaDlIMzRVeFB4ekx6UDVJaFFHQTRwMjMyeGVZZTZQOXlQcTBTLThOczhXRE91MWxKTWVrVU5qSE53UkZoTnJzQ2U2bFBwV0l2UzRlYTBaOGlrVmQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T21:46:32+00:00",
-      "summary": "OpenAI exec is ‘cautiously optimistic’ about the US working with China on AI  Yahoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,11 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI opens math group after backlash over its solution to the Navier-Stokes problem - Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IY0ZuY2ZySHVNRFdya28tYkxJZ2xnUWNUTnpvVmlGWUNJMFBjVjFyQlgyQWlTa1ZhMHJydHd1UDhtZEZZMldPN0JWT3E5MDRBYXJZVnItaU9pTFZJb2kwaHc5RjdYRVhUekJuNjNMbnMwLTdEVGJHdlFwRUhodw?oc=5",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcjUxYVpsQ2JiX1F6dzlqSVhwcFgwX0Z6Ynk0SjF2bFNmZVVFOWRkMExMLU9NX0tkRUh2SjQ5NW0xbkN4ckVFVDlwdW5kV0xsWEY5WFRkcG93M3lMZS1zcHFlNzRva3ZXZVhJbG5oRDZlWUI3MlZBS3Q0SlhHbmtEZTVPSGpoNFBZelZqcWJHazlrR2dkWTg1bThzX29XRFJyWENoQWVoOWZXSUNiOU9UTnZJYXJOSnM?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-22T21:36:10+00:00",
-      "summary": "OpenAI opens math group after backlash over its solution to the Navier-Stokes problem  Yahoo News Canada",
+      "publishedAt": "2026-09-22T21:25:18+00:00",
+      "summary": "New Anthropic, OpenAI models make same promise: A little more for a lot less money  Ars Technica",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,20 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI - The Information",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T20:43:10+00:00",
-      "summary": "OpenAI and Anthropic Neared Deal to Stress Test Each Other’s AI  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI calls for international AI safety standards - CIO Dive",
+      "title": "OpenAI calls for international AI safety standards - ciodive.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HM0NiaFZEd3RzSmVOSG04WkU5SGU3aUZ6eTNRZTBaaE1nT0F4UUc4bmt4eUEwdDBrZEliN0YzN091c0xrMkdZaUQzTmktSkcxSklnYlJzbkl2TUhoZmR3VDhzTlI5X3BIQl9wenotdXZVZHNIX0xMOE52eFZ5QQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-22T20:42:31+00:00",
-      "summary": "OpenAI calls for international AI safety standards  CIO Dive",
+      "summary": "OpenAI calls for international AI safety standards  ciodive.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,20 +186,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnBZWk1mZzNZWHdabktSbjJHdTdEbDF3cEU1Vzd1TzYwSkYtNWVGOFFuZlBmdUhEQzZ3STBRLWs5T3hMVHFvdHlYVVIxTC01MUFjVEhfaGFhVXpodGl4aFJBYzVOZUJ6WHlqRWNhbW9CdDg4em1OOG9rdHU2WmdXWGgzRDY1UW5hN21wZ0xnMDRQbG9aUFotY2pHeFRvMGtiNWhXeGx6ZlFfWGs5WFoxOXdR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-22T20:12:12+00:00",
+      "summary": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance  the-decoder.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Goes After AI Costs With GPT-6 Sol and Luna, Slashing Prices by 50% - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR19rc2NnWGRLbTMzcVpZNktxb0t4a3ByYU1rWFMtTnFDTGt5S2t4U2s3R3BYY2YyVUd0TkNNMVdsaTRRZTh4eG56OGhCV05hNXVTa185a3NRODZJT21HY2xudVhNMXN2ajUxRkVSZzdEM0ViRExZNWVYX0tTckdxSzNkbDRuWTM2NjAzYzRyeEwxZzEybnpCdFhGNERPV1hGNm44UEstT3Jjc3JEb2VIMXFEdC1sYnphMU1CcVpsLWJYYTc4VUZiZHU3aXVYS0lEVmc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-22T20:11:30+00:00",
       "summary": "OpenAI Goes After AI Costs With GPT-6 Sol and Luna, Slashing Prices by 50%  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance - the-decoder.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnBZWk1mZzNZWHdabktSbjJHdTdEbDF3cEU1Vzd1TzYwSkYtNWVGOFFuZlBmdUhEQzZ3STBRLWs5T3hMVHFvdHlYVVIxTC01MUFjVEhfaGFhVXpodGl4aFJBYzVOZUJ6WHlqRWNhbW9CdDg4em1OOG9rdHU2WmdXWGgzRDY1UW5hN21wZ0xnMDRQbG9aUFotY2pHeFRvMGtiNWhXeGx6ZlFfWGs5WFoxOXdR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T20:10:24+00:00",
-      "summary": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,83 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Is the AI Slowdown Over? OpenAI and Anthropic Just Launched New Models - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanFqLVd2V1pwQ1I2QmhPaktSTi1GaHh0YzB6THoxYWhwUExnZUUybG1VYWo1Zmo5YWY0UVY5ZmNSTzBEeDV3ckNidExJNXkwVjZpTXFMdEl4d3RveXl6N3lGYWp0UHNlLWpQRThycW15V2cyRXBvaFpRbEp3bEFBMFhFeXZmUGp0ekZ1US1mdXZUbUVraGpLVm9zVkZ0UQ?oc=5",
+      "title": "Better prompt caching for GPT-6 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQkZLY05WQ0t5TktTNnlvck10eTFFZllrYXNpVlRFd0lTeWpJZ0N6YTd6b2ZZQmlJLUY1TkdFN3ctZ2RaX2tNWFJQRHQtODVLZFRxczFQb3VneG9QVVR6Y2tVOTFQT0Fz?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-22T19:54:59+00:00",
-      "summary": "Is the AI Slowdown Over? OpenAI and Anthropic Just Launched New Models  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Hands Banks a Shortcut Around Billion-Dollar Core Rewrites - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGs1dENKbFVVREVrck1LUDZCZGhyc3hYOUozNU9vU0NZZlhEV0piMERhYjltRFNrUC1IVDJLRzcwdHZjejZoUjRJbTdpZ3VSM19saVd6YlhUQjVWMlgxbkpYSUtCRFdkZUEwOXZvV1I5Zko3dW5PQXBCc1MtZWk3SG9WR3lyOWpRMU1hcE9rMlQyVFdrU1FBR2Q2UVp5WV8tVnc5YlZlSEdZazQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T19:48:14+00:00",
-      "summary": "OpenAI Hands Banks a Shortcut Around Billion-Dollar Core Rewrites  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUp0RVFtX3lZMmtiekRfMHNpMnVMLVdlX3NqSlU0NWdldTl3VUxWRGs1S2h5WlZ2NkluVDlzTkhRZERNMU01ZEg2ZWgyVllNOXhSRVRzczFfUjV5QXJtbXN2eDVoenczQ3M3OFMzNk1vVWg5T1U2WUJMV2w1NkFTUTR3M2UwNGp6bkhteXd5Vm9adGladkp2TllOMGIzUXNNZ0tXR2d4OFpWVGFIeWRUZk9zY1RJQmR6?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T19:28:23+00:00",
-      "summary": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting  Ars Technica",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Introduces GPT-6 Sol and Luna With 50% Lower API Prices - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlR6YTdvaV9Sc3ppWXNxSU5oVndhaVppcldJa3ZvaVRwZ1hRUHNjdjlYSHpHR1Eyd2d4Z0dxVlVrcTZ0T2NUdHVobFNnUWtQV3RUNldhT05BNjZ1MmhQcC1mTHlKUEVNdFBVekpwMFhDT3czWkJES2p1YWZaNElzWnhqVS1ESlVDZnVn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T19:26:02+00:00",
-      "summary": "OpenAI Introduces GPT-6 Sol and Luna With 50% Lower API Prices  Unite.AI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI sets out what safety assessors should test - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbmQ3T05oekUydFFBNGJWNVFfdE1maVdHUHFRMDJDdDhuVUhmRzByRjAyUWpacE9xZFBWWE41a2R2eFpIdWEzNk8wMmxEQ3c3bnl4dDVNSUxtN2lSS2tqN0NHMFk3NjBIWTUyeDVaZVBXQ0wtaGhLb0dKbEdESzBIaEY3UXhxZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T19:22:08+00:00",
-      "summary": "OpenAI sets out what safety assessors should test  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Meta admits OpenClaw influenced its Muse AI assistant — TechCrunch - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkwzUnljUm9tSmdqbWhDcWllMWFBME5CZmdiN3hjMkFkS2oxa0FpNGNqZHI5VWc1QlNrQlpIMHMxODZKcU5tNnB1YXFUVkJ6Q1hSazBicnBUYXFmSmdGSVI0dmFhbWtueDNockJvM285QzJ6Y0ZycE1TYjdWODBMWlcxNHZpMlpFSFRfczRtZ3RIVVd4TjFxLW9mUnZqbHM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T19:18:57+00:00",
-      "summary": "Meta admits OpenClaw influenced its Muse AI assistant — TechCrunch  UA.NEWS",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI cuts GPT-6 prices in half with Sol and Luna - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQTF1djB1ZDFTVlRiU2RvbFJhLVduTXkxOWVCR09jSEZ0Q1FEbmlWWjlYcTVBSk5QVWpsQWx2N2IxZVc1RGp1TXN3UU5kMnZJeTl6UnkwQldsUGJzSUNGSG9kVXRTVmM2M3JmdmNYQ1Q?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T19:14:08+00:00",
-      "summary": "OpenAI cuts GPT-6 prices in half with Sol and Luna  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches faster and more efficient GPT-6 Sol and Luna models. - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0FsM3N5SjNhM05mRUpVYndIYldocFpxNGxlZUI0WTNDdFoxNS01WXRHeWdzQ0dFQzY1SWRRT0l4VGhSZTlXOXdOanVGaV9ZYXNHc2hRWjZ1UVdFN1Ntbk1NUlBpay1fNUYzMjhTd21EekdyMVZObXRWRWx4ekIyZzVUUkhfMG5LRlltalhZazhWeVJoVW5iekM5REJ0cWw5UGdsb1N4Ul85YldNUUVmZVBhV1RVRTJDYXhoMloxd2tCNENj?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T19:13:45+00:00",
-      "summary": "OpenAI launches faster and more efficient GPT-6 Sol and Luna models.  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI expands GPT-6 universe with GPT-6 Sol and GPT-6 Luna - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUZRN3ZTRzhpRFlXYTlQZ184MDRWZlRWXzFQREQ4cEY0UHQtNkpMeWppZlNNUTZKOHFfNUs5ZXJUOE90MlY5S1RkRmF4NEZHWkkxdWNxUjd0d01SQUJGU2h3bl9ud2pKWXNmQUJXTS1XMzlSczF4V21lQjlsQy1yWXFySlRBMFRJWVNYWXZoUHpGc0dlVzM2VldSaWRINEtaRXBDaHczc0dka0diTWVjMmpR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-22T19:11:45+00:00",
-      "summary": "OpenAI expands GPT-6 universe with GPT-6 Sol and GPT-6 Luna  Seeking Alpha",
+      "publishedAt": "2026-09-22T20:06:27+00:00",
+      "summary": "Better prompt caching for GPT-6  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
