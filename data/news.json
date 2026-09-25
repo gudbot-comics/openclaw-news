@@ -1,8 +1,225 @@
 {
-  "generatedAt": "2026-09-24T21:45:40.814993+00:00",
+  "generatedAt": "2026-09-25T00:02:46.824404+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Expanding access to OpenAI frontier models, including GPT-6 Astra - WebWire",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hei1sSzBfMHdHSk5BczUycTE0Qm5hcHA4SmNEdGEtY3hUdk4zTmZKZnZTbWVfaDhnT2dIa2xuT1hFWkpuMWVhYWt5TjZiUWdMRDZMeWx0ekpxbWNQTzZ6LTVETWZzcU1hclBaVjVQZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T23:56:14+00:00",
+      "summary": "Expanding access to OpenAI frontier models, including GPT-6 Astra  WebWire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to preview GPT-6 Cyber within days, Fortune reports - The Mighty 790 KFGO",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQl9oVWpjV0F3MTlha0QxYkJuNGJiamJ6NXQ0eFJlVFdWZFRTWTZveVAtTVg0b05CZ08wS0d5MjFjbW9TbUNCMTVRTzBFb21qV0pranNObzVkRG5mb24wajFDU2NSOUl4V25wQ2RKUEZFVmk3NlZJMXZzZEdFdE15QTBBSEZuR2hkTTlvRmxkNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T23:19:08+00:00",
+      "summary": "OpenAI to preview GPT-6 Cyber within days, Fortune reports  The Mighty 790 KFGO",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to preview GPT-6 Cyber within days, Fortune reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW1NWU1LbHpzMTdIQUQ4R1ZabjVjYURuMVd5Rnd4S0RNNVNKMXpIVUJ4NnlTWnpOWG92TkVoUzhOZDNodW1kQVg1X2kwamF0MFFUSl9JQnJzeWMyQ0l2M1JRSy12SWxSMldLYUVqTzhkaDVxWHFCeVpzZzZnNjIzbFpkcHJtRHNBS3lhenFOZXFESmRsWHduai1nYWcwcWJUVC1n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T23:07:19+00:00",
+      "summary": "OpenAI to preview GPT-6 Cyber within days, Fortune reports  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI calls for global frontier AI standards led by US | ETIH EdTech News - edtechinnovationhub.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0dZUldJVUFKU2RRNGppWVhJLWpSYURmOTdjU1d4enVaSzhfT3RKRi1PdnNRaEk0b0RFTkRJRFZYVWQxOEdnVFppX1ZHQV81NWNqdjBCSFpfaUppTi03RkJMdFFpdTB4NEpuRjhQSHZvTE1DVk0xN25nNmcyM0hBTnV0N1dtby0tcmJRdkdNekxLUW1LRG1zbHI5WHBGZzZtMW9YbE5R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T23:04:25+00:00",
+      "summary": "OpenAI calls for global frontier AI standards led by US | ETIH EdTech News  edtechinnovationhub.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI agent hacks Australian healthcare database - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUx2cVUxaTRhZ0c1azR3Sm9mbXk5eHk2b2l1bENoVDF5STlRN2JIU1RKSldDbW5GWThTVUExTW1tR2FNcmNBaVlGZlNkSW9OUktMNnBveTE5SjIwWThJNDcyZWgtTHdLZ3VSWXpRbm92UmcyZkNUSVhpcjI3Z0U2MFVXaHA0ZzBsa1pGb0FNZzY4ZHFXaVk1ajhPT2UyR3NmQnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T21:56:00+00:00",
+      "summary": "OpenAI agent hacks Australian healthcare database  USA Today",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why NYU's Gary Marcus says it's time to 'shut OpenAI down' temporarily - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTc5SHFVRVNVQk5LTXpqSl9tNUdMZ3k4S2x4V2VicmZGakgwMTFwYmN5bjZGdUhwTzA3T3VaM0o4QjRNWm03aXZjcW5kSmpzcnFCT1Y5VXF5WnUxcXJaQzNhaG5PeGxBQVQ3NHRtY1A0aUN1VWpvT28yWUFSSmVia1dXOHZkbVFoSDZPUzViaGNxNFZ5Mk02TjEyWWk2ZlJycEw0WDNNd21iX2pxRUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T21:52:25+00:00",
+      "summary": "Why NYU's Gary Marcus says it's time to 'shut OpenAI down' temporarily  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Google, OpenAI, Anthropic Plan Frontier AI Standards Body - BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3hSbWFhUmJuLUtWR29rWjZrWklxcUNJVWprZVpueTJGTTRKQXlzbGtXemV2dzJHM3p5blhUVzE1YWJkSWhyZU9Fc0kyXy1qYVVxVWxOZkNWaTNnTzBpWExpeU1iSmVzX1JsMTQwNVBSbGxpYndKeUxsZ0VUMnNrTzJDaWVjQnpLQk9DZ0I0bEdFSEdBdFFGX0FSdXI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T21:42:22+00:00",
+      "summary": "Google, OpenAI, Anthropic Plan Frontier AI Standards Body  BankInfoSecurity",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80YUpRamNpcTVCSEZTamE1dV94M3BVeDhZMUFNLUxQUi1BM0VISlpWcG5WVC1SZ3o3cEJLaWFwelF6UVFvX0tVc2VIZTdnaHNpdGRiUUR6VU5ibkNMbTFBUlpRR1JVZHV1d05kRWJ4RzN3WjZRWTEtdQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T21:29:00+00:00",
+      "summary": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The OpenAI Medicare Hack Highlights A Growing Rogue Agent Crisis - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN1JQRjNwWkl4RWVlQnVud3hQRXFlenFLM2FLNWtaTXBacWtwbnF6eVlKcE0wZW9xaXBPVU5xTVl5LUJ5VVJOQno2ZF9CYW1oUXlQOG4wYnl0Rk9YbHczdWhVa0pHSlB2bTYzTmkyTk5kNHYyTGxQQ3EyYUJnVTdMcTZTakdsOFh5NzlIQkdaRnlmM0NBWVlncEpvc3pVUVREOGVGSkZLcG56YzJpcFJpRzR6aGI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T21:26:46+00:00",
+      "summary": "The OpenAI Medicare Hack Highlights A Growing Rogue Agent Crisis  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s agents went rogue — its human response caused the real damage - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWpwaThRX2FHZHRaa2dwRmx5dUs1NU11YlYwZ2NyMU5MOENHc1FpWm9naVFkTnBVMlhCZk5NYm9SYkV3OXE0VDRLU1U0a2hKWGNwVXB6VlFHVkJ4YXVsaFEwQUJXZDJXenl4UjU3bjU2Y2s4NFRVNGVQUzR5S0FTSHJSdGZZRHNYUkw3YzFMQ19WSkcxaHdBYTdKMXM4cTIwQVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T21:15:50+00:00",
+      "summary": "OpenAI’s agents went rogue — its human response caused the real damage  politico.eu",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cigna Group, OpenAI team up to support patients with complex conditions - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3pfUEtuZ0RXT0Qwb1Rzd2dKUVV0SmlCWUhlSFUxVUVHTTY4UTZvNGhwdFNPSVdQQTJfV3lrZjM4SWtUbGRwaUhGaTU2OW5HdHlGTVlKOGZVUVVLNWg0Q1ZZeTMwdmNvQXFpOWF4TnFtbm5LOFMwN3N6QTRTajhjaWpSc1hKcnl6Y000NXlRelA4TlUzdEVPT2M4a2RTMDlV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T21:10:00+00:00",
+      "summary": "Cigna Group, OpenAI team up to support patients with complex conditions  Fierce Healthcare",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI breach of Australian government linked to wider AI hacking campaign - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclNvRXRmSzdWY050dWx1TXZ4cS1pelpSMUxRWmpSZTZKbFZGUDYwZ3REbWZCQTNvZDJ3bjNsUEliVjYzMkJ6LW92YXhaR3pza3JFVFZtVnA4YlIxTWdSdy1OYVdCcGcxajQyZXBpOVdFQ0Z1bmhkWHMwWHdNUFhPRnFlUks?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T21:06:45+00:00",
+      "summary": "OpenAI breach of Australian government linked to wider AI hacking campaign  Financial Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Preaches AI Safety. The Australia Incident Shows What It Practices. - Reason Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXR3UG1kR3RxOHNsU19uRlVORWdNQkdSUFZaYXdET2RYc2dSVlpTXzYtWGZBZU5UdzZQTWtFVlRCeFZ1Y0o2UUUyS21qZ0YxemcyMlNLanpHWExEeEF6OHVnUmdkYk56SnlsVTRtbHAxNnh3Z3RHU1c3VXlyaS1mODhtRnVfRnVYR0txdWFLdDR3emVlZVdjdk91OWRRMGRmNWJNaE1B?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T20:40:21+00:00",
+      "summary": "OpenAI Preaches AI Safety. The Australia Incident Shows What It Practices.  Reason Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Agents Hacked Australian Government Site, and Officials Weren't Notified For Months, Says Prime Minister - SFist",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGhrVW5tZndKck1Oa2NBMnRwNEVGRHVCV0Fub1gwbUg5d1Q3N0hrN3RwdEtEUXpRY0xlUFpVSVhrWXE2STg4dkstNzBWMzJ2LWVBTUlJdnhLNlNmM2xXcmR6TFY4cnlyenZsZlU3RmhJb0ZMMmtYLVB5Y0txM051ZDV4SHFSOERRaXNEUVRnQzRUeGs0LWhiR2kteVh5Zl9xOHhoZFE0aThlenkxSFpDR2wyRkV0YlNhZ2VXdUJhWkoyZmJqUVM3OTB3Y1EtN2M?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T20:35:19+00:00",
+      "summary": "OpenAI Agents Hacked Australian Government Site, and Officials Weren't Notified For Months, Says Prime Minister  SFist",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Australia says OpenAI took 84 days to email after agent breached health care portal - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOTTFxZTNpaENuVEcyRVFnNGJHTW9yUzZzMGFMc1A0cUdyWHhtUVJFVlNHMHRFYmhGb1ZhYVlJSFN4enh3d2dvMHg5aXpZSDNvTGx1dnctSVNWREs1b3o2WFN2TlZhYmk2SlJvZ2dpQnNiTGxtRlZ4dzlDalctUlBxc3N6SWZZaE1Rd0c5b2wzOEtXTUc4bGtKQ29SdEhTZHJlN3hDVHFqQ25taGM0Um1haXVLZDZMZ1d6TnUyU2lGTU5yX3FteU0tZ0JkTTdIV0RfZTlNeG1hVkZTWWgyVURpdzV3UXhlTVVMTHZSTk5GYXVwVmFOYkNjOUc0eks1SE1GMWtfcXBFLXVaOEVfajYxNHJCOERiOXlwUXRseDdVSUtLcldMckVPdnQ5SDJqbG9TdTFGWVo3Q0w5eGZGdDJUYmZhajlRNDl6djZfb0FYZlBMdnNTb1JjOGxUOFk3bllibzhTN0M3YWRGYzNnN1Nr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T20:34:31+00:00",
+      "summary": "Australia says OpenAI took 84 days to email after agent breached health care portal  Tom's Hardware",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEJ6b0dzel84NjZLVGRhcVM2VHltQW5QVEZwX24wTWJLU0tBc3ZaazZWM2NaSGRSYmhKZmJrd3VXSXh1Q1p3N2ZmbXh1aXBWMW5WZ21DeW1jV294MFVHS0R5ZWI1U00ySk9xTld1b0ZySktfRlo2bmpoWmRnQ05tSmRFOHIwbXViM2VfWm5NaGM1OWJqZXdYTEVERVFwLTRWQlhabE4wbUgwUE1nUFd1U3VTOE1hZUpFZjZXdHZNd045UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T20:27:02+00:00",
+      "summary": "OpenAI, Google and Anthropic Join Forces to Set AI Safety Standards  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Researchers link more cyberattacks to OpenAI agent swarm - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDN2ajBkcHNudE05S3ljeU1Ec3lfVE43TC1BLXVMbEg1NVFKMWdveGFOcnFJbWd5ZkRyOENPM0NLVEUyWHhUbmI4b1lBM2dCNkpTLUJubnZKSkNvbEhrRkc0SnJ0SGUzOTA4MXlDVjZUNjFXbnZHVzF6dzBNQkhmNF9DOHB6WVFfcFROYkthcGs2VV9PX2ptUA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T20:25:00+00:00",
+      "summary": "Researchers link more cyberattacks to OpenAI agent swarm  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI agent hacked into healthcare system - KIRO 7 News Seattle",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeE4wUjc5RlZDdkcxSEdycmZDVFZxTk1zWU1QWXlCQ1NjOWR5djBpdXdpQ3hjLWdMVnBuMldXVnZ1cXlzTjdYWnE4Yl9weE5uZnNtMklKQ1Q3OVJINm94ZWhUOXI0QjRxa1ZiVWpFRzdoMzJwbzRYMV9Rd1ZuTTZxbVJDelltNVB2Nzd4RHNXUmJscDlFNG5pN2FGRmloV2Y4M3U5SWZFandSRDZ3NU92dTlfbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T20:21:45+00:00",
+      "summary": "OpenAI agent hacked into healthcare system  KIRO 7 News Seattle",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Meta says Muse was built from scratch but heavily inspired by OpenClaw - The Mac Observer",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXVRa0ZRTFZQNjNCd0ZINmxPZU50M0NEOTlsQnlHTEUweFRfUnRqMUJGQnk4RlgwZ055YjRLcWJJclJJRUJfUkpPQ2pHR2dNMkNrSXlkU3A2SWxlbmtYYkhUSXdJMEdFTDNBQlFMX0todm5PZWJoWDhHM2Z2YW9GMUh3bXE1M0s0Wjkw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T20:06:16+00:00",
+      "summary": "Meta says Muse was built from scratch but heavily inspired by OpenClaw  The Mac Observer",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Anthropic, OpenAI launches show shift toward multi-model enterprise AI - AI Business",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVzdTdTRmN1JaVFBDajFOelI2RVZGSnF2eERvbTFpcEtuTDlzUDhESFFRN21sV2pOZlg5MHllZ0FuY0FOWlRNWTItaGxSNTBsaDVEbHBQZlFUc2RzY2J6Z1UtMDd0WWVfNzFjdGFnWVRKVEVYTjhjajhXQno2QVNHYkhYTEFTVjNlOVdMcXVvU3JEZHFRRDA5eWJn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T19:59:42+00:00",
+      "summary": "Anthropic, OpenAI launches show shift toward multi-model enterprise AI  AI Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Brings in Patreon’s Founders to Build a Creator Business - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWFiVjMteU16OHJJRzdXQl9fckk1bUEwVVFIWXRWXzI1QzdGZ29Wa3JEUWFGUzlnaS1vVjJ4dHpIRlkzOGtNeGhXOWRuSk9DdW1QUW56LUtNemxDR0QweXpOMjVBTmxmUHp3RE9YM2FuU1FsYTVMbFI1VXhlSFN2M01Pek13eDBwNmg0TDIwQ25FNndRV2RIRWlPUHJsS01HWU41bTB6VW1KMXl6X3VDMUpGN1EwWnFiTk04Sg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T19:26:56+00:00",
+      "summary": "OpenAI Brings in Patreon’s Founders to Build a Creator Business  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s agent had a routine task. It breached a government portal. - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkT1BoX0VzLWpsVmkxblZld2VnYmVUTzdXVlhYd0ZfWEVVQVhwZTFKVnkwQTNlSHVKZG1jX1B3S1Bzd3kzYjZvSmhnS3dmNmRNVVZCM0NKMzJ5bE5RRnI3eTlhV0dZZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T19:21:06+00:00",
+      "summary": "OpenAI’s agent had a routine task. It breached a government portal.  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reveals more rogue AI incidents — attempted hacks of government, education websites - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM19Vb01IZVlJZWduM1NDS3ZhZEx2RjJlbVJvaHRFb1FUQkxPOXl6bnBpRTEtWVNJNkJIZ0hTVGF2LXlTTWdXZEd2UTBmSktTRnpTcXlEdHo0U1p1aEpFaDlDdndfam1BODF6N3g3Vmp2QnRveGx3aWl6cFVOTmQ5QW1NM1NsaFBNWFp4RjQ3aV92dWIwWk13U3lqMks3MlpCMjI5MWRhNFBYRVA4akxKU25FRXpEQmtVNWJ3cFR4MWtNRW5RbEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T19:05:00+00:00",
+      "summary": "OpenAI reveals more rogue AI incidents — attempted hacks of government, education websites  New York Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Another government database was flagged after OpenAI’s AI breach - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUptYTBraU4tNFhaMHV3N0xTUzRmcXBVX0JmMmp3dkI3WGluSXBYRWt2amJIRHJlMEhNVFRCTGQ4elo5azBoOTNhNmNLRGNqMnY5LVU3QTl5bEJ1T09jZS1JOVYzNWNETWVwMjdWQzFRc2JmZnpUaEZLbVpIRU10U1JQazgtTU1vV3g3WDhnQV9WQzc5Z1liYlVNT01NcmpH?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-24T19:00:46+00:00",
+      "summary": "Another government database was flagged after OpenAI’s AI breach  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    }
+  ]
 }
