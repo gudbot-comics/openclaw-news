@@ -1,16 +1,133 @@
 {
-  "generatedAt": "2026-09-26T10:06:21.446282+00:00",
+  "generatedAt": "2026-09-26T14:25:20.202535+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI’s powerful safety committee faces scrutiny after rogue agent incidents - nbcnews.com",
+      "title": "Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmpnZ1ZWU05sZ0hWOVFnUGJqb0hRbTVTcWNodWI3ak5zcm5fRXFsaElYMERvUzJIaTJmNnlGdDkwOGFmUWJZNjBMQU9ER3dET0VkNExpakxZcDJRdkptdUxnaTVqcTJZSDB5cjNfZ2hYYzNVVzZid1htOUwxVm1vdnI5REJLTEhTMHNKY1RtMENtdkdfbWxnN3hFcXN0VXJCVzhJaUNPU3dnMjZaWTVjdTlzRnlWLTJKN2hnaHlGOHJ5Q096anJuMVhXT0FIVlMySFFpUGQ2eU5odGls?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T14:02:00+00:00",
+      "summary": "Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Rogue OpenAI agents leaked dozens of ChatGPT user images online - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90YlhOeGw1MTk0QUFLTzVodlRkNXN5ZDFWQjBNOUt3VWRpX1kwRlB4TGFBYTlvRW04SnRJTmMwQU56OEFfanpfNjhZUFUyU3dMYmRFQy1LRFA0clJfM0hxb0w2UTVRR0JWNzNjVFFaU3JoTXBHbXF5a0lhVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T13:16:16+00:00",
+      "summary": "Rogue OpenAI agents leaked dozens of ChatGPT user images online  Cybernews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reveals the AI-era workplace skills that matter most - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV2hBUFBSQ3N1WWhZUGgxLXZEUUNMTkdhRDQzZjcxaGI0TG42N202NEZUbXRhaFNNRGl5S3RsSDJqank5LVpoMDZWRlVKd3dzTWQ4WDhVTnU3eHJGd0NwbGg3NVpGR3JORWEwQ0FyQW1BNU9FR0dFN2Y3Q3RCWldpcG1QUW9Vd3lJUk5GaENYNWkxZnJvUzFNX3lR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T13:00:20+00:00",
+      "summary": "OpenAI reveals the AI-era workplace skills that matter most  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI prepares to expand Ultrafast API to more users - TestingCatalog AI News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYThrclNaMkw2dVJfV29ib1NoTzBXaVJKMk9UWDRxcHhBaXlNV0JFd3RRdFFLSS1SWTU2LXpESXE5QkFCU2Y0QkxSQmRhR0Z4Y2JkT2M1YXZBand3Wmh1bW9QVk9xaEFNYkxVM3hicDh1OFZxN040ODNxSzNvWWZqSGdnWGhXYXpTMThqaWpB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T12:26:33+00:00",
+      "summary": "OpenAI prepares to expand Ultrafast API to more users  TestingCatalog AI News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI agents reportedly 'meddle' with government sites - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WXZwRDZUVHhZNmh3bVlOUzBVSzZzNjF6eW5MQzFFSXV5alAyRmplRV92aURvZndWMXFfcEtSREh3SG9tWkdzWXpNNXVkTk9IN1cyUDd3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T12:15:09+00:00",
+      "summary": "OpenAI agents reportedly 'meddle' with government sites  Fox News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to announce \"o\" always-on agent during DevDay - TestingCatalog AI News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWVoaFBXZ0lnWDBOUElHbGFNNllGWTF2a241SkxsTDhEOE9QR0RtVElDR0xxeUhFQ0g2bHVINVJLX2JUZXg3TXZSTmVMQU8xbmJkZjhDOEVUcEpzUVVKN2ljMlp1bkMzczNuSEl5RkMwbWRBUl9DQWptc3VOblZKcGVYMWhPa1JucVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T12:13:59+00:00",
+      "summary": "OpenAI to announce \"o\" always-on agent during DevDay  TestingCatalog AI News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Tried to Hide ChatGPT Giving Extremely Specific Advice to a School Shooter on How to Maximize Casualties. The Logs Are Horrific. - Futurism",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS3A5ZnVCZXd0M1NwMEdFcVg0di1QVjVaYjdjS09rcEFnMXJsaHVyWUVQVDN0RWhWRncxMVYzNFozVEJuRnllTXVGOHJlNjU2Y2d6cURJVkZjcC0xQ0pLeVpHS090U2wyek5zTnNMZk0wdlBzNFhKaVBfLU01Z0JDcGkwYXlJSEt4VkxaX092S3lWZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T12:01:00+00:00",
+      "summary": "OpenAI Tried to Hide ChatGPT Giving Extremely Specific Advice to a School Shooter on How to Maximize Casualties. The Logs Are Horrific.  Futurism",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Agents Targeted And Infiltrated US Government Websites - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWRac2oxRXF5ZTdORl9hMkdHNnZJdkFwTm03TzdnSnVkZ20wTVhuNUptNlNUVUYtTloxZmMzYkNBOFFXZnNhd25VQnVsV0otTFJoR0ZMbVNOTzlSMFViRVZ2b1RPdF9LTkVzZmZ6Y3dDR1lYOEJQV1Q4ZFFCam1oYXAwQTFIZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T11:58:20+00:00",
+      "summary": "OpenAI's Agents Targeted And Infiltrated US Government Websites  Engadget",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI AI Agents Tried to Breach US Government Sites - Newser",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2ZLckhXYzlkSHZDNW56OXoxNmU5VzhRLU9XMFpUTkZOQWp1cjFtU0xLZ051NHdsdWRkWXRnLXFzVVFnQjQ5ZDJTWHBGQS1laXJ6QXBiWGNma0VsS2dPVHI5Q19yNWhZUW9TVEdTMlEyZEptTFpSeThwa05LVFhuRTJTdjR0TWk0NS1FM1JJWl9UQ0E2OGVkaQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T11:50:00+00:00",
+      "summary": "OpenAI AI Agents Tried to Breach US Government Sites  Newser",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Oxford lets OpenAI train its AI models on Bodleian Library - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDBLbUhWbUtyVUg2bWZsNFF4NDdyRWVydjNwX3ctQldEbkN2cW4ybi1hU0tMdy1jMzlVSGtXQVVHcnEwVmxVVFh2bHk0UXBtMWxqRE5Bc3doanJTcWY5TDBCTXdpZzFJWDk1QUc0UjBTTU5ZWDU2c3NFZW9BRkZhWEd1U0pFUDNFRXpOT3ZOazQ4dHNZcTY5UTVOM3ByWUtHUnBBdg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T11:23:00+00:00",
+      "summary": "Oxford lets OpenAI train its AI models on Bodleian Library  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI AI agents targeted US government websites for data access - AzerNews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92eGp6Q3JscXVuQkp0ckVNRXlhSkRQX3NjOEhhTEgwamowbGgwVXF4eFBlSnJKR3F0ZkcyXzdobnZUQXhJcU0zRGdIdVpVdFRQRGRFcg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T11:08:00+00:00",
+      "summary": "OpenAI AI agents targeted US government websites for data access  AzerNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI models accessed US government data and 'tried to hack education site' - Sky News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJUbjd3TVVaZUZxVmU2eDhmbEFtM3h4UU5OVDF4cXNWbjBqS1hKQTRObHZzN3NGWW16Q3lBWU5oSU9HRlBHaWdsN2FsMkF5QUdzUVVZVmZxdnVSOXlzUHhGLWVqN05aTFRBaHB5cmo0X2NvR2VOYzByNkNtb1hGbUl3TElTMmdFNWRRWU4tdFNLckQzcldQelVZWFByeXotdF83ZjlPTEVpcjdYb2Fn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T10:48:45+00:00",
+      "summary": "OpenAI models accessed US government data and 'tried to hack education site'  Sky News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s powerful safety committee faces scrutiny after rogue agent incidents - NBC News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV24xZjBqRWJ5cHJmOXh4amcxSlh1STZDZ3VGb01lYW5PSGI5ZE5WWHBfcDkyaXRDYXBGaFlyV25UYW0zX1JSdGdCM1NYTHFKQ0JXMWlmdjFLRFNoMDA2dnJWdExwcjNCTi1mNmVpWE1vaGIteGxCR3ZmLTdyU3JqY0czbW9KUHVkc1dudTRwWkRZanhiVGFNc0hjY2VPU0k5N0FGSE5ZYzVTUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-26T10:00:00+00:00",
-      "summary": "OpenAI’s powerful safety committee faces scrutiny after rogue agent incidents  nbcnews.com",
+      "summary": "OpenAI’s powerful safety committee faces scrutiny after rogue agent incidents  NBC News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf - the-decoder.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX1N3MkFMRTd2RENxYlFQYnZJQ3hEZUIzcGt2WEdFQWVoWEtzOHFGNEQ0SnhSTl9CM2pBaUxnSUZYUnBwTHkxVzVDZTlkcVd3ZkthSkZjVnpFcW9NRWtZbkRNSjI2Uk5jMkhzd0VhTXltSVpwSElRS0JnbHc1V1lvTEd2MTZ4akljcUtGU3FldjNiMTdVZHMtdnlLeUtJOF9WRW1mNTBYNVdGQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T09:48:42+00:00",
+      "summary": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf  the-decoder.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -18,17 +135,8 @@
       "title": "OpenAI says its AI agents posted user images online in error - Tech Xplore",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlRnExTGtBc1d2YWhkaFBfUExaZ0hvQWo4LUJseEV6UmlfMFFFcnFGcEhxTUNLY2ZsMEVjbFF2NXo0RHZFcEJES3EwWmVFQV9lVy1XMXNDNUNYYlVMVGlFaTkxbjNJNEN2bWFZeTA2OEkxeFlmVFRPWQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-26T09:40:25+00:00",
+      "publishedAt": "2026-09-26T09:40:01+00:00",
       "summary": "OpenAI says its AI agents posted user images online in error  Tech Xplore",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure - Tech Xplore",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOWNuVTJHMGtEcFVpekJiUndrZUhYY01pWTlXWmZfdTJTMGdPWUp0ejRZUGRrYmk4bmJwMEhjRGdqUTJhdzdQVTJWazFPa0xzc3hndTdiLTJfc2hKVWllRE80Q0VWUDhudjNqeHNZaXFlclhGV1VWRGdsdFlfd2cyUDVwd1ZUaFQ3YzhucnFoa2o?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T09:12:58+00:00",
-      "summary": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure  Tech XploreOpenAI says its AI agents bypassed security controls on US government websites  The Times …",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,38 +159,38 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Is Building Creator Products With Patreon’s Playbook - wersm.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ReHBnSzNYZGNhbnlFYkFrcnlYMDRHNkNjUk9QcjVPMmYtZm1JX1BsMm9oeUNpM081eTJzRzY4MGZIdUhOT3NDSFRPSlhUd3I1Smk5SjVwdl9mb3B4RlFmTGNNYklmUkVyTjYwaWhvWks5d01KYlhYQmln?oc=5",
+      "title": "OpenAI reveals its agents accessed some U.S. government website data after going rogue - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHoweTB6SkhjcllkWkdIVEhBbW16dEFFUnc4ZkpvRWlLTGJReDhFTnBqVDZTUFh6b0FCdGE0dTJ5dkk2RDBOSEVXVmdpcXppS2ZzTE9rUXFZWGctaUNKakJMRXcwWmxHRm9LRGJ1eTBUbmppcW9TNkR4NkhJdW8xR0lQRVNJZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-26T08:37:16+00:00",
-      "summary": "OpenAI Is Building Creator Products With Patreon’s Playbook  wersm.com",
+      "publishedAt": "2026-09-26T08:52:35+00:00",
+      "summary": "OpenAI reveals its agents accessed some U.S. government website data after going rogue  CBS News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI says its AI agents posted user images online in error - CNA",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ1R4anBCQjh6N3lPNVhBNlVTb0trVVIxN0NaRnpUeXZRc3V2cTBwekYxYXVjUUNjcnhDVGVwR0VNeE9YMHhvQXo1UTYwMUtwZmF3UERwUXZYNHluOFNfRUVXWHBKQVZrX3NRbExJb19Zbzh1T01XazlWWWdRaGo3OTVUWkxBcGs5R1FadWl3WnptY00?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T08:29:29+00:00",
-      "summary": "OpenAI says its AI agents posted user images online in error  CNA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI agents went out of control and infiltrated U.S. government websites - Українські Національні Новини (УНН)",
+      "title": "OpenAI agents went out of control and infiltrated U.S. government websites - unn.ua",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMW91T2dsYUlfZ3BCRkdfWGVDNUV6SjF5YWtRMGdwY0xIOC1yRExVZWZBWWNhZC11LWItMVJfQzVTMVBXSUhMczQtUHhEVzF4QzRRQ2lVYmRybzAxbklKYTNJTEswZnZPMzBRNEV5YkxMWG1oZTlSN1dDZkhtVHM1bzRxd0x1VUZtVUE2M3Y4eVBJbFQzQU1lVExiTdIBmgFBVV95cUxNd2JFamZBZXp4c1FKM0xlZHlJS3RxaVJTanBPVUsxeUpEbTQ2aFBNWkJsdklXSlprejFFRzd6V3lLRWw2TG5BLWNpRUdkT1lDaU03NjFMMlBka2l3dmJyU21nN3dDeFhJejNjNzBKMm80ZFNyV3JYYV8tOVY1VnJZc3dlbmtFWjFGSy15YW9oUlNWRFozQTZDLTJn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-26T08:07:18+00:00",
-      "summary": "OpenAI agents went out of control and infiltrated U.S. government websites  Українські Національні Новини (УНН)",
+      "summary": "OpenAI agents went out of control and infiltrated U.S. government websites  unn.ua",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Warns US Government Agencies of Rogue Activity - newsweek.com",
+      "title": "Could AI firms be held responsible for mass shootings? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVU1OVEhNUEk1OUl3akdJdVBMSFYxZVlMOFBkcEtMN3N4Q1pMbG1fLWIyRGdQdlRsWjZBT2NZa255SDdaalhYcGJYdzdFS0lJTzhGSV9BR1Iyb1liSDlwTExGWnZEeWlUTjE4enZHMThLbUlGYkYzTG5yVnB6Rk9yc1FkR3p0NkJVcGYzR3pqMWpORzRBRGJuWmdR0gGfAUFVX3lxTE5UTDlfc1Ytcmg4Y1EyeVhfWmVGcjZZV2hPYzJQSVI5elhCMjlmTGdKbXdNODY0M0gxOEdiWEZVUHZjZGNhSW5wbkJCNHZiQjNSNFhBS3liV1ZRSWJQcnpFOENRTkJzMkF3RVVMb09ERjJYeVB6eTZxRnFPb2FyTFJfWlNsaVdXaXUwNDVzMUVIOE5pR2ZETm0yanE1aHgtTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T07:48:45+00:00",
+      "summary": "Could AI firms be held responsible for mass shootings?  Al Jazeera",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "What OpenAI Going Rogue in US Really Means - newsweek.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkxBZUR3NllfVW52bTVOMUdSa2dRSDZUQjNRTHB0QlluM2xxRWRnV0FJS2lqb3VVd1dweXoySWhvVVFZVkFNY2ZvamRwN2RTZlo3Xzd0S0lpSmtaQV8zRUR0emtZV2dQRi1sNlIzQkNyMTh3OWRsN2l3S0pYQVdTWXdyQVRFY04xcWI4NFNHaXo?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-26T07:36:00+00:00",
-      "summary": "OpenAI Warns US Government Agencies of Rogue Activity  newsweek.com",
+      "summary": "What OpenAI Going Rogue in US Really Means  newsweek.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,128 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI has a rogue AI problem and ChatGPT users are now caught in it - Digital Trends",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUl9Ldmp2bkVpWS1iMktoLUVfdzluN3pFMUlxMkdsVnBWbWV1eFFQVTZiY2YyaHNyaUh0RVFMNHhOdlJiLUo0di1QU3l5Sk40X0FReEY0Ymxvb0pQRmJTZTlBcjJXR2dqUjRQWHRwVTB4X1BlS2RLX0ppYnhxVVlsdjk0Q1hXclpndnR0NXZyMG5ZWHNQVWFKYWh5VUtDdm5rRlUxdDhxR1VDTkJqaVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-26T07:23:28+00:00",
+      "summary": "OpenAI has a rogue AI problem and ChatGPT users are now caught in it  Digital Trends",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI identified 53 cases of ChatGPT users’ images being published — Deutsche Welle - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZWs3ZVo3WjdEV0E0cElnOEo2dmg2eVh6cF9odXNsUU05MnYxQ1MxWkFmUUItM2Q5d09SOVYxd0x4aEpfV0tzQm5kSGt2ZzVQaEhkZnZ5bDBvUlQ4cVozNU9ibExRR2VHQUptVDhVY0tnVVlkMEVHZTZuMHhMYlg1bVh1TnNFT2llcjRHLWtIZzVxcWR3Wm5ld1VWSm1JTVA4SmN3blBuM2FvTjRxTklMaWx1MTU5U1llOWc?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-26T07:07:42+00:00",
       "summary": "OpenAI identified 53 cases of ChatGPT users’ images being published — Deutsche Welle  UA.NEWS",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Government Hacks and “Agent Spam”: OpenAI Reports Dozens More Rogue AI Cases - trendingtopics.eu",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zem5BY2RLZW9FVTltOXVOMGVpWXJXaXVTWTFPcVNSS1JPNnk0NlU1dGZyRVRHZU1TTDlXbTk4bmloRmJPSGtyOXp6UFUzOTBoWnJHVEdCNV9uenZ5UTZGdXlYT2xpZ3FOWGdSVUZGOWNibUxmanZNN01BVm9Ub1k?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T06:45:37+00:00",
-      "summary": "Government Hacks and “Agent Spam”: OpenAI Reports Dozens More Rogue AI Cases  trendingtopics.eu",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI systems go rogue and meddle with US state sites - The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2pJdlhyYmR0OVJqQm9OaWtNVE0yVVZZR1hLeUo0XzdtVTNYR0wwQ2YzdzJNNUR1eTRlOHp5OW9oZXNZSkJVM3JOZG9JbHd4RURYMjl4M2VxOXoxbHlndUw5dnFyNk1jTkZfbDIxMUVNWHl6emRhRW52emlJaE1Rd1lvSHZPX2JmYnVDZ0JYZ3lpeW5aVWhXVWxXbjlvN3dsMW9NZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T06:43:45+00:00",
-      "summary": "OpenAI systems go rogue and meddle with US state sites  The Irish Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI tools post user images from ChatGPT online - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2x4VnlOTWhpTzl2QWxoWEZYMHJlYnQ0NnNyekgyQlEzQXBmbk8yeXU3a3pSX0I1cVVXS1k0bkotRzUzUXc0bzhNMHZwVFRCcTRLRnJPTUxSeXZYVE1NNlNmN25iNDZLaHE1b2NGYjctVml0MjBKNnF4ZnF6eVBOQmtZQmdlV1lKS1HSAYoBQVVfeXFMTTRVUXRIbmt5TXNHR1lYd0pHNXBOU0pGd3p5aDdORHNDSVZ6ZjdITlNwcXVzZE1xb0laLTVjWWtKNW0xQV9KRkhDYXg4Z0ZsNS1VT25vSnZkRi1XcGVwSjdWc1hoUFVORlliN3NGNG50OXRfdkZuOVl4bXdKb1lrR0stQWtJLTZKQkxB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T06:12:56+00:00",
-      "summary": "OpenAI tools post user images from ChatGPT online  DW.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's systems carried out unexpected activity on US govt websites: Report | World News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUVVhNW9TSnZIbDhicWFrYVplcWhiZzNtd2MzOWRYZ2hra2xlN3ZRYXdaTXA2UUowNUl2dDZsN00zUGs3c3FnTy1SUHJVMERBMlFVSzFORFBCdkJRTXdhRDdDQl9WZW9QaXdLMWlwV1RuMzg5Rk5WQnZZYlJRV2ZITEdNeXJMUGRpWmFONlBmcHdxNHJkajlIbS0xNkRLemlPS1E2QldpWFdIcUQ1TlIzaWFTcUl2Tkt4V0Fad2ViWnpBTmtVVUdsTmxsSkpYNnhmV3B5WDVmazNWdi1uUkszdWR1Rlh5eXRO0gHuAUFVX3lxTE52c2wwX1pSQUx6aGdpSmFkYldwNnR3WWtVQks2QXI4RURERzhHcHlCM0NkaGZWSzhuQVZMaWNVM0RydWVheFV6RHczOHFZYWpOQkFFaXZwNWVxVF9faHI3Rzc4RGFyWTFDQnZkTG9ybjFQTXFYUlFNemQyWFFmMnJPZjV3UnktUlJLVVBFZmxWcnNWWFFDbEZPNFRFWlRZMDBYOVB3UXJJaVpVUl8yUTFLU1VoOGlfZGJnaU5EVEhySWRkdDNGZVUtamJnenFUU21KN2Z4RWJOeG1meEdzS09uOHNpQ19uY3hFYWlzR2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T06:12:12+00:00",
-      "summary": "OpenAI's systems carried out unexpected activity on US govt websites: Report | World News  Hindustan Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI goes rogue: OpenAI's systems meddled with US government websites on their own: Report - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR0JUZTRGN2xjTTVUZHg4MnRSQjlGektSdTVGeG9HbFhzY1pJR2htbmJCU2h3NXZHczlTRk5yamJtZm9PRE5Od04wa2MwSzBaVFpHRHo3TGZvSEdGWHBjSUZHeFA1dGVkWk9ycmY1RXFtZV9PQ0pSNmR6emZUTzl3QzNQMldoN3dLNHp5WElxSk96MEhmYzlLRjJKLU5RR1o0RzgzQjg1Z1ZmVG42TlNCMW9NX3lzc0gyQ204WEVjY3E2ZjQ2QjNzQWhR0gHPAUFVX3lxTE1fT0RaZm5kUHJKOU9VQXVzblJGMHdvN2hfM2RZczNVVjU3U2Jsa1VmWmlXRHdLT1o0WExaZVFNcVgwaGN4T1lYZHZFT2FSQnFmaWhtT29HVDB5aEUxeF9rX0FfVTZpbFktUXl0a2JtMUxwbHFkRDNtNGMxZHdXdVNHYUYwcVNqcTI0c1RaN2hUSGJNaUJjTE0zczkycnoxRkRfa3cySlZtOTBIN2M1Y2pqcVpvNHNfem1Rb3dPaWQ1dW94WndiR0wwMjl6ZlA3OA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T06:02:30+00:00",
-      "summary": "AI goes rogue: OpenAI's systems meddled with US government websites on their own: Report  Firstpost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says AI agents unexpectedly accessed US government websites - The Federal",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVF2eG5CMzFKcF9yZkI4S3ZkcjZvRTdlU3lwMWhSN2daSDJ2R1pkZnM0VGphekxLOFd5S1VXVUFKaEJHQVNEOHBjbE00Ykx2M2kxUEtsV3lHQkdXLUlFZXVpRGcxYlVUVEEyRVE2cXRwSUt6M2I0LWl0X2pMMEtJbExob0hqQ0JydUQ3NGZBaTVIVnk0SEZQazNoaFAzb0ZSU25ZekF2M2poRElkTzZNdWdWcEgzSlFpM1Iw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T05:56:05+00:00",
-      "summary": "OpenAI says AI agents unexpectedly accessed US government websites  The Federal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI agents access US government websites after tests go awry - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONG1RenVwUnFpREgyZ1Rjc0dHbXVobVcwNEhDUFU0OWJma3JFOUNycnVXNTFBakVvSFRoYll4dWZCU1dRMmpSTEVzaDI5UmdnWWJ2eExQZGpmM3g1Q1doT1ltVHdMZTdKelg5ZlRVNm85bGxVOTdqUDdpSVBLVC1SSEM2WUk1M2s3b0hialpQMHBfd0w0NnhqV3hzUHBhSGhsbkFlMzlnNDR5Z1BaSFNvMkxNN2t6Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T05:49:04+00:00",
-      "summary": "OpenAI agents access US government websites after tests go awry  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT-maker’s AI inappropriately probed federal government websites - washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T05:40:00+00:00",
-      "summary": "ChatGPT-maker’s AI inappropriately probed federal government websites  washingtonpost.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Models Go Rogue on 'Dozens' More Third-Party Services - PCMag Middle East",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUUppNF9Uci1UbVpXa1BzVFBkdXhUN0xZVGtyMFBobGxCNGVCQjlRY3NITnFqclo3OXlaU2Zob0d6U3FmTWRBWDYzVnF2UmgtUlVoVzA3djJsbFpZWl9KTkJ3b19rT2tKNENMaE9FTVhiSnBSQm8xTExydy1nX0JfdHZUVUlWZmF3Q29uYm1XSlVqQllXQlNMYlBuV3pxdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T05:28:51+00:00",
-      "summary": "OpenAI Models Go Rogue on 'Dozens' More Third-Party Services  PCMag Middle East",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s AI Agents Tried Hacking 4 Websites Without Being Prompted - CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sb2p4SDNMYk8yMXBxLTZ1aGluODhUWU1WVE8wb29zZDdnNkJlQkNVRXA2MHRVVDhRckRYM0NWUlJSQWJtaUxkV1NhTXIxWGxfWVR3X0QybTVWZ09hUkJDZDJfM0hZd1ZORkdjeWtOVVVfNGFqd1FuMDR1aVd5Z9IBgwFBVV95cUxQRDR3Y0xtVHNfZi1xTnlhWmh1ZXM1RGpCZFQxcEZiMmdmUERlQjVRcEcyeDlMamRVeU44eFFmMkl2NVQ4QmtMR21meEZsV3Y3YVhxZ2piam9CWkpSWU1uTFdXR1dvVEdCbkVHNWFDeWo3YThYbzV6cVBKQ2VlZlh6OUZVZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T05:11:57+00:00",
-      "summary": "OpenAI’s AI Agents Tried Hacking 4 Websites Without Being Prompted  CyberSecurityNews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says its AI agents posted user images online in error - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUlEzQTFKUmxEUk5FaGJnbUNiUHF1WldmRV9IRUNSTVBDS1d4cHZOdmNXRF9WTktiTjl3dVJMdEtrdDZISFNqU1pOREhJYmFNczc1bF9BelY0bnh1TUotY0dnSnBjMjNGanZCeTlOV3NXSGZFTnF4VHdkUDhkVEVMS29oMFRwYlJrcnRMREhzaUhIWl90MFVNR2VPc0pNVzJLaERDbTV5RkNESlZxWWRQUVdURk9SZnoycG9lUW9n0gG-AUFVX3lxTE15MkZ4czdjU2E3VHVCeGhuYjZyQ0VNUHBtV1F3VExpYTdpSklYNGdKN3F4RFlQc3AtT09Sc2EtREV5T0NDcUxlVW84Wk02NmtqcXZ5dzViaDFYR1JRcTVlTm9jNk1naEJjSHhBRDg3MzZyaWxpUlR0MDdXeGdrcDNqR2gwd1NycHZyTmxUSFhBMUxkcFhVUGhvY3M4OXpmYWdvRG1JUXlVMExncWg1aVNiLU9PVi0wUm4tUlBPb1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T04:48:13+00:00",
-      "summary": "OpenAI says its AI agents posted user images online in error  South China Morning Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI fired contractors hired to humanize ChatGPT after they used AI on the job - The Cool Down",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORF9wNWRLY3Z1ZU1XWV9BdDU2S0JBZlBpek1BNjZkQlJTR0VqVTdvOFVlMHZzclVPU2pfSDBoRzlscldLSDNzcVhYYTdJbDlPN0pSbEVUbnF5c0lkN3B0V2V4Rk9FNFNvM3l0b1BzMkNGdl9TYkU3Njg2YmMzaTFkUEw1VWpkWGptOXJ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T04:45:00+00:00",
-      "summary": "OpenAI fired contractors hired to humanize ChatGPT after they used AI on the job  The Cool Down",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Medicare Breach Exposes Gaps In Oversight, Guardrails - BusinessToday Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3BRTExCZ2pXZ2drZU5fVjJDMFpBOTltU2ZReE9LVTBYNWJlMkJHY2ptNVFMeUpqU2twalMzZjh1SFAtU1dvM3YtVmt1YnVCQXZRMHhjWG1SeHNRSFk5WmF4MHotbkRtVlBEUE1jdzhYaDNQVnhyUk45Tmpqd1ExRFNfZVQ2WlpPTWhxY1Iwal9ISlNvc05xNVJjeXJqMXVHel94MS1iOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-26T04:33:53+00:00",
-      "summary": "OpenAI Medicare Breach Exposes Gaps In Oversight, Guardrails  BusinessToday Malaysia",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
