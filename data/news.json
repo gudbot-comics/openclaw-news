@@ -1,16 +1,142 @@
 {
-  "generatedAt": "2026-09-29T22:56:19.957473+00:00",
+  "generatedAt": "2026-09-30T01:50:00.742901+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHZwUUNYR0FaRHlRTFdOZWIyRXRRRklrZXNTWlpHX2tsdlhZUFBuY193RUlkZHhnU0N2bkdJLXJBMmMyeWNsWk90VlFjeG5qcnFNQ3dabzRMMmo2WUp3bVhnZS1mQWJQazdSVUJZR3FoR3JqalBtczhTc21EOGZHdGlnWUlRbjJSMFZCSVlaSFlROGhra1prZmloT21ETlpRcHZoT2c1aUViNVJqRzRLSjREY1hrcWJRWVVvc1lxUnpKbTVid2xZb2t0V2pxQkF5bXVDQUN6YkpYOFdSMlhJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-30T01:25:57+00:00",
+      "summary": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia  VentureBeat",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI wants dot agents to handle everything from parties to payroll - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YamNkSzUxcnAxN3U5TkVSai1uazFRVUMwS0ltQTQ2OFlacTNPU1k5NUl3RjVRS09oOER1U3ExcmlRVG1IeWtTdGhHV0M3Z1hheVhDdXBiMm02S25RN3pPYVNUSWxpSzg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-30T00:37:52+00:00",
+      "summary": "OpenAI wants dot agents to handle everything from parties to payroll  reuters.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Tech latest: Trump launches new AI service as he declares 'I will never stifle the growth of technology' - Sky News",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjhtNDhUQ2JKaVlHMWYxVzZXLTZWNThEcFlYcko4YlZTY2c0SEN6aW03VzNZay1BVjRhYktpeW1PclIyU3gyNVhmSllGenQwX3M0QzhPd0lMcDh6QjVaaExZWWd2aHA3NkhVMUlIc3d4RWpUekMyRFJVam5CS05Od0JNTUtMYlVscVdfcktOZ04wQWduT1RhVENVUDFlVG1xc0ZodjZhdDd3Wjc2cFhpTTA1cS1TaENsX1BGcDhSRTA1dVBhc0c3dVB4R1BvMFJxM0h3YUJtLVRPSzA?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-29T22:51:49+00:00",
+      "publishedAt": "2026-09-30T00:35:27+00:00",
       "summary": "Tech latest: Trump launches new AI service as he declares 'I will never stifle the growth of technology'  Sky News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzRSSW5ESFRtQUZzRjZrSVlqYlpZeHh2N255alhnSUtPWkNydVZoTFRCeDdnLTc2akdIbVY2ZFByOTUtWXBCZGJ6Zmo1RGVuUXBiWndaUlZJWW5fY3ZtZW4tNzZLQ3pFQmJFTmRyMTJtdmVZZVJwbGhJQW9VQTh1M21MNm5fVC1xWmVELWtaTU1BYVJqYzBUeDEyTjhOLU0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-30T00:19:00+00:00",
+      "summary": "Sam Altman says OpenAI won’t go public until its models are safe  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s GPT-6.1 Sol delivers Astra-like performance at a dramatically lower price - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEFJWm53bjlTcWxxeTZMNW9uSWZFczJvRFZ2RzVyUkRha2VOUlp2YVZaRWJpQmhDc0pId05lUGNVNmFDajUwQl9GNnZDai1fZVJtOHVKS3U2M2lKVTFCMTJpdWVuSi1SOTN3VkZRU1RUVEJLU2pHdm5aYU5jVUVydGxaUEYxa2xxWUFmV3cybVcyZ1RZcVIyTE9TZVlYNTRzak45dFB4dzhaNDBYOGN1UUx5bld2T0duNkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T23:46:00+00:00",
+      "summary": "OpenAI’s GPT-6.1 Sol delivers Astra-like performance at a dramatically lower price  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDMxeU5wLWV6cXdTcHk5T0k2d0VDbnRoT3BSNUFULW9DYmh1VTdSUy1aU3k5cksta1dXTV9DU0Joa2Rib19WLWV4alc5OW5DYkU0d2lrcUVKR0I0NGpkOVRvSVkyR1hXU2JybG1DUmc3emt3ajJmcDB2WlFtcUpBd0V4Q3NJU1lma2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T23:20:43+00:00",
+      "summary": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches always-on AI agents a day after apologizing for a hack by its bots - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2Y3U2NYNEY4TERuQ1JiYjJwT0QxaEJmYklMS25UOXBtb24tZkFiUndiMTNOYnY0RGJWVlZIVEd6Yy1VS2V0M1ZEbDFnME9uNWxyZ3JlcU9fYjFxTzgxZWtpV2QxV2EyblV1MmkySE0xOHZDSUdMNUZLYWRtaHVRM0lqMWJ3akJudXdxU3lIVWU4cXJVQWdtMmNTeDRoZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T23:03:10+00:00",
+      "summary": "OpenAI launches always-on AI agents a day after apologizing for a hack by its bots  NBC News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Robinhood just rolled out trading agents to millions—and investing may never be the same - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjdsLXFZajlrWnpKb2xkTVJpWmlFcWNhSlotN1JLeVVUbC1zLWFmV3JqNzF3RmRzc1ZnSWtYNHlvMlhXYnhiQU42SWE0MDNkWnoycXd6MXFUWFpuRmhMTVdRVzV5VmZxZjgwbTh3THlyMnJmd2p2bFZWV1I4aXExTWZQVC0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T23:00:00+00:00",
+      "summary": "Robinhood just rolled out trading agents to millions—and investing may never be the same  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T23:00:00+00:00",
+      "summary": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RzVDRlOVNUaHZteVZrWEkxYVNJckVZbzYtU1NfNEhveGNuUnUwMW5aNHZFN3Etd1ZlMXVrLXJIODZfLWp5M0tjV19NT2tCMGxDWWFqRmVOVWhxVWhydjJVQkV4WXY2ekNYLUpueWVxY21yYy1DSU9tc3JKOW1qMg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T22:53:40+00:00",
+      "summary": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Biggest news from OpenAI Dev Day: Dots, GPT-6.1 Sol, new plans - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zc2VoVDl6U1VtczV2R2Q3RTU2N2hJcHlfNVAtOF9lR2wtSjF6U2FiZnliTUlKRU1qXzh2cXlobVBGX2NlaTd2bXprU0pYYlIyTThOWFhPSXhOWG40S1NDT0NPanU1cHZoM3RyT00xM1NLZEow?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T22:50:29+00:00",
+      "summary": "Biggest news from OpenAI Dev Day: Dots, GPT-6.1 Sol, new plans  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches Always-On 'Dots' Agents to Rival Meta's Muse - MacRumors",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TekZ2VHF5ZVJFSk9UT2lrZXRIMWxPeWZCT21YMXpKZnF3czJaeHNqdWZsUGpIY0hEZUhTREp4V2hKMEQxcGJST3ROZTBwT3Nscms3OUNuckhBYmpTeGpSVjh5Wmt2UmZMSUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T22:44:59+00:00",
+      "summary": "OpenAI Launches Always-On 'Dots' Agents to Rival Meta's Muse  MacRumors",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026 - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2aHl0MzYwTnR2RkNhWThFOFZmY0RWZUx4Qi1lS1hxNGRCc3o3eXgxcmR2TkRid2ZqOElPVFNSTWJrdjlPUDI0RERRa3Q0R1E2WGtwUXE1LXpoajdTSVl5OUlRbXZZUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T22:44:58+00:00",
+      "summary": "OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Altman unveils ‘always-on’ AI agent after OpenAI shelves model over safety concerns - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNm9lYm05ZEFzNFk5RU45MmFLcXE2cHZnaUlzM2I1R3BZTUQ3cTBGaEkxdlZTdE5hSzBBZDhoQngyRFREaHBJVXpab0JnWVA0LWcwZlpEU0R0Wk9IQ3pJdVU3ZGhtRFhnclRFMHc5NDh1TG5oQTMzZ2FjMU5YOFpfMXpDZWtldnJ3Q25XOXBTM2RiSGVHV1N0a1VfZEFkNEst?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T22:43:00+00:00",
+      "summary": "Altman unveils ‘always-on’ AI agent after OpenAI shelves model over safety concerns  AP News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Halts Release of Next-Generation Model Over Safety Concerns - People.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPNG83TnZ4T3RheDI3N2FSaHZYT2RMSDEyd0VaLUtlQWRFVHFNZF82NmRDdlpIYUowcGE1TEZvQ2c3bWVHQ2haVlpBd2Zva25vR2V0V3Y3V0E5YmlTTEtNRmZQTzlyN3E3MEJIZDdZTnJfLTg0WVdyeXZlSXVZMDQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T22:37:02+00:00",
+      "summary": "OpenAI Halts Release of Next-Generation Model Over Safety Concerns  People.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,20 +150,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDMxeU5wLWV6cXdTcHk5T0k2d0VDbnRoT3BSNUFULW9DYmh1VTdSUy1aU3k5cksta1dXTV9DU0Joa2Rib19WLWV4alc5OW5DYkU0d2lrcUVKR0I0NGpkOVRvSVkyR1hXU2JybG1DUmc3emt3ajJmcDB2WlFtcUpBd0V4Q3NJU1lma2c?oc=5",
+      "title": "OpenAI Sued After AI Agents Escaped Testing Environment and Hacked Hugging Face - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMk16VzdHY3FDTE4yYmd1bF9aYVRYM0VxUzcybEs1UDl0UFNud1JDWTFsZjRkSHhmcm9TcmVTdE1kWEhZRThmc0dEMmI2T0JKeDNpUXNPTzNHSkhJVUtrM0FVNWdnYWY0ZXZVcW5wbFZtTnA4aDVNVElsTWU4dmNpQXExSHlabFE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-29T22:29:02+00:00",
-      "summary": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves  The New York Times",
+      "publishedAt": "2026-09-29T22:26:43+00:00",
+      "summary": "OpenAI Sued After AI Agents Escaped Testing Environment and Hacked Hugging Face  Law Commentary",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Sued After AI Agents Escaped Testing Environment and Hacked Hugging Face - Law Commentary",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMk16VzdHY3FDTE4yYmd1bF9aYVRYM0VxUzcybEs1UDl0UFNud1JDWTFsZjRkSHhmcm9TcmVTdE1kWEhZRThmc0dEMmI2T0JKeDNpUXNPTzNHSkhJVUtrM0FVNWdnYWY0ZXZVcW5wbFZtTnA4aDVNVElsTWU4dmNpQXExSHlabFE?oc=5",
+      "title": "Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse. - axios.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Id3ZsWGtwNUxVSm1CekJ3endxS0l3dGpHSzY2M3NpY1ZQR2VMendOdVBxOThiYmtRSmR6aHRzc3N3SVJNMTUwcnBWRk9oU2xBMUhJNllMSU9TX1pWQUQyR1BIR2tBdWRuakFTNUlVRTFsQQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-29T22:26:53+00:00",
-      "summary": "OpenAI Sued After AI Agents Escaped Testing Environment and Hacked Hugging Face  Law Commentary",
+      "publishedAt": "2026-09-29T22:21:46+00:00",
+      "summary": "Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse.  axios.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,20 +177,38 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Watch OpenAI Will Keep Driving Down AI Prices, Sam Altman Says - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjM1VTItem1QTEh2OW45V25JYmNQOWdsN3JhdUNleElpWGpzQXJ6TGg1M1h4NHQ5MHhNcTF6cG5sWDJPSUtkODBoT0FRLWxsTEJLX3VwMnBYUGxjVVJoWDI0SGFsOTN4aUdJTnFKN3llYVQwQTRkSmljQU5DaUN0aW50N1ltdkU4d3hqM3dMXzdkY0MybzdpblNDdEwxR29TM1lHNHZsV1RsUkU?oc=5",
+      "title": "OpenAI Alerted Chicago It Accessed City Database Amid Reports Of Its Agents Going Rogue - Block Club Chicago",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMFd2aWdMS0JXaWFHaVlYcHFXUU5RRTZaQnl3X0NIeEJVZXU4MHdNczhhemlrSW9KUlJiQ0dBSm85NmNRUVN2TG5MT3dtNU5WLVRxVlZHM3FsWkF6OVMxNDlFeUNwZTdiSVBkM2JiQlpuT2NBTkUzeTRpaGg4MkowUkliLU0wbmh5VXcwU3ZXazdacXhjOTQ3Zlo1cWQwSjhWaC02aExleld3QW1QSVFIbGc0ZTIxdzhkaVhIeDNtN05US05wZ0U0?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-29T22:11:54+00:00",
-      "summary": "Watch OpenAI Will Keep Driving Down AI Prices, Sam Altman Says  Bloomberg.com",
+      "publishedAt": "2026-09-29T22:12:12+00:00",
+      "summary": "OpenAI Alerted Chicago It Accessed City Database Amid Reports Of Its Agents Going Rogue  Block Club Chicago",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI says its new AI agents won’t stay a premium product forever as the company launches its priciest plan yet - Business Insider",
+      "title": "OpenAI says its new AI agents won’t stay a premium product forever as the company launches its priciest plan yet - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXd3Z25HbkxrLTRjRGluNWdRWERVX0tnd0EtNnNmVl96SlpJbU1acHhlYS1lRWd5S1E4Tzl1WVRsUmVRakN1UkNweDZZYmJaNHhOQ1JoM2IwU0d2Wk9VSVF1YkVTZ0VMVVBhczB5dm5ndkxyV3MzbUJHemxNLXlIRFlKUGJIYUJJSVZSTWRtRnhhX0EyZDFHeXpIejh6enM?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-29T22:02:18+00:00",
-      "summary": "OpenAI says its new AI agents won’t stay a premium product forever as the company launches its priciest plan yet  Business Insider",
+      "publishedAt": "2026-09-29T22:02:00+00:00",
+      "summary": "OpenAI says its new AI agents won’t stay a premium product forever as the company launches its priciest plan yet  businessinsider.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Protests against OpenAI get increasingly creative - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWRuVUtXSENwUGFaOHRQcU5BMGZWV0JrVGdiTEZtS2lFRnhsZ2tOOHB6aHhzLV9LU0hnNTBUSWkxZFZNWU1aZmhNS09lc0t1NS01aG9CbFRRc2lhczNnY2Fmcm5YWE9UdGl6dlBaMlRvb0hNMjcyaWw0VWZXcm5paXFiZUZrbk15dDN5QTR4ZmNaYzV4WnVwNkl6RU1Sak1SRmFOcjJaaHhlcWVydjI3VA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T21:52:58+00:00",
+      "summary": "Protests against OpenAI get increasingly creative  Ars Technica",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Dots has its own little guy mascots to rival Meta Muse - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CY3YwZVIxa3BjRkgwRHVGOFBrcW5aV1pEWlJNMV9NbHp1RWw4RFo5VlE1U3AtYmV4RW5YdTF6UXB4TV90RkpqZk9Jc2JmWE5KUXJnLWltRTlROXprUzRZbVd5dEVCQVZ5aHp2MTFUR2w?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-29T21:51:30+00:00",
+      "summary": "OpenAI Dots has its own little guy mascots to rival Meta Muse  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,150 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-09-29T21:42:51+00:00",
       "summary": "‘Shifting into High Gear’ in AI. OpenAI, Anthropic & Apple. ARD #173  AI: Reset to Zero",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Targets $30 Billion in New Funding Round Ahead of IPO - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzdRYzMtUmlBZkFJdm9VYnNXbWw3MkFINUxIRHJXa1hNcVNqOUZORkNZMndmTEc1dThFNGU5Yzl1R01zLWxLN2VMazY5SjhKcDNBeHJJZ1BheVNkLUoxb25Sai1mYVd6elpObXo1bDBKOXM2bHlyWjNNVnQ5bFNsOEVFTHVwNERzNFRBS3JBOHFzS2NZSnZ3U3NlQVRwRGh5RTZuR1lXNFZFQ1d1N1lDUngzSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T21:35:16+00:00",
-      "summary": "OpenAI Targets $30 Billion in New Funding Round Ahead of IPO  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI hit with landmark lawsuit following Hugging Face hack - Axios",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T21:34:05+00:00",
-      "summary": "OpenAI hit with landmark lawsuit following Hugging Face hack  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Biggest news from OpenAI Dev Day: Dots, GPT-6.1 Sol, new plans - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zc2VoVDl6U1VtczV2R2Q3RTU2N2hJcHlfNVAtOF9lR2wtSjF6U2FiZnliTUlKRU1qXzh2cXlobVBGX2NlaTd2bXprU0pYYlIyTThOWFhPSXhOWG40S1NDT0NPanU1cHZoM3RyT00xM1NLZEow?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T21:33:45+00:00",
-      "summary": "Biggest news from OpenAI Dev Day: Dots, GPT-6.1 Sol, new plans  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches cute, ‘capable’ AI agents after shelving deceptive model - The San Francisco Standard",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zNlB2b0hnX25rZzV3T0lGUDJxNFZxYkh2N01YUll3dzZBUHlGQU15bFNVUEtxRmhVMmlHTEtYeTltUUpmMERIMXc5SGtsU01wMUhicS1ocmNjOTdQdVdkUTRXNnc1QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T21:24:14+00:00",
-      "summary": "OpenAI launches cute, ‘capable’ AI agents after shelving deceptive model  The San Francisco Standard",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T21:07:09+00:00",
-      "summary": "Introducing GPT-6 Sol and Luna  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Altman unveils 'always-on' AI agent after OpenAI shelves another model over security concerns - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNm9lYm05ZEFzNFk5RU45MmFLcXE2cHZnaUlzM2I1R3BZTUQ3cTBGaEkxdlZTdE5hSzBBZDhoQngyRFREaHBJVXpab0JnWVA0LWcwZlpEU0R0Wk9IQ3pJdVU3ZGhtRFhnclRFMHc5NDh1TG5oQTMzZ2FjMU5YOFpfMXpDZWtldnJ3Q25XOXBTM2RiSGVHV1N0a1VfZEFkNEst?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T21:02:00+00:00",
-      "summary": "Altman unveils 'always-on' AI agent after OpenAI shelves another model over security concerns  AP News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "With Dots, OpenAI Wants You to Stop Being Afraid of Its AI Agents - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmdtR3dreU1LVW8wM3IyaEtTb1BIc0FGeU9KU3BRUVAwN05YZmxqZzAzZHpDVnBycHkyMWJIeWpFdlk3RHJ0dXM4R21jNldzQ3A2Tzd2eGJ2cFQwdHAwYjZyNVU4aV9JR2RGTzQ5b29aQV9EZGN0V01hejBHdy1PTUI3Rmhid3JuN2ZnZkI0ZHlTbHp4MERXWlQ0RQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T21:00:49+00:00",
-      "summary": "With Dots, OpenAI Wants You to Stop Being Afraid of Its AI Agents  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Dots to Capture AI Agent Market - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUks4V0U3cUhYRGx2XzhkMUhWOUFFUmF1R3BlNU9yQWZwSlo2TUh1SlozUG1sXy1EaWw3YkJVdW1kSmhFdUtjbHJzbjFTSVNNckNJTldTUG1aN1NwcEhERnNNMmhZUzRuckxuUVdrZ1hHUWFBNmhlQk9fZmtRc0tCOHY2cTNaQWxvNVd5blNTTzhZYS1ONDVZS19YaXlqV1RRODhPUDNLbjQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T21:00:00+00:00",
-      "summary": "OpenAI Launches Dots to Capture AI Agent Market  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "With No Astra to Release, OpenAI Pivots to New GPT-6.1 Sol Model - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjNYNXFwSmVLQUlNVG4ydko4OWZySVpTSGhTXzNIczE2dFhPYlc4amQyVFBHSEpnbEU3NGgxT3AyZ1Z6aEdvX1F4cDV6REVodlFFdW5TRmhfREE3bzh1bDBfcHh6Tkp3Y0pmVG05ZkRXTTBOc1AwOXp1cWdVMmZPRm1xMGYwdTZlOG13a0N3M1hRYUVEaXRiTHl3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T20:59:36+00:00",
-      "summary": "With No Astra to Release, OpenAI Pivots to New GPT-6.1 Sol Model  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman outlined OpenAI's 3-part plan for dominance - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFh2cDU1YlpBU3RtWEdGUkZJV2dJLVNOTGlOZUUwUzFKc0xBX3NGWGZoZnMyYnRqU05Bb3BuVnFMUmdwLWhnb0lVaTgxUkEwQjB3azBKUW9ROFhFQ1RDWk9TX3pObHYzYk94NjNRRXpWc291TWRIQ20yU0Ytb0ZpSjBvOTN1cFBxTnhwNjdGT002M3VrZkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T20:49:53+00:00",
-      "summary": "Sam Altman outlined OpenAI's 3-part plan for dominance  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONlZnczc2RGgtVHNfTnZnSThYOTd0bU4zeWk1Mk0za2ZjSVlucGZ4LXJQMTNhTW92d2hsYXdwS0ktSzRDalg1UTRaOHpZQkowckxBb0xyejllOEt5Ulh0cjhZQl9iY0Nyc3kxYnltOVdmOUFxQ3NNZUt3ZHRGQkVJN3JscUozcXMyVDZaa1JqQjA3Nm43WVZXZG5Ld2FuQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T19:52:37+00:00",
-      "summary": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI takes on Meta with dots agent in enterprise AI push - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T19:43:48+00:00",
-      "summary": "OpenAI takes on Meta with dots agent in enterprise AI push  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Capping A Month Of Fear, OpenAI Unveils “Dots” - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHFxQjZrV2FCLWZobmtQckh6aTRlTFdzVDVjaVI4UVZ6MS1NZGtoOERyTmZ2VHdTS3ctaER5WGl5aks2cGpMdWZvY3hyYWZIMFgxUi1oZWVIUWhNVkFBVGx3cDlhM0pTVmg1Q3RPNWh0WWRBVmJmYUJ2UVAxS1p5RUU5N3RqbHB5VUJhb0NXcEpwbk1xMUJmMlQ0QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T19:38:40+00:00",
-      "summary": "Capping A Month Of Fear, OpenAI Unveils “Dots”  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RzVDRlOVNUaHZteVZrWEkxYVNJckVZbzYtU1NfNEhveGNuUnUwMW5aNHZFN3Etd1ZlMXVrLXJIODZfLWp5M0tjV19NT2tCMGxDWWFqRmVOVWhxVWhydjJVQkV4WXY2ekNYLUpueWVxY21yYy1DSU9tc3JKOW1qMg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T19:34:42+00:00",
-      "summary": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI unveils low-cost AI model, a day after shelving Astra upgrade - Tech Xplore",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zZkdjbnloN080RGxaSVI5ZFJQWGV2Y1NuV09YZzljeXphQ1FOX2h0TzRHVm14eWlJR1RFcmNNX1VyV19QejJVWkcwWGdIUnpKVzczaThJbXA0bFRCcDZpSzJkcXpBRzJWNTJBbnJhZUVvZldBbFowQlhaOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T19:20:53+00:00",
-      "summary": "OpenAI unveils low-cost AI model, a day after shelving Astra upgrade  Tech Xplore",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026 - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2aHl0MzYwTnR2RkNhWThFOFZmY0RWZUx4Qi1lS1hxNGRCc3o3eXgxcmR2TkRid2ZqOElPVFNSTWJrdjlPUDI0RERRa3Q0R1E2WGtwUXE1LXpoajdTSVl5OUlRbXZZUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-29T19:19:27+00:00",
-      "summary": "OpenAI introduces Dots, a new always-on AI agent, at Dev Day 2026  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
