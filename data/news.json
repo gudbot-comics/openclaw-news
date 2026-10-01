@@ -1,25 +1,106 @@
 {
-  "generatedAt": "2026-09-30T23:07:22.554187+00:00",
+  "generatedAt": "2026-10-01T02:04:50.503340+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "AI agents tried to hack a Canadian government website, researchers say - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEVjbGN0N2NJSC1vQ3FPTUNmZFdLSWhlVmhiZVJ4TnhISFh2VjJZZzJrdEFka2IwUTdGaW5aY3FzZ3dQRk9UQnF3dHhhbXA3a0NlVW82Q0JXSFA1ak9keHdydVBXdnZURXlVWmx6MDdHbzFxOGo3V3hOazEtb2F0Vko3VHhoUVZmM1M3b2J3b0RoZUp4c3FqZHRNN1phaGdXLVlzdFlLTnJGNXpOeUl4dTBCU3A?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T01:34:08+00:00",
+      "summary": "AI agents tried to hack a Canadian government website, researchers say  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FTC launches broad investigation into Anthropic, OpenAI - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNERSOFU3M09XYWNrVTdSdHhkcVl4NkxXeUU2dHItLW41QnJ5TjhOX1VhaUh0Wmc1Y3ZFVm9qeXhfd0gxRVNNclo3UURDbGFrb19KS2RhSWlrbFl1RTZ5V2dlbEN4WXZ0SkwyTy1mRFc4M0lDYVRCZ0lBQnJzZ2xmenA1cDNaX294MzJYVmhydXlBQ1ZQbG40LW9lY1UtQ2MzRmZsdDJ2MWplNVAx?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T00:26:52+00:00",
+      "summary": "FTC launches broad investigation into Anthropic, OpenAI  The Washington Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI bets enterprises are ready to delegate real work to autonomous agents - InfoWorld",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlFjVFd1MkhQalZQWi1hMll4MGZraW41dzZiMXJrdmozOHFjSTRranZlc0dobmY5MUFDTjd3OVNnM1ZVcVVwbV9mZmdTM2RvSjhrbjZuam1Fd3ZVY2lZMllwZm1PcTRXXzRzQ1d6SldzUHFXUTJ2NUQyVUt3Y0U0X0dWS1JUSmlRWUFGeXZEeWsycFN3REhkcjJUZTE1eXpMUGx1ZEJBRXRKVDlBSWVnbzZVek5VbUlCUVFXb0hSakc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T00:26:26+00:00",
+      "summary": "OpenAI bets enterprises are ready to delegate real work to autonomous agents  InfoWorld",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale’s, and shopping on Amazon, SEC alleges - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWpqZTUwWE1KZGZPNUYxX0xTX19qeTk2QXVOR2JTa2VIUWY2RHdtT09aWjI4Nmxra2hhZzNJcVFHb2R2eUo5MGtpdG50V3A2emFTWml4T1ZxSnVobEQzVGJTcnd6TG8zMHFmWkFGZ29lYXhNMFE1TUdqdXZMZUNGWA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T00:12:00+00:00",
+      "summary": "Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale’s, and shopping on Amazon, SEC alleges  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI President Backs Out of Pledged $25-Million Donation to AI Super PAC - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHowdF9PcGlwZzFOU3ZKcEVuYUNqN1JWMEtXdGhENjRNRU94VVNhV1g4bDhHcE54a21nUnJ1aURDOUF6WXlhQUhBbE5HUmpmOExNdkF1Ym5SWG9naGJwNGhDTjJKRHJkYUhFYU1BMldRMXZqLXJWems2RWoyRTc0NDVzUEMxRmJieGNaY3ZYSG03empNZVUtbW94NFh1MmNIQ3BsR3VHNmpubEk0b2tR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T00:12:00+00:00",
+      "summary": "OpenAI President Backs Out of Pledged $25-Million Donation to AI Super PAC  wsj.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "New Mexico AG takes on OpenAI - kob.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jQXc4amVaNC13TzNyZUpYaE5EWld4TTJmWkg5MDk5Mm9IME5KQldXUU5mREtkaFJ6MEpUTjBMMXNkVFU5RWNYSHVOS1U0dlc3cGdlM3VzbmpPS2hTWHFFQ1VmSXg4ZllDTFo5bFNn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T00:09:40+00:00",
+      "summary": "New Mexico AG takes on OpenAI  kob.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI links China’s Moonshot AI to attempt to extract its models’ reasoning - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kSmhrQ0lQOWwyV3JGWWpoclhLX1ZHYm9qX2tOTVRvcms5eUpOUjlrQ2RYdnhlVlJYTUNFelFRWjVkYXpJbVBPTU42amJ3QW5IMDdqYTZzcjVULWxuSjh0OUYyRTV6RG84ZlpLM2NlblNoWHJDdXfSAXtBVV95cUxQSTFoTHRwbXlLVFQtRXNCVlpLblVkRGNiMnN3RjgwVHE5anZvUW1aQlNzTGVGRXJISm9JUGdka1dWUnFEd0Nqc2s1N1d4UldwLUlTNWdCOWxJUFluSVZSTUJzZFhkM3VKNUNLd3cwNjJRa29QbWQ3d0hDN28?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T00:04:00+00:00",
+      "summary": "OpenAI links China’s Moonshot AI to attempt to extract its models’ reasoning  cnbc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelBuSjFMQ1lYdHRPejJFSEs1V19OWGlfOW1JVEdTd2UxdXV0alhkVnROak10bVhrX0w0Mm5MUXdjOXdnbEtLaWlxRDgzT05rQ2J1UnVpWFNTQVhDd19idDNjbVh1dzd3TERlYlR5MlBERXRkSWdmcEpIbUVQNkxYX0VMUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-30T23:21:32+00:00",
+      "summary": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman refused to attend hearing on risks of ‘rogue AI’: Senator - aa.com.tr",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0h5R0Y4bzVCNklEZGxTbnZOOHVjNmxfMGN1bjVNelRfNGwyaVd0Z0VJblJxSEJsaUdFWlVGVlhJcnhYcllKbGxzbGNtZXNxS3FRNEhtX1RwdlpTQTFPYWpBS2o0bmw4M2VhOGVReFprNVQ2a0dta3RvUTFPTjZWY1pWYmR1RkN0U3ppMTB3UGhabFBrRE5Ta1VES3VHdmJSU1FHbGoxd3hHT0NvSU52UWZhX1RMMFlvUXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-30T23:17:28+00:00",
+      "summary": "OpenAI CEO Sam Altman refused to attend hearing on risks of ‘rogue AI’: Senator  aa.com.tr",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FTC reportedly investigating OpenAI, Anthropic over potential consumer risks - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkZ2TkZ0YWNpUDc0YVNENWJMRUdmWE15dGdBTTljYkkwaTFiOElHVjhvQjJNd3lVUkgyam40TXN2SktNdV9ablBtdkpLN1ZPSXkyUjhvSUJ1OFZqQXZ6SjA1THY2MDBCbTBacU1QWmlUcHRWSHBIN1RKeXZwZXhMdTBJeEdydkhrUy1OY1Zsa1gybUNxUEpES3lFMUV5cm9pZ3lKc3dXOU9ZM2E3ZUFfYTFn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-09-30T23:12:00+00:00",
+      "summary": "FTC reportedly investigating OpenAI, Anthropic over potential consumer risks  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Here’s the Email You Get When an OpenAI Model Hacks Your Organization - Futurism",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObVY3QkUxdGplbU5lRllzUnpDR1N6a3FXZTU1aGdoUndUZXRHQ19sZTRzOUl5YTk3RDBrX3puUjRBVmNOejZ1aTN0elBrM0VRUlMtaVluQlNrSXhEYk4zRU5aUDNFNnF6cm1oWktjMkFzYmdGMnQ4clczd3B2UW12cFZMM2RLSG9oaWdGVWE2V3c?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-30T22:47:53+00:00",
       "summary": "Here’s the Email You Get When an OpenAI Model Hacks Your Organization  Futurism",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI delayed its IPO. That makes private investors happy - marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYV9UaHdwX0t0a3ZZODlXeTNDLW8zdkNWZGZwN005ZjJYTDc2cGY3Wnd2dVc0MXdEYlA2aTRqQV9QUDBfbzdMWU1odk40a25wU2pzVVIxODNvLTVFQk9qVDJxVFd4LXZaNno2aU1JUHdMZnZQUlVtdTF5d1Q1MjdOTzdyak1TYkx2VjJuYWRXSUxuVzRuTm84eWZNczA2VEMxNVpZVVdSbUdwZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T22:45:59+00:00",
-      "summary": "OpenAI delayed its IPO. That makes private investors happy  marketplace.org",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,56 +123,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "FTC launches broad investigation into Anthropic, OpenAI - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNERSOFU3M09XYWNrVTdSdHhkcVl4NkxXeUU2dHItLW41QnJ5TjhOX1VhaUh0Wmc1Y3ZFVm9qeXhfd0gxRVNNclo3UURDbGFrb19KS2RhSWlrbFl1RTZ5V2dlbEN4WXZ0SkwyTy1mRFc4M0lDYVRCZ0lBQnJzZ2xmenA1cDNaX294MzJYVmhydXlBQ1ZQbG40LW9lY1UtQ2MzRmZsdDJ2MWplNVAx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T21:59:21+00:00",
-      "summary": "FTC launches broad investigation into Anthropic, OpenAI  The Washington Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Says Moonshot AI-Linked Users Tried to Extract its Models’ Secret Reasoning - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb0lpd0doWFdJTzgxa1BYUFZHNzJ2RjlEcTRyODhyYUxUU0VyYXZGZ0VLYjRhNkJnOWxxc0FwcURKS0dQQjBYa05sSFVGa1FyMlAwVjNJS2JwbTRENGlIdm01REtEcTEtSEV2Ti14cFRMYnllTnpMVVFRblRjZkVzR1ZEcEhKamtCaFI3RDZ1ZXB0UEU0RVZ4VENRUmRWUTdyQkV3elA3Wm9ZakFLY3RFMkJkS2xzMmpuNVRqQTB4MXE5SHB0c0NkeWdHdmNMTlRNdWRWVENvSmZjdkwycEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T21:45:34+00:00",
-      "summary": "OpenAI Says Moonshot AI-Linked Users Tried to Extract its Models’ Secret Reasoning  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "FTC Investigation Signals a New Phase of AI Regulation for OpenAI and Anthropic - inc.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2ViVDBZQTdQS0FxbDBEc09JeTc5VXF2SjE2NmZ3d2RGX2c4MzFwSDFfMUU2bl9YbzdfN2xZQXlEMjdSbllDRDBETE1NRmE1azQ5Rm1qZ1N2dVJwOUNoTlpEb1dNR3AwWjlBbVRFTUxQSWE1bG1SNHpXMS1CTnowQ2ExcktBY25VZ1phZ3c0NUJ4RDhWZ0JtT2NyX2poTmhvWHBKZGJYUmZBSzVPMC1rWVdMLXdRbFJUUDZXSEdveWo?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-30T21:37:37+00:00",
+      "publishedAt": "2026-09-30T21:46:44+00:00",
       "summary": "FTC Investigation Signals a New Phase of AI Regulation for OpenAI and Anthropic  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else - theregister.com",
+      "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else - The Register",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVTZ6TjloTnRvUHZYd05KNUlVUjluYndkZDhrUnJUVmpJVUZxdy1meEZ2UHZQUFRqaVh4TlZDd1Ixd0E2TkF4X3JCOExtMlZNd2N2a1NNWndjQ2x0Yzl0WjhHcHpOMnpwMmNKWFRkM2ducGNfRWZHRUVyY3dFeFhJYTZCZ3A5T3ZsaDdqYmJpOHZzNjl1ekhJazQ2elNjV0ZrV28yejhMalFTVWVDdUhrZ083YndVMVozZi1CTzcwYzl2YUNULUpvY2FoaXVpTFdWUGg0TVh5T1RNS2RoTGxOd3dxUWNjZHFMVVE4?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-09-30T21:36:00+00:00",
-      "summary": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else  theregister.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXdjNDRYR3ZGUno3TThmc0xUa1F3SldTeU1BaGM1UVVOLTJvdUlMV0FFWUV3LWVnNndUZHFhSHM1bm5Yd3RYeUtmZ25WNEh3dFk0RE5id28yNlF2OVEzTVpBSkxHZXRCdHhqVXRwZ18wSG9MdW1OU20yNE1NX0xHdjhvS3g0QmRqY0RjSGtwMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T21:31:59+00:00",
-      "summary": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs - Axios",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelBuSjFMQ1lYdHRPejJFSEs1V19OWGlfOW1JVEdTd2UxdXV0alhkVnROak10bVhrX0w0Mm5MUXdjOXdnbEtLaWlxRDgzT05rQ2J1UnVpWFNTQVhDd19idDNjbVh1dzd3TERlYlR5MlBERXRkSWdmcEpIbUVQNkxYX0VMUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T21:31:34+00:00",
-      "summary": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs  Axios",
+      "summary": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else  The Register",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -132,11 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Synopsys And OpenAI Share Revenue From AI-designed Chips - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92ODZzRG5Ob1hScG1YZF9tenpLbzB5aUU0LWtldV9ocGlOUnQ1SlowbG95VHdZZkZDUW1sdExDRjhtb1NWWGZydzd6b3Y0ODRyeUhXNW90N0pJOFl0NDNDcVl5XzhQaVFyb3RHTkI3cDJuWlhHVzM0Uloxaw?oc=5",
+      "title": "OpenAI delayed its IPO. That makes private investors happy - marketplace.org",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYV9UaHdwX0t0a3ZZODlXeTNDLW8zdkNWZGZwN005ZjJYTDc2cGY3Wnd2dVc0MXdEYlA2aTRqQV9QUDBfbzdMWU1odk40a25wU2pzVVIxODNvLTVFQk9qVDJxVFd4LXZaNno2aU1JUHdMZnZQUlVtdTF5d1Q1MjdOTzdyak1TYkx2VjJuYWRXSUxuVzRuTm84eWZNczA2VEMxNVpZVVdSbUdwZw?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-30T20:33:22+00:00",
-      "summary": "Synopsys And OpenAI Share Revenue From AI-designed Chips  Quantum Zeitgeist",
+      "publishedAt": "2026-09-30T20:40:00+00:00",
+      "summary": "OpenAI delayed its IPO. That makes private investors happy  marketplace.org",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "FTC investigating OpenAI and Anthropic over possible risks to consumers - cbs19.tv",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZTByWmxZTzRiRzNqSldrNDVRTi1JdnBzeVVRbEgzUHRrNnFMMzlJYUN5dFg4WjJpSDBtTzFadzBQU3p0VDdSR2Uzd0t1Y19QRUcybnFwU3ZGczAzRzhCbnctR0NDeDc2TXJaVGRHUTdZY0VPV1FYM3dzMERva1hiS0daNXp4WnY4S0NzZWVLR0VJejFTRTlyaS10Z3BhT1ZReXI5dURCQVdERUZnaUV0elVkUTFpMDdMWGVvZUg1UENYUDc5bVpYT2x3WkFmSW5hTW1F?oc=5",
+      "title": "FTC Reportedly Probes OpenAI and Anthropic as Trump Backs AI Self-Regulation - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORFg5MlR3NnU2N3lOM2o3TVR2RC1RV3Fpa2FQRVVPbXpiTmhSMWRiQVFlNlUxM19aMVVVRW1iY0pzOHRHYnVlSjJFeUxLMlpvY3Fkajk5d05wTzBQbHYwZ2hieWxSSXQ2cEt0aG12MGZuOUh5ZGpHYWh6S25EWnN6U2hjTDdHODdlck5UR1hWTQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-09-30T19:50:00+00:00",
-      "summary": "FTC investigating OpenAI and Anthropic over possible risks to consumers  cbs19.tv",
+      "publishedAt": "2026-09-30T19:47:00+00:00",
+      "summary": "FTC Reportedly Probes OpenAI and Anthropic as Trump Backs AI Self-Regulation  Barron's",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -175,51 +220,6 @@
       "summary": "OpenClaw Enterprise: Free Agent Control Plane, Pre-1.0 Limits and Pilot Setup  Kingy AI",
       "topic": "openclaw",
       "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85VzNRN0U1ZXVjd2xsejNhQktkbFVpeUFMR1JnVG40aDY5TmNIWl9sQkN5MHF2M1planJYYlBYMThqbDZNaWVQVS12OUwtS18yZmlHWklSbEdVRk1PMXRScjdNNEFjRWE5MWZCZUN6U1VSSkRSSVI0clRR0gF_QVVfeXFMT2kyUl9HdDRsZmdEUll6TVhBRnk5Um1MTm42aXdyY2pCY1otQ3laOHI4OHVYd19wQ3RoRnRTckZlOVNUN2JjN2hpMkRBaUpmZjhseWFXTzdYeG9oUGZtQTlDNUlDX3FJTzFialBBMm84enFOc2NNSnJHS1J1YU9WRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T19:34:11+00:00",
-      "summary": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing  cnbc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic Face New FTC Probe Over AI Agent Risks - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMzZ3Ym5WcTdZQ0tGOHMyd2RFQ2tjbmRadkcxc1VvSktwS2I4RzVyOEhuMXZFS0FfNU1zeE9adGpENlMwWWRpbUs2UGE1cXY5REdXc1JidEJhVU8zdmk5blBSSEJxN1NJS3VyUUx5OUltT0hOV1g5eTN3T2ZaRV84cmZkRXgxQ1Mxc20ycDZtS3V2NndFdnBoQ2htTTZiYVYtaHU0MlN1ZWdONjh2UTdqMENSWXh5M0JmSElV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T19:32:29+00:00",
-      "summary": "OpenAI, Anthropic Face New FTC Probe Over AI Agent Risks  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers - Bozeman Daily Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNaUpOWGtoZDNNR01FYmI2bWVGMkFkZkpERTZtY09iU2tDSUhMSE5wSV9lNEw2Und2amhxdWVOQmhOd09jcTNMZDYyUUhrNmx5TlllRnVYTG1yMV83bkdfWjAyaTZCd2dDMEhxYnpxb2U1M3ZWSjZCc1ZNRkxLNjkzSVJ0WFkzc19DajZ3UkZPTm5VV2lEQ3hJMGJUUG1DLUtkN2tJNDlxVDhPVXVNUFlmWmNQRXd3aXpfQnZTdHZIVXpIZzYxRXBTV25qbHVRNzQwU3lybnktWmtXeV9aSXZXTENvamdzaktIS2lZeE9DNTNYa0NMRXlKYjh1UEsyTDl0b0dXYXhuYw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T19:27:51+00:00",
-      "summary": "FTC is investigating OpenAI and Anthropic over possible risks to consumers  Bozeman Daily Chronicle",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUhCdEZlM2xkNVpqTkRoNk1UbHdrQ1lkUWlwdzltbDhMWS1RemN3WEFkTmJYdl9DYXBJQU14VGMtcXQ3OGhRM01pcjBOaDVtLS00THJUeHMwdlcxQ2ZXWWlvUk90azgtQVBLNGV1eGlZN0t6RG1oQkdjRS1nZEZPNnd1dmwyaXp4eWhDdFoybWdXSEI2Uk1YRklFUTBjZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T19:27:00+00:00",
-      "summary": "FTC is investigating OpenAI and Anthropic over possible risks to consumers  AP News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXRlYTZFSW1aWEJENkZxOXVwNTY5RDJ0M0JhUURZY1R0VzcycXZaTG9JTTU4UHdINEk1M0NTMC1tX0FIdUI2WWJBSnBlVHA0RnAzdkJQS1lramV3SE1GSC1VN2x4eDE1LWpsVVlDaVNGdDBhZ3NWZWpFeVMzYlAxOEF1cVlGUWxEc3JaMUhR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T19:26:02+00:00",
-      "summary": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
     }
   ]
 }
