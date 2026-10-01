@@ -1,34 +1,187 @@
 {
-  "generatedAt": "2026-10-01T08:47:51.551544+00:00",
+  "generatedAt": "2026-10-01T15:43:14.323631+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI pauses new AI model over safety concerns, executive says - foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96bUJmbGxZXzAxMFR0SGN2UW5fWkJBYll0UzU3TThOMHBIenJvQlBkLUEzOE1ocS1ZVHh5ZDV0S1pmXzZZMXNtS2ZFbENOelVMS2RzRFBn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T15:25:49+00:00",
+      "summary": "OpenAI pauses new AI model over safety concerns, executive says  foxnews.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free? - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1BjdFFSRzZXRlZkWDgxaklFbURkeklNbEE1VUZWTkppWUVWcWw0UkVjZ1dKaHVhUC1GM3RJOUdjMUNYN1g1cHc2Rm1IbXR3TzNjRnhuWWs1VEw1QVE0S0dZbUp4RWx5MDJ4MklFV1I5Y3lsQ3plTjY3N2s3dDBSWnEzXzYwTnMwb3N2MjdQQWFOSjNaejc2cFdIYXhqWDQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T14:36:50+00:00",
+      "summary": "OpenAI’s new agent is a shot at Meta — but can it compete with free?  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI DevDay 2026: The biggest news and announcements - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1BJbnR3VkUzc3lyalhhcWJKTXlHWGhPem5DT1psM2pqQ3ZTcE9zdlk0S1NlUU1aNWNFRnlYakxyZlpGVmh3RUpRNVpsM2RxN0ViWFRCYVh5ZEk5RFYwNGRZZ0p0M0pzWFJUeUpiUFdCOUZwRFBmbWkzN24tblVtX2pvVFh3QVdiclVPOHBqV0pXd252TTRhRkl1MDhubktLcHZkM3piU3I?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T14:31:39+00:00",
+      "summary": "OpenAI DevDay 2026: The biggest news and announcements  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CFO Accidentally Calls Dots as Muse Giving Meta's AI Agent an Unexpected Shoutout in Faux Pas Moment — Shay Boloor Takes a Dig at 'Brand Differentiation' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFRZUzFQRjVBNHRyR0pUZ21YTDdsZUdoeUFUc3pyc05SYlNDSnJ3Q2FfMWpTQW1CRHR0NFNma0hpTGRYeFlYOVJ0Tmo2bDBVTURFNS1lN3RCZzFOWlJ0RFhGTlZ3Z0ZNRnJFbW5ZN09LR1RYanpLOG1YTEx4QlRSV2lhM0FoWmZUYXItVlkwb1pDOGx3RDRXWUJ0QzFxN0k?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T14:30:22+00:00",
+      "summary": "OpenAI CFO Accidentally Calls Dots as Muse Giving Meta's AI Agent an Unexpected Shoutout in Faux Pas Moment — Shay Boloor Takes a Dig at 'Brand Differentiation'  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Senate Hearing Weighs Threats From Unrestrained AI Agents After OpenAI Hack - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcERzNmw2bGl6ZjVYQXRkOGtsdVZKTHd6a2ZNeHEyZ0ZjeHg0ejZlVk44OVdpQzF2Mm8zSG1KN0hjNEJSZy14UWVQaEFOVGxTYVRkb2VndGlJNnY1N05ZR0tWWFhDVnVuQUpwTGpCRExvU2EwbDhpbklqOUlkb0I0UnotQjJUall3VmxEUUFBQ1NVMnYtakZmeEpMZWlQcnZqU2RXeG5rOFk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T13:17:33+00:00",
+      "summary": "Senate Hearing Weighs Threats From Unrestrained AI Agents After OpenAI Hack  Tech Policy Press",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FTC Opens Probe Into Anthropic, OpenAI and Other AI Labs Over Rogue Agents - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRVNxMGVHN09wWThzWmxlUTdwUmFyWVR2NGVMQTJ0WWw0YjZEQ1Vfc2lobzBzUnFZWFo3a0Raa0tTLWxpTVZKbnFPTUxlN2dHLVpiZG43NzRGRTQwQkRPVE85UVlkS0h2bi01V0NNMzZBSm5Ed0dYZWpnMm5YdWpPVTBadURDVXl5dEFJb3FiVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T12:53:00+00:00",
+      "summary": "FTC Opens Probe Into Anthropic, OpenAI and Other AI Labs Over Rogue Agents  Technology Org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI-Hugging Face incident became a 'turning point' in AI safety discussion, says Walter Isaacson - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUzJKMHNHMDhURlBxTmtTc2ctWThXY0ZLR0E4UUk1LXhCbV91bGVWaWtnMjdGcWs5TUtYU3JGS2FpRzlPR1B1UXR1c0VNMU95RWhnQ09NNS14MUpOS0cyTmxHVHhTRTM3emVVSWs1MUdxTENCV1Z2Yy1QbHpYZm1kYVZUMkZ5WGxXY3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T12:30:27+00:00",
+      "summary": "OpenAI-Hugging Face incident became a 'turning point' in AI safety discussion, says Walter Isaacson  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "New Mexico AG takes on OpenAI - KOB 4",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jQXc4amVaNC13TzNyZUpYaE5EWld4TTJmWkg5MDk5Mm9IME5KQldXUU5mREtkaFJ6MEpUTjBMMXNkVFU5RWNYSHVOS1U0dlc3cGdlM3VzbmpPS2hTWHFFQ1VmSXg4ZllDTFo5bFNn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-01T05:55:20+00:00",
+      "publishedAt": "2026-10-01T11:55:20+00:00",
       "summary": "New Mexico AG takes on OpenAI  KOB 4",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI agents tried to hack a Canadian government website, researchers say - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEVjbGN0N2NJSC1vQ3FPTUNmZFdLSWhlVmhiZVJ4TnhISFh2VjJZZzJrdEFka2IwUTdGaW5aY3FzZ3dQRk9UQnF3dHhhbXA3a0NlVW82Q0JXSFA1ak9keHdydVBXdnZURXlVWmx6MDdHbzFxOGo3V3hOazEtb2F0Vko3VHhoUVZmM1M3b2J3b0RoZUp4c3FqZHRNN1phaGdXLVlzdFlLTnJGNXpOeUl4dTBCU3A?oc=5",
+      "title": "Michael Burry is rooting for a market crash to stop the OpenAI and Anthropic IPOs - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52czdLUE51R2xKU0lac1JvY2NsZ0Q1ZHp1cWlnVC1Xd0k2ZUJtb2dELUJfWEY1Z3R5OTBQbnVSWE91dmF5a2JRTENfYUxhdndoMng0OTdXak9la204QVlXa2tDNXFEVGs1Q1ZYeVRBcmdubVVTNXUwcg?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-01T04:31:00+00:00",
-      "summary": "AI agents tried to hack a Canadian government website, researchers say  The Washington Post",
+      "publishedAt": "2026-10-01T11:33:50+00:00",
+      "summary": "Michael Burry is rooting for a market crash to stop the OpenAI and Anthropic IPOs  qz.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s measurement gaps are keeping ChatGPT ads budgets at test level - Digiday",
+      "title": "OpenAI president Greg Brockman drops $25M super PAC pledge - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVThLWHZyZFY0SzY3ckJNbWRxTjNEMGVYUTZWZnYyYjR5VEg1QVJQa29vdk90Y09XVjExRmZjazBReS1FTnAtU0VUaGdaVWkzai12MktWS0RaN3ljNWF2MUZJRU5iYkRQZmpsb0lhLVdyREVJQUNLYXpkN0tPYnJMcFZ4V0JMbWs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T11:27:56+00:00",
+      "summary": "OpenAI president Greg Brockman drops $25M super PAC pledge  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI disrupted a campaign to extract hidden model reasoning linked to Moonshot AI - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50SkhDd0k5amg0Z0VpUE9mUGM4ZzRkTlJqUlNwemlVSkJzREdnVzRvMkFhamJPLW9aN0lGck1UZ0RndEhPbFJReHhrUDd6bjhtMzBmWU1HWmtvZmJHMlgyMlE4TjF1VEp2S1oyYzN2ZDFNSXR6MDhXcg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T11:11:27+00:00",
+      "summary": "OpenAI disrupted a campaign to extract hidden model reasoning linked to Moonshot AI  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The Cute Agentic AI Saga Continues With OpenAI's New Dots - extremetech.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDJYV2MxN1kyNmVlek1Vc0ZPVnZLRFB5blVNbWd1M083Zk9iZnQ4d3hRNklQMFk3Y2kwSkZ5Mm5aN0tOTUk2THpYaW9pS2p1QUxUMWlpaEVVb0t3ZXRvV3dUVzhPZHA3clRiaENMM1NESWNaN0xLY2pLcjVJS21NU25zMXZ1Ynl0QjNlb3l6YWx0eEpXbVRsZQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T11:00:00+00:00",
+      "summary": "The Cute Agentic AI Saga Continues With OpenAI's New Dots  extremetech.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEFkWkI1SGgyZWZGMGlJOGlzNlZKdWhaeGkzQTZxNWFiX1daZm5VeDlIeWMta2NEUFhpcDFJeHU4WVNIdVZWTnp6WndueDVrOW8ydEdPcU95LUJNUHhCWFB1dkx3bWloc0dfZDN4MWY2WnZxNmczTjhONXVmcDZKMg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T10:42:00+00:00",
+      "summary": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates  The Hacker News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "A timeline of developments in AI safety since the attack on Hugging Face - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMURacHFuLUJOMWczTk5zVE1wUXN1TVJaNVFUTGtxU2c5dlRpSVVFT01KX2p4UTd2eUxjNllmSjBoRGFqWkFhT29kUS05SndmVjBlVThoblpjX2VYOXZpWnJ0UmdFUExNdmlwUXlUOVpPWDB4QzZDTmlBVUw5anoxWFlqbzZhNzBqZlhmQ01HQTNLeHMzU05WRGd4dk1vRUZGWmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T10:34:00+00:00",
+      "summary": "A timeline of developments in AI safety since the attack on Hugging Face  AP News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Leading Democrat asks AI firms for data on any Chinese access to sensitive code - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2pFcl9NUGRVZkRQVkdTVGt2cmVrTTZPVHRsS0NhcExCN0J5ZnJTZFJqQ2NlQXJrc1ZVRVo0M1BHVmwtWTNPNXdaNjJqajlOWlFkMmQ2aVprdFFUbkFZVjVsM2Rva0cyUkh4X200emFkT2VJQXlZcWVMdFlUdk5QcXZUa3hrSE9qR3VjT0t0LXBkdjRETGliUnZwcllUUERGdXUtNy15ZVUxeko2Tm5ZUEFPZmd4TlV5YS1YRWhLaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T10:32:09+00:00",
+      "summary": "Leading Democrat asks AI firms for data on any Chinese access to sensitive code  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Former OpenAI Exec Fidji Simo’s $20 Million Plan To Solve Her Chronic Disease And Others - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnU1cjl4VTEwLWhXM2x5Y0J3OWFoYnFDWk44WDN4TERoaXZyQ2FTYzI5T1QxUW1SallXUWpPSFl5dUs2TjlRNmJaZnB5b3VsZ0tOQmplRmZRWGJnUjBIY3lCLW50aWdnRGJYVGdEendUcjFfMVplc1V5OXVGbUo3SFo5ci1vaklKbG5HYWZPM1c4eG9KXzlJUTZIdXJaT1lTWVE2ZG42X3V6TFFLWVhaRWRTU2NDQ3ROTEpRTEdqRjByQ1FMa1V3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T10:30:00+00:00",
+      "summary": "Former OpenAI Exec Fidji Simo’s $20 Million Plan To Solve Her Chronic Disease And Others  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Update: Market Chatter: Rogue AI Agents Possibly Linked to OpenAI Targeted US and Canadian Government Websites - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWUdpN2h0SjJheU01ajk2U05wY1RlZ1pGMExGRjlXQ2RHOW5wM0l2QktxUWFNVjltdHFwV05oNnh0X2FNWUNaVXpxYjNfc2N3Um1FTmdlWjRwd1BvX0YzSjZMQ1BKczdmeEE0bHZxOVdmMGZNNlFHb19GRTkzNEJneVo0ZHM1aGt3R3hfSnhwUmZRNkkxZGlENGNB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T09:58:07+00:00",
+      "summary": "Update: Market Chatter: Rogue AI Agents Possibly Linked to OpenAI Targeted US and Canadian Government Websites  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI ‘reviewing’ report of failed hacking attempt against Canada’s gov’t - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3dOX0F5XzhpTXRqN0xRMi03MkVRTFJWVzBhaldlamJFWDBuM21WbktSbHZteHpyTVNQRTloUXlIX0JpOWRWc1pnUTdZSVVudU9ZaUM5WWktWHZxaDB1eTI1eDdqdkF1eFp4bGpHbjVjdDFja1RTUm52bTJJTlNoZW1nWWxyUHBKbWFaZHJDZksycFpYZVFxcjY2UUhndEhfUkJzTDBLbFE3ay1RZGhsWF83XzfSAboBQVVfeXFMTzVEcHlXRExtZmdXQU5EdVhHd01VblM0Qmh3Vkt3YlJROWlPeWVvYWxYN053NDNJcjhBWTNyVHBfQjBVZ0h1OGZkT0h4SHo4a1FhcFpuRVhGZWJrS0Uxb050STdrRC16dmFJMHVUVjRQQ25EdHNQTUhQR0RfVEZFb2NKNlU1TjF1aUtCQUxEMXFMUWoxSjJ6VlExMkJZNndib3NXZENBVl9hWXlCR21PQ0RzZWVNUzBfN1FR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T08:16:57+00:00",
+      "summary": "OpenAI ‘reviewing’ report of failed hacking attempt against Canada’s gov’t  Al Jazeera",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI agents tried to hack a Canadian government website, researchers say - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEVjbGN0N2NJSC1vQ3FPTUNmZFdLSWhlVmhiZVJ4TnhISFh2VjJZZzJrdEFka2IwUTdGaW5aY3FzZ3dQRk9UQnF3dHhhbXA3a0NlVW82Q0JXSFA1ak9keHdydVBXdnZURXlVWmx6MDdHbzFxOGo3V3hOazEtb2F0Vko3VHhoUVZmM1M3b2J3b0RoZUp4c3FqZHRNN1phaGdXLVlzdFlLTnJGNXpOeUl4dTBCU3A?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T04:31:00+00:00",
+      "summary": "AI agents tried to hack a Canadian government website, researchers say  washingtonpost.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s measurement gaps are keeping ChatGPT ads budgets at test level - digiday.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd09DcnA2dk9aV05tZ2lHNk5vejAxQ1lGS2dhZjhhQU1SWFVteEhldXJfNDV5WVZabzVWbFZHVzJmUDZuYWdJRlVsT3dOd2NmcTdjdWxNTm5nVFRqUjFkZjdaWVRjc0dRTG41ZG93aEprYVNuZWJxWUl3T0RFMzhRVjlRaXhudlp3cGozZHRFYVlIaDBkbUJqTlBvb0RoUE9BQlpn?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-01T04:03:36+00:00",
-      "summary": "OpenAI’s measurement gaps are keeping ChatGPT ads budgets at test level  Digiday",
+      "summary": "OpenAI’s measurement gaps are keeping ChatGPT ads budgets at test level  digiday.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -42,38 +195,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "LiveRamp Expands OpenAI Deal With First-Party Data Targeting - searchenginejournal.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHRqeWEwNF9IaUt5NFpLa0JlX1hVT3UzNWh2SDV1bmZoNWR1NWloNm96TWhZQUJhWEFwZWM2dTFDb0Y2Q09PVlZNckpzMUgxSDI5ajN2N2JuOU9vc3RzS1ptS19OTzMxNk9xZV85Z3BFUUNYZjdyYWRIdGxCV3hmeHVxLVRNQlU3c3BTekRoRVhmcW5aTnc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T03:05:53+00:00",
-      "summary": "LiveRamp Expands OpenAI Deal With First-Party Data Targeting  searchenginejournal.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Greg Brockman Backs Down On $25 Million Donation Pledge To Pro-AI Super PAC After Backlash - Forbes",
+      "title": "OpenAI President Greg Brockman Drops Plan To Give $25 Million To Pro-AI Super PAC After Backlash - Forbes",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYkhqT0Q1ZmRFTlR0U0U4ZEJ2UnBZeVJhXzJVRmNSWHJwSU9Mb2JGMUlERGMwVFc0RjRVd3gxQ1ZJSmdCYVRPZmRyRzlyOUo5dzlvdThzcXFJalNtT0xtMk9QMkZXaW9nOG5pNXplSnVJOUstZmlXamVraXJ2anBBSWZXN1hrS3NWcFBER1VMamI4cVE3QXVpVlpZU3JzU1lNWmhLTHAzRFIydnZUSzhRRWo2R01Dd2xuTU1WTzI4d01wSWlSb01OUEZydDNTQndYVUNvZEJSSmlGU3Zqb3c?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-01T02:53:10+00:00",
-      "summary": "OpenAI’s Greg Brockman Backs Down On $25 Million Donation Pledge To Pro-AI Super PAC After Backlash  Forbes",
+      "summary": "OpenAI President Greg Brockman Drops Plan To Give $25 Million To Pro-AI Super PAC After Backlash  Forbes",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "FTC launches broad investigation into Anthropic, OpenAI - The Washington Post",
+      "title": "FTC launches broad investigation into Anthropic, OpenAI - washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNERSOFU3M09XYWNrVTdSdHhkcVl4NkxXeUU2dHItLW41QnJ5TjhOX1VhaUh0Wmc1Y3ZFVm9qeXhfd0gxRVNNclo3UURDbGFrb19KS2RhSWlrbFl1RTZ5V2dlbEN4WXZ0SkwyTy1mRFc4M0lDYVRCZ0lBQnJzZ2xmenA1cDNaX294MzJYVmhydXlBQ1ZQbG40LW9lY1UtQ2MzRmZsdDJ2MWplNVAx?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-01T00:26:52+00:00",
-      "summary": "FTC launches broad investigation into Anthropic, OpenAI  The Washington Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale’s, and shopping on Amazon, SEC alleges - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWpqZTUwWE1KZGZPNUYxX0xTX19qeTk2QXVOR2JTa2VIUWY2RHdtT09aWjI4Nmxra2hhZzNJcVFHb2R2eUo5MGtpdG50V3A2emFTWml4T1ZxSnVobEQzVGJTcnd6TG8zMHFmWkFGZ29lYXhNMFE1TUdqdXZMZUNGWA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T00:12:00+00:00",
-      "summary": "Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale’s, and shopping on Amazon, SEC alleges  Fortune",
+      "summary": "FTC launches broad investigation into Anthropic, OpenAI  washingtonpost.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -85,141 +220,6 @@
       "summary": "OpenAI President Backs Out of Pledged $25-Million Donation to AI Super PAC  WSJ",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI race heats up as OpenAI flags alleged model-copying campaign - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kSmhrQ0lQOWwyV3JGWWpoclhLX1ZHYm9qX2tOTVRvcms5eUpOUjlrQ2RYdnhlVlJYTUNFelFRWjVkYXpJbVBPTU42amJ3QW5IMDdqYTZzcjVULWxuSjh0OUYyRTV6RG84ZlpLM2NlblNoWHJDdXfSAXtBVV95cUxQSTFoTHRwbXlLVFQtRXNCVlpLblVkRGNiMnN3RjgwVHE5anZvUW1aQlNzTGVGRXJISm9JUGdka1dWUnFEd0Nqc2s1N1d4UldwLUlTNWdCOWxJUFluSVZSTUJzZFhkM3VKNUNLd3cwNjJRa29QbWQ3d0hDN28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T00:04:00+00:00",
-      "summary": "AI race heats up as OpenAI flags alleged model-copying campaign  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FTC reportedly investigating OpenAI, Anthropic over potential consumer risks - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkZ2TkZ0YWNpUDc0YVNENWJMRUdmWE15dGdBTTljYkkwaTFiOElHVjhvQjJNd3lVUkgyam40TXN2SktNdV9ablBtdkpLN1ZPSXkyUjhvSUJ1OFZqQXZ6SjA1THY2MDBCbTBacU1QWmlUcHRWSHBIN1RKeXZwZXhMdTBJeEdydkhrUy1OY1Zsa1gybUNxUEpES3lFMUV5cm9pZ3lKc3dXOU9ZM2E3ZUFfYTFn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T23:12:00+00:00",
-      "summary": "FTC reportedly investigating OpenAI, Anthropic over potential consumer risks  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Here’s the Email You Get When an OpenAI Model Hacks Your Organization - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObVY3QkUxdGplbU5lRllzUnpDR1N6a3FXZTU1aGdoUndUZXRHQ19sZTRzOUl5YTk3RDBrX3puUjRBVmNOejZ1aTN0elBrM0VRUlMtaVluQlNrSXhEYk4zRU5aUDNFNnF6cm1oWktjMkFzYmdGMnQ4clczd3B2UW12cFZMM2RLSG9oaWdGVWE2V3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T22:47:53+00:00",
-      "summary": "Here’s the Email You Get When an OpenAI Model Hacks Your Organization  Futurism",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI reveals ‘novel’ encryption bypass used in distillation attack - cyberscoop.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yX0R5NzFlam5Xam5ZTHpJMXV4cGxCMGRNZnhpRURKQVhCSks5c2dHYUVFSEFJb3V2NXdZZHk5OXJQalhQMTUyd3NKZUczcHNTVjJNSTNpYlNKT0xxSWFKbXpXYnZZblpvOTdPWEtTcGd4cFo2QTZr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T22:17:52+00:00",
-      "summary": "OpenAI reveals ‘novel’ encryption bypass used in distillation attack  cyberscoop.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else - The Register",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVTZ6TjloTnRvUHZYd05KNUlVUjluYndkZDhrUnJUVmpJVUZxdy1meEZ2UHZQUFRqaVh4TlZDd1Ixd0E2TkF4X3JCOExtMlZNd2N2a1NNWndjQ2x0Yzl0WjhHcHpOMnpwMmNKWFRkM2ducGNfRWZHRUVyY3dFeFhJYTZCZ3A5T3ZsaDdqYmJpOHZzNjl1ekhJazQ2elNjV0ZrV28yejhMalFTVWVDdUhrZ083YndVMVozZi1CTzcwYzl2YUNULUpvY2FoaXVpTFdWUGg0TVh5T1RNS2RoTGxOd3dxUWNjZHFMVVE4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T21:36:00+00:00",
-      "summary": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs - Axios",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelBuSjFMQ1lYdHRPejJFSEs1V19OWGlfOW1JVEdTd2UxdXV0alhkVnROak10bVhrX0w0Mm5MUXdjOXdnbEtLaWlxRDgzT05rQ2J1UnVpWFNTQVhDd19idDNjbVh1dzd3TERlYlR5MlBERXRkSWdmcEpIbUVQNkxYX0VMUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T21:26:56+00:00",
-      "summary": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs  Axios",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmJUbnB4Vk9OR0haX19tV3YzMUVncUVPaGt2amxiUkhGWm5CTVo1dVBfaVdBV1pSTWpLNXRRcm51d2N3TE5tWXRxQlFESnNYb2JxZmhUekZUZm9mMUl2YmtORkljaWhfVXYwWS1GbmhidmF3cDZZd202VmRDc1FwY05Ea09EdnE0RDNRTDZQNnBiay1HejVYNl80SQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T21:11:06+00:00",
-      "summary": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Muse Rival Arrives Half-Baked - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNankzQXY3MzFVU1VQUzNsckVaNXlDU25BcU1Fd3FEcmliZGdNc2tsMk5BZjZKcnZwemtVazB6c29WS0NEMHlzZDlDTWc2TWdCN1NkQkdWUkpmMFJtNUxMNEptN0c0em5mX3JEcmoyWndWYUxxTHlSenVEZ1g5X0p1MEo2NnFRZmdoZHFxSUxyZVAzNVlEa2JtbjNlSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T20:58:49+00:00",
-      "summary": "OpenAI’s Muse Rival Arrives Half-Baked  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FTC opens probe into safety of AI, including Anthropic and OpenAI - abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekhUaUxwdkZqR01YY01YYkpuMUVfckMyc1RKT2ZKVkVIR21CaGpTOHIyT2pYb3BlZzBVWFh0UGxGbEtDZlg1SVBOY3NjOGF1bVB5UF8wY2NiU0RSRFlNblVlSldNZjNiN3lHdHJ6X09aTm1qLTlkbWQtTjJmbFJmRkNNS2lGTkhYTHpIbm9peFlwLWJuMjlPQVZVTld3Z0nSAaQBQVVfeXFMTzR3RUtELUM4bGpzZ3RGaUJUQ0VFbHpsR0hwQnAzSFVaYlRndXdwanFxdWFCNUxpQTg1OFFmOFBJd05QUC02V1hGYUxpWlFmcUhGeUFPSHFKNXk2UVV4cTBCb01IQmRlN003bVlwaTZuTVJxNEhKZi1WczVhQWE0MWRaRnBFbXNTSHppUzNCbm51M20wVEU0SFdnZUFvamVkYUhlYXY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T20:41:49+00:00",
-      "summary": "FTC opens probe into safety of AI, including Anthropic and OpenAI  abcnews.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI delayed its IPO. That makes private investors happy - marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYV9UaHdwX0t0a3ZZODlXeTNDLW8zdkNWZGZwN005ZjJYTDc2cGY3Wnd2dVc0MXdEYlA2aTRqQV9QUDBfbzdMWU1odk40a25wU2pzVVIxODNvLTVFQk9qVDJxVFd4LXZaNno2aU1JUHdMZnZQUlVtdTF5d1Q1MjdOTzdyak1TYkx2VjJuYWRXSUxuVzRuTm84eWZNczA2VEMxNVpZVVdSbUdwZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T20:40:00+00:00",
-      "summary": "OpenAI delayed its IPO. That makes private investors happy  marketplace.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T20:24:05+00:00",
-      "summary": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents  NBC News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers - NBC Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdlVlc2xNYVB0QUdZcW1IUlF0ZkF3REFfZXhBelpib3RZbjhfRm5uamR3bmJPSG1ld0I1VERMRnFQMDdGX0xVMHFScWVBY2tiZ205d2cwaWRyZWFncnp3VXk0UXJxQnZRdmh2d01mREtqaTRsYTJzM0pxYTgyUmNpTElqN014ZWFl0gGQAUFVX3lxTE54OEl0LTdkNGwtZ1NxYVBHay10b2VwUnlEQWFvUXlJeDNtWmE5REhBX255OFlmMXoxTEk0bVBtUkhlSHFSLV9ITEZvTlJ2WnZYVXl5OTBGSVJmc1JIa0I3S0dNWGV4NUh2Q2o2bXkzUmRLU1lfWW5mSC05TzYyZWsyeHZBZFRJci0wTVBCcW16dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T19:51:10+00:00",
-      "summary": "FTC is investigating OpenAI and Anthropic over possible risks to consumers  NBC Bay Area",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FTC Reportedly Probes OpenAI and Anthropic as Trump Backs AI Self-Regulation - barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORFg5MlR3NnU2N3lOM2o3TVR2RC1RV3Fpa2FQRVVPbXpiTmhSMWRiQVFlNlUxM19aMVVVRW1iY0pzOHRHYnVlSjJFeUxLMlpvY3Fkajk5d05wTzBQbHYwZ2hieWxSSXQ2cEt0aG12MGZuOUh5ZGpHYWh6S25EWnN6U2hjTDdHODdlck5UR1hWTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T19:47:00+00:00",
-      "summary": "FTC Reportedly Probes OpenAI and Anthropic as Trump Backs AI Self-Regulation  barrons.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FTC intensifies OpenAI, Anthropic probe following 'rogue AI' attacks - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVjd4WjhCVDVaLVkxYk5jcTc4V0hLZzRYY3gteHpGUDZUU2Z5SzhfVzZmU1d3eXUxSkFWWlRDRDBrOGgwSkhkWXVBS29ERlFadS01R0VjYnJodzQwS29ud3prNk1hUHFHdU5wbk9VQXNEbVI1bTBIOGgyVUN6bFd3dDNmblJPY2txeFVGX1pESmZKTDF1MjkwelEwRVlsSENL?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T19:43:00+00:00",
-      "summary": "FTC intensifies OpenAI, Anthropic probe following 'rogue AI' attacks  USA Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw Enterprise: Free Agent Control Plane, Pre-1.0 Limits and Pilot Setup - Kingy AI",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhd1dQQkg1WFluZDlfTVYyXzlxN0xHMGJXaFcxS2R6NE93djRRY3RGdFFwSXo0TUs0c3luMUswUVBkTGJoQ05VTTlmNWpqWWpqaGkzMkd1LUVoc05KMFpIZXd3V0hYNTRoVmNhS2p1cjZ0WV82NVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-09-30T19:36:31+00:00",
-      "summary": "OpenClaw Enterprise: Free Agent Control Plane, Pre-1.0 Limits and Pilot Setup  Kingy AI",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     }
   ]
 }
