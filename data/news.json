@@ -1,16 +1,133 @@
 {
-  "generatedAt": "2026-10-02T00:09:36.480628+00:00",
+  "generatedAt": "2026-10-02T05:32:45.278662+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI fires 3 safety researchers accused of sharing confidential company information: report - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlp0ODJOMFozQWZzalJZeHo0S1l2X0o3XzhuUERIazBoaEFDaFhDcy1ERVRNYkNuS002NHNjU2dPTE5hWkxNTXFualhyRzFqYzlTVlpwNWxMU0QzQTRWUWJDenp4eHRkb0ItU29lQ29CamRoWXU4ZUE4V1ZyakQxbjRHQUN3SUQ3V1JtcWF4bDN2aVZJaFEwMDRtTUp1ZDhvNFhlR01telJLRUVNWk9taUdYTVdfQTRERjRtRzlVa281U0ZiRm5Z0gHMAUFVX3lxTE00ZUFtTThNV1NKTU1ZWUwxYTdETFpkdEQtbS1GRGJBM044ZU5SemNuZ3V4amxWZmdKTUhMVXNCVnJvNGIxb3dfQzdvZC12dlk2d3pZZVNrYW5xVEJFRURTNjdmaTg2a195MkQ4dmQ2bEV2ekRMNXBvY0FMTUo5Zk1VN2cxcG5jcThtc0RBME9pM2pRRlNxcDhUT0I1TFp5WlV0RWNiUk1ITjItQTJFTk1rNlZGSUtIUEw4enlxNTFESGYtaUVUdktfWHgwWA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T04:51:00+00:00",
+      "summary": "OpenAI fires 3 safety researchers accused of sharing confidential company information: report  Fox Business",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Has Sent Notices of Sketchy AI Behavior to Over 100 Organizations So Far - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWZyOE1WT1gxZW02aHdUdjg0UWN0REpmcnFZQjJLLU5BMVkyRU9Kci1USGVWQWg5dFJJMDhKZ2hqSFJ2ZWFwRkIwWDEzWXI4WnlOTVRnQmh4Mi10MEVxdGZSWDh2LWQ0U2YwSlZmMFNNN1RheWwtejV2R0NKNmxxWl9IQ3RGUnc2dlY5c3h4am50ZVBIRVNvN1Z4WFFnQlIybktMVlcxVXFJaGY2SXdN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T04:17:11+00:00",
+      "summary": "OpenAI Has Sent Notices of Sketchy AI Behavior to Over 100 Organizations So Far  Gizmodo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SPUR publishes AI content tracking standard, pitches OpenAI and Google to join - Digiday",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2txQi1RMmJBV2dSV2VKcDFieVhxQ0R2MFhIVFMzbG4xc3NEX3RRVVZDVGpheld2RURqTkl3aWJiNXZKYm8wNVpjMXdMNmR6Ym5FWXEwd3A4bGRlczQwZ29pMjZ4ZzZCQ3ZiNjR1aGdJalMydzdLMjNxMXNsdFR0bXlQdGhaXzc4VWVOU0FCRl9OZ1dGMi1CdEVheXVBTjVfbFpYbTNtVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T04:03:15+00:00",
+      "summary": "SPUR publishes AI content tracking standard, pitches OpenAI and Google to join  Digiday",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says rogue agents may have affected more than 100 organizations - washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWR3QVJLeUtCbFN2LXkwdkFyYTI2S2dsUUlnOUp4bkhITlpacWZNM2FnQUxOUlZ6Z0l0ek5lc0xqQzNjanNCQ1dOUDViYXZnMDA2dk5hV3FlaUV4RkhudG9NXzY5Q1J0US02LTJFTWV0cXVWX0NyQ2R3SGw4MW5VSVRKLTJPVTB4TVdxc2lCeDJpV1dFd1h1dXAxYk9SdWRoNnpzSy1KLWZZUlJXeFpxRGoxd0ZWdXh0SldlNmVhXzlWdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T03:57:43+00:00",
+      "summary": "OpenAI says rogue agents may have affected more than 100 organizations  washingtonpost.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI agents obscured hacking activity targeting government websites: Security firm - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1FyUjJDOGVMYWVGMW0xTWZDVWZIZmxESmhXMDBwdGVneGFtVHEtcERDSEJXcFRBNTZWNkFmLUF6dDh0bXdoZzQ0aUVHQWhGcXpPcnlUVWZUaFFKLW10cEtvWU0yendwM1pibFhGWW4tR2ZkM25BbVZRbm5WNm1nV0xtLXFaek5SYVZjVDVKSnZXYmxWdlNDNVVBdE9nNXV5ZkF5dl95N3VlUG9zMzJBQUZwYTFxSG9OWlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T03:14:05+00:00",
+      "summary": "OpenAI agents obscured hacking activity targeting government websites: Security firm  Anadolu Ajansı",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI fires 3 researchers as AI safety concerns intensify across the tech industry - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR1g5SVFTNGhJZDRGRkE5Qk5UTzZXSWdPYmJSMjk0NHFTOER4Z085Rmx2XzhUWF9HQnlLb0QzaGlkYVhrT1UxMnhSTEdVZ3lQMloyUVN4bUdJMEFFZGktbElUaDBlUHZEMnRSSGN0ZE1oVjlTTWRRVVctcEo1TElOWndNXy1BdXI5ejRhbHJEY3VpRzh0MnRaQ2pBR3BtSVNJclJjTEdvbWxKay1ZSkdSX3FkUEpiV2gwTnZ3dUtMZzBWeFliSW9QSERGMU5qNkVwZXpTVDQ5RGM2Mkx2cDFINXIzV24tVDF0TFHSAe8BQVVfeXFMTlA5S2VPR2duWDVrV0R0YVVfbE15Z00xNHJmRVJpRjlaOUlRZ0NsSHRmeUpiTnZkekc5NHgtN0ZGRkgxV3JJa1F1czJQeUdiU00xWXZ2UllRNU9oVHNGVEdCd2FtYV9pdGRFdXJhNHlkNUI0cEtTYTZMSzZkZkN1aXFjOThHZ19RalltNWVDY1VaOTNfekNSVmlTbkNIT0daLVhiaVM5TmcySW5Xcnhmc0Z6VmJUWUZQWUFMUEU0dkFRZndjQVpyV2NIVTR6aUhJTjZQeURNVDhkcVVueDdBS1Y0TlNNMWpoUkFieU9kLW8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T03:00:00+00:00",
+      "summary": "OpenAI fires 3 researchers as AI safety concerns intensify across the tech industry  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI fires workers for mishandling 'sensitive information' - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T01:34:56+00:00",
+      "summary": "OpenAI fires workers for mishandling 'sensitive information'  bbc.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "California AG Bonta issues subpoena against OpenAI over cybersecurity risk - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1I3OC1GVWhRejFUaWZBMGhmeGlORmtiTjNvYzU2bURvWERhcFNGUWVadkltcS1FY19PQ3gtSFV4TE5VRHUwbWNPSjVGWWpsQ1VMSFhFWWg1ZFMtaVRDWFVTQkFPa1FrVUlGdnVmOWx3OEd3VzJaQjBwRXlOR0Z6MkM4UW41VE5SQjZXTDcydEtFUWhHVGxLUjlOdmMtM2JrdlluekZ6MzI4SHFLZG9TRXcyNk1zSFhu?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T01:23:13+00:00",
+      "summary": "California AG Bonta issues subpoena against OpenAI over cybersecurity risk  NBC News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Meta Push AI Agents Despite 85.5% Trust Gap [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90a1J5cnVkRW9uc296Ui02U0pRYmdiNTVjX2xHRU9GNWJ3Y1I1LVpSR003ZXplWERDZFdOUHpEZG5OckhiNlFKRUQyRV94SG9rWUkzUlpqWnVMNHFOMm9oN1htRHppVm84dUZHcHRyNnF5TE94bkpVYQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T00:52:13+00:00",
+      "summary": "OpenAI, Meta Push AI Agents Despite 85.5% Trust Gap [2026]  shattered.io",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI, Meta AI Agents Test Public Trust [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mSnpIQm0xM2hLUTV0ZThncllVcll2N3lCaUZWN1R0aG5yaFBRTzE2VDFIanRZR0lFOGRMZHdEdW5wZENOUGdXSi1WdkxLUmcxYVNfcjlhRXU0VEIyOFlQQmdlUmg0MWNyeUkwdkhQSFpOblNaMk5hSUpB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T00:10:49+00:00",
+      "summary": "OpenAI, Meta AI Agents Test Public Trust [2026]  tech-insider.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast - NVIDIA Blog",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KcU1JWEFGdV96M2o5aF9HdU14SzRNTU5PVWh3RnRQUUJTa3RZT05YZkJNTHZ0RnpveXBhODdoSnNxcU1DSmg2dUFpWGV6c2FPR1FoV3B4QnB2MWJkXzhNbWdTdjVZaW5adDV2SlFYWXAwQQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-01T23:50:00+00:00",
+      "publishedAt": "2026-10-01T23:53:12+00:00",
       "summary": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast  NVIDIA Blog",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T23:49:35+00:00",
+      "summary": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says It Fired 3 Staffers For Mishandling \"Sensitive\" Information - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDRrcGZuUVZwck5PVGNyZUxvQzIwbF9STUx2MXl2MVhYanl2alVJNUcwZC1FMURXZllxeEhtSTJ0TGpUdHdXMnBZLU1JSDE3NUt2YmlMb2UtQnYzVkhwWHNqeXM1V0NhczVKNjJEcnF5ZEVfTkVKY09WNzJOLXNDOUtfbWZhYVpSU3M2TGpMZjVadXMyRTA2VlVObDFxSlNJclFPX2R30gGuAUFVX3lxTE1qbmtfTzBuSFE4X0EtYnlPdFJBdFlzQTZXTVdBNVdiTG4zQWIzWTJvV21vYWxadlF6cFgtSEpHcEFoSWR6MFk3UmhXNWFlVUh2TmVTM09aNksyZHVpXy1RbmR5cUVIa09CdDMzcHR0Rk52VGwtRWVKQjRqX2d2d0l6VVZBaEhUSzF4dzJRUGs1TTlQaXVsVWpnYm9oQmh0NnJPTTVTRWFPSW9YNndRQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T23:48:39+00:00",
+      "summary": "OpenAI Says It Fired 3 Staffers For Mishandling \"Sensitive\" Information  NDTV",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FTC Opens Probe of AI Giants Anthropic, OpenAI Over Consumer Risks - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORnFqdHk5LXdYNDVkcml6Q295Mm9fbnVzb1ZGa3VXUk00YmtrY3dGbEcyYnBILVdVczUtMlFaYktxRm1YUG9qdXl6TWpvb3NFQ09rZ3czd2czVXZoN1RPN2NTZFJ3SlJVNXBJa0NVNGJFU1FCY2hpaWdHck80dHFwMDVJeEZPWnk4eWNrcDVyNzBVeF95cHlZVlZXelhJUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-01T23:39:34+00:00",
+      "summary": "FTC Opens Probe of AI Giants Anthropic, OpenAI Over Consumer Risks  Broadband Breakfast",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,24 +141,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T22:53:00+00:00",
-      "summary": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "California attorney general subpoenas OpenAI over incidents involving its AI models - KION Central Coast",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOVJiN2MxMk9zZTVFNkQ4WFhkQjBZVUd1S0VDenB6a3ZpZVFfOEpjNFc5c1NWT3pVV3hvM2wwYVVhaGQ2amdqazllU3VXZEc5MU1GMXlrUFhGOGxVV0FQZV9zMC16TTZxbWU3WTA4RTYzdnZRUmE2TTVlODRla3JMZjZDS09VYU01N3pxSGZlNjRnT0NBaHB6YzltaEJsZDJfYU9YdURVNVROcDJWYmRYU2JzeGk0Smc5RkpyWGFIMkJhTHJyZVhwaA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T22:38:55+00:00",
-      "summary": "California attorney general subpoenas OpenAI over incidents involving its AI models  KION Central Coast",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI dismisses three safety researchers accused of sharing confidential material - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFBLSzJoNDUzR0V3VEx3TTQtRWljLWliMzNFT0JKN0xfQk1QX01vSzRybjJPRUtBUlRIZUFIQkEwaGlzWWRKSkFTbmRKT3lPNDYwRFRSVHZ0cUd2clZvNzVTV0h3NHpLYUU4TmpUOXpaRE0xX3ZBTV9qMm1fT0pmZWpfb1RVS1NaeTRDNG55NTd1Rnh1XzFtLV84Vl9BOHFGeEFXSllPLVZJMlJ2TTc5UksyQU5ocVljNDA4?oc=5",
       "source": "news.google.com",
@@ -51,20 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s always-on agents are free, until one specific thing happens - thenewstack.io",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RWXVDMW5sRDFTRTFMNU51SWp5TXNteXVxcnR5bWpUNW53akhuMWNtWTdXT0ZIXzVBYWRFdlhQWFAxaGo0UjJhRnhFZnc0Y3RJOXNGd085dTN6ZjQ?oc=5",
+      "title": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-01T22:03:01+00:00",
-      "summary": "OpenAI’s always-on agents are free, until one specific thing happens  thenewstack.io",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Synopsys unveils partnership with Amazon, OpenAI - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PdnJkRDZzaUxXQ2NaMW56SWQ3blV1aTVMRlE5d1dxVVhNRnN1X1FtalloWmJIdnl1RHVYR0QtOUdEbm5tc2VQYVdYdjJHOW82aWI3ZlRuWDdrRDQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T21:54:59+00:00",
-      "summary": "Synopsys unveils partnership with Amazon, OpenAI  Fox Business",
+      "publishedAt": "2026-10-01T22:26:30+00:00",
+      "summary": "OpenAI alerts more than 100 groups about rogue AI agent activity  Reuters",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,11 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Cracks Down on Insiders Sharing Data With Safety Watchdog - PYMNTS.com",
+      "title": "OpenAI Cracks Down on Insiders Sharing Data With Safety Watchdog - pymnts.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFo5ZTN3aFpiUENxcVVuVGxvaHR6bFJNTVptUVFWTTY2NUZuQTQ4RkU5LU5fbWQwalNnOWtFUTRwU0xYR18zSW4wUDA3S1BEdzdNOFRYb2pOM1dnYjZKb1ZDU3dxN3lORVlNeVNBQ0hFVFpRSmNHY2o1SzhkNEVqZ0MzMXg4NUNWd2lsRlotd1VXY0d3bmdLRG11WU1sRmgyU2s3aXFSR05mVkp5VWxYVHMzNkt6dW1aOV9uRmFJbw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-01T20:54:07+00:00",
-      "summary": "OpenAI Cracks Down on Insiders Sharing Data With Safety Watchdog  PYMNTS.com",
+      "summary": "OpenAI Cracks Down on Insiders Sharing Data With Safety Watchdog  pymnts.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,11 +204,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI reacts to FTC investigation into AI safety - WEAR-TV",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHpnMW5kdEJLUWdncEExbHVXLXZhVVdBcWMtM3V1QWh3MHJ4S2dKaDNXN2pzTTBMbjE3cFJZR1dDYTh2Qnp4ZmZ4bE9iYjNJakxaN0tudXhOcUJnenBaT2ZoUEpIR2dOZnJfak5NdWZ6NVVWX1c0NU8yX01nYXQyQUM4U1VSNmQyX0VPeXVnd2ZyQ09zMlVhZjlqMkR3eEhHaWk0ZFpGbklpLVlvSHB1ZFlUSGlLa0NYaFBqeDBNOWpnYTltdGZvWVR0THU?oc=5",
+      "title": "OpenAI reacts to FTC investigation into AI safety - WBFF",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUdqdXpVRmdLeC03cVhSMlY3QmVPRlFnMGlQbmNRX3NZS1FXZ1hKR2VvUy10S0dOd1UtVkhmNE5VakZWRFZlOTdYSFgwYkkzd1g3d1J4aDc1VklpSllONkVkZ01zclREd1ZpcUVkR2gyZmxucWgtYjJXeEdoRUsyT3F5TWJzb1pNWk80enRqLVdteV91ajE5YlNZbjk1SUZHaExmdVY5VzV3WUlLSk0zLW4yWlVSdlk?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-01T20:47:07+00:00",
-      "summary": "OpenAI reacts to FTC investigation into AI safety  WEAR-TV",
+      "publishedAt": "2026-10-01T20:43:31+00:00",
+      "summary": "OpenAI reacts to FTC investigation into AI safety  WBFF",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,96 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-01T20:30:03+00:00",
       "summary": "Rob Bonta subpoenas OpenAI over Hugging Face hack  Denver Gazette",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers - Charleston Gazette-Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNN0VROHk4eTVqWFl2TTRqODRqYWY5dVZrSEU5MHM4dDM5YUxFRlVBbGNnRThxTHZ4ZjFRZ1lZOWgzZjZNNmllOVF5ay1WYnBTUFVoOFBLdHg5R01ZVnd0RGs5bmFPaGJrUWVWblRvWHhzVU9OYWJhYURacGwxT2JsUjd2TGYyZFZQdGlJRGNlTXZ5SEJuVDVxZkpMZ3kxTDJDY2tyaWpNYkh1Sm1qWmRlTXdqN2t2d2NKMV8tdHZMUzlxd0hEMnBJWUd3dW1lZFhzOGcxb09pejhaRjNNcmZzbHlqR0RTczA3MUk4WGdveURuVWV4eTB0MkFB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T20:20:19+00:00",
-      "summary": "FTC is investigating OpenAI and Anthropic over possible risks to consumers  Charleston Gazette-Mail",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmxqSFFycmgzZGlWeWdjU3hjYmF6OGthY0xqMlRMZ2tFNVpGLUFTY3B4OTNMbDdhN2ZGRGo2WWx3OEhoNkVFS2JUTzV0UzFLMElPcnNwcXY0RFBIdzhpU2x6VmY4WHBSZjZtaFRHTUc0azN0VnItZUhITi1GbjN2YnBVaGIteUY5bi05RGJ0WlVWVEFySk0tZkQwTjlHN0RPSmNPZUlHRjFYM2VueVZ4cVJ4R01QeGNTb1E?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T20:00:01+00:00",
-      "summary": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Ties Group Tied to Moonshot AI to Scheme to Extract Hidden AI Reasoning - Northeast Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjFGQ214NmQ3bGdOaU9RRHNmZ2JaNDhCdWVJc1QyMUNQZVlKUGVLeVVmNjQ0aklmb0N1dFZOQ3Y3amhheDYydGFoTjhyYk1lLUVWUkt4cVJPeWtFOWRkVDRfM2tFeWgwY3ZhVW1pb1ByaVU0dFZ4dDAwS0VuLTRrRWFyR19ScjlvN3Zad2ZoNmFBTHgySU45VGdDNDEyMzU2MWJsOU9LY0VlbmNNRHRCdkNEdEFVUkF6?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T19:48:55+00:00",
-      "summary": "OpenAI Ties Group Tied to Moonshot AI to Scheme to Extract Hidden AI Reasoning  Northeast Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "California attorney general subpoenas OpenAI over cyber incidents - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0JjZ3pNQW9yRnhPQTc3a0U0TXRBcjB6NGVzX0tKZXBCdndyMFJvSXJScUsxZnM3S3RjeXlOVDFDcDBBUVZvMlVtekJncHFobFkxTWlqa0J4X1lfaHJabndpaXJiWVkya0lkNEtQV0pkc2hZLWwwRnNzUXpGUnF0akdmaTkyenpMSnBB0gGQAUFVX3lxTE9NWXUtdFlHcHhkdjhreGF3Z2dYUjQzdDJGR28tRXdDSUgwcHpXMGdXejlJWFJpR2F5NGVtUzhWV1ZJcFZQeGZLbkxnM19JZXloRFVYcm52MUQ5MlplWFZRajI4Y3N6bXpnTU9iWElFbHJxOWlGd1hGeHZlaGZvQU9nMU1yMGdCYzhWZllMeXhJZQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T19:41:00+00:00",
-      "summary": "California attorney general subpoenas OpenAI over cyber incidents  The Hill",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank completes final phase of $30 billion investment in OpenAI - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ0ZDMDNNS0hZT0xNc01aV0RzMkxtS2lLaUZ6cnlZX19DQS1LajRmSHdrSzVoZ3J4bGNfYmFPbXJCTTBRX1dydEpYTlgxWXVRSmJOMHZ3VERsSVV4aGRYZS1oclNzQUVzb0ZxU2dtOWpNMGI2NHpQdkE5MUZ4TlhnbUoxRDQ1UGJmbHd4Y0MzOEZZTWxaQlprekZ3ZnJRNnJZdjJ2NV9OYjRhUEhpT0VUUlc1U0tldw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T19:38:12+00:00",
-      "summary": "SoftBank completes final phase of $30 billion investment in OpenAI  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FTC launches probe into OpenAI, Anthropic over model consumer risks - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2t0NE4yM1NaR2QxcVFzWHI4M3Fmbll4Mkxobmhld25Ea0ZyOWI1V2JaUDViOE9Xc0tNZVpfdDlwUm5TNktwUDNHM3ZEbWZfUGNYbkdpQ2lHNl9uY0VoMmtfLXJXY1JFbzdMVGp0X1d3Y0o1QnhUaUJqdS1QTXBlZ1l5VzE3NXfSAYwBQVVfeXFMT1NEYkY1cnM5UzQ4R2NXU1VWZ3N1ZGhGMjFRUlBEY2ZmZXdiQkpDdzZCVWN5ci1MbmJ3SXVjUlpBN25oV2c4TkFXUXd4bTBHR0lCOFo3M0E5OUhjTnoyLUhySmo0WEtEYldCaWxoOVJ4TVBLb0ZadGxIcGhJMUxGZkdvLU5Zb1ZZNlpuUlg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T19:32:00+00:00",
-      "summary": "FTC launches probe into OpenAI, Anthropic over model consumer risks  The Hill",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI President Reportedly Pulls Support From Controversial AI Super PAC - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0o5YUhuRXB4Uk1YNjlxOFBVc2dZd0ppVDgwZmJnb3FUS21UeHdBSDk5LUFHemxnOVBRaWE2RVJBekJJc3NiZ1hUUnpIbnZ2bnc5V0J2R2d6LThsbUo2NUlsNThwTjNEb2RRMzNOUThKOWJSVndUM1p6azlfSHJRVTdXbHA2SkY2eGZkSVVWRkVkRU5OLUFnWTZ4UTA1ZWN5VzRPUUVqOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T19:20:35+00:00",
-      "summary": "OpenAI President Reportedly Pulls Support From Controversial AI Super PAC  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI ousts 3 employees who allegedly shared confidential info with AI safety group - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMG9vMW5JdVNHU0RPbFIxRjlJOUNJbmVCQTJWVHAycUh4SVNxLXZoSDBtMm1HX1dPc2JUcHVSZ3ZCYnpSRmZwVkUzOHA3WU9BTkJWTXdqS3hhZVd6MG8tTUNiZEViNjF5MngtMXNibDRPRkFYeEtxV20wYXhBdEpsNFZmZmM0NXZETktQSUpibzFpbW9sOEx6V0dJMlBzV3g3RWNTTmNZakYwLVBFNGZiUmstbFF5NUgyeTRfWlN4MjhIUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T19:17:00+00:00",
-      "summary": "OpenAI ousts 3 employees who allegedly shared confidential info with AI safety group  New York Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "California issues investigative subpoena to OpenAI over rogue agents’ hacking - theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDRjNlRLem5OVV9vMEJTR09fbkliOXJTNVg4RXMwempEZk9Mc1RfNzVVTUUtbVNINDR3REJPVUtpYnpuc2xvV1lMOFd6ZEtZbVpVMjFZSUhBZE56NjNJWHJqbWQ1YVV6NTJWOE9vNW1ScGtfVHpMei1UM19hb2hwQlVrWEpLdjFBSHZYdC1rY1psX3FV?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T19:01:00+00:00",
-      "summary": "California issues investigative subpoena to OpenAI over rogue agents’ hacking  theguardian.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Dots lead on the future of ChatGPT - Sources | Alex Heath",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyMlg3TTA3UHN4LU5iRDJ5c2RkX0N4Vl9GZlhCZ3J3YjJyOFpfSFQ5WjVsMk9WNnFybENxQ0Zyb3V1MUozS1pjb292bEdpSy1BMlhWdWYwZzJIaEl6MEJQNDJTTW0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-01T18:50:04+00:00",
-      "summary": "OpenAI’s Dots lead on the future of ChatGPT  Sources | Alex Heath",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
