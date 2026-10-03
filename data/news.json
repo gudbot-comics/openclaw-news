@@ -1,25 +1,106 @@
 {
-  "generatedAt": "2026-10-02T21:02:06.079873+00:00",
+  "generatedAt": "2026-10-03T00:25:19.692940+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkxQOVRxbnlsdHQ1RGM0TVNZLUF1bGVqQ2xlUnpGZHJFQ3dZR05tMjZOVGRmTm9XblhYdXg0U0pFTTF0UXNWb0pGTGdRY0hPd2tadk9vSmdRdkFCNWJjLXFhZDFJSzBOdTc2UkVXeTFTUl84cmVvVUdib0lWMS1uc3huRzdEdGdjeV8xbA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T23:20:43+00:00",
+      "summary": "OpenAI investigating other potential AI hacking incidents after Hugging Face breach  Fox News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI safety leader David Robinson resigns as the team's upheaval mounts - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN20tZjFiX1d5WEdVanJFQWoxNEdpalhTNzJPb3Rlc0tPOERjVW00cS01YkxudVI1LXNHQnBhVUJ2aDhSdFJKTm96eF9wZ2JVVDF0N2NibE9oRFdhQUg1ZEIxejNsUV9kalRvR1ZRaFg1UThCN1p2YVFxNjlxa0dZRWpTdGVONkYyZnNmTWJpc2c3UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T23:15:20+00:00",
+      "summary": "OpenAI safety leader David Robinson resigns as the team's upheaval mounts  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Reviewing Canada Hack Claim, 2nd Clash [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40TE44cEZqX1VNWW1wT05kcWlyWnYtS2JIYXg2TXVleEE1dWxjMFdBU3BpMjd3ZmZkQkk3TW9oLUc4cThaS1EwWEwyX0lfUkg1NTBTMTFtazI4X0JJNnFqTjlPQjQzY1RpbHpFaWZWd0hmNGs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T22:59:34+00:00",
+      "summary": "OpenAI Reviewing Canada Hack Claim, 2nd Clash [2026]  tech-insider.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Hires Former White House Cyber Official as Regulators Probe AI Dangers - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT1FrS1hRMkhvUlBDajBwZnZzVEl1Q3BXWGxKdU1PeTZXclpLQnM4WDgwT0dFRlZDTmN6OS16cC1EdkxmaEgzOFdtdmdmdmJuNG56RHA3bEpIQ3h6SmxhY0pqT2JOQ2psS0VkMEtUVlRSMm45ZlNFQWlrcmQ0UEhJOUVTbC1GWGFmRDlPSFNwTXVpcmppakdrOGRUOEFoUy0xaHJsYzFqV2hxc1hMODFHMVBib09UbUFJVDBRQUxsUDdqLUY5bzM4Y21pdk4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T21:58:24+00:00",
+      "summary": "OpenAI Hires Former White House Cyber Official as Regulators Probe AI Dangers  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman hints at when it could hit the stock market - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalNoZ3p2NndOcGxobW1DeWdvcjNOa2Nqc0hoNVQ1ZWhJVVFHc3RHVHJ0YUNYZUNmYVEzeVlZSzd4N05BS0NoN01Tbk1TZlBITmFXeXNZc0pXZ05TWWEtZjVwcVZxdE12c1FWenV1TXRtaHlHREFkZE9FOEhXZFRiUlRJc3V6Nzg3ekswNzB2YWI1dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T21:37:00+00:00",
+      "summary": "OpenAI CEO Sam Altman hints at when it could hit the stock market  thestreet.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Daily Digest: OpenAI fires researchers, Novato investment firm executives plead guilty - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnBGOVU4VU0xZXNROUlPTG83U2I0cW5tazJPZWZSeFJNRFlmTW5GTWJSZlNoOUFjQ3JQejRBeW9QS3k3c3dDVVgtV2J6ckg3TEplWmNQMkQ4TW1RTTRfQ0hGQkxuOGk3bVhwaGRzVTlfZ1NLUGwzZFVPZFc2Y0FxdTMxTkJxcG1wenRkc1dBdkV6TThoeklDUVJMNV9uRWlnTFZpNVRwTUpoTXR4YllaLVZn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T21:25:00+00:00",
+      "summary": "Daily Digest: OpenAI fires researchers, Novato investment firm executives plead guilty  The Business Journals",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI discloses another Australian government hack - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ1o1T2dBczJSZjhVTmlPcEljLWQzTTc0aVZLSUY4a1I3eF9ZSTBTYTZIb2g4bHpwU3pJSTBWUDZoc1RscUtYVWRfVkNFVS1VdnlZeG8yQ0tYbjZtVkxnOF9tT2EyWEFuNy0yVmZMM2NpekNzc0dWYmx4c1F2ZkVIbldlSFpTQUJG?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T21:23:37+00:00",
+      "summary": "OpenAI discloses another Australian government hack  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWjhjY3daUXZNZ2JEUHNKTGdyQkh6TlVER2I3cFlwZHUwWk81TVd3ZUFCODZCVWFGVVN0TmFiZWhWRXNfMzhnQUJUVnZWSkYwN0hOMXhITU1jS2FUOTBld05QUmxvdmIyeFk1OUtLXy1UZjdadl9fb2c4ZGhJTW9LSTc5bTVrZ1FPT0loOFJQSURNS0gxaUJCUElGVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T21:16:04+00:00",
+      "summary": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test - Decrypt News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95RC1jT3B1OFk1ckd4QmVMY0lkOEZmSEZSTDhLS3RmNnBsQUFyaEtzUGJIU3k4T0g4ZC1RTE4taURlRndUNzZRUC1OYktZVnd6cHV3TkYyRjJVTFN3ZndZd043eEV4Y2pIVHY3YVZfUTJuX1FDOHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T21:16:04+00:00",
+      "summary": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test  Decrypt News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reveals another hack into a government agency in Australia - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnRRUTIzVFZJTHI2M2pBWjR1ellUbGZVQU5aUVFsREhzRjQxdm11NkhFLVJ6LVBrQUZ1MmplQm5LRHhvdmVKZG15b2VIYUIwRGdrR2YyY0VUZUlLZ0V6X0NjbnRPSnJKUG5GeEpWSkdCbU1mVExfbnE3Z0pheTFxU2c4clJ2dGJCTjNtRmJaZ0lEYTlCSzNRQ1gxMNIBoAFBVV95cUxOX3BySGluR3pzZ29lT1V2Ri12eVUtZVd2SnZWbVllZFhtNjZMdnlpVFVQSTBJcTgyY0NacjNHRE51Q2k3ejhFMVhSQURfU1pNYVhzQW1Rd2p1ck1uby1fWFJ0ckNLUHYzcFFpanF3bWlHaDBySGtGYjJ4WXhqcHlzeUV1c0szVC12cmdzQXVKTXhJSTNiNUtjd3lHSzB5OElp?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T20:52:59+00:00",
+      "summary": "OpenAI reveals another hack into a government agency in Australia  ABC News - Breaking News, Latest News and Videos",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "The cautionary case for investing in OpenAI and Anthropic - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMms3aFZ3T1Z0T0VsbEltWS1UTGFFb2gwNlJuSnJ2eXpHLWRScjRwYkd2UTNnRmtSZUJHdk5UREhmMWRpa3YzOF9sRUtZMXRDVEE2THkxUThaT2VRYVZyS3FPZ1FYQTN6a2NneFlxM1FVdGpVWmkyNXVNUFk0MTlEcDNRMWhheF9tVi1SXzJsOXJYN3c?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-02T20:37:00+00:00",
       "summary": "The cautionary case for investing in OpenAI and Anthropic  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SEC accuses fund advisor of defrauding SpaceX, OpenAI investors - InvestmentNews",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXFuei1UbExydi1PeGR1ZWlxWHRza0MtNmpGV1RTOG9McXIxSkJORUJ1SkNubFg3QnFqb0N3c2prQkNJWVNiR2tZQ0NJanZoT1dXS2F3dGdvSzQ1Y0FsWkhRQmd1YWVVTkprS0V6OElKaEppQmFsZ0x5d3k4YnJUY2xOTlRJQmkzMVVpMmNjazJfYVY3U2plOHhfZHNCdndYdHk3RXZhVktFNkREelZkQ3BqLUlJalhnMFNpb0lwckd0ZFJsSzkw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T20:00:47+00:00",
-      "summary": "SEC accuses fund advisor of defrauding SpaceX, OpenAI investors  InvestmentNews",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -78,6 +159,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Chatham Financial Builds Capital Markets Tools with OpenAI Codex - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXV3dU9LLUFlY0NmQ3R0QmJuSkd2b3JjUDRmOGRMcU4xS3NLTmZFUlJ5Qm80aC1HVF8zbm5iNUpyTUtKd1IyN2llRkU0dEZPNHJOcWhiVlA3MmkyZU4yNmNrQUdLSnBqVDlHbU1PTlpMOXpUYjcwc2xCMEM2eTVUQTBkTkJ4b2t6VXVZSVlQTQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-02T17:46:02+00:00",
+      "summary": "Chatham Financial Builds Capital Markets Tools with OpenAI Codex  Unite.AI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse - The Register",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQzBDVEFTYzQxcUZRd0NhNnZzMi1CUXFCdkZNaEdQODlwTWVJUVdDRlBfTFEtZ1VNZFJIZi1JZEVvT3NheGQwdXBGUDk5RmVZYzRGTzZrYTlUS3k1VEV2amwxS1F2aWJ2SXNmMEhlT0hDajlRUHkxbTVpM3g2YlNtU3ljNmZ5ZURiRlppNlQtTmVqdlpqV0ZJSVI1SEVxVWkyQ2JrSFIyYlJYbzlVZ19iSnk1LUd2ZzVuU2JfMVg3U2pwb2JydjJZdVAzRk9naEZJelE?oc=5",
       "source": "news.google.com",
@@ -123,101 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Why OpenAI and Anthropic are delaying public access to new AI - ca.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOW9WbHlPOUNjY1lJQmJoakYxWFRuSHowMTVlaHlvNnBTS3A3Z01CSWpqZlFQZ2ptQ2tLSm5GS1ZWM0dVUzlaWElJU25lc2ZwXy1VT2RBaHV1cVR5T3dLY1lRYURLRlhUaXZReUxURzlnYTZscnJFZl93cjdPdm9LS2YtR24tZlFmaV9OVUx5TQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T16:20:15+00:00",
-      "summary": "Why OpenAI and Anthropic are delaying public access to new AI  ca.finance.yahoo.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Virtual Try-On for Clothes and Accessories in ChatGPT - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDFzMFNuQVhFamU4aVV0YVdnRTJWUjBSN2dKVU9QU25PRjhsaXpjQjR1ZE9JNUxMTUR3dW50UW5fTUp5cWRNNzNFWTRpd1N4UmJwbmdQb2REamhQUTZtREdvR1BNaTdMWmdsbUhBZktleGk4M1VDSzlFUmlsaFpTZWpRZFdZS19VeDBFVg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T16:15:44+00:00",
-      "summary": "OpenAI Launches Virtual Try-On for Clothes and Accessories in ChatGPT  TechRepublic",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T16:15:00+00:00",
-      "summary": "Introducing GPT-6 Sol and Luna  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI fires three over sensitive information - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13R3ExRkdsZzkyaDB2eUNLaFFxRTAyUW5KSXItQ0pzWTRqWWFoa181UzhXbWRHRVpRRkw2TzV1SnR3NUxudTl1N3dqaFU4R2RPSHlMeEV3UERxSDdZVDNCdnFXY3I2SnBjNFM4b3U4dmtWWVhyWGc?oc=5",
+      "title": "The volunteer internet sleuths hunting down rogue AI agents - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbnpmM01BazRXczlXVUZaVUhCckpMa3RuMnVJMkJRME1WWU0yRW5YMktvTU02UWJCazB3V2lYeENBSnJBR0t3UWVxbjFnN2JOVVQ2N3BwVV9UelBxenFyUDFPZVA3S3BUR0xBVWVmaElOenprUlBZb1JtaHFwMnlNd0lQbEJUb2hDMnZUdTZzNlJfOEZEZVVYOHM0N0FpX2RybWVUcmxJa1RWb2pvZDBfbzYwVnoyRDRNZlI5NXN4X0ctVjg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-02T16:00:00+00:00",
-      "summary": "OpenAI fires three over sensitive information  Taipei Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Florida Asks Court to Put Temporary Limits on OpenAI and ChatGPT - FindLaw",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGxoenVJNW9kSHctT1Q4NVZmcG1EbG1waHZ3LWFWUVJidF9LSWk2Y0JXVzNzTUsyVFdId0RMS1k4eUx3QUNRbXlyVVZxNUxaSEh1dDE0YVA5V01RX0lWcFZWU25wMFdHd2tRQTdmTU1FeEpvT2ZpTGRWOU1vSVNQSXFnMS0zSm1mdnhIRFRDQnJiWHoyeGhZakFEYUw2OWpOenVPazZ4TUV2Wi05UWpB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T15:57:14+00:00",
-      "summary": "Florida Asks Court to Put Temporary Limits on OpenAI and ChatGPT  FindLaw",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Michael Burry Wants Markets to “Tank Hard” Before the OpenAI IPO, and Microsoft Is Exposed - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOXowaVFzdUFXLXBtdDFtelJ3TzNrR29mei1md1dCWklpcThDQzRsWm9RT2diREVLMUZxZkZRcWdhUXFzeGdXdk9pWVZ6NHJjaHVLZTlWVmtzaDBTdmhmVTFCcTFsalhEREZPNU42b29fSGkwVnJFcWI3Y3ZKemdlNVNyMG5qUk1wUlBuUzllcnZKZ0F3anRHRWwzNjdKZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T15:24:20+00:00",
-      "summary": "Michael Burry Wants Markets to “Tank Hard” Before the OpenAI IPO, and Microsoft Is Exposed  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Zuckerberg “Giving Away 100 Million Tokens a Week” as OpenAI and Anthropic Are Forced to Ration - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQTB1Nm1kUGVDNU1qM2lvRFYxWUR0T3V2Q19EengxWkFLd004Y3VQcFR4TUV5d3IydzBwRUVQQkJxcHlqOXU5M0YxQXlSUUZkVEc4UVVUV19MejUtdGVMQjFNZXhKNUZtQm1kMnl4eHBZN1VpR1JlQXRSeTF6RU13QXN0UmViZWp2Z2ZBWlRTbjZUZ0RBcE94VlZiZi1iaW8?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T15:22:22+00:00",
-      "summary": "Zuckerberg “Giving Away 100 Million Tokens a Week” as OpenAI and Anthropic Are Forced to Ration  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Issues a Big Warning About Rogue AI - Newser",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmdRTm1Ua2p2b3VjandZMW95RG00akFTMG1pMjR6Z2M0Yk05WnpvZ3Z6TW0xMEVhZHNDclpOV283YmxDZ3U0Nmd3Mmlia05oV1h5ZVZnamRWWVdkQURmN3A5Tm9JSk82dGdoeHprUGV6azhEMWZ0N21NbjdwRzRERUVUbDRnQlRsa1otMFotRVhfZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T15:09:00+00:00",
-      "summary": "OpenAI Issues a Big Warning About Rogue AI  Newser",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Adds Virtual Try-On Feature to ChatGPT - pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlNTc3RPd2o2Q2RkYzdENDJTZ2lNNFA4QTlrUlJpemdkaFpuU3B1RWNGNlFRYTBPLW9SZHZ4UmtKY0FBWmUxWFg4S2piVE81OVVCUUVMbE93M3Z6emhsTDdaSjh4TlUxSTktTFM1UWExS29ScGlqcXRMWnlaeHE4dlZaN2U5NTMzNDIxVXhoWW5Ua2FiRFhqTG5CdFJaYm5hUGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T15:00:38+00:00",
-      "summary": "OpenAI Adds Virtual Try-On Feature to ChatGPT  pymnts.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's wandering AI agents earn it a California subpoena - The Register",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb21TMjRfOGF3RDFnRk1FSmU5SkdFa0JvcU5uRkFsUW5MTlhqcEZtbkx4V3NmSW13Q1dIaWVHRlJxTng2bTRnejNuVVRVcWtIdmxGRTRKODI4MU9JaXN2WkxPZG9BY1E1Z1AtbEZWeUU5bHFuaGRoOE9hVlEzLXJOZU9ubFM5Qk1zeHBaRkNjNVNUaXJTUF9ETHBVV3A2cDdOXzNzdDdmT1NkekpwQy1IX2JWT0s?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T14:34:00+00:00",
-      "summary": "OpenAI's wandering AI agents earn it a California subpoena  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Future IPO Keeps Me Buying Microsoft - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMXRZQlVjYm90Um1RUjVrUXBtM1pMd2ZWNkp4OWY1VTN5SzR0NHZhT2s4VXZWelJYV25JcjRMdHZvRWRTNmlJeXRIWTNHS3ZHV09teVlGTklqbjlfYXhiLWVJM29HeVhqQTFRMXNWaDJ5ZFFobmtoX3RPQlZIYkpiSGJ5WnRHb3l3Q0NCai12ZlVxdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-02T13:45:00+00:00",
-      "summary": "OpenAI’s Future IPO Keeps Me Buying Microsoft  24/7 Wall St.",
+      "summary": "The volunteer internet sleuths hunting down rogue AI agents  The Washington Post",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
