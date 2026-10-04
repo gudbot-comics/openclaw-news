@@ -1,25 +1,88 @@
 {
-  "generatedAt": "2026-10-04T15:52:10.615409+00:00",
+  "generatedAt": "2026-10-04T18:59:44.940449+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Google CEO Pichai Intervenes After OpenClaw Creator Flags Weeklong App Review Delay - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEb09fR0lZWWpKbUNQQjl0TDBqTFRfb3JtZ0tQWC10TU8xdEQ2Z3JOUjhVUjl5R1dibC1vMzJLVU8tTXhvSHBYTGY0RlluYTJocUlvYXB2MVZQOWlydWNiVWVkV19tbkhkVDlRWHRkZm5MVHA3Nmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-04T18:07:00+00:00",
+      "summary": "Google CEO Pichai Intervenes After OpenClaw Creator Flags Weeklong App Review Delay  finance.biggo.com",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Understanding OpenClaw’s Gateway, Agent Runtime, and Multi-Agent Architecture - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeklaOEVkanRBM0Y1d1ZUaXUwSV9NTGhZZlc4Z2k3T2tJVkFvWWh4ZU4wdFUwQ0RkSkMwRUdaV2l5Vmh3WkoyRWJtOTZJWlNqSXpDZGt5ZTRvOUY2QlpZSzhDUXpjVFd0ajlocVQ2eEhoSWUtbGswZmRWRlZUeGhaazVMdFBxWHpLbHIwd0ZSYjZLT3BfYjF6ZUJzVTVlQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-04T17:04:04+00:00",
+      "summary": "Understanding OpenClaw’s Gateway, Agent Runtime, and Multi-Agent Architecture  HackerNoon",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI taps Fernando Mendoza after ‘ChatGPT’ jokes - Sports Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHROYkNMYVlfQjVSb0N1a1NNbnkwMWVWb2NSOVJMVzFuR096S1hxUi04VERfaXcxUUFjUjJEcDJGNFVpMjBQLVd1Ry1kMVlMTHJxZ0JUbUxFY0ZGeVZLNXRfQmswd0hFVkRVbUNURF9ObTE3NEVLYm5CRHNFcUlVQ0RjcVJNRDVZWXdObmJWN1dEcE5DT1Q5SE1mcm50Rl9PVUpwOWs5TS16YWM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-04T16:46:46+00:00",
+      "summary": "OpenAI taps Fernando Mendoza after ‘ChatGPT’ jokes  Sports Business Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says its own models optimised Astra Ultrafast's inference on Nvidia GPUs - MIXED Reality News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUxYYWFoY0k1bFJfOVNEM3AwVmxBRVZKRExlTkNteENzSkZDbTNrbGg4ZXB5OFNiZkFXTDRMb2tfUWhkRlJzTjRlb2R6MHpNLVpIbGtLdUMtVllMQVlzTF9uM1VyTjlIMjVjRTgzZHprYnN0ZlpHVHZJeXRWVy1XWWZicklhNjBFS2lMSkRZR3ppLVh3ZE9r?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-04T16:27:35+00:00",
+      "summary": "OpenAI says its own models optimised Astra Ultrafast's inference on Nvidia GPUs  MIXED Reality News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "California's attorney general subpoenas OpenAI, saying developers can be held accountable - MIXED Reality News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkpFMEJHc2JQWHQ3a0dLdlBISlpoN0k2Y1VRZXFqRmNvX3hfSTRtLTFOWlNHcTB6SU50TGJVZ2tFclNZejVMbjdjRVdKSjIwWmE4T1VucXBld0lZQWFKSjQydngxLWJQbGxXZGhwamVOVmFkNFpCTHdkZG9FRTh6TGlfVWpIQ3d5UXN0SU83cUxmWUtu?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-04T16:27:35+00:00",
+      "summary": "California's attorney general subpoenas OpenAI, saying developers can be held accountable  MIXED Reality News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SoftBank’s Son warns of AI safety risks despite $65B OpenAI bet (SFTBY:OTCMKTS) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2ttUC1nek00STN1N2VSZWNEbWNuT0hKMGZzSFRtVFEwSS14VUU3OUJJblRiT0p3OThIVWpIZm94RGV5Mk9xUGRZU09hOTR0UGQ4Y2Y0b0hxMi02OWxMdDJTa3pCdWVSWFAyVlJyX2JnUFhIOFJMYzY4SWtXaVdIWHNxR3FycEN3bDAtT0hvX25JVG9pQUlUemxDVWxSZFBQRnc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-04T16:22:51+00:00",
+      "summary": "SoftBank’s Son warns of AI safety risks despite $65B OpenAI bet (SFTBY:OTCMKTS)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Former OpenAI Safety Leader Warns on AI Safety - Techerati",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGFNUXE4WmlRZ2lyS1VObHljN01RTDZjTHp4WS1Yd1NRNXpPT0FPNkVGSHhUNUViR2tPNVItb1NpVkNGYUdiYkRXVXVXQXhWYWcybkJCZDhkNjVpMElRQ0xHTGV1VklSUEFTVlRkdmtPSzd0Rl83enBFM203OEdNcW9RZGFEeXQ1SXRYN2Y3ZWxnOEdLdkF3cjVSUWY3cUh2WGxmVTh3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-04T16:14:35+00:00",
+      "summary": "Former OpenAI Safety Leader Warns on AI Safety  Techerati",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "California Subpoenas OpenAI as Scrutiny of AI Cybersecurity Risks Grows - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTdGNmNqN1RwZkc0SjJyT0kxZ1IzMjN4clN5V0FhUkRqRGpkaFBpSXNQQUxHSnhMM2dxdWlISTFYNVpSVV9QRTUxd1duZ1RwWk9fUm82dS1IclhsNlhRM3kyMDNVNVJkTVFHUmhYRHZmMmlrMlM2M1k3Qy12M1lERlRLYlJvaUpKWWZVZlpfckYwR1JDVDNDd2JSa09tV1hMekp0Xy1Zd2Y?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-04T15:48:10+00:00",
+      "summary": "California Subpoenas OpenAI as Scrutiny of AI Cybersecurity Risks Grows  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI CEO warns giving AI 'religious force' poses 'real safety issue' - Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVTNZU0YtRWFPSU9hN3o0eFZnVlVQWlkyZEJHMDhyNF9nVFZ6MzE2OFVoRW5mWjVYeGZqQmh1WUlzeHVoVk03NThuSGl0XzZyX2ZxbVRLVUJjdEd3T0ktWm81bUp4OEJIWjZ3eEZrZ0JZWnRuRzdMM0ZuV0UyRFFsUFBZQmR2UHI4dlFtRUtJemNmU0NiM3ZFcFktdjR1akFXWVJaYzVzNHNLMGhndDFKcUFWdWlvclhMa3c?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-04T15:41:26+00:00",
       "summary": "OpenAI CEO warns giving AI 'religious force' poses 'real safety issue'  Anadolu Ajansı",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTZka3llbWMxXzJZZHBNNTlGcjhWcFlLaTg3dk5XSmdrc3hKanM4NzJMaDVrRU44Z05Nd1RHSGlmN2tqcHo4ZWhzRUlnRHptaDRuQ0E5YXlxc2lJNmlWZ19OcWs1VHp1MzN5RjJQMlNGQ3d2bzJyMnBNMDFKaU5jWGRjSmJkN3NEcllaVHVkTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-04T15:21:59+00:00",
-      "summary": "An AI couldn’t beat humans at StarCraft, so it decided to cheat  The Verge",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,20 +96,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI’s GPT-6 Astra used raw game data to play World of Warcraft - Interesting Engineering",
+      "title": "OpenAI’s GPT-6 Astra found a way to play World of Warcraft without seeing the screen - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkx6UFkxTzF0TFZtTXZzdFNQandYRnR2Rkd4MTdjTmdUMlN5dEVYSkhQVmxRMEFTRWFSWVZWTTNvSkNDMHgxcDVCNUV2TlNRQ2Q5T3I4WDFoLTJSb0phQ3U3TGhjUG1uSlJrU2xMeDhqZi1OZFhGMUtzMFRvZG9uV3BzRzIweWxzR0tnZVdfUVUwa2dR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-04T15:07:00+00:00",
-      "summary": "OpenAI’s GPT-6 Astra used raw game data to play World of Warcraft  Interesting Engineering",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI Is Creating \"Doom Loops\" All Over the Economy - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQajM3ZUxuWU1vZ3llNW1sTFI2czB3YVhlZm1kVmRjWkNLMUdaWlZ6SDdNVVhhS0J0M05wcURHR3ptWnpXNUJHU19UZEs1WnFvMEpfQ0RjWFdVOGZRWWZ1VU0xTC1zby1zRGdpSlY0UzYxVlNOOVEtVHVpT0VDTkgtOE9nVzgxVkF6U2Fia21XSGJvZmROMHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-04T15:02:00+00:00",
-      "summary": "AI Is Creating \"Doom Loops\" All Over the Economy  Futurism",
+      "summary": "OpenAI’s GPT-6 Astra found a way to play World of Warcraft without seeing the screen  Interesting Engineering",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,20 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI faces new legal challenges as AI agent incidents trigger lawsuits, probes - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdzdZWnpTRFFtdmV5SkNaZkJuQjdIYmRDbjBYY21ORzlITVRtWlpMQ1RmMHN2MEhUT0plQUlydjRfcUw3OVRSanM1Y0QzUGhLQ05xeVRVVmozbnlDbWVjLTBFYldrVm0tTlQ5TF9vams5OUJlR2VrZ01kVThQUTY3V295cFdZZmRpMHBPNGpUMHNlYnhzc3JKSU5lcmVvUkRhM28wN19Ib0ZrRFRjb0ROWm81Rmw3LVIzM0stcUxhRmg5UdIBxwFBVV95cUxOS0xOWFpjaXZiZktncm5sTUJZYkhQVzZpM1ZwNkU2eVZHaFNVR0ZPNlZrLUU1R3JUcDZpa2t2Y0JIWXRtMWdNdlNCYy1ITkEwX2YydG1FM0U3Q2xKeHZSdWxIRnBfeFJEbmh5SS1XNGxEUXNYTlBJbkhlUlpSdXY5bklJTGxtaGdIUndkZ3l6RnhVcTkySDd1ckkxTmtLNzIwNnJ4QkNTMkxUdnVqSmloeThnY1A3NUhRUnRpd2JnVENIaktEY2xJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-04T13:02:43+00:00",
-      "summary": "OpenAI faces new legal challenges as AI agent incidents trigger lawsuits, probes  Firstpost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Anthropic Are Bypassing Wall Street's IPO Freeze: ‘A Luxury Only the Top Two or Three Players Have’ - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORWVkYXdUa0RpYmZMbWd4ZFp1SlJDMEpnUWpOUzVtRVJTMTBKQjBMbUR0Z3dvbGM0R19BNlA0NlJNR2g3Y1hFNGtqazU3YWRhZW55djREZ1hQczRPN0xrN3l0Rk5qaXFDVmY1RmFJNVNnTGJSNnJlRWVIM1JrNnFJUnFnMEVIbFBfMHk0QV9VcG5OdjRfTVpJZmFHNXhzUzA0OXJtZlo4cGZQSElFQXM3RGZ5aFF2VzVyRmttSkRPOFFTdlFSRFhOZGVLeWlWR0R2OTFmNXZXZDNqUE8wYV9DdWlWaVdUamQxd0FUTmJQR3JGbG44?oc=5",
+      "title": "OpenAI, Anthropic Are Bypassing Wall Street's IPO Freeze: ‘A Luxury Only the Top Two or Three Players Have’ - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRlRkcDdVbUdtS1VET0RiMDBaQUZQQ3Vla3YzSjFhY3BmcEVVSVR0VlRsenpQN2w3cXFwRTVNNUY4bVhlWGtsVjdkWThEMHRhNEM0U0dBWE01Z01SMWVudmJtY3dOdHExZWQydklQRV82dzI5WFZycHJjcHF1bklpajU1VHZKWDBrbUFHYWo1V2FSSEJOWlBrZFJCY3BRdnNkU2VjVy1WMUluaFBjSzRtYkZuTmNHbUMxSnIwYWRsdmZJUEJ3dm5UUFFESWdxajVNc0c1cW80X3NCb0YySFhiMWJCR19wcWpYdzhJ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-04T12:30:20+00:00",
-      "summary": "OpenAI, Anthropic Are Bypassing Wall Street's IPO Freeze: ‘A Luxury Only the Top Two or Three Players Have’  TradingView",
+      "summary": "OpenAI, Anthropic Are Bypassing Wall Street's IPO Freeze: ‘A Luxury Only the Top Two or Three Players Have’  Benzinga",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -112,15 +157,6 @@
       "summary": "OpenAI safety expert quits as he warns company behind ChatGPT is not taking enough care  LADbible",
       "topic": "openai",
       "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Understanding OpenClaw’s Gateway, Agent Runtime, and Multi-Agent Architecture - HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeklaOEVkanRBM0Y1d1ZUaXUwSV9NTGhZZlc4Z2k3T2tJVkFvWWh4ZU4wdFUwQ0RkSkMwRUdaV2l5Vmh3WkoyRWJtOTZJWlNqSXpDZGt5ZTRvOUY2QlpZSzhDUXpjVFd0ajlocVQ2eEhoSWUtbGswZmRWRlZUeGhaazVMdFBxWHpLbHIwd0ZSYjZLT3BfYjF6ZUJzVTVlQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-04T11:19:04+00:00",
-      "summary": "Understanding OpenClaw’s Gateway, Agent Runtime, and Multi-Agent Architecture  HackerNoon",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
     },
     {
       "title": "Former OpenAI safety chief warns AI industry’s culture is ‘broken’ - Fox News",
@@ -137,15 +173,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-04T11:00:08+00:00",
       "summary": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks  Financial Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says its own models optimised Astra Ultrafast's inference on Nvidia GPUs - MIXED Reality News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUxYYWFoY0k1bFJfOVNEM3AwVmxBRVZKRExlTkNteENzSkZDbTNrbGg4ZXB5OFNiZkFXTDRMb2tfUWhkRlJzTjRlb2R6MHpNLVpIbGtLdUMtVllMQVlzTF9uM1VyTjlIMjVjRTgzZHprYnN0ZlpHVHZJeXRWVy1XWWZicklhNjBFS2lMSkRZR3ppLVh3ZE9r?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-04T10:39:52+00:00",
-      "summary": "OpenAI says its own models optimised Astra Ultrafast's inference on Nvidia GPUs  MIXED Reality News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,38 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI agent hacks another Australian government system - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHVzcnJyeTJ2N1doR0F0cmtCUGV1Slh5OUZFTVpEV0JxdnpIVkxzTjJpNG1vM2FMNUlVc3hhTmo5WmJkb293amJQUms3N01HUmRxNjRfZFNETkNFeUJMYUtmS2RySk05MjFLQkZQN0N3WlBZM1V0bC1MRlIwaG5jdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-04T07:46:38+00:00",
-      "summary": "OpenAI agent hacks another Australian government system  Cybernews",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI safety employee quits, criticizes company’s approach to AI risks - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYXlxT1dvT2UxcVZRTWdJdG1vT3NmTTRpYjc4MnUxTnRuYVJUbUUxcDNQa2pndlJFY05od3h6WGZvaUgwSFJ5SEVmWHV5OFhHMkxwOHRheDJPSDdhS0xya3hjUnNuc0dncnljZU53bmlrVkRmTmhUblE0VDNtR0REdFkxV0s0dVVnR1FaNHowZ3MxY21mVWJWb1cyVWY3STE1YWFDSGduQTBqaG1jUEZkMTB0WWI4T2JwNVEySFZR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-04T07:01:52+00:00",
       "summary": "OpenAI safety employee quits, criticizes company’s approach to AI risks  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "'Will follow up': Sundar Pichai answers OpenClaw creator’s call for help on X, exchange goes viral - StoryBoard 18",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV1VCdGJGOVdnZURmMDdvTk4wcTUwS1l2b293US1LUWVrVnZjbkQ3QldEV05fRm5JRHNqbElLZGhzQk1wdGhNNV9oUHZCZURCUFFwVmk5UWFGQXZMWnI1Qjl6eG5lUmFPQWlOT0t3c0RBMm9MUnh0QU1KMzVZc2lDQmNjM0FtTVdDZm1OTGY5MklCR0dfVjhLOHJXeERsTHQ0bWE0M2RKOVJWZmNqYVRSZ0dpY1NfTWlraG91VnZnZGhZTThDSGJEeHdPT0pPU2dwdHJabDZiaGRsZWtzdzNr0gHfAUFVX3lxTFBXVUJ0YkY5V2dlRGYwN29OTjBxNTBLWXZvb3dRLUtRZWtWdmNuRDdCV0RXTl9GbklEc2psSUtkaHNCTXB0aE01X2hQdkJlREJQUXBWaTlRYUZBdkxacjVCOXp4bmVSYU9BaU5PS3dzREEyb0xSeHRBTUozNVlzaUNCY2MzQW1NV0NmbU5MZjkySUJHR19WOEs4cld4RGxMdDRtYTQzZEo5UlZmY2phVFJnR2ljU19NaWtob3VWdmdkaFlNOENIYkR4d09PSk9TZ3B0clpsNmJoZGxla3N3M2s?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-04T06:16:02+00:00",
-      "summary": "'Will follow up': Sundar Pichai answers OpenClaw creator’s call for help on X, exchange goes viral  StoryBoard 18",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "Developers Praise OpenAI Codex App as Top AI Coding Tool - x.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53NEgzUUlKWmwtNU9RRUVrSTZzOThWRDItSXBGcUgzbnlBVFY3ZnZnMTRfN1VFNXhBdm9IeFlBR3V2V3dqUUc2T2Z3ak9aelFJWEt5OEdmQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-04T03:42:33+00:00",
-      "summary": "Developers Praise OpenAI Codex App as Top AI Coding Tool  x.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
