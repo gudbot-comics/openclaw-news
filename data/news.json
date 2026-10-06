@@ -1,16 +1,133 @@
 {
-  "generatedAt": "2026-10-05T22:04:14.572539+00:00",
+  "generatedAt": "2026-10-06T02:14:10.880547+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI Foundation awards $50m to 163 US nonprofits | ETIH EdTech News - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGh3STlSMHd2cVlIQWRyTkkzdGZPWmRJa0ZTVWdkWGxkN1FUYlNJMWJ0T1hRMW4zcUhuYWhqRkxZWDFZdHZGUVM2Z3R4dWhvZVl5SjcxMnhvZ2ZPQWhRS3JmamZiMEFJS3N0SERIY2lzZUZzeDh6OGRTN3FzcERSVXU2VlMyVGx6R0FEcGE3VzVvWEZqcHFVaGczSEJ5eHoweEk5aldSald4ZEVEaDRKb3FRS2V2aEFZZ0laNnRR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T23:08:06+00:00",
+      "summary": "OpenAI Foundation awards $50m to 163 US nonprofits | ETIH EdTech News  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Anthropic execs donate millions to political causes. One billionaire stands apart - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXpoTjBKd1p1aWg4V1RkdUxxR3RSV09MWDdBMXYyT3lnaXdSLTNYdm1Lel95Wk9wbWxXOWVpTWVWRng1UTFKcFp3YUVwcnN2YmRieUlsY2R4dFdJMWVJLXVLcnZmODRNOVcwY0VKbDZ6eGw4UzF5S0d2aWt3UXMyXzdFaFU2MjF0OXVySm9JV2dIVFNPNjlvZ2xvOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T23:03:45+00:00",
+      "summary": "OpenAI and Anthropic execs donate millions to political causes. One billionaire stands apart  San Francisco Chronicle",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is testing visual ads inside ChatGPT's image generation tool - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GemdQVE5TbFZsT1VpeEF4RjBvX1FoQUIza0JaSFpNT1ctRGZQTWZfem0wdVlvdktHTjFuSy1oR2F2ZjZWRVl0RkRIOEdraGxDaTNFSmVKQU5MWWFjWkVfM19NYUdLdm9ZMmV2ZGpzRk1ZQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T22:54:57+00:00",
+      "summary": "OpenAI is testing visual ads inside ChatGPT's image generation tool  qz.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AI Agents: OpenAI's Big Bet vs. Gartner's Warning Sign - cxtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55TVZtS2N0QTZUWFVzNDVyV3VfVnlvY0JHaDlIZGcwNGNHTDVKc1RoVVBqZjMwRlg0dHJ1dEFzWUdpYVB3N21TSHpoR01nT25aMHZIMG8wbkFwa2I2TWQ3ZDEtUmM4WUpBQ0J0a2NpaDdUVDVWVk9rNkRR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T22:52:30+00:00",
+      "summary": "AI Agents: OpenAI's Big Bet vs. Gartner's Warning Sign  cxtoday.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Secret stamp: OpenAI adds invisible watermarks to ChatGPT text under EU rules - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOG1PQzRjMXZVNXNGcWJzRGh0all5VWhsbnQwaTZDeFhPc3JEMF9vUjg4LWRpTTFqSXZPRXJFNzRVanpiTEQ2SEtYc3hraWJwcWpyWjdWcU5zcTFXY21nRWRFTXl3TGtNVXJ1SWN3VnU0QkY2UTd5dC03SnZ2c3FKS0NreVpFYmoyam1vUVNn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T22:50:00+00:00",
+      "summary": "Secret stamp: OpenAI adds invisible watermarks to ChatGPT text under EU rules  Interesting Engineering",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWZqSlFoeHdxYTVKcHloTERRY2tMSFNENHhMR3lRcjlGNTFXbzZiYS1WSDNBZkJqRFd2Rmo0VTdQQmU3eE1mSlVEZzRTQ2NMQkdCM0lZMTNCSFZvQVNyUnh2UUM3eVFuNGdXNGpJVVVHNGpkWjJpUWpPb3pXcEducFBSalpZYkQ0ckRuWFBOc1hGRHdGVzhxSE5CY3dSemNYNlpuRWRzVW9ldi1hdERlSkpleWc4TmpXLXRMQ0gwaUFwTy16bkZ3ekN6ajJMcGJHQ2fSAdcBQVVfeXFMTWI1TTJmYmNZVGh1SlBvSG44X2JFRTNUUFNfWHpSMEFQeUxjSnFaRTFXVVItVW54dENYUjlzSlRrM3JrSEFNd0U1QUZRbURnLUlacHVaN0xaRnhIc2VkYUE3V2VVVG9PMVZMN3NEcjQtRDFyaDRWempROUtLUzVxQk5MRTR5VDZkanJhOWo0ZVlTd1VMejJYYVdKSWJOYzJtWkhubFFwQW1TdjZDdks0V09raXY4NnhYWl9pUUN2cEw1MV9IUmRQdnZtVngzYjdnMzVDTTZSVmM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T22:46:33+00:00",
+      "summary": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU  BleepingComputer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to Add Watermarks on ChatGPT's Text Outputs, But Only in the EU - pcmag.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlBLOXhaYlZsNmh4aGV2d0s1VWxIaXRRYXF6RW9WR0ttZjZzdkJSQVlNb19YVWdfVlZVUHRXUlZDbU5oeV9PNGIwSWNHWmhPS3VIc3hzcThuZUlmcTFxaXVsUktQQTJQVVBCWjhjTDUwdzdkTmVtY1FCV0FxaFBpR1FFc2xVeklYYy10VVFJNHJ6ODJDc2doWFhNaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T22:33:58+00:00",
+      "summary": "OpenAI to Add Watermarks on ChatGPT's Text Outputs, But Only in the EU  pcmag.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Helps Albertsons Expand Its AI-Powered Grocery Offerings - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTkxyVmhCQnpuQ0FIMk5ZWllRa3Nva3U4U1dSM0hySUJCRGd6eGZjMFFNNmNyVVJqbjJxcGhTUGxjUDgzRzNfV2NXOURweTdvVnNPeEFMcERRWFctNlA2S3FKZ2pKTkYwbUJlVzc3RnRzM1dUdlhpS3haOHRCalRnS2MtVUtrWUVJdkV6RHp4OXNoc3U2czNYVW5KLWlRejJabXc5YUIyMFdSWEQ2VHpYVG1iQ2kxSDlQRlZZMW9B?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T22:24:27+00:00",
+      "summary": "OpenAI Helps Albertsons Expand Its AI-Powered Grocery Offerings  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says people need to 'accept some bad things' for the benefits of AI - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlk3TTFVR01UZUViRkFrajV5OFpWSnZvNnNFdVdpb1I4Rm9zWmRyTHo2MmZCa1pCTVNTbTUtaGpTSE8tQ1k3SVg4UkZtSUhqblpKWlBWS2VLQ182cExZa0l6NzZBWG4zS0tCbngxT0tuck9LUkk1NHQzejFyTUhQanRCX0QtYnhlSVRiN0RrZ29iYU4yWC05ZHA4VjNwNEZoaVJJQlhYaXgtYlE2UWtHTTlUX2U4OFRkdjA0S0pRczIzb2gtbWZOMV9R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T22:07:16+00:00",
+      "summary": "OpenAI CEO Sam Altman says people need to 'accept some bad things' for the benefits of AI  NBC News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default - thenewstack.io",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YcVlZSTdJM09ibS1LUHVOUl9BYlZYVWxkTjRFc2ZRY2pxcERwWVRFd2xyNXJLckZaWnJIdDUxYkJQVzZHRUlJU2lsR0ZNQVpQeTlJcXREUjBuNVRNT2U0OEpn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T22:06:34+00:00",
+      "summary": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default  thenewstack.io",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils ChatGPT Watermarking as European Union AI Rules Take Effect - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmM0ZGhwTVhybDA1OXhPX1dra1RITzhIemNSMGd3N0lpTlI4dDM3dktkckE5MGc5TWJqM1ZGTjNaRW5Pbl85RTdqWDBDWVA2STMtanJqU3NxZURBRG8wN2p0NHJFN3I0Nkp4ZFcwdFFzUG1LNkFrNmV1cE94b2x1ZnllYjMzMjdacEdMR3BHWm9paXhRSy11eHktbGVhZjJrUXZCLWZZQ29JWVV0NzBwUDZjS3JQRWJ2c3BMTVhJWW9vZmV4ZDgzZXFXMWV4N2tPMUQ1ZQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T22:03:40+00:00",
+      "summary": "OpenAI Unveils ChatGPT Watermarking as European Union AI Rules Take Effect  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Plans EU Text Watermarks for ChatGPT and Codex - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmZiMmpGcEl4YW9KYV9VQ3JpbU9zZ0Jacm93a0RQRlJMNTFuRjhBWkZYaXhyVGNuOFU3ZXEtQzBIVVVXdGlBLVNwN3Z6MnMxdXVGSDhYOFlBNlNpNXhvX2l3UWJ2QUJRbklHZlVlWU1USzN5d0Q4UEZEcm5FelVnSDZIci1HUEdRMXlkMDZ0eVFOejJoZ09z?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T22:01:49+00:00",
+      "summary": "OpenAI Plans EU Text Watermarks for ChatGPT and Codex  citybiz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "At OpenAI Forum, Discussion Focuses on Stronger Teen Safety Measures - Education Week",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXgtMHdMaHhOR2JzclhWWWxocDZFOVNVZW83dUdwVFhkRzBCWWtfOEx5aGVRLXI3S0tLY3NtakE0ZTFud2JIUWJDeHdFeEgzSG4yRnRvWEVXNjAzQlRHY0wxNmpMaWFUM0w4Tkw2Mk1yOG5icG9kYnZyNE1EcTQ3SnJIc0xxNkhkNldtZlp4MUhuY0tBbi04bG9qVy1EcTlzZmV1WWpjWmNTdFBOX2c?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-05T21:56:47+00:00",
       "summary": "At OpenAI Forum, Discussion Focuses on Stronger Teen Safety Measures  Education Week",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is putting ads inside ChatGPT’s image generation - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03Vks5U0IwYURkcW8yVmo3bnlSZjVzZDdjMFdYdTNiNl9rWEZ1RW1sN1RpV0NrRjZkcEZ1SGp2RzF0R3dZVWR5QVY3WUNKdXZMY2JqZkFGRHlMRmRDdWZBYWd0anA5dFJD?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-05T21:53:20+00:00",
+      "summary": "OpenAI is putting ads inside ChatGPT’s image generation  The Next Web",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,38 +141,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Rolls Out Text Watermarking in EU for AI Act Compliance - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVk2U0lHeldFVG52SWZyMVR5aXZTMlVFYjlJUmlVdnhVR2l0WWpsX2FWX2xCYzJ1VzlRMEdyZXhtZG9XVHpEbWw1X29DY2ROY1ItTGloMExaV1NZVjdObFVpMEFRQVRTQlVxQmM4MzJzblc0M0c1WjctcGxkcGk2UURjUlRHRmZqRFlIWjhwS3o0c05PV3ZleWpoMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T21:35:00+00:00",
-      "summary": "OpenAI Rolls Out Text Watermarking in EU for AI Act Compliance  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool - The Record from Recorded Future News",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FUzcxNm53Y1NuUFJraEhpajEzSWVrMzNVZ0hreGIwdHRROXpHMzBseS13N1RxLW1rRHFybXBETVlOWVpxcE85d3JzSV9SZGJIcWE5T19yTVV2amRPUDRKS3IwQ01abURnOHJpeGcybjVlb1k?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-05T21:34:21+00:00",
       "summary": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool  The Record from Recorded Future News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI testing visual ads in ChatGPT image generation - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GemdQVE5TbFZsT1VpeEF4RjBvX1FoQUIza0JaSFpNT1ctRGZQTWZfem0wdVlvdktHTjFuSy1oR2F2ZjZWRVl0RkRIOEdraGxDaTNFSmVKQU5MWWFjWkVfM19NYUdLdm9ZMmV2ZGpzRk1ZQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T21:26:37+00:00",
-      "summary": "OpenAI testing visual ads in ChatGPT image generation  qz.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT Creates 3 Billion Images a Week. Now Ads Are About to Enter the Picture - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEJKM3lwNTBENEszWEtCbjBMYlVuaDJOZzQtcUNNOUJWSXVFSjczbXl1aWM4MHBTV0hBZExYQUFpSGZRSWpGWUVVenVGTUpvbExvQzd1RVBBX0pGLXZUdVQyc0lnUzF5dlZPbnIzSm5rSVhrcW8yODFTdkhGakcwVFN3MFd3Z1p2dmxyM04wZ0FZNFhQYWdHRmVkXzZENElqLUxuOUlOXzV1endwQzFpWWhVR0s3Nllx?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T21:22:30+00:00",
-      "summary": "ChatGPT Creates 3 Billion Images a Week. Now Ads Are About to Enter the Picture  inc.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -69,11 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "‘The open web is a public good’: Wikimedia on rogue OpenAI agents - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWdrY0hCOGFEMFZ0SmNxT3JtNWdaaW1lSzItVEpXN2NDa09sQ21ZWE53eWp6YjIySERqRy1TNEVfU0FGWjNlbmxwWUlnYXIyX0xRUFNhbG9hcWhGZUhSZ0hpSDVydkVfcTEydGJXTnptTzF1R2pBRl9PQktsclEwY21mdmM?oc=5",
+      "title": "OpenAI in $30 Billion Round Talks With UAE Funds, BlackRock - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTEFudVN0U3NjbUtUYXpkVVZmdWJnU3QxaXhmYXEwVFdsMDg2LV9POGNWMGtQdktuOTZhbmZVNzZKQk05UWwwSjRpYnlDbXpUTnF5Z0VWMXNiMmZJMzFJT1NUaWF0amxob0I1Sm5Ka0Vma3RkUy1OWWwxSk1IUjV1SGRhUWFfOGZhTjkxNTl4bGlBYkR2VjZpMzdBaS1xQ3BuSTA3MGcwSnlnX0xJOEZkWlhR?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-05T20:57:51+00:00",
-      "summary": "‘The open web is a public good’: Wikimedia on rogue OpenAI agents  The Next Web",
+      "publishedAt": "2026-10-05T20:46:28+00:00",
+      "summary": "OpenAI in $30 Billion Round Talks With UAE Funds, BlackRock  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -83,15 +173,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-05T20:46:00+00:00",
       "summary": "OpenAI details new text watermarking system for ChatGPT, Codex, and the API  9to5Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Add Watermarks on ChatGPT's Text Outputs, But Only in the EU - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlBLOXhaYlZsNmh4aGV2d0s1VWxIaXRRYXF6RW9WR0ttZjZzdkJSQVlNb19YVWdfVlZVUHRXUlZDbU5oeV9PNGIwSWNHWmhPS3VIc3hzcThuZUlmcTFxaXVsUktQQTJQVVBCWjhjTDUwdzdkTmVtY1FCV0FxaFBpR1FFc2xVeklYYy10VVFJNHJ6ODJDc2doWFhNaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T20:44:04+00:00",
-      "summary": "OpenAI to Add Watermarks on ChatGPT's Text Outputs, But Only in the EU  PCMag",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,11 +195,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI executive Jason Kwon to face grilling at parliament about AI hacking Australians’ private data - The Guardian",
+      "title": "OpenAI executive Jason Kwon to face grilling at parliament about AI hacking Australians’ private data - theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWWJrMEVhY2lNc1k2WTE0cFV3UktUMDRjTC1TbzZ2Skp4NG0wRmQ4alBtTVhWVlpZQzIweFEwVkFscDZkdEVuOVNuUlR3RVBSTmdsZFJXT25wTFlzd0NBS2h1SnIxaUNPRF9aYl8yNXB4TmZrOWdIQUN0NnhKQnI1ZGJ0TmNFZXBhVE0xTEFYMk9Vc1draW5sc1VzMTVOdzVlWm9WZXhVYWF4Vk9heDZJdGtPdmlmaWprTDNiMnNNUkZhbjNCVkl1OGlpdkZXaGpSdE9tY3RQRjRqMmd1MlNycndXX3hQcTJ1Nmk4d1JpLUxkLWM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-05T20:27:00+00:00",
-      "summary": "OpenAI executive Jason Kwon to face grilling at parliament about AI hacking Australians’ private data  The Guardian",
+      "summary": "OpenAI executive Jason Kwon to face grilling at parliament about AI hacking Australians’ private data  theguardian.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -137,87 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-05T20:18:04+00:00",
       "summary": "OpenAI is Introducing Ads in ChatGPT’s Image Generation Feature  Thurrott.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s models reshaped its Jalapeño chip in ways it couldn’t explain - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jMm5TQ3JMWE1tZU0zOHVVLU1wNFhiVlZ1b0U3NWtjc1NYbFpkb2w5N3pfbkk0cTNhdkVtVzZMN2VUTnZaQ0VueUtHUmNrWEhlTjdBaWZvbUpOdU1VeDFvSElXYXl6MUN0dkRISVh5SjJmX3l1QkJYeg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T20:15:00+00:00",
-      "summary": "OpenAI’s models reshaped its Jalapeño chip in ways it couldn’t explain  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI moves to make ChatGPT Ads more measurable — and more visual - Digiday",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmlSLUE2dXNFV1ZKYXJoa1VqcFR4eG5FcmtxbHJyVWlQaTdrUzNYMDRYQ1hQZENxNEZlcG5oRGx0Y3hDeGJybnhhT3d1czFaSlJqUnkycFRHZ01NOXNKTDE0VHV4Tm5rc0JxNHlkQkVmV3JYYV9TRHBmc2NoYzNtRGVjYkRkVjRXd2VKTXB6bmVzYnpfbjlXVThESQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T20:12:20+00:00",
-      "summary": "OpenAI moves to make ChatGPT Ads more measurable — and more visual  Digiday",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI - SemiAnalysis",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmlsblJmOTI4SDVYR1hzd3lzNEVkM0JONGV0ZUJjZXpWRjdzaW85cjNIclpLZXJVbzQyU0VkbFVzX3VuM0M5VkZ2MlowRG1DaVc0ZllobllaLTBDaFlrSllvRmpqZVBMS0E2b1NNRkdwMkNnT0xxSFhn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T20:01:09+00:00",
-      "summary": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI  SemiAnalysis",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "California Subpoenas OpenAI Over AI Agent Cybersecurity Breaches - Security Boulevard",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU1hOZU9BRlg2Q1JQNWJTcHR3a1BwdS1OQlI0N3NRbExkak5GLTFUWU93YkQ1R0wwRVN0MFFuLTRnUWhjZzZTd2FJaVY0ZloyQzBOc2tMU0FUV3RsN1BjZGlEOWdhc3BBU1VTU0tGUnNfdC1iaTF4UHhheDRpZGtfRzVadGlyd1dLLXMweUZDc2JPNmJ0X1FDYkhINUY2SEhhNENQV1Vn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T19:58:57+00:00",
-      "summary": "California Subpoenas OpenAI Over AI Agent Cybersecurity Breaches  Security Boulevard",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Wikimedia Links OpenAI Agents To An Outage And Unauthorized Activity - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3hSc2tjNm0tQTBFeUZLYm1WYmlrSFF5dnZGWmdQUUVsV3hOV0lORUM0eXhrYnc2clUtSi1OYmN3cVFSR2VNLVk3V0w0NGxYcEJESHJFRGx4aXItaTE4X0xVNlJxWGExOERqY1YzWHZ3VmFWWTRNUTFRQUpnTWdtMXdvWkZ2UTZVMFhjN0Vmc2xuY3daRVFUbGZtbzBkeGpwVlI4Xw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T19:55:11+00:00",
-      "summary": "Wikimedia Links OpenAI Agents To An Outage And Unauthorized Activity  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Ex-OpenAI researcher tells NYC lawmakers AI safety fixes may be 'duct tape that will fall off' - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMC1OZFVHa1hpUlNwOGhCaGlROXZveUpDdWxuNGM5YTVnVEFLNWRaUEJCanp6ck9GallxZm95Y0hnVXhIcUhrNWhPLW9ZOXFZck1aMVJNWE5QLThWM3hxRDNiZWJTazdkYXRBcERsOC1waGRBSHo4ZVNXYnhONXlORC1saHo5WnB3OUZEcmdyM2p2TzZHNDhaYVlJc0I1cW9EbXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T19:55:00+00:00",
-      "summary": "Ex-OpenAI researcher tells NYC lawmakers AI safety fixes may be 'duct tape that will fall off'  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Sam Altman says the world must accept AI’s ‘bad things’ as industry leaders sign Trump's safety pact - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcTBQVElxTTdyT0Z5QmlKdFpjTWdzYnIxYm02UVJxeHRNeThyNmtwTWs3Rk16WGR3dk1ib3Jma3hOdVpTNk5jNl9KUXl1dDlvYXpiM282X3BtSWcyRlUzbHA2MV9jeVFRbWh4eXNnU084RXBnU2Z6dUQtSUZudkZjaDJ0MFFwdGF2aGVEQXpLZ0dNalp6NnRlanVFMWRrajVHaWpEcnBuejNlal9XXzBhZENScnFFWi1y?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T19:55:00+00:00",
-      "summary": "Sam Altman says the world must accept AI’s ‘bad things’ as industry leaders sign Trump's safety pact  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Rolls Out Text Watermarks to Meet EU AI Act Mandates - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlhjbDl4WnNwb2dWQnBPS0pnbzc3N3ZoTDBVVEtTUDJuY1lHaDZTSTlSdzNmY0JDNjZIYzQ5ejFvYWVORFZwS3FYVHpFQlZFSTk2dUMwSGlkYU9qYmdMWThCNUU3ODdPSzZuSEdQMWJvM1ItQTFvX0dnOXBiS2VaY3BMMkJ0aDVuQkJ4N1ZrcXJ0YWdWWXBqbUthNlZTX0N5S0ZOcjY3N2xGdDhobE9yd0ZxclRkY3QyRWJKYUN2R2kzZWFW?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T19:42:22+00:00",
-      "summary": "OpenAI Rolls Out Text Watermarks to Meet EU AI Act Mandates  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Dots vs Meta Muse: Why Dots Cost $100 a Month - Geeky Gadgets",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0Qnk5QUxCTHFkelJsNm41eEZJcm9DZXdUNF9jMVRjVV9EaXkxc0R2TW1HVGQ0bU1nOHE3a0JwR0JtTTZVdzduMF81TzltLXlacXM0WUNEbFBoWU16bDVqMmU3bGYtZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-05T19:39:45+00:00",
-      "summary": "OpenAI Dots vs Meta Muse: Why Dots Cost $100 a Month  Geeky Gadgets",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
