@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-10T00:11:01.550157+00:00",
+  "generatedAt": "2026-10-10T05:58:33.961125+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "A mathematician says OpenAI wiped out entire research programs in one day - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVFtM2J1QUpoUW84Tjc0cE1OSmFtTVVtNGhjQm5ZX1RsVGRKVmtqcFVEWko5MTBRTnRCc3lpTndDbmx4UFNJTWlVRHhEdkJwam5hcjZCa2FGMWZMN3FjQ3RZQ3Z4bmNUX05Jb0E1QkczNXFGMl9JUVBoTjIxUUFSdVZJZTJOR21oMnNQN0NIMElfT1psZ0xpSDBjVVV0cEcyX0xuTWFpNmg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-10T00:16:00+00:00",
+      "summary": "A mathematician says OpenAI wiped out entire research programs in one day  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI - Fox News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02R2JXc3R5SUdoNWI2bjZKZXZzM0VaRHRDTDkyaDFnd1J3dDIzaE16c0V1X0owNElaY3pmR3JWajMtSlRVNEdiN2Qwd2Jtd1k4bXhob05yNEpWSE1IY2hPTnp4TGRTMWFzbmtBWHMyUkFvODBkYVpybmwtNzI?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-09T23:42:23+00:00",
       "summary": "Google unveils new cloud-based AI agent to compete with Meta, OpenAI  Fox News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Trump’s AI rebrand raises an awkward question for OpenAI - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYk1QLVdYeFZLRTFhY3lxZTN4MmVUSTkzRnF6bFFpbGpXNzZiSXJsek1MbUFnYzJZaGtGWTlfMjlfN0FuSnY0SE12LXVORjZjSlJzbGNwZm9PaEhvNFNLQkxDTktScXJQSER5bGFNeVpOSGRKdmpWNFZVeTJvMXRsSXJmdjlqMVJDVmh4R3ZEVUp0dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-09T22:55:47+00:00",
-      "summary": "Trump’s AI rebrand raises an awkward question for OpenAI  Fast Company",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,15 +51,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI fires 3 safety researchers in dispute over AI risks - The Journal Gazette",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa2c4aUpKN1NkZWhmZm0xTmZJeDZGRi1PZnhsMXJpcG04OFpDdHlVN2tuQVJ3UHFnOExfOXBGcC1FV18xbnoyNGlCSTVFMEl2UnItNXRISmZJOGVCbkRTeEdYX2d2NmIwMTZwYWF4VDVXRnBFUVltWWxXZi1MMlhpLUF2YVBpM0hiSXdHUTEwdFZVUjJsSVJEY0J1eThzUWE4eWotSVFkakhHZ2w5ZzZ1X1I0UDEwdEFXN0JELTBLYXc5ZjJfbWUxWUdmQnF1MHRIRlc0MWg5VnFfdEhQVmtiZmtWYW1NUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-09T21:00:00+00:00",
-      "summary": "OpenAI fires 3 safety researchers in dispute over AI risks  The Journal Gazette",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "The hazy OpenAI growth metric driving Wall Street - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUG9JMXAxUUtSMVdGU3MwdmpPM2JRdU5wTjMyNU1uU0JRVFV3ZDNreGxLdWFEXzJubjNPdkVIMldvcmNoRGRjQlcwel9NVS04MVV4bG4zRmFzZHY1NlBhZERsZThxeFFhSzNIWDF3eHU3TGxBcHFiM3NVVkN5dmZkUVRaSkY?oc=5",
       "source": "news.google.com",
@@ -69,11 +60,29 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUpYS29va0Q1WURNaGhvM1pxdW5MM0ZoWDdfOEpOanJFZzRzcmQxbFh2Vnd4Z1RsNmlfRm95eFUyazhmaUtZcUpkaFN1NU13VmRSUFVYYVU1VGQtTElIRkwyTFNhcV9EY1dOMjlaSVYzLUo1eWo0TjJDbTVyeWE1VXlzQm1MZVE4SjJ0Qkh4NkExaW15RUdJbzlHMXBEZ3oxYUd2UGREYlFTR2da0gGsAUFVX3lxTFBNSlhLb29rRDVZRE1oaG8zWnF1bkwzRmhYN184Sk5qckVnNHNyZDFsWHZWd3hnVGw2aV9Gb3l4VTJrOGZpS1lxSmRoU3U1TXdWZFJQVVhhVTVUZC1MSUhGTDJMU2FxX0RjV04yOVpJVjMtSjV5ajROMkNtNXJ5YTVVeXNCbUxlUThKMnRCSHg2QTFpbXlFR0lvOUcxcERnejFhR3ZQZERiUVNHZ1o?oc=5",
+      "title": "OpenAI, Anthropic are preparing for the worst: What an AI disaster could look like - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVpoYjJldUxDMGZSanJPaG1CS2EtY1Jvc2VQLWlIOTFJUFY2Zk5vMWl3QjRJMVZxU0cyQjgyaEIyQnRXQnR5U0pMY2NMeUlVeHVrWi1DbWRSbDlqVDRqT2hzZ0xtRlROM1RmTTNYVkFyNVJIVTZxYVdzZC1XNEJYR1llWWxPdzBnUzRpanlIcmF5dmRmQUFLZ1JZaFl5M0o4WHFKbUt6VkxQVldwM3dYX3NZazVTZndaYVQ0Q25Wb0FneU9BV0E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-09T20:05:07+00:00",
-      "summary": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers  MarkTechPost",
+      "publishedAt": "2026-10-09T20:22:24+00:00",
+      "summary": "OpenAI, Anthropic are preparing for the worst: What an AI disaster could look like  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUXc4a2RfdVJiX2R1bTAtbEtocVd6cW5sTGhjVUE1UTRmaXp3MG1teURXenNlWUlQN1hlUGdJcFcyZkNrOVVzaDhFVlFHRUtBRlpSWjl5dUZIN00zTEptaFdTeFlsWU9PT2NJT0lOR2pfT3F5ODRDV3E1SWVrMmtSLXNkaXVocWlFSU1YWTNiNUduSmVNaGRiQXk5cHF5dEdq?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-09T19:47:01+00:00",
+      "summary": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Plexo Capital’s Lo Toney on OpenAI: Confusion over a revenue number can trigger a sharp reaction - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNlRKOVQ1RURnV2N0eVExZ1p1SzFNdTE2UFF5LURHOGlRQ25qY3Q4WVdIaVk2MUdZcS00UTQ4dHQweW05bVRCS2xlQW93Znh6a0FUQk1SQlNjSndBVDByX3FYY2dBdlM5eTg1Z2gzSURiaVJYWE9aZkx6dVpTVUROMGVLdUpzRGFsTHRWel9mV2Vqc3V5eUxjMkJOT29nYWN2ckpHbHM0VkN0dnQtQklKVnNHUnJPMm5iUC02dkpGMnVzcGdTd2lLc1hNU2M0WE9HNmYzaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-09T19:38:30+00:00",
+      "summary": "Plexo Capital’s Lo Toney on OpenAI: Confusion over a revenue number can trigger a sharp reaction  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Wargaming Response in Case of Public Revolt After Catastrophic AI Disaster - Futurism",
+      "title": "OpenAI Is Wargaming Its Response in Case of Public Revolt After Catastrophic AI Disaster - Futurism",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXVReDZlOUpaWTBfbndIa0gybThrOXEtU1hYUHZBT3I4TGNQM0NURVlTMzU0V0NCYThrZmcwRW1YLTJUTFBJN0JKaUYtc0FEamZ4amhNdVc5bGVzN1dOQ3RGaGdxWlE4YWJPaG00UTFEemlLX0pnei1XUEdtVHVOQXNOZktDZ3VDNjJoT2hieUp4YUNf?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-09T19:00:32+00:00",
-      "summary": "OpenAI Wargaming Response in Case of Public Revolt After Catastrophic AI Disaster  Futurism",
+      "summary": "OpenAI Is Wargaming Its Response in Case of Public Revolt After Catastrophic AI Disaster  Futurism",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -108,26 +117,8 @@
       "title": "OpenAI to bring in $20 billion less than previously expected - Mashable",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wRW5JWTFpTG5WZ0taSEZ0YUkwUlJhV3Z2S19uNElZV3BoYnVpQVJHaVBrU00xLU80S2dYdFZNUV9NQlJxMEhzOXRQN2tSNTZtaHh5ODJRSXdENXdMOXZEV1c0MDRMc2c?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-09T18:59:42+00:00",
+      "publishedAt": "2026-10-09T18:58:49+00:00",
       "summary": "OpenAI to bring in $20 billion less than previously expected  Mashable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI, Nvidia, Anthropic, and others pledge $2.4B in computing resources for Trump’s Genesis Mission - The American Bazaar",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXlHTTZPZTBUWUFHTmotTi13NEZvcllqRERNZDIyTlM3Tm1iVmtaQmYyX2Z4ZW5tb0tOMWVoM0lwV2F4cGlGZ1U4UmJtSFhna2NpLUZ6MWI2OHBzQ2xFTVg1Z3VlX0tweXhxVHF6VWUtTUx2UWRJOXlHV0lZejlYUzNYczJlWUlKY1NUR1JrTUhuYnFEVnhack5jYUtTV1lCa1F3MkpTeElibWxsU0U0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-09T18:50:51+00:00",
-      "summary": "OpenAI, Nvidia, Anthropic, and others pledge $2.4B in computing resources for Trump’s Genesis Mission  The American Bazaar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI defends firing researchers who raised safety questions - Washington Examiner",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDdGUzlDbno2ODFHQm5TZzFTbjNlR1I1UXR2cXpsaEE0UHFfSmJEMkRkWEtqSFo1bWIzQ2V4Z2otUzJ5RnN4WlhBeGVPaXlvdVNYdEpqOWI2YVhGWkVYN1pzOGxpYVlzNnptOFVJMVRXUEJwOWxFVkZWbW1CMFB1aHVCQVAzYTRSdHUyVUxoeEZyTDZuTFY4dlV0Q25CTXA0RWFtOHlRR1ZTLVM3WGdvMTZIa3hNdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-09T18:40:00+00:00",
-      "summary": "OpenAI defends firing researchers who raised safety questions  Washington Examiner",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -186,11 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "'Black Box' Revenue From Anthropic and OpenAI Stumps Traders - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkhILXo3RWYzbS1GOWtma3NKS2p1VnhtWFE3QmFLMzhwcExvVkpYSmpKUDJXQzc3QnJUcVB2QmxyMHRaQUhrOHFLU1BmdzRHcmFNTFlvNjM1c2R4UnFweXl5TmJhZHdrSFhDSlhLYXRBRGZSZUlBRS00TGFycFFrTHI3Qk5OU2Vuc01fZURJaFUxUmZ2bXRxa0hzT2xTSThSWDJIeGtSSDFOZEF3SXBidmFR?oc=5",
+      "title": "OpenAI Wants ChatGPT Ads to Become a Permanent Line Item in Agency Media Plans - ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXhvY1FQTEZBcV9xNWd2NjRRRklxZG1GQUJOVUlMcXplZnphVWVILXJsMENncnQyVXYwNE1RbEV5dmpBRkVkOW9tYmpqdzRwdkJySjJOWHY4MFR6S0I2MUlROS1yakEtd0Etc09iV0N4c2VrUnZPZkt1MXo2dkJCREk0TnV2dUVLUG5rdXZvbnBEMk9TZVRSOVltX2dwUUlIYjVhV1ZfYTItQmVS?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-09T18:23:00+00:00",
-      "summary": "'Black Box' Revenue From Anthropic and OpenAI Stumps Traders  Bloomberg.com",
+      "publishedAt": "2026-10-09T18:24:04+00:00",
+      "summary": "OpenAI Wants ChatGPT Ads to Become a Permanent Line Item in Agency Media Plans  ADWEEK",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -218,6 +209,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-09T18:00:07+00:00",
       "summary": "Ex-OpenAI Safety Leader Says Sam Altman-Led AI Giant Warned About AI Risks While 'Still Training and Deploying These Dangerous Models'  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-09T17:53:14+00:00",
+      "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
