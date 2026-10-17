@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-10-17T12:59:53.777262+00:00",
+  "generatedAt": "2026-10-17T16:17:14.938631+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeC1FWUplYTdoakc0bVZpYUhDSzI5Z3NGVm5IbERyTS15U2x5cS1zYUo4Q3B3aEM5T0kzZ0VWMGgwRDBQLXQ0S0xDWDNoSUZXbS04ckM0R0lRQ3N6NVZkc25qc1JfUlY2d2RQZC1MYXZGOGlIdVJzZklnaGVmN1hTWVF2ck1wM2t1VGIzZVhtWndxLU5yMnJIbVBVakF5d2EtVUlXblNSa2l3Y1hWbEdRR0lKT2x6SHdO?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-17T15:38:40+00:00",
+      "summary": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet  The Decoder",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "States sue OpenAI, saying it gives life to 'cyberhacking agents' while ChatGPT hurts children and deceives adults - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmdaME9UZTNjODdob3gtbDdzRnU3RnY1N2tRdzlYdVJKOHpMbEdIalBpY0JaNFV3T2pvLWhZajVRQWJYTkU2ZWRLQ3pfMDB3WnFSd1lEUkQ1bG5pX09GNVUxUl9XcWJaa2ZkVVpycEJCOUotY1FRNklrUzR0aUF6SWV6TGlCQmpxUHdmbmtNbERpOThFRG55bzdoMFdib3NYNnpjdg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-17T14:32:00+00:00",
+      "summary": "States sue OpenAI, saying it gives life to 'cyberhacking agents' while ChatGPT hurts children and deceives adults  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Rockefeller launch US$50 million cities AI fund - Cities Today",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlVzWGVja2VyNzMzalgxQ1NFRmxxbHZzdVItVERSRUtPMC1SR09ESktpdWFfRk5LTWVkRDhmc1JuSWZPNVFGZ19NN2FKZ3ZCSkRRX2g5QThBR0hBbWZVcjZzVW5tSlV3U1hBLU9Cb2JjOTZjUHI3YjNEM2xzRWFWLTNmOEtxRnU2QTNR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-17T13:52:19+00:00",
+      "summary": "OpenAI and Rockefeller launch US$50 million cities AI fund  Cities Today",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘AI must remain under human direction’: EU puts the AI Act to the test - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWFISWdkdm9aNF9sTUh3SWl4a2tQemJabEV5Q1ZZamVZNnhPMTBuZVNSRWU1TEVmSGdOaFRxVkZKVmxyTGs5RTBQV2xrSjBGVEpYQWg3SnRFenc5QTJCa0o0bGEtcXJ0QUY5WGN5YnUyVWh6cXAxa2d3RDVqYlhUQ05pdWk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-17T13:26:16+00:00",
+      "summary": "‘AI must remain under human direction’: EU puts the AI Act to the test  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzQ0SDI3d0kxMkg3cmhGVlY2azI3RzF3aUs2aWtUWEloT0NoYlhtNlh3cGdDeEwxTjNxekRwT0owUWc0cWVTZTktbzFueG02LXB6VjRBaVdCUlJUYVdEcXhFd2lqOW9tcENHRTU0a3RwUWt6SXdXWU4wdndFbWVuSVBFQUE5MnM1cVFxWDBSLTBhR201Ymt0SjFkZGJVQjZNeHpwUDZMbkY1OGJtamdOZ004SzRPWnB0NXhfSw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-17T13:00:00+00:00",
+      "summary": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco  Los Angeles Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUVhrOERCcE5MVGRScEo0MHNYLWJvX0tVTHJUeHBmSmpNYm56aklvR1RpNVExakZ2eGk4Tjg2NEhFVl9NREZTR3FDNW15ZVVFQTF5aFZPSkhIRkQ4RFJITl9mS0RDRlBuZDdJMWVRMkFYeWRrVU5MN2FJa0hNTjVLa0FJZXBWeEU0dFlQTWdR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-17T13:00:00+00:00",
+      "summary": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test — rogue bot wrote a script to find accounts with public seed phrases, took funds to pay for gas - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZnNFVnlsajY4aEc0dDlDY3VmZU53YUQtenVDTEZsdXJUb3pMSmctUXRueTg2MkR6d05OQzJtenpGOUhmdnJ5VXFtNzItS0RGTU1pVzgtM2NKSWxpX2ExLXp3aWRWVVc3MWhqdHJoTmxwZVNacmNqTU02R01pMUhHR2xlYTJHU28tYngtR3RtcmMyNWNPclN0WnhaQnBCajgwWXJoN2FaSHpZRmlINWdmZTRrb1Z1VXlxWTVucGRkU1NyTXBKNmlwY3JuVXZ5VFFUMThWUGtabFRxaFl3QW1sRXJnaXVyMGR4a20xZDVFQmp1NHlJTl9iaGU0b1U4ZnZFaWxBNw?oc=5",
@@ -33,6 +87,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI, Oracle data center fines for trucks on dirt roads nearly reach six figures - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDRSeDVnejk0andUdlFwN0pPdlg4ZXdyaVUzcHpXMFRCUTZBM0RlQjZmaWhjNVlvd0hHVWRwVHktYkxGLVhIT09iV09CUjlmSjdNdkdWVURRUFN0S1Q0czdYSnJrSnBwMEF6MDVfcGoybENrN3piTldnM3MwdkhvZFhGVjlNaW0yMDlya2ZMR3piRzQ3MkpPelljWndEeGVmdDdkcnBzZ1JrcG1CWUE1cURsdGFHdkNiUDVXUkdUWWkycGRpYnFjN0N5cw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-17T10:00:00+00:00",
+      "summary": "OpenAI, Oracle data center fines for trucks on dirt roads nearly reach six figures  MLive.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "What’s Working: A Durango nonprofit gets to build AI that will help caseworkers spend more time with those they help - The Colorado Sun",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDczV3RRbmxmWGU4T0t3WE5EOXBPdEcxb25HQnk0blRvRUZ3QVRvajRjbHNOOTd2ZjlOMklXNWc5LVNjRzlmZk1XWHpWZmlOdERoeW9HSm80RTVWcmF5UUxJQU1COHJBcUNILVNzclhiVUhOUEJON3RCeVNNUDg5dURVdVl2eVRyei15bVdncG1FVjFRY3VxQnRaSQ?oc=5",
       "source": "news.google.com",
@@ -42,11 +105,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI, Oracle data center fines for trucks on dirt roads nearly reach six figures - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDRSeDVnejk0andUdlFwN0pPdlg4ZXdyaVUzcHpXMFRCUTZBM0RlQjZmaWhjNVlvd0hHVWRwVHktYkxGLVhIT09iV09CUjlmSjdNdkdWVURRUFN0S1Q0czdYSnJrSnBwMEF6MDVfcGoybENrN3piTldnM3MwdkhvZFhGVjlNaW0yMDlya2ZMR3piRzQ3MkpPelljWndEeGVmdDdkcnBzZ1JrcG1CWUE1cURsdGFHdkNiUDVXUkdUWWkycGRpYnFjN0N5cw?oc=5",
+      "title": "\"Shouldn't Accept\": Nvidia CEO Disagrees With OpenAI CEO On AI Incidents - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa08xVTNrZkZLakpwcWNLZmdXWVEwV3NlZ2FjclhuSi0yd1F3ZjJIQTFBVnBTVTZ5bzVobEpicW1HTElWNjNtaWkzY0drTGJvRHNmeGtkMi1WOW1UVXB0dTJCOG1wYjNuaTN6SktUT3dSeTk4N2dkcnR0N1dnRE5Nc1BiN3JBdjFNUzlrWGlwWXotS2ltdGZ3ZGtHSW9fSjhaSkFVZkFwY2VJQjlIUzhoNUhqaTlXbnZLZThzYTFZQUNsOWExa3l6RWtqaE9hQdIB1gFBVV95cUxOVFpoMUh2VDN5NzB4TGgzTXAzbnZuLWtrakFXYlRFc291ZU5jSENMcFpqbXpZSWUyVnN5QkhRY2xUVUlEOGdSLXhldm1uUURmdVptZ0d6eTA4UzZ2U3ZNcGtFc3paRzhka1lOQVdrNGw3b1phelRqSDg0aG9kamgyYWRMSUJXcDdXYndGazBFc3BSdDhBaF9VdWNvNGpBUFRLU2diRGxlM0xjQUYyaTRjYzZDbGJtWVF0bDBQZmppT2dPTlI1X29BQVJ6MmNORHBYNjFpNWhn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-17T10:00:00+00:00",
-      "summary": "OpenAI, Oracle data center fines for trucks on dirt roads nearly reach six figures  MLive.com",
+      "publishedAt": "2026-10-17T09:09:35+00:00",
+      "summary": "\"Shouldn't Accept\": Nvidia CEO Disagrees With OpenAI CEO On AI Incidents  NDTV",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,15 +128,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-17T08:50:24+00:00",
       "summary": "OpenAI’s GPT-5.6 Sol AI Model Spent Unauthorized ETH to Deploy Smart Contract  Brave New Coin",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Clayton warns OpenAI bugging case highlights threat to U.S. AI leadership - Free Press Kashmir",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFpyTFI5SkplbGNzNThRNUxKTFdWZTFKalVpSk1jbGN3bHRHZ0c4VWJnWjFPMl9JS0lBbzlIU0R5ZFRSMG4xeEFfdjZ2TEREWE9CUkhBV3VmVk9PajRsNXVJQk9fTXRxcHdmX1BsWkFVMktrQ0I1MmZXLXBHM1R6NF9PdEUzeVQ2VEhTX3BvMlBlUGMtVFloQlhqS0FILU9zWWluaExuLUpDRFB4ZXFFdTBSOG_SAboBQVVfeXFMT05JdFpVVEtXTGs4bkVTTkpOUDBZMjFJeGNrUDlheGZRZU8ta0VMSWFya0RqdkxnTGt5YTlOVWNrQkZhNFpzSnZYT2VxWVFWQTRIZjFOWG1wVkJsTFNnUE1zTWdtVzU1LWw2QzV5RUpnQV9QOHFscmpWVkpOVTdfR2dRLU5YZkZvSmtvcjdzNW9oLVp0T1ZoUW96RnN2Ql9jbUd2Q2tuUEJZREdsTFhrdDNpQkpxZjZsUFF3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-17T07:38:30+00:00",
-      "summary": "Clayton warns OpenAI bugging case highlights threat to U.S. AI leadership  Free Press Kashmir",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,15 +195,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Replit Dumps Anthropic for OpenAI, Citing Cost Pressures - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTF9xUTV1R1BYOXpHUEZtcDBISmJWNlVBTzYtZ3hSYkVDMl9LOHIzQUFPeVFMRk5ybTFDeEFGTlh1d0VDY25LdnRSYmpQckN2RGdUR1hjc0hIVjhhSXoxUXVtTExKd1BWRGlXU3BBQWpKOHZsbFplMFhvOG42R1JXbGQtN2t0NUg2ZmdZdllvRlNNdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-16T22:06:00+00:00",
-      "summary": "Replit Dumps Anthropic for OpenAI, Citing Cost Pressures  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Microsoft Told Staff to Keep OpenAI Scraping Project ‘Secret’ - Bloomberg Law News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzVSZGRuX0lZeThXRWc5MldxSjE3MjFLbDhvWWhCVVpvbGgyUlNMV0tNOG5EN3BFakpsbzI4bUNPY1laUFR3OFZ6TW9OY2NFQWQ1RlU0TGQ4UkZBWlN2MGZYZWd0M0JoS3VwOTBrVnNwYU14RHczcHQxZVJ1RUJySEFfRmNuWERWZjlnN2pRMzhnU2o5VF9YR0JfcWs?oc=5",
       "source": "news.google.com",
@@ -173,51 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-16T21:12:45+00:00",
       "summary": "Ticker: States sue AI giant OpenAI; Addiction recovery boost  Boston Herald",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkxhdi15T3hFNFNIcHQxbEx4TGZnNm5wakhGVE50UmlCRlBKRnZUcHdHRkZvQkZZZF9udjNVcXFkY0l2ZGsxaDVVTHNRbHc0MWhMbi1SQXNuTElhSFF4eG9jeHlaNF9xYk90Nl9YQzlhbmdOSzhoME03cHBad2pDSHMwS0Iza09OdW94cnVNbmloeERMRk5iSHdiNHlFaDNWSU9QMU5iWjc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-16T20:59:01+00:00",
-      "summary": "OpenAI models hacked a crypto wallet and breached more websites  Ars Technica",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "FTC chair on probing Anthropic, OpenAI over recent AI safety incidents - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjhoVk1JODFBSS1leERiN1ZyTDdiRDNHb3dXd3J4TWRhQVllVlhkZjFvVjVVRHl6VkR0QVI2TTR1UGQtZEdCdWJ0TDdfZjRqRkExczQ4c05Lb3lxMkI1V3cybVoxWlVtdE4zM3k1b3BrMk1tMXNrMWhlUTE1M2pKRkExVGR3bGdyZU9adjd4RUx6Vjc2R2laR2F4TmI2aGZCdFJGYWlrTGZON0JhTC1NeGNB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-16T18:50:44+00:00",
-      "summary": "FTC chair on probing Anthropic, OpenAI over recent AI safety incidents  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-16T18:46:00+00:00",
-      "summary": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults  AP News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-16T18:34:49+00:00",
-      "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Kansas Attorney General: OpenAI has 'prioritized profit' over consumer protection - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONlQ3dndpMXhObDM2ZXN5OExfMFREbTNvQkIwdTVISXBzeVJEU2xpZnlhcXZDTUFtWm5HaklKMHlSMUpIaGJOdEc4a056clJfbmhtWmFfSG1iZFYxNHFvZHNRT2ZHQi1tLThUWFNRWDQ0bS0zV3RQb3dvNldocVFmSVJ5dnpzaE5aNnJaekFPcmRzbUdqYTd3cTAwVkVpV0s2SEUwa0I5T0lBRHMxNmdpdXBpS1dfS0hKZlFmRFJR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-16T18:21:50+00:00",
-      "summary": "Kansas Attorney General: OpenAI has 'prioritized profit' over consumer protection  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
