@@ -1,16 +1,61 @@
 {
-  "generatedAt": "2026-10-18T16:40:15.968515+00:00",
+  "generatedAt": "2026-10-18T18:58:54.180208+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "Enterprise AI Agent Control: OpenAI, Google, Workday Bets - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0ItRFFncEt0MmdCMkNKU3NTS2tFUHJIWktWeEtyMGI4a1hsZzRQbWM5SjJIaFQ5Rm1CQUQ3Yk00aHlfRGZJUG9uUF9HdnVZQzh3azZreDBjX2FydmhxcjQxMW9YbUlwTVZiOVM0ZXFKXzY4bmtnc2FuQXBqRXpYajR4NUxldkRpemNPTkpUZ2I1dlVVcDJnT2R3M1hhZFg0VlFSWTd0dTN2cEdsSnp0VmszS2hQMEc4YVZLUlVFVDEyZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-18T18:33:49+00:00",
+      "summary": "Enterprise AI Agent Control: OpenAI, Google, Workday Bets  Forbes",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI testing new \"Aurora\" GPT-Image model on Arena - TestingCatalog AI News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0WkZOSmJtRjRoLV9GZzFyRlloNFB3WVZlOVp4bmNZVVExSW9XNG5saTdTUGN6cnlaYjBkR0M0ZTFTUDNxS01zZXdYclVFSV93RmcwZ3Z4T2dQc1RJeC01WmVMSk1pYko1SDZieXRuVnlwcVhRZ2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-18T18:07:51+00:00",
+      "summary": "OpenAI testing new \"Aurora\" GPT-Image model on Arena  TestingCatalog AI News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Eight states sued OpenAI over ChatGPT safety — here is what happens now - OpenTools",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFhVc2hsaU9nQ21SckNKM2VwZk9CclMzRXhmc3RuZmR4Z21sTDV2RzV5aVVlVHdtNG12UWwzczBNS3RBVlRPdkV2WUtZenpTQUoyYU1naEIyUDYtTUxObTFaUklyWlRGVXVwWV9JRHVvQjdscVJGQ3hZcjBNSGxNTU5jWXVac3FpLW9n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-18T16:40:55+00:00",
+      "summary": "Eight states sued OpenAI over ChatGPT safety — here is what happens now  OpenTools",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Meta Claims Frontier-Class AI Status With New Muse Wonder Models - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGcyWkVJbTV4cGFBclhjMkltVEZhdU5RQUk2OFpSNlZpdXhCaHR5d0tqcHA2ckhZS3VLX1FzU1hLc3lOdWVjY0VJU28zLUJQcjFqcFdtLU1lWVJLWDRGTmF3Y3BoeGtxdGFGZGgydzdOakdiYThGVDFaSGN2RDhkbVFXcEotR1V4OUVfNHdqQlpzUTEzanQ1TEp6cU43cmlVTnBR?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-18T15:40:16+00:00",
       "summary": "Meta Claims Frontier-Class AI Status With New Muse Wonder Models  MarketBeat",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why OpenAI’s training pause matters for every business using AI agents - Cybersecurity Insiders",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzFvWTBMTEdkcW9IZXUyMUZpNHlZSGRkaXFPUTRRUzRob0hyakNMTThxS3NfTS1TbVE3RW1ObE8ySTF6cW1hemNiaXFIV29nYUpncTdTa1dtNzhWZm5BTDE5U3Z4VWVNUDgyT0ZxWUpKU1VERlBLcUtTNEYydnZpQ1lyQ0d4bTB3RVFlUVFzdmNaRUgzYWJDTDRYLUxwNFlQcXQyZU9qRUlYMEk3bXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-18T15:03:59+00:00",
+      "summary": "Why OpenAI’s training pause matters for every business using AI agents  Cybersecurity Insiders",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is 'DESTROYING' early careers: mathematician - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SMjJELVRiRng0dGZ4Y1dvT01jdnFVang3Sk1HaHk0aF9uVlhvaF85dTFYeXFDQWlxZW9Ha1pWVkxYOE9SZDJyTVlQTzRxV1dEMGlvVzBRQWc5ZUdEYWlR0gFcQVVfeXFMTW11dklvSEJEUjZwMldVa1lLQTlTZW56N3lGZXhpUHFOM29WMEpaNm4yWW9RS3BmX1I2RUpaUjJVVjN5TXJubmRFZmh3Q0VTVEVUeHRhLUNqcFBkemo?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-18T15:00:00+00:00",
+      "summary": "OpenAI is 'DESTROYING' early careers: mathematician  Modern Ghana",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,29 +69,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI is 'DESTROYING' early careers: mathematician - Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mMnpzVEJFbkpacjdpTFYzX2dVQkMxcTYwRURUbUxFeGczMWdFb0xCVDBxSFJTdHZOMnRSTDRyWFU2WjF3NVZCSGJITkFyLU5tcUpPWEE4OEdPdTh3LUJR0gFcQVVfeXFMTW11dklvSEJEUjZwMldVa1lLQTlTZW56N3lGZXhpUHFOM29WMEpaNm4yWW9RS3BmX1I2RUpaUjJVVjN5TXJubmRFZmh3Q0VTVEVUeHRhLUNqcFBkemo?oc=5",
+      "title": "OpenAI Model Derived Crypto Wallet Keys and Spent Testnet Funds Without Permission - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aVEhjam5feWd1bnJBVFVETXAzSjhRaFppeUhQd1hJc1FsNUt4S1hXRHRIMDVPeEdCTXhPOUp5NnNNLWE2ZXZxV3NLQ2Nxc1FfUDZ6cVVZdC1xQQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-18T14:02:13+00:00",
-      "summary": "OpenAI is 'DESTROYING' early careers: mathematician  Modern Ghana",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Enterprise AI Agent Control: OpenAI, Google, Workday Bets - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0ItRFFncEt0MmdCMkNKU3NTS2tFUHJIWktWeEtyMGI4a1hsZzRQbWM5SjJIaFQ5Rm1CQUQ3Yk00aHlfRGZJUG9uUF9HdnVZQzh3azZreDBjX2FydmhxcjQxMW9YbUlwTVZiOVM0ZXFKXzY4bmtnc2FuQXBqRXpYajR4NUxldkRpemNPTkpUZ2I1dlVVcDJnT2R3M1hhZFg0VlFSWTd0dTN2cEdsSnp0VmszS2hQMEc4YVZLUlVFVDEyZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-18T12:45:30+00:00",
-      "summary": "Enterprise AI Agent Control: OpenAI, Google, Workday Bets  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI AI Agent Hacked a Government Website During Training and Stole 24 Years of Statistics - Root-Nation.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0FMNVBaRzJQUXItVFIyYlRGbExQbVJ0NkU4SGhfclZ2NGowQ2Rzclc5anFjQnF3TndkUUNCanV5MWtaSXpHbF8wb3J0NFVTLWUycmFKQkZqa1B4LV9JYjhpTUgzOVVHaXhybUxNTUpzVm8tM1d2eVBLY2plcmEtZE16NHMtc3Ra?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-18T08:49:27+00:00",
-      "summary": "OpenAI AI Agent Hacked a Government Website During Training and Stole 24 Years of Statistics  Root-Nation.com",
+      "publishedAt": "2026-10-18T09:05:41+00:00",
+      "summary": "OpenAI Model Derived Crypto Wallet Keys and Spent Testnet Funds Without Permission  Cryptonews.net",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-17T05:14:00+00:00",
       "summary": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee  Bloomberg",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Video: Opinion | Why the Anthropic and OpenAI I.P.O.s Are Unusual - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXFDUHZzY2Y5LU1yeTcxUjRVeVB4bGtuUTdEZnZVMk5kU3FUVVNOanVENF9RdGdQNDZXOW5pMDNxMzNJZHJLOEhKYlNtR19fUGpBUnZtcDBGbkR2a296QW56LUF4UHRrQTFIQk53TVY2NWZncDloNXBEUVBnVkxrZWN6Wl96ZU1qVHhNN0k5dmpqWkpTMUdHQWptV29KQ2dNZWQwTmtSWQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-16T23:31:14+00:00",
-      "summary": "Video: Opinion | Why the Anthropic and OpenAI I.P.O.s Are Unusual  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80N2VrejZPN1lRYmFiSTl4MXdWYnYwN1VZN2N0SWFKeW1lWVFMTmU2WkZ5dzI2SmF4VWM3MnhJX09LU2RvSy00YlA3OE1SWUZEX01ya1gwOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-16T23:24:03+00:00",
-      "summary": "How Itaú is building generative AI for its entire customer base  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWU5hVjlwRlhleC1wU2FNX29Rd3h4RndiY3JEeDFjY0tZWU92MktjdjMydDdXckxzTmt6V1NKT3VGekhCSS1UdlVMcFVyM1BYNVBRWEtXdE1ITGljVWd4M2prRnFJREhiV1E4azhDMlhMTXpwVXdybUFFa0lPT2Y0YnlIRjlqbXI4Rkw4bm1UZUhNbVFZVTJHZ3FjbTl3clEzZEFTcGs2WWk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-16T22:08:36+00:00",
-      "summary": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
