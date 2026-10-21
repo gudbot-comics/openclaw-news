@@ -1,16 +1,97 @@
 {
-  "generatedAt": "2026-10-20T23:24:01.413821+00:00",
+  "generatedAt": "2026-10-21T01:48:31.318151+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXQxem5wYy1SbzVLODlWTXROU0FVd0Y0TERrVGtxVHczLVcwMmF0OGNrWE0wcUVGNnlmMkptbFg4U2xDbmoyM2tpS1dTTGs0S25WZXJSRkJPVzlXRzJQOUVhY0JIRXp3UElsQVlQd0h3SEg5bXJhYU9oV2ZxZ3lhVWx5RFl4cDF5QkdJclI3WU5oTUVsUS0yQnNuVU9wbmRTaWpzTllRZ1Nla0pzWXBMb3UtbzFnbFFp?oc=5",
+      "title": "OpenAI buys Orchestra and its AI-powered platform supporting drug developers - FirstWord Pharma",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IOG5XcjNOS3JnY2hxcU9ScHNCVXUtODFtbTZHT2JlOTVWYnBzYjJkZFBOTE9zenBTMEw3RFpoNnhyS3hrWUZ1ejlnWkZYVVhOTUFZ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-20T22:57:27+00:00",
-      "summary": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most?  The Motley Fool",
+      "publishedAt": "2026-10-21T00:54:47+00:00",
+      "summary": "OpenAI buys Orchestra and its AI-powered platform supporting drug developers  FirstWord Pharma",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says its own AI agents weakened the system built to flag misbehavior - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSElJQ1hfWnJMZk10WTdJLXc1ZUl0ZUdyVTR2emIyNlRXSWJwNkU2WWFwZEx2bFQzb3E4TS1HQXRUcklqZWVnQXVTamhGeDY3UTV0RFhlVlRKQUlzSGtXdEdjLVhTaHNka09nWWE0a0dyRVBkS29uQ1N4MHBEUkhTdldkWk9yV1Roc2lQbGpsNUttMEs0QndhRkE1NE1TMkt1M1Y5aTRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-21T00:51:45+00:00",
+      "summary": "OpenAI says its own AI agents weakened the system built to flag misbehavior  Startup Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "DeepSeek Opens DeepInfer, Presses OpenAI, Anthropic [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUERNc0tRaVcxc2JFR2pHQU1JcHRkZk5ySTVXUHlsOFhxaE5mdGJjOTY5ek9HQTFNdzVzQmtpcFY5LTlEako5aHRPSnBXdmg1ZVZ0N0JpRUEyS1dma28xUF9IdEVxRnM1ZjB3eHpMSGhjb1dlc0JvYmtBYjJqQmsxWTN3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-21T00:26:32+00:00",
+      "summary": "DeepSeek Opens DeepInfer, Presses OpenAI, Anthropic [2026]  shattered.io",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says Its Agents Weakened System That Flags AI Misbehavior - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFJGc1FVd25OZmcxblB2OXpjc1d2WWFLMmJyUXIzRU5HQnVLbHF5VnFhRXNUTFIzOXIwMjRJOXhhRkk5ZmJ3dGlvWnI0SkM1djQ3ZlpXalFNckdnM19DQ2VSeks1LUNBRVZ1SDRJZ1cxclFwRmdIVFpqUmprOUdFc05wSXc0dUFzWTRYRDZBeDRVRm9faTFfdmNRckM4UzZueWRNdEgtdW1vRThqRFdGSEZtX0FZQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-21T00:12:00+00:00",
+      "summary": "OpenAI Says Its Agents Weakened System That Flags AI Misbehavior  Bloomberg.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YQm5JWm5CbVR5MmhCdFhnN0RJeFNpdWM3d0hLektncHVmaXhCWnEtTDVRODdKUlJWODY2SW9MWnNCRmVXRWN3eEpGZE8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-21T00:07:27+00:00",
+      "summary": "Terminal X matches senior investor judgment 88.6% with GPT-6.1  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "SDSU students call on university system to cancel contract with OpenAI - KPBS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkZtRTJyd2l6cFpSTFRZWXJTWXVXdTdoa21YZ3Z2ZmtOVTFFQXZjU3VBLWVLZ2ctUU9vQ19pNDhaVkI4U1p6d0VuT1pseXI0X01MQ0VhV1NrdHk2MmFZT1JMSUpIOHBpVmg5R3lYcDlaaVpuaXJUT3BEYllMenZsbFFtZDBna1BZTlFiZkFrbW5LdHF6X2lNWlA0Tll6Rm03QXpscEZQLWVUQl82Y1REeF9rZ1ZtT29v?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-20T23:51:00+00:00",
+      "summary": "SDSU students call on university system to cancel contract with OpenAI  KPBS",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2JZbXFEbEVrTWEtMjBrOUhXWTlORWVTLTRLTUdHVlYzanU0NVVqZWoxUGlCZnBTYmJjQjEzaHo5Y1c1cmw2VWRNY3dsSEFnVmcydjhsMnQtVDJUVVhaMjRmamN2Ukd5QlhjTWh5TmphUG8zamIzUkhPOE5zak81TExqMC1KYS10NjJQNVh3V3MzY2owNm1PT3pWYnZDalFSNnJSZjhzWG40cUU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-20T23:40:00+00:00",
+      "summary": "OpenAI acquires Orchestra Bio to bring AI agents into drug development  SiliconANGLE",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR0RaZGRENndEQURmUDE5aFhiV0pXNm9WM016SWMxaUdTVkdWUHV5NmRtTlRUTVdjbnk4T0p4UkZiOUU3S1ZPSUNYTTNZLUdObDRodUxvUkF5cHRGRU5xeElHNmROdUk0VnJ3dk80Q2NCWVZzMTFBVVJVNEJIZnMyamFMLURyOGFRN2Y3OTdBT3N3UzNSZzY1VnZ2SWE0d1JCdGU0bXl1TVZWRGl1UVhsb1BydG1sM1lvR3ZhZFdENzJ5V0VCRDRSR0NwYkNsdVF0VXFDbUJkbEtKYWsxNDd6d1h4akI?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-20T23:34:28+00:00",
+      "summary": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most?  The Globe and Mail",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘Freeze AI Now’: Bay Area Activists Rally Outside OpenAI Headquarters - KQED",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPek94UDJUdkhLS1BMeWNsbE8zVldLeFFQMEYzbnpKRWhfb2hmdGFuVkNuVFlRWnBtX09BZlYwWXNnM1UzMm9FelRrY0x2Qnp6clhyZEt3aHJRNTZtN1NnOHlfel9hRTdhX2F3UWNrbzJrbmZ4aTBybTdLVTY5c044bUNPQVhhWkN1bXJ2WGNTX1oxRzQ0UkUxX09odWJ5b2lwMDlr?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-20T23:26:41+00:00",
+      "summary": "‘Freeze AI Now’: Bay Area Activists Rally Outside OpenAI Headquarters  KQED",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI buys Orchestra Bio to add workflow agents to its drug-development stack - OpenTools",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQjdKdVZpNzN3SUZMUXJBaFlhUFdLX01XU3ZLRHV3X05udzRHc3h2LXNkRjJuREREMVZHUjNCajZWckx0WmRzcFc0TEhpcGRDQnZrUl9rQlZ0b2VFMXNPVVRpUENOS3RRTFBWNTJsdGpJTTN1cHVzaklqeHlSdnR2U2ZoMDl3VEFwc0x0NHo5T0ltQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-20T23:08:03+00:00",
+      "summary": "OpenAI buys Orchestra Bio to add workflow agents to its drug-development stack  OpenTools",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -137,87 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-20T20:13:14+00:00",
       "summary": "OpenAI Breach Puts Intent at Center of AI Liability Fight  BankInfoSecurity",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Buys AI Biotech Startup To Help Scientists Develop Drugs Faster - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR1pMTmpWeGtfX1Z4M1RfS3ZwZXp0VXZsZEFnaW0zWG9IVkZKUms2NjBDbXJGUHdIVUh3Tno4R052Ql94dHlCNWtMQnpld2hFZHJFZGV0Zk9RYTZyRC1ScEpkMTRWb0FpbHJwT0RqdWk0ZG9vQXNTVUlKSFBERTJmRjhvVWp5ZkFMNGI0b29PWDRkTm02dVBfNnFYWWt3NFA5OEU0TjdhaVhqYUxuQTBsaHZKNUxRTHZwVDA1MDNEM0hXM1VKdmVnY3pLcXN6eUk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-20T20:09:15+00:00",
-      "summary": "OpenAI Buys AI Biotech Startup To Help Scientists Develop Drugs Faster  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Engineer Accused of Planting Recording Device Had Contact With Saudi Royal Family - NBC Palm Springs",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdUh2blBxTEtSZmthcW95RWMxVXJ6eUhEanZDYkxFb29kTVNka1lmU0JvSlFDYmJtT1B2MTR6MmV2SnVEQmhCOWQyVEtkUHZzVWhYY2JQWXNIcmVfcGJ4eXlHZ0dBUFgyU1FfZHR5ekstNU5ZSzZ5ZVZMNzc5M1JVM09Oc3NZdlBDVnh1dWtPTkxZaVFsTHpuUTFSMVVWNmlWMUxuVkhHMGhyWTA2N2RaeklrRVV1em5wNnAwNVZEV0NFM3A3VFp4Q2RtdFE0ZGJoRGVPUENHd0kzTllnYmN3dVZlR0ZvUHZkMi05bg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-20T20:06:19+00:00",
-      "summary": "OpenAI Engineer Accused of Planting Recording Device Had Contact With Saudi Royal Family  NBC Palm Springs",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Buys Orchestra Bio to Expand AI’s Role in Drug Development - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGRoSkRiNllrTkZGaXRNUFA4b09pWi1ORGZkbVJ1bWFTb2Q2eTF4Vlk1Qm1TMkNKOVBualNjS0VlTW12S2o1Zmx5amV1MW1CR2VCSWxuc0pGSUNSaHZKRU9lbTdzUmpCcEVmWEVJT1hlMnFhVUxwZ0o4dEcwdUpwVGswZHBNb0pZcDR2U2djemlfdVZLLURVeFRHVUZhT1dHN1FCMlVn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-20T20:04:51+00:00",
-      "summary": "OpenAI Buys Orchestra Bio to Expand AI’s Role in Drug Development  citybiz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI acquires drug tool to speed slow drug development workflows - Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmlOMHNzUFRiSldCRlBLcjBLdy1yczhKOEZYRGs2Y3dadnQ2aVp4UHhXUkxVVUFJbEZKdlhDdDRZbjdEMWFqTlZmX1IzQ0lXY2p1ck1mY3JuN0tuZDBrQjNUYkNickNsaGVkdUtOMC11QWc4aVNoZjBhRW0xdGFoWTJ5TmN6RzlfMTR2OTNfT2w3NThMOFNHRQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-20T20:04:00+00:00",
-      "summary": "OpenAI acquires drug tool to speed slow drug development workflows  Interesting Engineering",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Tepia Named an OpenAI Select Partner - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQUNhekFkNmpsVnA4ejNidzRpc2FMUHB3ZGIwRGZJaTZkZ2hZOHh2anZWRDJMWHB6NnQ1ZktrRVJ5aGRCRjF1TEFQSmVMSHo3dXdGTjllTmZlR1hRTWJRbFZYXy1aVWc3N21QdHZvWWxnbUJMMnUwYWppNC1LX1hJVm5xd1NnY3MtRkdSWlhQTzh4d0VwMDF3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-20T20:00:00+00:00",
-      "summary": "Tepia Named an OpenAI Select Partner  PR Newswire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2OHozQjJtT1RwZDNNODFMcUZQOVgzSGtReWw4NFZ1NXdBTzJKeXYyNGVRLVBVcTQyeTBXeVVMcUR2bzlyOG9BUkNhbzdQZmx5TUFKaGlBOGs5MlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-20T19:42:32+00:00",
-      "summary": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit  BBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads - Search Engine Roundtable",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTkk4WGxDSWZhdVFWc0lSZnMyLXBMTmZ5WE1fZV9pckdGbzE1NjZ5c1dxWndhUDBVM2VMYWpuaGwtZ0w5T1ZRQVQ0b2QyaVNDaFZIR2dmZTJUODNkM1p1TktPb0pnaXl6TkRoZlE0Q1NVaFJrZnJ2SnJNTzR4aUJmQjBib1JzSjJ2SGxWWGM3Z1A4VVk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-20T19:35:00+00:00",
-      "summary": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads  Search Engine Roundtable",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI valuation odds jump after $30B raise report (OPENAI:Private) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3lDMGZUNk5ZV1YzUTRnMVZBNGEtYU9oNWNacjM5WXl1eDhhaW04Q0tLRjJ3M2x0ZEVBMk9mSFJlMmFJZkNKYjd0M3FBa3VXcFBrT3F0ZG03SF94em9VNUp6OWZ1RmRkSUloTzI3enhFVWZETHlhaXNZTFQ4SGlwbkN5VW9XSTNUYkZZb0R5TVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-20T19:34:09+00:00",
-      "summary": "OpenAI valuation odds jump after $30B raise report (OPENAI:Private)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI valuation odds jump after $30B raise report - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOam1kR0MyZjRCWUdKMElxTTVYZHJuRHgyemtONG84UnQtbmNVVEt1V1J4QkllbUlER2NQUFlld3o1M04tN0FHLU9EQTU5TXFaOHRXVklUSzVMOW41NUJScjQ4bE5aempwakotXzItOE9OTFZ4cFJTUXV6dnROSEVrb29tWkpPdGNjNDRWMGQ1SFd3VGpjWlBuSkNIZXlfWVZ0cEw4N3QwVTI3cWxPTmxseXJ3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-20T19:34:09+00:00",
-      "summary": "OpenAI valuation odds jump after $30B raise report  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
