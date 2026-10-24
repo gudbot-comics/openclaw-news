@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-10-23T23:27:37.730219+00:00",
+  "generatedAt": "2026-10-24T01:50:06.741956+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI Restarts Frontier Training After 11-Day Halt [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUVE3S2ZuNlFqaHMteHNaLW1sU1N0UmpWUDBiMzJVeXpuWlNDRjVnWWVrM0JmR0MzNDg4cm9wT0M5S2JxXzdvZ2hyOFlLdjVTcVYzTGJ2MExqUGRWbmhJNFRkdTE1a3J6aG1IXzQ4MWtwakotUDVocjY0QkxFZlU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T01:07:27+00:00",
+      "summary": "OpenAI Restarts Frontier Training After 11-Day Halt [2026]  https://tech-insider.org/",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI bugging case raises questions about AI lab security - AZ Family",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWtUS2lMNU1jeGMxSjdiT1FaZW1jbjNNOUFhVkVkdWlzWUNWaU9fNF9hbGhhMmZic3BvbGd3RXhWZzl3aUpCbUVLbnFBYkcxcWRqcFBhSWh4c0lsQ1k5LVRqZjZ5aG45UXk0WXlta1JMcjdXVmpQSmJOSkhaX2JKdlFuaGI1b3gxNEdrUUJCdnQ2aTQ3VTNkZ2NCbXJSWGNBdjNj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T00:38:10+00:00",
+      "summary": "OpenAI bugging case raises questions about AI lab security  AZ Family",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFJYWGNtWXRnNTVYSlV2QWpHaEstdS1tVEljMThVeEF2SnU5MnBkeXBrSUVVSHFuQXN6SjhWMWIySnAzYTNrbGlRZS1mazktVXF6bU80dU5WZi1hcG9MdWpUSVh0SlkyS2dYWXAybHBsMnpxT3ZXTFJoSm5fRHpQSzVsSnRaclpvU0o4N3pqcGJpaDRvUzdRT3YyaXg3TlNmM2tYY3RPcGhYYTNIUXQ1ZWZ4VHlVZ183N3hrSThibFVPZWFiTXlFYWZR?oc=5",
@@ -42,11 +60,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXNWNG44YUkyTGJaZGlFeTh5ekpzb3lxTWljUTh0R1B6bVpDQW9iRzctSHFEajhqTVlHWVV5UlZoYkZZdkJ4N0VaN3JzME9fUjFnU3B5T3BYU1ZYOHBIRnBPcEpMZy14dkU3NThBLVJoRlRxa0dLOG10cmNJODZRb24wNUEwclQtV1hpNG4wY1A2M3VreWppT19HNEdEY1FBRVVGRFZhZlpQS3BHdGlmbjNEOUk?oc=5",
+      "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa - The Register",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbVMxbXlyS2JEMTBHUmllX1hralpkMy11VTFfdUtlR3pTa1RyYkZTZUJvNkx2MF9yRVVJMElUVUhzQUtYdGFRamxlM2NTVDk5WFJ5TDJZbS1qUzJQUXJQTUZxSGtQVUlSN2J6ZGhUTzBuQ2FfaGdRQTRJVnRocVdZZGluMlp6Y05uTkFlZG5hQWU5YldkNTBmTnk4Uy12Rl9kcmJJMWxwSWN4WlhCVkJvVnJQT0tDQTdqbUlLak1IR1FKejNudC01cVFWOEZSWXhkbXBZbnA3bGhYWEh6NHQ2TVpyaHA1UQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-23T22:18:38+00:00",
-      "summary": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards  Courthouse News",
+      "publishedAt": "2026-10-23T22:36:11+00:00",
+      "summary": "OpenAI disables internet access during model training while Anthropic issues another mea culpa  The Register",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -54,8 +72,17 @@
       "title": "OpenAI Agents Disable Their Own Safety Monitoring - BankInfoSecurity",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHM0ejBRdXhzcWl0RFJrMVp4MU9xRmNsVWlFZGpTa0JCT05KWXJIOWpBWmpQY25Kd19kNTBoWGc4czFKeVkzZ3JBQVlqa0JJc3E1WXhHZVl5ZG5FUjIyekVxODZDRUFVaWVKYWlCZjhvVmtoY3JuUVN4RmlWVG1tb09kZ1FuQnUyMm5UaFBySTdzNDh4?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-23T22:15:53+00:00",
+      "publishedAt": "2026-10-23T22:18:45+00:00",
       "summary": "OpenAI Agents Disable Their Own Safety Monitoring  BankInfoSecurity",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXNWNG44YUkyTGJaZGlFeTh5ekpzb3lxTWljUTh0R1B6bVpDQW9iRzctSHFEajhqTVlHWVV5UlZoYkZZdkJ4N0VaN3JzME9fUjFnU3B5T3BYU1ZYOHBIRnBPcEpMZy14dkU3NThBLVJoRlRxa0dLOG10cmNJODZRb24wNUEwclQtV1hpNG4wY1A2M3VreWppT19HNEdEY1FBRVVGRFZhZlpQS3BHdGlmbjNEOUk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-23T22:18:38+00:00",
+      "summary": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards  Courthouse News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,6 +123,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Texas sues OpenAI, Sam Altman over product safety - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcm00d0JOd3dfc2ROWW5vaklsUk9MWDZXN1hLNWNwMWllNmZ1N2p5WGQ2VVUtOTlzQUdlUDZOcFB1WUpVcWE3WVcxZk16b09BNHZlcHJjWkVYZVNIdE1lbWFJWHRNOGIxbWR2cHFUazdsakh4NnBMcmhyUVdGbzVKNk1Mc001NjhzT09pNFdGanA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-23T21:46:00+00:00",
+      "summary": "Texas sues OpenAI, Sam Altman over product safety  Politico",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Fired OpenAI researchers say independent safety audits aren't going well - NPR",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblRmeEVocVBaWWMxQWp0Vm9LbnV6eHhTY3hrWFBHaFMtTGhjekZBVk9jaGg2ZWxqa09kU3dBek0xODdMZzYwbVc2eWU1SVFYQ29pR2ZZZTRLNndHb1piaS02UXROc0dzczdJODlYaVdLaGFjbV9ZSEdrUHpibEcwUTVsSHV3Rmp4WmwtQXBFX3R0NVlpZkRsWXIxeEJiQW9nSmhSRUtwTW5zUEM0ZlVxVUgtZXRFX1k?oc=5",
       "source": "news.google.com",
@@ -114,20 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’ - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbWlwRnJvaW0tVk1JcTRlQjlza2RKbE56N2NQNlM5VXZYQktoNHJ0ak5NVjFEcGd0Wi15VE0wVjNXZ1ZxVVB3U1FfQTh1U3NxdWJuMEE5V19LcTRNS0pnenB6TlJ4QWFNS1M4Z0pyMmo5N3pIOFBJQlJvYS13OVh0MmRHVFIxUVFTdi12YTVyb2RHWW1oU0RIUA?oc=5",
+      "title": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’ - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0dTdFU3g1Y3BCYWNSZEwxYXI0dkVuQUZ2N01wSU5EbXVlWXZIUG4waEY2a3lWNFhEYzNjbGZfMG9BM1JPcEl0Q0ZJano0TXAxaUp5emZWSkZiY2hxWUktRlE4R19kZEpsaXhWMUktUUtFRlhhQXJKRldCcXphZ9IBgwFBVV95cUxNdVByenBfcThpcm1SaldTZlhwVnAzLW5xVjNCaGlNUjlhRWVQOW4zWm1VbUN5M05xYy1aMTd2NE44TVVWRDFsRDdKQl9qRnR6MGNTMnNnU19yZGdxWjlCcmtoTFU0R3VKZXRMaF91QnRfaDNuck9iWDBwNkNabUM0NDRZRQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-23T21:00:59+00:00",
-      "summary": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Texas sues OpenAI, Sam Altman over product safety - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcm00d0JOd3dfc2ROWW5vaklsUk9MWDZXN1hLNWNwMWllNmZ1N2p5WGQ2VVUtOTlzQUdlUDZOcFB1WUpVcWE3WVcxZk16b09BNHZlcHJjWkVYZVNIdE1lbWFJWHRNOGIxbWR2cHFUazdsakh4NnBMcmhyUVdGbzVKNk1Mc001NjhzT09pNFdGanA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T20:39:00+00:00",
-      "summary": "Texas sues OpenAI, Sam Altman over product safety  Politico",
+      "publishedAt": "2026-10-23T21:00:00+00:00",
+      "summary": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’  The Hill",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,11 +168,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI to Train AI Models Without Internet After Cyber Incidents - Bloomberg",
+      "title": "OpenAI to Train AI Models Without Internet After Cyber Incidents - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTNobXdjbFlXYi0tUHc4QVhnOXY3aDB4bTZ5amJDTm5LTDFlaUJ4UDdYdUFwOHpURk05ZE5Ycm1rMWZDUENSVHh5X3pWZHJEOFlpcUhSa3N6OTZueDlEME1GenV2SllMWkZpZVpSNGhGNWQ0R2V3am1FYnFCU1pDdkVVWm9HMU44a1JiZDhGNjhqTzctZlZyZnZYSTFlMXdjV2xNazdHUmtDS3NwLTktNW5rX0twQQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-23T20:30:17+00:00",
-      "summary": "OpenAI to Train AI Models Without Internet After Cyber Incidents  Bloomberg",
+      "summary": "OpenAI to Train AI Models Without Internet After Cyber Incidents  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,20 +186,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI resumes frontier AI training with enhanced security, no internet access - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMWh6ZHRNVDJtem5ldEp6eTNCU0s2cnFreTctdDlITTlwWWxhZk9qZUtMZmdHZ3pEUmp3Z1k3UmpnMFFGczJoRmJZR3A3ZXhpRHN1ZmN2OUVpLVl3NDZzWkNQV0xXbEoyZEZhNXE2c3h2NnZQUEZZTnhzZks5dU5lTUw4MmxzNTdDUkdvR2h1akZLN2JBUkxieG9mOVdFQjdraWRxa25lT2lHVW1UbGE1enhWWmx2OHZ0Wmlyem9YUTRpWm8xbHcwS3A1NklLcnJJZHBmcURnaVZIUVlONE8yMHhyRU1jNHpia3NYTmVNME94dEZlQVlDTEltTDMtNUJzWjZTUEtfMEI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T20:06:51+00:00",
-      "summary": "OpenAI resumes frontier AI training with enhanced security, no internet access  The Lufkin Daily News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI - The Texas Tribune",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEs5ME1zUXpNMy1lcW9Td1FrVlZxT0xjRFNXSDBEU1Z5UWFLeG82bGVJT0J4bzR5ZVBZV2ptcHQ4OV9LZWlRSS10TkV6Y01KSVJRNkZIelU3MlpLNkdzX2FTamc4bDJTWEs2NGpYMnNyY0gtY1IxYm85Nmg4NFFzVlZzS0l5ck1qU2pES1RUaEd5TEhzaVA4VC1tY2lmZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-23T19:44:30+00:00",
       "summary": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI  The Texas Tribune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to Train AI Models Without Internet After Cyber Incidents - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3RobEdiR1VqWTMzTi1GMzE0V09ORzJiMFFjNWNYYXJBaXdTRG1YUUJxT01jcWZSMWxOYzZFS0xETUNHTEJyTjFVTWlNUnFRTkhqWHllbk1FNms3TVZwVmpoeEUwUjBWNUJLNmhmaVZJOWxtRFhDMW1FeXVRU1RtZ2dtRHE0V0plbVZPRW5aMW41VVJfQzN0Mk1n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-23T19:39:17+00:00",
+      "summary": "OpenAI to Train AI Models Without Internet After Cyber Incidents  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,33 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-23T19:33:06+00:00",
       "summary": "OpenAI mandates offline training for frontier models to prevent AI escapes  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack - The Register",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3pqU0g1U1Z6eVB1cUZ5RFJrTVh3ZEkyWGpjZzBPMHFGeWVweW5rS2pPWk8tY2lxTVl0ZzdfaFo5ZzFLRGpqVjVrdVlXT19kazVDaHozYllubkdUemZNNjZWYkdGM2lSMktwb2otdUpxc0swbU1VY2RZWkxnZHhqbmI4d19mNjdKOHdyRl9XdTdCdVh1b0dNeHUyOTRHbVV0QkVDckt6SzRnNHltVjZfYlJoNW9Xd3dFem5tTjNrd2syMmZQMWdnczlsVnZCN19pOTFIZG5TaGFmamhTZXpMdU9vSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T19:14:57+00:00",
-      "summary": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Details Training Containment Overhaul After September Model Incident - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYUkzcHlVODJZeTRFRWRhRFRWN05ZQ1FSTlhWcmhnMElid0FNWnZwcXJHQXBXZWVvTXNHQnBsUnlOZFV0LUhaR2taUldZOC1EczEtZ3d1U2tScFpSSjE1Q2wxT3BjY09XMG5xdVpORjJ3elBPQmk1X0tvcHc5SWtVNlhqeFFpcmg3NWhoMEZiX2lJZEYweXpNX2Z4cWRKZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T19:07:13+00:00",
-      "summary": "OpenAI Details Training Containment Overhaul After September Model Incident  Unite.AI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Securing our frontier model training environment - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EQVY3Q0FYVVg3MU1JeDdHREJsV1RqbTFIdG03VWN2NWhGdFNwczlRdkV5ME9FOWRnWmdxMHZFYXJTc0haNXg0RnRzSVhSMzhqVHNfVVZKWWNMNWQ1RDZkVFhpRWVCcVVzYWFlQ1k1b29USEIyVFRGTDlZbk9hUkU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T18:36:34+00:00",
-      "summary": "Securing our frontier model training environment  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
