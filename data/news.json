@@ -1,16 +1,88 @@
 {
-  "generatedAt": "2026-10-24T01:50:06.741956+00:00",
+  "generatedAt": "2026-10-24T06:33:18.217708+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI Restarts Frontier Training After 11-Day Halt [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUVE3S2ZuNlFqaHMteHNaLW1sU1N0UmpWUDBiMzJVeXpuWlNDRjVnWWVrM0JmR0MzNDg4cm9wT0M5S2JxXzdvZ2hyOFlLdjVTcVYzTGJ2MExqUGRWbmhJNFRkdTE1a3J6aG1IXzQ4MWtwakotUDVocjY0QkxFZlU?oc=5",
+      "title": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHUwZllOYVp1Z0ZEdUJsYllvSm9nVjVyVHRudGg5bDZIcGtkclhfRlFBMEhVdEhSaHVHR3lURnNvWXhZck5ja2dmcXhpZFh3a2lna2hrUXJkdzRFbDF5bVVUTDVGUVBXVTVIeWIteGE4SXl6Sk1ONFBhUy1UbVRTRDdtTXhKeklzMGVCNkxmWThkUl9x?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-24T01:07:27+00:00",
-      "summary": "OpenAI Restarts Frontier Training After 11-Day Halt [2026]  https://tech-insider.org/",
+      "publishedAt": "2026-10-24T05:58:00+00:00",
+      "summary": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO.  Yahoo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pZ2RFY2YzbU0xQWhDRDZKa3ZhMnpoaExmU1l2Qi1reF9MMm96XzhGLWpsSU9iNTViOHpxSWJCbHBBb1c3UW90Qnl1Z3JaT3dWT041blhtMExoSFpEUXdac1lYQXB4NzJkN3hoSUg0RUdYNU0zYjV0V2dR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T05:58:00+00:00",
+      "summary": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO.  AOL.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRmxKd3dXUmU0Qmc3MnJRUjVxVHZVNHgzbGxGYV9GenE4TVNiVFFPOGlhVjd3blhSUHJlSEFVSEdPbC0wZi1fQjlwcDFxZTJUSDFPdkdUR0tMLVViNDNtRUJhOHgyV2dfMnJ1NFNzeXhMUzdTcjJ1b2tHTTVid1IwbWc4dHFURnRrSXZkaUs4MU5OMDh0YmMzT0FlSnlqd3VWeFBsTlJnZnNQZGY2SWtKOUpSU3Njei1ITGxKNjJWd2FDc2g1RXdMNFdDZXV2c00?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T05:46:28+00:00",
+      "summary": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO.  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Resumes Frontier Model Training After September Security Incident, Cuts Live Internet Access - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRlRTQzNRaE1RTG5RaW50QlF4WTdJd1JrN3EyY0lXc0JNZUFITDg0T0hYczAxYVdfS0xrNDJ1SWZLNXVZZVlPMFhkOXNWVTFoQlFqa2JfRFpsbFVRb2tzdktSbTVRQ0Z6NHF5VkVWTUxxTVhNbzBJbWNIZzY3TUNlYVZwMVk5RHhRUzhmcHNHRUI1MkdtMUs4ZVBPOWRaMndNX1N6YUJLSEVpcC1VT1ktc0YwSVNpLURFVEE3c0ZHd2t6WHlvcGR5TjJuM1JHMnJYekJpbTh0bFJORjc2T3BDOXVpS1BMLXhrNFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T05:23:15+00:00",
+      "summary": "OpenAI Resumes Frontier Model Training After September Security Incident, Cuts Live Internet Access  NewsCord",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "UK Government Establishes National AI Biosecurity Lab With £100m Budget, OpenAI And Anthropic Credits - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ0puWnJyaW5qRVpTYmZBdUU0dGI1Q1lUR0lMN2dOVnZrS0VOYlkzN0k0dmVxOXR5YlJBTUFMcnlpV1JnQzM0TEUwSUZDUnQwRlhadkU2Vm84a1FSQjNaNWl4UkZDaUZXWDhZRVFITW8zT0U4UU5RRkdSYklGMHNfYU5EMVZVVjBqbEJ3MmdJLTlaVTc4aXhNSEN3dVZBV0hHSTdPX2xRTUU1RngxR01qZkxKQllCZjUydE5OamhYcC02UTdrRm1hZ1hOTEJ3eDlTRUlXODNVTzVRMV8tSGN2cmNsbml1OUxnN0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T05:19:36+00:00",
+      "summary": "UK Government Establishes National AI Biosecurity Lab With £100m Budget, OpenAI And Anthropic Credits  NewsCord",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "UK £100M AI Biosecurity Lab: OpenAI & Anthropic Join [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0RaMXlZMXdIZGlKc3Y4a0NmblU3NnBpd3hWNVgwSVZwbXRubTdrN09ZLUdzd3VNOHU5WkxIZGRaRWtpdWs2Qm54N3RTZzhwME5GX3pCQU83RFdjRUMtRWdoRGZwMjdHbUdRXy04MXIxTHdfMWpwRHpVVER5eVJTcnF1YUlXdlVG?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T04:25:37+00:00",
+      "summary": "UK £100M AI Biosecurity Lab: OpenAI & Anthropic Join [2026]  https://tech-insider.org/",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Resumes Frontier AI Training After September Security Scare, Restricts Live Internet Access During - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdGFtX0FmQk9RdVF6d3U4NVZLWTJFdEp1VE8wZTg4cnBoWWEzUTRIREQxQ0o5XzNrUXJPNS1uYWYxMmRPaGlLRElxbW5IZnIyYWVBd2NtVHl5aXF3SkVUa0p0dG5TYVljbllYU1VlbWtKcGF0QXhGMTV4bG01MWNrajdnWVBhekhJZ25GR0ZuY0hvdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T04:11:16+00:00",
+      "summary": "OpenAI Resumes Frontier AI Training After September Security Scare, Restricts Live Internet Access During  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Resumes Training AI Models Without Internet After Cyber Incidents - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUFMc01URlEtNE1sVW9oamN5QUlsRDRjdWdhRmVrbW1BQ0VxWDAzUWx0SzNXWG9XVEJ6NlB6aTRHSDVvMzZYS2xJakJ3TUNiTUYxcXk3eVdUcmJKOVVzUXJ5Q0NWOTJOYkxmT2tYN1RPTHltaU12RS16VENpNldXclpVd0UzMi1JRmg5Mm1lSXpvODJYOXZuaS1wN1dIUHZWMkVSR1g1OWNNelpvcUFYa1pka9IBuwFBVV95cUxNRkhSb0hoMWJYR3JzeUtjWFA0TzZWbWpyQTdKTUdyNWdGUTJvX3E5dGxPVjBPa3dIemlOQl8xUVh2WXhBdU1yVmtEZG9wU09KeF9FTHNGUVphVUx6NzZZZTVrU3pEbFZYYTVkOGo3dHIzQU4yVWhpWWVJU0d4Z1NhaG1LaS1GdlhKU0wxTjQ1Q3B2eTBBYS1leHBVMlNtWHlnVEhxbnNwcHp4OGo4SHB0a3B0OW9lbmQxUFN3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T03:51:33+00:00",
+      "summary": "OpenAI Resumes Training AI Models Without Internet After Cyber Incidents  NDTV",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Agents Disable Their Own Safety Monitoring - BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHM0ejBRdXhzcWl0RFJrMVp4MU9xRmNsVWlFZGpTa0JCT05KWXJIOWpBWmpQY25Kd19kNTBoWGc4czFKeVkzZ3JBQVlqa0JJc3E1WXhHZVl5ZG5FUjIyekVxODZDRUFVaWVKYWlCZjhvVmtoY3JuUVN4RmlWVG1tb09kZ1FuQnUyMm5UaFBySTdzNDh4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T00:55:00+00:00",
+      "summary": "OpenAI Agents Disable Their Own Safety Monitoring  BankInfoSecurity",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,20 +96,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFJYWGNtWXRnNTVYSlV2QWpHaEstdS1tVEljMThVeEF2SnU5MnBkeXBrSUVVSHFuQXN6SjhWMWIySnAzYTNrbGlRZS1mazktVXF6bU80dU5WZi1hcG9MdWpUSVh0SlkyS2dYWXAybHBsMnpxT3ZXTFJoSm5fRHpQSzVsSnRaclpvU0o4N3pqcGJpaDRvUzdRT3YyaXg3TlNmM2tYY3RPcGhYYTNIUXQ1ZWZ4VHlVZ183N3hrSThibFVPZWFiTXlFYWZR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T23:05:49+00:00",
-      "summary": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ1dQcXZZUEdFU1JoZy1ldC1tWEpMeFAyQWc1YW9NdmM0MGczNGJhSVNadHJmczlLU01hcHpCYlZNN1pEVy1RdkFWdGtVSDFoTXU5cjZTQjVVT0Zva1U0UGV5dDZwVzZ3czR1Umt0dmU0bEZ5ZFhDY0JoWTdSV1N5YzVPYmliR2dPUVB2ZWJ1MXZua3UyYjdrejgzWi1PTXVpRW5SUk5odElld3VyOW9HS2pqeDFzUTkwaVBfOHBXNEk5ZlYyUDBjSnNyYmk2QQ?oc=5",
+      "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEgtSy0yTlpneW1Oa2l0NkVTV29zRjdpNXZ5eXBiSmt1dWRwMWV2bU90UE0xZU84T0NLUF9UNFNyRl9GaUZvS0xVRVhxNkgyT0hUSEFmeDJ1eXNIeHFzZnkyeVR3WjJCRDdKZ3lyNFV0eFAwSndyNlljNnQ4NzZpYnJybzZlUVF2Yzhqdm9EV0didDBLZ3B2RWVKczRuY05QY2ZaRUhPQ2praDFGeGNUTWx3?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-23T23:01:00+00:00",
-      "summary": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic  Bloomberg",
+      "summary": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -65,15 +128,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-23T22:36:11+00:00",
       "summary": "OpenAI disables internet access during model training while Anthropic issues another mea culpa  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Agents Disable Their Own Safety Monitoring - BankInfoSecurity",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHM0ejBRdXhzcWl0RFJrMVp4MU9xRmNsVWlFZGpTa0JCT05KWXJIOWpBWmpQY25Kd19kNTBoWGc4czFKeVkzZ3JBQVlqa0JJc3E1WXhHZVl5ZG5FUjIyekVxODZDRUFVaWVKYWlCZjhvVmtoY3JuUVN4RmlWVG1tb09kZ1FuQnUyMm5UaFBySTdzNDh4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T22:18:45+00:00",
-      "summary": "OpenAI Agents Disable Their Own Safety Monitoring  BankInfoSecurity",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,6 +195,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI Says Its AI Agents Communicated With Each Other Via Cache Timing Differences, Which Sounds Awfully Similar To The Anecdote Of 2 Air-Gapped Computers Communicating Via Temperature Changes - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOaEhXVFV2QzdJZTU0SHlBR0h3UEp1T1AtQ0VoTnFwNkxfWDJKazJweHdqRThpRFdPaldYdm9zdHlFNkNoN2NybGJTQTJDbmxBcmhXNW9EbFVPcEVVc1dJb0JkYXd2ZmlTeVI5TkZNaDhRV0toY0VLT01jRVFqZmVHbV93a1lrRWpnR19OSUJ3ZlRMMTVsODhwbWxtQXNZczg3MTEydl82aXJhN3N4d1VYaHpuelI2b2kzeTdVUVA5MXFtN1d1cUNGaTBBWnIydHlQY29UZVlrTmhqMHpqc2pGV0RfQ0RuUFFDZ3VJQnI5dU1KZEt6c0Q5aGhOajVKZDQ3V05Na0stWkJ4Q3ZGV2FRazh1V3BjdVNWTGZyZVg2RVdYU2NLSUQ1NVc4MnJyQ1N4RnljQTJ5MVotUdIBvwJBVV95cUxNYnJIa3h3LVAwbXRCWFJHU1hmWE5INGNIQnFtdTd4SmhiRWozamlMX2Q4cml2dkNrRFBPTlgyNUMydlZBcXl0R1R1TERQUHZRZFBMdVZDcTdjVS1ScllxakNCMG13NTFSUjZGcG9VRFF4RjBuYWVhZ3RFaFhWVUt4VVc4enZmeXFMdTNVRmN4MmdOanNhSTBlRV90eDREVk1kRXBDQWJ1YUw4VHQ5VmU0TlRnTGJZdGd6YmNMZDMxWi1FRDdwaF84RldBbEthY1JzdGNiWFlvVGpvVThmVmoxMllxMnUzZVoxc0prSWxETndTR00xVXdDNTNycjF6b29XclVsck9yc1RSY2FQM0t1VUs2eE9rXzdiVTVkSVM0NXlqSk5pem9NWGtVY1pEVU8yRERUWURsOGN3RUZCMDN3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-23T21:27:08+00:00",
+      "summary": "OpenAI Says Its AI Agents Communicated With Each Other Via Cache Timing Differences, Which Sounds Awfully Similar To The Anecdote Of 2 Air-Gapped Computers Communicating Via Temperature Changes  Wc…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI now trains its frontier AI models with no internet access - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGVJZzZWMlVxSEpXSS1WTHFmMHlsVTBpVHdsNE1Ecm5DcklqS2FmY21DS2laOFRuUmxYbENzYmdSeGhUUUlTMldJeFQ0dU9VVkJGclJPWV9BUnNYVThzYnVfU21VSV9zczRmdG4tdmtYUk5iRUhRUEVKb3YwcDBseWlKYWZWSWhWczNPSXBjYVdNS2l0cmNVY25IdWlFc0lDY2Nv?oc=5",
       "source": "news.google.com",
@@ -155,69 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-23T21:00:00+00:00",
       "summary": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’  The Hill",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How an OpenAI model exposed a flaw in 70% of the internet’s websites - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUGp1VEJkTWJXaGlnc00xUW9tdjBBQWcyT0N0STVuazEwRWFMeG1RMDFqM0NIVllta3RoTThZdkdkV0pXcTFQMUlDTFJpWDFHdi12djFXWjBUZF9LMlhRRFBvOG1rc3owMEl1eVdSeEJYYmRxOWJ0UmVnZmdGcUxSMGtvRFd5OXJYc1N3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T20:36:00+00:00",
-      "summary": "How an OpenAI model exposed a flaw in 70% of the internet’s websites  Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Train AI Models Without Internet After Cyber Incidents - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTNobXdjbFlXYi0tUHc4QVhnOXY3aDB4bTZ5amJDTm5LTDFlaUJ4UDdYdUFwOHpURk05ZE5Ycm1rMWZDUENSVHh5X3pWZHJEOFlpcUhSa3N6OTZueDlEME1GenV2SllMWkZpZVpSNGhGNWQ0R2V3am1FYnFCU1pDdkVVWm9HMU44a1JiZDhGNjhqTzctZlZyZnZYSTFlMXdjV2xNazdHUmtDS3NwLTktNW5rX0twQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T20:30:17+00:00",
-      "summary": "OpenAI to Train AI Models Without Internet After Cyber Incidents  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI resumes frontier AI training with enhanced security, no internet access - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T20:23:25+00:00",
-      "summary": "OpenAI resumes frontier AI training with enhanced security, no internet access  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI - The Texas Tribune",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcEs5ME1zUXpNMy1lcW9Td1FrVlZxT0xjRFNXSDBEU1Z5UWFLeG82bGVJT0J4bzR5ZVBZV2ptcHQ4OV9LZWlRSS10TkV6Y01KSVJRNkZIelU3MlpLNkdzX2FTamc4bDJTWEs2NGpYMnNyY0gtY1IxYm85Nmg4NFFzVlZzS0l5ck1qU2pES1RUaEd5TEhzaVA4VC1tY2lmZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T19:44:30+00:00",
-      "summary": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI  The Texas Tribune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Train AI Models Without Internet After Cyber Incidents - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3RobEdiR1VqWTMzTi1GMzE0V09ORzJiMFFjNWNYYXJBaXdTRG1YUUJxT01jcWZSMWxOYzZFS0xETUNHTEJyTjFVTWlNUnFRTkhqWHllbk1FNms3TVZwVmpoeEUwUjBWNUJLNmhmaVZJOWxtRFhDMW1FeXVRU1RtZ2dtRHE0V0plbVZPRW5aMW41VVJfQzN0Mk1n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T19:39:17+00:00",
-      "summary": "OpenAI to Train AI Models Without Internet After Cyber Incidents  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says it will train frontier models models in closed system with no internet access (OPENAI:Private) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHhxd012NXE2N1RoSFZXY1g0VUx3WUpOdTIxbTVpRHdKTkhjb3NzLTZYWWhPLU96dl9qdWwzWUlfa0lzdXhWazVWdkxGZVRWdnJyQ0JhZ0RDUW13c3FLcTNqaDFPVFFmV01Sc1BDTWpjMkhKSFhQQUQ4ZE1xV2h5Y3BTUDlRMU9GWFBhYXpjODRxRVRBQmdOQkwtemUtUkk5dFF1TW5tcW5XcEtzTk9sZC1GV3NXZTFEb0ZlaElKck04TUlVY2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T19:33:35+00:00",
-      "summary": "OpenAI says it will train frontier models models in closed system with no internet access (OPENAI:Private)  Seeking Alpha",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI mandates offline training for frontier models to prevent AI escapes - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX01KaG1mVjEzeEItRzRGcHM1NnVmRE9TZlI0bldYZlNTSkJaNGE2UE9ESnc5aDZsMXM5UGVGQUN6aEhBRHBSeHZ2MnNfSDVuckcyenFPTXFpY0NkUzJEczhTWFlLSUhZdTJWMjVMbXc2LXRLT0N0bGV3V1U2SmJiWHdRVWx0RS04S2gzY0ZyVFRSYVJiNzRFUGRxdGJRWjIxZnZFdnZibnhpOTcwUmlVNXJtcmNKOF9leUJlQkFpOEpWN1h6WERQejRwMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T19:33:06+00:00",
-      "summary": "OpenAI mandates offline training for frontier models to prevent AI escapes  Investing.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
