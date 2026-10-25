@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-10-25T05:02:45.283787+00:00",
+  "generatedAt": "2026-10-25T09:45:04.515055+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI used AI agents to hack its own defenses before resuming model training - www.calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeHNlQ2lqRGNTeDI2V3FjcTR2czdKOGdaajhGRzZ1MnhRRGhrMUVEYnRmTkdFZHJUS3lJUHl4NzlGcFN3LTFyZTh6TDVpcmZPWDlpbV9Sc284cW8zczVlSDhmTWpiX0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-25T09:14:00+00:00",
+      "summary": "OpenAI used AI agents to hack its own defenses before resuming model training  www.calcalistech.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Put Your A.I. Agents to Work With These 5 Killer Tasks - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEJEeDdVWlV4QVNFelhJZjU0Q244SzdNbUZsQjNGaTc1dTNxLWNwZHVkS2dXdG8yazhvTFk4MGNNM255OXZrejA5MHpIWmVqMUxiRE5wS0JveWUzdjVOc1VjZGEtU3FFRlNGOHNadGJPaUJHVFUyUGZiamxubS1LZUZvMFZBQXlfclp6dGFoT3VDS2otVTc2YU5sMFVMd3FWOXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-25T09:01:00+00:00",
+      "summary": "Put Your A.I. Agents to Work With These 5 Killer Tasks  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFltb1hBT1p1X09YWFF0ZVJ1UE5nLUhmeUFZOXg2LV9IbTNZWnlXTzJvT0hucndfOVBuUGxNVnhOaFd1RzhWUnVkYWp4a2UybWFraEQ5QWNidi1jdU50Qjhob2ZON1B1R1U2TVZiVWVERTgzdHBsTWhZd1l3cmZQQ3FxVUlNS3phamNIcEtYQkhiT1Z3ZXNxbldxY3JLZVUxd19hSkR5STRHNmdjU0RmcXZn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-25T08:13:25+00:00",
+      "summary": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies  The Decoder",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI to Cut Off Internet Access for Frontier Model Training; AIs Covertly Communicate via CPU Cache - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fZmNBd1hXa2RRWmNnVFZEVUw0WEc4c013UXNPNGRjbWY4Zm5UZUdDLXhhSHc5VzE0MTRaTzVpcnlvSHFEMnhyTGJ6QUE4M1JvZWNFZ3k0bW5Wdm5Hb3lBcWEtcjNJTWtTR0N4ZWl3Y2FmLXVnZVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-25T08:05:00+00:00",
+      "summary": "OpenAI to Cut Off Internet Access for Frontier Model Training; AIs Covertly Communicate via CPU Cache  BigGo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2h0VHlHMWxfSngyQkZ4YzU0aHNMT1FlbTk2cXAtR0tKcUd1YXFDamd5dmpHU0NjQ19Ob3dpNXd4S1VqbW14dFJURGVlREZGTVZsRWdSeUY1S3hSTGNMeTJySG9sUkF2V2ppWUlEejhNbEJCT1RYWk9Wek5ud1dIZzFSZVI3OWRQWExWYVpmUElPWWFaNnpkYXlXXzZQQ3ZKWG02Wnpn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-25T07:33:25+00:00",
+      "summary": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers  The Decoder",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVhZc0dfZzVfQ0VSWDM4QTFLLUFkYUZVRWtBMmlUSVUtaDZqQXdJNVZFWnhqVW1lWTc5UHZSNHFER3U2QlFaSGVNUHhnZy1KSFE3cTFwcGJSSDNYMnI4WHg2STNwSDIyUXBOTVZ0N0FscjFKNGhDZWdjaHZyaDkzVDhLT24?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-25T06:54:00+00:00",
+      "summary": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication  The Hacker News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training - PCMag Middle East",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFRQd3JRX3U3TF9fZTJnTHI0QjNrbUhzeGhyQnhxR3BMajBweVlVVWJtLUIzWjhEd05GM0g2VEpFeVNvR29Mbm9QT1hLWk1MbnpfSHV2dkZuVUpLMW1RVnV2TWJZRFhvMEotcU9IWXhydGVvRUZaSUlrMksxd25uTGJaSmVHc1N0VFVNTjdBUktCck1RNEhXSjlud1VmdnBZRnA2aFlwaDBUUQ?oc=5",
@@ -24,38 +78,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors. - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZjdqQUF2NE54QnU4M0NCbEc0U1ViLTlvZ3RkNnZsaFZnaTJpenVfcmdkMW1YdU1iWlQ1QjVNemFLWlpndXZXWktlRVFFa01rOFY3YWVKd1Yzd25yU0pfdC1lSEdkYXBvdmx2NzNOMTJCVFJibkUtSmxlMXhPcWFLNlQtbmxBQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T21:26:00+00:00",
-      "summary": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.  AOL.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Britain is building the world's first AI biosecurity lab, with OpenAI and Anthropic inside - WION",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNkF2a3dXRzRRMmR0Q0s2UE1jSXNqaDVnRF9WMExzWE1zbDhWR2FzdTBmRFl6enlNZzlvS2l6djFvcGE2U0Vsc09wd0NHbkFTa0lXMWh5dVVKRHJQSkFQVjRMT081M1IwbkE0N2FXeXhBeEpxVE9JakJmeHJXcngxZjZsaDhfMFpmc1VUblBhSE1mbUJQU0xSVllsRlBvZ3liOUFkZ0Q0X0RFbGhnekZqSWZEV3hJY3VaM0FSRG9ENDIzMUpPOVNpaXYwbTVFZ9IB0wFBVV95cUxPekI4dURzZW5KRHhXUlhoYk5TdmNJX2dQODNmZU82dHV6Yk9HOUJqY3R5QnVvYzdTenpMZU5tRUNidkMteHNFRnFHZXlTdWl5RUw3Y0ZSTTZoRUtvcElJYk1lZndVcFU2WE44ZkdRNHVUSWFfUHg4cW5PTGYxdmVYOE5hejZOVHVJMi1VSjZNckx2dEJYa2dYNVA3UHhpRUFxYThQZWdwb3lwb2VMb3pESFhkYWJaZjlZQ2xPRGVTMXpCOEpjWHpXbkg2MWxpdzFtTmlz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T20:07:00+00:00",
-      "summary": "Britain is building the world's first AI biosecurity lab, with OpenAI and Anthropic inside  WION",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "OpenAI Expands Decisions API, Scales Enterprise Push With Uber and Cuts Frontier Training Off From the Live Internet - AI Insider",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ1ZXUzdOZGRzNHJhZ19Yc21pSnZ2Z1dUbmk0Q3RhTEVwSUljSGZFQ2xrUE8zd1dLX3RlR2xnVURzNG5fXzB4UXE4SFdPbVd6N0w0aG51djB2QnJseVpfRGlIT2xReXJmWVYtRS1hTUNuRjN5dnBDM3BZbU15Wl9OSHRKZld6aGE2cWdVZW1aWk9KRnNCN0tIR1EwQjRpZFlDWXlWNWs2Nll0QVNyVVZiQzVCVlB4ajBKUE1sa3ZZUDVzaE9UWTZ0R0xTMTI1eThjYzNmTGF4dmR4X3BnNGdqQm91bmNCcnUy?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-24T18:44:06+00:00",
       "summary": "OpenAI Expands Decisions API, Scales Enterprise Push With Uber and Cuts Frontier Training Off From the Live Internet  AI Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI will stop training its models on the internet after cyber incidents - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QcFJvYTFxZWNWRnQ0ODBYaW4yRS1hVXNaN3JHSUpJb2drZTMzdG9UXzFLT0JPdGFaRWNBdUdfbE5ZWHpPS3E1Z3pPN08xTnZja1lVR3Nn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T18:26:36+00:00",
-      "summary": "OpenAI will stop training its models on the internet after cyber incidents  Fox News",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,15 +141,6 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Arrives on Google Cloud, and Businesses Gain a New Way to Buy AI - Times Square Chronicles",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblVxeHZDcHU4UnlZc3RSbTBJVklOVkZER3NmbXZGYXJDWHhvb09HM05ld1d4NjI1ZWFrMldlU3QtbFJTRTRFRkhvb3E5ZXhaUnltb0JYcTZKc2NTUE8xZ0N5YjNCNGpXb293STNnenhJenVYT0h6RDAtQm9LVjhzcE5jSVc1SmNXTTFpZE56c1V0X3BfWUFwVA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T14:03:30+00:00",
-      "summary": "OpenAI Arrives on Google Cloud, and Businesses Gain a New Way to Buy AI  Times Square Chronicles",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "Anthropic’s Margin is OpenAI’s Opportunity - The Information",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0N0ZWVJZjFXUjdmLTdoRVdJbzkwVDBYaXM1eHN3aEdPbm4zTXNhdjJrbTdHdkQyQTJ5ZWRBMGdheFRKeUFjMFNGbWRZdHhnZWh2YXdDZDV2R2JTazNmaU5kTk9oVmQ2a0hnUzl3V2dtSWE0U2ZOZjB5TElicGVxOE1sSQ?oc=5",
       "source": "news.google.com",
@@ -150,6 +168,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache - The Decoder",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWJhNW92T3F2WmQ4ajFOZGFBTnNkckxMenAtWXU3S21wN0lyeXBJMmxmOGdCT3dobDdqclV1SkpjcFZDdGM3V2ZNNWk1d21veTNGT0dqN2JNU3VLWEpybVYwbFdfOTkxcHdtUXdwMmhpS2t6T09sUWttZXpsYkMyOWY0RnJoRHNGYXBseUdNeHBGZHhDTTB6ZmdHVExaX0tiYTd3aw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-24T11:18:17+00:00",
+      "summary": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache  The Decoder",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "UK funds £100m AI biosecurity lab with OpenAI and Anthropic - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlNlWWdNdU5Iei03OXdmVFdMb3VfS0Q1ZDZqSHRvY1pNcGppNnNadlhjdFM1Nnpta3djVjliOHltdjZwVkh0RlNhNTdSS0tlMzhJMjFFcDhPeWU1TlFWWmxuRW10SkxLdklLRnVzVll1RTZYMzZIZVR0TElFMks1UnRIcURRd3lNeElFNnlJRQ?oc=5",
       "source": "news.google.com",
@@ -159,29 +186,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI is locking its most advanced AI models offline after a string of security scares - Digital Trends",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWFJrMlYtQVR1MThfY1F6QUFndkJQdVhsQll3T04wRmVZazNFUHVTUGdFaHF1aF9TbnFFRkdEVTlFU2hUNXdORUpaaGNRNDNxQllVMUpxMVFkcC10N0Y2SW1MTFd2MVlmVWFzdkJDR0ZRMmZnbFhGcG4tQlFqTUd3aHA0WEZXakhJODk4aWtTRFJpbnJNWFVqSWdnZVNWOWJQZmx1aEpPWnhjV2VOUTRRa01SYURpc0VLc0puZzhYbjRMaGU5anlJ?oc=5",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFJYWGNtWXRnNTVYSlV2QWpHaEstdS1tVEljMThVeEF2SnU5MnBkeXBrSUVVSHFuQXN6SjhWMWIySnAzYTNrbGlRZS1mazktVXF6bU80dU5WZi1hcG9MdWpUSVh0SlkyS2dYWXAybHBsMnpxT3ZXTFJoSm5fRHpQSzVsSnRaclpvU0o4N3pqcGJpaDRvUzdRT3YyaXg3TlNmM2tYY3RPcGhYYTNIUXQ1ZWZ4VHlVZ183N3hrSThibFVPZWFiTXlFYWZR?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-24T10:40:00+00:00",
-      "summary": "OpenAI is locking its most advanced AI models offline after a string of security scares  Digital Trends",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "I put Canva's new AI image generator through its paces. The results were a mixed bag. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDUtMjNxZkJlOXVlR052Qi1Fc2E2dEZzbHh0UzY2V3BjdU82VU5YbE9YMFRUYTkwbFZ4QnJlaG5sdkFIWVdoY1VvdGlFQkFQWXhXZ2RtdmF1eVhIaUhRczI0OWpYeFgxRlVjUnB3SUIxbWtKVm4zMGtnNTBNeG9SV1NqYnRNZjA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T08:11:00+00:00",
-      "summary": "I put Canva's new AI image generator through its paces. The results were a mixed bag.  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRmxKd3dXUmU0Qmc3MnJRUjVxVHZVNHgzbGxGYV9GenE4TVNiVFFPOGlhVjd3blhSUHJlSEFVSEdPbC0wZi1fQjlwcDFxZTJUSDFPdkdUR0tMLVViNDNtRUJhOHgyV2dfMnJ1NFNzeXhMUzdTcjJ1b2tHTTVid1IwbWc4dHFURnRrSXZkaUs4MU5OMDh0YmMzT0FlSnlqd3VWeFBsTlJnZnNQZGY2SWtKOUpSU3Njei1ITGxKNjJWd2FDc2g1RXdMNFdDZXV2c00?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T06:38:00+00:00",
-      "summary": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential 2027 IPO.  The Motley Fool",
+      "publishedAt": "2026-10-23T23:05:49+00:00",
+      "summary": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”  TechCrunch",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -191,15 +200,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-23T23:01:00+00:00",
       "summary": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AG Paxton sues OpenAI and its CEO for allegedly deceiving and harming Texans - KVUE",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNemZuZjRaby1uemF0ajc3U3VhbGlaajBaZUZ3YU5tRWpWSmRrMU1yU3NiSTZPbVlsTmVJYllyRS1IRlhVVFFvYXpDYl9QdVJjam12TElUYWF5OGtXMFFTdXQwZVcyU1RRZWJNS0xDckZJSVNmSjMzV2JLY0xmbkc1VmNrYmx1ZFpzYmQwMzlBWVpZWERlR012UDRiMHpiNjNFenJBbQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-23T22:39:00+00:00",
-      "summary": "AG Paxton sues OpenAI and its CEO for allegedly deceiving and harming Texans  KVUE",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -214,7 +214,7 @@
     },
     {
       "title": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXNWNG44YUkyTGJaZGlFeTh5ekpzb3lxTWljUTh0R1B6bVpDQW9iRzctSHFEajhqTVlHWVV5UlZoYkZZdkJ4N0VaN3JzME9fUjFnU3B5T3BYU1ZYOHBIRnBPcEpMZy14dkU3NThBLVJoRlRxa0dLOG10cmNJODZRb24wNUEwclQtV1hpNG4wY1A2M3VreWppT19HNEdEY1FBRVVGRFZhZlpQS3BHdGlmbjNEOUk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbmJKcENhMzV0LTRwNnZrZmctSlMzNFkyRmF6cDllY3JkZzI2SlBUdXJ3dHZKVVFlZllXZTdHcnVFTUJTNTlHUVU4Qk01cjJEeVBsaWNsakhSWmNHTnFFVVpaMDlLRXZMWFdmMkpVUkJnMUZ0UThsWUdqN2FYNTBBM0NON0NNaVpYbWItNUMxVENCdE5GWjBYYlJwR2RqVUxFaTFqd3dUZEd4QmMwVmYtZEgzYw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-23T22:18:38+00:00",
       "summary": "Texas attorney general accuses OpenAI of lying about ChatGPT safety and safeguards  Courthouse News",
