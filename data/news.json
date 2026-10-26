@@ -1,15 +1,69 @@
 {
-  "generatedAt": "2026-10-26T00:15:29.282953+00:00",
+  "generatedAt": "2026-10-26T04:54:58.176364+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "FBI weighs espionage charges against OpenAI engineer over Saudi ties - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yaWgwV2ZLY21xZ1pmdEtuNnNhcXIyOVlmM2VnS0F6a2ZIRzNuai1mbS13Rzh4cy13dlJpd1c5Z0w1RWVtTjFScmFxZXpNdE0wMlNZS21tTFB3d3Z6dHVv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-26T03:31:16+00:00",
+      "summary": "FBI weighs espionage charges against OpenAI engineer over Saudi ties  The Jerusalem Post",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "BC Professor Sues OpenAI and Microsoft Over Use Of Copyrighted Textbooks - The Heights",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTg2ZTdyWnRVYW5WMEFnRHY2cGZ1dmFnU2VKUENPZThhWTJkbnJnR29RRTVnTkt1bkdQZnhmMmRsREw0N1BXOVh5SDVwOUVYV0QwU21kRkF6b3hFTHV6TVZaTGt2Z050U0dVcF9RMUJFTlRiQTYwcFZmckMyOFVKclZyUHFhb2hUNG9xUVN5ejNDYzhMU0RBNmljLXM4OXdPYklPdXZUUGE4Uzg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-26T03:22:28+00:00",
+      "summary": "BC Professor Sues OpenAI and Microsoft Over Use Of Copyrighted Textbooks  The Heights",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils New GPT-6.1 Terra Model: Has It Surpassed the AI Flagship Performance Benchmarks? - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SMU9QSDdzTXZfaS02cllmYjJEQlBTSkowREtfQ2p3azVOYXdsVlBmVS1vZGQ2RmYtSjZnVko3ampua1l3UDB0R3FzRWVRSUliVmVJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-26T02:55:00+00:00",
+      "summary": "OpenAI Unveils New GPT-6.1 Terra Model: Has It Surpassed the AI Flagship Performance Benchmarks?  36Kr",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI $30 Billion Funding, Tesla Capex Cut [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1ZBSy1hdUpzM2NpVW8yYW96SkIyV1FpVlE5TDFZZGs4OHViczN2WUk0WktlTFZMTlBxYTFVMklEekc1NkNBa1IwbTg4aDRLME5fUmI5cmt4NjRHUHdfbG1UMENoemo5TThBT0FORGJRcVZrUDVnSXVKN0RBT1RONFBRMEswQ1BtZWxkcGNR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-26T01:47:43+00:00",
+      "summary": "OpenAI $30 Billion Funding, Tesla Capex Cut [2026]  tech-insider.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s GPT-6 Astra Agent Removed a Safety Monitor from User Code, Then Denied Doing So - Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWFVxZE85U2Z3TzBxN1ZRel9KbkV1Z3lyMTF0ajlaZGRDZEZ5WnJFR3d5amtKWHNKZ0VaLW5XX0RYbEotOEwwaXVyaTRHWjVnQnZMdVd0eUxRNUFEMDBZRkh2UXh4UEMyNXpEREJNeGNGVVhnd1YzTUJ3UHZhY3VWM2xWeG5lWDJoTFVGRkNlUHBNRVNHc25LNmZTRVljVW00c2pLUnlrNTBrQ01YelhvTHNxVkxVQTZfSGgyX05BRzRHMGlSNnRfTXJhcHR4QUx0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-26T01:18:05+00:00",
+      "summary": "OpenAI’s GPT-6 Astra Agent Removed a Safety Monitor from User Code, Then Denied Doing So  Crowdfund Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI brings GPT-6 models to Google Cloud in new enterprise partnership - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekIxNllySmZrUmtkcEdtTHpRV0tiNHBzbDlDNndyZkZrNklrSjluMkszanVnQXVWMzFYQWtFdXlaRjdIeDB3MEdRUUpzSVl2ZWQ2eERxZ2xENDBaUnRXbE9KQzdMczJIdzZaYTVuYjhnZ2xDUkhUYnFiRkFjMVJ5V282NzhKT2t5QmRRS3lZM2ZOU1d0Q1ZiVnlzMnJwUzZYOFFXTk1vaU9YLWZOQnlweUs2Yw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-26T01:05:12+00:00",
+      "summary": "OpenAI brings GPT-6 models to Google Cloud in new enterprise partnership  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI’s Most Powerful Model Resumes Training After 11-Day Suspension With Full Offline Internet Disconnection - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85OHhPUlNZZHBUQlg4ZW9aT01LaERSRnZ6T1p4ZTNCR2x2cjhETGZ6RmFrTVNPVWluWnJiTFg0cUNsNXpYQlZpdTFndmlGWG1USmhJ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-26T00:14:57+00:00",
+      "publishedAt": "2026-10-26T00:14:48+00:00",
       "summary": "OpenAI’s Most Powerful Model Resumes Training After 11-Day Suspension With Full Offline Internet Disconnection  36Kr",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -24,11 +78,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "The Thread Consulting, LLC Led By Dr. Leonie H Mattison Named an OpenAI Select Partner - EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYkQ0S2MzX3I2VXgtbEh2cUg1c1IwY2l1U3RpRmVsYW0ySmExUXZqaVVZQ2ItOUl1dS1CVmRZbEZsa2t6Y3hfMl9aWGJUOHhOVVBlRVNjYkZCelRtUnBaSnhaZV8zX0NPRjdnZDNyc1lkUGprWUo3LXJnSU5Fb0syUFlfQVlER0ZhaVlnMkhEaE9CYlBCOWVnY2YxRTFBYjMwU0xyeXgwRzJ3QnlndFZydGxvZUNXLUhtQWVGMTl5NjhteUU0V3pscXU1NA?oc=5",
+      "title": "Scott Armstrong says OpenAI's Navier-Stokes result may exceed human invention - RuntimeWire",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTl92eE1uV3hmeVd0Q1l2NXI4bGxEV1FLOTE4d0lEVzNHVVBpbVg3dXNIMk5tNHFOcHpQUEZKQnVSdU4wRE9YNlEwcXlxUDdCdVQxYl9sM1NWNWZSenJVc05LNVRaU213TUg2U29CVjNoT0piVWFNRGstelRyS1UtX1ZaY21oNnNxYW9DVS1MS184RzFnYjBmNTNCQ1liSkRJb19GV1FocE9qeVVWZlE?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-25T18:01:00+00:00",
-      "summary": "The Thread Consulting, LLC Led By Dr. Leonie H Mattison Named an OpenAI Select Partner  EIN Presswire",
+      "publishedAt": "2026-10-25T22:55:31+00:00",
+      "summary": "Scott Armstrong says OpenAI's Navier-Stokes result may exceed human invention  RuntimeWire",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Tightens Rules to Block Rival Model Distillation - BankInfoSecurity",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUgzM0hXQ0NreVdiT2VsbWJ4VDREOE1xMUZ1WUtMU3NqZTQ0emx4RkJBT2xQZUhuWFVPU1FlLUpmRDRVSlYteHVQa3dmaU4wWHN6RzBxaFpKSnpwX0NlSE9URlR1Z2tTMk5CV2twRDVYTi1MdE5SRy1FckRNVjA5WVlyYXVwQzhpTDBwU2Z3eTBlUkxKRU42WG5ELVU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-25T21:44:23+00:00",
+      "summary": "OpenAI Tightens Rules to Block Rival Model Distillation  BankInfoSecurity",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,29 +150,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Consumer Tech (Oct 19-23): OpenAI Reportedly Seeks $30 Billion, Tesla Cuts 2026 Capex Forecast, Anthropic - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcmM5ekk4MUJnZ01qd1ljU3QxcnRCR3ItRXpHUUE0UEFaM21ZaXBVSTdQOWpEdlRhVXVNd19EUW9veDJLcjhJREtpcmMxX0l1ZTRJa3VTb0s0Tl93ZUxZdHdjcThTUEpJVWc1ZXY4ODJfdHlRU3Q4NEV0UHI5S3l2NExTTW1OLVVsVHk4bUtJTDhhaE9GN3E2cm10a0RkOEJZVXZhUDZaUHlmalY5Z041WVhmMzhxRHgtREZUbk1DNkF3d0dGaXZYejc2cUhzT3h4TnpVMU41bmExYjlLSmZsdUJYZFN4c1BkOXRZUDZNOXhkSHJVWVFjZVd2OUZKWnkxbkpSYi1DZGZjOHllXzR2cnluaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-25T13:47:05+00:00",
-      "summary": "Consumer Tech (Oct 19-23): OpenAI Reportedly Seeks $30 Billion, Tesla Cuts 2026 Capex Forecast, Anthropic  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Not Just OpenAI: There Are More Pre-IPO Names to Watch - The Daily Upside",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVJwYkUtNEJtVHdmQTQyandQZ1E4MlA0cGJWRVpTMmdFeHJ3ay1YY2N3Yl9sRThuVm1nLUROdmJ5VkxwSmw2NWdENk1tRVZTeGtpMGdGLVc2SVVfNVF4cXpRZmxjNDlkbmx6emZfb0h4TkYtTzNpN3g4azVqb2J1TEdCQXNrSzRmVnZManFQX3AyQ0h2azA2b1JZM0w2cG1oZTlKTFZRYkkxTDZWa21XN2lWbkY?oc=5",
+      "title": "Ex-Manny Yekutiel spokesman now works at Anthropic, another S.F. political staffer at an AI giant - Mission Local",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVFhWkpsY3lDbkxJampTVXNNNnQyTGtLRHNVU3pnalhOM2pxRHhEZW90c2RmNDlhZTJIejRkdXEzQlpuR2JXbEZUX0VkbDctQlF2aEhqQk80RFdjcTh5d2VKYkNlb3M2ZEdwbkltcXIxSUNFZkYzLVRLSno0bnR1SzhMWjEyenJBNC1Rc0hUVXBCbXRYRUJKSg?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-25T12:00:00+00:00",
-      "summary": "Not Just OpenAI: There Are More Pre-IPO Names to Watch  The Daily Upside",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT Is Building Detailed Psychological Profiles of Its Users - Futurism",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYk1GR1dnWGI4QWJGVXFjb2I5cVhlOXdKNnZlMV9DZmN4MDQtWE1ZcWlKRXl1UEVKMVl2XzBiY00xeF9BaUhHR09JOThmQVltcUJXdUNiNFZocUd1TmpPMzdfQzYxbzJWaUxkUG45Vjd3T3NZaXhndzNwLVlVLW9NV3B3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-25T11:55:00+00:00",
-      "summary": "ChatGPT Is Building Detailed Psychological Profiles of Its Users  Futurism",
+      "summary": "Ex-Manny Yekutiel spokesman now works at Anthropic, another S.F. political staffer at an AI giant  Mission Local",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -141,6 +186,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "ChatGPT Employee Spends $10 Million On Tokens In 30 Days - Trak.in",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTd1bjYzc2ZRd2E3ajNiNkMyRnkxX2llamlJcGY0X0k3YkhnY3BaNUhBSjZxVEJzeEFLR3NsdHF0VFFWaXd3YzZLM3FCYnNWdU1LV01rWUh6SkJWQTc2LVB5UzBIVk5FNnBPWGxmSmpjbFU3LXZXRXlvNElrbHZ2X0hOdDFpME0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-25T09:30:57+00:00",
+      "summary": "ChatGPT Employee Spends $10 Million On Tokens In 30 Days  Trak.in",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "OpenAI used AI agents to hack its own defenses before resuming model training - CTech",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeHNlQ2lqRGNTeDI2V3FjcTR2czdKOGdaajhGRzZ1MnhRRGhrMUVEYnRmTkdFZHJUS3lJUHl4NzlGcFN3LTFyZTh6TDVpcmZPWDlpbV9Sc284cW8zczVlSDhmTWpiX0E?oc=5",
       "source": "news.google.com",
@@ -164,60 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-25T06:54:00+00:00",
       "summary": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication  The Hacker News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmMyVGFaQTZkQWdEM2x5SjJTSXRLaVQ5VjNBcGhhU2w3WU9nb3FkZExxLXJ6d2JhY1drM0kwRkRRcHlFcEE5T1YwMkpWSjRzdjN0Znl5M203S2kzTHd4LS1yM2JCVEhpc1FBSm0zMmtYOFhyOFFpZkp6YnoxdjREZnhsRGthM21PeVAtS1Y3TWFfbHFhZnR1ZUVlMVBWSkkwOWF6emE1VDA5QmNXd2dr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T19:00:00+00:00",
-      "summary": "The AI graveyard: a running list of projects and startups that didn’t make it  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUVtbjVJbzVlbURNcEQxdmRCSXFWRFFfS2JGeHdPSnRUM1UtODYtRC1fZlgyN0JGRnVDZ3czRklJQmFDWVR6NldGMjI2WkNnaG91UXRJcGoyS0NaTDhmRV85OEtEeXMwMUhyYTExdlkxYjJidWJ6aWRGTWpyQmJEdW82YnRncHRTelhrUmhPUTV0RHdib2QtVy1DUHBqZ1NhdXJNdnk2RQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T17:30:05+00:00",
-      "summary": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTA2OWU1VV9mbXhWWWMxTVZ4QVA2UXEtamNNOFN0NmZpQXZSVUk1OHBGSXpBbkE2Vmo3Q1RDS3hMUWpFbm13VmF3SkplYWxqcnVrU3ZmV2xONWs4OGdKVjZSMnJUTjBfeWxmOUJkZDkzZ2NxQmZEZFpDZktuZEFxdEkzODFfdmlPaldWYzZXenFqTFhsUUw3OXBVTzNHZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T17:07:00+00:00",
-      "summary": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect  WSJ",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T15:00:00+00:00",
-      "summary": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic’s Margin is OpenAI’s Opportunity - The Information",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0N0ZWVJZjFXUjdmLTdoRVdJbzkwVDBYaXM1eHN3aEdPbm4zTXNhdjJrbTdHdkQyQTJ5ZWRBMGdheFRKeUFjMFNGbWRZdHhnZWh2YXdDZDV2R2JTazNmaU5kTk9oVmQ2a0hnUzl3V2dtSWE0U2ZOZjB5TElicGVxOE1sSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T14:00:00+00:00",
-      "summary": "Anthropic’s Margin is OpenAI’s Opportunity  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI fired researchers for using disappearing messages on Signal - The San Francisco Standard",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oeWxQMmtPTmlqclc2V19FN0tRdTdOSVB5VWdLaE1janUzbUJ0ajdBM05RenlYclpFdjJGdnBibGZqajF1OWliYmVVcTVqTl9rMVFBNmU5dnEwYTVVRElFdXBhUWlleDF2MlZ1aFdBTnVkRnhadDJKcQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-24T13:00:00+00:00",
-      "summary": "OpenAI fired researchers for using disappearing messages on Signal  The San Francisco Standard",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
