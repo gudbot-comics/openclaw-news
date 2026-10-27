@@ -1,15 +1,204 @@
 {
-  "generatedAt": "2026-10-27T05:41:41.083449+00:00",
+  "generatedAt": "2026-10-27T11:02:45.995207+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI launches GPT-6.1 Terra for precise computer use - TestingCatalog AI News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRXZ4NVFHRHgycTFkSlk3VWZzMXFIandrU2NYRFEwSW9nVUg4YWF1VWFoUTFBNzBRLWN1Yk14LTlNQXRSS3NtMVF0TU4yT3J0TWVNNGFaRkF2TDRPV1hPaGVIRGx2blZ2SUFWQmowNTV3ZkEtdWZCVmt5YXVvTXBfU3prTlNfUlNNcWx5eEhIaw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T10:38:12+00:00",
+      "summary": "OpenAI launches GPT-6.1 Terra for precise computer use  TestingCatalog AI News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why OpenAI Is Selling GPT-6.1 Terra on Price, Not Benchmarks - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YajlpS1J1ak56eFNsVENDY2pqZlR0bnVXVzJCNWRsM1hxaTRRcW1HRGFzUmtoeEp2elNUazVyN3NZUXJCMGNMcDA0aFl0SFpMY2V2Y25OZkNPUTdxcE1IRUFxamE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T09:48:00+00:00",
+      "summary": "Why OpenAI Is Selling GPT-6.1 Terra on Price, Not Benchmarks  BeInCrypto",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Broadcom: The Market Has Priced In An OpenAI Collapse, Not An Anthropic One (NASDAQ:AVGO) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHh1cDk2bmtuTXZqSlNyZWFvUXZRVDllMW1NeFc5bjFIdVFNMENabkhENktueGp0LXpKUE5hVUgzc3lfNk9qSXN4ckRvUHNjeDBXblQ5cGZVcHVoZ25mQmV2WkJFZUU2ZTdVUVFDMlBFTEsxVWRScTFoR2I5RDgxOWtMMnVxckJQWHhUUXVFWlIyU1VWMUNvU2xNZlhxMUhZZjhqdTVwdzE4ajFhMDExOTBpcXY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T09:43:04+00:00",
+      "summary": "Broadcom: The Market Has Priced In An OpenAI Collapse, Not An Anthropic One (NASDAQ:AVGO)  Seeking Alpha",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Analyzes screen content and edits video: OpenAI releases more affordable GPT-6.1 Terra AI model - Root-Nation.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZE1HLXRsRHRfX1hJYXRPQ3F0dDZ1bURwWk5zRG1mdGEtSWotV2hBRnVXVW8taTBFY29iZC1sb1FjX0ZCLWFXbVBySENLM3VFd25tZURkaFJraWFSaVQ5Rlk2cG9uTWhqOTdKZFVoSVFJanVvNUVOODJMb2ptV1BZeUZBOVRhdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T09:38:06+00:00",
+      "summary": "Analyzes screen content and edits video: OpenAI releases more affordable GPT-6.1 Terra AI model  Root-Nation.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-6.1 Terra: OpenAI's cheaper model for computer use - Resultsense",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zd0hoVVhQdlZyWkZHR04xSVEwdmxQMmh5SmtBUnFPVWEwRDJ3LW1XUGNFS2tvdmNVbFZmRk9lYjNjb1B4VWtfa2pURk1yMTRkbHhqQ3FqRjBSbTN0Sy1HWE5ma3V1bk1tMTl6dU9YV0FkREdkRG9mQmtpMXg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T09:37:44+00:00",
+      "summary": "GPT-6.1 Terra: OpenAI's cheaper model for computer use  Resultsense",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Terra: Sam Altman says ‘we are especially excited for …’ - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTW1qby1EZWZscGRPRzhpNnU1bG1hUHBsSFFnc1NTZUJNZkVHRTB6TFJmeTVBTFlNaWw4RDFyZUZ1SGRSVHRiRTROdjNoODU5TERMbERKUUJVZl9JRFZTbl9BamZmM0JtRm8zLTl6dHRZS0JSc0N3VDd1a2R4N1RaVzZqcVdVZC1NVFZHbVBTUEFQM0xDUFU1V1hTcFlyczEwSTcySUhCeUNQaGxpVUhuak55b1BPbVdwZ1lGX1liM295ejZ2ampqVUpwSWVzRHNuQV8xTWVuR2N2MUtUa1NzZW5Udy1ucUdfUzBKWjhwcGHSAfYBQVVfeXFMTUtoaG9ha1hYRzFqOUg4T1c4X0hMc0QzX2wxa2ZIZG1EbkJrdWpDUVJiSmxidW1YUVNDT09RaElfYzdTY2JUT0N3bHh6YXRGd0dTTVZlZ3pkR0pvMHdkUnF2LUdzdUdaM3VrN2VvN05odGFqQmt2OE92Uk1qemFDM2F3TVVCUXdPVUhHSHZ5UTlwOTRLNThsT1VjZFRDbUFnaWpQQ3B1RGJzd3ZxQll3TG1WcTUtR0Q2SE9TYURXVEpERmtnMl9jSnF3SHpwaXdRNm9pTElqdExQWG1ucjNvOEJpanh5NnR3SjhXVGNXMVgzeWJtSmxn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T09:33:00+00:00",
+      "summary": "OpenAI launches GPT-6.1 Terra: Sam Altman says ‘we are especially excited for …’  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "😺 OpenAI's big day brought a disproof and Terra - The Neuron",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1ZwVG15OWdIRUdYZWFfSXhranZqSlY3M1dDXy1mOUhZcFQ4VVNWS1AtaGpnQzAydGRLM3BPV1l2U3gwZGZvSmcyS1ExRVV6Rl9XeU5wb2NaWFNCX2pRNDh2ZW9za2hPVmxuWTRLSUVhR0U0Z1ZoRU5FWXJTb2w3eFVTbGU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T09:32:50+00:00",
+      "summary": "😺 OpenAI's big day brought a disproof and Terra  The Neuron",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Project Camellia team leases space in Enterprise Building in Rincon - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbVJuU29rTEpURTZQU192eVpkbkFRVlc5TFpGb0lpbm1LUHdoWjhNblR5MkpFWFFldmJRTmY3X0pUazVzaDc5MzZDNkdVUU4xdHI5RDF4SWM3bE5veGlIR0hORHFGYnUtWHpESTJVOWdNMkloMkdPeV8tbFN2ZEppX0luY28tQVdhWTRKemJHZ2ttLXlCSlI3THF5SFpIOHYtQmFKeUc5MHBpSkw4QzZhWGtWM0w0Q0FRSV9ZVFRjdUJtaU9MUVRaSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T09:19:30+00:00",
+      "summary": "Project Camellia team leases space in Enterprise Building in Rincon  Savannah Morning News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches GPT-6.1 Terra At Half The API Cost Of Sol - Dataconomy",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbUpISTBydUF4b1ZMUUp6Y0dFQ1JMaGs1WWpfZXB5NFJ4TnhmckNUVWkwcjVoRWRRcDl0eEZQT1JrUUs2d0NxOTBpc3cyRlFjbVh4Y3Zfelc1UlJrU2k3U2xZZUVaZnpxZXMyWGpJTlRleE4wSl94aGlZWndWVGpJcW03Y3RGV2tBeEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T09:13:44+00:00",
+      "summary": "OpenAI Launches GPT-6.1 Terra At Half The API Cost Of Sol  Dataconomy",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nvidia To Invest $3 Billion In Meta's Muse AI Models - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQal9rVzYtbC1od195SGJtcTk0Z2JKYV9xUDRjN2ZHQ3dqUG50UDZFcFlGX1NiRFpteXR5aV9sdnNLdG1zcXBYYVZEOEIyWUg1endMaEYtSXN3Zk5kWUdXQlQwNUVRZ0tIN3BSamZJX24xdXV2QjI1aGotbDNsc3loV3JodVZwTzVNNVB0U0VPTVpnRTN3QUFHd1JYX2dpTVdSeXfSAaoBQVVfeXFMUF9YYVg2ODJvLUprc1RveS10a2dIZXNHWWlQcGpFV0J6MkxtUHhYZF9hdUh2Y2JvZE9LUWdSeEJ5Vkh2OU1CYnA0VkMzbWs3Rjctd01OZlpnRTQtekNBN2RTUmQ0TEhqLTU4RG45Z3QyUHdWME13SEk5cHhnV0tDSW9JaFBKRkdvUmNWZDZRa0hlRzhFSENXOXZoVHVuR1BWTzZOdWhNTGFwWFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T09:12:57+00:00",
+      "summary": "Nvidia To Invest $3 Billion In Meta's Muse AI Models  NDTV",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Computing Claim Faces Review, Raising Questions About Quantum Advantage - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0M0YnU4bjlCRVd2UVNwdldqendzeHR4bW5PRWVhM1JvcTRSdjdDTkplcmNtb2JuWHRZZnFUeDkxR2RpYldfWkJEOXJGX3JWejkwdml6VXlJZnViWEt6TWhxVlRTcVlBV0FCRHpWNVZlcVlMQXI0UHdJYU83S3REODlGS0tzMzlMR19BRGpWUGNwVXY4cGRZSEQ5eGFhSXZNcm51S2tkakVyWTB0akdaTkpGQXE3ajFQdFJv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T08:55:48+00:00",
+      "summary": "OpenAI Computing Claim Faces Review, Raising Questions About Quantum Advantage  The Quantum Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "FBI probes possible Saudi economic espionage at OpenAI - AzerNews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DOFZxTE55M2s2el90N05QVVFrM1lNRXVFYUZ5UHNhbXR5TTQ5M0JSWXJLZFprN3ZqMm8tMW8tWU54TXRKaF9nVDZhTVliVlpaSFZXaA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T08:48:00+00:00",
+      "summary": "FBI probes possible Saudi economic espionage at OpenAI  AzerNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils GPT-6.1 Terra, a Faster AI Model With Critical Cybersecurity Capabilities - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jVjNLWlRHY19KeS1rZWIzenQxODNLeW8yTDlnUWt5d21Cal9JbHZTbmFmMU9WMkdLdDhTMEUtTDYxQ0NMN0VXWmVoY0x5c1hJUzFlZDNJTjFTT2VUMmUyTzVxbVRkQjhwc1h30gG_AkFVX3lxTE16TG54Y0ZDdTMtNHNtdnJnVHplM2NRQVEwSHdSMG9EYWhfSzVJeFVkZmxSZ1pQS2tXcVJuc3NhT0VES0ZldkRMQ3pXbkE0RXQxbmVYS0NkSm1vVlAtZTVkZmhRZHk4OWdvcG9WMnNudTZ1MXhUQUVxQUhjd3JLdWs2M1plQm9FcXk5V1RQeWUtUEEzdnllUW5YbWpnU1JSMmducEI4b0tzamltbEp2QmNPRkNJYkdlSm92V2Y2a0tLbzVKTUFQUUI4ZWs1ZGNXc3pUdDRtcWpXdjFXUnlXelZuT1lXLUc5MVRtVV9KeUU1NkNMZ0I3YWtiNk95amFTZ3QwU3ZfRFBDN1V1QnRzWTV5TUgyMXgtbEsyMjZlN3lfQS11aGFIeHVVSXBZcjM1dks2QkFtREg3bi1ZUjE3R0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T08:32:13+00:00",
+      "summary": "OpenAI Unveils GPT-6.1 Terra, a Faster AI Model With Critical Cybersecurity Capabilities  CyberSecurityNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections - The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOGU0X1FwSW9vM3pZYzRuakxkNGk1OTl1TEtPQlBpRFR3d2l1UjM3anc2U0pkRHphZ0tDUVlqdGxSRFZ6amFuYkx5V2lSLXhLUmFZWE1fYXZ4VHN1b3hBQjg1cUVoM2t1dGphd19QQ2xCY2xHY1hyaDdqMFd6U24tckhzYw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T08:22:00+00:00",
+      "summary": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections  The Hacker News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Announces New Discoveries In Mathematics, Computer Science And Physics - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWjhyeURuTExjbVFTeHpnajdjTmlaU0NwQlRKeXFuR3lCWWUtbmM5c1k0MDJfaTB0a096bE5rel9QMjFvX3hSZk1RZ3pDLVlHbmFBcXJ6TUhNLVBSWXNqZ1lRZ0JsUWlsNnUxQnhMbFI1cGREYWpYTjdOSlYydE52ZkdOLXZDMlVNd3R1dlJwcVQ4S3NuWHVrXw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T08:18:16+00:00",
+      "summary": "OpenAI Announces New Discoveries In Mathematics, Computer Science And Physics  Engadget",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Ari Weinstein: computer use is racing past expert humans - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDRqT3dCb1F1Nkw1dHFwWWVlSE1EQ3g3UHhyR0RSVk5QVndtWHhrcTlVeE9KQVlVZDlXb2JEd3FrN1NpNTVCbXZoR28yOTVRdUZwWE1LQVB4dVJWN1kyWHJBLVhPcXQ4QklMNEVHSGxTOTdSYlhNTVpUZU9NUlhkSk52c0UxUEFZeUU0VFpBQmZ6YTlrbzZzcm4tNWRRUDA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T07:33:34+00:00",
+      "summary": "OpenAI's Ari Weinstein: computer use is racing past expert humans  Dealroom",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI says AI has made breakthroughs in three scientific fields - Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOUxvaE1iZ29meGYxNUZIamVMbUtqdDZHRmJVekZPYnZOaUR0TXdwbnN6aFhwRlUyUTFxOWVsSDZjaFZ5VzRZTXV4YVhwQTZQMEpnUld5YUpnU2V6a2k1YTZta0hRRVpNRGh6VzBBanpCT0FFVjBMUmxSbG1ZX3dseThvMDJSS2hWMDdlTy0yZ3FpLUNvNTVIUnBuZWUycnfSAZ8BQVVfeXFMTVRRcE1XRTFYSTR6aU5Hd1hPMWtQUkswNEVDVjQ1MlYxSmxDQ1JCWmhZblVEWEpEMk5XODM1Z1EzN09mNHZDbFhkRWZ5cEEwWExkMmQ3dldvdXFPV19GSHp4TmxYZWdNaklOQk1rdjBMdnhVT1N5Q1lKcUFGZjhZd09DNlliTmlyV256SE9xTVhLUTh1RVBMeTdWVjJ2UEk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T07:28:15+00:00",
+      "summary": "OpenAI says AI has made breakthroughs in three scientific fields  Qazinform",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Sam Altman Announces OpenAI’s Budget-Friendly GPT-6.1 Terra, Touts ‘New Era’ of Computer Use - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3RBaGVieElhR2NVMU01WDN1Y0VqdGZ4aFJhTUlVVmNYTU5nc1gybEQtX2FjRHJZRjJCS1E2RENHVEF0bGNPc1RVZ1NOZkdCemtTa3ZQSWZ0QnREN2FIWHU5SGlUNzQ1NWVLZl83TlM0c3o4SDBid1cyaG1vcGVZMHJZN1UwSURqM25NMg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T07:15:29+00:00",
+      "summary": "Sam Altman Announces OpenAI’s Budget-Friendly GPT-6.1 Terra, Touts ‘New Era’ of Computer Use  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Claude maker Anthropic moves ahead of OpenAI in IPO race - Kursiv Media",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTZfWWFLTDJTSkV6alFycUlpSEdacEM4WmF3bmxiN2JndlI0VGNqMFV1WDdXZ1BvLXZLS1RqcGxqRnd3blZZS1hSbHJ1MkdBbnRUeUY1UFVUTHJHcHdiOTQ4dmZLZkF3WXN3OGlhVnN6TGd0a25mWjRvT3lnR0k1dTJ2WnVDUHhhM2d0VDN2OTFvTmlybW95a1pPeHI3YllLbVJFckFNcDY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T07:12:24+00:00",
+      "summary": "Claude maker Anthropic moves ahead of OpenAI in IPO race  Kursiv Media",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI claims three new AI breakthroughs in math, physics and computer science - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNME0yQzNjUjBvbks2N3o2Yno5dFdrMXdldnBrSEtZdWRqa0FxakliVk00bVFNQ29EM2QwRTl1OFBaU2oxMHdsZEpnM0ZoV1NNN3JwTDFQbnVuTzczZW1hdmV5X3J4VG04Y2JEY2RhOHdmWm8yZTZvblYtOWprMGVWV0hUT1Rqd01FMkZGWEZ1ZngzN0w3dVdtaGUwZjZLYzAxSFJubmVFVlRCUWs4Nkdzc0NWbGgyOU54RXJsX0NCRdIBxAFBVV95cUxPWUszaXhBOEtzNjV1SGo5SnRWZWJub183TlZ3cW1MeDA0WTZwLVlkVlh6Njl5d0s1ZWM2Z1VDaEpzczFQT3pvX2VDRGg1b3ZhQzlVakxDTUkyRWVCV2YwaDFpUVVqRXNIemprd0t6Vk9PSjJzSlBNTjdSeFlvQUEybi1OMUdzWTBRcF84a2VtS0VpVUt3LVhnSHNyeE1VRGxGVEp4V2kwWDhlWUdYSm1JOWcwVkpieUtQeU56TkZWMnlfbDEt?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T06:00:01+00:00",
+      "summary": "OpenAI claims three new AI breakthroughs in math, physics and computer science  Firstpost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Codex Breaks USB Encryption in Minutes, Exposing Hardcoded Keys and Security Flaws - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdURzNXZPT245d3dOenpjZTlJcEJieDR1X3NqaXFTdDZCUzFRbm5LaHUwSTdXX0Y2YmxacVFGSFRocjBkVDlSSk5lUnRDMUtoMU9PVUVvZXVCdkJmSzRyN2lTenVPQlBUZ2JXSTZBZExDYzI2MVB1ejRQam9ucjdwVDNR0gGHAUFVX3lxTE8tM1gyQS1GZEVxZzBnSl9rdHRQV3lZV0pzNlVMb2lrcVNsVGwtNF9xRXNZOHZ3Sk5UaHlxejdWYnpSbEZtYUM5TXJ5REpEQm9nTHpGMERzZUZxdnF2cGxOaldZSy1leWljdW81dGZVS1NmUVp4eDBReFJlTm1jSDQ3c3hoOWRnMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-27T05:47:10+00:00",
+      "summary": "OpenAI Codex Breaks USB Encryption in Minutes, Exposing Hardcoded Keys and Security Flaws  CyberSecurityNews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3ZUWTh4RW5uQUFNdlBLdHNZZnRDUUcwOWl2WVBsejlET1hpYWFheW1yaTAtRlNsOEFDRW9UbFliY0VuVDR0SW9YaXp1eTdJbk5kN2ExbGgtSTA0V1ItQmM2RzJ6ZzlqZndnRTBoeDlhS2F4aDk1eW5tVVdZRmtaazBTNUpmZUEzZ0Q1NjlfUGxmX3ZNQnkzWkNrdDRQYkVEa2NHcDVuZENKck9XMHp1MXRvX2p4RWFi0gG-AUFVX3lxTE9JeVZjeGd4RTdGeEJEQnJYcGVnWXJzdnJqLXVBczBTSXI3WEJQMmZBbmV5N050Wko5WkFCZEZfX0ljdlR0MlNITnZpeVNPUzhPczM0UTVYUDFWM2p6RmZSUVh6bm1kZ1BOYUlqeDVRMnA4RjkyR3A4YWZRbUlLd3R1M25sR3pXQ3BQM2d5NHZySFM5S3pzSUc0TWdkUk5TNEhsa2NFV3F5MEJzM21nemNETFlEM28zNFlpVGpZZnc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-27T05:15:00+00:00",
+      "publishedAt": "2026-10-27T05:16:14+00:00",
       "summary": "AI makes discoveries in mathematics, computer science, physics, OpenAI says  Al Jazeera",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -29,195 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-10-27T04:33:34+00:00",
       "summary": "GPT-6.1 Terra meets OpenAI’s Critical cyber threshold, and it’s cheaper than GPT-5.6 Terra  Help Net Security",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches GPT-6.1 Terra With API Pricing 50% Lower Than GPT-5.6 Terra - gHacks",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFNEaUhWdERJaU5UWXBKQ1Z0ZWdGRk93NFlqRUZsTXhjODU1VVZDMzRwdmlWYUx4cXgwckN1X2owc1UwSXY3M0xCc2dFSlJwUlVtanI0OW1hSGFSRWJVZXFyYUZQZHowSGFqT0VhbVhDT2dwNXJ5QzJRVzVsTmlhNHBiQ25mUG5QN0ZVellEbkIyclFDSDljU09UMElQdmlXUmpSc1FxLUhWc2dyVmc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T03:37:49+00:00",
-      "summary": "OpenAI Launches GPT-6.1 Terra With API Pricing 50% Lower Than GPT-5.6 Terra  gHacks",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s August fix for theft of reasoning traces was quickly bypassed - CSO Online",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX0FreG5jcWdhaWZ0QjluMUtScS1Gazh5UGJTNFcxbDJuS2ZkTVhSdFA5R01kT05JRVJFNlFMTEc4VWVJaFRwM0l5R2steXBLU2pMMGYzTDJVMnlrc0IwU1lUV0NaWFJrM1ROencyYU1fTktwa2FJeFJqblVKVV8xb0FCZkthMFlkbUJCTGlJcC1kM3VjcGMyRy1IVWZTdVp1NWdQVGQzeHFPR1hJLXJSS3Z0a3AwWFk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T03:23:20+00:00",
-      "summary": "OpenAI’s August fix for theft of reasoning traces was quickly bypassed  CSO Online",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI GPT-6.1 Terra launched with 50% lower pricing, improved computer-use capabilities - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV0gwVkVjcGRETlNwY0V4bVI0bW14NXN3ek4tZVFpSHBUTHNaZTVmOFMwOV9CdXdIdnVPUHdkSjU1c2JPYTFzM0c4dFY2S2czTmNtOTJGYkR1aS1sTEs0SjhGQ3d1SkhDNE5YZlIwVFdjbnBPTnRpRnBnZHV4M2ZLZTlwRHZDUEZaOE1uRTg2MlJOR1pGRFF4YkhvcmNhcnFiYldIb3FWNHdKNmJ1cUJkdUVEaGhFVTRmMmYwSDl3YTNwaTJTVEJmZjVRUdIB0AFBVV95cUxNQ0ZCbENoTElWQWNKWGZoMnpKRk1RSlBWVzN5WUt5X2xnd3QxWXRmRE4zaklkTDZibEx6M211cUlXaEw0eHNIZHB3STd1WGJWUzJOZWQzQkN0cHNNR2xpZnpvMG91SVktdmN6anM0VGJ6X0NKYXUydW5zdWtKZzU3VDhYWWVtcTlRbW0tWjlMZDVMeEJnXzZKOVQxcWpsdjdfMG50OUw0OVQwT2xzcVVyVEFWd0lrdTdENG5HSG9faExncFJsRjlDSEZSeG5Jdk1M?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T02:23:27+00:00",
-      "summary": "OpenAI GPT-6.1 Terra launched with 50% lower pricing, improved computer-use capabilities  Firstpost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI claims major proofs in math, computing and quantum physics - Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnZncnNlVmtjeUFGR0pXTGdlY1htUWxwUVY0TGZabHhycVhrLUlZUGRkWU84LWpDSkhrMnA3LUJ2Ymxtc3ZfVUY2TnJrNlduWG5CV1U1WER3NWpEeFVMcExDS2NRelU1Mk5rVXp0S1VhNU10M2podmVreVludlNMZng1NmZyRDU3ekFN?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T02:13:00+00:00",
-      "summary": "OpenAI claims major proofs in math, computing and quantum physics  Interesting Engineering",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines - The Record from Recorded Future News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BeFpleV90ZDR5ampxVEwzbU5LdFo3d2JNSHhVMy1CTnI2bjVBbHZBeWRrR2lGbm9TM1B1UDJZR2VhSU1zWWxPNFR4TE4tbGZmUkRWa2pCMVQ5bVlaNkxHODRhZHhEZmZRUUFFYklR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T02:09:34+00:00",
-      "summary": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines  The Record from Recorded Future News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches Dots: AI Coding Tools Become Personal Assistant - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMEZLdzVGdzhkbnZuS0xicXB0S0V3VmRIcVJSTWtOdXpFQUYxMG05dm4wZ3A3QkNkRXhxd3FBRVY5RTkwRW5zOVlkS19uRUlMaGM5YU9tenZuQXZnanpabHdlb29jb2xfeG5CdU9sRElqalotM1ExcWdIdkZtLWN1X2FsSmhqY3d0ejJmVHY2ZWZfVG80dFNnUmtHaw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T02:06:00+00:00",
-      "summary": "OpenAI Launches Dots: AI Coding Tools Become Personal Assistant  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUVCM0RUdHY3cXA1MUhJRW43ejN5Q1dmM3Nia1ZYck1mR3N1cUV6YkFLN2k2RUo1UEhOR1ppWHFWaHZPdlgtN2NiTWdJREJoTXRtU1NuVlFVOTB3VFBBNjJJN2daUTVBeFRTYnRRWnNRLUZvbW14U0dJMVd5NTRmTjlVMkx3aHQ0YVZBRkVyV0tKYnV6dHdzR2E4NVltOG5CcGZqcHZNb1NNcHBsWGVzbQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T02:00:00+00:00",
-      "summary": "How OpenAI turned its coding tools into dots, an always-on personal assistant  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI reports 87% coding benchmark pass rate across 20 programming languages - EdTech Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzNUX1RZUFBTUFBIY1JiY2x0WnpzalhkUmZ0ZC1hcENtbDloSEdUUUNQdG0wYW5CWW5NdXZfU3ZPTTBsTXNGZ2NMY0RhX2VOaXA4M3FSRXNRQk41emx6Q2JnbDIwWkwxWkptUzN0djBXQU85R0VteG1VTkJkc2NNOTJPRGs0a1VzR1M2UTFmdkZrbEw1RFhyWWl4QmtJbWt3Y3I5Q1g3MlhFN1hBZWxGVEUwMU5jUlFH?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T01:05:47+00:00",
-      "summary": "OpenAI reports 87% coding benchmark pass rate across 20 programming languages  EdTech Innovation Hub",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-6.1 Terra, a faster and cheaper AI model for computer work - Nacionale",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM1gtSEJUWEhWZy1JRXJCUU5jVnpMSFRaYkVuWjZiLWdNQ1ZJdXVPa1NWa2RjWDB5WTd5M2J1TEttYjNkb2o4YXdVYmJBSXh3WmkyckdaU2JlbWdwN1ZnNWdJRE5GWXg2Q3dZTXdyb1lfZHlFM0p2ODBoTUhyeWxsS1BzRVRfU2Fwb01weXpTYm1PcEFNUENZODliX2tGS19rLTRCR1FJdDd4NUZFRVpRWm16Q2hfaThxaFdHcWc3QQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T00:39:09+00:00",
-      "summary": "OpenAI launches GPT-6.1 Terra, a faster and cheaper AI model for computer work  Nacionale",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjEySE5Ra2ZzMUFpWUNyaGVKWEc3cHlkcmRpdVRQZnZxeEZCYnZWWGZtSWJKeXdsMFB4QWN2cWN5YWxPV09FcWV2cXpTV1RlSkY5OHRQaVZ0RGNxQXVFelhVYUdQV0FfU0F4cnBfVE5IODhMUkVDX2FERTNXUnVmejFHaU55X3JDTWRHSzVKVFduWUdBeGpWdDB4ZlBDSzA5bTc1WFlpX0gzNHpIbXNUZlZ2aUZjT3ZyZWlSN1YwNms?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T00:39:00+00:00",
-      "summary": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Science Discoveries: 3 Claims, ETH, QCD [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEw4NXJmZmJYYWpIWjI1NmR4LVM4ZnAxcGJHd2VLVGlTT2xHSjNvX3JVcFdWWDVnM0Vkc2VvNjFfR1ppNW02OXMtNHhtRy12STl2LS1mOTBwVDRkRFluR2lCVTJMOHBHd1lsWm1tY1R1UDVaZlh1RWJFMjF1RGJRVmhEUlQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T00:38:59+00:00",
-      "summary": "OpenAI Science Discoveries: 3 Claims, ETH, QCD [2026]  https://tech-insider.org/",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Claims 3 Science Proofs, Taps Shepherds [2026] - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVJNbTB3SzJsblk5MWlkX3c1ZW5FeXFXWnpaUzRUN25oQ2sxaDlFVGExcUxJenFIS0hLMXZibzIwaDJmVjNCVnRicXNaX1U2ZHJKVGwzVEktVWJlRkh4YVhreDdwdC11V0w0VEFNVkNTelJlSW5wY1hBMVU0dXpCX0oteGY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T00:33:01+00:00",
-      "summary": "OpenAI Claims 3 Science Proofs, Taps Shepherds [2026]  shattered.io",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Trumpets 3 More Math and Science Results, Along With a New Plan for Publishing Them - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSlRxb1FuMTFpXzUzQ0NXcmZwcFZNeTlBUmtVaWJBRHViVUdIU21HWHpNaGJxeC1MSm03SFdqRVBrMkZyQnEzWlRVZkVSSHZuY2tmekhJLXo2Z05QajhMeWtNS0dadjJiUUZOa0RKUVVSNGdfV01RTzRncmtQVHpjWTVPQnBuRy1iazRCSW1IZVdsOE5hVUx1Zk90N19aLWpIRC04ZHc4aktiOTZBTHF6S2xtMEN2VFJJNEVpcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T00:13:11+00:00",
-      "summary": "OpenAI Trumpets 3 More Math and Science Results, Along With a New Plan for Publishing Them  Gizmodo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Debuts 'Shepherd' Model for AI Research Validation - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTEZwck4tWFAtMDZkdkh6ZG80cTZ6UUVScTNJM3hYNURBbXUxZkJiZGM5VERuYU9UUTdxYlViY1o5eUp3bTk3X3B6b1QwTS03djhSUk5VWHVEcHhwNmdpRGVJYkFMb0VBakR5WUVYVWhCQWtEMkdPaE5XSS1Ibk5sRUhsTGdjLWJQTm1hbE5na0pkUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T00:06:00+00:00",
-      "summary": "OpenAI Debuts 'Shepherd' Model for AI Research Validation  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI presents three claimed scientific results — The Verge - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllNb3RMNDVfNnN1NERRQVRaTXlKYnNnRVpwMkJUcTlIRzNYMV85aDEtTVlOTWFfcEQ2QVVJc2oyeHNTUGE2eVN4Q1lWNjhlLTU2LTdjeDlKRzEzY2lyTjQ4X201X1puRHBvbDBBOV9JUnozbnpucEo2WURaX1RwYUtRSnVySVpYcGZ0WnFTSjg4eVJzdGY0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-26T23:52:37+00:00",
-      "summary": "OpenAI presents three claimed scientific results — The Verge  UA.NEWS",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazJEN01kcXphd2FkLUpjdExaMENSQnBhRV9FU0xBZXdEUUZyMkljemQwUXlWamY0ZHBTckQ3RzNEMlUwYzdWUWFBV2pfRzdhaG85TEJULW12VEpkUUswZlFuQzhTSnhIdnIyd1BQUDFNZzZZaGYxQ3pHTEtmbV9paUp6ZVNPSkpsc18xX1ctclp2bUIyZmFTYVYxNTRXbDg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-26T23:34:58+00:00",
-      "summary": "OpenAI announces three big science discoveries and a new way to work with academics  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Unveils Half-Price AI Model to Target Enterprise Automation - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmN5THZQLTZnZjdTSDZmRlo2ZldLSFA4M3I3NnNPaDBQMWp2RUtjTjhpN1hWU01qbGk2UllUcG5vMk5uOEpxTHpxcUpiUXNoNUxqdXVFLVQ5Q2NhRmhwWkUtb0tDUEs3VVFiWXNtTFJQcGh1RjFYWVFWajB5T0d1bXhrUnlZOXh4YS1Hb3hDOTdTZFFndjlmVEItRXRmc3oyZ1ZBeVJvRjZkeGhXcnBkcDBMY0ZwVzdRdWkzcVRvOHhBZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-26T23:18:35+00:00",
-      "summary": "OpenAI Unveils Half-Price AI Model to Target Enterprise Automation  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra - The Register",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFlaQlJZSTRmSnp5WkJ3ZmprNUU4VnZkNjRCdTFYOEN1QVBSRXlTVnRmVmdWckFMMWc2N2V1OEJhN1VqMVZ3TFhNX0xuUlZsRk10aW9iUTJRNVp3eC1VbzVmOWJtN2ZBS05TUEtyNmkwekpjdU8yVlFuS3R5ejRySlBobEpWam9DS1BJNXBfd21lQlpjTkpSSGVtS3ZXaU0tVHJxN0JiZVlWeUlmZ2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-26T23:08:59+00:00",
-      "summary": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra  The Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenClaw creator Peter Steinberger claims he spent $10 million in tokens in just a month — but luckily OpenAI can afford it - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR29TTFhuRlZ4dU5SdU5qNGtEWkF4OEpaOTk2U0JOcGVVYkxOandpTld2UFJzeEpzTXNyMDlVMnJMbEw0cDN1ZnpTczNJSmFFOXVoMUN2ZWRMckRPazU0QWJoVmoxcmowbU5GUS1YWFRjRzliVURPM2RFVExwYm5ManNidFA5aUh0Y0tQQU5jSkFKRml4WW5VN00wOVhQRTlGaUFqUEF2VzZsME5zN1ZEYlM1dGZuQnUxNjVUNk41QmVCcERDZHRnNkktWWg2bXNzdjZUcThOQWZmMDM2ckJNYTZVNUJ1TzFH?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-26T23:05:00+00:00",
-      "summary": "OpenClaw creator Peter Steinberger claims he spent $10 million in tokens in just a month — but luckily OpenAI can afford it  TechRadar",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI accused of secretly tracking web users for targeted advertising - Daily Journal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVd5TjhoYVJTM0ZER0tnek42enNzd0t1UzhKSG5KMzdfZURUV2pyOXhCOWtYcjAxTkprMDY5NDlRVVIyRzNRZU1ERnpZU3p2eVVNcGcxcXlEQ2k2YmVyMlFIUzlka0RIMTg5UWhYYmNSNy1DRDFmeEhtXzU2MV92T1Q1UmxsTGxwdm05QTVPdDNyaTZ3YVJRb2x3ZlBxeDdhd1NUZU5NejM0M00yeGo3UUFCajc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-26T22:49:18+00:00",
-      "summary": "OpenAI accused of secretly tracking web users for targeted advertising  Daily Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI announces 3 new scientific discoveries in AI - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXBxbFpTSDJZLW8wbU9NWDhhMEpmUFpSM0V5Mm1ERFpjUk5lejI0WnZtdHpuZzFEdmRkWFJLVG51cVdxdUFRRS0zR1oxZF9DVE9LWUtXY1ViNV9XZkpER0NVbE9fZ0ZWM1ZDbFE2NHlxbGtGMEtKa3h4YVNoU090RXVuN2lJY2hwa0Z2bHVUVURQZ2MzcmMyM1hjXzQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-26T22:46:00+00:00",
-      "summary": "OpenAI announces 3 new scientific discoveries in AI  Breakingthenews.net",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
