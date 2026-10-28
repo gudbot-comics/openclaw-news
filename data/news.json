@@ -1,10 +1,181 @@
 {
-  "generatedAt": "2026-10-28T05:49:36.378409+00:00",
+  "generatedAt": "2026-10-28T11:41:03.638617+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "OpenAI sued over ChatGPT medical advice in epilepsy patient's death - Quartz",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkYnd5MjVEbHlyT1RZaHd5Wkp4Q19rVk5hS2xRUG5BTnQwbzN2SVd4akpwTEhJcS1Tc0NUZHB6U3l5TXpvZF83dlFmMkJfQXBvZk5rV1prWE1OOXEzckc3eG5ocng5ai0wOVU2RUU2d0pueklmZEE5cUFtVXlWSk0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T11:30:20+00:00",
+      "summary": "OpenAI sued over ChatGPT medical advice in epilepsy patient's death  Quartz",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU41VEhZT0hhZFRRQXVmRWhKWml6Q3FSLVRxeXpRYU9xLW5xQ21MT080OTJvNEtmcmQ5ZW05Tl9XRG4zeVZ1VVhNLWphbXB3ODJpcTBaY0hXc2J4RHBtQm1wVFJHUTlBeC02YkJydmF2QUFTS0s4eFU5UVB1bkZhdmZpUlQ4NnJSZHFlTnpoVzVYVmZmbnJ3NkMtbHZfT2N6M1p1VXk1QUNsWjdWVmpUeU9VZ0dCWGs?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T11:29:07+00:00",
+      "summary": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond  24/7 Wall St.",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Judge grants yet more of Apple's requests for OpenAI information - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWkgydi1TWExNcllnWmZZa00yV2FtakVrWGNzNkV1WlRhNDVURU1sMkduN05jODFaTno5bkNBVmRjaG42NEs5VThFQ01meUpSejl4ZC0tZGF0eFBWMzgwRnBiT2JZQ0hDRzl6WndYRUk4Rm5JUW9WYnUwVVlwY1VmYldmRzRfMWJEbE4xMFFlYXJ4bFVJeVllakRTTUxLNHdoQU5NUDZ4N29kQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T11:25:00+00:00",
+      "summary": "Judge grants yet more of Apple's requests for OpenAI information  AppleInsider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's new model cuts prices again - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mb21MYXcyblNzcS0zRzZEMV8xbWF2aFpiWjRRVC13N3NMbGxYcXZvY09XckFtcGJfMUdZMl94VzByWVN6YS1MRjZMdkpRSmp4R1kwQXJVbnVEc1BiVmJPa0pwYXI3N00?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T11:10:57+00:00",
+      "summary": "OpenAI's new model cuts prices again  Axios",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "\"OpenAI Has Been Very Bad For The World\": Ex-Google Researcher - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUTNmaDNuNWNXeWhtcGpYUTg2dU9SNU1RelZHVkpEWUlKdi1pVEhSS001dTJxOVJwMjlDNW5LdFpMZmhzU09Sd2Yxb29BWjZ3LTFscXJFdk1mbGlIcDNleG1uQWk0QWxGNGZ4SFljWmNISHQxOE9fMEpxY0ZwaXRzYk1DTkFHbl94b21OZl9pZUpJWTV5OE9kQmVTaGNBZ1Nac2duYWtWSWFXSzZwNm9lTFB5cw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T10:22:53+00:00",
+      "summary": "\"OpenAI Has Been Very Bad For The World\": Ex-Google Researcher  NDTV",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic and OpenAI might be building the future, but someone else may own it - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNclFFajE5dnVOanFNakRfU1MyYTUwRDI1a2dEMTFtcG42djFYU2M3aktEUm9Ed0RNbVA2ci1tQWVGRTE1UEhNazdNT2xhRl9RVGF0bFh3R2hPZ3llR2VsSGhWMzkwVmtWWGdkRnFTYkwwSy1nSmVtOVFPUThCSVVUbFphU0FwQjN6NlNSZTNQdWZzSW9UUklKeVprdHl6YVpCSHBPTDFDVHdybTc0T3FrcGp1b0RWSUlkWllLeWNqY08wMXI5ekstUkpLcTgwUEJpVjljRTQ3NWZOX3hxTGNJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T10:16:18+00:00",
+      "summary": "Anthropic and OpenAI might be building the future, but someone else may own it  Fast Company",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Here’s How Anthropic and OpenAI Are Building Economic Moats - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSkRBaHhTaUkwTUtCR0NRQVhRR2VDOTljRkhlVm1kM2hQRTNWd2pXREhIRk9IZW40VWJKTEg4bUltN0x2VGRGTUFpOThTRXFLU09ZLXNCaTZhMmpUdk1fX3AyX25XZ1BsOHNKU3NwUi16Vi1JT3M5NGVtYjNwWklBLVpYdTN2cFlTTzJvaDY3TFR1QjZUMUFVeFFvd20tYVU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T10:11:30+00:00",
+      "summary": "Here’s How Anthropic and OpenAI Are Building Economic Moats  Morningstar",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Google AI Chips Purchase Plans Expand Capacity - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yTWp3UWpXdTBMYmsycUp3cFZRWDlHcEl5dUFsOEswRXBReXhIQlpyczBKUTJqTU81dWZ2QjdjdGx6TGNOR3E3a01KbVZHVzB4UFAydHVJM2M3RzVheTlyakRLcFVzY3MwTmtYTFNR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T09:55:33+00:00",
+      "summary": "OpenAI Google AI Chips Purchase Plans Expand Capacity  The Cryptonomist",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdFdGOXZkeDZmc2IyeHY2SFZjUTd6XzJVTXdmZmtFUXNidHBPMThDaExmOEdpUi0yVVJzTzFFS0d5cTRhTEphNGJEYXp5RFdTcUJpOFNVX0NDYmhEelpSZUlWZWd1YVdsY0ZZR2luWjhVZGVRV0tCLVo5Rkg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T09:44:42+00:00",
+      "summary": "Legora is building the agentic operating system for legal work  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Chinese parents sue OpenAI over their daughter's death; say ChatGPT-maker could have prevented her death - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNLXlVMDA4UUdkOGJJN2xhLXZERVlWaTRYdnNrNEJURmVtRHBSS2VUd1UzTTBHSFo2ZXlJS2F5dUNvbG5mVlpPT2xJZEplSG9HdC1oVHpBRGtGbndYVnFHNi03OHJwbVRhN2MwZ3JudnpXUDA4czRhRy04VG1WaGNWMTYtR3JyZWdOY3FxUGF5XzhsNm00a3BVLVJhekM1NXZsTjI3LWk3TmdmREZJR0NRR2w4UjJ6LVFfeGFZUHZRT2ljMGtEbGFPd25TUnJ1enlZbzhKay12YkZ6cmdTa3N3bUxPcVdQUjlwUkhKS3hEZlI3ekIwZlE5MHJHMnlDVkpuUkgxLTRneU9Keml5cTVVZzNaNXBzb09wY1pvZm9wbzNqTXdSc01JX3lTVHJWdk1BVTJwZ2Jva0Z6LXItaFFtWmJIRdIByAJBVV95cUxQREFyeFFMMHlCZC1hc3hPNWpmTGsycUxDZnJzRl8yT1JjTWJ1LV81M2NhRzlIdTMwTmQ2dkxjU19jV1BJMmlxaUEycnRyeDdCWHBDQ2tCdXkycHU2dVNHYmtwaEs2REF3LUhPb0FvRURtQzVLbldwSl9kcHUxTEZsa2Q3WXNGM1drZ1dPNWdyVWlycmloNHdsLWdOdkFtcnY3Z0hmQVFkNlI1c2RPQS1mcklBb2tNWC11N3JPdEdFbmxvN0l1MEEzeXRyZ29GMmxER3RnWlg5bUd2T3c2N2swLXdYd2stdWE3cmFNaERLWUxiUWgyQWhrWU1TUEtnTk5qeFBmWnpBVGYzS2lXQlRWcHpueG1aOUpzNUVBMkNDeGJQSzZ3T3Fla29YOW5qNFZDNTRWTFFoRFk1UHhYUzhwdlhUNlVLSnI3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T09:18:00+00:00",
+      "summary": "Chinese parents sue OpenAI over their daughter's death; say ChatGPT-maker could have prevented her death  The Times of India",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Texas OpenAI lawsuit challenges ChatGPT safety claims - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jd0dwRkRCUXh6SUx1U1U1bTQ4TF9OaHR2WldOSV9kMDJKblR0TWNpUnhkN2Q5aHoyclVKVF93NEhwQ3hQc1ZIT293Nl8zUVU2dVFpbGU3XzlrX0Q3dHk3amNXWVhZQllLLW52NXRRcnhyLUJpU1o0NmVaU21jdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T09:15:43+00:00",
+      "summary": "Texas OpenAI lawsuit challenges ChatGPT safety claims  Cybernews",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reportedly plans to buy Google’s TPU chips alongside Nvidia - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIcVE0bWNXSG9scy02QmgzZGlTdVk0T0hsMFlWR0dsUXZDc0lhMW5LRUdKUkg4MHBnVmJkc2Z0TVRTMUFwQ0YwVTZsNHBuTWRDMlZjbjFnOThUWUc0OUJrRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T09:03:53+00:00",
+      "summary": "OpenAI reportedly plans to buy Google’s TPU chips alongside Nvidia  The Next Web",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ThinkMarkets launches 24/7 pre-IPO markets on Anthropic and OpenAI - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYVo0Q09YdHRCQTdJNHlaS1diTm9QX3ctaFNHMkpvZEFKajhJUHI4Tzh4VUZ5WVFvbDlwODF1TjRsSnFwMkpkYjlZTFZZdWJoVHlBMjhMZkt3bXQ5cTBHZFc5Z29DQzRfU3VnWWlOSTY1WDdHNnlsanB0cFMxc1YxN1V5dndIdFhJdzFDX0ticWljS1htVC1mdFdnSXFpVnhieTZNdU03clNCb1pEdTZwUHR5ZE5vd1RkcFdwQmRCajdmbzhjNEJR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T09:00:55+00:00",
+      "summary": "ThinkMarkets launches 24/7 pre-IPO markets on Anthropic and OpenAI  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ThinkMarkets Launches 24/7 Pre-IPO Markets on Anthropic, OpenAI - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd3hQejVNV2dqZTY0MVhVaVpyQVdIVk9Da3hpMHNIc29qRThxV2NKbjZjWVR5blFHTkpVSkYxaWVZQzd3bzFGbE1XcGlHb2RFQ2dtQU9NWkhpMnk4Z1FRTE5LNV9YenhmdENaRUFLMWVNQXlnb2tGZ3Q2bUJxcl9ZZXA0OFF4OTMxNmhOWkItT3NEWDV5MlZUVFlqaWlVSUp6LXZzLVJOaGZiUFB4bVNPWTRKaG9LMFEyODFfZzVkaXd1V3R4dUVN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T09:00:55+00:00",
+      "summary": "ThinkMarkets Launches 24/7 Pre-IPO Markets on Anthropic, OpenAI  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Claims Exponential Time Hypothesis Is False - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY05ZYjNFTURPTzVtTXF2UHQzS2txYUNYMVljOXpyNDZlc21xYjdDT3pDVldIZFZJS0xIX0RzTFlwTXBLTkZlcW5xWEpOMnRmcEtZRVYzelpSMGdvVHB1Qm5xS2NPLUxSMVk3eEptdkU0Rlk2SEZBcVowMDVHcVJCMFlnQU4xaEZCOGdpZEtrWm9hUENxZjBqZy1R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T08:44:00+00:00",
+      "summary": "OpenAI Claims Exponential Time Hypothesis Is False  Technology Org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic’s S-1 reveals two areas where OpenAI could have the upper hand, experts say - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUpoQjhGTkZ4NVYwWU0ySXNyNWlQQUNRVHA3Z2xqVXpMdHlFdFVoX0YxU25CYWV5T0RsUy1fbDQtQmJTaUdVaWtsS2lQOW1xMGVBam9BVkgzQ1AtZ0dsSXBUakFjZmZuREpTYUVLWUljanVOSlBmb3RFR0prcUtUSEdiUGRpQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T08:00:00+00:00",
+      "summary": "Anthropic’s S-1 reveals two areas where OpenAI could have the upper hand, experts say  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Advances Proactive Agents and AI Math Breakthroughs While Facing Lawsuit Over ChatGPT Medical Advice - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQkt1TFZmNEVoMFoxR0VQODJTS21LMjM1ejNMZTg2QUxOQzB3ZWxGeUE1ejhMcHJBR0VEcG1pYVZYb2ZkekVXb2R3UGtyaU1ia1lkQUVvUENNWE1tTUZGb2xxYXlEc05BaXF4SURyS2RSbWlXcG5nY0lJYlFORXhqaExnVzdVb0NzY0pXbGhITDcycUFtSmVCeURLNXlVdDJpRVNpVUFrOU9oTkhVd3kxYXMxMENwUHlsbEExWFdSSU9HN251OE5pMUdjWkVhSk5kVWRtdnJ5Q2laSXRuaVE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T07:33:32+00:00",
+      "summary": "OpenAI Advances Proactive Agents and AI Math Breakthroughs While Facing Lawsuit Over ChatGPT Medical Advice  AI Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Deploys \"textGrain\" Invisible Watermark in the EU, Highlighting the Fragility of AI Text Provenance - Vocal",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWt2TXE2ZHdTdVFkVXZvUElpUng4LVQyQVBGTFZMM0FXNVNHdFFuT1pCVjNzVy0yRUtLdkZLWmNNcElvcGoyd09uYmd3NWhzWUlWN05lNmJxSTF3TGRSRGxhaWRGRC1rZmFGTWlMSEJTaXhwa1Nyak5lZ3ozVUZqWDItbkplUGY1N2s5STQ2Y0hySklNQVdlNy0zY3VYeUZ0dDZqdTNkU0pQU3lpamxHX3pBQjBEdnhwTkdxZ1A1Q2c0ZmxM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T06:02:54+00:00",
+      "summary": "OpenAI Deploys \"textGrain\" Invisible Watermark in the EU, Highlighting the Fragility of AI Text Provenance  Vocal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Builds Out AI Infrastructure for Its AI Work. - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIWGFFblplMHV6R1BGME9OZzZQQjc5QS1fZWR0LWlUbmlJOVVNUXlnVHc5anZ6MjVGRzlTR1FtYk1XWE1yUEZwVE5jcWhwdXJOREpwa1p3aG1jckE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-28T05:27:51+00:00",
+      "summary": "OpenAI Builds Out AI Infrastructure for Its AI Work.  TOKENPOST",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "OpenAI engineer accused of using toilet paper to bug conference room indicted by grand jury - San Francisco Chronicle",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHM2djNFcEUtNE0zbmpZVm5qNGlfNGtlcUVSM0tuQ1F5Q0J1d09KZTNGWEJDbEpwUGJTUzIxTjdKREQ1a3F5cDg3bWtRTk5xdld1QTV5VEVFOG8tNjFoMGVmazdiSUhOd3RlczJ5Z2poWG1QekdRUHd2WTJ2SjFod0h2X1l6OEJpVzR4NVY0ZFAtQUc3QzBmY2FKZ0RvOUVtNm50c3BoYzIxbXM?oc=5",
@@ -15,20 +186,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "ETFs use ‘perps’ to offer bets on private companies such as Anthropic and OpenAI - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTh4UHNzdmVRbnhEWWJRQ0twVHhIOV9xOXBLcTFyY2g1X2syNmZ2bmJnZ3JkMlh1TEktb2tNUW9VSWIxdnJqSEFfMlRUaHVMNWt6akxycERrU3p1QmVRUldFS0JMV2JZWWQ4d3ViX0c1NFcwcjdrcTZTR0E3WlRqbFhzNUs?oc=5",
+      "title": "OpenAI plans to purchase Google’s AI chips, reports say - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa24wUk53cGtNX1Z6MHhYUTlnaUs2RlBGN0ZpOHJOdkRYV001b19QR1JVRVZpLVBhY1RIdDZOLS1HdmJiQlBEbU5GUE5vcGN3XzdZUWxhZDFLekswXy1OallwZExKUlB4ckNrM0VZV1U3Wlk2eUUwTk5XTHROVk1GSklhUWZKVFZqZ3ZIQ2M2b2xsQ291OUxzWXFHSjBYTVhQanNrbzVQWXM3SG5EU1RFVDJCd21wM1l5?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-28T05:00:15+00:00",
-      "summary": "ETFs use ‘perps’ to offer bets on private companies such as Anthropic and OpenAI  Financial Times",
+      "publishedAt": "2026-10-28T05:08:00+00:00",
+      "summary": "OpenAI plans to purchase Google’s AI chips, reports say  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "GOOGL Stock Inches Higher On Buzz Around OpenAI Eying TPUs - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN0dpajdiQjNLaVgwci1XejFYWVdiNTVvLUZjOGIydlV5dDR6c1NpVnZhRmU4VC1FY2huRXg5OFpvbUswck4ydHlFNDNxcjFJaGZfLUJoVVdQWnRobGVUOVlrZVZFX1N3LXNpVElXV1BPdjFZY01wN21Ra3BYTTB2RS13SjItMVh6OTdVQ2VvbTRJdnc5a0Q5R2JKWQ?oc=5",
+      "title": "ETFs use ‘perps’ to offer bets on private companies such as Anthropic and OpenAI - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTh4UHNzdmVRbnhEWWJRQ0twVHhIOV9xOXBLcTFyY2g1X2syNmZ2bmJnZ3JkMlh1TEktb2tNUW9VSWIxdnJqSEFfMlRUaHVMNWt6akxycERrU3p1QmVRUldFS0JMV2JZWWQ4d3ViX0c1NFcwcjdrcTZTR0E3WlRqbFhzNUs?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-28T04:59:00+00:00",
-      "summary": "GOOGL Stock Inches Higher On Buzz Around OpenAI Eying TPUs  Yahoo Finance",
+      "publishedAt": "2026-10-28T05:02:58+00:00",
+      "summary": "ETFs use ‘perps’ to offer bets on private companies such as Anthropic and OpenAI  Financial Times",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -43,181 +214,10 @@
     },
     {
       "title": "British Columbia privacy watchdog investigates OpenAI use of Tumbler Ridge shooter’s personal information - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVGV4QUF6OUNnUHpvdVo5RHdoNmY1aWRXOXNQZk13UGpJa0V4dE9LQTFPbVRrYWFTdC1MRnQxcUZ0Tzk2WVc1ck9vYXMtb25ja1BZVFRaTlJjQnVlaUx5aVpwelA5c2pQU3AzZHJJRXJBOFZfYkVGNkJtaFE0blVjcHR0Ym41Z3N6Ri16MjRWZXBlU0o2WDBXaGtreUpyWE80RS1OalpEUXAtZllqY0FnU3pLWmxtdEFtOExvNVRHekwwRFRqb2lvNHlLcEdpRzZkcWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLXh4VW5RWmhrMUlQTmlyay1CSnNId25hdlNuVlBCcm9yLWJlYUx4bE1PRkVyTjg4VnI3bGtvTkZhX3pIZFEtb3B6MU5FaDNDY3Z3cjVfZVJkSk4wQ3V1eFl5RHp6Zk14cU5reHd0a1NXRnBFRFZKaXZNTDYwV1JLMlRpZjh2MFY5RWJQTEdsYkp6TGlYbkZ2NUNWSW5TNWxGSW9ob2s3VVptcU9DUnNZSFpZeExZRXVhdFVlaGdxMS12UmQwLVVmdFdvWHh6UmZs?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-28T03:20:06+00:00",
+      "publishedAt": "2026-10-28T03:23:34+00:00",
       "summary": "British Columbia privacy watchdog investigates OpenAI use of Tumbler Ridge shooter’s personal information  Courthouse News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-6.1 Terra with near-Astra performance at a fraction of the cost - Tech Edition",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1RGOUhDbU56dzJNanNHMTgtU2ZleWRpUVBhT3llbTJZT3ZUMHBROXNPYjcxOUZFSjViRWNab3l1c082eGR4dGIyd2JGWlZuc2FDRVpmNVlMLUJMczFtcXdabVFvSF9mVi02LV9wX3N4NGtkdTZGczBZV2JwVUJxdnNsNjhpVEV2b1dqekx3WnFQNVpmT1NSYkQ2OXhMYVpvUzJPNE51U2pZbVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T03:09:09+00:00",
-      "summary": "OpenAI launches GPT-6.1 Terra with near-Astra performance at a fraction of the cost  Tech Edition",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Sued Over Epilepsy Death Allegedly Tied To ChatGPT - Law360",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekYzVHdRUEN3cDBuejZmYTNMdEJWZW9KQWxQWndPeGQ4N0VMQVJlcE9EUDRrbU85NkQ1OVlNdUEzMzBrT2drMzMzZFBFQzJMbVBFaWI5ZWxmX3NtN1pDYnZkYTM4WGdQa1pUMUt6MzZrUG15azJ3Nm9qMkVWVlNIclZzTlNUSHNTcndzSUpXZVo0eUR3NTN5V0pzanl4UdIBVkFVX3lxTE5YX2YyRV9oSGxHNnZMdEpoR3V3VHlBT1p6Tlg5a3psVDJOZGk3WU51ZU5qNXI0aldnc2ZGWXh3V2ZNU1FYMF81MTBkOWVkOUZqeUdqRGhR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T02:57:23+00:00",
-      "summary": "OpenAI Sued Over Epilepsy Death Allegedly Tied To ChatGPT  Law360",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI plans to buy Google AI chips to expand computing capacity - The Information - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFZ0aHVnOHYwYUU3dk1kcTBRR0o3Q19HOWx4SW1xMjFWdDRFbjM0a29YRC0xRGZSbDVKYVVpRkI0QUhQYThTdUkxOUI5Q0hrc0hFQmJrR1ZMMkRjbzd1ak1rcVFSd0hzWTZ3bTlrdEM5UHYtU1ZsUFFOYkgtckM4WkgySnZOMjF5Y2FPRi05VHVWbTV1?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T02:52:00+00:00",
-      "summary": "OpenAI plans to buy Google AI chips to expand computing capacity - The Information  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "NxtGen Named an OpenAI Select Partner within the OpenAI Partner Network - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2tKX1hCakVXN2JEOV9ueF9tRVliTHhOenhjU1FibXFaX1J2SjdjZm9SV25SUUVVVjZPVnFFNmVISkQtMzZENVd3ZlZpRTlyWjBGaGVEZTllRHlXekdEVkdyd3FId3BJbnpUYVlVelNOaDh4SHRDVk1hYUlra1RldnRfNmVaNjFBZjZST3VETGdIR0piWDlZME1jQVJLcDg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T02:30:00+00:00",
-      "summary": "NxtGen Named an OpenAI Select Partner within the OpenAI Partner Network  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQW1wVGUxRUxEUUxQZ1JDRmVBTDJBRktWTWo5enhLbHNjRXN2Um90QTV3cFJZcG95dWZ5RFliaG4zcjRNdUtHRDRvUFVFZ2M1U1VETnllLWhsMWd1NXBKUjhyM1NQcVNneXQ1WVUyYVNWYm85ejVaR1ZHcFBFVDZ1SDRtS1RUMXhTZDdMN2RLMnA5Q2dXY1luanF0SDQwMTNPcmw1Rw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T01:54:00+00:00",
-      "summary": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit  9to5Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Oracle and OpenAI Skipped the Financing Question Investors Keep Asking - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjFtRDhZRXhQT2ZfLVBIODhkdUE3U1VtYUlrdmJWamhaamhnaF8tcEt5UmFDMy00RmlHV21PUmNWeE0xZ0l5eGpBWjJGQzh4all3RmVIY2JhMHRyTmNJUmRiQm8zUWxZaTg5VTBZRHVpYVgwd1cyUEU0dk0wWTUzTy1jT0dHMEoyMXpKMy1GMWl4SUN5bnRVZ0gwblY1alI4THZfNHc2RVI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T01:43:00+00:00",
-      "summary": "Oracle and OpenAI Skipped the Financing Question Investors Keep Asking  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Illustration shows WIZ, Google and OpenAI logos - The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd21HeDhtbzFnV0c5blh5WmZhVlZJUXEwVy1fSldnZDVOLWpaTFFNYUwxa1JUMmRnNHNHVlo2VDhXNThpVXNSWXpsb3ZXQlB6dmY1VENheEtfTXlDWGhiUXJJR2VucU9NWXRCT0F3QzdHNlQ2NUJIR2pkbWJaNjY5SmtqdWhpbTRtVkdYNGZNQlhZRnFEMkpMOHoySjFQU2ZGR1BnT195dFdGaXJFVE1FRW1rdTR3Yjl1NFRWcFZGekxuakNPTWxrZVlxUmswcXBRdUc5R2pRVVBjeUJY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T01:40:42+00:00",
-      "summary": "Illustration shows WIZ, Google and OpenAI logos  The Lufkin Daily News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI plans to buy Google’s AI chips, The Information reports By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZXd1dEpKQ3J2OWgxbDVUbnc0d0twWFpxTDR0QW02b2Z5VjJWcFBFVmt5eC1hTWFkaFdHT2QxbDZBN28yWlZ6emxJLXU4WUhVREswMVFEN0QxVi1rbzNIT0hPQ3hrSm1sWlVwVzQwZkRqSFpwZXdSR1otU3ZCLTFjNm5jNHhHMXRZZlY4eE1HT2FfTnNsUlFkc1JYU0R6QUh6QU5OSDQwdE1RV1lXVFJXaXNGb3hOMmd2?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T01:29:02+00:00",
-      "summary": "OpenAI plans to buy Google’s AI chips, The Information reports By Reuters  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI plans to buy Google's AI chips, The Information reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T01:23:00+00:00",
-      "summary": "OpenAI plans to buy Google's AI chips, The Information reports  Reuters",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEpmdVROdmhkd0RpU0tZbEF2bkstVmxlcjRTZUJYNWV4VlFNU21tcmRaNW1ZUjdkT0N1b1JlMzA1NF9WUHR6WGpvS3BObGRQUm5Rc3Q1NjNpMkNpZzNoWWJGczJlWGVOQWpsZ0MwcEJrWHBBV3JrZHY0ZWREZngtRklId3lXbV9jLUM0a3JvRy1yUFV4SlpSOGo2VUlxWW04cTJIZlhuaWdnWDd1dExxSkJKVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T01:19:46+00:00",
-      "summary": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out  Bloomberg",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "UK announces £100m AI Biosecurity Lab with OpenAI and Anthropic backing - EdTech Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHFIY1ZLT0MwamZ5TjBUUzZYVG15blZvek16VncwMVpxZWxTeHdMSWdXQjZFVkoxR1pETi13UHoySHpTemRlWEEybkRSb2l2Z182V2xSUkZnYmFreXZ0MzlMRzlzNlQ1dVpuY2d4UmZHSmNZREVlS25aWjFQbjRkZWxEdkZEUWwzaElfV2dOTzBZZ2V6N1ZlTkNrNmRHTWRfT2l4WlpPWFpsUlNKVWV6Qw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T01:15:54+00:00",
-      "summary": "UK announces £100m AI Biosecurity Lab with OpenAI and Anthropic backing  EdTech Innovation Hub",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI said to plan to buy Google's AI chips - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcVY5WDVLZ1VfNFdORGkzZ1NKdzZ6ZXN0Uk1FX0ZYQlNVVDNDUERHX05lcmdXT3E3bW9wRkFkZkllcW1XcWt6X1B6dnA5S3dLankyVm1BbUJIaU9wdU1IT0VJYkN1TkFMMThhUmI5elJja0U2X3NDY0UzdWd5UnJWMHNfQVBHendLMnowdnNCQWhsYU0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T00:56:00+00:00",
-      "summary": "OpenAI said to plan to buy Google's AI chips  Breakingthenews.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says AI refuted the Exponential Time Hypothesis - R&D World",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXl5NEJfRVFzbVlCZXdZWUNySml6WFAzeEdiZUh6S2ZHdmY4dEMxRTRqQXV3S3RPZ05KTXNZUXVHbzlxZzd2c3htYmtMeE50bWVhYjQ5NmN5TlYtWHJqRTBMUUVHbkZib2Q5TjZrZ3hkOGdabjlUbGFfYmdEckFFOGpPVE5kUHphMmdDeTc1MGdIVGZ5akdFRWQyZ0g?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T00:20:13+00:00",
-      "summary": "OpenAI says AI refuted the Exponential Time Hypothesis  R&D World",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Red Hat introduces sandbox for OpenClaw agents - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hSkNfbGpuZXI1UEhFVHFrbVh4MUJtLVVmdGo3UEFDSUxmQVdjNWR1azc2T0NsNVl3M1FqTUx1Q3VIdmNRVURfQjBSZUlTcG02TVZ2S3hMeGFQODNsZXdLYmxQZ1NXNmtNeWZDZGl0VzFPRGpEcndlbmZB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T00:09:00+00:00",
-      "summary": "Red Hat introduces sandbox for OpenClaw agents  SiliconANGLE",
-      "topic": "openclaw",
-      "topicLabel": "OpenClaw"
-    },
-    {
-      "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T23:59:00+00:00",
-      "summary": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips  The Information",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ3JtRzlfcnp1ZXJ4ZFFyZ2dSSUROTkNzY3FnY3l0SEJpRngzcDJNQzc3LUZpblVFc0dPWXF6eVNEbENSVU1ycjI0ZjJrbWEtcjhaR1B4XzlEWnVBRFQyaGZhc2ZocU9wTHJLcVgwOUc1djNNb2VWRVBUdjNVTGo2YXVpRlJTOEFnMmtPUkwxNUlEbVd6M3JyWUMwVlhyM1dLZmRYMXYtTmVoR0s0VmN0QXM0RnJUQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T23:34:27+00:00",
-      "summary": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Oracle announces expanded collaboration with OpenAI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNktoSFRZdVpSNnp3Yi1rVG9CSDhHZHBlZW9oMmcxVzJBMEl5ZDNWem5ZMzVXbVk0UHhhTkNJZ2UydmdyRUI3SE5xUnJXaExBYzJwYzdkaXo3eUtVNmplb3hoTC03amRWbmhXWFJHUW44Rmp3LXJhQVRnNjZyMU8xNmZVSnVaWmtiWWd5eERsLVpGaFBFRlh4WjZn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T23:10:39+00:00",
-      "summary": "Oracle announces expanded collaboration with OpenAI  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests - BleepingComputer",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS1BXQmRqRFFjNzdZaVI3dzBOU0hNUEZVM2NOZFVwbmhRNWNHZzhqWEdJSG9BQ0Jyb2dZaFRYbW52TWVCYnFlcmpLckpOWEtTbG1jREl6bWVWcW9VYUVSREZZdWpVVE0xSDl6bnZHTTRROXhtb0trVThfM0ZZa1VTMm5yY041ZGZsRUNQemFtOUt6THg2RGxKcmp5SXJTd1NsekUzRTE4WnppOWl5OHRlVDU1TUVUVXhNT25JYmZJT0pNUldJYjRINEs3V0RvZ1FSbk5YMWIyOFFfbUNuRmFpNkJud9IB6AFBVV95cUxOVlVJN1RoNzNNMnViemtQVWFUWHk5VVhKODhJLVhGYk5JYXFLZ3VvRUVCQmZvZFUzdUtndXJTcFhESnlXRU44VG5SWmhnUzdUT0IzMjJqdldnVFEzVEY4NTFITVdjWTRkTU0xTzQ1NFlFMVU3bDZMSmVZbnlJY2hNVzlxLVZ0d3M2OWxTZV9fVFZnd3ZQX2h1V21Senh1WkU2eUJ1OWZtd1RDQXdfTUlZWlF3b2FvZ3M0UERRb1Q1M3U4WkxxWUJKZ3JRRDdiVnRsREJPUU5Kdlh0SkdnRDVLYU1vWEdGM2Zk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T22:43:27+00:00",
-      "summary": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests  BleepingComputer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Oracle expands OpenAI partnership, stock jumps on deal - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVRPQkhOWF9iLXVxeEVhci01ZV95V0NBb0NGanhIUkVfbEc3cnpiV25QYXlHSnNZWE1nX1RXd0Iyb0hkMFNnaElxVHBQcjZwYmlLbVZQVGx1OEk0Yk1VbzdxTEVVc2l2TmRxZXN5TnF5b3pZOXRfdGVCb0pvTjZ5VU56ZGlINUZ1QlFscWZYUlNuMVhwVkhrTUZ0Z28?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-27T21:43:00+00:00",
-      "summary": "Oracle expands OpenAI partnership, stock jumps on deal  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
