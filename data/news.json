@@ -1,16 +1,160 @@
 {
-  "generatedAt": "2026-10-29T01:17:45.498110+00:00",
+  "generatedAt": "2026-10-29T07:13:23.443654+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254 - AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zaXBFNm5pR0dpc0tIQWdXbHlwYldqUlkxWE1vSjVOTGZtdkhIYUpJQldSTHFFUjVhbkpUWnV5eHpxZkdka3hlRlk4NG9wMDF3MXZQbTVOUUhuaEIyZUNyNUdkZk41c1lCWnhsUWt6NjZRNDhzalFmVWV3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T05:02:31+00:00",
+      "summary": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254  AI: Reset to Zero",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI signs AI safety agreement with Poland's NASK research institute - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHZnSjY4V3F5NVZHQmViVmdKVWJEUDV1LTNsaFJTdzE1ZUZ4cng0OFpuQkJsckgybDlRMEcwNk04eFhWZzVYeXhUY0RlWkJlVmYwekZlTDc3LXZtUFRveVRNWHBOaVBIbnlkSTZvRjZYaG8wTmc3Z0pJcEZiSFZhY2U3d29rSm0tQ1cyWTlMWHlJMFd5MkFLQVRtY3IxVGxrcW1PWTVHV1JITlRfZXY4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T04:16:57+00:00",
+      "summary": "OpenAI signs AI safety agreement with Poland's NASK research institute  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Sued After ChatGPT Allegedly Told Woman to Stop Seizure Drug Before She Died - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY0E2VnBJTnF4eVRMWW1YWlZYVW95WXlDNWpDZE9Eem1PX2ROU2xoZUhYWEpENmV0ZEVDd2J3YWhYMk5LelRZWnlQOHlqdnRWTFRWWWg3T19EUm5SeEZkNUZlTjNkZ2k3WHhqS2ZiOFlmQ25wWUduSnJ6blZvMU15OXNYWE5YZ04yQ093b2V4RQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T04:05:33+00:00",
+      "summary": "OpenAI Sued After ChatGPT Allegedly Told Woman to Stop Seizure Drug Before She Died  Law Commentary",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Parents Sue OpenAI After ChatGPT Allegedly Coached Engineer to Stop Seizure Medication - The SOFX Report",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDBxMFoyaVRxYnoxNElkSVpxZmdWcDY0MjliazB2RjNZa2NKOXRHck9zQWcwY3BLaGdjR0ttbWZFalhmaWR6X0JET1hwRFZQcUNUelgyUExob0xIM2UtU2R4LXpZaHYxN1Z6ejc2dUJKYTFiZ19ocDhrVnNUUnZwWVVlTGJiNHR0STdmTy0xb2ZXWXhnMTgtX1YwQ3NzTDdWblluSngtX2hwcVpT?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T03:53:57+00:00",
+      "summary": "Parents Sue OpenAI After ChatGPT Allegedly Coached Engineer to Stop Seizure Medication  The SOFX Report",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches 'war room' to monitor midterm elections - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWGRaZ25RLXBYaDhFTjU4V3dYamdreXNzc3lvUWJRMmZxTUE4SXlkME5UZzQ3YUxzbU1tZmNYZ0NCNTNKeE83ajNIZjRUblh6TWZ0dG1JYy1KbV82UDdtSDJkRVFuc3F3ZkVoSDhqWjRCeEVmMkh3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T03:23:06+00:00",
+      "summary": "OpenAI launches 'war room' to monitor midterm elections  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Microsoft Generated $10B In Revenue From OpenAI 10/29/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON005eGkzQXIydk5obVh0d0FzZUhTUHZ3WWNLeVlXOUZHaXJDb1BLRXVxcUxob0tnd0VtR1JROGZIajJ3UUljUmNCeW9oQXoyZFlJb0QwVURnNVpGMzUyb3J4b3lySlZYT05wUzZfNEM3bHJmbHNIakl1Zi1fNGJUczliMXZvVzMtZlF2WFQ0SkFjZjg5SS13OEY4SHhVM3ZzalRRdDU5eHU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T02:53:31+00:00",
+      "summary": "Microsoft Generated $10B In Revenue From OpenAI 10/29/2026  MediaPost",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Rivals DeepSeek, Kimi Distilled GPT-6 Astra: Report - FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHJyNE15UW4zclEyWU9PX3J1YUpSY0MzRXpzanFUY0pnMlFMQmtEdkNUdFlhd2VycHRqZGd0NDBHaHIwcUtxY0lqUXI5cTFtODhTY0FfRkdKQXk4ZnRzeXl6bEZOTjBsS3hNeE1NZXZVQmJUSzY2eWFsY1dHdTRJaGdiR2VTaFpPOEhsSA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T02:26:24+00:00",
+      "summary": "OpenAI Rivals DeepSeek, Kimi Distilled GPT-6 Astra: Report  FourWeekMBA",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T02:11:00+00:00",
+      "summary": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNnZ0aTl3T09FcmJrY0tvN0VKaXozWlZrRWlsQVBMaGVNaUNtbENiQ3J5d1BmdW9rRWNuVDh5ZExOdDkwd1Qyd19PTFRCTlVTSWVlS2JBQS1xeE9EdktkOWxtSHZHVGJnWWQ1bTZxakFlN2lUTm1Jb3NpTV9DTGF1UlBxdmh2QXBwQUhFX1ZZNmYwTTZ2bDRGc3dGTnVyRkJBWm9aaFFmbGJrbEk0dFhlTEhBajZ5dV9WRFNmajE5MUJlRmthUGljWjBXMU9JcGQzN2lSTi1LdzI5M2FIZDlOdUdsb0YyeTFvd3B0UEkwTUxZQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T02:08:56+00:00",
+      "summary": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says Chinese AI Labs Distilled GPT-6 Astra - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWxHOXBDdjR6RFhIXzJjWVFYazl1Mi16Q01VVU56NUVfVVIyYWZFY1A5Z3lsY0xSSE5PZ09HbzJwN3l0TUN2UC01T0pBSHZucW45S0swZFUxWW94TGd5NkJEeDRvazEzV3lVUDQ2NkNYSU5kRWtjcHpGNFFvZUg2RHpJMjU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T02:03:08+00:00",
+      "summary": "OpenAI Says Chinese AI Labs Distilled GPT-6 Astra  Finimize",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Astra used by Chinese AI firms to train models- The Information - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUpqb1d5S2QxMGw5SHJISlNnVHN1bkQ3VEtkYS1ldFhuWEZJWGZhX2MyQkJMOERXSTVCTDhDaGZ3ZDNLZUNBejR5RWhKV0wxNml5M1V1RkFYYWRqV2J3QnhJemxXVzY0dGJ2M0ZqSGxYakplcmhnZjg4UWpKb2xXTS05SllrZGhoS2Ria2h0ODFNT2ZnZ3liU2dOTkIxQzhxdEp0emVRX05ENGVnVXJDVi1fRzBHNkZLTHc4N1h2RDhVaXdQYjJWM1lWTGk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T01:54:18+00:00",
+      "summary": "OpenAI’s Astra used by Chinese AI firms to train models- The Information  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple and OpenAI won't face off over trade secrets until July 2027 - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPanFKcW1BZ1VWZVVPbUdRRHFUazBOUkVXSE1Nb1pPU0FQckZ3UU8xWWpZSThwcUFTWE5WUGdXQWpzckJKMVdHY2xHUG55MGhKRVlOTXlKQ0hRRC04Q3ptVENia0x0Q0EyUzVpaEtlay1UUXl6M1pvZG03R25QVWttX2VhYjFlekh4d2Fxcmd0Q1ZqeTViLWZVcFJ1aUwzcGllMExCYjdCVHE3d0c2?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T01:42:00+00:00",
+      "summary": "Apple and OpenAI won't face off over trade secrets until July 2027  AppleInsider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Texas sues OpenAI and Sam Altman over ChatGPT safety - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RNEZnMGI3NmwwdWhRdzNhSUtBSzR5Y3hRVm84VzRJdUNFakRMWnY3RjBRN19CZzFjNTNNdC05VWlpOS0xLXBYNXNkbE92S0tfdm8xWXRBUE1GaTl6M29XOVZMcHp1NmFPUkE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T01:37:39+00:00",
+      "summary": "Texas sues OpenAI and Sam Altman over ChatGPT safety  Digital Watch Observatory",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0M4STFFa2tnRG1zaE9VeFc5a2Fldll1cS0wSGNrQVNsWW9idUpoYjhNTTNJZG0tUk0zZTYxRGRudy1qaDJQZFB2RTdvRTRKRUVMdkdiQ09kaEFwRjhOeFRzdXFrX0R3WkdIRmRqWnRDdF9NaFp5ODJleU1Jb1dDSy1pZVpnOVRrVVZORTZMWGJvcDZMZjhZN29VMVdMMVNQTUhZUGJqaXhMdmJLZ3A2ZUVHV1NNTWhEeFJ5Zw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T01:37:00+00:00",
+      "summary": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock?  The Motley Fool",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train models, The Information reports - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMWxoUHZwcUhIa2xVNzg5WDBxeXJNNURFaGhGZHZqSUVCMkx6c0tEZFYzZ2lLZHp0M2pHOVIyZ3RTdWt2OHc2bjBBTHBhUmxvZ0dqSUlqSEpjTHpndm5ScEhvSGY3MEJPbDQ5TmlxeWtJaF85VnQ2NTBEZGdVM2dpcG45Tng0d1lyQmpadVJSalh3SGZ6M21PSXhZbV9FcklhU1VGXzY0RlRGelhYdWN1RzNkVWF4OHU0LVEwbDh1VDFlZ29GWFdrTHJ5QVRoYXpjazZKaFBpd0hlOGRMUExvTl9uaVpzQnI2?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T01:19:00+00:00",
+      "summary": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train models, The Information reports  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date - 9to5Mac",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnpxOVA4Y2FoNUVoS3ZuX3ZwXy1XcHdBd1hZUWk1ZFY5eFBwa2Vpbi0xYk5pS1lRTENuclRMSnlSdVhXc3lVY3lUTS14VTVNbWxEckxxS0FUVjk1RElQY2UyOWRfaU16d3dJRzl6SEhuaGU1c0RabFdTYTNSZ3k1NW8tSlVmQmozd1VFV1RhalRXcXhfN1pnUDIwd2Z0NFRVNm1J?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-29T01:09:01+00:00",
+      "publishedAt": "2026-10-29T01:17:00+00:00",
       "summary": "Apple and OpenAI trade secrets lawsuit now has an official trial date  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Moonshot AI And DeepSeek Relied Outputs From OpenAI's Astra When Developing Their Latest Models Released This Month - The Information - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOV0RqV080YU9xOXVzQWxOZ2tVY3B3cF9vNGFpR3hPcjB3TG9Ick1LeGZvblFEN0dpOFZmOFZ3VW1BUjBHS0lwdDl5QzNPV2ZqZUJwOVZJSVlyLURuODhMNFhQc1d6ZEdRUU1yaUp2VTdGX2tfbXcza1kzeENJeFowM1dtODlsV3dlemhjNFNTWXZyTGIxeWtZQ0JQQ2NYdUNITDRXay1IaTAwempBRFZRWmJ3RDVoYU1JSEpPVDBkRXFZZUplMWVSSHZFRlpaX3VEX3Bqb1dhMU1yQ0ZCMHlyWm5EZmJWY1diaDRTczlfQjVQUld5a3pHanZkdWpzVHg2bFlaNWRwTUp1ZVdvWDJlaFB5SmI2dllrZXlORXpLS0QtS2IxWVhveg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-10-29T01:05:00+00:00",
+      "summary": "Moonshot AI And DeepSeek Relied Outputs From OpenAI's Astra When Developing Their Latest Models Released This Month - The Information  TradingView",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -24,29 +168,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWllUWVU1Q1pqUnY5NVlKOUJGc1N4SDUwaWpYNmg4T1J3Wjc3N1RNU0dwbkNVSElBRlBHc2NFa0lIMG5HajJGdjZTMXc3XzFONkxTZmxyNjJpYW9TVTA1eVBxcFpKMUlEM2tTLTlrbF9GbmJid3BTYUFkaktxRldvLVlOY3JxbmVzWUJMRHVDYzBLb1FkajRBTFVLUV8yNUtJ?oc=5",
+      "title": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbW03bGJ3WFJORWZKQUJUbjF2ZE9PNXR1STRRYy1wbURFendHaU9CdXBxVlJDTlNreDhuN0hKRnk5OGUzWkctSXdxdHNnQVF1aTYwdXFMbUs2dTI0RTY4ekpkWU9xUkZaNUZsT0g0dDBPazA4VU9rMVp5WWhTT3BSdG1fTTRfZw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-29T00:57:00+00:00",
-      "summary": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock?  Yahoo Finance",
+      "summary": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock?  AOL.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0M4STFFa2tnRG1zaE9VeFc5a2Fldll1cS0wSGNrQVNsWW9idUpoYjhNTTNJZG0tUk0zZTYxRGRudy1qaDJQZFB2RTdvRTRKRUVMdkdiQ09kaEFwRjhOeFRzdXFrX0R3WkdIRmRqWnRDdF9NaFp5ODJleU1Jb1dDSy1pZVpnOVRrVVZORTZMWGJvcDZMZjhZN29VMVdMMVNQTUhZUGJqaXhMdmJLZ3A2ZUVHV1NNTWhEeFJ5Zw?oc=5",
+      "title": "Family sues OpenAI, claiming ChatGPT is partly responsible for daughter’s death - KOMO",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNZ1QxT0dGVjd6V2VXM05CSWpNOHdZMG9HQTFrQUlBczFrQ3BxZGFvN1V3ZVlENG42eGdkZUs2eUlTdUI1NHoxbU5aTXFiTDdJRDJDbFdhV3JTWm1zVTY3QnNPY1NkcFVWbUFZdVZaeUMxWVQ4OXpPQUVRYldQTzBYcGhGQnE4U2hQTDFoYkZsVEEyQ1l6VlFsaWl5UWNmdGNvbHpFNGlUM2JkUTFBb3Z5Y0FNSklqSkliaUlsWVk5UnkzOVdRN1F1bHhqYkJCRUFmUE5aWmJYNDVSeFJpS2NGWi1oblEzNTBCQXdhVXVvbTBXNXduMWR6bGxxMkxQSnhUdVBubDRVRy1xSHVuaVFtY0tGTGFMX0xLOG9NNUY4RUVBWXE1aFJZ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-29T00:43:44+00:00",
-      "summary": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock?  The Motley Fool",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches 'war room' to monitor midterm elections - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWGRaZ25RLXBYaDhFTjU4V3dYamdreXNzc3lvUWJRMmZxTUE4SXlkME5UZzQ3YUxzbU1tZmNYZ0NCNTNKeE83ajNIZjRUblh6TWZ0dG1JYy1KbV82UDdtSDJkRVFuc3F3ZkVoSDhqWjRCeEVmMkh3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-29T00:27:36+00:00",
-      "summary": "OpenAI launches 'war room' to monitor midterm elections  Mashable",
+      "publishedAt": "2026-10-29T00:23:38+00:00",
+      "summary": "Family sues OpenAI, claiming ChatGPT is partly responsible for daughter’s death  KOMO",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -60,20 +195,11 @@
       "topicLabel": "OpenClaw"
     },
     {
-      "title": "OpenAI signs AI safety agreement with Poland's NASK | ETIH EdTech News - EdTech Innovation Hub",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHZnSjY4V3F5NVZHQmViVmdKVWJEUDV1LTNsaFJTdzE1ZUZ4cng0OFpuQkJsckgybDlRMEcwNk04eFhWZzVYeXhUY0RlWkJlVmYwekZlTDc3LXZtUFRveVRNWHBOaVBIbnlkSTZvRjZYaG8wTmc3Z0pJcEZiSFZhY2U3d29rSm0tQ1cyWTlMWHlJMFd5MkFLQVRtY3IxVGxrcW1PWTVHV1JITlRfZXY4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-29T00:03:31+00:00",
-      "summary": "OpenAI signs AI safety agreement with Poland's NASK | ETIH EdTech News  EdTech Innovation Hub",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Seattle woman’s family sues OpenAI, claims ChatGPT coached her off medication before death - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONktmYk5QMUFjcTNVRVF4SHg1WWItdGpKYm1ZYXJCckEzc3htMEtIZFB2Zy15TXItdEpsR0xZRk1zT01mOTN3LXhpc3doa2JpbXdGTFN2b0x6ZjgyT0Q1Y1o2THNSNlQwaGxTbEl5UGJMeFRHbUwyaFQ5ZVg2THFzc1JITmtJdVIyYklfY0VzSQ?oc=5",
+      "title": "Seattle woman’s family sues OpenAI, claims ChatGPT coached her off medication before death - KIRO 7 News Seattle",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSzkzaDB2Sy13OFRCZ0RQWjlfTE1NWDZVcDhGTmk5VFNGMl9nYWhYNTZUTFFQdGZGbUkzSnpMdnhxNFd5V0F0WWNFdF9iWjJUcnVnQ3pST0M0aWxYcEpGTjNVSF8yTGg4Ql9MTDRIUFNXQ0NxY3ZUaUZ0QkRKLWtZVjFLTFhqZGV1YTJWV25wVzdyUGxRMnFKZlF4RDlEVXptb2E0SHlwaXJlcTFLQWhwQzAyMnFMLUw1OTY5LU9ZSmJTUzR0a3l5NmZMX1VSbkFjZFZmQ3A0TFJiSzN2bDJJOFhuRdIB9wFBVV95cUxPa3VEU0VBVExLVldZWWJBeEtZWXB1NHBUYVhnN182cF94emtmMFBYVFU4cVlKcEFiNkJvYlhHcklXazlXc0Fab05sU3pXZWw5MFhrYld6QUljQUhHWnM0Rm5qR09qQ2tQUld0SDI5Wk5wbVdRTWRNRU5iUVkwT1Q0RFkwYXNQS2U1Q0RwYWE3aGNTRXBJWmQ5aWNYNkZQTDNIcWR1bWhZRkRudlpUcDJVQkFZWEVuR3QwSE1WbmZxeVEzQ0pIeDAtMjlBaC1rWk1HbjB1bEMxeXAyLWhXeWFHLW9DNGhaVmR2RHlhSWV5ajFVMkdWNk1n?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-10-28T23:37:10+00:00",
-      "summary": "Seattle woman’s family sues OpenAI, claims ChatGPT coached her off medication before death  Yahoo",
+      "summary": "Seattle woman’s family sues OpenAI, claims ChatGPT coached her off medication before death  KIRO 7 News Seattle",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -90,134 +216,8 @@
       "title": "OpenAI plans to buy Google’s AI chips - Ticker News",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qVThFc0hvMi1uLWxSckh2NXFPM0hTdzlVSVB2RmVpTllWeVFPbUxEXy1oeWVRYWR2TlFoaVUyTEtYeVQzeGZ0MDVlQkxnZGhQM2d1V1JpS0ozUTYzVXBZN09TUERZQlkwMU9N?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-10-28T22:11:31+00:00",
+      "publishedAt": "2026-10-28T23:02:47+00:00",
       "summary": "OpenAI plans to buy Google’s AI chips  Ticker News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Grand jury indicts former OpenAI engineer accused of bugging SF office - SFGATE",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pMUMtRnFhcTZ6VXV6Y1lqQTU2ZFNrNzZIY0hmdmF4aGVGam12WmpjQ29jSDlBS0h6dG9UREtrMGFiY0VlZU5ROEh3SkxCSENmWnVzNUNWdl9aZjROR2Y0bE92R0ZHTEpXZTV1cWUwMEJ6eDdZa2k5SW80Vm5ybTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T22:09:42+00:00",
-      "summary": "Grand jury indicts former OpenAI engineer accused of bugging SF office  SFGATE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYV80X2ZSR19DczEyTktuUi1xSHpudXhzOFNZVE5NWjFDdVNvV1haaEYtMjZYVnAzd24tbWV5ZXpJTTZIbTY1ZW95eHNpTWdzaHBhNy1memlSMUJwVzZuc2h6aEE0RU5tRFZTZmVtY3FRbVpWTXE3aDNZV01NTy1rZnV2Y2IxZUQ5MUtadDlNSDI?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T21:34:30+00:00",
-      "summary": "Microsoft recorded $10 billion in revenue from OpenAI  TechCrunch",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launching election 'war room' - Mashable SEA",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91ZDJuZjFtNGVDU192dVp3b1JkWUstaGtEbEc3VVNUalVxdWVkSGczdG54UDUzeDBTUnA3Q21WTWNVZFRxNWY1Q3FjWnprWTlIRXhZcm1NTkNGYnAtRTdFWFBUYXJ0WF9yYnJFa3dPWHhuRWJwdW5jYnZR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T21:31:33+00:00",
-      "summary": "OpenAI launching election 'war room'  Mashable SEA",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and ServiceNow Expand Partnership With ChatGPT Workflow Plugin - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUllJSlNRbUNCUHB6MTE3V084MjZrQXVLUTh2elZhbGdRNEZUUmNhU3padWFYS1MzaE90RDBXQ1BHMlZvNk9oNVA1aDBxZnh4ZzBtZDNRa0MzZVpvckdWTXF0cGRyTk03TEI5dGFSZ0JJRkZhQkpXWllEc1hLbnBNaFhkTzB1bzVKVHFQdHNESVN4TVIzVVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T20:45:02+00:00",
-      "summary": "OpenAI and ServiceNow Expand Partnership With ChatGPT Workflow Plugin  Unite.AI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT’s Medical Advice Under Fire After Parents Sue OpenAI Over Daughter’s Death - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdGhuQ29PUWs5ZTdiM09HT3l1dFpmQ1dlV3JHSGpxMHB2TzBuWnhMbGUtQXU1V0ppSVZ0T0Q4MkpiTmRsWTlRZmpLNzNqa3RGUUNvVWV2WDdNVFJIT2wwWl9lTkZvOFJuQmpvS2tpSXowRlNlRFFhUDh4X29VbFg5YzJIZVpFMjFhYmlfYXhWNk43ZmtZRWdPWHdBbnJZdWpCZGVnZnVnNVJIMkg1VTh5YTFiZnNjcGdRajJlYUN6WVhhWkdnekRHaUt1ZUNmalRuRUpFWlVxcS1tQ2tv?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T20:42:14+00:00",
-      "summary": "ChatGPT’s Medical Advice Under Fire After Parents Sue OpenAI Over Daughter’s Death  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ServiceNow expands OpenAI partnership with ChatGPT plugin - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVRXQXl4aHFyRUdxTmUyU3VNbkU3SnRTRDhmZnNZMHh0c1FSc2JLV0Y4bWNxUVFlQXo1N05wVGRqMWlnRGRHRnFGdXdrOGNTc0Zac1Qwd3dvRldxLWpBeDIxRWxJZnctN0tjQmZuaHNIWndTNlYxY3RiTV9vRnRucnJkUjVObE5PaGxPeU1yRHNpMGJrZ2tIT0p5dVp5WjJvN240d05BQ3piMHVVVm1ZZEx1UHA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T20:32:16+00:00",
-      "summary": "ServiceNow expands OpenAI partnership with ChatGPT plugin  Investing.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development - ServiceNow Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTmJmZ3lwWmpKMlowZmpaNEx4ZlJWbW9YTjZDZU1MUDEzZnJYVzhlS0g4emQxdVFxZXJGWWRDTnlIdGRMT0lNOElxWjBNUjZ5UWFTQ2l5RVFCWG1ScEVTYi1sY0dtbnhNME9YMktSYmFmR1dtcWVISHhqakhyRGlBbnU1aFpTOTRpczRaMHh5SjVGV2piQ3pXdFNPVjcyU1ZtcXl5RkxtRG55M0F6bnhTek50YzdPc1p5V3FPREVfSm9ncmxzZ2NKUXAyRThBTEstUWpKVjlic0w2bE5ZdXVtcS1aV2Zkc1RwRml5V1pLbzRLMXVKYXdaelpYTlpkVjhsZmdFdHpsLTBVSUJZMjgyOEdyX3dtUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T20:11:02+00:00",
-      "summary": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development  ServiceNow Newsroom",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Family sues OpenAI after Seattle woman dies following medication taper - SILive.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORDh4cmY3WUdyU1lJUy1tb3czckRIYlJzUGptV1NkQW55b2VmLXhFV2NvckNrX3BDWmNZWHFmMnFONkhwMXZYT05NSm83MTJzdGVtdEFfSzQyZUhlNGp3VDY3aTBJXzZib3U5eDV1d3QtNmdvWTZ2YWtXbVJmYWhZYllUdzlTRFBRczRldE03ZTU3bkM2OXRfTzFieENPQXVLMWlaSGtQM1BsMmJMTXg5V2kwdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T19:55:00+00:00",
-      "summary": "Family sues OpenAI after Seattle woman dies following medication taper  SILive.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI agent removed its monitoring system, then falsely denied disabling it - The Cool Down",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFNMRUg2Nk9LSkRDakdKWW1aWjJVWVBvbFRVaGRwMTBuMmdhanJfckxXM1ZvWk5HUWxha29KSVJiYlo4ZUlOZzc1S0djSGQ4SUc4dG52Zl9GSC12QnNZWnBxUzJCS1c3Wk1WVk9sY0t5ZjJwZXBmekFrZllmdjB1eW4zalZNRXJFeW1EM1J3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T19:47:00+00:00",
-      "summary": "OpenAI agent removed its monitoring system, then falsely denied disabling it  The Cool Down",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Texas sues OpenAI, Sam Altman over ChatGPT safety and age verification - Biometric Update",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkZfLTV6Mm41Y09LNUxlN3NqeWc1R1NNVVpYTS1XSnBRRDNsWk9vdzRVTWVlalJuemZIVE96WmU1MDg2b0NVVDNCUllfWDBHaXluZ01td0wtY01aM2JzY3NQZ2dDT0k0aGdTalJ0ZEdZWTFvdnRkbWFmbXp6WE4wU2JvWHROZ3ZERG1OSFpIQnUtT0dWLVpkeEpuOW16RGdJajEydGZvSmwteGZG?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T19:26:00+00:00",
-      "summary": "Texas sues OpenAI, Sam Altman over ChatGPT safety and age verification  Biometric Update",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMDZqUWF3YktyVW9PWGx0VnVjZTV3U1dSdkR5X3FhcV9ZNDZubzJBRXFsbXRkOVBQVXQzaXFSQkNuRUZKZWlBNWs3cXJqSlMtUTBaVFcyb01SNHB5SDVadUJyd0x3T1pkQ2xMWEttTGlFeVdoMXVSbVNDemxpYUhneW1YQWZQOXpLUk56LWt3NTljOWJxS3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T19:16:02+00:00",
-      "summary": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM3AwS2tyZ1NKYmJfOExBbGp6WWdMWExsTkZvYWJZZHk3MlZGMktHZEZnOE4yRGdrbkttTmpyVTNzMWpMdlEzeTRrcE9hd2RJMU1vdGQ3dlRUWHZsQW16MUpjR3R5V3RJUEFHUi03QjVJRkVoaTB0YTI0NFZDREd0MFBCWE0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T19:16:02+00:00",
-      "summary": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI expanding ChatGPT dot access to iMessage and RCS - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1FYLTNTOW52Szhuc1pfa2lsZHNScHB5OUh3cFhKOFQtLVRubnBUZGVUYzJFTm5YN1hUOV9Mb01IN3Nmb1B5Y04wVzFEN1dxdzQxT0JVMGRSUGdITFJaTnc1Rkl3Nm1STzFkM2Myc2FwY09NblhlZGV6OExBQ1NQU1Joem1fSmZDM3JMMXFzWFU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T19:15:00+00:00",
-      "summary": "OpenAI expanding ChatGPT dot access to iMessage and RCS  9to5Mac",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Now Lets You Text Your Dot Agent - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSanFHeXB1VFRrbC10NU95U0ZFdlVWcW5CQ203Y1VnblJ2M3h1enI5bUdrb3NYemxDbWRTalRmeTRjSmxEc1Ria1Noazc5aFUtYjRFUEJZN0pFVWMxV2s2R3RMZ3dmMWY4WmN5eFVsdEo2MDJyb013cXlOYTBrUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-10-28T19:15:00+00:00",
-      "summary": "OpenAI Now Lets You Text Your Dot Agent  Engadget",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
