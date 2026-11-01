@@ -1,16 +1,52 @@
 {
-  "generatedAt": "2026-11-01T20:32:36.847340+00:00",
+  "generatedAt": "2026-11-01T23:51:25.853463+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5",
+      "title": "“Reduce overly flattering language”: OpenAI changes GPT-6 for free ChatGPT users - MIXED News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnFPMWdPcUdXQnF6MXN0ZmNnVk9scGlic2plak9iTHEzWWpaQ01ndk9pOC02OUpDUkVpX01XQTdTNzhCYnY0NXU3MHptOHN1dG9HOGJ2TWd4U1ZoREgwd2M5UWZpSkZnUDdfRG1tMmlYZnVoQm9idGZkNEdBZkFlM2xfU1NEUQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-01T19:56:58+00:00",
-      "summary": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round  WSJOpenAI pares fundraising goal, now seeking up to $20 billion in latest round  CNBCAI boom hits a wall on Wall Street as OpenAI…",
+      "publishedAt": "2026-11-01T23:19:48+00:00",
+      "summary": "“Reduce overly flattering language”: OpenAI changes GPT-6 for free ChatGPT users  MIXED News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses' - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDB2b0M4TF9RNnhlZWxmdFVLWFRGQU1GcTVxcDUwbTVDcThhM3UtclBXU2QyYnp3WjM3MFgxN3JIa1hwbVR4NTVua01Sa25JN1A2X3JDWi0tbGZtLVI2aXBKUHZadWRCRXIzc25BbU94RlJna0F4OXAxX3ZmeC1YS3FQclFhM1hsYTRPQmZsWVBVRUFFNUhpMDhmZ1c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-01T22:28:00+00:00",
+      "summary": "OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses'  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1BpVmV2di1BOHI2NHZrV3RFTWY3LUw1NG5VVklTNVd5WTdPUmp5djEyNHNqNTkyVHpqMHhiR3FsT1BwbjdzZ3hxMXM4VmpCTDNYY2x2cGhrcmlac2lyZXZ1WG1hYi13Y3R3NkpwV0l1RmNEQU1PcEtvZ0dXa3NzM0xHd3Q0cVdZNXpINg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-01T22:02:00+00:00",
+      "summary": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI  The Guardian",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’ - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0d0SlJKOGprSFF2OXRFN0lTM19NN1NQSjFnUFdERTdPWDU5V2NOeVdSV0tMbVJOWEI4djVYMm9XWmV6UlIyYU5ZcktjMDBxMF95RVIwRVkxV0dvMmtiblJFMU5sd1FiSVgtdXBaS0ZaeEpDYW45OV8ta29ycHRhWUxIQjkxREU0bEN4a1FtNjdNUHBSQ0tNbmYtbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-01T21:55:23+00:00",
+      "summary": "OpenAI might rebrand its data centers as ‘AI compute campuses’  TechCrunch",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Hackers are running riot with AI. Its makers want to cash in - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdF80NkpLZHJxNVlWX0s0UEhLMlRKVnVqZldzN2tjY2tveUJ1NTdqeEtTeW9kWnBnakZzcEd1ZURSemt1dFR1RXdpYUNRSVp2ZFg5VGxuOTBfOE5uMEZfbl9raVB4Ym5SZ0JpdVd0MU9Xa1RpdWxrRml3aHVnN21HYTBaNnhmU292RS1XaDBYYVNqa3BoZVBMYk45aXpKVXhtM295VGZQelE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-01T21:41:42+00:00",
+      "summary": "Hackers are running riot with AI. Its makers want to cash in  The Economist",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -20,15 +56,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-01T19:41:04+00:00",
       "summary": "Samsung Hosts OpenAI's Sam Altman for AI Seminar, No Supply Deal Announced  TechPowerUp",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "😺 Publishers sell ads only AI agents see - The Neuron",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01YXR5d216NjNXT3VaSzZOXy04aUYwaC1CaE9xMU1zemxibUpKOUVERW1HVFJLT1hUQWdpYnB4ZFJoS2lvcE0tLWNRUDM5TERaVnFIOW52cHJBOHR5dUJTaXFUWDRsRXFTV0c3Y2tad0U2ZXdUWW5XTmdwcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-01T18:32:01+00:00",
-      "summary": "😺 Publishers sell ads only AI agents see  The Neuron",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -96,29 +123,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI's Policy Push Following U.S. Midterm Elections - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcUlDY1VJcVpKYzB6N1pneEp1WXhRRTNLcTBTWWtHNXJvVFRVaWdnQmh2cEg1RVdhekdyNlJBREdqZFFOUHlqclNaZEg0dWIyWHBfdVUxZ0NjcER0MmNxUlJmM2l4UDZ6VVB2elBfZ2h2SzlDWWlpTzQybjRRUXZzd1NtWFlJamkyaEI0b2JfTkR3UDA?oc=5",
+      "title": "Behind the Curtain: OpenAI's post-election power play - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tb1haUUNRbkZzckJCdXl1bUhveG82WWhlMWQ2eFVHTm9uWXJDWmVQQVowVmJxSnBuNEExZ1l2ZGpTUmdFSlhYbWg5VTVuYlZ0WUhoR1dmUjIydXprMmNHN3R3TGoyUGY5THJZeE5VSjVQVUU?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-01T15:18:42+00:00",
-      "summary": "OpenAI's Policy Push Following U.S. Midterm Elections  GuruFocus",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The TechBeat: Muse, Instinct, Wajo, and OpenAI's Dots: Four AI Assistants That Do the Work for You (11/1/2026) - HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNdU1aLV9JVktSa3lLUkx5LWd3dFF4Y3hrc3FBSXJJZVhZMGVYcTdaUkhfY25LbU5qSm1zZThOMC1FQVk2MklXanZHUmVqUUxZVG4w?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-01T15:05:17+00:00",
-      "summary": "The TechBeat: Muse, Instinct, Wajo, and OpenAI's Dots: Four AI Assistants That Do the Work for You (11/1/2026)  HackerNoon",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "GPT-6.1 Astra Teased as 2 Rivals Face Clone Claims [2026] - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGlXYkd0dmJSaWVtRlRsT21mV0lGYTFBRlBiajA4VEd0T0JtTG8xLThLSzNGX3FfVVp5Uk02VmNILXR1MlRLeDFFcVFNbjloUWNwUnQzN1E3bGZvcjE2ZTAyZjE5bEo0SE1YZ3BCR1hjZXI1VFhqRzUtbnBpRmItMXdXWGw2WVBLVmV5WlNldDdUckF3X2JTSEpZcXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-01T14:46:57+00:00",
-      "summary": "GPT-6.1 Astra Teased as 2 Rivals Face Clone Claims [2026]  shattered.io",
+      "publishedAt": "2026-11-01T14:06:45+00:00",
+      "summary": "Behind the Curtain: OpenAI's post-election power play  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -128,15 +137,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-01T14:05:00+00:00",
       "summary": "OpenAI Maps Post-Midterm Policy Push, Including 'Speed Limits' for Advanced AI  BigGo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Behind the Curtain: OpenAI's post-election power play - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tb1haUUNRbkZzckJCdXl1bUhveG82WWhlMWQ2eFVHTm9uWXJDWmVQQVowVmJxSnBuNEExZ1l2ZGpTUmdFSlhYbWg5VTVuYlZ0WUhoR1dmUjIydXprMmNHN3R3TGoyUGY5THJZeE5VSjVQVUU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-01T14:04:43+00:00",
-      "summary": "Behind the Curtain: OpenAI's post-election power play  Axios",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -159,6 +159,15 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "Behind the Curtain: OpenAI's post-election power play - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVRuTlpDY0tjRWFyTFczMWNoZG4xcGRjQkNYdmlseVVPMlFnR1lJcTVSZ3FRNlB3V05pSDQxbW82eUtHMkoycTEtdDhiOUlrUVhQVDJhV3NxUVRhbUhuMjFGOHRESVhJdlpEclZEMmxfam9MelFfRGl3eUlWQ3JlMVBBSlNCTWU2S2pPMDZTNUpoWVprc1NBcWRwaWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-01T13:43:06+00:00",
+      "summary": "Behind the Curtain: OpenAI's post-election power play  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "openai-opt-out - Thurrott.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDlSTWhVaV8zMlhzcFN1cGw4TGlJVzU3bjJZVWNaNHVIajl5ZFY5Rzd3c3JhZWdXMzhiSXJOa2RaaW16XzFsdXB2NW1TQm03OWFXR01DWEJRRndOUVEwN1lqWFdhWHAtWFNFbldnSm9Oajh1aUpFdENfQmd1YXVzc1ZPWjhIVVJXSTdacDA3ZHpVYVpmd2ZSM0NhLUNqVVJxOGZPemdqQ1R6cnZxVlVIMHN5MG5McFo3NUhuNzNaZThOMEFhVzJQeHVZWWRUODVpb1ZxTWZ3aUI?oc=5",
       "source": "news.google.com",
@@ -173,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-01T12:39:48+00:00",
       "summary": "“The reduction … is canceled”: OpenAI reverses its ChatGPT Pro 200 usage cut  MIXED News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI CEO Calls Keeping RAM in Personal PCs 'Terrible'... Shifting Blame to Consumers vs. A Reasonable Point - Inven Global",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONzFGWldXMjR3WGxxRzZpZjQtQzJmSWVVNmFHZ3VUeWJNR2tOeHBUUDdGbVp2Y0JNN1Q0SkdYNW5QZV83R3Nmb2NEN0tTTXBzUWpPX2JSRzQxZEZQQzlWdXg4Xzdjc1lzV2ZzRF9TU0xpTTBIZjRxWlo1NGFJUjlVbWVneHVtS0lVSkNuOXZOQ3ZEYmRnb2cwbmNqa3pMQ0lvWnZma29kc0wtZXRZUUdnMjA1UUE3MGJlUTk4aGZrRjZrcmpYMFZ3eEh3NGNqRnJJOXRNRXBKQldNUE9MeU5J?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-01T12:32:15+00:00",
-      "summary": "OpenAI CEO Calls Keeping RAM in Personal PCs 'Terrible'... Shifting Blame to Consumers vs. A Reasonable Point  Inven Global",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -204,20 +204,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI IPO Valuation Target Reportedly Trimmed By $150B After Nasdaq 100 Registers Worst Month Since March 2025 Following Brutal Tech Sell-Off - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTG0yenVkS1k2amh3eGNmZUlZdDZHMm0zeG5VWDY1VEY2aUpOdkdIVXdTTXhJUFZiaHhISUJCbjZWeVpqMFdFQU5BT19mckJlOUJNTDhXNXRWWkRoUnJIR3VmWTNkTTJ1Y3hmNkZkU1VOQnJlZ3c1ZmRkWDc0cnRmOV9oalFmX1BobUc1NzI5VnRtV05pRW5lUjd0UlhzRkVISGdBNTdOcGpzMXF6NjUtbTJwZjJhbjA2QklzVHZnamJqWlFhbW9hdXdING1oa2V6VU80Vw?oc=5",
+      "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out - Search Engine Journal",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDJjcmgwOU5XQWxTcFY5UExVcVV6VVpXSFdlZ25MRjRTRUI1eHJmM0hyTHQ3OGprVDRZaDM5Y09neE1adFBjWEpmQzRseHFqZkV1bTJLeUE1azJnZ0d4QlFzMnZVVFFkYUg4WHc2eVNMalZpSlN3WnBMVXVES2o0VGhfaGRiSzRDY1llZXVNUWRFTzVRNExWcUpn?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-01T09:09:25+00:00",
-      "summary": "OpenAI IPO Valuation Target Reportedly Trimmed By $150B After Nasdaq 100 Registers Worst Month Since March 2025 Following Brutal Tech Sell-Off  Stocktwits",
+      "publishedAt": "2026-11-01T08:00:00+00:00",
+      "summary": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out  Search Engine Journal",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit - The Observer",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUG10RTQ0U1NqUk5hQlJ6R3Rkbnl0V2YxamNUYm9hWE9DMmdGRk9LRG8zaFYwZExhWWpfc19pd25uMWkwNlc5QnVvNUZmQ0loN1c1QVp2OTBXMEd6ZFVNanMtVkZ1NGR5NWwwcW53bUVzSUc0OVlPdzI1MW9jRzBfakllS2lCX0xOTjdCamk0NE81NzhfY2NUTnVkSFJsOUhtQk03b0tVd0lNODdBczBkSmhtdnZzTmpwakx0QjY5MFF1Vm5GdUVLVg?oc=5",
+      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2hwU1RZMjNaMVpkcW13aDRGb3M0UGlMb21CRTI4dDU5STc4eEJkZHNMc2VPQjVnYm80MEEzWm80RDFZdElReXNmbG1sS0xBYjNnNWNOZVJsSUhySmhIUTJfV0tEZjJncTFLSHJFbDVqU2FrdmlSVW1hNzdxZG8tbktn0gGHAUFVX3lxTFBEd2ZuVFNJR09vWjBBWUtDMF80c1luQkFnVWRkN2RWMG1DWmZJd3Z4clZwcjNIeEcwaExPcjc5MWt2MkZ1SW9KUHdZODhtV3NGanVTSVkzdFl0aTQtUmxZa1V6dHpDUkxacTNhTk1PWXFDbnVIR3NraVRJODh3MjFGdUhBNl9rTQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-01T09:04:49+00:00",
-      "summary": "‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit  The Observer",
+      "publishedAt": "2026-10-31T19:56:23+00:00",
+      "summary": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
