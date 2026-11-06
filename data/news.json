@@ -1,16 +1,205 @@
 {
-  "generatedAt": "2026-11-06T05:19:56.421300+00:00",
+  "generatedAt": "2026-11-06T13:02:43.813706+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI sets responsible AI infrastructure commitments - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41U0dBZ2REUjd0dDBvRWVjb2ZtNndQbllCUjhqUUlUeGNsTjExVG5lX2xnQWdScm4zZWV1R3BCS3NaSWhlb09nZGhKWlh6WmNMMXduUkFqSGZ3UU5fa3pEdGc0LUVldFU3bHU3cVhJd2lUR0Z4QldlbXlvOFk0dE0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T12:33:18+00:00",
+      "summary": "OpenAI sets responsible AI infrastructure commitments  Digital Watch Observatory",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Is 48.7% of 1,377 UK Company AI Links, 2.1x Anthropic - FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGFpX0djOG1HRWoxRE40ZzIyZU43TVFXbFFxSjZycG55S3dERVhBZDQyblVqSG0zY2xWZ3NIajlYVDNPSXlCRjRpRTVEN0xGUDhNbEg3YUdKQ3JOSlBhM1ZGQm1LalFkN1FyeWZCVDNhZVBnUjRZV2FoWGxGZ1NQMlNuTTJTLVYwdlZwRkNR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T12:22:30+00:00",
+      "summary": "OpenAI Is 48.7% of 1,377 UK Company AI Links, 2.1x Anthropic  FourWeekMBA",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "GPT-6 Cyber: OpenAI’s Frontier of “Aligned” Security Agents - Cyber Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1FBVXo1TDAwZ0VQRGNIWVN3X2NQZzAyM1FrVmc3MjQtOE4xRDh6M0lIZGZ2WV8wenZQeEg0M084WmVUWUlMOUVXMkhtcjBRd1Y4ZUx2LWlmaVdEc2p2Y1pyUF9wQldrYVEtMUNpLUF1LWxqTi1jMnF1TktiaGRjbWRMODVGYkh1VnRyQWFZdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T11:29:19+00:00",
+      "summary": "GPT-6 Cyber: OpenAI’s Frontier of “Aligned” Security Agents  Cyber Magazine",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Most Often Named in U.K. Companies’ AI Disclosures, Study Finds - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUViakw1eWVBWlBYNTRkN1N3RjloTEpqN1NrNERYZW81aDFMOGFBY1U5Y0lKWXVCbE9sTjQzckNVOWY3VnFCU0p0NHVoSjNxTVpzcnRmNXRhUmxZNGhjVXNPTFFOYlZ3MHE1NjlLRjlXRHZjakd1X1Y5SWZJMUVwc3BmaHJLVWtrRnFJUDd2ZFFMOWNXUEpBUzM0YjJjbVlHSnNmOHRqUkU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T11:25:48+00:00",
+      "summary": "OpenAI Most Often Named in U.K. Companies’ AI Disclosures, Study Finds  AI Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Don’t mention the data center: OpenAI calls them ‘compute campuses’ instead - Network World",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVlWWmMxUlJQWDdyOTYyRmZKNXVkOTVYRS1YalU1Q3BrejRQSGotd2tFT0lOZUZ3eFVKRkVaSTJVcVZMMUFRa3lra213V0NkWkIwM0FpOU4tMGMwa3ZEcWt0a1FyWjR3UlFEb2VBTW1SSDNvUzduRkhuS3lMUVFyTmFJdThETHFibTcyRjFiR3hFeEd3RFFId3EwOFdaUG9vckFQVDJ6QXJJTjRHbDU3ZVo4T014dXBPQUkzaGlR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T11:15:33+00:00",
+      "summary": "Don’t mention the data center: OpenAI calls them ‘compute campuses’ instead  Network World",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed - Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pMi1wSUEwTl9JS3g0SHNPQlB4OEZvOUt6cHl0NkhKM1dXd0Y5Q0tmMWhNMnRsVjZNa1NBVnk5aHAwMWFncHRYclJaTVo4UnltcnBSdmV0bXBTbFJZR1FhdENVNTRLQ2MxQ2Y0eE1vcGNNNVZfMXNNQjJwNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T10:19:49+00:00",
+      "summary": "OpenAI’s GPT-6 Cyber found 81 Firefox flaws earlier AI testing missed  Help Net Security",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Pledges To Cover Data Center Power Costs After Voter Backlash - Dataconomy",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmlZNmYtdEhNVnhMUUxXby1HWUlkSWwycEpWZXRNSmc1b3VKSlFYQVMtUk5FWEgyaXBVd2Z1bk8tajM5TUxYVzdCSVBTeE9sXzJFejJ6LVpGSjJDYjBIQXRweDhnQ3dHeGZDSThLQjdzQTR3a3AzWU5LaDFabjE4TkNzeGM3Q04yQnpsS1dzYVpVQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T10:02:27+00:00",
+      "summary": "OpenAI Pledges To Cover Data Center Power Costs After Voter Backlash  Dataconomy",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "How A.I. Just Blew Up a Key Tenet of Computer Science - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEpJYzllMkoxeFFPVDVISGp6T1hLcDc2Vm9oVnk5SFFGWWVPdjBXY2hGNG1lLTJ6cm1Dc2tpVlJOc0pqMjF1b0FCY3lYeU96QlFOaGM4TlNZZEtzNXN1MXFPNzBTY01UNFM4OG0zOXRnWmJkMVI5b2UwZFNzTkFWdUVTMWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T10:02:06+00:00",
+      "summary": "How A.I. Just Blew Up a Key Tenet of Computer Science  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Adds GIF Creation To ChatGPT With Images 2.6 - Dataconomy",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdF9QYnJEYldSb01QSDcwM3FTeWdZNzMtMEpkY1pCVUNWZi13eTBBTXBSVnpjWUxwT1FMVHg0eEJhaHJGUkp0LVJNbV9FTDhNS19ETFZjVkZLQXdUM1A1VU1icmp0a1ExNDltbzVpbU5UcDlHVVl2VWxqVl9KZTYydF9QelNCSFZDTDlXZWJB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T09:56:02+00:00",
+      "summary": "OpenAI Adds GIF Creation To ChatGPT With Images 2.6  Dataconomy",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches Critical-rated GPT-6 Cyber For Approved Security Teams - Dataconomy",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGZEQXVFUExSV0IzcjJiUHFYeHlMcVFtRmZWZTZFVVBRQlVxbkViN201WEFCZmdoUHBiX3ZIR1Q2WE0xYUxPVzNhbXVPWDhQalcwVjNXWGxNa1BaVkpfcGFXRWNjMEFzU1hIdEFhdHo5NTVFQTE3bzRNQkJxVVBYcW1WQ0dHbm8yLVdORkNBbjVxR0tp?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T09:51:33+00:00",
+      "summary": "OpenAI Launches Critical-rated GPT-6 Cyber For Approved Security Teams  Dataconomy",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "US Man Sues OpenAI, Claims ChatGPT Helped Estranged Wife Plan His Murder - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVYzUnBBUWZnb0J5cUhVdExxMkkwWUNzN0tHWnhNUlpEeG0tQ2FfX2ZCUlVaVTF0ZFdZcE5fM1EyOWdvUTE5WUplYmNTT1Q5dGFkeGFmOHRJSWlrMnVEbkhUbnB5WVRMa0Jyb3g0aVh1cFV4WnhRbmdSUmxDWWl0VUZOZjdpM0RkT05hQ1F5TjRISHRiazRtUVpMZ3BEaGsxVkpoR01WaS1sY1lEazc1NVln0gG6AUFVX3lxTE1pdFhOVHFxWlFVT181MFNPUlVyTVV0YmU1RzVFaGNxbWVUcG90ZlhFMDE0b3pPZFN5eTRjNHdnZmNndUppaENRZDdOM0lhbjNwNklQMUJrcm9JLWZocnRQZmF5YmlpRlJmc2ZxTF9jbEloei1zZElJM0xUY3dZYlgxM0tuS0Y0cklZZHB6eW03UUtucFdEQkg1VUUzdTNxY1hsUy1zSUhTT2ZzRmRBWVV3YnV4b2RSUGdTUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T09:39:45+00:00",
+      "summary": "US Man Sues OpenAI, Claims ChatGPT Helped Estranged Wife Plan His Murder  NDTV",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions - SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlhzU096TWtVYVlZeHprQ3ZwQ2dnTUFNSkNXX2FpZmpyRldGcTlhZU9lWmVjMEVGeXB1WldYaWRUVVo2NFRGRm1OTWR4ZUt4TWpMeE0xMXhPMXhrS2lkNHFtOGNpZHZmaEQ4X2lGRk5LM3RyVXZJZFMxT052ME9vZnBqajhpZ2RnTmlNSVQ2dGlybnltVURHOU41Zk56SWNkMG1CM2E2aw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T09:33:51+00:00",
+      "summary": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions  SecurityWeek",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Eyes 2027 IPO as Enterprise Revenue Surges, Expanding AI Cybersecurity Push and Setting Out Election-Year Policy Vision - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNU3RsTHpqbjF4dFNhY0lYTVNELVdZZU5jeU5tM3RyV1NCbEVzUzhDUzBQYzE0dndLUWJyd241OE40Wl9yejJPVGNTZXhOTnZpUjlFM0FuZU5WMTdzYnlXWWtieWtQck45TXc5WEo2bDB5T2ZHQzdKZWh0aUY5QVdrdEFyeUtOemp1UzF2YkhfdVVNd3ExeW1US2hlT1c2OHJfaEU1S1ktd0laUkRleVl0TExOZDl3QmJWT1RaWVBLdWJ5aE1IT1YzUkJPY2NBN2ROTXEwaF9xYTB3cU41WFQxMUdJMG1xZ3psX2RmQW43bkJUNU9hUlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T09:28:45+00:00",
+      "summary": "OpenAI Eyes 2027 IPO as Enterprise Revenue Surges, Expanding AI Cybersecurity Push and Setting Out Election-Year Policy Vision  AI Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI pledges to end data center secrecy agreements amid US public opposition - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWlnTlNJckdrWlNoTEs2ZnNqQXdwQjZrSkpIaFRsTjdiMWZMYXBkWURrN25UNmwwYUlDNE5iMmFRNmgyaDBNRVdmQ0xLOFVqNFo2ZnlFdGN4OHp4d2VwTE1nbG16d185eW5OM0N3VXEzaWxVVFZFVXBpZ0Yxa0dhNlFCN3VpamlWUEpjaDluQ2E2enR1UVprZC1mb3BEVW5qLW10WWJaZW1mQXFERktOOXpCMkU1YjF0TDUwOHdtNmNSUE9MX2xKSjdR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T08:59:36+00:00",
+      "summary": "OpenAI pledges to end data center secrecy agreements amid US public opposition  Anadolu Ajansı",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s New Cyber Model Found 81 Firefox Flaws - CIO Africa",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tcFhUMzA1NUc4VWdORmlmM0RxbEQ2WUpWWnVpX2txUDYzTUFjdEthT3AxSHhYcUw4MnR5WVlydUhCUk5QbE5Rd2FUcFhrbzd5UzlCbUNBSGNlQ2VLbVgyVmN6bG9yc2FJQzRWWXFBX25IeldzbG5r?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T08:10:08+00:00",
+      "summary": "OpenAI’s New Cyber Model Found 81 Firefox Flaws  CIO Africa",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI unveils GPT-6 Cyber: Astra capabilities for security work - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSC04U3BIenR0Yndzd0dpT29GbE1vZGtJdGk1X0V1T2l5ZnpTT1VramY5Z25peGlhRXFUMWptREtxMm92SjFyMi1MWXJXYS1NNmZMX0NJQ2JyLUZmWV9hSmsxckRCUnlwT0oxdEZmWVlYUWVONjVCUkZmcEJNOEhlS2VEZVpGOVRtZHQteXI4NFY0UDNYV3BqaXdWMkVTSEV1Mzh5SUFSNnYyRlY3X2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T08:08:48+00:00",
+      "summary": "OpenAI unveils GPT-6 Cyber: Astra capabilities for security work  Techzine Global",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's New GPT-6 Cyber AI Can Find and Exploit Software Flaws — It Already Uncovered 588 Unknown Linux - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPNVJSWUhTMnllRElLbXZCM3FGb3BjUEFPanIxMHNscWUwWnI4VjB2SlFaSjc0QUozaXZHZkFvU2VPMURENk1OQlYyMmdHMVNxZDhTdDZJeU91Z3R4ZkJNN2c4a3B5bm1sM0hWS2dvcFlfcjkxemdXTURaSG1ha1ExMDJENU92aHJycm1odGp5MjVna3N2M19TdHVvM0lzOV9NMFV2b21EbWR0cEEyREtmbElFYksyU1VtaDVqOVFfVmdEcldOY0FPM2dDV05qSEhRVHo5N19ubTRkbXhqY1pvME5uLVltanNWRk5MYW5PNkhudVVac1UtTERBWVZMekV0TmJrUURJcXIySkhPd0tBTlU4VGt2LUVWU0E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T07:20:10+00:00",
+      "summary": "OpenAI's New GPT-6 Cyber AI Can Find and Exploit Software Flaws — It Already Uncovered 588 Unknown Linux  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Singapore authorities warn of risks of personal AI agents — Channel NewsAsia - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkRJcGNLWUhOWEJPelAtYzZlbERMZFNOWmZhdk5BWWp4OFp3MmM5Si1rd1VQX2FyU1otcjNTSlQ2MVQtcjd1RlN0UTFyNFFucGdiTEJoSWdubGtLcWkwaHNvdllvRFRzWUNBQXJHSjdJZXVYOUJOZzlOaWh0RzZHR0hUaWpRVkVtejBhelM4Qy11NWF0WjFEYXpHYm5YNTNscXRfd0Rxb18wZE1fYy03UEF3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T05:52:13+00:00",
+      "summary": "Singapore authorities warn of risks of personal AI agents — Channel NewsAsia  UA.NEWS",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "Singapore authorities warn of privacy, security risks from personal AI agents - CNA",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc3hhcDNJOExiNWwySm5XWEE3cU5pTUM5ekdXdjVBX0R1M2pUa05JWFdvdnFUaUVwYVdvR0h5a3RVWmdzXzNkZWVNRDFjNmo3dXQ2TEFtOFZoTmVMOHoyOUdqdTJwcW56VGlzQ0YyRExOYkIyeU5OSkxmLXZTUDdQSTVaSFh5cEs2dmI2OU1FMW1UanlDRDVhMm5uNy1QSzBSeUVPQkNyOXJGY0t6NEd1OHpJb3hkMHlEb1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T05:30:00+00:00",
+      "summary": "Singapore authorities warn of privacy, security risks from personal AI agents  CNA",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
       "title": "OpenAI announces data centre community compact after political earthquake - The National",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY25sM2ZPZHZMTUVBd3I0a1dRUFM0bERwSzRNQTktd2dHdmtsRFoyS1d6LVZxeWFTem9GZER1aV9fOTBpU0o0Y3Z1Y0JWMEpvX2FlX1pFXzhZbktrNW9BMkF1cEZBbDlXSUZuaUR6VlR2TjhEYVJqcVJlSmFTLUZDemtuV0k5emdQNm9RQnQ0eEs1VDd0ZTcyNHNDaUJlUGFtcXVvSGNB?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-11-06T01:34:16+00:00",
       "summary": "OpenAI announces data centre community compact after political earthquake  The National",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tZEJVMEZnT3BuWUZaN0JTVXhiUTRaclVqc28zQ0k5TXJ4eEU1azgxMmhnWVZnQVpsVUk0RnBEZWFaRHVtMzVqUzVMbHJHTTZjWnpHd25rdmJxZU1ieDFaT3d6UUdwNUJkWmFuSU05djJBdEdqTXVaZA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T01:22:46+00:00",
+      "summary": "Australian universities are creating AI-native graduates  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Franklin Templeton uses OpenAI to support investment research - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hOXNGUVZGVEEzMF9uRVd4X0kxcVNXT0ZQNjA3WnhVTGhwMjg3TC1WTkFZVTJrdExhOXN2TkRsalJsVUU2Z0FGZXR2Y2pCcVNWZE5CeGZQMA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-06T01:10:24+00:00",
+      "summary": "Franklin Templeton uses OpenAI to support investment research  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -29,195 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-06T01:02:45+00:00",
       "summary": "OpenAI Drops NDAs for Data Center Talks After Voter Backlash  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Forms JPMorgan Partnership Ahead of 2027 IPO - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkYtQkxRaHV3Rm9PMjA4X0h2UkNCV2VqSmFQMmtlZEwxMkNNZFI4b3otWGtTUE9CV2dyVjBPcFNTb1Ric1lidm1fLUd4UjRfQlBMU1daNFFvZmRNamRrVGNONi1uUDZWbXVDeFh6WWgwM0hzZUhtRkpuRmhma1RmalFZYmpOWndVbVREaUk0X3ZHMWVZelVtNU1nYVhNbm9xYTREVXNEYlQtaTd4T3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-06T00:51:57+00:00",
-      "summary": "OpenAI Forms JPMorgan Partnership Ahead of 2027 IPO  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Change How It Handles Data Center Efforts After Outcry - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEowNWhNQkUxQWk5Z2xWQ0NNc3hkTV92SzBjV1hGMmw3NEQ4QXlSTTRQRl9wZlNWWGtEZzVpN3Y2MXZPdVpLZTdBZUJnR0NxMXRpV2ROaElJRF9pYzlLXy1Sclp6Nmk0UU5QQ2JZSEw5VDVuNWNmSWFwZGp6UWwtWklwR1lIZDlQVERuMlZQVlk4ZEJURmlDd3RUaW9fdjhwY212UW9MZl9VRmtmRXJqdUcyS2RnUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-06T00:51:00+00:00",
-      "summary": "OpenAI to Change How It Handles Data Center Efforts After Outcry  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is stepping back from NDAs for data center projects - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVUtpZGsxME5BVzRWa05qcDEwNkZhaC12RHhYSGc3cDBaMFBXSFhQSlR5QW9ONkM1ekhtLWpYV09JajExZlJ6ZHpvRk1Td1QwdEZCWkZ4WlJWY3NnaHBsSGt3UjAxWUVURGpqQlExbmlURmEwQUg1Z3ZSQVZINkE5bi1xYmlfS1VQS2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-06T00:37:00+00:00",
-      "summary": "OpenAI is stepping back from NDAs for data center projects  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTB2WEJJVjRiTUJBZmRvTHd1dkphUWRJRmJBcXlzZDNicWhqZWQxUkNMQ3E0TV9DNllQWHNZTFo5QWNiNTM5NEtOdUFjdDMtb3FDZ3FhTnpGS1liWnVPVTFWdjhuWkM3MExXTnVjMTZ1Umw5U3BRTHoycHdaNUNNNXlJS2o2MVBfNHBlQWRFV2IzbVRLZ3lIRGZiSzRwWmJhbUxKLVlMb3M0cGcwSEdXRHVtcUZHSmQxUFNlSXJKc3FZRThFaEg1aDg5WjJ2R29rbFFHaVZ1MA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-06T00:32:24+00:00",
-      "summary": "OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google  VentureBeat",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "'Families need reliable electricity': OpenAI pledges to try and provide 'a national effort to support affordable, reliable electricity for families and businesses' living near its data centers - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQUg2Z2dfZ2oyeG44bmdBSmQtQ0c2aDBmYnpwMFRWc2U1MHRWZ3N2ZFhDVVdTY0hISWtUc2Z3MC03UHhIV1dNb0lwTmdnM1htODVxRWxabVpxcFdudkNwTGgyWi01SFRZWTRlb3JYNzRlMm1BMWR6RjBySmNNX3RkN1M0ZWYzQnVQamk0dEpQQ1B0cjV4MWRSdWI2R1ZsalA4aW55OHV4V1FLYy1GcFNmNFNjaF9ybC1DekJ6eEZvN2YzZzRxX0IySlU1WFpqMThWcFlqUE9DY3ZmY0gzdEE4dmxyQk9STkNmV2l4MzlUWHdRMDFhRE1GVkVCS2F0Ui1wd1l6QWxxb2RpY0N3WXUtbThPU240eVljVmc1WktHcDNZQUZDaU91djZXOUtQM2VGa1BDVTdvbUlfdTls?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-06T00:28:35+00:00",
-      "summary": "'Families need reliable electricity': OpenAI pledges to try and provide 'a national effort to support affordable, reliable electricity for families and businesses' living near its data centers  Tec…",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Wife used ChatGPT for murder plot against husband: lawsuit - KRON4",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWURjWFRMT1M1aUo1Z1ozVWl0SGR3MWY5My1FNGdOMFQ3V3UyTGZXcmpOd1g4Z1RwejFVWmoyOV82dkNmVlI0ZjNmX3BoaVBidkkwZ1NHd01KMGNDWURCenRTSG1RVDdnOFR0V0xPUFFVbHNOd01xXzd5MFdjUmJpaU56bndfT29mNWhJd3NZQWx3Z0dBVmpEZlNXU0hzemVi0gGmAUFVX3lxTE42cjFGdjVVb1poYy1WXzFMZWJZVVJQbmx0X1k4TTVMbnRwZlZhUUZTNFUxNTVuWjN6S09BeWo1ekJKRjNBRjFXYjlSNE1aUXAzZnZNLVBIdVU0YWw0Sm4wRXhCSjc0QXJ3V05XX3M0MFoxNjNMYnNqRGRYNHNVQWJvRU84QzQ4bVhrb25JNGszSWZORndEdVFNZGJ4Z1hqbDJFRTl5R2c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-06T00:08:07+00:00",
-      "summary": "Wife used ChatGPT for murder plot against husband: lawsuit  KRON4",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Flipsnack grows product signups with conversion optimization - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UTVMtMEptMS05UWlNT1VjSU01NU1CNU13UTdPSVI0dmVxalVLajk3aWRMcmIyODVncEx2TUp0QUI5VzBWa0xwY1NwWTBqTXVIWVBfaA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-06T00:01:17+00:00",
-      "summary": "Flipsnack grows product signups with conversion optimization  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI makes new data center commitments, AI policy recommendations - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa25BbC1BRkxLVW96Wkx6YlFOSlVrMWVwcHFrSHp3MkxqTHM0aThkTjlwdFJrelFNRFd1TnRidy1BbEljRGY5VmUtMnMway1BeENwRXVJV2hHVVhobTljWWgtdnVTTk9QWlBsMHJBYi1CdFNza2UyRjlTbWhzeUYySS1KWmVNNXl6UncxSHZ0SVJpcTdLajJYenFUanVNU05ZRDd0RjlR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T23:50:00+00:00",
-      "summary": "OpenAI makes new data center commitments, AI policy recommendations  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Cyber, which found 81 high-severity Firefox flaws - MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHZmY2QwRDJVWWFjaXpFRnF0U3M5YVpuRlNTMGZYRFVSQ2o0bVNPM1JLQ3JFVjNiVEprbkZGbm9vMHVTYkh1ekVybFNZWXNydkxYcG1LZzhfbzk5RlFlSHJ2UFhHMlhrUENIOGNZRy11VUxId2hZbEJLUEFkQlBYS3BmY1dGVHc0ZVZpd2Z1UDJ1cUxCb2ZqekJnNHZ3RzBWb2VyTWVSTGM3LTlVV3ZLYmMtVnBIbHY1SjA4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T23:37:31+00:00",
-      "summary": "OpenAI launches GPT-6 Cyber, which found 81 high-severity Firefox flaws  MarketScale",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Seeks Public Support as US Backlash Against Data Centers Grows - ColombiaOne.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKdGZHTDJpeDh4UlNqcFpwcTdQMUFWeU9CVklRaG9tNFJsQ21LTjVIOUotLXFjQVhORjYxTHZjMGVsMFVQa2hja3hqc0VLcndXU2w1QllZYmpFQXRtS1NYZ3lmR2dtb3NTWE1fclJ3bXlGd1djLWZBSzZicmU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T23:15:00+00:00",
-      "summary": "OpenAI Seeks Public Support as US Backlash Against Data Centers Grows  ColombiaOne.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Merge builds product and business tools with OpenAI technology - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05TEE5RTNuOUpuOHdySnQ2QzR2WURSU3dvdlk1bXVTVWFHMEtnNEFlckh1NzBROVpaanNCM0xmN0VOWU9sQk9NVnR5aHJGTlZYdHFPT0cxSUJ1aThXS040?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T23:11:30+00:00",
-      "summary": "Merge builds product and business tools with OpenAI technology  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Perplexity Launches Teammates AI Agents to Battle OpenAI - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3ZlZ1gxTk8xTmJhVUI4ak8wajN4MlptQUJnU0QzV1AwUm9NVGdfa0pPZmRLc19wU1ZHSU4xcl9xVWo3RE1tTF9BYk02MDNFTE5VS3FWRHRyaUoxV0dyTmV6dGZwdkRHTGd1MG9YcE4xXzAtbUtMQVVldmtzNmFiRGYyZGdnSE4tbE9TOWtuVF9YWUU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T23:07:06+00:00",
-      "summary": "Perplexity Launches Teammates AI Agents to Battle OpenAI  The Tech Buzz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Cyber for approved security teams - TestingCatalog AI News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUEZDYTh0REhia19oUWR6alMzRXVGWVBfdk8zYzBJZVRCN3lCd3RKVUlULVA2a19ITXg4OEkyUC1YWXZLXzN0dzdZUzJzd0hGd0l5cWxuMTdkSUJoRk1Sa0xIRjd1T2IzdF9SM0J5b2NCSXk2emFORDgta3g2YUQ4enBPZ1lOWUQ2Y0ViNENOMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T22:54:51+00:00",
-      "summary": "OpenAI launches GPT-6 Cyber for approved security teams  TestingCatalog AI News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches GPT-6 Cyber, an Astra model built to keep vulnerability research in scope - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0Q3Tzkwa2RTa01WLWp6aXNqaXFnUTlmaHpFWEJkMVo5SU1aNW5EcFFiZEJNWGRfTXdmRnJBM0tXU1lWMjJsVmpFdVFpa01KMDN2aW5SMl91NUJabmVNckpHM0xwRlF6ZWdONkUzcl9QbzVGNF9CZWNEZUxDbHdkcFE4N2pxbmFMOUZPNWlQRDNNeFdsVlpqb3pIR2tzN1NueWQ3US03UzY5cUZqd1JuNEJSZmZjbmhoN1BJcTZkNkl1UWRZTzFCYmpR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T22:52:00+00:00",
-      "summary": "OpenAI launches GPT-6 Cyber, an Astra model built to keep vulnerability research in scope  SiliconANGLE",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI and Anthropic IPOs, volatility in markets after blue wave - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmhmTS1Yc0xqdk1mQW80dl8yRER4RDhwUGVOMy1qZkhETWhSMGdMOUhiN1VoVk9GMFJQNjBxZXU3SWNUTFYweFlmN3ZFZE1HVmdLZHgtMjg5VVRTZDBfTDVFazdic2lCQmd3RzZUSmJaNHFZVnJSR0NxbS04SFpwX0pDSGhCQWF5T1QzRlI0cVBWVVk3eS1zTjBPd09ZWUs2bTZZTWdYalZHenUtbElB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T22:51:00+00:00",
-      "summary": "OpenAI and Anthropic IPOs, volatility in markets after blue wave  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI looks to make data centers more palatable - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVU5vZzBPaTFDSXhOZzlkU3BQMHlUZXcxbzRQcDRLM1dNVmZMdGVmUXY4cVo3RjdrZjVQTjZzTFhiZmFYdVdFSXJCTXB1T0VVVDFFV2hIeVp1ZVF1b21pSG8wUmEwZWh3OE5rTkcxT1ZXdG82Q1B6S0NJdG9aaVdacjl0STJGckZaN3lQTUZWLTdObW5uOFE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T22:28:00+00:00",
-      "summary": "OpenAI looks to make data centers more palatable  Semafor",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Tried to Rebrand Its Data Centers. Voters Rejected Them Anyway - Inc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVVEMk5VS2Nra2kwWG5UcWkzdVlFOHdBVVZuSG5raFNMX3JNUWpXMXlobU56RFVWVGJPQ2h1LWpIVk5mV1UzalhCMEtmZnk1NWdMWm1LVllXZnhjUjBxNlI0QXhUNnh0d2VRZzNNYjI3bjdOUEYzaGlPSkZXZm8wMXpjQmlycFhJMlBxQw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T22:21:43+00:00",
-      "summary": "OpenAI Tried to Rebrand Its Data Centers. Voters Rejected Them Anyway  Inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Moonshot’s Open-Weight Model Tops OpenAI on Financial Research Benchmark - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3d0TXRuQW90MU5STmRpelFyLXZ3TDkwZDVQR0w4X0tPbG91NW05cDA1S25ZTGRzZVRjNnBIc3RPUmxqT3doenlVNFRtUGVfaFF2X29FVm42bjBqWFY5b0pqNW9LcUh5V2RKRXR1VFZRMHp0NlRmVDZBU3dvSC1qZGk5cnhzQXd4dlZYMi1NNkJGQUZnb0lLQjRmZGRJR0twSkNFU19ManN6NlRPeG82TGNDcHFfajlxb0VHSGhTQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T22:17:02+00:00",
-      "summary": "Moonshot’s Open-Weight Model Tops OpenAI on Financial Research Benchmark  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Could Go Public In 2027, Greg Brockman Signals IPO Readiness - JPMorgan Chase (NYSE:JPM) - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOEhoX0c1LTlHdzl6aVJYQ0pKUDdfSmQyTGNwd3F5T0UyeXRvSjl2RG5BMVRZSnF1M1hSVEtUeFc1SEJTanJqbXVRWTdjRVZ0R2t5QkFOclkybEVabXlDU3lLNW9wSnpPOFFIQmt4OTFxUnFGblkySHR6SHpmNmJNdXFuRm1HSXBjdVJ2TUhjSWViZmRJTl9fdkIzZXlNek4yc29DbmppTm1pam1lamlUTnNxZGt0SlotMWN1LUh2bTZ5YXZBX2RKM0dXYVUxdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T22:06:12+00:00",
-      "summary": "OpenAI Could Go Public In 2027, Greg Brockman Signals IPO Readiness - JPMorgan Chase (NYSE:JPM)  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Unveils GPT-6 Cyber With Stronger Exploit Skills - BankInfoSecurity",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbndTSldtZG8tQTF2RkhVWmxHMi1admFFeWhoenZ4MlM0R1d3S2xCRkt6UXNNTGJLc3BrVWppdHN2UVk0ZTloaXNHbGluaDI0X3JXTkM3WnRxOFB3RWhwMzQyM2ZFd0tGOWhzaFEtRU1ZenBSdGttNU9qRm9aencxTzBvamxyUWh3U0VEazlCY2NBdHhudlE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T21:56:55+00:00",
-      "summary": "OpenAI Unveils GPT-6 Cyber With Stronger Exploit Skills  BankInfoSecurity",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says AI data centers will 'pay our own way' in a new post-election pledge - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFhwSmNDOGVOYkZ5QXBENnZ1dm1OUFVCUEJtVm1JTnp5M0NkaVJFM3VIaGtaQTBWV2RuVExOUUI0aGZFQW5UOFpQTFd4bzZFWjFULVVGc2FTbVVLb21xR1JRS3ZEWW40MVdlTTJuaGhNVlp4UFQzLXFGWktRaWd0N3dCMTR6UUI5WkV2VEt3VFRhU2pOTHJDZ05jT2ZCZnJPT3FvVHBQOTVyVTlHaEZIUXd2OHVWVHU5SWx6MHZTUy1kY1VQM2tYbWJPOE1TaldDYi1ORQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-05T21:40:10+00:00",
-      "summary": "OpenAI says AI data centers will 'pay our own way' in a new post-election pledge  Yahoo Finance",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
