@@ -1,10 +1,208 @@
 {
-  "generatedAt": "2026-11-09T17:49:47.760456+00:00",
+  "generatedAt": "2026-11-10T00:52:02.473808+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Indian organisations on edge as sites fail to Captcha AI intruders - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObDNLTEFoSG5xV3NYcEsxcU1DUTdfZkp1dlBCQTFWMXdfZ2w1N3gxQ1Y4RVRWMTk5TG9HWjJvQlNGdGVtellpTkoxc0RCRlJlTWt0YVo5MHZ1WmR2MHViczFSQTlvdGNVZEkzMU92THdWSUF3UTFibFlfZG83UEk0RmJick05cEE2dDZzUUVkdnlLczRnU2hMYWgtUFRkME10dkNMODlwM3J5WUFhN3ZxbU94b1NlMEVOY09TeVZmLWQyVWRDZFJaWHdGN2l1LVplTFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-10T00:30:00+00:00",
+      "summary": "Indian organisations on edge as sites fail to Captcha AI intruders  The Economic Times",
+      "topic": "openclaw",
+      "topicLabel": "OpenClaw"
+    },
+    {
+      "title": "OpenAI Teams Up with ModRetro on $200 Handheld Game Console, Write Your Own Games with Codex - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tUTI1am5QTk1WUVk2Tm9ZZXVZaEhhMTl3eld1M2REVUdKM1FNZHZBUVVNdExOa2xQbnF4T1NVMTRlcl9Zbm12VEluemNObzNXeDRfaUZSZmhSU092bEdVNlRza1Jvb0VwUzZzQ2dGMVNGaWtGb1E?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-10T00:26:00+00:00",
+      "summary": "OpenAI Teams Up with ModRetro on $200 Handheld Game Console, Write Your Own Games with Codex  BigGo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "As brands dive into ChatGPT, OpenAI will let them track their mentions - Tubefilter",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTJpdFppakJmdEJEZHFKLXJxNVBoZXpJZ3RXREo3WTgwYTZIN0dpNVNaVTh4WlplSExsaDdyUDdBeUlYQTVJaE1yQUhRZ1M3UnhvcGZNdW9TbkNuOHpXWUFmWjRySzBFWUtrUEJvempXdGl5QU1kRktIcTllbTlKWjg2X0VCN244MjVVSg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-10T00:09:16+00:00",
+      "summary": "As brands dive into ChatGPT, OpenAI will let them track their mentions  Tubefilter",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Religion Report But No Breakdown for Pagan Requests - wildhunt.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbDRRbnZoWlNHblBTUzdjOW02TnQ3ZWpMTmlISktlMEVGaGxIVFhEQ0tERGdwZWIyRlAzalRvVFpzUEFzYWJhZG5vUlYwc1ZUYmVyNE40UVNtdzJKZ0c3WHh0TjVJLV93VTlBNVJqaElxTXN3R1lwYXlBeFRMODRTaGhmTGZNNU1CeVE0Qk1RcFdaUXNjaTg5dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-10T00:08:36+00:00",
+      "summary": "OpenAI’s Religion Report But No Breakdown for Pagan Requests  wildhunt.org",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI sued over ChatGPT role in alleged poisoning attempt - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lU2w0a1g2VlB3RC1sSFFuTFhFN082NmRjY1cwYjV1WjlnWmc5ZUdaWGQ1STd6QkVLNlRjU2lhSnpHZ1VsUmNNU0hpN20wcXVIckQzaDJqZ0dVZW40NVk4VjB6WmYwdXJXQkhPcQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-10T00:04:05+00:00",
+      "summary": "OpenAI sued over ChatGPT role in alleged poisoning attempt  Digital Watch Observatory",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s GPT-6 Astra scores higher on lab tasks but still makes basic errors - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDFZbF94SnRpM2lhY0cxM3I4YkJBVFpCYnBON290dnJSdDJ6ak5iczFxRUw5S0ltYU85ZkRmR1I2SENiRVBiNVBzM0VXeGZqMWFrdWhIYnhEUlFCZ2xLdEtEb3c2aDM1ZktfSkszR3YyTGJYYkVRZ05seWltTjZGc01rQ2tJZXBuNWV1a2E5VWowZDJ4YWxmOHN0N2tIRU9mdkYxTmlFSTJPMlVTMzQ0M3piRWstSGM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-10T00:04:04+00:00",
+      "summary": "OpenAI’s GPT-6 Astra scores higher on lab tasks but still makes basic errors  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "'Big Short' Investor Steve Eisman Says OpenAI's Collapse Could Trigger an Immediate Recession - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORzhYdm9UeXhOem9EcUp6NERXeldNU3JaUTViSWtFTXV4RjdzSENPTkFlN0FfY1FCdmh6YlFtQnlrd2JsSW40SVJfRXFrb1Y3VjkwTUFTc21TYUpHQmI0OHJQQzZ1SWhVUUhNRFJ2Nk5wZEN3eHVRVzJWR2wtazU5b1lWYWpxY0k5alFxOWZKY2lwTjQxSmRjX1ZNbDU2ay1WUE83LUZhcnMzM1VuemdhNHhacDd5OTNCTjZTMlNDYnV6N0ktcktPTGJCd2JPR2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T23:07:00+00:00",
+      "summary": "'Big Short' Investor Steve Eisman Says OpenAI's Collapse Could Trigger an Immediate Recession  24/7 Wall St.",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Control Room Stops Model Output Within 35 Seconds - FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0kwZnpCQWU1QzZLb1FuUmZ1ZTR5S1Y4RkRXZXR4YTVIdUppNFFwTXBTNWxHLVlDOGV6Wk1rTXdMT2VoM0ZsNUZRQUt5RTRITzZ2QUMxaXlLLWhkN3R3VmlKbG9OcXJVcVJ0NGdLcUNVbjFmaEVfVGFRWXh3bWpQYTlSaFRaUmcyVjZhTg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T22:34:46+00:00",
+      "summary": "OpenAI Control Room Stops Model Output Within 35 Seconds  FourWeekMBA",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Deploys Control Room to Cut Off Research Model Output - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVRBOW53U1JIR3RiYzRvcEl2a1o2UHU5cWxYbWRZUm9EWXpDX1F4a05lVmNTajBSNUx6XzZIdDNqNG0tcUV0SDVRZDJad2gtYVk3czNpU3FvXzlPc2dRWlIzcHY4aTlvN3JKaGU5UWlCX2NTSlVYODVHRmlpdEI5VzdHMnR0ZG90MXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T22:10:28+00:00",
+      "summary": "OpenAI Deploys Control Room to Cut Off Research Model Output  Unite.AI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI deploys Control Room to monitor and stop AI model workloads - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamVhb2JIQ3hqdHdzRUVvdkdKbHE2eDZKSlBQNU5jTGpVakdQZFZQemlJYnJneHlqM1docXA3STRFZ3pJT3ctQ2Q4UVpsWmJYb0dCUXhkT3djdzdfd0Nnb0RNOGVMdVB6eHkxNThJVHZ5cWptTkROSkFGdDVDYmlXZ0tEQ0l5dWFPUVVlYjhUTk5Ga2VhUTlOSEstTnVESW1KZ1VKRjIxYU5fNjUwWWNWWXdJamNVVHZCdXlRYmVvM2cyajQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T21:49:12+00:00",
+      "summary": "OpenAI deploys Control Room to monitor and stop AI model workloads  StreetInsider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Effingham County residents sue OpenAI, county officials - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazRiVUs3ck5rZGN0MkVpb1RLYXFScVJublhsX1AyemFXdlNscDZGeVNQTWFEbVI4WC1EWk44TmRtM1VLWmVoX0RYUUJscDVDdjJsQ2FJX1VFTmEtWmhXSDBrQWZ6V0ktME9IQzhpMVpRQWRnYkJIR0RWS3gxNUg2Y1F1R3RmTnRsYzNNVU9IbzVnbVpjVmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T21:14:28+00:00",
+      "summary": "Effingham County residents sue OpenAI, county officials  Yahoo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "‘Tried and True’ in AI. Nvidia, Anthropic & OpenAI. ARD #202 - AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UMGU4U1UxX3d6WTdNUVFJMHZwSmE2RFNMRnQwVDBieWJUQUtUZ3I3NGhfblRtWjNRWmstVnhLMC04NzJGc1k2WTJoajBoeU5DeFJhcTRuTkdFTGlraHlJSHNMYTVjazVxM2dKV0dWLUI4MUJVQmIzQUpJM0xCakU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T21:02:32+00:00",
+      "summary": "‘Tried and True’ in AI. Nvidia, Anthropic & OpenAI. ARD #202  AI: Reset to Zero",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic debuts Claude Fable, Mythos 5.2 models, priced 20% below OpenAI’s GPT-6 Astra - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZXh5WWJvWmxMbkZBakNhNWhkR3R2YnFvS2Uwc3JuOFlPOGh0aU1mbWZXZEJJU0xuRDZ2TW1nLXdyMWxnWllFcnRnRGlHWDJBdWUxdHJaR1NIZDc5Y0djdEliTUhGTDlxazlFbER1cmZyTk9udlJ1eHJxRHo1cmlKV2QtMW0yVTFaVk55dFJJVE9DRVYyM21nMXl0eEVzVEVxR1lVVGJWb2lzNDl1MmJONWVsc2ZET2VST3dEUUxGQWdIeFFkQjB6TnlKY0M5WmFqck80Q1VaSHQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T21:02:00+00:00",
+      "summary": "Anthropic debuts Claude Fable, Mythos 5.2 models, priced 20% below OpenAI’s GPT-6 Astra  Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "New lawsuit alleges conspiracy in Effingham County OpenAI land sale - The Current",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUZxT0V0bW5JbXlJVFBRc2RxbDZhMXQ3SjVJWFQ4NTVmVFBJU2JSR0hqN3p4MFVKWk0zWEVzNFF0V0NsYXZVVXJaUm8ya1NQRnhGdFJUWnVTelQyYVAxYUhhUktZY3poUjloVGZPU3FpZjVXUUxEZktwYnRfc3lOd1hHelktN2JkOUNRMEVfNXZ2cGpfVEZ3bGE0Q1lwTWVoX3RWeTlVOA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T20:47:03+00:00",
+      "summary": "New lawsuit alleges conspiracy in Effingham County OpenAI land sale  The Current",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Tests a ChatGPT Dashboard for Brand Mentions, Clicks - FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjhYMGF6VWNFRENMTW1JWWJqTEhvaU5QNG5zTEpGMUhORFZRUW03SWNzLV9IVkRwYmd3RFJXUWNfNWR3c2VrS2RDa3FLU0xFejBDX2JfQXBUTnNGbkh4ZzlXdDN3UmZISGlUR1V6MF9rdHZfV3NzMmlxV3JGc3dyM3BFQUw5blpfamhXTDIyRQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T20:19:46+00:00",
+      "summary": "OpenAI Tests a ChatGPT Dashboard for Brand Mentions, Clicks  FourWeekMBA",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Squeezed At The Frontier-End By Anthropic’s Claude Fable 5.2, While Meta’s Muse Ember Gives Its Bargain-Class GPT-6 Luna A Bruise - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYU9UZktRNVJKTWxuSGVvQWNUTzF0cVVVb1RyMlVtZk96N2V3czFMTTRCZTFXOHBrZ3AxSHk2ekZuSjlPbVVVeWktLVJfcGF4dXZGQ25HVW1SQXp4cm9LbmlFUHJUMG80YjItNWxYcG9KQjk1X3dhelk5ckdvajM5SW11N05USGRWYllvVFo1ZmRpZVdDcHBSRHA0eWczRHhnVnB6Nmk0QXBDNkZPMGxSeFQxRExjRHNmVGZ0RThJNUJRZThVLVh0aFUwWktMQ2xuWFk5N09KMFhYdzNpSHRoV2RzeEJFSFNVd01N0gHwAUFVX3lxTE9JaVUwMms2Mk9wMTIxXzQzVWZ6ZlVxSkpybm5BSGFWaWw5UENSaU1VRVBMMC1FN0NtU1dzeTBVeFNlSEtSVUZ6d1NSZFV6R01JTmxVWmxxdlpMbXVnX2lJVldnSUp3U3BNQ1NLQ0x1X05uR0hSV1JiYTV3XzVqUnlMeUoxVkU1akJlNlRHU3RlX1hLeWtjMmxWN1V3aWl2NzFDN0MtRGx3TXBabEs4dkVqcmFYQWM4Q3dWWnpuNTdZYUl3ajk0dV9hRWRmdlNMemZIT25WQzlfRWRPNHRyMUMxRWFYLTZyU1Z2NHRua2RXaQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T19:55:34+00:00",
+      "summary": "OpenAI Squeezed At The Frontier-End By Anthropic’s Claude Fable 5.2, While Meta’s Muse Ember Gives Its Bargain-Class GPT-6 Luna A Bruise  Wccftech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI's New GPT-6 Cyber AI Can Find and Exploit Software Flaws — It Already Uncovered 588 Unknown Linux Vulnerabilities and 81 Firefox Bugs - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOREtlcXFIYVVjU2F1dHh3U25MaDlzOENrSUhXMkNGQWt2VG9SSk82ekZ2NHI2QVNoM1VLRnB5dnNGTDB0UWplV3YwWloyOExsZEk3Y2ZWVEh4YzJfWnhSSWJvbDN3SzlLYXFNYlRPUnl6SkpJOXBCclUwMFN5eHR1Nzhjd0RmTFdqeEtv?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T19:30:06+00:00",
+      "summary": "OpenAI's New GPT-6 Cyber AI Can Find and Exploit Software Flaws — It Already Uncovered 588 Unknown Linux Vulnerabilities and 81 Firefox Bugs  Yahoo Tech",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Buys Orchestra Bio to Push Rosalind From Lab Science Into Drug Program Operations - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWRLWF9DYjQyN1pmdTNGSHd3OHlwNDhzdVA3V0duSVFPVE1nblhWelNieUsxcFN2TzJ5MVdQWUlYUHo5RkdaY0EzQTliVzFzYWhSbVRINVh5ZVJhd2QwSzJDemhaSlRVXzdpV2tGekl3UmV5a3Y2TkxWcEpjUEUwQVVCYlBLVjJ1YUVEMjFGUkh5OUR4WmtnejVfSURnWkZEeEdTUk5vTVBSRGVHenhUMg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T19:19:59+00:00",
+      "summary": "OpenAI Buys Orchestra Bio to Push Rosalind From Lab Science Into Drug Program Operations  HackerNoon",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43akxPN1NHbWlqampuZlpCQk1WM1ladklZemhnVnBHVlVvR0xKUFNLdUloT2hBRzFHQ2Jya2ZQRTYweWl5U0pMNGplcDk4MmV6QjJmMVBKRmtRM0U3a09STkhhcUYtUWtuaGgtMg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T19:04:29+00:00",
+      "summary": "ChatGPT Enterprise now available in AWS Marketplace  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent. - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90VmFkTFJPWVRYTEY3OVJFR0FpamUtUlAtbGlaUHQwVF9kR2ZZdElqcnZmVWFEUmFMSFRFZURJNEhyU29iMGVFYjZySUQtcW9kMkhfblZJQnY5cFJ4SDF1QUtuc0xudw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T18:25:34+00:00",
+      "summary": "Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent.  The New Stack",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "'Ram-Altman' Program Will Email OpenAI's CEO About Your Memory Usage - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmdHSFh4UHZpQ004aDBaZmtRTWtRQ1gxdkdGWWVqM0VRYnpKM2stUTdPUzM4YWtXbUVlcEIwUnRSN1BmQy02c2hRVW5TbG1FWXdzcHpfYW1uRUQ3M0FPZ1BDVjdGMGVNZmJNOVRjSWxkeXA5SXZ4Q1BIMmFBRXNHT1hhRGF3cWc1eW5rMlZTcDdWcnJRZEV3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T18:11:19+00:00",
+      "summary": "'Ram-Altman' Program Will Email OpenAI's CEO About Your Memory Usage  PCMag",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s Monetization Chief to Ad Partners: User Trust Means Some Things ‘We Just Can’t’ Do - ADWEEK",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWVCMGRKNm1fVzJmeGtPZVRWNjFTemsyUDBmdS05TXk0X050WkpFMW0teUIybl9ldUstTEdQc0lGaGFoWnBkQ1NKNGRpdURpcTRfV1ZRaW9DY05NNHlBQ0QyRzNELXZjT2hVcjJiOVJmZnUxVF9yN3JYajNGc0pxUzZUeXVWbFVrd2hIZDAtc2d3YWszMHZNSkZjdjBTTDUwSzlBcHBwaXZONm1xOHp5OVdEUVBhM3c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-09T18:04:00+00:00",
+      "summary": "OpenAI’s Monetization Chief to Ad Partners: User Trust Means Some Things ‘We Just Can’t’ Do  ADWEEK",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "SoftBank's OpenAI Bet Is Under Strain as Its Shares Slide Before Earnings - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdEtyUzZRQVp4V2ZDeVNtRUo0cTYzNmFpOU5BLVB1ZnJaTGxPTDlJanVHSWd5a0hXVmk4OXE5R0h5RDlIRW1WR0llMWhncDU5VmlGRmJhZ2ttLVBuMHpXZXJfdlFYNWRDRnZHVm1RN1ktV1FfeUJKa1JYcDVzUVV4N2RNRnBlSUdEeWdFSkJCc1ZQeGdRWkdqTDltT3k4RTNoM0E?oc=5",
@@ -20,204 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-09T17:24:00+00:00",
       "summary": "Influence 100 Insights 2026: LEGO and Edelman Draw Praise as OpenAI Faces Criticism  PRovoke Media",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Plans to Kill ChatGPT's Chat-or-Work Toggle as Growth Surges - CMSWire",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHlkZjV3WjRXVE1JY0NhNDBUeF94RkZ5am00ckFNWGpYRU11TENudDJCOGVPaUUwb0pmeTUwTDVVWmpkMFlpeVhMNHA2bk9GTzRldkRuWWNtd2VyNi1fMHZxdFU2R0hFTGJGV012MHh5dk5sVThHQUUzWEZBSGctMGx5NXR3M3kxSW1jTTlnWnp3blhjY21zcVI4YWhuc1lWM1otQ3U2U1J5dEdo?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T16:43:42+00:00",
-      "summary": "OpenAI Plans to Kill ChatGPT's Chat-or-Work Toggle as Growth Surges  CMSWire",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ed2ppQ2tULUM3WjB5MU05c3FPcHJIdnl0aFNsbkQ1eElCM3NDbHFYRVY1dW5Xbkluc3N4ZHRhYnhjOTdncUFac0dEUE1rSE5NSEp6V1ZwNmh4cmxaRE9KelNFYkoxUU9IdkFreFBQaG9QbHNQRi12SE41X0NXQ00?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T16:37:25+00:00",
-      "summary": "Exclusive: Former Meta and OpenAI Contractor Sama Liquidates, Citing Lawsuits  Time Magazine",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Effingham County residents sue OpenAI over secret $20 billion Project Camellia data center deal - WJCL",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUdTd21rclRORjBmMTVXbDZZYzR5ZnB3eVFDQU11aVdpVl9FNUdObHFaaTQ1SjNycjAxeEw4dWx0S3ZSMnlXbE5EQ2U0TUkzZnpHTl9GaHRJODd2dTVOVkdlazZUc3hpR1NWLWNpNXJvZ0pQQzVsZ0lVMThsamVNTC1nelFaZm15Y0JpejNyUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T16:17:00+00:00",
-      "summary": "Effingham County residents sue OpenAI over secret $20 billion Project Camellia data center deal  WJCL",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Sued Over Claim That ChatGPT Drafted Lethal NC Poisoning Plan - Insurance Journal",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnRTFCYnFCdTAxczBkWEY5QTVkME9qMG8xUHI3VUZoTVdFaGM0WEZvZnVOV0tneDgtMmM2VFJGZ0FEazFlNGpQdXlSa1ZMWE0tU0Q1cmJWeVNSRGZJMEtwbDJrdTRkY0VlTEF6MmdQdkRZTWRXTDNrRg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T15:50:57+00:00",
-      "summary": "OpenAI Sued Over Claim That ChatGPT Drafted Lethal NC Poisoning Plan  Insurance Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI accused of racketeering, conspiracy over Georgia data center plan - WSB-TV",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1NRRlJ6ZXFSNjM2NzNraEJPR3k2TnhubzM3aVJkSV9DNWJUNDBrVlVDYmIzbXQxWHpsWW5wZTdiSzFFckU2aUs4Y2gxUzdzWnR4V3NISkFrSlhOakNwN2d3VnRPcW85b0R6OXExYUVwMlNhckpTbzhTZ2d1TGpGRFZJcFl0STBRZ19qTTZiWlVvY3lNWGN3V0hQUm1EM3lVUTlNZG9SdGNBaUN1LVZfOVVuNnRReWthY2NQN0gtNlJnaWZlckJGNNIB3AFBVV95cUxOR19OS2JaaDVpYUpNVGlFU0ltazlERG8xcW9CMExrYVZWeVRCZGlJdkUwT3pxSjlHdjFwUVM3ZzZGeFJ5Q0cySmdPWEFOcnNLRHhYNWVXcWtPU2hKTHB1Vmdpd1l5V3ZYUmhJUGRPdG9STHBETi1UR3dQOEhhY2IxcjFQRVhoVllrMl9jYUR2T0phMlExUjRTTVRrOFN2bTlDamR6ZzQ4T3hQc2p4YTY4X3VaZXRsOUlBSmhGR09NV0ZFWHdsUndnRzRxclFpdXRMQm9xZDdUUUZwTWtS?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T15:43:11+00:00",
-      "summary": "OpenAI accused of racketeering, conspiracy over Georgia data center plan  WSB-TV",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Effingham County residents sue OpenAI, county officials over Project Camellia data center - WTOC",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjk2dktaLUFOeU5BRmFhOFZGeXQzMEpEYTlNZGRNbktoOWFFZmxYSnUzRWM0UGdKQlFoVTF0c0piY1dYaWhpWmlZMHBaMVZIUElmOGxfYVBhR0tMVGQwblhUVDRJeTljRE9fM3Vhal9fWXNKTC1qWGVySTZfUEJXeTg3SENkOEYzRkM4MHRDdjdXdGJOQjR6aEp0eEhnMV9oTTRjaG5wWk9SeE55ekYwcWRFSHFIbGRFdWpSb19n?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T14:40:00+00:00",
-      "summary": "Effingham County residents sue OpenAI, county officials over Project Camellia data center  WTOC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Hopes to Ease Backlash Against AI Data Centers - BankInfoSecurity",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFpEeWNEZFpZMUFTc091cjNuQWtXdEdWRW5xcWtRMEtYdXNQQXVHbzJ0YUYzMjFtNzVGR1BNOW45VENkRkkyZ3ZFWXIwR19GWERuSnVyVHB0YU5uMGVPWDVRcl91UnoyM2xHNVNlaU5Td0tCZ2NlZnkxWXF6RDFzS2RzUnBmNHVNSk1sS2dqc01HMEw3a1JHNHRn?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T14:39:34+00:00",
-      "summary": "OpenAI Hopes to Ease Backlash Against AI Data Centers  BankInfoSecurity",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI engineer pleads not guilty to office bugging charges - SC Media",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjZXazZ1TUVoMkdTQTFjenZ3SGF6WFZqYXNEN2x0QWs3WjBvYjhuSWZpa3huaXNFbUpsdzJ4NGhaSDluRmE5U29GZEcwT1htanFjZWxJcjlTWXRDRVhtZjhDdXNEZFppdGhlY1pDN0hCUHhJQWh6N195UjZMR2dnT2VvTFJYMGZ2WHI4RmFsUkd1MzA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T13:25:56+00:00",
-      "summary": "OpenAI engineer pleads not guilty to office bugging charges  SC Media",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "The Week Ahead in AI: OpenAI Hires Hactron for Probe, Anthropic Details Claude 'Dreaming', Post-Election US AI Safety, Plus Upcoming Earnings & Events - AI Insider",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUFVBR0Jmd0JaTWd5cXFTczBnWV9mREJrd245d0I0QV9JdnhFUl9DZmhUNTZJRmdCUkNtM2d4MFB4OUlCZlY4M2ZyVGxZLUJ1d09ld1R0N0JjUDRYa0FOMmNLZnhvZ2JEdTNmYWhUV29LS21EOTVkNldHVmhja2t2bmVpT196YjdMU19SUGhRU1ZlTTA1RF9uQ182OVFMY2VBUEV6WEVhUks0WE9Oc2dXMHJZdTI0OU14QkZ4bS14c2kxYk93SjZYOVhNWmZyY01HVWJmcElFT3FtbDR3LXR3MXA3MTViTTI2U0RyZTVGZnh3WjB6cEczSTFWclFQSWNwbzdyUkhuNVFuYWcw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T13:25:02+00:00",
-      "summary": "The Week Ahead in AI: OpenAI Hires Hactron for Probe, Anthropic Details Claude 'Dreaming', Post-Election US AI Safety, Plus Upcoming Earnings & Events  AI Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "I tested OpenAI Dot and Anthropic Duet for weeks – and all I got was one helpful notification - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cc1c4dEI0UGc2YVZJdkhjWHBPel8td1hJVXlOT28wb0V4c3gzaHVZN3dFcmlRWjJ6QUYtM1VYWEVnTGpiLV82OVktQVpWSWdTN09iRHBMNkpaZVdVRktmWkdHeFZPc3FfNVR1a2FWZjZ1RXlvcTE0SExnRnd5TkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T13:24:38+00:00",
-      "summary": "I tested OpenAI Dot and Anthropic Duet for weeks – and all I got was one helpful notification  ZDNET",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Closes Initial $11 Billion In Funding At $1.25 Trillion Valuation - Crowdfund Insider",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHB3WHlUejg5bDNDSTVSX0I0dEpGeE9WTTBpZFVIYTJJaUtBbFZHdUt3MlZnQjRRd05sNldHVmhmdVlORDZCbzc5S2ZzWEplb0pWczNxNTRQNXBaUC1YaUF2VlItX3BRbHhINmdfX3dhanlvNEk4c0NYSU9JM2N1Vk9Ub0VSbmlkMWZRZm9YQWNKZEJlU2FfQlFvWkwteGFUTDVhalBhengxeTVoRDJEejNQaDBiWEVhSXhB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T13:16:21+00:00",
-      "summary": "OpenAI Closes Initial $11 Billion In Funding At $1.25 Trillion Valuation  Crowdfund Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Raises $11 Billion At $1.25 Trillion Valuation - Dataconomy",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzZSYXAwODluTFVvNXl2UnExQm1ZTzdUTnFpWnhNdEQzRVdjQjlDc0lJZVo1cUJlRHY0Y2JDVnZ3QzZqeE16cDBRYmMxbzlKVEJmaDZ2cU5DQjVxZHUyTkpZYlJteDluRjE5RzRQMC14V0YzWkpUenNDbURCR0swREpHQVNCUkV4NlFEXzhB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T13:10:44+00:00",
-      "summary": "OpenAI Raises $11 Billion At $1.25 Trillion Valuation  Dataconomy",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI reportedly raises USD 11 bln in new round - The Paypers",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFB6SWdldzgtcjIxSmdsNEJkSUF6TS1CcldzTFBMRVRMRlJ6T0hJdUpfWlZnc3lSckRiVzBGQXNlNzhFTlJDQmlzb05mZTJqeFVvMkprT0F0RmluaHRWRWNaOFJ5ZE8xa21Ec2FEUnp0SnFSY3VEYWV3QVRNdVdnby1jbmlKdU5xVy05ZXYzN05CbmJyNXlaT1RZdnFjUEJvVnY0VXgwREM2Zw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T13:04:35+00:00",
-      "summary": "OpenAI reportedly raises USD 11 bln in new round  The Paypers",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT's growth is bouncing back, and rivals still have less than 10% of AI chatbot traffic each - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDF3M1NLLUNWOXprcDFzM1hBdWlMME9WNzFHOFN1RHpzTUl6RU1SazB3UnBBZmo2aXN2bjJsM09JS2NVQjhfSU1Jc1hrREpUMVFNcWJTaWgxQWxhUDhWTTFxR2pQdzFLY3YyenVnR2pLWnRXV29JMUliLV9IT2hyVHQwQXJ5a1RhUElwQnVZcUpSaVRxVUE4bg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T13:00:00+00:00",
-      "summary": "ChatGPT's growth is bouncing back, and rivals still have less than 10% of AI chatbot traffic each  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI's Hail Mary: GPT-6.2 Astra and a $1.25 trillion bet - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVMkhfLXVNM2E2MEREMi1KNEpmbGNodXpmNHNyVjVBSDVVOXlyaWQ0aWFlTFEtLUxyeEc3LW9QUXJVc2F4U2VQWHdVeU9oX1BQN0NkT1FxYW1qOEU3U0FNOG80YUlHNHJXVlVTbW1BT2FWSUxyNmVNaGN3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T12:00:00+00:00",
-      "summary": "OpenAI's Hail Mary: GPT-6.2 Astra and a $1.25 trillion bet  Yahoo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI’s Giant Fundraisers Test the Market After Midterm Rout - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTJSVzVTaTl0bmd5cGJMNGc0S211ZFRsbVJTNWI4d0t0UXZ4LUlYeHFxMUl2dVNvcUJkUWJMWm10TnBabERPbmtqOXM3SkhaZ1JaNmxfcm5qNXVnZnVoVk9Rc292d0o4X3pCTTg2eVg2NFoyU3BHMkM5RnA2TEVERjlPS3lxWmh2eTMyc0dld3FGWnBKWG81c0JBUFkzTVJJUXFqaU1qbDRaeEU4akVOaFBhdHBQbF9XQ0hVNGluVzVQYVU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T11:28:16+00:00",
-      "summary": "AI’s Giant Fundraisers Test the Market After Midterm Rout  Bloomberg",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Researchers Decrypt Hidden Chain-of-Thought From OpenAI, Anthropic and Google APIs - HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOGRwY2xLZkJKcDFLVXhPNW5aZ2FQZzZRTlMySGV1bkp5alVBNVlHcjdvWEZOZFgyems0Y1JwdVRzMXUxNDZwMGkxYTFQYlBqVjZaWTg4bWNQbjBjQ2VYTktCSFNfelVlTERmY3Y3aVc0UHAzQzVSVlV6NE9aTUtBbEpIYm5KeURRSVJoblFJQUtBYmNMd1ZGdmlKNWFlRTRoMEN0YXktSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T11:19:03+00:00",
-      "summary": "Researchers Decrypt Hidden Chain-of-Thought From OpenAI, Anthropic and Google APIs  HackerNoon",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says its new cyber-focused AI model found thousands of Linux kernel vulnerabilities - IT Pro",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZHU5X2d5Z1FMS3hUSVBUZ0ZYSXAyd2xXb0ZhVF9tUzdJclpnWW1DOTFSRnBJS1FGa1JIYk5DU1lNTG9uU29UUHRNZWVJek1SN1pkaFY5REpmdFZSN3NpRkhhWk9qajRZOGRmc3FqYUxZa0JjYVhJcmJIRnJVakdDemtQS1lYLVREUUZvcVp5LWYxUDZ4WXljQW93cU9UX2ZxRl90UnNxTXpDQnk3RHpPdjBSTWo1Z1EzUVBvSENB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T10:50:05+00:00",
-      "summary": "OpenAI says its new cyber-focused AI model found thousands of Linux kernel vulnerabilities  IT Pro",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI closes $11B first tranche at $1.25T valuation, well below its $1.4T ask - Tech Funding News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVlFnQWNDWUhBdHFPdmp5cTVRWkpOR3diWEdHM0lFRUg5MkVLRFMzT3R1UGRUbklCX1d6NTFlSzRRa2JLdmNsdy12c0RmYWZjOHBDdDNvZ1ZxbVZza2Fwclg3d254d1NBWHJnNkNMT3o2MDBFcG9KNERJSEVPdEFTeE1IS29iT0drMHRUTXU5SFNFU3psUWgzbU81WEh2N0tFaEF4NEt3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T10:37:30+00:00",
-      "summary": "OpenAI closes $11B first tranche at $1.25T valuation, well below its $1.4T ask  Tech Funding News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Krispy Kreme Beat Nvidia? Gary Marcus Says OpenAI Could Become The WeWork Of AI - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb2Zxc3V3YzA4QWtGd3VVRFpGdlhYUmlCRFJnRmwwcWpQZnNhOFV0b3h1WVg5Z1hHaTZqTTB5Z3BYdkRtZVk1Vm1iYzUzb2RFcHhsRFp1eFlpdEdMSmhYNnNxYzY2Qm9lSDUya3BkbzRTXzhoaUV3cVFhVnVLMHk4dmtiLVBVVTZTNVM3YS1XT1pJUVhabGV3M3JCMTlWWi04MjZ5c0RScnRzSEdjajc2OGVVc0RnZ0JIM1HSAb8BQVVfeXFMTVR2Vm1hUFE1bzdoRkoyYlN1RWUxUnRrMGhmSjR2WkdUZDZXd1hDQzB5YlExWDNVOXVEaTIyMmZSSVlVdkctdDJzZnUzLVR6UDBqM3RrRUJFZzZKREREUF9vclEzMWFUV0RPcXBmNllNUGo1N0NmUVZ2czIxOUxRRkNYOEp6clR3ZXRmNlItNVl0aS1MR1dmbDdLQXRRLTJTOWJ5Y3owa2N5THVOSDVFdTBVN2kyYjN3ZVRtanNGSEk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T10:01:33+00:00",
-      "summary": "Krispy Kreme Beat Nvidia? Gary Marcus Says OpenAI Could Become The WeWork Of AI  Coinpedia",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "US man sues OpenAI, alleges ChatGPT helped wife plan his murder - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHl3LUF6bzZSMTMwSElraEx4dnpoblFMdGxiRGJlLXBnR3RmbGRsN1pGekFFOFotX18yOUVWOTZhSDlDcW1qY29XQVVXZ3NET0w2T1ZoREF1eGRBenQ4aFpMUHJYYWhFYy1tOHlURkh6ZHoxbkQ4eDJlVWZwcm9FbV8tZjR1VzVEWE8xTGMtQms5dFR1SlNhb1QwRW16TG5ZT0Rpbnd0S1AyYzTSAbABQVVfeXFMT1J6SnFJak9uVFlaQnVZS0hxektUS01neUZxSEoyYndOSDYxTW1ZOXBDYWYwNzJiSHp4QllRbV9nLWdYaEgtejVGb3hkWDJURzA2NnNKbFNxUWFWeC1nTENsZUxPcTVmWVdMT3ZLQjNCdUhTT0FkblRtcjFmQzN6TG1JSUFyWDVPam45VUFiUXpxWGp2QWtRZThxWFF3TWY4WDloV3ZXNDFtZVpjcVFyVWY?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T09:12:17+00:00",
-      "summary": "US man sues OpenAI, alleges ChatGPT helped wife plan his murder  Firstpost",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "I used OpenAI's Dots to help me move offices. It spammed the movers with hundreds of emails. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWVQeENQM1RSVm1Rek4yTTRNeU5rMGE1dEY1ZUVWd0NfQ2JSemRBTnZXdlRGNmJTcFMtNjhYNUs5Vi1mbTZLQ2VEVE9oN2pZMDNRRVFESmRuNGVPWnptRlZvNy1oWEJXQWMyMThMSUhsM3JldEhtUUVCU0ZSMWJSSE5fYWExZDdIM2E4cg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-09T09:00:00+00:00",
-      "summary": "I used OpenAI's Dots to help me move offices. It spammed the movers with hundreds of emails.  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
