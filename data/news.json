@@ -1,16 +1,115 @@
 {
-  "generatedAt": "2026-11-13T21:23:45.520302+00:00",
+  "generatedAt": "2026-11-14T01:32:43.691838+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI board member makes a terrifying prediction: You will probably die from an AI accident - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2U2RzhQSGw0WGd3anc2WlBObXd2U2dSTXRTMEJzSmtmR09lZk5SQWdBZFR6RjQxYzVJUldUWllPTksxQWhQMWJlSFAzX2tXLXhqeWNTM2E0eEIyUnJYZEs4M0M4X0JReFo5M2J2T1FESk1JNF9feU9KREFhWkVlb2dRZW95Z015TndBdGNlNnI3U2xSeXVKd3Zhd2FfQ2EzbHJqZmhIdTJHbWFlaTFkOHBVREFjZkk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-14T00:37:06+00:00",
+      "summary": "OpenAI board member makes a terrifying prediction: You will probably die from an AI accident  Fast Company",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unveils \"Daybreak,\" an AI Defense Network That Autonomously Verifies and Fixes Vulnerabilities; Asymmetry Between Discovery and Remediation Takes Center Stage - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kbU5od3BvMXZvMDJpVk5GNHlqOWFVa3FEaGZuQkVTUXlsd2JKdXNzNFkyTDFOZG51Qk5oTWRGX25iMnpEWGtsVThZSE9pZWhYUklqNXdWNDJmN2F3Y2E4c0VtWnljX3E4TEdDOW9zZlhiZlR6bWc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-14T00:35:00+00:00",
+      "summary": "OpenAI Unveils \"Daybreak,\" an AI Defense Network That Autonomously Verifies and Fixes Vulnerabilities; Asymmetry Between Discovery and Remediation Takes Center Stage  BigGo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeTFKZ0NySWhLdXF5bXRNLU5MOHJUUU9WcTVwOGFOc2xNaEstLVp6cy1Ia3BKTzJFczNBY2NOTW56SHJIWXRzY2UxY2NhQmJnQUgtZG5MemVpOG5XcWtUdjhWUzRjbjQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-14T00:29:41+00:00",
+      "summary": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you  Mashable",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MT19HREQ2ak94bEpPT0hvWi1MdWlYUlRVRzE5bXRYR0FrZktvM2dTNjBPcHFKbVR4VnlITUNEUXhBUFdKZFN2Vkc5cUJzUC10ZWo4X3hISWh0YWpaeWt6SXR3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-14T00:20:12+00:00",
+      "summary": "Shield helps technicians hand off legacy portal work with OpenAI  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTVrbGxtV2JYcE9oZ01ETGtMUmtuWVdUdVlyNmZuUWdPQ0ttNEdHbGItNDFzeFpFUDhZTlI5ckJjREtoVjlZQ3hxd1dHeF96SEFnbnpjTGllTzZMRXppYjlIRGNIOTBCSTlpYU9VRjhENDF2Rk5kaXFmVkYxd3psb2VScE9xRHBkQnJlcV9IU3NZczJYX25fLXdFdFhOZ2piU1dJLVV0dklfYUF3QjM0VEg3blkwdnJwaXlEX0Z2OWpucXBENlM4NzNB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-14T00:20:07+00:00",
+      "summary": "OpenAI Gives AI Agents a Wallet While Blocking Them From Seeing the Card  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-13T23:20:11+00:00",
+      "summary": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches ChatGPT Wallet Letting “Dots” Agents Buy With User Approval: 22 outlets compared - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV3E1TEZ1TmZIb0F4SEhJMmpGNzBJMWREYndyM1NrWXFQY1oweDYyZ2pVYTlldzgyV01CQ1VzUEtheWUxeHJ3OU92Qm9zWUtiUk5jRlloMWVmNG1tOXQtTzJCbmpkb2VsalFyNFJoTXNfaVNENXBBNjctNlgzZ29pTTFUa0N3NWJkVWtwQ0szLXUycllQUXl0OERzWlk1Y0lOdW1SVThGSHFKWjZMVEVpLUpLZXpWUTBEeHlTdmRLb2VWaUxJOGJ0bGVMYUhDSjRiQUpiNl8xUFR6dnU0a0lJM3lJMlpNSktDb2c?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-13T23:19:35+00:00",
+      "summary": "OpenAI Launches ChatGPT Wallet Letting “Dots” Agents Buy With User Approval: 22 outlets compared  NewsCord",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Launches ChatGPT Wallet To Enable Payments With AI Agents ‘Dots’ - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93NnNYMkxVZTR4MWdkWkJXUTNVTG5qNXhfODlma1BhMDRza0tYQXMwSXp2Vmdrd2YyRlRMQy1PM2Ridi13OHlxMFRibVJwWjhUbE51MldCSQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-13T22:32:00+00:00",
+      "summary": "OpenAI Launches ChatGPT Wallet To Enable Payments With AI Agents ‘Dots’  Cryptonews.net",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa2ladWVtUmY4b0owWFg0eXBoVk52UHMxNkFYNFNLcm1tS054TkdaVElhdUdmMDBhSDVnNDNJbnpPazZqeDEyOU55cUpxLUlVcEN0QU1DZDRRUndzeFZTZmEydVZyUm1XYmM4VGtYZWVYazdUVkZEVDBWNHYteXItOW5ub3hTR1o5Yy1uTWlGNTZ2b0IwV0xkSEZOUnRZMjRWR05UQlY1Q2JtdjN2YnMzWTFLRExYdkE5MTZnejJLLTBNWWdhZmFnUkp1SkY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-13T22:01:03+00:00",
+      "summary": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI has big ambitions for ChatGPT's advertising business. But attracting advertisers is only the beginning. As brands test the platform, questions are emerging about whether it can deliver the targeting and results marketers expect. Chief correspondent Lar - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmhNbHo0TWJiVmJoOGljWXQ2UHhKbDVNdnZwQktmR1U1R3BaOTZZOUpRODNNLVV6SkNVTTJEQWJKUUZfT00yUmszSXdzVjRjck96amdiRmJ6T3c1c2QzcmhSdVRaUkJic0lDWDkzSFpzQWtQaXRsZDF2MHVITzZfVExWN2JQMklPcnNVbTA3NXNXSDlobENkNkh3RUViUm5nZk1rbmdnZGJTNTBFajNIRG4zN2E4QVFUV3hSQU5OSXJSa1hudXJ0X2pB?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-13T21:59:03+00:00",
+      "summary": "OpenAI has big ambitions for ChatGPT's advertising business. But attracting advertisers is only the beginning. As brands test the platform, questions are emerging about whether it can deliver the t…",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "OpenAI Sued Over AI Attention Patent Infringement Claims - Law360",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUFXUEsyQ0Y0eTNwOHVfcHhGcUN3QlY0TDlVZEVDdTY0VEdXLWNDLTR4Z2ZHWmxYNlI3MWRYSTJJVTlPVlExRTAzcW0zc3VlZ1JKRnJ3a2FSQ3NWLUxFbVE2SnRoa0NyNGM0VWh1NUJsRF9QbXQtTTAwbUFFdU1OcUZUbXFzQWNqbzRnc0ZURTVaUXNTbElhOWt2RmnSAVZBVV95cUxNZFNrUHFoWlk0Y29IcWZOWEZFLV9tZ1cxQ3hLdVFweUNMa3JUelI4NjBReUJMVGZ2U05rREIxSE1VTVhac3ZiUmFBcFJFQ2k0RHZZQzYyUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-11-13T21:17:58+00:00",
       "summary": "OpenAI Sued Over AI Attention Patent Infringement Claims  Law360",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer - The Register",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc2d0VmU0UHVrQlVvWElsNFVGTlhKcDc2YVR0SGxqM2dBUXlvSGpLZTNrbUhDTVhiLU0yU1lUamJ2MFpNc3V0SUxlY2xkc3dKemkxel9zbEVXaTVoVHhMdUliUERkZUNKQ2pvSnNKeUh3WDBXdkw1dVBQM09pMjBlSXdoc3JUOVpxZTZYZkphSVFzeDV5MkN5SGpLN0E3bmZVcnJtRThzNDJYSGNzSi1qUEdXUDZWYzRrbHY1RkVqeTA5WWxadzdTcE9USjMxVkZLU3p2cGZMODJpU1V5SDlBTDFyWUNnWXZpbGF1aEotVlFsMkU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-13T21:16:22+00:00",
+      "summary": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer  The Register",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,20 +132,20 @@
       "topicLabel": "OpenAI"
     },
     {
+      "title": "OpenAI introduces ChatGPT Wallet as it pushes further into AI-powered commerce - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ2hZS3Yybzd3Xy1wZExsQ3hKalBPREtoUGNPdkRHcjdHbUNHNHpHODR6dE11VnhPUWpfaFJRX3loR1NRdGdncGh4b1lFMkhlWU9nWk55Vmg2LVNTb2ZqT2JKdXRWZ3hVY2dmWG9tNHpmRlA2Um9MVDMwTDhWRVJfS1hBQnVnUFhhNVJtUEhVaTN4UmtRMVNYa0M1S1pOanBYQzBYYm4tamZSVVhWUnhUUUZZT1lwbkRIR1FwdXIwcmZLaTZlUGstb1pPcWxsMmM?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-13T20:47:46+00:00",
+      "summary": "OpenAI introduces ChatGPT Wallet as it pushes further into AI-powered commerce  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you - The Verge",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazB2cTNEbl9qWDE2Z3BCOVh4Q1U1eDRka1Uxc18wQWhQNXRRTGRQV3VSOHRrUFlhZ0FKamNQb21zYkM5WWVfc0tJcGUwWktRbUFWTkkwc0Nya1RFbTVjNTBKa01XMzNhOTFyNzNWTG9NQXVHcGVTM2xwZ2xyUjNEVkxmSU9rY3Nq?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-11-13T20:45:10+00:00",
       "summary": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you  The Verge",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI board member makes a terrifying prediction: You will probably die from an AI accident - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2U2RzhQSGw0WGd3anc2WlBObXd2U2dSTXRTMEJzSmtmR09lZk5SQWdBZFR6RjQxYzVJUldUWllPTksxQWhQMWJlSFAzX2tXLXhqeWNTM2E0eEIyUnJYZEs4M0M4X0JReFo5M2J2T1FESk1JNF9feU9KREFhWkVlb2dRZW95Z015TndBdGNlNnI3U2xSeXVKd3Zhd2FfQ2EzbHJqZmhIdTJHbWFlaTFkOHBVREFjZkk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T20:44:01+00:00",
-      "summary": "OpenAI board member makes a terrifying prediction: You will probably die from an AI accident  Fast Company",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -119,105 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-13T19:00:01+00:00",
       "summary": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet  The Decoder",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Introduces ChatGPT Wallet, Bringing AI Agents Into the Checkout Process - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRW94NlE4VjBURXZMRWR1Qk5qNktSOTNBZWEwT1VlanFRbkJPYTZoc0VncUd1Ylh5NkpvQVFaSF9nYkRjbV9LbWtCQVhMY09LTkRObENiU0dmeFN4UGROdE5IWWtVVFUwaWNYd0NDYWVyNC1haGRvUjIwU1dIdVctcHAwRnhBcE0tMnV1b1VZenB4eEtxRkNOZVVIR1ZZRE1qeEE2T3VqSEFJbFVSbVliTmczRmhDUVE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T18:28:57+00:00",
-      "summary": "OpenAI Introduces ChatGPT Wallet, Bringing AI Agents Into the Checkout Process  citybiz",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Wallet - Finextra Research",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OaGxIQ3JqRDlvaUh3VEk3WWJnbnNiQU1DaFR1bXZESXZTOGNKU3VNbWRKaG9leDBaZThuQWdkZGhXRnh2VmQtZzFZUHNHOGFmUDlNNWZEbTdkNEFPMnl5MS1LVm1YUDN5WVFxNF9aZFd5LTRxdkg3TkQxLUFlZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T18:28:00+00:00",
-      "summary": "OpenAI launches ChatGPT Wallet  Finextra Research",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Wants to Spend Your Money—With Your Permission, of Course - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmd4djFJbnJ4S05DdC1wNnp2T1ZyWTZOdmNhcExMQnd0ZWdLcF90MWdYSjBmTXhGVW4tN013Q2JpaGxkZFhvTWd5Vzk3R1NHU2ZCeVU3QTN6UTkxQzVTMVBTcWFScXNoR2wtVnVRMkV1WEVPNjhRdVRMZUZCRlVHc0d5bzRvYXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T18:04:00+00:00",
-      "summary": "OpenAI Wants to Spend Your Money—With Your Permission, of Course  Barron's",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI disbands standalone robotics team - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLWJMbGNzRHFBUjBqN2s3WWdvaV9JY2Q2N3YwUFU5endveEprUXQzZGRaVXRzLTlYRTFQVERLWXZGS1gya1VyM0lPX3NIOUtQbnFuWWtRMGVReEI0QTJIWjUtRjZaOUIzTzVZQ1lIMWdLdW1VQ0lnbU1taUhOb3RETVFfc3ROUkk2QldTbHJR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T17:42:00+00:00",
-      "summary": "OpenAI disbands standalone robotics team  Breakingthenews.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI unveils ChatGPT Wallet to enable purchases through AI agents - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGhjN2c1cnUzY1YxOVh1UzVXd2pfQkhXSTFhWVBIdHFvNUVnSXJnaW1IR1FDelduWDN6Yk9JSVF0dmpNb3BRWnFYODd4S1dzRl81dFBNNDhxYmVvWnN3QWJJeHAzbHBQYUJSYWFETDVvYl9udUlBeUtyZWVqV1VZaFF4SUFaYUxvWU9zR1QxWmE0VmhNdnBSd3Zabl9NanRvY0pJT0k3TjFMdzViT0hlek5OV1otUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T17:39:05+00:00",
-      "summary": "OpenAI unveils ChatGPT Wallet to enable purchases through AI agents  Anadolu Ajansı",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "After a midterms repudiation, OpenAI is betting a data center rebrand will make you hate them less - Vox",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWpqWVhHTHF3WWFIWkhBaXpxTWF4ZmJlb0NUd0d6WUp0Mjg3bEZCd1dkd0ZjN0lTNUdKazhwZUNRdHhnbEg0bnJlWTdJWkRmRTFVN3VTdXlfV0ZfRVJrNFF5SHNOUGM2enc5SkpDb2hlWFdvVVZzaVB4WjQ5UnlpeWVYcm52MmVYR3hIX3U5UlJPVWVzSzR1TXdBOFU4LXRiclE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T17:35:00+00:00",
-      "summary": "After a midterms repudiation, OpenAI is betting a data center rebrand will make you hate them less  Vox",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Debuts New ChatGPT Payment Method With Card Networks - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZFJldUc1aV96a0thNmFrUGpET3JsT09VRGNQOWxRdU9rNmV5ZGdGcnpLeE90THEtbnJpMU84NjBVOUxDZ1NuOXRFWWdlSmI0R3QxamducnllVHZxaWE0eEEzeGVBSVdRV1JNcGpRS2psQTEyNGJqX3ZORktYWklxeVVnUXJfZ2t1Umdod3ItYzJ3SHljOVFVcHlaQ3RtZU96OGUtUnVad0V0b3NzN2dr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T17:31:30+00:00",
-      "summary": "OpenAI Debuts New ChatGPT Payment Method With Card Networks  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0oxbjBlUlEwbUh1bmtnX0d2YUZMWHZqR3VNV0F6R3Q5cUVDTUV2WXA3RmFlYVhfMTUyd2dYVDNGaWJ0YWx3d2JYZHFwZTVLcG1sMFpneUFQbnFUNThMa0tDM2MzUHVOeGY4Q3poVVFRX2I2aWZQUlNPVEQ5MHdSQk9SejNoajFyVFA5U1BIclVJU1BBcGt0TEZlb1JqUm5JZUZ5S081QnhuQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T17:25:45+00:00",
-      "summary": "OpenAI board member worries an AI \"takeover\" of society could be months away  Ars Technica",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Wallet for agent purchases - TestingCatalog AI News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVENMaGdwUjJqR3RSb2VpdFBWaTlIMmFpekl1ZWRSMl9qYXI0ZU1XQXFwZHIzUUwzN08zeWt1RkFMRjhRbzQ2eDlqX01CRlczUlpkTFBlcDRjUFBiWnAybW5CTzJsZXBFRnNsajlOcU9GaWZRNlY2MkZtaDIwUW9zd0FTWEgzc01pNEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T17:24:56+00:00",
-      "summary": "OpenAI launches ChatGPT Wallet for agent purchases  TestingCatalog AI News",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT Wallet To Enable Payments With AI Agents ‘Dots’ - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93NnNYMkxVZTR4MWdkWkJXUTNVTG5qNXhfODlma1BhMDRza0tYQXMwSXp2Vmdrd2YyRlRMQy1PM2Ridi13OHlxMFRibVJwWjhUbE51MldCSQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T17:16:48+00:00",
-      "summary": "OpenAI Launches ChatGPT Wallet To Enable Payments With AI Agents ‘Dots’  Cryptonews.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Midday Need to Know: OpenAI enters agentic payments, Copper extends losses & more - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGU2R29FQUZCb0F2bkd0TE81R29zcDJ4T2ZGTVBaYkpza2ZSWFZNMEFNZHpCZy1vaFYwVk5EckJNUjQ3R3JDVmwzVy1GeVAwLXhHbDBZSm4zTmN5ZTRDVldOdGxZR0J6YURrcFlyYlZaVUFxWDc5aGlUQkpPenNIVnlZRnVDaG9wNTI5M0dFcWFudERSOFNaVnBnME5uUkRlT3NITVhwck1FQmQyOEd0eHVMRFBkQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-13T17:08:29+00:00",
-      "summary": "Midday Need to Know: OpenAI enters agentic payments, Copper extends losses & more  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
