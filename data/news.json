@@ -1,16 +1,124 @@
 {
-  "generatedAt": "2026-11-19T00:17:32.441082+00:00",
+  "generatedAt": "2026-11-19T07:37:38.453446+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
-      "title": "'Artificial,' the OpenAI movie, hosts star-studded SF premiere - SFGATE",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TU21uTmpQdnE2YzNVa0VkS19JMk8zbEpoYzU0QU5ldjJvbzNPaHl6SXZyUFkzZ25sOFhMVC1xcFh2QU5kalhMUFNudUFvc2dlRWtNMGYyeC11LWRJcEVTbm45amFyeFREdW5KdjBUMGwzOTlQTHRnQkpQMGs3WlU?oc=5",
+      "title": "‘Unprecedented Results’: AMD Packs a Year of Chip Progress Into 5 Months Using OpenAI, Greg Brockman Says - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQW4zZnFCMUtyQV9EcUlrQk5xR2J0YWRXUzJBSmpVSDF1STJXandpWDd0UUhnRThjUlhZY3pheTNBQ2M4b21WdUMtSDlhaHpxUWhITGxoYVVVUGM2MkRQUzJ2bUNwRFk0QXRYZWZXemlZbVdmWk9WMDFUd2ZGVVQ4eWFoWDhISXBjNERtZFFWY0hFN1NkYkhRdV9zMTVQT19Bb3Q1N2Y5eE8xUHpLZ2M1QjBvenV3bTJOYVR3RVd6ZjlTQ3lFX1d3UURxanp3a09HOFdoQnlZYVJRN2Fob0NvVHhnemk3V1VIOHc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-19T00:01:24+00:00",
-      "summary": "'Artificial,' the OpenAI movie, hosts star-studded SF premiere  SFGATE",
+      "publishedAt": "2026-11-19T06:12:04+00:00",
+      "summary": "‘Unprecedented Results’: AMD Packs a Year of Chip Progress Into 5 Months Using OpenAI, Greg Brockman Says  Benzinga",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Nancy Tengler: I'd much rather own Anthropic over OpenAI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNmZHZTVJYTl6WkZ2OEJDS0c0TGlaMi15RUtyUlh4bl9mZy1ienJtc05qdVI1WHdoN1Y4WTk3dlp5MDBRT0NscVRheFU3aWRwSTgweVl0UHRoMlVsZkNBdm5KUllTUlR2Xy1CLXoyYlVGU3pNN3k2eVYzV09ZNjdMLXlfRXp6cWtHQjZUNWFYUXpCNnVzYi1NX2pSV3Mzdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T04:44:26+00:00",
+      "summary": "Nancy Tengler: I'd much rather own Anthropic over OpenAI  CNBC",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Arizona investigates OpenAI for alleged rogue AI bank infiltration - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPejNRU1R5bkZBX084TVV4S1R4U0c3cHJiTnF1VXNKZHlCVnI4UHBPYUZ3c29ST3M5aUR2TEJPUnVzZUQtM0dwS1E2VWFNbTFhYVUwWWcwcGJGTjFhUmFYV3dGdF9lZjNiMUIxUjB6cFJmTWVlTGgtMUpfclpEa08yMDdfSUsxaGVOcEdVQjF6UFEwWVBUSER1Qk1R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T04:41:45+00:00",
+      "summary": "Arizona investigates OpenAI for alleged rogue AI bank infiltration  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Arizona Opens Criminal Probe Into OpenAI, Other AI Firms Over Rogue Agents - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBienotMHVpU2wwUXRkY3UzQnZJUUdLNjhrc1VkcGtFZmcybUwycFkzaG81WEdCSUlJUDFpVmNDc21sX2RWVXdCbkpqTTV0ZnZoMFdkMTl0Wk41UUwyNE5zX3IzLS1ndktic1lKSjFvdVI3U05uWHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T04:05:00+00:00",
+      "summary": "Arizona Opens Criminal Probe Into OpenAI, Other AI Firms Over Rogue Agents  BigGo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Report: ByteDance AI Sales Strain Microsoft–OpenAI Ties - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzBzY25UbWoySm1WN1F5eXNHQkItVl9OZ1gwMERXM1F1N3VUWGVjY3RJbkhnY21keDgzeFc1RzlpR3dxSWxkRUlyeDZvYVFsSlJ4YkowLUN4Rlk4OVBmZ1M3VTRtcVNEVlNQbkJQY2t2eVk1WG92QW9zZTltdHM0QW5FaW53b2F1ZmNvQnZ2enJldw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T03:59:10+00:00",
+      "summary": "Report: ByteDance AI Sales Strain Microsoft–OpenAI Ties  The Defiant",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Arizona investigating OpenAI, others over rogue agents, Reuters reports By Investing.com - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUElBT3RUVVVRcjVZZEdwN3RYQ1JGUzFEN2c4RXpVclBIeUdWaXVOUmJsa3B0b1RqQl8ybFFaMG1kZ1FYOHJmS3I3bmF2dG53aGRsMDZsNmh2TGg1cVRKN0l2dlZnU1ZXUE16U1plWFp3dktwX0F4VmNrYWsxSVVHYy0zTlZ5enBmcC1JaEhNT0pXcmZsMkpOYXlCMFJkbHdHNXM1WFUwVUVFdGpha0dUbkVaa1ZlalhoZDBlZG5B?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T03:38:38+00:00",
+      "summary": "Arizona investigating OpenAI, others over rogue agents, Reuters reports By Investing.com  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Palo Alto Networks to Buy OpenAI Alums' AI Startup for $4.5 Billion in Push Into Enterprise AI - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yQk54YzFQZWltQ3ZPQ1M1UVptWEtES2lkOC13ZHRpOWdNRFExYjY5X01qOEhBdUdqQVZ2d2lRdGNIaGJyOVhTZ2phdU1reUdqR0ljSzlUVXYzYUhNU2hzaEV3b2lpdXZ0d09LMVdHbzdObFFxWFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T02:35:00+00:00",
+      "summary": "Palo Alto Networks to Buy OpenAI Alums' AI Startup for $4.5 Billion in Push Into Enterprise AI  BigGo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s GPT-6.2 Astra and Sol arrive with noticeably different personalities - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1abV9hMXpPZzNkZjJMYktuQkMyd2s0ZksxTk5wcWdWVlhWM0FVUDlGY2RITmlzQ2xydFhKRzhqbzNWeUpzZkFCTjIyVllHWGVkOWVvQjFpUHhKcFREdFdzU0tFV1FzM3hrMExFZkZ0QXFFajA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T02:10:39+00:00",
+      "summary": "OpenAI’s GPT-6.2 Astra and Sol arrive with noticeably different personalities  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic vs. OpenAI: The Financial Metrics Behind the AI Battle - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGJTSlFJc1lrMF9oV1dFVF9BclVIZkVzaS1QaFRQSURWTFM2TDhCM3NBeVppcDBIRnc0cllqVERQTFI2RktjdXNIdkFtUFZGS2JSd3NRRUhDaFFhdFV4THlSeW9ZcnFEeHVWLUxxTkUwWU1pc3c5bmdXTGFVbXIyNmtxN2hXdVRYV1ZNM3N2M01zRWRNY3dGQTVqalVfTmEz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T02:00:00+00:00",
+      "summary": "Anthropic vs. OpenAI: The Financial Metrics Behind the AI Battle  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlhZGtUbEFjczdrQzZ5YnM2MEJiSkdwYUx3YTB2SkhQUVV0WnBBNU51aHM4ZFFvaXBEMzRWY1hGVmZtbGVYVmV0ZGtLbWFHaWt4Yk1kWWx4blBVTjVNUC1Ld1JpVXdHcWlfek1ickphT3M5Q1FYRE1LV2NkZDRXYWRBcmlnOVQ0QjVtTm5CS3FYUFVSMXotdkdzX0JkVGNJQTYtenA3eHdqTE9PYjNPR1RuZk52dTR5anp0RkdTYm5rMHNpVk8zVTNFMGtWcG8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T01:45:00+00:00",
+      "summary": "Arizona says it is investigating OpenAI, other firms over possible rogue agents  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for Accounting with plugins for QuickBooks, Xero, NetSuite and more - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BSHNaWFQ3REJNMFVsQXdRSVdhcEM0YjR3X1BXX0phcl95Zk1BbWxkWF9pX1l0b1VyQ3VIOFU3RFZNY09SQ0c3RVI2SGlXbFVmMU02Zl9helJYRTJKT3VDOVZtMEh6UjhQYVF5RTltaHZkaV9vMzFrZ2E3UQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T01:28:09+00:00",
+      "summary": "OpenAI launches ChatGPT for Accounting with plugins for QuickBooks, Xero, NetSuite and more  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Mathematicians explain how OpenAI solved a Millennium Prize Problem - The State Press",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LUlBqWWJlMFZjSmlheDdsTXZQUlVzemluRmlDWjJSb0ZnZmxEdmJELWIxaTFnaFh4RDR3T1ptOHlzQ0tJaGlrZU5WUk5PMS0wcnduMjZIZnA4YXhvMk0tNC1PMWVYRWthTTU1ZmVJNjZhSHNja3BR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T01:14:00+00:00",
+      "summary": "Mathematicians explain how OpenAI solved a Millennium Prize Problem  The State Press",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "AMD(AMD.US) jumped 5% on an OpenAI design win — is $652 actually on the table? - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2ZwVFFublJJbUlDcFQwd2JLenRSMXNYbW5sRUxOQkp0UzdwSmVGcFc3anNmZVVtN0RKTFBqZHhUM0ZKMk5oVWlycGRoSnNiZlVLcjRsMTdYV3pWa1VBaWRkZEFyRFhaN29FZ0ZYMWtvQ250VUI3QUZxV0s4RUxEZUkxbW1VQnpUV3ZpT1VkUzBBZDJRU054M3M2MWllQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T01:03:59+00:00",
+      "summary": "AMD(AMD.US) jumped 5% on an OpenAI design win — is $652 actually on the table?  Moomoo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -18,8 +126,26 @@
       "title": "OpenAI Reports Agent Gains on Multihour Research Tasks - The Defiant",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNGhKTF9KNVl2Um5SMDJJajJVWFVjQmNDTno5bk11OHhVQUFtUnAwMVA1NndFREN3NEdDcy1UWkh3NVg3VVlfc1N5ZmE5bW1JcmEyYTNGMHNzWnVuMFJlTlVJcVU4Skl1T3RKVEp1Z2NaVFV4aHhXaVQyMHdDTmRrLWhleUwxV1o1ZWNyTlRuUmJSUQ?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-18T23:49:11+00:00",
+      "publishedAt": "2026-11-19T00:24:04+00:00",
       "summary": "OpenAI Reports Agent Gains on Multihour Research Tasks  The Defiant",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases - CalMatters",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1ZjWGY0QTNQeDhqM2lfazJKT2FVWXRPNkk0VzIwRnJOWFdpQmJvdGRSU0I5WTRXblE2NVZIV1RlYVlZMnpvSFJOUzhvZEFhYlRRaXdCTUl1OWdyeFZIcjQzZU5yMmJQZXNXUFpDTkRNMlBEV19QR1NnRTU1OUppaG16LU8?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T00:15:00+00:00",
+      "summary": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases  CalMatters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16azJRXzVWcDI4aUdNN2dJWEhRbl9xcVdQeVgyQzlsa0RaaGdYY21GQm1lNDlZaFdIMjVxOGZBTjVadVhiLVFBNHVSN2F3RG8tSllRd1NwNFhNUlk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-18T23:42:07+00:00",
+      "summary": "The seven Anthropic founders who are about to become multi-billionaires  BBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,29 +159,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Report: ByteDance AI Sales Strain Microsoft–OpenAI Ties - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzBzY25UbWoySm1WN1F5eXNHQkItVl9OZ1gwMERXM1F1N3VUWGVjY3RJbkhnY21keDgzeFc1RzlpR3dxSWxkRUlyeDZvYVFsSlJ4YkowLUN4Rlk4OVBmZ1M3VTRtcVNEVlNQbkJQY2t2eVk1WG92QW9zZTltdHM0QW5FaW53b2F1ZmNvQnZ2enJldw?oc=5",
+      "title": "My concern is slowing growth out of Anthropic and OpenAI, says top tech investor Dan Niles - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXEtVV9aMmdJbkZqQllsMExBMkd4WUVkdE1KUUQyNDl2M1hYaDNVQ3FTLVR1TjBPMElDdWJuQ2JhamxBWmgzdkdSQjllZ3RxMHVXLXN5UTUyWkxmQ1M3MXRSS1RYNG9Sb1l5RWFfU0FPNUFZeGtlckVDeTBGVm9oQ3NNUnNyM3JPV1pac3RXMklyWFktZWNna3BuZWp0bHVZQ3lmRHpiZTE3RFNYX001Z2hScWNLQ2dPbUVQSXBTNU5td0M0Qklyd2Vpd2w?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-18T23:13:47+00:00",
-      "summary": "Report: ByteDance AI Sales Strain Microsoft–OpenAI Ties  The Defiant",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVJySUFKTkhiN3ctUjF6RUpHWlROd1JZamlHLUZmSXdRMFlmbjVBNVpxc3ZMcDNiV0xiNFhzYWVzTVJLN0RFMklManpETEpWWVpGV3BLNEw3UnYtWWJiSmF6bGpLNnFMa25CYlRialJtX2VRX1p6aUo1TmY5Y21jT2ZRVkpxN3M3Y3F2OU4wWXU1U0stRGxjRXJ5SDRxcW9mdnVWM21ITDBTSFRJbHBDbm56M3ItOVUzMnh4WA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T23:03:45+00:00",
-      "summary": "Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Oregon Sues OpenAI for $2 Billion, Says ChatGPT Puts Kids in Harm’s Way - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0VQNHM4bHdDYVlPcERnc2hYZmZnQkt5aXNvRUM1ak9yaGU3bks2UlQ0dTJSVjgza0ZESzZtNWFIQko4ekRXTkFRLWk4a1c4SE1qb2g3MTlDMzdwRzNXemRJYkdtMEZRYTh5a3R5SEUteldxZC1hNER1djVwS3dubm1pVQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T22:51:31+00:00",
-      "summary": "Oregon Sues OpenAI for $2 Billion, Says ChatGPT Puts Kids in Harm’s Way  Yahoo",
+      "publishedAt": "2026-11-18T22:30:09+00:00",
+      "summary": "My concern is slowing growth out of Anthropic and OpenAI, says top tech investor Dan Niles  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,15 +182,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-18T22:16:19+00:00",
       "summary": "News | OpenAI and Jony Ive's secretive AI venture expands with San Francisco office deal  CoStar",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "My concern is slowing growth out of Anthropic and OpenAI, says top tech investor Dan Niles - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXEtVV9aMmdJbkZqQllsMExBMkd4WUVkdE1KUUQyNDl2M1hYaDNVQ3FTLVR1TjBPMElDdWJuQ2JhamxBWmgzdkdSQjllZ3RxMHVXLXN5UTUyWkxmQ1M3MXRSS1RYNG9Sb1l5RWFfU0FPNUFZeGtlckVDeTBGVm9oQ3NNUnNyM3JPV1pac3RXMklyWFktZWNna3BuZWp0bHVZQ3lmRHpiZTE3RFNYX001Z2hScWNLQ2dPbUVQSXBTNU5td0M0Qklyd2Vpd2w?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T22:16:12+00:00",
-      "summary": "My concern is slowing growth out of Anthropic and OpenAI, says top tech investor Dan Niles  CNBC",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -114,110 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI safety program - LAist",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ2pFMEdHTnJrWDNmcXZDaXVZNWsxdU94U2NyRkI0ejBTQUU3ZVRxbHdBdVNvQnFWUTU1RUFsX29YOS11QWhWSUZqZlRkdWV1em0zd3Q5OG5IWHBRU2p0N0hBWnZsTGk4dU5uVGo0dTNXU1RpY3lFS0xOQmZTVjF6UDF0MjBrUjE4LW9jTVF2TEhPb1QxN0Q4cndXOTN3eWdjdWZPN2NR?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T21:25:26+00:00",
-      "summary": "OpenAI safety program  LAist",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "California Sues OpenAI Over AI Security Risks - Security Today",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzVTZjBlekNyeDc1NnhNWmRyLXVLSHdBeGgzN1VZTjFLb0NfSEpySGt4RW43Vi1QS2xZbWpBRmh2WEtDd2VxbGpOY2I3eDlNX3ViQzlTQlhMNFBJWTQ1Nk9ER2QtTmhWS25hQVl1Z3pPd3ZDTDk1ZGJzODJCNVA2bVVXWnIwanJzdFhyZUQyWnVweVBSZzNhVERnaTM?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-11-18T21:25:14+00:00",
       "summary": "California Sues OpenAI Over AI Security Risks  Security Today",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Just Brought in Outside Experts to Vouch for Its AI. Every Business Making AI Claims Should Read the Fine Print - Inc.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeTZaMXFLTkdIbHNoMExOY0hVaU1Vazh6YlBXMGxHTEdzMUxqTXhFM3I4UEtha3ppWWhYY3F1cFNmTWt0dTU1VXF0cGZPbVZqVzl2MXRzQWJsYVVzaWcwMHMwLVZ1d2Zkb3AxMnZ3NHRBXzRDR0pmNEdtN181bktuSVpPVzZQWmthYUJGNldCdmYtODE2bktVZ2lMbVg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T21:11:01+00:00",
-      "summary": "OpenAI Just Brought in Outside Experts to Vouch for Its AI. Every Business Making AI Claims Should Read the Fine Print  Inc.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "California sues OpenAI over guardrails - Atlanta News First",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUVIbkNYRExGQU9BWUJXeGNiMFlxd1pTMFh3SGoyS0JxLVRLM1V1blFObXQxN2RhQWplWTJxVHFJMmttMzRVSmx4eFBpOE04all5WmJUMV9vYXVDbFNxYm82NUVKck1SX1psZl9oXzRlLXZHc3FVakoxWG9rdk1sVU5td05NVVRFekRqaUFrSmdBeUk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T21:07:00+00:00",
-      "summary": "California sues OpenAI over guardrails  Atlanta News First",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "‘Artificial’ Trailer: Andrew Garfield Stars as OpenAI Co-Founder & CEO Sam Altman In Luca Guadagnino Film – Watch Now! - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnpJejI3WUJpemlTVGprVzA2S1lnRlBuMmdLUnBUdDFnVnB3WEFEdFk0ZGxwUi16TE5PV0hyUFBYZC1vRnBIQlQ5TEZTT29HcjlERWJxQ083Q1dOUmJkeXNidDNYcV83RWdyWlRSeUxQdDZfNHlVTFhyT1VTV05fYVlMdGJrYVV1ZDNESnZSamdyWWcyQklGby10OERQWHlmdm1nLUNlbGRMRDJpaTJXdDZfVHVTRjg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T20:51:13+00:00",
-      "summary": "‘Artificial’ Trailer: Andrew Garfield Stars as OpenAI Co-Founder & CEO Sam Altman In Luca Guadagnino Film – Watch Now!  Yahoo",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Policy Adviser Warns AI Could Take Over the Economy as Humans Risk Losing Control - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWmd4bXE3VmwyX3U2RzRjUWwxUm0zMThNNVdzbThBbUlGWjlRQUd1aGQ5QVZXWnVBSklubGRkM2haZW9TRTRaeVdJYTBUZ1ppWVVkM1BTVFB2YVVBTF9aM1h2Tk1xLW9ST3gwYkhQQ05yS2hTNU56VEFwMW45UEczM3ByZWIyVHFRRy1tWnBYc0ROWV9kVVBRZ2tLTVA3T3h6eURPa05aUmlIazJVb1RzV0I4UHZUVFZFRlRwREI3QzZXQlpyMVF5blphUEVxN2RyTGM0dmFWY1ZsLTduUko2c3pIckpfZmM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T20:43:33+00:00",
-      "summary": "OpenAI Policy Adviser Warns AI Could Take Over the Economy as Humans Risk Losing Control  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Microsoft’s $500 Million ByteDance Deal Dismays OpenAI - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkxPZldyWnBFZUJ2TExfRVdFM3JFTktqdm5SaEMwRVdrajR5NUpocktpcjFrRHozQ2k3NTc3ZDdvdGdCZEE3bkhocUlYTUVsQTdCTjhJRDFKbF9LZTljNG1BVFMxbTF4eEt3Z3hPajV5dkRsMm4zeVJQaVptTXhLN3E5dEQxcUh2WGFveFdPazRnU3dPY0dhOW9vMEliN25lQXA4SlEycFB0N05ZREVv?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T20:33:33+00:00",
-      "summary": "Microsoft’s $500 Million ByteDance Deal Dismays OpenAI  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Ties Frontier Model Releases to Lifecycle Safety Reviews - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYzR6QWxhOXEzdTZtczhuaUpvbE1BQzMxZTBUb0hwU25sTDNCQ19IR29uZjVpVTBDVnN6cU5rTERBMGpXTVJ2TEVWaHNyRmFaTDJsOW1tSmQ4YnJOU2M2a25fd0s1elJXTjB2Y0N5d3JLT2NVMVZiZHpzSUFuenJYREZjNEdEYmsydHZYa3d3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T20:24:06+00:00",
-      "summary": "OpenAI Ties Frontier Model Releases to Lifecycle Safety Reviews  Unite.AI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Oregon sues OpenAI for $2 billion, alleging it endangered children, misled public - Lookout Eugene-Springfield",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWlhnZWRnYlpPZS1OblA5V1lwVXZBRThFNWxoOTFUWTFQNjQ5UlV4TzJYWTgwLW9ac3JqMXJEaFUtaWhGd0V4dzYtOWd1VU5SUk9uU0JNbzM2elpkS1labTF5VDZBcDNpbDRWNXJXcE1RMXBPNThacFd3WG9LTlZGRW9rRmY1dC1zcVhEUFpoOWFWTHdVMlJpSDA0UGFXQ3pXUi1ZOWxBQ2l1RlJ3WWUxRGtIY3ZfZzU1bHVPV0ZOZXR4ejV0cjVvcThHb0ZsODJsZ3B5dk8wM3BmUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T20:21:42+00:00",
-      "summary": "Oregon sues OpenAI for $2 billion, alleging it endangered children, misled public  Lookout Eugene-Springfield",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Managing frontier AI risk: From training to deployment - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RHJmSHZiNVNSOHgwYTFQNmh3WnlKVGwyRE43R2dWMEF5d2xsTHBqYzdHQllCanRHeTNYTHAyX0FmcTJiT3p1amxoRDVzMTBxemNiSXkxUXJMcDhxUjdCNw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T20:09:34+00:00",
-      "summary": "Managing frontier AI risk: From training to deployment  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI locks down unreleased model weights after two security incidents - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEs3TDVRNmhLTWlTTmI4cTliRXgwNHFfdW9scjM5bF9ZOWtYYlZGNTFjS3JITFZyQTNWMVRHUVlfVHpMV0lmQjZ4Mnd6ZGgtaVlQSVlIeHBJMDhrM01LN1VvUC1hR3liZ05Xay16SzIzLVBpc0luME9sYTVUNVp6T2oyVTk?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T20:04:35+00:00",
-      "summary": "OpenAI locks down unreleased model weights after two security incidents  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Former OpenAI researcher says he’ll donate his equity to AI safety: 'Everything else is a distraction' - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGo1Nmc3RDZRcXV2VnpYMXhybnhTUjgxN2FMTm1YajdibFhUM2kwVzNHQ2RhenpVNWxPZ0FacW9rOG5kR2VYRzRBTlZHN2NsUklhNFdfb3Y1NXF3QWtXd0hBUUtGb1J6cEFETkwxeVV0OG1aTjZqQnhZOVU4Ri1iX0ZQZU1rak9DMDFXNHBFeEpWQ0diTVJYZWtFRWlQbVVybXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-18T19:46:00+00:00",
-      "summary": "Former OpenAI researcher says he’ll donate his equity to AI safety: 'Everything else is a distraction'  Business Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
