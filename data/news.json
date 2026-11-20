@@ -1,16 +1,133 @@
 {
-  "generatedAt": "2026-11-19T23:15:42.716843+00:00",
+  "generatedAt": "2026-11-20T04:00:44.103043+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
     {
+      "title": "OpenAI Foundation board member warns an audience that what's most likely to kill them is an 'AI accident' - Local 3 News",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdXRkZEdQdEFBSVBUX1hHZDd3cWstZjJNb0J3ZlVPS0hRbXFNMlJFa1NQOEpYazhaOVA1UVh2YWVKbU40bV9jRzJVOVlDdUdkNHZWelJNRlJLT1A1TmYzbmtxNGlOdk5PR2hzRGhIMnpmTVFXX0RRdHZGUklheDdELXJOczgyYTl3dnh0SkdSazZITF9UbGwxekh5eUs2eS1jQnZVOXVUdlRtRHFDVy0td3lFT1pudGtsYWZuLW1aM0w4TWZjbGl4NjBvbWJkbk9YZTUxb2MzTXplaHVmOVhiVTFDYjZQSnRhZHBFOHpqWkpJeVhqYnMtY0NFYmxVOFh4eUNGb2lNTlFBLWUy?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T02:43:17+00:00",
+      "summary": "OpenAI Foundation board member warns an audience that what's most likely to kill them is an 'AI accident'  Local 3 News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "The seven people who left OpenAI to create Anthropic in 2021 now each hold stakes worth tens of billions of dollars after the company made its stock market debut. https://nyti.ms/3UNr8b8 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbjBLTkF6bEExUHI4WjhJdFpWQTdwMEM4ZFlUME5RREQ3WDk5TEhpeHctZngxNnVFaWp6WWdvdkl4Z2FkQjhwc0dkRndodjZfU0Z5SEJRX1M3QmEzLTRMODBoVXdOMU9sMm5SRXdyVDVxTWFzZkg4N19uNGRjVzBDUktKWVllel9fTUhRai1sQzNXLW9fNHA2NlhEeFFpbkdfbDJ4THAxcjVVTnhKSTU5TFNiYzZXelNfVHV0UXpiTHdUMUFxQ3RkSmhPeTk0MFBqT2Jqcg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T01:57:03+00:00",
+      "summary": "The seven people who left OpenAI to create Anthropic in 2021 now each hold stakes worth tens of billions of dollars after the company made its stock market debut. https://nyti.ms/3UNr8b8  Facebook",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI is testing a new design for mobile ChatGPT. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSFVxTkR3UE9rUzhyNEdQNG1xXzMxT29oYWpRU2RleGVLQ1BXQUpjMUVEOXNBaWszVVFGRk5wa0V4ZmJpbDdxbDFmTmN1Z3Z0Y2lBcG13cGtVNkpjTzlYWFVOeFB6V25RX0xtQ2hVbkRZNEMxTFpPSDFnVFhYVjNXVDZTVHdacV9oWWtsTVhrXzI1RlZiTEZndjlpelBWSUhjTl95Vi1naGFpemR3OHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T00:59:00+00:00",
+      "summary": "OpenAI is testing a new design for mobile ChatGPT.  The Verge",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Chile and OpenAI sign agreement to explore AI training for civil servants - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0d3cHEyelpGMjBKWG0xTnI3SGFRT3BYb2k3cmNIVG93UUZ0ODdlVHRLaS1GRWl5SWlFUGxtbFdPd24ySWIwQ3pmaDhneWlGeU00ZnBVYjNVcTVfOExnV0RUNTBXem5Ya0d2Yk9jOENpUDNVbVlaTkJCb3VtbmxnY2tGaW5SRTVuaEhWUmU5ajRDVWU2N044TEw3bXRLWjVGWTRiYmNCdS0yaG5UanVKMGZwMzU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T00:21:27+00:00",
+      "summary": "Chile and OpenAI sign agreement to explore AI training for civil servants  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic is going public. When will rival OpenAI follow? - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUm5PakNBT0t4RzBkQUdhc0o1Wldfak9PZFQwcm5vTy1MWlQzT21GUTk3M09veDJ6ZjBiMVZaZl9sU1NqaHY0ZG5YVlB3TkNsQ3dBRkFObDk4cV9PdTZKOEFGSnVDWGs2cERmbHJwaEYwTHA5bml3M1RsSjZrUGJzT2JhaEpKc2U0QTF0cjc0MTlTYjJNTVBz?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T00:06:46+00:00",
+      "summary": "Anthropic is going public. When will rival OpenAI follow?  San Francisco Chronicle",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI tests ChatGPT Dots with Plus users and expands Business access - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWwxT2JXTWZhT2dJbU1FdTJsbGptT21CZnNyZ1B2UmJrZVZVSDNwNWczZVN5WUdXdzlfbGdwTVVLajZZMnNyUU1pSXg4V0wySzNpTlhpa25rT1BpakhCb2JxOWJyY2FkN2NvQUplR25NOXdQSFNXbE43UWNRcEhWSHlDQll2dw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T23:56:02+00:00",
+      "summary": "OpenAI tests ChatGPT Dots with Plus users and expands Business access  Mezha.net",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access - 9to5Mac",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV0FqNkhwc0NpNUhzMk90a25XeHJpRE5WMEROZFRMMmJhQWpmZWJHVTYybEU3dk9NVVBQdGpVZl9wSXBkM2d5T3VzTExLcC1zbmVvenU1OG1ISVhSME5zZzVpdWV1RjlPbHI0WjR0MHVQRllaZnhVUUdjUHMycHQ5cEgzdkJNUExlZmhBVnA5aVZQazdmZ0lrY1Axb0hvZm1XbnBUYXNLLTVqUQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T23:47:00+00:00",
+      "summary": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access  9to5Mac",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Explore the Codex Security Plugin - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMW5FM0t4VnVXT0YtMUFyTDd1SXd6aXMtREdaQ2hBR1lpaVhkMmdoaXR5Z3hEWkMxbDJ6UnZJLVVVZGhBS3A5bDhiLThMdE5pWC1QMHZQUWRDd2JCZnBuQkRuSEY2SjljcmJqR19R?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T23:35:59+00:00",
+      "summary": "Explore the Codex Security Plugin  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Unlocks Cyber Power as Google Slashes AI Costs - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1J4NzBUamh1MEU0NW0yaUQ5RmpFMXhidm9NdF90VTJUeTc1U0FSdFRoTWZac3hyMk9xZEVmYklKZWRfbnRzNW5SY0VLRURlSnJYWldnTk1OXzV0Z2FqelZDYkNJUVBVMXVFbUp4MW5yLWdWR3AxLUZFbHE5MkFWUVp1dThKQUUtR0NGMzllUm95YjFfMlcxalhCWHpZZnVxTTNUY01DOHNualVaMlFnWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T23:28:54+00:00",
+      "summary": "OpenAI Unlocks Cyber Power as Google Slashes AI Costs  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Get started with Daybreak Blue - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54eW1CV3UwOUxyU2praEl3dGRCQl9TeDZOQS1tOFRJOHJJV05LSXlIdUNnMWdqMlJMYlRLR0xDYWFXN1NJdkFpWXdCRDYyRFJBNGJGaWxXQW95Qk5RckN0bzJJUmR4R1V0WE90WTBGa3RGQQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T23:24:53+00:00",
+      "summary": "Get started with Daybreak Blue  OpenAI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Arizona Opens Criminal Investigation Into OpenAI For Alleged Rogue AI Agents Infiltrating Banks - Law Commentary",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2d0VER1Sk1lQ21PODQzUDJQUExyNnpUanZBYTZ0NjZNTUFOeFlvR2xNbC1FNDNaWkZreHFKVHdaaER6YkxJc1M4SHhXOFhOc3RDdXQ1ekMxLVE0dzVIazZkYmkwUGtISC1sbEdEQTFwUlBjWW1kV1pQM1Fwei1qakJQMlU0R0p6a1FXdUI1enluN1JCczhRT19wd21xeUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T23:08:52+00:00",
+      "summary": "Arizona Opens Criminal Investigation Into OpenAI For Alleged Rogue AI Agents Infiltrating Banks  Law Commentary",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
       "title": "Apple Developing AI Agent to Rival Meta and OpenAI - The Information",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDFnNjhGLUwyN1Z5c2ZSOWJZd19SZkV6Vl94MDhmZWtPajRKaGozV090MWx0ZkxJa2VSRUtoU19zQzZCeWFHNTlGNkxmblhFakRMQWFVSE9fY3pZUlNsTHVqRWVSbmdrTU5NV2VNZ1FDM3FLeDFkUWNRWHlNdEJBUlJiV3I5WFYwbEhJdQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-11-19T22:49:00+00:00",
       "summary": "Apple Developing AI Agent to Rival Meta and OpenAI  The Information",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXZ6eE9iLTltOVlCekZVQTRSRUlQYzBvWnk3OGd1UXg3ZnA3elVIYVpDLXZpUVFNMndtVDRrMU40V0hXdnIxUmVOUlBjcGZnYThVSE55NmxFMXh3Q3pmcnNRYVZZVzhrZkJuRTFUT2tIeWM3X1hHYTNBaEVqZm5yb3JuOXY4OFU?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T22:41:19+00:00",
+      "summary": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.  The New York Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Big tech may finally face legal consequences for AI’s actions - New Scientist",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1h1Tm0xcUpYR05KZ0E1dDZWc2VrV21UN05PanFWdXRJbkVQVUEwdS16MkRzUVFEdHI3XzZtQXpQNDVCbGdLS3B1eDlmeFBlOXdwY29FVVZ5VndPMUdzYjk4YnRfSWNiN1NEVGVNajNTZlFHUDJVQ1NKZV9fR1NIb2pjc1d4VjBQVXUxaTVMclZSSFF6RkQ3OXFVbjlQQ19tNDZhczNwZ2NLaU9PYXJPRXVn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-19T22:35:15+00:00",
+      "summary": "Big tech may finally face legal consequences for AI’s actions  New Scientist",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -33,47 +150,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Democratic lawmakers probe DOJ filing in OpenAI copyright case - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU001VXEtMGlpaFBqNnRNWUVGRmU5SDE4c1JwNm9EbmtpQTducUh3eDQtWk9FeE9sdHNPRXVzYW5iaC1LdkE4QkMzVWhoLUY2Z1Q4LWhvcTlhbkRUclc3TjIzbHZWWV95MThYQThqQng3dEpGR2VPaTlkN1ZQZ3Zid1ZFSGxmWTVoM0htZ2RNS1FsZUtHeFdUNUFoTTZSMTl4SEFzSGhzaHlJekRqT1hzUVVmOVdZZzVENUVEaFViNHNlby1MRE1OemJJVmE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T22:05:19+00:00",
-      "summary": "Democratic lawmakers probe DOJ filing in OpenAI copyright case  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Apple works on agent to counter OpenAI, Anthropic and Meta: report - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ25CYVNUSTBQYzJnUXdhQk1CYVNJMGtMWVpUbWtnQTRrc3RPa09jVHVLVVg4WUpZd0pyU3NlQy1Tems1eGtYZUFvSFQwV3VqUDF4cEhzVjB5Ylk1cG5HSER5Nmx1R2dtQWVOT050XzkxNEQ0QXVMdGdQOGM3Rnl5QS13OGZFeHRUQVU4c2UyeFhZVmtPYWQ2VFZUbWVFemdvb3JZam05TGhBMWhJNGNJSlpERHdqUXBGYVZqRkNhUWo0ZFkzVUE?oc=5",
+      "title": "Apple works on agent to counter OpenAI, Anthropic and Meta: report - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZml5cjgyS3dTMzBwSi16OGpzM2lwS2xQc2o4c0xvTmk5SGZtTjMyU25qN1c4LU1mVTB0MVd4cXZwQS1sUGFZZmRrM24yS2FsTW1nUmM2Z2ktUVBtelNERk1fdXIxRGMxZGYtaER3XzJjbnZZWGlFdjU4VDhHaGs3bk1UdHdOd2hpdDdDUTh1NFduUkc3RlpFUXlJeXhPUVd3OEdBUQ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-11-19T22:00:13+00:00",
-      "summary": "Apple works on agent to counter OpenAI, Anthropic and Meta: report  TradingView",
+      "summary": "Apple works on agent to counter OpenAI, Anthropic and Meta: report  Seeking Alpha",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI And ChatGPT Get Hammered By California As Legally Being A Public Nuisance Due To Unsafe AI - Forbes",
+      "title": "California Sues OpenAI Over AI Cyberattacks, Alleging Public Nuisance - Forbes",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ3lYUHZDQzI1cWRnRnllQXNYeThTNHNZRi1KNFdqSnZwLTZjNmF1WkRLV2Qzbl9tdjY3UmNsYllkUlZyUmNXTDBiVzZ6SHFBc0FUTUNJXzN5R3Q1cTVRR2RUOHVacEpvMFRlVmRKRnVqcG4tQ3UxeUhkNGx5LW9PTkRMeFJGb0VZbWtFaWk1WENGTzZNY2NPTjNtUUVDamoxMVlHRU1WLW1rVXdRMFh3MHBCNm0yeXdzODZHUGtJUXZnTXM0WUU2bXhCSE5MTzJGSml2WjF6aWx6OFp2TEl2b1FIMA?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-11-19T21:59:18+00:00",
-      "summary": "OpenAI And ChatGPT Get Hammered By California As Legally Being A Public Nuisance Due To Unsafe AI  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeXZ6eE9iLTltOVlCekZVQTRSRUlQYzBvWnk3OGd1UXg3ZnA3elVIYVpDLXZpUVFNMndtVDRrMU40V0hXdnIxUmVOUlBjcGZnYThVSE55NmxFMXh3Q3pmcnNRYVZZVzhrZkJuRTFUT2tIeWM3X1hHYTNBaEVqZm5yb3JuOXY4OFU?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T21:52:13+00:00",
-      "summary": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.  The New York Times",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "California says OpenAI lost control of AI agents 80 times while chasing profits - CryptoSlate",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0VkSnRnM18ta3I1VnFnMG9lRkdKNFA1U0xsajI1X2h4UDJJVFg3SU1vcnZsUEdHZjRZeURidm9LSGl3NGNGY2tDZ0EzeENqSHRfaUdYOE9yQkJBS3JaTXZwTGlhaWF3VkZscUhnQ1hrSXVBRUZoZ3RrSjE5U243Y1dpRkhTT2liRVdqWk1XR2EwSnBiSDZndjhCcHlZbkc1dTVfNXNHQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T21:50:44+00:00",
-      "summary": "California says OpenAI lost control of AI agents 80 times while chasing profits  CryptoSlate",
+      "summary": "California Sues OpenAI Over AI Cyberattacks, Alleging Public Nuisance  Forbes",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -87,29 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "Apple is working on own AI agent to rival OpenAI and Anthropic - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTldGd0JUTWJmMzExa1o0aU5Ia0duOXpGTDcxY1RteDhXYjhPWDFUdEpXQlNqRlQ4d3AyRUFfRm1BSm1VTGtWMUc3THJiR0JnMi1INWs5bDVLNEVrNktSai1LSGxmNVZhM25nYXJDT0NNZ1BQaDFIeFRDRkpGZzB6MFNTeG1ieG5EVzkzakJ6Ni1GMUZ5?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T21:41:58+00:00",
-      "summary": "Apple is working on own AI agent to rival OpenAI and Anthropic  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
       "title": "CA AG Sues OpenAI Alleging Public Nuisance + Unfair Competition - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ0FjZnB0aFRNMld6aHp0aGY5NFYxczhtcWNXeEc3ME1lTmQ5c1dXXzk4N0JrOFlxdWlPZGtIQ3l0djNRMVp4SEh5Y0RUQnNNUGtSMGZ2U25seEhqRmUyU2hzRG9idzJJSFdXYWNBdVR3S095dXJ2a2N3emphRkZYb1hHeWFyZ1dXZDFYdnM1bE80RV9DTGdvNzBB0gGfAUFVX3lxTE03a2hQT3Z1bTNLVlhyd3BDN2RxQndmODNaNE4wbm9yRjZhajlzcFNsODEzM1FqdWZqa1pwWEx3Wm94bGFmcml4SzljQlNSdXByTDRKU0p1YWs2b014ZjdEMDVaaVhJMFZyUldOWndQTkVGWUd3emxGZlBJakdfSjR0dTRPcHVUVzBHLWJNRU1OWFljZDJISndzbWU3TUd0aw?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-11-19T21:30:58+00:00",
       "summary": "CA AG Sues OpenAI Alleging Public Nuisance + Unfair Competition  The National Law Review",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "ChatGPT's New Live Dictation Feature Raises Privacy Concerns - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDVsa0phckFDTm9XLUNKWXJjY3ZFLUdOSmJIRDJBdTJyOXRlZ3NFdng2OE1JZU9PSFhreEdFeWpDV1NGMXNQUWRPWGpmMGhEMHFkdmFiQkxCc3RGbDh0ZlR1OEY5OThYeGp4RThzbUVXa25SLUVLTkJ0dFg1d21RS1hGeFUzVDV1cXdyM2hQRmFFZ2NFeEcxbjhtc1BjNDFHVktCbEwzTQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T21:25:59+00:00",
-      "summary": "ChatGPT's New Live Dictation Feature Raises Privacy Concerns  Gizmodo",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -146,78 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-19T20:44:51+00:00",
       "summary": "OpenAI brings GPT-Live-1.1 to developers with lower-priced standby sessions  Superpower Daily",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Arizona opens criminal inquiry into OpenAI over alleged AI infiltration of banks - Superpower Daily",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnY0ZTNqLTdxZkxnY3V0cnBHVm9TWFlpWDZUT0pwclRyTTdIaWp6b0NkcDN4eUZQaTlJXzl1YnV1bXBMMVBjaS1lQkVUUm9tV0ZTU3dEWDgwSWVsVm94YzdoTFdiWXR2OHZoTUxoTmpBWnAxbzExR0tpaU0zb0NMV0x1SUMzWGE4M0tqamdqWXpGeFR5RmkxcUFzYko2b2RsMGpxU1laRjNNdHpzVm5wS0t1Sm0?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T20:39:54+00:00",
-      "summary": "Arizona opens criminal inquiry into OpenAI over alleged AI infiltration of banks  Superpower Daily",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Performance Factory uses Codex agents with adversarial peer review - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6WjF3SmQ0Tkwwd0FzUXo2Rk9WZjc4UDZSNExGcEN0NDlTUlNEWlVMQ3JVclZXbmg0MzZPZC14TklLbldiNkNsb1ZmSlVKaGdPM1hUTFdGY3RXcmNPek0xYXkwTm5RWVlaWktUNnBmSTZ6ZEJYbkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T20:37:11+00:00",
-      "summary": "OpenAI’s Performance Factory uses Codex agents with adversarial peer review  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI site plan for $20-billion Effingham County data center passes - Statesboro Herald",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUZuQ0RvdVNpTXdzRUxZUnlmNlZjbnU3T2lKT0o2bGFtdXZxcndSZi1hbE9xck5iZDVnbFVLMlNyTWdkX2ZMS290cGJkcFN4X3poMVl1RjIxcjZFODNWTjFpRV9fR3BJbmpzQTFnN2dYQTFCbXRYRnlkRzQ4QnJuZ2ItY0FRczctS2dFdDhRUXB3Q2xzTXpVdjRBekFvb3dFbE81Mjdvd2dPd2M?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T20:20:24+00:00",
-      "summary": "OpenAI site plan for $20-billion Effingham County data center passes  Statesboro Herald",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "CDW, DevRev Partner to Bring OpenAI Models to Enterprise AI Services - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMk1jMXk5Q1FFZG80UV9RVmlmSHZSVElSOFFRX19RVjJDX1U5c0tZZXZRSHlmMDUxSDVTYldkZS1iSmlKVW5qdkFDTU5aZG5ia1l5WUZQOE9FS2NkTmNLM3BUV1JkbmkxeEg5dkZiUXNPUVllSU1wUkpSNl9JbjJJWkRJaFVTQ1NyWlZaVjZwY1NOUDB5SUdzNW5wYnNmQnBJWVoyck5VbkZXUmhseFBzMEtBWXRReU51MjRITw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T20:12:11+00:00",
-      "summary": "CDW, DevRev Partner to Bring OpenAI Models to Enterprise AI Services  marketscreener.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Hires Primergy Executive to Lead Clean Energy Efforts - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeThwQ3FxbDhqM3BrRVJ1ajhjMjEzNms0ekQ2ZHAtQjJORHdna2pWbVNwb09qMDBjV3lMemlkVW5mU2lZQ3ZWOEN4T0U1MWdpRjdZQlhZX2dzOEhxazZ6NWZMYWJ2TnliTjllWjZyZzdlVEdKRlVxRFltMW9Jek5XS0N3cXBSbnRqbGxTZEdTSlYteFNia19oLWVxTWJxZk9lYmpjVmRGVFlDM2dNX09fZWhpdkhKNmIycnFTeEdzSXo5dw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T20:09:01+00:00",
-      "summary": "OpenAI Hires Primergy Executive to Lead Clean Energy Efforts  Benzinga",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Anthropic is going public. When will rival OpenAI follow? - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUm5PakNBT0t4RzBkQUdhc0o1Wldfak9PZFQwcm5vTy1MWlQzT21GUTk3M09veDJ6ZjBiMVZaZl9sU1NqaHY0ZG5YVlB3TkNsQ3dBRkFObDk4cV9PdTZKOEFGSnVDWGs2cERmbHJwaEYwTHA5bml3M1RsSjZrUGJzT2JhaEpKc2U0QTF0cjc0MTlTYjJNTVBz?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T20:01:35+00:00",
-      "summary": "Anthropic is going public. When will rival OpenAI follow?  San Francisco Chronicle",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "California Files New Lawsuit Against OpenAI After Hugging Face Hack - Legal Reader",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUYVFaNHJOZ1pyNHNPOGhxMlpzOVl3bXV3U0xPeEZTbkJaRGZWVk9Ud3ExMmdkQXp0R00yd052THF4ZURzaHROdWtfN1hrb2NUYzU2YXRxajRDMnFDLS1XZjlGdm1kZkdpbUo5VmpfMjFRYlpoZXUtQ1JpSHc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T19:46:47+00:00",
-      "summary": "California Files New Lawsuit Against OpenAI After Hugging Face Hack  Legal Reader",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Pingree, Balint, Ross Probe Possible DOJ Bias in Landmark OpenAI Copyright Fight - Representative Chellie Pingree (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrLU5OdzVXR0k0aTFuTHFHNURFbnp4eE1LOFl6MWM2Z2VBREdTRm1hdEtBdmV1azZGdHlpWlhMTy1WUjlheXpLZHl5UkY5d2d6ei1Ic09nZkgzT3J6V0RvQk9CaTBxZVhpTW5Mc2NBa0xDcC02?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-19T19:06:38+00:00",
-      "summary": "Pingree, Balint, Ross Probe Possible DOJ Bias in Landmark OpenAI Copyright Fight  Representative Chellie Pingree (.gov)",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
