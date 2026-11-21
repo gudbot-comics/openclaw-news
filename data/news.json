@@ -1,10 +1,136 @@
 {
-  "generatedAt": "2026-11-20T20:45:37.977495+00:00",
+  "generatedAt": "2026-11-21T01:47:15.801648+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Oracle Says Funding for OpenAI Infrastructure Contract Is Secured - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGVJclZ5c04wVEQ2M0tFLThQdUFuOGlVd0x5a2lRcHdVWDlQM0c3eVZzZlNLSHdLRFJnb0NhdllPODd1RzlZMkZVMG9udktyZ3FDTDMwNk9La3QxSkNCMWxhd3RoZFZfaTUtU3V5QUJVa2J4N2xiTVEzRVJ0S0lDQmtlVGwyS3JOVUlRLTNldjQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-21T00:47:04+00:00",
+      "summary": "Oracle Says Funding for OpenAI Infrastructure Contract Is Secured  Unite.AI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Oracle Says Its OpenAI Data-Center Deal Is Fully Funded - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVZuanM1d3lxQlFqczRIZ1dwTkx3ak81UGU4ODNWcDZ5b204SmdBN2V2UVl3UVVkVEZRN1RtUmV6UmhpOGpkNXU4TmxvX0hOSVJkdVk3dVhDVFhfSGRoTjZhdHRtRldJbmw4VXpZRlBLa01FZGtad1drdkJJRkp4LU90M3lrXzFNeFd5MQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T23:06:33+00:00",
+      "summary": "Oracle Says Its OpenAI Data-Center Deal Is Fully Funded  Finimize",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Army plans to work with OpenAI on Project Gatekeeper - DefenseScoop",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDU2bHV0enVHZzk2WFpNMnhYX1hiNGZQNW1HYkdCck9VTW9UX1FRVzl1aVlXd2M0eFRiUWF1RldJcWNPUUtUVUl2TmMxbHBoQUQ0bXNTejN3c0FGekhoUzVSR2dQcnh3YnVJZERLLW41S2RwQ0F1MEVRS2pnN0xwSW12eU1paTg?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T22:51:08+00:00",
+      "summary": "Army plans to work with OpenAI on Project Gatekeeper  DefenseScoop",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Oracle Says OpenAI Compute Contract Is Fully Funded After $20 Billion Capital Raise - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkczBlRHRhbWVGWXF2SG9UWWhGclU4b3k1Q1NwX3otM0dWT3FpeC1uUGxJeFhDQXVGN213bTVyM1R5bjdSOGNLSW9SVlYzVWJ4MU9jb3B2UWF2NlZFNVVCSFJNU1pWX0xCaGVjejhheTg3WlBEZHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T22:35:00+00:00",
+      "summary": "Oracle Says OpenAI Compute Contract Is Fully Funded After $20 Billion Capital Raise  BigGo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Oracle says OpenAI contract is fully funded, addresses market financing scrutiny - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODhkb3RwOUxtMGxqZ1NJd1Y4TmY3YWphX3luYzJMa0M4eTZPT3pNMU9sN1NiMTFrY05KblNnVVBjb3VTOGk0b0hRTW9leHVBd2NoU01VMFRBOFptTllnSmRHZExEMlBocmVxNVdnTTUyZDAtMV8xekFDNVdhNEZFUFYyT2JNTDZERU1aekpHZXZ6NTY1aWxPa3dIZUFxNk41RXZ4eG1wOWJkWjI4TTUyM3FHX0YyTU1yMW8tbWJmMW9DWktHMUNKVHA5TTg1emhlcEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T22:13:53+00:00",
+      "summary": "Oracle says OpenAI contract is fully funded, addresses market financing scrutiny  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclp5QTNmMmtIeHJCWVlZLVFhSU8wTl9Ea0E3YmstWHlNbmhMc3FaTEk1SkdIT09mWE03OUF0OUtrMk5tMnk0TXlEdWNrMGFNbWFCOERIbDhmYXc3QmF4aUhfTFY1MW9QajZUUHhSOXJWVE9ZRUM5UGRnQlBfNjRHRU51R3NJd3NIeDVTYk9OcmJPSUxjOFR1RWZuTk9NZW91S2NkRmVsaFdkeVJBdkdiR3JFeTFTbms5bUtaQzlDU2EzR1dpc1VjMGVtczZnQWR1RFNR?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T22:13:53+00:00",
+      "summary": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise By Reuters  Investing.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T22:11:47+00:00",
+      "summary": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise  Reuters",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQSHFIYkxGRVlDMWJVa3lsM1k2Q0JhSE00T3l2cGhQcDNneGlPSEpjaTdYOHF6UFVHSk5sMGIyZm5oeFZiX2FxOF9ybUh6anRZajFVc09qYmJ2YnNlUDNFa1JoSnZSdHFSNFVTbm8xQWZZYzFCcnZueXRIYXhCZFF6dGhVaTVDMkF4UVZJQkJ0SUJCTjRtclBkTThDWWxFOU1HdE56SGlkbXpKRy00OUdTLWhWdFFuUTBsc3g1bTFZdko5SnhXd1hGak1YRmRPWTBWMjk1N3Y1Ry1sVHpVY3U2SDVsR1V2S0d6Q2ZnMy1rSHdKN19CVlNkemtGUUR5U213QjRhUkVjemo5a2lY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T22:11:04+00:00",
+      "summary": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise  The Lufkin Daily News",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaTE4WGRVbGNCYmp5SWRfaU9pNHctQWFjbHV1OUhveGxkcVhqcWRna0N0R0E5Ym13NVJKTDR6SVVaenQ5RWRQbVpxOUJBbWRWRkplNWFzanVhRGJsaHVrSG10cWw2QVkwQ3VqS0RVbkVPaVhvRU1Cb0V0QVFLZUdBbEpFQ2kzdzY2bGRlcXFDSW5RWm1MeHBzdHc2QmY5OEZpQmdVM0dOWi1wNnFtTVZzajFTRjF3RkNJc3NfakFVRUQxbmtqZmw4eW1sNndEVFBIVEE3S3NuQ01mSGpoVGtTTndLZG4?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T22:08:34+00:00",
+      "summary": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "UC inks $1.2M OpenAI deal to provide ChatGPT to all students; professors object - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XWVJfeExMZmVSMkdYUEdwUkpNY2FkckFGLU15SnZMUDdDak5LY2g2T0JWMU52RHJHSl9OdWxYS0xFb25XLU1hWG5BdUJkeXA2SEJXSlY3RkVIcnlSQlBKY0FKSXctMkHSAWdBVV95cUxNenNUU2hKM3FGLS0tZ1J6SGV3VFI2TC1nX29qaFBYNDZkTXk3dlZGeTVNdnBPSnY4MU1Vd1hfenljNVZENnRjTDF6UUVWWU9MazBvcF80UU5CZmZUOU9sc1ZKWVdhbFpV?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T22:00:30+00:00",
+      "summary": "UC inks $1.2M OpenAI deal to provide ChatGPT to all students; professors object  Sacramento Bee",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ0FoUkZ3NWgtRTI5dDdoY01tUGZWcldoRzhwenF1ZVVlall4OXh0ZnN6YUxiUjN1NDZyOGw3QUFhNDFJWHJHMEp5Yk1Ed0xGY2FNUGxmTk9HbzhHX0lxMFcxVEJLSmgxOEt2ODloeFJ2TG5vZzU2Sk5rOGJ2M1JmdGE0N1pGRHNDZHV2SWJySHhxNE9VWTRoWFRUNEE1aW9FSDBCUGJRWGxPLWtUa05DVDJJbDVyRFdKZjBFUF8tZDVVcTlXM1BRQWx1TmZ2NDlEdHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T21:40:23+00:00",
+      "summary": "Apple Stock Has a New AI Catalyst -- It Could Take on OpenAI, Meta and Anthropic  TradingView",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s ChatGPT app redesign adds a dedicated Dots tab - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sRzBnS0FhbllldWxpb1k0VTZiMnF4SW9oU3NVZ3d0SHlWVDVRWmNZQ1JSU1oxSzBLYnBMeEZKWWh2c0sxN09CaUxtZVZGR0thV2lFLVM0c2pYcDhMbXdWWG9Tbmg0V05PMnFNZVVfbWhRMERkNldONGRn?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T21:17:00+00:00",
+      "summary": "OpenAI’s ChatGPT app redesign adds a dedicated Dots tab  Android Authority",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI knowingly tested dangerous AI without proper safeguards before hack, lawsuit alleges - The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXNfdXU1SUNqaXJZU2J1c2xxbDk2bDNkR3RxLWlyNThQQmN3SnYySHJhRU5tZHZIcV9tdGlZQmJwRzg1eEZsNC1lMFBiX2d1OG5wa3JMcWtFcXI3T1JwU2hXc0xOSXBjeFg4WUVvajVOTmhuNThWckY5T21XWk10UGNjQkM2dC00VWVsMw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T20:55:00+00:00",
+      "summary": "OpenAI knowingly tested dangerous AI without proper safeguards before hack, lawsuit alleges  The Cool Down",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Strengthens GPT-6.2 Astra Against Reasoning Extraction - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTk3RnlGckZsZzJtMXpjNUR0RmZfYjBYSGpXRzNDVUNfMzdYZzBrUWZVSnM3NC1pcVpVR2FHYzFKOHJkZEhTekdEc0lyZXlrdTV0OW1qUTM0bEl1dlJUNGxxWDFoZE1ZRHA4ZkVTSnNVc1ptQ1Q1Y1FhRHcxb09weElvQm1kRzRQVmI0?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T20:47:03+00:00",
+      "summary": "OpenAI Strengthens GPT-6.2 Astra Against Reasoning Extraction  Unite.AI",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44QURJclo1OFQ3bTJ2d1luakQtbWVpSF9CLURsSXQwZ2lGbmpfQ3ktY2pfaDE5bGViOGktQmpId3JoOVhocDE5Y2NYZ0k3dnZCNE5GbW0wclFETWQ3UjlhcEh3?oc=5",
@@ -18,7 +144,7 @@
       "title": "Combatting adversarial distillation - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNG5qZG9TaTJHTlRrTmJBUzNINzVJT1B2cXZZelBweXRiTXJ1ZGphVkM0MWxySk4ydDZEa2dfdnZReHlJYjlpcVBfaGlyeWJ1WmVJSUI1TzFzeDM3SERWZkd2d2VsNGVRRmhFYXBB?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-20T20:26:15+00:00",
+      "publishedAt": "2026-11-20T20:27:23+00:00",
       "summary": "Combatting adversarial distillation  OpenAI",
       "topic": "openai",
       "topicLabel": "OpenAI"
@@ -29,6 +155,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-20T20:24:09+00:00",
       "summary": "Oregon sues OpenAI for $2B, claims ChatGPT linked to school shooting  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI opens up Dots access to some Plus subscribers - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zMWJnUE5XTFlCcU9UdzlMZVpydHY1eTlIaE83N1dFU1BWZzdobWFEVkF4ZkFYdTBPajJUQzA4MGVLRTJyRzFwenhmREJHSnRmRExmZTdNY0pPMFE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T20:21:43+00:00",
+      "summary": "OpenAI opens up Dots access to some Plus subscribers  Mashable",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -51,11 +186,20 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "OpenAI opens up Dots access to some Plus subscribers - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zMWJnUE5XTFlCcU9UdzlMZVpydHY1eTlIaE83N1dFU1BWZzdobWFEVkF4ZkFYdTBPajJUQzA4MGVLRTJyRzFwenhmREJHSnRmRExmZTdNY0pPMFE?oc=5",
+      "title": "OpenAI Debuts MedChemBench to Gauge AI's Drug-Discovery Chops, GPT-6.2 Astra Leads at 84.5% - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mWUNWcFp6M1B3UGRxUjBZM056VWVZN0VuUFpXV3F6ZXFIdVBvUlhLSHFCYnVFTkhMRE01eTJjVXg4WU5RbVNpbEgyMFpVMHFDaDNtblhMTUxIYnNXNHpwTXhFaklIbTF0UFJadFd4LUdTTWhpZHc?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-20T19:45:08+00:00",
-      "summary": "OpenAI opens up Dots access to some Plus subscribers  Mashable",
+      "publishedAt": "2026-11-20T19:55:00+00:00",
+      "summary": "OpenAI Debuts MedChemBench to Gauge AI's Drug-Discovery Chops, GPT-6.2 Astra Leads at 84.5%  BigGo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s GPT-6.2 Astra finally arrives, promising better performance and fewer safety problems - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUlLeUZselhuTUdid3JJc0FyTU45cjdScG00elh5ZnVoOExYQmtPTDlRWlF6dWtxc25ndkhNN19HdFZfSmlYM0lmQUVjWDg2SU5XRGd6VmFvRlZOMjFodDlwOTVkOEpGbkV3LWtoOFNHODg5VGJGcktYc0ozWGJEaGNfc0Q?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-20T19:46:48+00:00",
+      "summary": "OpenAI’s GPT-6.2 Astra finally arrives, promising better performance and fewer safety problems  Yahoo Tech",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -74,150 +218,6 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-20T19:20:02+00:00",
       "summary": "OpenAI Introduces MedChemBench for Medicinal-Chemistry Reasoning  Unite.AI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Introduces MedChemBench - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUxQZU1lZG1UWFVwTTA3SzVfWlNPcTZvOVpNU0hZdnYta2JDcnNFTncya2o3dzU5SHFXRUE0Rl9mc3Z5NEdURlhvUEFnYnZJV2htRExFbG4wcmFFZG5ZNVAtdmlTRUFvZC1CQVh1UXJkeko4Nk4wT3hhRWswVmcwTTRrN192NDNPaFcyd3NJeklZMTd1VkRJbEU1MUUwa3ljUkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T19:18:08+00:00",
-      "summary": "OpenAI Introduces MedChemBench  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI introduces MedChemBench to test AI on medicinal chemistry - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanNCYVF6ZF85ZS1xTTNrOFI3eXNUZ2NfTVF3UlNjQjNiUUxYdFVuSHl2VTNSWTl1anlKejh6TTI2MU0wN3pUTDQ2Q01IUDhmaDltc2x5Z3pRcEpRb2d5NVJkOE5oVTVOdG1ZNXk2M3pMMkx3Z3pZanAwbzNhYnI4R2FFdjA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T19:07:13+00:00",
-      "summary": "OpenAI introduces MedChemBench to test AI on medicinal chemistry  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Can AI help scientists identify promising drug candidates? - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVkJrREJfWEZLdktLTUZSRjJqcXYtNnhURkNWWHhzZmZ2bF9nRW1OSWFkOXNOamRpSVRhRS1YYWlYYVlHS3poRE9NU3VKU0lnYWF5VGJ1R3FoVDg2WEI4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T19:06:14+00:00",
-      "summary": "Can AI help scientists identify promising drug candidates?  OpenAI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Why OpenAI’s latest model is obsessed with bells - IBM",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04d1hldGJWYi1McXpEa2pqQjQ3UTE5eExPbEFxNDk0YnhCVDA1aGxiLTFkdXNPMG9PTmU4YXVJNVlzU0hTSkdRU3VpblhBc0ZIaHRJRzVHZHp5QVIzbTFsS01SMnFiZ3pEQlNQNW93TS1fWlZrQXBZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T18:50:26+00:00",
-      "summary": "Why OpenAI’s latest model is obsessed with bells  IBM",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI tightens grip on model resellers - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmdfRy1HWG5KWnc2bWJIUURLdWhEUjdmdXlDTExtSUZIUkFkdU41YTJ1VldtbTFmSEF6LXpYUDJqNFkxMW9TVEN3YmpwbDVRaWlhWlZZYkV6ZzBjR3VqcFY5MHV5clpIV05jODNKRVJTNDBLTm1EVUZOYVg5QlVHbVNlZW5qb1RPVEE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T18:24:00+00:00",
-      "summary": "OpenAI tightens grip on model resellers  Semafor",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI expands ChatGPT Spaces to Plus subscribers - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlNkeEp3QVgyazlXNDItbll4TkpNLVp3bDNsR3NqNzlnMHdJclRVb0pFMHo1REVfa1IwMUZoLWtwcjhuTHY3ZWZtM2xxVC1SVVhyd0dOWWo3QW1vYS1jcEliVW1NbjlvOTZsaG40OGhzQThIaDdtYV9rcWlidjNEd1NIcjlfOVpD?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T18:11:41+00:00",
-      "summary": "OpenAI expands ChatGPT Spaces to Plus subscribers  Mezha.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Brings Its Collaborative Space Hubs To Plus Users - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzBQN0dfd2VqUktZZ1RxeEIxZXF3b0M4Z2swX3NiWTFfZV9BaVFJRlY0b2lXc1N5cHJocGtra01UbXJsLUVFTi1fdjNyMTZyUlY0aW10SjBPZzRhV0pPM3NOeHpQT3VqWFlvUWN2NmtWUFVrcDYxbWhVYnlSQUdjNlBpWjZJbXFsSGRicWJBRGJfWDZT?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T18:00:00+00:00",
-      "summary": "OpenAI Brings Its Collaborative Space Hubs To Plus Users  Engadget",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Watch Apple Working on Own AI Agent to Rival OpenAI and Anthropic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGRsVHY3NlVvcnhJdWRjQnliaU9JLWJxelBjUjhFSVFLRzF0czdXcThNQ00tQ01paE1rdlRQNTFNQ2RzVUFJbFlwQ2trSHNfdTNGZ3BhTVItakZjQl9Wb2tuZHI5MEhSSm42VVpzYk9PYmJNdWd2SjIyck1lTXdFWW9LeVdhWmhHTFR0bV9IbjBkbGYtcFI1TWk5eHc3RkJOb1ZEYTl3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T17:59:39+00:00",
-      "summary": "Watch Apple Working on Own AI Agent to Rival OpenAI and Anthropic  Bloomberg.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Arena Alignment Index ranks OpenAI models in all seven top spots after methodology update - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PTU95cXhxTWM3eVEzSWt6THQ5RkJlckNDVWI2WUw5LWpTT1h3Vzl5TWUtLUNoRGRlMzdSbWNGbjNxVjRHcVUzMVlXc1BtbW03WUFxaUFtX2wxM2NvUG84WEtTVlU2b2pLbnNiekVHUnlqRWd2OWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T17:49:56+00:00",
-      "summary": "Arena Alignment Index ranks OpenAI models in all seven top spots after methodology update  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI starts testing its dots agents with some ChatGPT Plus users - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGpsaEtteG1fS294VHlKelhHY3FjYmpjUnJEczI4S2l2U21XY18zXzROZmNoc3FybkIyc0FyQ0tHRzQtci1PSmROUWNBNjdxSTZrcUNETjctc2dZN0hGcHpwQkRjdHM2WURnTFprTDcxem9qRnIwSnBNRXVzTUNCNQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T17:49:41+00:00",
-      "summary": "OpenAI starts testing its dots agents with some ChatGPT Plus users  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Who Authorizes the AI Agent? A Supply Chain Lesson from OpenAI’s Daybreak Red - Logistics Viewpoints",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFhZTHJ5bElIai1iVDBVZGVFVmJXcU85ZlZlTGRLMGtQYnM1S1JyQzNpNDNEaG5lLXFmZFFyVURGUlBoS3NMTllmOEs3c21sSjBTWndUcHNKcUN3SmRqVjloWjBvckRHbmZYNUM2LW1QTk1FdGh0WUZDVktrMGpJY3RZcnJGSDNQaGNjellHQjVPRnh6ZC1zSVNxX2dBdUo0UzJDVnlkeUpVMUg2b3dwU1Z4YVBpU3dsczRv?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T17:21:02+00:00",
-      "summary": "Who Authorizes the AI Agent? A Supply Chain Lesson from OpenAI’s Daybreak Red  Logistics Viewpoints",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Says Its AI Models Improved AMD's Flagship GPU Design By Up To 14% - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc3dzUU9tYy0ySmVBVElNcVR5SlBBNDVaNWVhVUZGclFZWF9IZURzQ1ZZSnFEZ2ZmUmFLZzZnUF9SMkhic2NVZTV6U0kzakJxODhhWnVTNjlkV1kzbWhZOWRGOS1WdGU3d2E5cnJQSXh0SXY2eHR1UG1RTExSb2RGdjhYbDZuN3BvLVhrOGhYczJ4d1JDOWhUblhjMU94Q0U4LTA0d2YxVGpteVNCV1NDZXNBbi1ILURQaW9IYUhIV00?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T17:19:00+00:00",
-      "summary": "OpenAI Says Its AI Models Improved AMD's Flagship GPU Design By Up To 14%  Forbes",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Aces & Races: OpenAI adds F1 element to growing racing program with Vegas deal - Sports Business Journal",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkh5aHV6b3pwNlRuRXZvLXVSOGtOSzA2Q1Z0Uzc3VWVfdHpKbW1NTHRTT0FrVDMyMkJYRlhVTm92aUdva2tLU1MxZ0NfdmRrbjAwMF9RYUdFN040WDYxQjRhNFRuSGNKTXNxZUlzcHdQX094ODlJQ1NqckxKM0JramtJNlNWUkVVb1U0Vm9hSWs4aHQxQ1BLcGVBT1ZkblFVTTEyQlVHMVQyc0Y5dWNhRmJlakpLWTRfX2N4TkszbmFRTnZadkd1R0JMVW5VdXc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T17:03:47+00:00",
-      "summary": "Aces & Races: OpenAI adds F1 element to growing racing program with Vegas deal  Sports Business Journal",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI lost control of autonomous AI agents responsible for cyberattack: lawsuit - Christian Post",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaWgxbTNaT0tvZjV1Q25qb3RrbDFYNVBKMXlyZTZ4UmJUYmxGS25SZnpzZnA2cDZtTnVobjRjdkVuaTA0ZWNHME1pTlBiWDlLQnlHOGlyUURJX0RhQlkzeVVyUG9GQkM5am9mWWdkWE9YQ0RQWVF0QlhLam9RS2dITDVLT2tYclZWUGthTnRWWE9jdjNJ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T16:55:00+00:00",
-      "summary": "OpenAI lost control of autonomous AI agents responsible for cyberattack: lawsuit  Christian Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI starts testing Dots agents on ChatGPT Plus for $20 a month - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRy1sa3ljU3VvRlp6MUVnYnJXSkZ1TEdKbU9IQU5NM1dVeHFnMXQ5R3d6ZFJLRXk0Vm04cUtvdzRqeFpvV1JNV1JWTWMxUGR0aTJaRXB3YU1ZOThTYUt5Z0NlQWhDWmlrTkpCM1hCQUNTNFlPSzA4WmNGRGdUTTdWXzRCRy03bDJJZGhFRzd2WmwtSG1NeWhr?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T16:24:42+00:00",
-      "summary": "OpenAI starts testing Dots agents on ChatGPT Plus for $20 a month  Startup Fortune",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Brings GPT-Live-1.1 to API With Cheaper Standby - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObXpWR3VmRE1wUDRHV3c0dXdLRkwxRjRkLWNKZU1SMHhMWXAxN3RsYmRaOEw0YXZEdC1ZZFc2dUU2M0s2djhITkxKeUxrTFBXMHhtTHBwR3hQMThMbjk3TTk4VjNjYmg1NjRaQ3RNYnc5bTRBdk44aS1VYkYxVHBuUHNjTC1UOXlIY1o3Y3BjVFlSQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-20T16:00:08+00:00",
-      "summary": "OpenAI Brings GPT-Live-1.1 to API With Cheaper Standby  The Defiant",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
