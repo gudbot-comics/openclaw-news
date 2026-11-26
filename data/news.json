@@ -1,10 +1,154 @@
 {
-  "generatedAt": "2026-11-25T22:40:20.189267+00:00",
+  "generatedAt": "2026-11-26T04:28:27.830707+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "GPT-6.2 Officially Takes Over: OpenAI Announces Full Phase-Out of GPT-5.6 - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DdWVKZ0w0VWNzX3AzenFzY1VkaVltYVpUVUdYRWo1a3pTdlB3RnpoOU5HcVJtSmlqSWNaSllRd2RmdTM2b1BRUm1CUDNPZVpJZWZN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T04:23:42+00:00",
+      "summary": "GPT-6.2 Officially Takes Over: OpenAI Announces Full Phase-Out of GPT-5.6  eu.36kr.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Isn’t Planning Prompt-Level Reports For ChatGPT Ads - Search Engine Journal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXhHRl9zenRjWXdfd0JLbWo1NTd6ZEVEcEE2dUhhR1dTOVJXamxDLU41a1dqWWNhNlc5bmlCWV9RSnlFSXpYVERtVC14ZlVBNDlRRDU5cFBIUDhOSi0zOGl3YjNZZ1VsZjFLOWMyVVdhN2RWMEl6bXNKMXNyMXFDMkVfWWRpN014SmhTYlQ0M0IwTWZ4VFNtSkdudGdqZWVhZHBF?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T04:15:54+00:00",
+      "summary": "OpenAI Isn’t Planning Prompt-Level Reports For ChatGPT Ads  Search Engine Journal",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Cisco Launch Shirudo: New AI Security Tool Blocks Linux Exploits Without System Downtime - Convergence Now",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRE1KcHA4MHJHMFliLW9lVVBsbk84cVEzR3BZVVlCUldrSHNlWnpkWHhsYTJqLWhmZDU0TGNvMVRLdjBySGdwN1JHWVYyOGZ3YXF4XzdHODBOZGttZ3FkVHhtOW0wcU1acjhFWDltMWxGcmF3VHhlOUNkSlRjWnhWZktvNHRmeV9YbXRFRVBxVjUtcERNOElheEd6N3B0UDRDSkpGNlZQWW9qV09YM0pPT052UkNQMllGWngwVUxIdENlRjFYbW1LRkoyZ3R0SWJQVG45Q2pFNkdXQVBoQ2tmTUFROS1aQS1zWi1n?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T04:04:18+00:00",
+      "summary": "OpenAI and Cisco Launch Shirudo: New AI Security Tool Blocks Linux Exploits Without System Downtime  Convergence Now",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Austin Booth 208 \"Ghost Incident\" Uncovered: OpenAI Disbands In-House Robotics Team — Is the Entire Robotics Industry on the Verge of a Sea Change? - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxQWZwd1BycEVlQ0dwM3FxQ2t6RDFXemZjQTU0WFM1MDVOS2NVMUNmQ0haaWQ4MV95THFFSGlBaHJuZXVXNnlDamcwblFldGpfdFNN?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T03:54:40+00:00",
+      "summary": "Austin Booth 208 \"Ghost Incident\" Uncovered: OpenAI Disbands In-House Robotics Team — Is the Entire Robotics Industry on the Verge of a Sea Change?  eu.36kr.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Insuring SoftBank's Debt Costs the Most Since 2022 as OpenAI Doubts Grow - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1RUczZhSm5xeEtGUHgwRkxRanN5Wk9nMnAzRkg5MDlVaEFwWDRXT3g1ZDh4LXFZXzdNSWVzVE1UcUhPbER3dzF4NE1LZW9Rd1VXRV94cjNybjAxdjJTa1lualBIbDZMeDR0MWNaUmNQd2FkSGhhaW1GSjVtNDRJNVVna195bEZVQzFFcDNSNFhja3BBTmZfcDVBWWpXclNj?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T03:48:42+00:00",
+      "summary": "Insuring SoftBank's Debt Costs the Most Since 2022 as OpenAI Doubts Grow  Startup Fortune",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says Most Users Won’t Hit Limits Faster After Merger of Chat and Work - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQVlsbjEzZk9PRVZCMDFOVDZlNXA2VFg3Y0ZOcE5TOVd2OFZ3QnFSS29weW43QXV1UlRhUFdLTnd2bVJNUXdLRmRvQ19JbG03c1RESjc3cUJ3SV8tWEF2Y2pRaGJpVTB5Rm94aVpiY0g2MndfbFQ2SU9kZnJaNkxzWUxCTFQ3ZHNsbFV5c3hDMXFETFkyUThaelE1el84SHcwTVg5MzYyTWgzeFdYT0ZrdFNYTTBEQzZPUnNsQ3lidzZtT1Q3Qno2Y296UVRsdw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T03:36:26+00:00",
+      "summary": "OpenAI Says Most Users Won’t Hit Limits Faster After Merger of Chat and Work  PYMNTS.com",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Quietly Expands Confidential Computing Resources as Private Inference Moves From Small-Scale Testing Toward Scale - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45dzlLaklwY2V0Nm1sU0tSa2RUeHpkaUhRcU9xZHktY0loT01XQ2ZXNlo4RWtaSU9fel9jN05SU0FBN2VDalFKWFFNOVd6aFBCWjVCZnhSX2l4UFJ4ZEdXckdyMGpPclRaOGhJbEtQS2ZzNGxKRmc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T03:35:00+00:00",
+      "summary": "OpenAI Quietly Expands Confidential Computing Resources as Private Inference Moves From Small-Scale Testing Toward Scale  BigGo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Codex, Astra Flag Exoplanet Candidates; SETI Astronomer Matches Two Signals, None Confirmed - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUzBRQ2YzSlRaVjNEdVozblY0V3IxQWNvdjQ1ZzFVczV4MnExcTRTQUZ6LUVGNmJqNDdtdkkwcmxXTk5FZG0wejZFanlXWUdPcmdVb0ZXYlBCOEpSZ0F6UUJIamM1bkZUdW9LNTl4dzBuelJIcHYzVzhzZTREdWxkUXZHUlNLV3pHSlNZU2ZKbnZRR2ZWWVQ1NXFwMWdmX0hobUl5OVJXMEktWVhBUDVhVGQwYngxc2lxN1RWbWdyNGQ0Q2NmaG9JcjR6SHh6YWZWTm9TaE85c1Z1Rjg2OU4zWVZpMXQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T03:06:47+00:00",
+      "summary": "OpenAI Codex, Astra Flag Exoplanet Candidates; SETI Astronomer Matches Two Signals, None Confirmed  Tech Times",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Anthropic and OpenAI proofs fuel speculation about AI’s threat to encryption - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JQkxBckd0SldFTGFBemI5UVI1Z3ItTGx2NEU5cXdHNmZEczd4NTVrWGkzWjlzclh3V3lYTUo3MkVaQ3A0U2JiMmRBMEdTbkl3VE9RMlFNX3Z6U3piU05odWlLaG5TY0N6Skw4RGx3?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T02:47:17+00:00",
+      "summary": "Anthropic and OpenAI proofs fuel speculation about AI’s threat to encryption  Crypto Briefing",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says Amended FSU Shooting Claims Still Fail - Law360",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS3VKU29oWnlJaHh0RS1oTUZwVHh5bGUtTDQ0cEFKV3NvbTk4elRzSEJvc09sYmFaUlhtb24xWmdsS2JBeFJLZF8zZGJneDJuYVlxVEp2ZjRtaHpIYWZjVUF4SlZKalhjTFFtQTBka29uMjVUa3dTR2RlQzhYY1NjUUp0R2p0MzRmV2p2MFBjclB5d1M10gFWQVVfeXFMUHA4LU5oNlBWcWNDVS1WRjl5RmVQOFFtblhyUko0RWhSdkxqdWJ4SGR2UTR6YlRkdnNoSTU4ZHF2RFpYTFFlTkIxMm5Ba1k1WmNQMlVvWUE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T02:16:56+00:00",
+      "summary": "OpenAI Says Amended FSU Shooting Claims Still Fail  Law360",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI’s MedChemBench tests GPT models on drug research decisions | ETIH EdTech News - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHd3N1hoSXExQkhfZ3Rhel9DVFFfMHRBZEVtQXJSd1pLRXBibVFfUVJ4YlVIYlczblJZZ2lyc1NPZjZvZFUxNERxSEY4VEdEZjZXYTh0bDlxaDhGNnR6QlJkQlEtUzFIU1JDOUFOSVdXZV9XSjVzcHlfaFNlc1RscVNkaFR4R1dVWks3NEs2QjExZW5JVV9icUZXellrSzh1ZXZTSlN5amppZEJkVHlDekpZR2ZzdjBldUl3OG5PMEw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T01:04:32+00:00",
+      "summary": "OpenAI’s MedChemBench tests GPT models on drug research decisions | ETIH EdTech News  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Musk's Antitrust Suit Against Apple and OpenAI Set for Texas Jury Trial in March - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91WHZmTERLLXFDaE04RHEyRjFPcmVxckpROS1iU2ZUelk5RVlydmlOU3hiZEpxWnBvcGx1UjhTTEUtMTRTMkVoOENEck1zV2R1b1VRemNOTnl1QzF0TjNjX3pUd2NzSTNDUnFXN25ENVV2Sm9vWXc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-25T23:56:00+00:00",
+      "summary": "Musk's Antitrust Suit Against Apple and OpenAI Set for Texas Jury Trial in March  BigGo Finance",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI AI development limits: what perplexity measures - NeoTeo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHQzSFVEWWMzRlNZOGl0UE5SdEVaNTZPOTcyODEwYk5QdEcwamU4SENMYm1rQ3M4VW9GZ1pxRmRleElDUmtucWNNMmlkWFBwcmozTXVHQ2MxMlY2NW91aHZxMl8ybGRUNkcwdS1yejZMdHpRRktseHIyUlpnbk5ubVA2QVVESi1DTEE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-25T23:52:11+00:00",
+      "summary": "OpenAI AI development limits: what perplexity measures  NeoTeo",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI reports lab binding for GPT-6.2 protein designs, but calls it a proof of concept - Digg",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1BNXhuckdPWTc2QkRTNS1FNkh2N2NuekJDN1o3SW40ZnBnaUxKZ1dpdFpJS1drMXhqYk5SdzNfOE9TSGNJ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-25T23:27:22+00:00",
+      "summary": "OpenAI reports lab binding for GPT-6.2 protein designs, but calls it a proof of concept  Digg",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’ - The Mendocino Voice",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNakFRX2RMODUtUndpMTBBSU1pQ2hCUjNjdTdmMnBad3RWRHQzTzdaOUhuOXhXelVOWTRyOGxLZ205eGdZLWJJME5za0FReXFfUUg1N19hOHBtM3pQRHk0RkdhZy1CZkcxN2NsNjFMaWU2c2NXRllYOFBsSmEzTE9UUnhiVlVXT0ttNFhDYi02aGdTX2h6dmdVcVNGd1pZdERqTFZpTTI4Y3ZEZw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-25T23:00:00+00:00",
+      "summary": "UC gives students free access to ChatGPT. Faculty say OpenAI deal is ‘unwise’  The Mendocino Voice",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Tests Private Inference With Select Customers - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnRmTUp6aXJfTGw0bE5YMkxadVJJU3p4UmFCUk1Ia1B6Y3U1Q0pscUFsS2h4WHhkU2c1NGQ5T0lULThRUElNempmcGpKazFoUmRvREZsajFUS0dzMzV2dE9NNkdwVE55bGpmNXdSVDkwXzRCai12WUdxR2FveHhOQjgyczEyU05lQU8xNVNGWQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-25T22:45:58+00:00",
+      "summary": "OpenAI Tests Private Inference With Select Customers  The Defiant",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Facing Legal Pressure And Industry Alarm, OpenAI And Meta Push For AI Development Guardrails As Anthropic (NYSE: ANT) IPO Fuels Market Frenzy - Foreign Policy Journal",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQU21NWHRSNGE5T0dHSVdYLUU5QlFHWHdsb2drdDZ1RUdhZ2VSeWhWanN0ZTZORzFvVW1vYWxhejNxTTQtcVFNcFVMWTBic0pJN29DSnk2SnNFWU9lYnhFcGx2bVZWNjVPUkJoZXNyeHF4ZmoyOF92enowMW5SVEM3RWNCRUIxemhUaG1qWU9Fb3ZBQk5yV0wzLUFpaTZPa1pCSE53bjdZaEhWREgtMkhtc0xnTjNIVU1WTFozREZRSXNCaGUzcmRwZHpjV3NtM01jZ2VyQmo3ODJLSF9uM1lZZmpJTnJoS29wZkQzOWd6XzdHYmlPQjk1dmJmNEM3V3dCX1pRMzNJNC1YWklwYmJvTXpfd0c?oc=5",
@@ -33,20 +177,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI company employees warn internal models are too powerful to safely release: report - National News Desk",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRXlkX2h6OVhzcTdwbFNERk16Vm9Dd0NqVHBVVlpwWkVlUEhGeGlIcmVKcWNfZTdCT1czckhrdVpxWk1UTWxCSWU0b3p2R1ZiRHFBUTJZTGxMZlpPeDFsSWZKaTh0aXR1TTEzQ0VkNTRHVy1CMU1KdUQybThrQlp6T0xmVUI4clAyQmo3WkFjaVByT3Y2TmsxS3BhQXZjQzAwVk1hQXVmaUI2U3BxZ2dONGFPTkxZZ0V2aWJxcGFKVVhNbzdPNzZyU2xlekVUWEdCX3hheUY2RFM4OXlFSUt5MkpHVXZIYTRTUWxR?oc=5",
+      "title": "AI company employees warn internal models are too powerful to safely release: report - KOKH",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWEpZclJtbzFwYnhHeXUzRGwybVhBSk44R2QzTzdvV3hCakxoZ05pZmlUMWhsWm9ZbXpOdGFhT19xZFlGeUg4WGlFc2xPaDhuMThCQTRYajBOSkJWbFk5cEtJbHJ3em0xd1FKY2lKSXBBM09BM1V5Z2N4SlEtT0Q1emQxbzdVMDFZb2NoNjZsN0M3TW9RTUQxejE4UU85ZTVXUXdWV3FDOFBPS1Y2bl9RRVNNUGNmdlR2aEU3MU01TXdVYmZ0cWMtcWNEVGVxZE5KLVBvSDkyYlo?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-25T20:58:02+00:00",
-      "summary": "AI company employees warn internal models are too powerful to safely release: report  National News Desk",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUFkMUczVmJmZVhxanYxckpwM0JJVlJiMGVXUU5uc0hKcmZ3MC10eDlucGNZZHNtZVpvdDdTbGJJYVZLM2V2N08tbFVBZ21lMmJ1Mk9qaENmcDc3U3U2OGs3YWh6ZWI4eEFWa3JLX3FaYXRPZXcxQW5Uc3RGWUk0REJB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T20:13:47+00:00",
-      "summary": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work  Mezha.net",
+      "publishedAt": "2026-11-25T21:01:37+00:00",
+      "summary": "AI company employees warn internal models are too powerful to safely release: report  KOKH",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -72,35 +207,8 @@
       "title": "OpenAI adds over 2,000 internet addresses ChatGPT uses to visit websites - PPC Land",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaVJQN3diMDg2R2NPRzRMMEtCUjBlNXpzeWx4R1VxcmE5UmtQczlaRm9uai1JNmg1czVxck4wbjZaS1V1dXRkalFyRUFaUGgya0JUN3Y3clhaN0ZWS2dBUG40Z2tDRlZhYzg1X01XWk5kWmpoYnhmbjRlSGZtYlk0UGplXzY5RHFGa0RjdUJDbG1GYksz?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-25T19:46:47+00:00",
+      "publishedAt": "2026-11-25T19:50:45+00:00",
       "summary": "OpenAI adds over 2,000 internet addresses ChatGPT uses to visit websites  PPC Land",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI is testing a way to shield business prompts while its models run - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wRXhqeU5pS1lCLVUtdmpCanpUek0tZ3doTmVxeFFzSm9adTVzVkpsZlp1QjNQRExYcnNmcE9pNmZRY0hVaWljbTd4WWRxdnhITDZ2Q3VYeDUzSmtHeU5rd2xEZXNjdmRQTWdIN1c1eDJMc2N4b0RTdDlB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T19:29:38+00:00",
-      "summary": "OpenAI is testing a way to shield business prompts while its models run  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "A historian says AI found the author of a 200-year-old anonymous sketchbook in just 22 minutes - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT3ZJcnJrYzluWEpfd1NUWVI3Z25lWlNJU0c4S0JJNXBGeTBVQlcwNDFDaTliRVV6blZSSEFIYUd3MlBoX3dpT3BzSDdfSEg1MzIyTzZUdXNpd1p6cGxteTl5UzFiUXk4V19qQ3JkbWl6Y0NyOXM0cTZzTkJwVTVmeHEtdmJheWM?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T19:27:00+00:00",
-      "summary": "A historian says AI found the author of a 200-year-old anonymous sketchbook in just 22 minutes  Business Insider",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Oracle Says OpenAI Infrastructure Contract Is Fully Funded - ERP Today",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWm5RVDFPMXpkcVNoNnpOa09QTHF1aExlQzhqZERfUk03d0Rab3Z4TFJ4di1QVG9oOTJLTFNydHZ1dUVfc1lVS0g4SENpWUFQeHZuVkk2NGF0NkE1X3ZWa0JzdUVrY3hQSkE4N3QxSzU5LTJPWEVRc3JjS2o3ZDFNUVJWZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T19:11:37+00:00",
-      "summary": "Oracle Says OpenAI Infrastructure Contract Is Fully Funded  ERP Today",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -108,116 +216,8 @@
       "title": "OpenAI Claims Exact Square Matrix Multiplication Exponent - The Defiant",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFY1OERtNWhzWGkxeVVHRTdfZl9fX0lBZkJ0WnhPbzk4WDJ4YUpkMmpXV1ZWcnBxTGJGVk91aENYSThXZVRuSmJMYXV6Z3A0VUowVUVzeEF5NFhLbjROS1oycnhjbVdpNEU5dXdTWmJGY0RnaHZDNVNlZnRJdXZfRHZ4VkVDbnV3OXlEXzVkZHYzemRaN1E?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-25T18:49:15+00:00",
+      "publishedAt": "2026-11-25T19:45:56+00:00",
       "summary": "OpenAI Claims Exact Square Matrix Multiplication Exponent  The Defiant",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Fireside Chat: Jacob Gaudoin of OpenAI and Casper Laursen of Pandektes - Superpower Daily",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ1BHeVhtMnItSm1OSVotX1hoWVFIQ0tFWWdPclFaYWRnVzRnYldNRXlEVkx6WlpnazQ3QXQ4ZmtacHZodjdGX2pXdE81SmMweGVobWtJQXNNR2d3XzR5V3E3dWpfYkpKVjhTTmtSb08tVFhFUUV0LXNkUXVDcnFsZHJyR2htTDNlLS1OLUV5YVdQWE5YeUtSSy1heVRvUGZVSW83Y3h4azhKenB4eV9iWmgyTGxtNnZETVpLWVNwbHRlNGVIc20tcHdHVWJwb3ZWa1doVHhzTUg?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T18:48:11+00:00",
-      "summary": "Fireside Chat: Jacob Gaudoin of OpenAI and Casper Laursen of Pandektes  Superpower Daily",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Begins Limited Customer Trials of Alpha Private Inference - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFU4QWJGOFB1b3RjaU9iSklpcUhheHZLaXdKRkFfbTFVRXU2ZUFWeHd3aWdMMjVvNFBLaVlyOU1FRF9KYWphYjR1dURSNGF1aF96TG9HZU96aTNfQTNpcVh2U25CdW0yV2RqaEhRMFlRRFNHd1dZUDlQVXd4emYwRW4ySXVJMktjTkZ4TEdBZw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T18:47:08+00:00",
-      "summary": "OpenAI Begins Limited Customer Trials of Alpha Private Inference  Unite.AI",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI to Start Charging for ChatGPT-Built Site Hosting in 2027, With Credit Caps for Plus, Pro and Business - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02RVNHNElPR21HU1NXNjU3UjJQdmg5RWNkcHBHN1NNam5tb3UzTENmc1FGMmh3LWhSckhwYnJlMEhBU1NnMk1GelhzZlRYT3FrN3Fpb050M2xHbG5BWHAzSFU4bmJyM1J2T3g0MHVmRk5xdXFaSGc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T18:25:00+00:00",
-      "summary": "OpenAI to Start Charging for ChatGPT-Built Site Hosting in 2027, With Credit Caps for Plus, Pro and Business  BigGo Finance",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI claims to have solved a 57-year-old math problem at the heart of AI computation - The New Stack",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ndTNOTkpnUWNFdndMc2ZEMUdKM0hsc3NVTGtwUU5BVVJYVGxwZ29TUDZENkU3OEdpSzhxNGhWaDVCbjlBU3VOX09idUk3WDFYaWN2VmtHZWdRYzRJTGl3RURqb3owdlZwTE1NMTZB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T18:14:16+00:00",
-      "summary": "OpenAI claims to have solved a 57-year-old math problem at the heart of AI computation  The New Stack",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2g1bERMSlZJUWZRQ0hCcURVVUJnUXRxZWlGNDVORlE0Yko1RkNXZE10VW1EUnpsQUxUOXl0Ulg0bjlzUXRNcGpleDdDWXJoVEJuUld2ZHRrb3prOWdQMnI4ZUVPZ1JyeGprUG5nNmFxMENkckE5amRqbkxkZ1Rid2VfUmrSAYoBQVVfeXFMT0pGcEgwaDgwQU9OVUh3R0QyWGNTVXVIVVJkbEY5Yi1qMG1vS3d2b1dva3pJRzE2YUdpUEVsa3Naalc0ZXJfTmpxZTNEZnRyVFk1V0dPeW9MSHNJdEJhUjhnV3IyVWZQVWdXQlo2aUU5Q21VQTB4T0R3RDJ4c2RKQVVXbGc2cGVacjRB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T18:14:03+00:00",
-      "summary": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release  CNBC",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Saudi ex-OpenAI engineer granted bail in alleged spying case - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2FKal9NYzJvLU94THd6a3NvdWZTVElLNk0zR1NzVWZBY0VDWkRyZnB4clk3djJyMkh5ZlhrTHF5V29KWTZSQWtDZ0t3STJQaU5MdDc1ZGk5ei1MZWRrX2FBNGVaeGlnbDV3OXBMbHlmVEFWb3Y2VDN4a3dzQWtWeHVmS1NMUQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T18:08:20+00:00",
-      "summary": "Saudi ex-OpenAI engineer granted bail in alleged spying case  The Jerusalem Post",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUVjSFlhZEFrRnFzd3pybUdZbVJjc2h3N2NfcnJzVXUxb2JQcG1SSnNCNDV3UTVKd3lIY2NicHpleXFTUWxzQzFGSVMwX0Y5RHpTMmNveU96MTZKeXpBdURXaVNtMjVjaHlHU0hzdmhSNU5vaV90RGdLTU5Yc3hkN0Jtbw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T17:46:02+00:00",
-      "summary": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Altman: OpenAI testing Private Inference - Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaWc4dnIxb2IyWjFRbHhVdlNybUVIc1Z4N1IyTEt5WjZjSElGZmZiMmFReXc3WVY0TzByQU5FdjNMajloejAtTVRGdHo5bXh6RnJJclZDX1JYQWRXUG9ZckhZcDZVOUJvRll5VEFuOXNfOXd5SGgxck5FZ3RVY1huaU1hWTAyRnFsNks0cjV3?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T17:46:00+00:00",
-      "summary": "Altman: OpenAI testing Private Inference  Breakingthenews.net",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa2dSeXNFWEZ4S21jNHZlODVnWmxjOTNrS2hyTURRbVFNUnZDTExHYmNBQ21IYmxQZkNFcXp1YVNuVXViVWJqMllhZ3lKbjFoX2VkR1hJTmFJQzhBTmNVS3Q1eExGcXlxR2xzWGRCNk90bkd0N3hmZmtUUjJQV1dXUWc0Zm5lLWE3MUw4MDN6THpFSkY2UkJfVmEzZjlLRE5PeF9tVTluMzhSTGdvb0NFdUozRXdZQXRVTUxzYnRUSkgtNzl4?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T17:44:25+00:00",
-      "summary": "SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer  TradingView",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "California sues OpenAI over alleged unsafe AI development practices - Jurist.org",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXo5cjRBWUk3TnJ2QS1JTWU5MGVocmRzV2FrNzRQbFNTdkFNdlAtQTRsTHFoRlJlZTFQRzc4Q2lfY3BqbHl4cTk2akZuSXVkY2xFUS1DWUI1M2ZUWnBSOXJaS1VSODJ0QXNRbDVJUE5sbGQ2dHh1QXFhSW5OcHFtODR4MUlFZ19KWlRGSTl3c0syYUFVc2FYWmlIbGVVeU10bE5DSWpjMA?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T17:30:20+00:00",
-      "summary": "California sues OpenAI over alleged unsafe AI development practices  Jurist.org",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Prediction markets push OpenAI IPO expectations to 2027 - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoNm9MVW5YZE41YUFYUUhIdzJnaWwxZVpSV1BTMlNfSlloQk81UXl6WmNTV3BhdEdTTHd5TWRSckpHS1FHSWJHdFpRTW9TZWxzV0x3TVNkdzJjR2R6bTMzWThTZkxBQUdFQnUwTVVJQQ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T17:25:13+00:00",
-      "summary": "Prediction markets push OpenAI IPO expectations to 2027  Crypto Briefing",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI tests Private Inference with select customers - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82OWIxcWVVbEpfMjhrZG14VXZjdEhiZF9uNXFrMGhaUlg2bVdqeXJIWE1xOW14SHo3YlVrV1FSM04tcnVrcEVEcEFTTjNBZEdhNy1IZV9xVnNITnhoemZsbnRoYVNIa1BPSTltVmZOSnl6UFpIMHpZ?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-25T17:17:41+00:00",
-      "summary": "OpenAI tests Private Inference with select customers  Crypto Briefing",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
