@@ -1,10 +1,64 @@
 {
-  "generatedAt": "2026-11-26T23:01:22.680978+00:00",
+  "generatedAt": "2026-11-27T04:56:40.261906+00:00",
   "topics": [
     "openai",
     "openclaw"
   ],
   "items": [
+    {
+      "title": "Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUdJQnh3YWdwSlhUalhNT3RVdVJmamprVFRUdFVKQXFxSEpjU0JVNEYtSDFNQXREcUVsRE4xUWVOQ2h1RFhXaWVOdlU0amtCa1k0MkVmZXdmajlpdFBjWElKZjRqLVlucF94NWVHV0NkSmRrWFYtcjlLVFFNZHpQc3lGWUdydUVXT0JBWl9MRFNGR0Fnd2h0d2hiSWwyUkRRbEVLVWd4VHFDMFk?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-27T04:09:27+00:00",
+      "summary": "Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond  WSJ",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Says Its $1.2 Million Audit Found 948 Linux Flaws - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWI1aFFyTFJCZnhiVGlmMW9lVWpBR3NwSjRZN1BOUUdrT2ZqaEM2N3RIRmtLM1pVNV9JcWpYb2dGZnVoVjR0YWtHZUNJNDJOZGdPM0RLUzRHbzl2NlVDeXZRak42Y2Facm9yVnJkLU5vc3Bhb2VVLU5HdFBYS242UENsX0duRktjaS14VUs0OXFvRlE?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-27T03:02:39+00:00",
+      "summary": "OpenAI Says Its $1.2 Million Audit Found 948 Linux Flaws  The Defiant",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI chief scientist proposes shared limits on frontier AI development - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkZOVGpNbTJJRlpCYTA4eHFzQXo5NHJ2RTdnRk5Hc3dzV29pX2ZSV1BLN2kxbGNfY2xnbjZvcUVDVVVCd05UUEx0U0JJeUh6bzFMMmI4dGhCNlFxQlQweF9Pazgyd2dPLTNYYlV3XzNOWU16YmdJRnpEamhzdlQ2S0d1WW0tUF9UZWxkeWl0VzVabVRKbzk1Zms0anVxLXZxcmdETy1UTHNZXzNTZEdpUTdjVQ?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-27T00:33:45+00:00",
+      "summary": "OpenAI chief scientist proposes shared limits on frontier AI development  EdTech Innovation Hub",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "A Stanford physicist drops an AI-assisted theory that has scientists at odds - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakRON240eHBoQ2hUUjc3S1M2V2tZZmJDeEFlYjVQcWFaQVIyWktSM090UTRLY1pMMGNseEVwVF9pUldCSTVWaWFLUm9BOGROM1YycGpldG91SGNYVElOa1ctd3NuX0JEbGM4aUJCY3huREdrNFBXM0liQ1RIVmFyQzZoaGV6OW1TZXNsbkRLQkp1d01lZmMwUlQ3VXZmZHcwMTFjRWtEbw?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T23:50:00+00:00",
+      "summary": "A Stanford physicist drops an AI-assisted theory that has scientists at odds  Business Insider",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI and Anthropic Design Proteins for Drug Development - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEZHbFFhMWYyczBSbUxpdnB4TmxOY1Y0eHQ0M3I0Y3pQb0t4cm00Tmw0dHFWbjVRQl9Cb2Z1MFRpUnl3SWFBa0wwVHBYdEg2em15M3NHeWp4QTJEel9vRTNnbUZrR0JFT0hHVVd2am9Wek9MNWhwS0tmemZELVhEbXh1VE5GbVRY?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T23:09:47+00:00",
+      "summary": "OpenAI and Anthropic Design Proteins for Drug Development  조선일보",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "Did OpenAI and Anthropic Just Break Encryption? What It Could Mean for Bitcoin - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVp5blFWbzY1VFIwVW9OdFNqcU91TUp1QmFtT1VJcDlnYmZsNWhpX3NicG03MGZyWW1yeUFzRzZZYmJtS3NpRFJHdUU4MGtFNXRzRmhSRno5R1ZCS2NiZFk5d2M2UUVuWExTTHAyUFhId0NLU0pweVRndWtqOWZoNA?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T23:04:34+00:00",
+      "summary": "Did OpenAI and Anthropic Just Break Encryption? What It Could Mean for Bitcoin  BeInCrypto",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
     {
       "title": "Cohesity to use OpenAI models to scan for exploits - Technology Decisions",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUXBUamFDTl9wUm8yWGF0SXRrOU9QcUw1WmFoYWNjTWZqb2F5ZDRmMmtyZTRucU56NUNaTzk2Z3g2UlRka3VMdDZnYndFUVRjVDFoeVNfNXV3SXZXRjZRUnhQM3ZKYnV2WGhOMllaVHNFNWpJQmRVeEZhVE5kZWFaWEpQa09aRDFGMnlWajNCRTczRDBNNlh4Q0ViWlNqSTg2RUo5VU81QzhQeE5YR2JNaHNXaW4yWXJjRFhDSDRmdw?oc=5",
@@ -15,11 +69,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "AI Shopping Bots Get a Shot at Proving $1 Trillion Hype This Holiday Season - Bloomberg",
+      "title": "AI Shopping Bots Get a Shot at Proving $1 Trillion Hype This Holiday Season - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa1RWUDNfdFhiM242MUZmNTlSajdYeEllVVU0YzFkdmptd1phTjVzYWNBeXduX05iSUNjSVgwUkJwajFETlYteDMtamYxb1liMTJQWFlSbFkxLW9SQXFZWFRNZHhWQlRUNkxEblY2dVF1ZHlnTmhtRHhzOF8wTVJJbV94VVFXZzZ4ZmthNGJPU2pNdFQ2V1JlVjVhNWpYNVlUSnNYM1BvMkhLZTdtdXo5bDBSNzJwTkxEQzNJ?oc=5",
       "source": "news.google.com",
       "publishedAt": "2026-11-26T22:00:04+00:00",
-      "summary": "AI Shopping Bots Get a Shot at Proving $1 Trillion Hype This Holiday Season  Bloomberg",
+      "summary": "AI Shopping Bots Get a Shot at Proving $1 Trillion Hype This Holiday Season  Bloomberg.com",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -47,6 +101,15 @@
       "source": "news.google.com",
       "publishedAt": "2026-11-26T21:06:22+00:00",
       "summary": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug  BleepingComputer",
+      "topic": "openai",
+      "topicLabel": "OpenAI"
+    },
+    {
+      "title": "OpenAI Wants to Protect Prompts While AI Runs - Channel Insider",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOREpaNDZ4YXFsRXJ3QUsydWhpbnRjcTMzNnUxWUtiWnd5a3ZwamJxaUxvRHR3X0hlWDRkTEJ3SnlySElCdGw5MFNsM0RrTW43aGFuVEJZc2NBMFU2OGpCUEp1WW1WRlZjNW5tWjFsc0gyMGMtUFR2clY1VlgxUnNGUFZkaXdaaTJCeHc?oc=5",
+      "source": "news.google.com",
+      "publishedAt": "2026-11-26T20:40:52+00:00",
+      "summary": "OpenAI Wants to Protect Prompts While AI Runs  Channel Insider",
       "topic": "openai",
       "topicLabel": "OpenAI"
     },
@@ -150,74 +213,11 @@
       "topicLabel": "OpenAI"
     },
     {
-      "title": "CPI | OpenAI Names Cravath Partner to Lead Defense in Musk Antitrust Trial - PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGl2eFBQcUJaQ1F6Q0RpSDJfU2VmMDA2X3BYTzRKV2l3VHh3RnI2SFhvTkdjZk1iWkZfeU9nVGN5SXpWY3VvV2tnMEs0VjJLbGJhRFQyWXN1MXltd1d3YURYYzZlaWp1amItblRZc0tlN2NOY0E4N3UxUFZfR05xb1NCUkFhWTBlaUd4OGc3aDJYdGhCUjhFT3BFeWpSQ2FNS2RTTA?oc=5",
+      "title": "OpenAI Integrates Chat and Work in ChatGPT Amid Concerns Over Usage Limits - entARABI",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOElDS25EWVZHT0I4V25lVEd4Q1Y2TDlNRElyQ0NBVEM4dmUwdjhYY2IxUTc0NEpFX2tfTmZ5RVZQV2ExcGlwQkpRM2ZFMjRYY1VtYzA2emtVV0w2cUtDSVJnT2EzZ0laMG5WbnBveGhEcE1nU2lwd1pjaFJMQ0VON3VIeTNlM1RpcjVLMHV1OXMwMnB0b3h3ZXoybHRQZGM2SmZIM2s1c2dRNW8?oc=5",
       "source": "news.google.com",
-      "publishedAt": "2026-11-26T16:31:02+00:00",
-      "summary": "CPI | OpenAI Names Cravath Partner to Lead Defense in Musk Antitrust Trial  PYMNTS.com",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "UC gives students free access to ChatGPT, but faculty say OpenAI deal is ‘unwise’ - Orange County Register",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmF3WHhRTTdWX2ZidnpQTktQaEhCUWFVT01rdmFFZkRqZEt3SVBWcGdZU2p1amVCa3ZIWVd4cGVrcmlxQ01Kb09ocUxIWkpsNzZSdUk1bGxUTkVuR2lHZFZIeGc1clp5OV9Cb2Rxb2NITnlkUnJaN2NlY213aTk3N0pvRV9iTVAtTlNubnktWXpEOGpDVkdFdlQzQ3gxRDhWY093RFN2bUt0amNfOWFaQldJVFVlX0gt?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-26T15:15:57+00:00",
-      "summary": "UC gives students free access to ChatGPT, but faculty say OpenAI deal is ‘unwise’  Orange County Register",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI: GPT-6.2 AI Helped Design Proteins That Bound to Targets - WinBuzzer",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMXBhcjlXY3k5R1RwaU43QnVxX3Rpd2kzem5OendHN2h6MFlOaVdwX2tXdFVSd2lYUWh1Sm9WSTBSazAtU0lXZC0xOGFSTS1RcVlqUHlTaS1QSWNsNlpKUkdqbzBnSUtSMmtjWU9SU3FvMFVqelpob2hRZUs5ckw4T19Hbk9hY0owelNhUS1IV1VnSlVQMWVReFpjRjMxa1FBRXc3R0lB?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-26T15:12:34+00:00",
-      "summary": "OpenAI: GPT-6.2 AI Helped Design Proteins That Bound to Targets  WinBuzzer",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbU9nOWs0eWxKRDYyTzlodS10SV9sd2NEUXB0MzBTbzhYeFBPbHZIUGtWenlHc3VaS1BqUkNkd0NVVFN1THhWbTJ0dm1wMVI0N2JuNWM0SkdSN25CenZ5RG4ySVdFNzVRTE5Kc042RXZvVEotekEwQnZGNUJ3alVvX1NQSDNJWl9DOWhIdGtzNjBaaWc?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-26T15:11:14+00:00",
-      "summary": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse  Decrypt",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnRqTHR6bzdIOE9ZSkJXaDNlNDBrcEo3Y1hHMHpqTTladkpxOG4yNzUweHkta0N6Y1NlUXU5UG05djFvWlVxTWhDTkFRRTVyZjJROVhtY0JNQ0FOWmZLQVhnaUN5aTI5WDhlS2k3amNNa0xWS2g2N3ZtTnBCVnhvWlAyeFFXR2t3c2RIa2RqckVSRUIta21B?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-26T15:11:14+00:00",
-      "summary": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse  Yahoo Tech",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "Scott Aaronson Is ‘Virtually Certain’ OpenAI or Anthropic Has Cryptography ‘Bombshells’ - CryptoPotato",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcE9VVVZyempFWEtTSDl0ZjBfZm1aQThWQ0RCX0FBdzlfV2pwNXV4ZV9vSThYUUNlTjVWTDgwUG9DYVE0U09CQ1NpVVZJZzhVcXF0RktNOHFOR2lBUFlvMVBsS052by1DdFdhMTktY21pMjJMaGxqcHQteWt1U0ZPbEFULWdidmhxM3dXVE9XVHhmQmtkM21OTVNwUkVwMzhOSWxhYVBnTkF0LVprTkE?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-26T14:54:00+00:00",
-      "summary": "Scott Aaronson Is ‘Virtually Certain’ OpenAI or Anthropic Has Cryptography ‘Bombshells’  CryptoPotato",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "OpenAI fixes a GPT-6.2 billing mistake, and users hit limits 40% faster - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1c0VJYVZwRW5ZWHV2b3FxNVpxVTlkaHhoWERvWVRqcTlqNlFlVEJXOGZwRmZpSmhBamo1ZWZ1Q0VnS0dJVHJFc1dwajZMWnZHSjRhbDBueFJScXZrMndHSUVabEVfQWVkYVdmSXZfdEhoN21SMGhMYlpfdw?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-26T14:34:47+00:00",
-      "summary": "OpenAI fixes a GPT-6.2 billing mistake, and users hit limits 40% faster  The Next Web",
-      "topic": "openai",
-      "topicLabel": "OpenAI"
-    },
-    {
-      "title": "AI Factoring Rumors: What Scott Aaronson Said - Bitcoin Foundation",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3dCUlpNaXNmZEJ0c04tZjg1eGlTb0ZTTmw5cXlPWGtRYVhFM1lTcWhEZVloWS1CcXhFQ0E3SnFuT2hUdDI1X2R5dlVCQ0taNXRHUHBVLWd3TXNGOElmSnNSNzB6Y2tVdWlnSWZ1REQyaGVsMEFLYTNrZ3g1TzM5eDJ6R3huX1hqTnA3YzdXQnk4cGswSGNUTGdKeUEyN3gxWmxwbjZCYmZBZG02T3c?oc=5",
-      "source": "news.google.com",
-      "publishedAt": "2026-11-26T14:33:52+00:00",
-      "summary": "AI Factoring Rumors: What Scott Aaronson Said  Bitcoin Foundation",
+      "publishedAt": "2026-11-26T17:31:03+00:00",
+      "summary": "OpenAI Integrates Chat and Work in ChatGPT Amid Concerns Over Usage Limits  entARABI",
       "topic": "openai",
       "topicLabel": "OpenAI"
     }
